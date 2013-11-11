@@ -13,5 +13,5 @@ In particolare, gli obiettivi di questo progettino sono:
 
 ##### Risorse Utili #####
 
-Nella [Wiki](./wiki/Home) è possibile trovare tutte le informazioni raccolte fino ad ora.
+Nella [Wiki](https://bitbucket.org/rporrini/ai-1314-ner/wiki/Home) è possibile trovare tutte le informazioni raccolte fino ad ora.
 
