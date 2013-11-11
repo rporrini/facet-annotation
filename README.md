@@ -7,5 +7,5 @@ Analizzare tecniche e tool di Named Entity Recognition che possono essere utiliz
 
 ##### Risorse Utili #####
 
-Nella [Wiki](/wiki/Home) è possibile trovare tutte le informazioni raccolte fino ad ora.
+Nella [Wiki](../wiki/Home) è possibile trovare tutte le informazioni raccolte fino ad ora.
 
