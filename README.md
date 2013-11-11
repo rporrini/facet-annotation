@@ -7,7 +7,7 @@ Analizzare tecniche e tool di *Named Entity Recognition* che possono essere util
 
 In particolare, gli obiettivi di questo progettino sono:
 
-1.	Identificare un insieme (2 o 3) di tool per *Named Entity Recognition* che possono essere utilizzati
+1.	Identificare un insieme (2 o 3) di tool per *Named Entity Recognition* che possono essere utilizzati nell'ambito dell'eCommece
 1.	Dati insiemi di keywords, produrre delle *label* con diversi metodi
 1.	Confrontare i risultati
 
