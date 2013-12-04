@@ -14,6 +14,7 @@ public class Versione2 {
 	 */
 	public static void main(String[] args) throws Exception {
 
+	//aggiunto commento di prova
 		HttpResponse<JsonNode> request = Unirest.post("https://debaetsa-machine-linking.p.mashape.com/annotate")
 				  .header("X-Mashape-Authorization", "xsEnP4ZtUxeT0c7pLkzh211z7VYRvauL")
 				  .field("text", "Hello")
