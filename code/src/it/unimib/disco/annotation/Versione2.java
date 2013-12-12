@@ -125,6 +125,7 @@ public class Versione2 {
 			HttpURLConnection con = null;
 			int responseCode= 0;
 			while (responseCode != 200){
+				Thread.sleep(1000);
 				URL obj = new URL(url);
 				con = (HttpURLConnection) obj.openConnection();
 				con.setRequestMethod("GET");
