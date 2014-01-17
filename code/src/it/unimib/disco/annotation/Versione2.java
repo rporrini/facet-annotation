@@ -35,6 +35,7 @@ public class Versione2 {
 	String credenziali = "app_id=bbff1282&app_key=bfb47741212ddde1d0d56eacc0141512";
 	String lang = "lang=it";
 	static int contRiga = 0;
+	int ccc = 0;
 	public static String pathCartellaGroupsEvaluation = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/group";
 	public static String pathEtichettaturaGR = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/";
 	public static String pathfileGRXML = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/";
