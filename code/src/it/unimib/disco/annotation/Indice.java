@@ -34,7 +34,7 @@ public class Indice {
 		// TODO Auto-generated method stub
 
 	}
-
+//kk
 	public void interrogaIndice(Vector vettURL) throws CorruptIndexException, IOException, ParseException {
 		// TODO Auto-generated method stub
 		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);
