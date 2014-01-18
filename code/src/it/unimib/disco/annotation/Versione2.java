@@ -12,11 +12,11 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Vector;
 
-import org.jdom2.Document;
-import org.jdom2.Element;
-import org.jdom2.JDOMException;
-import org.jdom2.input.SAXBuilder;
-import org.jdom2.output.XMLOutputter;
+//import org.jdom2.Document;
+//import org.jdom2.Element;
+//import org.jdom2.JDOMException;
+//import org.jdom2.input.SAXBuilder;
+//import org.jdom2.output.XMLOutputter;
 import com.hp.hpl.jena.query.Query;
 import com.hp.hpl.jena.query.QueryExecution;
 import com.hp.hpl.jena.query.QueryExecutionFactory;
@@ -25,8 +25,8 @@ import com.hp.hpl.jena.query.QuerySolution;
 import com.hp.hpl.jena.query.ResultSet;
 import com.hp.hpl.jena.query.Syntax;
 import com.hp.hpl.jena.rdf.model.RDFNode;
-import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
+//import net.sf.json.JSONArray;
+//import net.sf.json.JSONObject;
 
 //prova
 public class Versione2 {
