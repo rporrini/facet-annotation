@@ -1,19 +1,11 @@
+package it.unimib.disco.annotation;
 
-import java.io.BufferedReader;
+
 import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Vector;
 
-import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
@@ -29,18 +21,6 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
-
-
-/*import com.hp.hpl.jena.query.Query;
-import com.hp.hpl.jena.query.QueryExecution;
-import com.hp.hpl.jena.query.QueryExecutionFactory;
-import com.hp.hpl.jena.query.QueryFactory;
-import com.hp.hpl.jena.query.QuerySolution;
-import com.hp.hpl.jena.query.ResultSet;
-import com.hp.hpl.jena.query.Syntax;
-import com.hp.hpl.jena.rdf.model.RDFNode;
-*/
-import net.sf.json.*;
 
 public class Trank {
 
@@ -76,7 +56,7 @@ public class Trank {
 		IndexReader readerType = DirectoryReader.open(indexType);
 		IndexSearcher searcherType = new IndexSearcher(readerType);
 		
-		//con machine linking il primo riferimento che ottengo a DBpedia è questa URI
+		//con machine linking il primo riferimento che ottengo a DBpedia ï¿½ questa URI
 		String uri = "uri:http***dbpedia*org*resource*Nature";
 		Vector URIsTipi = new Vector();
 		Query qType = new QueryParser(Version.LUCENE_42, "uri", analyzer).parse(uri);
@@ -94,7 +74,7 @@ public class Trank {
 			}
 		}
 		
-		//esempio query perchè nella fase prima http://dbpedia/org/class/yago/Demons è il primo tipo che recupero
+		//esempio query perchï¿½ nella fase prima http://dbpedia/org/class/yago/Demons ï¿½ il primo tipo che recupero
 		//se cerco la stessa identica stringa con luke funziona qui no
 		String querystr1 = "uri:http***dbpedia*org*class*yago*Demons";
 		
