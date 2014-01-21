@@ -2,7 +2,7 @@ package it.unimib.disco.dataset;
 
 import java.util.List;
 
-public class Group{
+class Group{
 	
 	private Files connector;
 	private String name;

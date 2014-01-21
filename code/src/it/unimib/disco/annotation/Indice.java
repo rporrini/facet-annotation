@@ -1,5 +1,8 @@
 package it.unimib.disco.annotation;
 
+import it.unimib.disco.dataset.Folder;
+import it.unimib.disco.dataset.Groups;
+
 import java.io.File;
 import java.io.IOException;
 import java.util.Vector;
@@ -30,7 +33,6 @@ public class Indice {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
 	}
 
 	public void interrogaIndice(Vector vettURL) throws CorruptIndexException, IOException, ParseException {
