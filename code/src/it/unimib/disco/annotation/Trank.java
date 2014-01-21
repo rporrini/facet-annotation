@@ -60,10 +60,6 @@ public class Trank {
 		Indice indLucene = new Indice();
 		Vector tuttiTypes = new Vector();
 		
-		String indexPath = "../trank-indexes/pathindex";
-		String indexPathType = "../trank-indexes/typeindex/";
-		String indexPathLabel = "../trank-indexes/uriindex/";
-		
 		List<File> groupDirectory = recuperaCartelleGruppi("../evaluation/");
 		
 	
@@ -102,23 +98,23 @@ public class Trank {
 		     	text= text.replace(" ", "+");
 		     	text= text.replace("%", "+");
 		     	//System.out.println("Send Http GET request");
-		     	Vector vettURLEntità = sendGet(text, scelta);
-		     	
-		      
-		     	//per ogni entità recupera i tipi a cui è associata
+
+		     	Vector vettURLEntities = sendGet(text, scelta);
+    
+		     	//per ogni entitï¿½ recupera i tipi a cui ï¿½ associata
 		     	tuttiTypes = new Vector();
 		     	int cont = 0;
-		     	for (int n = 0; n< vettURLEntità.size(); n++){	
-		     		Vector ris = indLucene.interrogaIndiceType((String)vettURLEntità.elementAt(n));
+		     	for (int n = 0; n< vettURLEntities.size(); n++){	
+		     		Vector ris = indLucene.interrogaIndiceType((String)vettURLEntities.elementAt(n));
 		     		if (ris.size()==0){
 		     			cont++;
-		     			//System.out.println("\n "+(String)vettURLEntità.elementAt(n));
+		     			//System.out.println("\n "+(String)vettURLEntitï¿½.elementAt(n));
 		     		}
 		     		else{
 		     			tuttiTypes.addAll(ris);
 		     		}		     		
 		     	}
-		     	System.out.println("di "+cont+"su"+vettURLEntità.size()+"non è stato trovato il tipo");
+		     	System.out.println("di "+cont+" su "+vettURLEntities.size()+" non Ã¨ stato trovato il tipo");
 		     	System.out.println("Si vorrebbe ottenere "+singleGroup.name());
 		     	//ora trovo il type con score maggiore
 		     	indLucene = new Indice();
@@ -166,11 +162,11 @@ public class Trank {
 			JSONObject jsonObj = JSONObject.fromObject(response.toString());
 			JSONObject jsonObjAnnotation = (JSONObject) jsonObj.get("annotation");   //estraggo l'oggetto "annotation"
 			String language = jsonObjAnnotation.getString("lang");					 //estraggo l'informazione riguardante la lingua
-			if (language.equals("it") || (language.equals("en"))){                   //se è inglese o italiano vado avanti con la lingua (altrimenti problemi con endpoint)
+			if (language.equals("it") || (language.equals("en"))){                   //se ï¿½ inglese o italiano vado avanti con la lingua (altrimenti problemi con endpoint)
 				
-				JSONArray jsonArrayKeyWord = (JSONArray) jsonObjAnnotation.get("keyword");   //estraggo l'oggetto contenente le diverse entità trovate
+				JSONArray jsonArrayKeyWord = (JSONArray) jsonObjAnnotation.get("keyword");   //estraggo l'oggetto contenente le diverse entitï¿½ trovate
 				for (int i1=0; i1<jsonArrayKeyWord.size(); i1++) {
-					//estraggo le informazioni riferite ad un entità
+					//estraggo le informazioni riferite ad un entitï¿½
 					JSONObject jObjWord= jsonArrayKeyWord.getJSONObject(i1);
 					JSONArray linksEsterni = jObjWord.getJSONArray("external");   //estraggo array di link esterni
 					
@@ -179,8 +175,8 @@ public class Trank {
 						String risorsa = link.getString("resource");
 						if (risorsa.equals("DBPedia")){   							//se proviene da dbpedia salvo la sua url per uso successivo
 							String urlResource = link.getString("url").replaceFirst("page", "resource");
-							if (urlResource.contains("Ã")){                     //non so xchè ma se ho un a accentata nell url la risposta http la modifica in a-tilde
-								urlResource = urlResource.replace("Ã", "à");    //la rimodifico in à
+							if (urlResource.contains("Ã ")){                     //non so xchï¿½ ma se ho un a accentata nell url la risposta http la modifica in a-tilde
+								urlResource = urlResource.replace("Ã ", "a");    //la rimodifico in ï¿½
 								urlResource =  (String) urlResource.subSequence(0, urlResource.length()-1);  //tolgo lo spazio aggiunto alla fine
 							}
 							String urlResourceInglese = urlResource;
@@ -241,7 +237,7 @@ public class Trank {
 		}
 		catch (Exception e) {
 			e.printStackTrace();
-			System.out.println("Si è verificato un errore");
+			System.out.println("Si Ã¨ verificato un errore");
 		}
 		return vettUrl;
 	}
@@ -258,7 +254,7 @@ public class Trank {
 		 QueryExecution qexec = QueryExecutionFactory.sparqlService(endpoint, query);
 		ResultSet results = qexec.execSelect();
 			
-		while (results.hasNext()){ //metto un ciclo anche se solitamente la label riferita ad un'entità dovrebbe essere una
+		while (results.hasNext()){ //metto un ciclo anche se solitamente la label riferita ad un'entitï¿½ dovrebbe essere una
 			QuerySolution soln = results.nextSolution() ;
 			RDFNode x = soln.get("?urlInglese") ; 
 			 label = x.toString();
