@@ -97,6 +97,7 @@ public class Trank {
 		     		}		     		
 		     	}
 		     	System.out.println("di "+cont+"su"+vettURLEntità.size()+"non è stato trovato il tipo");
+		     	System.out.println("Si vorrebbe ottenere "+singleGroup.name());
 		     	//dati i type recupero depth e ancestor
 		     	indLucene = new Indice();
 		     	String tipoConScoreMax = indLucene.interrogaIndicePath(tuttiTypes);
@@ -109,7 +110,6 @@ public class Trank {
 
 	private static Vector sendGet(String text) {
 
-		Vector<WordUrls> vettWordUrls = new Vector<WordUrls>();
 		Vector<String> vettUrl = new Vector<String>();
 		try{
 			//String url = "http://api.machinelinking.com/annotate?"+ credenziali +"&text="+ text + "&"+ lang +"&disambiguation=1&" +
@@ -138,9 +138,6 @@ public class Trank {
 			}
 			in.close();
 		
-			
-			vettWordUrls = new Vector<WordUrls>();
-		     
 			//creo un oggetto formato json e lo leggo
 			// { = oggetto Json    [ = array json
 			JSONObject jsonObj = JSONObject.fromObject(response.toString());
@@ -152,9 +149,6 @@ public class Trank {
 				for (int i1=0; i1<jsonArrayKeyWord.size(); i1++) {
 					//estraggo le informazioni riferite ad un entità
 					JSONObject jObjWord= jsonArrayKeyWord.getJSONObject(i1);
-					String parola = jObjWord.getString("form");   	//nome entità
-					double relevance = jObjWord.getLong("rel");     //rilevanza entità
-			    
 					JSONArray linksEsterni = jObjWord.getJSONArray("external");   //estraggo array di link esterni
 					
 					for (int a = 0; a < linksEsterni.size(); a++){
@@ -175,8 +169,6 @@ public class Trank {
 								vettUrl.add(urlResourceInglese);
 						}
 					}
-					//per ogni entità trovata salvo parola-rilevanza-url verso DBpedia per poi salvare le informazioni utili in un file xml
-					vettWordUrls.add(new WordUrls(parola, relevance, vettUrl));
 				}
 			}
 		}
