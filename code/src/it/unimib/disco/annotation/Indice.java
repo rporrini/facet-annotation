@@ -35,15 +35,10 @@ public class Indice {
 	/**
 	 * @param args
 	 */
-	String indexPath = "C:/Users/VALE/Desktop/trank-indexes/pathindex";
-	String indexPathType = "C:/Users/VALE/Desktop/trank-indexes/typeindex/";
-	String indexPathLabel = "C:/Users/VALE/Desktop/trank-indexes/uriindex/";
+	String indexPath = "../trank-indexes/pathindex";
+	String indexPathType = "../trank-indexes/typeindex/";
+	String indexPathLabel = "../trank-indexes/uriindex/";
 	
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
 	public Vector interrogaIndiceType(String uriE) throws CorruptIndexException, IOException, ParseException {
 		Vector risultati = new Vector();
 		//apertura indice Type
@@ -92,7 +87,7 @@ public class Indice {
 			  //risultati.add(result);
 			  
 			  //calcolo score di un dato tipo
-			  //fare la sommatoria della profondità  di tutti i suoi antenati se sono tipi della risorsa
+			  //fare la sommatoria della profonditï¿½  di tutti i suoi antenati se sono tipi della risorsa
 			  score = 0;
 			  String uriAntenato="";
 			  for (int k = 0; k < wordList.size() ; k++){
@@ -109,7 +104,7 @@ public class Indice {
 			  }
 			}
 		}
-		System.out.println(" lo score per il tipo "+ uri +" è "+ max+"\n");
+		System.out.println(" lo score per il tipo "+ uri +" Ã¨ "+ max+"\n");
 		return null;
 	}
 	
