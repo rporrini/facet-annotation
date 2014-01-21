@@ -66,6 +66,27 @@ public class Trank {
 		
 		List<File> groupDirectory = recuperaCartelleGruppi("../evaluation/");
 		
+	
+	//	
+		int scelta = 1;
+		System.out.println("Vuoi usare tagme inserisci 1, vuoi usare machinelinking inserisci 2");	
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		try
+	      {
+	        String lettura = br.readLine();
+	        scelta = Integer.parseInt(lettura);
+	      }
+	      catch (IOException e1)
+	      {
+	         System.out.println ("errore di flusso");
+	      }
+	      catch (NumberFormatException e2)
+	      {
+	         System.out.println ("errore di input da tastiera");
+	      }
+	 
+	     
+			
 		//per ogni cartella recupero tutti i gruppi appartenenti ad una certa categoria
 		for (int j = 0; j < groupDirectory.size(); j++){
 			String idCat = groupDirectory.get(j).getName();
@@ -81,7 +102,8 @@ public class Trank {
 		     	text= text.replace(" ", "+");
 		     	text= text.replace("%", "+");
 		     	//System.out.println("Send Http GET request");
-		     	Vector vettURLEntità = sendGet(text);
+		     	Vector vettURLEntità = sendGet(text, scelta);
+		     	
 		      
 		     	//per ogni entità recupera i tipi a cui è associata
 		     	tuttiTypes = new Vector();
@@ -98,7 +120,7 @@ public class Trank {
 		     	}
 		     	System.out.println("di "+cont+"su"+vettURLEntità.size()+"non è stato trovato il tipo");
 		     	System.out.println("Si vorrebbe ottenere "+singleGroup.name());
-		     	//dati i type recupero depth e ancestor
+		     	//ora trovo il type con score maggiore
 		     	indLucene = new Indice();
 		     	String tipoConScoreMax = indLucene.interrogaIndicePath(tuttiTypes);
 		     	
@@ -108,10 +130,11 @@ public class Trank {
 		
 	}
 
-	private static Vector sendGet(String text) {
+	private static Vector sendGet(String text, int scelta) {
 
 		Vector<String> vettUrl = new Vector<String>();
 		try{
+			if (scelta != 1){
 			//String url = "http://api.machinelinking.com/annotate?"+ credenziali +"&text="+ text + "&"+ lang +"&disambiguation=1&" +
 			String url = "http://api.machinelinking.com/annotate?"+ credenziali +"&text="+ text + "&disambiguation=1&" +
 					"link=1&output_format=json";
@@ -167,9 +190,53 @@ public class Trank {
 							}
 							if (!urlResourceInglese.equals(""))
 								vettUrl.add(urlResourceInglese);
+							else
+								System.out.println("Non trovato il corrispettivo inglese");
 						}
 					}
 				}
+			}
+			}
+			else{//TAGME
+				String url = "http://tagme.di.unipi.it/tag?text="+ text+"&key=ricpor2014&lang=it&include_categories=true";
+				//System.out.print(url);
+			  
+				HttpURLConnection con = null;
+				int responseCode= 0;
+				while (responseCode != 200){
+					Thread.sleep(1000);
+					URL obj = new URL(url);
+					con = (HttpURLConnection) obj.openConnection();
+					con.setRequestMethod("GET");
+					//add request header
+					con.setRequestProperty("User-Agent", USER_AGENT);
+					responseCode= con.getResponseCode();
+				}
+				//LEGGO LA RISPOSTA HTTP
+				BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+				String inputLine;
+				StringBuffer response = new StringBuffer();
+				while ((inputLine = in.readLine()) != null) {
+					response.append(inputLine);
+				}
+				in.close();
+				//creo un oggetto formato json e lo leggo
+				// { = oggetto Json    [ = array json
+				JSONObject jsonObj = JSONObject.fromObject(response.toString());
+				JSONArray jsonObjAnnotation = (JSONArray) jsonObj.get("annotations");   //estraggo l'oggetto "annotation"
+				for (int k = 0; k < jsonObjAnnotation.size(); k++){
+					JSONObject pageWiki = jsonObjAnnotation.getJSONObject(k);
+					String fineUrlWiki = pageWiki.getString("title");
+					fineUrlWiki = fineUrlWiki.replaceAll(" ", "_");
+					String urlWiki = "http://it.wikipedia.org/wiki/"+fineUrlWiki;
+					String urlDBpedia = "http://it.dbpedia.org/resource/"+fineUrlWiki;
+					String urlResourceInglese = interrogazioniSPARQL(urlDBpedia);	
+					if (!urlResourceInglese.equals(""))
+						vettUrl.add(urlResourceInglese);
+					else
+						System.out.println("Non trovato il corrispettivo inglese");
+				}
+				
 			}
 		}
 		catch (Exception e) {
