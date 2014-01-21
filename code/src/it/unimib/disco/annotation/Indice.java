@@ -24,15 +24,15 @@ public class Indice {
 	/**
 	 * @param args
 	 */
-	String indexPath = "C:/Users/VALE/Desktop/trank-indexes/pathindex";
-	String indexPathType = "C:/Users/VALE/Desktop/trank-indexes/typeindex/";
-	String indexPathLabel = "C:/Users/VALE/Desktop/trank-indexes/uriindex/";
+	String indexPath = "../trank-indexes/pathindex";
+	String indexPathType = "../trank-indexes/typeindex/";
+	String indexPathLabel = "../trank-indexes/uriindex/";
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 	}
-//kk
+
 	public void interrogaIndice(Vector vettURL) throws CorruptIndexException, IOException, ParseException {
 		// TODO Auto-generated method stub
 		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);

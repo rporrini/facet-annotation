@@ -42,9 +42,9 @@ public class Trank {
 		Trank http = new Trank();
 		Indice indLucene = new Indice();
 		
-		String indexPath = "C:/Users/VALE/Desktop/trank-indexes/pathindex";
-		String indexPathType = "C:/Users/VALE/Desktop/trank-indexes/typeindex/";
-		String indexPathLabel = "C:/Users/VALE/Desktop/trank-indexes/uriindex/";
+		String indexPath = "../trank-indexes/pathindex";
+		String indexPathType = "../trank-indexes/typeindex/";
+		String indexPathLabel = "../trank-indexes/uriindex/";
 		
 		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);
 		//apertura indice path
