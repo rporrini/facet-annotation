@@ -4,8 +4,8 @@ import java.io.File;
 
 public class Folder {
 
-	public static Folder evaluation() throws Exception {
-		return new Folder("..").child("evaluation");
+	public static Folder evaluation(String idCat) throws Exception {
+		return new Folder("..").child("evaluation").child(idCat);
 	}
 
 	private File root;

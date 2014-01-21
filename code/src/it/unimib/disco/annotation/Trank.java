@@ -1,10 +1,25 @@
 package it.unimib.disco.annotation;
 
 
+import it.unimib.disco.dataset.Folder;
+import it.unimib.disco.dataset.Group;
+import it.unimib.disco.dataset.Groups;
+
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FilenameFilter;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
+
+import javax.swing.filechooser.FileFilter;
+
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
 
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
@@ -22,72 +37,188 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
+import com.hp.hpl.jena.query.QueryExecution;
+import com.hp.hpl.jena.query.QueryExecutionFactory;
+import com.hp.hpl.jena.query.QueryFactory;
+import com.hp.hpl.jena.query.QuerySolution;
+import com.hp.hpl.jena.query.ResultSet;
+import com.hp.hpl.jena.rdf.model.RDFNode;
+
 public class Trank {
 
 	/**
 	 * @param args
 	 */
-	private final String USER_AGENT = "Mozilla/25.0.1";
-	String credenziali = "app_id=bbff1282&app_key=bfb47741212ddde1d0d56eacc0141512";
-	String lang = "lang=it";
+	private final static String USER_AGENT = "Mozilla/25.0.1";
+	static String credenziali = "app_id=bbff1282&app_key=bfb47741212ddde1d0d56eacc0141512";
+	static String lang = "lang=it";
 	static int contRiga = 0;
 	
-	public static void main(String[] args) throws IOException, ParseException {
+	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		Trank http = new Trank();
 		Indice indLucene = new Indice();
+		Vector tuttiTypes = new Vector();
 		
 		String indexPath = "../trank-indexes/pathindex";
 		String indexPathType = "../trank-indexes/typeindex/";
 		String indexPathLabel = "../trank-indexes/uriindex/";
 		
-		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);
-		//apertura indice path
-		Directory index = FSDirectory.open(new File(indexPath));
-		IndexReader reader = DirectoryReader.open(index);
-		IndexSearcher searcher = new IndexSearcher(reader);
-		//apertura indice Type
-		Directory indexType = FSDirectory.open(new File(indexPathType));
-		IndexReader readerType = DirectoryReader.open(indexType);
-		IndexSearcher searcherType = new IndexSearcher(readerType);
+		List<File> groupDirectory = recuperaCartelleGruppi("../evaluation/");
 		
-		//con machine linking il primo riferimento che ottengo a DBpedia ï¿½ questa URI
-		String uri = "uri:http***dbpedia*org*resource*Nature";
-		Vector URIsTipi = new Vector();
-		Query qType = new QueryParser(Version.LUCENE_42, "uri", analyzer).parse(uri);
-		//risultati
-		TopScoreDocCollector collectorType = TopScoreDocCollector.create(10, true);
-		searcherType.search(qType, collectorType);
-		ScoreDoc[] docsType = collectorType.topDocs().scoreDocs;
-		for (int i = 0; i < docsType.length; i++) {
-			Document result = searcherType.doc(docsType[i].doc);
-			List<IndexableField> listaTipi = result.getFields();
-			for (int j=0; j< listaTipi.size(); j++){
-				String URItipo = (listaTipi.get(j)).stringValue();
-				URIsTipi.add(URItipo);
-				System.out.println(result);
+		//per ogni cartella recupero tutti i gruppi appartenenti ad una certa categoria
+		for (int j = 0; j < groupDirectory.size(); j++){
+			String idCat = groupDirectory.get(j).getName();
+			//recuper le keyword di un gruppo
+			List<Group> cartelleGruppi = new Groups(Folder.evaluation(idCat)).get();
+			for (int i = 0; i < cartelleGruppi.size(); i++){
+				Group singleGroup = cartelleGruppi.get(i);
+				List<String> str = singleGroup.keywords();
+				System.out.println(str.toString());
+				
+				String text = str.toString();
+		     	text = text.substring(1, text.length()-1);
+		     	text= text.replace(" ", "+");
+		     	text= text.replace("%", "+");
+		     	//System.out.println("Send Http GET request");
+		     	Vector vettURLEntità = sendGet(text);
+		      
+		     	//per ogni entità recupera i tipi a cui è associata
+		     	tuttiTypes = new Vector();
+		     	int cont = 0;
+		     	for (int n = 0; n< vettURLEntità.size(); n++){	
+		     		Vector ris = indLucene.interrogaIndiceType((String)vettURLEntità.elementAt(n));
+		     		if (ris.size()==0){
+		     			cont++;
+		     			//System.out.println("\n "+(String)vettURLEntità.elementAt(n));
+		     		}
+		     		else{
+		     			tuttiTypes.addAll(ris);
+		     		}		     		
+		     	}
+		     	System.out.println("di "+cont+"su"+vettURLEntità.size()+"non è stato trovato il tipo");
+		     	//dati i type recupero depth e ancestor
+		     	indLucene = new Indice();
+		     	String tipoConScoreMax = indLucene.interrogaIndicePath(tuttiTypes);
+		     	
 			}
+		
 		}
 		
-		//esempio query perchï¿½ nella fase prima http://dbpedia/org/class/yago/Demons ï¿½ il primo tipo che recupero
-		//se cerco la stessa identica stringa con luke funziona qui no
-		String querystr1 = "uri:http***dbpedia*org*class*yago*Demons";
-		
-		Directory directory = FSDirectory.open(new File("../trank-indexes/pathindex"));
-		IndexReader indexReader = IndexReader.open(directory);
-		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
-
-		analyzer = new StandardAnalyzer(Version.LUCENE_CURRENT);
-		QueryParser queryParser = new QueryParser(Version.LUCENE_CURRENT, "uri", analyzer);
-		Query query = queryParser.parse(querystr1);
-		TopDocs hits = indexSearcher.search(query, 10);
-		System.out.println("Number of hits: " + hits.totalHits);
-
-		
-		
-		
-		  }
 	}
+
+	private static Vector sendGet(String text) {
+
+		Vector<WordUrls> vettWordUrls = new Vector<WordUrls>();
+		Vector<String> vettUrl = new Vector<String>();
+		try{
+			//String url = "http://api.machinelinking.com/annotate?"+ credenziali +"&text="+ text + "&"+ lang +"&disambiguation=1&" +
+			String url = "http://api.machinelinking.com/annotate?"+ credenziali +"&text="+ text + "&disambiguation=1&" +
+					"link=1&output_format=json";
+			//System.out.print(url);
+		  
+			HttpURLConnection con = null;
+			int responseCode= 0;
+			while (responseCode != 200){
+				Thread.sleep(1000);
+				URL obj = new URL(url);
+				con = (HttpURLConnection) obj.openConnection();
+				con.setRequestMethod("GET");
+				//add request header
+				con.setRequestProperty("User-Agent", USER_AGENT);
+				responseCode= con.getResponseCode();
+				
+			}
+			//LEGGO LA RISPOSTA HTTP
+			BufferedReader in = new BufferedReader(new InputStreamReader(con.getInputStream()));
+			String inputLine;
+			StringBuffer response = new StringBuffer();
+			while ((inputLine = in.readLine()) != null) {
+				response.append(inputLine);
+			}
+			in.close();
+		
+			
+			vettWordUrls = new Vector<WordUrls>();
+		     
+			//creo un oggetto formato json e lo leggo
+			// { = oggetto Json    [ = array json
+			JSONObject jsonObj = JSONObject.fromObject(response.toString());
+			JSONObject jsonObjAnnotation = (JSONObject) jsonObj.get("annotation");   //estraggo l'oggetto "annotation"
+			String language = jsonObjAnnotation.getString("lang");					 //estraggo l'informazione riguardante la lingua
+			if (language.equals("it") || (language.equals("en"))){                   //se è inglese o italiano vado avanti con la lingua (altrimenti problemi con endpoint)
+				
+				JSONArray jsonArrayKeyWord = (JSONArray) jsonObjAnnotation.get("keyword");   //estraggo l'oggetto contenente le diverse entità trovate
+				for (int i1=0; i1<jsonArrayKeyWord.size(); i1++) {
+					//estraggo le informazioni riferite ad un entità
+					JSONObject jObjWord= jsonArrayKeyWord.getJSONObject(i1);
+					String parola = jObjWord.getString("form");   	//nome entità
+					double relevance = jObjWord.getLong("rel");     //rilevanza entità
+			    
+					JSONArray linksEsterni = jObjWord.getJSONArray("external");   //estraggo array di link esterni
+					
+					for (int a = 0; a < linksEsterni.size(); a++){
+						JSONObject link = linksEsterni.getJSONObject(a); 
+						String risorsa = link.getString("resource");
+						if (risorsa.equals("DBPedia")){   							//se proviene da dbpedia salvo la sua url per uso successivo
+							String urlResource = link.getString("url").replaceFirst("page", "resource");
+							if (urlResource.contains("Ã")){                     //non so xchè ma se ho un a accentata nell url la risposta http la modifica in a-tilde
+								urlResource = urlResource.replace("Ã", "à");    //la rimodifico in à
+								urlResource =  (String) urlResource.subSequence(0, urlResource.length()-1);  //tolgo lo spazio aggiunto alla fine
+							}
+							String urlResourceInglese = urlResource;
+							if (language.equals("it") ){
+								//trova l'URL della risorsa in inglese
+								urlResourceInglese = interrogazioniSPARQL(urlResource);
+							}
+							if (!urlResourceInglese.equals(""))
+								vettUrl.add(urlResourceInglese);
+						}
+					}
+					//per ogni entità trovata salvo parola-rilevanza-url verso DBpedia per poi salvare le informazioni utili in un file xml
+					vettWordUrls.add(new WordUrls(parola, relevance, vettUrl));
+				}
+			}
+		}
+		catch (Exception e) {
+			e.printStackTrace();
+			System.out.println("Si è verificato un errore");
+		}
+		return vettUrl;
+	}
+
+	private static String interrogazioniSPARQL(String urlResource) {
+		String label="";
+		String endpoint = "http://dbpedia.org/sparql";
+		urlResource = urlResource.replace("/page/", "/resource/");
+		String sparqlQuery = "PREFIX  owl:  <http://www.w3.org/2002/07/owl#>"+
+				"select ?urlInglese "+
+				"where{ <"+ urlResource +"> owl:sameAs ?urlInglese FILTER regex(?urlInglese, \"http://dbpedia.org/\") }";
+		
+	    com.hp.hpl.jena.query.Query query = QueryFactory.create(sparqlQuery);
+		 QueryExecution qexec = QueryExecutionFactory.sparqlService(endpoint, query);
+		ResultSet results = qexec.execSelect();
+			
+		while (results.hasNext()){ //metto un ciclo anche se solitamente la label riferita ad un'entità dovrebbe essere una
+			QuerySolution soln = results.nextSolution() ;
+			RDFNode x = soln.get("?urlInglese") ; 
+			 label = x.toString();
+		}
+		return label;
+	}
+
+	private static List<File> recuperaCartelleGruppi(String pathEvaluation) {
+		File folder = new File(pathEvaluation);
+		File[] listOfFiles = folder.listFiles();
+		List<File> groupDirectory = new ArrayList<File>();
+		for (int i = 0; i < listOfFiles.length; i++) {
+			if (listOfFiles[i].isDirectory()) {
+				groupDirectory.add(listOfFiles[i]);
+			} 
+		}
+		return groupDirectory;
+	}
+}
 
 	
 
