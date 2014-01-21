@@ -31,11 +31,8 @@ public class Trank {
 	String credenziali = "app_id=bbff1282&app_key=bfb47741212ddde1d0d56eacc0141512";
 	String lang = "lang=it";
 	static int contRiga = 0;
-	public static String pathCartellaGroupsEvaluation = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/group";
-	public static String pathEtichettaturaGR = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/";
-	public static String pathfileGRXML = "C:/Users/Vale/Desktop/Magistrale Secondo Anno/Intelligenza Artificiale/pratica/evaluation/";
 	
-	public static String pathGroups = "C:/Users/VALE/evaluation/group/";
+	public static String pathGroups = "../evaluation/groups/";
 	
 	public static void main(String[] args) throws IOException, ParseException {
 		// TODO Auto-generated method stub
@@ -78,7 +75,7 @@ public class Trank {
 		//se cerco la stessa identica stringa con luke funziona qui no
 		String querystr1 = "uri:http***dbpedia*org*class*yago*Demons";
 		
-		Directory directory = FSDirectory.open(new File("C:/Users/VALE/Desktop/trank-indexes/pathindex"));
+		Directory directory = FSDirectory.open(new File("../trank-indexes/pathindex"));
 		IndexReader indexReader = IndexReader.open(directory);
 		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
