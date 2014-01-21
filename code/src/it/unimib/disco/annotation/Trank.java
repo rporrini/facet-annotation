@@ -21,7 +21,7 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
-//prova
+
 public class Trank {
 
 	/**
@@ -31,8 +31,6 @@ public class Trank {
 	String credenziali = "app_id=bbff1282&app_key=bfb47741212ddde1d0d56eacc0141512";
 	String lang = "lang=it";
 	static int contRiga = 0;
-	
-	public static String pathGroups = "../evaluation/groups/";
 	
 	public static void main(String[] args) throws IOException, ParseException {
 		// TODO Auto-generated method stub
