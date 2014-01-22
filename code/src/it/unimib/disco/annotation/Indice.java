@@ -92,11 +92,14 @@ public class Indice {
 			  String uriAntenato="";
 			  for (int k = 0; k < wordList.size() ; k++){
 				  uriAntenato = wordList.get(k);
-				  TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
-				  ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
-				  result = searcher.doc(doc[j].doc);
-				  depth= Integer.parseInt(result.get("level"));
-				  score = score + depth;
+				  //ricordati di aggiungere pezzo cancellato
+				  if (controllaAppartenenzaAtipi(tuttiTypes)){
+					  TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
+					  ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
+					  result = searcher.doc(doc[j].doc);
+					  depth= Integer.parseInt(result.get("level"));
+					  score = score + depth;
+				  }
 			  }
 			  if (score > max){
 				  max = score;
