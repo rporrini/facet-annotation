@@ -56,9 +56,6 @@ public class Indice {
 		}
 		return risultati;
 	}
-	//String querystr = "uri:\"http://dbpedia.org/resource/Nature\"";
-	//String querystr = "uri:http***dbpedia*org*resource*nature";
-	//query
 	
 
 	public String interrogaIndicePath(Vector tuttiTypes) throws IOException {
@@ -70,7 +67,9 @@ public class Indice {
 		IndexReader reader = DirectoryReader.open(index);
 		IndexSearcher searcher = new IndexSearcher(reader);
 		
+		//tuttiTypes contiene per ogni entita un array di tipi
 		for (int i = 0; i < tuttiTypes.size(); i++){
+			//tipi Ent raccoglie tutti i tipi riferiti ad una singola entita
 			String[] tipiEnt =  (String[]) tuttiTypes.elementAt(i);
 			
 			for (int k=0; k < tipiEnt.length; k++){
@@ -91,29 +90,27 @@ public class Indice {
 					  //fare la sommatoria della profondit�  di tutti i suoi antenati se sono tipi della risorsa
 					score = 0;
 					String uriAntenato="";
-					  for (int y = 0; y < wordList.size() ; y++){
-						  uriAntenato = wordList.get(y);
-						  uriAntenato = uriAntenato.replace("\"", "");
+					for (int y = 0; y < wordList.size() ; y++){
+						uriAntenato = wordList.get(y);
+						uriAntenato = uriAntenato.replace("\"", "");
 						  
-						  //if per controllare l'appartenenza dell'antenato alla lista dei tipi per quella entita
-						  if (controllaAppartenenzaAtipiEnt(tipiEnt, uriAntenato)){
-						  //if per NON controllare l'appartenenza
-						  //if (true){
-							  TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
-							  ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
-							  result = searcher.doc(doc[0].doc);
-							  depth= Integer.parseInt(result.get("level"));
-							  score = score + depth;
-						  }
-					  }
-					  if (score > max){
-						  max = score;
-						  uri = uriAntenato;
-					  }
-				  }
+						//if per controllare l'appartenenza dell'antenato alla lista dei tipi per quella entita
+						if (controllaAppartenenzaAtipiEnt(tipiEnt, uriAntenato)){
+							//if per NON controllare l'appartenenza
+							//if (true){
+							TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
+							ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
+							result = searcher.doc(doc[0].doc);
+							depth= Integer.parseInt(result.get("level"));
+							score = score + depth;
+						}
+					}
+					if (score > max){
+						max = score;
+						uri = uriAntenato;
+					}
+				}
 			}
-				
-			
 		}
 		System.out.println(" lo score per il tipo "+ uri +" è "+ max+"\n");
 		return null;

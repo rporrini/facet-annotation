@@ -112,7 +112,7 @@ public class Trank {
 		     			//System.out.println("\n "+(String)vettURLEntitï¿½.elementAt(n));
 		     		}
 		     		else 
-		     		{  //ogni elemento è di tipo WordUrls
+		     		{  	//tuttiTypes contiene per ogni entita un array di tipi restituito dalla relativa query
 		     			tuttiTypes.add(ris);
 		     		}		     		
 		     	}
