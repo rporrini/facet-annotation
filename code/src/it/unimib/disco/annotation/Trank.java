@@ -105,16 +105,18 @@ public class Trank {
 		     	tuttiTypes = new Vector();
 		     	int cont = 0;
 		     	for (int n = 0; n< vettURLEntities.size(); n++){	
-		     		Vector ris = indLucene.interrogaIndiceType((String)vettURLEntities.elementAt(n));
-		     		if (ris.size()==0){
+		     		String[] ris = indLucene.interrogaIndiceType((String)vettURLEntities.elementAt(n));
+		     		if (ris.length==0){
 		     			cont++;
+		     			//non ho trovato nessun tipo
 		     			//System.out.println("\n "+(String)vettURLEntit�.elementAt(n));
 		     		}
-		     		else{
-		     			tuttiTypes.addAll(ris);
+		     		else 
+		     		{  //ogni elemento � di tipo WordUrls
+		     			tuttiTypes.add(ris);
 		     		}		     		
 		     	}
-		     	System.out.println("di "+cont+" su "+vettURLEntities.size()+" non è stato trovato il tipo");
+		     	System.out.println("di "+cont+" su "+ vettURLEntities.size()+" non è stato trovato il tipo");
 		     	System.out.println("Si vorrebbe ottenere "+singleGroup.name());
 		     	//ora trovo il type con score maggiore
 		     	indLucene = new Indice();
@@ -224,6 +226,7 @@ public class Trank {
 					JSONObject pageWiki = jsonObjAnnotation.getJSONObject(k);
 					String fineUrlWiki = pageWiki.getString("title");
 					fineUrlWiki = fineUrlWiki.replaceAll(" ", "_");
+					//da Wikipedia a DBpedia IT a DBpedia COM
 					String urlWiki = "http://it.wikipedia.org/wiki/"+fineUrlWiki;
 					String urlDBpedia = "http://it.dbpedia.org/resource/"+fineUrlWiki;
 					String urlResourceInglese = interrogazioniSPARQL(urlDBpedia);	

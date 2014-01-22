@@ -4,25 +4,29 @@ import java.util.Vector;
 
 public class WordUrls {
 
-	String parola;
-	double relevance;
-	Vector<String> vettUrl;
+	String urlTypeVincitrice;
+	Vector<String> vettUrlType;
 	
-	public WordUrls(String parola, double relevance, Vector<String> vettUrl){
-		this.parola = parola;
-		this.relevance = relevance;
-		this.vettUrl = vettUrl;
+	public WordUrls(String urlTypeVincitrice, Vector<String> vettUrlType){
+		this.urlTypeVincitrice = urlTypeVincitrice;
+		this.vettUrlType = vettUrlType;
 	}
 
-	public String getParola() {
-		return parola;
+	public String getUrlTypeVincitrice() {
+		return urlTypeVincitrice;
 	}
 
-	public double getRelevance() {
-		return relevance;
+	public void setUrlTypeVincitrice(String urlTypeVincitrice) {
+		this.urlTypeVincitrice = urlTypeVincitrice;
 	}
+
+	public Vector<String> getVettUrlType() {
+		return vettUrlType;
+	}
+
+	public void setVettUrlType(Vector<String> vettUrlType) {
+		this.vettUrlType = vettUrlType;
+	}
+
 	
-	public Vector<String> getVettUrl() {
-		return vettUrl;
-	}
 }

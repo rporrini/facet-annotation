@@ -39,20 +39,20 @@ public class Indice {
 	String indexPathType = "../trank-indexes/typeindex/";
 	String indexPathLabel = "../trank-indexes/uriindex/";
 	
-	public Vector interrogaIndiceType(String uriE) throws CorruptIndexException, IOException, ParseException {
-		Vector risultati = new Vector();
+	public String[] interrogaIndiceType(String uriE) throws CorruptIndexException, IOException, ParseException {
 		//apertura indice Type
 		Directory indexType = FSDirectory.open(new File(indexPathType));
 		IndexReader readerType = DirectoryReader.open(indexType);
 		IndexSearcher searcherType = new IndexSearcher(readerType);
 		String queryStr = uriE;
 		TermQuery qt = new TermQuery(new Term("uri", queryStr));
-		//risultati
-		TopScoreDocCollector collector = TopScoreDocCollector.create(10, true);
-		ScoreDoc[] doc = searcherType.search(qt, 1).scoreDocs;
-		for (int i = 0; i < doc.length; i++) {
-			Document result = searcherType.doc(doc[i].doc);
-			risultati.add(result.get("type"));
+		//trovo il miglior tipo
+		TopDocs doc = searcherType.search(qt, 1);
+		int c = doc.totalHits;
+		String[] risultati = new String[0];
+		if (doc.scoreDocs.length>0){
+			Document result = searcherType.doc((doc.scoreDocs)[0].doc);
+			risultati = result.getValues("type");
 		}
 		return risultati;
 	}
@@ -71,44 +71,66 @@ public class Indice {
 		IndexSearcher searcher = new IndexSearcher(reader);
 		
 		for (int i = 0; i < tuttiTypes.size(); i++){
-			String queryStr = tuttiTypes.elementAt(i).toString();
-			TermQuery qt = new TermQuery(new Term("uri", queryStr));
-			ScoreDoc[] doc = searcher.search(qt, 1).scoreDocs;
-			for (int j = 0; j < doc.length; j++) {
-			  Document result = searcher.doc(doc[j].doc);
-			  int depth= Integer.parseInt(result.get("level"));
-			  //JsonObject path = JSON.parse(result.get("path").);
-			  String g = result.get("path");
-			  g = g.replace("[", "");
-			  g = g.replace("]", "");
-			  List<String> wordList = Arrays.asList(g.split(","));  
-
-			  g.toString();
-			  //risultati.add(result);
-			  
-			  //calcolo score di un dato tipo
-			  //fare la sommatoria della profondit�  di tutti i suoi antenati se sono tipi della risorsa
-			  score = 0;
-			  String uriAntenato="";
-			  for (int k = 0; k < wordList.size() ; k++){
-				  uriAntenato = wordList.get(k);
-				  //ricordati di aggiungere pezzo cancellato
-				  if (controllaAppartenenzaAtipi(tuttiTypes)){
-					  TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
-					  ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
-					  result = searcher.doc(doc[j].doc);
-					  depth= Integer.parseInt(result.get("level"));
-					  score = score + depth;
+			String[] tipiEnt =  (String[]) tuttiTypes.elementAt(i);
+			
+			for (int k=0; k < tipiEnt.length; k++){
+				String queryStr = tipiEnt[k];
+				TermQuery qt = new TermQuery(new Term("uri", queryStr));
+				ScoreDoc[] doc = searcher.search(qt, 1).scoreDocs;
+				if (doc.length > 0){
+					Document result = searcher.doc(doc[0].doc);
+					int depth= Integer.parseInt(result.get("level"));
+					//JsonObject path = JSON.parse(result.get("path").);
+					String g = result.get("path");
+					g = g.replace("[", "");
+					g = g.replace("]", "");
+					List<String> wordList = Arrays.asList(g.split(","));  
+					g.toString();
+					
+					//calcolo score di un dato tipo
+					  //fare la sommatoria della profondit�  di tutti i suoi antenati se sono tipi della risorsa
+					score = 0;
+					String uriAntenato="";
+					  for (int y = 0; y < wordList.size() ; y++){
+						  uriAntenato = wordList.get(y);
+						  uriAntenato = uriAntenato.replace("\"", "");
+						  
+						  //if per controllare l'appartenenza dell'antenato alla lista dei tipi per quella entita
+						  if (controllaAppartenenzaAtipiEnt(tipiEnt, uriAntenato)){
+						  //if per NON controllare l'appartenenza
+						  //if (true){
+							  TermQuery qLevelAntenato = new TermQuery(new Term("uri", uriAntenato));
+							  ScoreDoc[] ris = searcher.search(qLevelAntenato, 1).scoreDocs;
+							  result = searcher.doc(doc[0].doc);
+							  depth= Integer.parseInt(result.get("level"));
+							  score = score + depth;
+						  }
+					  }
+					  if (score > max){
+						  max = score;
+						  uri = uriAntenato;
+					  }
 				  }
-			  }
-			  if (score > max){
-				  max = score;
-				  uri = uriAntenato;
-			  }
 			}
+				
+			
 		}
 		System.out.println(" lo score per il tipo "+ uri +" è "+ max+"\n");
 		return null;
+	}
+
+
+	public boolean controllaAppartenenzaAtipiEnt(String[] tipiEnt, String uriAnt) throws IOException {
+		// TODO Auto-generated method stub
+		boolean flag = false;
+		
+		for (int i = 0 ; i < tipiEnt.length; i++){
+			if ((tipiEnt[i]).equals(uriAnt)){
+				flag = true;
+				break;
+			}
+		}
+		return flag;
 	}
 	
 }
