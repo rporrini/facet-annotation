@@ -23,9 +23,7 @@ public class TRankBaseline {
 		for(String e : entity){
 			entities.add(new URI(e));
 		}
-		scala.collection.immutable.Set<URI> set = JavaConversions.asScalaBuffer(entities).toSet();
-		Config config = ConfigFactory.load();
-		Map<URI, Seq<URI>> types = JavaConversions.asJavaMap(TypeRanking.rankTypes(TypeRetrieval.retrieveTypes(set, config), new ANCESTORS(), config));
+		Map<URI, Seq<URI>> types = rankTypes(entities);
 		List<String> retrievedTypes = new ArrayList<String>();
 		for(URI uri : types.keySet()){
 			for(URI type: JavaConversions.asJavaCollection(types.get(uri))){
@@ -33,5 +31,11 @@ public class TRankBaseline {
 			}
 		}
 		return retrievedTypes;
+	}
+
+	private Map<URI, Seq<URI>> rankTypes(List<URI> entities) {
+		scala.collection.immutable.Set<URI> set = JavaConversions.asScalaBuffer(entities).toSet();
+		Config config = ConfigFactory.load();
+		return JavaConversions.asJavaMap(TypeRanking.rankTypes(TypeRetrieval.retrieveTypes(set, config), new ANCESTORS(), config));
 	}
 }
