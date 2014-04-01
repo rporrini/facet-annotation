@@ -1,6 +1,8 @@
 .metadata
 bin
+build
 *.class
 trank-indexes
+labelling/labelling.jar
 RemoteSystemsTempFiles
 
