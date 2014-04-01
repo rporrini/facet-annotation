@@ -5,12 +5,12 @@ import it.disco.unimib.labelling.HttpConnector;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
 
-public class HttpConnectorTestDouble extends HttpConnector{
+public class TagmeConnectorTestDouble extends HttpConnector{
 	
 	JsonObject response;
 	String lastRequest;
 	
-	public HttpConnectorTestDouble(){
+	public TagmeConnectorTestDouble(){
 		response = new JsonObject();
 		response.add("annotations", new JsonArray());
 	}
@@ -21,7 +21,7 @@ public class HttpConnectorTestDouble extends HttpConnector{
 		return response.toString();
 	}
 
-	public HttpConnectorTestDouble thatReturns(String type) {
+	public TagmeConnectorTestDouble thatReturns(String type) {
 		JsonObject typeObject = new JsonObject();
 		typeObject.addProperty("title", type);
 		((JsonArray)response.get("annotations")).add(typeObject);

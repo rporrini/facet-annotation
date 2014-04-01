@@ -17,14 +17,14 @@ public class TagmeTest {
 
 	@Test
 	public void onEmptyResposeShouldGiveAnEmptyEntitySet() throws Exception {
-		Tagme tagme = new Tagme(new HttpConnectorTestDouble());
+		Tagme tagme = new Tagme(new TagmeConnectorTestDouble());
 		
 		assertThat(tagme.annotate("any"), is(empty()));
 	}
 	
 	@Test
 	public void onOneSingleEntityShouldReturnIt() throws Exception {
-		HttpConnectorTestDouble connector = new HttpConnectorTestDouble().thatReturns("type");
+		TagmeConnectorTestDouble connector = new TagmeConnectorTestDouble().thatReturns("type");
 		
 		List<String> types = new Tagme(connector).annotate("any");
 		
@@ -33,7 +33,7 @@ public class TagmeTest {
 	
 	@Test
 	public void onManyAnnotationsShouldReturnManyInstances() throws Exception {
-		HttpConnectorTestDouble connector = new HttpConnectorTestDouble().thatReturns("type").thatReturns("other-type");
+		TagmeConnectorTestDouble connector = new TagmeConnectorTestDouble().thatReturns("type").thatReturns("other-type");
 		
 		List<String> types = new Tagme(connector).annotate("any");
 		
@@ -42,7 +42,7 @@ public class TagmeTest {
 	
 	@Test
 	public void shouldConvertTheNameToDBPediaOne() throws Exception {
-		HttpConnectorTestDouble connector = new HttpConnectorTestDouble().thatReturns("entity with a space");
+		TagmeConnectorTestDouble connector = new TagmeConnectorTestDouble().thatReturns("entity with a space");
 		
 		List<String> types = new Tagme(connector).annotate("any");
 		
@@ -51,7 +51,7 @@ public class TagmeTest {
 	
 	@Test
 	public void shouldComposeTheRighFormat() throws Exception {
-		HttpConnectorTestDouble connector = new HttpConnectorTestDouble();
+		TagmeConnectorTestDouble connector = new TagmeConnectorTestDouble();
 		
 		new Tagme(connector).annotate("foo", "baz", "bar");
 		
