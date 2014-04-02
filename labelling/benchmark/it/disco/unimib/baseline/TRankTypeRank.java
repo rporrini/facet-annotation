@@ -19,7 +19,13 @@ import scala.collection.Seq;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
 
-public class TRankBaseline implements TypeRanker {
+public class TRankTypeRank implements TypeRanker {
+	
+	private TRankRanking ranking;
+
+	public TRankTypeRank(TRankRanking ranking) {
+		this.ranking = ranking;
+	}
 
 	@Override
 	public String typeOf(String... entity) throws URISyntaxException {
@@ -27,7 +33,7 @@ public class TRankBaseline implements TypeRanker {
 		for(String e : entity){
 			entities.add(new URI(e));
 		}
-		HashMap<String, Double> scores = evaluateScoresOf(rankedTypes(entities));
+		HashMap<String, Double> scores = ranking.evaluateScoresOf(rankedTypes(entities));
 		double maxScore = -1d;
 		String candidate = null;
 		for(String type : scores.keySet()){
@@ -39,19 +45,6 @@ public class TRankBaseline implements TypeRanker {
 			}
 		}
 		return candidate;
-	}
-
-	private HashMap<String, Double> evaluateScoresOf(Map<URI, Seq<URI>> types) {
-		HashMap<String, Double> scores = new HashMap<String, Double>();
-		for(URI entity : types.keySet()){
-			List<URI> currentTypes = JavaConversions.asJavaList(types.get(entity));
-			for(URI type: currentTypes){
-				String typeString = type.toString();
-				if(!scores.containsKey(typeString)) scores.put(typeString, 0d);
-				scores.put(typeString, scores.get(typeString) + (1d / Math.sqrt(1d + (double)currentTypes.indexOf(type))));
-			}
-		}
-		return scores;
 	}
 
 	private Map<URI, Seq<URI>> rankedTypes(List<URI> entities) {

@@ -10,6 +10,7 @@ public class Qualitative implements Metric {
 
 	public Qualitative(){
 		this.results = new ArrayList<String>();
+		this.results.add("EXPECTED|ACTUAL");
 	}
 	
 	@Override
@@ -19,7 +20,7 @@ public class Qualitative implements Metric {
 
 	@Override
 	public Metric track(String expected, String actual) {
-		results.add("expected: " + expected + ", was: " + actual);
+		results.add(expected + "|" + actual);
 		return this;
 	}
 }
