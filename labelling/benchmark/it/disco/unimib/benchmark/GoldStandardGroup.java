@@ -4,8 +4,6 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-
-
 public class GoldStandardGroup {
 
 	private FileSystemConnector connector;
@@ -18,7 +16,7 @@ public class GoldStandardGroup {
 		return splittedName()[2];
 	}
 
-	public List<String> elements() {
+	public List<String> elements() throws Exception {
 		return connector.lines();
 	}
 

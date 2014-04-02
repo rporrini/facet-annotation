@@ -5,7 +5,11 @@ import it.disco.unimib.benchmark.FileSystemConnector;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FileSystemConnectorTestDouble implements FileSystemConnector{
+public class FileSystemConnectorTestDouble extends FileSystemConnector{
+
+	public FileSystemConnectorTestDouble() {
+		super(null);
+	}
 
 	private String name;
 	private List<String> lines = new ArrayList<String>();
