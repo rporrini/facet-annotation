@@ -1,5 +1,3 @@
-# Cluster Labelling
-
 ## Requisiti di sistema
 
 * linux
