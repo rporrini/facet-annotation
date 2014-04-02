@@ -8,6 +8,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.baseline.TRankBaseline;
 import it.disco.unimib.labelling.HttpConnector;
 import it.disco.unimib.labelling.Tagme;
+import it.disco.unimib.labelling.TypeRanker;
 
 import java.util.List;
 
@@ -17,7 +18,7 @@ public class TRankBaselineTest {
 
 	@Test
 	public void tRankShouldGiveASetOfTypesGivenAnEntity() throws Exception {
-		TRankBaseline baseline = new TRankBaseline();
+		TypeRanker baseline = new TRankBaseline();
 		
 		String type = baseline.typeOf("http://dbpedia.org/resource/Tom_Hanks", "http://dbpedia.org/resource/Harrison_Ford");
 		

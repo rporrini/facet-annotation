@@ -11,7 +11,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-public class Tagme {
+public class Tagme implements Annotator {
 
 	private HttpConnector connector;
 
@@ -19,6 +19,7 @@ public class Tagme {
 		this.connector = connector; 
 	}
 
+	@Override
 	public List<String> annotate(String... instances) throws Exception {
 		logRequestFor(instances);
 		JsonObject result = new Gson().fromJson(connector.get(createQueryString(instances)), JsonObject.class);

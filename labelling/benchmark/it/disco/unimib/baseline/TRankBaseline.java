@@ -4,6 +4,7 @@ import io.mem0r1es.trank.pipeline.TypeRanking;
 import io.mem0r1es.trank.pipeline.TypeRetrieval;
 import io.mem0r1es.trank.ranking.ANCESTORS;
 import it.disco.unimib.labelling.Events;
+import it.disco.unimib.labelling.TypeRanker;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -18,8 +19,9 @@ import scala.collection.Seq;
 import com.typesafe.config.Config;
 import com.typesafe.config.ConfigFactory;
 
-public class TRankBaseline {
+public class TRankBaseline implements TypeRanker {
 
+	@Override
 	public String typeOf(String... entity) throws URISyntaxException {
 		List<URI> entities = new ArrayList<URI>();
 		for(String e : entity){

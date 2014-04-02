@@ -6,6 +6,7 @@ import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labelling.Annotator;
 import it.disco.unimib.labelling.HttpConnector;
 import it.disco.unimib.labelling.Tagme;
 
@@ -17,7 +18,7 @@ public class TagmeTest {
 
 	@Test
 	public void onEmptyResposeShouldGiveAnEmptyEntitySet() throws Exception {
-		Tagme tagme = new Tagme(new TagmeConnectorTestDouble());
+		Annotator tagme = new Tagme(new TagmeConnectorTestDouble());
 		
 		assertThat(tagme.annotate("any"), is(empty()));
 	}
