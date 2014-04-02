@@ -3,6 +3,7 @@ package it.disco.unimib.baseline;
 import io.mem0r1es.trank.pipeline.TypeRanking;
 import io.mem0r1es.trank.pipeline.TypeRetrieval;
 import io.mem0r1es.trank.ranking.ANCESTORS;
+import it.disco.unimib.labelling.Events;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -24,26 +25,28 @@ public class TRankBaseline {
 		for(String e : entity){
 			entities.add(new URI(e));
 		}
-		HashMap<URI, Double> scores = evaluateScoresOf(rankedTypes(entities));
+		HashMap<String, Double> scores = evaluateScoresOf(rankedTypes(entities));
 		double maxScore = -1d;
-		URI candidate = null;
-		for(URI type : scores.keySet()){
+		String candidate = null;
+		for(String type : scores.keySet()){
 			double score = scores.get(type);
+			new Events().info(type + ": " + score);
 			if(score > maxScore){
 				candidate = type;
 				maxScore = score;
 			}
 		}
-		return candidate.toString();
+		return candidate;
 	}
 
-	private HashMap<URI, Double> evaluateScoresOf(Map<URI, Seq<URI>> types) {
-		HashMap<URI, Double> scores = new HashMap<URI, Double>();
-		for(URI uri : types.keySet()){
-			List<URI> currentTypes = JavaConversions.asJavaList(types.get(uri));
+	private HashMap<String, Double> evaluateScoresOf(Map<URI, Seq<URI>> types) {
+		HashMap<String, Double> scores = new HashMap<String, Double>();
+		for(URI entity : types.keySet()){
+			List<URI> currentTypes = JavaConversions.asJavaList(types.get(entity));
 			for(URI type: currentTypes){
-				if(!scores.containsKey(type)) scores.put(type, 0d);
-				scores.put(type, scores.get(type) + (1d / Math.sqrt((double)currentTypes.indexOf(type))));
+				String typeString = type.toString();
+				if(!scores.containsKey(typeString)) scores.put(typeString, 0d);
+				scores.put(typeString, scores.get(typeString) + (1d / Math.sqrt(1d + (double)currentTypes.indexOf(type))));
 			}
 		}
 		return scores;

@@ -20,10 +20,13 @@ public class Tagme {
 	}
 
 	public List<String> annotate(String... instances) throws Exception {
+		logRequestFor(instances);
 		JsonObject result = new Gson().fromJson(connector.get(createQueryString(instances)), JsonObject.class);
 		ArrayList<String> spottedInstances = new ArrayList<String>();
 		for(JsonElement element : (JsonArray)result.get("annotations")){
-			spottedInstances.add(asType(element));
+			String spottedType = asType(element);
+			log(spottedType);
+			spottedInstances.add(spottedType);
 		}
 		return spottedInstances;
 	}
@@ -36,5 +39,13 @@ public class Tagme {
 
 	private String asType(JsonElement element) {
 		return "http://dbpedia.org/resource/" + element.getAsJsonObject().get("title").getAsString().replace(" ", "_");
+	}
+	
+	private void log(String spottedType) {
+		new Events().info("retrieved entity: " + spottedType);
+	}
+	
+	private void logRequestFor(String... instances) {
+		new Events().info("querying tagme for: [" + StringUtils.join(instances, ", ") + "]");
 	}
 }

@@ -10,6 +10,15 @@ public class Events{
 	}
 	
 	public void error(Object message, Exception exception){
-		Logger.getLogger("").error(message, exception);
+		logger().error(message, exception);
+	}
+
+	
+	public void info(Object message){
+		logger().info(message);
+	}
+	
+	private Logger logger() {
+		return Logger.getLogger("");
 	}
 }
