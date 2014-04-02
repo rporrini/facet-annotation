@@ -5,6 +5,16 @@ root=`cd $relative_path;pwd`
 project=$root/labelling
 build=$project/build/classes
 
+echo "******* Preparing Infrastructure *******"
+if [ ! -d "$project/trank-indexes" ]; then
+	cd $project
+	wget "http://exascale.info/sites/default/files/uploaded/trank/trank-indexes.tgz"
+	tar xvzf trank-indexes.tgz
+	rm -f trank-indexes.tgz
+	cd ..
+fi
+echo "******* Done *******"
+
 echo "******* Building Project *******"
 cd $project
 rm -rf $build
