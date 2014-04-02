@@ -18,7 +18,7 @@ public class BenchmarkTest {
 		
 		new Benchmark(null, null).on(new FileSystemConnector[]{}, new Metric[]{metric});
 		
-		assertThat(metric.result(), is(equalTo("EXPECTED|ACTUAL")));		
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL")));		
 	}
 	
 	@Test
@@ -33,6 +33,6 @@ public class BenchmarkTest {
 								metric
 							});
 		
-		assertThat(metric.result(), is(equalTo("EXPECTED|ACTUAL\nexpected type|actual type")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL\nexpected type|actual type")));
 	}
 }

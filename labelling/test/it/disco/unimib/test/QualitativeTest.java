@@ -14,7 +14,7 @@ public class QualitativeTest {
 	public void onEmptyEvaluationShouldDisplayNothing() {
 		Metric metric = new Qualitative();
 		
-		assertThat(metric.result(), is(equalTo("EXPECTED|ACTUAL")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL")));
 	}
 	
 	@Test
@@ -24,6 +24,6 @@ public class QualitativeTest {
 		metric.track("year", "year")
 			  .track("decade", "year");
 		
-		assertThat(metric.result(), is(equalTo("EXPECTED|ACTUAL\nyear|year\ndecade|year")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL\nyear|year\ndecade|year")));
 	}
 }

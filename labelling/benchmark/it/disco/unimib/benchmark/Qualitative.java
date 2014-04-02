@@ -10,6 +10,7 @@ public class Qualitative implements Metric {
 
 	public Qualitative(){
 		this.results = new ArrayList<String>();
+		this.results.add("Qualitative analysis");
 		this.results.add("EXPECTED|ACTUAL");
 	}
 	
