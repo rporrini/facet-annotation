@@ -11,7 +11,7 @@ project=$root/labelling
 cd $root
 ./build.sh
 
-signal "Running Tests"
+signal "Running Benchmark"
 cd $project
-java -cp .:'labelling.jar':'lib/*' org.junit.runner.JUnitCore it.disco.unimib.test.TestSuite
+java -cp .:'labelling.jar':'lib/*' it.disco.unimib.benchmark.Run
 signal "Done"
