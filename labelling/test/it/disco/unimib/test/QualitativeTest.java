@@ -14,16 +14,16 @@ public class QualitativeTest {
 	public void onEmptyEvaluationShouldDisplayNothing() {
 		Metric metric = new Qualitative();
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL")));
 	}
 	
 	@Test
 	public void shouldTrackTheExecution() throws Exception {
 		Metric metric = new Qualitative();
 		
-		metric.track("year", "year")
-			  .track("decade", "year");
+		metric.track("context", "year", "year")
+			  .track("context", "decade", "year");
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nEXPECTED|ACTUAL\nyear|year\ndecade|year")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncontext|year|year\ncontext|decade|year")));
 	}
 }

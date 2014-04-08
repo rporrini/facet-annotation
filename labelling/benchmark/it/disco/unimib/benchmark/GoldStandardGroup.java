@@ -12,10 +12,6 @@ public class GoldStandardGroup {
 		this.connector = connector;
 	}
 
-	public String label() {
-		return splittedName()[2];
-	}
-
 	public List<String> elements() throws Exception {
 		return connector.lines();
 	}
@@ -23,7 +19,15 @@ public class GoldStandardGroup {
 	public String provider() {
 		return splittedName()[0];
 	}
+	
+	public String context() {
+		return splittedName()[1];
+	}
 
+	public String label() {
+		return splittedName()[2];
+	}
+	
 	private String[] splittedName() {
 		return StringUtils.split(connector.name(), "_");
 	}

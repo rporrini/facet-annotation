@@ -41,4 +41,14 @@ public class GoldStandardGroupTest {
 		
 		assertThat(group.provider(), is(equalTo("amazon")));
 	}
+	
+	@Test
+	public void shouldReturnTheContext() throws Exception {
+		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+																			.withName("amazon_category");
+		
+		GoldStandardGroup group = new GoldStandardGroup(connector);
+		
+		assertThat(group.context(), is(equalTo("category")));
+	}
 }

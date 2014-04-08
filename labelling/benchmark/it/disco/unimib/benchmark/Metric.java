@@ -4,5 +4,5 @@ public interface Metric {
 
 	public String result();
 
-	public Metric track(String expected, String actual);
+	public Metric track(String context, String expected, String actual);
 }
