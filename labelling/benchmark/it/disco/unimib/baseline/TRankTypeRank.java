@@ -49,6 +49,7 @@ public class TRankTypeRank implements TypeRanker {
 
 	private Map<URI, Seq<URI>> rankedTypes(List<URI> entities) {
 		scala.collection.immutable.Set<URI> set = JavaConversions.asScalaBuffer(entities).toSet();
+		System.setProperty("TRank.index_basepath", "../evaluation/trank-indexes");
 		Config config = ConfigFactory.load();
 		return JavaConversions.asJavaMap(TypeRanking.rankTypes(TypeRetrieval.retrieveTypes(set, config), new ANCESTORS(), config));
 	}
