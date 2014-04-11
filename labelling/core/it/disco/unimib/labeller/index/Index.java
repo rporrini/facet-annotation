@@ -17,8 +17,6 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-import com.hp.hpl.jena.graph.Triple;
-
 public class Index {
 
 	private Directory directory;
@@ -44,10 +42,10 @@ public class Index {
 		return this;
 	}
 
-	public Index add(Triple triple) throws Exception {
+	public Index add(NTriple triple) throws Exception {
 		Document document = new Document();
-		document.add(new Field(id(), triple.getSubject().getURI(), TextField.TYPE_STORED));
-		document.add(new Field(value(), triple.getObject().toString(), TextField.TYPE_STORED));
+		document.add(new Field(id(), triple.subject(), TextField.TYPE_STORED));
+		document.add(new Field(value(), triple.object().toString(), TextField.TYPE_STORED));
 		writer.addDocument(document);
 		return this;
 	}

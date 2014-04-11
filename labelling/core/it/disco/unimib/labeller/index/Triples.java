@@ -1,10 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-import org.apache.jena.riot.RiotReader;
-import org.apache.jena.riot.lang.LangNTriples;
-import org.apache.jena.riot.tokens.TokenizerFactory;
-
-import com.hp.hpl.jena.graph.Triple;
+import org.semanticweb.yars.nx.parser.NxParser;
 
 
 public class Triples {
@@ -16,11 +12,13 @@ public class Triples {
 	}
 
 	public void fill(Index index, TripleFilter filter) throws Exception {
-		LangNTriples triples = RiotReader.createParserNTriples(TokenizerFactory.makeTokenizerUTF8(connector.content()), null);
+		NxParser triples = new NxParser(connector.content());
 		while(triples.hasNext()){
-			Triple triple = triples.next();
-			if(filter.matches(triple)) index.add(triple);
+			try{
+				NTriple triple = new NTriple(triples.next());
+				if(filter.matches(triple)) index.add(triple);
+			}
+			catch(Exception e){}
 		}
-		index.close();
 	}
 }

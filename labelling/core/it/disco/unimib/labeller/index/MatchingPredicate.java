@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import com.hp.hpl.jena.graph.Triple;
 
 public class MatchingPredicate implements TripleFilter {
 
@@ -11,7 +10,7 @@ public class MatchingPredicate implements TripleFilter {
 	}
 
 	@Override
-	public boolean matches(Triple triple) {
-		return triple.getPredicate().getURI().equals(predicate);
+	public boolean matches(NTriple triple) {
+		return triple.predicate().equals(predicate);
 	}
 }

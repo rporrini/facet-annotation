@@ -1,41 +1,46 @@
 package it.disco.unimib.labeller.test;
 
-import org.apache.commons.lang3.StringUtils;
+import it.disco.unimib.labeller.index.NTriple;
 
-import com.hp.hpl.jena.graph.Node;
-import com.hp.hpl.jena.graph.NodeFactory;
-import com.hp.hpl.jena.graph.Triple;
+import java.net.URI;
+
+import org.apache.commons.lang3.StringUtils;
+import org.semanticweb.yars.nx.BNode;
+import org.semanticweb.yars.nx.Literal;
+import org.semanticweb.yars.nx.Node;
+import org.semanticweb.yars.nx.Resource;
+
 
 public class TripleBuilder{
 	
-	private Node subject = NodeFactory.createAnon();
-	private Node predicate = NodeFactory.createAnon();
-	private Node object = NodeFactory.createAnon();
+	private Node s = new BNode("_:1");
+	private Node p = new BNode("_:2");
+	private Node o = new BNode("_:3");
 
-	public TripleBuilder withSubject(String subject){
-		this.subject = NodeFactory.createURI(subject);
+	public TripleBuilder withSubject(String subject) throws Exception{
+		this.s = new Resource(new URI(subject));
 		return this;
 	}
 	
-	public TripleBuilder withPredicate(String predicate){
-		this.predicate = NodeFactory.createURI(predicate);
+	public TripleBuilder withPredicate(String predicate) throws Exception{
+		this.p = new Resource(new URI(predicate));
 		return this;
 	}
 	
 	public TripleBuilder withLiteral(String literal){
-		this.object = NodeFactory.createLiteral(literal);
+		this.o = new Literal(literal);
 		return this;
 	}
 	
-	public Triple asTriple(){
-		return new Triple(subject, predicate, object);
+	public NTriple asTriple(){
+		return new NTriple(new Node[]{s, p, o});
 	}
 	
 	public String asNTriple(){
 		return StringUtils.join(new Object[]{
-				subject,
-				predicate,
-				object,
+				s.toN3(),
+				p.toN3(),
+				o.toN3(),
 				"."
 		}, " ");
 	}

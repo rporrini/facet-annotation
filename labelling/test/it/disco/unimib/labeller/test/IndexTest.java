@@ -21,7 +21,7 @@ public class IndexTest {
 		
 		List<String> labels = index.get("http://entity");
 		
-		assertThat(labels, hasItem("\"the label\""));
+		assertThat(labels, hasItem("the label"));
 	}
 	
 	@Test

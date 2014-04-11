@@ -45,6 +45,7 @@ if [ ! -d "geonames" ]; then
 	rm -f all-geonames-rdf.zip
 	cd ../tools
 	./convert.py
+	rm all-geonames-rdf.txt
 	cd ..
 fi
 cd $root
