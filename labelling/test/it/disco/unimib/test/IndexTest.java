@@ -1,6 +1,7 @@
 package it.disco.unimib.test;
 
 import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.index.Index;
 
@@ -15,12 +16,23 @@ public class IndexTest {
 	public void whenALabelIsAddedItShouldBeReturned() throws Exception {
 		Index index = new Index(new RAMDirectory()).add(new TripleBuilder()
 															.withSubject("http://entity")
-															.withPredicate("http://predicate")
 															.withLiteral("the label").asTriple())
 													.close();
 		
 		List<String> labels = index.get("http://entity");
 		
 		assertThat(labels, hasItem("\"the label\""));
+	}
+	
+	@Test
+	public void whenADuplicatedEntityIsAddedShouldReturnBoth() throws Exception {
+		Index index = new Index(new RAMDirectory())
+								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the label").asTriple())
+								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
+						.close();
+
+		List<String> labels = index.get("http://entity");
+		
+		assertThat(labels, hasSize(2));
 	}
 }

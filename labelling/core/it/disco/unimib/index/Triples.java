@@ -4,6 +4,8 @@ import org.apache.jena.riot.RiotReader;
 import org.apache.jena.riot.lang.LangNTriples;
 import org.apache.jena.riot.tokens.TokenizerFactory;
 
+import com.hp.hpl.jena.graph.Triple;
+
 
 public class Triples {
 
@@ -13,10 +15,11 @@ public class Triples {
 		this.connector = connector;
 	}
 
-	public void fill(Index index) throws Exception {
+	public void fill(Index index, TripleFilter filter) throws Exception {
 		LangNTriples triples = RiotReader.createParserNTriples(TokenizerFactory.makeTokenizerUTF8(connector.content()), null);
 		while(triples.hasNext()){
-			index.add(triples.next());
+			Triple triple = triples.next();
+			if(filter.matches(triple)) index.add(triple);
 		}
 		index.close();
 	}

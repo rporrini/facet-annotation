@@ -8,9 +8,9 @@ import com.hp.hpl.jena.graph.Triple;
 
 public class TripleBuilder{
 	
-	private Node subject;
-	private Node predicate;
-	private Node object;
+	private Node subject = NodeFactory.createAnon();
+	private Node predicate = NodeFactory.createAnon();
+	private Node object = NodeFactory.createAnon();
 
 	public TripleBuilder withSubject(String subject){
 		this.subject = NodeFactory.createURI(subject);
@@ -33,9 +33,9 @@ public class TripleBuilder{
 	
 	public String asNTriple(){
 		return StringUtils.join(new Object[]{
-				asTriple().getSubject(),
-				asTriple().getPredicate(),
-				asTriple().getObject(),
+				subject,
+				predicate,
+				object,
 				"."
 		}, " ");
 	}

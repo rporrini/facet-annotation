@@ -53,7 +53,7 @@ public class Index {
 	}
 	
 	private ScoreDoc[] searchFor(String type, DirectoryReader reader) throws Exception {
-		return new IndexSearcher(reader).search(new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id()), 1).scoreDocs;
+		return new IndexSearcher(reader).search(new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id()), Integer.MAX_VALUE).scoreDocs;
 	}
 
 	private String id() {
