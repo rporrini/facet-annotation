@@ -1,9 +1,12 @@
-package it.disco.unimib.benchmark;
+package it.disco.unimib.index;
 
 import java.io.File;
+import java.io.InputStream;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
+
+import edu.stanford.nlp.io.IOUtils;
 
 public class FileSystemConnector{
 	
@@ -19,5 +22,9 @@ public class FileSystemConnector{
 
 	public List<String> lines() throws Exception{
 		return FileUtils.readLines(file);
+	}
+
+	public InputStream content() {
+		return IOUtils.openFile(file);
 	}
 }

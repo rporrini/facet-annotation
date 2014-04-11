@@ -1,5 +1,6 @@
 package it.disco.unimib.benchmark;
 
+import it.disco.unimib.index.FileSystemConnector;
 import it.disco.unimib.labelling.Annotator;
 import it.disco.unimib.labelling.TypeRanker;
 

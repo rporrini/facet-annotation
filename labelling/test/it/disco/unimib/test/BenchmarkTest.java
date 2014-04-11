@@ -4,9 +4,9 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.benchmark.Benchmark;
-import it.disco.unimib.benchmark.FileSystemConnector;
 import it.disco.unimib.benchmark.Metric;
 import it.disco.unimib.benchmark.Qualitative;
+import it.disco.unimib.index.FileSystemConnector;
 
 import org.junit.Test;
 

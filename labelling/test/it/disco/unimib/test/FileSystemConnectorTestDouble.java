@@ -1,9 +1,13 @@
 package it.disco.unimib.test;
 
-import it.disco.unimib.benchmark.FileSystemConnector;
+import it.disco.unimib.index.FileSystemConnector;
 
+import java.io.ByteArrayInputStream;
+import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
+
+import org.apache.commons.lang3.StringUtils;
 
 public class FileSystemConnectorTestDouble extends FileSystemConnector{
 
@@ -22,6 +26,11 @@ public class FileSystemConnectorTestDouble extends FileSystemConnector{
 	@Override
 	public List<String> lines() {
 		return this.lines;
+	}
+	
+	@Override
+	public InputStream content() {
+		return new ByteArrayInputStream(StringUtils.join(lines(), "\n").getBytes());
 	}
 
 	public FileSystemConnectorTestDouble withName(String name) {

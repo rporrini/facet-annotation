@@ -21,5 +21,7 @@
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/jena-core-2.11.1.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-queryparser-4.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/jena-arq-2.11.1.jar"/>
+	<classpathentry kind="lib" path="lib/jena-iri-1.0.1.jar"/>
 	<classpathentry kind="output" path="build/eclipse"/>
 </classpath>

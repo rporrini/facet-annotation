@@ -4,6 +4,7 @@ import it.disco.unimib.baseline.MajorityVote;
 import it.disco.unimib.baseline.RankedMajority;
 import it.disco.unimib.baseline.TRankNER;
 import it.disco.unimib.baseline.TRankTypeRank;
+import it.disco.unimib.index.FileSystemConnector;
 import it.disco.unimib.labelling.HttpConnector;
 import it.disco.unimib.labelling.Tagme;
 

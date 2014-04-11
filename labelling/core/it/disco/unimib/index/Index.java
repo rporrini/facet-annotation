@@ -14,18 +14,18 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.store.RAMDirectory;
+import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
 import com.hp.hpl.jena.graph.Triple;
 
 public class Index {
 
-	private RAMDirectory directory;
+	private Directory directory;
 	private IndexWriter writer;
 
-	public Index() throws Exception{
-		this.directory = new RAMDirectory();
+	public Index(Directory directory) throws Exception{
+		this.directory = directory;
 		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer()));
 	}
 	

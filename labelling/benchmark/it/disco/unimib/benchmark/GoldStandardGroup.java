@@ -1,5 +1,7 @@
 package it.disco.unimib.benchmark;
 
+import it.disco.unimib.index.FileSystemConnector;
+
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
