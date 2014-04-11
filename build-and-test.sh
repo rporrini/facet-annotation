@@ -13,5 +13,5 @@ cd $root
 
 signal "Running Tests"
 cd $project
-java -cp .:'labelling.jar':'lib/*' org.junit.runner.JUnitCore it.disco.unimib.test.TestSuite
+java -cp .:'labelling.jar':'lib/*' org.junit.runner.JUnitCore it.disco.unimib.labeller.test.TestSuite
 signal "Done"
