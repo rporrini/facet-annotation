@@ -10,8 +10,8 @@ root=`cd $relative_path;pwd`
 project=$root/labelling
 cd $root
 ./build.sh
-rm -rf evaluation/labeller-indexes/$1/$2
-mkdir -p evaluation/labeller-indexes/$1/$2
+rm -rf evaluation/labeller-indexes/$2
+mkdir -p evaluation/labeller-indexes/$2
 
 signal "Building $3 Index in $2 for $1"
 cd $project

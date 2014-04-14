@@ -4,8 +4,8 @@ build
 *.class
 trank-indexes
 labeller-indexes
-linkedbrainz
-geonames
+linkedbrainz*
+geonames*
 labelling/labelling.jar
 RemoteSystemsTempFiles
 logs

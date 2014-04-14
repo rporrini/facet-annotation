@@ -48,6 +48,19 @@ if [ ! -d "geonames" ]; then
 	rm all-geonames-rdf.txt
 	cd ..
 fi
+if [ ! -d "geonames-ontologies" ]; then
+	mkdir geonames-ontologies
+	cd tools
+	./download-ontology.py "http://www.geonames.org/ontology/ontology_v3.1.rdf" "../geonames-ontologies/geonames.nt"
+	cd ..
+fi
+if [ ! -d "linkedbrainz-ontologies" ]; then
+	mkdir linkedbrainz-ontologies
+	cd tools
+	./download-ontology.py "http://purl.org/ontology/mo/" "../linkedbrainz-ontologies/mo.nt"
+	./download-ontology.py 'http://www.w3.org/2003/01/geo/wgs84_pos' '../linkedbrainz-ontologies/wgs84_pos.nt'
+	./download-ontology.py 'http://purl.org/muto/core' '../linkedbrainz-ontologies/muto.nt'
+fi
 cd $root
 signal "Done"
 
