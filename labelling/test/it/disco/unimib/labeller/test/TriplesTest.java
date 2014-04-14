@@ -1,10 +1,7 @@
 package it.disco.unimib.labeller.test;
 
-import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
-import static org.hamcrest.Matchers.is;
-import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.MatchingPredicate;
@@ -20,11 +17,11 @@ public class TriplesTest {
 	public void shouldFillTheIndex() throws Exception {
 		Index index = new Index(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble().withLine(
-									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("label").asNTriple()))
+									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
 		index.close();
 		
-		assertThat(index.get("http://any"), is(not(empty())));
+		assertThat(index.get("http://any"), hasItem("the label"));
 	}
 	
 	@Test
@@ -64,6 +61,5 @@ public class TriplesTest {
 		index.close();
 		
 		assertThat(index.get("http://1234"), hasItem("http://uri%20with%20space"));
-		
 	}
 }

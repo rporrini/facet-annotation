@@ -24,7 +24,7 @@ public class Triples {
 			Matcher matcher = isAcceptable.matcher(line);
 			if(!matcher.matches()) continue;
 			String rawObject = matcher.group("object");
-			line = line.replace(rawObject, rawObject.replace(" ", "%20"));
+			if(rawObject.startsWith("<")) line = line.replace(rawObject, rawObject.replace(" ", "%20"));
 			try{
 				NTriple triple = new NTriple(NxParser.parseNodes(line));
 				if(filter.matches(triple)) index.add(triple);
