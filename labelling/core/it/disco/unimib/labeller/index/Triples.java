@@ -14,11 +14,8 @@ public class Triples {
 	public void fill(Index index, TripleFilter filter) throws Exception {
 		NxParser triples = new NxParser(connector.content());
 		while(triples.hasNext()){
-			try{
-				NTriple triple = new NTriple(triples.next());
-				if(filter.matches(triple)) index.add(triple);
-			}
-			catch(Exception e){}
+			NTriple triple = new NTriple(triples.next());
+			if(filter.matches(triple)) index.add(triple);
 		}
 	}
 }
