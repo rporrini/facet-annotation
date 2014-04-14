@@ -26,7 +26,7 @@ public class KeyValueStore extends Index {
 	}
 	
 	@Override
-	protected Query toQuery(String type) throws QueryNodeException {
+	protected Query toQuery(String type, String context) throws QueryNodeException {
 		return new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id());
 	}
 	
