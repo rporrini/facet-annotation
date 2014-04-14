@@ -10,3 +10,7 @@
 1. ```git clone https://{USERNAME}:{PASSWORD}@bitbucket.org/rporrini/cluster-labelling.git```
 2. ```cd cluster-labelling```
 3. ```./build-and-test.sh```
+
+## Per creare tutti gli indici necessari
+
+```./index-all.sh```
