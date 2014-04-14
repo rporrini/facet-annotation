@@ -11,7 +11,7 @@ public class RunIndexing {
 		String destination = args[1];
 		String predicate = args[2];
 		
-		Index index = new Index(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
+		Index index = new KeyValueStore(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
 			new Triples(new FileSystemConnector(file)).fill(index, new MatchingPredicate(predicate));
