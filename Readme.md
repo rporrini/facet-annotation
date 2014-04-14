@@ -13,4 +13,4 @@
 
 ## Per creare tutti gli indici necessari
 
-```./index-all.sh```
+* ```./index-all.sh```
