@@ -15,5 +15,5 @@ mkdir -p evaluation/labeller-indexes/$2
 
 signal "Building $3 Index in $2 for $1"
 cd $project
-java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunIndexing $1 $2 $3
+java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunKeyValueIndexing $1 $2 $3
 signal "Done"

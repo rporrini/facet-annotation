@@ -4,7 +4,7 @@ import java.io.File;
 
 import org.apache.lucene.store.SimpleFSDirectory;
 
-public class RunIndexing {
+public class RunKeyValueIndexing {
 
 	public static void main(String[] args) throws Exception{
 		String source = args[0];
