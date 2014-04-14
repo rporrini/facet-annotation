@@ -20,7 +20,7 @@ public class KeyValueStoreTest {
 															.withLiteral("the label").asTriple())
 													.close();
 		
-		List<String> labels = index.get("http://entity");
+		List<String> labels = index.get("http://entity", "any");
 		
 		assertThat(labels, hasItem("the label"));
 	}
@@ -32,7 +32,7 @@ public class KeyValueStoreTest {
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
 						.close();
 
-		List<String> labels = index.get("http://entity");
+		List<String> labels = index.get("http://entity", "any");
 		
 		assertThat(labels, hasSize(2));
 	}

@@ -26,7 +26,7 @@ public abstract class Index {
 		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer()));
 	}
 
-	public List<String> get(String type) throws Exception {
+	public List<String> get(String type, String context) throws Exception {
 		DirectoryReader reader = DirectoryReader.open(directory);
 		ArrayList<String> results = new ArrayList<String>();
 		IndexSearcher indexSearcher = new IndexSearcher(reader);
