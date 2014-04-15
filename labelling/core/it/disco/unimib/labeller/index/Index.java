@@ -23,7 +23,8 @@ public abstract class Index{
 
 	public Index(Directory directory) throws Exception{
 		this.directory = directory;
-		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer()));
+		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
+																			.setRAMBufferSizeMB(95));
 	}
 
 	public List<String> get(String type, String context) throws Exception {
