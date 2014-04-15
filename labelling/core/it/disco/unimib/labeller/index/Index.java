@@ -35,11 +35,16 @@ public abstract class Index{
 		return results;
 	}
 
-	public Index close() throws Exception {
+	public Index closeWriter() throws Exception {
 		this.writer.close();
 		return this;
 	}
-
+	
+	public Index closeReader() throws Exception {
+		this.writer.close();
+		return this;
+	}
+	
 	public Index add(NTriple triple) throws Exception {
 		writer.addDocument(toDocument(triple));
 		return this;

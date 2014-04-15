@@ -24,7 +24,7 @@ public class Triples {
 		int processedLines = 0;
 		int skippedLines = 0;
 		while(lines.hasNext()){
-			if(processedLines % 10000 == 0){
+			if(processedLines % 100000 == 0){
 				new Events().info("processed " + processedLines + " lines of file " + connector.name() + " (" + skippedLines + " skipped)");
 			}
 			processedLines++;
@@ -39,7 +39,10 @@ public class Triples {
 			try{
 				NTriple triple = new NTriple(NxParser.parseNodes(line));
 				if(filter.matches(triple)) index.add(triple);
-			}catch(Exception e){}
+				else skippedLines++;
+			}catch(Exception e){
+				new Events().equals(e);
+			}
 		}
 	}
 }

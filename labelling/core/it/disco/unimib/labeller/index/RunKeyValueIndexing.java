@@ -16,6 +16,6 @@ public class RunKeyValueIndexing {
 			System.out.println("processing " + file);
 			new Triples(new FileSystemConnector(file)).fill(index, new MatchingPredicate(predicate));
 		}
-		index.close();
+		index.closeWriter();
 	}
 }

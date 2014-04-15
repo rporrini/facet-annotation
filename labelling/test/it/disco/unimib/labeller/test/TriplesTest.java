@@ -20,7 +20,7 @@ public class TriplesTest {
 		new Triples(new FileSystemConnectorTestDouble().withLine(
 									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
-		index.close();
+		index.closeWriter();
 		
 		assertThat(index.get("http://any", "any"), hasItem("the label"));
 	}
@@ -32,7 +32,7 @@ public class TriplesTest {
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
 					.fill(index, new MatchingPredicate("http://label"));
-		index.close();
+		index.closeWriter();
 		
 		assertThat(index.get("http://france", "any"), hasSize(1));
 	}
@@ -59,7 +59,7 @@ public class TriplesTest {
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine("<http://1234> <http://predicate> <http://uri with space> ."))
 					.fill(index, new AcceptAll());
-		index.close();
+		index.closeWriter();
 		
 		assertThat(index.get("http://1234", "any"), hasItem("http://uri%20with%20space"));
 	}

@@ -13,16 +13,16 @@ public class FullTextSearchTest {
 
 	@Test
 	public void simpleLiteralsShouldBeSearchable() throws Exception {
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).close(), new KeyValueStore(new RAMDirectory()).close())
-							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).close();
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter())
+							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		assertThat(index.get("literal", "any"), hasItem("http://property"));		
 	}
 	
 	@Test
 	public void theTypeOfTheSubjectShouldBeSearchableAsContext() throws Exception {
-		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).close();
-		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).close();
+		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
+		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
 		Index index = new FullTextSearch(new RAMDirectory(), types, labels)
 							.add(new TripleBuilder()
@@ -30,7 +30,7 @@ public class FullTextSearchTest {
 										.withPredicate("http://property")
 										.withLiteral("the literal")
 										.asTriple())
-							.close();
+							.closeWriter();
 		
 		assertThat(index.get("any", "type"), hasItem("http://property"));
 	}

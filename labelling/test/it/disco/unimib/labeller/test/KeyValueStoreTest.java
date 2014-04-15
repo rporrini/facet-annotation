@@ -18,7 +18,7 @@ public class KeyValueStoreTest {
 		Index index = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
 															.withSubject("http://entity")
 															.withLiteral("the label").asTriple())
-													.close();
+													.closeWriter();
 		
 		List<String> labels = index.get("http://entity", "any");
 		
@@ -30,7 +30,7 @@ public class KeyValueStoreTest {
 		Index index = new KeyValueStore(new RAMDirectory())
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the label").asTriple())
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
-						.close();
+						.closeWriter();
 
 		List<String> labels = index.get("http://entity", "any");
 		
