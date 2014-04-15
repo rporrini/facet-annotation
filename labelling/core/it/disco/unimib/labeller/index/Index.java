@@ -6,6 +6,7 @@ import java.util.List;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.IndexSearcher;
@@ -18,6 +19,7 @@ public abstract class Index{
 
 	private IndexWriter writer;
 	private Directory directory;
+	private DirectoryReader reader;
 
 	public Index(Directory directory) throws Exception{
 		this.directory = directory;
@@ -25,13 +27,11 @@ public abstract class Index{
 	}
 
 	public List<String> get(String type, String context) throws Exception {
-		DirectoryReader reader = DirectoryReader.open(directory);
 		ArrayList<String> results = new ArrayList<String>();
-		IndexSearcher indexSearcher = new IndexSearcher(reader);
-		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), Integer.MAX_VALUE).scoreDocs){
+		IndexSearcher indexSearcher = new IndexSearcher(openReader());
+		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), 20).scoreDocs){
 			results.add(toResult(indexSearcher.doc(score.doc)));
 		}
-		reader.close();
 		return results;
 	}
 
@@ -43,6 +43,13 @@ public abstract class Index{
 	public Index add(NTriple triple) throws Exception {
 		writer.addDocument(toDocument(triple));
 		return this;
+	}
+	
+	private IndexReader openReader() throws Exception{
+		if(reader == null){
+			 reader = DirectoryReader.open(directory);
+		}
+		return reader;
 	}
 	
 	protected abstract Analyzer analyzer();

@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.labelling.Events;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -19,10 +21,19 @@ public class Triples {
 
 	public void fill(Index index, TripleFilter filter) throws Exception {
 		LineIterator lines = IOUtils.lineIterator(connector.content(), "UTF-8");
+		int processedLines = 0;
+		int skippedLines = 0;
 		while(lines.hasNext()){
+			if(processedLines % 10000 == 0){
+				new Events().info("processed " + processedLines + " lines of file " + connector.name() + " (" + skippedLines + " skipped)");
+			}
+			processedLines++;
 			String line = lines.nextLine();
 			Matcher matcher = isAcceptable.matcher(line);
-			if(!matcher.matches()) continue;
+			if(!matcher.matches()){
+				skippedLines++;
+				continue;
+			}
 			String rawObject = matcher.group("object");
 			if(rawObject.startsWith("<")) line = line.replace(rawObject, rawObject.replace(" ", "%20"));
 			try{
