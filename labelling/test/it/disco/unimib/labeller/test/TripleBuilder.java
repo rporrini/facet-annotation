@@ -2,8 +2,6 @@ package it.disco.unimib.labeller.test;
 
 import it.disco.unimib.labeller.index.NTriple;
 
-import java.net.URI;
-
 import org.apache.commons.lang3.StringUtils;
 import org.semanticweb.yars.nx.BNode;
 import org.semanticweb.yars.nx.Literal;
@@ -18,17 +16,22 @@ public class TripleBuilder{
 	private Node o = new BNode("_:3");
 
 	public TripleBuilder withSubject(String subject) throws Exception{
-		this.s = new Resource(new URI(subject));
+		this.s = new Resource(subject);
 		return this;
 	}
 	
 	public TripleBuilder withPredicate(String predicate) throws Exception{
-		this.p = new Resource(new URI(predicate));
+		this.p = new Resource(predicate);
 		return this;
 	}
 	
 	public TripleBuilder withLiteral(String literal){
 		this.o = new Literal(literal);
+		return this;
+	}
+	
+	public TripleBuilder withObject(String uri){
+		this.o = new Resource(uri);
 		return this;
 	}
 	
