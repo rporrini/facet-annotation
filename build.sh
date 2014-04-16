@@ -88,8 +88,12 @@ fi
 if [ ! -d "dbpedia-ontologies" ]; then
 	mkdir dbpedia-ontologies
 	cd dbpedia-ontologies
-	wget "http://downloads.dbpedia.org/3.8/en/infobox_property_definitions_en.nt.bz2"
-	bunzip2 infobox_property_definitions_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.8/dbpedia_3.8.owl.bz2"
+	bunzip2 dbpedia_3.8.owl.bz2
+	cd ../tools
+	./download-ontology.py "../dbpedia-ontologies/dbpedia_3.8.owl" "../dbpedia-ontologies/dbpedia_3.8.nt"
+	cd ../dbpedia-ontologies
+	rm dbpedia_3.8.owl
 	cd ..
 fi
 cd $root
