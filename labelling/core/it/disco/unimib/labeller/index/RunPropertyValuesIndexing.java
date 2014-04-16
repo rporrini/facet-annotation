@@ -11,11 +11,12 @@ import org.apache.lucene.store.NIOFSDirectory;
 public class RunPropertyValuesIndexing {
 
 	public static void main(String[] args) throws Exception {
-		String dataset = args[0];
-		Index types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + dataset + "/types")));
-		Index labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + dataset + "/labels")));
+		String destination = args[0];
+		String dataset = args[1];
+		Index types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + destination + "/types")));
+		Index labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + destination + "/labels")));
 		
-		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + dataset + "/predicates")), types, labels);
+		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + destination + "/predicates")), types, labels);
 		ExecutorService executor = Executors.newFixedThreadPool(4);
 		for(final File file : new File("../evaluation/" + dataset).listFiles()){
 			executor.execute(new Runnable() {
