@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.Metric;
 import it.disco.unimib.labeller.benchmark.Qualitative;
 
@@ -14,16 +14,16 @@ public class QualitativeTest {
 	public void onEmptyEvaluationShouldDisplayNothing() {
 		Metric metric = new Qualitative();
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));
 	}
 	
 	@Test
 	public void shouldTrackTheExecution() throws Exception {
 		Metric metric = new Qualitative();
 		
-		metric.track("context", "year", "year")
-			  .track("context", "decade", "year");
+		metric.track("domain", "context", "year", "year")
+			  .track("domain", "context", "decade", "year");
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncontext|year|year\ncontext|decade|year")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL\ndomain|context|year|year\ndomain|context|decade|year")));
 	}
 }

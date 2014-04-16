@@ -11,7 +11,7 @@ public class Qualitative implements Metric {
 	public Qualitative(){
 		this.results = new ArrayList<String>();
 		this.results.add("Qualitative analysis");
-		track("CONTEXT", "EXPECTED", "ACTUAL");
+		track("DOMAIN", "CONTEXT", "EXPECTED", "ACTUAL");
 	}
 	
 	@Override
@@ -20,8 +20,8 @@ public class Qualitative implements Metric {
 	}
 
 	@Override
-	public Metric track(String context, String expected, String actual) {
-		results.add(context + "|" + expected + "|" + actual);
+	public Metric track(String domain, String context, String expected, String actual) {
+		results.add(domain + "|" + context + "|" + expected + "|" + actual);
 		return this;
 	}
 }

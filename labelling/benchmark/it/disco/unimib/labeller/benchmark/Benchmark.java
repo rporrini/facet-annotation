@@ -21,7 +21,7 @@ public class Benchmark {
 			List<String> entities = annotator.annotate(elements.toArray(new String[elements.size()]));
 			String actualType = ranker.typeOf(entities.toArray(new String[entities.size()]));
 			for(Metric metric : metrics){
-				metric.track(group.context(), group.label(), actualType);
+				metric.track(group.domain(), group.context(), group.label(), actualType);
 			}
 		}
 	}

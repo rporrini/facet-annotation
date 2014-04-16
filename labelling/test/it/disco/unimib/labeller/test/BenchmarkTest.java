@@ -18,7 +18,7 @@ public class BenchmarkTest {
 		
 		new Benchmark(null, null).on(new GoldStandardGroup[]{}, new Metric[]{metric});
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL")));		
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));		
 	}
 	
 	@Test
@@ -33,6 +33,6 @@ public class BenchmarkTest {
 								metric
 							});
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncategory|expected type|actual type")));
+		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL\necommerce|category|expected type|actual type")));
 	}
 }
