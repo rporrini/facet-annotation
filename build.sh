@@ -77,9 +77,21 @@ if [ ! -d "dbpedia-properties" ]; then
 	bunzip2 mappingbased_properties_en.nt.bz2
 	wget "http://downloads.dbpedia.org/3.8/en/specific_mappingbased_properties_en.nt.bz2"
 	bunzip2 specific_mappingbased_properties_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.8/en/geo_coordinates_en.nt.bz2"
+	bunzip2 geo_coordinates_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.8/en/infobox_properties_en.nt.bz2"
+	bunzip2 infobox_properties_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.8/en/persondata_en.nt.bz2"
+	bunzip2 persondata_en.nt.bz2
 	cd ..
 fi
-
+if [ ! -d "dbpedia-ontologies" ]; then
+	mkdir dbpedia-ontologies
+	cd dbpedia-ontologies
+	wget "http://downloads.dbpedia.org/3.8/en/infobox_property_definitions_en.nt.bz2"
+	bunzip2 infobox_property_definitions_en.nt.bz2
+	cd ..
+fi
 cd $root
 signal "Done"
 
