@@ -68,6 +68,7 @@ public class FullTextSearch extends Index{
 		List<Integer> ids = new ArrayList<Integer>();
 		GroupingSearch groupingSearch = new GroupingSearch(property());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
+		groupingSearch.setFillSortFields(true);
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, toQuery(type, context), 0, 100000).groups){
 			ids.add(group.scoreDocs[0].doc);
 		}

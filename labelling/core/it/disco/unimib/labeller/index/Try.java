@@ -9,7 +9,7 @@ public class Try {
 	public static void main(String[] args) throws Exception {
 		FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/linkedbrainz/predicates")), null, null);
 		
-		System.out.println(predicates.get("dvd", "kjlkjlkjlkjlkjlsskaiii"));
+		System.out.println(predicates.get("love", "release"));
 		
 		predicates.closeReader();
 	}

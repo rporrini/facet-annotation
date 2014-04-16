@@ -14,11 +14,13 @@ cd $root/evaluation
 signal "Setting Up Environment"
 command -v python
 if [ $? -eq 1 ]; then
-	cd utils
 	sudo apt-get install python
 	curl --silent --show-error --retry 5 https://raw.github.com/pypa/pip/master/contrib/get-pip.py | sudo python
 	sudo pip install rdflib
-	cd ..
+fi
+command -v bzip2
+if [ $? -eq 1 ]; then
+	sudo apt-get install bzip2
 fi
 signal "Done"
 
@@ -61,6 +63,23 @@ if [ ! -d "linkedbrainz-ontologies" ]; then
 	./download-ontology.py 'http://www.w3.org/2003/01/geo/wgs84_pos' '../linkedbrainz-ontologies/wgs84_pos.nt'
 	./download-ontology.py 'http://purl.org/muto/core' '../linkedbrainz-ontologies/muto.nt'
 fi
+if [ ! -d "dbpedia-types" ]; then
+	mkdir dbpedia-types
+	cd dbpedia-types
+	wget "http://downloads.dbpedia.org/3.8/en/instance_types_en.nt.bz2"
+	bunzip2 instance_types_en.nt.bz2
+	cd ..
+fi
+if [ ! -d "dbpedia-properties" ]; then
+	mkdir dbpedia-properties
+	cd dbpedia-properties
+	wget "http://downloads.dbpedia.org/3.8/en/mappingbased_properties_en.nt.bz2"
+	bunzip2 mappingbased_properties_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.8/en/specific_mappingbased_properties_en.nt.bz2"
+	bunzip2 specific_mappingbased_properties_en.nt.bz2
+	cd ..
+fi
+
 cd $root
 signal "Done"
 
