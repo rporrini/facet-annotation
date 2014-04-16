@@ -45,6 +45,6 @@ public class Run {
 	}
 
 	private static GoldStandardGroup[] goldStandard() {
-		return new GoldStandard(new File("../evaluation/gold-standard")).getGroups();
+		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standard"))).getGroups();
 	}
 }

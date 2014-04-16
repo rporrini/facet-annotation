@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 
-import it.disco.unimib.labeller.benchmark.GoldStandard;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 
 import java.io.File;
@@ -14,7 +14,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class GoldStandardTest {
+public class UnorderedGroupsTest {
 
 	private File temporaryDirectory;
 	
@@ -33,7 +33,7 @@ public class GoldStandardTest {
 	public void shouldReturnTheRightNumberOfConnectors() throws Exception {
 		createFiles(temporaryDirectory, 10);
 		
-		GoldStandardGroup[] groups = new GoldStandard(temporaryDirectory).getGroups();
+		GoldStandardGroup[] groups = new UnorderedGroups(temporaryDirectory).getGroups();
 		
 		assertThat(groups.length, equalTo(10));
 	}
