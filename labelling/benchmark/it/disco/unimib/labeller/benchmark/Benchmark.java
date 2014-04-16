@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.FileSystemConnector;
 import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
@@ -16,9 +15,8 @@ public class Benchmark {
 		this.ranker = ranker;
 	}
 
-	public void on(FileSystemConnector[] connectors, Metric[] metrics) throws Exception {
-		for(FileSystemConnector connector : connectors){
-			GoldStandardGroup group = new GoldStandardGroup(connector);
+	public void on(GoldStandardGroup[] groups, Metric[] metrics) throws Exception {
+		for(GoldStandardGroup group : groups){
 			List<String> elements = group.elements();
 			List<String> entities = annotator.annotate(elements.toArray(new String[elements.size()]));
 			String actualType = ranker.typeOf(entities.toArray(new String[entities.size()]));

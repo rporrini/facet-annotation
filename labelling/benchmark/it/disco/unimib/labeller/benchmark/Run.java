@@ -4,13 +4,10 @@ import it.disco.unimib.labeller.baseline.MajorityVote;
 import it.disco.unimib.labeller.baseline.RankedMajority;
 import it.disco.unimib.labeller.baseline.TRankNER;
 import it.disco.unimib.labeller.baseline.TRankTypeRank;
-import it.disco.unimib.labeller.index.FileSystemConnector;
 import it.disco.unimib.labeller.labelling.HttpConnector;
 import it.disco.unimib.labeller.labelling.Tagme;
 
 import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Run {
 
@@ -47,11 +44,7 @@ public class Run {
 		return new Metric[]{new Qualitative()};
 	}
 
-	private static FileSystemConnector[] goldStandard() {
-		List<FileSystemConnector> connectors = new ArrayList<FileSystemConnector>();
-		for(File file : new File("../evaluation/gold-standard").listFiles()){
-			connectors.add(new FileSystemConnector(file));
-		}
-		return connectors.toArray(new FileSystemConnector[connectors.size()]);
+	private static GoldStandardGroup[] goldStandard() {
+		return new GoldStandard(new File("../evaluation/gold-standard")).getGroups();
 	}
 }

@@ -51,4 +51,14 @@ public class GoldStandardGroupTest {
 		
 		assertThat(group.context(), is(equalTo("category")));
 	}
+	
+	@Test
+	public void shouldGetTheDomain() throws Exception {
+		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+																			.withName("ecommerce");
+
+		GoldStandardGroup group = new GoldStandardGroup(connector);
+
+		assertThat(group.domain(), is(equalTo("ecommerce")));
+	}
 }

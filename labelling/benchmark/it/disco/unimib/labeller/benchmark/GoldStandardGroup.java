@@ -18,6 +18,10 @@ public class GoldStandardGroup {
 		return connector.lines();
 	}
 
+	public String domain() {
+		return splittedName()[0];
+	}
+	
 	public String provider() {
 		return splittedName()[1];
 	}
