@@ -10,8 +10,6 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
@@ -30,8 +28,8 @@ public abstract class Index{
 	public List<String> get(String type, String context) throws Exception {
 		ArrayList<String> results = new ArrayList<String>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), 20).scoreDocs){
-			results.add(toResult(indexSearcher.doc(score.doc)));
+		for(int id : matchingIds(type, context, indexSearcher)){
+			results.add(toResult(indexSearcher.doc(id)));
 		}
 		return results;
 	}
@@ -62,7 +60,7 @@ public abstract class Index{
 
 	protected abstract String toResult(Document doc);
 
-	protected abstract Query toQuery(String type, String context) throws Exception;
-
 	protected abstract Document toDocument(NTriple triple) throws Exception;
+	
+	protected abstract List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception;
 }

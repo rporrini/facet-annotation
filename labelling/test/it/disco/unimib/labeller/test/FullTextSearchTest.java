@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.index.Index;
@@ -33,5 +34,27 @@ public class FullTextSearchTest {
 							.closeWriter();
 		
 		assertThat(index.get("any", "type"), hasItem("http://property"));
+	}
+	
+	@Test
+	public void shouldGroupByPredicate() throws Exception {
+		Index index = new FullTextSearch(new RAMDirectory(), 
+										 new KeyValueStore(new RAMDirectory()).closeWriter(), 
+										 new KeyValueStore(new RAMDirectory()).closeWriter())
+							.add(new TripleBuilder()
+										.withPredicate("http://property")
+										.withLiteral("the literal")
+										.asTriple())
+							.add(new TripleBuilder()
+										.withPredicate("http://property")
+										.withLiteral("another literal")
+										.asTriple())
+							.add(new TripleBuilder()
+										.withPredicate("http://another_property")
+										.withLiteral("another literal")
+										.asTriple())
+						    .closeWriter();
+		
+		assertThat(index.get("literal", "any"), hasSize(2));
 	}
 }

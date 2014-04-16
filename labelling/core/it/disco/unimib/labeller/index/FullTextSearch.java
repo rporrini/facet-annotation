@@ -1,6 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.apache.lucene.analysis.Analyzer;
@@ -14,8 +16,13 @@ import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
+import org.apache.lucene.search.Sort;
+import org.apache.lucene.search.grouping.GroupDocs;
+import org.apache.lucene.search.grouping.GroupingSearch;
 import org.apache.lucene.store.Directory;
+import org.apache.lucene.util.BytesRef;
 import org.apache.lucene.util.Version;
 
 public class FullTextSearch extends Index{
@@ -42,14 +49,6 @@ public class FullTextSearch extends Index{
 	}
 
 	@Override
-	protected Query toQuery(String type, String context) throws Exception {
-		BooleanQuery query = new BooleanQuery();
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(type, literal()), Occur.SHOULD));
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(context, context()), Occur.SHOULD));
-		return query;
-	}
-
-	@Override
 	protected Document toDocument(NTriple triple) throws Exception {
 		Document document = new Document();
 		document.add(new Field(property(), triple.predicate(), TextField.TYPE_STORED));
@@ -62,6 +61,24 @@ public class FullTextSearch extends Index{
 		}
 		document.add(new Field(context(), context, TextField.TYPE_STORED));
 		return document;
+	}
+	
+	@Override
+	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
+		List<Integer> ids = new ArrayList<Integer>();
+		GroupingSearch groupingSearch = new GroupingSearch(property());
+		groupingSearch.setGroupSort(Sort.RELEVANCE);
+		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, toQuery(type, context), 0, 100000).groups){
+			ids.add(group.scoreDocs[0].doc);
+		}
+		return ids;
+	}
+	
+	private Query toQuery(String type, String context) throws Exception {
+		BooleanQuery query = new BooleanQuery();
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(type, literal()), Occur.SHOULD));
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(context, context()), Occur.SHOULD));
+		return query;
 	}
 	
 	private String literal() {
