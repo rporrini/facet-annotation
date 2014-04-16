@@ -14,7 +14,7 @@ public class GoldStandardGroupTest {
 	@Test
 	public void shouldReturnTheLabelOfTheGroupWhenThereIsAlsoAdditionalInformation() throws Exception {
 		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
-																.withName("amazon_category_the label");
+																.withName("ecommerce_amazon_category_the label");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 		
@@ -35,7 +35,7 @@ public class GoldStandardGroupTest {
 	@Test
 	public void shouldReturnTheNameOfTheSource() throws Exception {
 		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
-																			.withName("amazon");
+																			.withName("ecommerce_amazon");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 		
@@ -45,7 +45,7 @@ public class GoldStandardGroupTest {
 	@Test
 	public void shouldReturnTheContext() throws Exception {
 		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
-																			.withName("amazon_category");
+																			.withName("ecommerce_amazon_category");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 		

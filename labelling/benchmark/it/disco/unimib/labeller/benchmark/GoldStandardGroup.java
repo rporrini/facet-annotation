@@ -19,15 +19,15 @@ public class GoldStandardGroup {
 	}
 
 	public String provider() {
-		return splittedName()[0];
+		return splittedName()[1];
 	}
 	
 	public String context() {
-		return splittedName()[1];
+		return splittedName()[2];
 	}
 
 	public String label() {
-		return splittedName()[2];
+		return splittedName()[3];
 	}
 	
 	private String[] splittedName() {

@@ -27,7 +27,7 @@ public class BenchmarkTest {
 		
 		new Benchmark(new AnnotatorTestDouble(), new TypeRankerTestDouble().thatReturns("actual type"))
 						.on(new FileSystemConnector[]{
-								new FileSystemConnectorTestDouble().withName("amazon_category_expected type")
+								new FileSystemConnectorTestDouble().withName("ecommerce_amazon_category_expected type")
 							}, 
 							new Metric[]{
 								metric

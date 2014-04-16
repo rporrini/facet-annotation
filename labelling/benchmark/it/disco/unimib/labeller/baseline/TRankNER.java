@@ -21,6 +21,7 @@ public class TRankNER implements Annotator {
 	@Override
 	public List<String> annotate(String... instances) throws Exception {
 		Set<String> recognizedEntities = NER.runNER(StringUtils.join(instances, ", "));
+		System.setProperty("TRank.index_basepath", "../evaluation/trank-indexes");
 		Map<URI, String> entities = JavaConversions.asJavaMap(EntityLinking.linkEntities(recognizedEntities, ConfigFactory.load()));
 		List<String> result = new ArrayList<String>();
 		for(URI entity : entities.keySet()){
