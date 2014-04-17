@@ -77,7 +77,7 @@ public class FullTextSearch extends Index{
 	
 	private Query toQuery(String type, String context) throws Exception {
 		BooleanQuery query = new BooleanQuery();
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(type, literal()), Occur.SHOULD));
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(type, literal()), Occur.MUST));
 		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(context, context()), Occur.SHOULD));
 		return query;
 	}

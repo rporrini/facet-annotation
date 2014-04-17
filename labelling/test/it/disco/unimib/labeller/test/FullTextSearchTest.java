@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.test;
 
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
@@ -21,7 +22,7 @@ public class FullTextSearchTest {
 	}
 	
 	@Test
-	public void theTypeOfTheSubjectShouldBeSearchableAsContext() throws Exception {
+	public void theTypeOfTheSubjectShouldBeSearchableAsContextAndProvideMoreDetailedRanking() throws Exception {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
@@ -29,11 +30,16 @@ public class FullTextSearchTest {
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
-										.withLiteral("the literal")
+										.withLiteral("literal")
+										.asTriple())
+							.add(new TripleBuilder()
+										.withSubject("http://another_entity")
+										.withPredicate("http://another_property")
+										.withLiteral("other literal")
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("any", "type"), hasItem("http://property"));
+		assertThat(index.get("literal", "type").get(0), equalTo("http://property"));
 	}
 	
 	@Test
