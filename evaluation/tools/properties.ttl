@@ -1,0 +1,92 @@
+@prefix map: <#> .
+@prefix vocab: <http://catalog.shoppydoo.com/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix meta: <http://www4.wiwiss.fu-berlin.de/bizer/d2r-server/metadata#> .
+@prefix d2r: <http://sites.wiwiss.fu-berlin.de/suhl/bizer/d2r-server/config.rdf#> .
+@prefix d2rq: <http://www.wiwiss.fu-berlin.de/suhl/bizer/D2RQ/0.1#> .
+@prefix jdbc: <http://d2rq.org/terms/jdbc/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix gr: <http://purl.org/goodrelations/v1#> .
+@prefix schema: <http://schema.org/> .
+
+############################### server configuration #############################################
+<> a d2r:Server;
+  rdfs:label "D2R Server for TrovaPrezzi";
+  d2r:baseURI <http://localhost:2020/>;
+  d2r:port 2020;
+  d2r:vocabularyIncludeInstances true;
+  d2r:limitPerClassMap 50;
+  d2r:sparqlTimeout 0;
+  .
+
+######################################## db ###################################################
+map:database a d2rq:Database;
+	d2rq:jdbcDriver "org.postgresql.Driver";
+	d2rq:jdbcDSN "jdbc:postgresql://localhost/schededb";
+	d2rq:username "postgres";
+	.
+
+######################################### products ##########################################
+map:Product a d2rq:ClassMap;
+	d2rq:dataStorage map:database;
+	d2rq:uriPattern "@@Products.fixed_prod_name|urlify@@";
+	d2rq:class schema:Product;
+	.
+
+map:productName a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:Product;
+	d2rq:property rdf:label;
+	d2rq:column "Products.fixed_prod_name";
+	d2rq:lang "en";
+	.
+
+map:hasCategory a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:Product;
+	d2rq:property vocab:hasCategory;
+	d2rq:pattern "http://catalog.shoppydoo.com/resource/@@Product_Category_Description_Voc.category_name|urlify@@";
+	d2rq:join "Products.category_id => Product_Category_Description_Voc.category_id";
+	d2rq:condition "Product_Category_Description_Voc.lang_code = 'en'";
+	.
+
+map:featureUntranslated a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:Product;
+	d2rq:dynamicProperty "http://catalog.shoppydoo.com/ontology/@@Parameter_Description_Voc.parameter_name|urlify@@";
+	d2rq:pattern "@@Product_Parameters.param_value@@ @@Parameter_Description_Voc.unit@@";
+	
+	d2rq:join "Products.prod_id => Product_Parameters.prod_id";
+	d2rq:join "Product_Parameters.param_id => Parameters.param_id";
+	d2rq:join "Parameters.param_id <= Parameter_Description_Voc.param_id";
+	d2rq:condition "Parameter_Description_Voc.lang_code = 'en'";
+	d2rq:condition "Parameters.has_controlled_vocabulary = false";
+	.
+
+map:featureUncontrolled a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:Product;
+	d2rq:dynamicProperty "http://catalog.shoppydoo.com/ontology/@@Parameter_Description_Voc.parameter_name|urlify@@";
+	d2rq:pattern "@@uncontrolled_view.entry_value@@";
+
+	d2rq:join "Products.prod_id => Product_Parameters.prod_id";
+	d2rq:join "Product_Parameters.param_id => Parameters.param_id";
+	d2rq:join "Parameters.param_id <= Parameter_Description_Voc.param_id";
+	d2rq:join "Product_Parameters.param_value <= uncontrolled_view.entry_id";
+	d2rq:condition "Parameter_Description_Voc.lang_code = 'en'";
+	d2rq:condition "uncontrolled_view.lang_code = 'en'";
+	d2rq:condition "Parameters.has_controlled_vocabulary = false";
+	.
+
+map:featureControlled a d2rq:PropertyBridge;
+	d2rq:belongsToClassMap map:Product;
+	d2rq:dynamicProperty "http://catalog.shoppydoo.com/ontology/@@Parameter_Description_Voc.parameter_name|urlify@@";
+	d2rq:pattern "@@controlled_view.entry_value@@";
+
+	d2rq:join "Products.prod_id => Product_Parameters.prod_id";
+	d2rq:join "Product_Parameters.param_id => Parameters.param_id";
+	d2rq:join "Parameters.param_id <= Parameter_Description_Voc.param_id";
+	d2rq:join "Product_Parameters.param_value <= controlled_view.entry_id";
+	d2rq:condition "Parameter_Description_Voc.lang_code = 'en'";
+	d2rq:condition "controlled_view.lang_code = 'en'";
+	d2rq:condition "Parameters.has_controlled_vocabulary = true";
+	.
