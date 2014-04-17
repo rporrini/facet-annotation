@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.labelling.Events;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -66,10 +68,13 @@ public class FullTextSearch extends Index{
 	@Override
 	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<Integer> ids = new ArrayList<Integer>();
-		GroupingSearch groupingSearch = new GroupingSearch(property());
+//		indexSearcher.setSimilarity(new BM25Similarity());
+ 		GroupingSearch groupingSearch = new GroupingSearch(property());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
-		groupingSearch.setFillSortFields(true);
-		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, toQuery(type, context), 0, 100000).groups){
+		groupingSearch.setIncludeScores(true);
+		Query query = toQuery(type, context);
+		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
+			new Events().info(indexSearcher.explain(query, group.scoreDocs[0].doc));
 			ids.add(group.scoreDocs[0].doc);
 		}
 		return ids;
