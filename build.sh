@@ -66,34 +66,32 @@ fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
 	cd dbpedia-types
-	wget "http://downloads.dbpedia.org/3.8/en/instance_types_en.nt.bz2"
+	wget "http://downloads.dbpedia.org/3.9/en/instance_types_en.nt.bz2"
 	bunzip2 instance_types_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.9/en/instance_types_heuristic_en.nt.bz2"
+	bunzip2 instance_types_heuristic_en.nt.bz2
 	cd ..
 fi
-if [ ! -d "dbpedia-properties" ]; then
-	mkdir dbpedia-properties
-	cd dbpedia-properties
-	wget "http://downloads.dbpedia.org/3.8/en/mappingbased_properties_en.nt.bz2"
-	bunzip2 mappingbased_properties_en.nt.bz2
-	wget "http://downloads.dbpedia.org/3.8/en/specific_mappingbased_properties_en.nt.bz2"
-	bunzip2 specific_mappingbased_properties_en.nt.bz2
-	wget "http://downloads.dbpedia.org/3.8/en/geo_coordinates_en.nt.bz2"
-	bunzip2 geo_coordinates_en.nt.bz2
-	wget "http://downloads.dbpedia.org/3.8/en/infobox_properties_en.nt.bz2"
-	bunzip2 infobox_properties_en.nt.bz2
-	wget "http://downloads.dbpedia.org/3.8/en/persondata_en.nt.bz2"
-	bunzip2 persondata_en.nt.bz2
+if [ ! -d "dbpedia-categories" ]; then
+	mkdir dbpedia-categories
+	cd dbpedia-categories
+	wget "http://downloads.dbpedia.org/3.9/en/article_categories_en.nt.bz2"
+	bunzip2 article_categories_en.nt.bz2
 	cd ..
 fi
-if [ ! -d "dbpedia-ontologies" ]; then
-	mkdir dbpedia-ontologies
-	cd dbpedia-ontologies
-	wget "http://downloads.dbpedia.org/3.8/dbpedia_3.8.owl.bz2"
-	bunzip2 dbpedia_3.8.owl.bz2
+if [ ! -d "dbpedia-labels" ]; then
+	mkdir dbpedia-labels
+	cd dbpedia-labels
+	wget "http://downloads.dbpedia.org/3.9/en/labels_en.nt.bz2"
+	bunzip2 labels_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.9/en/category_labels_en.nt.bz2"
+	bunzip2 category_labels_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.9/dbpedia_3.9.owl.bz2"
+	bunzip2 dbpedia_3.9.owl.bz2
 	cd ../tools
-	./download-ontology.py "../dbpedia-ontologies/dbpedia_3.8.owl" "../dbpedia-ontologies/dbpedia_3.8.nt"
-	cd ../dbpedia-ontologies
-	rm dbpedia_3.8.owl
+	./download-ontology.py "../dbpedia-labels/dbpedia_3.9.owl" "../dbpedia-labels/dbpedia_3.9.nt"
+	cd ../dbpedia-labels
+	rm dbpedia_3.9.owl
 	cd ..
 fi
 cd $root
