@@ -62,6 +62,7 @@ if [ ! -d "linkedbrainz-ontologies" ]; then
 	./download-ontology.py "http://purl.org/ontology/mo/" "../linkedbrainz-ontologies/mo.nt"
 	./download-ontology.py 'http://www.w3.org/2003/01/geo/wgs84_pos' '../linkedbrainz-ontologies/wgs84_pos.nt'
 	./download-ontology.py 'http://purl.org/muto/core' '../linkedbrainz-ontologies/muto.nt'
+	cd ..
 fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
