@@ -10,9 +10,9 @@ root=`cd $relative_path;pwd`
 project=$root/labelling
 cd $root
 ./build.sh
-mkdir -p evaluation/labeller-indexes/$1/predicates
+mkdir -p evaluation/labeller-indexes/$2
 
-signal "Building Property Index for $2 in $1"
+signal "Building Property Index for dataset $1 in $2 with $2 and $3"
 cd $project
-java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunPropertyValuesIndexing $1 $2
+java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunPropertyValuesIndexing $1 $2 $3 $4
 signal "Done"

@@ -68,7 +68,6 @@ public class FullTextSearch extends Index{
 	@Override
 	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<Integer> ids = new ArrayList<Integer>();
-//		indexSearcher.setSimilarity(new BM25Similarity());
  		GroupingSearch groupingSearch = new GroupingSearch(property());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
