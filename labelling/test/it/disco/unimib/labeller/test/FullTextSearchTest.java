@@ -14,6 +14,25 @@ import org.junit.Test;
 public class FullTextSearchTest {
 
 	@Test
+	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteral() throws Exception {
+		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
+																		.withSubject("http://paris")
+																		.withLiteral("the city of paris")
+																		.asTriple())
+															.closeWriter();
+		
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels)
+							.add(new TripleBuilder()
+										.withSubject("http://france")
+										.withPredicate("http://hasCapital")
+										.withLiteral("http://paris")
+										.asTriple())
+							.closeWriter();
+		
+		assertThat(index.get("city", "any").get(0), equalTo("http://hasCapital"));
+	}
+	
+	@Test
 	public void simpleLiteralsShouldBeSearchable() throws Exception {
 		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter())
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();

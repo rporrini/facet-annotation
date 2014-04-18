@@ -54,7 +54,13 @@ public class FullTextSearch extends Index{
 	protected Document toDocument(NTriple triple) throws Exception {
 		Document document = new Document();
 		document.add(new Field(property(), triple.predicate(), TextField.TYPE_STORED));
-		document.add(new Field(literal(), triple.object(), TextField.TYPE_STORED));
+		
+		String value = triple.object().contains("http://") ? "" : triple.object();
+		for(String label : this.labels.get(triple.object(), "any")){
+			value += " " + label;
+		}		
+		document.add(new Field(literal(), value, TextField.TYPE_STORED));
+		
 		String context = "";
 		for(String type : this.types.get(triple.subject(), "any")){
 			for(String label : this.labels.get(type, "any")){
