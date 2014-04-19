@@ -71,6 +71,8 @@ if [ ! -d "dbpedia-types" ]; then
 	bunzip2 instance_types_en.nt.bz2
 	wget "http://downloads.dbpedia.org/3.9/en/instance_types_heuristic_en.nt.bz2"
 	bunzip2 instance_types_heuristic_en.nt.bz2
+	#wget "http://downloads.dbpedia.org/3.9/links/yago_types.nt.bz2"
+	#bunzip2 yago_types.nt.bz2
 	cd ..
 fi
 if [ ! -d "dbpedia-categories" ]; then
@@ -93,6 +95,7 @@ if [ ! -d "dbpedia-labels" ]; then
 	./download-ontology.py "../dbpedia-labels/dbpedia_3.9.owl" "../dbpedia-labels/dbpedia_3.9.nt"
 	cd ../dbpedia-labels
 	rm dbpedia_3.9.owl
+	wget -O schema-org.nt "http://www.w3.org/2012/pyRdfa/extract?uri=http://schema.org/docs/schema_org_rdfa.html&format=nt"	
 	cd ..
 fi
 cd $root
