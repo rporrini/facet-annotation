@@ -98,6 +98,15 @@ if [ ! -d "dbpedia-labels" ]; then
 	wget -O schema-org.nt "http://www.w3.org/2012/pyRdfa/extract?uri=http://schema.org/docs/schema_org_rdfa.html&format=nt"	
 	cd ..
 fi
+if [ ! -d "dbpedia-properties" ]; then
+	mkdir dbpedia-properties
+	cd dbpedia-properties
+	wget "http://downloads.dbpedia.org/3.9/en/mappingbased_properties_cleaned_en.nt.bz2"
+	bunzip2 mappingbased_properties_cleaned_en.nt.bz2
+	wget "http://downloads.dbpedia.org/3.9/en/specific_mappingbased_properties_en.nt.bz2"
+	bunzip2 specific_mappingbased_properties_en.nt.bz2
+	cd ..
+fi
 cd $root
 signal "Done"
 
