@@ -16,17 +16,19 @@ public class RunPropertyValuesIndexing {
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
 		
-		Index types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		Index labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		AbstractIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
+		AbstractIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
-		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), types, labels);
+		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
+															types, 
+															labels);
 		ExecutorService executor = Executors.newFixedThreadPool(4);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
 			executor.execute(new Runnable() {
 				@Override
 				public void run() {
 					try {
-						new Triples(new FileSystemConnector(file)).fill(predicates, new LiteralObject());
+						new Triples(new FileSystemConnector(file)).fill(predicates, new AcceptAll());
 					} catch (Exception e) {
 						new Events().error("processing file: " + file, e);
 					}

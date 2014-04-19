@@ -16,7 +16,7 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 
-public class KeyValueStore extends Index {
+public class KeyValueStore extends AbstractIndex {
 
 	public KeyValueStore(Directory directory) throws Exception {
 		super(directory);

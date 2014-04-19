@@ -7,7 +7,6 @@ function signal(){
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
-project=$root/labelling
 cd $root
 
 ./key-value-index.sh dbpedia-types dbpedia/types "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
