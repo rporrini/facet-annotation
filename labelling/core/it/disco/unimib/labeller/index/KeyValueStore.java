@@ -25,7 +25,7 @@ public class KeyValueStore extends Index {
 	@Override
 	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<Integer> ids = new ArrayList<Integer>();
-		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), 20).scoreDocs){
+		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
 			ids.add(score.doc);
 		}
 		return ids;
@@ -47,6 +47,10 @@ public class KeyValueStore extends Index {
 	@Override
 	protected Analyzer analyzer() {
 		return new KeywordAnalyzer();
+	}
+	
+	private int maximumNumberOfTypesForAResourceInDBPedia() {
+		return 203;
 	}
 	
 	private String id() {
