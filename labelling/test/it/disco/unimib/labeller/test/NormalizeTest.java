@@ -10,7 +10,7 @@ public class NormalizeTest {
 
 	@Test
 	public void shouldNormalizeASetOfASingleProbability() {
-		Normalize normalize = new Normalize(new double[]{0.66});
+		Normalize normalize = new Normalize(new Double[]{0.66});
 		
 		assertThat(normalize.value(0.66), equalTo(1.0d));
 	}

@@ -3,21 +3,21 @@ package it.disco.unimib.labeller.labelling;
 
 public class Normalize {
 
-	private double max;
+	private double sum;
 
-	public Normalize(double[] values) {
-		this.max = max(values);
+	public Normalize(Double[] doubles) {
+		this.sum = sum(doubles);
 	}
 
-	private double max(double[] values) {
-		double maximum = 0;
+	private double sum(Double[] values) {
+		double sum = 0;
 		for(double value : values){
-			if(maximum < value) maximum = value;
+			sum += value;
 		}
-		return maximum;
+		return sum;
 	}
 
 	public double value(double value) {
-		return value/max;
+		return value/sum;
 	}
 }
