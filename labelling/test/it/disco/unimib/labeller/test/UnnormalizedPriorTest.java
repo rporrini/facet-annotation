@@ -4,6 +4,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
 
 import java.util.ArrayList;
@@ -26,7 +27,7 @@ public class UnnormalizedPriorTest {
 		occurrenciesForRome.add(new SearchResult("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
-		UnnormalizedPrior prior = new UnnormalizedPrior(distribution);
+		UnnormalizedPrior prior = new UnnormalizedPrior(new Distribution(distribution));
 		
 		assertThat(prior.of("capital"), is(greaterThan(prior.of("birthPlace"))));
 	}

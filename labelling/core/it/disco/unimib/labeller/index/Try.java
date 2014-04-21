@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.index;
 
 import it.disco.unimib.labeller.labelling.ContextUnawareCandidatePredicates;
+import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
 
 import java.io.File;
@@ -20,7 +21,7 @@ public class Try {
 				System.out.println(result);
 			}
 		}
-		UnnormalizedPrior prior = new UnnormalizedPrior(results);
+		UnnormalizedPrior prior = new UnnormalizedPrior(new Distribution(results));
 		System.out.println(prior.of("http://dbpedia.org/ontology/activeYearsStartYear"));
 		System.out.println(prior.of("http://dbpedia.org/ontology/personName"));
 		
