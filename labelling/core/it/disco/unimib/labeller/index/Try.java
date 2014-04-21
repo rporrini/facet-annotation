@@ -17,6 +17,10 @@ public class Try {
 				System.out.println(result);
 			}
 		}
+		UnnormalizedPrior prior = new UnnormalizedPrior(results);
+		System.out.println(prior.of("http://dbpedia.org/ontology/activeYearsStartYear"));
+		System.out.println(prior.of("http://dbpedia.org/ontology/personName"));
+		
 		predicates.closeReader();
 	}
 
