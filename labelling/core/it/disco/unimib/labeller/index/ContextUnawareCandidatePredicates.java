@@ -4,11 +4,11 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class CandidatePredicates {
+public class ContextUnawareCandidatePredicates {
 
 	private Index index;
 
-	public CandidatePredicates(Index index) {
+	public ContextUnawareCandidatePredicates(Index index) {
 		this.index = index;
 	}
 

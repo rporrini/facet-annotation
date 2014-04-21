@@ -17,4 +17,9 @@ public class SearchResult{
 	public double score(){
 		return score;
 	}
+	
+	@Override
+	public String toString() {
+		return value + " [" + score + "]";
+	}
 }
