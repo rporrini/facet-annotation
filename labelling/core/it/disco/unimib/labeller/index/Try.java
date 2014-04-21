@@ -1,5 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.labelling.ContextUnawareCandidatePredicates;
+import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
+
 import java.io.File;
 import java.util.HashMap;
 import java.util.List;

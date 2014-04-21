@@ -1,20 +1,29 @@
-package it.disco.unimib.labeller.index;
+package it.disco.unimib.labeller.labelling;
+
+import it.disco.unimib.labeller.index.SearchResult;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
-import java.util.Set;
 
-public class UnnormalizedPrior {
-
+public class Distribution{
 	private HashMap<String, HashMap<String, List<SearchResult>>> predicatesDistribution;
-	private Set<String> values;
-
-	public UnnormalizedPrior(HashMap<String, List<SearchResult>> valueDistribution) {
+	
+	public Distribution(HashMap<String, List<SearchResult>> valueDistribution) {
 		this.predicatesDistribution = invert(valueDistribution);
-		this.values = valueDistribution.keySet();
 	}
-
+	
+	public double scoreOf(String predicate, String value) {
+		List<SearchResult> list = this.predicatesDistribution.get(predicate).get(value);
+		double count = 0.0;
+		if(list != null){
+			for(SearchResult result : list){
+				count += result.score();
+			}
+		}
+		return count;
+	}
+	
 	private HashMap<String, HashMap<String, List<SearchResult>>> invert(HashMap<String, List<SearchResult>> valueDistribution) {
 		HashMap<String, HashMap<String, List<SearchResult>>> inverted = new HashMap<String, HashMap<String, List<SearchResult>>>();
 		for(String value : valueDistribution.keySet()){
@@ -29,20 +38,5 @@ public class UnnormalizedPrior {
 			}
 		}
 		return inverted;
-	}
-
-	public double of(String predicate) {
-		double totalScore = 0.0;
-		for(String value : this.values){
-			List<SearchResult> list = this.predicatesDistribution.get(predicate).get(value);
-			double count = 0.0;
-			if(list != null){
-				for(SearchResult result : list){
-					count += result.score();
-				}
-			}
-			totalScore += Math.log(count + 1 + 0.001);
-		}
-		return totalScore;
 	}
 }

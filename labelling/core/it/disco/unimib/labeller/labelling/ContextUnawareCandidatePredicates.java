@@ -1,4 +1,7 @@
-package it.disco.unimib.labeller.index;
+package it.disco.unimib.labeller.labelling;
+
+import it.disco.unimib.labeller.index.Index;
+import it.disco.unimib.labeller.index.SearchResult;
 
 import java.util.HashMap;
 import java.util.List;

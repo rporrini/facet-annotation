@@ -3,8 +3,8 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.ContextUnawareCandidatePredicates;
 import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.labelling.ContextUnawareCandidatePredicates;
 
 import java.util.HashMap;
 import java.util.List;

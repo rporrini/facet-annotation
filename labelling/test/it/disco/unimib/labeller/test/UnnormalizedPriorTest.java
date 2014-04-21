@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.SearchResult;
-import it.disco.unimib.labeller.index.UnnormalizedPrior;
+import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
 
 import java.util.ArrayList;
 import java.util.HashMap;
