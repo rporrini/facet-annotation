@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AbstractIndex;
+import it.disco.unimib.labeller.index.LuceneBasedIndex;
 import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.KeyValueStore;
 import it.disco.unimib.labeller.index.MatchingPredicate;
@@ -17,7 +17,7 @@ public class TriplesTest {
 
 	@Test
 	public void shouldFillTheIndex() throws Exception {
-		AbstractIndex index = new KeyValueStore(new RAMDirectory());
+		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble().withLine(
 									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
@@ -28,7 +28,7 @@ public class TriplesTest {
 	
 	@Test
 	public void shouldAddOnlyMatchingPredicates() throws Exception {
-		AbstractIndex index = new KeyValueStore(new RAMDirectory());
+		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
@@ -56,7 +56,7 @@ public class TriplesTest {
 	
 	@Test
 	public void shouldIndexAlsoWithSpaces() throws Exception {
-		AbstractIndex index = new KeyValueStore(new RAMDirectory());
+		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine("<http://1234> <http://predicate> <http://uri with space> ."))
 					.fill(index, new AcceptAll());

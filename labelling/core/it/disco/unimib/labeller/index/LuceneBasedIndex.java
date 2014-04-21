@@ -14,13 +14,13 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-public abstract class AbstractIndex implements Index{
+public abstract class LuceneBasedIndex implements Index{
 
 	private IndexWriter writer;
 	private Directory directory;
 	private DirectoryReader reader;
 
-	public AbstractIndex(Directory directory) throws Exception{
+	public LuceneBasedIndex(Directory directory) throws Exception{
 		this.directory = directory;
 		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
 																			.setRAMBufferSizeMB(95));
@@ -47,7 +47,7 @@ public abstract class AbstractIndex implements Index{
 		return this;
 	}
 	
-	public AbstractIndex add(NTriple triple) throws Exception {
+	public LuceneBasedIndex add(NTriple triple) throws Exception {
 		writer.addDocument(toDocument(triple));
 		return this;
 	}

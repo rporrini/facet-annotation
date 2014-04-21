@@ -16,8 +16,8 @@ public class RunPropertyValuesIndexing {
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
 		
-		AbstractIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		AbstractIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		LuceneBasedIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
+		LuceneBasedIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
 		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
 															types, 

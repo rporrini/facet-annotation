@@ -28,7 +28,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.BytesRef;
 import org.apache.lucene.util.Version;
 
-public class FullTextSearch extends AbstractIndex{
+public class FullTextSearch extends LuceneBasedIndex{
 
 	private Index types;
 	private Index labels;
