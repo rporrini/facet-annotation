@@ -23,10 +23,10 @@ public class KeyValueStore extends AbstractIndex {
 	}
 	
 	@Override
-	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
-		List<Integer> ids = new ArrayList<Integer>();
+	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
+		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
 		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
-			ids.add(score.doc);
+			ids.add(score);
 		}
 		return ids;
 	}
@@ -40,8 +40,8 @@ public class KeyValueStore extends AbstractIndex {
 	}
 	
 	@Override
-	protected Result toResult(Document doc) {
-		return new Result(doc.get(value()));
+	protected String toResult(Document doc) {
+		return doc.get(value());
 	}
 	
 	@Override

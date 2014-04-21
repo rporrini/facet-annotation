@@ -4,6 +4,6 @@ import java.util.List;
 
 public interface Index {
 
-	public List<Result> get(String type, String context) throws Exception;
+	public List<SearchResult> get(String type, String context) throws Exception;
 
 }

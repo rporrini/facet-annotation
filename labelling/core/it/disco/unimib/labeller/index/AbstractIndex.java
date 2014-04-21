@@ -10,6 +10,7 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
@@ -26,11 +27,12 @@ public abstract class AbstractIndex implements Index{
 	}
 
 	@Override
-	public List<Result> get(String type, String context) throws Exception {
-		ArrayList<Result> results = new ArrayList<Result>();
+	public List<SearchResult> get(String type, String context) throws Exception {
+		ArrayList<SearchResult> results = new ArrayList<SearchResult>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		for(int id : matchingIds(type, context, indexSearcher)){
-			results.add(toResult(indexSearcher.doc(id)));
+		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
+			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
+			results.add(new SearchResult(toResult(indexedDocument), documentPointer.score));
 		}
 		return results;
 	}
@@ -59,9 +61,9 @@ public abstract class AbstractIndex implements Index{
 	
 	protected abstract Analyzer analyzer();
 
-	protected abstract Result toResult(Document doc);
+	protected abstract String toResult(Document doc);
 
 	protected abstract Document toDocument(NTriple triple) throws Exception;
 	
-	protected abstract List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception;
+	protected abstract List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception;
 }

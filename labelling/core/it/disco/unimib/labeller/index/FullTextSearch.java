@@ -20,6 +20,7 @@ import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
+import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.grouping.GroupDocs;
 import org.apache.lucene.search.grouping.GroupingSearch;
@@ -46,8 +47,8 @@ public class FullTextSearch extends AbstractIndex{
 	}
 
 	@Override
-	protected Result toResult(Document doc) {
-		return new Result(doc.get(property()));
+	protected String toResult(Document doc) {
+		return doc.get(property());
 	}
 
 	@Override
@@ -56,14 +57,14 @@ public class FullTextSearch extends AbstractIndex{
 		document.add(new Field(property(), triple.predicate(), TextField.TYPE_STORED));
 		
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(Result label : this.labels.get(triple.object(), "any")){
+		for(SearchResult label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
 		}		
 		document.add(new Field(literal(), value, TextField.TYPE_STORED));
 		
 		String context = "";
-		for(Result type : this.types.get(triple.subject(), "any")){
-			for(Result label : this.labels.get(type.value(), "any")){
+		for(SearchResult type : this.types.get(triple.subject(), "any")){
+			for(SearchResult label : this.labels.get(type.value(), "any")){
 				context += " " + label.value();
 			}
 		}
@@ -72,15 +73,15 @@ public class FullTextSearch extends AbstractIndex{
 	}
 	
 	@Override
-	protected List<Integer> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
-		List<Integer> ids = new ArrayList<Integer>();
+	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
+		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
  		GroupingSearch groupingSearch = new GroupingSearch(property());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
 		Query query = toQuery(type, context);
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
 			new Events().info(indexSearcher.explain(query, group.scoreDocs[0].doc));
-			ids.add(group.scoreDocs[0].doc);
+			ids.add(group.scoreDocs[0]);
 		}
 		return ids;
 	}
