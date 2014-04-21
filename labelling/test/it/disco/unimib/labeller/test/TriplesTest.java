@@ -1,10 +1,10 @@
 package it.disco.unimib.labeller.test;
 
-import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.AbstractIndex;
+import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.KeyValueStore;
 import it.disco.unimib.labeller.index.MatchingPredicate;
 import it.disco.unimib.labeller.index.Triples;
@@ -23,7 +23,7 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://any", "any"), hasItem("the label"));
+		assertThat(index.get("http://any", "any").get(0).value(), equalTo("the label"));
 	}
 	
 	@Test
@@ -62,6 +62,6 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://1234", "any"), hasItem("http://uri%20with%20space"));
+		assertThat(index.get("http://1234", "any").get(0).value(), equalTo("http://uri%20with%20space"));
 	}
 }

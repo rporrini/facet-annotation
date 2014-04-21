@@ -40,8 +40,8 @@ public class KeyValueStore extends AbstractIndex {
 	}
 	
 	@Override
-	protected String toResult(Document doc) {
-		return doc.get(value());
+	protected Result toResult(Document doc) {
+		return new Result(doc.get(value()));
 	}
 	
 	@Override

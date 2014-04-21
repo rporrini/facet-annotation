@@ -1,7 +1,6 @@
 package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.equalTo;
-import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.FullTextSearch;
@@ -29,7 +28,7 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("city", "any").get(0), equalTo("http://hasCapital"));
+		assertThat(index.get("city", "any").get(0).value(), equalTo("http://hasCapital"));
 	}
 	
 	@Test
@@ -37,7 +36,7 @@ public class FullTextSearchTest {
 		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter())
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		assertThat(index.get("literal", "any"), hasItem("http://property"));		
+		assertThat(index.get("literal", "any").get(0).value(), equalTo("http://property"));		
 	}
 	
 	@Test
@@ -58,7 +57,7 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("literal", "type").get(0), equalTo("http://property"));
+		assertThat(index.get("literal", "type").get(0).value(), equalTo("http://property"));
 	}
 	
 	@Test

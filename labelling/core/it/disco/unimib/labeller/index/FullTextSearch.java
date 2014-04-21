@@ -46,8 +46,8 @@ public class FullTextSearch extends AbstractIndex{
 	}
 
 	@Override
-	protected String toResult(Document doc) {
-		return doc.get(property());
+	protected Result toResult(Document doc) {
+		return new Result(doc.get(property()));
 	}
 
 	@Override
@@ -56,15 +56,15 @@ public class FullTextSearch extends AbstractIndex{
 		document.add(new Field(property(), triple.predicate(), TextField.TYPE_STORED));
 		
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(String label : this.labels.get(triple.object(), "any")){
-			value += " " + label;
+		for(Result label : this.labels.get(triple.object(), "any")){
+			value += " " + label.value();
 		}		
 		document.add(new Field(literal(), value, TextField.TYPE_STORED));
 		
 		String context = "";
-		for(String type : this.types.get(triple.subject(), "any")){
-			for(String label : this.labels.get(type, "any")){
-				context += " " + label;
+		for(Result type : this.types.get(triple.subject(), "any")){
+			for(Result label : this.labels.get(type.value(), "any")){
+				context += " " + label.value();
 			}
 		}
 		document.add(new Field(context(), context, TextField.TYPE_STORED));

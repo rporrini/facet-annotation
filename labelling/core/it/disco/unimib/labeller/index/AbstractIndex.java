@@ -26,8 +26,8 @@ public abstract class AbstractIndex implements Index{
 	}
 
 	@Override
-	public List<String> get(String type, String context) throws Exception {
-		ArrayList<String> results = new ArrayList<String>();
+	public List<Result> get(String type, String context) throws Exception {
+		ArrayList<Result> results = new ArrayList<Result>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
 		for(int id : matchingIds(type, context, indexSearcher)){
 			results.add(toResult(indexSearcher.doc(id)));
@@ -59,7 +59,7 @@ public abstract class AbstractIndex implements Index{
 	
 	protected abstract Analyzer analyzer();
 
-	protected abstract String toResult(Document doc);
+	protected abstract Result toResult(Document doc);
 
 	protected abstract Document toDocument(NTriple triple) throws Exception;
 	
