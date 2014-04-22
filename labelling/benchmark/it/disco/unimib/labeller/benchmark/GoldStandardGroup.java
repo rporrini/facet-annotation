@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.FileSystemConnector;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
@@ -15,7 +16,7 @@ public class GoldStandardGroup {
 	}
 
 	public List<String> elements() throws Exception {
-		return connector.lines();
+		return nonEmpty(connector.lines());
 	}
 
 	public String domain() {
@@ -36,5 +37,13 @@ public class GoldStandardGroup {
 	
 	private String[] splittedName() {
 		return StringUtils.split(connector.name(), "_");
+	}
+	
+	private List<String> nonEmpty(List<String> lines) {
+		List<String> result = new ArrayList<String>();
+		for(String line : lines){
+			if(!line.trim().isEmpty()) result.add(line);
+		}
+		return result;
 	}
 }

@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
@@ -60,5 +61,17 @@ public class GoldStandardGroupTest {
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 
 		assertThat(group.domain(), is(equalTo("ecommerce")));
+	}
+	
+	@Test
+	public void shouldSkipEmptyLines() throws Exception {
+		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+																			.withLine("first line")
+																			.withLine("")
+																			.withLine("second line");
+		
+		GoldStandardGroup group = new GoldStandardGroup(connector);
+		
+		assertThat(group.elements(), hasSize(2));
 	}
 }
