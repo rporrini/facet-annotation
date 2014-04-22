@@ -1,12 +1,5 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.baseline.MajorityVote;
-import it.disco.unimib.labeller.baseline.RankedMajority;
-import it.disco.unimib.labeller.baseline.TRankNER;
-import it.disco.unimib.labeller.baseline.TRankTypeRank;
-import it.disco.unimib.labeller.labelling.HttpConnector;
-import it.disco.unimib.labeller.labelling.Tagme;
-
 import java.io.File;
 
 public class Run {
@@ -14,7 +7,7 @@ public class Run {
 	public static void main(String[] args) throws Exception {
 		for(BenchmarkConfiguration configuration : configurations()){
 			Metric[] metrics = metrics();
-			new Benchmark(configuration.typeAnnotation()).on(goldStandard(), metrics);
+			new Benchmark(configuration.getAlgorithm()).on(goldStandard(), metrics);
 			for(Metric metric : metrics){
 				System.out.println();
 				System.out.println(configuration.name());
@@ -23,20 +16,18 @@ public class Run {
 		}
 	}
 
-	private static BenchmarkConfiguration[] configurations() {
+	private static BenchmarkConfiguration[] configurations() throws Exception {
 		return new BenchmarkConfiguration[]{
-			new BenchmarkConfiguration("trank whole pipeline + majority vote")
-										.withAnnotator(new TRankNER())
-										.withRanker(new TRankTypeRank(new MajorityVote())),
-			new BenchmarkConfiguration("trank whole pipeline + ranked majority")
-										.withAnnotator(new TRankNER())
-										.withRanker(new TRankTypeRank(new RankedMajority())),
-			new BenchmarkConfiguration("tagme ner + trank type ranking + majority vote")
-										.withAnnotator(new Tagme(new HttpConnector()))
-										.withRanker(new TRankTypeRank(new MajorityVote())),
-			new BenchmarkConfiguration("tagme ner + trank type ranking + ranked majority")
-										.withAnnotator(new Tagme(new HttpConnector()))
-										.withRanker(new TRankTypeRank(new RankedMajority()))
+//			new BenchmarkConfiguration("trank whole pipeline + majority vote")
+//										.typeAnnotation(new TRankNER(), new TRankTypeRank(new MajorityVote())),
+//			new BenchmarkConfiguration("trank whole pipeline + ranked majority")
+//										.typeAnnotation(new TRankNER(), new TRankTypeRank(new RankedMajority())),
+//			new BenchmarkConfiguration("tagme ner + trank type ranking + majority vote")
+//										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new MajorityVote())),
+//			new BenchmarkConfiguration("tagme ner + trank type ranking + ranked majority")
+//										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new RankedMajority())),
+			new BenchmarkConfiguration("maximum likelihood")
+										.predicateAnnotation()
 		};
 	}
 

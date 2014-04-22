@@ -1,35 +1,42 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
+import it.disco.unimib.labeller.labelling.AnnotationWithPredicate;
 import it.disco.unimib.labeller.labelling.AnnotationWithType;
 import it.disco.unimib.labeller.labelling.Annotator;
+import it.disco.unimib.labeller.labelling.ContextUnaware;
 import it.disco.unimib.labeller.labelling.TypeRanker;
+
+import java.io.File;
+
+import org.apache.lucene.store.NIOFSDirectory;
 
 public class BenchmarkConfiguration{
 	
-	private Annotator annotator;
-	private TypeRanker ranker;
 	private String name;
+	private AnnotationAlgorithm algorithm;
 
 	public BenchmarkConfiguration(String name){
 		this.name = name;
-	}
-	
-	public BenchmarkConfiguration withAnnotator(Annotator annotator){
-		this.annotator = annotator;
-		return this;
-	}
-	
-	public BenchmarkConfiguration withRanker(TypeRanker ranker){
-		this.ranker = ranker;
-		return this;
 	}
 	
 	public String name(){
 		return name;
 	}
 	
-	public AnnotationAlgorithm typeAnnotation(){
-		return new AnnotationWithType(annotator, ranker);
+	public BenchmarkConfiguration typeAnnotation(Annotator annotator, TypeRanker ranker){
+		this.algorithm = new AnnotationWithType(annotator, ranker);
+		return this;
+	}
+	
+	public BenchmarkConfiguration predicateAnnotation() throws Exception{
+		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
+		this.algorithm = new AnnotationWithPredicate(new ContextUnaware(fts));
+		return this;
+	}
+	
+	public AnnotationAlgorithm getAlgorithm(){
+		return algorithm;
 	}
 }

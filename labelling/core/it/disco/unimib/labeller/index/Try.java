@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.ContextUnawareCandidatePredicates;
+import it.disco.unimib.labeller.labelling.ContextUnaware;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.NormalizedMaximumLikelihood;
 
@@ -14,7 +14,7 @@ public class Try {
 
 	public static void main(String[] args) throws Exception {
 		FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
-		HashMap<String, List<AnnotationResult>> results = new ContextUnawareCandidatePredicates(predicates).forValues("any", new String[]{"2000", "2001", "2002"});
+		HashMap<String, List<AnnotationResult>> results = new ContextUnaware(predicates).forValues("any", new String[]{"2000", "2001", "2002"});
 		Distribution distribution = new Distribution(results);
 		NormalizedMaximumLikelihood maximumLikelihood = new NormalizedMaximumLikelihood(distribution);
 		for(String predicate : distribution.predicates()) {
