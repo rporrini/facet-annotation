@@ -26,13 +26,13 @@ public class Run {
 //										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new MajorityVote())),
 //			new BenchmarkConfiguration("tagme ner + trank type ranking + ranked majority")
 //										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new RankedMajority())),
-			new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(),
-//			new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
+//			new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(),
+			new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
 		};
 	}
 
 	private static Metric[] metrics() {
-		return new Metric[]{new Qualitative()};
+		return new Metric[]{new Questionnaire()};
 	}
 
 	private static GoldStandardGroup[] goldStandard() {
