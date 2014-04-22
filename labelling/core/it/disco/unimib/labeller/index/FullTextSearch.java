@@ -57,14 +57,14 @@ public class FullTextSearch extends LuceneBasedIndex{
 		document.add(new Field(property(), triple.predicate(), TextField.TYPE_STORED));
 		
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(SearchResult label : this.labels.get(triple.object(), "any")){
+		for(AnnotationResult label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
 		}		
 		document.add(new Field(literal(), value, TextField.TYPE_STORED));
 		
 		String context = "";
-		for(SearchResult type : this.types.get(triple.subject(), "any")){
-			for(SearchResult label : this.labels.get(type.value(), "any")){
+		for(AnnotationResult type : this.types.get(triple.subject(), "any")){
+			for(AnnotationResult label : this.labels.get(type.value(), "any")){
 				context += " " + label.value();
 			}
 		}

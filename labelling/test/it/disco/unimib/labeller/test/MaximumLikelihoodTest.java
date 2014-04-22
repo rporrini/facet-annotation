@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.MaximumLikelihood;
 
@@ -16,14 +16,14 @@ public class MaximumLikelihoodTest {
 
 	@Test
 	public void theLikelihoodOfAPredicateThatOccurWithManyValuesIsGreaterThanTheLikelihoodOfAPredicateThatOccurWithOnlyAValue() {
-		HashMap<String, List<SearchResult>> distribution = new HashMap<String, List<SearchResult>>();
-		ArrayList<SearchResult> occurrenciesForParis = new ArrayList<SearchResult>();
-		occurrenciesForParis.add(new SearchResult("capital", 1));
+		HashMap<String, List<AnnotationResult>> distribution = new HashMap<String, List<AnnotationResult>>();
+		ArrayList<AnnotationResult> occurrenciesForParis = new ArrayList<AnnotationResult>();
+		occurrenciesForParis.add(new AnnotationResult("capital", 1));
 		distribution.put("paris", occurrenciesForParis);
 		
-		ArrayList<SearchResult> occurrenciesForRome = new ArrayList<SearchResult>();
-		occurrenciesForRome.add(new SearchResult("capital", 1));
-		occurrenciesForRome.add(new SearchResult("birthPlace", 1));
+		ArrayList<AnnotationResult> occurrenciesForRome = new ArrayList<AnnotationResult>();
+		occurrenciesForRome.add(new AnnotationResult("capital", 1));
+		occurrenciesForRome.add(new AnnotationResult("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
 		MaximumLikelihood likelihood = new MaximumLikelihood(new Distribution(distribution));

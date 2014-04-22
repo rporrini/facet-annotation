@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.test;
 
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.index.AnnotationResult;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,18 +9,18 @@ import java.util.List;
 
 public class IndexTestDouble implements Index{
 
-	private HashMap<String, List<SearchResult>> results = new HashMap<String, List<SearchResult>>();
+	private HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
 	
 	@Override
-	public List<SearchResult> get(String type, String context) throws Exception {
-		List<SearchResult> result = results.get(type);
-		if(result == null) result = new ArrayList<SearchResult>();
+	public List<AnnotationResult> get(String type, String context) throws Exception {
+		List<AnnotationResult> result = results.get(type);
+		if(result == null) result = new ArrayList<AnnotationResult>();
 		return result;
 	}
 	
 	public IndexTestDouble resultFor(String type, String predicate, double score){
-		if(!results.containsKey(type)) results.put(type, new ArrayList<SearchResult>());
-		results.get(type).add(new SearchResult(predicate, score));
+		if(!results.containsKey(type)) results.put(type, new ArrayList<AnnotationResult>());
+		results.get(type).add(new AnnotationResult(predicate, score));
 		return this;
 	}
 }

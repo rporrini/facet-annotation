@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KeyValueStore;
-import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.index.AnnotationResult;
 
 import java.util.List;
 
@@ -21,7 +21,7 @@ public class KeyValueStoreTest {
 															.withLiteral("the label").asTriple())
 													.closeWriter();
 		
-		List<SearchResult> labels = index.get("http://entity", "any");
+		List<AnnotationResult> labels = index.get("http://entity", "any");
 		
 		assertThat(labels.get(0).value(), equalTo("the label"));
 	}
@@ -33,7 +33,7 @@ public class KeyValueStoreTest {
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
 						.closeWriter();
 
-		List<SearchResult> labels = index.get("http://entity", "any");
+		List<AnnotationResult> labels = index.get("http://entity", "any");
 		
 		assertThat(labels, hasSize(2));
 	}

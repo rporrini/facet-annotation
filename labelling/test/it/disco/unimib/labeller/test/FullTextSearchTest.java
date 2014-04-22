@@ -6,7 +6,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KeyValueStore;
-import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.index.AnnotationResult;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
@@ -37,7 +37,7 @@ public class FullTextSearchTest {
 		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter())
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		SearchResult searchResult = index.get("literal", "any").get(0);
+		AnnotationResult searchResult = index.get("literal", "any").get(0);
 		
 		assertThat(searchResult.value(), equalTo("http://property"));
 		assertThat(searchResult.score(), equalTo(1.0));

@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.SearchResult;
+import it.disco.unimib.labeller.index.AnnotationResult;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -9,9 +9,9 @@ import java.util.List;
 import java.util.Set;
 
 public class Distribution{
-	private HashMap<String, HashMap<String, List<SearchResult>>> predicatesDistribution;
+	private HashMap<String, HashMap<String, List<AnnotationResult>>> predicatesDistribution;
 	
-	public Distribution(HashMap<String, List<SearchResult>> valueDistribution) {
+	public Distribution(HashMap<String, List<AnnotationResult>> valueDistribution) {
 		this.predicatesDistribution = invert(valueDistribution);
 	}
 	
@@ -28,25 +28,25 @@ public class Distribution{
 	}
 	
 	public double scoreOf(String predicate, String value) {
-		List<SearchResult> list = this.predicatesDistribution.get(predicate).get(value);
+		List<AnnotationResult> list = this.predicatesDistribution.get(predicate).get(value);
 		double count = 0.0;
 		if(list != null){
-			for(SearchResult result : list){
+			for(AnnotationResult result : list){
 				count += result.score();
 			}
 		}
 		return count;
 	}
 	
-	private HashMap<String, HashMap<String, List<SearchResult>>> invert(HashMap<String, List<SearchResult>> valueDistribution) {
-		HashMap<String, HashMap<String, List<SearchResult>>> inverted = new HashMap<String, HashMap<String, List<SearchResult>>>();
+	private HashMap<String, HashMap<String, List<AnnotationResult>>> invert(HashMap<String, List<AnnotationResult>> valueDistribution) {
+		HashMap<String, HashMap<String, List<AnnotationResult>>> inverted = new HashMap<String, HashMap<String, List<AnnotationResult>>>();
 		for(String value : valueDistribution.keySet()){
-			for(SearchResult predicate : valueDistribution.get(value)){
+			for(AnnotationResult predicate : valueDistribution.get(value)){
 				if(!inverted.containsKey(predicate.value())) {
-					inverted.put(predicate.value(), new HashMap<String, List<SearchResult>>());
+					inverted.put(predicate.value(), new HashMap<String, List<AnnotationResult>>());
 				}
 				if(!inverted.get(predicate.value()).containsKey(value)){
-					inverted.get(predicate.value()).put(value, new ArrayList<SearchResult>());
+					inverted.get(predicate.value()).put(value, new ArrayList<AnnotationResult>());
 				}
 				inverted.get(predicate.value()).get(value).add(predicate);
 			}

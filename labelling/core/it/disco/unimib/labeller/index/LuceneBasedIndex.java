@@ -27,12 +27,12 @@ public abstract class LuceneBasedIndex implements Index{
 	}
 
 	@Override
-	public List<SearchResult> get(String type, String context) throws Exception {
-		ArrayList<SearchResult> results = new ArrayList<SearchResult>();
+	public List<AnnotationResult> get(String type, String context) throws Exception {
+		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
 		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
 			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new SearchResult(toResult(indexedDocument), documentPointer.score));
+			results.add(new AnnotationResult(toResult(indexedDocument), documentPointer.score));
 		}
 		return results;
 	}

@@ -7,14 +7,15 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class ContextUnawareCandidatePredicates {
+public class ContextUnaware implements CandidatePredicates {
 
 	private Index index;
 
-	public ContextUnawareCandidatePredicates(Index index) {
+	public ContextUnaware(Index index) {
 		this.index = index;
 	}
 
+	@Override
 	public HashMap<String, List<AnnotationResult>> forValues(String context, String[] values) throws Exception {
 		HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
 		for(String value : values){
