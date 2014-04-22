@@ -2,10 +2,11 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.AnnotationWithPredicate;
 import it.disco.unimib.labeller.labelling.AnnotationWithType;
 import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.ContextUnaware;
+import it.disco.unimib.labeller.labelling.MajorityPredicate;
+import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
 import java.io.File;
@@ -32,7 +33,13 @@ public class BenchmarkConfiguration{
 	
 	public BenchmarkConfiguration predicateAnnotation() throws Exception{
 		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
-		this.algorithm = new AnnotationWithPredicate(new ContextUnaware(fts));
+		this.algorithm = new MaximumLikelihoodPredicate(new ContextUnaware(fts));
+		return this;
+	}
+	
+	public BenchmarkConfiguration majorityAnnotation(double threshold) throws Exception{
+		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
+		this.algorithm = new MajorityPredicate(new ContextUnaware(fts), threshold);
 		return this;
 	}
 	

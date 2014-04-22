@@ -7,11 +7,11 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class AnnotationWithPredicate implements AnnotationAlgorithm{
+public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 
 	private CandidatePredicates candidates;
 
-	public AnnotationWithPredicate(CandidatePredicates candidates){
+	public MaximumLikelihoodPredicate(CandidatePredicates candidates){
 		this.candidates = candidates;
 	}
 	

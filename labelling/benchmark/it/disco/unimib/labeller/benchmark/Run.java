@@ -26,8 +26,9 @@ public class Run {
 //										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new MajorityVote())),
 //			new BenchmarkConfiguration("tagme ner + trank type ranking + ranked majority")
 //										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new RankedMajority())),
-			new BenchmarkConfiguration("maximum likelihood")
-										.predicateAnnotation()
+//			new BenchmarkConfiguration("maximum likelihood")
+//										.predicateAnnotation()
+			new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
 		};
 	}
 
