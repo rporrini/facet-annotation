@@ -5,17 +5,16 @@ import java.util.List;
 
 public class NormalizedPrior {
 
-	private Distribution distribution;
 	private Normalize normalizer;
+	private UnnormalizedPrior unnormalizedPrior;
 
 	public NormalizedPrior(Distribution distribution) {
-		this.distribution = distribution;
+		this.unnormalizedPrior = new UnnormalizedPrior(distribution);
 		this.normalizer = normalized(distribution);
 	}
 
 	private Normalize normalized(Distribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
-		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		for(String predicate : distribution.predicates()){
 			scores.add(unnormalizedPrior.of(predicate));
 		}
@@ -23,7 +22,7 @@ public class NormalizedPrior {
 	}
 
 	public double of(String predicate) {
-		return normalizer.value(new UnnormalizedPrior(distribution).of(predicate));
+		return normalizer.value(unnormalizedPrior.of(predicate));
 	}
 
 }
