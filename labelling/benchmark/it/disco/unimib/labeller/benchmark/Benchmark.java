@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
@@ -19,9 +20,9 @@ public class Benchmark {
 		for(GoldStandardGroup group : groups){
 			List<String> elements = group.elements();
 			List<String> entities = annotator.annotate(elements.toArray(new String[elements.size()]));
-			String actualType = ranker.typeOf(entities.toArray(new String[entities.size()]));
+			AnnotationResult actualType = ranker.typeOf(entities.toArray(new String[entities.size()]));
 			for(Metric metric : metrics){
-				metric.track(group.domain(), group.context(), group.label(), actualType);
+				metric.track(group.domain(), group.context(), group.label(), actualType.value());
 			}
 		}
 	}

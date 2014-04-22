@@ -1,6 +1,8 @@
 package it.disco.unimib.labeller.labelling;
 
+import it.disco.unimib.labeller.index.AnnotationResult;
+
 public interface TypeRanker {
 
-	public String typeOf(String... entity) throws Exception;
+	public AnnotationResult typeOf(String... entity) throws Exception;
 }

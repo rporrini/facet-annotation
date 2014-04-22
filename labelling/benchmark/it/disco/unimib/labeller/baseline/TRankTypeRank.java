@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.baseline;
 import io.mem0r1es.trank.pipeline.TypeRanking;
 import io.mem0r1es.trank.pipeline.TypeRetrieval;
 import io.mem0r1es.trank.ranking.ANCESTORS;
+import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.Events;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
@@ -28,7 +29,7 @@ public class TRankTypeRank implements TypeRanker {
 	}
 
 	@Override
-	public String typeOf(String... entity) throws URISyntaxException {
+	public AnnotationResult typeOf(String... entity) throws URISyntaxException {
 		List<URI> entities = new ArrayList<URI>();
 		for(String e : entity){
 			entities.add(new URI(e));
@@ -44,7 +45,7 @@ public class TRankTypeRank implements TypeRanker {
 				maxScore = score;
 			}
 		}
-		return candidate;
+		return new AnnotationResult(candidate, maxScore);
 	}
 
 	private Map<URI, Seq<URI>> rankedTypes(List<URI> entities) {
