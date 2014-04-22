@@ -8,5 +8,5 @@ public interface Metric {
 
 	public String result();
 
-	public Metric track(GoldStandardGroup group, List<AnnotationResult> results);
+	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception;
 }
