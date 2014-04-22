@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.index;
 
 import it.disco.unimib.labeller.labelling.ContextUnawareCandidatePredicates;
 import it.disco.unimib.labeller.labelling.Distribution;
+import it.disco.unimib.labeller.labelling.NormalizedConditional;
 import it.disco.unimib.labeller.labelling.NormalizedPrior;
 
 import java.io.File;
@@ -22,8 +23,9 @@ public class Try {
 			}
 		}
 		NormalizedPrior prior = new NormalizedPrior(new Distribution(results));
-		System.out.println(prior.of("http://dbpedia.org/ontology/activeYearsStartDate"));
-		System.out.println(prior.of("http://dbpedia.org/ontology/activeYearsEndDate"));
+		NormalizedConditional conditional = new NormalizedConditional(new Distribution(results));
+		System.out.println(conditional.of("http://dbpedia.org/ontology/year", "1866") / prior.of("http://dbpedia.org/ontology/year"));
+		System.out.println(conditional.of("http://dbpedia.org/ontology/foundingYear", "1866") / prior.of("http://dbpedia.org/ontology/foundingYear"));
 		
 		predicates.closeReader();
 	}
