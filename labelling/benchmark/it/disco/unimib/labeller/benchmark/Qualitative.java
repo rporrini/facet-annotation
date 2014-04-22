@@ -23,8 +23,8 @@ public class Qualitative implements Metric {
 	}
 
 	@Override
-	public Metric track(String domain, String context, String expected, List<AnnotationResult> results) {
-		track(domain, context, expected, results.get(0).value());
+	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) {
+		track(group.domain(), group.context(), group.label(), results.get(0).value());
 		return this;
 	}
 

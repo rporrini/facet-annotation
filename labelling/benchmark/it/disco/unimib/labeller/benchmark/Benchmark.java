@@ -20,7 +20,7 @@ public class Benchmark {
 			List<String> elements = group.elements();
 			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
 			for(Metric metric : metrics){
-				metric.track(group.domain(), group.context(), group.label(), labels);
+				metric.track(group, labels);
 			}
 		}
 	}
