@@ -13,9 +13,12 @@ public class Events{
 		logger().error(message, exception);
 	}
 
-	
 	public void info(Object message){
 		logger().info(message);
+	}
+	
+	public void debug(Object message) {
+		logger().debug(message);
 	}
 	
 	private Logger logger() {

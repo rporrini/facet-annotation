@@ -1,11 +1,11 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.AnnotationResult;
+
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
-
-import it.disco.unimib.labeller.index.AnnotationResult;
 
 public class Questionnaire implements Metric {
 
@@ -18,7 +18,6 @@ public class Questionnaire implements Metric {
 	
 	@Override
 	public String result() {
-		System.out.println(StringUtils.join(results, "\n"));
 		return StringUtils.join(results, "\n");
 	}
 
