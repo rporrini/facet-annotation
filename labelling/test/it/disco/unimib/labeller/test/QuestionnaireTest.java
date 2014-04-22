@@ -9,6 +9,7 @@ import it.disco.unimib.labeller.benchmark.Questionnaire;
 import it.disco.unimib.labeller.index.AnnotationResult;
 
 import java.util.Arrays;
+import java.util.List;
 
 import org.junit.Test;
 
@@ -18,17 +19,19 @@ public class QuestionnaireTest {
 	public void onEmptyEvaluationShouldDisplayNothing() {
 		Metric metric = new Questionnaire();
 		
-		assertThat(metric.result(), is(equalTo("\nDOMAIN|CONTEXT")));
+		assertThat(metric.result(), is(equalTo("")));
 	}
 
 	@Test
 	public void shouldTrackTheExecution() throws Exception {
 		Metric metric = new Questionnaire();
+		List<AnnotationResult> annotationResults = Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1), 
+																			  new AnnotationResult("date", 1)});
 		
-		metric.track(createGroup("domain_provider_context_year"), Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1)}))
-			  .track(createGroup("domain_provider_context_decade"), Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1)}));
+		metric.track(createGroup("domain_provider_context_year"), annotationResults)
+			  .track(createGroup("domain_provider_context_decade"), annotationResults);
 		
-		assertThat(metric.result(), is(equalTo("\nDOMAIN|CONTEXT\n\ndomain|context\nvalue1 value2\nyear\n\ndomain|context\nvalue1 value2\nyear")));
+		assertThat(metric.result(), is(equalTo("\ndomain context\nvalue1 value2\nyear\ndate\n\ndomain context\nvalue1 value2\nyear\ndate")));
 	}
 
 	private GoldStandardGroup createGroup(String name) {

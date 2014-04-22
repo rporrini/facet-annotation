@@ -13,7 +13,6 @@ public class Questionnaire implements Metric {
 	
 	public Questionnaire(){
 		this.results = new ArrayList<String>();
-		track("DOMAIN", "CONTEXT");
 	}
 	
 	@Override
@@ -23,11 +22,23 @@ public class Questionnaire implements Metric {
 
 	@Override
 	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
-		track(group.domain(), group.context());
+		trackDomainAndContext(group.domain(), group.context());
 		track(concatValues(group.elements()));
-		track(results.get(0).value());
+		for(AnnotationResult result : results){
+			track(result.value());
+		}
 		return this;
 	}
+
+	private void trackDomainAndContext(String domain, String context) {
+		track("\n" + domain + " " + context);
+	}
+	
+	private void track(String value){
+		this.results.add(value);
+	}
+	
+
 
 	private String concatValues(List<String> elements) {
 		String values = "";
@@ -35,13 +46,5 @@ public class Questionnaire implements Metric {
 			values = values.concat(" " + value);
 		}
 		return values.trim();
-	}
-
-	private void track(String domain, String context) {
-		this.results.add("\n" + domain + "|" + context);
-	}
-	
-	private void track(String value){
-		this.results.add(value);
 	}
 }
