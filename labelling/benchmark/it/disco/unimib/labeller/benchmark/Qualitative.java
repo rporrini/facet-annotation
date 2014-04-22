@@ -1,6 +1,9 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.AnnotationResult;
+
 import java.util.ArrayList;
+import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -20,8 +23,12 @@ public class Qualitative implements Metric {
 	}
 
 	@Override
-	public Metric track(String domain, String context, String expected, String actual) {
-		results.add(domain + "|" + context + "|" + expected + "|" + actual);
+	public Metric track(String domain, String context, String expected, List<AnnotationResult> results) {
+		track(domain, context, expected, results.get(0).value());
 		return this;
+	}
+
+	private void track(String domain, String context, String expected, String value) {
+		this.results.add(domain + "|" + context + "|" + expected + "|" + value);
 	}
 }

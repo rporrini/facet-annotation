@@ -16,15 +16,10 @@ public class Benchmark {
 	public void on(GoldStandardGroup[] groups, Metric[] metrics) throws Exception {
 		for(GoldStandardGroup group : groups){
 			List<String> elements = group.elements();
-			AnnotationResult actualType = typeOf(elements);
+			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
 			for(Metric metric : metrics){
-				metric.track(group.domain(), group.context(), group.label(), actualType.value());
+				metric.track(group.domain(), group.context(), group.label(), labels);
 			}
 		}
 	}
-
-	public AnnotationResult typeOf(List<String> elements) throws Exception {
-		return algorithm.typeOf(elements);
-	}
-
 }

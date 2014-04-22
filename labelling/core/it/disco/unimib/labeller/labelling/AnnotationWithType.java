@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class AnnotationWithType implements AnnotationAlgorithm{
@@ -15,8 +16,10 @@ public class AnnotationWithType implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public AnnotationResult typeOf(List<String> elements) throws Exception {
+	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
 		List<String> entities = annotator.annotate(elements.toArray(new String[elements.size()]));
-		return ranker.typeOf(entities.toArray(new String[entities.size()]));
+		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		results.add(ranker.typeOf(entities.toArray(new String[entities.size()])));
+		return results;
 	}
 }

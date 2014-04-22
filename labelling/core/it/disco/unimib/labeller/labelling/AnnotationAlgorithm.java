@@ -6,6 +6,5 @@ import java.util.List;
 
 public interface AnnotationAlgorithm {
 
-	public AnnotationResult typeOf(List<String> elements) throws Exception;
-
+	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception;
 }
