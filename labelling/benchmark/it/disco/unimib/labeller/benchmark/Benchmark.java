@@ -1,30 +1,30 @@
 package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.labelling.Annotator;
-import it.disco.unimib.labeller.labelling.TypeRanker;
+import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 
 import java.util.List;
 
 public class Benchmark {
 
-	private Annotator annotator;
-	private TypeRanker ranker;
+	private AnnotationAlgorithm algorithm;
 
-	public Benchmark(Annotator annotator, TypeRanker ranker) {
-		this.annotator = annotator;
-		this.ranker = ranker;
+	public Benchmark(AnnotationAlgorithm algorithm) {
+		this.algorithm = algorithm;
 	}
 
 	public void on(GoldStandardGroup[] groups, Metric[] metrics) throws Exception {
 		for(GoldStandardGroup group : groups){
 			List<String> elements = group.elements();
-			List<String> entities = annotator.annotate(elements.toArray(new String[elements.size()]));
-			AnnotationResult actualType = ranker.typeOf(entities.toArray(new String[entities.size()]));
+			AnnotationResult actualType = typeOf(elements);
 			for(Metric metric : metrics){
 				metric.track(group.domain(), group.context(), group.label(), actualType.value());
 			}
 		}
+	}
+
+	public AnnotationResult typeOf(List<String> elements) throws Exception {
+		return algorithm.typeOf(elements);
 	}
 
 }

@@ -14,7 +14,7 @@ public class Run {
 	public static void main(String[] args) throws Exception {
 		for(BenchmarkConfiguration configuration : configurations()){
 			Metric[] metrics = metrics();
-			new Benchmark(configuration.annotator(), configuration.ranker()).on(goldStandard(), metrics);
+			new Benchmark(configuration.typeAnnotation()).on(goldStandard(), metrics);
 			for(Metric metric : metrics){
 				System.out.println();
 				System.out.println(configuration.name());

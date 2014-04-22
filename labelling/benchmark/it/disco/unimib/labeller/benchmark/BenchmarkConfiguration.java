@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
+import it.disco.unimib.labeller.labelling.AnnotationWithType;
 import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
@@ -18,20 +20,16 @@ public class BenchmarkConfiguration{
 		return this;
 	}
 	
-	public Annotator annotator(){
-		return annotator;
-	}
-	
 	public BenchmarkConfiguration withRanker(TypeRanker ranker){
 		this.ranker = ranker;
 		return this;
 	}
 	
-	public TypeRanker ranker(){
-		return ranker;
-	}
-	
 	public String name(){
 		return name;
+	}
+	
+	public AnnotationAlgorithm typeAnnotation(){
+		return new AnnotationWithType(annotator, ranker);
 	}
 }
