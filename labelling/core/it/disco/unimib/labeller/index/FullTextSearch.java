@@ -14,6 +14,7 @@ import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
@@ -89,8 +90,8 @@ public class FullTextSearch extends LuceneBasedIndex{
 	
 	private Query toQuery(String type, String context) throws Exception {
 		BooleanQuery query = new BooleanQuery();
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(type, literal()), Occur.MUST));
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(context, context()), Occur.SHOULD));
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(QueryParser.escape(type), literal()), Occur.MUST));
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(QueryParser.escape(context), context()), Occur.SHOULD));
 		return query;
 	}
 	

@@ -3,10 +3,10 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KeyValueStore;
-import it.disco.unimib.labeller.index.AnnotationResult;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
@@ -84,5 +84,11 @@ public class FullTextSearchTest {
 						    .closeWriter();
 		
 		assertThat(index.get("literal", "any"), hasSize(2));
+	}
+	
+	@Test
+	public void shouldBeRobustToSpecialCharacters() throws Exception {
+		
+		new FullTextSearch(new RAMDirectory(), null, null).closeWriter().get("a query with a special & character!", "any");
 	}
 }
