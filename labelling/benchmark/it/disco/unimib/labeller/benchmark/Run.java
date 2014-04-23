@@ -23,7 +23,7 @@ public class Run {
 	}
 
 	private static Summary[] summaries() {
-		return new Summary[]{new Questionnaire()};
+		return new Summary[]{new TrecEval("majority")};
 	}
 
 	private static GoldStandardGroup[] goldStandard() {

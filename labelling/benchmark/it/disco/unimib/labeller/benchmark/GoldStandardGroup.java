@@ -47,7 +47,7 @@ public class GoldStandardGroup {
 	}
 	
 	public int id() {
-		return connector.name().hashCode();
+		return Math.abs(connector.name().hashCode());
 	}
 	
 	private String[] splittedName() {
