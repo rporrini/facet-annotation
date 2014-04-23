@@ -25,8 +25,7 @@ public class QuestionnaireTest {
 	@Test
 	public void shouldTrackTheExecution() throws Exception {
 		Metric metric = new Questionnaire();
-		List<AnnotationResult> annotationResults = Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1), 
-																			  new AnnotationResult("date", 1)});
+		List<AnnotationResult> annotationResults = Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1), new AnnotationResult("date", 1)});
 		
 		metric.track(createGroup("domain_provider_context_year"), annotationResults)
 			  .track(createGroup("domain_provider_context_decade"), annotationResults);

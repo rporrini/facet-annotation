@@ -18,15 +18,6 @@ public class Run {
 
 	private static BenchmarkConfiguration[] configurations() throws Exception {
 		return new BenchmarkConfiguration[]{
-//			new BenchmarkConfiguration("trank whole pipeline + majority vote")
-//										.typeAnnotation(new TRankNER(), new TRankTypeRank(new MajorityVote())),
-//			new BenchmarkConfiguration("trank whole pipeline + ranked majority")
-//										.typeAnnotation(new TRankNER(), new TRankTypeRank(new RankedMajority())),
-//			new BenchmarkConfiguration("tagme ner + trank type ranking + majority vote")
-//										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new MajorityVote())),
-//			new BenchmarkConfiguration("tagme ner + trank type ranking + ranked majority")
-//										.typeAnnotation(new Tagme(new HttpConnector()), new TRankTypeRank(new RankedMajority())),
-//			new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(),
 			new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
 		};
 	}

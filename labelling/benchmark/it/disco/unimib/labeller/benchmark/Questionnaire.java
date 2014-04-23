@@ -38,13 +38,7 @@ public class Questionnaire implements Metric {
 		this.results.add(value);
 	}
 	
-
-
 	private String concatValues(List<String> elements) {
-		String values = "";
-		for(String value : elements){
-			values = values.concat(" " + value);
-		}
-		return values.trim();
+		return StringUtils.join(elements, " ");
 	}
 }
