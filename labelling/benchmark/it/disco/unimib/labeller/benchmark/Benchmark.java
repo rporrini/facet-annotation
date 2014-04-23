@@ -14,13 +14,13 @@ public class Benchmark {
 		this.algorithm = algorithm;
 	}
 
-	public void on(GoldStandardGroup[] groups, Summary[] metrics) throws Exception {
+	public void on(GoldStandardGroup[] groups, Summary[] summaries) throws Exception {
 		for(GoldStandardGroup group : groups){
 			new Events().debug("processing gold standard " + group.context() + " " + group.label());
 			List<String> elements = group.elements();
 			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
-			for(Summary metric : metrics){
-				metric.track(group, labels);
+			for(Summary summary : summaries){
+				summary.track(group, labels);
 			}
 		}
 	}

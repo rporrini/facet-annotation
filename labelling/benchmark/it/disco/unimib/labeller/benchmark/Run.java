@@ -6,9 +6,9 @@ public class Run {
 
 	public static void main(String[] args) throws Exception {
 		for(BenchmarkConfiguration configuration : configurations()){
-			Summary[] metrics = metrics();
-			new Benchmark(configuration.getAlgorithm()).on(goldStandard(), metrics);
-			for(Summary metric : metrics){
+			Summary[] summaries = summaries();
+			new Benchmark(configuration.getAlgorithm()).on(goldStandard(), summaries);
+			for(Summary metric : summaries){
 				System.out.println();
 				System.out.println(configuration.name());
 				System.out.println(metric.result());
@@ -22,7 +22,7 @@ public class Run {
 		};
 	}
 
-	private static Summary[] metrics() {
+	private static Summary[] summaries() {
 		return new Summary[]{new Questionnaire()};
 	}
 

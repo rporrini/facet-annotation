@@ -15,25 +15,25 @@ public class BenchmarkTest {
 
 	@Test
 	public void onEmptyGoldStandardShouldTrackNoting() throws Exception {
-		Qualitative metric = new Qualitative();
+		Qualitative summary = new Qualitative();
 		
-		new Benchmark(new AnnotationWithType(null, null)).on(new GoldStandardGroup[]{}, new Summary[]{metric});
+		new Benchmark(new AnnotationWithType(null, null)).on(new GoldStandardGroup[]{}, new Summary[]{summary});
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));		
+		assertThat(summary.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));		
 	}
 	
 	@Test
 	public void shouldTrackAnnotatedRankedTypes() throws Exception {
-		Qualitative metric = new Qualitative();
+		Qualitative summary = new Qualitative();
 		
 		new Benchmark(new AnnotationWithType(new AnnotatorTestDouble(), new TypeRankerTestDouble().thatReturns("actual type")))
 						.on(new GoldStandardGroup[]{
 								new GoldStandardGroup(new FileSystemConnectorTestDouble().withName("ecommerce_amazon_category_expected type"))
 							}, 
 							new Summary[]{
-								metric
+								summary
 							});
 		
-		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL\necommerce|category|expected type|actual type")));
+		assertThat(summary.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL\necommerce|category|expected type|actual type")));
 	}
 }
