@@ -64,6 +64,16 @@ public class GoldStandardGroupTest {
 	}
 	
 	@Test
+	public void shouldGetTheHyperlink() throws Exception {
+		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+																			.withName("ecommerce_amazon_context_label_list_of_wines");
+
+		GoldStandardGroup group = new GoldStandardGroup(connector);
+
+		assertThat(group.hyperlink(), is(equalTo("list_of_wines")));
+	}
+	
+	@Test
 	public void shouldSkipEmptyLines() throws Exception {
 		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
 																			.withLine("first line")

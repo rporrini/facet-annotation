@@ -35,6 +35,17 @@ public class GoldStandardGroup {
 		return splittedName()[3];
 	}
 	
+	public String hyperlink() {
+		try{
+			String firstPart = splittedName()[4];
+			int index = connector.name().indexOf(firstPart);
+			return connector.name().substring(index);
+		}
+		catch(Exception e){
+			return "";
+		}
+	}
+	
 	private String[] splittedName() {
 		return StringUtils.split(connector.name(), "_");
 	}

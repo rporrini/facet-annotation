@@ -30,7 +30,17 @@ public class QuestionnaireTest {
 		metric.track(createGroup("domain_provider_context_year"), annotationResults)
 			  .track(createGroup("domain_provider_context_decade"), annotationResults);
 		
-		assertThat(metric.result(), is(equalTo("\ndomain context\nvalue1 value2\nyear\ndate\n\ndomain context\nvalue1 value2\nyear\ndate")));
+		assertThat(metric.result(), is(equalTo("\ndomain (context)\nvalue1 value2\nyear\ndate\n\ndomain (context)\nvalue1 value2\nyear\ndate")));
+	}
+	
+	@Test
+	public void shouldTrackTheHyperlink() throws Exception {
+		Metric metric = new Questionnaire();
+		List<AnnotationResult> annotationResults = Arrays.asList(new AnnotationResult[]{});
+		
+		metric.track(createGroup("domain_amazon_context_year_hyperlink"), annotationResults);
+		
+		assertThat(metric.result(), is(equalTo("\ndomain (context)|http://www.amazon.com/gp/search/other/hyperlink\nvalue1 value2")));
 	}
 
 	private GoldStandardGroup createGroup(String name) {
