@@ -41,7 +41,7 @@ public class BenchmarkConfiguration{
 	
 	public BenchmarkConfiguration majorityAnnotation(double threshold) throws Exception{
 		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
-		this.algorithm = new TopK(30, new MajorityPredicate(new CandidatePredicates(fts), threshold));
+		this.algorithm = new TopK(40, new MajorityPredicate(new CandidatePredicates(fts), threshold));
 		return this;
 	}
 	
