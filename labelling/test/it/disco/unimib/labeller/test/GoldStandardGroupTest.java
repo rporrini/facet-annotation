@@ -70,7 +70,7 @@ public class GoldStandardGroupTest {
 
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 
-		assertThat(group.hyperlink(), is(equalTo("list_of_wines")));
+		assertThat(group.contextHyperlink(), is(equalTo("list_of_wines")));
 	}
 	
 	@Test

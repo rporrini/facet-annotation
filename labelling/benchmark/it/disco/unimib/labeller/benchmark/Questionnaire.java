@@ -26,14 +26,14 @@ public class Questionnaire implements Summary {
 
 	@Override
 	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
-		trackDomainAndContext(group.domain(), group.context(), group.hyperlink(), group.provider());
+		trackDomainAndContext(group);
 		trackGroupValues(group);
 		trackResults(results);
 		return this;
 	}
 
-	private void trackDomainAndContext(String domain, String context, String hyperlink, String provider) {
-		track("\n" + domain + " (" + context + ")" + hyperlink(provider, hyperlink));
+	private void trackDomainAndContext(GoldStandardGroup group) throws Exception {
+		track("\n" + group.domain() + " (" + group.context() + ")|" + linkResult(composeHyperlink(group.provider(), group.contextHyperlink()), "View context"));
 	}
 	
 	private void trackGroupValues(GoldStandardGroup group) throws Exception {
@@ -52,28 +52,23 @@ public class Questionnaire implements Summary {
 	
 	private void trackResults(List<AnnotationResult> results) throws Exception {
 		for(AnnotationResult result : results){
-			track(result.value() + "| |" + createQuery(result.value()));
+			track(linkResult(result.value()) + "| |" + linkResult(createSPARQLQuery(result.value()), "View on DBPedia"));
 		}
 	}
-	
+
 	private void track(String value){
 		this.results.add(value);
 	}
 	
-	private String createQuery(String value) throws Exception {
+	private String createSPARQLQuery(String value) throws Exception {
 		return "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fs+%3Fo+where+{%3Fs+%3C" +
 			   URLEncoder.encode(value, "UTF-8") +
 			   "%3E+%3Fo}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on";
 	}
 	
-	private String concatValues(List<String> elements) {
-		return StringUtils.join(elements, "|");
-	}
-	
-	private String hyperlink(String provider, String hyperlink) {
-		if(hyperlinks.containsKey(provider)){
-			return "|" + hyperlinks.get(provider) + hyperlink;
-		}
+	private String composeHyperlink(String provider, String hyperlink) throws Exception {
+		if(hyperlinks.containsKey(provider))
+			return hyperlinks.get(provider) + hyperlink;
 		return "";
 	}
 	
@@ -84,5 +79,17 @@ public class Questionnaire implements Summary {
 		this.hyperlinks.put("discogs", "http://www.discogs.com/");
 		this.hyperlinks.put("pricegrabber", "http://www.pricegrabber.com/electronics/tablets-e-readers/p-5908/");
 		this.hyperlinks.put("IMDB", "http://www.imdb.com/");
+	}
+	
+	private String linkResult(String result) {
+		return "=HYPERLINK(\"" + result + "\")";
+	}
+
+	private String linkResult(String result, String clickMessage) throws Exception {
+		return "=HYPERLINK(\"" + result + "\", \"" + clickMessage + "\")";
+	}
+	
+	private String concatValues(List<String> elements) {
+		return StringUtils.join(elements, "|");
 	}
 }

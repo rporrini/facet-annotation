@@ -35,7 +35,7 @@ public class GoldStandardGroup {
 		return splittedName()[3];
 	}
 	
-	public String hyperlink() {
+	public String contextHyperlink() {
 		try{
 			String firstPart = splittedName()[4];
 			int index = connector.name().indexOf(firstPart);
