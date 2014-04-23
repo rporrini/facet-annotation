@@ -33,11 +33,17 @@ public class FullTextSearch extends LuceneBasedIndex{
 
 	private Index types;
 	private Index labels;
+	private RankingStrategy ranking;
 
 	public FullTextSearch(Directory directory, Index types, Index labels) throws Exception {
+		this(directory, types, labels, new RankByFrequency());
+	}
+	
+	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
+		this.ranking = ranking;
 	}
 
 	@Override
@@ -85,12 +91,12 @@ public class FullTextSearch extends LuceneBasedIndex{
 			for(ScoreDoc document : group.scoreDocs){
 				new Events().debug(document.score);
 			}
-			group.scoreDocs[0].score = (float)group.totalHits;
+			ranking.reRank(group, indexSearcher);
 			ids.add(group.scoreDocs[0]);
 		}
 		return ids;
 	}
-	
+
 	private Query toQuery(String type, String context) throws Exception {
 		BooleanQuery query = new BooleanQuery();
 		String escape = "\"" + QueryParser.escape(type) + "\"";

@@ -20,7 +20,6 @@ public class Questionnaire implements Metric {
 	
 	@Override
 	public String result() {
-		System.out.println(StringUtils.join(results, "\n"));
 		return StringUtils.join(results, "\n");
 	}
 
