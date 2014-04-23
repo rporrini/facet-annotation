@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class Qualitative implements Metric {
+public class Qualitative implements Summary {
 
 	private ArrayList<String> results;
 
@@ -23,7 +23,7 @@ public class Qualitative implements Metric {
 	}
 
 	@Override
-	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) {
+	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) {
 		track(group.domain(), group.context(), group.label(), results.get(0).value());
 		return this;
 	}

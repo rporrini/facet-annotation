@@ -6,7 +6,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.Metric;
+import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.benchmark.Questionnaire;
 import it.disco.unimib.labeller.index.AnnotationResult;
 
@@ -18,11 +18,11 @@ import org.junit.Test;
 public class QuestionnaireTest {
 	
 	private List<AnnotationResult> annotationResults = new ArrayList<AnnotationResult>();
-	private Metric metric = new Questionnaire();
+	private Summary metric = new Questionnaire();
 	
 	@Test
 	public void onEmptyEvaluationShouldDisplayNothing() {
-		Metric metric = new Questionnaire();
+		Summary metric = new Questionnaire();
 		
 		assertThat(metric.result(), is(equalTo("")));
 	}

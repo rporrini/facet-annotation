@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.Benchmark;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.Metric;
+import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.benchmark.Qualitative;
 import it.disco.unimib.labeller.labelling.AnnotationWithType;
 
@@ -17,7 +17,7 @@ public class BenchmarkTest {
 	public void onEmptyGoldStandardShouldTrackNoting() throws Exception {
 		Qualitative metric = new Qualitative();
 		
-		new Benchmark(new AnnotationWithType(null, null)).on(new GoldStandardGroup[]{}, new Metric[]{metric});
+		new Benchmark(new AnnotationWithType(null, null)).on(new GoldStandardGroup[]{}, new Summary[]{metric});
 		
 		assertThat(metric.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));		
 	}
@@ -30,7 +30,7 @@ public class BenchmarkTest {
 						.on(new GoldStandardGroup[]{
 								new GoldStandardGroup(new FileSystemConnectorTestDouble().withName("ecommerce_amazon_category_expected type"))
 							}, 
-							new Metric[]{
+							new Summary[]{
 								metric
 							});
 		

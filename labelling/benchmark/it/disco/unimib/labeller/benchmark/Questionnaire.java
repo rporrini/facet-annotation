@@ -9,7 +9,7 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class Questionnaire implements Metric {
+public class Questionnaire implements Summary {
 
 	private ArrayList<String> results;
 	private HashMap<String, String> hyperlinks;
@@ -21,12 +21,11 @@ public class Questionnaire implements Metric {
 	
 	@Override
 	public String result() {
-		System.out.println(StringUtils.join(results, "\n"));
 		return StringUtils.join(results, "\n");
 	}
 
 	@Override
-	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
+	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
 		trackDomainAndContext(group.domain(), group.context(), group.hyperlink(), group.provider());
 		trackGroupValues(group);
 		trackResults(results);
