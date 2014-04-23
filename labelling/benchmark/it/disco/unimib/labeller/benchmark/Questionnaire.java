@@ -20,13 +20,14 @@ public class Questionnaire implements Metric {
 	
 	@Override
 	public String result() {
+		System.out.println(StringUtils.join(results, "\n"));
 		return StringUtils.join(results, "\n");
 	}
 
 	@Override
 	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
 		trackDomainAndContext(group.domain(), group.context(), group.hyperlink(), group.provider());
-		track(concatValues(group.elements()));
+		trackGroupValues(group);
 		for(AnnotationResult result : results){
 			track(result.value());
 		}
@@ -37,11 +38,24 @@ public class Questionnaire implements Metric {
 		track("\n" + domain + " (" + context + ")" + hyperlink(provider, hyperlink));
 	}
 	
+	private void trackGroupValues(GoldStandardGroup group) throws Exception {
+		ArrayList<String> fiveElements = new ArrayList<String>();
+		int size = group.elements().size();
+		for(int i = 1; i <= size; i++){
+			fiveElements.add(group.elements().get(i-1));
+			if(i%5 == 0){
+				track(concatValues(fiveElements));
+				fiveElements.clear();
+			}
+			if(i == size && size % 5 != 0)
+				track(concatValues(fiveElements));
+		}
+	}
+	
 	private String hyperlink(String provider, String hyperlink) {
 		if(hyperlinks.containsKey(provider)){
 			return "|" + hyperlinks.get(provider) + hyperlink;
 		}
-			
 		return "";
 	}
 
@@ -50,10 +64,9 @@ public class Questionnaire implements Metric {
 	}
 	
 	private String concatValues(List<String> elements) {
-		return StringUtils.join(elements, " ");
+		return StringUtils.join(elements, "|");
 	}
 	
-
 	private void inizializeHyperlinks() {
 		this.hyperlinks = new HashMap<String, String>();
 		this.hyperlinks.put("wikipedia", "http://en.wikipedia.org/wiki/");
