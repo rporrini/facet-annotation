@@ -16,7 +16,7 @@ public class Benchmark {
 
 	public void on(GoldStandardGroup[] groups, Metric[] metrics) throws Exception {
 		for(GoldStandardGroup group : groups){
-			new Events().info("processing gold standard " + group.context() + " " + group.label());
+			new Events().debug("processing gold standard " + group.context() + " " + group.label());
 			List<String> elements = group.elements();
 			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
 			for(Metric metric : metrics){

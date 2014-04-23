@@ -39,7 +39,7 @@ public class TRankTypeRank implements TypeRanker {
 		String candidate = null;
 		for(String type : scores.keySet()){
 			double score = scores.get(type);
-			new Events().info(type + ": " + score);
+			new Events().debug(type + ": " + score);
 			if(score > maxScore){
 				candidate = type;
 				maxScore = score;

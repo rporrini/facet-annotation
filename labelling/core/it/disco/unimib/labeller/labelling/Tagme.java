@@ -43,10 +43,10 @@ public class Tagme implements Annotator {
 	}
 	
 	private void log(String spottedType) {
-		new Events().info("retrieved entity: " + spottedType);
+		new Events().debug("retrieved entity: " + spottedType);
 	}
 	
 	private void logRequestFor(String... instances) {
-		new Events().info("querying tagme for: [" + StringUtils.join(instances, ", ") + "]");
+		new Events().debug("querying tagme for: [" + StringUtils.join(instances, ", ") + "]");
 	}
 }
