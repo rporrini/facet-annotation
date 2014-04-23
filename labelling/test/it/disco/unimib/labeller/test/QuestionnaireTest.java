@@ -44,7 +44,6 @@ public class QuestionnaireTest {
 	}
 
 	private GoldStandardGroup createGroup(String name) {
-		GoldStandardGroup year = new GoldStandardGroup(new FileSystemConnectorTestDouble().withName(name).withLine("value1").withLine("value2"));
-		return year;
+		return new GoldStandardGroup(new FileSystemConnectorTestDouble().withName(name).withLine("value1").withLine("value2"));
 	}
 }

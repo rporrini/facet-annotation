@@ -85,7 +85,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 			for(ScoreDoc document : group.scoreDocs){
 				new Events().debug(document.score);
 			}
-			group.scoreDocs[0].score = group.totalHits;
+			group.scoreDocs[0].score = (float)group.totalHits;
 			ids.add(group.scoreDocs[0]);
 		}
 		return ids;
@@ -93,7 +93,8 @@ public class FullTextSearch extends LuceneBasedIndex{
 	
 	private Query toQuery(String type, String context) throws Exception {
 		BooleanQuery query = new BooleanQuery();
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(QueryParser.escape(type), literal()), Occur.MUST));
+		String escape = "\"" + QueryParser.escape(type) + "\"";
+		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(escape, literal()), Occur.MUST));
 		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(QueryParser.escape(context), context()), Occur.SHOULD));
 		return query;
 	}

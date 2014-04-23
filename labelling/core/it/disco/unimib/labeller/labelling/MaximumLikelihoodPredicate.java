@@ -20,9 +20,14 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]));
 		Distribution distribution = new Distribution(values);
 		MaximumLikelihood likelihood = new MaximumLikelihood(distribution);
+		ArrayList<Double> scores = new ArrayList<Double>();
+		for(String predicate : distribution.predicates()){
+			scores.add(likelihood.of(predicate));
+		}
+		Normalize normalize = new Normalize(scores.toArray(new Double[scores.size()]));
 		List<AnnotationResult> results = new ArrayList<AnnotationResult>();
 		for(String predicate : distribution.predicates()){
-			results.add(new AnnotationResult(predicate, likelihood.of(predicate)));
+			results.add(new AnnotationResult(predicate, normalize.value(likelihood.of(predicate))));
 		}
 		Collections.sort(results);
 		return results;

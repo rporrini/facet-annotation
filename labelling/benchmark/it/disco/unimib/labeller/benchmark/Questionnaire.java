@@ -56,7 +56,7 @@ public class Questionnaire implements Metric {
 
 	private void inizializeHyperlinks() {
 		this.hyperlinks = new HashMap<String, String>();
-		this.hyperlinks.put("wikipedia", "en.wikipedia.org/wiki/");
+		this.hyperlinks.put("wikipedia", "http://en.wikipedia.org/wiki/");
 		this.hyperlinks.put("amazon", "http://www.amazon.com/gp/search/other/");
 		this.hyperlinks.put("discogs", "http://www.discogs.com/");
 		this.hyperlinks.put("pricegrabber", "http://www.pricegrabber.com/electronics/tablets-e-readers/p-5908/");
