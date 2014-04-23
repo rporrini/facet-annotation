@@ -11,7 +11,7 @@ public class RankByJaccard implements RankingStrategy{
 	@Override
 	public void reRank(String context, GroupDocs<BytesRef> group, IndexSearcher indexSearcher) throws Exception {
 		String c = indexSearcher.doc(group.scoreDocs[0].doc).get("context");
-		group.scoreDocs[0].score = new JaccardSimilarity().getSimilarity(context, c) * (float)Math.log(group.totalHits);
+		group.scoreDocs[0].score = (1 + new JaccardSimilarity().getSimilarity(context, c)) * (float)Math.sqrt(group.totalHits);
 	}
 	
 }

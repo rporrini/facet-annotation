@@ -13,7 +13,7 @@ import java.util.List;
 public class Try {
 
 	public static void main(String[] args) throws Exception {
-		String file = "tv series_wikipedia_television shows_writer_List_of_How_I_Met_Your_Mother_episodes";
+		String file = "tv series_wikipedia_television shows_director_List_of_How_I_Met_Your_Mother_episodes";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard/" + file)));
 		
 		RankingStrategy ranking = new RankByJaccard();
