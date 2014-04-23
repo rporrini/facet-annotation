@@ -6,9 +6,9 @@ public class Run {
 
 	public static void main(String[] args) throws Exception {
 		for(BenchmarkConfiguration configuration : configurations()){
-			Metric[] metrics = metrics();
+			Summary[] metrics = metrics();
 			new Benchmark(configuration.getAlgorithm()).on(goldStandard(), metrics);
-			for(Metric metric : metrics){
+			for(Summary metric : metrics){
 				System.out.println();
 				System.out.println(configuration.name());
 				System.out.println(metric.result());
@@ -22,8 +22,8 @@ public class Run {
 		};
 	}
 
-	private static Metric[] metrics() {
-		return new Metric[]{new Questionnaire()};
+	private static Summary[] metrics() {
+		return new Summary[]{new Questionnaire()};
 	}
 
 	private static GoldStandardGroup[] goldStandard() {

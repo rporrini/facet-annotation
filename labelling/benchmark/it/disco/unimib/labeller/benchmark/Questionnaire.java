@@ -2,13 +2,14 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
 
+import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class Questionnaire implements Metric {
+public class Questionnaire implements Summary {
 
 	private ArrayList<String> results;
 	private HashMap<String, String> hyperlinks;
@@ -24,12 +25,10 @@ public class Questionnaire implements Metric {
 	}
 
 	@Override
-	public Metric track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
+	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
 		trackDomainAndContext(group.domain(), group.context(), group.hyperlink(), group.provider());
 		trackGroupValues(group);
-		for(AnnotationResult result : results){
-			track(result.value());
-		}
+		trackResults(results);
 		return this;
 	}
 
@@ -51,19 +50,31 @@ public class Questionnaire implements Metric {
 		}
 	}
 	
+	private void trackResults(List<AnnotationResult> results) throws Exception {
+		for(AnnotationResult result : results){
+			track(result.value() + "| |" + createQuery(result.value()));
+		}
+	}
+	
+	private void track(String value){
+		this.results.add(value);
+	}
+	
+	private String createQuery(String value) throws Exception {
+		return "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fs+%3Fo+where+{%3Fs+%3C" +
+			   URLEncoder.encode(value, "UTF-8") +
+			   "%3E+%3Fo}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on";
+	}
+	
+	private String concatValues(List<String> elements) {
+		return StringUtils.join(elements, "|");
+	}
+	
 	private String hyperlink(String provider, String hyperlink) {
 		if(hyperlinks.containsKey(provider)){
 			return "|" + hyperlinks.get(provider) + hyperlink;
 		}
 		return "";
-	}
-
-	private void track(String value){
-		this.results.add(value);
-	}
-	
-	private String concatValues(List<String> elements) {
-		return StringUtils.join(elements, "|");
 	}
 	
 	private void inizializeHyperlinks() {
