@@ -4,18 +4,19 @@ import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.labelling.ContextUnaware;
+import it.disco.unimib.labeller.labelling.CandidatePredicates;
+import it.disco.unimib.labeller.labelling.Predicates;
 
 import java.util.HashMap;
 import java.util.List;
 
 import org.junit.Test;
 
-public class ContextUnawareCandidatePredicatesTest {
+public class PredicatesTest {
 
 	@Test
 	public void shouldReturnEmptyWhenIndexIsEmpty() throws Exception {
-		ContextUnaware predicates = new ContextUnaware(new IndexTestDouble());
+		CandidatePredicates predicates = new Predicates(new IndexTestDouble());
 		
 		assertThat(predicates.forValues("any", new String[]{"any"}).get("any"), empty());
 	}
@@ -26,7 +27,7 @@ public class ContextUnawareCandidatePredicatesTest {
 								.resultFor("italy", "country", 10)
 								.resultFor("france", "country", 25);
 		
-		HashMap<String, List<AnnotationResult>> results = new ContextUnaware(index).forValues("any", new String[]{"italy", "france"});
+		HashMap<String, List<AnnotationResult>> results = new Predicates(index).forValues("any", new String[]{"italy", "france"});
 		
 		assertThat(results.get("france").get(0).score(), equalTo(25d));
 	}

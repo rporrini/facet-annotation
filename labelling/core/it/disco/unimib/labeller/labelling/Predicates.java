@@ -7,11 +7,11 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class ContextUnaware implements CandidatePredicates {
+public class Predicates implements CandidatePredicates {
 
 	private Index index;
 
-	public ContextUnaware(Index index) {
+	public Predicates(Index index) {
 		this.index = index;
 	}
 
