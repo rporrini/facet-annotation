@@ -18,8 +18,7 @@ public class Run {
 
 	private static BenchmarkConfiguration[] configurations() throws Exception {
 		return new BenchmarkConfiguration[]{
-			new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(),
-			//new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
+			new BenchmarkConfiguration("majority").majorityAnnotation(0.1)
 		};
 	}
 

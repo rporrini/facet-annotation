@@ -5,5 +5,6 @@ import org.apache.lucene.search.grouping.GroupDocs;
 import org.apache.lucene.util.BytesRef;
 
 public interface RankingStrategy{
-	public void reRank(GroupDocs<BytesRef> group, IndexSearcher indexSearcher);
+	
+	public void reRank(GroupDocs<BytesRef> group, IndexSearcher indexSearcher) throws Exception;
 }

@@ -1,7 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.Events;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -16,6 +14,7 @@ import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
+import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler;
 import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
@@ -87,10 +86,6 @@ public class FullTextSearch extends LuceneBasedIndex{
 		groupingSearch.setIncludeScores(true);
 		Query query = toQuery(type, context);
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
-			new Events().debug(indexSearcher.doc(group.scoreDocs[0].doc).get(property()));
-			for(ScoreDoc document : group.scoreDocs){
-				new Events().debug(document.score);
-			}
 			ranking.reRank(group, indexSearcher);
 			ids.add(group.scoreDocs[0]);
 		}
@@ -99,9 +94,11 @@ public class FullTextSearch extends LuceneBasedIndex{
 
 	private Query toQuery(String type, String context) throws Exception {
 		BooleanQuery query = new BooleanQuery();
-		String escape = "\"" + QueryParser.escape(type) + "\"";
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(escape, literal()), Occur.MUST));
-		query.clauses().add(new BooleanClause(new StandardQueryParser(analyzer()).parse(QueryParser.escape(context), context()), Occur.SHOULD));
+		String escape = "(" + QueryParser.escape(type) + ")";
+		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer());
+		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
+		query.clauses().add(new BooleanClause(standardQueryParser.parse(escape, literal()), Occur.MUST));
+		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), context()), Occur.SHOULD));
 		return query;
 	}
 	

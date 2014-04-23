@@ -1,13 +1,14 @@
 package it.disco.unimib.labeller.index;
 
-
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.grouping.GroupDocs;
 import org.apache.lucene.util.BytesRef;
 
-public class RankByFrequency implements RankingStrategy{
-	
+public class RankByRelevance implements RankingStrategy{
+
+	@Override
 	public void reRank(GroupDocs<BytesRef> group, IndexSearcher indexSearcher) throws Exception {
-		group.scoreDocs[0].score = (float)group.totalHits;
+		group.scoreDocs[0].score = group.scoreDocs[0].score * group.totalHits;
 	}
+	
 }
