@@ -86,7 +86,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 		groupingSearch.setIncludeScores(true);
 		Query query = toQuery(type, context);
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
-			ranking.reRank(group, indexSearcher);
+			ranking.reRank(context, group, indexSearcher);
 			ids.add(group.scoreDocs[0]);
 		}
 		return ids;

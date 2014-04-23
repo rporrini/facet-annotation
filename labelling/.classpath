@@ -22,5 +22,6 @@
 	<classpathentry kind="lib" path="lib/nxparser-1.2.3.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-grouping-4.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/lucene-queryparser-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
 	<classpathentry kind="output" path="build/eclipse"/>
 </classpath>
