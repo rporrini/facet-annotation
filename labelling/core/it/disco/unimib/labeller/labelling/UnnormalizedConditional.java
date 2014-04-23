@@ -4,19 +4,21 @@ public class UnnormalizedConditional {
 
 	private Distribution distribution;
 	private NormalizedPrior prior;
+	private double kp;
 
 	public UnnormalizedConditional(Distribution distribution) {
 		this.distribution = distribution;
 		this.prior = new NormalizedPrior(distribution);
+		this.kp = 0.01;
 	}
 
 	public double of(String predicate, String value) {
-		double score = distribution.scoreOf(predicate, value);
+		double score = Math.log(distribution.scoreOf(predicate, value) + 1);
 		double prior = this.prior.of(predicate);
 		double all = 0.0;
 		for(String otherPredicate : distribution.predicates()){
-			all += distribution.scoreOf(otherPredicate, value);
+			all += Math.log(distribution.scoreOf(otherPredicate, value) + 1);
 		}
-		return ((prior) + score )/(all);
+		return ((kp * prior) + score )/(kp + all);
 	}
 }
