@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
 import it.disco.unimib.labeller.labelling.MajorityPredicate;
 import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
+import it.disco.unimib.labeller.labelling.TopK;
 import it.disco.unimib.labeller.labelling.TypeRanker;
 
 import java.io.File;
@@ -40,7 +41,7 @@ public class BenchmarkConfiguration{
 	
 	public BenchmarkConfiguration majorityAnnotation(double threshold) throws Exception{
 		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
-		this.algorithm = new MajorityPredicate(new CandidatePredicates(fts), threshold);
+		this.algorithm = new TopK(30, new MajorityPredicate(new CandidatePredicates(fts), threshold));
 		return this;
 	}
 	
