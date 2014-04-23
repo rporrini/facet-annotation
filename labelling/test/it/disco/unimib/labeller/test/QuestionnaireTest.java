@@ -6,19 +6,26 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.benchmark.Questionnaire;
+import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.index.AnnotationResult;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import org.junit.Before;
 import org.junit.Test;
 
 public class QuestionnaireTest {
 	
-	private List<AnnotationResult> annotationResults = new ArrayList<AnnotationResult>();
-	private Summary metric = new Questionnaire();
+	private List<AnnotationResult> annotationResults;
+	private Summary metric;
+	
+	@Before
+	public void setUp(){
+		metric = new Questionnaire();
+		annotationResults = new ArrayList<AnnotationResult>();
+	}
 	
 	@Test
 	public void onEmptyEvaluationShouldDisplayNothing() {
@@ -74,6 +81,13 @@ public class QuestionnaireTest {
 										  containsString("year"), 
 										  containsString("date"), 
 										  containsString("dbpedia")));
+	}
+	
+	@Test
+	public void shouldPrintTheGroupId() throws Exception {
+		metric.track(createGroup("domain_provider_context_label", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("1761928305"));
 	}
 
 	private GoldStandardGroup createGroup(String name, int numberOfValues) {

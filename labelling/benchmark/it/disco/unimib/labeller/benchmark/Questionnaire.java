@@ -33,7 +33,7 @@ public class Questionnaire implements Summary {
 	}
 
 	private void trackDomainAndContext(GoldStandardGroup group) throws Exception {
-		track("\n" + group.domain() + " (" + group.context() + ")|" + linkResult(composeHyperlink(group.provider(), group.contextHyperlink()), "View context"));
+		track("\n" + group.id() + "|" + group.domain() + " (" + group.context() + ")|" + linkResult(composeHyperlink(group.provider(), group.contextHyperlink()), "View context"));
 	}
 	
 	private void trackGroupValues(GoldStandardGroup group) throws Exception {
