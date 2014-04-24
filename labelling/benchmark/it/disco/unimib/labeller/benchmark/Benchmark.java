@@ -14,14 +14,12 @@ public class Benchmark {
 		this.algorithm = algorithm;
 	}
 
-	public void on(GoldStandardGroup[] groups, Summary[] summaries) throws Exception {
+	public void on(GoldStandardGroup[] groups, Summary summary) throws Exception {
 		for(GoldStandardGroup group : groups){
 			new Events().debug("processing gold standard " + group.context() + " " + group.label());
 			List<String> elements = group.elements();
 			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
-			for(Summary summary : summaries){
-				summary.track(group, labels);
-			}
+			summary.track(group, labels);
 		}
 	}
 }

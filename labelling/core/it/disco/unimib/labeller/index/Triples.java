@@ -41,7 +41,7 @@ public class Triples {
 				if(filter.matches(triple)) index.add(triple);
 				else skippedLines++;
 			}catch(Exception e){
-				new Events().equals(e);
+				new Events().error("error processing " + connector.name(), e);
 			}
 		}
 	}
