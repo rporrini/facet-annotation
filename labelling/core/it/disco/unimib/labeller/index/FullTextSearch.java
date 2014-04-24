@@ -98,6 +98,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer());
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
 		query.clauses().add(new BooleanClause(standardQueryParser.parse(escape, literal()), Occur.MUST));
+		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
 		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), context()), Occur.SHOULD));
 		return query;
 	}

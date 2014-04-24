@@ -87,6 +87,22 @@ public class FullTextSearchTest {
 	}
 	
 	@Test
+	public void theContextShouldBeStemmedForEnglish() throws Exception {
+		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
+		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
+		
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels)
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withPredicate("http://property")
+										.withLiteral("literal")
+										.asTriple())
+							.closeWriter();
+		
+		assertThat(index.get("literal", "type"), hasSize(1));
+	}
+	
+	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
 		new FullTextSearch(new RAMDirectory(), null, null).closeWriter().get("a query with a special & character!", "any");
