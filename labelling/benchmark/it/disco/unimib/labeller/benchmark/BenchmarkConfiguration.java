@@ -1,6 +1,8 @@
 package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.FullTextSearch;
+import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.RankingStrategy;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.AnnotationWithType;
@@ -34,13 +36,13 @@ public class BenchmarkConfiguration{
 	}
 	
 	public BenchmarkConfiguration predicateAnnotation(RankingStrategy ranking) throws Exception{
-		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, ranking);
+		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, ranking, new OptionalContext());
 		this.algorithm = new MaximumLikelihoodPredicate(new CandidatePredicates(fts));
 		return this;
 	}
 	
 	public BenchmarkConfiguration majorityAnnotation(double threshold) throws Exception{
-		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null);
+		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, new RankByFrequency(), new OptionalContext());
 		this.algorithm = new TopK(40, new MajorityPredicate(new CandidatePredicates(fts), threshold));
 		return this;
 	}

@@ -7,17 +7,11 @@ import java.util.Map;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
-import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanClause.Occur;
-import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -33,23 +27,21 @@ public class FullTextSearch extends LuceneBasedIndex{
 	private Index types;
 	private Index labels;
 	private RankingStrategy ranking;
+	private FullTextQuery query;
 
-	public FullTextSearch(Directory directory, Index types, Index labels) throws Exception {
-		this(directory, types, labels, new RankByFrequency());
-	}
-	
-	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking) throws Exception {
+	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking, FullTextQuery query) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
 		this.ranking = ranking;
+		this.query = query;
 	}
 
 	@Override
 	protected Analyzer analyzer() {
 		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();
 		analyzers.put(property(), new KeywordAnalyzer());
-		return new PerFieldAnalyzerWrapper(new StandardAnalyzer(Version.LUCENE_45), analyzers);
+		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
 	}
 
 	@Override
@@ -84,7 +76,7 @@ public class FullTextSearch extends LuceneBasedIndex{
  		GroupingSearch groupingSearch = new GroupingSearch(property());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
-		Query query = toQuery(type, context);
+		Query query = this.query.createQuery(type, context, literal(), context(), analyzer());
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
 			ranking.reRank(context, group, indexSearcher);
 			ids.add(group.scoreDocs[0]);
@@ -92,17 +84,6 @@ public class FullTextSearch extends LuceneBasedIndex{
 		return ids;
 	}
 
-	private Query toQuery(String type, String context) throws Exception {
-		BooleanQuery query = new BooleanQuery();
-		String escape = "(" + QueryParser.escape(type) + ")";
-		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer());
-		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
-		query.clauses().add(new BooleanClause(standardQueryParser.parse(escape, literal()), Occur.MUST));
-		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
-		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), context()), Occur.SHOULD));
-		return query;
-	}
-	
 	private String literal() {
 		return "literal";
 	}

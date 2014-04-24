@@ -21,7 +21,8 @@ public class RunPropertyValuesIndexing {
 		
 		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
 															types, 
-															labels);
+															labels,
+															null, new OptionalContext());
 		ExecutorService executor = Executors.newFixedThreadPool(4);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
 			executor.execute(new Runnable() {

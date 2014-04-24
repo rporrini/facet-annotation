@@ -7,6 +7,9 @@ import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KeyValueStore;
+import it.disco.unimib.labeller.index.MandatoryContext;
+import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.RankByFrequency;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
@@ -21,7 +24,7 @@ public class FullTextSearchTest {
 																		.asTriple())
 															.closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels)
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext())
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -34,7 +37,7 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchable() throws Exception {
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter())
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext())
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		AnnotationResult searchResult = index.get("literal", "any").get(0);
@@ -48,7 +51,7 @@ public class FullTextSearchTest {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels)
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext())
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -68,7 +71,8 @@ public class FullTextSearchTest {
 	public void shouldGroupByPredicate() throws Exception {
 		Index index = new FullTextSearch(new RAMDirectory(), 
 										 new KeyValueStore(new RAMDirectory()).closeWriter(), 
-										 new KeyValueStore(new RAMDirectory()).closeWriter())
+										 new KeyValueStore(new RAMDirectory()).closeWriter(),
+										 new RankByFrequency(), new OptionalContext())
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
 										.withLiteral("the literal")
@@ -91,7 +95,7 @@ public class FullTextSearchTest {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels)
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext())
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -99,12 +103,12 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("literal", "type"), hasSize(1));
+		assertThat(index.get("literals", "type"), hasSize(1));
 	}
 	
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new FullTextSearch(new RAMDirectory(), null, null).closeWriter().get("a query with a special & character!", "any");
+		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext()).closeWriter().get("a query with a special & character!", "any");
 	}
 }
