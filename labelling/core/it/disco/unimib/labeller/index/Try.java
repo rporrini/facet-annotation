@@ -14,7 +14,7 @@ public class Try {
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard/" + file)));
 		
 		RankingStrategy ranking = new RankByRelevance();
-		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(new RankInspection(ranking)).getAlgorithm();
+		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(new RankInspection(ranking), new OptionalContext()).getAlgorithm();
 		
 		System.out.println(group.context());
 		
