@@ -95,6 +95,8 @@ if [ ! -d "dbpedia-labels" ]; then
 	./download-ontology.py "../dbpedia-labels/dbpedia_3.9.owl" "../dbpedia-labels/dbpedia_3.9.nt"
 	cd ../dbpedia-labels
 	rm dbpedia_3.9.owl
+	grep "@en" dbpedia_3.9.nt > dbpedia_3.9-en.nt
+	rm dbpedia_3.9.nt
 	wget -O schema-org.nt "http://www.w3.org/2012/pyRdfa/extract?uri=http://schema.org/docs/schema_org_rdfa.html&format=nt"	
 	cd ..
 fi
