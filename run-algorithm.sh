@@ -13,5 +13,5 @@ cd $root
 
 signal "Running Benchmark"
 cd $project
-java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.benchmark.Run $1 $2
+java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.benchmark.Run $1 $2 $3
 signal "Done"
