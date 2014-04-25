@@ -8,18 +8,15 @@ public class GetGoldStandardValues {
 
 	public static void main(String[] args) throws Exception {
 		
-		ArrayList<String> domains = new ArrayList<String>();
 		ArrayList<String> contexts = new ArrayList<String>();
 		ArrayList<String> providers = new ArrayList<String>();
 		ArrayList<String> labels = new ArrayList<String>();
 		for(GoldStandardGroup goldStandard: goldStandard()){
-			addContent(domains, goldStandard.domain());
 			addContent(contexts, goldStandard.context());
 			addContent(providers, goldStandard.provider());
 			addContent(labels, goldStandard.label());
 		}
 	
-		printAll(domains, "Domains:");
 		printAll(providers, "Providers:");
 		printAll(contexts, "Contexts:");
 		printAll(labels, "Labels:");

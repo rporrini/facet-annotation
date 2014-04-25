@@ -19,25 +19,21 @@ public class GoldStandardGroup {
 		return nonEmpty(connector.lines());
 	}
 
-	public String domain() {
+	public String provider() {
 		return splittedName()[0];
 	}
 	
-	public String provider() {
-		return splittedName()[1];
-	}
-	
 	public String context() {
-		return splittedName()[2];
+		return splittedName()[1];
 	}
 
 	public String label() {
-		return splittedName()[3];
+		return splittedName()[2];
 	}
 	
 	public String contextHyperlink() {
 		try{
-			String firstPart = splittedName()[4];
+			String firstPart = splittedName()[3];
 			int index = connector.name().indexOf(firstPart);
 			return connector.name().substring(index);
 		}

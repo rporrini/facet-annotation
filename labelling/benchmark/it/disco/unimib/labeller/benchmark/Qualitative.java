@@ -14,7 +14,7 @@ public class Qualitative implements Summary {
 	public Qualitative(){
 		this.results = new ArrayList<String>();
 		this.results.add("Qualitative analysis");
-		track("DOMAIN", "CONTEXT", "EXPECTED", "ACTUAL");
+		track("CONTEXT", "EXPECTED", "ACTUAL");
 	}
 	
 	@Override
@@ -24,11 +24,11 @@ public class Qualitative implements Summary {
 
 	@Override
 	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) {
-		track(group.domain(), group.context(), group.label(), results.get(0).value());
+		track(group.context(), group.label(), results.get(0).value());
 		return this;
 	}
 
-	private void track(String domain, String context, String expected, String value) {
-		this.results.add(domain + "|" + context + "|" + expected + "|" + value);
+	private void track(String context, String expected, String value) {
+		this.results.add(context + "|" + expected + "|" + value);
 	}
 }

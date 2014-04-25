@@ -18,7 +18,7 @@ public class BenchmarkTest {
 		
 		new Benchmark(new AnnotationWithType(null, null)).on(new GoldStandardGroup[]{}, summary);
 		
-		assertThat(summary.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL")));		
+		assertThat(summary.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL")));		
 	}
 	
 	@Test
@@ -27,9 +27,9 @@ public class BenchmarkTest {
 		
 		new Benchmark(new AnnotationWithType(new AnnotatorTestDouble(), new TypeRankerTestDouble().thatReturns("actual type")))
 						.on(new GoldStandardGroup[]{
-								new GoldStandardGroup(new FileSystemConnectorTestDouble().withName("ecommerce_amazon_category_expected type"))
+								new GoldStandardGroup(new FileSystemConnectorTestDouble().withName("amazon_category_expected type"))
 							}, summary);
 		
-		assertThat(summary.result(), is(equalTo("Qualitative analysis\nDOMAIN|CONTEXT|EXPECTED|ACTUAL\necommerce|category|expected type|actual type")));
+		assertThat(summary.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncategory|expected type|actual type")));
 	}
 }

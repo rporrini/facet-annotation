@@ -36,22 +36,22 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldTrackTheExecution() throws Exception {
-		metric.track(createGroup("domain_provider_context_label", 1), annotationResults);
+		metric.track(createGroup("provider_context_label", 1), annotationResults);
 		
-		assertThat(metric.result(), containsString("domain (context)|=HYPERLINK(\"\", \"View context\")"));
+		assertThat(metric.result(), containsString("context|=HYPERLINK(\"\", \"View context\")"));
 	}
 
 	@Test
 	public void shouldTrackTheExecutionWithMultipleContexts() throws Exception {
-		metric.track(createGroup("domain_provider_context1_year", 2), annotationResults)
-			  .track(createGroup("domain_provider_context2_decade", 2), annotationResults);
+		metric.track(createGroup("provider_context1_year", 2), annotationResults)
+			  .track(createGroup("provider_context2_decade", 2), annotationResults);
 		
 		assertThat(metric.result(), allOf(containsString("context1"), containsString("context2")));
 	}
 	
 	@Test
 	public void shouldTrackTheHyperlink() throws Exception {
-		metric.track(createGroup("domain_amazon_context_year_hyperlink", 2), annotationResults);
+		metric.track(createGroup("amazon_context_year_hyperlink", 2), annotationResults);
 		
 		assertThat(metric.result(), allOf(containsString("hyperlink"), containsString("amazon")));
 	}

@@ -18,8 +18,8 @@ public class OrderedGroups implements GoldStandard {
 		Arrays.sort(unorderedGroups, new Comparator<GoldStandardGroup>() {
 			@Override
 			public int compare(GoldStandardGroup o1, GoldStandardGroup o2) {
-				String o1name = o1.domain() + o1.provider();
-				String o2name = o2.domain() + o2.provider();
+				String o1name = o1.provider() + o1.context();
+				String o2name = o2.provider() + o2.context();
 				return o1name.compareTo(o2name);
 			}
 		});
