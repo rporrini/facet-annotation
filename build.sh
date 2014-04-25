@@ -109,6 +109,15 @@ if [ ! -d "dbpedia-properties" ]; then
 	bunzip2 specific_mappingbased_properties_en.nt.bz2
 	cd ..
 fi
+if [ ! -d "dbpedia-raw-properties" ]; then
+	mkdir dbpedia-raw-properties
+	cd dbpedia-raw-properties
+	wget http://downloads.dbpedia.org/3.9/en/raw_infobox_properties_en.nt.bz2
+	bunzip2 raw_infobox_properties_en.nt.bz2
+	split raw_infobox_properties_en.nt -l 1000000
+	rm raw_infobox_properties_en.nt
+	cd ..
+fi
 cd $root
 signal "Done"
 
