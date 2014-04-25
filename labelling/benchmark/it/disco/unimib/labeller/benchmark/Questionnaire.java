@@ -79,6 +79,8 @@ public class Questionnaire implements Summary {
 		this.hyperlinks.put("discogs", "http://www.discogs.com/");
 		this.hyperlinks.put("pricegrabber", "http://www.pricegrabber.com/electronics/tablets-e-readers/p-5908/");
 		this.hyperlinks.put("IMDB", "http://www.imdb.com/");
+		this.hyperlinks.put("citymayors", "http://www.citymayors.com/gratis/");
+		this.hyperlinks.put("allstartnba", "http://www.allstarnba.es/players/");
 	}
 	
 	private String linkResult(String result) {
