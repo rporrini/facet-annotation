@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.FullTextSearch;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.RankingStrategy;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
@@ -43,8 +43,8 @@ public class BenchmarkConfiguration{
 	}
 	
 	public BenchmarkConfiguration majorityAnnotation(double threshold) throws Exception{
-		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, new RankByFrequency(), new OptionalContext());
-		this.algorithm = new TopK(40, new MajorityPredicate(new CandidatePredicates(fts), threshold));
+		FullTextSearch fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, new RankByFrequency(), new MandatoryContext());
+		this.algorithm = new TopK(1000, new MajorityPredicate(new CandidatePredicates(fts), threshold));
 		return this;
 	}
 	

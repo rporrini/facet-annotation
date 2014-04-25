@@ -13,8 +13,8 @@ public class Try {
 		String file = "tv series_wikipedia_television shows_director_List_of_How_I_Met_Your_Mother_episodes";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard/" + file)));
 		
-		RankingStrategy ranking = new RankByRelevance();
-		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(new RankInspection(ranking), new OptionalContext()).getAlgorithm();
+		RankingStrategy ranking = new RankByFrequency();
+		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(new RankInspection(ranking), new MandatoryContext()).getAlgorithm();
 		
 		System.out.println(group.context());
 		

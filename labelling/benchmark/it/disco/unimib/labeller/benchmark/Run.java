@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.RankByJaccard;
 import it.disco.unimib.labeller.index.RankByRelevance;
@@ -27,11 +27,11 @@ public class Run {
 		case "majority":
 			return new BenchmarkConfiguration("majority").majorityAnnotation(0.05);
 		case "ml-frequency":
-			return new BenchmarkConfiguration("ml-frequency").predicateAnnotation(new RankByFrequency(), new OptionalContext());
+			return new BenchmarkConfiguration("ml-frequency").predicateAnnotation(new RankByFrequency(), new MandatoryContext());
 		case "ml-jaccard":
-			return new BenchmarkConfiguration("ml-jaccard").predicateAnnotation(new RankByJaccard(), new OptionalContext());
+			return new BenchmarkConfiguration("ml-jaccard").predicateAnnotation(new RankByJaccard(), new MandatoryContext());
 		case "ml-tfidf":
-			return new BenchmarkConfiguration("ml-tfidf").predicateAnnotation(new RankByRelevance(), new OptionalContext()); 
+			return new BenchmarkConfiguration("ml-tfidf").predicateAnnotation(new RankByRelevance(), new MandatoryContext()); 
 		default:
 			return null;
 		}
