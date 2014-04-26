@@ -22,8 +22,6 @@ public abstract class LuceneBasedIndex implements Index{
 
 	public LuceneBasedIndex(Directory directory) throws Exception{
 		this.directory = directory;
-		this.writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
-																			.setRAMBufferSizeMB(95));
 	}
 
 	@Override
@@ -38,18 +36,26 @@ public abstract class LuceneBasedIndex implements Index{
 	}
 
 	public Index closeWriter() throws Exception {
-		this.writer.close();
+		openWriter().close();
 		return this;
 	}
 	
 	public Index closeReader() throws Exception {
-		this.writer.close();
+		this.reader.close();
 		return this;
 	}
 	
 	public LuceneBasedIndex add(NTriple triple) throws Exception {
-		writer.addDocument(toDocument(triple));
+		openWriter().addDocument(toDocument(triple));
 		return this;
+	}
+	
+	private IndexWriter openWriter() throws Exception{
+		if(writer == null){
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
+																					.setRAMBufferSizeMB(95));
+		}
+		return writer;
 	}
 	
 	private IndexReader openReader() throws Exception{

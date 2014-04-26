@@ -28,7 +28,7 @@ public class Run {
 	private static BenchmarkConfiguration configurationOf(String algorithm, String context) throws Exception{
 		switch (algorithm) {
 		case "majority":
-			return new BenchmarkConfiguration("majority").majorityAnnotation(0.05, context(context));
+			return new BenchmarkConfiguration("majority").majorityAnnotation(0.10, context(context));
 		case "ml-frequency":
 			return new BenchmarkConfiguration("ml-frequency").predicateAnnotation(new RankByFrequency(), context(context));
 		case "ml-jaccard":
@@ -56,6 +56,6 @@ public class Run {
 	}
 	
 	private static GoldStandardGroup[] goldStandard() {
-		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standard"))).getGroups();
+		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standard-enhanced"))).getGroups();
 	}
 }
