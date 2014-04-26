@@ -16,19 +16,20 @@ public class Run {
 		String algorithm = args[0];
 		String metricName = args[1];
 		String context = args[2];
+		String majorityK = args[3];
 		
 		Summary summary = analysis(algorithm, metricName);
-		BenchmarkConfiguration configuration = configurationOf(algorithm, context);
+		BenchmarkConfiguration configuration = configurationOf(algorithm, context, majorityK);
 		new Benchmark(configuration.getAlgorithm()).on(goldStandard(), summary);
 		System.out.println();
 		System.out.println(configuration.name());
 		System.out.println(summary.result());
 	}
 
-	private static BenchmarkConfiguration configurationOf(String algorithm, String context) throws Exception{
+	private static BenchmarkConfiguration configurationOf(String algorithm, String context, String majorityK) throws Exception{
 		switch (algorithm) {
 		case "majority":
-			return new BenchmarkConfiguration("majority").majorityAnnotation(0.10, context(context));
+			return new BenchmarkConfiguration("majority").majorityAnnotation(Double.parseDouble(majorityK), context(context));
 		case "ml-frequency":
 			return new BenchmarkConfiguration("ml-frequency").predicateAnnotation(new RankByFrequency(), context(context));
 		case "ml-jaccard":
