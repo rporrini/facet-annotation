@@ -75,7 +75,7 @@ public class QuestionnaireTest {
 		annotationResults.add(new AnnotationResult("year", 1));
 		annotationResults.add(new AnnotationResult("date", 1));
 		
-		metric.track(createGroup("domain_amazon_context_label", 0), annotationResults);
+		metric.track(createGroup("amazon_context_label_url", 0), annotationResults);
 		
 		assertThat(metric.result(), allOf(containsString("=HYPERLINK("),
 										  containsString("year"), 
@@ -85,11 +85,53 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldPrintTheGroupId() throws Exception {
-		metric.track(createGroup("domain_provider_context_label", 0), new ArrayList<AnnotationResult>());
+		metric.track(createGroup("provider_context_label_url", 0), new ArrayList<AnnotationResult>());
 		
-		assertThat(metric.result(), containsString("1761928305"));
+		assertThat(metric.result(), containsString("873353146"));
 	}
 
+	@Test
+	public void shouldPrintTheIMDBUrl() throws Exception {
+		metric.track(createGroup("IMDB_movies_genre_genre", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://www.imdb.com/genre\""));
+	}
+	
+	@Test
+	public void shouldPrintTheWikipediaUrl() throws Exception {
+		metric.track(createGroup("wikipedia_airports_city served_List_of_airports_in_Italy", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://en.wikipedia.org/wiki/List_of_airports_in_Italy\""));
+	}
+	
+	@Test
+	public void shouldPrintThePriceGrabberUrl() throws Exception {
+		metric.track(createGroup("pricegrabber_tablets and readers_manufacturer", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://www.pricegrabber.com/electronics/tablets-e-readers/p-5908/\""));
+	}
+	
+	@Test
+	public void shouldPrintTheDiscogsUrl() throws Exception {
+		metric.track(createGroup("discogs_music albums_genre", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://www.discogs.com/\""));
+	}
+	
+	@Test
+	public void shouldPrintTheAmazonUrl() throws Exception {
+		metric.track(createGroup("amazon_wines_country_ref=lp_2983386011_sa_p_n_style_browse-bin?rh=n%3A16310101%2Cn%3A!16310211%2Cn%3A2983386011&bbn=2983386011&pickerToList=style_browse-bin&ie=UTF8&qid=1398240361", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://www.amazon.com/gp/search/other/ref=lp_2983386011_sa_p_n_style_browse-bin?rh=n%3A16310101%2Cn%3A!16310211%2Cn%3A2983386011&bbn=2983386011&pickerToList=style_browse-bin&ie=UTF8&qid=1398240361\""));
+	}
+	
+	@Test
+	public void shouldPrintTheAllStarNBAUrl() throws Exception {
+		metric.track(createGroup("allstartnba_basketball players_draft year_players-by-draft-pick.htm", 0), new ArrayList<AnnotationResult>());
+		
+		assertThat(metric.result(), containsString("http://www.allstarnba.es/players/players-by-draft-pick.htm\""));
+	}
+	
 	private GoldStandardGroup createGroup(String name, int numberOfValues) {
 		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble().withName(name);
 		for(int i = 1; i <= numberOfValues; i++){
