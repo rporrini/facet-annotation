@@ -13,11 +13,11 @@ public class UnnormalizedConditional {
 	}
 
 	public double of(String predicate, String value) {
-		double score = Math.log(distribution.scoreOf(predicate, value) + 1);
+		double score = Math.log(distribution.scoreOf(predicate, value) + 1.0d);
 		double prior = this.prior.of(predicate);
 		double all = 0.0;
 		for(String otherPredicate : distribution.predicates()){
-			all += Math.log(distribution.scoreOf(otherPredicate, value) + 1);
+			all += Math.log(distribution.scoreOf(otherPredicate, value) + 1.0d);
 		}
 		return ((kp * prior) + score )/(kp + all);
 	}
