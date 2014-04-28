@@ -10,9 +10,11 @@ import java.util.Set;
 
 public class Distribution{
 	private HashMap<String, HashMap<String, List<AnnotationResult>>> predicatesDistribution;
+	private Set<String> values;
 	
 	public Distribution(HashMap<String, List<AnnotationResult>> valueDistribution) {
 		this.predicatesDistribution = invert(valueDistribution);
+		this.values = enumerateValues();
 	}
 	
 	public Set<String> predicates(){
@@ -20,6 +22,10 @@ public class Distribution{
 	}
 	
 	public Set<String> values(){
+		return values;
+	}
+	
+	private Set<String> enumerateValues(){
 		HashSet<String> values = new HashSet<String>();
 		for(String predicate : predicates()){
 			values.addAll(predicatesDistribution.get(predicate).keySet());
