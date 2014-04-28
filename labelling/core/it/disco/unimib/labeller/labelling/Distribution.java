@@ -2,23 +2,31 @@ package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
 public class Distribution{
-	private HashMap<String, HashMap<String, List<AnnotationResult>>> predicatesDistribution;
+	
+	private HashMap<String, HashMap<String, Double>> scores;
 	private Set<String> values;
 	
 	public Distribution(HashMap<String, List<AnnotationResult>> valueDistribution) {
-		this.predicatesDistribution = invert(valueDistribution);
+		this.scores = invert(valueDistribution);
 		this.values = enumerateValues();
 	}
 	
+	public double scoreOf(String predicate, String value) {
+		Double score = scores.get(predicate).get(value);
+		if(score == null){
+			score = 0.0;
+		}
+		return score;
+	}
+	
 	public Set<String> predicates(){
-		return predicatesDistribution.keySet();
+		return scores.keySet();
 	}
 	
 	public Set<String> values(){
@@ -28,33 +36,23 @@ public class Distribution{
 	private Set<String> enumerateValues(){
 		HashSet<String> values = new HashSet<String>();
 		for(String predicate : predicates()){
-			values.addAll(predicatesDistribution.get(predicate).keySet());
+			values.addAll(scores.get(predicate).keySet());
 		}
 		return values;
 	}
 	
-	public double scoreOf(String predicate, String value) {
-		List<AnnotationResult> list = this.predicatesDistribution.get(predicate).get(value);
-		double count = 0.0;
-		if(list != null){
-			for(AnnotationResult result : list){
-				count += result.score();
-			}
-		}
-		return count;
-	}
-	
-	private HashMap<String, HashMap<String, List<AnnotationResult>>> invert(HashMap<String, List<AnnotationResult>> valueDistribution) {
-		HashMap<String, HashMap<String, List<AnnotationResult>>> inverted = new HashMap<String, HashMap<String, List<AnnotationResult>>>();
+	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, List<AnnotationResult>> valueDistribution) {
+		HashMap<String, HashMap<String, Double>> inverted = new HashMap<String, HashMap<String, Double>>();
 		for(String value : valueDistribution.keySet()){
 			for(AnnotationResult predicate : valueDistribution.get(value)){
 				if(!inverted.containsKey(predicate.value())) {
-					inverted.put(predicate.value(), new HashMap<String, List<AnnotationResult>>());
+					inverted.put(predicate.value(), new HashMap<String, Double>());
 				}
-				if(!inverted.get(predicate.value()).containsKey(value)){
-					inverted.get(predicate.value()).put(value, new ArrayList<AnnotationResult>());
+				HashMap<String, Double> predicates = inverted.get(predicate.value());
+				if(!predicates.containsKey(value)){
+					predicates.put(value, 0.0);
 				}
-				inverted.get(predicate.value()).get(value).add(predicate);
+				predicates.put(value, predicates.get(value) + predicate.score());
 			}
 		}
 		return inverted;

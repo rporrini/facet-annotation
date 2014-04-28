@@ -5,6 +5,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.NormalizedPrior;
+import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -26,7 +27,7 @@ public class NormalizedPriorTest {
 		occurrenciesForRome.add(new AnnotationResult("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
-		NormalizedPrior prior = new NormalizedPrior(new Distribution(distribution));
+		NormalizedPrior prior = new NormalizedPrior(new Distribution(distribution), new UnnormalizedPrior(new Distribution(distribution)));
 		
 		assertThat(prior.of("capital") + prior.of("birthPlace"), equalTo(1.0));
 	}

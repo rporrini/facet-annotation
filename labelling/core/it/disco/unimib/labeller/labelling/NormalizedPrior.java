@@ -8,8 +8,8 @@ public class NormalizedPrior {
 	private Normalize normalizer;
 	private UnnormalizedPrior unnormalizedPrior;
 
-	public NormalizedPrior(Distribution distribution) {
-		this.unnormalizedPrior = new UnnormalizedPrior(distribution);
+	public NormalizedPrior(Distribution distribution, UnnormalizedPrior prior) {
+		this.unnormalizedPrior = prior;
 		this.normalizer = normalized(distribution);
 	}
 

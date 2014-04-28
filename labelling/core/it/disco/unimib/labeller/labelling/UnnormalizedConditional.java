@@ -6,9 +6,9 @@ public class UnnormalizedConditional {
 	private NormalizedPrior prior;
 	private double kp;
 
-	public UnnormalizedConditional(Distribution distribution) {
+	public UnnormalizedConditional(Distribution distribution, NormalizedPrior prior) {
 		this.distribution = distribution;
-		this.prior = new NormalizedPrior(distribution);
+		this.prior = prior;
 		this.kp = 0.01;
 	}
 

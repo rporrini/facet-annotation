@@ -5,6 +5,9 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.NormalizedConditional;
+import it.disco.unimib.labeller.labelling.NormalizedPrior;
+import it.disco.unimib.labeller.labelling.UnnormalizedConditional;
+import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -26,7 +29,11 @@ public class NormalizedConditionalTest {
 		occurrenciesForRome.add(new AnnotationResult("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
-		NormalizedConditional conditional = new NormalizedConditional(new Distribution(distribution));
+		Distribution d = new Distribution(distribution);
+		NormalizedPrior prior = new NormalizedPrior(d, new UnnormalizedPrior(d));
+		UnnormalizedConditional unnormalizedConditional = new UnnormalizedConditional(d, prior);
+		
+		NormalizedConditional conditional = new NormalizedConditional(d, prior, unnormalizedConditional);
 		
 		assertThat(conditional.of("capital", "paris") + 
 				   conditional.of("birthPlace", "paris") +

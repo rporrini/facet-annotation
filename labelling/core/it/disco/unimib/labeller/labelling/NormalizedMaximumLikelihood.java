@@ -8,8 +8,8 @@ public class NormalizedMaximumLikelihood {
 	private MaximumLikelihood likelihood;
 	private Normalize normalize;
 
-	public NormalizedMaximumLikelihood(Distribution distribution){
-		this.likelihood = new MaximumLikelihood(distribution);
+	public NormalizedMaximumLikelihood(Distribution distribution, NormalizedConditional conditional, NormalizedPrior prior){
+		this.likelihood = new MaximumLikelihood(distribution, conditional, prior);
 		this.normalize = normalize(distribution);
 	}
 

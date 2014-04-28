@@ -6,10 +6,10 @@ public class MaximumLikelihood {
 	private NormalizedConditional conditional;
 	private NormalizedPrior prior;
 
-	public MaximumLikelihood(Distribution distribution) {
+	public MaximumLikelihood(Distribution distribution, NormalizedConditional conditional, NormalizedPrior prior) {
 		this.distribution = distribution;
-		this.conditional = new NormalizedConditional(distribution);
-		this.prior = new NormalizedPrior(distribution);
+		this.conditional = conditional;
+		this.prior = prior;
 	}
 
 	public double of(String predicate) {

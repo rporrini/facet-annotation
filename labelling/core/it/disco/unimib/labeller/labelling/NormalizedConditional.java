@@ -8,8 +8,8 @@ public class NormalizedConditional {
 	private Normalize normalizer;
 	private UnnormalizedConditional conditional;
 	
-	public NormalizedConditional(Distribution distribution) {
-		this.conditional = new UnnormalizedConditional(distribution);
+	public NormalizedConditional(Distribution distribution, NormalizedPrior prior, UnnormalizedConditional unnormalizedConditional) {
+		this.conditional = unnormalizedConditional;
 		this.normalizer = normalize(distribution);
 	}
 
