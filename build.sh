@@ -32,38 +32,6 @@ if [ ! -d "trank-indexes" ]; then
 	rm -f trank-indexes.tgz
 	cd ..
 fi
-if [ ! -d "linkedbrainz" ]; then
-	mkdir linkedbrainz
-	cd linkedbrainz
-	wget -r --no-parent -nH --cut-dirs=4 --reject="*.html" --accept="*nt.gz" http://linkedbrainz.org/rdf/dumps/
-	gzip -d *
-	cd ..
-fi
-if [ ! -d "geonames" ]; then
-	mkdir geonames
-	cd geonames
-	wget http://download.geonames.org/all-geonames-rdf.zip
-	unzip all-geonames-rdf.zip
-	rm -f all-geonames-rdf.zip
-	cd ../tools
-	./convert.py
-	rm all-geonames-rdf.txt
-	cd ..
-fi
-if [ ! -d "geonames-ontologies" ]; then
-	mkdir geonames-ontologies
-	cd tools
-	./download-ontology.py "http://www.geonames.org/ontology/ontology_v3.1.rdf" "../geonames-ontologies/geonames.nt"
-	cd ..
-fi
-if [ ! -d "linkedbrainz-ontologies" ]; then
-	mkdir linkedbrainz-ontologies
-	cd tools
-	./download-ontology.py "http://purl.org/ontology/mo/" "../linkedbrainz-ontologies/mo.nt"
-	./download-ontology.py 'http://www.w3.org/2003/01/geo/wgs84_pos' '../linkedbrainz-ontologies/wgs84_pos.nt'
-	./download-ontology.py 'http://purl.org/muto/core' '../linkedbrainz-ontologies/muto.nt'
-	cd ..
-fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
 	cd dbpedia-types
@@ -71,8 +39,6 @@ if [ ! -d "dbpedia-types" ]; then
 	bunzip2 instance_types_en.nt.bz2
 	wget "http://downloads.dbpedia.org/3.9/en/instance_types_heuristic_en.nt.bz2"
 	bunzip2 instance_types_heuristic_en.nt.bz2
-	#wget "http://downloads.dbpedia.org/3.9/links/yago_types.nt.bz2"
-	#bunzip2 yago_types.nt.bz2
 	cd ..
 fi
 if [ ! -d "dbpedia-categories" ]; then
