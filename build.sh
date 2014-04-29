@@ -12,18 +12,16 @@ build=$project/build/classes
 
 cd $root/evaluation
 signal "Setting Up Environment"
-command -v python
-if [ $? -eq 1 ]; then
+if ! command -v python ; then
 	sudo apt-get install python
 	curl --silent --show-error --retry 5 https://raw.github.com/pypa/pip/master/contrib/get-pip.py | sudo python
 	sudo pip install rdflib
 fi
-command -v bzip2
-if [ $? -eq 1 ]; then
+if ! command -v bzip2 ; then
 	sudo apt-get install bzip2
 fi
-command -v trec_eval
-if [ $? -eq 1 ]; then
+if ! command -v trec_eval ; then
+	cd tools
 	wget http://trec.nist.gov/trec_eval/trec_eval_latest.tar.gz
 	tar xvzf trec_eval_latest.tar.gz
 	cd trec_eval.9.0
