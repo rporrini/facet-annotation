@@ -22,6 +22,16 @@ command -v bzip2
 if [ $? -eq 1 ]; then
 	sudo apt-get install bzip2
 fi
+command -v trec_eval
+if [ $? -eq 1 ]; then
+	wget http://trec.nist.gov/trec_eval/trec_eval_latest.tar.gz
+	tar xvzf trec_eval_latest.tar.gz
+	cd trec_eval.9.0
+	make
+	make quicktest
+	cd ..
+	rm trec_eval_latest.tar.gz	
+fi
 signal "Done"
 
 signal "Setting Up Evaluation Infrastructure"
