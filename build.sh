@@ -26,9 +26,11 @@ if ! command -v trec_eval ; then
 	tar xvzf trec_eval_latest.tar.gz
 	cd trec_eval.9.0
 	make
+	sudo make install
 	make quicktest
 	cd ..
 	rm trec_eval_latest.tar.gz	
+	cd ..
 fi
 signal "Done"
 
