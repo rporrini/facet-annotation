@@ -21,7 +21,6 @@ public class Questionnaire implements Summary {
 	
 	@Override
 	public String result() {
-		System.out.println(StringUtils.join(results, "\n"));
 		return StringUtils.join(results, "\n");
 	}
 
