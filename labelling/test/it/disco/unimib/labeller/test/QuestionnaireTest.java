@@ -40,6 +40,14 @@ public class QuestionnaireTest {
 		
 		assertThat(metric.result(), containsString("context|=HYPERLINK(\"\", \"View context\")"));
 	}
+	
+	@Test
+	public void shouldTrackTheExecutionWithLabel() throws Exception {
+		annotationResults.add(new AnnotationResult("anyPath/year", 1));
+		metric.track(createGroup("provider_context_label", 1), annotationResults);
+		
+		assertThat(metric.result(), containsString("|year|"));
+	}
 
 	@Test
 	public void shouldTrackTheExecutionWithMultipleContexts() throws Exception {
