@@ -1,7 +1,10 @@
 package it.disco.unimib.labeller.test;
 
+import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
+import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.FullTextSearch;
@@ -10,6 +13,9 @@ import it.disco.unimib.labeller.index.KeyValueStore;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
+import it.disco.unimib.labeller.index.SpecificNamespace;
+
+import java.util.List;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
@@ -110,5 +116,21 @@ public class FullTextSearchTest {
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
 		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext()).closeWriter().get("a query with a special & character!", "any");
+	}
+	
+	@Test
+	public void shouldIndexAndFilterByNamespace() throws Exception {
+		Index types = new KeyValueStore(new RAMDirectory()).closeWriter();
+		Index labels = new KeyValueStore(new RAMDirectory()).closeWriter();
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()))
+								.add(new TripleBuilder()
+											.withPredicate("http://namespace/property")
+											.withLiteral("value")
+											.asTriple())
+								.closeWriter();
+		
+		List<AnnotationResult> results = index.get("value", "any");
+		
+		assertThat(results, is(not(empty())));
 	}
 }
