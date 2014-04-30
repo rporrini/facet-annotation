@@ -61,9 +61,9 @@ public class Questionnaire implements Summary {
 	}
 	
 	private String createSPARQLQuery(String value) throws Exception {
-		return "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fs+%3Fo+where+{%3Fs+%3C" +
+		return "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fsubject+%3Fobject+where+{%3Fsubject+%3C" +
 			   URLEncoder.encode(value, "UTF-8") +
-			   "%3E+%3Fo}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on";
+			   "%3E+%3Fobject}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on";
 	}
 	
 	private String composeHyperlink(String provider, String hyperlink) throws Exception {
