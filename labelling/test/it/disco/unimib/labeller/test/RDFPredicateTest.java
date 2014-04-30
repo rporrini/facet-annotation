@@ -29,4 +29,17 @@ public class RDFPredicateTest {
 		assertThat(result.label(), equalTo("subject"));
 	}
 
+	@Test
+	public void shouldGetTheNamespaceOfDublinCoreTerms() throws Exception {
+		RDFPredicate result = new RDFPredicate("http://www.w3.org/2004/02/skos/core#subject");
+		
+		assertThat(result.namespace(), equalTo("http://www.w3.org/2004/02/skos/core#"));
+	}
+	
+	@Test
+	public void shouldGetTheNamespaceOfDBPediaTerms() throws Exception {
+		RDFPredicate result = new RDFPredicate("http://dbpedia.org/ontology/name");
+		
+		assertThat(result.namespace(), equalTo("http://dbpedia.org/ontology/"));
+	}
 }

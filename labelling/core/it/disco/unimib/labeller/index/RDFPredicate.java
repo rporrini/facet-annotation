@@ -17,4 +17,8 @@ public class RDFPredicate {
 	public String uri(){
 		return this.uri;
 	}
+
+	public String namespace() {
+		return uri.replace(label(), "");
+	}
 }
