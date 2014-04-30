@@ -13,7 +13,7 @@ import org.apache.lucene.search.BooleanClause.Occur;
 public class MandatoryContext implements FullTextQuery{
 
 	@Override
-	public Query createQuery(String type, String context, String literalField, String contextField, Analyzer analyzer) throws Exception {
+	public Query createQuery(String type, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
 		BooleanQuery query = new BooleanQuery();
 		String escape = "(" + QueryParser.escape(type) + ")";
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
@@ -23,5 +23,4 @@ public class MandatoryContext implements FullTextQuery{
 		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), contextField), Occur.MUST));
 		return query;
 	}
-	
 }

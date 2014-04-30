@@ -11,7 +11,7 @@ import org.apache.lucene.search.Query;
 
 public class OptionalContext implements FullTextQuery{
 	
-	public Query createQuery(String type, String context, String literalField, String contextField, Analyzer analyzer) throws Exception {
+	public Query createQuery(String type, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
 		BooleanQuery query = new BooleanQuery();
 		String escape = "(" + QueryParser.escape(type) + ")";
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
