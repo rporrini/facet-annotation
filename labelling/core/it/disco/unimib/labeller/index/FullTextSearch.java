@@ -42,12 +42,13 @@ public class FullTextSearch extends LuceneBasedIndex{
 		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();
 		analyzers.put(property(), new KeywordAnalyzer());
 		analyzers.put(namespace(), new KeywordAnalyzer());
+		analyzers.put(label(), new KeywordAnalyzer());
 		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
 	}
 
 	@Override
 	protected String toResult(Document doc) {
-		return doc.get(property());
+		return doc.get(label());
 	}
 
 	@Override
@@ -70,13 +71,14 @@ public class FullTextSearch extends LuceneBasedIndex{
 		document.add(new Field(context(), context, TextField.TYPE_STORED));
 		
 		document.add(new Field(namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));
+		document.add(new Field(label(), triple.predicate().label(), TextField.TYPE_STORED));
 		return document;
 	}
 	
 	@Override
 	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
- 		GroupingSearch groupingSearch = new GroupingSearch(property());
+ 		GroupingSearch groupingSearch = new GroupingSearch(label());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
 		Query query = this.query.createQuery(type, context, literal(), context(), namespace(), analyzer());
@@ -87,6 +89,10 @@ public class FullTextSearch extends LuceneBasedIndex{
 		return ids;
 	}
 
+	private String label(){
+		return "label";
+	}
+	
 	private String namespace(){
 		return "namespace";
 	}

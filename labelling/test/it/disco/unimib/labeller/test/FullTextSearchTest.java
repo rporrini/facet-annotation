@@ -38,7 +38,7 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("city", "any").get(0).value(), equalTo("http://hasCapital"));
+		assertThat(index.get("city", "any").get(0).value(), equalTo("hasCapital"));
 	}
 	
 	@Test
@@ -48,7 +48,7 @@ public class FullTextSearchTest {
 		
 		AnnotationResult searchResult = index.get("literal", "any").get(0);
 		
-		assertThat(searchResult.value(), equalTo("http://property"));
+		assertThat(searchResult.value(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
 	}
 	
@@ -70,7 +70,7 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("literal", "type").get(0).value(), equalTo("http://property"));
+		assertThat(index.get("literal", "type").get(0).value(), equalTo("property"));
 	}
 	
 	@Test
