@@ -96,6 +96,8 @@ if [ ! -d "dbpedia-properties" ]; then
 	cd dbpedia-properties
 	wget "http://downloads.dbpedia.org/3.9/en/mappingbased_properties_cleaned_en.nt.bz2"
 	bunzip2 mappingbased_properties_cleaned_en.nt.bz2
+	split mappingbased_properties_cleaned_en.nt -l 1000000 mappingbased-
+	rm mappingbased_properties_cleaned_en.nt
 	wget "http://downloads.dbpedia.org/3.9/en/specific_mappingbased_properties_en.nt.bz2"
 	bunzip2 specific_mappingbased_properties_en.nt.bz2
 	cd ..
@@ -127,7 +129,7 @@ if [ ! -d "yago-labels" ]; then
 	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoLabels.ttl.7z"
 	7za e yagoLabels.ttl.7z
 	rm yagoLabels.ttl.7z
-	serdi -e -b -i turtle -o ntriples yagoLabels.ttl > yagoLabels.nt
+	serdi -e -b -i turtle -o ntriples yagoLabels.ttl | grep "@en" > yagoLabels.nt
 	rm yagoLabels.ttl
 	cd ..
 fi

@@ -24,7 +24,7 @@ public class Triples {
 		int processedLines = 0;
 		int skippedLines = 0;
 		while(lines.hasNext()){
-			if(processedLines % 100000 == 0){
+			if(processedLines % 10000 == 0){
 				new Events().debug("processed " + processedLines + " lines of file " + connector.name() + " (" + skippedLines + " skipped)");
 			}
 			processedLines++;

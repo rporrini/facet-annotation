@@ -50,7 +50,7 @@ public abstract class LuceneBasedIndex implements Index{
 		return this;
 	}
 	
-	private IndexWriter openWriter() throws Exception{
+	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
 			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
 																					.setRAMBufferSizeMB(95));

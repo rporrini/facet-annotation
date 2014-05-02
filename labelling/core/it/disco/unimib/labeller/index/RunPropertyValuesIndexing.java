@@ -15,15 +15,17 @@ public class RunPropertyValuesIndexing {
 		String predicatesDirectory = args[1];
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
+		int concurrentThreads = Integer.parseInt(args[4]);
 		
 		LuceneBasedIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		LuceneBasedIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
 		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
-															types, 
-															labels,
-															null, new OptionalContext());
-		ExecutorService executor = Executors.newFixedThreadPool(4);
+															new CachedIndex(types, "types"), 
+															new CachedIndex(labels, "labels"),
+															null, 
+															new OptionalContext());
+		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
 			executor.execute(new Runnable() {
 				@Override
