@@ -11,6 +11,6 @@ public class MatchingPredicate implements TripleFilter {
 
 	@Override
 	public boolean matches(NTriple triple) {
-		return triple.predicate().equals(predicate);
+		return triple.predicate().uri().equals(predicate);
 	}
 }

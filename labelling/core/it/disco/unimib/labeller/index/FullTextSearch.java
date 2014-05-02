@@ -53,9 +53,8 @@ public class FullTextSearch extends LuceneBasedIndex{
 	@Override
 	protected Document toDocument(NTriple triple) throws Exception {
 		Document document = new Document();
-		RDFPredicate predicate = new RDFPredicate(triple.predicate());
 		
-		document.add(new Field(property(), predicate.uri(), TextField.TYPE_STORED));
+		document.add(new Field(property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
 		for(AnnotationResult label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
@@ -70,7 +69,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 		}
 		document.add(new Field(context(), context, TextField.TYPE_STORED));
 		
-		document.add(new Field(namespace(), predicate.namespace(), TextField.TYPE_STORED));
+		document.add(new Field(namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));
 		return document;
 	}
 	
