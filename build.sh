@@ -32,6 +32,21 @@ if ! command -v trec_eval ; then
 	rm trec_eval_latest.tar.gz	
 	cd ..
 fi
+if ! command -v serdi ; then
+	cd tools
+	wget http://download.drobilla.net/serd-0.18.2.tar.bz2
+	tar jxf serd-0.18.2.tar.bz2
+	rm serd-0.18.2.tar.bz2
+	cd serd-0.18.2
+	sudo chmod 777 INSTALL
+	set +e	
+	./INSTALL
+	set -e
+	cd ..
+fi
+if ! command -v 7za ; then
+	sudo apt-get install p7zip-full
+fi
 signal "Done"
 
 signal "Setting Up Evaluation Infrastructure"
@@ -92,6 +107,34 @@ if [ ! -d "dbpedia-raw-properties" ]; then
 	bunzip2 raw_infobox_properties_en.nt.bz2
 	split raw_infobox_properties_en.nt -l 1000000
 	rm raw_infobox_properties_en.nt
+	cd ..
+fi
+if [ ! -d "yago-types" ]; then
+	mkdir yago-types
+	cd yago-types
+	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoTransitiveType.ttl.7z"
+	7za e yagoTransitiveType.ttl.7z
+	rm yagoTransitiveType.ttl.7z
+	grep -v "</text" yagoTransitiveType.ttl | grep -v "</comment" > yagoTransitiveType-cleaned.ttl
+	rm yagoTransitiveType.ttl
+	serdi -e -b -i turtle -o ntriples yagoTransitiveType-cleaned.ttl > yagoTransitiveType-cleanedout.nt
+	rm yagoTransitiveType-cleaned.ttl
+	cd ..
+fi
+if [ ! -d "yago-labels" ]; then
+	mkdir yago-labels
+	cd yago-labels
+	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoLabels.ttl.7z"
+	7za e yagoLabels.ttl.7z
+	rm yagoLabels.ttl.7z
+	serdi -e -b -i turtle -o ntriples yagoLabels.ttl > yagoLabels.nt
+	rm yagoLabels.ttl
+	cd ..
+fi
+if [ ! -d "yago-properties" ]; then
+	mkdir yago-properties
+	cd yago-properties
+		
 	cd ..
 fi
 cd $root
