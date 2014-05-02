@@ -9,9 +9,9 @@ public class CachedIndex implements Index {
 
 	private Index indexToCache;
 	private ConcurrentHashMap<String, List<AnnotationResult>> cache;
-	private int hits;
-	private int miss;
-	private int totalResources;
+	private long hits;
+	private long miss;
+	private long totalResources;
 	private String name;
 
 	public CachedIndex(Index indexToCache, String name){
@@ -35,7 +35,7 @@ public class CachedIndex implements Index {
 			hits--;
 		}
 		totalResources = totalResources + result.size();
-		if((hits + miss) % 10000 == 0){
+		if((hits + miss) % 1000000 == 0){
 			new Events().debug("[" + name + "] hits: " + hits + " miss: " + miss + " ratio: " + (double)hits/((double)miss + (double)hits));
 			new Events().debug("[" + name + "] mean results: " + (double)totalResources/(double)(miss+hits));
 		}
