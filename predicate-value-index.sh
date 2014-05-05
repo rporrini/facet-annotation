@@ -14,5 +14,5 @@ mkdir -p evaluation/labeller-indexes/$2
 
 signal "Building Property Index for dataset $1 in $2 with $3 and $4"
 cd $project
-java -Xmx2g -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunPropertyValuesIndexing $1 $2 $3 $4 $5
+java -Xmx4g -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.index.RunPropertyValuesIndexing $1 $2 $3 $4 $5
 signal "Done"

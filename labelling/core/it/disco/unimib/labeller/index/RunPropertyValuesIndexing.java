@@ -21,8 +21,8 @@ public class RunPropertyValuesIndexing {
 		LuceneBasedIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
 		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
-															new CachedIndex(types, "types"), 
-															new CachedIndex(labels, "labels"),
+															types, 
+															labels,
 															null, 
 															new OptionalContext());
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
