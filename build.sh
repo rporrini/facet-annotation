@@ -117,7 +117,7 @@ if [ ! -d "yago-types" ]; then
 	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoTransitiveType.ttl.7z"
 	7za e yagoTransitiveType.ttl.7z
 	rm yagoTransitiveType.ttl.7z
-	grep -v "</text" yagoTransitiveType.ttl | grep -v "</comment" > yagoTransitiveType-cleaned.nt
+	grep -v "</text" yagoTransitiveType.ttl | grep -v "</comment" > yagoTransitiveType-cleaned.ttl
 	rm yagoTransitiveType.ttl
 	serdi -e -b -i turtle -o ntriples yagoTransitiveType-cleaned.ttl > yagoTransitiveType-cleanedout.nt
 	rm yagoTransitiveType-cleaned.ttl
