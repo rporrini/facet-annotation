@@ -1,0 +1,51 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wikicategory_States_of_the_United_States" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Alabama</entity>
+<entity>Mississippi</entity>
+<entity>Florida</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Connecticut</entity>
+<entity>New_York</entity>
+<entity>New_Jersey</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Illinois</entity>
+<entity>Indiana</entity>
+<entity>Wisconsin</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Kansas</entity>
+<entity>Oklahoma</entity>
+<entity>Texas</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Massachusetts</entity>
+<entity>Maine</entity>
+<entity>New_Hampshire</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

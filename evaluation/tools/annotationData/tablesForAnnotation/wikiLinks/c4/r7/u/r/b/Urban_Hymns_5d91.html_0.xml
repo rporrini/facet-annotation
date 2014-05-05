@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/u/r/b/Urban_Hymns_5d91.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.625 2, 0.15 0 1, 0.13125001 1 2, 0.12857144 1, 0.125 0 3, 0.10714286 3, 0.09375 2 3, 0.01875 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/u/r/b/Urban_Hymns_5d91.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Chart position</th>]]></html>
+	<text>Chart position</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Certification</th>]]></html>
+	<text>Certification</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sales</th>]]></html>
+	<text>Sales</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8× Platinum</td>]]></html>
+	<text>8&#215; Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,500,000</td>]]></html>
+	<text>2,500,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Platinum</td>]]></html>
+	<text>Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,340,000</td>]]></html>
+	<text>1,340,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Platinum</td>]]></html>
+	<text>Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000,000</td>]]></html>
+	<text>1,000,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2× Platinum</td>]]></html>
+	<text>2&#215; Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>200,000</td>]]></html>
+	<text>200,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3× Platinum</td>]]></html>
+	<text>3&#215; Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,000,000</td>]]></html>
+	<text>3,000,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Platinum</td>]]></html>
+	<text>Platinum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000,000</td>]]></html>
+	<text>1,000,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold</td>]]></html>
+	<text>Gold</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500,000</td>]]></html>
+	<text>500,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Urban Hymns - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Chart position Certification Sales</text>
+</context>
+<context>
+	<score>0.88545215</score>
+	<text>[ edit ] Sales</text>
+</context>
+<context>
+	<score>0.79826075</score>
+	<text>Urban Hymns</text>
+</context>
+<context>
+	<score>0.78139293</score>
+	<text>Some versions of the album contain 15 tracks the bonus track &quot;Lord I Guess I&apos;ll Never Know&quot; is track 14, and &quot;Deep Freeze&quot; is track 15.</text>
+</context>
+<context>
+	<score>0.75685966</score>
+	<text>[ edit ] Chart positions</text>
+</context>
+<context>
+	<score>0.72743434</score>
+	<text>[ edit ] Track listing</text>
+</context>
+<context>
+	<score>0.72743434</score>
+	<text>[ edit ] Sales</text>
+</context>
+<context>
+	<score>0.72743434</score>
+	<text>[ edit ] Chart positions</text>
+</context>
+<context>
+	<score>0.72743434</score>
+	<text>[ edit ] Personnel</text>
+</context>
+<context>
+	<score>0.72743434</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7205338</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7105664</score>
+	<text>[ edit ] Track listing</text>
+</context>
+<context>
+	<score>0.6525318</score>
+	<text>^ Anonymous ( December 20 , 1997 December 27 , 1997 ), &quot;Albums of the Year 1997&quot;, Melody Maker 74 (51): 66-67, ISSN 0025-9012</text>
+</context>
+<context>
+	<score>0.64148444</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6097769</score>
+	<text>[ edit ] Album</text>
+</context>
+<context>
+	<score>0.5917391</score>
+	<text>Since its release, the album has sold more than 6 million copies worldwide.</text>
+</context>
+<context>
+	<score>0.55194294</score>
+	<text>The Verve were awarded with the first ever &quot;Q Classic Album&quot; award for this album at the 2007 Q Awards.</text>
+</context>
+<context>
+	<score>0.5270065</score>
+	<text>In 1998, Q magazine readers voted it the 18th greatest album of all time. In the same year it was also shortlisted for the Mercury Music Prize . In 2000, Q placed the album at number 58 its list of the 100 Greatest British Albums Ever, while in 2006 its editors voted it the 16th greatest album of all time.</text>
+</context>
+<context>
+	<score>0.5232576</score>
+	<text>[ edit ] Singles</text>
+</context>
+<context>
+	<score>0.5015369</score>
+	<text>Melody Maker named Urban Hymns as the number-one album of 1997 in its year-end list.</text>
+</context>
+<context>
+	<score>0.48116124</score>
+	<text>The Verve were known for their music&apos;s complex, immersive sonic textures. &quot;Bitter Sweet Symphony&quot; was a hit on both sides of the Atlantic, and remains the band&apos;s most well-known song. &quot;The Drugs Don&apos;t Work&quot;, the band&apos;s only UK #1 to date, has become a concert staple for jam bands and other groups. The rest of the album alternates between wistful ballads like &quot;Sonnet&quot; and &quot;Space and Time&quot;, spacey grooves like &quot;Catching the Butterfly&quot; and &quot;The Rolling People&quot;, and all-out rockers like the Led Zeppelin -esque, pounding &quot;Come On&quot;, which closes the set.</text>
+</context>
+<context>
+	<score>0.4723639</score>
+	<text>[ edit ] Personnel</text>
+</context>
+<context>
+	<score>0.4648607</score>
+	<text>Urban Hymns is the highly acclaimed alternative rock / space rock album released on September 29 , 1997 by English rock band The Verve . After the release of the band&apos;s previous album, A Northern Soul , The Verve broke up due to growing tensions between Richard Ashcroft and Nick McCabe . They reunited in 1996 (see 1996 in music ) and recorded Urban Hymns , which earned nearly unanimous critical praise upon its release and went on to become one of the biggest selling albums of the year largely on the strength of the international chart-topper &quot; Bitter Sweet Symphony &quot;.</text>
+</context>
+<context>
+	<score>0.46178764</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4513553</score>
+	<text>Urban Hymns</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Country</th><th>Chart position</th><th>Certification</th><th>Sales</th></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>1</td><td>8× Platinum</td><td>2,500,000</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>23</td><td>Platinum</td><td>1,340,000</td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>9</td><td>Platinum</td><td>1,000,000</td></tr><tr><td><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>18</td><td>2× Platinum</td><td>200,000</td></tr><tr><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td>9</td><td>3× Platinum</td><td>3,000,000</td></tr><tr><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td></td><td>Platinum</td><td>1,000,000</td></tr><tr><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>13</td><td>Gold</td><td>500,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

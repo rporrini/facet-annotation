@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r11/a/f/r/African_diaspora.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/a/f/r/African_diaspora.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>85,783,143</td>]]></html>
+	<text>85,783,143</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38,499,304</td>]]></html>
+	<text>38,499,304</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colombia</td>]]></html>
+	<text>Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,452,872</td>]]></html>
+	<text>9,452,872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Haiti</td>]]></html>
+	<text>Haiti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,701,439</td>]]></html>
+	<text>8,701,439</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dominican Republic</td>]]></html>
+	<text>Dominican Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,985,991</td>]]></html>
+	<text>7,985,991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cuba</td>]]></html>
+	<text>Cuba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,082,834</td>]]></html>
+	<text>7,082,834</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,000,000</td>]]></html>
+	<text>5,000,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,731,419</td>]]></html>
+	<text>2,731,419</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Venezuela</td>]]></html>
+	<text>Venezuela</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,641,481</td>]]></html>
+	<text>2,641,481</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,015,400</td>]]></html>
+	<text>2,015,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trinidad and Tobago</td>]]></html>
+	<text>Trinidad and Tobago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,047,366</td>]]></html>
+	<text>1,047,366</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>African diaspora - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Population Rank</text>
+</context>
+<context>
+	<score>0.88039976</score>
+	<text>[ edit ] Top 11 African Diaspora populations</text>
+</context>
+<context>
+	<score>0.7890332</score>
+	<text>African diaspora</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>(*)Note that population statistics from different sources and countries use highly divergent methods of rating the &quot;race&quot;, ethnicity, or national or genetic origin of individuals, from observing for color and racial characteristics, to asking the person to choose from a set of pre-defined choices, sometimes with an Other category, and sometimes with an open-ended option, and sometimes not, which different national populations tend to choose in divergent ways. Color and visual characteristics were considered an invalid way to determine the genetic &quot;racial&quot; branch in anthopology (the field of science that original conceived of &quot;race&quot;, as a genetic branch of people who could have a relative success together compared with other branches, now considered invalid) as of 1910, thus not fully reflecting the percentage of the population who actually are of African heritage.</text>
+</context>
+<context>
+	<score>0.75205743</score>
+	<text>[ edit ] North America</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Dispersal through slavery</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Dispersal through immigration</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Intra-Africa</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Indian &amp; Pacific Oceans</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Definitions</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Estimated population and distribution</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Top 11 African Diaspora populations</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] North America</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Latin America</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] The Americas</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7130693</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71145743</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70585424</score>
+	<text>[ edit ] Estimated population and distribution</text>
+</context>
+<context>
+	<score>0.6437937</score>
+	<text>Siddis Black people of African descent in Pakistan and India . Many share the similar name &quot;Saeed&quot; (Sheedis, Shudra, and Siddi).</text>
+</context>
+<context>
+	<score>0.60526085</score>
+	<text>Several migration waves to the Americas, as well as relocations within the Americas, have brought people of African descent to North America. According to the Schomburg Center for Research in Black Culture , the first African populations came to North America in the 16th century via Mexico and the Caribbean to the Spanish colonies of Florida , Texas and other parts of the South.</text>
+</context>
+<context>
+	<score>0.5941452</score>
+	<text>Afro-Arabs Various people of the Middle East whose ancestors were brought during the Arab slave trade period.</text>
+</context>
+<context>
+	<score>0.55442643</score>
+	<text>Afro-Latin Americans Among the Afro-Latin American populations in South and Central America, there are populations that identify as negros . Some identify as Afro-Latin Americans when they have high levels of admixture of other ethnicities, as well.</text>
+</context>
+<context>
+	<score>0.5226514</score>
+	<text>African Americans (see description above) or visit African American .</text>
+</context>
+<context>
+	<score>0.5189098</score>
+	<text>Out of the 12 million people from Africa who were shipped to the Americas during the transatlantic slave trade ,</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>A few examples of populations on continents away from Africa who are seen as &quot;Black&quot; or who see themselves as &quot;Black&quot; because they descend from native Africans are: African Americans and many Latin Americans.</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Their descendants are now found around the globe. Due to intermarriage and genetic assimilation, just who is a descendant of the African diaspora is not entirely self-evident.</text>
+</context>
+<context>
+	<score>0.4681151</score>
+	<text>645,000 were shipped to the British colonies on the North American mainland and the United States; another 1,840,000 arrived at other British colonies, chiefly the West Indies .</text>
+</context>
+<context>
+	<score>0.4606265</score>
+	<text>Between 1500 and 1900, approximately four million enslaved African were transported to island plantations in the Indian Ocean , about eight million were shipped to Mediterranean-area countries, and about eleven million survived the Middle Passage to the New World .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#EFEFEF"><th>Country</th><th>Population</th><th>Rank</th></tr><tr><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td>85,783,143</td><td>1</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>38,499,304</td><td>2</td></tr><tr><td><a href="../../../../articles/c/o/l/Colombia.html" title="Colombia">Colombia</a></td><td>9,452,872</td><td>3</td></tr><tr><td><a href="../../../../articles/h/a/i/Haiti.html" title="Haiti">Haiti</a></td><td>8,701,439</td><td>4</td></tr><tr><td><a href="../../../../articles/d/o/m/Dominican_Republic_1b44.html" title="Dominican Republic">Dominican Republic</a></td><td>7,985,991</td><td>5</td></tr><tr><td><a href="../../../../articles/c/u/b/Cuba.html" title="Cuba">Cuba</a></td><td>7,082,834</td><td>6</td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>5,000,000</td><td>7</td></tr><tr><td><a href="../../../../articles/j/a/m/Jamaica.html" title="Jamaica">Jamaica</a></td><td>2,731,419</td><td>8</td></tr><tr><td><a href="../../../../articles/v/e/n/Venezuela.html" title="Venezuela">Venezuela</a></td><td>2,641,481</td><td>9</td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>2,015,400</td><td>10</td></tr><tr><td><a href="../../../../articles/t/r/i/Trinidad_and_Tobago_6d19.html" title="Trinidad and Tobago">Trinidad and Tobago</a></td><td>1,047,366</td><td>11</td></tr></table>]]>
+</htmlSnippet>
+</entity>

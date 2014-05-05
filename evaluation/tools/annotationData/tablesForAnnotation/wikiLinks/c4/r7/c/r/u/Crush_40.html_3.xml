@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/c/r/u/Crush_40.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 1, 0.46875 1 2, 0.32142857 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/r/u/Crush_40.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Game</th>]]></html>
+	<text>Game</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Console</th>]]></html>
+	<text>Console</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Developer</th>]]></html>
+	<text>Developer</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NASCAR Arcade [1]</td>]]></html>
+	<text>NASCAR Arcade [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arcade</td>]]></html>
+	<text>Arcade</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sega-AM3</td>]]></html>
+	<text>Sega-AM3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sonic Adventure [1]</td>]]></html>
+	<text>Sonic Adventure [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dreamcast , Nintendo GameCube</td>]]></html>
+	<text>Dreamcast , Nintendo GameCube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonic Team</td>]]></html>
+	<text>Sonic Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sonic Adventure 2 [1]</td>]]></html>
+	<text>Sonic Adventure 2 [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dreamcast , Nintendo GameCube</td>]]></html>
+	<text>Dreamcast , Nintendo GameCube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonic Team</td>]]></html>
+	<text>Sonic Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sonic Heroes [1] [9]</td>]]></html>
+	<text>Sonic Heroes [1] [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nintendo GameCube , Xbox , PlayStation 2</td>]]></html>
+	<text>Nintendo GameCube , Xbox , PlayStation 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonic Team</td>]]></html>
+	<text>Sonic Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shadow the Hedgehog [10]</td>]]></html>
+	<text>Shadow the Hedgehog [10]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nintendo GameCube , Xbox , PlayStation 2</td>]]></html>
+	<text>Nintendo GameCube , Xbox , PlayStation 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonic Team</td>]]></html>
+	<text>Sonic Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sonic the Hedgehog 2006 [11]</td>]]></html>
+	<text>Sonic the Hedgehog 2006 [11]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xbox 360 , PlayStation 3</td>]]></html>
+	<text>Xbox 360 , PlayStation 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonic Team</td>]]></html>
+	<text>Sonic Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Super Smash Bros. Brawl [14]</td>]]></html>
+	<text>Super Smash Bros. Brawl [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wii</td>]]></html>
+	<text>Wii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sora Ltd.</td>]]></html>
+	<text>Sora Ltd.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Crush 40 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Game Console Developer Year</text>
+</context>
+<context>
+	<score>0.8787713</score>
+	<text>All of Crush 40&apos;s songs have been included in numerous video games.</text>
+</context>
+<context>
+	<score>0.79556423</score>
+	<text>Crush 40</text>
+</context>
+<context>
+	<score>0.784401</score>
+	<text>[ edit ] Gameography</text>
+</context>
+<context>
+	<score>0.7530241</score>
+	<text>[ edit ] Band members</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] Musical Style</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] Discography</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] Gameography</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] Band members</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7179779</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7068146</score>
+	<text>[ edit ] Other tracks</text>
+</context>
+<context>
+	<score>0.6421328</score>
+	<text>Added to the track listing are &quot;Live and Learn&quot; and the bonus tracks &quot;It Doesn&apos;t Matter&quot; featuring Tony Harnell and &quot;Escape from the City&quot; featuring Ted Poley and Tony Harnell.</text>
+</context>
+<context>
+	<score>0.6062073</score>
+	<text>[ edit ] Current lineup</text>
+</context>
+<context>
+	<score>0.5924775</score>
+	<text>The album contains many of the same tracks as Thrill of the Feel , but does not contain any instrumental tracks.</text>
+</context>
+<context>
+	<score>0.555366</score>
+	<text>Crush 40 is the self-titled second album of Crush 40, released in Europe by Frontiers Records .</text>
+</context>
+<context>
+	<score>0.5235866</score>
+	<text>[ edit ] Crush 40</text>
+</context>
+<context>
+	<score>0.5198445</score>
+	<text>[ edit ] Previous members</text>
+</context>
+<context>
+	<score>0.49816304</score>
+	<text>This album was released by Victor Entertainment and was released for the Japanese market.</text>
+</context>
+<context>
+	<score>0.47782424</score>
+	<text>Thrill of the Feel is Crush 40&apos;s first album. It is the only album released under their original name, Sons of Angels. The album contains all of the tracks that the band recorded for NASCAR Arcade .</text>
+</context>
+<context>
+	<score>0.46904284</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.46155325</score>
+	<text>[ edit ] Thrill of the Feel</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Game</th><th>Console</th><th>Developer</th><th>Year</th></tr><tr><td><i><a href="../../../../articles/n/a/s/NASCAR_Arcade_e173.html" title="NASCAR Arcade">NASCAR Arcade</a></i><sup id="cite_ref-crush40_0-13" class="reference"><a href="#cite_note-crush40-0" title="">[1]</a></sup></td><td><a href="../../../../articles/a/r/c/Arcade_game.html" title="Arcade game">Arcade</a></td><td><a href="../../../../articles/s/e/g/Sega-AM3_fa8a.html" title="Sega-AM3">Sega-AM3</a></td><td>2000</td></tr><tr><td><i><a href="../../../../articles/s/o/n/Sonic_Adventure_238d.html" title="Sonic Adventure">Sonic Adventure</a></i><sup id="cite_ref-crush40_0-14" class="reference"><a href="#cite_note-crush40-0" title="">[1]</a></sup></td><td><a href="../../../../articles/d/r/e/Dreamcast.html" title="Dreamcast">Dreamcast</a>, <a href="../../../../articles/n/i/n/Nintendo_GameCube_cf58.html" title="Nintendo GameCube">Nintendo GameCube</a></td><td><a href="../../../../articles/s/o/n/Sonic_Team_81bb.html" title="Sonic Team">Sonic Team</a></td><td>1998</td></tr><tr><td><i><a href="../../../../articles/s/o/n/Sonic_Adventure_2_5c38.html" title="Sonic Adventure 2">Sonic Adventure 2</a></i><sup id="cite_ref-crush40_0-15" class="reference"><a href="#cite_note-crush40-0" title="">[1]</a></sup></td><td><a href="../../../../articles/d/r/e/Dreamcast.html" title="Dreamcast">Dreamcast</a>, <a href="../../../../articles/n/i/n/Nintendo_GameCube_cf58.html" title="Nintendo GameCube">Nintendo GameCube</a></td><td><a href="../../../../articles/s/o/n/Sonic_Team_81bb.html" title="Sonic Team">Sonic Team</a></td><td>2001</td></tr><tr><td><i><a href="../../../../articles/s/o/n/Sonic_Heroes_142a.html" title="Sonic Heroes">Sonic Heroes</a></i><sup id="cite_ref-crush40_0-16" class="reference"><a href="#cite_note-crush40-0" title="">[1]</a></sup><sup id="cite_ref-tt_8-4" class="reference"><a href="#cite_note-tt-8" title="">[9]</a></sup></td><td><a href="../../../../articles/n/i/n/Nintendo_GameCube_cf58.html" title="Nintendo GameCube">Nintendo GameCube</a>, <a href="../../../../articles/x/b/o/Xbox.html" title="Xbox">Xbox</a>, <a href="../../../../articles/p/l/a/PlayStation_2_dbfa.html" title="PlayStation 2">PlayStation 2</a></td><td><a href="../../../../articles/s/o/n/Sonic_Team_81bb.html" title="Sonic Team">Sonic Team</a></td><td>2003</td></tr><tr><td><i><a href="../../../../articles/s/h/a/Shadow_the_Hedgehog_%28game%29_337e.html" class="mw-redirect" title="Shadow the Hedgehog (game)">Shadow the Hedgehog</a></i><sup id="cite_ref-sh_9-5" class="reference"><a href="#cite_note-sh-9" title="">[10]</a></sup></td><td><a href="../../../../articles/n/i/n/Nintendo_GameCube_cf58.html" title="Nintendo GameCube">Nintendo GameCube</a>, <a href="../../../../articles/x/b/o/Xbox.html" title="Xbox">Xbox</a>, <a href="../../../../articles/p/l/a/PlayStation_2_dbfa.html" title="PlayStation 2">PlayStation 2</a></td><td><a href="../../../../articles/s/o/n/Sonic_Team_81bb.html" title="Sonic Team">Sonic Team</a></td><td>2005</td></tr><tr><td><i><a href="../../../../articles/s/o/n/Sonic_the_Hedgehog_%282006_game%29_ed0c.html" class="mw-redirect" title="Sonic the Hedgehog (2006 game)">Sonic the Hedgehog 2006</a></i><sup id="cite_ref-sw_10-5" class="reference"><a href="#cite_note-sw-10" title="">[11]</a></sup></td><td><a href="../../../../articles/x/b/o/Xbox_360.html" title="Xbox 360">Xbox 360</a>, <a href="../../../../articles/p/l/a/PlayStation_3_8051.html" title="PlayStation 3">PlayStation 3</a></td><td><a href="../../../../articles/s/o/n/Sonic_Team_81bb.html" title="Sonic Team">Sonic Team</a></td><td>2006</td></tr><tr><td><i><a href="../../../../articles/s/u/p/Super_Smash_Bros._Brawl_101e.html" title="Super Smash Bros. Brawl">Super Smash Bros. Brawl</a></i><sup id="cite_ref-ssbb_13-1" class="reference"><a href="#cite_note-ssbb-13" title="">[14]</a></sup></td><td><a href="../../../../articles/w/i/i/Wii.html" title="Wii">Wii</a></td><td><a href="../../../../articles/s/o/r/Sora_Ltd._0114.html" title="Sora Ltd.">Sora Ltd.</a></td><td>2008</td></tr></table>]]>
+</htmlSnippet>
+</entity>

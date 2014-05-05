@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r20/l/a/_/La_Liga_2006-07_5da2.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/a/_/La_Liga_2006-07_5da2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>FC Barcelona</td>]]></html>
+	<text>FC Barcelona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camp Nou</td>]]></html>
+	<text>Camp Nou</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98,772</td>]]></html>
+	<text>98,772</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Real Madrid</td>]]></html>
+	<text>Real Madrid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santiago Bernabéu</td>]]></html>
+	<text>Santiago Bernab&#233;u</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80,354</td>]]></html>
+	<text>80,354</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>RCD Espanyol</td>]]></html>
+	<text>RCD Espanyol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estadi Olímpic Lluís Companys</td>]]></html>
+	<text>Estadi Ol&#237;mpic Llu&#237;s Companys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,926</td>]]></html>
+	<text>55,926</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlético Madrid</td>]]></html>
+	<text>Atl&#233;tico Madrid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vicente Calderón</td>]]></html>
+	<text>Vicente Calder&#243;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,005</td>]]></html>
+	<text>55,005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Valencia CF</td>]]></html>
+	<text>Valencia CF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mestalla</td>]]></html>
+	<text>Mestalla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,311</td>]]></html>
+	<text>53,311</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Betis</td>]]></html>
+	<text>Betis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manuel Ruiz de Lopera</td>]]></html>
+	<text>Manuel Ruiz de Lopera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52,132</td>]]></html>
+	<text>52,132</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sevilla FC</td>]]></html>
+	<text>Sevilla FC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ramón Sánchez Pizjuán</td>]]></html>
+	<text>Ram&#243;n S&#225;nchez Pizju&#225;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45,500</td>]]></html>
+	<text>45,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Athletic Bilbao</td>]]></html>
+	<text>Athletic Bilbao</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Mamés</td>]]></html>
+	<text>San Mam&#233;s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39,750</td>]]></html>
+	<text>39,750</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Deportivo de La Coruña</td>]]></html>
+	<text>Deportivo de La Coru&#241;a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Riazor</td>]]></html>
+	<text>Riazor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,600</td>]]></html>
+	<text>34,600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zaragoza</td>]]></html>
+	<text>Zaragoza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>La Romareda</td>]]></html>
+	<text>La Romareda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,596</td>]]></html>
+	<text>34,596</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Celta de Vigo</td>]]></html>
+	<text>Celta de Vigo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estadio Balaídos</td>]]></html>
+	<text>Estadio Bala&#237;dos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,500</td>]]></html>
+	<text>32,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Real Sociedad</td>]]></html>
+	<text>Real Sociedad</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anoeta</td>]]></html>
+	<text>Anoeta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,200</td>]]></html>
+	<text>32,200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Levante UD</td>]]></html>
+	<text>Levante UD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad de Valencia</td>]]></html>
+	<text>Ciudad de Valencia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25,354</td>]]></html>
+	<text>25,354</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>RCD Mallorca</td>]]></html>
+	<text>RCD Mallorca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ONO Estadi</td>]]></html>
+	<text>ONO Estadi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,142</td>]]></html>
+	<text>23,142</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Villarreal CF</td>]]></html>
+	<text>Villarreal CF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>El Madrigal</td>]]></html>
+	<text>El Madrigal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,000</td>]]></html>
+	<text>23,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Racing de Santander</td>]]></html>
+	<text>Racing de Santander</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>El Sardinero</td>]]></html>
+	<text>El Sardinero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22,400</td>]]></html>
+	<text>22,400</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Recreativo de Huelva</td>]]></html>
+	<text>Recreativo de Huelva</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nuevo Colombino</td>]]></html>
+	<text>Nuevo Colombino</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,860</td>]]></html>
+	<text>19,860</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CA Osasuna</td>]]></html>
+	<text>CA Osasuna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estadio Reyno de Navarra</td>]]></html>
+	<text>Estadio Reyno de Navarra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,553</td>]]></html>
+	<text>19,553</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Getafe CF</td>]]></html>
+	<text>Getafe CF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coliseum Alfonso Pérez</td>]]></html>
+	<text>Coliseum Alfonso P&#233;rez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,300</td>]]></html>
+	<text>16,300</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gimnàstic de Tarragona</td>]]></html>
+	<text>Gimn&#224;stic de Tarragona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nou Estadi</td>]]></html>
+	<text>Nou Estadi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,500</td>]]></html>
+	<text>14,500</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>La Liga 2006-07 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Stadium Capacity</text>
+</context>
+<context>
+	<score>0.88207334</score>
+	<text>[ edit ] Stadia</text>
+</context>
+<context>
+	<score>0.79863894</score>
+	<text>La Liga 2006-07</text>
+</context>
+<context>
+	<score>0.7818027</score>
+	<text>To read this table, the home team is listed in the left-hand column. Blue indicates a win to the home team while a red represents a loss to the home team.</text>
+</context>
+<context>
+	<score>0.753722</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.72435176</score>
+	<text>[ edit ] Final League Table</text>
+</context>
+<context>
+	<score>0.72435176</score>
+	<text>[ edit ] Top Goalscorers ( El Pichichi )</text>
+</context>
+<context>
+	<score>0.72435176</score>
+	<text>[ edit ] Zamora Trophy for Top Goalkeepers</text>
+</context>
+<context>
+	<score>0.72435176</score>
+	<text>[ edit ] 2006/2007 Results</text>
+</context>
+<context>
+	<score>0.72435176</score>
+	<text>[ edit ] Stadia</text>
+</context>
+<context>
+	<score>0.72105765</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70751554</score>
+	<text>Last updated June 17 , 2007 [3]</text>
+</context>
+<context>
+	<score>0.6454505</score>
+	<text>[ edit ] 2006/2007 Results</text>
+</context>
+<context>
+	<score>0.5957985</score>
+	<text>Last updated June 17 , 2007 [2]</text>
+</context>
+<context>
+	<score>0.5560769</score>
+	<text>[ edit ] Zamora Trophy for Top Goalkeepers</text>
+</context>
+<context>
+	<score>0.5315286</score>
+	<text>3. Since Getafe were finalists in the Copa del Rey with Sevilla FC, whom will enter the 2007-08 UEFA Champions League in the third qualifying round, Getafe are awarded entry into the 2007-08 UEFA Cup . The winners of the La Liga and the winners of the Copa del Rey - Sevilla - will face each other for the Supercopa de Espa a .</text>
+</context>
+<context>
+	<score>0.5242996</score>
+	<text>Last updated June 17 , 2007 [1]</text>
+</context>
+<context>
+	<score>0.51623905</score>
+	<text>2 Real Zaragoza and Atl tico de Madrid are also ranked by their head-to-head record. Zaragoza swept Atl tico this season:</text>
+</context>
+<context>
+	<score>0.5085619</score>
+	<text>Pld = Matches played; W = Matches won; D = Matches drawn; L = Matches lost; GF = Goals for; GA = Goals against; GD = Goal difference; Pts = Points Rules for classification : 1st points; 2nd head-to-head; 3rd goal difference; 4th goals scored 1 Real Madrid and Barcelona are ranked by their head-to-head record. In their two matches against one another, Real have 4 points to Bar a&apos;s 1:</text>
+</context>
+<context>
+	<score>0.49887776</score>
+	<text>[ edit ] Top Goalscorers ( El Pichichi )</text>
+</context>
+<context>
+	<score>0.4785403</score>
+	<text>[ edit ] Promoted to La Liga</text>
+</context>
+<context>
+	<score>0.4589763</score>
+	<text>30th Title</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Team</th><th>Stadium</th><th>Capacity</th></tr><tr><td><a href="../../../../articles/f/c/_/FC_Barcelona_8216.html" title="FC Barcelona">FC Barcelona</a></td><td><a href="../../../../articles/c/a/m/Camp_Nou_5a26.html" title="Camp Nou">Camp Nou</a></td><td align="center">98,772</td></tr><tr><td><a href="../../../../articles/r/e/a/Real_Madrid_C.F._92b6.html" title="Real Madrid C.F.">Real Madrid</a></td><td><a href="../../../../articles/s/a/n/Santiago_Bernab%C3%A9u_Stadium_d55f.html" title="Santiago Bernabéu Stadium">Santiago Bernabéu</a></td><td align="center">80,354</td></tr><tr><td><a href="../../../../articles/r/c/d/RCD_Espanyol_9936.html" title="RCD Espanyol">RCD Espanyol</a></td><td><a href="../../../../articles/e/s/t/Estadi_Ol%C3%ADmpic_Llu%C3%ADs_Companys_8a2f.html" title="Estadi Olímpic Lluís Companys">Estadi Olímpic Lluís Companys</a></td><td align="center">55,926</td></tr><tr><td><a href="../../../../articles/a/t/l/Atl%C3%A9tico_Madrid_bf18.html" title="Atlético Madrid">Atlético Madrid</a></td><td><a href="../../../../articles/v/i/c/Vicente_Calder%C3%B3n_Stadium_45b2.html" title="Vicente Calderón Stadium">Vicente Calderón</a></td><td align="center">55,005</td></tr><tr><td><a href="../../../../articles/v/a/l/Valencia_CF_f022.html" title="Valencia CF">Valencia CF</a></td><td><a href="../../../../articles/e/s/t/Estadio_Mestalla_9218.html" title="Estadio Mestalla">Mestalla</a></td><td align="center">53,311</td></tr><tr><td><a href="../../../../articles/r/e/a/Real_Betis_9aa8.html" title="Real Betis">Betis</a></td><td><a href="../../../../articles/m/a/n/Manuel_Ruiz_de_Lopera_Stadium_b395.html" title="Manuel Ruiz de Lopera Stadium">Manuel Ruiz de Lopera</a></td><td align="center">52,132</td></tr><tr><td><a href="../../../../articles/s/e/v/Sevilla_FC_4183.html" title="Sevilla FC">Sevilla FC</a></td><td><a href="../../../../articles/e/s/t/Estadio_Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_c251.html" title="Estadio Ramón Sánchez Pizjuán">Ramón Sánchez Pizjuán</a></td><td align="center">45,500</td></tr><tr><td><a href="../../../../articles/a/t/h/Athletic_Bilbao_e60d.html" title="Athletic Bilbao">Athletic Bilbao</a></td><td><a href="../../../../articles/s/a/n/San_Mam%C3%A9s_Stadium_39b4.html" title="San Mamés Stadium">San Mamés</a></td><td align="center">39,750</td></tr><tr><td><a href="../../../../articles/d/e/p/Deportivo_de_La_Coru%C3%B1a_88ca.html" title="Deportivo de La Coruña">Deportivo de La Coruña</a></td><td><a href="../../../../articles/r/i/a/Riazor_Stadium_8d57.html" title="Riazor Stadium">Riazor</a></td><td align="center">34,600</td></tr><tr><td><a href="../../../../articles/r/e/a/Real_Zaragoza_9939.html" title="Real Zaragoza">Zaragoza</a></td><td><a href="../../../../articles/l/a/_/La_Romareda_851d.html" title="La Romareda">La Romareda</a></td><td align="center">34,596</td></tr><tr><td><a href="../../../../articles/c/e/l/Celta_de_Vigo_7b89.html" title="Celta de Vigo">Celta de Vigo</a></td><td><a href="../../../../articles/e/s/t/Estadio_Bala%C3%ADdos_4215.html" title="Estadio Balaídos">Estadio Balaídos</a></td><td align="center">32,500</td></tr><tr><td><a href="../../../../articles/r/e/a/Real_Sociedad_18ce.html" title="Real Sociedad">Real Sociedad</a></td><td><a href="../../../../articles/e/s/t/Estadio_Anoeta_abd4.html" title="Estadio Anoeta">Anoeta</a></td><td align="center">32,200</td></tr><tr><td><a href="../../../../articles/l/e/v/Levante_UD_3ab6.html" title="Levante UD">Levante UD</a></td><td><a href="../../../../articles/e/s/t/Estadio_Ciudad_de_Valencia_8970.html" title="Estadio Ciudad de Valencia">Ciudad de Valencia</a></td><td align="center">25,354</td></tr><tr><td><a href="../../../../articles/r/c/d/RCD_Mallorca_ee29.html" title="RCD Mallorca">RCD Mallorca</a></td><td><a href="../../../../articles/o/n/o/ONO_Estadi_fdca.html" title="ONO Estadi">ONO Estadi</a></td><td align="center">23,142</td></tr><tr><td><a href="../../../../articles/v/i/l/Villarreal_CF_38d5.html" title="Villarreal CF">Villarreal CF</a></td><td><a href="../../../../articles/e/s/t/Estadio_El_Madrigal_0081.html" title="Estadio El Madrigal">El Madrigal</a></td><td align="center">23,000</td></tr><tr><td><a href="../../../../articles/r/a/c/Racing_de_Santander_3519.html" title="Racing de Santander">Racing de Santander</a></td><td><a href="../../../../articles/e/s/t/Estadio_El_Sardinero_7cd7.html" title="Estadio El Sardinero">El Sardinero</a></td><td align="center">22,400</td></tr><tr><td><a href="../../../../articles/r/e/c/Recreativo_de_Huelva_1b1b.html" title="Recreativo de Huelva">Recreativo de Huelva</a></td><td><a href="../../../../articles/n/u/e/Nuevo_Colombino_0378.html" title="Nuevo Colombino">Nuevo Colombino</a></td><td align="center">19,860</td></tr><tr><td><a href="../../../../articles/c/a/_/CA_Osasuna_af4b.html" title="CA Osasuna">CA Osasuna</a></td><td><a href="../../../../articles/e/s/t/Estadio_Reyno_de_Navarra_5166.html" title="Estadio Reyno de Navarra">Estadio Reyno de Navarra</a></td><td align="center">19,553</td></tr><tr><td><a href="../../../../articles/g/e/t/Getafe_CF_5a92.html" title="Getafe CF">Getafe CF</a></td><td><a href="../../../../articles/c/o/l/Coliseum_Alfonso_P%C3%A9rez_b61f.html" title="Coliseum Alfonso Pérez">Coliseum Alfonso Pérez</a></td><td align="center">16,300</td></tr><tr><td><a href="../../../../articles/g/i/m/Gimn%C3%A0stic_de_Tarragona_91af.html" title="Gimnàstic de Tarragona">Gimnàstic de Tarragona</a></td><td><a href="../../../../articles/n/o/u/Nou_Estadi_de_Tarragona_533b.html" title="Nou Estadi de Tarragona">Nou Estadi</a></td><td align="center">14,500</td></tr></table>]]>
+</htmlSnippet>
+</entity>

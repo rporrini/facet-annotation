@@ -1,0 +1,21 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_movie_106613686" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="3">
+<anno name="wordnet_actor_109765278" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<relationshipAnnotations>
+<relAnnos col1="1" col2="3">
+<rel>actedIn</rel>
+</relAnnos>
+</relationshipAnnotations>
+
+</tableAnnotations>
+

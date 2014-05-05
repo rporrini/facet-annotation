@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r11/c/a/n/Canada_1911_Census_7a49.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.125 3, 0.125 0 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/n/Canada_1911_Census_7a49.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1911 Census</th>]]></html>
+	<text>1911 Census</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1901 Census</th>]]></html>
+	<text>1901 Census</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Change</th>]]></html>
+	<text>% Change</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prince Edward Island</td>]]></html>
+	<text>Prince Edward Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,728</td>]]></html>
+	<text>93,728</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103,259</td>]]></html>
+	<text>103,259</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-9.2</td>]]></html>
+	<text>-9.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>492,338</td>]]></html>
+	<text>492,338</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>459,574</td>]]></html>
+	<text>459,574</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.1</td>]]></html>
+	<text>7.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Brunswick</td>]]></html>
+	<text>New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>351,889</td>]]></html>
+	<text>351,889</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>331,120</td>]]></html>
+	<text>331,120</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.3</td>]]></html>
+	<text>6.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,005,776</td>]]></html>
+	<text>2,005,776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,648,898</td>]]></html>
+	<text>1,648,898</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.6</td>]]></html>
+	<text>21.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,527,292</td>]]></html>
+	<text>2,527,292</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,182,947</td>]]></html>
+	<text>2,182,947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.8</td>]]></html>
+	<text>15.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>461,394</td>]]></html>
+	<text>461,394</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>255,211</td>]]></html>
+	<text>255,211</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80.8</td>]]></html>
+	<text>80.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>492,432</td>]]></html>
+	<text>492,432</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,279</td>]]></html>
+	<text>91,279</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>439</td>]]></html>
+	<text>439</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>374,295</td>]]></html>
+	<text>374,295</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>73,022</td>]]></html>
+	<text>73,022</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>413</td>]]></html>
+	<text>413</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>392,480</td>]]></html>
+	<text>392,480</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>178,657</td>]]></html>
+	<text>178,657</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>119.7</td>]]></html>
+	<text>119.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yukon Territory</td>]]></html>
+	<text>Yukon Territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,512</td>]]></html>
+	<text>8,512</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,219</td>]]></html>
+	<text>27,219</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-68.7</td>]]></html>
+	<text>-68.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northwest Territories</td>]]></html>
+	<text>Northwest Territories</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,507</td>]]></html>
+	<text>6,507</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,129</td>]]></html>
+	<text>20,129</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-67.7</td>]]></html>
+	<text>-67.7</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Canada 1911 Census - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province 1911 Census 1901 Census % Change</text>
+</context>
+<context>
+	<score>0.8877873</score>
+	<text>[ edit ] Population by province</text>
+</context>
+<context>
+	<score>0.7974671</score>
+	<text>Canada 1911 Census</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>People who were deaf but able to speak were not classified as infirm.</text>
+</context>
+<context>
+	<score>0.75732553</score>
+	<text>[ edit ] Methodology</text>
+</context>
+<context>
+	<score>0.72961146</score>
+	<text>[ edit ] Census summary</text>
+</context>
+<context>
+	<score>0.72961146</score>
+	<text>[ edit ] Population by province</text>
+</context>
+<context>
+	<score>0.72961146</score>
+	<text>[ edit ] Methodology</text>
+</context>
+<context>
+	<score>0.72961146</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7186102</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>The 1911 Census was the last census to include questions about &quot;infirmities&quot;. In 1911, 28,611 people were identified as &quot;infirm&quot;:</text>
+</context>
+<context>
+	<score>0.6362725</score>
+	<text>Information was collected on the following subjects, with a separate &quot;schedule&quot; or census data collection form associated with each subject:</text>
+</context>
+<context>
+	<score>0.60810447</score>
+	<text>The census was conducted by the Canadian Ministry of Agriculture under the authority of the Census and Statistics Act of 1905. 9,703 enumerators visited homes across the country, asked the required questions and recorded the responses from each household onto paper forms. For the census, each province or territory was subdivided into districts, usually based on electoral districts, cities or counties, which were in turn divided into sub-districts, which were towns, townships, city wards or parishes. One handwritten line in English or French was entered for each person enumerated. The responses were collected, tabulated and summary statistics were produced. In 1955, the paper records of responses were microfilmed and the original paper forms were destroyed. The microfilm has since been scanned and converted into a series of images which are now available online at the Library and Archives Canada web site.</text>
+</context>
+<context>
+	<score>0.5968053</score>
+	<text>[ edit ] Census summary</text>
+</context>
+<context>
+	<score>0.5454293</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5203274</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.5131295</score>
+	<text>The following census was the 1921 Census.</text>
+</context>
+<context>
+	<score>0.49829093</score>
+	<text>The Canada 1911 Census was a detailed enumeration of the Canadian population. The census was started on June 1 , 1911 . All reports had been received by February 26 , 1912 . The total population count of Canada was 7,206,643. This was an increase of 34% over the 1901 Census of 5,371,315.</text>
+</context>
+<context>
+	<score>0.48586997</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4693325</score>
+	<text>Canada 1911 Census</text>
+</context>
+<context>
+	<score>0.46869385</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="5" cellspacing="0"><tr><th>Province</th><th>1911 Census</th><th>1901 Census</th><th>&#160;% Change</th></tr><tr><td><a href="../../../../articles/p/r/i/Prince_Edward_Island_24cf.html" title="Prince Edward Island">Prince Edward Island</a></td><td>93,728</td><td>103,259</td><td>-9.2</td></tr><tr><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td>492,338</td><td>459,574</td><td>7.1</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td>351,889</td><td>331,120</td><td>6.3</td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>2,005,776</td><td>1,648,898</td><td>21.6</td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>2,527,292</td><td>2,182,947</td><td>15.8</td></tr><tr><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>461,394</td><td>255,211</td><td>80.8</td></tr><tr><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td>492,432</td><td>91,279</td><td>439</td></tr><tr><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>374,295</td><td>73,022</td><td>413</td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>392,480</td><td>178,657</td><td>119.7</td></tr><tr><td><a href="../../../../articles/y/u/k/Yukon_Territory_2a75.html" class="mw-redirect" title="Yukon Territory">Yukon Territory</a></td><td>8,512</td><td>27,219</td><td>-68.7</td></tr><tr><td><a href="../../../../articles/n/o/r/Northwest_Territories_ca27.html" title="Northwest Territories">Northwest Territories</a></td><td>6,507</td><td>20,129</td><td>-67.7</td></tr></table>]]>
+</htmlSnippet>
+</entity>

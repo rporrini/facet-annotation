@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r8/b/r/i/British_motor_industry.html_1.xml" />
+<meta name="primaryKey" value="0.9285714 0 1, 0.875 0, 0.79591835 1 2, 0.78571427 0 3, 0.75 2, 0.75 0 2, 0.7295918 1 3, 0.71428573 0 4, 0.69642854 1, 0.6875 3, 0.67346936 2 3, 0.6122449 2 4, 0.58035713 1 4, 0.5612245 3 4, 0.53571427 4, 0.12857144 0 6, 0.112500004 6, 0.11020408 2 6, 0.10446428 1 6, 0.10102041 3 6, 0.08035715 4 6, 0.050000004 0 5, 0.046428572 1 5, 0.042857148 2 5, 0.04081633 4 5, 0.039285716 3 5, 0.02857143 5, 0.0073469393 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/b/r/i/British_motor_industry.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Company</th>]]></html>
+	<text>Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Parent company</th>]]></html>
+	<text>Parent company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Brands</th>]]></html>
+	<text>Brands</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Models</th>]]></html>
+	<text>Models</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Production (2003) [9]</th>]]></html>
+	<text>Production (2003) [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Closure date</th>]]></html>
+	<text>Closure date</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newport Pagnell</td>]]></html>
+	<text>Newport Pagnell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 July 2007 [15]</td>]]></html>
+	<text>19 July 2007 [15]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peugeot</td>]]></html>
+	<text>Peugeot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PSA Peugeot Citroën</td>]]></html>
+	<text>PSA Peugeot Citro&#235;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peugeot</td>]]></html>
+	<text>Peugeot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peugeot 206</td>]]></html>
+	<text>Peugeot 206</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ryton-on-Dunsmore, Coventry</td>]]></html>
+	<text>Ryton-on-Dunsmore, Coventry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>207,237</td>]]></html>
+	<text>207,237</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006 - 12-12 . [16]</td>]]></html>
+	<text>2006 - 12-12 . [16]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Metrocab</td>]]></html>
+	<text>Metrocab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kamkorp Europe</td>]]></html>
+	<text>Kamkorp Europe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Metrocab</td>]]></html>
+	<text>Metrocab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TTT</td>]]></html>
+	<text>TTT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamworth</td>]]></html>
+	<text>Tamworth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111</td>]]></html>
+	<text>111</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 2006 [17]</td>]]></html>
+	<text>April 2006 [17]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG Rover</td>]]></html>
+	<text>MG Rover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MG Rover</td>]]></html>
+	<text>MG Rover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MG, Rover</td>]]></html>
+	<text>MG, Rover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25 , 45 , 75 , ZR , ZS , ZT , Streetwise , Commerce , MG Express , TF</td>]]></html>
+	<text>25 , 45 , 75 , ZR , ZS , ZT , Streetwise , Commerce , MG Express , TF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Longbridge plant , Longbridge</td>]]></html>
+	<text>Longbridge plant , Longbridge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>132,789</td>]]></html>
+	<text>132,789</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 April 2005</td>]]></html>
+	<text>7 April 2005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG X-Power</td>]]></html>
+	<text>MG X-Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MG Rover</td>]]></html>
+	<text>MG Rover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MG X-Power</td>]]></html>
+	<text>MG X-Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SV , SV-R , ZR Rally Cars</td>]]></html>
+	<text>SV , SV-R , ZR Rally Cars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Longbridge plant , Longbridge</td>]]></html>
+	<text>Longbridge plant , Longbridge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 April 2005</td>]]></html>
+	<text>7 April 2005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jaguar</td>]]></html>
+	<text>Jaguar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ford</td>]]></html>
+	<text>Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jaguar</td>]]></html>
+	<text>Jaguar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XJ8 , XK8</td>]]></html>
+	<text>XJ8 , XK8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coventry</td>]]></html>
+	<text>Coventry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 2005 [18]</td>]]></html>
+	<text>July 2005 [18]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ford</td>]]></html>
+	<text>Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DB7/Vantage</td>]]></html>
+	<text>DB7/Vantage</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bloxham</td>]]></html>
+	<text>Bloxham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 2004 [19]</td>]]></html>
+	<text>early 2004 [19]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Reliant</td>]]></html>
+	<text>Reliant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reliant</td>]]></html>
+	<text>Reliant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reliant</td>]]></html>
+	<text>Reliant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamworth</td>]]></html>
+	<text>Tamworth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>British motor industry - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Company Parent company Brands Models Location Production (2003) [9] Closure date</text>
+</context>
+<context>
+	<score>0.8808047</score>
+	<text>[ edit ] Recently closed motor vehicle production plants</text>
+</context>
+<context>
+	<score>0.7934674</score>
+	<text>British motor industry</text>
+</context>
+<context>
+	<score>0.7838324</score>
+	<text>[ edit ] Current motor vehicle production plants</text>
+</context>
+<context>
+	<score>0.752459</score>
+	<text>[ edit ] Historical motor vehicle production figures</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Current motor vehicle production plants</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Recently closed motor vehicle production plants</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Historical motor vehicle production figures</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Motorsport</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Some Manufacturers no longer in existence</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7179098</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7158896</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7062545</score>
+	<text>In the 2000s Superminis have proved even more popular than ever, with the Ford Fiesta losing ground for much of this time and the Vauxhall Corsa and Peugeot 206 selling in huge numbers. The Renault Clio , Fiat Punto , Nissan Micra and the new BMW MINI have all enjoyed high volume sales. However, small family cars remain the key choice with British buyers, as the Ford Focus has occupied top spot in the UK continuously since 1999 and the Vauxhall Astra is regularly the second most popular car in the country. Other offerings such as the Renault Megane , Peugeot 307 and Volkswagen Golf have also sold well. Large family cars, however, have suffered a decline in sales. By 2002, the Ford Mondeo was the only car of this size in the top 10, and 2003 saw the BMW 3 Series becoming the first &quot;compact executive&quot; car to reach the top 10, also appearing in 2005 and again in 2006.</text>
+</context>
+<context>
+	<score>0.6441921</score>
+	<text>Other foreign carmakers to have achieved similar success in the UK include Volkswagen , Citroen , BMW and Fiat . Foreign-built cars have frequently outsold British-built ones on the UK market since the early 1990s, having gradually broken up British dominance over the previous decade.</text>
+</context>
+<context>
+	<score>0.60363793</score>
+	<text>key</text>
+</context>
+<context>
+	<score>0.59454226</score>
+	<text>French carmaker Renault had been increasing its popularity in the UK since the 1980s, with sales really taking off in 1990 on the launch of the Clio supermini. By the end of the decade, the Clio and the larger Megane were both among the ten most popular cars in Britain. By 2005, the controversially-styled Megane was Britain&apos;s fourth most popular new car.</text>
+</context>
+<context>
+	<score>0.5548223</score>
+	<text>The Ford Focus has so far been Britain&apos;s most popular new car of the decade . It was Britain&apos;s most popular new car in 1999 - its first full year in production - and in 2006 completed an unbroken eight-year run as Britain&apos;s best-selling car. The smaller Fiesta began to lose its hold on the mini-car market following the launch of Vauxhall&apos;s MK2 Corsa in 2000, with the two cars frequently moving between first and second place in the sector&apos;s sales charts.</text>
+</context>
+<context>
+	<score>0.52304643</score>
+	<text>In 2007, Ford announced its intention to sell Aston Martin , and the company was bought by a British lead Consortium backed by Middle East investors. Ford retains a small stake in the company and supplies components including Engines.</text>
+</context>
+<context>
+	<score>0.5172845</score>
+	<text>Cars</text>
+</context>
+<context>
+	<score>0.4976257</score>
+	<text>Honda , Toyota and Nissan continued to make a success of their British production facilities during the 2000s, and by 2006 the Sunderland plant alone was enough to confirm Nissan as the most prolific maker of British-built cars for that year. Nissan&apos;s venture with Renault has so far seen several new car launches sharing components, but no Renaults have been built in the UK yet. The success of the companies cross over Quasquai model added a third shift to Sunderland in 2008 creating 300 new jobs.</text>
+</context>
+<context>
+	<score>0.47728914</score>
+	<text>Peugeot reduced output of the Ryton plant in the spring of 2001 when its 306 model was replaced by the French-built 307 , leaving the 206 as the only model being built there. In April 2006, high production costs in the UK contributed towards Peugeot&apos;s decision to close the Ryton plant and move 206 production to Slovakia . The closure was initially planned to take place during the summer of 2007, but it ended up taking place in December 2006. This left Coventry without a car production facility for the first time in some 100 years.</text>
+</context>
+<context>
+	<score>0.4664884</score>
+	<text>Commercial vehicles</text>
+</context>
+<context>
+	<score>0.46101987</score>
+	<text>MG Rover spent the early part of the 2000s investigating possible ventures with other carmakers in order to develop a new range of cars. Proposed links with foreign organisations including Malaysian carmaker Proton failed to materialise, and by late 2004 Chinese carmaker Shanghai Automobile had shown an interest in taking over the Longbridge-based firm - who were now hundreds of millions of pounds in debt. Talks broke down and the firm went into receivership in April 2005 with the loss of more than 6,000 jobs. Three months later, the firm&apos;s assets were purchased by another Chinese carmaker - Nanjing Automobile Group - and Longbridge partially re-opened over the summer of 2007 with an initial workforce of around 250 making the MG TF sports model for a planned 2008 re-launch. However the future of the Longbridge facility remains far from certain with quality and cost issues delaying TF production and upheavals in China affecting Nanging and Saic.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Company</th><th>Parent company</th><th>Brands</th><th>Models</th><th>Location</th><th>Production (2003)<sup id="cite_ref-TIC_8-1" class="reference"><a href="#cite_note-TIC-8" title="">[9]</a></sup></th><th>Closure date</th></tr><tr><td><a href="../../../../articles/a/s/t/Aston_Martin_c064.html" title="Aston Martin">Aston Martin</a></td><td>Aston Martin</td><td>Aston Martin</td><td></td><td><a href="../../../../articles/n/e/w/Newport_Pagnell_b1e5.html" title="Newport Pagnell">Newport Pagnell</a></td><td></td><td>19 July 2007<sup id="cite_ref-14" class="reference"><a href="#cite_note-14" title="">[15]</a></sup></td></tr><tr><td><a href="../../../../articles/p/e/u/Peugeot.html" title="Peugeot">Peugeot</a></td><td><a href="../../../../articles/p/s/a/PSA_Peugeot_Citro%C3%ABn_8bc0.html" title="PSA Peugeot Citroën">PSA Peugeot Citroën</a></td><td>Peugeot</td><td><a href="../../../../articles/p/e/u/Peugeot_206.html" title="Peugeot 206">Peugeot 206</a></td><td><a href="../../../../articles/r/y/t/Ryton-on-Dunsmore_b3d6.html" title="Ryton-on-Dunsmore">Ryton-on-Dunsmore, Coventry</a></td><td>207,237</td><td><a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a>-<a href="../../../../articles/d/e/c/December_12.html" title="December 12">12-12</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15" title="">[16]</a></sup></td></tr><tr><td><a href="../../../../articles/m/e/t/Metrocab.html" title="Metrocab">Metrocab</a></td><td>Kamkorp Europe</td><td>Metrocab</td><td><a href="../../../../articles/m/e/t/Metrocab_TTT_0e88.html" title="Metrocab TTT">TTT</a></td><td><a href="../../../../articles/t/a/m/Tamworth.html" title="Tamworth">Tamworth</a></td><td>111</td><td>April 2006<sup id="cite_ref-16" class="reference"><a href="#cite_note-16" title="">[17]</a></sup></td></tr><tr><td><a href="../../../../articles/m/g/_/MG_Rover_e86e.html" class="mw-redirect" title="MG Rover">MG Rover</a></td><td><a href="../../../../articles/m/g/_/MG_Rover_e86e.html" class="mw-redirect" title="MG Rover">MG Rover</a></td><td>MG, Rover</td><td><a href="../../../../articles/r/o/v/Rover_200.html" class="mw-redirect" title="Rover 200">25</a>, <a href="../../../../articles/r/o/v/Rover_400.html" class="mw-redirect" title="Rover 400">45</a>, <a href="../../../../articles/r/o/v/Rover_75.html" title="Rover 75">75</a>, <a href="../../../../articles/m/g/_/MG_ZR_76ef.html" title="MG ZR">ZR</a>, <a href="../../../../articles/m/g/_/MG_ZS_fc19.html" title="MG ZS">ZS</a>, <a href="../../../../articles/m/g/_/MG_ZT_f9a0.html" title="MG ZT">ZT</a>, <a href="../../../../articles/r/o/v/Rover_Streetwise_17e9.html" title="Rover Streetwise">Streetwise</a>, <a href="../../../../articles/r/o/v/Rover_200.html" class="mw-redirect" title="Rover 200">Commerce</a>, <a href="../../../../articles/m/g/_/MG_ZR_76ef.html" title="MG ZR">MG Express</a>, <a href="../../../../articles/m/g/_/MG_F_a91c.html" title="MG F">TF</a></td><td><a href="../../../../articles/l/o/n/Longbridge_plant.html" title="Longbridge plant">Longbridge plant</a>, <a href="../../../../articles/l/o/n/Longbridge.html" title="Longbridge">Longbridge</a></td><td>132,789</td><td><a href="../../../../articles/a/p/r/April_7.html" title="April 7">7 April</a> <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td></tr><tr><td><a href="../../../../articles/m/g/_/MG_XPower_SV_fcfe.html" title="MG XPower SV">MG X-Power</a></td><td><a href="../../../../articles/m/g/_/MG_Rover_e86e.html" class="mw-redirect" title="MG Rover">MG Rover</a></td><td>MG X-Power</td><td><a href="../../../../articles/m/g/_/MG_XPower_SV_fcfe.html" title="MG XPower SV">SV</a>, <a href="../../../../articles/m/g/_/MG_XPower_SV_fcfe.html" title="MG XPower SV">SV-R</a>, <a href="../../../../articles/m/g/_/MG_ZR_76ef.html" title="MG ZR">ZR Rally Cars</a></td><td><a href="../../../../articles/l/o/n/Longbridge_plant.html" title="Longbridge plant">Longbridge plant</a>, <a href="../../../../articles/l/o/n/Longbridge.html" title="Longbridge">Longbridge</a></td><td>?</td><td><a href="../../../../articles/a/p/r/April_7.html" title="April 7">7 April</a> <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td></tr><tr><td><a href="../../../../articles/j/a/g/Jaguar_Cars_7998.html" title="Jaguar Cars">Jaguar</a></td><td><a href="../../../../articles/f/o/r/Ford_Motor_Company_7541.html" title="Ford Motor Company">Ford</a></td><td>Jaguar</td><td><a href="../../../../articles/j/a/g/Jaguar_XJ8_03b0.html" class="mw-redirect" title="Jaguar XJ8">XJ8</a>, <a href="../../../../articles/j/a/g/Jaguar_XK8_cdac.html" class="mw-redirect" title="Jaguar XK8">XK8</a></td><td><a href="../../../../articles/c/o/v/Coventry.html" title="Coventry">Coventry</a></td><td>?</td><td>July 2005<sup id="cite_ref-17" class="reference"><a href="#cite_note-17" title="">[18]</a></sup></td></tr><tr><td><a href="../../../../articles/a/s/t/Aston_Martin_c064.html" title="Aston Martin">Aston Martin</a></td><td><a href="../../../../articles/f/o/r/Ford_Motor_Company_7541.html" title="Ford Motor Company">Ford</a></td><td>Aston Martin</td><td><a href="../../../../articles/a/s/t/Aston_Martin_DB7_aa1a.html" title="Aston Martin DB7">DB7/Vantage</a></td><td><a href="../../../../articles/b/l/o/Bloxham.html" title="Bloxham">Bloxham</a></td><td>?</td><td>early 2004<sup id="cite_ref-18" class="reference"><a href="#cite_note-18" title="">[19]</a></sup></td></tr><tr><td><a href="../../../../articles/r/e/l/Reliant.html" title="Reliant">Reliant</a></td><td><a href="../../../../articles/r/e/l/Reliant.html" title="Reliant">Reliant</a></td><td>Reliant</td><td>?</td><td><a href="../../../../articles/t/a/m/Tamworth.html" title="Tamworth">Tamworth</a></td><td>?</td><td>2002</td></tr></table>]]>
+</htmlSnippet>
+</entity>

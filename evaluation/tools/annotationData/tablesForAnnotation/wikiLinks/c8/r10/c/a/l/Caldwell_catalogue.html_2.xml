@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r10/c/a/l/Caldwell_catalogue.html_2.xml" />
+<meta name="primaryKey" value="0.75 4 6, 0.5625 6, 0.5 4, 0.175 1, 0.175 1 4, 0.1640625 1 6, 0.15 7, 0.15 4 7, 0.14625001 5, 0.14625001 4 5, 0.140625 6 7, 0.1375 0, 0.1375 0 4, 0.13710938 5 6, 0.12890625 0 6, 0.041015625 2 6, 0.039375 3 4, 0.0375 2 4, 0.03164063 3 6, 0.028437499 1 5, 0.02625 1 7, 0.025 2, 0.024375001 5 7, 0.024062501 0 1, 0.022343751 0 5, 0.020625 0 7, 0.016875 3, 0.0109375 1 2, 0.00984375 1 3, 0.009375 2 7, 0.009140626 2 5, 0.00859375 0 2, 0.0084375 3 7, 0.008226563 3 5, 0.0077343755 0 3, 0.0017578126 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/l/Caldwell_catalogue.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Caldwell number</th>]]></html>
+	<text>Caldwell number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>NGC number</th>]]></html>
+	<text>NGC number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Common name</th>]]></html>
+	<text>Common name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Picture</th>]]></html>
+	<text>Picture</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Object type</th>]]></html>
+	<text>Object type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance to object in thousands of light years</th>]]></html>
+	<text>Distance to object in thousands of light years</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Constellation</th>]]></html>
+	<text>Constellation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Apparent magnitude</th>]]></html>
+	<text>Apparent magnitude</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C21</td>]]></html>
+	<text>C21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 4449</td>]]></html>
+	<text>NGC 4449</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canes Venatici</td>]]></html>
+	<text>Canes Venatici</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.4</td>]]></html>
+	<text>9.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C22</td>]]></html>
+	<text>C22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 7662</td>]]></html>
+	<text>NGC 7662</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blue Snowball</td>]]></html>
+	<text>Blue Snowball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Planetary Nebula</td>]]></html>
+	<text>Planetary Nebula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Andromeda</td>]]></html>
+	<text>Andromeda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C23</td>]]></html>
+	<text>C23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 891</td>]]></html>
+	<text>NGC 891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,000</td>]]></html>
+	<text>31,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Andromeda</td>]]></html>
+	<text>Andromeda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C24</td>]]></html>
+	<text>C24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 1275</td>]]></html>
+	<text>NGC 1275</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perseus A</td>]]></html>
+	<text>Perseus A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/local/thumb/c/ce/NGC1275.jpg/60px-NGC1275.jpg</td>]]></html>
+	<text>../../../../images/local/thumb/c/ce/NGC1275.jpg/60px-NGC1275.jpg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>230,000</td>]]></html>
+	<text>230,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perseus</td>]]></html>
+	<text>Perseus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.6</td>]]></html>
+	<text>11.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C25</td>]]></html>
+	<text>C25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 2419</td>]]></html>
+	<text>NGC 2419</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Globular Cluster</td>]]></html>
+	<text>Globular Cluster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>275</td>]]></html>
+	<text>275</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lynx</td>]]></html>
+	<text>Lynx</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.4</td>]]></html>
+	<text>10.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C26</td>]]></html>
+	<text>C26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 4244</td>]]></html>
+	<text>NGC 4244</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canes Venatici</td>]]></html>
+	<text>Canes Venatici</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.2</td>]]></html>
+	<text>10.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C27</td>]]></html>
+	<text>C27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 6888</td>]]></html>
+	<text>NGC 6888</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Crescent Nebula</td>]]></html>
+	<text>Crescent Nebula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebula</td>]]></html>
+	<text>Nebula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.7</td>]]></html>
+	<text>4.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cygnus</td>]]></html>
+	<text>Cygnus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C28</td>]]></html>
+	<text>C28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 752</td>]]></html>
+	<text>NGC 752</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Open Cluster</td>]]></html>
+	<text>Open Cluster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2</td>]]></html>
+	<text>1.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Andromeda</td>]]></html>
+	<text>Andromeda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.7</td>]]></html>
+	<text>5.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C29</td>]]></html>
+	<text>C29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 5005</td>]]></html>
+	<text>NGC 5005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69,000</td>]]></html>
+	<text>69,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canes Venatici</td>]]></html>
+	<text>Canes Venatici</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.8</td>]]></html>
+	<text>9.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C30</td>]]></html>
+	<text>C30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGC 7331</td>]]></html>
+	<text>NGC 7331</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/local/thumb/a/ab/NGC_7331.jpg/60px-NGC_7331.jpg</td>]]></html>
+	<text>../../../../images/local/thumb/a/ab/NGC_7331.jpg/60px-NGC_7331.jpg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galaxy</td>]]></html>
+	<text>Galaxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,000</td>]]></html>
+	<text>47,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pegasus</td>]]></html>
+	<text>Pegasus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.5</td>]]></html>
+	<text>9.5</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Caldwell catalogue - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Caldwell number NGC number Common name Picture Object type Distance to object in thousands of light years Constellation Apparent magnitude</text>
+</context>
+<context>
+	<score>0.8831136</score>
+	<text>[ edit ] 21-30</text>
+</context>
+<context>
+	<score>0.79696405</score>
+	<text>Caldwell catalogue</text>
+</context>
+<context>
+	<score>0.7861413</score>
+	<text>[ edit ] 11-20</text>
+</context>
+<context>
+	<score>0.75476784</score>
+	<text>[ edit ] 31-40</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] Caldwell Star Chart</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] Number of objects by type in the Caldwell catalogue.</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] Caldwell objects</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72371525</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193861</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7085633</score>
+	<text>[ edit ] 1-10</text>
+</context>
+<context>
+	<score>0.64650095</score>
+	<text>[ edit ] Key</text>
+</context>
+<context>
+	<score>0.607967</score>
+	<text>[ edit ] 41-50</text>
+</context>
+<context>
+	<score>0.5968511</score>
+	<text>[ edit ] Caldwell objects</text>
+</context>
+<context>
+	<score>0.55713123</score>
+	<text>[ edit ] Number of objects by type in the Caldwell catalogue.</text>
+</context>
+<context>
+	<score>0.5253553</score>
+	<text>Caldwell Star Chart. Original file requires a browser with either native or plugin SVG support</text>
+</context>
+<context>
+	<score>0.52161366</score>
+	<text>[ edit ] 51-60</text>
+</context>
+<context>
+	<score>0.49993458</score>
+	<text>[ edit ] Caldwell Star Chart</text>
+</context>
+<context>
+	<score>0.47526887</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47081754</score>
+	<text>[ edit ] 61-70</text>
+</context>
+<context>
+	<score>0.46332872</score>
+	<text>A natural progression for the amateur astronomer wishing to observe deep sky objects would be to view the Messier catalogue, followed by the Caldwell catalogue, and then the Herschel 400 Catalogue . At the end of this exercise the observer would have viewed nearly 600 objects. Although there are 618 objects listed in these three catalogues the Herschel 400 Catalogue does contain some objects from the Messier and Caldwell catalogues.</text>
+</context>
+<context>
+	<score>0.4503133</score>
+	<text>The original list also incorrectly identified S Norma Cluster ( NGC 6087 ) as NGC 6067 and incorrectly labelled the Lambda Centauri Cluster ( IC 2944 ) as the Gamma Centauri Cluster.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Caldwell number</th><th><a href="../../../../articles/n/e/w/New_General_Catalogue_5181.html" title="New General Catalogue">NGC number</a></th><th>Common name</th><th>Picture</th><th>Object type</th><th>Distance to object in thousands of <a href="../../../../articles/l/i/g/Light_year.html" class="mw-redirect" title="Light year">light years</a></th><th><a href="../../../../articles/c/o/n/Constellation.html" title="Constellation">Constellation</a></th><th><a href="../../../../articles/a/p/p/Apparent_magnitude.html" title="Apparent magnitude">Apparent magnitude</a></th></tr><tr bgcolor="#98FF98"><td>C21</td><td><a href="../../../../articles/n/g/c/NGC_4449_0530.html" title="NGC 4449">NGC 4449</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>10,000</td><td><a href="../../../../articles/c/a/n/Canes_Venatici_%28constellation%29_6a27.html" class="mw-redirect" title="Canes Venatici (constellation)">Canes Venatici</a></td><td>9.4</td></tr><tr bgcolor="#FF9966"><td>C22</td><td><a href="../../../../articles/n/g/c/NGC_7662_9e54.html" title="NGC 7662">NGC 7662</a></td><td><i><a href="../../../../articles/b/l/u/Blue_Snowball_4ba9.html" class="mw-redirect" title="Blue Snowball">Blue Snowball</a></i></td><td>&#160;</td><td><a href="../../../../articles/p/l/a/Planetary_nebula.html" title="Planetary nebula">Planetary Nebula</a></td><td>3.2</td><td><a href="../../../../articles/a/n/d/Andromeda_%28constellation%29.html" title="Andromeda (constellation)">Andromeda</a></td><td>9</td></tr><tr bgcolor="#98FF98"><td>C23</td><td><a href="../../../../articles/n/g/c/NGC_891_e58f.html" title="NGC 891">NGC 891</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>31,000</td><td><a href="../../../../articles/a/n/d/Andromeda_%28constellation%29.html" title="Andromeda (constellation)">Andromeda</a></td><td>10</td></tr><tr bgcolor="#98FF98"><td>C24</td><td><a href="../../../../articles/n/g/c/NGC_1275_5933.html" title="NGC 1275">NGC 1275</a></td><td><i><a href="../../../../articles/p/e/r/Perseus_A_868f.html" class="mw-redirect" title="Perseus A">Perseus A</a></i></td><td align="center"><a href="../../../../articles/n/g/c/Image%7ENGC1275.jpg_416f.html" class="image" title="NGC1275.jpg"><img alt="" src="../../../../images/local/thumb/c/ce/NGC1275.jpg/60px-NGC1275.jpg" width="60" height="75" border="0" /></a></td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>230,000</td><td><a href="../../../../articles/p/e/r/Perseus_%28constellation%29.html" title="Perseus (constellation)">Perseus</a></td><td>11.6</td></tr><tr bgcolor="#FFD700"><td>C25</td><td><a href="../../../../articles/n/g/c/NGC_2419_7301.html" title="NGC 2419">NGC 2419</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/g/l/o/Globular_cluster.html" title="Globular cluster">Globular Cluster</a></td><td>275</td><td><a href="../../../../articles/l/y/n/Lynx_%28constellation%29.html" title="Lynx (constellation)">Lynx</a></td><td>10.4</td></tr><tr bgcolor="#98FF98"><td>C26</td><td><a href="../../../../articles/n/g/c/NGC_4244_2fc8.html" title="NGC 4244">NGC 4244</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>10,000</td><td><a href="../../../../articles/c/a/n/Canes_Venatici_%28constellation%29_6a27.html" class="mw-redirect" title="Canes Venatici (constellation)">Canes Venatici</a></td><td>10.2</td></tr><tr bgcolor="#FF9966"><td>C27</td><td><a href="../../../../articles/n/g/c/NGC_6888_1851.html" class="mw-redirect" title="NGC 6888">NGC 6888</a></td><td><i><a href="../../../../articles/c/r/e/Crescent_Nebula_15fb.html" title="Crescent Nebula">Crescent Nebula</a></i></td><td>&#160;</td><td><a href="../../../../articles/n/e/b/Nebula.html" title="Nebula">Nebula</a></td><td>4.7</td><td><a href="../../../../articles/c/y/g/Cygnus_%28constellation%29.html" title="Cygnus (constellation)">Cygnus</a></td><td>-</td></tr><tr bgcolor="#FFD700"><td>C28</td><td><a href="../../../../articles/n/g/c/NGC_752_f080.html" title="NGC 752">NGC 752</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/o/p/e/Open_cluster.html" title="Open cluster">Open Cluster</a></td><td>1.2</td><td><a href="../../../../articles/a/n/d/Andromeda_%28constellation%29.html" title="Andromeda (constellation)">Andromeda</a></td><td>5.7</td></tr><tr bgcolor="#98FF98"><td>C29</td><td><a href="../../../../articles/n/g/c/NGC_5005_1487.html" title="NGC 5005">NGC 5005</a></td><td>&#160;</td><td>&#160;</td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>69,000</td><td><a href="../../../../articles/c/a/n/Canes_Venatici_%28constellation%29_6a27.html" class="mw-redirect" title="Canes Venatici (constellation)">Canes Venatici</a></td><td>9.8</td></tr><tr bgcolor="#98FF98"><td>C30</td><td><a href="../../../../articles/n/g/c/NGC_7331_52a8.html" title="NGC 7331">NGC 7331</a></td><td>&#160;</td><td align="center"><a href="../../../../articles/n/g/c/Image%7ENGC_7331.jpg_830c.html" class="image" title="NGC 7331.jpg"><img alt="" src="../../../../images/local/thumb/a/ab/NGC_7331.jpg/60px-NGC_7331.jpg" width="60" height="31" border="0" /></a></td><td><a href="../../../../articles/g/a/l/Galaxy.html" title="Galaxy">Galaxy</a></td><td>47,000</td><td><a href="../../../../articles/p/e/g/Pegasus_%28constellation%29.html" title="Pegasus (constellation)">Pegasus</a></td><td>9.5</td></tr></table>]]>
+</htmlSnippet>
+</entity>

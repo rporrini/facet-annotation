@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san22-data4-repo/attrParsedPage/out_data_84/dir35/file173318_0_cols3_rows16.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.4166667 2, " />
+<meta name="url" value="http://www.ircruise.com/films.html" />
+<meta name="parentHTMLDoc" value="san22-data4-repo/attrParsedPage/out_data_84/file173318" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Text</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><b>MOVIE</b></td>]]></html>
+	<text>MOVIE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b>ACTORS</b></td>]]></html>
+	<text>ACTORS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b>ISLAND</b></td>]]></html>
+	<text>ISLAND</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Thomas<br />Crown Affair (1999)</td>]]></html>
+	<text>The ThomasCrown Affair (1999)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pierce Brosnan,<br />Rene Russo</td>]]></html>
+	<text>Pierce Brosnan,Rene Russo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martinique</td>]]></html>
+	<text>Martinique</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>How Stella Got<br />Her Groove<br />Back (1998)</td>]]></html>
+	<text>How Stella GotHer GrooveBack (1998)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Angela Bassett,<br />Taye Diggs,<br />Whoopi Goldberg</td>]]></html>
+	<text>Angela Bassett,Taye Diggs,Whoopi Goldberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Contact (1997)</td>]]></html>
+	<text>Contact (1997)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jodie Foster,<br />Tom Skerritt</td>]]></html>
+	<text>Jodie Foster,Tom Skerritt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico:<br />Arecibo Observatory</td>]]></html>
+	<text>Puerto Rico:Arecibo Observatory</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Executive Decision<br />(1996)</td>]]></html>
+	<text>Executive Decision(1996)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steven Segal,<br />Kurt Russell,<br />Halle Berry</td>]]></html>
+	<text>Steven Segal,Kurt Russell,Halle Berry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico</td>]]></html>
+	<text>Puerto Rico</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GoldenEye (1995)</td>]]></html>
+	<text>GoldenEye (1995)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pierce Brosnan,<br />Famke Janssen</td>]]></html>
+	<text>Pierce Brosnan,Famke Janssen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico:<br />Arecibo Observatory</td>]]></html>
+	<text>Puerto Rico:Arecibo Observatory</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Assassins (1995)</td>]]></html>
+	<text>Assassins (1995)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sylvester Stalone,<br />Antonio Banderas,<br />Julianne Moore</td>]]></html>
+	<text>Sylvester Stalone,Antonio Banderas,Julianne Moore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico</td>]]></html>
+	<text>Puerto Rico</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Shawshank<br />Redemption (1994)</td>]]></html>
+	<text>The ShawshankRedemption (1994)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tim Robbins,<br />Morgan Freeman</td>]]></html>
+	<text>Tim Robbins,Morgan Freeman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Croix</td>]]></html>
+	<text>St. Croix</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Firm (1993)</td>]]></html>
+	<text>The Firm (1993)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom Cruise,<br />Gene Hackman,<br />Jeanne Tripplehorn</td>]]></html>
+	<text>Tom Cruise,Gene Hackman,Jeanne Tripplehorn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Cayman</td>]]></html>
+	<text>Grand Cayman</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Havana (1990)</td>]]></html>
+	<text>Havana (1990)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Redford,<br />Lena Olin</td>]]></html>
+	<text>Robert Redford,Lena Olin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dominican Republic</td>]]></html>
+	<text>Dominican Republic</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Mighty Quinn<br />(1989)</td>]]></html>
+	<text>The Mighty Quinn(1989)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denzel Washington,<br />Mimi Rogers,<br />Esther Rolle</td>]]></html>
+	<text>Denzel Washington,Mimi Rogers,Esther Rolle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clara's Heart (1988)</td>]]></html>
+	<text>Clara&amp;amp;apos;s Heart (1988)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Whoopi Goldberg,<br />Michael Ontkean</td>]]></html>
+	<text>Whoopi Goldberg,Michael Ontkean</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Deep (1977)</td>]]></html>
+	<text>The Deep (1977)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nick Nolte,<br />Jacqueline Bisset</td>]]></html>
+	<text>Nick Nolte,Jacqueline Bisset</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Virgin Islands</td>]]></html>
+	<text>British Virgin Islands</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Papillon (1973)</td>]]></html>
+	<text>Papillon (1973)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steve McQueen,<br />Dustin Hoffman</td>]]></html>
+	<text>Steve McQueen,Dustin Hoffman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Doctor Doolittle<br />(1967)</td>]]></html>
+	<text>Doctor Doolittle(1967)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rex Harrison,<br />Samantha Eggar</td>]]></html>
+	<text>Rex Harrison,Samantha Eggar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Lucia</td>]]></html>
+	<text>St. Lucia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Help! (1965)</td>]]></html>
+	<text>Help! (1965)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Beatles</td>]]></html>
+	<text>The Beatles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Bahamas</td>]]></html>
+	<text>The Bahamas</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dr. No (1962)</td>]]></html>
+	<text>Dr. No (1962)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sean Connery,<br />Ursula Andress</td>]]></html>
+	<text>Sean Connery,Ursula Andress</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>MOVIE ACTORS ISLAND</text>
+</context>
+<context>
+	<score>0.81364024</score>
+	<text>All of the movies below included scenes filmed on a Caribbean island.</text>
+</context>
+<context>
+	<score>0.77823186</score>
+	<text>Caribbean Island Fun</text>
+</context>
+<context>
+	<score>0.66455233</score>
+	<text>Caribbean Island Fun</text>
+</context>
+<context>
+	<score>0.6163181</score>
+	<text>So, how many did you guess correctly? Count one point for each correct answer:</text>
+</context>
+<context>
+	<score>0.5452821</score>
+	<text>Home Overview Activities Cruise Info Cruise Reviews Book Travel Get Help Fun &amp; Games Cruise Ship Puzzle Island Puzzle Interracial Movies Cruise Activities Movie Trivia Site Map InterRace Cruise news: sign up for free news by e-mail. It&apos;s the easiest way to stay informed about the InterRace Cruise.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><b>MOVIE</b></td><td><b>ACTORS</b></td><td><b>ISLAND</b></td></tr><tr><td>The Thomas<br />Crown Affair (1999)</td><td>Pierce Brosnan,<br />Rene Russo</td><td>Martinique</td></tr><tr><td>How Stella Got<br />Her Groove<br />Back (1998)</td><td>Angela Bassett,<br />Taye Diggs,<br />Whoopi Goldberg</td><td>Jamaica</td></tr><tr><td>Contact (1997)</td><td>Jodie Foster,<br />Tom Skerritt</td><td>Puerto Rico:<br />Arecibo Observatory</td></tr><tr><td>Executive Decision<br />(1996)</td><td>Steven Segal,<br />Kurt Russell,<br />Halle Berry</td><td>Puerto Rico</td></tr><tr><td>GoldenEye (1995)</td><td>Pierce Brosnan,<br />Famke Janssen</td><td>Puerto Rico:<br />Arecibo Observatory</td></tr><tr><td>Assassins (1995)</td><td>Sylvester Stalone,<br />Antonio Banderas,<br />Julianne Moore</td><td>Puerto Rico</td></tr><tr><td>The Shawshank<br />Redemption (1994)</td><td>Tim Robbins,<br />Morgan Freeman</td><td>St. Croix</td></tr><tr><td>The Firm (1993)</td><td>Tom Cruise,<br />Gene Hackman,<br />Jeanne Tripplehorn</td><td>Grand Cayman</td></tr><tr><td>Havana (1990)</td><td>Robert Redford,<br />Lena Olin</td><td>Dominican Republic</td></tr><tr><td>The Mighty Quinn<br />(1989)</td><td>Denzel Washington,<br />Mimi Rogers,<br />Esther Rolle</td><td>Jamaica</td></tr><tr><td>Clara's Heart (1988)</td><td>Whoopi Goldberg,<br />Michael Ontkean</td><td>Jamaica</td></tr><tr><td>The Deep (1977)</td><td>Nick Nolte,<br />Jacqueline Bisset</td><td>British Virgin Islands</td></tr><tr><td>Papillon (1973)</td><td>Steve McQueen,<br />Dustin Hoffman</td><td>Jamaica</td></tr><tr><td>Doctor Doolittle<br />(1967)</td><td>Rex Harrison,<br />Samantha Eggar</td><td>St. Lucia</td></tr><tr><td>Help! (1965)</td><td>The Beatles</td><td>The Bahamas</td></tr><tr><td>Dr. No (1962)</td><td>Sean Connery,<br />Ursula Andress</td><td>Jamaica</td></tr></table>]]>
+</htmlSnippet>
+</entity>

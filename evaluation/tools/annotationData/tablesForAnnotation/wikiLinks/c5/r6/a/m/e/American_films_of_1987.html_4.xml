@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r6/a/m/e/American_films_of_1987.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 3, 0.45 3, 0.080000006 0 1, 0.07 0 2, 0.060000002 0 4, 0.036000002 1 3, 0.0315 2 3, 0.027 3 4, 0.02666667 1, 0.023333333 2, 0.020000001 4, 0.0018666668 1 2, 0.0016000003 1 4, 0.0014000002 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_films_of_1987.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cast</th>]]></html>
+	<text>Cast</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genre</th>]]></html>
+	<text>Genre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eddie Murphy Raw</td>]]></html>
+	<text>Eddie Murphy Raw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Empire of the Sun (film)</td>]]></html>
+	<text>Empire of the Sun (film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Epidemic (film)</td>]]></html>
+	<text>Epidemic (film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ernest Goes to Camp</td>]]></html>
+	<text>Ernest Goes to Camp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Escape from Sobibor</td>]]></html>
+	<text>Escape from Sobibor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Gold</td>]]></html>
+	<text>Jack Gold</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alan Arkin , Joanna Pacula , Rutger Hauer</td>]]></html>
+	<text>Alan Arkin , Joanna Pacula , Rutger Hauer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama, Thriller</td>]]></html>
+	<text>Drama, Thriller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Based on the book by Richard Rashke</td>]]></html>
+	<text>Based on the book by Richard Rashke</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Evil Dead II</td>]]></html>
+	<text>Evil Dead II</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American films of 1987 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.88352245</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.81212085</score>
+	<text>American films of 1987</text>
+</context>
+<context>
+	<score>0.7865526</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.75518006</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.7392798</score>
+	<text>[ edit ] Top grossing films</text>
+</context>
+<context>
+	<score>0.73454493</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70897675</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.646916</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.608383</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.5972674</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.5575485</score>
+	<text>[ edit ] Top grossing films</text>
+</context>
+<context>
+	<score>0.5257734</score>
+	<text>1 Top grossing films 1.1 A 1.2 B 1.3 C 1.4 D 1.5 E 1.6 F 1.7 G 1.8 H 1.9 I 1.10 J 1.11 K 1.12 L 1.13 M 1.14 N 1.15 O 1.16 P 1.17 R 1.18 S 1.19 External links</text>
+</context>
+<context>
+	<score>0.52203184</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.49561852</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.4800173</score>
+	<text>A list of American films released in 1987 .</text>
+</context>
+<context>
+	<score>0.4763016</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47123706</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.46588954</score>
+	<text>American films of 1987</text>
+</context>
+<context>
+	<score>0.46374846</score>
+	<text>This list is incomplete ; you can help by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="21%">Title</th><th width="16%">Director</th><th width="22%">Cast</th><th width="13%">Genre</th><th width="28%">Notes</th></tr><tr><td><i><a href="../../../../articles/e/d/d/Eddie_Murphy_Raw_7ddf.html" title="Eddie Murphy Raw">Eddie Murphy Raw</a></i></td><td></td><td></td><td><a href="../../../../articles/c/o/m/Comedy_film.html" title="Comedy film">Comedy</a></td><td></td></tr><tr><td><i><a href="../../../../articles/e/m/p/Empire_of_the_Sun_%28film%29_25df.html" title="Empire of the Sun (film)">Empire of the Sun (film)</a></i></td><td></td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/e/p/i/Epidemic_%28film%29.html" title="Epidemic (film)">Epidemic (film)</a></i></td><td></td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/e/r/n/Ernest_Goes_to_Camp_6fa6.html" title="Ernest Goes to Camp">Ernest Goes to Camp</a></i></td><td></td><td></td><td><a href="../../../../articles/c/o/m/Comedy_film.html" title="Comedy film">Comedy</a></td><td></td></tr><tr><td><i><a href="../../../../articles/e/s/c/Escape_from_Sobibor_4527.html" title="Escape from Sobibor">Escape from Sobibor</a></i></td><td><a href="../../../../articles/j/a/c/Jack_Gold_7353.html" title="Jack Gold">Jack Gold</a></td><td><a href="../../../../articles/a/l/a/Alan_Arkin_c6f0.html" title="Alan Arkin">Alan Arkin</a>, <a href="../../../../articles/j/o/a/Joanna_Pacula_1339.html" title="Joanna Pacula">Joanna Pacula</a>, <a href="../../../../articles/r/u/t/Rutger_Hauer_6bde.html" title="Rutger Hauer">Rutger Hauer</a></td><td>Drama, Thriller</td><td>Based on the book by Richard Rashke</td></tr><tr><td><i><a href="../../../../articles/e/v/i/Evil_Dead_II_0bbd.html" title="Evil Dead II">Evil Dead II</a></i></td><td></td><td></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

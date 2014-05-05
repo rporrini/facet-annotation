@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r5/l/i/s/List_of_airports_in_the_United_Kingdom_16d1.html_1.xml" />
+<meta name="primaryKey" value="0.9285714 1, 0.9285714 0 1, 0.85714287 2, 0.85714287 0 2, 0.8 0, 0.79591835 1 2, 0.78571427 3, 0.78571427 0 3, 0.7295918 1 3, 0.67346936 2 3, 0.6632653 1 4, 0.6122449 2 4, 0.5969387 1 6, 0.5714286 0 4, 0.5612245 3 4, 0.5510204 2 6, 0.51428574 0 6, 0.50510204 3 6, 0.2857143 4, 0.18367349 4 6, 0.12857144 6, 0.11428572 5, 0.11428572 0 5, 0.10612245 1 5, 0.09795919 2 5, 0.089795925 3 5, 0.08163266 4 5, 0.07346939 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_the_United_Kingdom_16d1.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport name</th>]]></html>
+	<text>Airport name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Usage</th>]]></html>
+	<text>Usage</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rwy. (ft)</th>]]></html>
+	<text>Rwy. (ft)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Runway surface</th>]]></html>
+	<text>Runway surface</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belfast</td>]]></html>
+	<text>Belfast</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGAA</td>]]></html>
+	<text>EGAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BFS</td>]]></html>
+	<text>BFS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belfast International Airport</td>]]></html>
+	<text>Belfast International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,121</td>]]></html>
+	<text>9,121</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belfast</td>]]></html>
+	<text>Belfast</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGAC</td>]]></html>
+	<text>EGAC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BHD</td>]]></html>
+	<text>BHD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Best Belfast City Airport</td>]]></html>
+	<text>George Best Belfast City Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,001</td>]]></html>
+	<text>6,001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Derry</td>]]></html>
+	<text>Derry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGAE</td>]]></html>
+	<text>EGAE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LDY</td>]]></html>
+	<text>LDY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Derry Airport</td>]]></html>
+	<text>City of Derry Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,076</td>]]></html>
+	<text>6,076</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Enniskillen</td>]]></html>
+	<text>Enniskillen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGAB</td>]]></html>
+	<text>EGAB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ENK</td>]]></html>
+	<text>ENK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Enniskillen/St Angelo Airport</td>]]></html>
+	<text>Enniskillen/St Angelo Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,350</td>]]></html>
+	<text>4,350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Newtownards</td>]]></html>
+	<text>Newtownards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGAD</td>]]></html>
+	<text>EGAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newtownards Airport</td>]]></html>
+	<text>Newtownards Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,605</td>]]></html>
+	<text>2,605</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in the United Kingdom - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Location ICAO IATA Airport name Usage Rwy. (ft) Runway surface</text>
+</context>
+<context>
+	<score>0.8846099</score>
+	<text>[ edit ] Airports in Northern Ireland</text>
+</context>
+<context>
+	<score>0.79443467</score>
+	<text>List of airports in the United Kingdom</text>
+</context>
+<context>
+	<score>0.7876356</score>
+	<text>[ edit ] Airports in England</text>
+</context>
+<context>
+	<score>0.7562616</score>
+	<text>[ edit ] Airports in Scotland</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] Airports in England</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] Airports in Northern Ireland</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] Airports in Scotland</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] Airports in Wales</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] Airports in British Crown dependencies</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.722683</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168553</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042284</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6421649</score>
+	<text>Runway information is for the longest runway when more than one is available.</text>
+</context>
+<context>
+	<score>0.6094579</score>
+	<text>[ edit ] Airports in Wales</text>
+</context>
+<context>
+	<score>0.59251404</score>
+	<text>Airport names in bold have scheduled commercial airline service(s).</text>
+</context>
+<context>
+	<score>0.5586211</score>
+	<text>Airport names in italics are listed in the UK Aeronautical Information Publication .</text>
+</context>
+<context>
+	<score>0.5268446</score>
+	<text>Only airports in the United Kingdom (and its Crown Dependencies) begin with ICAO code &quot;EG&quot;. However, RAF Mount Pleasant located in the Falkland Islands also uses the &quot;EG&quot; code &quot;EGYP&quot;.</text>
+</context>
+<context>
+	<score>0.5231028</score>
+	<text>[ edit ] Airports in British Crown dependencies</text>
+</context>
+<context>
+	<score>0.50142336</score>
+	<text>List of airports in the United Kingdom is an annotated list of all active airports , airfields and aerodromes in the UK . They are sorted by the name of the community served.</text>
+</context>
+<context>
+	<score>0.48788545</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47230574</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.47161585</score>
+	<text>List of airports in the United Kingdom</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Location</th><th>ICAO</th><th>IATA</th><th>Airport name</th><th>Usage</th><th>Rwy. (ft)</th><th>Runway surface</th></tr><tr><td><a href="../../../../articles/b/e/l/Belfast.html" title="Belfast">Belfast</a></td><td>EGAA</td><td>BFS</td><td><i><b><a href="../../../../articles/b/e/l/Belfast_International_Airport_1d83.html" title="Belfast International Airport">Belfast International Airport</a></b></i></td><td>Public</td><td>9,121</td><td><a href="../../../../articles/a/s/p/Asphalt.html" title="Asphalt">Asphalt</a></td></tr><tr><td><a href="../../../../articles/b/e/l/Belfast.html" title="Belfast">Belfast</a></td><td>EGAC</td><td>BHD</td><td><i><b><a href="../../../../articles/g/e/o/George_Best_Belfast_City_Airport_2887.html" title="George Best Belfast City Airport">George Best Belfast City Airport</a></b></i></td><td>Public</td><td>6,001</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/d/e/r/Derry.html" title="Derry">Derry</a></td><td>EGAE</td><td>LDY</td><td><i><b><a href="../../../../articles/c/i/t/City_of_Derry_Airport_e8d7.html" title="City of Derry Airport">City of Derry Airport</a></b></i></td><td>Public</td><td>6,076</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/e/n/n/Enniskillen.html" title="Enniskillen">Enniskillen</a></td><td>EGAB</td><td>ENK</td><td><i><a href="../../../../articles/e/n/n/Enniskillen_St_Angelo_Airport_eeb9.html" title="Enniskillen/St Angelo Airport">Enniskillen/St Angelo Airport</a></i></td><td>Private</td><td>4,350</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/n/e/w/Newtownards.html" title="Newtownards">Newtownards</a></td><td>EGAD</td><td>&#160;</td><td><i><a href="../../../../articles/n/e/w/Newtownards_Airport_6c74.html" title="Newtownards Airport">Newtownards Airport</a></i></td><td>Public</td><td>2,605</td><td>Asphalt</td></tr></table>]]>
+</htmlSnippet>
+</entity>

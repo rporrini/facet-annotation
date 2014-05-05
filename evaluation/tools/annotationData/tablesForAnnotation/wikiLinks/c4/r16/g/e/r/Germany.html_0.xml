@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r16/g/e/r/Germany.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/g/e/r/Germany.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital</th>]]></html>
+	<text>Capital</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area ( km²)</th>]]></html>
+	<text>Area ( km&#178;)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Baden-Württemberg</td>]]></html>
+	<text>Baden-W&#252;rttemberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stuttgart</td>]]></html>
+	<text>Stuttgart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,752</td>]]></html>
+	<text>35,752</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,717,000</td>]]></html>
+	<text>10,717,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bavaria (Bayern)</td>]]></html>
+	<text>Bavaria (Bayern)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Munich (München)</td>]]></html>
+	<text>Munich (M&#252;nchen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,549</td>]]></html>
+	<text>70,549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,444,000</td>]]></html>
+	<text>12,444,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>892</td>]]></html>
+	<text>892</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,400,000</td>]]></html>
+	<text>3,400,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brandenburg</td>]]></html>
+	<text>Brandenburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Potsdam</td>]]></html>
+	<text>Potsdam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29,477</td>]]></html>
+	<text>29,477</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,568,000</td>]]></html>
+	<text>2,568,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bremen</td>]]></html>
+	<text>Bremen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bremen</td>]]></html>
+	<text>Bremen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>404</td>]]></html>
+	<text>404</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>663,000</td>]]></html>
+	<text>663,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hamburg</td>]]></html>
+	<text>Hamburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamburg</td>]]></html>
+	<text>Hamburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>755</td>]]></html>
+	<text>755</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,735,000</td>]]></html>
+	<text>1,735,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hesse (Hessen)</td>]]></html>
+	<text>Hesse (Hessen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wiesbaden</td>]]></html>
+	<text>Wiesbaden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21,115</td>]]></html>
+	<text>21,115</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,098,000</td>]]></html>
+	<text>6,098,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mecklenburg-Vorpommern</td>]]></html>
+	<text>Mecklenburg-Vorpommern</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Schwerin</td>]]></html>
+	<text>Schwerin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,174</td>]]></html>
+	<text>23,174</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,720,000</td>]]></html>
+	<text>1,720,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lower Saxony (Niedersachsen)</td>]]></html>
+	<text>Lower Saxony (Niedersachsen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hanover (Hannover)</td>]]></html>
+	<text>Hanover (Hannover)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,618</td>]]></html>
+	<text>47,618</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,001,000</td>]]></html>
+	<text>8,001,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Rhine-Westphalia (Nordrhein-Westfalen)</td>]]></html>
+	<text>North Rhine-Westphalia (Nordrhein-Westfalen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Düsseldorf</td>]]></html>
+	<text>D&#252;sseldorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,043</td>]]></html>
+	<text>34,043</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,075,000</td>]]></html>
+	<text>18,075,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhineland-Palatinate (Rheinland-Pfalz)</td>]]></html>
+	<text>Rhineland-Palatinate (Rheinland-Pfalz)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mainz</td>]]></html>
+	<text>Mainz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,847</td>]]></html>
+	<text>19,847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,061,000</td>]]></html>
+	<text>4,061,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saarland</td>]]></html>
+	<text>Saarland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saarbrücken</td>]]></html>
+	<text>Saarbr&#252;cken</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,569</td>]]></html>
+	<text>2,569</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,056,000</td>]]></html>
+	<text>1,056,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saxony (Sachsen)</td>]]></html>
+	<text>Saxony (Sachsen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dresden</td>]]></html>
+	<text>Dresden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,416</td>]]></html>
+	<text>18,416</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,296,000</td>]]></html>
+	<text>4,296,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saxony-Anhalt (Sachsen-Anhalt)</td>]]></html>
+	<text>Saxony-Anhalt (Sachsen-Anhalt)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Magdeburg</td>]]></html>
+	<text>Magdeburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,445</td>]]></html>
+	<text>20,445</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,494,000</td>]]></html>
+	<text>2,494,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Schleswig-Holstein</td>]]></html>
+	<text>Schleswig-Holstein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiel</td>]]></html>
+	<text>Kiel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,763</td>]]></html>
+	<text>15,763</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,829,000</td>]]></html>
+	<text>2,829,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thuringia (Thüringen)</td>]]></html>
+	<text>Thuringia (Th&#252;ringen)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erfurt</td>]]></html>
+	<text>Erfurt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,172</td>]]></html>
+	<text>16,172</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,355,000</td>]]></html>
+	<text>2,355,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" style="text-align:left; font-size:90%"><tr style="font-size:100%; text-align:left"><th width="140px"><a href="../../../../articles/s/t/a/States_of_Germany_65c0.html" title="States of Germany">State</a></th><th width="80px"><a href="../../../../articles/c/a/p/Capital.html" title="Capital">Capital</a></th><th width="80px"><a href="../../../../articles/a/r/e/Area.html" title="Area">Area</a> (&#160;km²)</th><th width="80px"><a href="../../../../articles/p/o/p/Population.html" title="Population">Population</a></th></tr><tr><td><a href="../../../../articles/b/a/d/Baden-W%C3%BCrttemberg_3684.html" title="Baden-Württemberg">Baden-Württemberg</a></td><td><a href="../../../../articles/s/t/u/Stuttgart.html" title="Stuttgart">Stuttgart</a></td><td style="text-align:right">35,752</td><td style="text-align:right">10,717,000</td></tr><tr><td><a href="../../../../articles/b/a/v/Bavaria.html" title="Bavaria">Bavaria</a> <i>(Bayern)</i></td><td><a href="../../../../articles/m/u/n/Munich.html" title="Munich">Munich</a> <i>(München)</i></td><td style="text-align:right">70,549</td><td style="text-align:right">12,444,000</td></tr><tr><td><a href="../../../../articles/b/e/r/Berlin.html" title="Berlin">Berlin</a></td><td><a href="../../../../articles/b/e/r/Berlin.html" title="Berlin">Berlin</a></td><td style="text-align:right">892</td><td style="text-align:right">3,400,000</td></tr><tr><td><a href="../../../../articles/b/r/a/Brandenburg.html" title="Brandenburg">Brandenburg</a></td><td><a href="../../../../articles/p/o/t/Potsdam.html" title="Potsdam">Potsdam</a></td><td style="text-align:right">29,477</td><td style="text-align:right">2,568,000</td></tr><tr><td><a href="../../../../articles/b/r/e/Bremen_%28state%29.html" title="Bremen (state)">Bremen</a></td><td><a href="../../../../articles/b/r/e/Bremen.html" title="Bremen">Bremen</a></td><td style="text-align:right">404</td><td style="text-align:right">663,000</td></tr><tr><td><a href="../../../../articles/h/a/m/Hamburg.html" title="Hamburg">Hamburg</a></td><td><a href="../../../../articles/h/a/m/Hamburg.html" title="Hamburg">Hamburg</a></td><td style="text-align:right">755</td><td style="text-align:right">1,735,000</td></tr><tr><td><a href="../../../../articles/h/e/s/Hesse.html" title="Hesse">Hesse</a> <i>(Hessen)</i></td><td><a href="../../../../articles/w/i/e/Wiesbaden.html" title="Wiesbaden">Wiesbaden</a></td><td style="text-align:right">21,115</td><td style="text-align:right">6,098,000</td></tr><tr><td><a href="../../../../articles/m/e/c/Mecklenburg-Vorpommern_5a61.html" title="Mecklenburg-Vorpommern">Mecklenburg-Vorpommern</a></td><td><a href="../../../../articles/s/c/h/Schwerin.html" title="Schwerin">Schwerin</a></td><td style="text-align:right">23,174</td><td style="text-align:right">1,720,000</td></tr><tr><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a> <i>(Niedersachsen)</i></td><td><a href="../../../../articles/h/a/n/Hanover.html" title="Hanover">Hanover</a> <i>(Hannover)</i></td><td style="text-align:right">47,618</td><td style="text-align:right">8,001,000</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Rhine-Westphalia_29ea.html" title="North Rhine-Westphalia">North Rhine-Westphalia</a> <i>(Nordrhein-Westfalen)</i></td><td><a href="../../../../articles/d/%C3%BC/s/D%C3%BCsseldorf.html" title="Düsseldorf">Düsseldorf</a></td><td style="text-align:right">34,043</td><td style="text-align:right">18,075,000</td></tr><tr><td><a href="../../../../articles/r/h/i/Rhineland-Palatinate_0b91.html" title="Rhineland-Palatinate">Rhineland-Palatinate</a> <i>(Rheinland-Pfalz)</i></td><td><a href="../../../../articles/m/a/i/Mainz.html" title="Mainz">Mainz</a></td><td style="text-align:right">19,847</td><td style="text-align:right">4,061,000</td></tr><tr><td><a href="../../../../articles/s/a/a/Saarland.html" title="Saarland">Saarland</a></td><td><a href="../../../../articles/s/a/a/Saarbr%C3%BCcken.html" title="Saarbrücken">Saarbrücken</a></td><td style="text-align:right">2,569</td><td style="text-align:right">1,056,000</td></tr><tr><td><a href="../../../../articles/s/a/x/Saxony.html" title="Saxony">Saxony</a> <i>(Sachsen)</i></td><td><a href="../../../../articles/d/r/e/Dresden.html" title="Dresden">Dresden</a></td><td style="text-align:right">18,416</td><td style="text-align:right">4,296,000</td></tr><tr><td><a href="../../../../articles/s/a/x/Saxony-Anhalt_82ca.html" title="Saxony-Anhalt">Saxony-Anhalt</a> <i>(Sachsen-Anhalt)</i></td><td><a href="../../../../articles/m/a/g/Magdeburg.html" title="Magdeburg">Magdeburg</a></td><td style="text-align:right">20,445</td><td style="text-align:right">2,494,000</td></tr><tr><td><a href="../../../../articles/s/c/h/Schleswig-Holstein_b206.html" title="Schleswig-Holstein">Schleswig-Holstein</a></td><td><a href="../../../../articles/k/i/e/Kiel.html" title="Kiel">Kiel</a></td><td style="text-align:right">15,763</td><td style="text-align:right">2,829,000</td></tr><tr><td><a href="../../../../articles/t/h/u/Thuringia.html" title="Thuringia">Thuringia</a> <i>(Thüringen)</i></td><td><a href="../../../../articles/e/r/f/Erfurt.html" title="Erfurt">Erfurt</a></td><td style="text-align:right">16,172</td><td style="text-align:right">2,355,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

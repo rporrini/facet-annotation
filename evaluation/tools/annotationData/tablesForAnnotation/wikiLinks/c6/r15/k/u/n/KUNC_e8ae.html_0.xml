@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r15/k/u/n/KUNC_e8ae.html_0.xml" />
+<meta name="primaryKey" value="0.93333334 2, 0.9166667 2 3, 0.79444444 3, 0.7777778 2 4, 0.7 2 5, 0.6620371 3 4, 0.59583336 3 5, 0.13333334 1 2, 0.124444455 1, 0.11666667 0, 0.11666667 0 2, 0.11407408 1 3, 0.10694445 0 3, 0.10370371 1 4, 0.097222224 0 4, 0.09333334 1 5, 0.0875 0 5, 0.055555556 4, 0.050000004 5, 0.041666668 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/u/n/KUNC_e8ae.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K260AL</td>]]></html>
+	<text>K260AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.9</td>]]></html>
+	<text>99.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arvada, Colorado</td>]]></html>
+	<text>Arvada, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>205 watts</td>]]></html>
+	<text>205 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K202CV</td>]]></html>
+	<text>K202CV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.3</td>]]></html>
+	<text>88.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Breckenridge, Colorado</td>]]></html>
+	<text>Breckenridge, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40 watts</td>]]></html>
+	<text>40 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K210AY</td>]]></html>
+	<text>K210AY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.9</td>]]></html>
+	<text>89.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buena Vista, Colorado</td>]]></html>
+	<text>Buena Vista, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>78 watts</td>]]></html>
+	<text>78 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K296CL</td>]]></html>
+	<text>K296CL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107.1</td>]]></html>
+	<text>107.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dillon, Colorado</td>]]></html>
+	<text>Dillon, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K215BE</td>]]></html>
+	<text>K215BE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estes Park, Colorado</td>]]></html>
+	<text>Estes Park, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18 watts</td>]]></html>
+	<text>18 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K259AC</td>]]></html>
+	<text>K259AC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.7</td>]]></html>
+	<text>99.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gypsum, Colorado</td>]]></html>
+	<text>Gypsum, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>249 watts</td>]]></html>
+	<text>249 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K213EJ</td>]]></html>
+	<text>K213EJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.5</td>]]></html>
+	<text>90.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Holyoke, Colorado</td>]]></html>
+	<text>Holyoke, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>134 watts</td>]]></html>
+	<text>134 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K206BD</td>]]></html>
+	<text>K206BD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.1</td>]]></html>
+	<text>89.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Julesburg, Colorado</td>]]></html>
+	<text>Julesburg, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74 watts</td>]]></html>
+	<text>74 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K219DX</td>]]></html>
+	<text>K219DX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.7</td>]]></html>
+	<text>91.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leadville, Colorado</td>]]></html>
+	<text>Leadville, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62 watts</td>]]></html>
+	<text>62 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K212FN</td>]]></html>
+	<text>K212FN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.3</td>]]></html>
+	<text>90.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lone Star, Colorado</td>]]></html>
+	<text>Lone Star, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92 watts</td>]]></html>
+	<text>92 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K201HP</td>]]></html>
+	<text>K201HP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steamboat Springs, Colorado</td>]]></html>
+	<text>Steamboat Springs, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>225 watts</td>]]></html>
+	<text>225 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K214AK</td>]]></html>
+	<text>K214AK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.7</td>]]></html>
+	<text>90.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steamboat Springs, Colorado</td>]]></html>
+	<text>Steamboat Springs, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>77 watts</td>]]></html>
+	<text>77 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K214AW</td>]]></html>
+	<text>K214AW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.7</td>]]></html>
+	<text>90.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walden, Colorado</td>]]></html>
+	<text>Walden, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>77 watts</td>]]></html>
+	<text>77 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K228DL</td>]]></html>
+	<text>K228DL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93.5</td>]]></html>
+	<text>93.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wray, Colorado</td>]]></html>
+	<text>Wray, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74 watts</td>]]></html>
+	<text>74 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K204BH</td>]]></html>
+	<text>K204BH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yuma, Colorado</td>]]></html>
+	<text>Yuma, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113 watts</td>]]></html>
+	<text>113 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KUNC - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87281626</score>
+	<text>In addition to the main station, KUNC is relayed by an additional 15 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.8028651</score>
+	<text>KUNC</text>
+</context>
+<context>
+	<score>0.7816678</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7816678</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7816678</score>
+	<text>[ edit ] Programming</text>
+</context>
+<context>
+	<score>0.7816678</score>
+	<text>[ edit ] External Links</text>
+</context>
+<context>
+	<score>0.7487497</score>
+	<text>[ edit ] External Links</text>
+</context>
+<context>
+	<score>0.73206615</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.72146755</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7002702</score>
+	<text>KUNC broadcasts programming from National Public Radio , Public Radio International , the BBC , and other public radio producers, as well as locally-produced news, commentary, and music programming termed &quot;Diverse music&quot;.</text>
+</context>
+<context>
+	<score>0.6351521</score>
+	<text>[ edit ] Programming</text>
+</context>
+<context>
+	<score>0.58305764</score>
+	<text>KUNC began operations on January 6, 1967 at the University of Northern Colorado as station KCBL. The station was owned and operated by the University until the winter of 2001. During the Fall of 2000, the University announced its intention to sell KUNC in an effort to save money. Colorado Public Radio in Denver, Colorado , agreed to purchase the station from the University. However, an upwelling of support from the local Northern Colorado community as well as a concerted effort by staff at the station, targeted at &quot;keeping community radio local,&quot; led to a fundraising effort which produced a counter-offer from the newly formed Community Radio for Northern Colorado.</text>
+</context>
+<context>
+	<score>0.5413821</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.5041157</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.49744293</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.48136923</score>
+	<text>KUNC is a public radio station broadcasting from Greeley, Colorado and billing itself as &quot;Community Radio for Northern Colorado&quot;. KUNC is operated by Community Radio for Northern Colorado, a 501(c)(3) Colorado non-profit organization. KUNC broadcasts at 91.5 MHz FM.</text>
+</context>
+<context>
+	<score>0.4812286</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.46415833</score>
+	<text>KUNC</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K260AL</b></td><td>99.9</td><td><a href="../../../../articles/a/r/v/Arvada%2C_Colorado_ee54.html" title="Arvada, Colorado">Arvada, Colorado</a></td><td>205 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K260AL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K260AL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K260AL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K260AL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K202CV</b></td><td>88.3</td><td><a href="../../../../articles/b/r/e/Breckenridge%2C_Colorado_78c3.html" title="Breckenridge, Colorado">Breckenridge, Colorado</a></td><td>40 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K202CV" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K202CV" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202CV" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202CV" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K210AY</b></td><td>89.9</td><td><a href="../../../../articles/b/u/e/Buena_Vista%2C_Colorado_9627.html" title="Buena Vista, Colorado">Buena Vista, Colorado</a></td><td>78 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K210AY" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K210AY" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K210AY" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K210AY" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K296CL</b></td><td>107.1</td><td><a href="../../../../articles/d/i/l/Dillon%2C_Colorado_9277.html" title="Dillon, Colorado">Dillon, Colorado</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K296CL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K296CL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K296CL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K296CL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K215BE</b></td><td>90.9</td><td><a href="../../../../articles/e/s/t/Estes_Park%2C_Colorado_7d37.html" title="Estes Park, Colorado">Estes Park, Colorado</a></td><td>18 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K215BE" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K215BE" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215BE" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215BE" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K259AC</b></td><td>99.7</td><td><a href="../../../../articles/g/y/p/Gypsum%2C_Colorado_8929.html" title="Gypsum, Colorado">Gypsum, Colorado</a></td><td>249 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K259AC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K259AC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K259AC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K259AC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K213EJ</b></td><td>90.5</td><td><a href="../../../../articles/h/o/l/Holyoke%2C_Colorado_342e.html" title="Holyoke, Colorado">Holyoke, Colorado</a></td><td>134 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K213EJ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K213EJ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K213EJ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K213EJ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K206BD</b></td><td>89.1</td><td><a href="../../../../articles/j/u/l/Julesburg%2C_Colorado_5746.html" title="Julesburg, Colorado">Julesburg, Colorado</a></td><td>74 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K206BD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K206BD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K206BD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K206BD" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K219DX</b></td><td>91.7</td><td><a href="../../../../articles/l/e/a/Leadville%2C_Colorado_7c04.html" title="Leadville, Colorado">Leadville, Colorado</a></td><td>62 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K219DX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K219DX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K219DX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K219DX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K212FN</b></td><td>90.3</td><td>Lone Star, Colorado</td><td>92 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K212FN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K212FN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212FN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212FN" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K201HP</b></td><td>88.1</td><td><a href="../../../../articles/s/t/e/Steamboat_Springs%2C_Colorado_12e0.html" title="Steamboat Springs, Colorado">Steamboat Springs, Colorado</a></td><td>225 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K201HP" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K201HP" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HP" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HP" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K214AK</b></td><td>90.7</td><td><a href="../../../../articles/s/t/e/Steamboat_Springs%2C_Colorado_12e0.html" title="Steamboat Springs, Colorado">Steamboat Springs, Colorado</a></td><td>77 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K214AK" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K214AK" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214AK" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214AK" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K214AW</b></td><td>90.7</td><td><a href="../../../../articles/w/a/l/Walden%2C_Colorado_8372.html" title="Walden, Colorado">Walden, Colorado</a></td><td>77 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K214AW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K214AW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214AW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214AW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K228DL</b></td><td>93.5</td><td><a href="../../../../articles/w/r/a/Wray%2C_Colorado_2402.html" title="Wray, Colorado">Wray, Colorado</a></td><td>74 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K228DL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K228DL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K228DL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K228DL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K204BH</b></td><td>88.7</td><td><a href="../../../../articles/y/u/m/Yuma%2C_Colorado_b8c6.html" title="Yuma, Colorado">Yuma, Colorado</a></td><td>113 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K204BH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K204BH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204BH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204BH" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

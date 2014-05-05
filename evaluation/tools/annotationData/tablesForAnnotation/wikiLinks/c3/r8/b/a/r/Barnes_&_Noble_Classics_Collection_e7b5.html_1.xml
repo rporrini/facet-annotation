@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/b/a/r/Barnes_&amp;_Noble_Classics_Collection_e7b5.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/a/r/Barnes_&amp;_Noble_Classics_Collection_e7b5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Author</th>]]></html>
+	<text>Author</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ISBN</th>]]></html>
+	<text>ISBN</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A Connecticut Yankee in King Arthur's Court</td>]]></html>
+	<text>A Connecticut Yankee in King Arthur&amp;apos;s Court</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Twain</td>]]></html>
+	<text>Mark Twain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-56619-706-6</td>]]></html>
+	<text>1-56619-706-6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Awakening and Other Short Stories</td>]]></html>
+	<text>The Awakening and Other Short Stories</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kate Chopin</td>]]></html>
+	<text>Kate Chopin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-56619-553-5</td>]]></html>
+	<text>1-56619-553-5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Hunchback of Notre Dame</td>]]></html>
+	<text>The Hunchback of Notre Dame</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Victor Hugo</td>]]></html>
+	<text>Victor Hugo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-0167-9</td>]]></html>
+	<text>0-7607-0167-9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jude the Obscure</td>]]></html>
+	<text>Jude the Obscure</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thomas Hardy</td>]]></html>
+	<text>Thomas Hardy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-0299-3</td>]]></html>
+	<text>0-7607-0299-3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Moon and Sixpence</td>]]></html>
+	<text>The Moon and Sixpence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>W. Somerset Maugham</td>]]></html>
+	<text>W. Somerset Maugham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-56619-753-8</td>]]></html>
+	<text>1-56619-753-8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Moonstone</td>]]></html>
+	<text>The Moonstone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilkie Collins</td>]]></html>
+	<text>Wilkie Collins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-56619-092-4</td>]]></html>
+	<text>1-56619-092-4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sons and Lovers</td>]]></html>
+	<text>Sons and Lovers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D. H. Lawrence</td>]]></html>
+	<text>D. H. Lawrence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-0186-5</td>]]></html>
+	<text>0-7607-0186-5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Winesburg, Ohio</td>]]></html>
+	<text>Winesburg, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sherwood Anderson</td>]]></html>
+	<text>Sherwood Anderson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-56619-751-1</td>]]></html>
+	<text>1-56619-751-1</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Barnes &amp; Noble Classics Collection - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Author ISBN</text>
+</context>
+<context>
+	<score>0.88562465</score>
+	<text>[ edit ] Additional cream dustjacket classics by title</text>
+</context>
+<context>
+	<score>0.79629606</score>
+	<text>Barnes &amp; Noble Classics Collection</text>
+</context>
+<context>
+	<score>0.78109425</score>
+	<text>Most books that have black Dustjackets were included in the cream dustjacket collection. The only two known exceptions that are not in Cream dustjackets are James Joyce&apos;s &quot;Dubliners&quot; and &quot;A Portrait of the Artist as a Young Man&quot;, which for some reason are black dustjacket only.</text>
+</context>
+<context>
+	<score>0.7568566</score>
+	<text>[ edit ] Children&apos;s hardcover collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] Black dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] Cream dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] Children&apos;s hardcover collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] Modern Classics hardcover collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] Current Classics collection</text>
+</context>
+<context>
+	<score>0.72570187</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7184629</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7105001</score>
+	<text>[ edit ] Cream dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.64823353</score>
+	<text>[ edit ] Books in the black dustjacket collection by title</text>
+</context>
+<context>
+	<score>0.6095729</score>
+	<text>[ edit ] Children&apos;s Classics by title</text>
+</context>
+<context>
+	<score>0.5984204</score>
+	<text>[ edit ] Black dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.5513308</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52668935</score>
+	<text>In 2003, Barnes &amp; Noble released a completely new Classics collection but this time released them first in trade paperback and mass market paperback , and then finally hardcover. This collection included all previously published works plus expands on the amount of titles available each month as of October 2005.</text>
+</context>
+<context>
+	<score>0.52293533</score>
+	<text>[ edit ] Modern Classics hardcover collection</text>
+</context>
+<context>
+	<score>0.49394605</score>
+	<text>During this same period of black and cream dustjackets, Barnes &amp; Noble released a Children&apos;s Literature Classics series. Several of these titles overlapped from the Adult collection. It is important to note that these are no longer in print and are not in stock at Barnes &amp; Noble. They can most often be found from Out of Print book stores or sites like Barnes &amp; Noble BookQuest (from independent sellers) or from their &quot;Sales Annex&quot; section.</text>
+</context>
+<context>
+	<score>0.47354254</score>
+	<text>For each black dustjacket hardcover you can expect the same type of characteristics. There is a picture of some sort overlapping a black diamond centered on the front of the book. The outside of the diamond in between the picture and the gold rectangle is a color. For each book the color can be different. The spine of the book features the title in gold lettering, and both the author and &quot;Barnes &amp; Noble&quot; in white lettering. The back of the book is the same as the front, but without the picture. Instead, a passage from the book is included, and the ISBN/bar code is located at the bottom of the diamond overlapping the background.</text>
+</context>
+<context>
+	<score>0.47197214</score>
+	<text>[ edit ] Modern Classics by title</text>
+</context>
+<context>
+	<score>0.4644587</score>
+	<text>Barnes &amp; Noble began releasing adult literature classics around 1992 (according to copyright dates found in some of the books). The collection comprised 63 classics with two separate types of dustjackets: black and cream. The cream dustjacket collection appears to be exactly the same as the black dustjacket collection except with a few more included titles. This is due to the fact that cream colored dustjackets were produced first. In late 1997 or early 1998 the dustjackets were converted to the Black format.</text>
+</context>
+<context>
+	<score>0.45936328</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Title</th><th>Author</th><th><a href="../../../../articles/i/n/t/International_Standard_Book_Number_c023.html" title="International Standard Book Number">ISBN</a></th></tr><tr><td><i><a href="../../../../articles/a/_/c/A_Connecticut_Yankee_in_King_Arthur%27s_Court_f313.html" title="A Connecticut Yankee in King Arthur's Court">A Connecticut Yankee in King Arthur's Court</a></i></td><td><a href="../../../../articles/m/a/r/Mark_Twain_2795.html" title="Mark Twain">Mark Twain</a></td><td>1-56619-706-6</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Awakening_%28novel%29_d0b4.html" title="The Awakening (novel)">The Awakening <i>and Other Short Stories</i></a></i></td><td><a href="../../../../articles/k/a/t/Kate_Chopin_7d64.html" title="Kate Chopin">Kate Chopin</a></td><td>1-56619-553-5</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Hunchback_of_Notre_Dame_a42b.html" title="The Hunchback of Notre Dame">The Hunchback of Notre Dame</a></i></td><td><a href="../../../../articles/v/i/c/Victor_Hugo_5093.html" title="Victor Hugo">Victor Hugo</a></td><td>0-7607-0167-9</td></tr><tr><td><i><a href="../../../../articles/j/u/d/Jude_the_Obscure_83a9.html" title="Jude the Obscure">Jude the Obscure</a></i></td><td><a href="../../../../articles/t/h/o/Thomas_Hardy_e670.html" title="Thomas Hardy">Thomas Hardy</a></td><td>0-7607-0299-3</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Moon_and_Sixpence_adc8.html" title="The Moon and Sixpence">The Moon and Sixpence</a></i></td><td><a href="../../../../articles/w/2E/_/W._Somerset_Maugham_0e2f.html" title="W. Somerset Maugham">W. Somerset Maugham</a></td><td>1-56619-753-8</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Moonstone_7309.html" title="The Moonstone">The Moonstone</a></i></td><td><a href="../../../../articles/w/i/l/Wilkie_Collins_9173.html" title="Wilkie Collins">Wilkie Collins</a></td><td>1-56619-092-4</td></tr><tr><td><i><a href="../../../../articles/s/o/n/Sons_and_Lovers_e8ea.html" title="Sons and Lovers">Sons and Lovers</a></i></td><td><a href="../../../../articles/d/2E/_/D._H._Lawrence_0e8c.html" title="D. H. Lawrence">D. H. Lawrence</a></td><td>0-7607-0186-5</td></tr><tr><td><i><a href="../../../../articles/w/i/n/Winesburg%2C_Ohio_%28novel%29_3a4b.html" title="Winesburg, Ohio (novel)">Winesburg, Ohio</a></i></td><td><a href="../../../../articles/s/h/e/Sherwood_Anderson_b1c7.html" title="Sherwood Anderson">Sherwood Anderson</a></td><td>1-56619-751-1</td></tr></table>]]>
+</htmlSnippet>
+</entity>

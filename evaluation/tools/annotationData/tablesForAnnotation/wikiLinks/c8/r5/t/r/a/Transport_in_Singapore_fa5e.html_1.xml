@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r5/t/r/a/Transport_in_Singapore_fa5e.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 1, 0.9375 0 1, 0.875 2, 0.875 0 2, 0.8203125 1 2, 0.8125 0 3, 0.76171875 1 3, 0.75 0 4, 0.7109375 2 3, 0.703125 1 4, 0.6875 0 7, 0.65625 2 4, 0.64453125 1 7, 0.6015625 2 7, 0.446875 3 7, 0.41250002 7, 0.32500002 3, 0.30937502 4 7, 0.24375 3 4, 0.15 4, 0.125 5, 0.125 0 5, 0.1171875 1 5, 0.112500004 6, 0.112500004 0 6, 0.109375 2 5, 0.10546875 1 6, 0.1015625 3 5, 0.0984375 2 6, 0.09375 4 5, 0.09140625 3 6, 0.0859375 5 7, 0.084375 4 6, 0.077343754 6 7, 0.014062501 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/a/Transport_in_Singapore_fa5e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Airport</th>]]></html>
+	<text>Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Usage</th>]]></html>
+	<text>Usage</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Runway</th>]]></html>
+	<text>Runway</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length (ft)</th>]]></html>
+	<text>Length (ft)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length (m)</th>]]></html>
+	<text>Length (m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Remarks</th>]]></html>
+	<text>Remarks</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paya Lebar Air Base</td>]]></html>
+	<text>Paya Lebar Air Base</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WSAP</td>]]></html>
+	<text>WSAP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QPG</td>]]></html>
+	<text>QPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paved</td>]]></html>
+	<text>Paved</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12400</td>]]></html>
+	<text>12400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3800 m</td>]]></html>
+	<text>3800 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former civilian</td>]]></html>
+	<text>Former civilian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seletar Airport</td>]]></html>
+	<text>Seletar Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WSSL</td>]]></html>
+	<text>WSSL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XSP</td>]]></html>
+	<text>XSP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Civilian</td>]]></html>
+	<text>Civilian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paved</td>]]></html>
+	<text>Paved</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5300</td>]]></html>
+	<text>5300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1615</td>]]></html>
+	<text>1615</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mainly non-scheduled flights</td>]]></html>
+	<text>Mainly non-scheduled flights</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sembawang Air Base</td>]]></html>
+	<text>Sembawang Air Base</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WSAG</td>]]></html>
+	<text>WSAG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paved</td>]]></html>
+	<text>Paved</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3000</td>]]></html>
+	<text>3000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>914</td>]]></html>
+	<text>914</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Singapore Changi Airport</td>]]></html>
+	<text>Singapore Changi Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WSSS</td>]]></html>
+	<text>WSSS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SIN</td>]]></html>
+	<text>SIN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Civilian</td>]]></html>
+	<text>Civilian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paved</td>]]></html>
+	<text>Paved</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13200</td>]]></html>
+	<text>13200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4000</td>]]></html>
+	<text>4000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tengah Air Base</td>]]></html>
+	<text>Tengah Air Base</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WSAT</td>]]></html>
+	<text>WSAT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TGA</td>]]></html>
+	<text>TGA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paved</td>]]></html>
+	<text>Paved</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8900</td>]]></html>
+	<text>8900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2713</td>]]></html>
+	<text>2713</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Airport and airbase technical data</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Transport in Singapore - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Airport ICAO IATA Usage Runway Length (ft) Length (m) Remarks</text>
+</context>
+<context>
+	<score>0.8809506</score>
+	<text>Seletar Airport is Singapore&apos;s first civil aviation airport and is primarily used for private aviation today. The airport also serves limited scheduled commercial flights by Berjaya Air to the Malaysian islands of Pulau Tioman and Pulau Redang</text>
+</context>
+<context>
+	<score>0.7969667</score>
+	<text>Transport in Singapore</text>
+</context>
+<context>
+	<score>0.78181493</score>
+	<text>. With the recent opening of the third terminal, Changi is now capable of handling 64 million passengers every year.</text>
+</context>
+<context>
+	<score>0.75260645</score>
+	<text>[ edit ] Heliports Main article: List of heliports in Singapore</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] Pre and post world wars</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] Transportation within Singapore</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] Public transportation</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] International transport links</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7215543</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193898</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7064026</score>
+	<text>Singapore Changi Airport , with its four terminals (including one budget terminal), is one of the most important air hubs in the region. The international airport is situated at the eastern most tip of the main island, and serves 185 cities in 58 countries</text>
+</context>
+<context>
+	<score>0.644341</score>
+	<text>[ edit ] Airports Main article: List of airports in Singapore</text>
+</context>
+<context>
+	<score>0.6058076</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.59469175</score>
+	<text>There are currently 5 local scheduled service airlines, all of them operating out of Singapore Changi Airport, offering scheduled flights to over 70 cities on 5 continents. The national flag carrier, Singapore Airlines currently operates out of Changi Airport Terminal 2 and 3. Its subsidiary, SilkAir , operate out of Changi Airport Terminal 2. Singapore&apos;s two budget airlines, Jetstar Asia and Valuair , currently operate out of Changi Airport Terminal 1. Only one budget airline, Tiger Airways , has chosen to operate at the Budget Terminal; other budget airlines have cited various reasons for not shifting operations to the Budget terminal, including accessibility and ease of transfers to connecting flights.</text>
+</context>
+<context>
+	<score>0.5549724</score>
+	<text>[ edit ] Airlines</text>
+</context>
+<context>
+	<score>0.5210324</score>
+	<text>An open skies agreement was concluded with the United Kingdom in October 2007 permitting unrestricted services from Singapore by UK carriers. Singapore carriers were allowed to operate domestic UK services as well as services beyond London Heathrow to a number of destinations, including the United States.</text>
+</context>
+<context>
+	<score>0.51945525</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.4977765</score>
+	<text>Singapore aims to be Asia&apos;s aviation hub chiefly via the promotion of liberal aviation policies in a bid to encourage airlines to commence and maintain operations there. The aviation industry is regulated by the Civil Aviation Authority of Singapore , a statutory board of the Singapore government under the Ministry of Transport .</text>
+</context>
+<context>
+	<score>0.47527567</score>
+	<text>Control tower of Singapore Changi Airport</text>
+</context>
+<context>
+	<score>0.46117112</score>
+	<text>Singapore Airlines Airbus A380 at Singapore Changi Airport</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table width="100%" align="center" cellpadding="1"><caption><b>Airport and airbase technical data</b><br /></caption><tr><th style="background:#efefef;">Airport</th><th style="background:#efefef;">ICAO</th><th style="background:#efefef;">IATA</th><th style="background:#efefef;">Usage</th><th style="background:#efefef;">Runway</th><th style="background:#efefef;">Length<br />(ft)</th><th style="background:#efefef;">Length<br />(m)</th><th style="background:#efefef;">Remarks</th></tr><tr><td><a href="../../../../articles/p/a/y/Paya_Lebar_Air_Base_73d8.html" title="Paya Lebar Air Base">Paya Lebar Air Base</a></td><td>WSAP</td><td>QPG</td><td>Military</td><td>Paved</td><td>12400</td><td>3800 m</td><td>Former civilian</td></tr><tr><td><a href="../../../../articles/s/e/l/Seletar_Airport_f8eb.html" title="Seletar Airport">Seletar Airport</a></td><td>WSSL</td><td>XSP</td><td>Civilian</td><td>Paved</td><td>5300</td><td>1615</td><td>Mainly non-scheduled flights</td></tr><tr><td><a href="../../../../articles/s/e/m/Sembawang_Air_Base_a0fb.html" title="Sembawang Air Base">Sembawang Air Base</a></td><td>WSAG</td><td></td><td>Military</td><td>Paved</td><td>3000</td><td>914</td><td></td></tr><tr><td><a href="../../../../articles/s/i/n/Singapore_Changi_Airport_b9da.html" title="Singapore Changi Airport">Singapore Changi Airport</a></td><td>WSSS</td><td>SIN</td><td>Civilian</td><td>Paved</td><td>13200</td><td>4000</td><td></td></tr><tr><td><a href="../../../../articles/t/e/n/Tengah_Air_Base_eb18.html" title="Tengah Air Base">Tengah Air Base</a></td><td>WSAT</td><td>TGA</td><td>Military</td><td>Paved</td><td>8900</td><td>2713</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

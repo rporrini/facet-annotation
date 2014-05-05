@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/d/e/a/Deadline_(reality_TV_series)_91d8.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.74999994 1, 0.6666667 0 2, 0.6 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/e/a/Deadline_(reality_TV_series)_91d8.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Participant</th>]]></html>
+	<text>Participant</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Occupation</th>]]></html>
+	<text>Occupation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Order</th>]]></html>
+	<text>Order</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iwan Thomas</td>]]></html>
+	<text>Iwan Thomas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Olympic Athlete</td>]]></html>
+	<text>Olympic Athlete</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winner</td>]]></html>
+	<text>Winner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yvette Fielding</td>]]></html>
+	<text>Yvette Fielding</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Television presenter</td>]]></html>
+	<text>Television presenter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Runner-up</td>]]></html>
+	<text>Runner-up</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dom Joly</td>]]></html>
+	<text>Dom Joly</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedian</td>]]></html>
+	<text>Comedian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Finalist</td>]]></html>
+	<text>Finalist</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ingrid Tarrant</td>]]></html>
+	<text>Ingrid Tarrant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Television personality</td>]]></html>
+	<text>Television personality</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Finalist</td>]]></html>
+	<text>Finalist</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dean Holdsworth</td>]]></html>
+	<text>Dean Holdsworth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football player</td>]]></html>
+	<text>Football player</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 6th</td>]]></html>
+	<text>Sacked 6th</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Imogen Lloyd Webber</td>]]></html>
+	<text>Imogen Lloyd Webber</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Author</td>]]></html>
+	<text>Author</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 5th</td>]]></html>
+	<text>Sacked 5th</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Abi Titmuss</td>]]></html>
+	<text>Abi Titmuss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Model and presenter</td>]]></html>
+	<text>Model and presenter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 4th</td>]]></html>
+	<text>Sacked 4th</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Blair McDonough</td>]]></html>
+	<text>Blair McDonough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Actor</td>]]></html>
+	<text>Actor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 3rd</td>]]></html>
+	<text>Sacked 3rd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lisa I'Anson</td>]]></html>
+	<text>Lisa I&amp;apos;Anson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DJ and presenter</td>]]></html>
+	<text>DJ and presenter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 2nd</td>]]></html>
+	<text>Sacked 2nd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Christopher Parker</td>]]></html>
+	<text>Christopher Parker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Actor</td>]]></html>
+	<text>Actor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacked 1st</td>]]></html>
+	<text>Sacked 1st</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Deadline (reality TV series) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Participant Occupation Order</text>
+</context>
+<context>
+	<score>0.8850837</score>
+	<text>[ edit ] Celebrity participants</text>
+</context>
+<context>
+	<score>0.8015908</score>
+	<text>Deadline (reality TV series)</text>
+</context>
+<context>
+	<score>0.7853596</score>
+	<text>The final week of constructing the magazine consisted of just four celebrities. In the final minutes of the time working on the magazine, the four remaining celebrities were asked to enter the boardroom and two were told that they had not made the final two. The two who were believed to have performed the best on the magazine were asked to open an envelope which contained a the final copy of the magazine, where they would see the winner&apos;s face printed on the front page. The winner of the series received a 50,000 &quot;bonus&quot;.</text>
+</context>
+<context>
+	<score>0.753096</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7315502</score>
+	<text>[ edit ] Content</text>
+</context>
+<context>
+	<score>0.7315502</score>
+	<text>[ edit ] Celebrity participants</text>
+</context>
+<context>
+	<score>0.7315502</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7055804</score>
+	<text>Each week, chief editor Janet Street-Porter , picture editor Darryn Lyons and copy-editor Joe Mott were then required to decide on three celebrities who had performed the poorest and consequently sack one of the three celebrity journalists, basing their decision on their overall performance and participation within the formation of the magazine edition. When it was time to reveal the celebrity who was going to be sacked, Street-Porter called all of the remaining celebrities into the board room and gave the three chosen for a potential sacking, to justify why they should stay on the magazine. With no further discussion, Street-Porter instructed one of them to &quot;clear your desk.&quot;</text>
+</context>
+<context>
+	<score>0.6417571</score>
+	<text>Throughout the reality series, ten celebrities had to compile and construct a celebrity based magazine called Deadline , which was then be added as a supplement in weekly issues of Closer magazine . Each week, the celebrity figures had to fill the twelve empty pages of their Deadline magazine with real-life stories, celebrity gossip and celebrity photographs. The magazine was required to consist of one real-life story, a celebrity interview and a gossip page. These ten celebrities were also required to take celebrity photos themselves and therefore become acquainted with a high-tech camera and establish themselves as a temporary member of the paparazzi . They had to photograph every celebrity they encountered and secure the picture for the all important front page.</text>
+</context>
+<context>
+	<score>0.6021297</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.59069836</score>
+	<text>[ edit ] Content</text>
+</context>
+<context>
+	<score>0.54985136</score>
+	<text>Deadline is a reality television series, aired on ITV2 during April and May 2007 . It featured ten celebrities compiling a magazine with Janet Street-Porter as the editor-in-chief.</text>
+</context>
+<context>
+	<score>0.5171738</score>
+	<text>For other uses, see Deadline .</text>
+</context>
+<context>
+	<score>0.5072629</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.48634923</score>
+	<text>Deadline (reality TV series)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" border="1" cellpadding="4"><tr><th>Participant</th><th>Occupation</th><th>Order</th></tr><tr><td><a href="../../../../articles/i/w/a/Iwan_Thomas_5141.html" title="Iwan Thomas">Iwan Thomas</a></td><td><a href="../../../../articles/a/t/h/Athletics_%28track_and_field%29.html" title="Athletics (track and field)">Olympic Athlete</a></td><td>Winner</td></tr><tr><td><a href="../../../../articles/y/v/e/Yvette_Fielding_e1fa.html" title="Yvette Fielding">Yvette Fielding</a></td><td><a href="../../../../articles/t/e/l/Television_presenter.html" class="mw-redirect" title="Television presenter">Television presenter</a></td><td>Runner-up</td></tr><tr><td><a href="../../../../articles/d/o/m/Dom_Joly_9c50.html" title="Dom Joly">Dom Joly</a></td><td><a href="../../../../articles/c/o/m/Comedian.html" title="Comedian">Comedian</a></td><td>Finalist</td></tr><tr><td><a href="../../../../articles/i/n/g/Ingrid_Tarrant_f3eb.html" title="Ingrid Tarrant">Ingrid Tarrant</a></td><td><a href="../../../../articles/c/e/l/Celebrity.html" title="Celebrity">Television personality</a></td><td>Finalist</td></tr><tr><td><a href="../../../../articles/d/e/a/Dean_Holdsworth_acce.html" title="Dean Holdsworth">Dean Holdsworth</a></td><td><a href="../../../../articles/f/o/o/Football_player.html" title="Football player">Football player</a></td><td>Sacked 6th</td></tr><tr><td><a href="../../../../articles/i/m/o/Imogen_Lloyd_Webber_0bda.html" title="Imogen Lloyd Webber">Imogen Lloyd Webber</a></td><td><a href="../../../../articles/a/u/t/Author.html" title="Author">Author</a></td><td>Sacked 5th</td></tr><tr><td><a href="../../../../articles/a/b/i/Abi_Titmuss_5c1d.html" title="Abi Titmuss">Abi Titmuss</a></td><td><a href="../../../../articles/m/o/d/Model_%28person%29.html" title="Model (person)">Model</a> and presenter</td><td>Sacked 4th</td></tr><tr><td><a href="../../../../articles/b/l/a/Blair_McDonough_42d7.html" title="Blair McDonough">Blair McDonough</a></td><td><a href="../../../../articles/a/c/t/Actor.html" title="Actor">Actor</a></td><td>Sacked 3rd</td></tr><tr><td><a href="../../../../articles/l/i/s/Lisa_I%27Anson_2510.html" title="Lisa I'Anson">Lisa I'Anson</a></td><td><a href="../../../../articles/d/j/_/DJ_27a5.html" class="mw-redirect" title="DJ">DJ</a> and presenter</td><td>Sacked 2nd</td></tr><tr><td><a href="../../../../articles/c/h/r/Christopher_Parker_bc11.html" title="Christopher Parker">Christopher Parker</a></td><td>Actor</td><td>Sacked 1st</td></tr></table>]]>
+</htmlSnippet>
+</entity>

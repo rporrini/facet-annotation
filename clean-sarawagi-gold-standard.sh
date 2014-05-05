@@ -1,0 +1,1 @@
+for file in evaluation/sarawagi-gold-standard/*; do sort --u "$file" | cut -d "(" -f1 | sed 's/&apos;/'\''/g' | sed 's/&amp;apos;/'\''/g' | sed 's/&amp;amp;/\n/g' > "evaluation/sarawagi-gold-standard-enhanced/${file##*/}";  done;

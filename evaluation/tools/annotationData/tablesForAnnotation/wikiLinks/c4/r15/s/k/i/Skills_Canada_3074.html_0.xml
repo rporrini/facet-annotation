@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r15/s/k/i/Skills_Canada_3074.html_0.xml" />
+<meta name="primaryKey" value="0.8 1, 0.7583333 1 2, 0.52500004 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/k/i/Skills_Canada_3074.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Competition</th>]]></html>
+	<text>Competition</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portage</td>]]></html>
+	<text>Portage</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prince Edward Island</td>]]></html>
+	<text>Prince Edward Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2009</td>]]></html>
+	<text>2009</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calgary</td>]]></html>
+	<text>Calgary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saskatoon</td>]]></html>
+	<text>Saskatoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2007</td>]]></html>
+	<text>2007</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Halifax</td>]]></html>
+	<text>Halifax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmonton</td>]]></html>
+	<text>Edmonton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winnipeg</td>]]></html>
+	<text>Winnipeg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kitchener</td>]]></html>
+	<text>Kitchener</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver</td>]]></html>
+	<text>Vancouver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmonton</td>]]></html>
+	<text>Edmonton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec City</td>]]></html>
+	<text>Quebec City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kitchener</td>]]></html>
+	<text>Kitchener</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999</td>]]></html>
+	<text>1999</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver</td>]]></html>
+	<text>Vancouver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Colombia</td>]]></html>
+	<text>British Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red Deer</td>]]></html>
+	<text>Red Deer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997</td>]]></html>
+	<text>1997</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montreal</td>]]></html>
+	<text>Montreal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamilton</td>]]></html>
+	<text>Hamilton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1995</td>]]></html>
+	<text>1995</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Skills Canada - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Competition City Province Year</text>
+</context>
+<context>
+	<score>0.85557216</score>
+	<text>Canada is set to host the world in 2009, when Calgary is home to World Skills . To date, fourteen national competitions have been held, with the next being held in Charlottetown, Prince Edward Island.</text>
+</context>
+<context>
+	<score>0.74922085</score>
+	<text>Skills Canada</text>
+</context>
+<context>
+	<score>0.72952616</score>
+	<text>[ edit ] Competitions</text>
+</context>
+<context>
+	<score>0.6887466</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.6615138</score>
+	<text>[ edit ] Competition areas</text>
+</context>
+<context>
+	<score>0.6615138</score>
+	<text>[ edit ] Competitions</text>
+</context>
+<context>
+	<score>0.64838403</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6286893</score>
+	<text>[ edit ] Transportation Sector</text>
+</context>
+<context>
+	<score>0.5480198</score>
+	<text>[ edit ] Services Sector</text>
+</context>
+<context>
+	<score>0.48348424</score>
+	<text>[ edit ] Manufacturing Sector</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Competition</th><th>City</th><th>Province</th><th>Year</th></tr><tr><td>15</td><td><a href="../../../../articles/p/o/r/Portage%2C_Prince_Edward_Island_c7dc.html" title="Portage, Prince Edward Island">Portage</a></td><td><a href="../../../../articles/p/r/i/Prince_Edward_Island_24cf.html" title="Prince Edward Island">Prince Edward Island</a></td><td>2009</td></tr><tr><td>14</td><td><a href="../../../../articles/c/a/l/Calgary.html" title="Calgary">Calgary</a></td><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>2008</td></tr><tr><td>13</td><td><a href="../../../../articles/s/a/s/Saskatoon.html" title="Saskatoon">Saskatoon</a></td><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td>2007</td></tr><tr><td>12</td><td><a href="../../../../articles/h/a/l/Halifax_Regional_Municipality_8202.html" title="Halifax Regional Municipality">Halifax</a></td><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td>2006</td></tr><tr><td>11</td><td><a href="../../../../articles/e/d/m/Edmonton.html" title="Edmonton">Edmonton</a></td><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>2005</td></tr><tr><td>10</td><td><a href="../../../../articles/w/i/n/Winnipeg.html" title="Winnipeg">Winnipeg</a></td><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>2004</td></tr><tr><td>9</td><td><a href="../../../../articles/k/i/t/Kitchener%2C_Ontario_486e.html" title="Kitchener, Ontario">Kitchener</a></td><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>2003</td></tr><tr><td>8</td><td><a href="../../../../articles/v/a/n/Vancouver.html" title="Vancouver">Vancouver</a></td><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>2002</td></tr><tr><td>7</td><td><a href="../../../../articles/e/d/m/Edmonton.html" title="Edmonton">Edmonton</a></td><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>2001</td></tr><tr><td>6</td><td><a href="../../../../articles/q/u/e/Quebec_City_5f2c.html" title="Quebec City">Quebec City</a></td><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>2000</td></tr><tr><td>5</td><td><a href="../../../../articles/k/i/t/Kitchener%2C_Ontario_486e.html" title="Kitchener, Ontario">Kitchener</a></td><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>1999</td></tr><tr><td>4</td><td><a href="../../../../articles/v/a/n/Vancouver.html" title="Vancouver">Vancouver</a></td><td><a href="../../../../articles/b/r/i/British_Colombia_7fa0.html" class="mw-redirect" title="British Colombia">British Colombia</a></td><td>1998</td></tr><tr><td>3</td><td><a href="../../../../articles/r/e/d/Red_Deer%2C_Alberta_5e5f.html" title="Red Deer, Alberta">Red Deer</a></td><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>1997</td></tr><tr><td>2</td><td><a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a></td><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>1996</td></tr><tr><td>1</td><td><a href="../../../../articles/h/a/m/Hamilton%2C_Ontario_a636.html" title="Hamilton, Ontario">Hamilton</a></td><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>1995</td></tr></table>]]>
+</htmlSnippet>
+</entity>

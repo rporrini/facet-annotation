@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/e/e/Leeds_United_and_Manchester_United_rivalry_c5a3.html_7.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.0625 3, 0.0625 0 3, 0.02625 1 2, 0.0109375 1 3, 0.009375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/e/e/Leeds_United_and_Manchester_United_rivalry_c5a3.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date of Transfer</th>]]></html>
+	<text>Date of Transfer</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Fee Paid</th>]]></html>
+	<text>Fee Paid</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joe Jordan</td>]]></html>
+	<text>Joe Jordan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 4 , 1978</td>]]></html>
+	<text>January 4 , 1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£350,000</td>]]></html>
+	<text>&#163;350,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [48]</td>]]></html>
+	<text>[39] [48]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gordon McQueen</td>]]></html>
+	<text>Gordon McQueen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 1 , 1978</td>]]></html>
+	<text>February 1 , 1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£495,000</td>]]></html>
+	<text>&#163;495,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [49]</td>]]></html>
+	<text>[39] [49]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arthur Graham</td>]]></html>
+	<text>Arthur Graham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 1 , 1983</td>]]></html>
+	<text>August 1 , 1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£50,000</td>]]></html>
+	<text>&#163;50,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [50]</td>]]></html>
+	<text>[39] [50]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eric Cantona</td>]]></html>
+	<text>Eric Cantona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 12 , 1992</td>]]></html>
+	<text>November 12 , 1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£1,200,000</td>]]></html>
+	<text>&#163;1,200,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [51]</td>]]></html>
+	<text>[39] [51]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rio Ferdinand</td>]]></html>
+	<text>Rio Ferdinand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 22 , 2002</td>]]></html>
+	<text>July 22 , 2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£30,800,000</td>]]></html>
+	<text>&#163;30,800,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [52] [53]</td>]]></html>
+	<text>[39] [52] [53]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alan Smith</td>]]></html>
+	<text>Alan Smith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 26 , 2004</td>]]></html>
+	<text>May 26 , 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£7,000,000 P/E [45]</td>]]></html>
+	<text>&#163;7,000,000 P/E [45]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39] [54] [55]</td>]]></html>
+	<text>[39] [54] [55]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Leeds United and Manchester United rivalry - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Date of Transfer Fee Paid Notes</text>
+</context>
+<context>
+	<score>0.8798341</score>
+	<text>[ edit ] To Manchester United</text>
+</context>
+<context>
+	<score>0.7901079</score>
+	<text>Leeds United and Manchester United rivalry</text>
+</context>
+<context>
+	<score>0.78231615</score>
+	<text>[ edit ] To Leeds United</text>
+</context>
+<context>
+	<score>0.75076634</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Roots</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Football</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Results summary</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Last five head-to-head fixtures</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Scorelines</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Most appearances</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Most goals</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Attendances</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] Player transfers</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7138251</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71209365</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7043019</score>
+	<text>[ edit ] Player transfers</text>
+</context>
+<context>
+	<score>0.6418904</score>
+	<text>[ edit ] Lowest attendances</text>
+</context>
+<context>
+	<score>0.6031397</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5919612</score>
+	<text>[ edit ] Highest attendance</text>
+</context>
+<context>
+	<score>0.55201787</score>
+	<text>[ edit ] Attendances</text>
+</context>
+<context>
+	<score>0.5200632</score>
+	<text>[ edit ] Most goals</text>
+</context>
+<context>
+	<score>0.5163005</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.49449947</score>
+	<text>[ edit ] Most appearances</text>
+</context>
+<context>
+	<score>0.47404847</score>
+	<text>Manchester United 2 5 Leeds United , Old Trafford , November 7 , 1931</text>
+</context>
+<context>
+	<score>0.46521863</score>
+	<text>Leeds United Official Website Manchester United Official Website</text>
+</context>
+<context>
+	<score>0.45768768</score>
+	<text>Leeds United 3 4 Manchester United , Elland Road , March 30 , 2002</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Name</th><th>Date of Transfer</th><th>Fee Paid</th><th>Notes</th></tr><tr><td><a href="../../../../articles/j/o/e/Joe_Jordan_%28footballer%29_6f11.html" title="Joe Jordan (footballer)">Joe Jordan</a></td><td><a href="../../../../articles/j/a/n/January_4.html" title="January 4">January 4</a>, <a href="../../../../articles/1/9/7/1978.html" title="1978">1978</a></td><td>£350,000</td><td><sup id="cite_ref-newcastlefans_38-7" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47" title="">[48]</a></sup></td></tr><tr><td><a href="../../../../articles/g/o/r/Gordon_McQueen_c5e2.html" title="Gordon McQueen">Gordon McQueen</a></td><td><a href="../../../../articles/f/e/b/February_1.html" title="February 1">February 1</a>, <a href="../../../../articles/1/9/7/1978.html" title="1978">1978</a></td><td>£495,000</td><td><sup id="cite_ref-newcastlefans_38-8" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-48" class="reference"><a href="#cite_note-48" title="">[49]</a></sup></td></tr><tr><td><a href="../../../../articles/a/r/t/Arthur_Graham_2e74.html" title="Arthur Graham">Arthur Graham</a></td><td><a href="../../../../articles/a/u/g/August_1.html" title="August 1">August 1</a>, <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a></td><td>£50,000</td><td><sup id="cite_ref-newcastlefans_38-9" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49" title="">[50]</a></sup></td></tr><tr><td><a href="../../../../articles/e/r/i/Eric_Cantona_35ce.html" title="Eric Cantona">Eric Cantona</a></td><td><a href="../../../../articles/n/o/v/November_12.html" title="November 12">November 12</a>, <a href="../../../../articles/1/9/9/1992.html" title="1992">1992</a></td><td>£1,200,000</td><td><sup id="cite_ref-newcastlefans_38-10" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-50" class="reference"><a href="#cite_note-50" title="">[51]</a></sup></td></tr><tr><td><a href="../../../../articles/r/i/o/Rio_Ferdinand_d9b4.html" title="Rio Ferdinand">Rio Ferdinand</a></td><td><a href="../../../../articles/j/u/l/July_22.html" title="July 22">July 22</a>, <a href="../../../../articles/2/0/0/2002.html" title="2002">2002</a></td><td>£30,800,000</td><td><sup id="cite_ref-newcastlefans_38-11" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-51" class="reference"><a href="#cite_note-51" title="">[52]</a></sup><sup id="cite_ref-52" class="reference"><a href="#cite_note-52" title="">[53]</a></sup></td></tr><tr><td><a href="../../../../articles/a/l/a/Alan_Smith_a7bf.html" title="Alan Smith">Alan Smith</a></td><td><a href="../../../../articles/m/a/y/May_26.html" title="May 26">May 26</a>, <a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td>£7,000,000 <i>P/E</i><sup id="cite_ref-smithtransfer_44-1" class="reference"><a href="#cite_note-smithtransfer-44" title="">[45]</a></sup></td><td><sup id="cite_ref-newcastlefans_38-12" class="reference"><a href="#cite_note-newcastlefans-38" title="">[39]</a></sup><sup id="cite_ref-53" class="reference"><a href="#cite_note-53" title="">[54]</a></sup><sup id="cite_ref-54" class="reference"><a href="#cite_note-54" title="">[55]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r6/s/o/m/Somerset_coalfield.html_7.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.875 3, 0.875 0 3, 0.8203125 1 3, 0.16250001 0 2, 0.15625 1, 0.15 4, 0.15 0 4, 0.1421875 2 3, 0.140625 1 4, 0.1375 6, 0.1375 0 6, 0.13541667 2, 0.13125001 3 4, 0.12890625 1 6, 0.12695312 1 2, 0.120312504 3 6, 0.0625 5, 0.0625 0 5, 0.05859375 1 5, 0.056250002 0 7, 0.0546875 3 5, 0.04921875 3 7, 0.024375001 2 4, 0.022343753 2 6, 0.020625 4 6, 0.010156251 2 5, 0.009375 7, 0.009375 4 5, 0.0087890625 1 7, 0.00859375 5 6, 0.0084375 4 7, 0.0077343755 6 7, 0.0076171877 2 7, 0.0035156251 5 7, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/m/Somerset_coalfield.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Colliery</th>]]></html>
+	<text>Colliery</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Grid Ref [A]</th>]]></html>
+	<text>Grid Ref [A]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opened</th>]]></html>
+	<text>Opened</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Closed</th>]]></html>
+	<text>Closed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shaft diameter ft in (m) [6]</th>]]></html>
+	<text>Shaft diameter ft in (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Max shaft depth ft (m) [6]</th>]]></html>
+	<text>Max shaft depth ft (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ludlows</td>]]></html>
+	<text>Ludlows</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST694541</td>]]></html>
+	<text>ST694541</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1850</td>]]></html>
+	<text>before 1850</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1954</td>]]></html>
+	<text>1954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1686</td>]]></html>
+	<text>1686</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Middle Pit</td>]]></html>
+	<text>Middle Pit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST686551</td>]]></html>
+	<text>ST686551</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1801</td>]]></html>
+	<text>before 1801</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1933</td>]]></html>
+	<text>1933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 (3)</td>]]></html>
+	<text>10 (3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1791 (545.9)</td>]]></html>
+	<text>1791 (545.9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Old Pit</td>]]></html>
+	<text>Old Pit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST686551</td>]]></html>
+	<text>ST686551</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1800</td>]]></html>
+	<text>before 1800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1858</td>]]></html>
+	<text>1858</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 (1.8)</td>]]></html>
+	<text>6 (1.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>942 (287.1)</td>]]></html>
+	<text>942 (287.1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Smallcombe</td>]]></html>
+	<text>Smallcombe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST685553</td>]]></html>
+	<text>ST685553</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1797</td>]]></html>
+	<text>1797</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1854</td>]]></html>
+	<text>1854</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 (2.1)</td>]]></html>
+	<text>7 (2.1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1074 (327.4)</td>]]></html>
+	<text>1074 (327.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tyning</td>]]></html>
+	<text>Tyning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST699549</td>]]></html>
+	<text>ST699549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1837</td>]]></html>
+	<text>1837</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1909</td>]]></html>
+	<text>1909</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 (2.4)</td>]]></html>
+	<text>8 (2.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1007 (306.9)</td>]]></html>
+	<text>1007 (306.9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wellsway</td>]]></html>
+	<text>Wellsway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST657522</td>]]></html>
+	<text>ST657522</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1829</td>]]></html>
+	<text>1829</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>754 (229.8)</td>]]></html>
+	<text>754 (229.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Somerset coalfield - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Colliery Location Grid Ref [A] Opened Closed Shaft diameter ft in (m) [6] Max shaft depth ft (m) [6] Notes</text>
+</context>
+<context>
+	<score>0.88043475</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.78813136</score>
+	<text>Somerset coalfield</text>
+</context>
+<context>
+	<score>0.7834651</score>
+	<text>Radstock was the terminus for the southern branch of the Somerset Coal Canal , which was turned into a tramway. It then became a central point for railway development with large coal depots, wah houses, workshops and a gas works. As part of the development of the Wiltshire, Somerset and Weymouth Railway an 8 mile line from Radstock to Frome was built to carry the coal. In the 1870s the broad-gauge line was converted to standard gauge and connected to the Bristol and North Somerset Line connecting it to the Great Western Railway . The Radstock Railway Land comprises an area of approximately 8.8 hectares of land which has been subject to planning and development applications.</text>
+</context>
+<context>
+	<score>0.7520926</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Geology</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Pensford coal basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl of Warwick&apos;s Clutton Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Paulton basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Timsbury and Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] East of Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Farrington Gurney</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Norton Hill Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Nettlebridge Valley</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Output</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Decline and closure</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Area today</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.71055555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70588934</score>
+	<text>The Waldegrave family had been Lords of the Manor of Radstock since the English Civil War . In 1896 the pits were owned by the Trustee of Frances, late Countess of Waldegrave.</text>
+</context>
+<context>
+	<score>0.6438287</score>
+	<text>In 1763 coal was discovered in Radstock and mining began in the area.</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Although these collieries were close to the Waldegrave collieries, they were further east of Radstock and under different ownership.</text>
+</context>
+<context>
+	<score>0.5941802</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.5544615</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.5226864</score>
+	<text>The Duchy of Cornwall owned most of the mineral rights around Midsomer Norton and various small pits opened around 1750 to exploit these.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>In 1896</text>
+</context>
+<context>
+	<score>0.49726638</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.47693038</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>they were owned by Writhlington, Huish and Foxcote Colliery Co., and by 1908</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>The main geological feature in this area south of Hallatrow consists of Supra-Pennant Measures which includes the upper coal measures and outcrops of sandstone. The relics of the industrial past are very evident within the area, including the widely visible and distinct conical shape of the Old Mills batch with its generally unvegetated surface. The three disused collieries in the area have subsequently been developed for light industry, a depot and a superstore.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Colliery</th><th>Location</th><th>Grid Ref<span class="reference"><sup id="ref_Grid_referenceA"><a href="#endnote_Grid_referenceA" title="">[A]</a></sup></span></th><th>Opened</th><th>Closed</th><th>Shaft diameter<br />ft in (m)<sup id="cite_ref-down_5-20" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Max shaft depth<br />ft (m)<sup id="cite_ref-down_5-21" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Notes</th></tr><tr><td>Ludlows</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST694541_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST694541_region:GB_scale:25000" rel="nofollow">ST694541</a></td><td>before 1850</td><td>1954</td><td>8</td><td>1686</td><td></td></tr><tr><td>Middle Pit</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST686551_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST686551_region:GB_scale:25000" rel="nofollow">ST686551</a></td><td>before 1801</td><td>1933</td><td>10 (3)</td><td>1791 (545.9)</td><td></td></tr><tr><td>Old Pit</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST686551_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST686551_region:GB_scale:25000" rel="nofollow">ST686551</a></td><td>before 1800</td><td>1858</td><td>6 (1.8)</td><td>942 (287.1)</td><td></td></tr><tr><td>Smallcombe</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST685553_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST685553_region:GB_scale:25000" rel="nofollow">ST685553</a></td><td>1797</td><td>1854</td><td>7 (2.1)</td><td>1074 (327.4)</td><td></td></tr><tr><td>Tyning</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST699549_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST699549_region:GB_scale:25000" rel="nofollow">ST699549</a></td><td>1837</td><td>1909</td><td>8 (2.4)</td><td>1007 (306.9)</td><td></td></tr><tr><td>Wellsway</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657522_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657522_region:GB_scale:25000" rel="nofollow">ST657522</a></td><td>1829</td><td>1920</td><td>4 6 (1.4)</td><td>754 (229.8)</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

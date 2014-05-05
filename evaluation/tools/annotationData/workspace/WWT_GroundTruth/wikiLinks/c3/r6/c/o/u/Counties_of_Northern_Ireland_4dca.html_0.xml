@@ -1,0 +1,49 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wikicategory_County_towns_in_Northern_Ireland" value="1.0"> </anno>
+<anno name="wordnet_site_108651247" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wikicategory_Counties_of_Northern_Ireland" value="1.0"> </anno>
+<anno name="wordnet_site_108651247" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>County_Antrim</entity>
+<entity></entity>
+<entity>Antrim,_County_Antrim</entity>
+</row>
+<row>
+<entity>County_Armagh</entity>
+<entity></entity>
+<entity>Armagh</entity>
+</row>
+<row>
+<entity>County_Down</entity>
+<entity></entity>
+<entity>Downpatrick</entity>
+</row>
+<row>
+<entity>County_Fermanagh</entity>
+<entity></entity>
+<entity>Enniskillen</entity>
+</row>
+<row>
+<entity>County_Londonderry</entity>
+<entity></entity>
+<entity>Derry</entity>
+</row>
+<row>
+<entity>County_Tyrone</entity>
+<entity></entity>
+<entity>Omagh</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

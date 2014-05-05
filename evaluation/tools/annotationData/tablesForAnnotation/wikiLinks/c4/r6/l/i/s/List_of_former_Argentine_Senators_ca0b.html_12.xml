@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/i/s/List_of_former_Argentine_Senators_ca0b.html_12.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.75 0 3, 0.65625 2 3, 0.625 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_former_Argentine_Senators_ca0b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Senator</th>]]></html>
+	<text>Senator</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Years</th>]]></html>
+	<text>Years</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alfredo Palacios</td>]]></html>
+	<text>Alfredo Palacios</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1932 - 1943 1961 - 1962</td>]]></html>
+	<text>1932 - 1943 1961 - 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buenos Aires City</td>]]></html>
+	<text>Buenos Aires City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Socialist</td>]]></html>
+	<text>Socialist</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Robustiano Patrón Costas</td>]]></html>
+	<text>Robustiano Patr&#243;n Costas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1916 - 1925 1932 - 1943</td>]]></html>
+	<text>1916 - 1925 1932 - 1943</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salta</td>]]></html>
+	<text>Salta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Democrat</td>]]></html>
+	<text>National Democrat</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marcos Paz</td>]]></html>
+	<text>Marcos Paz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1854 - 1858 1860 - 1861 1862 - 1862</td>]]></html>
+	<text>1854 - 1858 1860 - 1861 1862 - 1862</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tucumán</td>]]></html>
+	<text>Tucum&#225;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Juan Esteban Pedernera</td>]]></html>
+	<text>Juan Esteban Pedernera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1855 - 1859</td>]]></html>
+	<text>1855 - 1859</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Luis</td>]]></html>
+	<text>San Luis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Carlos Humberto Perette</td>]]></html>
+	<text>Carlos Humberto Perette</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1973 - 1976</td>]]></html>
+	<text>1973 - 1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Entre Ríos</td>]]></html>
+	<text>Entre R&#237;os</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radical Civic Union</td>]]></html>
+	<text>Radical Civic Union</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ramón Puerta</td>]]></html>
+	<text>Ram&#243;n Puerta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001 - 2005</td>]]></html>
+	<text>2001 - 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Misiones</td>]]></html>
+	<text>Misiones</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Justicialist Party</td>]]></html>
+	<text>Justicialist Party</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of former Argentine Senators - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Senator Years Province Party</text>
+</context>
+<context>
+	<score>0.88115525</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.78742987</score>
+	<text>List of former Argentine Senators</text>
+</context>
+<context>
+	<score>0.7841856</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.7528131</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] X</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] Z</text>
+</context>
+<context>
+	<score>0.7122215</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70660985</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.64454925</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.60601634</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.5528145</score>
+	<text>Santa Cruz</text>
+</context>
+<context>
+	<score>0.51966536</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.49561945</score>
+	<text>Senator Years Province Party</text>
+</context>
+<context>
+	<score>0.47765085</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.4688706</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.46138203</score>
+	<text>[ edit ] J</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Senator</th><th>Years</th><th>Province</th><th>Party</th></tr><tr><td><a href="../../../../articles/a/l/f/Alfredo_Palacios_54e8.html" title="Alfredo Palacios">Alfredo Palacios</a></td><td>1932 - 1943<br />1961 - 1962</td><td>Buenos Aires City</td><td>Socialist</td></tr><tr><td><a href="../../../../articles/r/o/b/Robustiano_Patr%C3%B3n_Costas_3c3e.html" title="Robustiano Patrón Costas">Robustiano Patrón Costas</a></td><td>1916 - 1925<br />1932 - 1943</td><td>Salta</td><td>National Democrat</td></tr><tr><td><a href="../../../../articles/m/a/r/Marcos_Paz_bc89.html" title="Marcos Paz">Marcos Paz</a></td><td>1854 - 1858<br />1860 - 1861<br />1862 - 1862</td><td>Tucumán</td></tr><tr><td><a href="../../../../articles/j/u/a/Juan_Esteban_Pedernera_fe52.html" title="Juan Esteban Pedernera">Juan Esteban Pedernera</a></td><td>1855 - 1859</td><td>San Luis</td><td></td></tr><tr><td><a href="../../../../articles/c/a/r/Carlos_Humberto_Perette_bfc7.html" title="Carlos Humberto Perette">Carlos Humberto Perette</a></td><td>1973 - 1976</td><td>Entre Ríos</td><td><a href="../../../../articles/r/a/d/Radical_Civic_Union_9c4c.html" title="Radical Civic Union">Radical Civic Union</a></td></tr><tr><td><a href="../../../../articles/r/a/m/Ram%C3%B3n_Puerta_b9ad.html" title="Ramón Puerta">Ramón Puerta</a></td><td>2001 - 2005</td><td>Misiones</td><td><a href="../../../../articles/j/u/s/Justicialist_Party_121b.html" title="Justicialist Party">Justicialist Party</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

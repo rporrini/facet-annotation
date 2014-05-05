@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r8/k/t/l/KTLC_79f0.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 3, 0.9166667 2 3, 0.8333333 2 4, 0.7638889 3 4, 0.75 2 5, 0.6875 3 5, 0.13333334 1, 0.13333334 1 2, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.104166664 4, 0.10000001 1 5, 0.097222224 0 4, 0.09375 5, 0.0875 0 5, 0.078125 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/t/l/KTLC_79f0.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K208DQ</td>]]></html>
+	<text>K208DQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.5</td>]]></html>
+	<text>89.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Almont, Colorado</td>]]></html>
+	<text>Almont, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 watts</td>]]></html>
+	<text>16 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K207DA</td>]]></html>
+	<text>K207DA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.3</td>]]></html>
+	<text>89.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Antonito, Colorado</td>]]></html>
+	<text>Antonito, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K262AQ</td>]]></html>
+	<text>K262AQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.3</td>]]></html>
+	<text>100.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado Springs, Colorado</td>]]></html>
+	<text>Colorado Springs, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23 watts</td>]]></html>
+	<text>23 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K220ER</td>]]></html>
+	<text>K220ER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frisco, Colorado</td>]]></html>
+	<text>Frisco, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K202CU</td>]]></html>
+	<text>K202CU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.3</td>]]></html>
+	<text>88.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jansen, Colorado</td>]]></html>
+	<text>Jansen, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93 watts</td>]]></html>
+	<text>93 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K201HJ</td>]]></html>
+	<text>K201HJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lincoln Park, Colorado</td>]]></html>
+	<text>Lincoln Park, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30 watts</td>]]></html>
+	<text>30 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K204EX</td>]]></html>
+	<text>K204EX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paonia, Colorado</td>]]></html>
+	<text>Paonia, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62 watts</td>]]></html>
+	<text>62 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K209ET</td>]]></html>
+	<text>K209ET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.7</td>]]></html>
+	<text>89.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pueblo West, Colorado</td>]]></html>
+	<text>Pueblo West, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 watts</td>]]></html>
+	<text>6 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KTLC - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>In addition to the main station, KTLC is relayed by an additional 8 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>KTLC</text>
+</context>
+<context>
+	<score>0.7910497</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.759159</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7121928</score>
+	<text>KTLC (89.1 FM ) is a radio station broadcasting a Contemporary Inspirational format. Licensed to Canon City, Colorado , USA. The station is currently owned by Educational Communications of Colorado Springs, Inc..</text>
+</context>
+<context>
+	<score>0.661942</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61147356</score>
+	<text>KTLC</text>
+</context>
+<context>
+	<score>0.60993797</score>
+	<text>^ KTLC Facility Record . United States Federal Communications Commission , audio division .</text>
+</context>
+<context>
+	<score>0.52216095</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.47052738</score>
+	<text>This article about a radio station in Colorado is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K208DQ</b></td><td>89.5</td><td><a href="../../../../articles/a/l/m/Almont%2C_Colorado_7c6a.html" title="Almont, Colorado">Almont, Colorado</a></td><td>16 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K208DQ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K208DQ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208DQ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208DQ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K207DA</b></td><td>89.3</td><td><a href="../../../../articles/a/n/t/Antonito%2C_Colorado_d098.html" title="Antonito, Colorado">Antonito, Colorado</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K207DA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K207DA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K207DA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K207DA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K262AQ</b></td><td>100.3</td><td><a href="../../../../articles/c/o/l/Colorado_Springs%2C_Colorado_d0e9.html" title="Colorado Springs, Colorado">Colorado Springs, Colorado</a></td><td>23 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K262AQ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K262AQ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K262AQ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K262AQ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K220ER</b></td><td>91.9</td><td><a href="../../../../articles/f/r/i/Frisco%2C_Colorado_6748.html" title="Frisco, Colorado">Frisco, Colorado</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K220ER" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K220ER" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220ER" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220ER" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K202CU</b></td><td>88.3</td><td><a href="../../../../articles/j/a/n/Jansen%2C_Colorado_e013.html" title="Jansen, Colorado">Jansen, Colorado</a></td><td>93 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K202CU" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K202CU" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202CU" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202CU" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K201HJ</b></td><td>88.1</td><td><a href="../../../../articles/l/i/n/Lincoln_Park%2C_Colorado_d903.html" title="Lincoln Park, Colorado">Lincoln Park, Colorado</a></td><td>30 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K201HJ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K201HJ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HJ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HJ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K204EX</b></td><td>88.7</td><td><a href="../../../../articles/p/a/o/Paonia%2C_Colorado_5ba8.html" title="Paonia, Colorado">Paonia, Colorado</a></td><td>62 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K204EX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K204EX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204EX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204EX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K209ET</b></td><td>89.7</td><td><a href="../../../../articles/p/u/e/Pueblo_West%2C_Colorado_c939.html" title="Pueblo West, Colorado">Pueblo West, Colorado</a></td><td>6 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K209ET" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K209ET" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K209ET" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K209ET" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

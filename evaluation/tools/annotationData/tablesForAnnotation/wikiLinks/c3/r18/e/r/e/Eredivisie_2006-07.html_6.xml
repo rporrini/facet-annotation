@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r18/e/r/e/Eredivisie_2006-07.html_6.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 0 2, 0.12592593 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/e/r/e/Eredivisie_2006-07.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ajax</td>]]></html>
+	<text>Ajax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amsterdam ArenA</td>]]></html>
+	<text>Amsterdam ArenA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,600</td>]]></html>
+	<text>51,600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Feyenoord</td>]]></html>
+	<text>Feyenoord</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Feijenoord Stadion</td>]]></html>
+	<text>Feijenoord Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,200</td>]]></html>
+	<text>51,200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PSV</td>]]></html>
+	<text>PSV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philips Stadion</td>]]></html>
+	<text>Philips Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,200</td>]]></html>
+	<text>35,200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vitesse</td>]]></html>
+	<text>Vitesse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gelredome</td>]]></html>
+	<text>Gelredome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,500</td>]]></html>
+	<text>27,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heerenveen</td>]]></html>
+	<text>Heerenveen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abe Lenstra Stadion</td>]]></html>
+	<text>Abe Lenstra Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26,000</td>]]></html>
+	<text>26,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utrecht</td>]]></html>
+	<text>Utrecht</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stadion Galgenwaard</td>]]></html>
+	<text>Stadion Galgenwaard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25,000</td>]]></html>
+	<text>25,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Groningen</td>]]></html>
+	<text>Groningen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Euroborg</td>]]></html>
+	<text>Euroborg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,000</td>]]></html>
+	<text>20,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Roda JC</td>]]></html>
+	<text>Roda JC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parkstad Limburg Stadion</td>]]></html>
+	<text>Parkstad Limburg Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,000</td>]]></html>
+	<text>20,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AZ</td>]]></html>
+	<text>AZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DSB Stadion</td>]]></html>
+	<text>DSB Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,100</td>]]></html>
+	<text>17,100</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NAC</td>]]></html>
+	<text>NAC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rat Verlegh Stadion</td>]]></html>
+	<text>Rat Verlegh Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,000</td>]]></html>
+	<text>17,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Willem II</td>]]></html>
+	<text>Willem II</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Willem II Stadion</td>]]></html>
+	<text>Willem II Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,700</td>]]></html>
+	<text>14,700</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Twente</td>]]></html>
+	<text>Twente</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arke Stadion</td>]]></html>
+	<text>Arke Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,500</td>]]></html>
+	<text>13,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NEC</td>]]></html>
+	<text>NEC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stadion de Goffert</td>]]></html>
+	<text>Stadion de Goffert</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,600</td>]]></html>
+	<text>12,600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ADO</td>]]></html>
+	<text>ADO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zuiderpark Stadion</td>]]></html>
+	<text>Zuiderpark Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,500</td>]]></html>
+	<text>11,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sparta</td>]]></html>
+	<text>Sparta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sparta Stadion Het Kasteel</td>]]></html>
+	<text>Sparta Stadion Het Kasteel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,000</td>]]></html>
+	<text>11,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heracles</td>]]></html>
+	<text>Heracles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polman Stadion</td>]]></html>
+	<text>Polman Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,800</td>]]></html>
+	<text>8,800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>RKC</td>]]></html>
+	<text>RKC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mandemakers Stadion</td>]]></html>
+	<text>Mandemakers Stadion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Excelsior</td>]]></html>
+	<text>Excelsior</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stadion Woudestein</td>]]></html>
+	<text>Stadion Woudestein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000</td>]]></html>
+	<text>4,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Eredivisie 2006-07 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Stadium Capacity</text>
+</context>
+<context>
+	<score>0.8816233</score>
+	<text>[ edit ] Stadiums 2006/2007</text>
+</context>
+<context>
+	<score>0.79104877</score>
+	<text>Eredivisie 2006-07</text>
+</context>
+<context>
+	<score>0.78454244</score>
+	<text>2006 / 2007 Afonso Alves (SC Heerenveen)</text>
+</context>
+<context>
+	<score>0.753134</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Promoted team</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Relegated teams</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Promoted teams</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Ranking</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Play-offs</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Match table</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Top scorers</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Awards</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] Stadiums 2006/2007</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7163584</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71338415</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7068779</score>
+	<text>[ edit ] Dutch Footballer of the Year</text>
+</context>
+<context>
+	<score>0.64474624</score>
+	<text>[ edit ] Awards</text>
+</context>
+<context>
+	<score>0.60616916</score>
+	<text>^ The match was suspended for crowd trouble 4 minutes into the second half, while FC Groningen were leading 0-3. The remaining minutes were played three days later. ^ The match was suspended after 63 minutes, after ADO supporters had invaded the pitch. The Royal Netherlands Football Association decided ten days later that the game would not be finished, making the score at the time of the suspension the final score.</text>
+</context>
+<context>
+	<score>0.59504086</score>
+	<text>[ edit ] Top scorers</text>
+</context>
+<context>
+	<score>0.5552766</score>
+	<text>[ edit ] Match table</text>
+</context>
+<context>
+	<score>0.5234651</score>
+	<text>All teams play a home and an away match, with the possibility of a third match in case of a tie. The team that has scored the most away goals in the first two legs will play the deciding third leg at home. If both teams have scored an equal amount of away goals, a penalty shootout after the second leg will decide who plays at home in the third leg. The winners of matches G and H will play in the Eredivisie 2007/2008</text>
+</context>
+<context>
+	<score>0.51971924</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4950417</score>
+	<text>Round 3</text>
+</context>
+<context>
+	<score>0.47468236</score>
+	<text>All teams play a home and an away match, with the possibility of a third match in case of a tie. The team that has scored the most away goals in the first two legs will play the deciding third leg at home. If both teams have scored an equal amount of away goals, a penalty shootout after the second leg will decide who plays at home in the third leg.</text>
+</context>
+<context>
+	<score>0.46886638</score>
+	<text>KNVB Cup 2006-07 Eerste Divisie 2006/2007</text>
+</context>
+<context>
+	<score>0.4583949</score>
+	<text>Round 2</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Team</th><th>Stadium</th><th>Capacity</th></tr><tr><td>Ajax</td><td><a href="../../../../articles/a/m/s/Amsterdam_ArenA_835f.html" title="Amsterdam ArenA">Amsterdam ArenA</a></td><td align="center">51,600</td></tr><tr><td>Feyenoord</td><td><a href="../../../../articles/f/e/i/Feijenoord_Stadion_f7dc.html" title="Feijenoord Stadion">Feijenoord Stadion</a></td><td align="center">51,200</td></tr><tr><td>PSV</td><td><a href="../../../../articles/p/h/i/Philips_Stadion_bcf1.html" title="Philips Stadion">Philips Stadion</a></td><td align="center">35,200</td></tr><tr><td>Vitesse</td><td><a href="../../../../articles/g/e/l/Gelredome.html" title="Gelredome">Gelredome</a></td><td align="center">27,500</td></tr><tr><td>Heerenveen</td><td><a href="../../../../articles/a/b/e/Abe_Lenstra_Stadion_7261.html" title="Abe Lenstra Stadion">Abe Lenstra Stadion</a></td><td align="center">26,000</td></tr><tr><td>Utrecht</td><td><a href="../../../../articles/s/t/a/Stadion_Galgenwaard_0eaf.html" title="Stadion Galgenwaard">Stadion Galgenwaard</a></td><td align="center">25,000</td></tr><tr><td>Groningen</td><td><a href="../../../../articles/e/u/r/Euroborg.html" title="Euroborg">Euroborg</a></td><td align="center">20,000</td></tr><tr><td>Roda JC</td><td><a href="../../../../articles/p/a/r/Parkstad_Limburg_Stadion_6146.html" title="Parkstad Limburg Stadion">Parkstad Limburg Stadion</a></td><td align="center">20,000</td></tr><tr><td>AZ</td><td><a href="../../../../articles/d/s/b/DSB_Stadion_6801.html" title="DSB Stadion">DSB Stadion</a></td><td align="center">17,100</td></tr><tr><td>NAC</td><td><a href="../../../../articles/r/a/t/Rat_Verlegh_Stadion_f70c.html" title="Rat Verlegh Stadion">Rat Verlegh Stadion</a></td><td align="center">17,000</td></tr><tr><td>Willem II</td><td><a href="../../../../articles/w/i/l/Willem_II_Stadion_e08d.html" title="Willem II Stadion">Willem II Stadion</a></td><td align="center">14,700</td></tr><tr><td>Twente</td><td><a href="../../../../articles/a/r/k/Arke_Stadion_ba4a.html" class="mw-redirect" title="Arke Stadion">Arke Stadion</a></td><td align="center">13,500</td></tr><tr><td>NEC</td><td><a href="../../../../articles/s/t/a/Stadion_de_Goffert_4c16.html" title="Stadion de Goffert">Stadion de Goffert</a></td><td align="center">12,600</td></tr><tr><td>ADO</td><td><a href="../../../../articles/z/u/i/Zuiderpark_Stadion_193e.html" title="Zuiderpark Stadion">Zuiderpark Stadion</a></td><td align="center">11,500</td></tr><tr><td>Sparta</td><td><a href="../../../../articles/s/p/a/Sparta_Stadion_Het_Kasteel_c7a8.html" title="Sparta Stadion Het Kasteel">Sparta Stadion Het Kasteel</a></td><td align="center">11,000</td></tr><tr><td>Heracles</td><td><a href="../../../../articles/p/o/l/Polman_Stadion_38be.html" title="Polman Stadion">Polman Stadion</a></td><td align="center">8,800</td></tr><tr><td>RKC</td><td><a href="../../../../articles/m/a/n/Mandemakers_Stadion_d040.html" title="Mandemakers Stadion">Mandemakers Stadion</a></td><td align="center">8,000</td></tr><tr><td>Excelsior</td><td><a href="../../../../articles/s/t/a/Stadion_Woudestein_96f6.html" title="Stadion Woudestein">Stadion Woudestein</a></td><td align="center">4,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

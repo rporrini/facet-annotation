@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r12/a/b/o/Abortion_law.html_7.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.875 0 2, 0.8125 0 3, 0.75 0 4, 0.6875 0 5, 0.625 0 6, 0.5625 0 7, 0.40625 3 4, 0.35546875 2 3, 0.328125 2 4, 0.3173828 1 3, 0.29296875 1 4, 0.27929688 3 5, 0.2734375 1 2, 0.27083334 3, 0.2578125 4 5, 0.25 4, 0.21875 2, 0.21484375 1 5, 0.21158853 3 6, 0.20052084 2 5, 0.1953125 4 6, 0.19042969 3 7, 0.18229167 2 6, 0.17578125 4 7, 0.171875 5, 0.1640625 2 7, 0.15625 1, 0.14648438 1 6, 0.14322917 5 6, 0.13183594 1 7, 0.10416667 6, 0.09667969 5 7, 0.09375 7, 0.087890625 6 7, " />
+<meta name="parentHTMLDoc" value="en/articles/a/b/o/Abortion_law.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>To protect woman's life</th>]]></html>
+	<text>To protect woman&amp;apos;s life</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Physical health</th>]]></html>
+	<text>Physical health</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mental health</th>]]></html>
+	<text>Mental health</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rape</th>]]></html>
+	<text>Rape</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Fetal defects</th>]]></html>
+	<text>Fetal defects</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Socio-economic factors</th>]]></html>
+	<text>Socio-economic factors</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>On request</th>]]></html>
+	<text>On request</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Argentina</td>]]></html>
+	<text>Argentina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Restricted</td>]]></html>
+	<text>Restricted</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bolivia</td>]]></html>
+	<text>Bolivia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chile</td>]]></html>
+	<text>Chile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colombia</td>]]></html>
+	<text>Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Restricted</td>]]></html>
+	<text>Restricted</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Restricted</td>]]></html>
+	<text>Restricted</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ecuador</td>]]></html>
+	<text>Ecuador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Restricted</td>]]></html>
+	<text>Restricted</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guyana</td>]]></html>
+	<text>Guyana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paraguay</td>]]></html>
+	<text>Paraguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peru</td>]]></html>
+	<text>Peru</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Suriname</td>]]></html>
+	<text>Suriname</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uruguay</td>]]></html>
+	<text>Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Venezuela</td>]]></html>
+	<text>Venezuela</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Abortion law - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country To protect woman&apos;s life Physical health Mental health Rape Fetal defects Socio-economic factors On request</text>
+</context>
+<context>
+	<score>0.8819388</score>
+	<text>[ edit ] South America</text>
+</context>
+<context>
+	<score>0.7934634</score>
+	<text>Abortion law</text>
+</context>
+<context>
+	<score>0.7849645</score>
+	<text>[ edit ] Australasia and Oceania</text>
+</context>
+<context>
+	<score>0.7535905</score>
+	<text>[ edit ] Legal restrictions on later abortion See also: Late-term abortion</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] International law</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] National laws</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] Legal restrictions on later abortion</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] Case law</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71904063</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.715884</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7073851</score>
+	<text>[ edit ] North and Central America</text>
+</context>
+<context>
+	<score>0.6453216</score>
+	<text>[ edit ] Middle East</text>
+</context>
+<context>
+	<score>0.6036301</score>
+	<text>As of 1998, among the 152 most populous countries, 54 either banned abortion entirely or permitted it only to save the life of the pregnant woman.</text>
+</context>
+<context>
+	<score>0.59567076</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.55595005</score>
+	<text>[ edit ] Caribbean</text>
+</context>
+<context>
+	<score>0.5241735</score>
+	<text>[ edit ] Asia</text>
+</context>
+<context>
+	<score>0.52043176</score>
+	<text>In contrast, another 44 of the 152 most populous countries generally banned late-term abortions after a particular gestational age : 12 weeks (Albania, Armenia, Azerbaijan, Belarus, Bosnia-Herzegovina, Bulgaria, Croatia, Cuba, Czech Rep., Denmark, Estonia, France, Georgia, Greece, Kazakhstan, Kyrgyz Rep., Latvia, Lithuania, Macedonia, Moldova, Mongolia, Norway, Russian Fed., Slovak Rep., Slovenia, South Africa, Ukraine, Tajikistan, Tunisia, Turkey, Turkmenistan, Uzbekistan, and Yugoslavia), 13 weeks (Italy), 14 weeks (Austria, Belgium, Cambodia, Germany, Hungary, and Romania), 18 weeks (Sweden), viability (Netherlands and to some extent the United States), and 24 weeks (Singapore and the United Kingdom [Northern Ireland excluded]).</text>
+</context>
+<context>
+	<score>0.4987523</score>
+	<text>[ edit ] Africa</text>
+</context>
+<context>
+	<score>0.4752586</score>
+	<text>Legend</text>
+</context>
+<context>
+	<score>0.46963468</score>
+	<text>[ edit ] Case law</text>
+</context>
+<context>
+	<score>0.46214572</score>
+	<text>The following series of tables present the current abortion legislation of the world&apos;s nations as divided by continent . Actual access to abortion may vary significantly on the basis of geography , income, cost, health care , social factors, and other issues. Many jurisdictions also place other restrictions on abortion access, including waiting periods, the provision of information, the assent of multiple doctors, and spousal or parental notification .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr style="background-color: 2nda0d0ff;"><th width="120">Country</th><th>To protect woman's life</th><th>Physical health</th><th>Mental health</th><th>Rape</th><th>Fetal defects</th><th>Socio-economic factors</th><th>On request</th></tr><tr><td><a href="../../../../articles/a/r/g/Argentina.html" title="Argentina">Argentina</a></td><td>Yes</td><td>Yes</td><td>No</td><td>Restricted</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/b/o/l/Bolivia.html" title="Bolivia">Bolivia</a></td><td>Yes</td><td>Yes</td><td>?</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td>Yes</td><td>Yes</td><td>No</td><td>Yes</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/c/h/i/Chile.html" title="Chile">Chile</a></td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/c/o/l/Colombia.html" title="Colombia">Colombia</a></td><td>Yes</td><td>Restricted</td><td>?</td><td>Yes</td><td>Restricted</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/e/c/u/Ecuador.html" title="Ecuador">Ecuador</a></td><td>Yes</td><td>Yes</td><td>Yes</td><td>Restricted</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/g/u/y/Guyana.html" title="Guyana">Guyana</a></td><td>Yes</td><td>Yes</td><td>Yes</td><td>Yes</td><td>1st</td><td>1st</td><td>1st</td></tr><tr><td><a href="../../../../articles/p/a/r/Paraguay.html" title="Paraguay">Paraguay</a></td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/p/e/r/Peru.html" title="Peru">Peru</a></td><td>Yes</td><td>Yes</td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/s/u/r/Suriname.html" title="Suriname">Suriname</a></td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/u/r/u/Uruguay.html" title="Uruguay">Uruguay</a></td><td>Yes</td><td>Yes</td><td>1st</td><td>1st</td><td>No</td><td>1st</td><td>No</td></tr><tr><td><a href="../../../../articles/v/e/n/Venezuela.html" title="Venezuela">Venezuela</a></td><td>Yes</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td><td>No</td></tr></table>]]>
+</htmlSnippet>
+</entity>

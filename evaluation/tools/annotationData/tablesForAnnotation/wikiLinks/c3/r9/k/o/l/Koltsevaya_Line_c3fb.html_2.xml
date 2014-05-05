@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/k/o/l/Koltsevaya_Line_c3fb.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.8333333 2, 0.8333333 1 2, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/k/o/l/Koltsevaya_Line_c3fb.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>#</th>]]></html>
+	<text>#</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Transfer to</th>]]></html>
+	<text>Transfer to</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>At</th>]]></html>
+	<text>At</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sokolnicheskaya Line</td>]]></html>
+	<text>Sokolnicheskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Park Kultury , Komsomolskaya</td>]]></html>
+	<text>Park Kultury , Komsomolskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zamoskvoretskaya Line</td>]]></html>
+	<text>Zamoskvoretskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paveletskaya , Belorusskaya</td>]]></html>
+	<text>Paveletskaya , Belorusskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arbatsko-Pokrovskaya Line</td>]]></html>
+	<text>Arbatsko-Pokrovskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kurskaya , Kiyevskaya</td>]]></html>
+	<text>Kurskaya , Kiyevskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Filyovskaya Line</td>]]></html>
+	<text>Filyovskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiyevskaya</td>]]></html>
+	<text>Kiyevskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kaluzhsko-Rizhskaya Line</td>]]></html>
+	<text>Kaluzhsko-Rizhskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oktyabrskaya , Prospekt Mira</td>]]></html>
+	<text>Oktyabrskaya , Prospekt Mira</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tagansko-Krasnopresnenskaya Line</td>]]></html>
+	<text>Tagansko-Krasnopresnenskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taganskaya , Krasnopresnenskaya</td>]]></html>
+	<text>Taganskaya , Krasnopresnenskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalininskaya Line</td>]]></html>
+	<text>Kalininskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taganskaya</td>]]></html>
+	<text>Taganskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Serpukhovsko-Timiryazevskaya Line</td>]]></html>
+	<text>Serpukhovsko-Timiryazevskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dobryninskaya , Novoslobodskaya</td>]]></html>
+	<text>Dobryninskaya , Novoslobodskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyublinskaya Line</td>]]></html>
+	<text>Lyublinskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kurskaya</td>]]></html>
+	<text>Kurskaya</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Koltsevaya Line - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text># Transfer to At</text>
+</context>
+<context>
+	<score>0.87864906</score>
+	<text>It should be noted that the Koltsevaya line, unlike other lines of Moscow Metro, does not service any stations that belong to that line exclusively; rather, all its stations are transfer stations, linking to other lines, as shown below:</text>
+</context>
+<context>
+	<score>0.8005293</score>
+	<text>Koltsevaya Line</text>
+</context>
+<context>
+	<score>0.78763574</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.75622725</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.7289322</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7289322</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.7289322</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.7289322</score>
+	<text>[ edit ] Recent developments and future plans</text>
+</context>
+<context>
+	<score>0.7228647</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70997113</score>
+	<text>[ edit ] Name changes</text>
+</context>
+<context>
+	<score>0.6478395</score>
+	<text>[ edit ] Timeline</text>
+</context>
+<context>
+	<score>0.60926247</score>
+	<text>The line is serviced by the Krasnaya Presnya depot (No.4) and was the first one to adopt the 81-717/714 trains in 1978 . Presently 34 six-carriage trains are assigned to it.</text>
+</context>
+<context>
+	<score>0.5920665</score>
+	<text>The construction of the ring allowed for massive changes in the passenger flow patterns around Moscow, and allowed a systematic development platform for many future lines. A total of seven radial lines began at the ring, four of which later linked up in the centre to become diameters.</text>
+</context>
+<context>
+	<score>0.55836976</score>
+	<text>Construction began shortly after the end of the war, and the first stage was opened in 1950 from Park Kultury to Kurskaya , in 1952 a second segment completed the norhern deviation up to Belorusskaya and in 1954 the circumference linked up.</text>
+</context>
+<context>
+	<score>0.5265584</score>
+	<text>In principle the alignment of the ring was also debated, whether to use the Sadovoye Koltso avenue that encircles the centre or a more wider circumference. In the end it was decided to partially align the southern path along the Sadovoye Koltso, and let the northern part deviate to connect most of Moscow &apos;s rail terminals. This solved an important logistical problem, because, due to the layout of Russia&apos;s railroads, it would be impossible to travel from a region on one side of Moscow to another without having to make a manual transfer from one terminal to another.</text>
+</context>
+<context>
+	<score>0.52281255</score>
+	<text>[ edit ] Recent developments and future plans</text>
+</context>
+<context>
+	<score>0.50110924</score>
+	<text>In the initial plans of the Metro&apos;s development there was no provision for the ring line. Instead it was planned for complete &quot;diameters&quot; to cross the city centre and with transfer stations at their intersections. However after the opening of the second stage in 1938 it was clear from the excessive loads on those junctions, that this plan would be insufficient to deal with the growing number of passengers as the system expanded. According to a rumour, Joseph Stalin himself suggested the ring when he placed a coffee cup on the original development map (with no ring) and then lifting it and leaving a circular stain around the centre of the city. It is believed that the brown colour of the Koltsevaya Line is attributed to this reason.</text>
+</context>
+<context>
+	<score>0.4807499</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.47195962</score>
+	<text>Today the line is one of busiest, and the ever-rising passenger flows during rush hours are noticeably felt as most of the stations are over half a century old. In 1998 a second entrance was opened at Belorusskaya and there are plans to equip Park Kultury and Komsomolskaya with similar ones.</text>
+</context>
+<context>
+	<score>0.4583949</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.4514325</score>
+	<text>Of all the lines, the ring remains the most famous, mostly due to its beautiful stations built at the height of Stalinist Architecture . Each of the twelve stand out in their own right, but some, like Komsomolskaya, Novoslobodskaya and Kievskaya represent the whole system.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable" cellpadding="3" style="border-collapse: collapse; text-align: left;"><tr><th>#</th><th>Transfer to</th><th>At</th></tr><tr><td style="background: red; padding:.5em;">1</td><td style="text-align: left;"><a href="../../../../articles/s/o/k/Sokolnicheskaya_Line_fd85.html" title="Sokolnicheskaya Line">Sokolnicheskaya Line</a></td><td><a href="../../../../articles/p/a/r/Park_Kultury-Koltsevaya_52c9.html" title="Park Kultury-Koltsevaya">Park Kultury</a>, <a href="../../../../articles/k/o/m/Komsomolskaya-Koltsevaya_e879.html" title="Komsomolskaya-Koltsevaya">Komsomolskaya</a></td></tr><tr><td style="background: green;padding:.5em;">2</td><td style="text-align: left;"><a href="../../../../articles/z/a/m/Zamoskvoretskaya_Line_b0fe.html" title="Zamoskvoretskaya Line">Zamoskvoretskaya Line</a></td><td><a href="../../../../articles/p/a/v/Paveletskaya-Koltsevaya_b8d2.html" title="Paveletskaya-Koltsevaya">Paveletskaya</a>, <a href="../../../../articles/b/e/l/Belorusskaya-Koltsevaya_c0b2.html" title="Belorusskaya-Koltsevaya">Belorusskaya</a></td></tr><tr><td style="background: blue;padding:.5em;">3</td><td style="text-align: left;"><a href="../../../../articles/a/r/b/Arbatsko-Pokrovskaya_Line_1718.html" title="Arbatsko-Pokrovskaya Line">Arbatsko-Pokrovskaya Line</a></td><td><a href="../../../../articles/k/u/r/Kurskaya-Koltsevaya_567f.html" title="Kurskaya-Koltsevaya">Kurskaya</a>, <a href="../../../../articles/k/i/y/Kiyevskaya-Koltsevaya_79a7.html" title="Kiyevskaya-Koltsevaya">Kiyevskaya</a></td></tr><tr><td style="background: #33CCFF;padding:.5em;">4</td><td style="text-align: left;"><a href="../../../../articles/f/i/l/Filyovskaya_Line_2ad3.html" title="Filyovskaya Line">Filyovskaya Line</a></td><td><a href="../../../../articles/k/i/y/Kiyevskaya-Koltsevaya_79a7.html" title="Kiyevskaya-Koltsevaya">Kiyevskaya</a></td></tr><tr><td style="background: orange;padding:.5em;">6</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kaluzhsko-Rizhskaya_Line_f663.html" title="Kaluzhsko-Rizhskaya Line">Kaluzhsko-Rizhskaya Line</a></td><td><a href="../../../../articles/o/k/t/Oktyabrskaya-Koltsevaya_27d1.html" title="Oktyabrskaya-Koltsevaya">Oktyabrskaya</a>, <a href="../../../../articles/p/r/o/Prospekt_Mira-Koltsevaya_a043.html" title="Prospekt Mira-Koltsevaya">Prospekt Mira</a></td></tr><tr><td style="background: #FF00FF;padding:.5em;">7</td><td style="text-align: left;"><a href="../../../../articles/t/a/g/Tagansko-Krasnopresnenskaya_Line_5ec5.html" title="Tagansko-Krasnopresnenskaya Line">Tagansko-Krasnopresnenskaya Line</a></td><td><a href="../../../../articles/t/a/g/Taganskaya-Koltsevaya_ec2b.html" title="Taganskaya-Koltsevaya">Taganskaya</a>, <a href="../../../../articles/k/r/a/Krasnopresnenskaya.html" title="Krasnopresnenskaya">Krasnopresnenskaya</a></td></tr><tr><td style="background: #FFFF00;padding:.5em;">8</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kalininskaya_Line_bd37.html" title="Kalininskaya Line">Kalininskaya Line</a></td><td><a href="../../../../articles/t/a/g/Taganskaya-Koltsevaya_ec2b.html" title="Taganskaya-Koltsevaya">Taganskaya</a></td></tr><tr><td style="background: #999999;padding:.5em;">9</td><td style="text-align: left;"><a href="../../../../articles/s/e/r/Serpukhovsko-Timiryazevskaya_Line_b0d8.html" title="Serpukhovsko-Timiryazevskaya Line">Serpukhovsko-Timiryazevskaya Line</a></td><td><a href="../../../../articles/d/o/b/Dobryninskaya.html" title="Dobryninskaya">Dobryninskaya</a>, <a href="../../../../articles/n/o/v/Novoslobodskaya.html" title="Novoslobodskaya">Novoslobodskaya</a></td></tr><tr><td style="background: #00FF00;padding:.5em;">10</td><td style="text-align: left;"><a href="../../../../articles/l/y/u/Lyublinskaya_Line_9dc9.html" title="Lyublinskaya Line">Lyublinskaya Line</a></td><td><a href="../../../../articles/k/u/r/Kurskaya-Koltsevaya_567f.html" title="Kurskaya-Koltsevaya">Kurskaya</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

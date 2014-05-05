@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r30/d/e/m/Demographics_of_Portugal_206b.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 1 3, 0.8 1 4, 0.4266667 4, 0.384 3 4, 0.14 2, 0.14 1 2, 0.126 2 3, 0.120000005 0, 0.120000005 0 1, 0.112 2 4, 0.108 0 3, 0.09600001 0 4, 0.089999996 3, 0.0168 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/e/m/Demographics_of_Portugal_206b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City name</th>]]></html>
+	<text>City name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Metropolitan area</th>]]></html>
+	<text>Metropolitan area</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Subregion</th>]]></html>
+	<text>Subregion</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisbon</td>]]></html>
+	<text>Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>564,657</td>]]></html>
+	<text>564,657</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Porto</td>]]></html>
+	<text>Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>263,131</td>]]></html>
+	<text>263,131</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vila Nova de Gaia</td>]]></html>
+	<text>Vila Nova de Gaia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>178,255</td>]]></html>
+	<text>178,255</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amadora</td>]]></html>
+	<text>Amadora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>175,872</td>]]></html>
+	<text>175,872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Braga</td>]]></html>
+	<text>Braga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>109,460</td>]]></html>
+	<text>109,460</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cávado</td>]]></html>
+	<text>C&#225;vado</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Almada</td>]]></html>
+	<text>Almada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,500</td>]]></html>
+	<text>101,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coimbra</td>]]></html>
+	<text>Coimbra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,069</td>]]></html>
+	<text>101,069</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baixo Mondego</td>]]></html>
+	<text>Baixo Mondego</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Funchal</td>]]></html>
+	<text>Funchal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,526</td>]]></html>
+	<text>100,526</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madeira</td>]]></html>
+	<text>Madeira</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,303</td>]]></html>
+	<text>89,303</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Agualva-Cacém</td>]]></html>
+	<text>Agualva-Cac&#233;m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81,845</td>]]></html>
+	<text>81,845</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Queluz</td>]]></html>
+	<text>Queluz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>78,040</td>]]></html>
+	<text>78,040</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aveiro</td>]]></html>
+	<text>Aveiro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,291</td>]]></html>
+	<text>55,291</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baixo Vouga</td>]]></html>
+	<text>Baixo Vouga</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guimarães</td>]]></html>
+	<text>Guimar&#227;es</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52,181</td>]]></html>
+	<text>52,181</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ave</td>]]></html>
+	<text>Ave</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Odivelas</td>]]></html>
+	<text>Odivelas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50,846</td>]]></html>
+	<text>50,846</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rio Tinto</td>]]></html>
+	<text>Rio Tinto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,695</td>]]></html>
+	<text>47,695</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viseu</td>]]></html>
+	<text>Viseu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,250</td>]]></html>
+	<text>47,250</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dão-Lafões</td>]]></html>
+	<text>D&#227;o-Laf&#245;es</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ponta Delgada</td>]]></html>
+	<text>Ponta Delgada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46,102</td>]]></html>
+	<text>46,102</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Açores</td>]]></html>
+	<text>A&#231;ores</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matosinhos</td>]]></html>
+	<text>Matosinhos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45,703</td>]]></html>
+	<text>45,703</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amora</td>]]></html>
+	<text>Amora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,515</td>]]></html>
+	<text>44,515</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leiria</td>]]></html>
+	<text>Leiria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42,745</td>]]></html>
+	<text>42,745</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pinhal Litoral</td>]]></html>
+	<text>Pinhal Litoral</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Faro</td>]]></html>
+	<text>Faro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41,934</td>]]></html>
+	<text>41,934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Algarve</td>]]></html>
+	<text>Algarve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Évora</td>]]></html>
+	<text>&#201;vora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41,159</td>]]></html>
+	<text>41,159</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alentejo Central</td>]]></html>
+	<text>Alentejo Central</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barreiro</td>]]></html>
+	<text>Barreiro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,859</td>]]></html>
+	<text>40,859</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Lisbon</td>]]></html>
+	<text>Greater Metropolitan Area of Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Póvoa de Varzim</td>]]></html>
+	<text>P&#243;voa de Varzim</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38,643</td>]]></html>
+	<text>38,643</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ermesinde</td>]]></html>
+	<text>Ermesinde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38,270</td>]]></html>
+	<text>38,270</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viana do Castelo</td>]]></html>
+	<text>Viana do Castelo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36,148</td>]]></html>
+	<text>36,148</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minho-Lima</td>]]></html>
+	<text>Minho-Lima</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maia</td>]]></html>
+	<text>Maia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,625</td>]]></html>
+	<text>35,625</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Metropolitan Area of Porto</td>]]></html>
+	<text>Greater Metropolitan Area of Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Porto</td>]]></html>
+	<text>Grande Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Covilhã</td>]]></html>
+	<text>Covilh&#227;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,772</td>]]></html>
+	<text>34,772</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cova da Beira</td>]]></html>
+	<text>Cova da Beira</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portimão</td>]]></html>
+	<text>Portim&#227;o</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,433</td>]]></html>
+	<text>32,433</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Algarve</td>]]></html>
+	<text>Algarve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Castelo Branco</td>]]></html>
+	<text>Castelo Branco</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,649</td>]]></html>
+	<text>30,649</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beira Interior Sul</td>]]></html>
+	<text>Beira Interior Sul</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Demographics of Portugal - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank City name Population Metropolitan area Subregion</text>
+</context>
+<context>
+	<score>0.88149345</score>
+	<text>Portugal has 151 localities with city ( cidade ) status. Every city is included into a municipality ( munic pio ). This is a list of population by city, which means that it refers to the number of inhabitants in the city proper, excluding inhabitants from the same municipality but living outside the urban area of the city in other civil parishes ( freguesias ) of the municipality. In some cases, the entire municipality and the city proper cover the same territory.</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Demographics of Portugal</text>
+</context>
+<context>
+	<score>0.7845238</score>
+	<text>[ edit ] Largest cities</text>
+</context>
+<context>
+	<score>0.7531513</score>
+	<text>[ edit ] Largest urban areas</text>
+</context>
+<context>
+	<score>0.723783</score>
+	<text>[ edit ] Urban organization</text>
+</context>
+<context>
+	<score>0.723783</score>
+	<text>[ edit ] People</text>
+</context>
+<context>
+	<score>0.723783</score>
+	<text>[ edit ] Statistics</text>
+</context>
+<context>
+	<score>0.723783</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.723783</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7069481</score>
+	<text>These broader agglomerations are distinct from the political metropolitan areas of Lisbon and Porto - Grande rea Metropolitana de Lisboa and Grande rea Metropolitana do Porto . Together they hold 58% of the total population.</text>
+</context>
+<context>
+	<score>0.64488745</score>
+	<text>As of 2001 Census, Portugal had two significant agglomerations: Lisbon Metropolitan Region and Northern Littoral Urban-Metropolitan Region (or Porto Metropolitan Agglomeration).</text>
+</context>
+<context>
+	<score>0.6063546</score>
+	<text>When considering the number of inhabitants in consistent single urban area , de facto cities in mainland Portugal, with increased density of human-created structures, and excluding suburban and rural areas, Portugal had two cities had about one million inhabitants, ten others had more than 50,000 inhabitants and 14 cities had populations between 40 and 20 thousand inhabitants.</text>
+</context>
+<context>
+	<score>0.5952389</score>
+	<text>[ edit ] Metropolitan areas</text>
+</context>
+<context>
+	<score>0.5555202</score>
+	<text>[ edit ] Urban organization</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52000356</score>
+	<text>Note: this table does not include cities in the Portuguese islands of Madeira and Azores in mid-Atlantic Ocean.</text>
+</context>
+<context>
+	<score>0.4983251</score>
+	<text>Today, many Eastern Europeans (especially Ukrainians , Moldavians , Romanians and Russians ), as well as Brazilians , are making Portugal their home. Portuguese is spoken throughout the country, with only the villages of Miranda do Douro &apos;s Mirandese language recognised as a locally co-official language.</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Furthermore the demographic development is characterized by three trends: increasing longevity, decreasing birth rates and an increasing percentage of population from foreign extraction.</text>
+</context>
+<context>
+	<score>0.46920887</score>
+	<text>[ edit ] Largest municipalities by population</text>
+</context>
+<context>
+	<score>0.46172026</score>
+	<text>Portugal is a fairly homogeneous country linguistically and religiously. Ethnically, the Portuguese people are mainly a combination of pre-Roman Iberian Celtic tribes, Lusitanians and others, with a fair amount of Roman , Germanic ( Visigoths and Suevi ) and some minor elements, essentially Arab - Berbers , and Jews .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="4" cellspacing="0" style="border: 1px solid #afafaf; border-collapse: collapse;"><tr style="background: #efefef;"><th align="right">Rank</th><th align="left">City name</th><th align="right">Population</th><th align="left">Metropolitan area</th><th align="left">Subregion</th></tr><tr align="right"><td>1</td><td align="left"><a href="../../../../articles/l/i/s/Lisbon.html" title="Lisbon">Lisbon</a></td><td><b>564,657</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></i></td></tr><tr align="right"><td>2</td><td align="left"><a href="../../../../articles/p/o/r/Porto.html" title="Porto">Porto</a></td><td><b>263,131</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>3</td><td align="left"><a href="../../../../articles/v/i/l/Vila_Nova_de_Gaia_d7ed.html" title="Vila Nova de Gaia">Vila Nova de Gaia</a></td><td><b>178,255</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>4</td><td align="left"><a href="../../../../articles/a/m/a/Amadora.html" title="Amadora">Amadora</a></td><td><b>175,872</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></i></td></tr><tr align="right"><td>5</td><td align="left"><a href="../../../../articles/b/r/a/Braga.html" title="Braga">Braga</a></td><td><b>109,460</b></td><td></td><td align="left"><i><a href="../../../../articles/c/%C3%A1/v/C%C3%A1vado.html" title="Cávado">Cávado</a></i></td></tr><tr align="right"><td>6</td><td align="left"><a href="../../../../articles/a/l/m/Almada.html" title="Almada">Almada</a></td><td><b>101,500</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></i></td></tr><tr align="right"><td>7</td><td align="left"><a href="../../../../articles/c/o/i/Coimbra.html" title="Coimbra">Coimbra</a></td><td><b>101,069</b></td><td></td><td align="left"><i><a href="../../../../articles/b/a/i/Baixo_Mondego_61bb.html" title="Baixo Mondego">Baixo Mondego</a></i></td></tr><tr align="right"><td>8</td><td align="left"><a href="../../../../articles/f/u/n/Funchal.html" title="Funchal">Funchal</a></td><td><b>100,526</b></td><td></td><td align="left"><i><a href="../../../../articles/m/a/d/Madeira.html" title="Madeira">Madeira</a></i></td></tr><tr align="right"><td>9</td><td align="left"><a href="../../../../articles/s/e/t/Set%C3%BAbal.html" title="Setúbal">Setúbal</a></td><td><b>89,303</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></i></td></tr><tr align="right"><td>10</td><td align="left"><a href="../../../../articles/a/g/u/Agualva-Cac%C3%A9m_6425.html" title="Agualva-Cacém">Agualva-Cacém</a></td><td><b>81,845</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></i></td></tr><tr align="right"><td>11</td><td align="left"><a href="../../../../articles/q/u/e/Queluz.html" title="Queluz">Queluz</a></td><td><b>78,040</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></i></td></tr><tr align="right"><td>12</td><td align="left"><a href="../../../../articles/a/v/e/Aveiro.html" title="Aveiro">Aveiro</a></td><td><b>55,291</b></td><td></td><td align="left"><i><a href="../../../../articles/b/a/i/Baixo_Vouga_73db.html" title="Baixo Vouga">Baixo Vouga</a></i></td></tr><tr align="right"><td>13</td><td align="left"><a href="../../../../articles/g/u/i/Guimar%C3%A3es.html" title="Guimarães">Guimarães</a></td><td><b>52,181</b></td><td></td><td align="left"><i><a href="../../../../articles/a/v/e/Ave%2C_Subregion_a0b9.html" title="Ave, Subregion">Ave</a></i></td></tr><tr align="right"><td>14</td><td align="left"><a href="../../../../articles/o/d/i/Odivelas.html" title="Odivelas">Odivelas</a></td><td><b>50,846</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></i></td></tr><tr align="right"><td>15</td><td align="left"><a href="../../../../articles/r/i/o/Rio_Tinto_%28Gondomar%29_ac04.html" title="Rio Tinto (Gondomar)">Rio Tinto</a></td><td><b>47,695</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>16</td><td align="left"><a href="../../../../articles/v/i/s/Viseu.html" title="Viseu">Viseu</a></td><td><b>47,250</b></td><td></td><td align="left"><i><a href="../../../../articles/d/%C3%A3/o/D%C3%A3o-Laf%C3%B5es_d4e5.html" title="Dão-Lafões">Dão-Lafões</a></i></td></tr><tr align="right"><td>17</td><td align="left"><a href="../../../../articles/p/o/n/Ponta_Delgada_97b0.html" class="mw-redirect" title="Ponta Delgada">Ponta Delgada</a></td><td><b>46,102</b></td><td></td><td align="left"><i><a href="../../../../articles/a/%C3%A7/o/A%C3%A7ores.html" class="mw-redirect" title="Açores">Açores</a></i></td></tr><tr align="right"><td>18</td><td align="left"><a href="../../../../articles/m/a/t/Matosinhos.html" title="Matosinhos">Matosinhos</a></td><td><b>45,703</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>19</td><td align="left"><a href="../../../../articles/a/m/o/Amora%2C_Portugal_98ba.html" class="mw-redirect" title="Amora, Portugal">Amora</a></td><td><b>44,515</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></i></td></tr><tr align="right"><td>20</td><td align="left"><a href="../../../../articles/l/e/i/Leiria.html" title="Leiria">Leiria</a></td><td><b>42,745</b></td><td></td><td align="left"><i><a href="../../../../articles/p/i/n/Pinhal_Litoral_970c.html" title="Pinhal Litoral">Pinhal Litoral</a></i></td></tr><tr align="right"><td>21</td><td align="left"><a href="../../../../articles/f/a/r/Faro%2C_Portugal_9675.html" title="Faro, Portugal">Faro</a></td><td><b>41,934</b></td><td></td><td align="left"><i><a href="../../../../articles/a/l/g/Algarve.html" title="Algarve">Algarve</a></i></td></tr><tr align="right"><td>22</td><td align="left"><a href="../../../../articles/%C3%A9/v/o/%C3%89vora.html" title="Évora">Évora</a></td><td><b>41,159</b></td><td></td><td align="left"><i><a href="../../../../articles/a/l/e/Alentejo_Central_72ea.html" title="Alentejo Central">Alentejo Central</a></i></td></tr><tr align="right"><td>23</td><td align="left"><a href="../../../../articles/b/a/r/Barreiro.html" title="Barreiro">Barreiro</a></td><td><b>40,859</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Metropolitan Area of Lisbon</a></td><td align="left"><i><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></i></td></tr><tr align="right"><td>24</td><td align="left"><a href="../../../../articles/p/%C3%B3/v/P%C3%B3voa_de_Varzim_e047.html" title="Póvoa de Varzim">Póvoa de Varzim</a></td><td><b>38,643</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>25</td><td align="left"><a href="../../../../articles/e/r/m/Ermesinde.html" title="Ermesinde">Ermesinde</a></td><td><b>38,270</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>26</td><td align="left"><a href="../../../../articles/v/i/a/Viana_do_Castelo_df12.html" title="Viana do Castelo">Viana do Castelo</a></td><td><b>36,148</b></td><td></td><td align="left"><i><a href="../../../../articles/m/i/n/Minho-Lima_d0b4.html" title="Minho-Lima">Minho-Lima</a></i></td></tr><tr align="right"><td>27</td><td align="left"><a href="../../../../articles/m/a/i/Maia.html" title="Maia">Maia</a></td><td><b>35,625</b></td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Metropolitan Area of Porto</a></td><td align="left"><i><a href="../../../../articles/g/r/a/Grande_Porto_f101.html" title="Grande Porto">Grande Porto</a></i></td></tr><tr align="right"><td>28</td><td align="left"><a href="../../../../articles/c/o/v/Covilh%C3%A3.html" title="Covilhã">Covilhã</a></td><td><b>34,772</b></td><td></td><td align="left"><i><a href="../../../../articles/c/o/v/Cova_da_Beira_f406.html" title="Cova da Beira">Cova da Beira</a></i></td></tr><tr align="right"><td>29</td><td align="left"><a href="../../../../articles/p/o/r/Portim%C3%A3o.html" title="Portimão">Portimão</a></td><td><b>32,433</b></td><td></td><td align="left"><i><a href="../../../../articles/a/l/g/Algarve.html" title="Algarve">Algarve</a></i></td></tr><tr align="right"><td>30</td><td align="left"><a href="../../../../articles/c/a/s/Castelo_Branco_a484.html" title="Castelo Branco">Castelo Branco</a></td><td><b>30,649</b></td><td></td><td align="left"><i><a href="../../../../articles/b/e/i/Beira_Interior_Sul_e021.html" title="Beira Interior Sul">Beira Interior Sul</a></i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

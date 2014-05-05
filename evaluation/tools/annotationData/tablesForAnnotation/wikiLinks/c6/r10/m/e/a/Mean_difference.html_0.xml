@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r10/m/e/a/Mean_difference.html_0.xml" />
+<meta name="primaryKey" value="0.6 0, 0.18333334 0 2, 0.16666667 0 3, 0.15 0 4, 0.14666668 2, 0.135 4, 0.13333334 3, 0.13333334 0 5, 0.120000005 5, 0.058333334 1, 0.058333334 0 1, 0.024750002 2 4, 0.024444444 2 3, 0.022499999 3 4, 0.022 2 5, 0.020000001 3 5, 0.018000001 4 5, 0.010694445 1 2, 0.009722223 1 3, 0.00875 1 4, 0.007777778 1 5, " />
+<meta name="parentHTMLDoc" value="en/articles/m/e/a/Mean_difference.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Distribution</th>]]></html>
+	<text>Distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Parameters</th>]]></html>
+	<text>Parameters</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mean</th>]]></html>
+	<text>Mean</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Standard Deviation</th>]]></html>
+	<text>Standard Deviation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mean Difference</th>]]></html>
+	<text>Mean Difference</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Relative Mean Difference</th>]]></html>
+	<text>Relative Mean Difference</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Continuous Uniform distribution</td>]]></html>
+	<text>Continuous Uniform distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>a = 0 ; b = 1</td>]]></html>
+	<text>a = 0 ; b = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 / 2 = 0.5</td>]]></html>
+	<text>1 / 2 = 0.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/9/b/b/9bb2ef5c53196ccaf9bae9dcd3b1d9bc.png ≈ 0.2887</td>]]></html>
+	<text>../../../../math/9/b/b/9bb2ef5c53196ccaf9bae9dcd3b1d9bc.png &#8776; 0.2887</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 / 3 ≈ 0.3333</td>]]></html>
+	<text>1 / 3 &#8776; 0.3333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 / 3 ≈ 0.6667</td>]]></html>
+	<text>2 / 3 &#8776; 0.6667</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Normal distribution</td>]]></html>
+	<text>Normal distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>μ = 1 ; σ = 1</td>]]></html>
+	<text>&#956; = 1 ; &#963; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png ≈ 1.1284</td>]]></html>
+	<text>../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png &#8776; 1.1284</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png ≈ 1.1284</td>]]></html>
+	<text>../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png &#8776; 1.1284</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Exponential distribution</td>]]></html>
+	<text>Exponential distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>λ = 1</td>]]></html>
+	<text>&#955; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pareto distribution</td>]]></html>
+	<text>Pareto distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k &gt; 1 ; x m = 1</td>]]></html>
+	<text>k &amp;amp;gt; 1 ; x m = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/1/6/d/16d4d9cb0bd82b52f930c78249bd47d6.png</td>]]></html>
+	<text>../../../../math/1/6/d/16d4d9cb0bd82b52f930c78249bd47d6.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/6/b/d/6bdb9fab3ad42c34cb57ba7269b0b6ef.png (for k &gt; 2)</td>]]></html>
+	<text>../../../../math/6/b/d/6bdb9fab3ad42c34cb57ba7269b0b6ef.png (for k &amp;amp;gt; 2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/6/e/2/6e2767cc078fbf66c08fffd0cbb74c0f.png</td>]]></html>
+	<text>../../../../math/6/e/2/6e2767cc078fbf66c08fffd0cbb74c0f.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/e/e/a/eea5402c3e7da58b532a85e768915e33.png</td>]]></html>
+	<text>../../../../math/e/e/a/eea5402c3e7da58b532a85e768915e33.png</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamma distribution</td>]]></html>
+	<text>Gamma distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k ; θ</td>]]></html>
+	<text>k ; &#952;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k θ</td>]]></html>
+	<text>k &#952;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/2/b/3/2b310de22821a2c794db282d52ad396f.png</td>]]></html>
+	<text>../../../../math/2/b/3/2b310de22821a2c794db282d52ad396f.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k θ (2 − 4 I 0.5 ( k +1 , k )) †</td>]]></html>
+	<text>k &#952; (2 &#8722; 4 I 0.5 ( k +1 , k )) &#8224;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 − 4 I 0.5 ( k +1 , k ) †</td>]]></html>
+	<text>2 &#8722; 4 I 0.5 ( k +1 , k ) &#8224;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamma distribution</td>]]></html>
+	<text>Gamma distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k = 1 ; θ = 1</td>]]></html>
+	<text>k = 1 ; &#952; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamma distribution</td>]]></html>
+	<text>Gamma distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k = 2 ; θ = 1</td>]]></html>
+	<text>k = 2 ; &#952; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/e/f/5/ef5590434a387b3c4427e09d5b08baaf.png ≈ 1.4142</td>]]></html>
+	<text>../../../../math/e/f/5/ef5590434a387b3c4427e09d5b08baaf.png &#8776; 1.4142</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 / 2 = 1.5</td>]]></html>
+	<text>3 / 2 = 1.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 / 4 = 0.75</td>]]></html>
+	<text>3 / 4 = 0.75</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamma distribution</td>]]></html>
+	<text>Gamma distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k = 3 ; θ = 1</td>]]></html>
+	<text>k = 3 ; &#952; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/7/d/2/7d2db2b2c90be143cb85c105105317da.png ≈ 1.7321</td>]]></html>
+	<text>../../../../math/7/d/2/7d2db2b2c90be143cb85c105105317da.png &#8776; 1.7321</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 / 8 = 1.875</td>]]></html>
+	<text>15 / 8 = 1.875</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 / 8 = 0.625</td>]]></html>
+	<text>5 / 8 = 0.625</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamma distribution</td>]]></html>
+	<text>Gamma distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k = 4 ; θ = 1</td>]]></html>
+	<text>k = 4 ; &#952; = 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35 / 16 = 2.1875</td>]]></html>
+	<text>35 / 16 = 2.1875</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35 / 64 = 0.546875</td>]]></html>
+	<text>35 / 64 = 0.546875</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bernoulli distribution</td>]]></html>
+	<text>Bernoulli distribution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 ≤ p ≤ 1</td>]]></html>
+	<text>0 &#8804; p &#8804; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>p</td>]]></html>
+	<text>p</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/8/4/3/843d068855420a74f805bbf01db9e0c2.png</td>]]></html>
+	<text>../../../../math/8/4/3/843d068855420a74f805bbf01db9e0c2.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 p (1 − p )</td>]]></html>
+	<text>2 p (1 &#8722; p )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 (1 − p ) for p &gt; 0</td>]]></html>
+	<text>2 (1 &#8722; p ) for p &amp;amp;gt; 0</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Examples of Mean Difference and Relative Mean Difference</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Mean difference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Distribution Parameters Mean Standard Deviation Mean Difference Relative Mean Difference</text>
+</context>
+<context>
+	<score>0.8814532</score>
+	<text>[ edit ] Examples</text>
+</context>
+<context>
+	<score>0.7910497</score>
+	<text>Mean difference</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>where the r i are constants. So E(R( S )) can never equal RMD( X ( p )) for all p between 0 and 1.</text>
+</context>
+<context>
+	<score>0.75099146</score>
+	<text>I z (x,y) is the regularized incomplete Beta function</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Calculation</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Relative mean difference</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Properties</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Compared to standard deviation</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Sample estimators</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] Examples</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71686</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7121928</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>But the expected value of any estimator R ( S ) of RMD( X ( p )) will be of the form:</text>
+</context>
+<context>
+	<score>0.6362725</score>
+	<text>RMD( X ( p )) = 2 p (1 p )/(1 + p ).</text>
+</context>
+<context>
+	<score>0.6017704</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5904712</score>
+	<text>There does not exist, in general, an unbiased estimator for RMD( X ), in part because of the difficulty of finding an unbiased estimation for multiplying by the inverse of the mean. For example, even where the sample is known to be taken from a random variable X ( p ) for an unknown p , and X ( p ) - 1 has the Bernoulli distribution , so that Pr( X ( p ) = 1) = 1 p and Pr( X ( p ) = 2) = p , then</text>
+</context>
+<context>
+	<score>0.5454293</score>
+	<text>Confidence intervals for RMD( X ) can be calculated using bootstrap sampling techniques.</text>
+</context>
+<context>
+	<score>0.5177967</score>
+	<text>is a consistent estimator of RMD( X ), but is not, in general, unbiased .</text>
+</context>
+<context>
+	<score>0.5139933</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.48728967</score>
+	<text>The statistic:</text>
+</context>
+<context>
+	<score>0.471285</score>
+	<text>is a consistent and unbiased estimator of MD( X ).</text>
+</context>
+<context>
+	<score>0.46235976</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4500803</score>
+	<text>For a random sample S from a random variable X , consisting of n values y i , the statistic</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center"><caption>Examples of Mean Difference and Relative Mean Difference</caption><tr><th>Distribution</th><th>Parameters</th><th>Mean</th><th>Standard Deviation</th><th>Mean Difference</th><th>Relative Mean Difference</th></tr><tr><td><a href="../../../../articles/u/n/i/Uniform_distribution_%28continuous%29.html" title="Uniform distribution (continuous)">Continuous Uniform distribution</a></td><td>a = 0&#160;; b = 1</td><td>1 / 2 = 0.5</td><td><img class="tex" alt="\frac{1}{\sqrt{12}}" src="../../../../math/9/b/b/9bb2ef5c53196ccaf9bae9dcd3b1d9bc.png" /> ≈ 0.2887</td><td>1 / 3 ≈ 0.3333</td><td>2 / 3 ≈ 0.6667</td></tr><tr><td><a href="../../../../articles/n/o/r/Normal_distribution.html" title="Normal distribution">Normal distribution</a></td><td>μ = 1&#160;; σ = 1</td><td>1</td><td>1</td><td><img class="tex" alt="\frac{2}{\sqrt{\pi}}" src="../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png" /> ≈ 1.1284</td><td><img class="tex" alt="\frac{2}{\sqrt{\pi}}" src="../../../../math/3/2/e/32eaec05f73020d09a61818e92ae0818.png" /> ≈ 1.1284</td></tr><tr><td><a href="../../../../articles/e/x/p/Exponential_distribution.html" title="Exponential distribution">Exponential distribution</a></td><td>λ = 1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td><a href="../../../../articles/p/a/r/Pareto_distribution.html" title="Pareto distribution">Pareto distribution</a></td><td><i>k</i> &gt; 1&#160;; <i>x</i><sub>m</sub>&#160;=&#160;1</td><td><img class="tex" alt="\frac{k}{(k-1)}" src="../../../../math/1/6/d/16d4d9cb0bd82b52f930c78249bd47d6.png" /></td><td><img class="tex" alt="\frac{1}{(k-1)}\,\sqrt{\frac{k}{(k-2)}}" src="../../../../math/6/b/d/6bdb9fab3ad42c34cb57ba7269b0b6ef.png" /> (for&#160;<i>k</i>&#160;&gt;&#160;2)</td><td><img class="tex" alt="\frac{2 k} {(k-1) (2k-1)} \," src="../../../../math/6/e/2/6e2767cc078fbf66c08fffd0cbb74c0f.png" /></td><td><img class="tex" alt="\frac{2}{2k-1}\," src="../../../../math/e/e/a/eea5402c3e7da58b532a85e768915e33.png" /></td></tr><tr><td><a href="../../../../articles/g/a/m/Gamma_distribution.html" title="Gamma distribution">Gamma distribution</a></td><td><i>k</i>&#160;; θ</td><td><i>k</i>θ</td><td><img class="tex" alt="\sqrt{k}\,\theta" src="../../../../math/2/b/3/2b310de22821a2c794db282d52ad396f.png" /></td><td><i>k</i> θ (2 − 4 <i>I</i> <sub>0.5</sub> (<i>k</i>+1 , <i>k</i>)) †</td><td>2 − 4 <i>I</i> <sub>0.5</sub> (<i>k</i>+1 , <i>k</i>) †</td></tr><tr><td><a href="../../../../articles/g/a/m/Gamma_distribution.html" title="Gamma distribution">Gamma distribution</a></td><td><i>k</i> = 1&#160;; θ&#160;=&#160;1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td><a href="../../../../articles/g/a/m/Gamma_distribution.html" title="Gamma distribution">Gamma distribution</a></td><td><i>k</i> = 2&#160;; θ = 1</td><td>2</td><td><img class="tex" alt="\sqrt{2}" src="../../../../math/e/f/5/ef5590434a387b3c4427e09d5b08baaf.png" /> ≈ 1.4142</td><td>3 / 2 = 1.5</td><td>3 / 4 = 0.75</td></tr><tr><td><a href="../../../../articles/g/a/m/Gamma_distribution.html" title="Gamma distribution">Gamma distribution</a></td><td><i>k</i> = 3&#160;; θ = 1</td><td>3</td><td><img class="tex" alt="\sqrt{3}" src="../../../../math/7/d/2/7d2db2b2c90be143cb85c105105317da.png" /> ≈ 1.7321</td><td>15 / 8 = 1.875</td><td>5 / 8 = 0.625</td></tr><tr><td><a href="../../../../articles/g/a/m/Gamma_distribution.html" title="Gamma distribution">Gamma distribution</a></td><td><i>k</i> = 4&#160;; θ = 1</td><td>4</td><td>2</td><td>35 / 16 = 2.1875</td><td>35 / 64 = 0.546875</td></tr><tr><td><a href="../../../../articles/b/e/r/Bernoulli_distribution.html" title="Bernoulli distribution">Bernoulli distribution</a></td><td>0 ≤ <i>p</i> ≤ 1</td><td><i>p</i></td><td><img class="tex" alt="\sqrt{p(1-p)}" src="../../../../math/8/4/3/843d068855420a74f805bbf01db9e0c2.png" /></td><td>2 <i>p</i> (1&#160;−&#160;<i>p</i>)</td><td>2 (1&#160;−&#160;<i>p</i>) for <i>p</i> &gt; 0</td></tr></table>]]>
+</htmlSnippet>
+</entity>

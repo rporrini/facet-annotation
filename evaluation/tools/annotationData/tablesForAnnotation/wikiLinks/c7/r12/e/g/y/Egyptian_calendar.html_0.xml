@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r12/e/g/y/Egyptian_calendar.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 2, 0.85714287 0 2, 0.79591835 1 2, 0.78571427 3, 0.78571427 0 3, 0.7295918 1 3, 0.71428573 4, 0.71428573 0 4, 0.67346936 2 3, 0.6632653 1 4, 0.64285713 5, 0.64285713 0 5, 0.6122449 2 4, 0.5969387 1 5, 0.5714286 6, 0.5714286 0 6, 0.5612245 3 4, 0.5510204 2 5, 0.53061223 1 6, 0.50510204 3 5, 0.48979595 2 6, 0.4591837 4 5, 0.44897962 3 6, 0.40816328 4 6, 0.36734694 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/e/g/y/Egyptian_calendar.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>No.</th>]]></html>
+	<text>No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Seasonal Names</th>]]></html>
+	<text>Seasonal Names</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Middle Kingdom</th>]]></html>
+	<text>Middle Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>New Kingdom</th>]]></html>
+	<text>New Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Greek</th>]]></html>
+	<text>Greek</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coptic</th>]]></html>
+	<text>Coptic</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Egyptian Arabic</th>]]></html>
+	<text>Egyptian Arabic</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>I</td>]]></html>
+	<text>I</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First of Akhet</td>]]></html>
+	<text>First of Akhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tekh</td>]]></html>
+	<text>Tekh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dhwt</td>]]></html>
+	<text>Dhwt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thoth</td>]]></html>
+	<text>Thoth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thout</td>]]></html>
+	<text>Thout</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tout</td>]]></html>
+	<text>Tout</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>II</td>]]></html>
+	<text>II</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second of Akhet</td>]]></html>
+	<text>Second of Akhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Menhet</td>]]></html>
+	<text>Menhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pa-n-ip.t</td>]]></html>
+	<text>Pa-n-ip.t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phaophi</td>]]></html>
+	<text>Phaophi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paopi</td>]]></html>
+	<text>Paopi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baba</td>]]></html>
+	<text>Baba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>III</td>]]></html>
+	<text>III</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Third of Akhet</td>]]></html>
+	<text>Third of Akhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hwt-hwr</td>]]></html>
+	<text>Hwt-hwr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hwt-hwr</td>]]></html>
+	<text>Hwt-hwr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Athyr</td>]]></html>
+	<text>Athyr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hathor</td>]]></html>
+	<text>Hathor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hatour</td>]]></html>
+	<text>Hatour</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IV</td>]]></html>
+	<text>IV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fourth of Akhet</td>]]></html>
+	<text>Fourth of Akhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ka-hr-ka</td>]]></html>
+	<text>Ka-hr-ka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ka-hr-ka</td>]]></html>
+	<text>Ka-hr-ka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Choiak</td>]]></html>
+	<text>Choiak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koiak</td>]]></html>
+	<text>Koiak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiahk</td>]]></html>
+	<text>Kiahk</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>V</td>]]></html>
+	<text>V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First of Peret</td>]]></html>
+	<text>First of Peret</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sf-bdt</td>]]></html>
+	<text>Sf-bdt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ta-'b</td>]]></html>
+	<text>Ta-&amp;apos;b</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tybi</td>]]></html>
+	<text>Tybi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tobi</td>]]></html>
+	<text>Tobi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Touba</td>]]></html>
+	<text>Touba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VI</td>]]></html>
+	<text>VI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second of Peret</td>]]></html>
+	<text>Second of Peret</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rekh wer</td>]]></html>
+	<text>Rekh wer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>M ḫ yr</td>]]></html>
+	<text>M &#7723; yr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mechir</td>]]></html>
+	<text>Mechir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Meshir</td>]]></html>
+	<text>Meshir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amshir</td>]]></html>
+	<text>Amshir</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VII</td>]]></html>
+	<text>VII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Third of Peret</td>]]></html>
+	<text>Third of Peret</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rekh neds</td>]]></html>
+	<text>Rekh neds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pa-n-amn-htp.w</td>]]></html>
+	<text>Pa-n-amn-htp.w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phamenoth</td>]]></html>
+	<text>Phamenoth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paremhat</td>]]></html>
+	<text>Paremhat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baramhat</td>]]></html>
+	<text>Baramhat</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VIII</td>]]></html>
+	<text>VIII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fourth of Peret</td>]]></html>
+	<text>Fourth of Peret</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Renwet</td>]]></html>
+	<text>Renwet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pa-n-rnn.t</td>]]></html>
+	<text>Pa-n-rnn.t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pharmouthi</td>]]></html>
+	<text>Pharmouthi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paremoude</td>]]></html>
+	<text>Paremoude</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baramouda</td>]]></html>
+	<text>Baramouda</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IX</td>]]></html>
+	<text>IX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First of Shemu</td>]]></html>
+	<text>First of Shemu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hnsw</td>]]></html>
+	<text>Hnsw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pa-n- ḫ ns.w</td>]]></html>
+	<text>Pa-n- &#7723; ns.w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pachon</td>]]></html>
+	<text>Pachon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pashons</td>]]></html>
+	<text>Pashons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bashans</td>]]></html>
+	<text>Bashans</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second of Shemu</td>]]></html>
+	<text>Second of Shemu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hnt-htj</td>]]></html>
+	<text>Hnt-htj</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pa-n-in.t</td>]]></html>
+	<text>Pa-n-in.t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Payni</td>]]></html>
+	<text>Payni</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paoni</td>]]></html>
+	<text>Paoni</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ba'ouna</td>]]></html>
+	<text>Ba&amp;apos;ouna</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XI</td>]]></html>
+	<text>XI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Third of Shemu</td>]]></html>
+	<text>Third of Shemu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ipt-hmt</td>]]></html>
+	<text>Ipt-hmt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ipip</td>]]></html>
+	<text>Ipip</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epiphi</td>]]></html>
+	<text>Epiphi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epip</td>]]></html>
+	<text>Epip</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abib</td>]]></html>
+	<text>Abib</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XII</td>]]></html>
+	<text>XII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fourth of Shemu</td>]]></html>
+	<text>Fourth of Shemu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wep-renpet</td>]]></html>
+	<text>Wep-renpet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Msw-r'</td>]]></html>
+	<text>Msw-r&amp;apos;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mesore</td>]]></html>
+	<text>Mesore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mesori</td>]]></html>
+	<text>Mesori</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mesra</td>]]></html>
+	<text>Mesra</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Months</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Egyptian calendar - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>No. Seasonal Names Middle Kingdom New Kingdom Greek Coptic Egyptian Arabic</text>
+</context>
+<context>
+	<score>0.8818374</score>
+	<text>The Ethiopian calendar is based on this calendar but uses Amharic names for its months and uses a different era. The French Republican Calendar was similar, but began its year at the autumnal equinox . British orrery maker John Gleave represented the Egyptian calendar in a reconstruction of the Antikythera mechanism .</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>Egyptian calendar</text>
+</context>
+<context>
+	<score>0.78211343</score>
+	<text>The reformed Egyptian calendar continues to be used in Egypt as the Coptic calendar of the Egyptian Church and by the Egyptian populace at large, particularly the fellahin to calculate the agricultural seasons. Contemporary Egyptian farmers, like their ancient predecessors, divide the year into three seasons, namely winter, summer and inundation. It is also associated with local festivals such as the annual Flooding of the Nile and the ancient Spring festival sham en nisim .</text>
+</context>
+<context>
+	<score>0.7498498</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] Early use</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] Ptolemaic and Roman</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] Reformed calendar</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7179161</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71142364</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7023342</score>
+	<text>[ edit ] Reformed calendar</text>
+</context>
+<context>
+	<score>0.6385108</score>
+	<text>In 238 BC , the Ptolemaic rulers decreed that every fourth year should be 366 days long rather than 365. The Egyptians, most of whom were farmers, did not accept the reform, as it was the agricultural seasons that made up their year. The reform eventually went into effect with the introduction of the &quot;Alexandrian calendar&quot; by Augustus in 26/25 BC, which included a sixth epagomenal day for the first time in 22 BCE. This almost stopped the movement of the first day of the year, 1 Thoth, relative to the seasons, leaving it on 29 August in the Julian calendar except in the year before a Julian leap year, when a sixth epagomenal day occurred on 29 August , shifting 1 Thoth to 30 August .</text>
+</context>
+<context>
+	<score>0.59888345</score>
+	<text>^ Marshall Clagett. Ancient Egyptian Science: A Source Book (1989) 10 11. ^ Alexandrian reform of the Egyptian calendar</text>
+</context>
+<context>
+	<score>0.5874521</score>
+	<text>According to Roman writer Censorinus , the Egyptian New Year&apos;s Day fell on July 20 in the Julian Calendar in 139 AD , which was a heliacal rising of Sirius in Egypt. From this it is possible to calculate that the previous occasion on which this occurred was 1322 BC , and the one before that was 2782 BC . This latter date has been postulated as the time when the calendar was invented, but Djer&apos;s reign preceded that date. Other historians push it back another whole cycle, to 4242 BC .</text>
+</context>
+<context>
+	<score>0.54660517</score>
+	<text>[ edit ] Ptolemaic and Roman</text>
+</context>
+<context>
+	<score>0.5139276</score>
+	<text>Astronomers in the Middle Ages used the Egyptian calendar because of its mathematical regularity Copernicus for example constructed his tables for the motion of the planets based on the Egyptian year. The convention amongst modern Egyptologists is to number the months consecutively using Roman numerals .</text>
+</context>
+<context>
+	<score>0.51007974</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.48778552</score>
+	<text>For much of Egyptian history, the months were not referred to by individual names, but were rather numbered within the three seasons. As early as the Middle Kingdom , however, each month had its own name. These finally evolved into the New Kingdom months, which in turn gave rise to the Hellenized names that were used for chronology by Ptolemy in his Almagest , and by others.</text>
+</context>
+<context>
+	<score>0.4668719</score>
+	<text>The heliacal rising of Sothis returned to the same point in the calendar every 1460 years (a period called the Sothic cycle ). The difference between a seasonal year and a civil year was therefore 365 days in 1460 years, or 1 day in 4 years. Similarly, the Egyptians were aware that 309 lunations nearly equalled 9125 days, or 25 Egyptian years, which was likely used in the construction of the secondary lunar calendar.</text>
+</context>
+<context>
+	<score>0.4578423</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.45014098</score>
+	<text>The Egyptians may have used a lunar calendar at an earlier date, but when they discovered the discrepancy between the lunar calendar and the actual passage of time, they probably switched to a calendar based on the Nile inundation. The first inundation according to the calendar was observed in Egypt&apos;s first capital, Memphis , at the same time as the heliacal rising of Sirius ( Egyptian Sopdet , Greek Sothis ). The Egyptian year was divided into the three seasons of akhet (Inundation), peret (Growth - Winter) and shemu (Harvest - Summer).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><caption>Months</caption><tr><th><i>No.</i></th><th>Seasonal Names</th><th><a href="../../../../articles/m/i/d/Middle_Kingdom_of_Egypt_8551.html" title="Middle Kingdom of Egypt">Middle Kingdom</a></th><th><a href="../../../../articles/n/e/w/New_Kingdom_e70d.html" title="New Kingdom">New Kingdom</a></th><th><a href="../../../../articles/g/r/e/Greek_language.html" title="Greek language">Greek</a></th><th><a href="../../../../articles/c/o/p/Coptic_language.html" title="Coptic language">Coptic</a></th><th><a href="../../../../articles/e/g/y/Egyptian_Arabic_032f.html" title="Egyptian Arabic">Egyptian Arabic</a></th></tr><tr><td>I</td><td>First of <i>Akhet</i></td><td>Tekh</td><td>Dhwt</td><td><a href="../../../../articles/t/h/o/Thoth.html" title="Thoth">Thoth</a></td><td><a href="../../../../articles/t/h/o/Thout.html" title="Thout">Thout</a></td><td>Tout</td></tr><tr><td>II</td><td>Second of <i>Akhet</i></td><td>Menhet</td><td>Pa-n-ip.t</td><td>Phaophi</td><td><a href="../../../../articles/p/a/o/Paopi.html" title="Paopi">Paopi</a></td><td>Baba</td></tr><tr><td>III</td><td>Third of <i>Akhet</i></td><td>Hwt-hwr</td><td>Hwt-hwr</td><td>Athyr</td><td><a href="../../../../articles/m/o/n/Month_of_Hathor_6c30.html" title="Month of Hathor">Hathor</a></td><td>Hatour</td></tr><tr><td>IV</td><td>Fourth of <i>Akhet</i></td><td>Ka-hr-ka</td><td>Ka-hr-ka</td><td>Choiak</td><td><a href="../../../../articles/k/o/i/Koiak.html" title="Koiak">Koiak</a></td><td>Kiahk</td></tr><tr><td>V</td><td>First of <i>Peret</i></td><td>Sf-bdt</td><td>Ta-'b</td><td>Tybi</td><td><a href="../../../../articles/m/o/n/Month_of_Tobi_89d5.html" title="Month of Tobi">Tobi</a></td><td>Touba</td></tr><tr><td>VI</td><td>Second of <i>Peret</i></td><td>Rekh wer</td><td>M<span class="Unicode">ḫ</span>yr</td><td>Mechir</td><td><a href="../../../../articles/m/e/s/Meshir.html" title="Meshir">Meshir</a></td><td>Amshir</td></tr><tr><td>VII</td><td>Third of <i>Peret</i></td><td>Rekh neds</td><td>Pa-n-amn-htp.w</td><td>Phamenoth</td><td><a href="../../../../articles/p/a/r/Paremhat.html" title="Paremhat">Paremhat</a></td><td>Baramhat</td></tr><tr><td>VIII</td><td>Fourth of <i>Peret</i></td><td>Renwet</td><td>Pa-n-rnn.t</td><td>Pharmouthi</td><td><a href="../../../../articles/p/a/r/Paremoude.html" title="Paremoude">Paremoude</a></td><td>Baramouda</td></tr><tr><td>IX</td><td>First of <i>Shemu</i></td><td>Hnsw</td><td>Pa-n-<span class="Unicode">ḫ</span>ns.w</td><td>Pachon</td><td><a href="../../../../articles/p/a/s/Pashons.html" title="Pashons">Pashons</a></td><td>Bashans</td></tr><tr><td>X</td><td>Second of <i>Shemu</i></td><td>Hnt-htj</td><td>Pa-n-in.t</td><td>Payni</td><td><a href="../../../../articles/p/a/o/Paoni.html" title="Paoni">Paoni</a></td><td>Ba'ouna</td></tr><tr><td>XI</td><td>Third of <i>Shemu</i></td><td>Ipt-hmt</td><td>Ipip</td><td>Epiphi</td><td><a href="../../../../articles/e/p/i/Epip.html" title="Epip">Epip</a></td><td>Abib</td></tr><tr><td>XII</td><td>Fourth of <i>Shemu</i></td><td>Wep-renpet</td><td>Msw-r'</td><td>Mesore</td><td><a href="../../../../articles/m/e/s/Mesori.html" title="Mesori">Mesori</a></td><td>Mesra</td></tr></table>]]>
+</htmlSnippet>
+</entity>

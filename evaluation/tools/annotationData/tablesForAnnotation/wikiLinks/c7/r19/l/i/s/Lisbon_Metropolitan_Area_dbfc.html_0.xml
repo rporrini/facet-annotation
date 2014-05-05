@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r19/l/i/s/Lisbon_Metropolitan_Area_dbfc.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 4, 0.85714287 0 5, 0.78571427 0 6, 0.15359828 4 6, 0.14661653 4, 0.14285715 1, 0.14285715 0 1, 0.14178303 5 6, 0.13533834 5, 0.13265306 1 4, 0.12857144 2, 0.12857144 0 2, 0.12567131 4 5, 0.12406014 6, 0.12244899 1 5, 0.11938776 2 4, 0.11428572 3, 0.11428572 0 3, 0.112244904 1 6, 0.110204086 2 5, 0.10612246 3 4, 0.10102041 2 6, 0.09795919 3 5, 0.089795925 3 6, 0.018367348 1 2, 0.016326532 1 3, 0.014693879 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/Lisbon_Metropolitan_Area_dbfc.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area</th>]]></html>
+	<text>Area</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (2001)</th>]]></html>
+	<text>Population (2001)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Density</th>]]></html>
+	<text>Density</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>N.U.T.S. III inclusion</th>]]></html>
+	<text>N.U.T.S. III inclusion</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District inclusion</th>]]></html>
+	<text>District inclusion</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cultural Region inclusion</th>]]></html>
+	<text>Cultural Region inclusion</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amadora</td>]]></html>
+	<text>Amadora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.8 km²</td>]]></html>
+	<text>23.8 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>175,872</td>]]></html>
+	<text>175,872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,389.6/km²</td>]]></html>
+	<text>7,389.6/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cascais</td>]]></html>
+	<text>Cascais</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97.2 km²</td>]]></html>
+	<text>97.2 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170,683</td>]]></html>
+	<text>170,683</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,756.0/km²</td>]]></html>
+	<text>1,756.0/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>84.6 km²</td>]]></html>
+	<text>84.6 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>564,657</td>]]></html>
+	<text>564,657</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,674.4/km²</td>]]></html>
+	<text>6,674.4/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Loures</td>]]></html>
+	<text>Loures</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>169.0 km²</td>]]></html>
+	<text>169.0 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>199,059</td>]]></html>
+	<text>199,059</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,177.9/km²</td>]]></html>
+	<text>1,177.9/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mafra</td>]]></html>
+	<text>Mafra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>291.5 km²</td>]]></html>
+	<text>291.5 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54,358</td>]]></html>
+	<text>54,358</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>186.5/km²</td>]]></html>
+	<text>186.5/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Odivelas</td>]]></html>
+	<text>Odivelas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.6 km²</td>]]></html>
+	<text>26.6 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>133,847</td>]]></html>
+	<text>133,847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,031.8/km²</td>]]></html>
+	<text>5,031.8/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oeiras</td>]]></html>
+	<text>Oeiras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.8 km²</td>]]></html>
+	<text>45.8 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>162,128</td>]]></html>
+	<text>162,128</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,539.9/km²</td>]]></html>
+	<text>3,539.9/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sintra</td>]]></html>
+	<text>Sintra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>319.4 km²</td>]]></html>
+	<text>319.4 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>363,749</td>]]></html>
+	<text>363,749</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,138.9/km²</td>]]></html>
+	<text>1,138.9/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vila Franca de Xira</td>]]></html>
+	<text>Vila Franca de Xira</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>323.5 km²</td>]]></html>
+	<text>323.5 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>122,908</td>]]></html>
+	<text>122,908</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>379.9/km²</td>]]></html>
+	<text>379.9/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Lisboa</td>]]></html>
+	<text>Grande Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisboa</td>]]></html>
+	<text>Lisboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ribatejo</td>]]></html>
+	<text>Ribatejo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alcochete</td>]]></html>
+	<text>Alcochete</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>132.8 km²</td>]]></html>
+	<text>132.8 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,010</td>]]></html>
+	<text>13,010</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98.0/km²</td>]]></html>
+	<text>98.0/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Almada</td>]]></html>
+	<text>Almada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70.2 km²</td>]]></html>
+	<text>70.2 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>160,825</td>]]></html>
+	<text>160,825</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2291.0/km²</td>]]></html>
+	<text>2291.0/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barreiro</td>]]></html>
+	<text>Barreiro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32.0 km²</td>]]></html>
+	<text>32.0 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>79,012</td>]]></html>
+	<text>79,012</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,469.1/km²</td>]]></html>
+	<text>2,469.1/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moita</td>]]></html>
+	<text>Moita</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54.6 km²</td>]]></html>
+	<text>54.6 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>67,449</td>]]></html>
+	<text>67,449</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,235.3/km²</td>]]></html>
+	<text>1,235.3/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montijo</td>]]></html>
+	<text>Montijo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>340.5 km²</td>]]></html>
+	<text>340.5 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39,168</td>]]></html>
+	<text>39,168</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>340.5/km²</td>]]></html>
+	<text>340.5/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Palmela</td>]]></html>
+	<text>Palmela</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>465.9 km²</td>]]></html>
+	<text>465.9 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,353</td>]]></html>
+	<text>53,353</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>465.9/km²</td>]]></html>
+	<text>465.9/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seixal</td>]]></html>
+	<text>Seixal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.7 km²</td>]]></html>
+	<text>95.7 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150,271</td>]]></html>
+	<text>150,271</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,570.2/km²</td>]]></html>
+	<text>1,570.2/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sesimbra</td>]]></html>
+	<text>Sesimbra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>195.7 km²</td>]]></html>
+	<text>195.7 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37,567</td>]]></html>
+	<text>37,567</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>192.0/km²</td>]]></html>
+	<text>192.0/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>193.6 km²</td>]]></html>
+	<text>193.6 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113,934</td>]]></html>
+	<text>113,934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>588.5/km²</td>]]></html>
+	<text>588.5/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Península de Setúbal</td>]]></html>
+	<text>Pen&#237;nsula de Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estremadura</td>]]></html>
+	<text>Estremadura</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,957.4 km²</td>]]></html>
+	<text>2,957.4 km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,641,006</td>]]></html>
+	<text>2,641,006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>893.0/km²</td>]]></html>
+	<text>893.0/km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Lisbon Metropolitan Area - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Municipality Area Population (2001) Density N.U.T.S. III inclusion District inclusion Cultural Region inclusion</text>
+</context>
+<context>
+	<score>0.8787872</score>
+	<text>The municipalities north of the Tagus River are from Lisbon District(Grande Lisboa), South are from de Setubal District(Peninsula de Setubal).</text>
+</context>
+<context>
+	<score>0.8007564</score>
+	<text>Lisbon Metropolitan Area</text>
+</context>
+<context>
+	<score>0.7893927</score>
+	<text>Today, Lisbon Metropolitan Area (AML) territory is almost the same as Lisbon Region territory, being AML a union of metropolitan municipalities, and Lisbon Region a NUTS II region.</text>
+</context>
+<context>
+	<score>0.75802</score>
+	<text>The Metropolitan Area of Lisbon was a semi-official structure. Recently, Portugal has been incrementing the powers held by these territorial organization organs. In the officialization of the Lisbon Great Metropolitan Area, Azambuja left due to being mostly a rustic zone, more kindred to the city of Santar m which lies just 23 km NE, while Lisbon is 45 km away from Azambuja, SE.</text>
+</context>
+<context>
+	<score>0.73075604</score>
+	<text>[ edit ] Irregularities</text>
+</context>
+<context>
+	<score>0.73075604</score>
+	<text>[ edit ] Portuguese Cultural Regions</text>
+</context>
+<context>
+	<score>0.73075604</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73075604</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7231802</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71181655</score>
+	<text>The Lisbon Metropolitan Area, centered in the Portuguese capital city of Lisbon , is the largest population concentration in Portugal. Preliminary data from the 2001 Portuguese census puts the population of the metropolitan area at 2,641,006 (about of the Portuguese population), of which 20.8% lives in the city of Lisbon. About 27% of the population of continental Portugal lives in the 2,957.4 km of AML (3.2% of the continental territory of Portugal), which has an active population of about 1.3 million people. With 32.7% of the national employment being located in its territory, the contribution of AML for the Gross Domestic Product surpasses 36%.</text>
+</context>
+<context>
+	<score>0.64975554</score>
+	<text>Lisbon Metropolitan Area ( Portuguese : rea Metropolitana de Lisboa , or AML ) is a territorial zone that includes 18 municipalities ( concelhos ) in Portugal . The smaller Grande Lisboa (Greater Lisbon) area is a subregion of the NUTS II Lisbon Region by its own right.</text>
+</context>
+<context>
+	<score>0.61147046</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61122245</score>
+	<text>In the official AML site is said:</text>
+</context>
+<context>
+	<score>0.5717514</score>
+	<text>Lisbon Metropolitan Area</text>
+</context>
+<context>
+	<score>0.5172952</score>
+	<text>As stated on the law 10/2003, of the 13 of May, the Grande rea Metropolitana de Lisboa (Lisbon Great Metropolitan Area) is a public collective person of associative nature, and of territorial scope that aims to reach common public interests of the municipalities that integrate it, that includes (18 City Halls) Alcochete, Almada, Barreiro, Cascais, Lisboa, Loures, Mafra, Moita, Montijo, Odivelas, Oeiras, Palmela, Sesimbra, Set bal, Seixal, Sintra and Vila Franca de Xira.</text>
+</context>
+<context>
+	<score>0.47407597</score>
+	<text>The Grande rea Metropolitana de Lisboa was constituted, by public scripture, in 2004 and published on 5 July 2004 , in the III series of the Di rio da Rep blica . It is composed by three organs:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="border"><tr><th>Municipality</th><th>Area</th><th>Population (2001)</th><th>Density</th><th><a href="../../../../articles/n/o/m/Nomenclature_of_Territorial_Units_for_Statistics_6038.html" title="Nomenclature of Territorial Units for Statistics">N.U.T.S. III</a> inclusion</th><th>District inclusion</th><th>Cultural Region inclusion</th></tr><tr><td><a href="../../../../articles/a/m/a/Amadora.html" title="Amadora">Amadora</a></td><td>23.8 km²</td><td>175,872</td><td>7,389.6/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/c/a/s/Cascais.html" title="Cascais">Cascais</a></td><td>97.2 km²</td><td>170,683</td><td>1,756.0/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><b><a href="../../../../articles/l/i/s/Lisboa.html" class="mw-redirect" title="Lisboa">Lisboa</a></b></td><td>84.6 km²</td><td>564,657</td><td>6,674.4/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/l/o/u/Loures.html" title="Loures">Loures</a></td><td>169.0 km²</td><td>199,059</td><td>1,177.9/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/m/a/f/Mafra.html" title="Mafra">Mafra</a></td><td>291.5 km²</td><td>54,358</td><td>186.5/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/o/d/i/Odivelas.html" title="Odivelas">Odivelas</a></td><td>26.6 km²</td><td>133,847</td><td>5,031.8/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/o/e/i/Oeiras.html" title="Oeiras">Oeiras</a></td><td>45.8 km²</td><td>162,128</td><td>3,539.9/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/s/i/n/Sintra.html" title="Sintra">Sintra</a></td><td>319.4 km²</td><td>363,749</td><td>1,138.9/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/v/i/l/Vila_Franca_de_Xira_aa66.html" title="Vila Franca de Xira">Vila Franca de Xira</a></td><td>323.5 km²</td><td>122,908</td><td>379.9/km²</td><td><a href="../../../../articles/g/r/a/Grande_Lisboa_f821.html" title="Grande Lisboa">Grande Lisboa</a></td><td><a href="../../../../articles/l/i/s/Lisbon_%28district%29.html" class="mw-redirect" title="Lisbon (district)">Lisboa</a></td><td><a href="../../../../articles/r/i/b/Ribatejo.html" title="Ribatejo">Ribatejo</a></td></tr><tr><td><a href="../../../../articles/a/l/c/Alcochete.html" title="Alcochete">Alcochete</a></td><td>132.8 km²</td><td>13,010</td><td>98.0/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/a/l/m/Almada.html" title="Almada">Almada</a></td><td>70.2 km²</td><td>160,825</td><td>2291.0/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/b/a/r/Barreiro.html" title="Barreiro">Barreiro</a></td><td>32.0 km²</td><td>79,012</td><td>2,469.1/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/m/o/i/Moita.html" title="Moita">Moita</a></td><td>54.6 km²</td><td>67,449</td><td>1,235.3/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Montijo.html" title="Montijo">Montijo</a></td><td>340.5 km²</td><td>39,168</td><td>340.5/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/p/a/l/Palmela.html" title="Palmela">Palmela</a></td><td>465.9 km²</td><td>53,353</td><td>465.9/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/s/e/i/Seixal.html" title="Seixal">Seixal</a></td><td>95.7 km²</td><td>150,271</td><td>1,570.2/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/s/e/s/Sesimbra.html" title="Sesimbra">Sesimbra</a></td><td>195.7 km²</td><td>37,567</td><td>192.0/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><a href="../../../../articles/s/e/t/Set%C3%BAbal.html" title="Setúbal">Setúbal</a></td><td>193.6 km²</td><td>113,934</td><td>588.5/km²</td><td><a href="../../../../articles/p/e/n/Pen%C3%ADnsula_de_Set%C3%BAbal_b6b8.html" title="Península de Setúbal">Península de Setúbal</a></td><td><a href="../../../../articles/s/e/t/Set%C3%BAbal_%28district%29.html" title="Setúbal (district)">Setúbal</a></td><td><a href="../../../../articles/e/s/t/Estremadura.html" title="Estremadura">Estremadura</a></td></tr><tr><td><b><a href="../../../../articles/t/o/t/Total.html" title="Total">Total</a></b></td><td>2,957.4 km²</td><td>2,641,006</td><td>893.0/km²</td></tr></table>]]>
+</htmlSnippet>
+</entity>

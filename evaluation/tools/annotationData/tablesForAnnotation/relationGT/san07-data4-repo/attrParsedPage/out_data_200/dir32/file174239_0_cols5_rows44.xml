@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san07-data4-repo/attrParsedPage/out_data_200/dir32/file174239_0_cols5_rows44.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 0 4, 0.74545455 4, 0.70363635 1 4, 0.6954545 1, 0.14 0 2, 0.126 1 2, 0.120000005 0 3, 0.112 2 4, 0.11181819 3, 0.108 1 3, 0.09600001 3 4, 0.07636364 2, 0.016418183 2 3, " />
+<meta name="url" value="http://wikipedia.findthelinks.com/li/List_of_national_capitals.html" />
+<meta name="parentHTMLDoc" value="san07-data4-repo/attrParsedPage/out_data_200/file174239" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>Number</coltype>
+<coltype>Number</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Former capital city</th>]]></html>
+	<text>Former capital city</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country, empire</th>]]></html>
+	<text>Country, empire</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Since</th>]]></html>
+	<text>Since</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Until</th>]]></html>
+	<text>Until</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Change, reason</th>]]></html>
+	<text>Change, reason</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Melbourne</a>/<a>Sydney</a></td>]]></html>
+	<text>Melbourne/Sydney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Australia</a></td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1901</td>]]></html>
+	<text>1901</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1908</td>]]></html>
+	<text>1908</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>alternated as capitals until<a>Canberra</a>became ready</td>]]></html>
+	<text>alternated as capitals untilCanberrabecame ready</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>St. George[?]</a></td>]]></html>
+	<text>St. George[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Bermuda</a>(Brit.)</td>]]></html>
+	<text>Bermuda(Brit.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1815</td>]]></html>
+	<text>1815</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Hamilton[?]</a></td>]]></html>
+	<text>moved toHamilton[?]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Salvador da Baía</a></td>]]></html>
+	<text>Salvador da Ba&#237;a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Brazil</a>(Portuguese)</td>]]></html>
+	<text>Brazil(Portuguese)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1763</td>]]></html>
+	<text>1763</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Rio de Janeiro</a></td>]]></html>
+	<text>moved toRio de Janeiro</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Rio de Janeiro</a></td>]]></html>
+	<text>Rio de Janeiro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Brazil</a></td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1960</td>]]></html>
+	<text>1960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Brasilia</a></td>]]></html>
+	<text>moved toBrasilia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Belize City</a></td>]]></html>
+	<text>Belize City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>British Honduras</a></td>]]></html>
+	<text>British Honduras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1970</td>]]></html>
+	<text>1970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Belmopan</a></td>]]></html>
+	<text>moved toBelmopan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Kingston</a></td>]]></html>
+	<text>Kingston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Canada</a></td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1841</td>]]></html>
+	<text>1841</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1843</td>]]></html>
+	<text>1843</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Montreal</a></td>]]></html>
+	<text>moved toMontreal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Montreal</a></td>]]></html>
+	<text>Montreal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Canada</a></td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1843</td>]]></html>
+	<text>1843</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1849</td>]]></html>
+	<text>1849</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Toronto</a></td>]]></html>
+	<text>moved toToronto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Toronto</a></td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Canada</a></td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1849</td>]]></html>
+	<text>1849</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1859</td>]]></html>
+	<text>1859</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Quebec City</a></td>]]></html>
+	<text>moved toQuebec City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Quebec City</a></td>]]></html>
+	<text>Quebec City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Canada</a></td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1859</td>]]></html>
+	<text>1859</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1865</td>]]></html>
+	<text>1865</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Ottawa</a></td>]]></html>
+	<text>moved toOttawa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>China</a></td>]]></html>
+	<text>China</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;nbsp</td>]]></html>
+	<text>&amp;amp;amp;nbsp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>see:<em><a>Capital of China</a></em></td>]]></html>
+	<text>see:Capital of China</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Léopoldville</a></td>]]></html>
+	<text>L&#233;opoldville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Congo, Democratic Republic of the</a></td>]]></html>
+	<text>Congo, Democratic Republic of the</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1960</td>]]></html>
+	<text>1960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966</td>]]></html>
+	<text>1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>renamed to Kinshasa</td>]]></html>
+	<text>renamed to Kinshasa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Large-Bassam[?]</a></td>]]></html>
+	<text>Large-Bassam[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Côte d'Ivoire</a></td>]]></html>
+	<text>C&#244;te d&amp;amp;apos;Ivoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1893</td>]]></html>
+	<text>1893</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1900</td>]]></html>
+	<text>1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Bingerville[?]</a></td>]]></html>
+	<text>moved toBingerville[?]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Bingerville[?]</a></td>]]></html>
+	<text>Bingerville[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Côte d'Ivoire</a></td>]]></html>
+	<text>C&#244;te d&amp;amp;apos;Ivoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1900</td>]]></html>
+	<text>1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1933</td>]]></html>
+	<text>1933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Abidjan</a></td>]]></html>
+	<text>moved toAbidjan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Abidjan</a></td>]]></html>
+	<text>Abidjan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Côte d'Ivoire</a></td>]]></html>
+	<text>C&#244;te d&amp;amp;apos;Ivoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1933</td>]]></html>
+	<text>1933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1983</td>]]></html>
+	<text>1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Yamoussoukro</a></td>]]></html>
+	<text>moved toYamoussoukro</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Winchester</a></td>]]></html>
+	<text>Winchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>England</a></td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd century?</td>]]></html>
+	<text>3rd century?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9th century</td>]]></html>
+	<text>9th century</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>London</a></td>]]></html>
+	<text>moved toLondon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Lavuka[?]</a></td>]]></html>
+	<text>Lavuka[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Fiji</a>(Brit.)</td>]]></html>
+	<text>Fiji(Brit.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Suva</a></td>]]></html>
+	<text>moved toSuva</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Bonn</a></td>]]></html>
+	<text>Bonn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Germany</a></td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1949</td>]]></html>
+	<text>1949</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Berlin</a></td>]]></html>
+	<text>moved toBerlin</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Cape Coast[?]</a></td>]]></html>
+	<text>Cape Coast[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Gold Coast</a>(Brit.)</td>]]></html>
+	<text>Gold Coast(Brit.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1877</td>]]></html>
+	<text>1877</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Accra</a></td>]]></html>
+	<text>moved toAccra</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Nafplion[?]</a></td>]]></html>
+	<text>Nafplion[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Greece</a></td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1821</td>]]></html>
+	<text>1821</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1836</td>]]></html>
+	<text>1836</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Athens</a></td>]]></html>
+	<text>moved toAthens</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Lahaina</a></td>]]></html>
+	<text>Lahaina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Hawaii</a>(<a>Hawaiian monarchy</a>)</td>]]></html>
+	<text>Hawaii(Hawaiian monarchy)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1840</td>]]></html>
+	<text>1840</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Hawaii</a></td>]]></html>
+	<text>moved toHawaii</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Calcutta</a></td>]]></html>
+	<text>Calcutta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>India</a>(British)</td>]]></html>
+	<text>India(British)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912</td>]]></html>
+	<text>1912</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>New Delhi</a></td>]]></html>
+	<text>moved toNew Delhi</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Torino</a></td>]]></html>
+	<text>Torino</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Italy</a>, Kingdom of</td>]]></html>
+	<text>Italy, Kingdom of</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1861</td>]]></html>
+	<text>1861</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1865</td>]]></html>
+	<text>1865</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Florence</a></td>]]></html>
+	<text>moved toFlorence</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Florence</a></td>]]></html>
+	<text>Florence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Italy</a>, Kingdom of</td>]]></html>
+	<text>Italy, Kingdom of</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1865</td>]]></html>
+	<text>1865</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1871</td>]]></html>
+	<text>1871</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Rome</a></td>]]></html>
+	<text>moved toRome</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Heijo-kyo</a>(Nara)</td>]]></html>
+	<text>Heijo-kyo(Nara)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Japan (<a>Nara period</a>)</td>]]></html>
+	<text>Japan (Nara period)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>784</td>]]></html>
+	<text>784</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;nbsp</td>]]></html>
+	<text>&amp;amp;amp;nbsp</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Kyoto</a></td>]]></html>
+	<text>Kyoto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Japan</a></td>]]></html>
+	<text>Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1868</td>]]></html>
+	<text>1868</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Tokyo</a></td>]]></html>
+	<text>moved toTokyo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Alma-Atta</a></td>]]></html>
+	<text>Alma-Atta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Kazakhstan</a></td>]]></html>
+	<text>Kazakhstan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993</td>]]></html>
+	<text>1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>renamed to Almaty</td>]]></html>
+	<text>renamed to Almaty</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Almaty</a>(Alma-Atta)</td>]]></html>
+	<text>Almaty(Alma-Atta)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Kazakhstan</a></td>]]></html>
+	<text>Kazakhstan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993</td>]]></html>
+	<text>1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Astana</a></td>]]></html>
+	<text>moved toAstana</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Auckland</a></td>]]></html>
+	<text>Auckland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>New Zealand</a></td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1865</td>]]></html>
+	<text>1865</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Wellington</a></td>]]></html>
+	<text>moved toWellington</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Lagos</a></td>]]></html>
+	<text>Lagos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Nigeria</a></td>]]></html>
+	<text>Nigeria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Abuja</a></td>]]></html>
+	<text>moved toAbuja</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Bergen</a></td>]]></html>
+	<text>Bergen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Norway</a>(medieval)</td>]]></html>
+	<text>Norway(medieval)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1299</td>]]></html>
+	<text>1299</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Oslo</a></td>]]></html>
+	<text>moved toOslo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Christiana</a></td>]]></html>
+	<text>Christiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Norway</a></td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1924</td>]]></html>
+	<text>1924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>renamed to Oslo</td>]]></html>
+	<text>renamed to Oslo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Karachi</a></td>]]></html>
+	<text>Karachi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Pakistan</a></td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1967</td>]]></html>
+	<text>1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Islamabad</a></td>]]></html>
+	<text>moved toIslamabad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Quezon City[?]</a></td>]]></html>
+	<text>Quezon City[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Philippines</a></td>]]></html>
+	<text>Philippines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1948</td>]]></html>
+	<text>1948</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1976</td>]]></html>
+	<text>1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Manila</a></td>]]></html>
+	<text>moved toManila</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Guimarães[?]</a></td>]]></html>
+	<text>Guimar&#227;es[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Portugal</a>, Kingdom of</td>]]></html>
+	<text>Portugal, Kingdom of</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1255</td>]]></html>
+	<text>1255</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Saint Petersburg</a></td>]]></html>
+	<text>Saint Petersburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Russian empire</a></td>]]></html>
+	<text>Russian empire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1914</td>]]></html>
+	<text>1914</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>renamed to Petrograd</td>]]></html>
+	<text>renamed to Petrograd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Petrograd</a></td>]]></html>
+	<text>Petrograd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Russia</a></td>]]></html>
+	<text>Russia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1918</td>]]></html>
+	<text>1918</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Moscow</a></td>]]></html>
+	<text>moved toMoscow</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Dariyah[?]</a></td>]]></html>
+	<text>Dariyah[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Saudi[?]</a>state</td>]]></html>
+	<text>Saudi[?]state</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1818</td>]]></html>
+	<text>1818</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Riyadh</a></td>]]></html>
+	<text>moved toRiyadh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Tulaghi[?]</a></td>]]></html>
+	<text>Tulaghi[?]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Solomon Islands</a></td>]]></html>
+	<text>Solomon Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Honiara</a></td>]]></html>
+	<text>moved toHoniara</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>New York City</a></td>]]></html>
+	<text>New York City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>United States</a></td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1785</td>]]></html>
+	<text>1785</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1790</td>]]></html>
+	<text>1790</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Philadelphia</a></td>]]></html>
+	<text>Philadelphia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>United States</a></td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1790</td>]]></html>
+	<text>1790</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1800</td>]]></html>
+	<text>1800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Bursa</a></td>]]></html>
+	<text>Bursa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Ottoman empire</a></td>]]></html>
+	<text>Ottoman empire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1335</td>]]></html>
+	<text>1335</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1365</td>]]></html>
+	<text>1365</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Edirne</a></td>]]></html>
+	<text>moved toEdirne</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Edirne</a></td>]]></html>
+	<text>Edirne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Ottoman empire</a></td>]]></html>
+	<text>Ottoman empire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1365</td>]]></html>
+	<text>1365</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1453</td>]]></html>
+	<text>1453</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>moved to<a>Constantinople</a>(Istanbul)</td>]]></html>
+	<text>moved toConstantinople(Istanbul)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Constantinople</a></td>]]></html>
+	<text>Constantinople</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Ottoman empire</a></td>]]></html>
+	<text>Ottoman empire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1453</td>]]></html>
+	<text>1453</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>country ceased to exist</td>]]></html>
+	<text>country ceased to exist</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Port-of-Spain</a></td>]]></html>
+	<text>Port-of-Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>West Indies Federation</a></td>]]></html>
+	<text>West Indies Federation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1958</td>]]></html>
+	<text>1958</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1962</td>]]></html>
+	<text>1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>country ceased to exist</td>]]></html>
+	<text>country ceased to exist</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Former capital city Country, empire Since Until Change, reason</text>
+</context>
+<context>
+	<score>0.8010961</score>
+	<text>In this list are cities that once where capitals, but now are not any more. That can be because the country ceased to exist, the capital moved, or the capital was renamed. Sorted on country and date.</text>
+</context>
+<context>
+	<score>0.76330435</score>
+	<text>Historical list of national capitals</text>
+</context>
+<context>
+	<score>0.64197296</score>
+	<text>Historical list of national capitals</text>
+</context>
+<context>
+	<score>0.64197296</score>
+	<text>List of national capitals</text>
+</context>
+<context>
+	<score>0.590492</score>
+	<text>See also: Capital of China , extinct countries, empires , former U.S. state capitals</text>
+</context>
+<context>
+	<score>0.5146745</score>
+	<text>Note: there is a separate list of former capitals at the bottom of this page.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th>Former capital city</th><th>Country, empire</th><th>Since</th><th>Until</th><th>Change, reason</th></tr><tr><td><a>Melbourne</a>/<a>Sydney</a></td><td><a>Australia</a></td><td>1901</td><td>1908</td><td>alternated as capitals until<a>Canberra</a>became ready</td></tr><tr><td><a>St. George[?]</a></td><td><a>Bermuda</a>(Brit.)</td><td></td><td>1815</td><td>moved to<a>Hamilton[?]</a></td></tr><tr><td><a>Salvador da Baía</a></td><td><a>Brazil</a>(Portuguese)</td><td></td><td>1763</td><td>moved to<a>Rio de Janeiro</a></td></tr><tr><td><a>Rio de Janeiro</a></td><td><a>Brazil</a></td><td></td><td>1960</td><td>moved to<a>Brasilia</a></td></tr><tr><td><a>Belize City</a></td><td><a>British Honduras</a></td><td></td><td>1970</td><td>moved to<a>Belmopan</a></td></tr><tr><td><a>Kingston</a></td><td><a>Canada</a></td><td>1841</td><td>1843</td><td>moved to<a>Montreal</a></td></tr><tr><td><a>Montreal</a></td><td><a>Canada</a></td><td>1843</td><td>1849</td><td>moved to<a>Toronto</a></td></tr><tr><td><a>Toronto</a></td><td><a>Canada</a></td><td>1849</td><td>1859</td><td>moved to<a>Quebec City</a></td></tr><tr><td><a>Quebec City</a></td><td><a>Canada</a></td><td>1859</td><td>1865</td><td>moved to<a>Ottawa</a></td></tr><tr><td></td><td><a>China</a></td><td></td><td>&amp;nbsp</td><td>see:<em><a>Capital of China</a></em></td></tr><tr><td><a>Léopoldville</a></td><td><a>Congo, Democratic Republic of the</a></td><td>1960</td><td>1966</td><td>renamed to Kinshasa</td></tr><tr><td><a>Large-Bassam[?]</a></td><td><a>Côte d'Ivoire</a></td><td>1893</td><td>1900</td><td>moved to<a>Bingerville[?]</a></td></tr><tr><td><a>Bingerville[?]</a></td><td><a>Côte d'Ivoire</a></td><td>1900</td><td>1933</td><td>moved to<a>Abidjan</a></td></tr><tr><td><a>Abidjan</a></td><td><a>Côte d'Ivoire</a></td><td>1933</td><td>1983</td><td>moved to<a>Yamoussoukro</a></td></tr><tr><td><a>Winchester</a></td><td><a>England</a></td><td>3rd century?</td><td>9th century</td><td>moved to<a>London</a></td></tr><tr><td><a>Lavuka[?]</a></td><td><a>Fiji</a>(Brit.)</td><td></td><td></td><td>moved to<a>Suva</a></td></tr><tr><td><a>Bonn</a></td><td><a>Germany</a></td><td>1949</td><td>1994</td><td>moved to<a>Berlin</a></td></tr><tr><td><a>Cape Coast[?]</a></td><td><a>Gold Coast</a>(Brit.)</td><td></td><td>1877</td><td>moved to<a>Accra</a></td></tr><tr><td><a>Nafplion[?]</a></td><td><a>Greece</a></td><td>1821</td><td>1836</td><td>moved to<a>Athens</a></td></tr><tr><td><a>Lahaina</a></td><td><a>Hawaii</a>(<a>Hawaiian monarchy</a>)</td><td></td><td>1840</td><td>moved to<a>Hawaii</a></td></tr><tr><td><a>Calcutta</a></td><td><a>India</a>(British)</td><td></td><td>1912</td><td>moved to<a>New Delhi</a></td></tr><tr><td><a>Torino</a></td><td><a>Italy</a>, Kingdom of</td><td>1861</td><td>1865</td><td>moved to<a>Florence</a></td></tr><tr><td><a>Florence</a></td><td><a>Italy</a>, Kingdom of</td><td>1865</td><td>1871</td><td>moved to<a>Rome</a></td></tr><tr><td><a>Heijo-kyo</a>(Nara)</td><td>Japan (<a>Nara period</a>)</td><td></td><td>784</td><td>&amp;nbsp</td></tr><tr><td><a>Kyoto</a></td><td><a>Japan</a></td><td></td><td>1868</td><td>moved to<a>Tokyo</a></td></tr><tr><td><a>Alma-Atta</a></td><td><a>Kazakhstan</a></td><td>1992</td><td>1993</td><td>renamed to Almaty</td></tr><tr><td><a>Almaty</a>(Alma-Atta)</td><td><a>Kazakhstan</a></td><td>1993</td><td>1998</td><td>moved to<a>Astana</a></td></tr><tr><td><a>Auckland</a></td><td><a>New Zealand</a></td><td></td><td>1865</td><td>moved to<a>Wellington</a></td></tr><tr><td><a>Lagos</a></td><td><a>Nigeria</a></td><td></td><td>1991</td><td>moved to<a>Abuja</a></td></tr><tr><td><a>Bergen</a></td><td><a>Norway</a>(medieval)</td><td></td><td>1299</td><td>moved to<a>Oslo</a></td></tr><tr><td><a>Christiana</a></td><td><a>Norway</a></td><td></td><td>1924</td><td>renamed to Oslo</td></tr><tr><td><a>Karachi</a></td><td><a>Pakistan</a></td><td></td><td>1967</td><td>moved to<a>Islamabad</a></td></tr><tr><td><a>Quezon City[?]</a></td><td><a>Philippines</a></td><td>1948</td><td>1976</td><td>moved to<a>Manila</a></td></tr><tr><td><a>Guimarães[?]</a></td><td><a>Portugal</a>, Kingdom of</td><td></td><td>1255</td><td></td></tr><tr><td><a>Saint Petersburg</a></td><td><a>Russian empire</a></td><td></td><td>1914</td><td>renamed to Petrograd</td></tr><tr><td><a>Petrograd</a></td><td><a>Russia</a></td><td></td><td>1918</td><td>moved to<a>Moscow</a></td></tr><tr><td><a>Dariyah[?]</a></td><td><a>Saudi[?]</a>state</td><td></td><td>1818</td><td>moved to<a>Riyadh</a></td></tr><tr><td><a>Tulaghi[?]</a></td><td><a>Solomon Islands</a></td><td></td><td></td><td>moved to<a>Honiara</a></td></tr><tr><td><a>New York City</a></td><td><a>United States</a></td><td>1785</td><td>1790</td><td></td></tr><tr><td><a>Philadelphia</a></td><td><a>United States</a></td><td>1790</td><td>1800</td><td></td></tr><tr><td><a>Bursa</a></td><td><a>Ottoman empire</a></td><td>1335</td><td>1365</td><td>moved to<a>Edirne</a></td></tr><tr><td><a>Edirne</a></td><td><a>Ottoman empire</a></td><td>1365</td><td>1453</td><td>moved to<a>Constantinople</a>(Istanbul)</td></tr><tr><td><a>Constantinople</a></td><td><a>Ottoman empire</a></td><td>1453</td><td>1923</td><td>country ceased to exist</td></tr><tr><td><a>Port-of-Spain</a></td><td><a>West Indies Federation</a></td><td>1958</td><td>1962</td><td>country ceased to exist</td></tr></table>]]>
+</htmlSnippet>
+</entity>

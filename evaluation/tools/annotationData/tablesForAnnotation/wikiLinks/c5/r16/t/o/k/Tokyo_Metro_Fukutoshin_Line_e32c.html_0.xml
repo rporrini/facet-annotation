@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r16/t/o/k/Tokyo_Metro_Fukutoshin_Line_e32c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 2, 0.8 0 3, 0.7 0 4, 0.48125 4, 0.455 3 4, 0.433125 2 4, 0.40499997 2 3, 0.3 3, 0.1125 2, 0.060000002 0 1, 0.030000003 1 3, 0.028874999 1 4, 0.010125 1 2, 0.0075000003 1, " />
+<meta name="parentHTMLDoc" value="en/articles/t/o/k/Tokyo_Metro_Fukutoshin_Line_e32c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Station</th>]]></html>
+	<text>Station</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Express 急行</th>]]></html>
+	<text>Express &#24613;&#34892;</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Commuter express 通勤急行</th>]]></html>
+	<text>Commuter express &#36890;&#21220;&#24613;&#34892;</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ward/City</th>]]></html>
+	<text>Ward/City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Transfers</th>]]></html>
+	<text>Transfers</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F1 Wakōshi</td>]]></html>
+	<text>F1 Wak&#333;shi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wakō, Saitama</td>]]></html>
+	<text>Wak&#333;, Saitama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (same tracks), Tōbu Tōjō Main Line (through service) (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (same tracks), T&#333;bu T&#333;j&#333; Main Line (through service) (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F2 Chikatetsu-Narimasu</td>]]></html>
+	<text>F2 Chikatetsu-Narimasu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Itabashi, Tokyo</td>]]></html>
+	<text>Itabashi, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F3 Chikatetsu-Akatsuka</td>]]></html>
+	<text>F3 Chikatetsu-Akatsuka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nerima, Tokyo</td>]]></html>
+	<text>Nerima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F4 Heiwadai</td>]]></html>
+	<text>F4 Heiwadai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nerima, Tokyo</td>]]></html>
+	<text>Nerima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F5 Hikawadai</td>]]></html>
+	<text>F5 Hikawadai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nerima, Tokyo</td>]]></html>
+	<text>Nerima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F6 Kotake-Mukaihara</td>]]></html>
+	<text>F6 Kotake-Mukaihara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nerima, Tokyo</td>]]></html>
+	<text>Nerima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line (through service) (same tracks), Seibu Ikebukuro Line (through service) (same tracks)</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line (through service) (same tracks), Seibu Ikebukuro Line (through service) (same tracks)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F7 Senkawa</td>]]></html>
+	<text>F7 Senkawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toshima, Tokyo</td>]]></html>
+	<text>Toshima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F8 Kanamechō</td>]]></html>
+	<text>F8 Kanamech&#333;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toshima, Tokyo</td>]]></html>
+	<text>Toshima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Yūrakuchō Line</td>]]></html>
+	<text>Tokyo Metro Y&#363;rakuch&#333; Line</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F9 Ikebukuro</td>]]></html>
+	<text>F9 Ikebukuro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toshima, Tokyo</td>]]></html>
+	<text>Toshima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yamanote Line , Saikyō Line , Shōnan-Shinjuku Line , Takasaki Line , Utsunomiya Line , Tokyo Metro Marunouchi Line , Tokyo Metro Yūrakuchō Line , Tōbu Tōjō Main Line , Seibu Ikebukuro Line</td>]]></html>
+	<text>Yamanote Line , Saiky&#333; Line , Sh&#333;nan-Shinjuku Line , Takasaki Line , Utsunomiya Line , Tokyo Metro Marunouchi Line , Tokyo Metro Y&#363;rakuch&#333; Line , T&#333;bu T&#333;j&#333; Main Line , Seibu Ikebukuro Line</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F10 Zōshigaya</td>]]></html>
+	<text>F10 Z&#333;shigaya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toshima, Tokyo</td>]]></html>
+	<text>Toshima, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toden Arakawa Line ( Kishibojinmae Station )</td>]]></html>
+	<text>Toden Arakawa Line ( Kishibojinmae Station )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F11 Nishi-Waseda</td>]]></html>
+	<text>F11 Nishi-Waseda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shinjuku, Tokyo</td>]]></html>
+	<text>Shinjuku, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F12 Higashi-Shinjuku</td>]]></html>
+	<text>F12 Higashi-Shinjuku</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shinjuku, Tokyo</td>]]></html>
+	<text>Shinjuku, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toei Ōedo Line</td>]]></html>
+	<text>Toei &#332;edo Line</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F13 Shinjuku-sanchōme</td>]]></html>
+	<text>F13 Shinjuku-sanch&#333;me</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shinjuku, Tokyo</td>]]></html>
+	<text>Shinjuku, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Marunouchi Line , Toei Shinjuku Line</td>]]></html>
+	<text>Tokyo Metro Marunouchi Line , Toei Shinjuku Line</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F14 Kitasandō</td>]]></html>
+	<text>F14 Kitasand&#333;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shibuya, Tokyo</td>]]></html>
+	<text>Shibuya, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F15 Meiji-Jingūmae</td>]]></html>
+	<text>F15 Meiji-Jing&#363;mae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shibuya, Tokyo</td>]]></html>
+	<text>Shibuya, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo Metro Chiyoda Line , Yamanote Line ( Harajuku Station )</td>]]></html>
+	<text>Tokyo Metro Chiyoda Line , Yamanote Line ( Harajuku Station )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F16 Shibuya</td>]]></html>
+	<text>F16 Shibuya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shibuya, Tokyo</td>]]></html>
+	<text>Shibuya, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tōkyū Tōyoko Line (through service starting 2012), Yamanote Line , Saikyō Line , Shōnan Shinjuku Line , Tokyo Metro Ginza Line , Tokyo Metro Hanzōmon Line , Tōkyū Den-en-toshi Line , Keiō Inokashira Line</td>]]></html>
+	<text>T&#333;ky&#363; T&#333;yoko Line (through service starting 2012), Yamanote Line , Saiky&#333; Line , Sh&#333;nan Shinjuku Line , Tokyo Metro Ginza Line , Tokyo Metro Hanz&#333;mon Line , T&#333;ky&#363; Den-en-toshi Line , Kei&#333; Inokashira Line</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tokyo Metro Fukutoshin Line - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Station Express Commuter express Ward/City Transfers</text>
+</context>
+<context>
+	<score>0.88505554</score>
+	<text>Stations in italics are not yet operational, with service scheduled to start on June 14 , 2008 .</text>
+</context>
+<context>
+	<score>0.79857343</score>
+	<text>Tokyo Metro Fukutoshin Line</text>
+</context>
+<context>
+	<score>0.78804743</score>
+	<text>The Fukutoshin Line is the second Tokyo Metro line to feature express services, after the T zai Line . Local trains ( kakuekiteisha ) still stop at all stations.</text>
+</context>
+<context>
+	<score>0.7566624</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.72728264</score>
+	<text>[ edit ] Development</text>
+</context>
+<context>
+	<score>0.72728264</score>
+	<text>[ edit ] Stations</text>
+</context>
+<context>
+	<score>0.72728264</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.72728264</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72728264</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.720967</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71044093</score>
+	<text>[ edit ] Stations</text>
+</context>
+<context>
+	<score>0.6483557</score>
+	<text>The line was initially planned in 1972 as a run from Shiki, Saitama to Shinjuku, with the possibility of further extension to Shibuya, Shinagawa and Haneda Airport . In 1985, a second Ministry of Transportation committee proposed that the line terminate at Shibuya. Part of the northern end of the original plan line became unnecessary following improvements to the T bu T j Main Line and the beginning of through service from the Y rakuch Line .</text>
+</context>
+<context>
+	<score>0.6098076</score>
+	<text>[ edit ] Tokyo Metro</text>
+</context>
+<context>
+	<score>0.5986875</score>
+	<text>Fukutoshin is Japanese for &quot;secondary city center,&quot; and the Fukutoshin Line connects three of Tokyo&apos;s secondary city centers: Ikebukuro , Shinjuku and Shibuya . Presently, only JR East has rail service between the three (on the Yamanote Line , the Saiky Line and the Sh nan-Shinjuku Line ). The new line was conceived to relieve congestion along this busy corridor, and to provide convenient through service between the northwest of Tokyo, the southwest of Tokyo and the city center.</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Construction underway on the Fukutoshin Line in northern Shibuya</text>
+</context>
+<context>
+	<score>0.5271654</score>
+	<text>[ edit ] Development</text>
+</context>
+<context>
+	<score>0.52342236</score>
+	<text>7000 series 8-car and 10-car trains 10000 series 10-car trains</text>
+</context>
+<context>
+	<score>0.4954197</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.48139125</score>
+	<text>The section presently under construction will connect to Shinjuku and Shibuya via Zoshigaya , Sendagaya and Meiji Shrine , with service scheduled to start on June 14 , 2008 . Through services to Kawagoe-shi station on the T bu T j Main Line , and Hann station on the Seibu Ikebukuro Line will be offered. Starting in 2012, the T ky T yoko Line will move to share the line&apos;s Shibuya terminus and offer through services on the Minatomirai Line to Motomachi-Ch kagai Station in Yokohama .</text>
+</context>
+<context>
+	<score>0.47260758</score>
+	<text>[ edit ] Trains owned by other operating companies</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>, is already in operation.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Station</th><th>Express<br />急行</th><th>Commuter express<br />通勤急行</th><th>Ward/City</th><th>Transfers</th></tr><tr><td>F1 <a href="../../../../articles/w/a/k/Wak%C5%8Dshi_Station_85fe.html" title="Wakōshi Station">Wakōshi</a></td><td>X</td><td>X</td><td><a href="../../../../articles/w/a/k/Wak%C5%8D%2C_Saitama_44d8.html" title="Wakō, Saitama">Wakō, Saitama</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (same tracks), <a href="../../../../articles/t/%C5%8D/b/T%C5%8Dbu_T%C5%8Dj%C5%8D_Main_Line_27ca.html" title="Tōbu Tōjō Main Line">Tōbu Tōjō Main Line</a> (through service) (same tracks)</td></tr><tr><td>F2 <a href="../../../../articles/c/h/i/Chikatetsu-narimasu_Station_0d43.html" class="mw-redirect" title="Chikatetsu-narimasu Station">Chikatetsu-Narimasu</a></td><td></td><td>X</td><td><a href="../../../../articles/i/t/a/Itabashi%2C_Tokyo_5442.html" title="Itabashi, Tokyo">Itabashi, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (same tracks)</td></tr><tr><td>F3 <a href="../../../../articles/c/h/i/Chikatetsu-akatsuka_Station_1b59.html" class="mw-redirect" title="Chikatetsu-akatsuka Station">Chikatetsu-Akatsuka</a></td><td></td><td>X</td><td><a href="../../../../articles/n/e/r/Nerima%2C_Tokyo_dfb7.html" title="Nerima, Tokyo">Nerima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (same tracks)</td></tr><tr><td>F4 <a href="../../../../articles/h/e/i/Heiwadai_Station_%28Tokyo%29_d421.html" title="Heiwadai Station (Tokyo)">Heiwadai</a></td><td></td><td>X</td><td><a href="../../../../articles/n/e/r/Nerima%2C_Tokyo_dfb7.html" title="Nerima, Tokyo">Nerima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (same tracks)</td></tr><tr><td>F5 <a href="../../../../articles/h/i/k/Hikawadai_Station_2ff4.html" title="Hikawadai Station">Hikawadai</a></td><td></td><td>X</td><td><a href="../../../../articles/n/e/r/Nerima%2C_Tokyo_dfb7.html" title="Nerima, Tokyo">Nerima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (same tracks)</td></tr><tr><td>F6 <a href="../../../../articles/k/o/t/Kotake-Mukaihara_Station_79bc.html" class="mw-redirect" title="Kotake-Mukaihara Station">Kotake-Mukaihara</a></td><td>X</td><td>X</td><td><a href="../../../../articles/n/e/r/Nerima%2C_Tokyo_dfb7.html" title="Nerima, Tokyo">Nerima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a> (through service) (same tracks), <a href="../../../../articles/s/e/i/Seibu_Ikebukuro_Line_a498.html" title="Seibu Ikebukuro Line">Seibu Ikebukuro Line</a> (through service) (same tracks)</td></tr><tr><td>F7 <i><a href="../../../../articles/s/e/n/Senkawa_Station_5592.html" title="Senkawa Station">Senkawa</a></i></td><td></td><td></td><td nowrap="nowrap"><a href="../../../../articles/t/o/s/Toshima%2C_Tokyo_21b0.html" title="Toshima, Tokyo">Toshima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a></td></tr><tr><td>F8 <i><a href="../../../../articles/k/a/n/Kanamech%C5%8D_Station_756a.html" title="Kanamechō Station">Kanamechō</a></i></td><td></td><td></td><td><a href="../../../../articles/t/o/s/Toshima%2C_Tokyo_21b0.html" title="Toshima, Tokyo">Toshima, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a></td></tr><tr><td>F9 <a href="../../../../articles/i/k/e/Ikebukuro_Station_03e4.html" title="Ikebukuro Station">Ikebukuro</a></td><td>X</td><td>X</td><td><a href="../../../../articles/t/o/s/Toshima%2C_Tokyo_21b0.html" title="Toshima, Tokyo">Toshima, Tokyo</a></td><td><a href="../../../../articles/y/a/m/Yamanote_Line_1e1d.html" title="Yamanote Line">Yamanote Line</a>, <a href="../../../../articles/s/a/i/Saiky%C5%8D_Line_73a8.html" title="Saikyō Line">Saikyō Line</a>, <a href="../../../../articles/s/h/%C5%8D/Sh%C5%8Dnan-Shinjuku_Line_2242.html" title="Shōnan-Shinjuku Line">Shōnan-Shinjuku Line</a>, <a href="../../../../articles/t/a/k/Takasaki_Line_e3b0.html" title="Takasaki Line">Takasaki Line</a>, <a href="../../../../articles/u/t/s/Utsunomiya_Line_2489.html" title="Utsunomiya Line">Utsunomiya Line</a>, <a href="../../../../articles/t/o/k/Tokyo_Metro_Marunouchi_Line_1951.html" title="Tokyo Metro Marunouchi Line">Tokyo Metro Marunouchi Line</a>, <a href="../../../../articles/t/o/k/Tokyo_Metro_Y%C5%ABrakuch%C5%8D_Line_15db.html" title="Tokyo Metro Yūrakuchō Line">Tokyo Metro Yūrakuchō Line</a>, <a href="../../../../articles/t/%C5%8D/b/T%C5%8Dbu_T%C5%8Dj%C5%8D_Main_Line_27ca.html" title="Tōbu Tōjō Main Line">Tōbu Tōjō Main Line</a>, <a href="../../../../articles/s/e/i/Seibu_Ikebukuro_Line_a498.html" title="Seibu Ikebukuro Line">Seibu Ikebukuro Line</a></td></tr><tr><td>F10 <i><a href="../../../../articles/z/%C5%8D/s/Z%C5%8Dshigaya_Station_%28Tokyo_Metro%29_ede5.html" title="Zōshigaya Station (Tokyo Metro)">Zōshigaya</a></i></td><td></td><td></td><td><a href="../../../../articles/t/o/s/Toshima%2C_Tokyo_21b0.html" title="Toshima, Tokyo">Toshima, Tokyo</a></td><td><a href="../../../../articles/t/o/d/Toden_Arakawa_Line_e6e2.html" title="Toden Arakawa Line">Toden Arakawa Line</a> (<a href="../../../../articles/k/i/s/Kishibojinmae_Station_808f.html" class="mw-redirect" title="Kishibojinmae Station">Kishibojinmae Station</a>)</td></tr><tr><td>F11 <i><a href="../../../../articles/n/i/s/Nishi-Waseda_Station_8d98.html" title="Nishi-Waseda Station">Nishi-Waseda</a></i></td><td></td><td></td><td><a href="../../../../articles/s/h/i/Shinjuku%2C_Tokyo_521d.html" title="Shinjuku, Tokyo">Shinjuku, Tokyo</a></td></tr><tr><td>F12 <i><a href="../../../../articles/h/i/g/Higashi-Shinjuku_Station_5b73.html" title="Higashi-Shinjuku Station">Higashi-Shinjuku</a></i></td><td></td><td></td><td><a href="../../../../articles/s/h/i/Shinjuku%2C_Tokyo_521d.html" title="Shinjuku, Tokyo">Shinjuku, Tokyo</a></td><td><a href="../../../../articles/t/o/e/Toei_%C5%8Cedo_Line_4e56.html" title="Toei Ōedo Line">Toei Ōedo Line</a></td></tr><tr><td>F13 <i><a href="../../../../articles/s/h/i/Shinjuku-sanch%C5%8Dme_Station_b109.html" title="Shinjuku-sanchōme Station">Shinjuku-sanchōme</a></i></td><td>X</td><td>X</td><td><a href="../../../../articles/s/h/i/Shinjuku%2C_Tokyo_521d.html" title="Shinjuku, Tokyo">Shinjuku, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Marunouchi_Line_1951.html" title="Tokyo Metro Marunouchi Line">Tokyo Metro Marunouchi Line</a>, <a href="../../../../articles/t/o/e/Toei_Shinjuku_Line_9d27.html" title="Toei Shinjuku Line">Toei Shinjuku Line</a></td></tr><tr><td>F14 <i><a href="../../../../articles/k/i/t/Kitasand%C5%8D_Station_3d0c.html" title="Kitasandō Station">Kitasandō</a></i></td><td></td><td></td><td><a href="../../../../articles/s/h/i/Shibuya%2C_Tokyo_359d.html" title="Shibuya, Tokyo">Shibuya, Tokyo</a></td></tr><tr><td>F15 <i><a href="../../../../articles/m/e/i/Meiji-Jing%C5%ABmae_Station_4e9d.html" title="Meiji-Jingūmae Station">Meiji-Jingūmae</a></i></td><td></td><td></td><td><a href="../../../../articles/s/h/i/Shibuya%2C_Tokyo_359d.html" title="Shibuya, Tokyo">Shibuya, Tokyo</a></td><td><a href="../../../../articles/t/o/k/Tokyo_Metro_Chiyoda_Line_a039.html" title="Tokyo Metro Chiyoda Line">Tokyo Metro Chiyoda Line</a>, <a href="../../../../articles/y/a/m/Yamanote_Line_1e1d.html" title="Yamanote Line">Yamanote Line</a> (<a href="../../../../articles/h/a/r/Harajuku_Station_6cd0.html" title="Harajuku Station">Harajuku Station</a>)</td></tr><tr><td>F16 <i><a href="../../../../articles/s/h/i/Shibuya_Station_eaf4.html" title="Shibuya Station">Shibuya</a></i></td><td>X</td><td>X</td><td><a href="../../../../articles/s/h/i/Shibuya%2C_Tokyo_359d.html" title="Shibuya, Tokyo">Shibuya, Tokyo</a></td><td><a href="../../../../articles/t/%C5%8D/k/T%C5%8Dky%C5%AB_T%C5%8Dyoko_Line_88a7.html" title="Tōkyū Tōyoko Line">Tōkyū Tōyoko Line</a> (through service starting 2012), <a href="../../../../articles/y/a/m/Yamanote_Line_1e1d.html" title="Yamanote Line">Yamanote Line</a>, <a href="../../../../articles/s/a/i/Saiky%C5%8D_Line_73a8.html" title="Saikyō Line">Saikyō Line</a>, <a href="../../../../articles/s/h/%C5%8D/Sh%C5%8Dnan_Shinjuku_Line_5714.html" class="mw-redirect" title="Shōnan Shinjuku Line">Shōnan Shinjuku Line</a>, <a href="../../../../articles/t/o/k/Tokyo_Metro_Ginza_Line_ea6c.html" title="Tokyo Metro Ginza Line">Tokyo Metro Ginza Line</a>, <a href="../../../../articles/t/o/k/Tokyo_Metro_Hanz%C5%8Dmon_Line_1b8a.html" title="Tokyo Metro Hanzōmon Line">Tokyo Metro Hanzōmon Line</a>, <a href="../../../../articles/t/%C5%8D/k/T%C5%8Dky%C5%AB_Den-en-toshi_Line_cce3.html" title="Tōkyū Den-en-toshi Line">Tōkyū Den-en-toshi Line</a>, <a href="../../../../articles/k/e/i/Kei%C5%8D_Inokashira_Line_6e6a.html" title="Keiō Inokashira Line">Keiō Inokashira Line</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

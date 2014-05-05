@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/d/o/m/Domestication.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 2, 0.5 2, 0.13333334 0 1, 0.10666668 1, 0.1 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/o/m/Domestication.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Species</th>]]></html>
+	<text>Species</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rat</td>]]></html>
+	<text>Rat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1800s</td>]]></html>
+	<text>1800s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fox</td>]]></html>
+	<text>Fox</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1800s</td>]]></html>
+	<text>1800s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mink</td>]]></html>
+	<text>Mink</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1800s</td>]]></html>
+	<text>1800s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Budgerigar</td>]]></html>
+	<text>Budgerigar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1850s</td>]]></html>
+	<text>1850s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zebra Finch</td>]]></html>
+	<text>Zebra Finch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1900s</td>]]></html>
+	<text>1900s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hamster</td>]]></html>
+	<text>Hamster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1930s</td>]]></html>
+	<text>1930s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Silver Fox</td>]]></html>
+	<text>Silver Fox</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1950s</td>]]></html>
+	<text>1950s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soviet Union</td>]]></html>
+	<text>Soviet Union</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Muskox</td>]]></html>
+	<text>Muskox</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1960s</td>]]></html>
+	<text>1960s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Deer</td>]]></html>
+	<text>Deer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1970s</td>]]></html>
+	<text>1970s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hedgehog</td>]]></html>
+	<text>Hedgehog</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1980s</td>]]></html>
+	<text>1980s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Domestication - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Species Date Location</text>
+</context>
+<context>
+	<score>0.88092154</score>
+	<text>Please improve the article by adding references . See the talk page for details. (September 2007)</text>
+</context>
+<context>
+	<score>0.7944437</score>
+	<text>Domestication</text>
+</context>
+<context>
+	<score>0.7839515</score>
+	<text>This article or section may contain original research or unverified claims .</text>
+</context>
+<context>
+	<score>0.75044477</score>
+	<text>A project is underway to that is attempting to find the genetic basis for taming. Researchers at the Max Planck institute have reared two sets of rats. One set has been selected for aggressive traits and another for more tame traits. The researchers hope to mimic the process by which neolithic farmers first domesticated animals.</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] Process</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] Degrees</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] Limits</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] Dates and places</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] Genetic pollution</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71900177</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71686774</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7063755</score>
+	<text>[ edit ] Modern instances</text>
+</context>
+<context>
+	<score>0.6421806</score>
+	<text>Second circle</text>
+</context>
+<context>
+	<score>0.6057817</score>
+	<text>[ edit ] Former instances</text>
+</context>
+<context>
+	<score>0.59466594</score>
+	<text>[ edit ] Approximate dates and locations of original domestication</text>
+</context>
+<context>
+	<score>0.5549471</score>
+	<text>The availability of both domesticated vegetable and animal species increased suddenly following the voyages of Christopher Columbus and the contact between the Eastern and Western Hemispheres. This is part of what is referred to as the Columbian Exchange .</text>
+</context>
+<context>
+	<score>0.52317196</score>
+	<text>The earliest secure evidence of horse domestication, bit wear on horse molars at Dereivka in Ukraine, dates to around 4000BC. The unequivocal date of domestication and use as a means of transport is at the Sintashta chariot burials in the southern Urals, ca 2000 BC. Local equivalents and smaller species were domesticated from the 2500s BC.</text>
+</context>
+<context>
+	<score>0.51943034</score>
+	<text>Some species are said to have been domesticated, but are not any more, either because they have totally disappeared, or since only their domestic form no longer exists. An example would be the African and Asian elephants (See War elephant ) and Bos aegyptiacus .</text>
+</context>
+<context>
+	<score>0.4977518</score>
+	<text>Recent archaeological evidence from Cyprus indicates domestication of a type of cat by perhaps 7500 BC.</text>
+</context>
+<context>
+	<score>0.4774157</score>
+	<text>There is early evidence of beekeeping , in the form of rock paintings , dating to 13,000 BC.</text>
+</context>
+<context>
+	<score>0.4686355</score>
+	<text>[ edit ] Hybrid domestic animals</text>
+</context>
+<context>
+	<score>0.4611469</score>
+	<text>The first animal to be domesticated appears to have been the dog, in the Upper Paleolithic era; this preceded the domestication of other species by several millennia. In the Neolithic a number of important species (such as the goat, sheep, pig and cow) were domesticated, as part of the spread of farming which characterizes this period . The goat, sheep and pig in particular were domesticated independently in the Levant and Asia .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th style="width: 12em;">Species</th><th>Date</th><th>Location</th></tr><tr><td valign="top"><a href="../../../../articles/r/a/t/Rat.html" title="Rat">Rat</a></td><td>1800s</td><td align="center"><a href="../../../../articles/e/n/g/England.html" title="England">England</a></td></tr><tr><td valign="top"><a href="../../../../articles/f/o/x/Fox.html" title="Fox">Fox</a></td><td>1800s</td><td align="center"><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td></tr><tr><td valign="top"><a href="../../../../articles/m/i/n/Mink.html" title="Mink">Mink</a></td><td>1800s</td><td align="center"><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td></tr><tr><td valign="top"><a href="../../../../articles/b/u/d/Budgerigar.html" title="Budgerigar">Budgerigar</a></td><td>1850s</td><td align="center"><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td></tr><tr><td valign="top"><a href="../../../../articles/z/e/b/Zebra_Finch_39ac.html" title="Zebra Finch">Zebra Finch</a></td><td>1900s</td><td align="center"><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td></tr><tr><td valign="top"><a href="../../../../articles/h/a/m/Hamster.html" title="Hamster">Hamster</a></td><td>1930s</td><td align="center"><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td></tr><tr><td valign="top"><a href="../../../../articles/t/a/m/Tame_Silver_Fox_6c4a.html" title="Tame Silver Fox">Silver Fox</a></td><td>1950s</td><td align="center"><a href="../../../../articles/s/o/v/Soviet_Union_ad1f.html" title="Soviet Union">Soviet Union</a></td></tr><tr><td valign="top"><a href="../../../../articles/m/u/s/Muskox.html" title="Muskox">Muskox</a></td><td>1960s</td><td align="center"><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td></tr><tr><td valign="top"><a href="../../../../articles/d/e/e/Deer.html" title="Deer">Deer</a></td><td>1970s</td><td align="center"><a href="../../../../articles/n/e/w/New_Zealand_2311.html" title="New Zealand">New Zealand</a></td></tr><tr><td valign="top"><a href="../../../../articles/h/e/d/Hedgehog.html" title="Hedgehog">Hedgehog</a></td><td>1980s</td><td align="center"><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

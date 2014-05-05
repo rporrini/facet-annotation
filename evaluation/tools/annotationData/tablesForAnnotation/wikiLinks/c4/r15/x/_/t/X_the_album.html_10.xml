@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r15/x/_/t/X_the_album.html_10.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 2, 0.875 1 2, 0.75 3, 0.75 1 3, 0.65625 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.09375 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/x/_/t/X_the_album.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Track Number</th>]]></html>
+	<text>Track Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Artist</th>]]></html>
+	<text>Artist</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Original Album</th>]]></html>
+	<text>Original Album</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shut Me Out</td>]]></html>
+	<text>Shut Me Out</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kutless</td>]]></html>
+	<text>Kutless</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hearts of the Innocent</td>]]></html>
+	<text>Hearts of the Innocent</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moonlit</td>]]></html>
+	<text>Moonlit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Falling Up</td>]]></html>
+	<text>Falling Up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dawn Escapes</td>]]></html>
+	<text>Dawn Escapes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Wait is Over</td>]]></html>
+	<text>The Wait is Over</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Disciple</td>]]></html>
+	<text>Disciple</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Disciple</td>]]></html>
+	<text>Disciple</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Move</td>]]></html>
+	<text>Move</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thousand Foot Krutch</td>]]></html>
+	<text>Thousand Foot Krutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Art of Breaking</td>]]></html>
+	<text>The Art of Breaking</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frontline</td>]]></html>
+	<text>Frontline</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pillar</td>]]></html>
+	<text>Pillar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Where Do We Go from Here</td>]]></html>
+	<text>Where Do We Go from Here</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>It's Dangerous Business Walking Out Your Front Door</td>]]></html>
+	<text>It&amp;apos;s Dangerous Business Walking Out Your Front Door</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Underoath</td>]]></html>
+	<text>Underoath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>They're Only Chasing Safety</td>]]></html>
+	<text>They&amp;apos;re Only Chasing Safety</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Let This One Stay</td>]]></html>
+	<text>Let This One Stay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dizmas</td>]]></html>
+	<text>Dizmas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>On a Search in America</td>]]></html>
+	<text>On a Search in America</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Undying</td>]]></html>
+	<text>Undying</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Demon Hunter</td>]]></html>
+	<text>Demon Hunter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Triptych</td>]]></html>
+	<text>The Triptych</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bitter Taste</td>]]></html>
+	<text>Bitter Taste</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spoken</td>]]></html>
+	<text>Spoken</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Last Chance to Breathe</td>]]></html>
+	<text>Last Chance to Breathe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Life After Death</td>]]></html>
+	<text>Life After Death</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KJ-52</td>]]></html>
+	<text>KJ-52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Behind the Musik (A Boy Named Jonah)</td>]]></html>
+	<text>Behind the Musik (A Boy Named Jonah)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Fight (Bonus Video)</td>]]></html>
+	<text>The Fight (Bonus Video)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Classic Crime</td>]]></html>
+	<text>The Classic Crime</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Albatross</td>]]></html>
+	<text>Albatross</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rodeo (Bonus Video)</td>]]></html>
+	<text>Rodeo (Bonus Video)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manafest</td>]]></html>
+	<text>Manafest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epiphany</td>]]></html>
+	<text>Epiphany</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Night You Guardian Fell Asleep (Bonus Video)</td>]]></html>
+	<text>The Night You Guardian Fell Asleep (Bonus Video)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chasing Victory</td>]]></html>
+	<text>Chasing Victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I Call This Abandonment</td>]]></html>
+	<text>I Call This Abandonment</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Have You Seen Me? (Bonus Video)</td>]]></html>
+	<text>Have You Seen Me? (Bonus Video)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Last Tuesday</td>]]></html>
+	<text>Last Tuesday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Resolve</td>]]></html>
+	<text>Resolve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>When Everything Falls (Bonus Video)</td>]]></html>
+	<text>When Everything Falls (Bonus Video)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Haste the Day</td>]]></html>
+	<text>Haste the Day</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>When Everything Falls</td>]]></html>
+	<text>When Everything Falls</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>X the album - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Track Number Title Artist Original Album</text>
+</context>
+<context>
+	<score>0.884624</score>
+	<text>[ edit ] X 2006</text>
+</context>
+<context>
+	<score>0.80308014</score>
+	<text>X the album</text>
+</context>
+<context>
+	<score>0.78746533</score>
+	<text>[ edit ] X 2005</text>
+</context>
+<context>
+	<score>0.7560317</score>
+	<text>[ edit ] X 2007</text>
+</context>
+<context>
+	<score>0.7314256</score>
+	<text>[ edit ] Rock Compilations</text>
+</context>
+<context>
+	<score>0.7314256</score>
+	<text>[ edit ] DVDs</text>
+</context>
+<context>
+	<score>0.7314256</score>
+	<text>[ edit ] X Worship</text>
+</context>
+<context>
+	<score>0.7253531</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70973843</score>
+	<text>[ edit ] X 2004</text>
+</context>
+<context>
+	<score>0.64755684</score>
+	<text>[ edit ] X 2003</text>
+</context>
+<context>
+	<score>0.6028764</score>
+	<text>X 2007 - The Videos</text>
+</context>
+<context>
+	<score>0.5917391</score>
+	<text>The X Series DVDs are a compilation of Christian music videos promoting the same artists as the rock compilations. They began the same year as the rock compilations, in 2003.</text>
+</context>
+<context>
+	<score>0.55801535</score>
+	<text>[ edit ] DVDs</text>
+</context>
+<context>
+	<score>0.5261784</score>
+	<text>[ edit ] X 2008</text>
+</context>
+<context>
+	<score>0.5224295</score>
+	<text>[ edit ] X 2008</text>
+</context>
+<context>
+	<score>0.5007088</score>
+	<text>[ edit ] X 2007</text>
+</context>
+<context>
+	<score>0.48033318</score>
+	<text>[ edit ] X 2006</text>
+</context>
+<context>
+	<score>0.4654634</score>
+	<text>X 2008 - The Videos will also include 8 bonus videos by the following artists:</text>
+</context>
+<context>
+	<score>0.46403265</score>
+	<text>[ edit ] X 2005</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" cellspacing="0" cellpadding="2" width="550" align="center"><tr><th align="center" valign="top">Track Number</th><th align="center" valign="top">Title</th><th align="center" valign="top">Artist</th><th align="center" valign="top">Original Album</th></tr><tr><td align="left" valign="top">1</td><td align="left" valign="top">Shut Me Out</td><td align="left" valign="top"><a href="../../../../articles/k/u/t/Kutless.html" title="Kutless">Kutless</a></td><td align="left" valign="top"><a href="../../../../articles/h/e/a/Hearts_of_the_Innocent_1aa0.html" title="Hearts of the Innocent">Hearts of the Innocent</a></td></tr><tr><td align="left" valign="top">2</td><td align="left" valign="top">Moonlit</td><td align="left" valign="top"><a href="../../../../articles/f/a/l/Falling_Up_8dcf.html" title="Falling Up">Falling Up</a></td><td align="left" valign="top"><a href="../../../../articles/d/a/w/Dawn_Escapes_f6c5.html" title="Dawn Escapes">Dawn Escapes</a></td></tr><tr><td align="left" valign="top">3</td><td align="left" valign="top">The Wait is Over</td><td align="left" valign="top"><a href="../../../../articles/d/i/s/Disciple_%28band%29.html" title="Disciple (band)">Disciple</a></td><td align="left" valign="top"><a href="../../../../articles/d/i/s/Disciple_%28album%29.html" title="Disciple (album)">Disciple</a></td></tr><tr><td align="left" valign="top">4</td><td align="left" valign="top">Move</td><td align="left" valign="top"><a href="../../../../articles/t/h/o/Thousand_Foot_Krutch_855a.html" title="Thousand Foot Krutch">Thousand Foot Krutch</a></td><td align="left" valign="top"><a href="../../../../articles/t/h/e/The_Art_of_Breaking_45e1.html" title="The Art of Breaking">The Art of Breaking</a></td></tr><tr><td align="left" valign="top">5</td><td align="left" valign="top">Frontline</td><td align="left" valign="top"><a href="../../../../articles/p/i/l/Pillar_%28band%29.html" title="Pillar (band)">Pillar</a></td><td align="left" valign="top"><a href="../../../../articles/w/h/e/Where_Do_We_Go_from_Here_d74b.html" title="Where Do We Go from Here">Where Do We Go from Here</a></td></tr><tr><td align="left" valign="top">6</td><td align="left" valign="top">It's Dangerous Business Walking Out Your Front Door</td><td align="left" valign="top"><a href="../../../../articles/u/n/d/Underoath.html" title="Underoath">Underoath</a></td><td align="left" valign="top"><a href="../../../../articles/t/h/e/They%27re_Only_Chasing_Safety_0e48.html" title="They're Only Chasing Safety">They're Only Chasing Safety</a></td></tr><tr><td align="left" valign="top">7</td><td align="left" valign="top">Let This One Stay</td><td align="left" valign="top"><a href="../../../../articles/d/i/z/Dizmas.html" title="Dizmas">Dizmas</a></td><td align="left" valign="top">On a Search in America</td></tr><tr><td align="left" valign="top">8</td><td align="left" valign="top">Undying</td><td align="left" valign="top"><a href="../../../../articles/d/e/m/Demon_Hunter_3215.html" title="Demon Hunter">Demon Hunter</a></td><td align="left" valign="top"><a href="../../../../articles/t/h/e/The_Triptych_9d03.html" title="The Triptych">The Triptych</a></td></tr><tr><td align="left" valign="top">9</td><td align="left" valign="top">Bitter Taste</td><td align="left" valign="top"><a href="../../../../articles/s/p/o/Spoken_%28band%29.html" title="Spoken (band)">Spoken</a></td><td align="left" valign="top"><a href="../../../../articles/l/a/s/Last_Chance_to_Breathe_8f77.html" title="Last Chance to Breathe">Last Chance to Breathe</a></td></tr><tr><td align="left" valign="top">10</td><td align="left" valign="top">Life After Death</td><td align="left" valign="top"><a href="../../../../articles/k/j/-/KJ-52_a1fe.html" title="KJ-52">KJ-52</a></td><td align="left" valign="top"><a href="../../../../articles/b/e/h/Behind_the_Musik_%28A_Boy_Named_Jonah%29_8aef.html" title="Behind the Musik (A Boy Named Jonah)">Behind the Musik (A Boy Named Jonah)</a></td></tr><tr><td align="left" valign="top">11</td><td align="left" valign="top">The Fight (Bonus Video)</td><td align="left" valign="top"><a href="../../../../articles/t/h/e/The_Classic_Crime_1b64.html" title="The Classic Crime">The Classic Crime</a></td><td align="left" valign="top"><a href="../../../../articles/a/l/b/Albatross_%28album%29.html" title="Albatross (album)">Albatross</a></td></tr><tr><td align="left" valign="top">12</td><td align="left" valign="top">Rodeo (Bonus Video)</td><td align="left" valign="top"><a href="../../../../articles/m/a/n/Manafest.html" title="Manafest">Manafest</a></td><td align="left" valign="top">Epiphany</td></tr><tr><td align="left" valign="top">13</td><td align="left" valign="top">The Night You Guardian Fell Asleep (Bonus Video)</td><td align="left" valign="top"><a href="../../../../articles/c/h/a/Chasing_Victory_8056.html" title="Chasing Victory">Chasing Victory</a></td><td align="left" valign="top"><a href="../../../../articles/i/_/c/I_Call_This_Abandonment_1758.html" title="I Call This Abandonment">I Call This Abandonment</a></td></tr><tr><td align="left" valign="top">14</td><td align="left" valign="top">Have You Seen Me? (Bonus Video)</td><td align="left" valign="top"><a href="../../../../articles/l/a/s/Last_Tuesday_6e48.html" title="Last Tuesday">Last Tuesday</a></td><td align="left" valign="top">Resolve</td></tr><tr><td align="left" valign="top">15</td><td align="left" valign="top">When Everything Falls (Bonus Video)</td><td align="left" valign="top"><a href="../../../../articles/h/a/s/Haste_the_Day_cfa3.html" title="Haste the Day">Haste the Day</a></td><td align="left" valign="top"><a href="../../../../articles/w/h/e/When_Everything_Falls_d88b.html" title="When Everything Falls">When Everything Falls</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

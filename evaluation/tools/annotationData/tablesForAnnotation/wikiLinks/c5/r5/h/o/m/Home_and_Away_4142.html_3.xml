@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/h/o/m/Home_and_Away_4142.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1, 0.71999997 1 2, 0.14 0 3, 0.126 1 3, 0.112 3, 0.112 2 3, 0.060000002 0 4, 0.048000004 2 4, 0.0432 1 4, 0.024000002 4, 0.0067200004 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/h/o/m/Home_and_Away_4142.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Actor</th>]]></html>
+	<text>Actor</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Role</th>]]></html>
+	<text>Role</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Duration</th>]]></html>
+	<text>Duration</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year of death</th>]]></html>
+	<text>Year of death</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Source</th>]]></html>
+	<text>Source</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Megan Connolly</td>]]></html>
+	<text>Megan Connolly</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rebecca Nash</td>]]></html>
+	<text>Rebecca Nash</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998 (temporary recast)</td>]]></html>
+	<text>1998 (temporary recast)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gwen Plumb</td>]]></html>
+	<text>Gwen Plumb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doris Peters</td>]]></html>
+	<text>Doris Peters</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1988 (guest)</td>]]></html>
+	<text>1988 (guest)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belinda Emmett</td>]]></html>
+	<text>Belinda Emmett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rebecca Nash</td>]]></html>
+	<text>Rebecca Nash</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996-1999</td>]]></html>
+	<text>1996-1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Richard Morgan</td>]]></html>
+	<text>Richard Morgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Donahue</td>]]></html>
+	<text>Donahue</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989 (guest)</td>]]></html>
+	<text>1989 (guest)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heath Ledger</td>]]></html>
+	<text>Heath Ledger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scott Irwin</td>]]></html>
+	<text>Scott Irwin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997 (guest)</td>]]></html>
+	<text>1997 (guest)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[6]</td>]]></html>
+	<text>[6]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Home and Away - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Actor Role Duration Year of death Source</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Deceased cast members</text>
+</context>
+<context>
+	<score>0.7926406</score>
+	<text>Home and Away</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>All the below information has been confirmed by either TV Week or Bevan Lee</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Production and broadcast schedule</text>
+</context>
+<context>
+	<score>0.7174324</score>
+	<text>Classic showings in the UK</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>History</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Storylines</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Cast</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Production and broadcast schedule</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Elsewhere in the world</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Theme song</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Merchandise</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Awards and accolades</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Sources and References</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Coming cast members</text>
+</context>
+<context>
+	<score>0.64454925</score>
+	<text>Recurring cast members Main article: Recurring characters of Home and Away</text>
+</context>
+<context>
+	<score>0.60601634</score>
+	<text>The show is filmed five days a week for 46 weeks of the year. The crew is given a four week holiday at Christmas and a two week break for recuperation mid-year. There are an average of eight weeks between shooting and airing the program. All interiors for the show are filmed at Seven Sydney &apos;s Epping studios. The exterior scenes are filmed on location mainly at Palm Beach and at Fisherman&apos;s Beach, Collaroy in Sydney&apos;s Northern Beaches region.</text>
+</context>
+<context>
+	<score>0.5949007</score>
+	<text>Current cast members Main article: List of current Home and Away characters</text>
+</context>
+<context>
+	<score>0.5551819</score>
+	<text>Cast Main article: List of Home and Away characters</text>
+</context>
+<context>
+	<score>0.5234069</score>
+	<text>In 2008, Sally Fletcher ( Kate Ritchie ) who has been in Summer Bay for 20 years departed with daughter Pippa. Lucas Holden ( Rhys Wakefield left for university, Cassie Turner ( Sharni Vinson ) also left with Sally &amp; Pippa. Sam Holden ( Jessica Chapnik ) helped Summer Bay villian Johnny Cooper get back on his feet and ended up murdering him, she also commited suicide and made it look like murder. Drew Curtis ( Bobby Morley ) left Summer Bay. Jazz Curtis ( Rachel Gordon ) returned on a recurring basis but left again in May 2008.</text>
+</context>
+<context>
+	<score>0.51966536</score>
+	<text>Australia on Seven</text>
+</context>
+<context>
+	<score>0.4979869</score>
+	<text>As 2007 drew to a close, Dan Baker ( Tim Campbell ) departed Summer Bay, Brad Armstrong left Summer Bay for a teaching job in Tasmania along with his half-sister Tamsyn and her mother Heather McCabe, while Jack and his new love Sam were wed, despite there being unresolved feelings between Jack and Martha, his ex-wife. Meanwhile, Ric&apos;s relationship with Matilda was all but over after newcomer Viv Anderson, who successfully lured Ric from her, fell pregnant with Ric&apos;s child. Matilda found out at Jack and Sam&apos;s wedding, and told Ric to stay out of her life for good.</text>
+</context>
+<context>
+	<score>0.47765088</score>
+	<text>In early 2006, Flynn died from skin cancer, with Alf Stewart moving in to help run the Caravan Park. Sally later found love with Brad Armstrong ( Chris Sadrinna ). In the 2006 season finale she was stabbed; a culmination of Sally fostering a young teen, Rocco, whose family had connections to gangs and who pressured him to rid Sally from their lives. By the end of 2006, Jack and Martha had also separated.</text>
+</context>
+<context>
+	<score>0.46887067</score>
+	<text>Jodi Gordon and Ben Guernens during filming</text>
+</context>
+<context>
+	<score>0.4613821</score>
+	<text>2005 saw Summer Bay in the clutches of the Summer Bay Stalker and Sally was later kidnapped by Zoe (aka Eve Jacobsen). Zoe was revealed to have a connection to Sarah Lewis, a psychopath who had the year before shot and killed Summer Bay local Noah Lawson ( Beau Brady ) and then herself. Zoe later returned in 2006 to wreak havoc on Jack Holden ( Paul O&apos;Brien ) and Martha Mackenzie &apos;s ( Jodi Gordon ) wedding, injuring many but was killed herself.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Actor</th><th>Role</th><th>Duration</th><th>Year of death</th><th>Source</th></tr><tr><td><a href="../../../../articles/m/e/g/Megan_Connolly_fc19.html" title="Megan Connolly">Megan Connolly</a></td><td><a href="../../../../articles/r/e/b/Rebecca_Nash_10b9.html" title="Rebecca Nash">Rebecca Nash</a></td><td>1998 <small>(temporary recast)</small></td><td>2001</td><td></td></tr><tr><td><a href="../../../../articles/g/w/e/Gwen_Plumb_a3d3.html" title="Gwen Plumb">Gwen Plumb</a></td><td>Doris Peters</td><td>1988 <small>(guest)</small></td><td>2002</td><td></td></tr><tr><td><a href="../../../../articles/b/e/l/Belinda_Emmett_9c7f.html" title="Belinda Emmett">Belinda Emmett</a></td><td><a href="../../../../articles/r/e/b/Rebecca_Nash_10b9.html" title="Rebecca Nash">Rebecca Nash</a></td><td>1996-1999</td><td>2006</td><td></td></tr><tr><td><a href="../../../../articles/r/i/c/Richard_Morgan_%28actor%29_31b0.html" title="Richard Morgan (actor)">Richard Morgan</a></td><td>Donahue</td><td>1989 <small>(guest)</small></td><td>2006</td><td></td></tr><tr><td><a href="../../../../articles/h/e/a/Heath_Ledger_f15f.html" title="Heath Ledger">Heath Ledger</a></td><td>Scott Irwin</td><td>1997 <small>(guest)</small></td><td>2008</td><td><sup id="cite_ref-News.com.au_5-0" class="reference"><a href="#cite_note-News.com.au-5" title="">[6]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

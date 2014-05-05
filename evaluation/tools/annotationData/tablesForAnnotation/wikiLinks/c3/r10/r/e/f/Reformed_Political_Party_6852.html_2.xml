@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/r/e/f/Reformed_Political_Party_6852.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 0 2, 0.06666667 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/r/e/f/Reformed_Political_Party_6852.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Votes (%)</th>]]></html>
+	<text>Votes (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result (seats)</th>]]></html>
+	<text>Result (seats)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Flevoland</td>]]></html>
+	<text>Flevoland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.26</td>]]></html>
+	<text>3.26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Friesland</td>]]></html>
+	<text>Friesland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.61*</td>]]></html>
+	<text>5.61*</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1**</td>]]></html>
+	<text>1**</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gelderland</td>]]></html>
+	<text>Gelderland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.02</td>]]></html>
+	<text>5.02</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Overijssel</td>]]></html>
+	<text>Overijssel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.53</td>]]></html>
+	<text>3.53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utrecht</td>]]></html>
+	<text>Utrecht</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.58</td>]]></html>
+	<text>3.58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zeeland</td>]]></html>
+	<text>Zeeland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.68</td>]]></html>
+	<text>12.68</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Holland</td>]]></html>
+	<text>South Holland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.67</td>]]></html>
+	<text>4.67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Holland</td>]]></html>
+	<text>North Holland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.90*</td>]]></html>
+	<text>1.90*</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1**</td>]]></html>
+	<text>1**</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Drenthe</td>]]></html>
+	<text>Drenthe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.34</td>]]></html>
+	<text>0.34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Brabant</td>]]></html>
+	<text>North Brabant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.59*</td>]]></html>
+	<text>1.59*</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0**</td>]]></html>
+	<text>0**</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Reformed Political Party - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province Votes (%) Result (seats)</text>
+</context>
+<context>
+	<score>0.8807556</score>
+	<text>The table below shows the election results of the 2003 provincial election in each province. It shows the areas where the Reformed Political Party is strong, namely in the Dutch bible belt : a band from Zeeland, via parts of South Holland and Utrecht, Gelderland to Overijssel.</text>
+</context>
+<context>
+	<score>0.7926406</score>
+	<text>Reformed Political Party</text>
+</context>
+<context>
+	<score>0.78378594</score>
+	<text>There, the party is the strongest, with over 10% of the vote. It has 14 members of provincial legislature .</text>
+</context>
+<context>
+	<score>0.75241333</score>
+	<text>* result of combined ChristianUnion /SGP lists. ** members of the SGP (estimate) in combined ChristianUnion /SGP parliamentary parties.</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Party history</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Ideology and issues</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Representation</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Municipal and provincial government</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] European Parliament</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Electorate</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Organization</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7170326</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70621014</score>
+	<text>In provincial governments, the party participates in the Zeeland provincial executive .</text>
+</context>
+<context>
+	<score>0.6441495</score>
+	<text>[ edit ] Provincial government</text>
+</context>
+<context>
+	<score>0.6056166</score>
+	<text>[ edit ] Municipal government</text>
+</context>
+<context>
+	<score>0.5945011</score>
+	<text>[ edit ] Municipal and provincial government</text>
+</context>
+<context>
+	<score>0.5547823</score>
+	<text>Gerrit Holdijk, fractievoorzitter Gerrit van der Berg</text>
+</context>
+<context>
+	<score>0.5230073</score>
+	<text>Since the 2007 upper house elections the party has two representatives in the upper house :</text>
+</context>
+<context>
+	<score>0.51926565</score>
+	<text>5 of the 414 mayors of the Netherlands are member of the SGP</text>
+</context>
+<context>
+	<score>0.4975872</score>
+	<text>[ edit ] First Chamber</text>
+</context>
+<context>
+	<score>0.47725117</score>
+	<text>Bas van der Vlies , fractievoorzitter Cees van der Staaij</text>
+</context>
+<context>
+	<score>0.468471</score>
+	<text>, and the party participates in several local executives , usually in municipalities located within the Dutch Bible Belt. The party has 40 aldermen and 244 members of local legislature . In many municipalities where the SGP is weaker, it cooperates with the ChristenUnie , presenting common lists.</text>
+</context>
+<context>
+	<score>0.46098235</score>
+	<text>Since the 2006 elections the party has two representatives in the lower house of parliament :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0" cellpadding="5"><tr bgcolor="#CCCCCC"><th><b>Province</b></th><th><b>Votes (%)</b></th><th><b>Result (seats)</b></th></tr><tr><td><a href="../../../../articles/f/l/e/Flevoland.html" title="Flevoland">Flevoland</a></td><td>3.26</td><td>1</td></tr><tr><td><a href="../../../../articles/f/r/i/Friesland.html" title="Friesland">Friesland</a></td><td>5.61*</td><td>1**</td></tr><tr><td><a href="../../../../articles/g/e/l/Gelderland.html" title="Gelderland">Gelderland</a></td><td>5.02</td><td>4</td></tr><tr><td><a href="../../../../articles/o/v/e/Overijssel.html" title="Overijssel">Overijssel</a></td><td>3.53</td><td>2</td></tr><tr><td><a href="../../../../articles/u/t/r/Utrecht_%28province%29.html" title="Utrecht (province)">Utrecht</a></td><td>3.58</td><td>2</td></tr><tr><td><a href="../../../../articles/z/e/e/Zeeland.html" title="Zeeland">Zeeland</a></td><td>12.68</td><td>6</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Holland_8dc5.html" title="South Holland">South Holland</a></td><td>4.67</td><td>4</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Holland_f179.html" title="North Holland">North Holland</a></td><td>1.90*</td><td>1**</td></tr><tr><td><a href="../../../../articles/d/r/e/Drenthe.html" title="Drenthe">Drenthe</a></td><td>0.34</td><td>0</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Brabant_49b9.html" title="North Brabant">North Brabant</a></td><td>1.59*</td><td>0**</td></tr></table>]]>
+</htmlSnippet>
+</entity>

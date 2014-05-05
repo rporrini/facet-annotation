@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r11/u/n/i/United_States_House_of_Representatives_elections,_2004_5b24.html_41.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 4, 0.6875 1 4, 0.6666667 5, 0.6666667 0 5, 0.61111116 1 5, 0.5555556 2 5, 0.5 4 5, 0.17045455 2 4, 0.15151516 2, 0.13636364 4, 0.11666667 0 3, 0.10694444 1 3, 0.084848486 3, 0.079545446 2 3, 0.07777778 3 5, 0.07159091 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_2004_5b24.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponent</th>]]></html>
+	<text>Opponent</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 1</td>]]></html>
+	<text>Virginia 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jo Ann Davis</td>]]></html>
+	<text>Jo Ann Davis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jo Ann Davis (R) 78.6% William A. Lee (I) 20.0%</td>]]></html>
+	<text>Jo Ann Davis (R) 78.6% William A. Lee (I) 20.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 2</td>]]></html>
+	<text>Virginia 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ed Schrock</td>]]></html>
+	<text>Ed Schrock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retiring</td>]]></html>
+	<text>Retiring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thelma Drake (R) 55.1% David Ashe (D) 44.8%</td>]]></html>
+	<text>Thelma Drake (R) 55.1% David Ashe (D) 44.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 3</td>]]></html>
+	<text>Virginia 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bobby Scott</td>]]></html>
+	<text>Bobby Scott</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bobby Scott (D) 69.3% Winsome Sears (R) 30.5%</td>]]></html>
+	<text>Bobby Scott (D) 69.3% Winsome Sears (R) 30.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 4</td>]]></html>
+	<text>Virginia 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Randy Forbes</td>]]></html>
+	<text>Randy Forbes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Randy Forbes (R) 64.5% Jonathan Menefee (D) 35.5%</td>]]></html>
+	<text>Randy Forbes (R) 64.5% Jonathan Menefee (D) 35.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 5</td>]]></html>
+	<text>Virginia 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virgil Goode</td>]]></html>
+	<text>Virgil Goode</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virgil Goode (R) 63.7% Al Weed (D) 36.3%</td>]]></html>
+	<text>Virgil Goode (R) 63.7% Al Weed (D) 36.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 6</td>]]></html>
+	<text>Virginia 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Goodlatte</td>]]></html>
+	<text>Bob Goodlatte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Goodlatte (R) unopposed</td>]]></html>
+	<text>Bob Goodlatte (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 7</td>]]></html>
+	<text>Virginia 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eric Cantor</td>]]></html>
+	<text>Eric Cantor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eric Cantor (R) 75.5% Brad Blanton (I) 24.3%</td>]]></html>
+	<text>Eric Cantor (R) 75.5% Brad Blanton (I) 24.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 8</td>]]></html>
+	<text>Virginia 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Moran</td>]]></html>
+	<text>Jim Moran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1990</td>]]></html>
+	<text>1990</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Moran (D) 59.7% Lisa Cheney (R) 36.9% Jim Hurysz (I) 3.2%</td>]]></html>
+	<text>Jim Moran (D) 59.7% Lisa Cheney (R) 36.9% Jim Hurysz (I) 3.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 9</td>]]></html>
+	<text>Virginia 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rick Boucher</td>]]></html>
+	<text>Rick Boucher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rick Boucher (D) 59.3% Kevin Triplett (R) 38.9% Seth David (I) 1.7%</td>]]></html>
+	<text>Rick Boucher (D) 59.3% Kevin Triplett (R) 38.9% Seth David (I) 1.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 10</td>]]></html>
+	<text>Virginia 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Wolf</td>]]></html>
+	<text>Frank Wolf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1980</td>]]></html>
+	<text>1980</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Wolf (R) 63.7% James Socas (D) 36.1%</td>]]></html>
+	<text>Frank Wolf (R) 63.7% James Socas (D) 36.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia 11</td>]]></html>
+	<text>Virginia 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thomas M. Davis</td>]]></html>
+	<text>Thomas M. Davis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thomas M. Davis (R) 60.3% Kenneth Longmeyer (D) 38.3% Joe Oddo (I) 1.4%</td>]]></html>
+	<text>Thomas M. Davis (R) 60.3% Kenneth Longmeyer (D) 38.3% Joe Oddo (I) 1.4%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 2004 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+<context>
+	<score>0.8804171</score>
+	<text>[ edit ] Virginia</text>
+</context>
+<context>
+	<score>0.80346316</score>
+	<text>United States House of Representatives elections, 2004</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Jane Newton (I) 0.9%</text>
+</context>
+<context>
+	<score>0.7520748</score>
+	<text>[ edit ] Washington Main article: Washington United States House elections, 2004</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Voting members</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Non-voting delegates</text>
+</context>
+<context>
+	<score>0.7258875</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7058716</score>
+	<text>Larry Drown (D) 7.1%</text>
+</context>
+<context>
+	<score>0.64381105</score>
+	<text>Greg Parke (R) 24.3%</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>All seven Washington incumbents that ran for re-election, none of whom faced viable challengers, were returned to Congress. None received less than 60% of the vote, and one received over 80%. In addition, the two seats vacated by retiring Republicans were both reclaimed by Republicans despite Democratic hopes to gain at least one seat in the vulnerable 8th district.</text>
+</context>
+<context>
+	<score>0.5941625</score>
+	<text>Bernard Sanders (I) 67.4%</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Running</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Independent</text>
+</context>
+<context>
+	<score>0.51892716</score>
+	<text>[ edit ] West Virginia</text>
+</context>
+<context>
+	<score>0.47691268</score>
+	<text>Vermont At Large</text>
+</context>
+<context>
+	<score>0.46813244</score>
+	<text>[ edit ] Wisconsin</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Opponent</th></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 1</td><td><a href="../../../../articles/j/o/_/Jo_Ann_Davis_b7b2.html" title="Jo Ann Davis">Jo Ann Davis</a></td><td>Republican</td><td>2000</td><td>Running</td><td><b><a href="../../../../articles/j/o/_/Jo_Ann_Davis_b7b2.html" title="Jo Ann Davis">Jo Ann Davis</a> (R) 78.6%</b><br />William A. Lee (I) 20.0%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 2</td><td bgcolor="lightgrey"><a href="../../../../articles/e/d/_/Ed_Schrock_3920.html" title="Ed Schrock">Ed Schrock</a></td><td>Republican</td><td>2000</td><td>Retiring</td><td><b><a href="../../../../articles/t/h/e/Thelma_Drake_e778.html" title="Thelma Drake">Thelma Drake</a> (R) 55.1%</b><br />David Ashe (D) 44.8%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 3</td><td><a href="../../../../articles/b/o/b/Bobby_Scott_8ba1.html" title="Bobby Scott">Bobby Scott</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/b/o/b/Bobby_Scott_8ba1.html" title="Bobby Scott">Bobby Scott</a> (D) 69.3%</b><br /><a href="../../../../articles/w/i/n/Winsome_Sears_e4a9.html" title="Winsome Sears">Winsome Sears</a> (R) 30.5%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 4</td><td><a href="../../../../articles/r/a/n/Randy_Forbes_5c22.html" title="Randy Forbes">Randy Forbes</a></td><td>Republican</td><td>2001</td><td>Running</td><td><b><a href="../../../../articles/r/a/n/Randy_Forbes_5c22.html" title="Randy Forbes">Randy Forbes</a> (R) 64.5%</b><br />Jonathan Menefee (D) 35.5%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 5</td><td><a href="../../../../articles/v/i/r/Virgil_Goode_35c8.html" title="Virgil Goode">Virgil Goode</a></td><td>Republican</td><td>1996</td><td>Running</td><td><b><a href="../../../../articles/v/i/r/Virgil_Goode_35c8.html" title="Virgil Goode">Virgil Goode</a> (R) 63.7%</b><br /><a href="../../../../articles/a/l/_/Al_Weed_93b9.html" title="Al Weed">Al Weed</a> (D) 36.3%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 6</td><td><a href="../../../../articles/b/o/b/Bob_Goodlatte_f6c4.html" title="Bob Goodlatte">Bob Goodlatte</a></td><td>Republican</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/b/o/b/Bob_Goodlatte_f6c4.html" title="Bob Goodlatte">Bob Goodlatte</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 7</td><td><a href="../../../../articles/e/r/i/Eric_Cantor_6bd0.html" title="Eric Cantor">Eric Cantor</a></td><td>Republican</td><td>2000</td><td>Running</td><td><b><a href="../../../../articles/e/r/i/Eric_Cantor_6bd0.html" title="Eric Cantor">Eric Cantor</a> (R) 75.5%</b><br /><a href="../../../../articles/b/r/a/Brad_Blanton_d05d.html" title="Brad Blanton">Brad Blanton</a> (I) 24.3%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 8</td><td><a href="../../../../articles/j/i/m/Jim_Moran_199f.html" title="Jim Moran">Jim Moran</a></td><td>Democratic</td><td>1990</td><td>Running</td><td><b><a href="../../../../articles/j/i/m/Jim_Moran_199f.html" title="Jim Moran">Jim Moran</a> (D) 59.7%</b><br />Lisa Cheney (R) 36.9%<br /><a href="../../../../articles/j/i/m/Jim_Hurysz_c564.html" title="Jim Hurysz">Jim Hurysz</a> (I) 3.2%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 9</td><td><a href="../../../../articles/r/i/c/Rick_Boucher_1048.html" title="Rick Boucher">Rick Boucher</a></td><td>Democratic</td><td>1982</td><td>Running</td><td><b><a href="../../../../articles/r/i/c/Rick_Boucher_1048.html" title="Rick Boucher">Rick Boucher</a> (D) 59.3%</b><br />Kevin Triplett (R) 38.9%<br />Seth David (I) 1.7%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 10</td><td><a href="../../../../articles/f/r/a/Frank_Wolf_c1af.html" title="Frank Wolf">Frank Wolf</a></td><td>Republican</td><td>1980</td><td>Running</td><td><b><a href="../../../../articles/f/r/a/Frank_Wolf_c1af.html" title="Frank Wolf">Frank Wolf</a> (R) 63.7%</b><br />James Socas (D) 36.1%</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a> 11</td><td><a href="../../../../articles/t/h/o/Thomas_M._Davis_52f5.html" title="Thomas M. Davis">Thomas M. Davis</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/t/h/o/Thomas_M._Davis_52f5.html" title="Thomas M. Davis">Thomas M. Davis</a> (R) 60.3%</b><br />Kenneth Longmeyer (D) 38.3%<br />Joe Oddo (I) 1.4%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

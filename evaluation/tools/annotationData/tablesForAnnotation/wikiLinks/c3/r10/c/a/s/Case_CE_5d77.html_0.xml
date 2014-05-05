@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/c/a/s/Case_CE_5d77.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 0 2, 0.6 2, 0.5555556 1 2, 0.33333334 1, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/s/Case_CE_5d77.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Product</th>]]></html>
+	<text>Product</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belo Horizonte</td>]]></html>
+	<text>Belo Horizonte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>graders</td>]]></html>
+	<text>graders</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>graders and Engineering</td>]]></html>
+	<text>graders and Engineering</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Burlington, Iowa</td>]]></html>
+	<text>Burlington, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loader backhoes , loaders , rough terrain forklifts</td>]]></html>
+	<text>Loader backhoes , loaders , rough terrain forklifts</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fargo, North Dakota</td>]]></html>
+	<text>Fargo, North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>wheel loaders</td>]]></html>
+	<text>wheel loaders</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Imola</td>]]></html>
+	<text>Imola</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loader backhoes</td>]]></html>
+	<text>Loader backhoes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lecce</td>]]></html>
+	<text>Lecce</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>crawler dozers , Telescopic handlers , wheel loaders</td>]]></html>
+	<text>crawler dozers , Telescopic handlers , wheel loaders</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Modena</td>]]></html>
+	<text>Modena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>components</td>]]></html>
+	<text>components</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piecenza</td>]]></html>
+	<text>Piecenza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>articulated dump trucks</td>]]></html>
+	<text>articulated dump trucks</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Racine, Wisconsin</td>]]></html>
+	<text>Racine, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>components</td>]]></html>
+	<text>components</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wichita, Kansas</td>]]></html>
+	<text>Wichita, Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>skid steer loaders</td>]]></html>
+	<text>skid steer loaders</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Case CE - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Country Product</text>
+</context>
+<context>
+	<score>0.8859764</score>
+	<text>CNH Global manufactures equipment under the Case brand in factories in</text>
+</context>
+<context>
+	<score>0.80071115</score>
+	<text>Case CE</text>
+</context>
+<context>
+	<score>0.788984</score>
+	<text>[ edit ] Factories</text>
+</context>
+<context>
+	<score>0.7503875</score>
+	<text>It also produces construction equipment in joint-ventures in factories in:</text>
+</context>
+<context>
+	<score>0.73033404</score>
+	<text>[ edit ] Factories</text>
+</context>
+<context>
+	<score>0.73033404</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.73033404</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73033404</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72311735</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70417356</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6493152</score>
+	<text>Case CE , also Case Construction Equipment or simply Case , is a brand of construction equipment from CNH Global . Under this brand name, CNH Global is the third biggest manufacturer of construction equipment behind CAT (#1) and Komatsu (#2).</text>
+</context>
+<context>
+	<score>0.61138225</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6107733</score>
+	<text>[ edit ] History For a detailed history see Case Corporation History .</text>
+</context>
+<context>
+	<score>0.5716542</score>
+	<text>Case CE</text>
+</context>
+<context>
+	<score>0.5244022</score>
+	<text>The origins of Case CE can be traced back to 1842, when Jerome Increase Case (born in 1819) created the J I Case Company . He is recognized as the first American to create a steam engine for agricultural use. His company evolved into the Case Corporation , which merged with New Holland in 1999 to become CNH Global. The combined CNH is in the top three in the world of both construction and agricultural equipment .</text>
+</context>
+<context>
+	<score>0.4735957</score>
+	<text>[ edit ] Case Loader/Backhoe Celebrates 50th Anniversary</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table cellpadding="2" cellspacing="0" border="1"><tr><th>City</th><th>Country</th><th>Product</th></tr><tr><td><a href="../../../../articles/b/e/l/Belo_Horizonte_86b8.html" title="Belo Horizonte">Belo Horizonte</a></td><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td><a href="../../../../articles/g/r/a/Grader.html" title="Grader">graders</a></td></tr><tr><td><a href="../../../../articles/b/e/r/Berlin.html" title="Berlin">Berlin</a></td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/r/a/Grader.html" title="Grader">graders</a> and Engineering</td></tr><tr><td><a href="../../../../articles/b/u/r/Burlington%2C_Iowa_1a67.html" title="Burlington, Iowa">Burlington, Iowa</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><a href="../../../../articles/l/o/a/Loader_backhoe.html" class="mw-redirect" title="Loader backhoe">Loader backhoes</a>, <a href="../../../../articles/l/o/a/Loader.html" title="Loader">loaders</a>, rough terrain forklifts</td></tr><tr><td><a href="../../../../articles/f/a/r/Fargo%2C_North_Dakota_bb73.html" title="Fargo, North Dakota">Fargo, North Dakota</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><a href="../../../../articles/w/h/e/Wheel_loader.html" class="mw-redirect" title="Wheel loader">wheel loaders</a></td></tr><tr><td><a href="../../../../articles/i/m/o/Imola.html" title="Imola">Imola</a></td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td><a href="../../../../articles/l/o/a/Loader_backhoe.html" class="mw-redirect" title="Loader backhoe">Loader backhoes</a></td></tr><tr><td><a href="../../../../articles/l/e/c/Lecce.html" title="Lecce">Lecce</a></td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td><a href="../../../../articles/c/r/a/Crawler_dozer.html" class="mw-redirect" title="Crawler dozer">crawler dozers</a>, <a href="../../../../articles/t/e/l/Telescopic_handler.html" title="Telescopic handler">Telescopic handlers</a>, <a href="../../../../articles/w/h/e/Wheel_loader.html" class="mw-redirect" title="Wheel loader">wheel loaders</a></td></tr><tr><td><a href="../../../../articles/m/o/d/Modena.html" title="Modena">Modena</a></td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>components</td></tr><tr><td>Piecenza</td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>articulated dump trucks</td></tr><tr><td><a href="../../../../articles/r/a/c/Racine%2C_Wisconsin_3708.html" title="Racine, Wisconsin">Racine, Wisconsin</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>components</td></tr><tr><td><a href="../../../../articles/w/i/c/Wichita%2C_Kansas_34cc.html" title="Wichita, Kansas">Wichita, Kansas</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><a href="../../../../articles/s/k/i/Skid_loader.html" title="Skid loader">skid steer loaders</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

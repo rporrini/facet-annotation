@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/i/s/List_of_Iran_cities_by_population_8cfb.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.7291666 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_Iran_cities_by_population_8cfb.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000007705036.000000 7,705,036</td>]]></html>
+	<text>&amp;amp;amp;0000000007705036.000000 7,705,036</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mashhad</td>]]></html>
+	<text>Mashhad</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Razavi Khorasan</td>]]></html>
+	<text>Razavi Khorasan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000002410800.000000 2,410,800</td>]]></html>
+	<text>&amp;amp;amp;0000000002410800.000000 2,410,800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Esfahān</td>]]></html>
+	<text>Esfah&#257;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Esfahān</td>]]></html>
+	<text>Esfah&#257;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000001583609.000000 1,583,609</td>]]></html>
+	<text>&amp;amp;amp;0000000001583609.000000 1,583,609</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tabriz</td>]]></html>
+	<text>Tabriz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Azarbaijan</td>]]></html>
+	<text>East Azarbaijan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000001378935.000000 1,378,935</td>]]></html>
+	<text>&amp;amp;amp;0000000001378935.000000 1,378,935</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Karaj</td>]]></html>
+	<text>Karaj</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000001377450.000000 1,377,450</td>]]></html>
+	<text>&amp;amp;amp;0000000001377450.000000 1,377,450</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shiraz</td>]]></html>
+	<text>Shiraz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fars</td>]]></html>
+	<text>Fars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000001204882.000000 1,204,882</td>]]></html>
+	<text>&amp;amp;amp;0000000001204882.000000 1,204,882</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Iran cities by population - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank City Province Population</text>
+</context>
+<context>
+	<score>0.8839924</score>
+	<text>The following sortable table, lists the most populous cities in Iran with a population of more than 1,000,000 according to 2006 Census results announced by Satistical Center of Iran :</text>
+</context>
+<context>
+	<score>0.79883504</score>
+	<text>List of Iran cities by population</text>
+</context>
+<context>
+	<score>0.786087</score>
+	<text>[ edit ] Cities over 1,000,000 population</text>
+</context>
+<context>
+	<score>0.7544117</score>
+	<text>[ edit ] Cities between 100,000 and 1,000,000 population</text>
+</context>
+<context>
+	<score>0.72688484</score>
+	<text>[ edit ] Cities over 1,000,000 population</text>
+</context>
+<context>
+	<score>0.72688484</score>
+	<text>[ edit ] Cities between 100,000 and 1,000,000 population</text>
+</context>
+<context>
+	<score>0.72688484</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72688484</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7205107</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6451032</score>
+	<text>9 - Kermanshah , Kermanshah Province</text>
+</context>
+<context>
+	<score>0.60619855</score>
+	<text>List of cities in Iran with a population between 100,000 and 1,000,000 according to 2006 Census results announced by Satistical Center of Iran :</text>
+</context>
+<context>
+	<score>0.59497565</score>
+	<text>8 - Qom , Qom Province</text>
+</context>
+<context>
+	<score>0.5548736</score>
+	<text>7 - Ahvaz , Kh zest n</text>
+</context>
+<context>
+	<score>0.522792</score>
+	<text>6 - Shiraz , Fars</text>
+</context>
+<context>
+	<score>0.5190143</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.49712664</score>
+	<text>5 - Karaj , Tehran Province</text>
+</context>
+<context>
+	<score>0.47659442</score>
+	<text>4 - Tabriz , East Azarbaijan</text>
+</context>
+<context>
+	<score>0.4601686</score>
+	<text>3 - Esfah n , E fah n Province</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Rank</th><th>City</th><th>Province</th><th>Population</th></tr><tr><td align="center">1</td><td><a href="../../../../articles/t/e/h/Tehran.html" title="Tehran">Tehran</a></td><td><a href="../../../../articles/t/e/h/Tehran_Province_ae21.html" title="Tehran Province">Tehran</a></td><td align="right"><span style="display:none">&amp;0000000007705036.000000</span>7,705,036</td></tr><tr><td align="center">2</td><td><a href="../../../../articles/m/a/s/Mashhad.html" title="Mashhad">Mashhad</a></td><td><a href="../../../../articles/r/a/z/Razavi_Khorasan_b6f7.html" class="mw-redirect" title="Razavi Khorasan">Razavi Khorasan</a></td><td align="right"><span style="display:none">&amp;0000000002410800.000000</span>2,410,800</td></tr><tr><td align="center">3</td><td><a href="../../../../articles/e/s/f/Esfah%C4%81n.html" title="Esfahān">Esfahān</a></td><td><a href="../../../../articles/e/%C5%9F/f/E%C5%9Ffah%C4%81n_Province_ef7f.html" title="Eşfahān Province">Esfahān</a></td><td align="right"><span style="display:none">&amp;0000000001583609.000000</span>1,583,609</td></tr><tr><td align="center">4</td><td><a href="../../../../articles/t/a/b/Tabriz.html" title="Tabriz">Tabriz</a></td><td><a href="../../../../articles/e/a/s/East_Azarbaijan_53c9.html" class="mw-redirect" title="East Azarbaijan">East Azarbaijan</a></td><td align="right"><span style="display:none">&amp;0000000001378935.000000</span>1,378,935</td></tr><tr><td align="center">5</td><td><a href="../../../../articles/k/a/r/Karaj.html" title="Karaj">Karaj</a></td><td><a href="../../../../articles/t/e/h/Tehran_Province_ae21.html" title="Tehran Province">Tehran</a></td><td align="right"><span style="display:none">&amp;0000000001377450.000000</span>1,377,450</td></tr><tr><td align="center">6</td><td><a href="../../../../articles/s/h/i/Shiraz.html" title="Shiraz">Shiraz</a></td><td><a href="../../../../articles/f/a/r/Fars_Province_769c.html" title="Fars Province">Fars</a></td><td align="right"><span style="display:none">&amp;0000000001204882.000000</span>1,204,882</td></tr></table>]]>
+</htmlSnippet>
+</entity>

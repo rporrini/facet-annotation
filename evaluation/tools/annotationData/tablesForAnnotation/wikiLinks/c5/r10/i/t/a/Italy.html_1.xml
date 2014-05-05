@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r10/i/t/a/Italy.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 1 2, 0.80999994 2, 0.8 3, 0.8 1 3, 0.71999997 2 3, 0.14 4, 0.14 1 4, 0.126 2 4, 0.120000005 0, 0.120000005 0 1, 0.112 3 4, 0.108 0 2, 0.09600001 0 3, 0.0168 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/i/t/a/Italy.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Pos.</th>]]></html>
+	<text>Pos.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Common</th>]]></html>
+	<text>Common</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Region</th>]]></html>
+	<text>Region</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Prov.</th>]]></html>
+	<text>Prov.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Inhabitants</th>]]></html>
+	<text>Inhabitants</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rome</td>]]></html>
+	<text>Rome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lazio</td>]]></html>
+	<text>Lazio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RM</td>]]></html>
+	<text>RM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,705,603</td>]]></html>
+	<text>2,705,603</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Milan</td>]]></html>
+	<text>Milan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lombardy</td>]]></html>
+	<text>Lombardy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MI</td>]]></html>
+	<text>MI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,303,437</td>]]></html>
+	<text>1,303,437</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Naples</td>]]></html>
+	<text>Naples</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campania</td>]]></html>
+	<text>Campania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NA</td>]]></html>
+	<text>NA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>975,139</td>]]></html>
+	<text>975,139</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Turin</td>]]></html>
+	<text>Turin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Piedmont</td>]]></html>
+	<text>Piedmont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TO</td>]]></html>
+	<text>TO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>900,569</td>]]></html>
+	<text>900,569</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palermo</td>]]></html>
+	<text>Palermo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sicily</td>]]></html>
+	<text>Sicily</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PA</td>]]></html>
+	<text>PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>666,552</td>]]></html>
+	<text>666,552</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Genoa</td>]]></html>
+	<text>Genoa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liguria</td>]]></html>
+	<text>Liguria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GE</td>]]></html>
+	<text>GE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>615,686</td>]]></html>
+	<text>615,686</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bologna</td>]]></html>
+	<text>Bologna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Emilia-Romagna</td>]]></html>
+	<text>Emilia-Romagna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BO</td>]]></html>
+	<text>BO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>373,026</td>]]></html>
+	<text>373,026</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florence</td>]]></html>
+	<text>Florence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tuscany</td>]]></html>
+	<text>Tuscany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FI</td>]]></html>
+	<text>FI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>365,966</td>]]></html>
+	<text>365,966</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bari</td>]]></html>
+	<text>Bari</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Apulia</td>]]></html>
+	<text>Apulia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BA</td>]]></html>
+	<text>BA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>325,052</td>]]></html>
+	<text>325,052</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Catania</td>]]></html>
+	<text>Catania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sicily</td>]]></html>
+	<text>Sicily</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CT</td>]]></html>
+	<text>CT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>301,564</td>]]></html>
+	<text>301,564</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Italy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Pos. Common Region Prov. Inhabitants</text>
+</context>
+<context>
+	<score>0.87983274</score>
+	<text>Italian cities with a population of 300,000 or more ( ISTAT data, December 2006):</text>
+</context>
+<context>
+	<score>0.7897926</score>
+	<text>Italy</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Metropolitan areas</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Etymology</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>History</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Geography</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Government and politics</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Foreign relations</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Military</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Regions, provinces, and municipalities</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Demographics</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Economy</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Transport</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Culture</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>See also</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Notes</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>References</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>External links</text>
+</context>
+<context>
+	<score>0.6046939</score>
+	<text>According to the OECD [9] , these are the major Italian metropolitan areas :</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Migration and ethnicity</text>
+</context>
+<context>
+	<score>0.47878787</score>
+	<text>Bologna</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Largest cities</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Italy is a destination for immigrants from all over the world. At the end of 2006, foreigners comprised 5% of the population or 2,938,922 persons,</text>
+</context>
+<context>
+	<score>0.46005958</score>
+	<text>After the second world war, Italy saw an economic boom which lead to rural Italians moving to the cities, and high fertility persisted until the 1980 s when it plunged below replacement. As of 2007, one in five Italians was pensioners. Despite this, Italy saw natural population growth for the first time in years. [8]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr align="right"><th>Pos.</th><th>Common</th><th>Region</th><th>Prov.</th><th>Inhabitants</th></tr><tr align="right"><td>1</td><td><b><a href="../../../../articles/r/o/m/Rome.html" title="Rome">Rome</a></b></td><td><a href="../../../../articles/l/a/z/Lazio.html" title="Lazio">Lazio</a></td><td>RM</td><td>2,705,603</td></tr><tr align="right"><td>2</td><td><b><a href="../../../../articles/m/i/l/Milan.html" title="Milan">Milan</a></b></td><td><a href="../../../../articles/l/o/m/Lombardy.html" title="Lombardy">Lombardy</a></td><td>MI</td><td>1,303,437</td></tr><tr align="right"><td>3</td><td><b><a href="../../../../articles/n/a/p/Naples.html" title="Naples">Naples</a></b></td><td><a href="../../../../articles/c/a/m/Campania.html" title="Campania">Campania</a></td><td>NA</td><td>975,139</td></tr><tr align="right"><td>4</td><td><b><a href="../../../../articles/t/u/r/Turin.html" title="Turin">Turin</a></b></td><td><a href="../../../../articles/p/i/e/Piedmont.html" title="Piedmont">Piedmont</a></td><td>TO</td><td>900,569</td></tr><tr align="right"><td>5</td><td><b><a href="../../../../articles/p/a/l/Palermo.html" title="Palermo">Palermo</a></b></td><td><a href="../../../../articles/s/i/c/Sicily.html" title="Sicily">Sicily</a></td><td>PA</td><td>666,552</td></tr><tr align="right"><td>6</td><td><b><a href="../../../../articles/g/e/n/Genoa.html" title="Genoa">Genoa</a></b></td><td><a href="../../../../articles/l/i/g/Liguria.html" title="Liguria">Liguria</a></td><td>GE</td><td>615,686</td></tr><tr align="right"><td>7</td><td><b><a href="../../../../articles/b/o/l/Bologna.html" title="Bologna">Bologna</a></b></td><td><a href="../../../../articles/e/m/i/Emilia-Romagna_46bc.html" title="Emilia-Romagna">Emilia-Romagna</a></td><td>BO</td><td>373,026</td></tr><tr align="right"><td>8</td><td><b><a href="../../../../articles/f/l/o/Florence.html" title="Florence">Florence</a></b></td><td><a href="../../../../articles/t/u/s/Tuscany.html" title="Tuscany">Tuscany</a></td><td>FI</td><td>365,966</td></tr><tr align="right"><td>9</td><td><b><a href="../../../../articles/b/a/r/Bari.html" title="Bari">Bari</a></b></td><td><a href="../../../../articles/a/p/u/Apulia.html" title="Apulia">Apulia</a></td><td>BA</td><td>325,052</td></tr><tr align="right"><td>10</td><td><b><a href="../../../../articles/c/a/t/Catania.html" title="Catania">Catania</a></b></td><td><a href="../../../../articles/s/i/c/Sicily.html" title="Sicily">Sicily</a></td><td>CT</td><td>301,564</td></tr></table>]]>
+</htmlSnippet>
+</entity>

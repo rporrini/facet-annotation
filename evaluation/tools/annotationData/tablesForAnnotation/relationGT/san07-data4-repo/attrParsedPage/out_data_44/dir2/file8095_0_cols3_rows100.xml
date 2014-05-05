@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san07-data4-repo/attrParsedPage/out_data_44/dir2/file8095_0_cols3_rows100.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 1, 0.8333333 1 2, 0.625 2, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="url" value="http://www.bookspot.com/listmodern100.htm" />
+<meta name="parentHTMLDoc" value="san07-data4-repo/attrParsedPage/out_data_44/file8095" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Number</coltype>
+<coltype>Text</coltype>
+<coltype>Name</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><font><u>Rank</u></font></td>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><u>Novel</u></font></td>]]></html>
+	<text>Novel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><u>Author</u></font></td>]]></html>
+	<text>Author</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>1</font></td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ULYSSES</font></td>]]></html>
+	<text>ULYSSES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Joyce</font></td>]]></html>
+	<text>James Joyce</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>2</font></td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE GREAT GATSBY</font></td>]]></html>
+	<text>THE GREAT GATSBY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>F. Scott Fitzgerald</font></td>]]></html>
+	<text>F. Scott Fitzgerald</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>3</font></td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A PORTRAIT OF THE ARTIST AS A YOUNG MAN</font></td>]]></html>
+	<text>A PORTRAIT OF THE ARTIST AS A YOUNG MAN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Joyce</font></td>]]></html>
+	<text>James Joyce</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>4</font></td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>LOLITA</font></td>]]></html>
+	<text>LOLITA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Vladimir Nabokov</font></td>]]></html>
+	<text>Vladimir Nabokov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>5</font></td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>BRAVE NEW WORLD</font></td>]]></html>
+	<text>BRAVE NEW WORLD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Aldous Huxley</font></td>]]></html>
+	<text>Aldous Huxley</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>6</font></td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE SOUND AND THE FURY</font></td>]]></html>
+	<text>THE SOUND AND THE FURY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Faulkner</font></td>]]></html>
+	<text>William Faulkner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>7</font></td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>CATCH-22</font></td>]]></html>
+	<text>CATCH-22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Joseph Heller</font></td>]]></html>
+	<text>Joseph Heller</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>8</font></td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>DARKNESS AT NOON</font></td>]]></html>
+	<text>DARKNESS AT NOON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Arthur Koestler</font></td>]]></html>
+	<text>Arthur Koestler</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>9</font></td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>SONS AND LOVERS</font></td>]]></html>
+	<text>SONS AND LOVERS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>D.H. Lawrence</font></td>]]></html>
+	<text>D.H. Lawrence</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>10</font></td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE GRAPES OF WRATH</font></td>]]></html>
+	<text>THE GRAPES OF WRATH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>John Steinbeck</font></td>]]></html>
+	<text>John Steinbeck</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>11</font></td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>UNDER THE VOLCANO</font></td>]]></html>
+	<text>UNDER THE VOLCANO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Malcolm Lowry</font></td>]]></html>
+	<text>Malcolm Lowry</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>12</font></td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE WAY OF ALL FLESH</font></td>]]></html>
+	<text>THE WAY OF ALL FLESH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Samuel Butler</font></td>]]></html>
+	<text>Samuel Butler</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>13</font></td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1984</font></td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>George Orwell</font></td>]]></html>
+	<text>George Orwell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>14</font></td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>I CLAUDIUS</font></td>]]></html>
+	<text>I CLAUDIUS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Robert Graves</font></td>]]></html>
+	<text>Robert Graves</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>15</font></td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>TO THE LIGHTHOUSE</font></td>]]></html>
+	<text>TO THE LIGHTHOUSE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Virginia Woolf</font></td>]]></html>
+	<text>Virginia Woolf</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>16</font></td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>AN AMERICAN TRAGEDY</font></td>]]></html>
+	<text>AN AMERICAN TRAGEDY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Theodore Dreiser</font></td>]]></html>
+	<text>Theodore Dreiser</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>17</font></td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE HEART IS A LONELY HUNTER</font></td>]]></html>
+	<text>THE HEART IS A LONELY HUNTER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Carson McCullers</font></td>]]></html>
+	<text>Carson McCullers</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>18</font></td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>SLAUGHTERHOUSE-FIVE</font></td>]]></html>
+	<text>SLAUGHTERHOUSE-FIVE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Kurt Vonnegut</font></td>]]></html>
+	<text>Kurt Vonnegut</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>19</font></td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>INVISIBLE MAN</font></td>]]></html>
+	<text>INVISIBLE MAN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ralph Ellison</font></td>]]></html>
+	<text>Ralph Ellison</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>20</font></td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>NATIVE SON</font></td>]]></html>
+	<text>NATIVE SON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Richard Wright</font></td>]]></html>
+	<text>Richard Wright</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>21</font></td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>HENDERSON THE RAIN KING</font></td>]]></html>
+	<text>HENDERSON THE RAIN KING</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Saul Bellow</font></td>]]></html>
+	<text>Saul Bellow</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>22</font></td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>APPOINTMENT IN SAMARRA</font></td>]]></html>
+	<text>APPOINTMENT IN SAMARRA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>John O'Hara</font></td>]]></html>
+	<text>John O&amp;amp;apos;Hara</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>23</font></td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>U.S.A.</font></td>]]></html>
+	<text>U.S.A.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>John Dos Passos</font></td>]]></html>
+	<text>John Dos Passos</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>24</font></td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>WINESBURG, OHIO</font></td>]]></html>
+	<text>WINESBURG, OHIO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sherwood Anderson</font></td>]]></html>
+	<text>Sherwood Anderson</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>25</font></td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A PASSAGE TO INDIA</font></td>]]></html>
+	<text>A PASSAGE TO INDIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>E.M. Forster</font></td>]]></html>
+	<text>E.M. Forster</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>26</font></td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE WINGS OF THE DOVE</font></td>]]></html>
+	<text>THE WINGS OF THE DOVE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Henry James</font></td>]]></html>
+	<text>Henry James</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>27</font></td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE AMBASSADORS</font></td>]]></html>
+	<text>THE AMBASSADORS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Henry James</font></td>]]></html>
+	<text>Henry James</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>28</font></td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>TENDER IS THE NIGHT</font></td>]]></html>
+	<text>TENDER IS THE NIGHT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>F. Scott Fitzgerald</font></td>]]></html>
+	<text>F. Scott Fitzgerald</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>29</font></td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE STUDS LONIGAN TRILOGY</font></td>]]></html>
+	<text>THE STUDS LONIGAN TRILOGY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James T. Farrell</font></td>]]></html>
+	<text>James T. Farrell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>30</font></td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE GOOD SOLDIER</font></td>]]></html>
+	<text>THE GOOD SOLDIER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ford Madox Ford</font></td>]]></html>
+	<text>Ford Madox Ford</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>31</font></td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ANIMAL FARM</font></td>]]></html>
+	<text>ANIMAL FARM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>George Orwell</font></td>]]></html>
+	<text>George Orwell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>32</font></td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE GOLDEN BOWL</font></td>]]></html>
+	<text>THE GOLDEN BOWL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Henry James</font></td>]]></html>
+	<text>Henry James</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>33</font></td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>SISTER CARRIE</font></td>]]></html>
+	<text>SISTER CARRIE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Theodore Dreiser</font></td>]]></html>
+	<text>Theodore Dreiser</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>34</font></td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A HANDFUL OF DUST</font></td>]]></html>
+	<text>A HANDFUL OF DUST</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Evelyn Waugh</font></td>]]></html>
+	<text>Evelyn Waugh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>35</font></td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>AS I LAY DYING</font></td>]]></html>
+	<text>AS I LAY DYING</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Faulkner</font></td>]]></html>
+	<text>William Faulkner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>36</font></td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ALL THE KING'S MEN</font></td>]]></html>
+	<text>ALL THE KING&amp;amp;apos;S MEN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Robert Penn Warren</font></td>]]></html>
+	<text>Robert Penn Warren</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>37</font></td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE BRIDGE OF SAN LUIS REY</font></td>]]></html>
+	<text>THE BRIDGE OF SAN LUIS REY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Thornton Wilder</font></td>]]></html>
+	<text>Thornton Wilder</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>38</font></td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>HOWARDS END</font></td>]]></html>
+	<text>HOWARDS END</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>E.M. Forster</font></td>]]></html>
+	<text>E.M. Forster</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>39</font></td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>GO TELL IT ON THE MOUNTAIN</font></td>]]></html>
+	<text>GO TELL IT ON THE MOUNTAIN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Baldwin</font></td>]]></html>
+	<text>James Baldwin</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>40</font></td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE HEART OF THE MATTER</font></td>]]></html>
+	<text>THE HEART OF THE MATTER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Graham Greene</font></td>]]></html>
+	<text>Graham Greene</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>41</font></td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>LORD OF THE FLIES</font></td>]]></html>
+	<text>LORD OF THE FLIES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Golding</font></td>]]></html>
+	<text>William Golding</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>42</font></td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>DELIVERANCE</font></td>]]></html>
+	<text>DELIVERANCE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Dickey</font></td>]]></html>
+	<text>James Dickey</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>43</font></td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A DANCE TO THE MUSIC OF TIME</font></td>]]></html>
+	<text>A DANCE TO THE MUSIC OF TIME</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Anthony Powell</font></td>]]></html>
+	<text>Anthony Powell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>44</font></td>]]></html>
+	<text>44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>POINT COUNTER POINT</font></td>]]></html>
+	<text>POINT COUNTER POINT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Aldous Huxley</font></td>]]></html>
+	<text>Aldous Huxley</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>45</font></td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE SUN ALSO RISES</font></td>]]></html>
+	<text>THE SUN ALSO RISES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ernest Hemingway</font></td>]]></html>
+	<text>Ernest Hemingway</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>46</font></td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE SECRET AGENT</font></td>]]></html>
+	<text>THE SECRET AGENT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Joseph Conrad</font></td>]]></html>
+	<text>Joseph Conrad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>47</font></td>]]></html>
+	<text>47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>NOSTROMO</font></td>]]></html>
+	<text>NOSTROMO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Joseph Conrad</font></td>]]></html>
+	<text>Joseph Conrad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>48</font></td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE RAINBOW</font></td>]]></html>
+	<text>THE RAINBOW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>D.H. Lawrence</font></td>]]></html>
+	<text>D.H. Lawrence</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>49</font></td>]]></html>
+	<text>49</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>WOMEN IN LOVE</font></td>]]></html>
+	<text>WOMEN IN LOVE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>D.H. Lawrence</font></td>]]></html>
+	<text>D.H. Lawrence</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>50</font></td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>TROPIC OF CANCER</font></td>]]></html>
+	<text>TROPIC OF CANCER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Henry Miller</font></td>]]></html>
+	<text>Henry Miller</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>51</font></td>]]></html>
+	<text>51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE NAKED AND THE DEAD</font></td>]]></html>
+	<text>THE NAKED AND THE DEAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Norman Mailer</font></td>]]></html>
+	<text>Norman Mailer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>52</font></td>]]></html>
+	<text>52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>PORTNOY'S COMPLAINT</font></td>]]></html>
+	<text>PORTNOY&amp;amp;apos;S COMPLAINT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Philip Roth</font></td>]]></html>
+	<text>Philip Roth</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>53</font></td>]]></html>
+	<text>53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>PALE FIRE</font></td>]]></html>
+	<text>PALE FIRE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Vladimir Nabokov</font></td>]]></html>
+	<text>Vladimir Nabokov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>54</font></td>]]></html>
+	<text>54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>LIGHT IN AUGUST</font></td>]]></html>
+	<text>LIGHT IN AUGUST</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Faulkner</font></td>]]></html>
+	<text>William Faulkner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>55</font></td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ON THE ROAD</font></td>]]></html>
+	<text>ON THE ROAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jack Kerouac</font></td>]]></html>
+	<text>Jack Kerouac</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>56</font></td>]]></html>
+	<text>56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE MALTESE FALCON</font></td>]]></html>
+	<text>THE MALTESE FALCON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Dashiell Hammett</font></td>]]></html>
+	<text>Dashiell Hammett</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>57</font></td>]]></html>
+	<text>57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>PARADE'S END</font></td>]]></html>
+	<text>PARADE&amp;amp;apos;S END</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ford Madox Ford</font></td>]]></html>
+	<text>Ford Madox Ford</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>58</font></td>]]></html>
+	<text>58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE AGE OF INNOCENCE</font></td>]]></html>
+	<text>THE AGE OF INNOCENCE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Edith Wharton</font></td>]]></html>
+	<text>Edith Wharton</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>59</font></td>]]></html>
+	<text>59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ZULEIKA DOBSON</font></td>]]></html>
+	<text>ZULEIKA DOBSON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Max Beerbohm</font></td>]]></html>
+	<text>Max Beerbohm</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>60</font></td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE MOVIEGOER</font></td>]]></html>
+	<text>THE MOVIEGOER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Walker Percy</font></td>]]></html>
+	<text>Walker Percy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>61</font></td>]]></html>
+	<text>61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>DEATH COMES FOR THE ARCHBISHOP</font></td>]]></html>
+	<text>DEATH COMES FOR THE ARCHBISHOP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Willa Cather</font></td>]]></html>
+	<text>Willa Cather</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>62</font></td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>FROM HERE TO ETERNITY</font></td>]]></html>
+	<text>FROM HERE TO ETERNITY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Jones</font></td>]]></html>
+	<text>James Jones</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>63</font></td>]]></html>
+	<text>63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE WAPSHOT CHRONICLES</font></td>]]></html>
+	<text>THE WAPSHOT CHRONICLES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>John Cheever</font></td>]]></html>
+	<text>John Cheever</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>64</font></td>]]></html>
+	<text>64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE CATCHER IN THE RYE</font></td>]]></html>
+	<text>THE CATCHER IN THE RYE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>J.D. Salinger</font></td>]]></html>
+	<text>J.D. Salinger</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>65</font></td>]]></html>
+	<text>65</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A CLOCKWORK ORANGE</font></td>]]></html>
+	<text>A CLOCKWORK ORANGE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Anthony Burgess</font></td>]]></html>
+	<text>Anthony Burgess</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>66</font></td>]]></html>
+	<text>66</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>OF HUMAN BONDAGE</font></td>]]></html>
+	<text>OF HUMAN BONDAGE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>W. Somerset Maugham</font></td>]]></html>
+	<text>W. Somerset Maugham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>67</font></td>]]></html>
+	<text>67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>HEART OF DARKNESS</font></td>]]></html>
+	<text>HEART OF DARKNESS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Joseph Conrad</font></td>]]></html>
+	<text>Joseph Conrad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>68</font></td>]]></html>
+	<text>68</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>MAIN STREET</font></td>]]></html>
+	<text>MAIN STREET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sinclair Lewis</font></td>]]></html>
+	<text>Sinclair Lewis</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>69</font></td>]]></html>
+	<text>69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE HOUSE OF MIRTH</font></td>]]></html>
+	<text>THE HOUSE OF MIRTH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Edith Wharton</font></td>]]></html>
+	<text>Edith Wharton</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>70</font></td>]]></html>
+	<text>70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE ALEXANDRIA QUARTET</font></td>]]></html>
+	<text>THE ALEXANDRIA QUARTET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lawrence Durell</font></td>]]></html>
+	<text>Lawrence Durell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>71</font></td>]]></html>
+	<text>71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A HIGH WIND IN JAMAICA</font></td>]]></html>
+	<text>A HIGH WIND IN JAMAICA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Richard Hughes</font></td>]]></html>
+	<text>Richard Hughes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>72</font></td>]]></html>
+	<text>72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A HOUSE FOR MR BISWAS</font></td>]]></html>
+	<text>A HOUSE FOR MR BISWAS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>V.S. Naipaul</font></td>]]></html>
+	<text>V.S. Naipaul</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>73</font></td>]]></html>
+	<text>73</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE DAY OF THE LOCUST</font></td>]]></html>
+	<text>THE DAY OF THE LOCUST</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Nathanael West</font></td>]]></html>
+	<text>Nathanael West</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>74</font></td>]]></html>
+	<text>74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A FAREWELL TO ARMS</font></td>]]></html>
+	<text>A FAREWELL TO ARMS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ernest Hemingway</font></td>]]></html>
+	<text>Ernest Hemingway</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>75</font></td>]]></html>
+	<text>75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>SCOOP</font></td>]]></html>
+	<text>SCOOP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Evelyn Waugh</font></td>]]></html>
+	<text>Evelyn Waugh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>76</font></td>]]></html>
+	<text>76</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE PRIME OF MISS JEAN BRODIE</font></td>]]></html>
+	<text>THE PRIME OF MISS JEAN BRODIE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Muriel Spark</font></td>]]></html>
+	<text>Muriel Spark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>77</font></td>]]></html>
+	<text>77</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>FINNEGANS WAKE</font></td>]]></html>
+	<text>FINNEGANS WAKE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James Joyce</font></td>]]></html>
+	<text>James Joyce</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>78</font></td>]]></html>
+	<text>78</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>KIM</font></td>]]></html>
+	<text>KIM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Rudyard Kipling</font></td>]]></html>
+	<text>Rudyard Kipling</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>79</font></td>]]></html>
+	<text>79</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A ROOM WITH A VIEW</font></td>]]></html>
+	<text>A ROOM WITH A VIEW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>E.M. Forster</font></td>]]></html>
+	<text>E.M. Forster</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>80</font></td>]]></html>
+	<text>80</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>BRIDESHEAD REVISITED</font></td>]]></html>
+	<text>BRIDESHEAD REVISITED</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Evelyn Waugh</font></td>]]></html>
+	<text>Evelyn Waugh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>81</font></td>]]></html>
+	<text>81</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE ADVENTURES OF AUGIE MARCH</font></td>]]></html>
+	<text>THE ADVENTURES OF AUGIE MARCH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Saul Bellow</font></td>]]></html>
+	<text>Saul Bellow</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>82</font></td>]]></html>
+	<text>82</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>ANGLE OF REPOSE</font></td>]]></html>
+	<text>ANGLE OF REPOSE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Wallace Stegner</font></td>]]></html>
+	<text>Wallace Stegner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>83</font></td>]]></html>
+	<text>83</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>A BEND IN THE RIVER</font></td>]]></html>
+	<text>A BEND IN THE RIVER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>V.S. Naipaul</font></td>]]></html>
+	<text>V.S. Naipaul</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>84</font></td>]]></html>
+	<text>84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE DEATH OF THE HEART</font></td>]]></html>
+	<text>THE DEATH OF THE HEART</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Elizabeth Bowen</font></td>]]></html>
+	<text>Elizabeth Bowen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>85</font></td>]]></html>
+	<text>85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>LORD JIM</font></td>]]></html>
+	<text>LORD JIM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Joseph Conrad</font></td>]]></html>
+	<text>Joseph Conrad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>86</font></td>]]></html>
+	<text>86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>RAGTIME</font></td>]]></html>
+	<text>RAGTIME</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>E.L. Doctorow</font></td>]]></html>
+	<text>E.L. Doctorow</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>87</font></td>]]></html>
+	<text>87</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE OLD WIVES' TALE</font></td>]]></html>
+	<text>THE OLD WIVES&amp;amp;apos; TALE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Arnold Bennett</font></td>]]></html>
+	<text>Arnold Bennett</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>88</font></td>]]></html>
+	<text>88</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE CALL OF THE WILD</font></td>]]></html>
+	<text>THE CALL OF THE WILD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jack London</font></td>]]></html>
+	<text>Jack London</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>89</font></td>]]></html>
+	<text>89</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>LOVING</font></td>]]></html>
+	<text>LOVING</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Henry Green</font></td>]]></html>
+	<text>Henry Green</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>90</font></td>]]></html>
+	<text>90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>MIDNIGHT'S CHILDREN</font></td>]]></html>
+	<text>MIDNIGHT&amp;amp;apos;S CHILDREN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Salman Rushdie</font></td>]]></html>
+	<text>Salman Rushdie</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>91</font></td>]]></html>
+	<text>91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>TOBACCO ROAD</font></td>]]></html>
+	<text>TOBACCO ROAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Erskine Caldwell</font></td>]]></html>
+	<text>Erskine Caldwell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>92</font></td>]]></html>
+	<text>92</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>IRONWEED</font></td>]]></html>
+	<text>IRONWEED</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Kennedy</font></td>]]></html>
+	<text>William Kennedy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>93</font></td>]]></html>
+	<text>93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE MAGUS</font></td>]]></html>
+	<text>THE MAGUS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>John Fowles</font></td>]]></html>
+	<text>John Fowles</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>94</font></td>]]></html>
+	<text>94</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>WIDE SARGASSO SEA</font></td>]]></html>
+	<text>WIDE SARGASSO SEA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jean Rhys</font></td>]]></html>
+	<text>Jean Rhys</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>95</font></td>]]></html>
+	<text>95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>UNDER THE NET</font></td>]]></html>
+	<text>UNDER THE NET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Iris Murdoch</font></td>]]></html>
+	<text>Iris Murdoch</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>96</font></td>]]></html>
+	<text>96</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>SOPHIE'S CHOICE</font></td>]]></html>
+	<text>SOPHIE&amp;amp;apos;S CHOICE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>William Styron</font></td>]]></html>
+	<text>William Styron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>97</font></td>]]></html>
+	<text>97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE SHELTERING SKY</font></td>]]></html>
+	<text>THE SHELTERING SKY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Paul Bowles</font></td>]]></html>
+	<text>Paul Bowles</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>98</font></td>]]></html>
+	<text>98</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE POSTMAN ALWAYS RINGS TWICE</font></td>]]></html>
+	<text>THE POSTMAN ALWAYS RINGS TWICE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>James M. Cain</font></td>]]></html>
+	<text>James M. Cain</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>99</font></td>]]></html>
+	<text>99</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE GINGER MAN</font></td>]]></html>
+	<text>THE GINGER MAN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>J.P. Donleavy</font></td>]]></html>
+	<text>J.P. Donleavy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>100</font></td>]]></html>
+	<text>100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>THE MAGNIFICENT AMBERSONS</font></td>]]></html>
+	<text>THE MAGNIFICENT AMBERSONS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Booth Tarkington</font></td>]]></html>
+	<text>Booth Tarkington</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Rank Novel Author</text>
+</context>
+<context>
+	<score>0.9157654</score>
+	<text>Back to Home Page</text>
+</context>
+<context>
+	<score>0.81364024</score>
+	<text>The Modern Library&apos;s 100 Best Novels.</text>
+</context>
+<context>
+	<score>0.66455233</score>
+	<text>Reference Desk -------------- BOOKS Authors Book Events Book Reviews Electronic Texts Industry Facts Lists Q&amp;A Trivia -------------- OTHER SPOTS Calendars Dictionaries E-Mail Directories Encyclopedias Experts How To Maps Museums People Thesauri White Pages Zip Codes Much More... Book News -------------- BOOKS Book News Sources -------------- HEADLINESPOT Today&apos;s Top Stories Search the News News By City News By State News by Country Arts &amp; Entertainment Education News Health News Political News Sports News Weather Much More... StartSpot Network BookSpot.com CinemaSpot.com EmploymentSpot.com GenealogySpot.com GovSpot.com HeadlineSpot.com HomeworkSpot.com LibrarySpot.com MuseumSpot.com TripSpot.com</text>
+</context>
+<context>
+	<score>0.6163181</score>
+	<text>Source: The Modern Library. To learn more about the nominees, visit Modern Library .</text>
+</context>
+<context>
+	<score>0.5452821</score>
+	<text>&gt; Search Site &gt; Link to Site</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><font><u>Rank</u></font></td><td><font><u>Novel</u></font></td><td><font><u>Author</u></font></td></tr><tr><td><font>1</font></td><td><font>ULYSSES</font></td><td><font>James Joyce</font></td></tr><tr><td><font>2</font></td><td><font>THE GREAT GATSBY</font></td><td><font>F. Scott Fitzgerald</font></td></tr><tr><td><font>3</font></td><td><font>A PORTRAIT OF THE ARTIST AS A YOUNG MAN</font></td><td><font>James Joyce</font></td></tr><tr><td><font>4</font></td><td><font>LOLITA</font></td><td><font>Vladimir Nabokov</font></td></tr><tr><td><font>5</font></td><td><font>BRAVE NEW WORLD</font></td><td><font>Aldous Huxley</font></td></tr><tr><td><font>6</font></td><td><font>THE SOUND AND THE FURY</font></td><td><font>William Faulkner</font></td></tr><tr><td><font>7</font></td><td><font>CATCH-22</font></td><td><font>Joseph Heller</font></td></tr><tr><td><font>8</font></td><td><font>DARKNESS AT NOON</font></td><td><font>Arthur Koestler</font></td></tr><tr><td><font>9</font></td><td><font>SONS AND LOVERS</font></td><td><font>D.H. Lawrence</font></td></tr><tr><td><font>10</font></td><td><font>THE GRAPES OF WRATH</font></td><td><font>John Steinbeck</font></td></tr><tr><td><font>11</font></td><td><font>UNDER THE VOLCANO</font></td><td><font>Malcolm Lowry</font></td></tr><tr><td><font>12</font></td><td><font>THE WAY OF ALL FLESH</font></td><td><font>Samuel Butler</font></td></tr><tr><td><font>13</font></td><td><font>1984</font></td><td><font>George Orwell</font></td></tr><tr><td><font>14</font></td><td><font>I CLAUDIUS</font></td><td><font>Robert Graves</font></td></tr><tr><td><font>15</font></td><td><font>TO THE LIGHTHOUSE</font></td><td><font>Virginia Woolf</font></td></tr><tr><td><font>16</font></td><td><font>AN AMERICAN TRAGEDY</font></td><td><font>Theodore Dreiser</font></td></tr><tr><td><font>17</font></td><td><font>THE HEART IS A LONELY HUNTER</font></td><td><font>Carson McCullers</font></td></tr><tr><td><font>18</font></td><td><font>SLAUGHTERHOUSE-FIVE</font></td><td><font>Kurt Vonnegut</font></td></tr><tr><td><font>19</font></td><td><font>INVISIBLE MAN</font></td><td><font>Ralph Ellison</font></td></tr><tr><td><font>20</font></td><td><font>NATIVE SON</font></td><td><font>Richard Wright</font></td></tr><tr><td><font>21</font></td><td><font>HENDERSON THE RAIN KING</font></td><td><font>Saul Bellow</font></td></tr><tr><td><font>22</font></td><td><font>APPOINTMENT IN SAMARRA</font></td><td><font>John O'Hara</font></td></tr><tr><td><font>23</font></td><td><font>U.S.A.</font></td><td><font>John Dos Passos</font></td></tr><tr><td><font>24</font></td><td><font>WINESBURG, OHIO</font></td><td><font>Sherwood Anderson</font></td></tr><tr><td><font>25</font></td><td><font>A PASSAGE TO INDIA</font></td><td><font>E.M. Forster</font></td></tr><tr><td><font>26</font></td><td><font>THE WINGS OF THE DOVE</font></td><td><font>Henry James</font></td></tr><tr><td><font>27</font></td><td><font>THE AMBASSADORS</font></td><td><font>Henry James</font></td></tr><tr><td><font>28</font></td><td><font>TENDER IS THE NIGHT</font></td><td><font>F. Scott Fitzgerald</font></td></tr><tr><td><font>29</font></td><td><font>THE STUDS LONIGAN TRILOGY</font></td><td><font>James T. Farrell</font></td></tr><tr><td><font>30</font></td><td><font>THE GOOD SOLDIER</font></td><td><font>Ford Madox Ford</font></td></tr><tr><td><font>31</font></td><td><font>ANIMAL FARM</font></td><td><font>George Orwell</font></td></tr><tr><td><font>32</font></td><td><font>THE GOLDEN BOWL</font></td><td><font>Henry James</font></td></tr><tr><td><font>33</font></td><td><font>SISTER CARRIE</font></td><td><font>Theodore Dreiser</font></td></tr><tr><td><font>34</font></td><td><font>A HANDFUL OF DUST</font></td><td><font>Evelyn Waugh</font></td></tr><tr><td><font>35</font></td><td><font>AS I LAY DYING</font></td><td><font>William Faulkner</font></td></tr><tr><td><font>36</font></td><td><font>ALL THE KING'S MEN</font></td><td><font>Robert Penn Warren</font></td></tr><tr><td><font>37</font></td><td><font>THE BRIDGE OF SAN LUIS REY</font></td><td><font>Thornton Wilder</font></td></tr><tr><td><font>38</font></td><td><font>HOWARDS END</font></td><td><font>E.M. Forster</font></td></tr><tr><td><font>39</font></td><td><font>GO TELL IT ON THE MOUNTAIN</font></td><td><font>James Baldwin</font></td></tr><tr><td><font>40</font></td><td><font>THE HEART OF THE MATTER</font></td><td><font>Graham Greene</font></td></tr><tr><td><font>41</font></td><td><font>LORD OF THE FLIES</font></td><td><font>William Golding</font></td></tr><tr><td><font>42</font></td><td><font>DELIVERANCE</font></td><td><font>James Dickey</font></td></tr><tr><td><font>43</font></td><td><font>A DANCE TO THE MUSIC OF TIME</font></td><td><font>Anthony Powell</font></td></tr><tr><td><font>44</font></td><td><font>POINT COUNTER POINT</font></td><td><font>Aldous Huxley</font></td></tr><tr><td><font>45</font></td><td><font>THE SUN ALSO RISES</font></td><td><font>Ernest Hemingway</font></td></tr><tr><td><font>46</font></td><td><font>THE SECRET AGENT</font></td><td><font>Joseph Conrad</font></td></tr><tr><td><font>47</font></td><td><font>NOSTROMO</font></td><td><font>Joseph Conrad</font></td></tr><tr><td><font>48</font></td><td><font>THE RAINBOW</font></td><td><font>D.H. Lawrence</font></td></tr><tr><td><font>49</font></td><td><font>WOMEN IN LOVE</font></td><td><font>D.H. Lawrence</font></td></tr><tr><td><font>50</font></td><td><font>TROPIC OF CANCER</font></td><td><font>Henry Miller</font></td></tr><tr><td><font>51</font></td><td><font>THE NAKED AND THE DEAD</font></td><td><font>Norman Mailer</font></td></tr><tr><td><font>52</font></td><td><font>PORTNOY'S COMPLAINT</font></td><td><font>Philip Roth</font></td></tr><tr><td><font>53</font></td><td><font>PALE FIRE</font></td><td><font>Vladimir Nabokov</font></td></tr><tr><td><font>54</font></td><td><font>LIGHT IN AUGUST</font></td><td><font>William Faulkner</font></td></tr><tr><td><font>55</font></td><td><font>ON THE ROAD</font></td><td><font>Jack Kerouac</font></td></tr><tr><td><font>56</font></td><td><font>THE MALTESE FALCON</font></td><td><font>Dashiell Hammett</font></td></tr><tr><td><font>57</font></td><td><font>PARADE'S END</font></td><td><font>Ford Madox Ford</font></td></tr><tr><td><font>58</font></td><td><font>THE AGE OF INNOCENCE</font></td><td><font>Edith Wharton</font></td></tr><tr><td><font>59</font></td><td><font>ZULEIKA DOBSON</font></td><td><font>Max Beerbohm</font></td></tr><tr><td><font>60</font></td><td><font>THE MOVIEGOER</font></td><td><font>Walker Percy</font></td></tr><tr><td><font>61</font></td><td><font>DEATH COMES FOR THE ARCHBISHOP</font></td><td><font>Willa Cather</font></td></tr><tr><td><font>62</font></td><td><font>FROM HERE TO ETERNITY</font></td><td><font>James Jones</font></td></tr><tr><td><font>63</font></td><td><font>THE WAPSHOT CHRONICLES</font></td><td><font>John Cheever</font></td></tr><tr><td><font>64</font></td><td><font>THE CATCHER IN THE RYE</font></td><td><font>J.D. Salinger</font></td></tr><tr><td><font>65</font></td><td><font>A CLOCKWORK ORANGE</font></td><td><font>Anthony Burgess</font></td></tr><tr><td><font>66</font></td><td><font>OF HUMAN BONDAGE</font></td><td><font>W. Somerset Maugham</font></td></tr><tr><td><font>67</font></td><td><font>HEART OF DARKNESS</font></td><td><font>Joseph Conrad</font></td></tr><tr><td><font>68</font></td><td><font>MAIN STREET</font></td><td><font>Sinclair Lewis</font></td></tr><tr><td><font>69</font></td><td><font>THE HOUSE OF MIRTH</font></td><td><font>Edith Wharton</font></td></tr><tr><td><font>70</font></td><td><font>THE ALEXANDRIA QUARTET</font></td><td><font>Lawrence Durell</font></td></tr><tr><td><font>71</font></td><td><font>A HIGH WIND IN JAMAICA</font></td><td><font>Richard Hughes</font></td></tr><tr><td><font>72</font></td><td><font>A HOUSE FOR MR BISWAS</font></td><td><font>V.S. Naipaul</font></td></tr><tr><td><font>73</font></td><td><font>THE DAY OF THE LOCUST</font></td><td><font>Nathanael West</font></td></tr><tr><td><font>74</font></td><td><font>A FAREWELL TO ARMS</font></td><td><font>Ernest Hemingway</font></td></tr><tr><td><font>75</font></td><td><font>SCOOP</font></td><td><font>Evelyn Waugh</font></td></tr><tr><td><font>76</font></td><td><font>THE PRIME OF MISS JEAN BRODIE</font></td><td><font>Muriel Spark</font></td></tr><tr><td><font>77</font></td><td><font>FINNEGANS WAKE</font></td><td><font>James Joyce</font></td></tr><tr><td><font>78</font></td><td><font>KIM</font></td><td><font>Rudyard Kipling</font></td></tr><tr><td><font>79</font></td><td><font>A ROOM WITH A VIEW</font></td><td><font>E.M. Forster</font></td></tr><tr><td><font>80</font></td><td><font>BRIDESHEAD REVISITED</font></td><td><font>Evelyn Waugh</font></td></tr><tr><td><font>81</font></td><td><font>THE ADVENTURES OF AUGIE MARCH</font></td><td><font>Saul Bellow</font></td></tr><tr><td><font>82</font></td><td><font>ANGLE OF REPOSE</font></td><td><font>Wallace Stegner</font></td></tr><tr><td><font>83</font></td><td><font>A BEND IN THE RIVER</font></td><td><font>V.S. Naipaul</font></td></tr><tr><td><font>84</font></td><td><font>THE DEATH OF THE HEART</font></td><td><font>Elizabeth Bowen</font></td></tr><tr><td><font>85</font></td><td><font>LORD JIM</font></td><td><font>Joseph Conrad</font></td></tr><tr><td><font>86</font></td><td><font>RAGTIME</font></td><td><font>E.L. Doctorow</font></td></tr><tr><td><font>87</font></td><td><font>THE OLD WIVES' TALE</font></td><td><font>Arnold Bennett</font></td></tr><tr><td><font>88</font></td><td><font>THE CALL OF THE WILD</font></td><td><font>Jack London</font></td></tr><tr><td><font>89</font></td><td><font>LOVING</font></td><td><font>Henry Green</font></td></tr><tr><td><font>90</font></td><td><font>MIDNIGHT'S CHILDREN</font></td><td><font>Salman Rushdie</font></td></tr><tr><td><font>91</font></td><td><font>TOBACCO ROAD</font></td><td><font>Erskine Caldwell</font></td></tr><tr><td><font>92</font></td><td><font>IRONWEED</font></td><td><font>William Kennedy</font></td></tr><tr><td><font>93</font></td><td><font>THE MAGUS</font></td><td><font>John Fowles</font></td></tr><tr><td><font>94</font></td><td><font>WIDE SARGASSO SEA</font></td><td><font>Jean Rhys</font></td></tr><tr><td><font>95</font></td><td><font>UNDER THE NET</font></td><td><font>Iris Murdoch</font></td></tr><tr><td><font>96</font></td><td><font>SOPHIE'S CHOICE</font></td><td><font>William Styron</font></td></tr><tr><td><font>97</font></td><td><font>THE SHELTERING SKY</font></td><td><font>Paul Bowles</font></td></tr><tr><td><font>98</font></td><td><font>THE POSTMAN ALWAYS RINGS TWICE</font></td><td><font>James M. Cain</font></td></tr><tr><td><font>99</font></td><td><font>THE GINGER MAN</font></td><td><font>J.P. Donleavy</font></td></tr><tr><td><font>100</font></td><td><font>THE MAGNIFICENT AMBERSONS</font></td><td><font>Booth Tarkington</font></td></tr></table>]]>
+</htmlSnippet>
+</entity>

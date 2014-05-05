@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/p/o/l/Politics_of_Bristol_678f.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.22222224 2, " />
+<meta name="parentHTMLDoc" value="en/articles/p/o/l/Politics_of_Bristol_678f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Constituency</th>]]></html>
+	<text>Constituency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Member</th>]]></html>
+	<text>Member</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bristol East</td>]]></html>
+	<text>Bristol East</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kerry McCarthy</td>]]></html>
+	<text>Kerry McCarthy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Labour Party</td>]]></html>
+	<text>Labour Party</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bristol North-west</td>]]></html>
+	<text>Bristol North-west</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doug Naysmith</td>]]></html>
+	<text>Doug Naysmith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Labour Party</td>]]></html>
+	<text>Labour Party</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bristol South</td>]]></html>
+	<text>Bristol South</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dawn Primarolo</td>]]></html>
+	<text>Dawn Primarolo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Labour Party</td>]]></html>
+	<text>Labour Party</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bristol West</td>]]></html>
+	<text>Bristol West</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stephen Williams</td>]]></html>
+	<text>Stephen Williams</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liberal Democrat</td>]]></html>
+	<text>Liberal Democrat</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kingswood</td>]]></html>
+	<text>Kingswood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roger Berry</td>]]></html>
+	<text>Roger Berry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Labour Party</td>]]></html>
+	<text>Labour Party</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northavon</td>]]></html>
+	<text>Northavon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steve Webb</td>]]></html>
+	<text>Steve Webb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liberal Democrat</td>]]></html>
+	<text>Liberal Democrat</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Politics of Bristol - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Constituency Member Party</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>Partisan Composition</text>
+</context>
+<context>
+	<score>0.7929342</score>
+	<text>Politics of Bristol</text>
+</context>
+<context>
+	<score>0.78270364</score>
+	<text>Bristol has 4 Westminster constituencies ( West , East , South and North-west ), and parts of the built-up area outside the administrative city are also covered by Kingswood and Northavon . The current boundaries, based on the former county of Avon , have been reviewed, and from the next election the four Bristol constituencies will be entirely within the city boundaries, and a new Filton and Bradley Stoke constituency will cover the built-up area of South Gloucestershire.</text>
+</context>
+<context>
+	<score>0.75044</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7202376</score>
+	<text>[ edit ] City Council</text>
+</context>
+<context>
+	<score>0.7202376</score>
+	<text>[ edit ] Westminster representation</text>
+</context>
+<context>
+	<score>0.7202376</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7202376</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7202376</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71315503</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7029245</score>
+	<text>[ edit ] Westminster representation</text>
+</context>
+<context>
+	<score>0.639101</score>
+	<text>[ edit ] Individual Results Main article: Bristol local elections</text>
+</context>
+<context>
+	<score>0.59947366</score>
+	<text>List of Parliamentary constituencies in Avon Politics of the United Kingdom</text>
+</context>
+<context>
+	<score>0.5880423</score>
+	<text>1967 1974 : Citizen Party</text>
+</context>
+<context>
+	<score>0.5471954</score>
+	<text>1 April 1974 : Bristol changes from County borough to District ( Avon created)</text>
+</context>
+<context>
+	<score>0.51451784</score>
+	<text>1 April 1996 : Bristol changes from District to Unitary authority ( Avon abolished)</text>
+</context>
+<context>
+	<score>0.51067</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4812931</score>
+	<text>Partisan Control</text>
+</context>
+<context>
+	<score>0.46037945</score>
+	<text>Graph showing seats on Bristol City Council over the years</text>
+</context>
+<context>
+	<score>0.4584325</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.45073122</score>
+	<text>Source [2] (* Eastville election was deferred due to the death of a candidate)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Constituency</th><th>Member</th><th>Party</th></tr><tr><td><a href="../../../../articles/b/r/i/Bristol_East_197c.html" class="mw-redirect" title="Bristol East">Bristol East</a></td><td><a href="../../../../articles/k/e/r/Kerry_McCarthy_8722.html" title="Kerry McCarthy">Kerry McCarthy</a></td><td><a href="../../../../articles/l/a/b/Labour_Party_%28UK%29_3e02.html" title="Labour Party (UK)">Labour Party</a></td></tr><tr><td><a href="../../../../articles/b/r/i/Bristol_North_West_%28UK_Parliament_constituency%29_ff78.html" title="Bristol North West (UK Parliament constituency)">Bristol North-west</a></td><td><a href="../../../../articles/d/o/u/Doug_Naysmith_55e0.html" title="Doug Naysmith">Doug Naysmith</a></td><td><a href="../../../../articles/l/a/b/Labour_Party_%28UK%29_3e02.html" title="Labour Party (UK)">Labour Party</a></td></tr><tr><td><a href="../../../../articles/b/r/i/Bristol_South_90ba.html" class="mw-redirect" title="Bristol South">Bristol South</a></td><td><a href="../../../../articles/d/a/w/Dawn_Primarolo_33d3.html" title="Dawn Primarolo">Dawn Primarolo</a></td><td><a href="../../../../articles/l/a/b/Labour_Party_%28UK%29_3e02.html" title="Labour Party (UK)">Labour Party</a></td></tr><tr><td><a href="../../../../articles/b/r/i/Bristol_West_4a8f.html" class="mw-redirect" title="Bristol West">Bristol West</a></td><td><a href="../../../../articles/s/t/e/Stephen_Williams_%28politician%29_270d.html" title="Stephen Williams (politician)">Stephen Williams</a></td><td><a href="../../../../articles/l/i/b/Liberal_Democrats_8c75.html" title="Liberal Democrats">Liberal Democrat</a></td></tr><tr><td><a href="../../../../articles/k/i/n/Kingswood.html" title="Kingswood">Kingswood</a></td><td><a href="../../../../articles/r/o/g/Roger_Berry_6d42.html" title="Roger Berry">Roger Berry</a></td><td><a href="../../../../articles/l/a/b/Labour_Party_%28UK%29_3e02.html" title="Labour Party (UK)">Labour Party</a></td></tr><tr><td><a href="../../../../articles/n/o/r/Northavon.html" title="Northavon">Northavon</a></td><td><a href="../../../../articles/s/t/e/Steve_Webb_a903.html" title="Steve Webb">Steve Webb</a></td><td><a href="../../../../articles/l/i/b/Liberal_Democrats_8c75.html" title="Liberal Democrats">Liberal Democrat</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

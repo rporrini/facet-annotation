@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_Prime_Ministers_of_France_4e78.html_6.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 3, 0.52500004 3, 0.15 1, 0.15 0 1, 0.13125001 1 3, 0.125 2, 0.125 0 2, 0.109375 2 3, 0.01875 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_Prime_Ministers_of_France_4e78.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Term start</th>]]></html>
+	<text>Term start</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Term end</th>]]></html>
+	<text>Term end</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Political Party</th>]]></html>
+	<text>Political Party</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charles de Gaulle</td>]]></html>
+	<text>Charles de Gaulle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 3 , 1944</td>]]></html>
+	<text>June 3 , 1944</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 26 , 1946</td>]]></html>
+	<text>January 26 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Non-party</td>]]></html>
+	<text>Non-party</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Félix Gouin</td>]]></html>
+	<text>F&#233;lix Gouin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 26 , 1946</td>]]></html>
+	<text>January 26 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 24 , 1946</td>]]></html>
+	<text>June 24 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French Section of the Workers' International</td>]]></html>
+	<text>French Section of the Workers&amp;apos; International</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georges Bidault</td>]]></html>
+	<text>Georges Bidault</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 24 , 1946</td>]]></html>
+	<text>June 24 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 28 , 1946</td>]]></html>
+	<text>November 28 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Popular Republican Movement</td>]]></html>
+	<text>Popular Republican Movement</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vincent Auriol (interim)</td>]]></html>
+	<text>Vincent Auriol (interim)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 28 , 1946</td>]]></html>
+	<text>November 28 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 16 , 1946</td>]]></html>
+	<text>December 16 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French Section of the Workers' International</td>]]></html>
+	<text>French Section of the Workers&amp;apos; International</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Léon Blum</td>]]></html>
+	<text>L&#233;on Blum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 16 , 1946</td>]]></html>
+	<text>December 16 , 1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 16 , 1947</td>]]></html>
+	<text>January 16 , 1947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French Section of the Workers' International</td>]]></html>
+	<text>French Section of the Workers&amp;apos; International</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Prime Ministers of France - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Term start Term end Political Party</text>
+</context>
+<context>
+	<score>0.8813091</score>
+	<text>[ edit ] Chairmen of the Provisional Government</text>
+</context>
+<context>
+	<score>0.78953975</score>
+	<text>List of Prime Ministers of France</text>
+</context>
+<context>
+	<score>0.7840177</score>
+	<text>[ edit ] Provisional Government of the French Republic (1944-1947)</text>
+</context>
+<context>
+	<score>0.7525411</score>
+	<text>[ edit ] Fourth French Republic (1947-1958)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Early Modern France</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] First French Republic (1792-1804)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] First French Empire (1804-1815)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Bourbon Restoration (1815-1830)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] July Monarchy (1830-1848)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Second French Republic (1848-1852)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Second French Empire (1852-1870)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Third French Republic (1870-1940)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] French State (1940-1944)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Provisional Government of the French Republic (1944-1947)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Fourth French Republic (1947-1958)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] Fifth French Republic (1958-Present)</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71463</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7117066</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7061846</score>
+	<text>[ edit ] Presidents of the Council of Ministers</text>
+</context>
+<context>
+	<score>0.6439181</score>
+	<text>[ edit ] French State (1940-1944)</text>
+</context>
+<context>
+	<score>0.60525733</score>
+	<text>[ edit ] Presidents of the Council of Ministers</text>
+</context>
+<context>
+	<score>0.5941048</score>
+	<text>[ edit ] Presidents of the Council of Ministers</text>
+</context>
+<context>
+	<score>0.5223738</score>
+	<text>January 18 , 1871</text>
+</context>
+<context>
+	<score>0.51861984</score>
+	<text>[ edit ] Fifth French Republic (1958-Present)</text>
+</context>
+<context>
+	<score>0.49686947</score>
+	<text>September 4 , 1870</text>
+</context>
+<context>
+	<score>0.4676566</score>
+	<text>[ edit ] Prime Ministers</text>
+</context>
+<context>
+	<score>0.45721975</score>
+	<text>Name Term start Term end Political Party</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name</th><th>Term start</th><th>Term end</th><th>Political Party</th></tr><tr><td><a href="../../../../articles/c/h/a/Charles_de_Gaulle_62f6.html" title="Charles de Gaulle">Charles de Gaulle</a></td><td><a href="../../../../articles/j/u/n/June_3.html" title="June 3">June 3</a>, <a href="../../../../articles/1/9/4/1944.html" title="1944">1944</a></td><td><a href="../../../../articles/j/a/n/January_26.html" title="January 26">January 26</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td>Non-party</td></tr><tr><td><a href="../../../../articles/f/%C3%A9/l/F%C3%A9lix_Gouin_d72d.html" title="Félix Gouin">Félix Gouin</a></td><td><a href="../../../../articles/j/a/n/January_26.html" title="January 26">January 26</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/j/u/n/June_24.html" title="June 24">June 24</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/f/r/e/French_Section_of_the_Workers%27_International_363a.html" title="French Section of the Workers' International">French Section of the Workers' International</a></td></tr><tr><td><a href="../../../../articles/g/e/o/Georges_Bidault_f053.html" title="Georges Bidault">Georges Bidault</a></td><td><a href="../../../../articles/j/u/n/June_24.html" title="June 24">June 24</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/n/o/v/November_28.html" title="November 28">November 28</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/p/o/p/Popular_Republican_Movement_6201.html" title="Popular Republican Movement">Popular Republican Movement</a></td></tr><tr><td><a href="../../../../articles/v/i/n/Vincent_Auriol_5ac6.html" title="Vincent Auriol">Vincent Auriol</a> (interim)</td><td><a href="../../../../articles/n/o/v/November_28.html" title="November 28">November 28</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/d/e/c/December_16.html" title="December 16">December 16</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/f/r/e/French_Section_of_the_Workers%27_International_363a.html" title="French Section of the Workers' International">French Section of the Workers' International</a></td></tr><tr><td><a href="../../../../articles/l/%C3%A9/o/L%C3%A9on_Blum_3d52.html" title="Léon Blum">Léon Blum</a></td><td><a href="../../../../articles/d/e/c/December_16.html" title="December 16">December 16</a>, <a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a></td><td><a href="../../../../articles/j/a/n/January_16.html" title="January 16">January 16</a>, <a href="../../../../articles/1/9/4/1947.html" title="1947">1947</a></td><td><a href="../../../../articles/f/r/e/French_Section_of_the_Workers%27_International_363a.html" title="French Section of the Workers' International">French Section of the Workers' International</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

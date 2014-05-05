@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/r/a/c/Racing_in_Illinois_2bbe.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1 2, 0.7 3, 0.7 0 3, 0.63 1 3, 0.6 0 4, 0.56 2 3, 0.54 1 4, 0.48000002 4, 0.48000002 2 4, 0.42000002 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/r/a/c/Racing_in_Illinois_2bbe.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Track Name</th>]]></html>
+	<text>Track Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length</th>]]></html>
+	<text>Length</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sanction</th>]]></html>
+	<text>Sanction</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Program</th>]]></html>
+	<text>Program</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Autobahn Country Club</td>]]></html>
+	<text>Autobahn Country Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joliet, Illinois</td>]]></html>
+	<text>Joliet, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5, 2.06, 3.56, and .8 miles</td>]]></html>
+	<text>1.5, 2.06, 3.56, and .8 miles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SCCA , NASA</td>]]></html>
+	<text>SCCA , NASA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Various racing programs</td>]]></html>
+	<text>Various racing programs</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Blackhawk Farms Raceway</td>]]></html>
+	<text>Blackhawk Farms Raceway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Beloit, Illinois</td>]]></html>
+	<text>South Beloit, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.95 miles</td>]]></html>
+	<text>1.95 miles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SCCA , Midwestern Council , VSCDA, and SVRA</td>]]></html>
+	<text>SCCA , Midwestern Council , VSCDA, and SVRA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Various racing programs</td>]]></html>
+	<text>Various racing programs</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Concept Haulers Motor Speedway</td>]]></html>
+	<text>Concept Haulers Motor Speedway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norway, Illinois</td>]]></html>
+	<text>Norway, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Multiple tracks</td>]]></html>
+	<text>Multiple tracks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WKA</td>]]></html>
+	<text>WKA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Multiple classes</td>]]></html>
+	<text>Multiple classes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gateway International Raceway</td>]]></html>
+	<text>Gateway International Raceway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madison, Illinois</td>]]></html>
+	<text>Madison, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.77 Mile</td>]]></html>
+	<text>1.77 Mile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Unaffilliated</td>]]></html>
+	<text>Unaffilliated</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None at present time</td>]]></html>
+	<text>None at present time</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Meadowdale International Raceway</td>]]></html>
+	<text>Meadowdale International Raceway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carpentersville, Illinois</td>]]></html>
+	<text>Carpentersville, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.27 miles</td>]]></html>
+	<text>3.27 miles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SCCA , USAC , AMA , karting</td>]]></html>
+	<text>SCCA , USAC , AMA , karting</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Various racing programs between 1958 and 1968, now a park</td>]]></html>
+	<text>Various racing programs between 1958 and 1968, now a park</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Racing in Illinois - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Track Name Location Length Sanction Program</text>
+</context>
+<context>
+	<score>0.87156653</score>
+	<text>[ edit ] Road Courses</text>
+</context>
+<context>
+	<score>0.78118753</score>
+	<text>Racing in Illinois</text>
+</context>
+<context>
+	<score>0.76618534</score>
+	<text>[ edit ] Drag Strips</text>
+</context>
+<context>
+	<score>0.7320915</score>
+	<text>[ edit ] Motocross Tracks</text>
+</context>
+<context>
+	<score>0.7001757</score>
+	<text>[ edit ] Types of Racing</text>
+</context>
+<context>
+	<score>0.7001757</score>
+	<text>[ edit ] Notable Tracks</text>
+</context>
+<context>
+	<score>0.7001757</score>
+	<text>[ edit ] Notable Defunct Tracks</text>
+</context>
+<context>
+	<score>0.7001757</score>
+	<text>[ edit ] List of notable Illinois race car drivers</text>
+</context>
+<context>
+	<score>0.7001757</score>
+	<text>[ edit ] Tracks in Illinois</text>
+</context>
+<context>
+	<score>0.6968826</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6818804</score>
+	<text>[ edit ] Dirt Oval</text>
+</context>
+<context>
+	<score>0.6144363</score>
+	<text>[ edit ] Asphalt Oval</text>
+</context>
+<context>
+	<score>0.57256097</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.56048113</score>
+	<text>[ edit ] Tracks in Illinois</text>
+</context>
+<context>
+	<score>0.51731694</score>
+	<text>Other drivers include &quot;Chicago Gang&quot; midget car racing drivers Emil Andres and Jimmy Snyder (who won the pole position for the 1939 Indianapolis 500 ).</text>
+</context>
+<context>
+	<score>0.47949246</score>
+	<text>This is a list of race car drivers from Illinois that have raced in a major touring series, and have held a full-time position there. These series include NASCAR&apos;s Sprint Cup Series, NCTS, and Nationwide series, USAC Indy Cars, the IRL or Champ Car Series, ARCA, or one of the major off road racing sanctioning bodies.</text>
+</context>
+<context>
+	<score>0.4551606</score>
+	<text>[ edit ] List of notable Illinois race car drivers</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Track Name</th><th>Location</th><th>Length</th><th>Sanction</th><th>Program</th></tr><tr><td><a href="../../../../articles/a/u/t/Autobahn_Country_Club_925d.html" title="Autobahn Country Club">Autobahn Country Club</a></td><td><a href="../../../../articles/j/o/l/Joliet%2C_Illinois_2b36.html" title="Joliet, Illinois">Joliet, Illinois</a></td><td>1.5, 2.06, 3.56, and .8 miles</td><td><a href="../../../../articles/s/c/c/SCCA_4a39.html" class="mw-redirect" title="SCCA">SCCA</a>, <a href="../../../../articles/n/a/s/NASA_1f99.html" title="NASA">NASA</a></td><td>Various racing programs</td></tr><tr><td><a href="../../../../articles/b/l/a/Blackhawk_Farms_Raceway_7e83.html" title="Blackhawk Farms Raceway">Blackhawk Farms Raceway</a></td><td><a href="../../../../articles/s/o/u/South_Beloit%2C_Illinois_8473.html" title="South Beloit, Illinois">South Beloit, Illinois</a></td><td>1.95 miles</td><td><a href="../../../../articles/s/c/c/SCCA_4a39.html" class="mw-redirect" title="SCCA">SCCA</a>, <a href="../../../../articles/m/i/d/Midwestern_Council_7273.html" title="Midwestern Council">Midwestern Council</a>, VSCDA, and SVRA</td><td>Various racing programs</td></tr><tr><td>Concept Haulers Motor Speedway</td><td><a href="../../../../articles/n/o/r/Norway%2C_Illinois_dd4e.html" title="Norway, Illinois">Norway, Illinois</a></td><td>Multiple tracks</td><td><a href="../../../../articles/w/k/a/WKA_2fcd.html" title="WKA">WKA</a></td><td>Multiple classes</td></tr><tr><td><a href="../../../../articles/g/a/t/Gateway_International_Raceway_1a06.html" title="Gateway International Raceway">Gateway International Raceway</a></td><td><a href="../../../../articles/m/a/d/Madison%2C_Illinois_1c10.html" title="Madison, Illinois">Madison, Illinois</a></td><td>1.77 Mile</td><td>Unaffilliated</td><td>None at present time</td></tr><tr><td><a href="../../../../articles/m/e/a/Meadowdale_International_Raceway_c2f7.html" title="Meadowdale International Raceway">Meadowdale International Raceway</a></td><td><a href="../../../../articles/c/a/r/Carpentersville%2C_Illinois_6ccb.html" title="Carpentersville, Illinois">Carpentersville, Illinois</a></td><td>3.27 miles</td><td><a href="../../../../articles/s/p/o/Sports_Car_Club_of_America_a797.html" title="Sports Car Club of America">SCCA</a>, <a href="../../../../articles/u/n/i/United_States_Automobile_Club_8141.html" title="United States Automobile Club">USAC</a>, <a href="../../../../articles/a/m/e/American_Motorcyclist_Association_1477.html" title="American Motorcyclist Association">AMA</a>, <a href="../../../../articles/k/a/r/Kart.html" class="mw-redirect" title="Kart">karting</a></td><td>Various racing programs between 1958 and 1968, now a park</td></tr></table>]]>
+</htmlSnippet>
+</entity>

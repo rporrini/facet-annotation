@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r50/l/i/s/List_of_U.S._state_legislatures_4b06.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_U.S._state_legislatures_4b06.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State name</th>]]></html>
+	<text>State name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Abbr</th>]]></html>
+	<text>Abbr</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>URL (without "http://")</th>]]></html>
+	<text>URL (without &amp;quot;http://&amp;quot;)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AL</td>]]></html>
+	<text>AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.state.al.us</td>]]></html>
+	<text>www.legislature.state.al.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AK</td>]]></html>
+	<text>AK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>w3.legis.state.ak.us</td>]]></html>
+	<text>w3.legis.state.ak.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AZ</td>]]></html>
+	<text>AZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.azleg.state.az.us</td>]]></html>
+	<text>www.azleg.state.az.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AR</td>]]></html>
+	<text>AR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.arkleg.state.ar.us</td>]]></html>
+	<text>www.arkleg.state.ar.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CA</td>]]></html>
+	<text>CA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.ca.gov</td>]]></html>
+	<text>www.legislature.ca.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CO</td>]]></html>
+	<text>CO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.co.us</td>]]></html>
+	<text>www.leg.state.co.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CT</td>]]></html>
+	<text>CT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.cga.ct.gov</td>]]></html>
+	<text>www.cga.ct.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DE</td>]]></html>
+	<text>DE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.de.us</td>]]></html>
+	<text>www.legis.state.de.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FL</td>]]></html>
+	<text>FL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.fl.us</td>]]></html>
+	<text>www.leg.state.fl.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GA</td>]]></html>
+	<text>GA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.ga.us</td>]]></html>
+	<text>www.legis.state.ga.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HI</td>]]></html>
+	<text>HI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.capitol.hawaii.gov</td>]]></html>
+	<text>www.capitol.hawaii.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ID</td>]]></html>
+	<text>ID</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.idaho.gov</td>]]></html>
+	<text>www.legislature.idaho.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IL</td>]]></html>
+	<text>IL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.ilga.gov</td>]]></html>
+	<text>www.ilga.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IN</td>]]></html>
+	<text>IN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.state.in.us/legislative</td>]]></html>
+	<text>www.state.in.us/legislative</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IA</td>]]></html>
+	<text>IA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.ia.us</td>]]></html>
+	<text>www.legis.state.ia.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KS</td>]]></html>
+	<text>KS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.kslegislature.org</td>]]></html>
+	<text>www.kslegislature.org</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KY</td>]]></html>
+	<text>KY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.lrc.state.ky.us</td>]]></html>
+	<text>www.lrc.state.ky.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LA</td>]]></html>
+	<text>LA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.la.us</td>]]></html>
+	<text>www.legis.state.la.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ME</td>]]></html>
+	<text>ME</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>janus.state.me.us/legis/</td>]]></html>
+	<text>janus.state.me.us/legis/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MD</td>]]></html>
+	<text>MD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>mlis.state.md.us</td>]]></html>
+	<text>mlis.state.md.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA</td>]]></html>
+	<text>MA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.mass.gov/legis/</td>]]></html>
+	<text>www.mass.gov/legis/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MI</td>]]></html>
+	<text>MI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.mi.gov</td>]]></html>
+	<text>www.legislature.mi.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MN</td>]]></html>
+	<text>MN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.mn.us</td>]]></html>
+	<text>www.leg.state.mn.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MS</td>]]></html>
+	<text>MS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.ls.state.ms.us</td>]]></html>
+	<text>www.ls.state.ms.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MO</td>]]></html>
+	<text>MO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.moga.state.mo.us</td>]]></html>
+	<text>www.moga.state.mo.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MT</td>]]></html>
+	<text>MT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>leg.state.mt.us</td>]]></html>
+	<text>leg.state.mt.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NE</td>]]></html>
+	<text>NE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.ne.gov</td>]]></html>
+	<text>www.leg.ne.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NV</td>]]></html>
+	<text>NV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.nv.us</td>]]></html>
+	<text>www.leg.state.nv.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NH</td>]]></html>
+	<text>NH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>gencourt.state.nh.us</td>]]></html>
+	<text>gencourt.state.nh.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NJ</td>]]></html>
+	<text>NJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.njleg.state.nj.us</td>]]></html>
+	<text>www.njleg.state.nj.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NM</td>]]></html>
+	<text>NM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>legis.state.nm.us</td>]]></html>
+	<text>legis.state.nm.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NY</td>]]></html>
+	<text>NY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>State Senate: www.senate.state.ny.us State Assembly: assembly.state.ny.us</td>]]></html>
+	<text>State Senate: www.senate.state.ny.us State Assembly: assembly.state.ny.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NC</td>]]></html>
+	<text>NC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.ncleg.net</td>]]></html>
+	<text>www.ncleg.net</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ND</td>]]></html>
+	<text>ND</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.nd.gov</td>]]></html>
+	<text>www.legis.nd.gov</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OH</td>]]></html>
+	<text>OH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.state.oh.us/</td>]]></html>
+	<text>www.legislature.state.oh.us/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OK</td>]]></html>
+	<text>OK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.lsb.state.ok.us</td>]]></html>
+	<text>www.lsb.state.ok.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OR</td>]]></html>
+	<text>OR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.or.us</td>]]></html>
+	<text>www.leg.state.or.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PA</td>]]></html>
+	<text>PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.pa.us</td>]]></html>
+	<text>www.legis.state.pa.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RI</td>]]></html>
+	<text>RI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.rilin.state.ri.us</td>]]></html>
+	<text>www.rilin.state.ri.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SC</td>]]></html>
+	<text>SC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.scstatehouse.net</td>]]></html>
+	<text>www.scstatehouse.net</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SD</td>]]></html>
+	<text>SD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>legis.state.sd.us</td>]]></html>
+	<text>legis.state.sd.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TN</td>]]></html>
+	<text>TN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legislature.state.tn.us</td>]]></html>
+	<text>www.legislature.state.tn.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TX</td>]]></html>
+	<text>TX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.capitol.state.tx.us</td>]]></html>
+	<text>www.capitol.state.tx.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UT</td>]]></html>
+	<text>UT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.le.state.ut.us</td>]]></html>
+	<text>www.le.state.ut.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VT</td>]]></html>
+	<text>VT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.leg.state.vt.us</td>]]></html>
+	<text>www.leg.state.vt.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VA</td>]]></html>
+	<text>VA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>legis.state.va.us</td>]]></html>
+	<text>legis.state.va.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www1.leg.wa.gov/legislature</td>]]></html>
+	<text>www1.leg.wa.gov/legislature</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WV</td>]]></html>
+	<text>WV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.wv.us</td>]]></html>
+	<text>www.legis.state.wv.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WI</td>]]></html>
+	<text>WI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>www.legis.state.wi.us</td>]]></html>
+	<text>www.legis.state.wi.us</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WY</td>]]></html>
+	<text>WY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>legisweb.state.wy.us</td>]]></html>
+	<text>legisweb.state.wy.us</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of U.S. state legislatures - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State name Abbr URL (without &quot;http://&quot;)</text>
+</context>
+<context>
+	<score>0.8841212</score>
+	<text>Below are links and URL&apos;s to all 50 state legislature websites as of January 1 , 2006 . For most states the only place where the full text of the statutes are available online is the state legislature&apos;s website.</text>
+</context>
+<context>
+	<score>0.7968329</score>
+	<text>List of U.S. state legislatures</text>
+</context>
+<context>
+	<score>0.7816712</score>
+	<text>Nebraskan non-partisan legislature</text>
+</context>
+<context>
+	<score>0.7556925</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] Party summary</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] Vital statistics</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] Legislative websites</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72461987</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7192049</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70404327</score>
+	<text>Split</text>
+</context>
+<context>
+	<score>0.6473557</score>
+	<text>Republican majorities</text>
+</context>
+<context>
+	<score>0.5976737</score>
+	<text>Democratic majorities</text>
+</context>
+<context>
+	<score>0.5579282</score>
+	<text>[ edit ] Legislative websites</text>
+</context>
+<context>
+	<score>0.5261318</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.5223877</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.50069463</score>
+	<text>[ edit ] Map key</text>
+</context>
+<context>
+	<score>0.48034492</score>
+	<text>[ edit ] Territorial legislatures</text>
+</context>
+<context>
+	<score>0.4715588</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.46406513</score>
+	<text>[ edit ] State legislatures</text>
+</context>
+<context>
+	<score>0.4510413</score>
+	<text>[ edit ] Vital statistics</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>State name</th><th>Abbr</th><th>URL (without "http://")</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td>AL</td><td><a href="http://www.legislature.state.al.us" class="external text" title="http://www.legislature.state.al.us" rel="nofollow">www.legislature.state.al.us</a></td></tr><tr><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td>AK</td><td><a href="http://w3.legis.state.ak.us" class="external text" title="http://w3.legis.state.ak.us" rel="nofollow">w3.legis.state.ak.us</a></td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>AZ</td><td><a href="http://www.azleg.state.az.us" class="external text" title="http://www.azleg.state.az.us" rel="nofollow">www.azleg.state.az.us</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td>AR</td><td><a href="http://www.arkleg.state.ar.us" class="external text" title="http://www.arkleg.state.ar.us" rel="nofollow">www.arkleg.state.ar.us</a></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>CA</td><td><a href="http://www.legislature.ca.gov" class="external text" title="http://www.legislature.ca.gov" rel="nofollow">www.legislature.ca.gov</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>CO</td><td><a href="http://www.leg.state.co.us" class="external text" title="http://www.leg.state.co.us" rel="nofollow">www.leg.state.co.us</a></td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td>CT</td><td><a href="http://www.cga.ct.gov" class="external text" title="http://www.cga.ct.gov" rel="nofollow">www.cga.ct.gov</a></td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td>DE</td><td><a href="http://www.legis.state.de.us" class="external text" title="http://www.legis.state.de.us" rel="nofollow">www.legis.state.de.us</a></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td>FL</td><td><a href="http://www.leg.state.fl.us" class="external text" title="http://www.leg.state.fl.us" rel="nofollow">www.leg.state.fl.us</a></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td>GA</td><td><a href="http://www.legis.state.ga.us" class="external text" title="http://www.legis.state.ga.us" rel="nofollow">www.legis.state.ga.us</a></td></tr><tr><td><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td>HI</td><td><a href="http://www.capitol.hawaii.gov" class="external text" title="http://www.capitol.hawaii.gov" rel="nofollow">www.capitol.hawaii.gov</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td>ID</td><td><a href="http://www.legislature.idaho.gov" class="external text" title="http://www.legislature.idaho.gov" rel="nofollow">www.legislature.idaho.gov</a></td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td>IL</td><td><a href="http://www.ilga.gov" class="external text" title="http://www.ilga.gov" rel="nofollow">www.ilga.gov</a></td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td>IN</td><td><a href="http://www.state.in.us/legislative" class="external text" title="http://www.state.in.us/legislative" rel="nofollow">www.state.in.us/legislative</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td>IA</td><td><a href="http://www.legis.state.ia.us" class="external text" title="http://www.legis.state.ia.us" rel="nofollow">www.legis.state.ia.us</a></td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td>KS</td><td><a href="http://www.kslegislature.org" class="external text" title="http://www.kslegislature.org" rel="nofollow">www.kslegislature.org</a></td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td>KY</td><td><a href="http://www.lrc.state.ky.us" class="external text" title="http://www.lrc.state.ky.us" rel="nofollow">www.lrc.state.ky.us</a></td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td>LA</td><td><a href="http://www.legis.state.la.us" class="external text" title="http://www.legis.state.la.us" rel="nofollow">www.legis.state.la.us</a></td></tr><tr><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td>ME</td><td><a href="http://janus.state.me.us/legis/" class="external text" title="http://janus.state.me.us/legis/" rel="nofollow">janus.state.me.us/legis/</a></td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td>MD</td><td><a href="http://mlis.state.md.us" class="external text" title="http://mlis.state.md.us" rel="nofollow">mlis.state.md.us</a></td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td>MA</td><td><a href="http://www.mass.gov/legis/" class="external text" title="http://www.mass.gov/legis/" rel="nofollow">www.mass.gov/legis/</a></td></tr><tr><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td>MI</td><td><a href="http://www.legislature.mi.gov" class="external text" title="http://www.legislature.mi.gov" rel="nofollow">www.legislature.mi.gov</a></td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>MN</td><td><a href="http://www.leg.state.mn.us" class="external text" title="http://www.leg.state.mn.us" rel="nofollow">www.leg.state.mn.us</a></td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td>MS</td><td><a href="http://www.ls.state.ms.us" class="external text" title="http://www.ls.state.ms.us" rel="nofollow">www.ls.state.ms.us</a></td></tr><tr><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td>MO</td><td><a href="http://www.moga.state.mo.us" class="external text" title="http://www.moga.state.mo.us" rel="nofollow">www.moga.state.mo.us</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td>MT</td><td><a href="http://leg.state.mt.us" class="external text" title="http://leg.state.mt.us" rel="nofollow">leg.state.mt.us</a></td></tr><tr><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td>NE</td><td><a href="http://www.leg.ne.gov/" class="external text" title="http://www.leg.ne.gov/" rel="nofollow">www.leg.ne.gov</a></td></tr><tr><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>NV</td><td><a href="http://www.leg.state.nv.us" class="external text" title="http://www.leg.state.nv.us" rel="nofollow">www.leg.state.nv.us</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a>&#160;&#160;</td><td>NH</td><td><a href="http://gencourt.state.nh.us" class="external text" title="http://gencourt.state.nh.us" rel="nofollow">gencourt.state.nh.us</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td>NJ</td><td><a href="http://www.njleg.state.nj.us" class="external text" title="http://www.njleg.state.nj.us" rel="nofollow">www.njleg.state.nj.us</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td>NM</td><td><a href="http://legis.state.nm.us" class="external text" title="http://legis.state.nm.us" rel="nofollow">legis.state.nm.us</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>NY</td><td>State Senate: <a href="http://www.senate.state.ny.us" class="external text" title="http://www.senate.state.ny.us" rel="nofollow">www.senate.state.ny.us</a><br />State Assembly: <a href="http://assembly.state.ny.us" class="external text" title="http://assembly.state.ny.us" rel="nofollow">assembly.state.ny.us</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td>NC</td><td><a href="http://www.ncleg.net" class="external text" title="http://www.ncleg.net" rel="nofollow">www.ncleg.net</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td>ND</td><td><a href="http://www.legis.nd.gov" class="external text" title="http://www.legis.nd.gov" rel="nofollow">www.legis.nd.gov</a></td></tr><tr><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td>OH</td><td><a href="http://www.legislature.state.oh.us" class="external text" title="http://www.legislature.state.oh.us" rel="nofollow">www.legislature.state.oh.us/</a></td></tr><tr><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td>OK</td><td><a href="http://www.lsb.state.ok.us" class="external text" title="http://www.lsb.state.ok.us" rel="nofollow">www.lsb.state.ok.us</a></td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td>OR</td><td><a href="http://www.leg.state.or.us" class="external text" title="http://www.leg.state.or.us" rel="nofollow">www.leg.state.or.us</a></td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>PA</td><td><a href="http://www.legis.state.pa.us" class="external text" title="http://www.legis.state.pa.us" rel="nofollow">www.legis.state.pa.us</a></td></tr><tr><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td>RI</td><td><a href="http://www.rilin.state.ri.us" class="external text" title="http://www.rilin.state.ri.us" rel="nofollow">www.rilin.state.ri.us</a></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td>SC</td><td><a href="http://www.scstatehouse.net" class="external text" title="http://www.scstatehouse.net" rel="nofollow">www.scstatehouse.net</a></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td>SD</td><td><a href="http://legis.state.sd.us" class="external text" title="http://legis.state.sd.us" rel="nofollow">legis.state.sd.us</a></td></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td>TN</td><td><a href="http://www.legislature.state.tn.us" class="external text" title="http://www.legislature.state.tn.us" rel="nofollow">www.legislature.state.tn.us</a></td></tr><tr><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>TX</td><td><a href="http://www.capitol.state.tx.us" class="external text" title="http://www.capitol.state.tx.us" rel="nofollow">www.capitol.state.tx.us</a></td></tr><tr><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td>UT</td><td><a href="http://www.le.state.ut.us" class="external text" title="http://www.le.state.ut.us" rel="nofollow">www.le.state.ut.us</a></td></tr><tr><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td>VT</td><td><a href="http://www.leg.state.vt.us" class="external text" title="http://www.leg.state.vt.us" rel="nofollow">www.leg.state.vt.us</a></td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td>VA</td><td><a href="http://legis.state.va.us" class="external text" title="http://legis.state.va.us" rel="nofollow">legis.state.va.us</a></td></tr><tr><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td>WA</td><td><a href="http://www1.leg.wa.gov/legislature" class="external text" title="http://www1.leg.wa.gov/legislature" rel="nofollow">www1.leg.wa.gov/legislature</a></td></tr><tr><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td>WV</td><td><a href="http://www.legis.state.wv.us" class="external text" title="http://www.legis.state.wv.us" rel="nofollow">www.legis.state.wv.us</a></td></tr><tr><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td>WI</td><td><a href="http://www.legis.state.wi.us" class="external text" title="http://www.legis.state.wi.us" rel="nofollow">www.legis.state.wi.us</a></td></tr><tr><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td>WY</td><td><a href="http://legisweb.state.wy.us" class="external text" title="http://legisweb.state.wy.us" rel="nofollow">legisweb.state.wy.us</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

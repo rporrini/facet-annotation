@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/n/a/s/Nashville,_Tennessee_0fa5.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 2, 0.75 0 2, 0.7 1, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/n/a/s/Nashville,_Tennessee_0fa5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee Titans</td>]]></html>
+	<text>Tennessee Titans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League</td>]]></html>
+	<text>National Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LP Field</td>]]></html>
+	<text>LP Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nashville Predators</td>]]></html>
+	<text>Nashville Predators</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hockey</td>]]></html>
+	<text>Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Hockey League</td>]]></html>
+	<text>National Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sommet Center</td>]]></html>
+	<text>Sommet Center</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nashville Sounds</td>]]></html>
+	<text>Nashville Sounds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minor League Baseball : Pacific Coast League</td>]]></html>
+	<text>Minor League Baseball : Pacific Coast League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Herschel Greer Stadium</td>]]></html>
+	<text>Herschel Greer Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nashville Metros</td>]]></html>
+	<text>Nashville Metros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soccer</td>]]></html>
+	<text>Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Premier Development League</td>]]></html>
+	<text>Premier Development League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ezell Park</td>]]></html>
+	<text>Ezell Park</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nashville Storm</td>]]></html>
+	<text>Nashville Storm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North American Football League</td>]]></html>
+	<text>North American Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Nashville, Tennessee - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Venue</text>
+</context>
+<context>
+	<score>0.8797408</score>
+	<text>Nashville has several professional sports teams, most notably the Nashville Predators of the National Hockey League and the Tennessee Titans of the National Football League. Several other pro sports teams also call Nashville home, as does the NCAA college football Music City Bowl . The Vanderbilt Commodores are members of the Southeastern Conference . The football team of Tennessee State University plays its home games at LP Field.</text>
+</context>
+<context>
+	<score>0.7890332</score>
+	<text>Nashville, Tennessee</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Sports venues in Nashville are:</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Government and politics</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Education</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Culture</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Major annual events</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Media</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Parks</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Nicknames</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Sister cities</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.71241033</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71145743</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70519537</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.6431347</score>
+	<text>Several dozen FM and AM radio stations broadcast in the Nashville area, including five college stations and one LPFM community station . Nashville is ranked as the 44th largest radio market in the United States. Nashville is home to WSM which originally stood for &quot;We Shield Millions&quot;. WSM-FM is owned by Cumulus Media and is 95.5 FM the Wolf. WSM-AM , owned by Gaylord Entertainment Company, can be heard nationally on 650 AM or online at WSM Online from its studios located inside the Gaylord Opryland Resort &amp; Convention Center . WLAC is a Clear Channel -owned talk station which was originally sponsored by the Life and Casualty Insurance Company of Tennessee , and its competitor WWTN is owned by Cumulus .</text>
+</context>
+<context>
+	<score>0.60460186</score>
+	<text>[ edit ] Parks</text>
+</context>
+<context>
+	<score>0.59348625</score>
+	<text>Nashville is also home to cable networks Country Music Television (CMT), Great American Country (GAC), and RFD-TV , among others. CMT&apos;s Master Control facilities are located in New York City with the other Viacom properties. The Top 20 Countdown and CMT Insider are taped in their Nashville studios. Nashville is also the home and namesake of the NBC country music singing competition Nashville Star , which broadcasts from the Opryland complex . Shop at Home Network was once based in Nashville, but the channel signed off in 2006.</text>
+</context>
+<context>
+	<score>0.55376744</score>
+	<text>Nashville is home to nearly a dozen broadcast television stations, although most households are served by direct cable network connections. Comcast Cable has a monopoly on terrestrial cable service in Davidson County (but not throughout the entire DMA ). Nashville is ranked as the 30th largest television market in the United States.</text>
+</context>
+<context>
+	<score>0.52199244</score>
+	<text>The primary daily newspaper in Nashville is The Tennessean , which, until 1998 , competed fiercely with another daily, the Nashville Banner (although the two were housed in the same building under a joint-operating agreement). Although The Tennessean now enjoys a relative monopoly on the local newspaper market, a smaller free daily called The City Paper has cut into The Tennessean&apos;s market share somewhat. Online news service NashvillePost.com competes with the printed dailies to break news of business and local/state politics. Several weekly papers are also published in Nashville, including the Nashville Scene , Nashville Business Journal , and The Tennessee Tribune . Historically, The Tennessean was associated with a broadly liberal editorial policy, while The Banner carried staunchly conservative views in its editorial pages; The Banner&apos;s heritage is carried on these days by The City Paper. The Scene is the area&apos;s alternative weekly broadsheet, while The Tribune serves Nashville&apos;s African-American population.</text>
+</context>
+<context>
+	<score>0.5182509</score>
+	<text>Metro Board of Parks and Recreation owns and manages 10,200 acres (4,120 ha) of land and 99 parks and greenways (comprising more than 3% of the total area of the county). 2,684 acres (1,086 ha) of land is home to Warner Parks, which houses a 5,000 square-foot (460 m ) learning center, 20 miles (30 km) of scenic roads, 12 miles (19 km) of hiking trails, and 10 miles (16 km) of horse trails. In late 2005, Centennial Park began offering free wireless broadband internet service.</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Offices for The Tennessean</text>
+</context>
+<context>
+	<score>0.47878787</score>
+	<text>LP Field</text>
+</context>
+<context>
+	<score>0.47623637</score>
+	<text>[ edit ] Media See also: List of Nashville media</text>
+</context>
+<context>
+	<score>0.4674562</score>
+	<text>Warner Parks , the largest municipal parks in the state, are home to the annual Iroquois Steeplechase.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Nashville at dusk</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>Club</th><th>Sport</th><th>League</th><th>Venue</th></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee_Titans_ab07.html" title="Tennessee Titans">Tennessee Titans</a></td><td><a href="../../../../articles/a/m/e/American_football.html" title="American football">Football</a></td><td><a href="../../../../articles/n/a/t/National_Football_League_dcce.html" title="National Football League">National Football League</a></td><td><a href="../../../../articles/l/p/_/LP_Field_7382.html" title="LP Field">LP Field</a></td></tr><tr><td><a href="../../../../articles/n/a/s/Nashville_Predators_500a.html" title="Nashville Predators">Nashville Predators</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Hockey</a></td><td><a href="../../../../articles/n/a/t/National_Hockey_League_6c9a.html" title="National Hockey League">National Hockey League</a></td><td><a href="../../../../articles/s/o/m/Sommet_Center_dbfa.html" title="Sommet Center">Sommet Center</a></td></tr><tr><td><a href="../../../../articles/n/a/s/Nashville_Sounds_7ab6.html" title="Nashville Sounds">Nashville Sounds</a></td><td><a href="../../../../articles/b/a/s/Baseball.html" title="Baseball">Baseball</a></td><td><a href="../../../../articles/m/i/n/Minor_League_Baseball_a0e6.html" class="mw-redirect" title="Minor League Baseball">Minor League Baseball</a>: <a href="../../../../articles/p/a/c/Pacific_Coast_League_795c.html" title="Pacific Coast League">Pacific Coast League</a></td><td><a href="../../../../articles/h/e/r/Herschel_Greer_Stadium_445b.html" title="Herschel Greer Stadium">Herschel Greer Stadium</a></td></tr><tr><td><a href="../../../../articles/n/a/s/Nashville_Metros_f414.html" title="Nashville Metros">Nashville Metros</a></td><td><a href="../../../../articles/s/o/c/Soccer.html" class="mw-redirect" title="Soccer">Soccer</a></td><td><a href="../../../../articles/u/s/l/USL_Premier_Development_League_0a58.html" title="USL Premier Development League">Premier Development League</a></td><td><a href="../../../../articles/e/z/e/Ezell_Park_0899.html" title="Ezell Park">Ezell Park</a></td></tr><tr><td><a href="../../../../articles/n/a/s/Nashville_Storm_e778.html" title="Nashville Storm">Nashville Storm</a></td><td><a href="../../../../articles/a/m/e/American_football.html" title="American football">Football</a></td><td><a href="../../../../articles/n/o/r/North_American_Football_League_d57f.html" title="North American Football League">North American Football League</a></td><td><a href="http://en.wiktionary.org/wiki/TBA" class="extiw" title="wikt:TBA">TBA</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

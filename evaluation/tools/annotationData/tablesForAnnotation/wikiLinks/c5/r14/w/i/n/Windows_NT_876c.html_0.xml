@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r14/w/i/n/Windows_NT_876c.html_0.xml" />
+<meta name="primaryKey" value="0.9 1 2, 0.85714287 1, 0.7714286 2, 0.16000001 3, 0.16000001 1 3, 0.144 2 3, 0.13 1 4, 0.126 2 4, 0.111428574 0 1, 0.108 0 2, 0.1 4, 0.08571429 0, 0.022400001 3 4, 0.019200003 0 3, 0.012 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/w/i/n/Windows_NT_876c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Version</th>]]></html>
+	<text>Version</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Marketing Name</th>]]></html>
+	<text>Marketing Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Editions</th>]]></html>
+	<text>Editions</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Release Date</th>]]></html>
+	<text>Release Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>RTM Build</th>]]></html>
+	<text>RTM Build</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 3.1</td>]]></html>
+	<text>NT 3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows NT 3.1</td>]]></html>
+	<text>Windows NT 3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Workstation (named just Windows NT ), Advanced Server</td>]]></html>
+	<text>Workstation (named just Windows NT ), Advanced Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 27 , 1993</td>]]></html>
+	<text>July 27 , 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>528</td>]]></html>
+	<text>528</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 3.5</td>]]></html>
+	<text>NT 3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows NT 3.5</td>]]></html>
+	<text>Windows NT 3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Workstation, Server</td>]]></html>
+	<text>Workstation, Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 21 , 1994</td>]]></html>
+	<text>September 21 , 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>807</td>]]></html>
+	<text>807</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 3.51</td>]]></html>
+	<text>NT 3.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows NT 3.51</td>]]></html>
+	<text>Windows NT 3.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Workstation, Server</td>]]></html>
+	<text>Workstation, Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 30 , 1995</td>]]></html>
+	<text>May 30 , 1995</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1057</td>]]></html>
+	<text>1057</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 4.0</td>]]></html>
+	<text>NT 4.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows NT 4.0</td>]]></html>
+	<text>Windows NT 4.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Workstation, Server, Server Enterprise Edition, Terminal Server, Embedded</td>]]></html>
+	<text>Workstation, Server, Server Enterprise Edition, Terminal Server, Embedded</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 29 , 1996</td>]]></html>
+	<text>July 29 , 1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1381</td>]]></html>
+	<text>1381</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.0</td>]]></html>
+	<text>NT 5.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows 2000</td>]]></html>
+	<text>Windows 2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Professional, Server, Advanced Server, Datacenter Server</td>]]></html>
+	<text>Professional, Server, Advanced Server, Datacenter Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 17 , 2000</td>]]></html>
+	<text>February 17 , 2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2195</td>]]></html>
+	<text>2195</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.1</td>]]></html>
+	<text>NT 5.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows XP</td>]]></html>
+	<text>Windows XP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home, Professional, 64-bit Edition ( Itanium ), Media Center (original, 2003, 2004 &amp; 2005), Tablet PC (original and 2005), Starter, Embedded, Home N, Professional N</td>]]></html>
+	<text>Home, Professional, 64-bit Edition ( Itanium ), Media Center (original, 2003, 2004 &amp;amp;amp; 2005), Tablet PC (original and 2005), Starter, Embedded, Home N, Professional N</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 25 , 2001</td>]]></html>
+	<text>October 25 , 2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2600</td>]]></html>
+	<text>2600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.1</td>]]></html>
+	<text>NT 5.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows Fundamentals for Legacy PCs</td>]]></html>
+	<text>Windows Fundamentals for Legacy PCs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 8 , 2006</td>]]></html>
+	<text>July 8 , 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2600</td>]]></html>
+	<text>2600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.2</td>]]></html>
+	<text>NT 5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows XP</td>]]></html>
+	<text>Windows XP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64-bit Edition Version 2003 ( Itanium ) [2]</td>]]></html>
+	<text>64-bit Edition Version 2003 ( Itanium ) [2]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 28 , 2003</td>]]></html>
+	<text>March 28 , 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3790</td>]]></html>
+	<text>3790</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.2</td>]]></html>
+	<text>NT 5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows Server 2003</td>]]></html>
+	<text>Windows Server 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server, Compute Cluster</td>]]></html>
+	<text>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server, Compute Cluster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 24 , 2003</td>]]></html>
+	<text>April 24 , 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3790</td>]]></html>
+	<text>3790</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.2</td>]]></html>
+	<text>NT 5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows XP</td>]]></html>
+	<text>Windows XP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Professional x64 Edition</td>]]></html>
+	<text>Professional x64 Edition</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 25 , 2005</td>]]></html>
+	<text>April 25 , 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3790</td>]]></html>
+	<text>3790</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 5.2</td>]]></html>
+	<text>NT 5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows Home Server</td>]]></html>
+	<text>Windows Home Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 16 , 2007</td>]]></html>
+	<text>July 16 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3790</td>]]></html>
+	<text>3790</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 6.0</td>]]></html>
+	<text>NT 6.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows Vista</td>]]></html>
+	<text>Windows Vista</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate, Home Basic N, Business N</td>]]></html>
+	<text>Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate, Home Basic N, Business N</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Business: November 30 , 2006 Consumer: January 30 , 2007</td>]]></html>
+	<text>Business: November 30 , 2006 Consumer: January 30 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6000</td>]]></html>
+	<text>6000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 6.1</td>]]></html>
+	<text>NT 6.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows Server 2008</td>]]></html>
+	<text>Windows Server 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server</td>]]></html>
+	<text>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 27 , 2008</td>]]></html>
+	<text>February 27 , 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6001</td>]]></html>
+	<text>6001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT 7.0</td>]]></html>
+	<text>NT 7.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Windows 7 (codenamed Blackcomb, later Vienna)</td>]]></html>
+	<text>Windows 7 (codenamed Blackcomb, later Vienna)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>H2 2009</td>]]></html>
+	<text>H2 2009</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Unknown</td>]]></html>
+	<text>Unknown</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Windows NT Releases</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Windows NT - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Version Marketing Name Editions Release Date RTM Build</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>The content may change as the software release approaches and more information becomes available.</text>
+</context>
+<context>
+	<score>0.7944444</score>
+	<text>Windows NT</text>
+</context>
+<context>
+	<score>0.7849103</score>
+	<text>This article or section contains information about scheduled or expected future software .</text>
+</context>
+<context>
+	<score>0.75353783</score>
+	<text>Note: NT 3.1 to 3.51 incorporate Program Manager and File Manager . NT 4.0 to 6.0 replace this with Windows Explorer (including a taskbar and Start menu ) .</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] Major features</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] Development</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] Driver models</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] Releases</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] &apos;NT&apos; designation</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7199608</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168687</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70733464</score>
+	<text>[ edit ] Releases</text>
+</context>
+<context>
+	<score>0.645274</score>
+	<text>Windows Vista added native support for the Windows Driver Foundation , which is also available for Windows XP , Windows Server 2003 and to an extent, Windows 2000 .</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>The first release was given version number 3.1 to match the contemporary 16-bit Windows; magazines of that era claimed the number was also used to make that version seem more reliable than a &apos;.0&apos; release. There were also some issues related to Novell IPX protocol licensing, which was apparently limited to 3.1 versions of Windows software.</text>
+</context>
+<context>
+	<score>0.59562546</score>
+	<text>Windows NT introduced its own driver model, the Windows NT driver model, and is incompatible with older driver frameworks. With Windows 2000 , it was replaced by the Windows Driver Model , which was first introduced with Windows 98 , but was based on the NT driver model.</text>
+</context>
+<context>
+	<score>0.55590665</score>
+	<text>[ edit ] Driver models</text>
+</context>
+<context>
+	<score>0.52413166</score>
+	<text>API sets in the Windows NT family are implemented as subsystems atop the publicly undocumented &quot;native&quot; API ; it was this that allowed the late adoption of the Windows API (into the Win32 subsystem). Windows NT was one of the earliest operating systems to use Unicode internally.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>The NT version number is no longer used for marketing purposes, but is still used internally, and said to reflect the degree of changes to the core of the operating system.</text>
+</context>
+<context>
+	<score>0.49871165</score>
+	<text>Windows NT&apos;s kernel mode code further distinguishes between the &quot;kernel&quot;, whose primary purpose is to implement processor and architecture dependent functions, and the &quot;executive&quot;. This has led some writers to refer to the kernel as a microkernel , but the Windows NT kernel no longer meets many of the criteria of a &quot;microkernel&quot;, although this was the original goal of chief architect Cutler. Both the kernel and the executive are linked together into the single loaded module ntoskrnl.exe; from outside this module there is little distinction between the kernel and the executive. Routines from each are directly accessible, as for example from kernel-mode device drivers.</text>
+</context>
+<context>
+	<score>0.4783756</score>
+	<text>Microsoft hired a group of developers from Digital Equipment Corporation led by Dave Cutler to build Windows NT, and many elements of the design reflect earlier DEC experience with Cutler&apos;s VMS and RSX-11 . The operating system was designed to run on multiple instruction set architectures and multiple hardware platforms within each architecture. The platform dependencies are largely hidden from the rest of the system by a kernel mode module called the HAL (Hardware Abstraction Layer).</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>The build number is an internal figure used by Microsoft&apos;s developers and beta testers.</text>
+</context>
+<context>
+	<score>0.4621068</score>
+	<text>When development started in November 1989, Windows NT was to be known as OS/2 3.0, the third version of the operating system developed jointly by Microsoft and IBM . In addition to working on three versions of OS/2, Microsoft continued parallel development of the DOS-based and less resource -demanding Windows environment. When Windows 3.0 was released in May 1990, it was eventually so successful that Microsoft decided to change the primary application programming interface for the still unreleased NT OS/2 (as it was then known) from an extended OS/2 API to an extended Windows API . This decision caused tension between Microsoft and IBM and the collaboration ultimately fell apart. IBM continued OS/2 development alone while Microsoft continued work on the newly renamed Windows NT. Though neither operating system would immediately be as popular as Microsoft&apos;s DOS or Windows products, Windows NT would eventually be far more successful than OS/2.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table cellspacing="0" cellpadding="4" class="wikitable"><caption><big>Windows NT Releases</big></caption><tr bgcolor="whitesmoke"><th>Version</th><th>Marketing Name</th><th>Editions</th><th>Release Date</th><th>RTM Build</th></tr><tr><td>NT 3.1</td><td><a href="../../../../articles/w/i/n/Windows_NT_3.1_9457.html" title="Windows NT 3.1">Windows NT 3.1</a></td><td>Workstation (named just <i>Windows NT</i>), Advanced Server</td><td><a href="../../../../articles/j/u/l/July_27.html" title="July 27">July 27</a>, <a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td>528</td></tr><tr><td>NT 3.5</td><td><a href="../../../../articles/w/i/n/Windows_NT_3.5_eab3.html" title="Windows NT 3.5">Windows NT 3.5</a></td><td>Workstation, Server</td><td><a href="../../../../articles/s/e/p/September_21.html" title="September 21">September 21</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td>807</td></tr><tr><td>NT 3.51</td><td><a href="../../../../articles/w/i/n/Windows_NT_3.51_a3f8.html" title="Windows NT 3.51">Windows NT 3.51</a></td><td>Workstation, Server</td><td><a href="../../../../articles/m/a/y/May_30.html" title="May 30">May 30</a>, <a href="../../../../articles/1/9/9/1995.html" title="1995">1995</a></td><td>1057</td></tr><tr><td>NT 4.0</td><td><a href="../../../../articles/w/i/n/Windows_NT_4.0_1813.html" title="Windows NT 4.0">Windows NT 4.0</a></td><td>Workstation, Server, Server Enterprise Edition, Terminal Server, Embedded</td><td><a href="../../../../articles/j/u/l/July_29.html" title="July 29">July 29</a>, <a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a></td><td>1381</td></tr><tr><td>NT 5.0</td><td><a href="../../../../articles/w/i/n/Windows_2000.html" title="Windows 2000">Windows 2000</a></td><td>Professional, Server, Advanced Server, Datacenter Server</td><td><a href="../../../../articles/f/e/b/February_17.html" title="February 17">February 17</a>, <a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a></td><td>2195</td></tr><tr><td>NT 5.1</td><td><a href="../../../../articles/w/i/n/Windows_XP_1c6b.html" title="Windows XP">Windows XP</a></td><td>Home, Professional, 64-bit Edition (<a href="../../../../articles/i/t/a/Itanium.html" title="Itanium">Itanium</a>), Media Center (original, 2003, 2004 &amp; 2005), Tablet PC (original and 2005), Starter, Embedded, Home N, Professional N</td><td><a href="../../../../articles/o/c/t/October_25.html" title="October 25">October 25</a>, <a href="../../../../articles/2/0/0/2001.html" title="2001">2001</a></td><td>2600</td></tr><tr><td>NT 5.1</td><td><a href="../../../../articles/w/i/n/Windows_Fundamentals_for_Legacy_PCs_2613.html" title="Windows Fundamentals for Legacy PCs">Windows Fundamentals for Legacy PCs</a></td><td>N/A</td><td><a href="../../../../articles/j/u/l/July_8.html" title="July 8">July 8</a>, <a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a></td><td>2600</td></tr><tr><td>NT 5.2</td><td><a href="../../../../articles/w/i/n/Windows_XP_1c6b.html" title="Windows XP">Windows XP</a></td><td>64-bit Edition Version 2003 (<a href="../../../../articles/i/t/a/Itanium.html" title="Itanium">Itanium</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup></td><td><a href="../../../../articles/m/a/r/March_28.html" title="March 28">March 28</a>, <a href="../../../../articles/2/0/0/2003.html" title="2003">2003</a></td><td>3790</td></tr><tr><td>NT 5.2</td><td><a href="../../../../articles/w/i/n/Windows_Server_2003_6f0c.html" title="Windows Server 2003">Windows&#160;Server&#160;2003</a></td><td>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server, Compute Cluster</td><td><a href="../../../../articles/a/p/r/April_24.html" title="April 24">April 24</a>, <a href="../../../../articles/2/0/0/2003.html" title="2003">2003</a></td><td>3790</td></tr><tr><td>NT 5.2</td><td><a href="../../../../articles/w/i/n/Windows_XP_1c6b.html" title="Windows XP">Windows XP</a></td><td>Professional <a href="../../../../articles/x/6/4/X64.html" class="mw-redirect" title="X64">x64</a> Edition</td><td><a href="../../../../articles/a/p/r/April_25.html" title="April 25">April 25</a>, <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td><td>3790</td></tr><tr><td>NT 5.2</td><td><a href="../../../../articles/w/i/n/Windows_Home_Server_b9a2.html" title="Windows Home Server">Windows Home Server</a></td><td>N/A</td><td><a href="../../../../articles/j/u/l/July_16.html" title="July 16">July 16</a>, <a href="../../../../articles/2/0/0/2007.html" title="2007">2007</a></td><td>3790</td></tr><tr><td>NT 6.0</td><td><a href="../../../../articles/w/i/n/Windows_Vista_dc35.html" title="Windows Vista">Windows Vista</a></td><td>Starter, Home Basic, Home Premium, Business, Enterprise, Ultimate, Home Basic N, Business N</td><td>Business: <a href="../../../../articles/n/o/v/November_30.html" title="November 30">November 30</a>, <a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a><br />Consumer: <a href="../../../../articles/j/a/n/January_30.html" title="January 30">January 30</a>, <a href="../../../../articles/2/0/0/2007.html" title="2007">2007</a></td><td>6000</td></tr><tr><td>NT 6.1</td><td><a href="../../../../articles/w/i/n/Windows_Server_2008_bc8e.html" title="Windows Server 2008">Windows Server 2008</a></td><td>Standard, Enterprise, Datacenter, Web, Storage, Small Business Server</td><td><a href="../../../../articles/f/e/b/February_27.html" title="February 27">February 27</a>, <a href="../../../../articles/2/0/0/2008.html" title="2008">2008</a></td><td>6001</td></tr><tr><td>NT 7.0</td><td><a href="../../../../articles/w/i/n/Windows_7.html" title="Windows 7">Windows 7</a> (codenamed Blackcomb, later Vienna)</td><td>TBA</td><td><a href="../../../../articles/h/2/_/H2.html" title="H2">H2</a> <a href="../../../../articles/2/0/0/2009.html" title="2009">2009</a></td><td>Unknown</td></tr></table>]]>
+</htmlSnippet>
+</entity>

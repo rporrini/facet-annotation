@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san12-data1-repo/attrParsedPage/out_data_132/dir5/file30597_0_cols1_rows6.xml" />
+
+<types>
+<coltype>Name</coltype>
+<coltype>Word</coltype>
+<coltype>Unknown</coltype>
+<coltype>Number Unit</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td>the digit</td>]]></html>
+	<text>the digit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>digitus</td>]]></html>
+	<text>digitus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>the inch</td>]]></html>
+	<text>the inch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>the foot</td>]]></html>
+	<text>the foot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>the cubit</td>]]></html>
+	<text>the cubit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>the pace</td>]]></html>
+	<text>the pace</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>the fathom</td>]]></html>
+	<text>the fathom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td>the digit</td>
+<td>digitus</td>
+<td></td>
+<td></td>
+</tr><tr><td>the inch</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>the foot</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>the cubit</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>the pace</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>the fathom</td>
+<td></td>
+<td></td>
+<td></td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

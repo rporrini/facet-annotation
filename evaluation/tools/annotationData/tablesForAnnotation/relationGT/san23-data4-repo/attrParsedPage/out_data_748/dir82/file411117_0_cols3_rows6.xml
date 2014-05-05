@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san23-data4-repo/attrParsedPage/out_data_748/dir82/file411117_0_cols3_rows6.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="caption" value="Listing of movies by actor" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.22222224 2, " />
+<meta name="url" value="http://www.students.stedwards.edu/jstepan/actor.htm" />
+<meta name="parentHTMLDoc" value="san23-data4-repo/attrParsedPage/out_data_748/file411117" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Name</coltype>
+<coltype>ShortText</coltype>
+<coltype>Word</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th><font>Actor</font></th>]]></html>
+	<text>Actor</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font>Movie</font></th>]]></html>
+	<text>Movie</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font>Type</font></th>]]></html>
+	<text>Type</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paul Giamatti</td>]]></html>
+	<text>Paul Giamatti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sideways</td>]]></html>
+	<text>Sideways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>James Spader</td>]]></html>
+	<text>James Spader</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Secretary</td>]]></html>
+	<text>Secretary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Catalina Sandino Moreno</td>]]></html>
+	<text>Catalina Sandino Moreno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maria Full of Grace</td>]]></html>
+	<text>Maria Full of Grace</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jeremy Davies</td>]]></html>
+	<text>Jeremy Davies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Million Dollar Hotel</td>]]></html>
+	<text>Million Dollar Hotel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Diego Luna</td>]]></html>
+	<text>Diego Luna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Y Tu Mama Tambien</td>]]></html>
+	<text>Y Tu Mama Tambien</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mary Steenburgen</td>]]></html>
+	<text>Mary Steenburgen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Casa De Los Babys</td>]]></html>
+	<text>Casa De Los Babys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Listing of movies by actor</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Actor Movie Type</text>
+</context>
+<context>
+	<score>0.6920424</score>
+	<text>Type</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th><font>Actor</font></th><th><font>Movie</font></th><th><font>Type</font></th></tr><tr><td>Paul Giamatti</td><td>Sideways</td><td>Comedy</td></tr><tr><td>James Spader</td><td>Secretary</td><td>Comedy</td></tr><tr><td>Catalina Sandino Moreno</td><td>Maria Full of Grace</td><td>Drama</td></tr><tr><td>Jeremy Davies</td><td>Million Dollar Hotel</td><td>Drama</td></tr><tr><td>Diego Luna</td><td>Y Tu Mama Tambien</td><td>Drama</td></tr><tr><td>Mary Steenburgen</td><td>Casa De Los Babys</td><td>Drama</td></tr><caption><em>Listing of movies by actor</em></caption></table>]]>
+</htmlSnippet>
+</entity>

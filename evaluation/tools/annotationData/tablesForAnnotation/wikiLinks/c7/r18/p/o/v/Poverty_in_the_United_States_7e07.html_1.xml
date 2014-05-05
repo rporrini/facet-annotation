@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r18/p/o/v/Poverty_in_the_United_States_7e07.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.18571429 1 2, 0.17539683 2, 0.17142858 1 3, 0.15714286 1 4, 0.14285715 1 5, 0.13095239 4, 0.12857144 1 6, 0.12698413 5, 0.123809524 3, 0.11428572 0, 0.11428572 6, 0.11428572 0 1, 0.031836737 2 3, 0.029183675 2 4, 0.026938776 3 4, 0.026530614 2 5, 0.024489798 3 5, 0.023877552 2 6, 0.022448981 4 5, 0.022040818 3 6, 0.021224491 0 2, 0.020204082 4 6, 0.019591838 0 3, 0.017959185 0 4, 0.01734694 5 6, 0.016326532 0 5, 0.014693879 0 6, " />
+<meta name="parentHTMLDoc" value="en/articles/p/o/v/Poverty_in_the_United_States_7e07.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Ranking</th>]]></html>
+	<text>Ranking</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>HPI-2</th>]]></html>
+	<text>HPI-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Probability at birth of not surviving to age 60 (%)</th>]]></html>
+	<text>Probability at birth of not surviving to age 60 (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>People lacking functional literacy skills (%)</th>]]></html>
+	<text>People lacking functional literacy skills (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Long-term unemployment (%)</th>]]></html>
+	<text>Long-term unemployment (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population below 50% of median income (%)</th>]]></html>
+	<text>Population below 50% of median income (%)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.5</td>]]></html>
+	<text>6.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.2</td>]]></html>
+	<text>7.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.5</td>]]></html>
+	<text>7.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.0</td>]]></html>
+	<text>1.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.5</td>]]></html>
+	<text>6.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norway</td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.0</td>]]></html>
+	<text>7.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.4</td>]]></html>
+	<text>8.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.9</td>]]></html>
+	<text>7.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.4</td>]]></html>
+	<text>0.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.4</td>]]></html>
+	<text>6.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.2</td>]]></html>
+	<text>8.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.7</td>]]></html>
+	<text>8.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.5</td>]]></html>
+	<text>10.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.5</td>]]></html>
+	<text>2.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.3</td>]]></html>
+	<text>7.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Finland</td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.2</td>]]></html>
+	<text>8.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.7</td>]]></html>
+	<text>9.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.4</td>]]></html>
+	<text>10.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1</td>]]></html>
+	<text>2.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.4</td>]]></html>
+	<text>5.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.4</td>]]></html>
+	<text>8.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.4</td>]]></html>
+	<text>10.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.6</td>]]></html>
+	<text>9.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3</td>]]></html>
+	<text>1.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.3</td>]]></html>
+	<text>10.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.8</td>]]></html>
+	<text>8.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.4</td>]]></html>
+	<text>14.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.0</td>]]></html>
+	<text>5.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.3</td>]]></html>
+	<text>8.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.7</td>]]></html>
+	<text>10.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.8</td>]]></html>
+	<text>7.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.9</td>]]></html>
+	<text>15.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.6</td>]]></html>
+	<text>7.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.9</td>]]></html>
+	<text>10.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.1</td>]]></html>
+	<text>8.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.6</td>]]></html>
+	<text>14.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.7</td>]]></html>
+	<text>0.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.4</td>]]></html>
+	<text>11.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Luxembourg</td>]]></html>
+	<text>Luxembourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.1</td>]]></html>
+	<text>11.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.7</td>]]></html>
+	<text>9.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2</td>]]></html>
+	<text>1.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.0</td>]]></html>
+	<text>6.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.4</td>]]></html>
+	<text>11.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.8</td>]]></html>
+	<text>9.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.3</td>]]></html>
+	<text>4.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.0</td>]]></html>
+	<text>8.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Japan</td>]]></html>
+	<text>Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.7</td>]]></html>
+	<text>11.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.1</td>]]></html>
+	<text>7.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5</td>]]></html>
+	<text>1.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.8</td>]]></html>
+	<text>11.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.4</td>]]></html>
+	<text>12.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.4</td>]]></html>
+	<text>9.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.4</td>]]></html>
+	<text>18.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.3</td>]]></html>
+	<text>4.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.0</td>]]></html>
+	<text>8.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.6</td>]]></html>
+	<text>12.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.7</td>]]></html>
+	<text>8.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.0</td>]]></html>
+	<text>3.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.3</td>]]></html>
+	<text>14.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.8</td>]]></html>
+	<text>12.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.7</td>]]></html>
+	<text>7.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.0</td>]]></html>
+	<text>17.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.9</td>]]></html>
+	<text>0.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.3</td>]]></html>
+	<text>14.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.8</td>]]></html>
+	<text>14.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.7</td>]]></html>
+	<text>8.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.8</td>]]></html>
+	<text>21.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.1</td>]]></html>
+	<text>1.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.4</td>]]></html>
+	<text>12.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.4</td>]]></html>
+	<text>15.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.8</td>]]></html>
+	<text>11.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.0</td>]]></html>
+	<text>20.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.6</td>]]></html>
+	<text>0.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.0</td>]]></html>
+	<text>17.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ireland</td>]]></html>
+	<text>Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.1</td>]]></html>
+	<text>16.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.7</td>]]></html>
+	<text>8.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.6</td>]]></html>
+	<text>22.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5</td>]]></html>
+	<text>1.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.5</td>]]></html>
+	<text>16.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.9</td>]]></html>
+	<text>29.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.8</td>]]></html>
+	<text>7.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47.0</td>]]></html>
+	<text>47.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.0</td>]]></html>
+	<text>4.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.7</td>]]></html>
+	<text>12.7</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Poverty in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Ranking Country HPI-2 Probability at birth of not surviving to age 60 (%) People lacking functional literacy skills (%) Long-term unemployment (%) Population below 50% of median income (%)</text>
+</context>
+<context>
+	<score>0.8806356</score>
+	<text>The United Nations Development Programme , uses the human poverty index in order to assess the development with regards to poverty among OECD countries. The index takes the likelihood of a child not surviving to age 60, functional illiteracy rate, long-term unemployment and the population living on less than 50% of the median national income into account. While the United States has one of the second lowest long-term unemployment rates in the developed world, it has the highest percentage of children who are not likely to live to age 60 and persons living on less than 50% of the national median income and the third highest percentage of adults lacking functional literacy skills.</text>
+</context>
+<context>
+	<score>0.7919192</score>
+	<text>Poverty in the United States</text>
+</context>
+<context>
+	<score>0.7836659</score>
+	<text>[ edit ] Human Poverty Index</text>
+</context>
+<context>
+	<score>0.7522934</score>
+	<text>[ edit ] Other international comparisons</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Measures of poverty</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Human Poverty Index</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Food security</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Causes of poverty</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Causes</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Controversy</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Fighting poverty</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143434</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>, is caused by distributional effects rather than real differences in wellbeing among EU-countries and the USA. The median household income is much higher in the US than in Europe due to the wealth of the middle classes in the US, from which the poverty line is derived. Although the paradigm of relative poverty is most valuable, this comparison of poverty lines show that the higher prevalence of relative poverty levels in the US are not an indicator of a more severe poverty problem but an indicator of larger inequalities between rich middle classes and the low-income households. It is therefore not correct to state that the US income distribution is characterised by a large proportion of households in poverty; it is characterized by relatively large income inequality but also high levels of prosperity of the middle classes. The 2007 poverty threshold for a three member family is 17,070.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Secondly, if the of the poverty threshold in Western-European countries is not always higher than the Orshansky threshold for a single person family. The actual Orchinsky poverty line for single person households in the US ($9645 in 2004) is very comparable to the relative poverty line in many Western-European countries (Belgium 2004: 9315), while price levels are also similar. The reason why relative poverty measurement causes high poverty levels in the US, as demonstrated by F rster</text>
+</context>
+<context>
+	<score>0.6054967</score>
+	<text>[ edit ] Food security</text>
+</context>
+<context>
+	<score>0.5943811</score>
+	<text>Although the relative approach theoretically differs largely from the Orshansky definition, crucial variables of both poverty definitions are more similar than often thought. First, the so-called standardization of income in both approaches is very similar. To make incomes comparable among households of different sizes, equivalence scales are used to standardize household income to the level of a single person household. In Europe, the modified OECD equivalence scale is used, which takes the combined value of 1 for the head of household, 0.5 for each additional household member older than 14 years and 0.3 for children. When compared to the US Census poverty lines, which is based on a defined basket of goods, for the most prevalent household types both standardization methods show to be very similar.</text>
+</context>
+<context>
+	<score>0.5546623</score>
+	<text>[ edit ] The income distribution and relative poverty</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>(OECD average: 11% for 50% median, 16% for 60% median).</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Eighty-nine percent of American households were food secure throughout the entire year 2002, meaning that they had access, at all times, to enough food for an active, healthy life for all household members. The remaining households were food insecure at least some time during that year. The prevalence of food insecurity rose from 10.7% in 2001 to 11.1% in 2002, and the prevalence of food insecurity with hunger rose from 3.3% to 3.5%.</text>
+</context>
+<context>
+	<score>0.49746725</score>
+	<text>In the EU, &quot;relative poverty&quot; is defined as an income below 60% of the national median equalized disposable income after social transfers for a comparable household. In Germany, for example, the official relative poverty line for a single adult person in 2003 was 938 euros per month (11,256 euros/year, $12,382 PPP. West Germany 974 euros/month, 11,688 euros/year, $12,857 PPP). For a family of four with two children below 14 years the poverty line was 1969.8 euros per month ($2,167 PPP) or 23,640 euros ($26,004 PPP) per year. According to Eurostat the percentage of people in Germany living at risk of poverty (relative poverty) in 2004 was 16% (official national rate 13.5% in 2003). Additional definitions for poverty in Germany are &quot;poverty&quot; (50% median) and &quot;strict poverty&quot; (40% median, national rate 1.9% in 2003). Generally the percentage for &quot;relative poverty&quot; is much higher than the quota for &quot;strict poverty&quot;. The U.S concept is best comparable to &quot;strict poverty&quot;. By European standards the official (relative) poverty rate in the United States would be significantly higher than it is by the U.S. measure. A research paper from the OECD calculates the relative poverty rate for the United States at 16% for 50% median of disposable income and nearly 24% for 60% of median disposable income</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Another way of looking at poverty is in relative terms. &quot;Relative poverty&quot; can be defined as having significantly less access to income and wealth than other members of society. Therefore, the relative poverty rate can directly be linked to income inequality. When the standard of living among those in more financially advantageous positions rises while that of those considered poor stagnates, the relative poverty rate will reflect such growing income inequality and increase. Conversely, the poverty rate can decrease, with low income people coming to have less wealth and income if wealthier people&apos;s wealth is reduced by a larger percentage than theirs. In 1959, a family at the poverty line had an income that was 42.64% of the median income. Thus, a poor family in 1999 had relatively less income and therefore relatively less purchasing power than wealthier members of society in 1959, and, therefore, &quot;poverty&quot; had increased. But, because this is a relative measure, this is not saying that a family in 1999 with the same amount of wealth and income as a family from 1959 had less purchasing power than the 1959 family.</text>
+</context>
+<context>
+	<score>0.46835098</score>
+	<text>[ edit ] Causes of poverty</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>The poverty rate for selected age groups. Those under the age of 18 are most likely to fall below the poverty threshold.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable"><tr><th>Ranking</th><th>Country</th><th>HPI-2</th><th>Probability at birth<br />of not surviving<br />to age 60 (%)</th><th>People lacking functional<br />literacy skills (%)</th><th>Long-term<br />unemployment (%)</th><th>Population below 50%<br />of median income (%)</th></tr><tr><td>1</td><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>6.5</td><td>7.2</td><td>7.5</td><td>1.0</td><td>6.5</td></tr><tr><td>2</td><td><a href="../../../../articles/n/o/r/Norway.html" title="Norway">Norway</a></td><td>7.0</td><td>8.4</td><td>7.9</td><td>0.4</td><td>6.4</td></tr><tr><td>3</td><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>8.2</td><td>8.7</td><td>10.5</td><td>2.5</td><td>7.3</td></tr><tr><td>4</td><td><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a></td><td>8.2</td><td>9.7</td><td>10.4</td><td>2.1</td><td>5.4</td></tr><tr><td>5</td><td><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>8.4</td><td>10.4</td><td>9.6</td><td>1.3</td><td>-</td></tr><tr><td>6</td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>10.3</td><td>8.8</td><td>14.4</td><td>5.0</td><td>8.3</td></tr><tr><td>7</td><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>10.7</td><td>7.8</td><td>15.9</td><td>1.6</td><td>7.6</td></tr><tr><td>8</td><td><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>10.9</td><td>8.1</td><td>14.6</td><td>0.7</td><td>11.4</td></tr><tr><td>9</td><td><a href="../../../../articles/l/u/x/Luxembourg.html" title="Luxembourg">Luxembourg</a></td><td>11.1</td><td>9.7</td><td>-</td><td>1.2</td><td>6.0</td></tr><tr><td>10</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>11.4</td><td>9.8</td><td>-</td><td>4.3</td><td>8.0</td></tr><tr><td>11</td><td><a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>11.7</td><td>7.1</td><td>-</td><td>1.5</td><td>11.8</td></tr><tr><td>12</td><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>12.4</td><td>9.4</td><td>18.4</td><td>4.3</td><td>8.0</td></tr><tr><td>13</td><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>12.6</td><td>8.7</td><td>-</td><td>3.0</td><td>14.3</td></tr><tr><td>14</td><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td>12.8</td><td>7.7</td><td>17.0</td><td>0.9</td><td>14.3</td></tr><tr><td>15</td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>14.8</td><td>8.7</td><td>21.8</td><td>1.1</td><td>12.4</td></tr><tr><td>16</td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>15.4</td><td>11.8</td><td>20.0</td><td>0.6</td><td>17.0</td></tr><tr><td>17</td><td><a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a></td><td>16.1</td><td>8.7</td><td>22.6</td><td>1.5</td><td>16.5</td></tr><tr><td>18</td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>29.9</td><td>7.8</td><td>47.0</td><td>4.0</td><td>12.7</td></tr></table>]]>
+</htmlSnippet>
+</entity>

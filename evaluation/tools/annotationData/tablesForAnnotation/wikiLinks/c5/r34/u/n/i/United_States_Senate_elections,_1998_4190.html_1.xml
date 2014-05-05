@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r34/u/n/i/United_States_Senate_elections,_1998_4190.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 0 2, 0.71999997 1 2, 0.7 0 3, 0.63 1 3, 0.6 4, 0.6 0 4, 0.5764706 3, 0.5435294 2 3, 0.54 1 4, 0.48000002 2 4, 0.42000002 3 4, 0.07058824 2, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_Senate_elections,_1998_4190.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opposing Candidates</th>]]></html>
+	<text>Opposing Candidates</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard C. Shelby</td>]]></html>
+	<text>Richard C. Shelby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 63.2%</td>]]></html>
+	<text>Re-elected, 63.2%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clayton Suddith (Democrat) 36.7%</td>]]></html>
+	<text>Clayton Suddith (Democrat) 36.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Murkowski</td>]]></html>
+	<text>Frank Murkowski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 74.5%</td>]]></html>
+	<text>Re-elected, 74.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joe Sonneman (Democrat) 19.7% Jeffrey Gottlieb (Green) 3.2% Scott Kohlhaas (Libertarian) 2.3%</td>]]></html>
+	<text>Joe Sonneman (Democrat) 19.7% Jeffrey Gottlieb (Green) 3.2% Scott Kohlhaas (Libertarian) 2.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John McCain</td>]]></html>
+	<text>John McCain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 68.7%</td>]]></html>
+	<text>Re-elected, 68.7%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ed Ranger (Democrat) 27.2% John C. Zajac (Libertarian) 2.3% Bob Park (Reform) 1.8%</td>]]></html>
+	<text>Ed Ranger (Democrat) 27.2% John C. Zajac (Libertarian) 2.3% Bob Park (Reform) 1.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dale L. Bumpers</td>]]></html>
+	<text>Dale L. Bumpers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired: Democratic victory</td>]]></html>
+	<text>Retired: Democratic victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blanche Lincoln (Democrat) 55.1% Fay Boozman (Republican) 42.2% Charley E. Heffley (Reform) 2.7%</td>]]></html>
+	<text>Blanche Lincoln (Democrat) 55.1% Fay Boozman (Republican) 42.2% Charley E. Heffley (Reform) 2.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barbara Boxer</td>]]></html>
+	<text>Barbara Boxer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 53%</td>]]></html>
+	<text>Re-elected, 53%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matt Fong (Republican) 43% Ted Brown (Libertarian) 1.1% Timothy R. Erich (Reform) 1% H. Joseph Perrin, Sr. (American Independent) 0.7% Ophie C. Beltran (Peace &amp; Freedom) 0.6% Brian M. Rees (Natural Law) 0.6%</td>]]></html>
+	<text>Matt Fong (Republican) 43% Ted Brown (Libertarian) 1.1% Timothy R. Erich (Reform) 1% H. Joseph Perrin, Sr. (American Independent) 0.7% Ophie C. Beltran (Peace &amp;amp;amp; Freedom) 0.6% Brian M. Rees (Natural Law) 0.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ben Nighthorse Campbell</td>]]></html>
+	<text>Ben Nighthorse Campbell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 62.5%</td>]]></html>
+	<text>Re-elected, 62.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dottie Lamm (Democrat) 35% David S. Segal (Libertarian) 1% Kevin Swanson (American Constitution) 0.7% Jeffrey Peckman (Natural Law) 0.3% John Heckman (Concerns of People) 0.2% Gary Swing (Pacifist) 0.1%</td>]]></html>
+	<text>Dottie Lamm (Democrat) 35% David S. Segal (Libertarian) 1% Kevin Swanson (American Constitution) 0.7% Jeffrey Peckman (Natural Law) 0.3% John Heckman (Concerns of People) 0.2% Gary Swing (Pacifist) 0.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Christopher Dodd</td>]]></html>
+	<text>Christopher Dodd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 65.1%</td>]]></html>
+	<text>Re-elected, 65.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gary Franks (Republican) 32.4% William Kozak (Concerned Citizens) 1.3% Lois A. Grasso (Term Limits) 0.7% Wildey Moore (Libertarian) 0.5%</td>]]></html>
+	<text>Gary Franks (Republican) 32.4% William Kozak (Concerned Citizens) 1.3% Lois A. Grasso (Term Limits) 0.7% Wildey Moore (Libertarian) 0.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Graham</td>]]></html>
+	<text>Bob Graham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 62.5%</td>]]></html>
+	<text>Re-elected, 62.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Crist (Republican) 37.5%</td>]]></html>
+	<text>Charlie Crist (Republican) 37.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Coverdell</td>]]></html>
+	<text>Paul Coverdell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 52.3%</td>]]></html>
+	<text>Re-elected, 52.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael Coles (Democrat) 45.3% Bertil Armin Loftman (Libertarian) 2.5%</td>]]></html>
+	<text>Michael Coles (Democrat) 45.3% Bertil Armin Loftman (Libertarian) 2.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daniel Inouye</td>]]></html>
+	<text>Daniel Inouye</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 79.2%</td>]]></html>
+	<text>Re-elected, 79.2%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Crystal Young (Republican) 17.8% Lloyd Mallan (Libertarian) 3%</td>]]></html>
+	<text>Crystal Young (Republican) 17.8% Lloyd Mallan (Libertarian) 3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dirk Kempthorne</td>]]></html>
+	<text>Dirk Kempthorne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired: Republican victory</td>]]></html>
+	<text>Retired: Republican victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mike Crapo (Republican) 69.5% Bill Mauk (Democrat) 28.4% George J. Mansfeld (Natural Law) 2%</td>]]></html>
+	<text>Mike Crapo (Republican) 69.5% Bill Mauk (Democrat) 28.4% George J. Mansfeld (Natural Law) 2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carol Moseley-Braun</td>]]></html>
+	<text>Carol Moseley-Braun</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defeated, 47.4%</td>]]></html>
+	<text>Defeated, 47.4%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peter Fitzgerald (Republican) 50.3% Don A. Torgersen (Reform) 2.2% Raymond W. Stalker (U.S. Taxpayers) 0.01%</td>]]></html>
+	<text>Peter Fitzgerald (Republican) 50.3% Don A. Torgersen (Reform) 2.2% Raymond W. Stalker (U.S. Taxpayers) 0.01%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daniel R. Coats</td>]]></html>
+	<text>Daniel R. Coats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired: Democratic victory</td>]]></html>
+	<text>Retired: Democratic victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evan Bayh (Democrat) 63.7% Paul Helmke (Republican) 34.8% Rebecca Sink-Burris (Libertarian) 1.5%</td>]]></html>
+	<text>Evan Bayh (Democrat) 63.7% Paul Helmke (Republican) 34.8% Rebecca Sink-Burris (Libertarian) 1.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chuck Grassley</td>]]></html>
+	<text>Chuck Grassley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 68.4%</td>]]></html>
+	<text>Re-elected, 68.4%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David Osterberg (Democrat) 30.5% Susan Marcus (Natural Law) 0.8% Margaret Trowe (Socialist Workers) 0.3%</td>]]></html>
+	<text>David Osterberg (Democrat) 30.5% Susan Marcus (Natural Law) 0.8% Margaret Trowe (Socialist Workers) 0.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sam Brownback</td>]]></html>
+	<text>Sam Brownback</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 65.3%</td>]]></html>
+	<text>Re-elected, 65.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Feleciano Jr. (Democrat) 31.6% Tom Oyler (Libertarian) 1.6% Alvin Bauman (Reform) 1.5%</td>]]></html>
+	<text>Paul Feleciano Jr. (Democrat) 31.6% Tom Oyler (Libertarian) 1.6% Alvin Bauman (Reform) 1.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wendell Ford</td>]]></html>
+	<text>Wendell Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired: Republican victory</td>]]></html>
+	<text>Retired: Republican victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Bunning (Republican) 49.7% Scotty Baesler (Democrat) 49.2% Charles R. Arbegust (Reform) 1.1%</td>]]></html>
+	<text>Jim Bunning (Republican) 49.7% Scotty Baesler (Democrat) 49.2% Charles R. Arbegust (Reform) 1.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Breaux</td>]]></html>
+	<text>John Breaux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 64%</td>]]></html>
+	<text>Re-elected, 64%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Donelon (Republican) 32%</td>]]></html>
+	<text>Jim Donelon (Republican) 32%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barbara Mikulski</td>]]></html>
+	<text>Barbara Mikulski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 70.5%</td>]]></html>
+	<text>Re-elected, 70.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ross Pierpont (Republican) 29.5%</td>]]></html>
+	<text>Ross Pierpont (Republican) 29.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kit Bond</td>]]></html>
+	<text>Kit Bond</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 52.7%</td>]]></html>
+	<text>Re-elected, 52.7%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jay Nixon (Democrat) 43.8% Tamara Millay (Libertarian) 2.0% Curtis Frazier (U.S. Taxpayers) 1.0% James F. Newport (Reform) 0.5%</td>]]></html>
+	<text>Jay Nixon (Democrat) 43.8% Tamara Millay (Libertarian) 2.0% Curtis Frazier (U.S. Taxpayers) 1.0% James F. Newport (Reform) 0.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harry Reid</td>]]></html>
+	<text>Harry Reid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 47.9%</td>]]></html>
+	<text>Re-elected, 47.9%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Ensign (Republican) 47.8% Michael Cloud (Libertarian) 1.9% None of These Candidates 1.8% Michael E. Williams (Natural Law) 0.6%</td>]]></html>
+	<text>John Ensign (Republican) 47.8% Michael Cloud (Libertarian) 1.9% None of These Candidates 1.8% Michael E. Williams (Natural Law) 0.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Judd Gregg</td>]]></html>
+	<text>Judd Gregg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 67.8%</td>]]></html>
+	<text>Re-elected, 67.8%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Condodemetraky (Democrat) 28.2% Brian Christeson (Libertarian) 2.4% Roy Kendel (Independent) 1.5%</td>]]></html>
+	<text>George Condodemetraky (Democrat) 28.2% Brian Christeson (Libertarian) 2.4% Roy Kendel (Independent) 1.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Al D'Amato</td>]]></html>
+	<text>Al D&amp;apos;Amato</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican (Conservative) (Right To Life)</td>]]></html>
+	<text>Republican (Conservative) (Right To Life)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defeated, 44.1%</td>]]></html>
+	<text>Defeated, 44.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chuck Schumer (Democrat) (Independence) (Liberal) 54.6% Corinne E. Kurtz (Marijuana Reform) 0.7% Joel Kovel (Green) 0.3% William P. Mc Millen (Libertarian) 0.2% Rose Ana Berbeo (Socialist Workers) 0.1%</td>]]></html>
+	<text>Chuck Schumer (Democrat) (Independence) (Liberal) 54.6% Corinne E. Kurtz (Marijuana Reform) 0.7% Joel Kovel (Green) 0.3% William P. Mc Millen (Libertarian) 0.2% Rose Ana Berbeo (Socialist Workers) 0.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lauch Faircloth</td>]]></html>
+	<text>Lauch Faircloth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defeated, 47%</td>]]></html>
+	<text>Defeated, 47%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Edwards (Democrat) 51.2% Barbara Howe (Libertarian) 1.8%</td>]]></html>
+	<text>John Edwards (Democrat) 51.2% Barbara Howe (Libertarian) 1.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Byron Dorgan</td>]]></html>
+	<text>Byron Dorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 63.1%</td>]]></html>
+	<text>Re-elected, 63.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Donna Nalewaja (Republican) 35.2% Harley McLain (Libertarian) 1.7%</td>]]></html>
+	<text>Donna Nalewaja (Republican) 35.2% Harley McLain (Libertarian) 1.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Glenn</td>]]></html>
+	<text>John Glenn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired: Republican victory</td>]]></html>
+	<text>Retired: Republican victory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Voinovich (Republican) 56.5% Mary Boyle (Democrat) 43.5%</td>]]></html>
+	<text>George Voinovich (Republican) 56.5% Mary Boyle (Democrat) 43.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Don Nickles</td>]]></html>
+	<text>Don Nickles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 66.4%</td>]]></html>
+	<text>Re-elected, 66.4%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Don Carroll (Democrat) 31.3% Mike Morris (Independent) 1.8% Argus W. Yandell, Jr. (Independent) 0.5%</td>]]></html>
+	<text>Don Carroll (Democrat) 31.3% Mike Morris (Independent) 1.8% Argus W. Yandell, Jr. (Independent) 0.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ron Wyden</td>]]></html>
+	<text>Ron Wyden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 61%</td>]]></html>
+	<text>Re-elected, 61%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Lim (Republican) 33.8% Karen Moskowitz (Green) 2.0% Jim Brewster (Libertarian) 1.6% Michael A. Campbell (Natural Law) 0.8% Dean M. Braa (Socialist) 0.7%</td>]]></html>
+	<text>John Lim (Republican) 33.8% Karen Moskowitz (Green) 2.0% Jim Brewster (Libertarian) 1.6% Michael A. Campbell (Natural Law) 0.8% Dean M. Braa (Socialist) 0.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arlen Specter</td>]]></html>
+	<text>Arlen Specter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 61.3%</td>]]></html>
+	<text>Re-elected, 61.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Lloyd (Democrat) 34.8% Dean Snyder (Constitution) 2.3% Jack Iannantuono (Libertarian) 1.6%</td>]]></html>
+	<text>Bill Lloyd (Democrat) 34.8% Dean Snyder (Constitution) 2.3% Jack Iannantuono (Libertarian) 1.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fritz Hollings</td>]]></html>
+	<text>Fritz Hollings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 52.7%</td>]]></html>
+	<text>Re-elected, 52.7%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Inglis (Republican) 45.7% Richard Quillian (Libertarian) 1.6%</td>]]></html>
+	<text>Bob Inglis (Republican) 45.7% Richard Quillian (Libertarian) 1.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom Daschle</td>]]></html>
+	<text>Tom Daschle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 62.1%</td>]]></html>
+	<text>Re-elected, 62.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ron Schmidt (Republican) 36.4% Byron Dale (Libertarian) 1.4%</td>]]></html>
+	<text>Ron Schmidt (Republican) 36.4% Byron Dale (Libertarian) 1.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Foster Bennett</td>]]></html>
+	<text>Robert Foster Bennett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 64%</td>]]></html>
+	<text>Re-elected, 64%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scott Leckman (Democrat) 33% Gary R. Van Horn (Independent American) 3%</td>]]></html>
+	<text>Scott Leckman (Democrat) 33% Gary R. Van Horn (Independent American) 3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Patrick Leahy</td>]]></html>
+	<text>Patrick Leahy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 72.2%</td>]]></html>
+	<text>Re-elected, 72.2%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fred Tuttle (Republican) 22.5% Hugh Douglas (Libertarian) 2.0% Barry M. Nelson (Independent) 1.4% Bob Melamede (Vermont Grassroots) 1.2% Jerry Levy (Liberty Union) 0.6%</td>]]></html>
+	<text>Fred Tuttle (Republican) 22.5% Hugh Douglas (Libertarian) 2.0% Barry M. Nelson (Independent) 1.4% Bob Melamede (Vermont Grassroots) 1.2% Jerry Levy (Liberty Union) 0.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Patty Murray</td>]]></html>
+	<text>Patty Murray</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 58.4%</td>]]></html>
+	<text>Re-elected, 58.4%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Linda Smith (Republican) 41.6%</td>]]></html>
+	<text>Linda Smith (Republican) 41.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Russ Feingold</td>]]></html>
+	<text>Russ Feingold</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Re-elected, 50.6%</td>]]></html>
+	<text>Re-elected, 50.6%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Neumann (Republican) 48.4% Robert R. Raymond (U.S. Taxpayers) 0.5% Tom Ender (Libertarian) 0.3% Eugene A. Hem (Independent) 0.2%</td>]]></html>
+	<text>Mark Neumann (Republican) 48.4% Robert R. Raymond (U.S. Taxpayers) 0.5% Tom Ender (Libertarian) 0.3% Eugene A. Hem (Independent) 0.2%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States Senate elections, 1998 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State Incumbent Party Status Opposing Candidates</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>Retiring Senators in Gray</text>
+</context>
+<context>
+	<score>0.79361665</score>
+	<text>United States Senate elections, 1998</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>Democratic pickups in Blue</text>
+</context>
+<context>
+	<score>0.7544305</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] Results summary</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] Notable Races</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] Senate contests in 1998</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72286594</score>
+	<text>[ edit ] Senate composition before and after elections</text>
+</context>
+<context>
+	<score>0.7147597</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>Republican pickups in Red</text>
+</context>
+<context>
+	<score>0.6362725</score>
+	<text>Winning candidates in bold</text>
+</context>
+<context>
+	<score>0.6052094</score>
+	<text>^ [1] 1998 U.S. Senate Results. Federal Election Commission, Washington, D.C. April 1999. Retrieved May 30, 2008</text>
+</context>
+<context>
+	<score>0.5939102</score>
+	<text>[ edit ] Senate contests in 1998</text>
+</context>
+<context>
+	<score>0.5535355</score>
+	<text>[ edit ] Republican gains</text>
+</context>
+<context>
+	<score>0.5212357</score>
+	<text>[ edit ] Democratic gains</text>
+</context>
+<context>
+	<score>0.51743233</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4953958</score>
+	<text>[ edit ] Notable Races</text>
+</context>
+<context>
+	<score>0.47472396</score>
+	<text>[ edit ] Results summary</text>
+</context>
+<context>
+	<score>0.46579874</score>
+	<text>[ edit ] Senate composition before and after elections</text>
+</context>
+<context>
+	<score>0.4500803</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>State</th><th>Incumbent</th><th>Party</th><th>Status</th><th>Opposing Candidates</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td><b><a href="../../../../articles/d/i/c/Dick_Shelby_ef7e.html" class="mw-redirect" title="Dick Shelby">Richard C. Shelby</a></b></td><td>Republican</td><td>Re-elected, 63.2%</td><td>Clayton Suddith (Democrat) 36.7%</td></tr><tr><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td><b><a href="../../../../articles/f/r/a/Frank_Murkowski_30fe.html" title="Frank Murkowski">Frank Murkowski</a></b></td><td>Republican</td><td>Re-elected, 74.5%</td><td>Joe Sonneman (Democrat) 19.7%<br />Jeffrey Gottlieb (Green) 3.2%<br />Scott Kohlhaas (Libertarian) 2.3%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td><b><a href="../../../../articles/j/o/h/John_McCain_2b79.html" title="John McCain">John McCain</a></b></td><td>Republican</td><td>Re-elected, 68.7%</td><td>Ed Ranger (Democrat) 27.2%<br />John C. Zajac (Libertarian) 2.3%<br />Bob Park (Reform) 1.8%</td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td bgcolor="lightgrey"><a href="../../../../articles/d/a/l/Dale_Bumpers_9b1c.html" title="Dale Bumpers">Dale L. Bumpers</a></td><td>Democratic</td><td>Retired: Democratic victory</td><td><b><a href="../../../../articles/b/l/a/Blanche_Lincoln_31b6.html" title="Blanche Lincoln">Blanche Lincoln</a></b> (Democrat) 55.1%<br />Fay Boozman (Republican) 42.2%<br />Charley E. Heffley (Reform) 2.7%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td><b><a href="../../../../articles/b/a/r/Barbara_Boxer_ce99.html" title="Barbara Boxer">Barbara Boxer</a></b></td><td>Democratic</td><td>Re-elected, 53%</td><td><a href="../../../../articles/m/a/t/Matt_Fong_f26c.html" title="Matt Fong">Matt Fong</a> (Republican) 43%<br /><a href="../../../../articles/t/e/d/Ted_Brown_31a1.html" title="Ted Brown">Ted Brown</a> (Libertarian) 1.1%<br />Timothy R. Erich (Reform) 1%<br />H. Joseph Perrin, Sr. (American Independent) 0.7%<br />Ophie C. Beltran (Peace &amp; Freedom) 0.6%<br />Brian M. Rees (Natural Law) 0.6%</td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><b><a href="../../../../articles/b/e/n/Ben_Nighthorse_Campbell_8916.html" title="Ben Nighthorse Campbell">Ben Nighthorse Campbell</a></b></td><td>Republican</td><td>Re-elected, 62.5%</td><td>Dottie Lamm (Democrat) 35%<br />David S. Segal (Libertarian) 1%<br />Kevin Swanson (American Constitution) 0.7%<br /><a href="../../../../articles/j/e/f/Jeff_Peckman_6b5d.html" title="Jeff Peckman">Jeffrey Peckman</a> (Natural Law) 0.3%<br />John Heckman (Concerns of People) 0.2%<br />Gary Swing (Pacifist) 0.1%</td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td><b><a href="../../../../articles/c/h/r/Christopher_Dodd_6548.html" title="Christopher Dodd">Christopher Dodd</a></b></td><td>Democratic</td><td>Re-elected, 65.1%</td><td><a href="../../../../articles/g/a/r/Gary_Franks_cb75.html" title="Gary Franks">Gary Franks</a> (Republican) 32.4%<br />William Kozak (Concerned Citizens) 1.3%<br />Lois A. Grasso (Term Limits) 0.7%<br />Wildey Moore (Libertarian) 0.5%</td></tr><tr><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td><b><a href="../../../../articles/b/o/b/Bob_Graham_44e5.html" title="Bob Graham">Bob Graham</a></b></td><td>Democratic</td><td>Re-elected, 62.5%</td><td><a href="../../../../articles/c/h/a/Charlie_Crist_7279.html" title="Charlie Crist">Charlie Crist</a> (Republican) 37.5%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td><b><a href="../../../../articles/p/a/u/Paul_Coverdell_38c0.html" title="Paul Coverdell">Paul Coverdell</a></b></td><td>Republican</td><td>Re-elected, 52.3%</td><td>Michael Coles (Democrat) 45.3%<br />Bertil Armin Loftman (Libertarian) 2.5%</td></tr><tr><td><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td><b><a href="../../../../articles/d/a/n/Daniel_Inouye_c9e9.html" title="Daniel Inouye">Daniel Inouye</a></b></td><td>Democratic</td><td>Re-elected, 79.2%</td><td>Crystal Young (Republican) 17.8%<br />Lloyd Mallan (Libertarian) 3%</td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td bgcolor="lightgrey"><a href="../../../../articles/d/i/r/Dirk_Kempthorne_fbe3.html" title="Dirk Kempthorne">Dirk Kempthorne</a></td><td>Republican</td><td>Retired: Republican victory</td><td><b><a href="../../../../articles/m/i/k/Mike_Crapo_6a95.html" title="Mike Crapo">Mike Crapo</a></b> (Republican) 69.5%<br /><a href="../../../../articles/b/i/l/Bill_Mauk_1953.html" title="Bill Mauk">Bill Mauk</a> (Democrat) 28.4%<br />George J. Mansfeld (Natural Law) 2%</td></tr><tr bgcolor="#FFB3B3"><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/c/a/r/Carol_Moseley-Braun_df9b.html" class="mw-redirect" title="Carol Moseley-Braun">Carol Moseley-Braun</a></td><td>Democratic</td><td>Defeated, 47.4%</td><td><b><a href="../../../../articles/p/e/t/Peter_Fitzgerald_9fef.html" title="Peter Fitzgerald">Peter Fitzgerald</a></b> (Republican) 50.3%<br />Don A. Torgersen (Reform) 2.2%<br />Raymond W. Stalker (U.S. Taxpayers) 0.01%</td></tr><tr bgcolor="lightblue"><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td bgcolor="lightgrey"><a href="../../../../articles/d/a/n/Dan_Coats_0c3a.html" title="Dan Coats">Daniel R. Coats</a></td><td>Republican</td><td>Retired: Democratic victory</td><td><b><a href="../../../../articles/e/v/a/Evan_Bayh_1bf4.html" title="Evan Bayh">Evan Bayh</a></b> (Democrat) 63.7%<br /><a href="../../../../articles/p/a/u/Paul_Helmke_96bd.html" title="Paul Helmke">Paul Helmke</a> (Republican) 34.8%<br />Rebecca Sink-Burris (Libertarian) 1.5%</td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><b><a href="../../../../articles/c/h/u/Chuck_Grassley_b15b.html" title="Chuck Grassley">Chuck Grassley</a></b></td><td>Republican</td><td>Re-elected, 68.4%</td><td>David Osterberg (Democrat) 30.5%<br />Susan Marcus (Natural Law) 0.8%<br />Margaret Trowe (Socialist Workers) 0.3%</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td><b><a href="../../../../articles/s/a/m/Sam_Brownback_b47d.html" title="Sam Brownback">Sam Brownback</a></b></td><td>Republican</td><td>Re-elected, 65.3%</td><td>Paul Feleciano Jr. (Democrat) 31.6%<br />Tom Oyler (Libertarian) 1.6%<br />Alvin Bauman (Reform) 1.5%</td></tr><tr bgcolor="#FFB3B3"><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td bgcolor="lightgrey"><a href="../../../../articles/w/e/n/Wendell_Ford_b2e8.html" class="mw-redirect" title="Wendell Ford">Wendell Ford</a></td><td>Democratic</td><td>Retired: Republican victory</td><td><b><a href="../../../../articles/j/i/m/Jim_Bunning_5bbd.html" title="Jim Bunning">Jim Bunning</a></b> (Republican) 49.7%<br /><a href="../../../../articles/s/c/o/Scotty_Baesler_38f1.html" title="Scotty Baesler">Scotty Baesler</a> (Democrat) 49.2%<br />Charles R. Arbegust (Reform) 1.1%</td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td><b><a href="../../../../articles/j/o/h/John_Breaux_0c48.html" title="John Breaux">John Breaux</a></b></td><td>Democratic</td><td>Re-elected, 64%</td><td><a href="../../../../articles/j/i/m/Jim_Donelon_75e6.html" title="Jim Donelon">Jim Donelon</a> (Republican) 32%</td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td><b><a href="../../../../articles/b/a/r/Barbara_Mikulski_23b7.html" title="Barbara Mikulski">Barbara Mikulski</a></b></td><td>Democratic</td><td>Re-elected, 70.5%</td><td>Ross Pierpont (Republican) 29.5%</td></tr><tr><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><b><a href="../../../../articles/k/i/t/Kit_Bond_0e94.html" title="Kit Bond">Kit Bond</a></b></td><td>Republican</td><td>Re-elected, 52.7%</td><td><a href="../../../../articles/j/a/y/Jay_Nixon_7e07.html" title="Jay Nixon">Jay Nixon</a> (Democrat) 43.8%<br />Tamara Millay (Libertarian) 2.0%<br /><a href="../../../../articles/c/u/r/Curtis_Frazier_2274.html" title="Curtis Frazier">Curtis Frazier</a> (U.S. Taxpayers) 1.0%<br />James F. Newport (Reform) 0.5%</td></tr><tr><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><b><a href="../../../../articles/h/a/r/Harry_Reid_979b.html" title="Harry Reid">Harry Reid</a></b></td><td>Democratic</td><td>Re-elected, 47.9%</td><td><a href="../../../../articles/j/o/h/John_Ensign_fa4a.html" title="John Ensign">John Ensign</a> (Republican) 47.8%<br /><a href="../../../../articles/m/i/c/Michael_Cloud_60af.html" title="Michael Cloud">Michael Cloud</a> (Libertarian) 1.9%<br /><a href="../../../../articles/n/o/n/None_of_These_Candidates_33ba.html" title="None of These Candidates">None of These Candidates</a> 1.8%<br />Michael E. Williams (Natural Law) 0.6%</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td><b><a href="../../../../articles/j/u/d/Judd_Gregg_7879.html" title="Judd Gregg">Judd Gregg</a></b></td><td>Republican</td><td>Re-elected, 67.8%</td><td>George Condodemetraky (Democrat) 28.2%<br />Brian Christeson (Libertarian) 2.4%<br />Roy Kendel (Independent) 1.5%</td></tr><tr bgcolor="lightblue"><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td><a href="../../../../articles/a/l/_/Al_D%27Amato_1e11.html" title="Al D'Amato">Al D'Amato</a></td><td>Republican (Conservative) (Right To Life)</td><td>Defeated, 44.1%</td><td><b><a href="../../../../articles/c/h/u/Chuck_Schumer_2099.html" title="Chuck Schumer">Chuck Schumer</a></b> (Democrat) (Independence) (Liberal) 54.6%<br />Corinne E. Kurtz (Marijuana Reform) 0.7%<br /><a href="../../../../articles/j/o/e/Joel_Kovel_1997.html" title="Joel Kovel">Joel Kovel</a> (Green) 0.3%<br />William P. Mc Millen (Libertarian) 0.2%<br />Rose Ana Berbeo (Socialist Workers) 0.1%</td></tr><tr bgcolor="lightblue"><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td><a href="../../../../articles/l/a/u/Lauch_Faircloth_0aa6.html" title="Lauch Faircloth">Lauch Faircloth</a></td><td>Republican</td><td>Defeated, 47%</td><td><b><a href="../../../../articles/j/o/h/John_Edwards_8861.html" title="John Edwards">John Edwards</a></b> (Democrat) 51.2%<br />Barbara Howe (Libertarian) 1.8%</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td><b><a href="../../../../articles/b/y/r/Byron_Dorgan_1a90.html" title="Byron Dorgan">Byron Dorgan</a></b></td><td>Democratic</td><td>Re-elected, 63.1%</td><td><a href="../../../../articles/d/o/n/Donna_Nalewaja_8cba.html" title="Donna Nalewaja">Donna Nalewaja</a> (Republican) 35.2%<br />Harley McLain (Libertarian) 1.7%</td></tr><tr bgcolor="#FFB3B3"><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td bgcolor="lightgrey"><a href="../../../../articles/j/o/h/John_Glenn_1471.html" title="John Glenn">John Glenn</a></td><td>Democratic</td><td>Retired: Republican victory</td><td><b><a href="../../../../articles/g/e/o/George_Voinovich_fa41.html" title="George Voinovich">George Voinovich</a></b> (Republican) 56.5%<br /><a href="../../../../articles/m/a/r/Mary_Boyle_b00a.html" title="Mary Boyle">Mary Boyle</a> (Democrat) 43.5%</td></tr><tr><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td><b><a href="../../../../articles/d/o/n/Don_Nickles_36b0.html" title="Don Nickles">Don Nickles</a></b></td><td>Republican</td><td>Re-elected, 66.4%</td><td>Don Carroll (Democrat) 31.3%<br />Mike Morris (Independent) 1.8%<br />Argus W. Yandell, Jr. (Independent) 0.5%</td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td><b><a href="../../../../articles/r/o/n/Ron_Wyden_9e73.html" title="Ron Wyden">Ron Wyden</a></b></td><td>Democratic</td><td>Re-elected, 61%</td><td><a href="../../../../articles/j/o/h/John_Lim_0ce7.html" title="John Lim">John Lim</a> (Republican) 33.8%<br />Karen Moskowitz (Green) 2.0%<br />Jim Brewster (Libertarian) 1.6%<br />Michael A. Campbell (Natural Law) 0.8%<br />Dean M. Braa (Socialist) 0.7%</td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><b><a href="../../../../articles/a/r/l/Arlen_Specter_bb4f.html" title="Arlen Specter">Arlen Specter</a></b></td><td>Republican</td><td>Re-elected, 61.3%</td><td>Bill Lloyd (Democrat) 34.8%<br />Dean Snyder (Constitution) 2.3%<br />Jack Iannantuono (Libertarian) 1.6%</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td><b><a href="../../../../articles/f/r/i/Fritz_Hollings_d658.html" class="mw-redirect" title="Fritz Hollings">Fritz Hollings</a></b></td><td>Democratic</td><td>Re-elected, 52.7%</td><td><a href="../../../../articles/b/o/b/Bob_Inglis_6b2a.html" title="Bob Inglis">Bob Inglis</a> (Republican) 45.7%<br />Richard Quillian (Libertarian) 1.6%</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td><b><a href="../../../../articles/t/o/m/Tom_Daschle_5311.html" title="Tom Daschle">Tom Daschle</a></b></td><td>Democratic</td><td>Re-elected, 62.1%</td><td>Ron Schmidt (Republican) 36.4%<br />Byron Dale (Libertarian) 1.4%</td></tr><tr><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td><b><a href="../../../../articles/r/o/b/Robert_Foster_Bennett_cd55.html" title="Robert Foster Bennett">Robert Foster Bennett</a></b></td><td>Republican</td><td>Re-elected, 64%</td><td>Scott Leckman (Democrat) 33%<br />Gary R. Van Horn (Independent American) 3%</td></tr><tr><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td><b><a href="../../../../articles/p/a/t/Patrick_Leahy_1bee.html" title="Patrick Leahy">Patrick Leahy</a></b></td><td>Democratic</td><td>Re-elected, 72.2%</td><td><a href="../../../../articles/f/r/e/Fred_Tuttle_0574.html" title="Fred Tuttle">Fred Tuttle</a> (Republican) 22.5%<br />Hugh Douglas (Libertarian) 2.0%<br />Barry M. Nelson (Independent) 1.4%<br />Bob Melamede (Vermont Grassroots) 1.2%<br />Jerry Levy (Liberty Union) 0.6%</td></tr><tr><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td><b><a href="../../../../articles/p/a/t/Patty_Murray_bb1f.html" title="Patty Murray">Patty Murray</a></b></td><td>Democratic</td><td>Re-elected, 58.4%</td><td><a href="../../../../articles/l/i/n/Linda_Smith_%28politician%29_8f4b.html" title="Linda Smith (politician)">Linda Smith</a> (Republican) 41.6%</td></tr><tr><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td><b><a href="../../../../articles/r/u/s/Russ_Feingold_9a08.html" title="Russ Feingold">Russ Feingold</a></b></td><td>Democratic</td><td>Re-elected, 50.6%</td><td><a href="../../../../articles/m/a/r/Mark_Neumann_31f8.html" title="Mark Neumann">Mark Neumann</a> (Republican) 48.4%<br />Robert R. Raymond (U.S. Taxpayers) 0.5%<br />Tom Ender (Libertarian) 0.3%<br />Eugene A. Hem (Independent) 0.2%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

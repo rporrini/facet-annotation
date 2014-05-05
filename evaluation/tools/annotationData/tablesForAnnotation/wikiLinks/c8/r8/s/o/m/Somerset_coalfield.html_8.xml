@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r8/s/o/m/Somerset_coalfield.html_8.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.875 0 7, 0.8203125 1, 0.8203125 1 7, 0.4375 7, 0.16250001 2, 0.16250001 0 2, 0.15234375 1 2, 0.15 3, 0.15 0 3, 0.1421875 2 7, 0.140625 1 3, 0.1375 0 4, 0.13125001 3 7, 0.12890625 1 4, 0.125 6, 0.125 0 6, 0.120312504 4, 0.120312504 4 7, 0.1171875 1 6, 0.109375 6 7, 0.056250002 0 5, 0.052734375 1 5, 0.04921875 5, 0.04921875 5 7, 0.024375001 2 3, 0.022343753 2 4, 0.020625 3 4, 0.020312501 2 6, 0.01875 3 6, 0.0171875 4 6, 0.009140626 2 5, 0.0084375 3 5, 0.0077343755 4 5, 0.0070312503 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/m/Somerset_coalfield.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Colliery</th>]]></html>
+	<text>Colliery</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Grid Ref [A]</th>]]></html>
+	<text>Grid Ref [A]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opened</th>]]></html>
+	<text>Opened</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Closed</th>]]></html>
+	<text>Closed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shaft diameter ft in (m) [6]</th>]]></html>
+	<text>Shaft diameter ft in (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Max shaft depth ft (m) [6]</th>]]></html>
+	<text>Max shaft depth ft (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Braysdown</td>]]></html>
+	<text>Braysdown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peasedown St John</td>]]></html>
+	<text>Peasedown St John</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST704569</td>]]></html>
+	<text>ST704569</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1845 [21]</td>]]></html>
+	<text>1845 [21]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1959</td>]]></html>
+	<text>1959</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 (3)</td>]]></html>
+	<text>10 (3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1834 (559)</td>]]></html>
+	<text>1834 (559)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1896 owned by Danbeny and Scobel [9] 1908 Owned by Braysdown Colliery Co. [10]</td>]]></html>
+	<text>1896 owned by Danbeny and Scobel [9] 1908 Owned by Braysdown Colliery Co. [10]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Foxcote</td>]]></html>
+	<text>Foxcote</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Foxcote</td>]]></html>
+	<text>Foxcote</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST716556</td>]]></html>
+	<text>ST716556</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1853</td>]]></html>
+	<text>1853</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1931</td>]]></html>
+	<text>1931</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 (2.7)</td>]]></html>
+	<text>9 (2.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1416 (431.6)</td>]]></html>
+	<text>1416 (431.6)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1896 [9] owned by Writhlington, Huish and Foxcote Colliery Co.,</td>]]></html>
+	<text>1896 [9] owned by Writhlington, Huish and Foxcote Colliery Co.,</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Huish</td>]]></html>
+	<text>Huish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kilmersdon</td>]]></html>
+	<text>Kilmersdon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST706521</td>]]></html>
+	<text>ST706521</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1822</td>]]></html>
+	<text>1822</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912</td>]]></html>
+	<text>1912</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 (2.4)</td>]]></html>
+	<text>8 (2.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>570 (173.7)</td>]]></html>
+	<text>570 (173.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1896 [9] owned by Writhlington, Huish and Foxcote Colliery Co.,</td>]]></html>
+	<text>1896 [9] owned by Writhlington, Huish and Foxcote Colliery Co.,</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kilmersdon</td>]]></html>
+	<text>Kilmersdon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kilmersdon</td>]]></html>
+	<text>Kilmersdon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST696515</td>]]></html>
+	<text>ST696515</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1875</td>]]></html>
+	<text>1875</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1972 [22]</td>]]></html>
+	<text>1972 [22]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 6 (3.2)</td>]]></html>
+	<text>10 6 (3.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1582 (482.2)</td>]]></html>
+	<text>1582 (482.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1896 [9] &amp; 1908 [10] owned by Kilmersdon Colliery Co.</td>]]></html>
+	<text>1896 [9] &amp;amp;amp; 1908 [10] owned by Kilmersdon Colliery Co.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lower Writhlington</td>]]></html>
+	<text>Lower Writhlington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Writhlington</td>]]></html>
+	<text>Writhlington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST704551</td>]]></html>
+	<text>ST704551</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1829</td>]]></html>
+	<text>1829</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 (3)</td>]]></html>
+	<text>10 (3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1461 (445.3)</td>]]></html>
+	<text>1461 (445.3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shoscombe</td>]]></html>
+	<text>Shoscombe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shoscombe</td>]]></html>
+	<text>Shoscombe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST712564</td>]]></html>
+	<text>ST712564</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c1828</td>]]></html>
+	<text>c1828</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>by 1860</td>]]></html>
+	<text>by 1860</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 7 (3.2)</td>]]></html>
+	<text>10 7 (3.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>360 (109.7)</td>]]></html>
+	<text>360 (109.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Woodborough (also known as Wodborough Old Pit)</td>]]></html>
+	<text>Woodborough (also known as Wodborough Old Pit)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>east of Radstock</td>]]></html>
+	<text>east of Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST697564</td>]]></html>
+	<text>ST697564</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1840s</td>]]></html>
+	<text>1840s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 3 (1.6)</td>]]></html>
+	<text>5 3 (1.6)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>426 (129.8)</td>]]></html>
+	<text>426 (129.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Upper Writhligton</td>]]></html>
+	<text>Upper Writhligton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radstock</td>]]></html>
+	<text>Radstock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST699549</td>]]></html>
+	<text>ST699549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1805</td>]]></html>
+	<text>1805</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1972 [22]</td>]]></html>
+	<text>1972 [22]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 3 (3.4)</td>]]></html>
+	<text>11 3 (3.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>942 (287.1)</td>]]></html>
+	<text>942 (287.1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Somerset coalfield - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Colliery Location Grid Ref [A] Opened Closed Shaft diameter ft in (m) [6] Max shaft depth ft (m) [6] Notes</text>
+</context>
+<context>
+	<score>0.88043475</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.7881312</score>
+	<text>Somerset coalfield</text>
+</context>
+<context>
+	<score>0.78346497</score>
+	<text>The base of the Kilmersdon valley is of alluvium deposits. Above this on both sides of all of the valleys is a band of shales and clays from the Penarth Group. These rocks are from the Triassic period. The majority of the remaining upland in this area is Lias Limestone (white and blue) while the very highest part above 130m, south of Haydon, is a small outcrop of Inferior Oolitic Limestone. All these limestones are from the Jurassic period. The steepest slopes of both the Kilmersdon and Snail s Bottom valleys have frequently slipped. Below all of the area is the coal bearing Carboniferous strata. Haydon is an outlier of Radstock and was built to house the miners for the local pit. The disused railway line and inclined railway at Haydon form important elements within the Kilmersdon valley east of Haydon. The modern landscape has a less maintained and rougher character and texture than neighbouring agricultural areas. This is caused in the main by the remnants of the coal industry and its infrastructure and changes in agricultural management. The disturbance caused by coal mining and the railways and the subsequent ending of mining and disuse of the railways has created valuable habitats of nature conservation interest.</text>
+</context>
+<context>
+	<score>0.7520924</score>
+	<text>[ edit ] Norton Hill Collieries</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Geology</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Pensford coal basin</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Earl of Warwick&apos;s Clutton Collieries</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Paulton basin</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Timsbury and Camerton</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] East of Camerton</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Farrington Gurney</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Norton Hill Collieries</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Nettlebridge Valley</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Output</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Decline and closure</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Area today</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.71220237</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7105555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70588917</score>
+	<text>- see Writhlington SSSI .</text>
+</context>
+<context>
+	<score>0.6438286</score>
+	<text>The spoil heap is a now a Site of Special Scientific Interest (SSSI) because of the rich collection of fossils in the spoil heap</text>
+</context>
+<context>
+	<score>0.6052957</score>
+	<text>The Norton Hill collieries at Midsomer Norton were owned by the Beauchamp family who owned many of the other collieries and related works on the Somerset coalfield at various times. They were also known as the Beauchamp goldmines as they were the most productive mines in the whole coalfield.</text>
+</context>
+<context>
+	<score>0.5925332</score>
+	<text>this had been changed to Writhlington Collieries Co. Ltd. The Upper and Lower Writhlington, Huish &amp; Foxcote were all merged into one colliery.</text>
+</context>
+<context>
+	<score>0.55281436</score>
+	<text>they were owned by Writhlington, Huish and Foxcote Colliery Co., and by 1908</text>
+</context>
+<context>
+	<score>0.5210393</score>
+	<text>In 1896</text>
+</context>
+<context>
+	<score>0.5189447</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.4956193</score>
+	<text>Although these collieries were close to the Waldegrave collieries, they were further east of Radstock and under different ownership.</text>
+</context>
+<context>
+	<score>0.47693017</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.46814993</score>
+	<text>[ edit ] Nettlebridge Valley</text>
+</context>
+<context>
+	<score>0.46066135</score>
+	<text>[ edit ] The pits</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Colliery</th><th>Location</th><th>Grid Ref<span class="reference"><sup id="ref_Grid_referenceA"><a href="#endnote_Grid_referenceA" title="">[A]</a></sup></span></th><th>Opened</th><th>Closed</th><th>Shaft diameter<br />ft in (m)<sup id="cite_ref-down_5-22" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Max shaft depth<br />ft (m)<sup id="cite_ref-down_5-23" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Notes</th></tr><tr><td>Braysdown</td><td><a href="../../../../articles/p/e/a/Peasedown_St_John_985c.html" title="Peasedown St John">Peasedown St John</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST704569_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST704569_region:GB_scale:25000" rel="nofollow">ST704569</a></td><td>1845<sup id="cite_ref-20" class="reference"><a href="#cite_note-20" title="">[21]</a></sup></td><td>1959</td><td>10 (3)</td><td>1834 (559)</td><td>1896 owned by Danbeny and Scobel <sup id="cite_ref-peak_8-9" class="reference"><a href="#cite_note-peak-8" title="">[9]</a></sup> 1908 Owned by Braysdown Colliery Co.<sup id="cite_ref-cmrc_9-9" class="reference"><a href="#cite_note-cmrc-9" title="">[10]</a></sup></td></tr><tr><td>Foxcote</td><td><a href="../../../../articles/f/o/x/Foxcote%2C_Somerset_25b3.html" title="Foxcote, Somerset">Foxcote</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST716556_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST716556_region:GB_scale:25000" rel="nofollow">ST716556</a></td><td>1853</td><td>1931</td><td>9 (2.7)</td><td>1416 (431.6)</td><td>1896<sup id="cite_ref-peak_8-10" class="reference"><a href="#cite_note-peak-8" title="">[9]</a></sup> owned by Writhlington, Huish and Foxcote Colliery Co.,</td></tr><tr><td>Huish</td><td><a href="../../../../articles/k/i/l/Kilmersdon.html" title="Kilmersdon">Kilmersdon</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST706521_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST706521_region:GB_scale:25000" rel="nofollow">ST706521</a></td><td>1822</td><td>1912</td><td>8 (2.4)</td><td>570 (173.7)</td><td>1896<sup id="cite_ref-peak_8-11" class="reference"><a href="#cite_note-peak-8" title="">[9]</a></sup> owned by Writhlington, Huish and Foxcote Colliery Co.,</td></tr><tr><td>Kilmersdon</td><td><a href="../../../../articles/k/i/l/Kilmersdon.html" title="Kilmersdon">Kilmersdon</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST696515_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST696515_region:GB_scale:25000" rel="nofollow">ST696515</a></td><td>1875</td><td>1972<sup id="cite_ref-eh_21-0" class="reference"><a href="#cite_note-eh-21" title="">[22]</a></sup></td><td>10 6 (3.2)</td><td>1582 (482.2)</td><td>1896<sup id="cite_ref-peak_8-12" class="reference"><a href="#cite_note-peak-8" title="">[9]</a></sup> &amp; 1908<sup id="cite_ref-cmrc_9-10" class="reference"><a href="#cite_note-cmrc-9" title="">[10]</a></sup> owned by Kilmersdon Colliery Co.</td></tr><tr><td>Lower Writhlington</td><td><a href="../../../../articles/w/r/i/Writhlington.html" title="Writhlington">Writhlington</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST704551_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST704551_region:GB_scale:25000" rel="nofollow">ST704551</a></td><td>1829</td><td></td><td>10 (3)</td><td>1461 (445.3)</td><td></td></tr><tr><td>Shoscombe</td><td><a href="../../../../articles/s/h/o/Shoscombe.html" title="Shoscombe">Shoscombe</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST712564_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST712564_region:GB_scale:25000" rel="nofollow">ST712564</a></td><td>c1828</td><td>by 1860</td><td>10 7 (3.2)</td><td>360 (109.7)</td><td></td></tr><tr><td>Woodborough (also known as Wodborough Old Pit)</td><td>east of <a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST697564_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST697564_region:GB_scale:25000" rel="nofollow">ST697564</a></td><td>&#160;?</td><td>1840s</td><td>5 3 (1.6)</td><td>426 (129.8)</td><td></td></tr><tr><td>Upper Writhligton</td><td><a href="../../../../articles/r/a/d/Radstock.html" title="Radstock">Radstock</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST699549_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST699549_region:GB_scale:25000" rel="nofollow">ST699549</a></td><td>1805</td><td>1972<sup id="cite_ref-eh_21-1" class="reference"><a href="#cite_note-eh-21" title="">[22]</a></sup></td><td>11 3 (3.4)</td><td>942 (287.1)</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r9/m/o/o/Moon_landing.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 2, 0.8333333 0 4, 0.75 5, 0.75 0 5, 0.6875 2 5, 0.625 4 5, 0.25462964 2 4, 0.20370372 2, 0.18518518 4, 0.13333334 3, 0.13333334 0 3, 0.12222224 2 3, 0.11666667 0 1, 0.11111111 3 4, 0.10000001 3 5, 0.0875 1 5, 0.07777778 1, 0.07561728 1 4, 0.071296304 1 2, 0.015555556 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/o/Moon_landing.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>U.S.S.R Mission</th>]]></html>
+	<text>U.S.S.R Mission</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mass (kg)</th>]]></html>
+	<text>Mass (kg)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Booster</th>]]></html>
+	<text>Booster</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launched</th>]]></html>
+	<text>Launched</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mission Goal</th>]]></html>
+	<text>Mission Goal</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mission Result</th>]]></html>
+	<text>Mission Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cosmos - 111</td>]]></html>
+	<text>Cosmos - 111</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>01 Mar 1966</td>]]></html>
+	<text>01 Mar 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Failure - stranded in low Earth orbit</td>]]></html>
+	<text>Failure - stranded in low Earth orbit</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-10</td>]]></html>
+	<text>Luna-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1582</td>]]></html>
+	<text>1582</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31 Mar 1966</td>]]></html>
+	<text>31 Mar 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 2738 km x 2088 km x 72 deg orbit, 178 m period, 60 day science mission</td>]]></html>
+	<text>Success - 2738 km x 2088 km x 72 deg orbit, 178 m period, 60 day science mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-11</td>]]></html>
+	<text>Luna-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1640</td>]]></html>
+	<text>1640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Aug 1966</td>]]></html>
+	<text>24 Aug 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 2931 km x 1898 km x 27 deg orbit, 178 m period, 38 day science mission</td>]]></html>
+	<text>Success - 2931 km x 1898 km x 27 deg orbit, 178 m period, 38 day science mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-12</td>]]></html>
+	<text>Luna-12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1620</td>]]></html>
+	<text>1620</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22 Oct 1966</td>]]></html>
+	<text>22 Oct 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 2938 km x 1871 km x 10 deg orbit, 205 m period, 89 day science mission</td>]]></html>
+	<text>Success - 2938 km x 1871 km x 10 deg orbit, 205 m period, 89 day science mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cosmos-159</td>]]></html>
+	<text>Cosmos-159</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1700</td>]]></html>
+	<text>1700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 May 1967</td>]]></html>
+	<text>17 May 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prototype test</td>]]></html>
+	<text>Prototype test</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - high Earth orbit manned landing communications gear radio calibration test</td>]]></html>
+	<text>Success - high Earth orbit manned landing communications gear radio calibration test</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>07 Feb 1968</td>]]></html>
+	<text>07 Feb 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Failure - booster malfunction, failed to reach Earth orbit - attempted radio calibration test?</td>]]></html>
+	<text>Failure - booster malfunction, failed to reach Earth orbit - attempted radio calibration test?</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-14</td>]]></html>
+	<text>Luna-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1700</td>]]></html>
+	<text>1700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molniya-M</td>]]></html>
+	<text>Molniya-M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>07 Apr 1968</td>]]></html>
+	<text>07 Apr 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 870 km x 160 km x 42 deg orbit, 160 m period, unstable orbit, radio calibration test?</td>]]></html>
+	<text>Success - 870 km x 160 km x 42 deg orbit, 160 m period, unstable orbit, radio calibration test?</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-19</td>]]></html>
+	<text>Luna-19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5700</td>]]></html>
+	<text>5700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proton</td>]]></html>
+	<text>Proton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28 Sep 1971</td>]]></html>
+	<text>28 Sep 1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 140 km x 140 km x 41 deg orbit, 121 m period, 388 day science mission</td>]]></html>
+	<text>Success - 140 km x 140 km x 41 deg orbit, 121 m period, 388 day science mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luna-22</td>]]></html>
+	<text>Luna-22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5700</td>]]></html>
+	<text>5700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proton</td>]]></html>
+	<text>Proton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 May 1974</td>]]></html>
+	<text>29 May 1974</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 222 km x 219 km x 19 deg orbit, 130 m period, 521 day science mission</td>]]></html>
+	<text>Success - 222 km x 219 km x 19 deg orbit, 130 m period, 521 day science mission</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Moon landing - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>U.S.S.R Mission Mass (kg) Booster Launched Mission Goal Mission Result</text>
+</context>
+<context>
+	<score>0.88033396</score>
+	<text>[ edit ] Soviet lunar orbit satellites (1966-1974)</text>
+</context>
+<context>
+	<score>0.78939396</score>
+	<text>Moon landing</text>
+</context>
+<context>
+	<score>0.7833643</score>
+	<text>In contrast, manned vehicles need additional fuel after a lunar landing to enable a return trip back to Earth for the crew. Leaving this massive amount of required Earth-return fuel in lunar orbit until it is actually used later in the mission is far more efficient than taking such fuel down to the lunar surface in a Moon landing and then hauling it all back into space yet again, working against lunar gravity both ways. Such considerations lead logically to a lunar orbit rendezvous mission profile for a manned Moon landing. Accordingly, beginning in mid-1966 both the U.S. and U.S.S.R. naturally progressed into missions which featured lunar orbit operations as a necessary prerequisite to a manned Moon landing.</text>
+</context>
+<context>
+	<score>0.7519917</score>
+	<text>Luna 10 became the first spacecraft to orbit the Moon on April 3 , 1966 .</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Scientific background</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Political background</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S. unmanned hard landings (1958-1965)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S.S.R. unmanned hard landings (1958-1966)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] American unmanned soft landings (1966-1968)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Transition From Direct Ascent Landings To Lunar Orbit Operations (1966)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet lunar orbit satellites (1966-1974)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet Circumlunar Loop Flights (1967-1970)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S. lunar orbit satellites (1966-1967)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] American manned Moon landings (1969-1972)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet unmanned soft landings (1969-1976)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Future plans</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Moon landing hoax accusations</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7057885</score>
+	<text>Advances in other areas were necessary before manned spacecraft could follow unmanned ones to the surface of the Moon. Of particular importance was developing the expertise to perform flight operations in lunar orbit. Ranger, Surveyor and initial Luna moon landing attempts all utilized flight paths from Earth that traveled directly to the lunar surface without first placing the spacecraft in a lunar orbit. Such direct ascents use a minimum amount of fuel for unmanned spacecraft on a one-way trip.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>However, the Luna 9 hard landing of a ruggedized sphere using airbags at a 30 mile-per-hour ballistic impact speed had much more in common with the failed 1962 Ranger landing attempts and their planned 100 mile-per-hour impacts than with the Surveyor 1 soft landing on three footpads using its radar-controlled, adjustable-thrust retrorocket. While Luna 9 and Surveyor 1 were both major national accomplishments, only Surveyor 1 had reached its landing site employing key technologies that would be needed for a crewed flight. Thus as of mid-1966, the United States had begun to pull ahead of the Soviet Union in the so-called Space Race to land a man on the Moon.</text>
+</context>
+<context>
+	<score>0.605195</score>
+	<text>[ edit ] Soviet Circumlunar Loop Flights (1967-1970)</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Within four months of each other in early 1966 the Soviet Union and the United States had accomplished successful moon landings with unmanned spacecraft. To the general public both countries had demonstrated roughly equal technical capabilities by returning photographic images from the surface of the Moon. These pictures provided a key affirmative answer to the crucial question of whether or not lunar soil would support upcoming manned landers with their much greater weight.</text>
+</context>
+<context>
+	<score>0.5543606</score>
+	<text>[ edit ] Transition From Direct Ascent Landings To Lunar Orbit Operations (1966)</text>
+</context>
+<context>
+	<score>0.5225856</score>
+	<text>The American robotic Surveyor program was part of an effort to locate a safe site on the Moon for a human landing and test under actual lunar conditions the radar and landing systems required to make a true controlled touchdown. Five of Surveyor&apos;s seven missions made successful unmanned moon landings.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Zond 5 was the first spacecraft to carry life from Earth to the vicinity of the Moon. Believing a Soviet manned lunar flight was imminent in late 1968, NASA changed the flight plan of Apollo 8 from an Earth-orbit mission to a risky lunar orbit mission.</text>
+</context>
+<context>
+	<score>0.49716556</score>
+	<text>[ edit ] American unmanned soft landings (1966-1968)</text>
+</context>
+<context>
+	<score>0.47682953</score>
+	<text>The Luna 9 spacecraft, launched by the Soviet Union , performed the first successful Moon landing on February 3 , 1966 using the &quot;hard landing&quot; technique. Airbags protected its 200 pound ejectable capsule which survived an impact speed of over 30 miles per hour the speed of many automobile accidents causing fatalities on Earth. Luna 13 duplicated this feat with a similar moon landing on December 24 , 1966 . Both returned panoramic photographs that were the first views from the lunar surface.</text>
+</context>
+<context>
+	<score>0.46804932</score>
+	<text>[ edit ] U.S. lunar orbit satellites (1966-1967)</text>
+</context>
+<context>
+	<score>0.46056074</score>
+	<text>Photograph showing both craters and moon rocks , taken on the lunar surface by Luna 9 after the first successful Moon landing</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"><tr><th align="left">U.S.S.R Mission</th><th align="center">Mass (kg)</th><th align="center">Booster</th><th align="center">Launched</th><th align="center">Mission Goal</th><th align="center">Mission Result</th></tr><tr><td>Cosmos - 111</td><td></td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>01 Mar 1966</td><td>Lunar orbiter</td><td>Failure - stranded in low Earth orbit</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_10.html" title="Luna 10">Luna-10</a></td><td>1582</td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>31 Mar 1966</td><td>Lunar orbiter</td><td>Success - 2738 km x 2088 km x 72 deg orbit, 178 m period, 60 day science mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_11.html" title="Luna 11">Luna-11</a></td><td>1640</td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>24 Aug 1966</td><td>Lunar orbiter</td><td>Success - 2931 km x 1898 km x 27 deg orbit, 178 m period, 38 day science mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_12.html" title="Luna 12">Luna-12</a></td><td>1620</td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>22 Oct 1966</td><td>Lunar orbiter</td><td>Success - 2938 km x 1871 km x 10 deg orbit, 205 m period, 89 day science mission</td></tr><tr><td>Cosmos-159</td><td>1700</td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>17 May 1967</td><td>Prototype test</td><td>Success - high Earth orbit manned landing communications gear radio calibration test</td></tr><tr><td></td><td></td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>07 Feb 1968</td><td>Lunar orbiter</td><td>Failure - booster malfunction, failed to reach Earth orbit - attempted radio calibration test?</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_14.html" title="Luna 14">Luna-14</a></td><td>1700</td><td><a href="../../../../articles/m/o/l/Molniya-M_c911.html" title="Molniya-M">Molniya-M</a></td><td>07 Apr 1968</td><td>Lunar orbiter</td><td>Success - 870 km x 160 km x 42 deg orbit, 160 m period, unstable orbit, radio calibration test?</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_19.html" title="Luna 19">Luna-19</a></td><td>5700</td><td><a href="../../../../articles/p/r/o/Proton_rocket.html" title="Proton rocket">Proton</a></td><td>28 Sep 1971</td><td>Lunar orbiter</td><td>Success - 140 km x 140 km x 41 deg orbit, 121 m period, 388 day science mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Luna_22.html" title="Luna 22">Luna-22</a></td><td>5700</td><td><a href="../../../../articles/p/r/o/Proton_rocket.html" title="Proton rocket">Proton</a></td><td>29 May 1974</td><td>Lunar orbiter</td><td>Success - 222 km x 219 km x 19 deg orbit, 130 m period, 521 day science mission</td></tr></table>]]>
+</htmlSnippet>
+</entity>

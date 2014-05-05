@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/w/e/s/Western_Thrace_ad1c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 2, 0.175 0 2, 0.15 3, 0.15 0 3, 0.0625 0 1, 0.02625 2 3, 0.0125 1, 0.0109375 1 2, 0.009375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/w/e/s/Western_Thrace_ad1c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Greek</th>]]></html>
+	<text>Greek</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population ( 2001 )</th>]]></html>
+	<text>Population ( 2001 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Municipal Population ( 2001 )</th>]]></html>
+	<text>Municipal Population ( 2001 )</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alexandroupoli</td>]]></html>
+	<text>Alexandroupoli</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Αλεξανδρούπολη</td>]]></html>
+	<text>&#913;&#955;&#949;&#958;&#945;&#957;&#948;&#961;&#959;&#973;&#960;&#959;&#955;&#951;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48.885</td>]]></html>
+	<text>48.885</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.720</td>]]></html>
+	<text>52.720</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Komotini</td>]]></html>
+	<text>Komotini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Κομοτηνή</td>]]></html>
+	<text>&#922;&#959;&#956;&#959;&#964;&#951;&#957;&#942;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.326</td>]]></html>
+	<text>43.326</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.659</td>]]></html>
+	<text>52.659</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Xanthi</td>]]></html>
+	<text>Xanthi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ξάνθη</td>]]></html>
+	<text>&#926;&#940;&#957;&#952;&#951;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.111</td>]]></html>
+	<text>45.111</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.270</td>]]></html>
+	<text>52.270</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Orestiada</td>]]></html>
+	<text>Orestiada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ορεστιάδα</td>]]></html>
+	<text>&#927;&#961;&#949;&#963;&#964;&#953;&#940;&#948;&#945;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.246</td>]]></html>
+	<text>15.246</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.730</td>]]></html>
+	<text>21.730</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Didymoteicho</td>]]></html>
+	<text>Didymoteicho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Διδυμότειχο</td>]]></html>
+	<text>&#916;&#953;&#948;&#965;&#956;&#972;&#964;&#949;&#953;&#967;&#959;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.799</td>]]></html>
+	<text>8.799</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.998</td>]]></html>
+	<text>18.998</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Western Thrace - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Greek Population ( 2001 ) Municipal Population ( 2001 )</text>
+</context>
+<context>
+	<score>0.87878674</score>
+	<text>Largest Thracian towns and cities</text>
+</context>
+<context>
+	<score>0.7955903</score>
+	<text>Western Thrace</text>
+</context>
+<context>
+	<score>0.78181607</score>
+	<text>Church of Panagia Eleftherotria in Didymoteicho</text>
+</context>
+<context>
+	<score>0.7556679</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] Area - Demographics</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] Politics</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] Miscellaneous</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7232385</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71801376</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70946425</score>
+	<text>The approximate area of Thrace is 8,578 km with a population of 368,993 (2006 est.). Around two-thirds of the population are Orthodox Christian Greeks , while the remainder (approx. 120,000) are Muslims who are an officially recognised minority of Greece. Around half are of Turkish origin, while another third are Bulgarian Muslim, or Pomaks who mainly inhabit the mountainous parts of the region. The Roma of Thrace are also mainly Muslim, unlike their ethnic kin in other parts of the country who generally profess the Orthodox faith of the Greek majority. Since 1990 and the end of the cold war Thrace (along with the rest of Greece) has seen an influx of both legal and illegal economic immigrants (most of them being Albanians ) seeking work mainly in the urban areas of the region. Thrace is bordered by Bulgaria to the north, Turkey to the east, the Aegean Sea to the south and the Greek region of Macedonia to the west. Alexandroupoli is the largest city, with a population of around 52,720 (2001 census).</text>
+</context>
+<context>
+	<score>0.647403</score>
+	<text>[ edit ] Area - Demographics</text>
+</context>
+<context>
+	<score>0.6036451</score>
+	<text>The clock tower in the central square of Xanthi</text>
+</context>
+<context>
+	<score>0.59252936</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.55803496</score>
+	<text>) is a geographic and historical region of Greece , located between the Nestos and Evros rivers in the northeast of the country. Together with the regions of Macedonia and Epirus , it is often referred to informally as northern Greece . It is also called Western or Greek Thrace to distinguish it from Eastern Thrace , which lies east of the river Evros and forms the European part of Turkey , and the area to the north, in Bulgaria , known as Northern Thrace . Thrace is divided into the three prefectures of Xanthi , Rodhopi and Evros , which together with the two Macedonian prefectures of Drama and Kavala form the Periphery of East Macedonia and Thrace . Furthermore, the prefectural authorities of Drama, Kavala and Xanthi have been combined into a single administrative unit in recent years, as have those of Rodhopi and Evros.</text>
+</context>
+<context>
+	<score>0.5172933</score>
+	<text>Komotini&apos;s Clock Tower</text>
+</context>
+<context>
+	<score>0.49561462</score>
+	<text>, IPA :</text>
+</context>
+<context>
+	<score>0.47527838</score>
+	<text>Thr k</text>
+</context>
+<context>
+	<score>0.4717228</score>
+	<text>The region had been under the rule of the Ottoman Empire since 14th century and till the 19th century . Before the Balkan Wars of 1912-1913, Thrace had a mixed population of Turks and Bulgarians , with a strong Greek element in the cities and the Aegean Sea littoral . A smaller number of Pomaks , Jews , Armenians and Roma also lived in the region.</text>
+</context>
+<context>
+	<score>0.4642341</score>
+	<text>Thrace ( Greek :</text>
+</context>
+<context>
+	<score>0.45976847</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable sortable"><tr class="hintergrundfarbe8"><th>City</th><th>Greek</th><th>Population<br /><small>(<a href="http://www.statistics.gr/Main_eng.asp" class="external text" title="http://www.statistics.gr/Main_eng.asp" rel="nofollow">2001</a>)</small></th><th>Municipal Population<br /><small>(<a href="http://www.statistics.gr/Main_eng.asp" class="external text" title="http://www.statistics.gr/Main_eng.asp" rel="nofollow">2001</a>)</small></th></tr><tr><td><a href="../../../../articles/a/l/e/Alexandroupoli.html" title="Alexandroupoli">Alexandroupoli</a></td><td>Αλεξανδρούπολη</td><td align="right">48.885</td><td align="right">52.720</td></tr><tr><td><a href="../../../../articles/k/o/m/Komotini.html" title="Komotini">Komotini</a></td><td>Κομοτηνή</td><td align="right">43.326</td><td align="right">52.659</td></tr><tr><td><a href="../../../../articles/x/a/n/Xanthi.html" title="Xanthi">Xanthi</a></td><td>Ξάνθη</td><td align="right">45.111</td><td align="right">52.270</td></tr><tr><td><a href="../../../../articles/o/r/e/Orestiada.html" title="Orestiada">Orestiada</a></td><td>Ορεστιάδα</td><td align="right">15.246</td><td align="right">21.730</td></tr><tr><td><a href="../../../../articles/d/i/d/Didymoteicho.html" title="Didymoteicho">Didymoteicho</a></td><td>Διδυμότειχο</td><td align="right">8.799</td><td align="right">18.998</td></tr></table>]]>
+</htmlSnippet>
+</entity>

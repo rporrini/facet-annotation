@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/a/f/r/African_Americans_in_the_United_States_Congress_ebb2.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.52500004 1, 0.52500004 1 2, 0.3 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/f/r/African_Americans_in_the_United_States_Congress_ebb2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Delegate</th>]]></html>
+	<text>Delegate</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Term</th>]]></html>
+	<text>Term</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Walter E. Fauntroy</td>]]></html>
+	<text>Walter E. Fauntroy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District of Columbia</td>]]></html>
+	<text>District of Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1971-1991</td>]]></html>
+	<text>1971-1991</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Melvin H. Evans</td>]]></html>
+	<text>Melvin H. Evans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virgin Islands</td>]]></html>
+	<text>Virgin Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1979-1981</td>]]></html>
+	<text>1979-1981</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eleanor Holmes Norton</td>]]></html>
+	<text>Eleanor Holmes Norton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District of Columbia</td>]]></html>
+	<text>District of Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991-present</td>]]></html>
+	<text>1991-present</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Victor O. Frazer</td>]]></html>
+	<text>Victor O. Frazer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Independent</td>]]></html>
+	<text>Independent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virgin Islands</td>]]></html>
+	<text>Virgin Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1995-1997</td>]]></html>
+	<text>1995-1997</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Donna Christian-Christensen</td>]]></html>
+	<text>Donna Christian-Christensen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virgin Islands</td>]]></html>
+	<text>Virgin Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997-present</td>]]></html>
+	<text>1997-present</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>African Americans in the United States Congress - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Delegate Party State Term</text>
+</context>
+<context>
+	<score>0.88162196</score>
+	<text>[ edit ] Non-voting members</text>
+</context>
+<context>
+	<score>0.79545456</score>
+	<text>African Americans in the United States Congress</text>
+</context>
+<context>
+	<score>0.7845869</score>
+	<text>[ edit ] In the modern era</text>
+</context>
+<context>
+	<score>0.7531933</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] History of African American representation</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] The modern era</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] List of African Americans in the United States Congress</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72074234</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7178266</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70695895</score>
+	<text>[ edit ] In the Reconstruction era</text>
+</context>
+<context>
+	<score>0.6448565</score>
+	<text>[ edit ] United States House of Representatives</text>
+</context>
+<context>
+	<score>0.5951746</score>
+	<text>[ edit ] In the modern era</text>
+</context>
+<context>
+	<score>0.55542904</score>
+	<text>[ edit ] In the Reconstruction era</text>
+</context>
+<context>
+	<score>0.5236326</score>
+	<text>[ edit ] United States Senate</text>
+</context>
+<context>
+	<score>0.5198885</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.49819547</score>
+	<text>[ edit ] List of African Americans in the United States Congress</text>
+</context>
+<context>
+	<score>0.47784576</score>
+	<text>Since the 1940s, when decades of the Great Migration resulted in millions of African Americans having migrated from the South, no state has had a majority of African-American residents. Because of this, an African-American candidate cannot rely on the black vote alone to be elected to the Senate. This means the candidate must reach out to other races and groups to become elected to the United States Senate and to many congressional seats. Despite this issue, three African Americans have been elected to the Senate since the 1940s: Edward W. Brooke , a liberal Republican from Massachusetts ; and Carol Moseley Braun and Barack Obama , both Democrats from Illinois .</text>
+</context>
+<context>
+	<score>0.46905962</score>
+	<text>^ John W. Menard was elected to fill an unexpired term, but was never seated in Congress due to a challenge of his election</text>
+</context>
+<context>
+	<score>0.46156597</score>
+	<text>Following the 1990 census , the districts needed to be redrawn due to the population shifts of the country. However, there were various court decisions to have districts created with the intent of creating some where the majority of the population were African Americans. In order to comply with the courts, the districts were redrawn by a process called gerrymandering . Gerrymandering is when the districts are drawn, the end results an oddly shaped map to encompass a particular group. In this case, grotesquely shaped districts were created to link widely separated black communities. Due to this method, several black members of the House were elected from Alabama , Florida , rural Georgia , rural Louisiana , North Carolina , South Carolina and Virginia for the first time since Reconstruction. Additional black majority districts were also created in this way in California , Maryland and Texas , thus increasing the number of black-majority districts. The process was supported by both parties. The Democrats saw it as a way to connect to their black voters easily, which historically voted for the Democrats. The Republicans saw it as a way to win seats more easily, since many of the Democratic voters were moved from their districts. By the year 2000, this resulted in the Republicans holding a majority of white-majority House districts. However, this made the Democratic Party more clearly &quot;black&quot; in Southern states, thus further alienating white voters from the Democratic Party.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>Delegate</th><th>Party</th><th>State</th><th>Term</th></tr><tr><td><a href="../../../../articles/w/a/l/Walter_E._Fauntroy_1811.html" title="Walter E. Fauntroy">Walter E. Fauntroy</a></td><td>Democrat</td><td>District of Columbia</td><td>1971-1991</td></tr><tr><td><a href="../../../../articles/m/e/l/Melvin_H._Evans_cb83.html" title="Melvin H. Evans">Melvin H. Evans</a></td><td>Republican</td><td>Virgin Islands</td><td>1979-1981</td></tr><tr><td><a href="../../../../articles/e/l/e/Eleanor_Holmes_Norton_28c7.html" title="Eleanor Holmes Norton">Eleanor Holmes Norton</a></td><td>Democrat</td><td>District of Columbia</td><td>1991-present</td></tr><tr><td><a href="../../../../articles/v/i/c/Victor_O._Frazer_304b.html" title="Victor O. Frazer">Victor O. Frazer</a></td><td>Independent</td><td>Virgin Islands</td><td>1995-1997</td></tr><tr><td><a href="../../../../articles/d/o/n/Donna_Christian-Christensen_8a17.html" title="Donna Christian-Christensen">Donna Christian-Christensen</a></td><td>Democrat</td><td>Virgin Islands</td><td>1997-present</td></tr></table>]]>
+</htmlSnippet>
+</entity>

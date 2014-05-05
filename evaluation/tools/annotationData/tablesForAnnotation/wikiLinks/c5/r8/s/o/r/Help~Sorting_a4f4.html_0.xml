@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r8/s/o/r/Help~Sorting_a4f4.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 0 2, 0.71999997 1 2, 0.7 2, 0.7 3, 0.7 0 3, 0.67499995 1, 0.63 1 3, 0.6 0 4, 0.56 2 3, 0.54 1 4, 0.52500004 4, 0.48000002 2 4, 0.42000002 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/r/Help~Sorting_a4f4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>January (Low)</th>]]></html>
+	<text>January (Low)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>January (High)</th>]]></html>
+	<text>January (High)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>July (Low)</th>]]></html>
+	<text>July (Low)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>July (High)</th>]]></html>
+	<text>July (High)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amman</td>]]></html>
+	<text>Amman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4°C sm=n</td>]]></html>
+	<text>4&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12°C sm=n</td>]]></html>
+	<text>12&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18°C sm=n</td>]]></html>
+	<text>18&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32°C sm=n</td>]]></html>
+	<text>32&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Baghdad</td>]]></html>
+	<text>Baghdad</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0°C sm=n</td>]]></html>
+	<text>0&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16°C sm=n</td>]]></html>
+	<text>16&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24°C sm=n</td>]]></html>
+	<text>24&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43°C sm=n</td>]]></html>
+	<text>43&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cairo</td>]]></html>
+	<text>Cairo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8°C sm=n</td>]]></html>
+	<text>8&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18°C sm=n</td>]]></html>
+	<text>18&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21°C sm=n</td>]]></html>
+	<text>21&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°C sm=n</td>]]></html>
+	<text>36&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Damascus</td>]]></html>
+	<text>Damascus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0°C sm=n</td>]]></html>
+	<text>0&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12°C sm=n</td>]]></html>
+	<text>12&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16°C sm=n</td>]]></html>
+	<text>16&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°C sm=n</td>]]></html>
+	<text>36&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dubai</td>]]></html>
+	<text>Dubai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15°C sm=n</td>]]></html>
+	<text>15&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23°C sm=n</td>]]></html>
+	<text>23&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30°C sm=n</td>]]></html>
+	<text>30&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39°C sm=n</td>]]></html>
+	<text>39&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jerusalem</td>]]></html>
+	<text>Jerusalem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5°C sm=n</td>]]></html>
+	<text>5&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13°C sm=n</td>]]></html>
+	<text>13&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17°C sm=n</td>]]></html>
+	<text>17&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31°C sm=n</td>]]></html>
+	<text>31&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Riyadh</td>]]></html>
+	<text>Riyadh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8°C sm=n</td>]]></html>
+	<text>8&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21°C sm=n</td>]]></html>
+	<text>21&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26°C sm=n</td>]]></html>
+	<text>26&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42°C sm=n</td>]]></html>
+	<text>42&#176;C sm=n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-3°C sm=n</td>]]></html>
+	<text>-3&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7°C sm=n</td>]]></html>
+	<text>7&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22°C sm=n</td>]]></html>
+	<text>22&#176;C sm=n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°C sm=n</td>]]></html>
+	<text>37&#176;C sm=n</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Help:Sorting - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City January (Low) January (High) July (Low) July (High)</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>, using smn to specify numeric sort mode:</text>
+</context>
+<context>
+	<score>0.78939396</score>
+	<text>Help:Sorting</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Additional features</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Javascript</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Sort modes</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Examples</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Additional features</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Sorting with hidden sortkey</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Alphabetic sorting with hidden sortkey</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Dates</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Secondary sortkey</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Limitations</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Controlling sorting and display</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Static column</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Sorting the wikitext of a table</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Alphabetic sorting order</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Browser issues</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>See also</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Wikipedia-specific help</text>
+</context>
+<context>
+	<score>0.70857143</score>
+	<text>Sortable version of Template:Climate in Middle East cities</text>
+</context>
+<context>
+	<score>0.69697005</score>
+	<text>Instead of &quot;display=none&quot; another way is using a font color equal to the background, e.g. &lt;font color=&quot;#f9f9f9&quot;&gt;999&lt;/font&gt; gives &quot; 999 &quot;. With this method the hidden code can be seen in selected text (e.g. with the mouse). Also the hidden text is included when copying the rendered text. The first may be an advantage or a disadvantage, the second seems only a disadvantage. A complication is also that if a user uses a background color different from the default, the specified text color may not match it; to make sure they are the same the background color can be specified also.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>The fourth example shows again that &quot;ca. 12&quot; sorts at 0, as opposed to 12 with some text after it, which sorts at 12. In the latter case an invisible &quot;sm=n&quot; needs to be put at the end, in case such an element arrives at the top of a column, which would otherwise cause alphabetic sorting mode.</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Excluding the last row from sorting</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>The third example shows that a percentage is accepted for numeric sorting mode, but ignored in the actual sorting, so if a column contains percentages, all numbers have to be written as a percentage.</text>
+</context>
+<context>
+	<score>0.57056314</score>
+	<text>{|class=&quot;wikitable sortable&quot; !Name!!Surname!!Height |- |John||Smith||1.85 |- |Ron||Ray||1.89 |- |Mario||Bianchi||1.72 |- class=&quot;sortbottom&quot; |||Average:||1.82 |}</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>The second example shows that expressions are not sorted according to their evaluated value, but according to the first number.</text>
+</context>
+<context>
+	<score>0.5456663</score>
+	<text>{|class=&quot;wikitable sortable&quot; !Numbers!!Alphabet!!Dates!!Currency!! class=&quot;unsortable&quot;| Unsortable |- |1||Z||02-02-2004||5.00||This |- |2||y||13-apr-2005||||Column |- |3||X||17.aug.2006||6.50||Is |- |4||w||01.Jan.2005||4.20||Unsortable |- |5||V||05/12/2006||7.15||See? |-class=&quot;sortbottom&quot; !Total: 15!!!!!!Total: 29.55!! |- |}</text>
+</context>
+<context>
+	<score>0.5253685</score>
+	<text>The first example demonstrates that text is positioned at zero, and that e.g. e3 for 1000 is not allowed; use 1e3 instead. Using m:Template:e ( backlinks , edit ), a number in scientific notation can be displayed with a superscript, while still allowing numeric sorting (compare the method described in the next section). It also shows that &quot;-&quot; should be used, not &quot; &quot;. The first element &quot;12 or 13 sm=n&quot; has a visible &quot;sm=n&quot;, although it is normally made invisible; when this element is at the top, numeric sorting mode applies.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Sometimes it is helpful to exclude the last row of a table from the sorting process.</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>The example with &quot;a&quot; gives alphabetic sorting; that with &quot;e&quot; ditto, the data are not mistaken for numbers in scientific format.</text>
+</context>
+<context>
+	<score>0.47878787</score>
+	<text>http://en.wikipedia.org../../../../articles/c/l/i/Template%7EClimate_in_Middle_East_cities_1b55.html</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Text after a number (e.g. a footnote) does not affect the sorting order, if the sorting mode is numeric. However, if the number at the top has text after it, this makes the sorting mode alphabetic, unless it ends with a (typically invisible) &quot;sm=n&quot;.</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>This can be achieved using class=&quot;sortbottom&quot; on the desired table row (line starting with |- ).</text>
+</context>
+<context>
+	<score>0.46334365</score>
+	<text>Examples Remember that the results depend on fixes and enhancements in MediaWiki:Common.js ; the description applies to the version on Meta. Copies of this help page on other sites are useful for comparison. A sysop can copy the JavaScript-code from Meta.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="margin-left:.6em;"><tr><th style="background: #CCCCCC; color:#000000;border:solid 1px #808080;">City</th><th style="background: #99CCCC; color:#000000;border:solid 1px #608080;">January<br /><span style="font-size:90%;">(Low)</span></th><th style="background: #99CCCC; color:#000000;border:solid 1px #608080;">January<br /><span style="font-size:90%;">(High)</span></th><th style="background: #D99898; color:#000000;border:solid 1px #996B6B;">July<br /><span style="font-size:90%;">(Low)</span></th><th style="background: #D99898; color:#000000;border:solid 1px #996B6B;">July<br /><span style="font-size:90%;">(High)</span></th></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/a/m/m/Amman.html" title="Amman">Amman</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">4°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">12°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">18°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">32°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/b/a/g/Baghdad.html" title="Baghdad">Baghdad</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">0°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">16°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">24°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">43°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/c/a/i/Cairo.html" title="Cairo">Cairo</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">8°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">18°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">21°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">36°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/d/a/m/Damascus.html" title="Damascus">Damascus</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">0°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">12°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">16°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">36°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/d/u/b/Dubai.html" title="Dubai">Dubai</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">15°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">23°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">30°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">39°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/j/e/r/Jerusalem.html" title="Jerusalem">Jerusalem</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">5°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">13°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">17°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">31°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/r/i/y/Riyadh.html" title="Riyadh">Riyadh</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">8°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">21°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">26°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">42°C<span style="display:none">sm=n</span></td></tr><tr><td style="text-align:center; background: #F2F2F2; color:#000000;font-size:90%;border:solid 1px #808080;padding:.3em;"><a href="../../../../articles/t/e/h/Tehran.html" title="Tehran">Tehran</a></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">-3°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #E6F2F2; color:#000000;font-size:90%;border:solid 1px #608080;">7°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">22°C<span style="display:none">sm=n</span></td><td style="text-align:center; background: #F2E6E6; color:#000000;font-size:90%;border:solid 1px #996B6B;">37°C<span style="display:none">sm=n</span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

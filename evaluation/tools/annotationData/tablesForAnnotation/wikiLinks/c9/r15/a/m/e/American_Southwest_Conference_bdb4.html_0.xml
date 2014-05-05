@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r15/a/m/e/American_Southwest_Conference_bdb4.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 0 1, 0.8888889 0 2, 0.88148147 1, 0.8333333 0 4, 0.787037 1 4, 0.78353906 1 2, 0.7777778 0 6, 0.7345679 1 6, 0.7259259 6, 0.7222222 0 7, 0.6666667 0 8, 0.6481481 4 6, 0.6452675 2 6, 0.6366255 1 7, 0.5876543 1 8, 0.5617284 6 7, 0.51851857 6 8, 0.49382716 2 4, 0.48148146 4 7, 0.4707819 2 7, 0.3888889 4, 0.3851852 7, 0.29629633 4 8, 0.2888889 7 8, 0.23703705 2, 0.19753087 2 8, 0.12222222 0 3, 0.1154321 1 3, 0.11111112 0 5, 0.105925925 3, 0.10493827 1 5, 0.103703715 5, 0.10185185 3 4, 0.09506173 3 6, 0.09415638 2 3, 0.0925926 4 5, 0.09218108 2 5, 0.0888889 8, 0.08641976 5 6, 0.08238683 3 7, 0.08024692 5 7, 0.07604939 3 8, 0.06913581 5 8, 0.013580248 3 5, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_Southwest_Conference_bdb4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Institution</th>]]></html>
+	<text>Institution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location - City</th>]]></html>
+	<text>Location - City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location - State</th>]]></html>
+	<text>Location - State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Founded</th>]]></html>
+	<text>Founded</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Affiliation</th>]]></html>
+	<text>Affiliation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Enrollment</th>]]></html>
+	<text>Enrollment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nickname</th>]]></html>
+	<text>Nickname</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mascot</th>]]></html>
+	<text>Mascot</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Football?</th>]]></html>
+	<text>Football?</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Concordia University at Austin</td>]]></html>
+	<text>Concordia University at Austin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Austin</td>]]></html>
+	<text>Austin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1926</td>]]></html>
+	<text>1926</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Lutheran</td>]]></html>
+	<text>Private/Lutheran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,200</td>]]></html>
+	<text>1,200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tornadoes</td>]]></html>
+	<text>Tornadoes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mr. Tornado</td>]]></html>
+	<text>Mr. Tornado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Texas Baptist University</td>]]></html>
+	<text>East Texas Baptist University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marshall</td>]]></html>
+	<text>Marshall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912</td>]]></html>
+	<text>1912</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,350</td>]]></html>
+	<text>1,350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tigers</td>]]></html>
+	<text>Tigers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sarge</td>]]></html>
+	<text>Sarge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hardin-Simmons University</td>]]></html>
+	<text>Hardin-Simmons University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abilene</td>]]></html>
+	<text>Abilene</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1891</td>]]></html>
+	<text>1891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,333</td>]]></html>
+	<text>2,333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cowboys</td>]]></html>
+	<text>Cowboys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Howard Payne University</td>]]></html>
+	<text>Howard Payne University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brownwood</td>]]></html>
+	<text>Brownwood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1889</td>]]></html>
+	<text>1889</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,400</td>]]></html>
+	<text>1,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellowjackets</td>]]></html>
+	<text>Yellowjackets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buzzsaw</td>]]></html>
+	<text>Buzzsaw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LeTourneau University</td>]]></html>
+	<text>LeTourneau University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Longview</td>]]></html>
+	<text>Longview</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946</td>]]></html>
+	<text>1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,758</td>]]></html>
+	<text>3,758</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellowjackets</td>]]></html>
+	<text>Yellowjackets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buzz</td>]]></html>
+	<text>Buzz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana College</td>]]></html>
+	<text>Louisiana College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pineville</td>]]></html>
+	<text>Pineville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1906</td>]]></html>
+	<text>1906</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wildcats</td>]]></html>
+	<text>Wildcats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Mary Hardin-Baylor</td>]]></html>
+	<text>University of Mary Hardin-Baylor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belton</td>]]></html>
+	<text>Belton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1845</td>]]></html>
+	<text>1845</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,713</td>]]></html>
+	<text>2,713</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Crusaders</td>]]></html>
+	<text>Crusaders</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>McMurry University</td>]]></html>
+	<text>McMurry University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abilene</td>]]></html>
+	<text>Abilene</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Methodist</td>]]></html>
+	<text>Private/Methodist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,430</td>]]></html>
+	<text>1,430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi College</td>]]></html>
+	<text>Mississippi College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clinton</td>]]></html>
+	<text>Clinton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1826</td>]]></html>
+	<text>1826</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,162</td>]]></html>
+	<text>4,162</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Choctaws</td>]]></html>
+	<text>Choctaws</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of the Ozarks</td>]]></html>
+	<text>University of the Ozarks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clarksville</td>]]></html>
+	<text>Clarksville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1834</td>]]></html>
+	<text>1834</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian</td>]]></html>
+	<text>Private/Presbyterian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>630</td>]]></html>
+	<text>630</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eagles</td>]]></html>
+	<text>Eagles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Schreiner University</td>]]></html>
+	<text>Schreiner University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kerrville</td>]]></html>
+	<text>Kerrville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian</td>]]></html>
+	<text>Private/Presbyterian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>930</td>]]></html>
+	<text>930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mountaineers</td>]]></html>
+	<text>Mountaineers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monty</td>]]></html>
+	<text>Monty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sul Ross State University</td>]]></html>
+	<text>Sul Ross State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alpine</td>]]></html>
+	<text>Alpine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1917</td>]]></html>
+	<text>1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public/ Texas State University</td>]]></html>
+	<text>Public/ Texas State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,070</td>]]></html>
+	<text>2,070</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lobos</td>]]></html>
+	<text>Lobos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Texas at Dallas</td>]]></html>
+	<text>University of Texas at Dallas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richardson</td>]]></html>
+	<text>Richardson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1961</td>]]></html>
+	<text>1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public/ University of Texas</td>]]></html>
+	<text>Public/ University of Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,421</td>]]></html>
+	<text>14,421</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comets</td>]]></html>
+	<text>Comets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temoc</td>]]></html>
+	<text>Temoc</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Texas at Tyler</td>]]></html>
+	<text>University of Texas at Tyler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tyler</td>]]></html>
+	<text>Tyler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1971</td>]]></html>
+	<text>1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public/ University of Texas</td>]]></html>
+	<text>Public/ University of Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,326</td>]]></html>
+	<text>5,326</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Patriots</td>]]></html>
+	<text>Patriots</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swoop</td>]]></html>
+	<text>Swoop</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas Lutheran University</td>]]></html>
+	<text>Texas Lutheran University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seguin</td>]]></html>
+	<text>Seguin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1891</td>]]></html>
+	<text>1891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Lutheran</td>]]></html>
+	<text>Private/Lutheran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,400</td>]]></html>
+	<text>1,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bulldogs</td>]]></html>
+	<text>Bulldogs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American Southwest Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Institution Location - City Location - State Founded Affiliation Enrollment Nickname Mascot Football?</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>West Division East Division</text>
+</context>
+<context>
+	<score>0.8015908</score>
+	<text>American Southwest Conference</text>
+</context>
+<context>
+	<score>0.77562094</score>
+	<text>The schools are divided into two divisions: East and West.</text>
+</context>
+<context>
+	<score>0.75752264</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7359769</score>
+	<text>[ edit ] Member schools</text>
+</context>
+<context>
+	<score>0.7359769</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7359769</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7100071</score>
+	<text>[ edit ] Member schools</text>
+</context>
+<context>
+	<score>0.6461837</score>
+	<text>The American Southwest Conference ( ASC ) is a College Athletic Conference , founded in 1996 , whose member schools compete in the NCAA &apos;s Division III . The schools are located in Texas , Louisiana , Arkansas and Mississippi . The conference competes in baseball , men&apos;s and women&apos;s basketball , men&apos;s and women&apos;s cross country , football , men&apos;s and women&apos;s golf , men&apos;s and women&apos;s soccer , softball , men&apos;s and women&apos;s tennis , men&apos;s and women&apos;s track and field and women&apos;s volleyball .</text>
+</context>
+<context>
+	<score>0.6069294</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.60655636</score>
+	<text>The American Southwest Conference was announced in May 1996. The new league included some former members of the Texas Intercollegiate Athletic Association (TIAA). Founding members of the ASC were Austin College , Hardin-Simmons, Howard Payne, McMurry, Mississippi College, Sul Ross State, University of Dallas and University of the Ozarks. The University of Dallas was a member of the ASC until 2001 and Austin College withdrew in 2006. The University of Texas at Tyler began athletics in 2002 and became a member in 2003, but as a provisional member of the NCAA, was ineligible to participate in ASC or NCAA postseason tournaments until 2007.</text>
+</context>
+<context>
+	<score>0.56608254</score>
+	<text>American Southwest Conference</text>
+</context>
+<context>
+	<score>0.51775265</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable sortable"><tr><th>Institution</th><th>Location - City</th><th>Location - State</th><th>Founded</th><th>Affiliation</th><th>Enrollment</th><th>Nickname</th><th>Mascot</th><th>Football?</th></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/c/o/n/Concordia_University_at_Austin_0921.html" class="mw-redirect" title="Concordia University at Austin">Concordia University at Austin</a></td><td><a href="../../../../articles/a/u/s/Austin%2C_Texas_6b79.html" title="Austin, Texas">Austin</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1926</td><td>Private/Lutheran</td><td>1,200</td><td>Tornadoes</td><td>Mr. Tornado</td><td>No</td></tr><tr><td><a href="../../../../articles/e/a/s/East_Texas_Baptist_University_2de9.html" title="East Texas Baptist University">East Texas Baptist University</a></td><td><a href="../../../../articles/m/a/r/Marshall%2C_Texas_b27f.html" title="Marshall, Texas">Marshall</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1912</td><td>Private/Baptist</td><td>1,350</td><td>Tigers</td><td>Sarge</td><td>Yes</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/h/a/r/Hardin-Simmons_University_34b7.html" title="Hardin-Simmons University">Hardin-Simmons University</a></td><td><a href="../../../../articles/a/b/i/Abilene%2C_Texas_eb38.html" title="Abilene, Texas">Abilene</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1891</td><td>Private/Baptist</td><td>2,333</td><td>Cowboys</td><td></td><td>Yes</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/h/o/w/Howard_Payne_University_7665.html" title="Howard Payne University">Howard Payne University</a></td><td><a href="../../../../articles/b/r/o/Brownwood%2C_Texas_d57f.html" title="Brownwood, Texas">Brownwood</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1889</td><td>Private/Baptist</td><td>1,400</td><td>Yellowjackets</td><td>Buzzsaw</td><td>Yes</td></tr><tr><td><a href="../../../../articles/l/e/t/LeTourneau_University_7bc4.html" title="LeTourneau University">LeTourneau University</a></td><td><a href="../../../../articles/l/o/n/Longview%2C_Texas_46a7.html" title="Longview, Texas">Longview</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1946</td><td>Private</td><td>3,758</td><td>Yellowjackets</td><td>Buzz</td><td>No</td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana_College_83c1.html" title="Louisiana College">Louisiana College</a></td><td><a href="../../../../articles/p/i/n/Pineville%2C_Louisiana_8581.html" title="Pineville, Louisiana">Pineville</a></td><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td>1906</td><td>Private/Baptist</td><td>1,000</td><td>Wildcats</td><td></td><td>Yes</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/u/n/i/University_of_Mary_Hardin-Baylor_830d.html" title="University of Mary Hardin-Baylor">University of Mary Hardin-Baylor</a></td><td><a href="../../../../articles/b/e/l/Belton%2C_Texas_71f3.html" title="Belton, Texas">Belton</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1845</td><td>Private/Baptist</td><td>2,713</td><td>Crusaders</td><td></td><td>Yes</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/m/c/m/McMurry_University_8d09.html" title="McMurry University">McMurry University</a></td><td><a href="../../../../articles/a/b/i/Abilene%2C_Texas_eb38.html" title="Abilene, Texas">Abilene</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1923</td><td>Private/Methodist</td><td>1,430</td><td>none</td><td></td><td>Yes</td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi_College_ae8e.html" title="Mississippi College">Mississippi College</a></td><td><a href="../../../../articles/c/l/i/Clinton%2C_Mississippi_0a2a.html" title="Clinton, Mississippi">Clinton</a></td><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td>1826</td><td>Private/Baptist</td><td>4,162</td><td>Choctaws</td><td></td><td>Yes</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_the_Ozarks_2309.html" title="University of the Ozarks">University of the Ozarks</a></td><td><a href="../../../../articles/c/l/a/Clarksville%2C_Arkansas_0f38.html" title="Clarksville, Arkansas">Clarksville</a></td><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td>1834</td><td>Private/Presbyterian</td><td>630</td><td>Eagles</td><td></td><td>No</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/s/c/h/Schreiner_University_fc4c.html" title="Schreiner University">Schreiner University</a></td><td><a href="../../../../articles/k/e/r/Kerrville%2C_Texas_cfde.html" title="Kerrville, Texas">Kerrville</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1923</td><td>Private/Presbyterian</td><td>930</td><td>Mountaineers</td><td>Monty</td><td>No</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/s/u/l/Sul_Ross_State_University_8209.html" title="Sul Ross State University">Sul Ross State University</a></td><td><a href="../../../../articles/a/l/p/Alpine%2C_Texas_0046.html" title="Alpine, Texas">Alpine</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1917</td><td>Public/<a href="../../../../articles/t/e/x/Texas_State_University_System_70a8.html" title="Texas State University System">Texas State University</a></td><td>2,070</td><td>Lobos</td><td></td><td>Yes</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Texas_at_Dallas_b416.html" title="University of Texas at Dallas">University of Texas at Dallas</a></td><td><a href="../../../../articles/r/i/c/Richardson%2C_Texas_f7d6.html" title="Richardson, Texas">Richardson</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1961</td><td>Public/<a href="../../../../articles/u/n/i/University_of_Texas_System_d27c.html" title="University of Texas System">University of Texas</a></td><td>14,421</td><td>Comets</td><td><a href="../../../../articles/t/e/m/Temoc.html" title="Temoc">Temoc</a></td><td>No</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Texas_at_Tyler_7263.html" title="University of Texas at Tyler">University of Texas at Tyler</a></td><td><a href="../../../../articles/t/y/l/Tyler%2C_Texas_2e3c.html" title="Tyler, Texas">Tyler</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1971</td><td>Public/<a href="../../../../articles/u/n/i/University_of_Texas_System_d27c.html" title="University of Texas System">University of Texas</a></td><td>5,326</td><td>Patriots</td><td>Swoop</td><td>No</td></tr><tr style="background:#FFFFCC"><td><a href="../../../../articles/t/e/x/Texas_Lutheran_University_c5db.html" title="Texas Lutheran University">Texas Lutheran University</a></td><td><a href="../../../../articles/s/e/g/Seguin%2C_Texas_9525.html" title="Seguin, Texas">Seguin</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>1891</td><td>Private/Lutheran</td><td>1,400</td><td>Bulldogs</td><td></td><td>Yes</td></tr></table>]]>
+</htmlSnippet>
+</entity>

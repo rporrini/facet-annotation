@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/l/i/s/List_of_castles_in_England_070c.html_42.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 2, 0.5 2, 0.06666667 0 1, 0.044444446 1 2, 0.02666667 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_castles_in_England_070c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Key</th>]]></html>
+	<text>Key</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comments</th>]]></html>
+	<text>Comments</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amberley Castle</td>]]></html>
+	<text>Amberley Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>privately owned</td>]]></html>
+	<text>privately owned</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arundel Castle</td>]]></html>
+	<text>Arundel Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Duke of Norfolk</td>]]></html>
+	<text>The Duke of Norfolk</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bramber Castle</td>]]></html>
+	<text>Bramber Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/local/9/9b/EH_icon.png</td>]]></html>
+	<text>../../../../images/local/9/9b/EH_icon.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chichester Castle</td>]]></html>
+	<text>Chichester Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Knepp Castle</td>]]></html>
+	<text>Knepp Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of castles in England - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Key Comments</text>
+</context>
+<context>
+	<score>0.880188</score>
+	<text>[ edit ] West Sussex</text>
+</context>
+<context>
+	<score>0.784619</score>
+	<text>List of castles in England</text>
+</context>
+<context>
+	<score>0.78321606</score>
+	<text>[ edit ] West Midlands</text>
+</context>
+<context>
+	<score>0.75184286</score>
+	<text>[ edit ] West Yorkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Bedfordshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Berkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Bristol</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Buckinghamshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Cambridgeshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Cheshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Co. Durham</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Cornwall</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Cumbria</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Derbyshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Devon</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Dorset</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] East Riding of Yorkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] East Sussex</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Essex</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Gloucestershire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Greater London</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Greater Manchester</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Hampshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Herefordshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Hertfordshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Isle of Wight</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Isles of Scilly</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Kent</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Lancashire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Leicestershire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Lincolnshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Merseyside</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Norfolk</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Northamptonshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Northumberland</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] North Yorkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Nottinghamshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Oxfordshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Rutland</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Shropshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Somerset</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] South Yorkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Staffordshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Suffolk</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Surrey</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Tyne and Wear</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Warwickshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] West Midlands</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] West Sussex</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] West Yorkshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Wiltshire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] Worcestershire</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7084445</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7070415</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7056385</score>
+	<text>[ edit ] Warwickshire</text>
+</context>
+<context>
+	<score>0.64357644</score>
+	<text>[ edit ] Tyne and Wear</text>
+</context>
+<context>
+	<score>0.6050427</score>
+	<text>[ edit ] Wiltshire</text>
+</context>
+<context>
+	<score>0.59392685</score>
+	<text>[ edit ] Surrey</text>
+</context>
+<context>
+	<score>0.5542071</score>
+	<text>[ edit ] Suffolk</text>
+</context>
+<context>
+	<score>0.5224314</score>
+	<text>[ edit ] Staffordshire</text>
+</context>
+<context>
+	<score>0.5186897</score>
+	<text>[ edit ] Worcestershire</text>
+</context>
+<context>
+	<score>0.49701074</score>
+	<text>[ edit ] South Yorkshire Main article: Castles in South Yorkshire</text>
+</context>
+<context>
+	<score>0.47667426</score>
+	<text>[ edit ] Somerset</text>
+</context>
+<context>
+	<score>0.4678938</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.46040505</score>
+	<text>[ edit ] Shropshire</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th style="width:128px">Name</th><th style="width:32px">Key</th><th style="width:512px">Comments</th></tr><tr><td><a href="../../../../articles/a/m/b/Amberley_Castle_4128.html" title="Amberley Castle">Amberley Castle</a></td><td></td><td>privately owned</td></tr><tr><td><a href="../../../../articles/a/r/u/Arundel_Castle_35b4.html" title="Arundel Castle">Arundel Castle</a></td><td></td><td><a href="../../../../articles/d/u/k/Duke_of_Norfolk_b5c3.html" title="Duke of Norfolk">The Duke of Norfolk</a></td></tr><tr><td><a href="../../../../articles/b/r/a/Bramber_Castle_a52a.html" title="Bramber Castle">Bramber Castle</a></td><td><a href="../../../../articles/e/h/_/Image%7EEH_icon.png_b4f7.html" class="image" title="Image:EH icon.png"><img alt="Image:EH icon.png" src="../../../../images/local/9/9b/EH_icon.png" width="14" height="14" border="0" /></a></td><td></td></tr><tr><td><a href="../../../../articles/c/h/i/Chichester_Castle_ba1a.html" title="Chichester Castle">Chichester Castle</a></td><td></td><td></td></tr><tr><td><a href="../../../../articles/k/n/e/Knepp_Castle_c620.html" title="Knepp Castle">Knepp Castle</a></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

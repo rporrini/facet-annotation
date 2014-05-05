@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/p/a/v/Pavel_Pegov_60ae.html_1.xml" />
+<meta name="primaryKey" value="0.175 2, 0.175 2 3, 0.15 1, 0.15 1 3, 0.14285715 3, 0.125 0, 0.125 0 3, 0.026250003 1 2, 0.021875 0 2, 0.01875 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/p/a/v/Pavel_Pegov_60ae.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Event</th>]]></html>
+	<text>Event</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>500 m</td>]]></html>
+	<text>500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36.57</td>]]></html>
+	<text>36.57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26 March 1983</td>]]></html>
+	<text>26 March 1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,000 m</td>]]></html>
+	<text>1,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:12.58</td>]]></html>
+	<text>1:12.58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25 March 1983</td>]]></html>
+	<text>25 March 1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,500 m</td>]]></html>
+	<text>1,500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:54.62</td>]]></html>
+	<text>1:54.62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 December 1983</td>]]></html>
+	<text>27 December 1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3,000 m</td>]]></html>
+	<text>3,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:11.9 </td>]]></html>
+	<text>4:11.9&#8194;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 April 1977</td>]]></html>
+	<text>14 April 1977</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5,000 m</td>]]></html>
+	<text>5,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7:10.29</td>]]></html>
+	<text>7:10.29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 March 1979</td>]]></html>
+	<text>29 March 1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10,000 m</td>]]></html>
+	<text>10,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15:15.3 </td>]]></html>
+	<text>15:15.3&#8194;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 December 1976</td>]]></html>
+	<text>11 December 1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Big combination</td>]]></html>
+	<text>Big combination</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>169.046</td>]]></html>
+	<text>169.046</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 December 1979</td>]]></html>
+	<text>29 December 1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Pavel Pegov - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Event Result Date Venue</text>
+</context>
+<context>
+	<score>0.88612217</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.80597997</score>
+	<text>Pavel Pegov</text>
+</context>
+<context>
+	<score>0.7886043</score>
+	<text>Over the course of his career, Pegov skated four world records :</text>
+</context>
+<context>
+	<score>0.7570544</score>
+	<text>Pegov has an Adelskalender score of 163.570 points.</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71058995</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.64817846</score>
+	<text>Pegov never regained his eminence after 1983, finishing only 13th in the 1,000 m at the 1984 Winter Olympics . A few weeks after the Olympics, he finished second, behind Sergey Khlebnikov, at the Soviet Sprint Championships. In 1985, Pegov retired as an elite speed skater.</text>
+</context>
+<context>
+	<score>0.60942775</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5982493</score>
+	<text>Skating for the Soviet Union , Pavel Pegov finished second behind Japanese skater Akira Kuroiwa at the World Sprint Championships of 1983. In March that year, on the Medeo rink at Alma-Ata , he broke Yevgeny Kulikov&apos;s two year old world record on the 500 m. On the 25th that month, he clocked 36.68, and a day later he sharpened the record to 36.57. That same weekend, he raced a perfect 1,000 m setting a legendary world record time of 1:12.58. He was the first speed skater who skated the 1,000 m in less than 1 minute and 13 seconds and, although Igor Zhelezovski managed to equal this time six years later, Pegov&apos;s world record would stand undefeated for over ten years; Kevin Scott clocked 1:12.54 in Calgary 19 December 1993 . His four Medeo races of 36.68, 1:12.58, 36.57, and 1:14.83 gave him another world record the sprint combination samalogue point sum 146.955. This record lasted until Igor Zhelezovski very narrowly improved it to 146.945 in Heerenveen in February 1989.</text>
+</context>
+<context>
+	<score>0.558306</score>
+	<text>) (born 29 November 1956 in Moscow , Russian SFSR ) is a former speed skater who specialised in the shorter distances 500 metres and 1000 metres. He studied at the East Siberian Technological Institute and trained with Nina Bobrova, and later at the Armed Forces sports society . He peaked in 1983 when he broke four world records .</text>
+</context>
+<context>
+	<score>0.5263513</score>
+	<text>Pavel Georgievich Pegov ( Russian :</text>
+</context>
+<context>
+	<score>0.52258855</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.51816326</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.49771225</score>
+	<text>Pavel Pegov</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:right"><tr><th>Event</th><th>Result</th><th>Date</th><th>Venue</th></tr><tr><td>500 m</td><td>36.57</td><td><a href="../../../../articles/m/a/r/March_26.html" title="March 26">26 March</a> <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td>1,000 m</td><td>1:12.58</td><td><a href="../../../../articles/m/a/r/March_25.html" title="March 25">25 March</a> <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td>1,500 m</td><td>1:54.62</td><td><a href="../../../../articles/d/e/c/December_27.html" title="December 27">27 December</a> <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td>3,000 m</td><td>4:11.9 </td><td><a href="../../../../articles/a/p/r/April_14.html" title="April 14">14 April</a> <a href="../../../../articles/1/9/7/1977.html" title="1977">1977</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td>5,000 m</td><td>7:10.29</td><td><a href="../../../../articles/m/a/r/March_29.html" title="March 29">29 March</a> <a href="../../../../articles/1/9/7/1979.html" title="1979">1979</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td>10,000 m</td><td>15:15.3 </td><td><a href="../../../../articles/d/e/c/December_11.html" title="December 11">11 December</a> <a href="../../../../articles/1/9/7/1976.html" title="1976">1976</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr><td><a href="../../../../articles/s/a/m/Samalog.html" title="Samalog">Big combination</a></td><td>169.046</td><td><a href="../../../../articles/d/e/c/December_29.html" title="December 29">29 December</a> <a href="../../../../articles/1/9/7/1979.html" title="1979">1979</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

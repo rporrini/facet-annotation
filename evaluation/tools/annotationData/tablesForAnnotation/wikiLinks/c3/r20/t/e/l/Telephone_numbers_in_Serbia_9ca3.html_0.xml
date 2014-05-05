@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r20/t/e/l/Telephone_numbers_in_Serbia_9ca3.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 2, 0.8333333 0 2, 0.13333334 1, 0.13333334 0 1, 0.11111111 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/t/e/l/Telephone_numbers_in_Serbia_9ca3.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Network Group</th>]]></html>
+	<text>Network Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Municipalities covered by code</th>]]></html>
+	<text>Municipalities covered by code</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgrade</td>]]></html>
+	<text>Belgrade</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belgrade , Barajevo , Grocka , Lazarevac , Mladenovac , Obrenovac , Sopot , Surčin</td>]]></html>
+	<text>Belgrade , Barajevo , Grocka , Lazarevac , Mladenovac , Obrenovac , Sopot , Sur&#269;in</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bor</td>]]></html>
+	<text>Bor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bor , Boljevac , Majdanpek</td>]]></html>
+	<text>Bor , Boljevac , Majdanpek</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Čačak</td>]]></html>
+	<text>&#268;a&#269;ak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Čačak , Gornji Milanovac , Ivanjica , Lučani</td>]]></html>
+	<text>&#268;a&#269;ak , Gornji Milanovac , Ivanjica , Lu&#269;ani</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jagodina</td>]]></html>
+	<text>Jagodina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jagodina , Ćuprija , Despotovac , Paraćin , Rekovac , Svilajnac</td>]]></html>
+	<text>Jagodina , &#262;uprija , Despotovac , Para&#263;in , Rekovac , Svilajnac</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kragujevac</td>]]></html>
+	<text>Kragujevac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kragujevac , Aranđelovac , Batočina , Knić , Lapovo , Rača , Topola</td>]]></html>
+	<text>Kragujevac , Aran&#273;elovac , Bato&#269;ina , Kni&#263; , Lapovo , Ra&#269;a , Topola</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kraljevo</td>]]></html>
+	<text>Kraljevo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kraljevo , Raška , Vrnjačka Banja</td>]]></html>
+	<text>Kraljevo , Ra&#353;ka , Vrnja&#269;ka Banja</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kruševac</td>]]></html>
+	<text>Kru&#353;evac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kruševac , Aleksandrovac , Brus , Ćićevac , Ražanj , Trstenik , Varvarin</td>]]></html>
+	<text>Kru&#353;evac , Aleksandrovac , Brus , &#262;i&#263;evac , Ra&#382;anj , Trstenik , Varvarin</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leskovac</td>]]></html>
+	<text>Leskovac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leskovac , Bojnik , Crna Trava , Lebane , Medveđa , Vlasotince</td>]]></html>
+	<text>Leskovac , Bojnik , Crna Trava , Lebane , Medve&#273;a , Vlasotince</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Niš</td>]]></html>
+	<text>Ni&#353;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Niš , Aleksinac , Bela Palanka , Doljevac , Gadžin Han , Merošina , Sokobanja , Svrljig</td>]]></html>
+	<text>Ni&#353; , Aleksinac , Bela Palanka , Doljevac , Gad&#382;in Han , Mero&#353;ina , Sokobanja , Svrljig</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Novi Pazar</td>]]></html>
+	<text>Novi Pazar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Novi Pazar , Sjenica , Tutin</td>]]></html>
+	<text>Novi Pazar , Sjenica , Tutin</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pirot</td>]]></html>
+	<text>Pirot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pirot , Babušnica , Dimitrovgrad</td>]]></html>
+	<text>Pirot , Babu&#353;nica , Dimitrovgrad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Požarevac</td>]]></html>
+	<text>Po&#382;arevac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Požarevac , Golubac , Kučevo , Petrovac , Veliko Gradište , Žabari , Žagubica , Malo Crniće</td>]]></html>
+	<text>Po&#382;arevac , Golubac , Ku&#269;evo , Petrovac , Veliko Gradi&#353;te , &#381;abari , &#381;agubica , Malo Crni&#263;e</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prijepolje</td>]]></html>
+	<text>Prijepolje</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prijepolje , Nova Varoš , Priboj</td>]]></html>
+	<text>Prijepolje , Nova Varo&#353; , Priboj</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prokuplje</td>]]></html>
+	<text>Prokuplje</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prokuplje , Blace , Kuršumlija , Žitorađa</td>]]></html>
+	<text>Prokuplje , Blace , Kur&#353;umlija , &#381;itora&#273;a</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Smederevo</td>]]></html>
+	<text>Smederevo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Smederevo , Smederevska Palanka , Velika Plana</td>]]></html>
+	<text>Smederevo , Smederevska Palanka , Velika Plana</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Šabac</td>]]></html>
+	<text>&#352;abac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šabac , Bogatić , Koceljeva , Krupanj , Ljubovija , Loznica , Mali Zvornik , Vladimirci</td>]]></html>
+	<text>&#352;abac , Bogati&#263; , Koceljeva , Krupanj , Ljubovija , Loznica , Mali Zvornik , Vladimirci</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Užice</td>]]></html>
+	<text>U&#382;ice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Užice , Arilje , Bajina Bašta , Čajetina , Kosjerić , Požega</td>]]></html>
+	<text>U&#382;ice , Arilje , Bajina Ba&#353;ta , &#268;ajetina , Kosjeri&#263; , Po&#382;ega</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Valjevo</td>]]></html>
+	<text>Valjevo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Valjevo , Lajkovac , Ljig , Mionica , Osečina , Ub</td>]]></html>
+	<text>Valjevo , Lajkovac , Ljig , Mionica , Ose&#269;ina , Ub</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vranje</td>]]></html>
+	<text>Vranje</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vranje , Bosilegrad , Bujanovac , Preševo , Surdulica , Trgovište , Vladičin Han</td>]]></html>
+	<text>Vranje , Bosilegrad , Bujanovac , Pre&#353;evo , Surdulica , Trgovi&#353;te , Vladi&#269;in Han</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zaječar</td>]]></html>
+	<text>Zaje&#269;ar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zaječar , Kladovo , Knjaževac , Negotin</td>]]></html>
+	<text>Zaje&#269;ar , Kladovo , Knja&#382;evac , Negotin</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Telephone numbers in Serbia - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Network Group Code Municipalities covered by code</text>
+</context>
+<context>
+	<score>0.8849694</score>
+	<text>[ edit ] Central Serbia</text>
+</context>
+<context>
+	<score>0.7953581</score>
+	<text>Telephone numbers in Serbia</text>
+</context>
+<context>
+	<score>0.7815682</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.75648016</score>
+	<text>[ edit ] Vojvodina</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] Central Serbia</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] Vojvodina</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] Kosovo</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] Mobile phone codes</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72401386</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71769345</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.710224</score>
+	<text>(e.g. for an United States number 00 1 ... should be dialed).</text>
+</context>
+<context>
+	<score>0.64809227</score>
+	<text>The country calling code of Serbia is 381. The international call prefix depends on the country you are calling from, e.g. 00 for most European countries, and 011 from North America. For domestic calls (within the country), 0 must be dialled before the area code. The prefix for international calls from Serbia was 99, but was changed to 00 since 1 April 2008, in order to match the rest of the Europe</text>
+</context>
+<context>
+	<score>0.60951525</score>
+	<text>[ edit ] Kosovo</text>
+</context>
+<context>
+	<score>0.5920665</score>
+	<text>xxx xxxx (within Belgrade) 0 11 xxx xxxx (within Serbia) +381 11 xxx xxxx (outside Serbia)</text>
+</context>
+<context>
+	<score>0.5586226</score>
+	<text>Serbia received a new country code following the breakup of the Socialist Federal Republic of Yugoslavia in 1992 (which had 38 as country code). An example for calling telephones in Belgrade, Serbia is as follows:</text>
+</context>
+<context>
+	<score>0.5268112</score>
+	<text>This is an alphabetical list by town of phone dialing codes in Serbia .</text>
+</context>
+<context>
+	<score>0.5230653</score>
+	<text>[ edit ] Mobile phone codes</text>
+</context>
+<context>
+	<score>0.50883156</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.48847225</score>
+	<text>Telephone numbers in Serbia</text>
+</context>
+<context>
+	<score>0.47221246</score>
+	<text>[ edit ] References</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" width="100%"><tr><th>Network Group</th><th>Code</th><th>Municipalities covered by code</th></tr><tr><td><a href="../../../../articles/b/e/l/Belgrade.html" title="Belgrade">Belgrade</a></td><td align="right">11</td><td><a href="../../../../articles/b/e/l/Belgrade.html" title="Belgrade">Belgrade</a>, <a href="../../../../articles/b/a/r/Barajevo.html" title="Barajevo">Barajevo</a>, <a href="../../../../articles/g/r/o/Grocka.html" title="Grocka">Grocka</a>, <a href="../../../../articles/l/a/z/Lazarevac.html" title="Lazarevac">Lazarevac</a>, <a href="../../../../articles/m/l/a/Mladenovac.html" title="Mladenovac">Mladenovac</a>, <a href="../../../../articles/o/b/r/Obrenovac.html" title="Obrenovac">Obrenovac</a>, <a href="../../../../articles/s/o/p/Sopot.html" title="Sopot">Sopot</a>, <a href="../../../../articles/s/u/r/Sur%C4%8Din.html" title="Surčin">Surčin</a></td></tr><tr><td><a href="../../../../articles/b/o/r/Bor%2C_Serbia_6365.html" title="Bor, Serbia">Bor</a></td><td align="right">30</td><td><a href="../../../../articles/b/o/r/Bor%2C_Serbia_6365.html" title="Bor, Serbia">Bor</a>, <a href="../../../../articles/b/o/l/Boljevac.html" title="Boljevac">Boljevac</a>, <a href="../../../../articles/m/a/j/Majdanpek.html" title="Majdanpek">Majdanpek</a></td></tr><tr><td><a href="../../../../articles/%C4%8D/a/%C4%8D/%C4%8Ca%C4%8Dak.html" title="Čačak">Čačak</a></td><td align="right">32</td><td><a href="../../../../articles/%C4%8D/a/%C4%8D/%C4%8Ca%C4%8Dak.html" title="Čačak">Čačak</a>, <a href="../../../../articles/g/o/r/Gornji_Milanovac_f1f3.html" title="Gornji Milanovac">Gornji Milanovac</a>, <a href="../../../../articles/i/v/a/Ivanjica.html" title="Ivanjica">Ivanjica</a>, <a href="../../../../articles/l/u/%C4%8D/Lu%C4%8Dani.html" title="Lučani">Lučani</a></td></tr><tr><td><a href="../../../../articles/j/a/g/Jagodina.html" title="Jagodina">Jagodina</a></td><td align="right">35</td><td><a href="../../../../articles/j/a/g/Jagodina.html" title="Jagodina">Jagodina</a>, <a href="../../../../articles/%C4%87/u/p/%C4%86uprija.html" title="Ćuprija">Ćuprija</a>, <a href="../../../../articles/d/e/s/Despotovac.html" title="Despotovac">Despotovac</a>, <a href="../../../../articles/p/a/r/Para%C4%87in.html" title="Paraćin">Paraćin</a>, <a href="../../../../articles/r/e/k/Rekovac.html" title="Rekovac">Rekovac</a>, <a href="../../../../articles/s/v/i/Svilajnac.html" title="Svilajnac">Svilajnac</a></td></tr><tr><td><a href="../../../../articles/k/r/a/Kragujevac.html" title="Kragujevac">Kragujevac</a></td><td align="right">34</td><td><a href="../../../../articles/k/r/a/Kragujevac.html" title="Kragujevac">Kragujevac</a>, <a href="../../../../articles/a/r/a/Aran%C4%91elovac.html" title="Aranđelovac">Aranđelovac</a>, <a href="../../../../articles/b/a/t/Bato%C4%8Dina.html" title="Batočina">Batočina</a>, <a href="../../../../articles/k/n/i/Kni%C4%87.html" title="Knić">Knić</a>, <a href="../../../../articles/l/a/p/Lapovo.html" title="Lapovo">Lapovo</a>, <a href="../../../../articles/r/a/%C4%8D/Ra%C4%8Da.html" title="Rača">Rača</a>, <a href="../../../../articles/t/o/p/Topola.html" title="Topola">Topola</a></td></tr><tr><td><a href="../../../../articles/k/r/a/Kraljevo.html" title="Kraljevo">Kraljevo</a></td><td align="right">36</td><td><a href="../../../../articles/k/r/a/Kraljevo.html" title="Kraljevo">Kraljevo</a>, <a href="../../../../articles/r/a/%C5%A1/Ra%C5%A1ka.html" title="Raška">Raška</a>, <a href="../../../../articles/v/r/n/Vrnja%C4%8Dka_Banja_9412.html" title="Vrnjačka Banja">Vrnjačka Banja</a></td></tr><tr><td><a href="../../../../articles/k/r/u/Kru%C5%A1evac.html" title="Kruševac">Kruševac</a></td><td align="right">37</td><td><a href="../../../../articles/k/r/u/Kru%C5%A1evac.html" title="Kruševac">Kruševac</a>, <a href="../../../../articles/a/l/e/Aleksandrovac.html" title="Aleksandrovac">Aleksandrovac</a>, <a href="../../../../articles/b/r/u/Brus.html" title="Brus">Brus</a>, <a href="../../../../articles/%C4%87/i/%C4%87/%C4%86i%C4%87evac.html" title="Ćićevac">Ćićevac</a>, <a href="../../../../articles/r/a/%C5%BE/Ra%C5%BEanj.html" title="Ražanj">Ražanj</a>, <a href="../../../../articles/t/r/s/Trstenik.html" title="Trstenik">Trstenik</a>, <a href="../../../../articles/v/a/r/Varvarin.html" title="Varvarin">Varvarin</a></td></tr><tr><td><a href="../../../../articles/l/e/s/Leskovac.html" title="Leskovac">Leskovac</a></td><td align="right">16</td><td><a href="../../../../articles/l/e/s/Leskovac.html" title="Leskovac">Leskovac</a>, <a href="../../../../articles/b/o/j/Bojnik.html" title="Bojnik">Bojnik</a>, <a href="../../../../articles/c/r/n/Crna_Trava_a052.html" title="Crna Trava">Crna Trava</a>, <a href="../../../../articles/l/e/b/Lebane.html" title="Lebane">Lebane</a>, <a href="../../../../articles/m/e/d/Medve%C4%91a.html" title="Medveđa">Medveđa</a>, <a href="../../../../articles/v/l/a/Vlasotince.html" title="Vlasotince">Vlasotince</a></td></tr><tr><td><a href="../../../../articles/n/i/%C5%A1/Ni%C5%A1.html" title="Niš">Niš</a></td><td align="right">18</td><td><a href="../../../../articles/n/i/%C5%A1/Ni%C5%A1.html" title="Niš">Niš</a>, <a href="../../../../articles/a/l/e/Aleksinac.html" title="Aleksinac">Aleksinac</a>, <a href="../../../../articles/b/e/l/Bela_Palanka_e622.html" title="Bela Palanka">Bela Palanka</a>, <a href="../../../../articles/d/o/l/Doljevac.html" title="Doljevac">Doljevac</a>, <a href="../../../../articles/g/a/d/Gad%C5%BEin_Han_a7c3.html" title="Gadžin Han">Gadžin Han</a>, <a href="../../../../articles/m/e/r/Mero%C5%A1ina.html" title="Merošina">Merošina</a>, <a href="../../../../articles/s/o/k/Sokobanja.html" title="Sokobanja">Sokobanja</a>, <a href="../../../../articles/s/v/r/Svrljig.html" title="Svrljig">Svrljig</a></td></tr><tr><td><a href="../../../../articles/n/o/v/Novi_Pazar_aaf9.html" title="Novi Pazar">Novi Pazar</a></td><td align="right">20</td><td><a href="../../../../articles/n/o/v/Novi_Pazar_aaf9.html" title="Novi Pazar">Novi Pazar</a>, <a href="../../../../articles/s/j/e/Sjenica.html" title="Sjenica">Sjenica</a>, <a href="../../../../articles/t/u/t/Tutin.html" title="Tutin">Tutin</a></td></tr><tr><td><a href="../../../../articles/p/i/r/Pirot.html" title="Pirot">Pirot</a></td><td align="right">10</td><td><a href="../../../../articles/p/i/r/Pirot.html" title="Pirot">Pirot</a>, <a href="../../../../articles/b/a/b/Babu%C5%A1nica.html" title="Babušnica">Babušnica</a>, <a href="../../../../articles/d/i/m/Dimitrovgrad%2C_Serbia_1549.html" title="Dimitrovgrad, Serbia">Dimitrovgrad</a></td></tr><tr><td><a href="../../../../articles/p/o/%C5%BE/Po%C5%BEarevac.html" title="Požarevac">Požarevac</a></td><td align="right">12</td><td><a href="../../../../articles/p/o/%C5%BE/Po%C5%BEarevac.html" title="Požarevac">Požarevac</a>, <a href="../../../../articles/g/o/l/Golubac.html" title="Golubac">Golubac</a>, <a href="../../../../articles/k/u/%C4%8D/Ku%C4%8Devo.html" title="Kučevo">Kučevo</a>, <a href="../../../../articles/p/e/t/Petrovac.html" title="Petrovac">Petrovac</a>, <a href="../../../../articles/v/e/l/Veliko_Gradi%C5%A1te_8d65.html" title="Veliko Gradište">Veliko Gradište</a>, <a href="../../../../articles/%C5%BE/a/b/%C5%BDabari.html" title="Žabari">Žabari</a>, <a href="../../../../articles/%C5%BE/a/g/%C5%BDagubica.html" title="Žagubica">Žagubica</a>, <a href="../../../../articles/m/a/l/Malo_Crni%C4%87e_7999.html" title="Malo Crniće">Malo Crniće</a></td></tr><tr><td><a href="../../../../articles/p/r/i/Prijepolje.html" title="Prijepolje">Prijepolje</a></td><td align="right">33</td><td><a href="../../../../articles/p/r/i/Prijepolje.html" title="Prijepolje">Prijepolje</a>, <a href="../../../../articles/n/o/v/Nova_Varo%C5%A1_e99d.html" title="Nova Varoš">Nova Varoš</a>, <a href="../../../../articles/p/r/i/Priboj.html" title="Priboj">Priboj</a></td></tr><tr><td><a href="../../../../articles/p/r/o/Prokuplje.html" title="Prokuplje">Prokuplje</a></td><td align="right">27</td><td><a href="../../../../articles/p/r/o/Prokuplje.html" title="Prokuplje">Prokuplje</a>, <a href="../../../../articles/b/l/a/Blace.html" title="Blace">Blace</a>, <a href="../../../../articles/k/u/r/Kur%C5%A1umlija.html" title="Kuršumlija">Kuršumlija</a>, <a href="../../../../articles/%C5%BE/i/t/%C5%BDitora%C4%91a.html" title="Žitorađa">Žitorađa</a></td></tr><tr><td><a href="../../../../articles/s/m/e/Smederevo.html" title="Smederevo">Smederevo</a></td><td align="right">26</td><td><a href="../../../../articles/s/m/e/Smederevo.html" title="Smederevo">Smederevo</a>, <a href="../../../../articles/s/m/e/Smederevska_Palanka_0738.html" title="Smederevska Palanka">Smederevska Palanka</a>, <a href="../../../../articles/v/e/l/Velika_Plana_2ae0.html" title="Velika Plana">Velika Plana</a></td></tr><tr><td><a href="../../../../articles/%C5%A1/a/b/%C5%A0abac.html" title="Šabac">Šabac</a></td><td align="right">15</td><td><a href="../../../../articles/%C5%A1/a/b/%C5%A0abac.html" title="Šabac">Šabac</a>, <a href="../../../../articles/b/o/g/Bogati%C4%87.html" title="Bogatić">Bogatić</a>, <a href="../../../../articles/k/o/c/Koceljeva.html" title="Koceljeva">Koceljeva</a>, <a href="../../../../articles/k/r/u/Krupanj.html" title="Krupanj">Krupanj</a>, <a href="../../../../articles/l/j/u/Ljubovija.html" title="Ljubovija">Ljubovija</a>, <a href="../../../../articles/l/o/z/Loznica.html" title="Loznica">Loznica</a>, <a href="../../../../articles/m/a/l/Mali_Zvornik_f03a.html" title="Mali Zvornik">Mali Zvornik</a>, <a href="../../../../articles/v/l/a/Vladimirci.html" title="Vladimirci">Vladimirci</a></td></tr><tr><td><a href="../../../../articles/u/%C5%BE/i/U%C5%BEice.html" title="Užice">Užice</a></td><td align="right">31</td><td><a href="../../../../articles/u/%C5%BE/i/U%C5%BEice.html" title="Užice">Užice</a>, <a href="../../../../articles/a/r/i/Arilje.html" title="Arilje">Arilje</a>, <a href="../../../../articles/b/a/j/Bajina_Ba%C5%A1ta_8989.html" title="Bajina Bašta">Bajina Bašta</a>, <a href="../../../../articles/%C4%8D/a/j/%C4%8Cajetina.html" title="Čajetina">Čajetina</a>, <a href="../../../../articles/k/o/s/Kosjeri%C4%87.html" title="Kosjerić">Kosjerić</a>, <a href="../../../../articles/p/o/%C5%BE/Po%C5%BEega.html" title="Požega">Požega</a></td></tr><tr><td><a href="../../../../articles/v/a/l/Valjevo.html" title="Valjevo">Valjevo</a></td><td align="right">14</td><td><a href="../../../../articles/v/a/l/Valjevo.html" title="Valjevo">Valjevo</a>, <a href="../../../../articles/l/a/j/Lajkovac.html" title="Lajkovac">Lajkovac</a>, <a href="../../../../articles/l/j/i/Ljig.html" title="Ljig">Ljig</a>, <a href="../../../../articles/m/i/o/Mionica.html" title="Mionica">Mionica</a>, <a href="../../../../articles/o/s/e/Ose%C4%8Dina.html" title="Osečina">Osečina</a>, <a href="../../../../articles/u/b/_/Ub_%28Serbia%29_fd26.html" title="Ub (Serbia)">Ub</a></td></tr><tr><td><a href="../../../../articles/v/r/a/Vranje.html" title="Vranje">Vranje</a></td><td align="right">17</td><td><a href="../../../../articles/v/r/a/Vranje.html" title="Vranje">Vranje</a>, <a href="../../../../articles/b/o/s/Bosilegrad.html" title="Bosilegrad">Bosilegrad</a>, <a href="../../../../articles/b/u/j/Bujanovac.html" title="Bujanovac">Bujanovac</a>, <a href="../../../../articles/p/r/e/Pre%C5%A1evo.html" title="Preševo">Preševo</a>, <a href="../../../../articles/s/u/r/Surdulica.html" title="Surdulica">Surdulica</a>, <a href="../../../../articles/t/r/g/Trgovi%C5%A1te.html" title="Trgovište">Trgovište</a>, <a href="../../../../articles/v/l/a/Vladi%C4%8Din_Han_55dc.html" title="Vladičin Han">Vladičin Han</a></td></tr><tr><td><a href="../../../../articles/z/a/j/Zaje%C4%8Dar.html" title="Zaječar">Zaječar</a></td><td align="right">19</td><td><a href="../../../../articles/z/a/j/Zaje%C4%8Dar.html" title="Zaječar">Zaječar</a>, <a href="../../../../articles/k/l/a/Kladovo.html" title="Kladovo">Kladovo</a>, <a href="../../../../articles/k/n/j/Knja%C5%BEevac.html" title="Knjaževac">Knjaževac</a>, <a href="../../../../articles/n/e/g/Negotin.html" title="Negotin">Negotin</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

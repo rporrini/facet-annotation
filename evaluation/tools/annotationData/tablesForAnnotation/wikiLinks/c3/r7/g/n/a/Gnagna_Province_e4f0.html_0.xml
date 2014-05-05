@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r7/g/n/a/Gnagna_Province_e4f0.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/g/n/a/Gnagna_Province_e4f0.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Commune</th>]]></html>
+	<text>Commune</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital</th>]]></html>
+	<text>Capital</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (Census 2006) [1]</th>]]></html>
+	<text>Population (Census 2006) [1]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bilanga Department</td>]]></html>
+	<text>Bilanga Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bilanga</td>]]></html>
+	<text>Bilanga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,667</td>]]></html>
+	<text>92,667</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bogandé Department</td>]]></html>
+	<text>Bogand&#233; Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bogandé</td>]]></html>
+	<text>Bogand&#233;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>82,892</td>]]></html>
+	<text>82,892</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Koalla Department</td>]]></html>
+	<text>Koalla Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koalla</td>]]></html>
+	<text>Koalla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43,370</td>]]></html>
+	<text>43,370</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liptougou Department</td>]]></html>
+	<text>Liptougou Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liptougou</td>]]></html>
+	<text>Liptougou</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41,807</td>]]></html>
+	<text>41,807</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manni Department</td>]]></html>
+	<text>Manni Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manni</td>]]></html>
+	<text>Manni</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68,293</td>]]></html>
+	<text>68,293</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piéla Department</td>]]></html>
+	<text>Pi&#233;la Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Piéla</td>]]></html>
+	<text>Pi&#233;la</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,672</td>]]></html>
+	<text>55,672</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thion Department</td>]]></html>
+	<text>Thion Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thion</td>]]></html>
+	<text>Thion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,038</td>]]></html>
+	<text>23,038</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>The Departments of Ganzourgou</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Gnagna Province - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Commune Capital Population (Census 2006) [1]</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>Gnagna is divided into 7 departments:</text>
+</context>
+<context>
+	<score>0.81671923</score>
+	<text>Gnagna Province</text>
+</context>
+<context>
+	<score>0.7974671</score>
+	<text>Gnagna is one of the 45 provinces of Burkina Faso , and is in Est Region . The capital of Gnagna is Bogand . The population of Gnagna in 2006 was 407,739.</text>
+</context>
+<context>
+	<score>0.7571146</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7463243</score>
+	<text>See also:</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.67477685</score>
+	<text>Gnagna Province</text>
+</context>
+<context>
+	<score>0.61635536</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.52857834</score>
+	<text>^ a b National 2006 census preliminary results [1]</text>
+</context>
+<context>
+	<score>0.47694474</score>
+	<text>This Burkina Faso location article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><caption>The Departments of Ganzourgou</caption><tr><th bgcolor="#BBBBFF">Commune</th><th bgcolor="#BBBBFF">Capital</th><th bgcolor="#BBBBFF">Population<br />(Census 2006)<sup id="cite_ref-c2006_0-1" class="reference"><a href="#cite_note-c2006-0" title="">[1]</a></sup></th></tr><tr><td><a href="../../../../articles/b/i/l/Bilanga_Department_61cb.html" title="Bilanga Department">Bilanga Department</a></td><td>Bilanga</td><td>92,667</td></tr><tr><td><a href="../../../../articles/b/o/g/Bogand%C3%A9_Department_9a94.html" title="Bogandé Department">Bogandé Department</a></td><td><a href="../../../../articles/b/o/g/Bogand%C3%A9.html" title="Bogandé">Bogandé</a></td><td>82,892</td></tr><tr><td><a href="../../../../articles/k/o/a/Koalla_Department_a14d.html" title="Koalla Department">Koalla Department</a></td><td>Koalla</td><td>43,370</td></tr><tr><td><a href="../../../../articles/l/i/p/Liptougou_Department_0678.html" title="Liptougou Department">Liptougou Department</a></td><td>Liptougou</td><td>41,807</td></tr><tr><td><a href="../../../../articles/m/a/n/Manni_Department_a410.html" title="Manni Department">Manni Department</a></td><td>Manni</td><td>68,293</td></tr><tr><td><a href="../../../../articles/p/i/%C3%A9/Pi%C3%A9la_Department_1337.html" title="Piéla Department">Piéla Department</a></td><td><a href="../../../../articles/p/i/%C3%A9/Pi%C3%A9la.html" title="Piéla">Piéla</a></td><td>55,672</td></tr><tr><td><a href="../../../../articles/t/h/i/Thion_Department_d3ff.html" title="Thion Department">Thion Department</a></td><td>Thion</td><td>23,038</td></tr></table>]]>
+</htmlSnippet>
+</entity>

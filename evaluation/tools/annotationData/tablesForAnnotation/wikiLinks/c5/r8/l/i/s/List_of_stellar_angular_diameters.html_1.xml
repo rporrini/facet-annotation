@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r8/l/i/s/List_of_stellar_angular_diameters.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.78749996 1, 0.16000001 2, 0.16000001 0 2, 0.144 1 2, 0.14 3, 0.14 0 3, 0.126 1 3, 0.120000005 4, 0.120000005 0 4, 0.108 1 4, 0.022400001 2 3, 0.019200003 2 4, 0.016800001 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_stellar_angular_diameters.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>dist.</th>]]></html>
+	<text>dist.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>diameter</th>]]></html>
+	<text>diameter</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Size</th>]]></html>
+	<text>Size</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alpha Arietis</td>]]></html>
+	<text>Alpha Arietis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>K2III</td>]]></html>
+	<text>K2III</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>65.9 ly</td>]]></html>
+	<text>65.9 ly</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00699</td>]]></html>
+	<text>0.00699</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.8</td>]]></html>
+	<text>14.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alpha Cassiopeiae</td>]]></html>
+	<text>Alpha Cassiopeiae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>K0III</td>]]></html>
+	<text>K0III</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150.0</td>]]></html>
+	<text>150.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00569</td>]]></html>
+	<text>0.00569</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.4</td>]]></html>
+	<text>27.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alpha Persei</td>]]></html>
+	<text>Alpha Persei</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F5Ib</td>]]></html>
+	<text>F5Ib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>592</td>]]></html>
+	<text>592</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00313</td>]]></html>
+	<text>0.00313</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>59.3</td>]]></html>
+	<text>59.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alpha Leporis</td>]]></html>
+	<text>Alpha Leporis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F0Ib</td>]]></html>
+	<text>F0Ib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1280</td>]]></html>
+	<text>1280</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00177</td>]]></html>
+	<text>0.00177</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72.5</td>]]></html>
+	<text>72.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Betelgeuse</td>]]></html>
+	<text>Betelgeuse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>M1Ib</td>]]></html>
+	<text>M1Ib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>425</td>]]></html>
+	<text>425</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.054</td>]]></html>
+	<text>0.054</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>734.4</td>]]></html>
+	<text>734.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Antares</td>]]></html>
+	<text>Antares</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>M1Ib</td>]]></html>
+	<text>M1Ib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>520</td>]]></html>
+	<text>520</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.041</td>]]></html>
+	<text>0.041</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>682.2</td>]]></html>
+	<text>682.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Proxima Centauri</td>]]></html>
+	<text>Proxima Centauri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>dM5</td>]]></html>
+	<text>dM5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.2</td>]]></html>
+	<text>4.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.007</td>]]></html>
+	<text>0.007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.0</td>]]></html>
+	<text>1.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Polaris</td>]]></html>
+	<text>Polaris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F7 Ib</td>]]></html>
+	<text>F7 Ib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>430</td>]]></html>
+	<text>430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00328</td>]]></html>
+	<text>0.00328</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.1</td>]]></html>
+	<text>45.1</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of stellar angular diameters - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Type dist. diameter Size</text>
+</context>
+<context>
+	<score>0.89105386</score>
+	<text>Please help improve the article with a good introductory style .</text>
+</context>
+<context>
+	<score>0.8317669</score>
+	<text>List of stellar angular diameters</text>
+</context>
+<context>
+	<score>0.78109425</score>
+	<text>The introduction to this article provides insufficient context for those unfamiliar with the subject.</text>
+</context>
+<context>
+	<score>0.7622858</score>
+	<text>This astronomy related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.7159293</score>
+	<text>Please help introduce links in articles on related topics . (November 2006)</text>
+</context>
+<context>
+	<score>0.65366274</score>
+	<text>This article is orphaned as few or no other articles link to it .</text>
+</context>
+<context>
+	<score>0.64185405</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61500204</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.60200346</score>
+	<text>List of stellar angular diameters</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Name</th><th>Type</th><th>dist.</th><th>diameter</th><th>Size</th></tr><tr><td><a href="../../../../articles/a/l/p/Alpha_Arietis_4783.html" title="Alpha Arietis">Alpha Arietis</a></td><td>K2III</td><td>65.9 <a href="../../../../articles/l/i/g/Light_year.html" class="mw-redirect" title="Light year">ly</a></td><td>0.00699</td><td>14.8</td></tr><tr><td><a href="../../../../articles/a/l/p/Alpha_Cassiopeiae_d4f9.html" title="Alpha Cassiopeiae">Alpha Cassiopeiae</a></td><td>K0III</td><td>150.0</td><td>0.00569</td><td>27.4</td></tr><tr><td><a href="../../../../articles/a/l/p/Alpha_Persei_e354.html" title="Alpha Persei">Alpha Persei</a></td><td>F5Ib</td><td>592</td><td>0.00313</td><td>59.3</td></tr><tr><td><a href="../../../../articles/a/l/p/Alpha_Leporis_6059.html" title="Alpha Leporis">Alpha Leporis</a></td><td>F0Ib</td><td>1280</td><td>0.00177</td><td>72.5</td></tr><tr><td><a href="../../../../articles/b/e/t/Betelgeuse.html" title="Betelgeuse">Betelgeuse</a></td><td>M1Ib</td><td>425</td><td>0.054</td><td>734.4</td></tr><tr><td><a href="../../../../articles/a/n/t/Antares.html" title="Antares">Antares</a></td><td>M1Ib</td><td>520</td><td>0.041</td><td>682.2</td></tr><tr><td><a href="../../../../articles/p/r/o/Proxima_Centauri_a719.html" title="Proxima Centauri">Proxima Centauri</a></td><td>dM5</td><td>4.2</td><td>0.007</td><td>1.0</td></tr><tr><td><a href="../../../../articles/p/o/l/Polaris.html" title="Polaris">Polaris</a></td><td>F7 Ib</td><td>430</td><td>0.00328</td><td>45.1</td></tr></table>]]>
+</htmlSnippet>
+</entity>

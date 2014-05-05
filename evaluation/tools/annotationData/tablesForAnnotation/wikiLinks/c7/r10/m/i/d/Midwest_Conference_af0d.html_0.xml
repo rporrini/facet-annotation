@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r10/m/i/d/Midwest_Conference_af0d.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 1, 0.85714287 2, 0.85714287 0 2, 0.8357142 1, 0.79591835 1 2, 0.78571427 0 4, 0.7295918 1 4, 0.67346936 2 4, 0.31428573 4, 0.14285715 0 3, 0.12857144 5, 0.12857144 0 5, 0.12244898 2 3, 0.119387746 1 3, 0.119387746 1 5, 0.11428572 3, 0.11428572 0 6, 0.11020408 2 5, 0.10612245 1 6, 0.10102041 3 4, 0.10102041 4 5, 0.09795919 2 6, 0.08081633 4 6, 0.080000006 6, 0.018367348 3 5, 0.016326532 3 6, 0.014693879 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/m/i/d/Midwest_Conference_af0d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nickname</th>]]></html>
+	<text>Nickname</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Founded</th>]]></html>
+	<text>Founded</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Affliation</th>]]></html>
+	<text>Affliation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Enrollment</th>]]></html>
+	<text>Enrollment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year Joined</th>]]></html>
+	<text>Year Joined</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beloit College</td>]]></html>
+	<text>Beloit College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buccaneers</td>]]></html>
+	<text>Buccaneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beloit, Wisconsin</td>]]></html>
+	<text>Beloit, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1846</td>]]></html>
+	<text>1846</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,346</td>]]></html>
+	<text>1,346</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1921</td>]]></html>
+	<text>1921</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Carroll College</td>]]></html>
+	<text>Carroll College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pioneers</td>]]></html>
+	<text>Pioneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waukesha, Wisconsin</td>]]></html>
+	<text>Waukesha, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1846</td>]]></html>
+	<text>1846</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian</td>]]></html>
+	<text>Private/Presbyterian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,448</td>]]></html>
+	<text>2,448</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grinnell College</td>]]></html>
+	<text>Grinnell College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pioneers</td>]]></html>
+	<text>Pioneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grinnell, Iowa</td>]]></html>
+	<text>Grinnell, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1846</td>]]></html>
+	<text>1846</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,556</td>]]></html>
+	<text>1,556</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1940</td>]]></html>
+	<text>1940</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois College</td>]]></html>
+	<text>Illinois College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blueboys/Lady Blues</td>]]></html>
+	<text>Blueboys/Lady Blues</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacksonville, Illinois</td>]]></html>
+	<text>Jacksonville, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1829</td>]]></html>
+	<text>1829</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,023</td>]]></html>
+	<text>1,023</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Knox College</td>]]></html>
+	<text>Knox College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prairie Fire</td>]]></html>
+	<text>Prairie Fire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galesburg, Illinois</td>]]></html>
+	<text>Galesburg, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1837</td>]]></html>
+	<text>1837</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian &amp; Congregationalist</td>]]></html>
+	<text>Private/Presbyterian &amp;amp;amp; Congregationalist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,351</td>]]></html>
+	<text>1,351</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1921</td>]]></html>
+	<text>1921</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lake Forest College</td>]]></html>
+	<text>Lake Forest College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Foresters</td>]]></html>
+	<text>Foresters</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Forest, Illinois</td>]]></html>
+	<text>Lake Forest, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1857</td>]]></html>
+	<text>1857</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,400</td>]]></html>
+	<text>1,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1974</td>]]></html>
+	<text>1974</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lawrence University</td>]]></html>
+	<text>Lawrence University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vikings</td>]]></html>
+	<text>Vikings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Appleton, Wisconsin</td>]]></html>
+	<text>Appleton, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1847</td>]]></html>
+	<text>1847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,469</td>]]></html>
+	<text>1,469</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1921</td>]]></html>
+	<text>1921</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Monmouth College</td>]]></html>
+	<text>Monmouth College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fighting Scots</td>]]></html>
+	<text>Fighting Scots</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monmouth, Illinois</td>]]></html>
+	<text>Monmouth, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1853</td>]]></html>
+	<text>1853</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian</td>]]></html>
+	<text>Private/Presbyterian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,359</td>]]></html>
+	<text>1,359</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1924</td>]]></html>
+	<text>1924</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ripon College</td>]]></html>
+	<text>Ripon College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red Hawks</td>]]></html>
+	<text>Red Hawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ripon, Wisconsin</td>]]></html>
+	<text>Ripon, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1851</td>]]></html>
+	<text>1851</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>981</td>]]></html>
+	<text>981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Norbert College</td>]]></html>
+	<text>St. Norbert College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Green Knights</td>]]></html>
+	<text>Green Knights</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>De Pere, Wisconsin</td>]]></html>
+	<text>De Pere, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1898</td>]]></html>
+	<text>1898</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Catholic</td>]]></html>
+	<text>Private/Catholic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,015</td>]]></html>
+	<text>2,015</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Midwest Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Nickname Location Founded Affliation Enrollment Year Joined</text>
+</context>
+<context>
+	<score>0.8878868</score>
+	<text>[ edit ] Current members</text>
+</context>
+<context>
+	<score>0.79798514</score>
+	<text>Midwest Conference</text>
+</context>
+<context>
+	<score>0.78109425</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7591188</score>
+	<text>[ edit ] Former Members</text>
+</context>
+<context>
+	<score>0.7296531</score>
+	<text>[ edit ] Current members</text>
+</context>
+<context>
+	<score>0.7296531</score>
+	<text>[ edit ] Former Members</text>
+</context>
+<context>
+	<score>0.7296531</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.7296531</score>
+	<text>[ edit ] Conference Facilities</text>
+</context>
+<context>
+	<score>0.7296531</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.720152</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7127623</score>
+	<text>The Midwest Conference is a College Athletic Conference affiliated with the NCAA &apos;s Division III. Member institutions are located in the midwestern United States in the states of Illinois , Iowa , and Wisconsin . The Midwest Conference was created in 1994 with the merger of the Midwest Collegiate Athletic Conference , which had been sponsoring men s sports since 1921, and the Midwest Athletic Conference for Women , which was formed in 1977.</text>
+</context>
+<context>
+	<score>0.65788555</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6080723</score>
+	<text>Midwest Conference</text>
+</context>
+<context>
+	<score>0.6023339</score>
+	<text>Years in conference in parentheses</text>
+</context>
+<context>
+	<score>0.52519757</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.47423428</score>
+	<text>Member teams compete in football , volleyball , soccer , golf , tennis , cross country , basketball , swimming , track and field , baseball and softball .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>School</th><th>Nickname</th><th>Location</th><th>Founded</th><th>Affliation</th><th>Enrollment</th><th>Year Joined</th></tr><tr><td><a href="../../../../articles/b/e/l/Beloit_College_1204.html" title="Beloit College">Beloit College</a></td><td>Buccaneers</td><td><a href="../../../../articles/b/e/l/Beloit%2C_Wisconsin_68cf.html" title="Beloit, Wisconsin">Beloit, Wisconsin</a></td><td>1846</td><td>Private</td><td>1,346</td><td>1921</td></tr><tr><td><a href="../../../../articles/c/a/r/Carroll_College_%28Wisconsin%29_138d.html" title="Carroll College (Wisconsin)">Carroll College</a></td><td>Pioneers</td><td><a href="../../../../articles/w/a/u/Waukesha%2C_Wisconsin_be3c.html" title="Waukesha, Wisconsin">Waukesha, Wisconsin</a></td><td>1846</td><td>Private/Presbyterian</td><td>2,448</td><td>1992</td></tr><tr><td><a href="../../../../articles/g/r/i/Grinnell_College_fcfe.html" title="Grinnell College">Grinnell College</a></td><td>Pioneers</td><td><a href="../../../../articles/g/r/i/Grinnell%2C_Iowa_3c02.html" title="Grinnell, Iowa">Grinnell, Iowa</a></td><td>1846</td><td>Private</td><td>1,556</td><td>1940</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois_College_b780.html" title="Illinois College">Illinois College</a></td><td>Blueboys/Lady Blues</td><td><a href="../../../../articles/j/a/c/Jacksonville%2C_Illinois_8c54.html" title="Jacksonville, Illinois">Jacksonville, Illinois</a></td><td>1829</td><td>Private</td><td>1,023</td><td>1982</td></tr><tr><td><a href="../../../../articles/k/n/o/Knox_College_%28Illinois%29_787a.html" title="Knox College (Illinois)">Knox College</a></td><td>Prairie Fire</td><td><a href="../../../../articles/g/a/l/Galesburg%2C_Illinois_e745.html" title="Galesburg, Illinois">Galesburg, Illinois</a></td><td>1837</td><td>Private/Presbyterian &amp; Congregationalist</td><td>1,351</td><td>1921</td></tr><tr><td><a href="../../../../articles/l/a/k/Lake_Forest_College_1962.html" title="Lake Forest College">Lake Forest College</a></td><td>Foresters</td><td><a href="../../../../articles/l/a/k/Lake_Forest%2C_Illinois_a1c5.html" title="Lake Forest, Illinois">Lake Forest, Illinois</a></td><td>1857</td><td>Private</td><td>1,400</td><td>1974</td></tr><tr><td><a href="../../../../articles/l/a/w/Lawrence_University_46e4.html" title="Lawrence University">Lawrence University</a></td><td>Vikings</td><td><a href="../../../../articles/a/p/p/Appleton%2C_Wisconsin_37b2.html" title="Appleton, Wisconsin">Appleton, Wisconsin</a></td><td>1847</td><td>Private</td><td>1,469</td><td>1921</td></tr><tr><td><a href="../../../../articles/m/o/n/Monmouth_College_6914.html" title="Monmouth College">Monmouth College</a></td><td>Fighting Scots</td><td><a href="../../../../articles/m/o/n/Monmouth%2C_Illinois_92c3.html" title="Monmouth, Illinois">Monmouth, Illinois</a></td><td>1853</td><td>Private/Presbyterian</td><td>1,359</td><td>1924</td></tr><tr><td><a href="../../../../articles/r/i/p/Ripon_College_%28Wisconsin%29_d5d6.html" title="Ripon College (Wisconsin)">Ripon College</a></td><td>Red Hawks</td><td><a href="../../../../articles/r/i/p/Ripon%2C_Wisconsin_6b3b.html" title="Ripon, Wisconsin">Ripon, Wisconsin</a></td><td>1851</td><td>Private</td><td>981</td><td>1923</td></tr><tr><td><a href="../../../../articles/s/t/2E/St._Norbert_College_b69b.html" title="St. Norbert College">St. Norbert College</a></td><td>Green Knights</td><td><a href="../../../../articles/d/e/_/De_Pere%2C_Wisconsin_e77a.html" title="De Pere, Wisconsin">De Pere, Wisconsin</a></td><td>1898</td><td>Private/Catholic</td><td>2,015</td><td>1982</td></tr></table>]]>
+</htmlSnippet>
+</entity>

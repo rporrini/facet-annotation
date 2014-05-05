@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r10/a/t/t/Attributes_of_the_largest_solar_system_bodies.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 5, 0.45833334 5, 0.16666667 1, 0.16666667 0 1, 0.15277779 1 5, 0.15 2, 0.15 0 2, 0.1375 2 5, 0.13333334 3, 0.13333334 0 3, 0.12222223 3 5, 0.11666667 4, 0.11666667 0 4, 0.10694445 4 5, 0.025 1 2, 0.022222225 1 3, 0.020000001 2 3, 0.019444445 1 4, 0.0175 2 4, 0.015555556 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/t/t/Attributes_of_the_largest_solar_system_bodies.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Satellite</th>]]></html>
+	<text>Satellite</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Equatorial diameter</th>]]></html>
+	<text>Equatorial diameter</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mass</th>]]></html>
+	<text>Mass</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Orbital circumference (km)</th>]]></html>
+	<text>Orbital circumference (km)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>orbital period (days)</th>]]></html>
+	<text>orbital period (days)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Satellite of</th>]]></html>
+	<text>Satellite of</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Moon</td>]]></html>
+	<text>The Moon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.273</td>]]></html>
+	<text>0.273</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0123</td>]]></html>
+	<text>0.0123</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,413,402</td>]]></html>
+	<text>2,413,402</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.321 66155</td>]]></html>
+	<text>27.321 66155</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Earth</td>]]></html>
+	<text>Earth</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Io</td>]]></html>
+	<text>Io</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.286</td>]]></html>
+	<text>0.286</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.015</td>]]></html>
+	<text>0.015</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,649,600</td>]]></html>
+	<text>2,649,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.769137786</td>]]></html>
+	<text>1.769137786</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jupiter</td>]]></html>
+	<text>Jupiter</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Europa</td>]]></html>
+	<text>Europa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.245</td>]]></html>
+	<text>0.245</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.008</td>]]></html>
+	<text>0.008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,216,100</td>]]></html>
+	<text>4,216,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.551181041</td>]]></html>
+	<text>3.551181041</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jupiter</td>]]></html>
+	<text>Jupiter</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ganymede</td>]]></html>
+	<text>Ganymede</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.413</td>]]></html>
+	<text>0.413</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.025</td>]]></html>
+	<text>0.025</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,725,500</td>]]></html>
+	<text>6,725,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.15455296</td>]]></html>
+	<text>7.15455296</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jupiter</td>]]></html>
+	<text>Jupiter</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Callisto</td>]]></html>
+	<text>Callisto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.378</td>]]></html>
+	<text>0.378</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.018</td>]]></html>
+	<text>0.018</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,829,000</td>]]></html>
+	<text>11,829,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.6890184</td>]]></html>
+	<text>16.6890184</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jupiter</td>]]></html>
+	<text>Jupiter</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhea</td>]]></html>
+	<text>Rhea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1198</td>]]></html>
+	<text>0.1198</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00039</td>]]></html>
+	<text>0.00039</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 311 917.24</td>]]></html>
+	<text>3 311 917.24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.518212</td>]]></html>
+	<text>4.518212</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saturn</td>]]></html>
+	<text>Saturn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Titan</td>]]></html>
+	<text>Titan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.404</td>]]></html>
+	<text>0.404</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0225</td>]]></html>
+	<text>0.0225</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 677 618.91</td>]]></html>
+	<text>7 677 618.91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.94542</td>]]></html>
+	<text>15.94542</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saturn</td>]]></html>
+	<text>Saturn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Titania</td>]]></html>
+	<text>Titania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1237</td>]]></html>
+	<text>0.1237</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00059</td>]]></html>
+	<text>0.00059</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 738 903.31</td>]]></html>
+	<text>2 738 903.31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.706</td>]]></html>
+	<text>8.706</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uranus</td>]]></html>
+	<text>Uranus</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oberon</td>]]></html>
+	<text>Oberon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1194</td>]]></html>
+	<text>0.1194</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0005</td>]]></html>
+	<text>0.0005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 666 364.29</td>]]></html>
+	<text>3 666 364.29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.463234</td>]]></html>
+	<text>13.463234</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uranus</td>]]></html>
+	<text>Uranus</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Triton</td>]]></html>
+	<text>Triton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.2122</td>]]></html>
+	<text>0.2122</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.00359</td>]]></html>
+	<text>0.00359</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 229 274.15</td>]]></html>
+	<text>2 229 274.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-5.877 (retrograde)</td>]]></html>
+	<text>-5.877 (retrograde)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neptune</td>]]></html>
+	<text>Neptune</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Attributes of the largest solar system bodies - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Satellite Equatorial diameter Mass Orbital circumference (km) orbital period (days) Satellite of</text>
+</context>
+<context>
+	<score>0.8424424</score>
+	<text>The orbital statistics refer to the satellite&apos;s orbit around its parent planet</text>
+</context>
+<context>
+	<score>0.7820453</score>
+	<text>Attributes of the largest solar system bodies</text>
+</context>
+<context>
+	<score>0.74453163</score>
+	<text>[ edit ] Largest satellites</text>
+</context>
+<context>
+	<score>0.70375204</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.6155595</score>
+	<text>Names in quotes are not official, but temporary nicknames given by the discoverers. Dwarf planets are in bold.</text>
+</context>
+<context>
+	<score>0.5630253</score>
+	<text>[ edit ] Largest minor planets</text>
+</context>
+<context>
+	<score>0.4984897</score>
+	<text>[ edit ] Planets</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="1" cellspacing="0" cellpadding="2" style="text-align:center; border-collapse:collapse;"><tr bgcolor="#CCCCFF"><th>Satellite</th><th>Equatorial<br />diameter</th><th>Mass</th><th>Orbital<br />circumference<br />(km)</th><th><a href="../../../../articles/o/r/b/Orbital_period.html" title="Orbital period">orbital period</a><br />(days)</th><th>Satellite of</th></tr><tr><td><a href="../../../../articles/m/o/o/Moon.html" title="Moon">The Moon</a></td><td align="center">0.273</td><td align="center">0.0123</td><td align="center">2,413,402</td><td align="center">27.321 66155</td><td align="center"><a href="../../../../articles/e/a/r/Earth_%28planet%29.html" class="mw-redirect" title="Earth (planet)">Earth</a></td></tr><tr><td><a href="../../../../articles/i/o/_/Io_%28moon%29.html" title="Io (moon)">Io</a></td><td align="center">0.286</td><td align="center">0.015</td><td align="center">2,649,600</td><td align="center">1.769137786</td><td align="center"><a href="../../../../articles/j/u/p/Jupiter.html" title="Jupiter">Jupiter</a></td></tr><tr><td><a href="../../../../articles/e/u/r/Europa_%28moon%29.html" title="Europa (moon)">Europa</a></td><td align="center">0.245</td><td align="center">0.008</td><td align="center">4,216,100</td><td align="center">3.551181041</td><td align="center"><a href="../../../../articles/j/u/p/Jupiter.html" title="Jupiter">Jupiter</a></td></tr><tr><td><a href="../../../../articles/g/a/n/Ganymede_%28moon%29.html" title="Ganymede (moon)">Ganymede</a></td><td align="center">0.413</td><td align="center">0.025</td><td align="center">6,725,500</td><td align="center">7.15455296</td><td align="center"><a href="../../../../articles/j/u/p/Jupiter.html" title="Jupiter">Jupiter</a></td></tr><tr><td><a href="../../../../articles/c/a/l/Callisto_%28moon%29.html" title="Callisto (moon)">Callisto</a></td><td align="center">0.378</td><td align="center">0.018</td><td align="center">11,829,000</td><td align="center">16.6890184</td><td align="center"><a href="../../../../articles/j/u/p/Jupiter.html" title="Jupiter">Jupiter</a></td></tr><tr><td><a href="../../../../articles/r/h/e/Rhea_%28moon%29.html" title="Rhea (moon)">Rhea</a></td><td align="center">0.1198</td><td align="center">0.00039</td><td align="center">3 311 917.24</td><td align="center">4.518212</td><td align="center"><a href="../../../../articles/s/a/t/Saturn.html" title="Saturn">Saturn</a></td></tr><tr><td><a href="../../../../articles/t/i/t/Titan_%28moon%29.html" title="Titan (moon)">Titan</a></td><td align="center">0.404</td><td align="center">0.0225</td><td align="center">7 677 618.91</td><td align="center">15.94542</td><td align="center"><a href="../../../../articles/s/a/t/Saturn.html" title="Saturn">Saturn</a></td></tr><tr><td><a href="../../../../articles/t/i/t/Titania_%28moon%29.html" title="Titania (moon)">Titania</a></td><td align="center">0.1237</td><td align="center">0.00059</td><td align="center">2 738 903.31</td><td align="center">8.706</td><td align="center"><a href="../../../../articles/u/r/a/Uranus.html" title="Uranus">Uranus</a></td></tr><tr><td><a href="../../../../articles/o/b/e/Oberon_%28moon%29.html" title="Oberon (moon)">Oberon</a></td><td align="center">0.1194</td><td align="center">0.0005</td><td align="center">3 666 364.29</td><td align="center">13.463234</td><td align="center"><a href="../../../../articles/u/r/a/Uranus.html" title="Uranus">Uranus</a></td></tr><tr><td><a href="../../../../articles/t/r/i/Triton_%28moon%29.html" title="Triton (moon)">Triton</a></td><td align="center">0.2122</td><td align="center">0.00359</td><td align="center">2 229 274.15</td><td align="center">-5.877<br />(retrograde)</td><td align="center"><a href="../../../../articles/n/e/p/Neptune.html" title="Neptune">Neptune</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

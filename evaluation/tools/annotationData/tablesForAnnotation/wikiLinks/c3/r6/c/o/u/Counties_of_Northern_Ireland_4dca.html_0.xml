@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/c/o/u/Counties_of_Northern_Ireland_4dca.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/c/o/u/Counties_of_Northern_Ireland_4dca.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Irish</th>]]></html>
+	<text>Irish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County town</th>]]></html>
+	<text>County town</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Antrim</td>]]></html>
+	<text>County Antrim</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae Aontroma</td>]]></html>
+	<text>Contae Aontroma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Antrim</td>]]></html>
+	<text>Antrim</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Armagh</td>]]></html>
+	<text>County Armagh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae Ard Mhacha</td>]]></html>
+	<text>Contae Ard Mhacha</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Armagh</td>]]></html>
+	<text>Armagh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Down</td>]]></html>
+	<text>County Down</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae An Dúin</td>]]></html>
+	<text>Contae An D&#250;in</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Downpatrick</td>]]></html>
+	<text>Downpatrick</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Fermanagh</td>]]></html>
+	<text>County Fermanagh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae Fhear Manach</td>]]></html>
+	<text>Contae Fhear Manach</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Enniskillen</td>]]></html>
+	<text>Enniskillen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Londonderry</td>]]></html>
+	<text>County Londonderry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae Dhoire</td>]]></html>
+	<text>Contae Dhoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Derry</td>]]></html>
+	<text>Derry</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>County Tyrone</td>]]></html>
+	<text>County Tyrone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contae Tír Eoghain</td>]]></html>
+	<text>Contae T&#237;r Eoghain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Omagh</td>]]></html>
+	<text>Omagh</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Counties of Northern Ireland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>County Irish County town</text>
+</context>
+<context>
+	<score>0.88288295</score>
+	<text>Although all the counties in Northern Ireland are in Ulster , the two are not the same. Ulster also includes three counties in the Republic of Ireland : Donegal , Cavan and Monaghan which are not part of the United Kingdom .</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Counties of Northern Ireland</text>
+</context>
+<context>
+	<score>0.78591317</score>
+	<text>[ edit ] Counties</text>
+</context>
+<context>
+	<score>0.7545406</score>
+	<text>[ edit ] County Antrim</text>
+</context>
+<context>
+	<score>0.7251725</score>
+	<text>[ edit ] Counties</text>
+</context>
+<context>
+	<score>0.7251725</score>
+	<text>[ edit ] Government</text>
+</context>
+<context>
+	<score>0.7251725</score>
+	<text>[ edit ] Lieutenancy areas</text>
+</context>
+<context>
+	<score>0.7251725</score>
+	<text>[ edit ] Former counties</text>
+</context>
+<context>
+	<score>0.7251725</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6462768</score>
+	<text>Northern Ireland is one of the four constituent parts of the United Kingdom . It comprises one fifth the island of Ireland, and consists of six of the counties of Ireland . According to certain sources the six pointed star of the former Government of Northern Ireland flag is there to represent the six counties that make up Northern Ireland. A common way to remember the six counties, is by the acronyms F A T L A D or FATDAD .</text>
+</context>
+<context>
+	<score>0.6093683</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6077439</score>
+	<text>Main article: County Antrim</text>
+</context>
+<context>
+	<score>0.5696495</score>
+	<text>Counties of Northern Ireland</text>
+</context>
+<context>
+	<score>0.52139294</score>
+	<text>County Antrim is located on the north east corner of Northern Ireland. It is one of two counties that does not border the Republic . Its county town is Antrim . It has an estimated population of 566,000 people, and a great attraction of the county is the Glens of Antrim . Half of the Greater Belfast area is in this county.</text>
+</context>
+<context>
+	<score>0.47059825</score>
+	<text>[ edit ] County Armagh</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="margin: 1em auto 1em auto"><tr bgcolor="#CCCCCC"><th>County</th><th><a href="../../../../articles/i/r/i/Irish_language.html" title="Irish language">Irish</a></th><th><a href="../../../../articles/c/o/u/County_town.html" title="County town">County town</a></th></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Antrim_a9ae.html" title="County Antrim">County Antrim</a></b></td><td><i>Contae Aontroma</i></td><td><a href="../../../../articles/a/n/t/Antrim%2C_County_Antrim_7b36.html" title="Antrim, County Antrim">Antrim</a></td></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Armagh_05d8.html" title="County Armagh">County Armagh</a></b></td><td><i>Contae Ard Mhacha</i></td><td><a href="../../../../articles/a/r/m/Armagh.html" title="Armagh">Armagh</a></td></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Down_fa32.html" title="County Down">County Down</a></b></td><td><i>Contae An Dúin</i></td><td><a href="../../../../articles/d/o/w/Downpatrick.html" title="Downpatrick">Downpatrick</a></td></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Fermanagh_5317.html" title="County Fermanagh">County Fermanagh</a></b></td><td><i>Contae Fhear Manach</i></td><td><a href="../../../../articles/e/n/n/Enniskillen.html" title="Enniskillen">Enniskillen</a></td></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Londonderry_9cae.html" title="County Londonderry">County Londonderry</a></b></td><td><i>Contae Dhoire</i></td><td><a href="../../../../articles/d/e/r/Derry.html" title="Derry">Derry</a></td></tr><tr><td><b><a href="../../../../articles/c/o/u/County_Tyrone_caaf.html" title="County Tyrone">County Tyrone</a></b></td><td><i>Contae Tír Eoghain</i></td><td><a href="../../../../articles/o/m/a/Omagh.html" title="Omagh">Omagh</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

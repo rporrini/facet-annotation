@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r18/h/i/s/Historical_urban_community_sizes.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.125 3, 0.125 0 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/h/i/s/Historical_urban_community_sizes.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1900</th>]]></html>
+	<text>1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1950</th>]]></html>
+	<text>1950</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>2000</th>]]></html>
+	<text>2000</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bangkok</td>]]></html>
+	<text>Bangkok</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300,000</td>]]></html>
+	<text>300,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,200,000</td>]]></html>
+	<text>1,200,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,320,000</td>]]></html>
+	<text>9,320,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,888,848</td>]]></html>
+	<text>1,888,848</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,336,026</td>]]></html>
+	<text>3,336,026</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,101,000</td>]]></html>
+	<text>4,101,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buenos Aires</td>]]></html>
+	<text>Buenos Aires</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>950,891</td>]]></html>
+	<text>950,891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,618,255</td>]]></html>
+	<text>4,618,255</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,460,575</td>]]></html>
+	<text>11,460,575</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago</td>]]></html>
+	<text>Chicago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,698,575</td>]]></html>
+	<text>1,698,575</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,900,000</td>]]></html>
+	<text>4,900,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,300,000</td>]]></html>
+	<text>8,300,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Istanbul</td>]]></html>
+	<text>Istanbul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>942,900</td>]]></html>
+	<text>942,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>983,041</td>]]></html>
+	<text>983,041</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,018,735</td>]]></html>
+	<text>10,018,735</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,506,954</td>]]></html>
+	<text>6,506,954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,196,978</td>]]></html>
+	<text>8,196,978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,250,000</td>]]></html>
+	<text>8,250,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Los Angeles</td>]]></html>
+	<text>Los Angeles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102,479</td>]]></html>
+	<text>102,479</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,500,000</td>]]></html>
+	<text>3,500,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,500,000</td>]]></html>
+	<text>11,500,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Madrid</td>]]></html>
+	<text>Madrid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>575,675</td>]]></html>
+	<text>575,675</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,553,338</td>]]></html>
+	<text>1,553,338</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,285,242</td>]]></html>
+	<text>5,285,242</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mexico City</td>]]></html>
+	<text>Mexico City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>400,000</td>]]></html>
+	<text>400,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,883,000</td>]]></html>
+	<text>2,883,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,400,000</td>]]></html>
+	<text>16,400,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moscow</td>]]></html>
+	<text>Moscow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,175,000</td>]]></html>
+	<text>1,175,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,847,000</td>]]></html>
+	<text>4,847,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,126,424</td>]]></html>
+	<text>10,126,424</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York City</td>]]></html>
+	<text>New York City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,200,000</td>]]></html>
+	<text>4,200,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,300,000</td>]]></html>
+	<text>12,300,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,800,000</td>]]></html>
+	<text>17,800,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Osaka</td>]]></html>
+	<text>Osaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,177,000 (1920)</td>]]></html>
+	<text>6,177,000 (1920)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,000,000</td>]]></html>
+	<text>9,000,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,643,915</td>]]></html>
+	<text>18,643,915</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paris</td>]]></html>
+	<text>Paris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,750,000</td>]]></html>
+	<text>3,750,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,150,000</td>]]></html>
+	<text>6,150,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,700,000</td>]]></html>
+	<text>9,700,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Petersburg</td>]]></html>
+	<text>Saint Petersburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,439,400</td>]]></html>
+	<text>1,439,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,691,000</td>]]></html>
+	<text>2,691,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,200,000</td>]]></html>
+	<text>4,200,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>São Paulo</td>]]></html>
+	<text>S&#227;o Paulo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>239,820</td>]]></html>
+	<text>239,820</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,700,000 (1954)</td>]]></html>
+	<text>2,700,000 (1954)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,500,000</td>]]></html>
+	<text>15,500,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shanghai</td>]]></html>
+	<text>Shanghai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000,000</td>]]></html>
+	<text>1,000,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,406,000 [5]</td>]]></html>
+	<text>5,406,000 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,738,000</td>]]></html>
+	<text>16,738,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tokyo</td>]]></html>
+	<text>Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,497,000</td>]]></html>
+	<text>1,497,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,051,000</td>]]></html>
+	<text>13,051,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,671,612</td>]]></html>
+	<text>34,671,612</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vienna</td>]]></html>
+	<text>Vienna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,769,137</td>]]></html>
+	<text>1,769,137</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,616,125</td>]]></html>
+	<text>1,616,125</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,550,000</td>]]></html>
+	<text>1,550,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Historical urban community sizes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City 1900 1950 2000</text>
+</context>
+<context>
+	<score>0.88257253</score>
+	<text>[ edit ] 20th century</text>
+</context>
+<context>
+	<score>0.79263496</score>
+	<text>Historical urban community sizes</text>
+</context>
+<context>
+	<score>0.7856001</score>
+	<text>[ edit ] Early Modern era</text>
+</context>
+<context>
+	<score>0.7542267</score>
+	<text>[ edit ] 21st century See List of cities by population for current data.</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] Neolithic settlements</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] Bronze Age</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] Iron Age</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] Middle Ages</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] Early Modern era</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] 20th century</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] 21st century</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.718845</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.715057</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7080222</score>
+	<text>[ edit ] Middle Ages</text>
+</context>
+<context>
+	<score>0.6459598</score>
+	<text>[ edit ] Iron Age</text>
+</context>
+<context>
+	<score>0.60742587</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5210725</score>
+	<text>Peter Connolly and Hazel Dodge, The Ancient City: Life in Classical Athens and Rome . ISBN 0-19-521409-9 Smith, Michael E. (2005); &quot;City Size in Late Post-Classic Mesoamerica&quot;, in Journal of Urban History , Vol. 31 No. 4, May 2005, pp. 403-434.</text>
+</context>
+<context>
+	<score>0.47526887</score>
+	<text>City of Knossos</text>
+</context>
+<context>
+	<score>0.4702764</score>
+	<text>Please help improve this article or section by expanding it.</text>
+</context>
+<context>
+	<score>0.4627876</score>
+	<text>[ edit ] Bronze Age Further information: Cities of the Ancient Near East</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:right"><tr><th style="text-align:left" width="120">City</th><th width="100">1900</th><th width="100">1950</th><th width="100">2000</th></tr><tr><td style="text-align:left"><a href="../../../../articles/b/a/n/Bangkok.html" title="Bangkok">Bangkok</a></td><td>300,000</td><td>1,200,000</td><td>9,320,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/b/e/r/Berlin.html" title="Berlin">Berlin</a></td><td>1,888,848</td><td>3,336,026</td><td>4,101,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/b/u/e/Buenos_Aires_8e35.html" title="Buenos Aires">Buenos Aires</a></td><td>950,891</td><td>4,618,255</td><td>11,460,575</td></tr><tr><td style="text-align:left"><a href="../../../../articles/c/h/i/Chicago.html" title="Chicago">Chicago</a></td><td>1,698,575</td><td>4,900,000</td><td>8,300,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/i/s/t/Istanbul.html" title="Istanbul">Istanbul</a></td><td>942,900</td><td>983,041</td><td>10,018,735</td></tr><tr><td style="text-align:left"><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td>6,506,954</td><td>8,196,978</td><td>8,250,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/l/o/s/Los_Angeles%2C_California_b493.html" title="Los Angeles, California">Los Angeles</a></td><td>102,479</td><td>3,500,000</td><td>11,500,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/m/a/d/Madrid.html" title="Madrid">Madrid</a></td><td>575,675</td><td>1,553,338</td><td>5,285,242</td></tr><tr><td style="text-align:left"><a href="../../../../articles/m/e/x/Mexico_City_fae1.html" title="Mexico City">Mexico City</a></td><td>400,000</td><td>2,883,000</td><td>16,400,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/m/o/s/Moscow.html" title="Moscow">Moscow</a></td><td>1,175,000</td><td>4,847,000</td><td>10,126,424</td></tr><tr><td style="text-align:left"><a href="../../../../articles/n/e/w/New_York_City_1428.html" title="New York City">New York City</a></td><td>4,200,000</td><td>12,300,000</td><td>17,800,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/o/s/a/Osaka.html" title="Osaka">Osaka</a></td><td>6,177,000 <sup>(1920)</sup></td><td>9,000,000</td><td>18,643,915</td></tr><tr><td style="text-align:left"><a href="../../../../articles/p/a/r/Paris.html" title="Paris">Paris</a></td><td>3,750,000</td><td>6,150,000</td><td>9,700,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/s/a/i/Saint_Petersburg_5667.html" title="Saint Petersburg">Saint Petersburg</a></td><td>1,439,400</td><td>2,691,000</td><td>4,200,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/s/%C3%A3/o/S%C3%A3o_Paulo_23d2.html" title="São Paulo">São Paulo</a></td><td>239,820</td><td>2,700,000 <sup>(1954)</sup></td><td>15,500,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/s/h/a/Shanghai.html" title="Shanghai">Shanghai</a></td><td>1,000,000</td><td>5,406,000 <sup id="cite_ref-Chandler_4-44" class="reference"><a href="#cite_note-Chandler-4" title="">[5]</a></sup></td><td>16,738,000</td></tr><tr><td style="text-align:left"><a href="../../../../articles/t/o/k/Tokyo.html" title="Tokyo">Tokyo</a></td><td>1,497,000</td><td>13,051,000</td><td>34,671,612</td></tr><tr><td style="text-align:left"><a href="../../../../articles/v/i/e/Vienna.html" title="Vienna">Vienna</a></td><td>1,769,137</td><td>1,616,125</td><td>1,550,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

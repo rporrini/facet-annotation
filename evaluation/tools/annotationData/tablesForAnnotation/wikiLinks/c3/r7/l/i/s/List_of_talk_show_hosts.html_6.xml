@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r7/l/i/s/List_of_talk_show_hosts.html_6.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, 0.35714287 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_talk_show_hosts.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Host</th>]]></html>
+	<text>Host</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Talk show(s) hosted</th>]]></html>
+	<text>Talk show(s) hosted</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zach Galifianakis</td>]]></html>
+	<text>Zach Galifianakis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Late World with Zach</td>]]></html>
+	<text>Late World with Zach</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Gangster</td>]]></html>
+	<text>El Gangster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico - United States</td>]]></html>
+	<text>Puerto Rico - United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No te Duermas</td>]]></html>
+	<text>No te Duermas</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wally George</td>]]></html>
+	<text>Wally George</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hot Seat</td>]]></html>
+	<text>Hot Seat</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charlie Gibson</td>]]></html>
+	<text>Charlie Gibson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Good Morning America</td>]]></html>
+	<text>Good Morning America</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trisha Goddard</td>]]></html>
+	<text>Trisha Goddard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trisha</td>]]></html>
+	<text>Trisha</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tom Green</td>]]></html>
+	<text>Tom Green</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Tom Green Show</td>]]></html>
+	<text>The Tom Green Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Merv Griffin</td>]]></html>
+	<text>Merv Griffin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Merv Griffin Show</td>]]></html>
+	<text>The Merv Griffin Show</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of talk show hosts - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.8810493</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.7876457</score>
+	<text>List of talk show hosts</text>
+</context>
+<context>
+	<score>0.7840796</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.7527071</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7065039</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.6444433</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.60591036</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.59479475</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.55507594</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.52330095</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.4978809</score>
+	<text>Top 0 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.46127605</score>
+	<text>This is a list of talk show hosts , sorted alphabetically by their surnames.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th width="150">Host</th><th width="150">Country</th><th width="400">Talk show(s) hosted</th></tr><tr><td><a href="../../../../articles/z/a/c/Zach_Galifianakis_58c8.html" title="Zach Galifianakis">Zach Galifianakis</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/l/a/t/Late_World_with_Zach_7656.html" title="Late World with Zach">Late World with Zach</a></i></td></tr><tr><td><a href="../../../../articles/a/n/t/Antonio_Sanchez_c982.html" title="Antonio Sanchez">El Gangster</a></td><td><a href="../../../../articles/p/u/e/Puerto_Rico_f6b0.html" title="Puerto Rico">Puerto Rico</a> - <a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/n/o/_/No_te_Duermas_5681.html" title="No te Duermas">No te Duermas</a></i></td></tr><tr><td><a href="../../../../articles/w/a/l/Wally_George_722d.html" title="Wally George">Wally George</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/h/o/t/Hot_Seat_%28talk_show%29_621c.html" title="Hot Seat (talk show)">Hot Seat</a></i></td></tr><tr><td><a href="../../../../articles/c/h/a/Charlie_Gibson_f4ca.html" class="mw-redirect" title="Charlie Gibson">Charlie Gibson</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/g/o/o/Good_Morning_America_4ee7.html" title="Good Morning America">Good Morning America</a></i></td></tr><tr><td><a href="../../../../articles/t/r/i/Trisha_Goddard_7dfc.html" title="Trisha Goddard">Trisha Goddard</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td><i><a href="../../../../articles/t/r/i/Trisha.html" title="Trisha">Trisha</a></i></td></tr><tr><td><a href="../../../../articles/t/o/m/Tom_Green_7cfd.html" title="Tom Green">Tom Green</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/h/e/The_Tom_Green_Show_286c.html" title="The Tom Green Show">The Tom Green Show</a></i></td></tr><tr><td><a href="../../../../articles/m/e/r/Merv_Griffin_a2b8.html" title="Merv Griffin">Merv Griffin</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/h/e/The_Merv_Griffin_Show_4e00.html" title="The Merv Griffin Show">The Merv Griffin Show</a></i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

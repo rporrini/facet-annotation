@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_cities_in_Germany_starting_with_XYZ_e373.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 0 3, 0.7 2, 0.65625 2 3, 0.6 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cities_in_Germany_starting_with_XYZ_e373.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Town</th>]]></html>
+	<text>Town</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Xanten</td>]]></html>
+	<text>Xanten</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21,300</td>]]></html>
+	<text>21,300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wesel</td>]]></html>
+	<text>Wesel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Rhine-Westphalia</td>]]></html>
+	<text>North Rhine-Westphalia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zeven</td>]]></html>
+	<text>Zeven</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,000</td>]]></html>
+	<text>12,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rotenburg</td>]]></html>
+	<text>Rotenburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lower Saxony</td>]]></html>
+	<text>Lower Saxony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zschopau</td>]]></html>
+	<text>Zschopau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,400</td>]]></html>
+	<text>12,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mittlerer Erzgebirgskreis</td>]]></html>
+	<text>Mittlerer Erzgebirgskreis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saxony</td>]]></html>
+	<text>Saxony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zweibrücken</td>]]></html>
+	<text>Zweibr&#252;cken</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,900</td>]]></html>
+	<text>35,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhineland-Palatinate</td>]]></html>
+	<text>Rhineland-Palatinate</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zwickau</td>]]></html>
+	<text>Zwickau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,100</td>]]></html>
+	<text>101,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saxony</td>]]></html>
+	<text>Saxony</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cities in Germany starting with XYZ - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Town Population District State</text>
+</context>
+<context>
+	<score>0.9035835</score>
+	<text>List of cities in Germany : A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z</text>
+</context>
+<context>
+	<score>0.8059982</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8059982</score>
+	<text>List of cities in Germany starting with XYZ</text>
+</context>
+<context>
+	<score>0.7550917</score>
+	<text>&quot;--&quot; in the district column means that the town is an urban district , i.e. a town which constitutes a district in its own right.</text>
+</context>
+<context>
+	<score>0.71624327</score>
+	<text>List of cities in Germany starting with XYZ</text>
+</context>
+<context>
+	<score>0.58524823</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="border"><tr><th>Town</th><th><a href="../../../../articles/p/o/p/Population.html" title="Population">Population</a></th><th><a href="../../../../articles/d/i/s/District.html" title="District">District</a></th><th><a href="../../../../articles/s/t/a/States_of_Germany_65c0.html" title="States of Germany">State</a></th></tr><tr><td><a href="../../../../articles/x/a/n/Xanten.html" title="Xanten">Xanten</a></td><td>21,300</td><td><a href="../../../../articles/w/e/s/Wesel_%28district%29.html" title="Wesel (district)">Wesel</a></td><td><a href="../../../../articles/n/o/r/North_Rhine-Westphalia_29ea.html" title="North Rhine-Westphalia">North Rhine-Westphalia</a></td></tr><tr><td><a href="../../../../articles/z/e/v/Zeven.html" title="Zeven">Zeven</a></td><td>12,000</td><td><a href="../../../../articles/r/o/t/Rotenburg_%28district%29.html" title="Rotenburg (district)">Rotenburg</a></td><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a></td></tr><tr><td><a href="../../../../articles/z/s/c/Zschopau.html" title="Zschopau">Zschopau</a></td><td>12,400</td><td><a href="../../../../articles/m/i/t/Mittlerer_Erzgebirgskreis_c7d6.html" title="Mittlerer Erzgebirgskreis">Mittlerer Erzgebirgskreis</a></td><td><a href="../../../../articles/f/r/e/Free_State_of_Saxony_0e9d.html" class="mw-redirect" title="Free State of Saxony">Saxony</a></td></tr><tr><td><a href="../../../../articles/z/w/e/Zweibr%C3%BCcken.html" title="Zweibrücken">Zweibrücken</a></td><td>35,900</td><td>--</td><td><a href="../../../../articles/r/h/i/Rhineland-Palatinate_0b91.html" title="Rhineland-Palatinate">Rhineland-Palatinate</a></td></tr><tr><td><a href="../../../../articles/z/w/i/Zwickau.html" title="Zwickau">Zwickau</a></td><td>101,100</td><td>--</td><td><a href="../../../../articles/f/r/e/Free_State_of_Saxony_0e9d.html" class="mw-redirect" title="Free State of Saxony">Saxony</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

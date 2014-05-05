@@ -1,0 +1,21 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wordnet_director_110014939" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_movie_106613686" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<relationshipAnnotations>
+<relAnnos col1="0" col2="2">
+<rel>directed</rel>
+</relAnnos>
+</relationshipAnnotations>
+
+</tableAnnotations>
+

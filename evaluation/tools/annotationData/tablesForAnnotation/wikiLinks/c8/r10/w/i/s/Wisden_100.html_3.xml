@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r10/w/i/s/Wisden_100.html_3.xml" />
+<meta name="primaryKey" value="0.9 1, 0.875 1 4, 0.84375 1 3, 0.8125 1 5, 0.73828125 3 4, 0.6855469 3 5, 0.5625 3, 0.52500004 4, 0.49765626 4 5, 0.4875 5, 0.15 2, 0.15 1 2, 0.140625 2 3, 0.1375 1 6, 0.13125001 2 4, 0.125 7, 0.125 1 7, 0.121875 2 5, 0.1171875 3 7, 0.11601562 3 6, 0.112500004 0, 0.112500004 0 1, 0.109375 4 7, 0.108281255 4 6, 0.10546876 0 3, 0.1015625 5 7, 0.100546874 5 6, 0.0984375 0 4, 0.09625 6, 0.091406256 0 5, 0.020625 2 6, 0.01875 2 7, 0.0171875 6 7, 0.016875 0 2, 0.015468751 0 6, 0.014062501 0 7, " />
+<meta name="parentHTMLDoc" value="en/articles/w/i/s/Wisden_100.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Bowler</th>]]></html>
+	<text>Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Figures</th>]]></html>
+	<text>Figures</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>For</th>]]></html>
+	<text>For</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Against</th>]]></html>
+	<text>Against</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rating</th>]]></html>
+	<text>Rating</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gary Gilmour</td>]]></html>
+	<text>Gary Gilmour</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6/14</td>]]></html>
+	<text>6/14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leeds</td>]]></html>
+	<text>Leeds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1975</td>]]></html>
+	<text>1975</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>205.56</td>]]></html>
+	<text>205.56</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aaqib Javed</td>]]></html>
+	<text>Aaqib Javed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7/37</td>]]></html>
+	<text>7/37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sharjah</td>]]></html>
+	<text>Sharjah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>202.25</td>]]></html>
+	<text>202.25</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waqar Younis</td>]]></html>
+	<text>Waqar Younis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7/36</td>]]></html>
+	<text>7/36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leeds</td>]]></html>
+	<text>Leeds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>181.34</td>]]></html>
+	<text>181.34</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chaminda Vaas</td>]]></html>
+	<text>Chaminda Vaas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8/19</td>]]></html>
+	<text>8/19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sri Lanka</td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zimbabwe</td>]]></html>
+	<text>Zimbabwe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colombo</td>]]></html>
+	<text>Colombo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>174.94</td>]]></html>
+	<text>174.94</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chaminda Vaas</td>]]></html>
+	<text>Chaminda Vaas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5/14</td>]]></html>
+	<text>5/14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sri Lanka</td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sharjah</td>]]></html>
+	<text>Sharjah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>173.93</td>]]></html>
+	<text>173.93</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joel Garner</td>]]></html>
+	<text>Joel Garner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5/38</td>]]></html>
+	<text>5/38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Indies</td>]]></html>
+	<text>West Indies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lord's, London</td>]]></html>
+	<text>Lord&amp;apos;s, London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1979</td>]]></html>
+	<text>1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>172.78</td>]]></html>
+	<text>172.78</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sunil Joshi</td>]]></html>
+	<text>Sunil Joshi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5/6</td>]]></html>
+	<text>5/6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nairobi</td>]]></html>
+	<text>Nairobi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999</td>]]></html>
+	<text>1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170.66</td>]]></html>
+	<text>170.66</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shaun Pollock</td>]]></html>
+	<text>Shaun Pollock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5/36</td>]]></html>
+	<text>5/36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Birmingham</td>]]></html>
+	<text>Birmingham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999</td>]]></html>
+	<text>1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>161.99</td>]]></html>
+	<text>161.99</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Muttiah Muralitharan</td>]]></html>
+	<text>Muttiah Muralitharan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7/30</td>]]></html>
+	<text>7/30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sri Lanka</td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sharjah</td>]]></html>
+	<text>Sharjah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>160.02</td>]]></html>
+	<text>160.02</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madan Lal</td>]]></html>
+	<text>Madan Lal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3/31</td>]]></html>
+	<text>3/31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Indies</td>]]></html>
+	<text>West Indies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lord's, London</td>]]></html>
+	<text>Lord&amp;apos;s, London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1983</td>]]></html>
+	<text>1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>158.50</td>]]></html>
+	<text>158.50</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Wisden 100 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Bowler Figures For Against Venue Year Rating</text>
+</context>
+<context>
+	<score>0.8820798</score>
+	<text>[ edit ] Top 10 Bowling performances</text>
+</context>
+<context>
+	<score>0.7969663</score>
+	<text>Wisden 100</text>
+</context>
+<context>
+	<score>0.7851085</score>
+	<text>For the full list, see Top 100 Batsmen (ODI) at Rediff.com .</text>
+</context>
+<context>
+	<score>0.7537354</score>
+	<text>For the full list, see Top 100 Bowlers (ODI) at Rediff.com .</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] Test cricket</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] ODI cricket</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] All-time lists</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] Other lists</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7226832</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193893</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70753145</score>
+	<text>[ edit ] Top 10 Batting performances</text>
+</context>
+<context>
+	<score>0.6454698</score>
+	<text>The top-rated bowling performance was Gary Gilmour &apos;s 6/14 for Australia against England at Leeds in 1975. Waqar Younis appears 9 times in the top 100, more than any other player.</text>
+</context>
+<context>
+	<score>0.60693634</score>
+	<text>[ edit ] Updating the list</text>
+</context>
+<context>
+	<score>0.5958205</score>
+	<text>The top-rated batting performance was Viv Richards &apos; 189* for West Indies against England at Manchester in 1984. 7 of Richards&apos; innings appeared in the top 100, more than any other batsman.</text>
+</context>
+<context>
+	<score>0.5561011</score>
+	<text>Following the success of the list for Test cricket, the Wisden 100 list for ODI cricket was released on 1 February 2002 .</text>
+</context>
+<context>
+	<score>0.52432555</score>
+	<text>[ edit ] ODI cricket</text>
+</context>
+<context>
+	<score>0.52058387</score>
+	<text>As with the Test cricket list, this list has had no official updated release since its inception. However, Wisden stated that Ricky Ponting &apos;s 140* against India in the 2003 World Cup final placed him 2nd on the batting list.</text>
+</context>
+<context>
+	<score>0.49890506</score>
+	<text>The list has had no official updated release since its inception. However, shortly after the list&apos;s release, Wisden stated that Mark Butcher &apos;s match-winning innings of 173* in the 4th Test of the 2001 Ashes series placed him in 48th place on the batting list with a rating of 200.8.</text>
+</context>
+<context>
+	<score>0.4785687</score>
+	<text>[ edit ] Updating the list</text>
+</context>
+<context>
+	<score>0.46978837</score>
+	<text>[ edit ] All-time lists</text>
+</context>
+<context>
+	<score>0.45900577</score>
+	<text>The list also received general criticism from a few leading sports editors.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Bowler</th><th>Figures</th><th>For</th><th>Against</th><th>Venue</th><th>Year</th><th>Rating</th></tr><tr><td>1</td><td><a href="../../../../articles/g/a/r/Gary_Gilmour_9b64.html" title="Gary Gilmour">Gary Gilmour</a></td><td>6/14</td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/h/e/a/Headingley_Stadium_11cd.html" title="Headingley Stadium">Leeds</a></td><td>1975</td><td>205.56</td></tr><tr><td>2</td><td><a href="../../../../articles/a/a/q/Aaqib_Javed_3cff.html" title="Aaqib Javed">Aaqib Javed</a></td><td>7/37</td><td><a href="../../../../articles/p/a/k/Pakistani_cricket_team.html" class="mw-redirect" title="Pakistani cricket team">Pakistan</a></td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/s/h/a/Sharjah_Cricket_Association_Stadium_b93f.html" title="Sharjah Cricket Association Stadium">Sharjah</a></td><td>1991</td><td>202.25</td></tr><tr><td>3</td><td><a href="../../../../articles/w/a/q/Waqar_Younis_1827.html" title="Waqar Younis">Waqar Younis</a></td><td>7/36</td><td><a href="../../../../articles/p/a/k/Pakistani_cricket_team.html" class="mw-redirect" title="Pakistani cricket team">Pakistan</a></td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/h/e/a/Headingley_Stadium_11cd.html" title="Headingley Stadium">Leeds</a></td><td>2001</td><td>181.34</td></tr><tr><td>4</td><td><a href="../../../../articles/c/h/a/Chaminda_Vaas_eedc.html" title="Chaminda Vaas">Chaminda Vaas</a></td><td>8/19</td><td><a href="../../../../articles/s/r/i/Sri_Lankan_cricket_team_e5c9.html" class="mw-redirect" title="Sri Lankan cricket team">Sri Lanka</a></td><td><a href="../../../../articles/z/i/m/Zimbabwean_cricket_team.html" class="mw-redirect" title="Zimbabwean cricket team">Zimbabwe</a></td><td><a href="../../../../articles/s/i/n/Sinhalese_Sports_Club_Ground_6971.html" title="Sinhalese Sports Club Ground">Colombo</a></td><td>2001</td><td>174.94</td></tr><tr><td>5</td><td><a href="../../../../articles/c/h/a/Chaminda_Vaas_eedc.html" title="Chaminda Vaas">Chaminda Vaas</a></td><td>5/14</td><td><a href="../../../../articles/s/r/i/Sri_Lankan_cricket_team_e5c9.html" class="mw-redirect" title="Sri Lankan cricket team">Sri Lanka</a></td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/s/h/a/Sharjah_Cricket_Association_Stadium_b93f.html" title="Sharjah Cricket Association Stadium">Sharjah</a></td><td>2000</td><td>173.93</td></tr><tr><td>6</td><td><a href="../../../../articles/j/o/e/Joel_Garner_449d.html" title="Joel Garner">Joel Garner</a></td><td>5/38</td><td><a href="../../../../articles/w/e/s/West_Indian_cricket_team_6ec3.html" class="mw-redirect" title="West Indian cricket team">West Indies</a></td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/l/o/r/Lord%27s_Cricket_Ground_3c18.html" title="Lord's Cricket Ground">Lord's, London</a></td><td>1979</td><td>172.78</td></tr><tr><td>7</td><td><a href="../../../../articles/s/u/n/Sunil_Joshi_a65f.html" title="Sunil Joshi">Sunil Joshi</a></td><td>5/6</td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/s/o/u/South_African_cricket_team_2ad2.html" class="mw-redirect" title="South African cricket team">South Africa</a></td><td><a href="../../../../articles/n/a/i/Nairobi_Gymkhana_Club_6bf5.html" title="Nairobi Gymkhana Club">Nairobi</a></td><td>1999</td><td>170.66</td></tr><tr><td>8</td><td><a href="../../../../articles/s/h/a/Shaun_Pollock_ee9e.html" title="Shaun Pollock">Shaun Pollock</a></td><td>5/36</td><td><a href="../../../../articles/s/o/u/South_African_cricket_team_2ad2.html" class="mw-redirect" title="South African cricket team">South Africa</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/e/d/g/Edgbaston_Cricket_Ground_fedc.html" title="Edgbaston Cricket Ground">Birmingham</a></td><td>1999</td><td>161.99</td></tr><tr><td>9</td><td><a href="../../../../articles/m/u/t/Muttiah_Muralitharan_17f7.html" title="Muttiah Muralitharan">Muttiah Muralitharan</a></td><td>7/30</td><td><a href="../../../../articles/s/r/i/Sri_Lankan_cricket_team_e5c9.html" class="mw-redirect" title="Sri Lankan cricket team">Sri Lanka</a></td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/s/h/a/Sharjah_Cricket_Association_Stadium_b93f.html" title="Sharjah Cricket Association Stadium">Sharjah</a></td><td>2000</td><td>160.02</td></tr><tr><td>10</td><td><a href="../../../../articles/m/a/d/Madan_Lal_49cf.html" title="Madan Lal">Madan Lal</a></td><td>3/31</td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/w/e/s/West_Indian_cricket_team_6ec3.html" class="mw-redirect" title="West Indian cricket team">West Indies</a></td><td><a href="../../../../articles/l/o/r/Lord%27s_Cricket_Ground_3c18.html" title="Lord's Cricket Ground">Lord's, London</a></td><td>1983</td><td>158.50</td></tr></table>]]>
+</htmlSnippet>
+</entity>

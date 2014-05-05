@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r50/u/2E/s/U.S._state_temperature_extremes_a5b4.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 3, 0.9285714 0 3, 0.85714287 6, 0.85714287 0 6, 0.79591835 3 6, 0.15714286 0 2, 0.14591837 2 3, 0.14285715 0 5, 0.13469389 2 6, 0.13265306 3 5, 0.12857144 0 1, 0.12285715 5, 0.12257143 2, 0.12244899 5 6, 0.11938776 1 3, 0.110204086 1 6, 0.077142864 1, 0.05714286 0 4, 0.053061225 3 4, 0.048979595 4 6, 0.040000003 4, 0.022448981 2 5, 0.020204082 1 2, 0.018367348 1 5, 0.008800001 2 4, 0.008 4 5, 0.0070530614 1 4, " />
+<meta name="parentHTMLDoc" value="en/articles/u/2E/s/U.S._state_temperature_extremes_a5b4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Record high Temperature</th>]]></html>
+	<text>Record high Temperature</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Place(s)</th>]]></html>
+	<text>Place(s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Record low Temperature</th>]]></html>
+	<text>Record low Temperature</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Place(s)</th>]]></html>
+	<text>Place(s)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112°F / 44°C</td>]]></html>
+	<text>112&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 5 , 1925</td>]]></html>
+	<text>September 5 , 1925</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Centerville</td>]]></html>
+	<text>Centerville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-27°F / -33°C</td>]]></html>
+	<text>-27&#176;F / -33&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 30 , 1966</td>]]></html>
+	<text>January 30 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Market</td>]]></html>
+	<text>New Market</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100°F / 38°C</td>]]></html>
+	<text>100&#176;F / 38&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 27 , 1915</td>]]></html>
+	<text>June 27 , 1915</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort Yukon</td>]]></html>
+	<text>Fort Yukon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-80°F / -62°C</td>]]></html>
+	<text>-80&#176;F / -62&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 23 , 1971</td>]]></html>
+	<text>January 23 , 1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prospect Creek</td>]]></html>
+	<text>Prospect Creek</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>128°F / 53°C</td>]]></html>
+	<text>128&#176;F / 53&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 5 , 2007 *</td>]]></html>
+	<text>July 5 , 2007 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Havasu City</td>]]></html>
+	<text>Lake Havasu City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-40°F / -40°C</td>]]></html>
+	<text>-40&#176;F / -40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 7 , 1971</td>]]></html>
+	<text>January 7 , 1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawley Lake</td>]]></html>
+	<text>Hawley Lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120°F / 49°C</td>]]></html>
+	<text>120&#176;F / 49&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 10 , 1936</td>]]></html>
+	<text>August 10 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ozark</td>]]></html>
+	<text>Ozark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-29°F / -34°C</td>]]></html>
+	<text>-29&#176;F / -34&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 13 , 1905</td>]]></html>
+	<text>February 13 , 1905</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pond</td>]]></html>
+	<text>Pond</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>134°F / 57°C</td>]]></html>
+	<text>134&#176;F / 57&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1913</td>]]></html>
+	<text>July 10 , 1913</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Death Valley</td>]]></html>
+	<text>Death Valley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-45°F / -43°C</td>]]></html>
+	<text>-45&#176;F / -43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 20 , 1937</td>]]></html>
+	<text>January 20 , 1937</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boca</td>]]></html>
+	<text>Boca</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 11 , 1888</td>]]></html>
+	<text>July 11 , 1888</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bennett</td>]]></html>
+	<text>Bennett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-61°F / -52°C</td>]]></html>
+	<text>-61&#176;F / -52&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 1 , 1985</td>]]></html>
+	<text>February 1 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maybell</td>]]></html>
+	<text>Maybell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106°F / 41°C</td>]]></html>
+	<text>106&#176;F / 41&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 15 , 1995</td>]]></html>
+	<text>July 15 , 1995</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Danbury</td>]]></html>
+	<text>Danbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-32°F / -36°C</td>]]></html>
+	<text>-32&#176;F / -36&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 16 , 1943 *</td>]]></html>
+	<text>February 16 , 1943 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Falls Village</td>]]></html>
+	<text>Falls Village</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110°F / 43°C</td>]]></html>
+	<text>110&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 21 , 1930</td>]]></html>
+	<text>July 21 , 1930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Millsboro</td>]]></html>
+	<text>Millsboro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-17°F / -27°C</td>]]></html>
+	<text>-17&#176;F / -27&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 17 , 1893</td>]]></html>
+	<text>January 17 , 1893</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Millsboro</td>]]></html>
+	<text>Millsboro</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>109°F / 43°C</td>]]></html>
+	<text>109&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 29 , 1931</td>]]></html>
+	<text>June 29 , 1931</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monticello</td>]]></html>
+	<text>Monticello</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-2°F / -19°C</td>]]></html>
+	<text>-2&#176;F / -19&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 13 , 1899</td>]]></html>
+	<text>February 13 , 1899</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tallahassee</td>]]></html>
+	<text>Tallahassee</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112°F / 44°C</td>]]></html>
+	<text>112&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 24 , 1952</td>]]></html>
+	<text>July 24 , 1952</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisville</td>]]></html>
+	<text>Louisville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-17°F / -27°C</td>]]></html>
+	<text>-17&#176;F / -27&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 27 , 1940</td>]]></html>
+	<text>January 27 , 1940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northern Floyd County</td>]]></html>
+	<text>Northern Floyd County</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100°F / 38°C</td>]]></html>
+	<text>100&#176;F / 38&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 27 , 1931</td>]]></html>
+	<text>April 27 , 1931</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pahala</td>]]></html>
+	<text>Pahala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12°F / -11°C</td>]]></html>
+	<text>12&#176;F / -11&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 17 , 1979</td>]]></html>
+	<text>May 17 , 1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mauna Kea</td>]]></html>
+	<text>Mauna Kea</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 28 , 1934</td>]]></html>
+	<text>July 28 , 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Orofino</td>]]></html>
+	<text>Orofino</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-60°F / -51°C</td>]]></html>
+	<text>-60&#176;F / -51&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 18 , 1943</td>]]></html>
+	<text>January 18 , 1943</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Island Park Dam</td>]]></html>
+	<text>Island Park Dam</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117°F / 47°C</td>]]></html>
+	<text>117&#176;F / 47&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 14 , 1954</td>]]></html>
+	<text>July 14 , 1954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East St. Louis</td>]]></html>
+	<text>East St. Louis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-36°F / -38°C</td>]]></html>
+	<text>-36&#176;F / -38&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 5 , 1999</td>]]></html>
+	<text>January 5 , 1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Congerville</td>]]></html>
+	<text>Congerville</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>116°F / 47°C</td>]]></html>
+	<text>116&#176;F / 47&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 14 , 1936</td>]]></html>
+	<text>July 14 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Collegeville</td>]]></html>
+	<text>Collegeville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-36°F / -38°C</td>]]></html>
+	<text>-36&#176;F / -38&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 19 , 1994</td>]]></html>
+	<text>January 19 , 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Whiteland</td>]]></html>
+	<text>New Whiteland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 20 , 1934</td>]]></html>
+	<text>July 20 , 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Keokuk</td>]]></html>
+	<text>Keokuk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-47°F / -44°C</td>]]></html>
+	<text>-47&#176;F / -44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 3 , 1996 *</td>]]></html>
+	<text>February 3 , 1996 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elkader</td>]]></html>
+	<text>Elkader</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>121°F / 49°C</td>]]></html>
+	<text>121&#176;F / 49&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 24 , 1936 *</td>]]></html>
+	<text>July 24 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alton</td>]]></html>
+	<text>Alton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-40°F / -40°C</td>]]></html>
+	<text>-40&#176;F / -40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 13 , 1905</td>]]></html>
+	<text>February 13 , 1905</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lebanon</td>]]></html>
+	<text>Lebanon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114°F / 46°C</td>]]></html>
+	<text>114&#176;F / 46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 28 , 1930</td>]]></html>
+	<text>July 28 , 1930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greensburg</td>]]></html>
+	<text>Greensburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-34°F / -37°C</td>]]></html>
+	<text>-34&#176;F / -37&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 28 , 1963</td>]]></html>
+	<text>January 28 , 1963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cynthiana</td>]]></html>
+	<text>Cynthiana</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114°F / 46°C</td>]]></html>
+	<text>114&#176;F / 46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 10 , 1936</td>]]></html>
+	<text>August 10 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Plain Dealing</td>]]></html>
+	<text>Plain Dealing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-16°F / -27°C</td>]]></html>
+	<text>-16&#176;F / -27&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 13 , 1899</td>]]></html>
+	<text>February 13 , 1899</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minden</td>]]></html>
+	<text>Minden</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105°F / 41°C</td>]]></html>
+	<text>105&#176;F / 41&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1911 *</td>]]></html>
+	<text>July 10 , 1911 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Bridgton</td>]]></html>
+	<text>North Bridgton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-48°F / -45°C</td>]]></html>
+	<text>-48&#176;F / -45&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 19 , 1925</td>]]></html>
+	<text>January 19 , 1925</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Van Buren</td>]]></html>
+	<text>Van Buren</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>109°F / 44°C</td>]]></html>
+	<text>109&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1936 *</td>]]></html>
+	<text>July 10 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cumberland , Frederick</td>]]></html>
+	<text>Cumberland , Frederick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-40°F / -40°C</td>]]></html>
+	<text>-40&#176;F / -40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 13 , 1912</td>]]></html>
+	<text>January 13 , 1912</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oakland</td>]]></html>
+	<text>Oakland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107°F / 43°C</td>]]></html>
+	<text>107&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 2 , 1975</td>]]></html>
+	<text>August 2 , 1975</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Bedford , Chester</td>]]></html>
+	<text>New Bedford , Chester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-35°F / -37°C</td>]]></html>
+	<text>-35&#176;F / -37&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 12 , 1981</td>]]></html>
+	<text>January 12 , 1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chester</td>]]></html>
+	<text>Chester</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112°F / 44°C</td>]]></html>
+	<text>112&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 13 , 1936</td>]]></html>
+	<text>July 13 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mio</td>]]></html>
+	<text>Mio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-51°F / -46°C</td>]]></html>
+	<text>-51&#176;F / -46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 9 , 1934</td>]]></html>
+	<text>February 9 , 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vanderbilt</td>]]></html>
+	<text>Vanderbilt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114°F / 46°C</td>]]></html>
+	<text>114&#176;F / 46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 6 , 1936 *</td>]]></html>
+	<text>July 6 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moorhead</td>]]></html>
+	<text>Moorhead</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-60°F / -51°C</td>]]></html>
+	<text>-60&#176;F / -51&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 2 , 1996</td>]]></html>
+	<text>February 2 , 1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tower</td>]]></html>
+	<text>Tower</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115°F / 47°C</td>]]></html>
+	<text>115&#176;F / 47&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 29 , 1930</td>]]></html>
+	<text>July 29 , 1930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Holly Springs</td>]]></html>
+	<text>Holly Springs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-19°F / -28°C</td>]]></html>
+	<text>-19&#176;F / -28&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 30 , 1966</td>]]></html>
+	<text>January 30 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Corinth</td>]]></html>
+	<text>Corinth</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 14 , 1954 *</td>]]></html>
+	<text>July 14 , 1954 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warsaw , Union</td>]]></html>
+	<text>Warsaw , Union</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-40°F / -40°C</td>]]></html>
+	<text>-40&#176;F / -40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 13 , 1905</td>]]></html>
+	<text>February 13 , 1905</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warsaw</td>]]></html>
+	<text>Warsaw</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117°F / 48°C</td>]]></html>
+	<text>117&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 5 , 1937</td>]]></html>
+	<text>July 5 , 1937</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medicine Lake</td>]]></html>
+	<text>Medicine Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-70°F / -57°C</td>]]></html>
+	<text>-70&#176;F / -57&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 20 , 1954</td>]]></html>
+	<text>January 20 , 1954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rogers Pass</td>]]></html>
+	<text>Rogers Pass</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 24 , 1936 *</td>]]></html>
+	<text>July 24 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minden</td>]]></html>
+	<text>Minden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-47°F / -44°C</td>]]></html>
+	<text>-47&#176;F / -44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 12 , 1899 *</td>]]></html>
+	<text>February 12 , 1899 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camp Clarke</td>]]></html>
+	<text>Camp Clarke</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125°F / 52°C</td>]]></html>
+	<text>125&#176;F / 52&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 29 , 1994 *</td>]]></html>
+	<text>June 29 , 1994 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Laughlin</td>]]></html>
+	<text>Laughlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-50°F / -46°C</td>]]></html>
+	<text>-50&#176;F / -46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 8 , 1937</td>]]></html>
+	<text>January 8 , 1937</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Jacinto</td>]]></html>
+	<text>San Jacinto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106°F / 42°C</td>]]></html>
+	<text>106&#176;F / 42&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 4 , 1911</td>]]></html>
+	<text>July 4 , 1911</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nashua</td>]]></html>
+	<text>Nashua</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-47°F / -44°C</td>]]></html>
+	<text>-47&#176;F / -44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 29 , 1934</td>]]></html>
+	<text>January 29 , 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Washington</td>]]></html>
+	<text>Mount Washington</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110°F / 43°C</td>]]></html>
+	<text>110&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1936</td>]]></html>
+	<text>July 10 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Runyon</td>]]></html>
+	<text>Runyon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-34°F / -37°C</td>]]></html>
+	<text>-34&#176;F / -37&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 5 , 1934</td>]]></html>
+	<text>January 5 , 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Vale</td>]]></html>
+	<text>River Vale</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>122°F / 50°C</td>]]></html>
+	<text>122&#176;F / 50&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 27 , 1994</td>]]></html>
+	<text>June 27 , 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lakewood</td>]]></html>
+	<text>Lakewood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-50°F / -45°C</td>]]></html>
+	<text>-50&#176;F / -45&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 1 , 1951</td>]]></html>
+	<text>February 1 , 1951</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gavilan</td>]]></html>
+	<text>Gavilan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>108°F / 42°C</td>]]></html>
+	<text>108&#176;F / 42&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 22 , 1926 *</td>]]></html>
+	<text>July 22 , 1926 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Troy</td>]]></html>
+	<text>Troy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-57°F / -47°C</td>]]></html>
+	<text>-57&#176;F / -47&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 18 , 1979</td>]]></html>
+	<text>February 18 , 1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Old Forge</td>]]></html>
+	<text>Old Forge</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110°F / 43°C</td>]]></html>
+	<text>110&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 21 , 1983</td>]]></html>
+	<text>August 21 , 1983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fayetteville</td>]]></html>
+	<text>Fayetteville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-34°F / -37°C</td>]]></html>
+	<text>-34&#176;F / -37&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 21 , 1985</td>]]></html>
+	<text>January 21 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Mitchell</td>]]></html>
+	<text>Mount Mitchell</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>121°F / 50°C</td>]]></html>
+	<text>121&#176;F / 50&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 6 , 1936</td>]]></html>
+	<text>July 6 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steele</td>]]></html>
+	<text>Steele</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-60°F / -51°C</td>]]></html>
+	<text>-60&#176;F / -51&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 15 , 1936</td>]]></html>
+	<text>February 15 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parshall</td>]]></html>
+	<text>Parshall</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113°F / 45°C</td>]]></html>
+	<text>113&#176;F / 45&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 21 , 1934 *</td>]]></html>
+	<text>July 21 , 1934 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gallipolis</td>]]></html>
+	<text>Gallipolis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-39°F / -40°C</td>]]></html>
+	<text>-39&#176;F / -40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 10 , 1899</td>]]></html>
+	<text>February 10 , 1899</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Milligan</td>]]></html>
+	<text>Milligan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120°F / 48°C</td>]]></html>
+	<text>120&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 27 , 1994 *</td>]]></html>
+	<text>June 27 , 1994 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tipton</td>]]></html>
+	<text>Tipton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-27°F / -33°C</td>]]></html>
+	<text>-27&#176;F / -33&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 18 , 1930 *</td>]]></html>
+	<text>January 18 , 1930 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Watts</td>]]></html>
+	<text>Watts</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>119°F / 49°C</td>]]></html>
+	<text>119&#176;F / 49&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 10 , 1898 *</td>]]></html>
+	<text>August 10 , 1898 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendleton</td>]]></html>
+	<text>Pendleton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-54°F / -48°C</td>]]></html>
+	<text>-54&#176;F / -48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 10 , 1933 *</td>]]></html>
+	<text>February 10 , 1933 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seneca</td>]]></html>
+	<text>Seneca</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111°F / 44°C</td>]]></html>
+	<text>111&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1936 *</td>]]></html>
+	<text>July 10 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phoenixville</td>]]></html>
+	<text>Phoenixville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-42°F / -41°C</td>]]></html>
+	<text>-42&#176;F / -41&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 5 , 1904</td>]]></html>
+	<text>January 5 , 1904</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Smethport</td>]]></html>
+	<text>Smethport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104°F / 40°C</td>]]></html>
+	<text>104&#176;F / 40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 2 , 1975</td>]]></html>
+	<text>August 2 , 1975</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Providence</td>]]></html>
+	<text>Providence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-25°F / -32°C</td>]]></html>
+	<text>-25&#176;F / -32&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 5 , 1996</td>]]></html>
+	<text>February 5 , 1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greene</td>]]></html>
+	<text>Greene</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111°F / 44°C</td>]]></html>
+	<text>111&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 28 , 1954 *</td>]]></html>
+	<text>June 28 , 1954 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camden</td>]]></html>
+	<text>Camden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-19°F / -28°C</td>]]></html>
+	<text>-19&#176;F / -28&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 21 , 1985</td>]]></html>
+	<text>January 21 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Caesars Head</td>]]></html>
+	<text>Caesars Head</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120°F / 49°C</td>]]></html>
+	<text>120&#176;F / 49&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 15 , 2006 *</td>]]></html>
+	<text>July 15 , 2006 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Usta (near)</td>]]></html>
+	<text>Usta (near)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-58°F / -50°C</td>]]></html>
+	<text>-58&#176;F / -50&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 17 , 1936</td>]]></html>
+	<text>February 17 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>McIntosh</td>]]></html>
+	<text>McIntosh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113°F / 48°C</td>]]></html>
+	<text>113&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 9 , 1930 *</td>]]></html>
+	<text>August 9 , 1930 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perryville</td>]]></html>
+	<text>Perryville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-32°F / -36°C</td>]]></html>
+	<text>-32&#176;F / -36&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 30 , 1917</td>]]></html>
+	<text>December 30 , 1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mountain City</td>]]></html>
+	<text>Mountain City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120°F / 49°C</td>]]></html>
+	<text>120&#176;F / 49&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 12 , 1930 *</td>]]></html>
+	<text>August 12 , 1930 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seymour</td>]]></html>
+	<text>Seymour</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-23°F / -31°C</td>]]></html>
+	<text>-23&#176;F / -31&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 8 , 1933 *</td>]]></html>
+	<text>February 8 , 1933 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seminole</td>]]></html>
+	<text>Seminole</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117°F / 47°C</td>]]></html>
+	<text>117&#176;F / 47&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 5 , 1985</td>]]></html>
+	<text>July 5 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saint George</td>]]></html>
+	<text>Saint George</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-69°F / -56°C</td>]]></html>
+	<text>-69&#176;F / -56&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 1 , 1985</td>]]></html>
+	<text>February 1 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peter's Sink</td>]]></html>
+	<text>Peter&amp;apos;s Sink</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105°F / 40°C</td>]]></html>
+	<text>105&#176;F / 40&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 4 , 1911</td>]]></html>
+	<text>July 4 , 1911</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vernon</td>]]></html>
+	<text>Vernon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-50°F / -45°C</td>]]></html>
+	<text>-50&#176;F / -45&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 30 , 1933</td>]]></html>
+	<text>December 30 , 1933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bloomfield</td>]]></html>
+	<text>Bloomfield</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110°F / 43°C</td>]]></html>
+	<text>110&#176;F / 43&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 15 , 1954</td>]]></html>
+	<text>July 15 , 1954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Balcony Falls</td>]]></html>
+	<text>Balcony Falls</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-30°F / -35°C</td>]]></html>
+	<text>-30&#176;F / -35&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 22 , 1985</td>]]></html>
+	<text>January 22 , 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mountain Lake</td>]]></html>
+	<text>Mountain Lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118°F / 48°C</td>]]></html>
+	<text>118&#176;F / 48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 5 , 1961 *</td>]]></html>
+	<text>August 5 , 1961 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grant County , Ice Harbor Dam</td>]]></html>
+	<text>Grant County , Ice Harbor Dam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-48°F / -44°C</td>]]></html>
+	<text>-48&#176;F / -44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 30 , 1968</td>]]></html>
+	<text>December 30 , 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mazama , Winthrop</td>]]></html>
+	<text>Mazama , Winthrop</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112°F / 44°C</td>]]></html>
+	<text>112&#176;F / 44&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 10 , 1936 *</td>]]></html>
+	<text>July 10 , 1936 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martinsburg</td>]]></html>
+	<text>Martinsburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-37°F / -39°C</td>]]></html>
+	<text>-37&#176;F / -39&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 30 , 1917</td>]]></html>
+	<text>December 30 , 1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lewisburg</td>]]></html>
+	<text>Lewisburg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114°F / 46°C</td>]]></html>
+	<text>114&#176;F / 46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 13 , 1936</td>]]></html>
+	<text>July 13 , 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wisconsin Dells</td>]]></html>
+	<text>Wisconsin Dells</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-55°F / -48°C</td>]]></html>
+	<text>-55&#176;F / -48&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 4 , 1996</td>]]></html>
+	<text>February 4 , 1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Couderay</td>]]></html>
+	<text>Couderay</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114°F / 46°C</td>]]></html>
+	<text>114&#176;F / 46&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 12 , 1900</td>]]></html>
+	<text>July 12 , 1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basin</td>]]></html>
+	<text>Basin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-66°F / -54°C</td>]]></html>
+	<text>-66&#176;F / -54&#176;C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 9 , 1933</td>]]></html>
+	<text>February 9 , 1933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Riverside</td>]]></html>
+	<text>Riverside</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>U.S. state temperature extremes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State Record high Temperature Date Place(s) Record low Temperature Date Place(s)</text>
+</context>
+<context>
+	<score>0.89931285</score>
+	<text>The following table lists the highest and lowest temperatures recorded in each state in the United States , in both Fahrenheit and Celsius .</text>
+</context>
+<context>
+	<score>0.81081414</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.81081414</score>
+	<text>U.S. state temperature extremes</text>
+</context>
+<context>
+	<score>0.75591314</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.738151</score>
+	<text>*Also on earlier date or dates in that state</text>
+</context>
+<context>
+	<score>0.7294165</score>
+	<text>U.S. state temperature extremes</text>
+</context>
+<context>
+	<score>0.6106189</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.52001363</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>State</th><th>Record high<br />Temperature</th><th>Date</th><th>Place(s)</th><th>Record low<br />Temperature</th><th>Date</th><th>Place(s)</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td>112°F / 44°C</td><td><a href="../../../../articles/s/e/p/September_5.html" title="September 5">September 5</a>, <a href="../../../../articles/1/9/2/1925.html" title="1925">1925</a></td><td><a href="../../../../articles/c/e/n/Centerville%2C_Alabama_e58a.html" title="Centerville, Alabama">Centerville</a></td><td>-27°F / -33°C</td><td><a href="../../../../articles/j/a/n/January_30.html" title="January 30">January 30</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td><a href="../../../../articles/n/e/w/New_Market%2C_Alabama_6da0.html" title="New Market, Alabama">New Market</a></td></tr><tr><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td>100°F / 38°C</td><td><a href="../../../../articles/j/u/n/June_27.html" title="June 27">June 27</a>, <a href="../../../../articles/1/9/1/1915.html" title="1915">1915</a></td><td><a href="../../../../articles/f/o/r/Fort_Yukon%2C_Alaska_4451.html" title="Fort Yukon, Alaska">Fort Yukon</a></td><td>-80°F / -62°C</td><td><a href="../../../../articles/j/a/n/January_23.html" title="January 23">January 23</a>, <a href="../../../../articles/1/9/7/1971.html" title="1971">1971</a></td><td>Prospect Creek</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>128°F / 53°C</td><td><a href="../../../../articles/j/u/l/July_5.html" title="July 5">July 5</a>, <a href="../../../../articles/2/0/0/2007.html" title="2007">2007</a>*</td><td><a href="../../../../articles/l/a/k/Lake_Havasu_City%2C_Arizona_c8c7.html" title="Lake Havasu City, Arizona">Lake Havasu City</a></td><td>-40°F / -40°C</td><td><a href="../../../../articles/j/a/n/January_7.html" title="January 7">January 7</a>, <a href="../../../../articles/1/9/7/1971.html" title="1971">1971</a></td><td><a href="../../../../articles/h/a/w/Hawley_Lake%2C_Arizona_f214.html" class="mw-redirect" title="Hawley Lake, Arizona">Hawley Lake</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td>120°F / 49°C</td><td><a href="../../../../articles/a/u/g/August_10.html" title="August 10">August 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/o/z/a/Ozark%2C_Arkansas_de98.html" title="Ozark, Arkansas">Ozark</a></td><td>-29°F / -34°C</td><td><a href="../../../../articles/f/e/b/February_13.html" title="February 13">February 13</a>, <a href="../../../../articles/1/9/0/1905.html" title="1905">1905</a></td><td>Pond</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>134°F / 57°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/1/1913.html" title="1913">1913</a></td><td><a href="../../../../articles/d/e/a/Death_Valley_6e6e.html" title="Death Valley">Death Valley</a></td><td>-45°F / -43°C</td><td><a href="../../../../articles/j/a/n/January_20.html" title="January 20">January 20</a>, <a href="../../../../articles/1/9/3/1937.html" title="1937">1937</a></td><td>Boca</td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_11.html" title="July 11">July 11</a>, <a href="../../../../articles/1/8/8/1888.html" title="1888">1888</a></td><td><a href="../../../../articles/b/e/n/Bennett%2C_Colorado_5c45.html" title="Bennett, Colorado">Bennett</a></td><td>-61°F / -52°C</td><td><a href="../../../../articles/f/e/b/February_1.html" title="February 1">February 1</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td><a href="../../../../articles/m/a/y/Maybell%2C_Colorado_ecdb.html" title="Maybell, Colorado">Maybell</a></td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td>106°F / 41°C</td><td><a href="../../../../articles/j/u/l/July_15.html" title="July 15">July 15</a>, <a href="../../../../articles/1/9/9/1995.html" title="1995">1995</a></td><td><a href="../../../../articles/d/a/n/Danbury%2C_Connecticut_2346.html" title="Danbury, Connecticut">Danbury</a></td><td>-32°F / -36°C</td><td><a href="../../../../articles/f/e/b/February_16.html" title="February 16">February 16</a>, <a href="../../../../articles/1/9/4/1943.html" title="1943">1943</a>*</td><td>Falls Village</td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td>110°F / 43°C</td><td><a href="../../../../articles/j/u/l/July_21.html" title="July 21">July 21</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a></td><td><a href="../../../../articles/m/i/l/Millsboro%2C_Delaware_937a.html" title="Millsboro, Delaware">Millsboro</a></td><td>-17°F / -27°C</td><td><a href="../../../../articles/j/a/n/January_17.html" title="January 17">January 17</a>, <a href="../../../../articles/1/8/9/1893.html" title="1893">1893</a></td><td>Millsboro</td></tr><tr><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td>109°F / 43°C</td><td><a href="../../../../articles/j/u/n/June_29.html" title="June 29">June 29</a>, <a href="../../../../articles/1/9/3/1931.html" title="1931">1931</a></td><td><a href="../../../../articles/m/o/n/Monticello%2C_Florida_e95a.html" title="Monticello, Florida">Monticello</a></td><td>-2°F / -19°C</td><td><a href="../../../../articles/f/e/b/February_13.html" title="February 13">February 13</a>, <a href="../../../../articles/1/8/9/1899.html" title="1899">1899</a></td><td><a href="../../../../articles/t/a/l/Tallahassee%2C_Florida_a0f0.html" title="Tallahassee, Florida">Tallahassee</a></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td>112°F / 44°C</td><td><a href="../../../../articles/j/u/l/July_24.html" title="July 24">July 24</a>, <a href="../../../../articles/1/9/5/1952.html" title="1952">1952</a></td><td><a href="../../../../articles/l/o/u/Louisville%2C_Georgia_ba5e.html" title="Louisville, Georgia">Louisville</a></td><td>-17°F / -27°C</td><td><a href="../../../../articles/j/a/n/January_27.html" title="January 27">January 27</a>, <a href="../../../../articles/1/9/4/1940.html" title="1940">1940</a></td><td>Northern <a href="../../../../articles/f/l/o/Floyd_County%2C_Georgia_f6db.html" title="Floyd County, Georgia">Floyd County</a></td></tr><tr><td><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td>100°F / 38°C</td><td><a href="../../../../articles/a/p/r/April_27.html" title="April 27">April 27</a>, <a href="../../../../articles/1/9/3/1931.html" title="1931">1931</a></td><td><a href="../../../../articles/p/a/h/Pahala%2C_Hawaii_6e36.html" class="mw-redirect" title="Pahala, Hawaii">Pahala</a></td><td>12°F / -11°C</td><td><a href="../../../../articles/m/a/y/May_17.html" title="May 17">May 17</a>, <a href="../../../../articles/1/9/7/1979.html" title="1979">1979</a></td><td><a href="../../../../articles/m/a/u/Mauna_Kea_2fc1.html" title="Mauna Kea">Mauna Kea</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_28.html" title="July 28">July 28</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/o/r/o/Orofino%2C_Idaho_f819.html" title="Orofino, Idaho">Orofino</a></td><td>-60°F / -51°C</td><td><a href="../../../../articles/j/a/n/January_18.html" title="January 18">January 18</a>, <a href="../../../../articles/1/9/4/1943.html" title="1943">1943</a></td><td>Island Park Dam</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td>117°F / 47°C</td><td><a href="../../../../articles/j/u/l/July_14.html" title="July 14">July 14</a>, <a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a></td><td><a href="../../../../articles/e/a/s/East_St._Louis%2C_Illinois_82ad.html" title="East St. Louis, Illinois">East St. Louis</a></td><td>-36°F / -38°C</td><td><a href="../../../../articles/j/a/n/January_5.html" title="January 5">January 5</a>, <a href="../../../../articles/1/9/9/1999.html" title="1999">1999</a></td><td><a href="../../../../articles/c/o/n/Congerville%2C_Illinois_5fbb.html" title="Congerville, Illinois">Congerville</a></td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td>116°F / 47°C</td><td><a href="../../../../articles/j/u/l/July_14.html" title="July 14">July 14</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/c/o/l/Collegeville%2C_Indiana_8bce.html" title="Collegeville, Indiana">Collegeville</a></td><td>-36°F / -38°C</td><td><a href="../../../../articles/j/a/n/January_19.html" title="January 19">January 19</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td><a href="../../../../articles/n/e/w/New_Whiteland%2C_Indiana_f05d.html" title="New Whiteland, Indiana">New Whiteland</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_20.html" title="July 20">July 20</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/k/e/o/Keokuk%2C_Iowa_64b2.html" title="Keokuk, Iowa">Keokuk</a></td><td>-47°F / -44°C</td><td><a href="../../../../articles/f/e/b/February_3.html" title="February 3">February 3</a>, <a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a>*</td><td><a href="../../../../articles/e/l/k/Elkader%2C_Iowa_b335.html" title="Elkader, Iowa">Elkader</a></td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td>121°F / 49°C</td><td><a href="../../../../articles/j/u/l/July_24.html" title="July 24">July 24</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/a/l/t/Alton%2C_Kansas_4167.html" title="Alton, Kansas">Alton</a></td><td>-40°F / -40°C</td><td><a href="../../../../articles/f/e/b/February_13.html" title="February 13">February 13</a>, <a href="../../../../articles/1/9/0/1905.html" title="1905">1905</a></td><td><a href="../../../../articles/l/e/b/Lebanon%2C_Kansas_5042.html" title="Lebanon, Kansas">Lebanon</a></td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td>114°F / 46°C</td><td><a href="../../../../articles/j/u/l/July_28.html" title="July 28">July 28</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a></td><td><a href="../../../../articles/g/r/e/Greensburg%2C_Kentucky_f2a5.html" title="Greensburg, Kentucky">Greensburg</a></td><td>-34°F / -37°C</td><td><a href="../../../../articles/j/a/n/January_28.html" title="January 28">January 28</a>, <a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a></td><td><a href="../../../../articles/c/y/n/Cynthiana%2C_Kentucky_cb02.html" title="Cynthiana, Kentucky">Cynthiana</a></td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td>114°F / 46°C</td><td><a href="../../../../articles/a/u/g/August_10.html" title="August 10">August 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/p/l/a/Plain_Dealing%2C_Louisiana_5935.html" title="Plain Dealing, Louisiana">Plain Dealing</a></td><td>-16°F / -27°C</td><td><a href="../../../../articles/f/e/b/February_13.html" title="February 13">February 13</a>, <a href="../../../../articles/1/8/9/1899.html" title="1899">1899</a></td><td><a href="../../../../articles/m/i/n/Minden%2C_Louisiana_1abb.html" title="Minden, Louisiana">Minden</a></td></tr><tr><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td>105°F / 41°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/1/1911.html" title="1911">1911</a>*</td><td>North Bridgton</td><td>-48°F / -45°C</td><td><a href="../../../../articles/j/a/n/January_19.html" title="January 19">January 19</a>, <a href="../../../../articles/1/9/2/1925.html" title="1925">1925</a></td><td><a href="../../../../articles/v/a/n/Van_Buren%2C_Maine_3d99.html" class="mw-redirect" title="Van Buren, Maine">Van Buren</a></td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td>109°F / 44°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/c/u/m/Cumberland%2C_Maryland_2dbe.html" title="Cumberland, Maryland">Cumberland</a>, <a href="../../../../articles/f/r/e/Frederick%2C_Maryland_a664.html" title="Frederick, Maryland">Frederick</a></td><td>-40°F / -40°C</td><td><a href="../../../../articles/j/a/n/January_13.html" title="January 13">January 13</a>, <a href="../../../../articles/1/9/1/1912.html" title="1912">1912</a></td><td><a href="../../../../articles/o/a/k/Oakland%2C_Maryland_8827.html" title="Oakland, Maryland">Oakland</a></td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td>107°F / 43°C</td><td><a href="../../../../articles/a/u/g/August_2.html" title="August 2">August 2</a>, <a href="../../../../articles/1/9/7/1975.html" title="1975">1975</a></td><td><a href="../../../../articles/n/e/w/New_Bedford%2C_Massachusetts_745a.html" title="New Bedford, Massachusetts">New Bedford</a>, <a href="../../../../articles/c/h/e/Chester%2C_Massachusetts_0fd0.html" title="Chester, Massachusetts">Chester</a></td><td>-35°F / -37°C</td><td><a href="../../../../articles/j/a/n/January_12.html" title="January 12">January 12</a>, <a href="../../../../articles/1/9/8/1981.html" title="1981">1981</a></td><td>Chester</td></tr><tr><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td>112°F / 44°C</td><td><a href="../../../../articles/j/u/l/July_13.html" title="July 13">July 13</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/m/i/o/Mio%2C_Michigan_1860.html" title="Mio, Michigan">Mio</a></td><td>-51°F / -46°C</td><td><a href="../../../../articles/f/e/b/February_9.html" title="February 9">February 9</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/v/a/n/Vanderbilt%2C_Michigan_eec4.html" title="Vanderbilt, Michigan">Vanderbilt</a></td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>114°F / 46°C</td><td><a href="../../../../articles/j/u/l/July_6.html" title="July 6">July 6</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/m/o/o/Moorhead%2C_Minnesota_3e85.html" title="Moorhead, Minnesota">Moorhead</a></td><td>-60°F / -51°C</td><td><a href="../../../../articles/f/e/b/February_2.html" title="February 2">February 2</a>, <a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a></td><td><a href="../../../../articles/t/o/w/Tower%2C_Minnesota_d1f4.html" title="Tower, Minnesota">Tower</a></td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td>115°F / 47°C</td><td><a href="../../../../articles/j/u/l/July_29.html" title="July 29">July 29</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a></td><td><a href="../../../../articles/h/o/l/Holly_Springs%2C_Mississippi_2df2.html" title="Holly Springs, Mississippi">Holly Springs</a></td><td>-19°F / -28°C</td><td><a href="../../../../articles/j/a/n/January_30.html" title="January 30">January 30</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td><a href="../../../../articles/c/o/r/Corinth%2C_Mississippi_c550.html" title="Corinth, Mississippi">Corinth</a></td></tr><tr><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_14.html" title="July 14">July 14</a>, <a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a>*</td><td><a href="../../../../articles/w/a/r/Warsaw%2C_Missouri_093d.html" title="Warsaw, Missouri">Warsaw</a>, <a href="../../../../articles/u/n/i/Union%2C_Missouri_e9b8.html" title="Union, Missouri">Union</a></td><td>-40°F / -40°C</td><td><a href="../../../../articles/f/e/b/February_13.html" title="February 13">February 13</a>, <a href="../../../../articles/1/9/0/1905.html" title="1905">1905</a></td><td>Warsaw</td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td>117°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_5.html" title="July 5">July 5</a>, <a href="../../../../articles/1/9/3/1937.html" title="1937">1937</a></td><td><a href="../../../../articles/m/e/d/Medicine_Lake%2C_Montana_148f.html" title="Medicine Lake, Montana">Medicine Lake</a></td><td>-70°F / -57°C</td><td><a href="../../../../articles/j/a/n/January_20.html" title="January 20">January 20</a>, <a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a></td><td><a href="../../../../articles/r/o/g/Rogers_Pass%2C_Montana_0ddc.html" class="mw-redirect" title="Rogers Pass, Montana">Rogers Pass</a></td></tr><tr><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/j/u/l/July_24.html" title="July 24">July 24</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/m/i/n/Minden%2C_Nebraska_a6cc.html" title="Minden, Nebraska">Minden</a></td><td>-47°F / -44°C</td><td><a href="../../../../articles/f/e/b/February_12.html" title="February 12">February 12</a>, <a href="../../../../articles/1/8/9/1899.html" title="1899">1899</a>*</td><td>Camp Clarke</td></tr><tr><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>125°F / 52°C</td><td><a href="../../../../articles/j/u/n/June_29.html" title="June 29">June 29</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a>*</td><td><a href="../../../../articles/l/a/u/Laughlin%2C_Nevada_e886.html" title="Laughlin, Nevada">Laughlin</a></td><td>-50°F / -46°C</td><td><a href="../../../../articles/j/a/n/January_8.html" title="January 8">January 8</a>, <a href="../../../../articles/1/9/3/1937.html" title="1937">1937</a></td><td><a href="../../../../articles/s/a/n/San_Jacinto%2C_Nevada_11df.html" title="San Jacinto, Nevada">San Jacinto</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td>106°F / 42°C</td><td><a href="../../../../articles/j/u/l/July_4.html" title="July 4">July 4</a>, <a href="../../../../articles/1/9/1/1911.html" title="1911">1911</a></td><td><a href="../../../../articles/n/a/s/Nashua%2C_New_Hampshire_09fc.html" title="Nashua, New Hampshire">Nashua</a></td><td>-47°F / -44°C</td><td><a href="../../../../articles/j/a/n/January_29.html" title="January 29">January 29</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/m/o/u/Mount_Washington_%28New_Hampshire%29_eb0d.html" title="Mount Washington (New Hampshire)">Mount Washington</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td>110°F / 43°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td>Runyon</td><td>-34°F / -37°C</td><td><a href="../../../../articles/j/a/n/January_5.html" title="January 5">January 5</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/r/i/v/River_Vale%2C_New_Jersey_c2fb.html" title="River Vale, New Jersey">River Vale</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td>122°F / 50°C</td><td><a href="../../../../articles/j/u/n/June_27.html" title="June 27">June 27</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td>Lakewood</td><td>-50°F / -45°C</td><td><a href="../../../../articles/f/e/b/February_1.html" title="February 1">February 1</a>, <a href="../../../../articles/1/9/5/1951.html" title="1951">1951</a></td><td>Gavilan</td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>108°F / 42°C</td><td><a href="../../../../articles/j/u/l/July_22.html" title="July 22">July 22</a>, <a href="../../../../articles/1/9/2/1926.html" title="1926">1926</a>*</td><td><a href="../../../../articles/t/r/o/Troy%2C_New_York_514c.html" title="Troy, New York">Troy</a></td><td>-57°F / -47°C</td><td><a href="../../../../articles/f/e/b/February_18.html" title="February 18">February 18</a>, <a href="../../../../articles/1/9/7/1979.html" title="1979">1979</a></td><td><a href="../../../../articles/o/l/d/Old_Forge%2C_New_York_30f3.html" title="Old Forge, New York">Old Forge</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td>110°F / 43°C</td><td><a href="../../../../articles/a/u/g/August_21.html" title="August 21">August 21</a>, <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a></td><td><a href="../../../../articles/f/a/y/Fayetteville%2C_North_Carolina_0903.html" title="Fayetteville, North Carolina">Fayetteville</a></td><td>-34°F / -37°C</td><td><a href="../../../../articles/j/a/n/January_21.html" title="January 21">January 21</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td><a href="../../../../articles/m/o/u/Mount_Mitchell_%28North_Carolina%29_fced.html" title="Mount Mitchell (North Carolina)">Mount Mitchell</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td>121°F / 50°C</td><td><a href="../../../../articles/j/u/l/July_6.html" title="July 6">July 6</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/s/t/e/Steele%2C_North_Dakota_b0f0.html" title="Steele, North Dakota">Steele</a></td><td>-60°F / -51°C</td><td><a href="../../../../articles/f/e/b/February_15.html" title="February 15">February 15</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/p/a/r/Parshall%2C_North_Dakota_d557.html" title="Parshall, North Dakota">Parshall</a></td></tr><tr><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td>113°F / 45°C</td><td><a href="../../../../articles/j/u/l/July_21.html" title="July 21">July 21</a>, <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a>*</td><td><a href="../../../../articles/g/a/l/Gallipolis%2C_Ohio_6012.html" title="Gallipolis, Ohio">Gallipolis</a></td><td>-39°F / -40°C</td><td><a href="../../../../articles/f/e/b/February_10.html" title="February 10">February 10</a>, <a href="../../../../articles/1/8/9/1899.html" title="1899">1899</a></td><td><a href="../../../../articles/m/i/l/Milligan%2C_Ohio_8523.html" title="Milligan, Ohio">Milligan</a></td></tr><tr><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td>120°F / 48°C</td><td><a href="../../../../articles/j/u/n/June_27.html" title="June 27">June 27</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a>*</td><td><a href="../../../../articles/t/i/p/Tipton%2C_Oklahoma_3f40.html" title="Tipton, Oklahoma">Tipton</a></td><td>-27°F / -33°C</td><td><a href="../../../../articles/j/a/n/January_18.html" title="January 18">January 18</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a>*</td><td><a href="../../../../articles/w/a/t/Watts%2C_Oklahoma_cd2e.html" title="Watts, Oklahoma">Watts</a></td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td>119°F / 49°C</td><td><a href="../../../../articles/a/u/g/August_10.html" title="August 10">August 10</a>, <a href="../../../../articles/1/8/9/1898.html" title="1898">1898</a>*</td><td><a href="../../../../articles/p/e/n/Pendleton%2C_Oregon_8bce.html" title="Pendleton, Oregon">Pendleton</a></td><td>-54°F / -48°C</td><td><a href="../../../../articles/f/e/b/February_10.html" title="February 10">February 10</a>, <a href="../../../../articles/1/9/3/1933.html" title="1933">1933</a>*</td><td><a href="../../../../articles/s/e/n/Seneca%2C_Oregon_a279.html" title="Seneca, Oregon">Seneca</a></td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>111°F / 44°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/p/h/o/Phoenixville%2C_Pennsylvania_e61c.html" title="Phoenixville, Pennsylvania">Phoenixville</a></td><td>-42°F / -41°C</td><td><a href="../../../../articles/j/a/n/January_5.html" title="January 5">January 5</a>, <a href="../../../../articles/1/9/0/1904.html" title="1904">1904</a></td><td><a href="../../../../articles/s/m/e/Smethport%2C_Pennsylvania_2034.html" title="Smethport, Pennsylvania">Smethport</a></td></tr><tr><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td>104°F / 40°C</td><td><a href="../../../../articles/a/u/g/August_2.html" title="August 2">August 2</a>, <a href="../../../../articles/1/9/7/1975.html" title="1975">1975</a></td><td><a href="../../../../articles/p/r/o/Providence%2C_Rhode_Island_49f3.html" title="Providence, Rhode Island">Providence</a></td><td>-25°F / -32°C</td><td><a href="../../../../articles/f/e/b/February_5.html" title="February 5">February 5</a>, <a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a></td><td><a href="../../../../articles/g/r/e/Greene%2C_Rhode_Island_7194.html" title="Greene, Rhode Island">Greene</a></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td>111°F / 44°C</td><td><a href="../../../../articles/j/u/n/June_28.html" title="June 28">June 28</a>, <a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a>*</td><td><a href="../../../../articles/c/a/m/Camden%2C_South_Carolina_3ac2.html" title="Camden, South Carolina">Camden</a></td><td>-19°F / -28°C</td><td><a href="../../../../articles/j/a/n/January_21.html" title="January 21">January 21</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td><a href="../../../../articles/c/a/e/Caesars_Head%2C_South_Carolina_ce90.html" title="Caesars Head, South Carolina">Caesars Head</a></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td>120°F / 49°C</td><td><a href="../../../../articles/j/u/l/July_15.html" title="July 15">July 15</a>, <a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a>*</td><td>Usta (near)</td><td>-58°F / -50°C</td><td><a href="../../../../articles/f/e/b/February_17.html" title="February 17">February 17</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/m/c/i/McIntosh%2C_South_Dakota_2230.html" title="McIntosh, South Dakota">McIntosh</a></td></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td>113°F / 48°C</td><td><a href="../../../../articles/a/u/g/August_9.html" title="August 9">August 9</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a>*</td><td>Perryville</td><td>-32°F / -36°C</td><td><a href="../../../../articles/d/e/c/December_30.html" title="December 30">December 30</a>, <a href="../../../../articles/1/9/1/1917.html" title="1917">1917</a></td><td><a href="../../../../articles/m/o/u/Mountain_City%2C_Tennessee_7e7e.html" title="Mountain City, Tennessee">Mountain City</a></td></tr><tr><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>120°F / 49°C</td><td><a href="../../../../articles/a/u/g/August_12.html" title="August 12">August 12</a>, <a href="../../../../articles/1/9/3/1930.html" title="1930">1930</a>*</td><td><a href="../../../../articles/s/e/y/Seymour%2C_Texas_afce.html" title="Seymour, Texas">Seymour</a></td><td>-23°F / -31°C</td><td><a href="../../../../articles/f/e/b/February_8.html" title="February 8">February 8</a>, <a href="../../../../articles/1/9/3/1933.html" title="1933">1933</a>*</td><td><a href="../../../../articles/s/e/m/Seminole%2C_Texas_601a.html" title="Seminole, Texas">Seminole</a></td></tr><tr><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td>117°F / 47°C</td><td><a href="../../../../articles/j/u/l/July_5.html" title="July 5">July 5</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td><a href="../../../../articles/s/a/i/Saint_George%2C_Utah_0c40.html" class="mw-redirect" title="Saint George, Utah">Saint George</a></td><td>-69°F / -56°C</td><td><a href="../../../../articles/f/e/b/February_1.html" title="February 1">February 1</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td>Peter's Sink</td></tr><tr><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td>105°F / 40°C</td><td><a href="../../../../articles/j/u/l/July_4.html" title="July 4">July 4</a>, <a href="../../../../articles/1/9/1/1911.html" title="1911">1911</a></td><td><a href="../../../../articles/v/e/r/Vernon%2C_Vermont_1bce.html" title="Vernon, Vermont">Vernon</a></td><td>-50°F / -45°C</td><td><a href="../../../../articles/d/e/c/December_30.html" title="December 30">December 30</a>, <a href="../../../../articles/1/9/3/1933.html" title="1933">1933</a></td><td><a href="../../../../articles/b/l/o/Bloomfield%2C_Vermont_0753.html" title="Bloomfield, Vermont">Bloomfield</a></td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td>110°F / 43°C</td><td><a href="../../../../articles/j/u/l/July_15.html" title="July 15">July 15</a>, <a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a></td><td>Balcony Falls</td><td>-30°F / -35°C</td><td><a href="../../../../articles/j/a/n/January_22.html" title="January 22">January 22</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td><a href="../../../../articles/m/o/u/Mountain_Lake%2C_Virginia_2024.html" class="mw-redirect" title="Mountain Lake, Virginia">Mountain Lake</a></td></tr><tr><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td>118°F / 48°C</td><td><a href="../../../../articles/a/u/g/August_5.html" title="August 5">August 5</a>, <a href="../../../../articles/1/9/6/1961.html" title="1961">1961</a>*</td><td><a href="../../../../articles/g/r/a/Grant_County%2C_Washington_7c55.html" title="Grant County, Washington">Grant County</a>, <a href="../../../../articles/i/c/e/Ice_Harbor_Lock_and_Dam_22c5.html" title="Ice Harbor Lock and Dam">Ice Harbor Dam</a></td><td>-48°F / -44°C</td><td><a href="../../../../articles/d/e/c/December_30.html" title="December 30">December 30</a>, <a href="../../../../articles/1/9/6/1968.html" title="1968">1968</a></td><td><a href="../../../../articles/m/a/z/Mazama%2C_Washington_9529.html" title="Mazama, Washington">Mazama</a>, <a href="../../../../articles/w/i/n/Winthrop%2C_Washington_76b7.html" title="Winthrop, Washington">Winthrop</a></td></tr><tr><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td>112°F / 44°C</td><td><a href="../../../../articles/j/u/l/July_10.html" title="July 10">July 10</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a>*</td><td><a href="../../../../articles/m/a/r/Martinsburg%2C_West_Virginia_6620.html" title="Martinsburg, West Virginia">Martinsburg</a></td><td>-37°F / -39°C</td><td><a href="../../../../articles/d/e/c/December_30.html" title="December 30">December 30</a>, <a href="../../../../articles/1/9/1/1917.html" title="1917">1917</a></td><td><a href="../../../../articles/l/e/w/Lewisburg%2C_West_Virginia_88ed.html" title="Lewisburg, West Virginia">Lewisburg</a></td></tr><tr><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td>114°F / 46°C</td><td><a href="../../../../articles/j/u/l/July_13.html" title="July 13">July 13</a>, <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td><a href="../../../../articles/w/i/s/Wisconsin_Dells%2C_Wisconsin_ff0c.html" title="Wisconsin Dells, Wisconsin">Wisconsin Dells</a></td><td>-55°F / -48°C</td><td><a href="../../../../articles/f/e/b/February_4.html" title="February 4">February 4</a>, <a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a></td><td><a href="../../../../articles/c/o/u/Couderay%2C_Wisconsin_8a13.html" title="Couderay, Wisconsin">Couderay</a></td></tr><tr><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td>114°F / 46°C</td><td><a href="../../../../articles/j/u/l/July_12.html" title="July 12">July 12</a>, <a href="../../../../articles/1/9/0/1900.html" title="1900">1900</a></td><td><a href="../../../../articles/b/a/s/Basin%2C_Wyoming_3512.html" title="Basin, Wyoming">Basin</a></td><td>-66°F / -54°C</td><td><a href="../../../../articles/f/e/b/February_9.html" title="February 9">February 9</a>, <a href="../../../../articles/1/9/3/1933.html" title="1933">1933</a></td><td><a href="../../../../articles/r/i/v/Riverside%2C_Wyoming_35d3.html" title="Riverside, Wyoming">Riverside</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

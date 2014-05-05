@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/k/m/r/KMRO_37b2.html_1.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.55 3, 0.45833334 3 4, 0.41250002 3 5, 0.16666667 4, 0.15 5, 0.13333334 1, 0.13333334 1 2, 0.125 4 5, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.10000001 1 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/m/r/KMRO_37b2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K279BE</td>]]></html>
+	<text>K279BE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.7</td>]]></html>
+	<text>103.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bakersfield, California</td>]]></html>
+	<text>Bakersfield, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99 watts</td>]]></html>
+	<text>99 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K293BG</td>]]></html>
+	<text>K293BG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.5</td>]]></html>
+	<text>106.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cambria, California</td>]]></html>
+	<text>Cambria, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K239AZ</td>]]></html>
+	<text>K239AZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.7</td>]]></html>
+	<text>95.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Isabella, California</td>]]></html>
+	<text>Lake Isabella, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K212DL</td>]]></html>
+	<text>K212DL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.3</td>]]></html>
+	<text>90.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rosamond, California</td>]]></html>
+	<text>Rosamond, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K269EW</td>]]></html>
+	<text>K269EW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101.7</td>]]></html>
+	<text>101.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Maria, California</td>]]></html>
+	<text>Santa Maria, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KMRO - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.8787872</score>
+	<text>repeater KGZO is relayed by an additional 5 translators to widen its broadcast area.</text>
+</context>
+<context>
+	<score>0.79865205</score>
+	<text>KMRO</text>
+</context>
+<context>
+	<score>0.7818169</score>
+	<text>KMRO is relayed by an additional 13 translators to widen its broadcast area.</text>
+</context>
+<context>
+	<score>0.7554948</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7261263</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7261263</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7261263</score>
+	<text>[ edit ] See Also</text>
+</context>
+<context>
+	<score>0.7261263</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7261263</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210759</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7092913</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.6421797</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6086971</score>
+	<text>This section needs additional citations for verification .</text>
+</context>
+<context>
+	<score>0.5975815</score>
+	<text>The La Nueva Vida network consists of five other full-power radio stations: KLTX 1390AM in Long Beach , KEYQ 980AM in Fresno , KGZO 90.9FM in Bakersfield , KSDO 1130AM in San Diego , and KEZY 1240AM in San Bernardino .</text>
+</context>
+<context>
+	<score>0.55786246</score>
+	<text>It is the flagship radio station of the Spanish religious radio network Radio Nueva Vida based in Camarillo, California . With 4 primary stations in the AM and FM bands as well as an additional 18 translators, the station serves much of California from the South Bay of Northern California to the southern border with Spanish-language evangelical programming.</text>
+</context>
+<context>
+	<score>0.5260873</score>
+	<text>KMRO (90.9 FM ) is a radio station licensed to Camarillo, California and broadcasting a Spanish religious format. The station is currently owned by The Association For Community Education, Inc.</text>
+</context>
+<context>
+	<score>0.5223457</score>
+	<text>Please help improve this article by adding reliable references . Unsourced material may be challenged and removed. (May 2008)</text>
+</context>
+<context>
+	<score>0.5124517</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.49211556</score>
+	<text>KMRO</text>
+</context>
+<context>
+	<score>0.47155067</score>
+	<text>[ edit ] KLTX</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K279BE</b></td><td>103.7</td><td><a href="../../../../articles/b/a/k/Bakersfield%2C_California_1f16.html" title="Bakersfield, California">Bakersfield, California</a></td><td>99 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K279BE" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K279BE" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K279BE" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K279BE" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K293BG</b></td><td>106.5</td><td><a href="../../../../articles/c/a/m/Cambria%2C_California_1649.html" title="Cambria, California">Cambria, California</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K293BG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K293BG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K293BG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K293BG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K239AZ</b></td><td>95.7</td><td><a href="../../../../articles/l/a/k/Lake_Isabella%2C_California_04d0.html" title="Lake Isabella, California">Lake Isabella, California</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K239AZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K239AZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K239AZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K239AZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K212DL</b></td><td>90.3</td><td><a href="../../../../articles/r/o/s/Rosamond%2C_California_a594.html" title="Rosamond, California">Rosamond, California</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K212DL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K212DL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212DL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212DL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K269EW</b></td><td>101.7</td><td><a href="../../../../articles/s/a/n/Santa_Maria%2C_California_4510.html" title="Santa Maria, California">Santa Maria, California</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K269EW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K269EW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K269EW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K269EW" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

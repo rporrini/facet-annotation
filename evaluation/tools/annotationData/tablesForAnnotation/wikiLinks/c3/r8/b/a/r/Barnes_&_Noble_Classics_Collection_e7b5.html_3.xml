@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/b/a/r/Barnes_&amp;_Noble_Classics_Collection_e7b5.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.625 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/a/r/Barnes_&amp;_Noble_Classics_Collection_e7b5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Author</th>]]></html>
+	<text>Author</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ISBN</th>]]></html>
+	<text>ISBN</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A Handful of Dust</td>]]></html>
+	<text>A Handful of Dust</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evelyn Waugh</td>]]></html>
+	<text>Evelyn Waugh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2517-9</td>]]></html>
+	<text>0-7607-2517-9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The African Queen</td>]]></html>
+	<text>The African Queen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>C. S. Forester</td>]]></html>
+	<text>C. S. Forester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2514-4</td>]]></html>
+	<text>0-7607-2514-4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>An Unfinished Woman</td>]]></html>
+	<text>An Unfinished Woman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lillian Hellman</td>]]></html>
+	<text>Lillian Hellman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2519-5</td>]]></html>
+	<text>0-7607-2519-5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Collected Stories of Eudora Welty</td>]]></html>
+	<text>The Collected Stories of Eudora Welty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eudora Welty</td>]]></html>
+	<text>Eudora Welty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2409-1</td>]]></html>
+	<text>0-7607-2409-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Collector</td>]]></html>
+	<text>The Collector</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Fowles</td>]]></html>
+	<text>John Fowles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2539-X</td>]]></html>
+	<text>0-7607-2539-X</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The French Lieutenant's Woman</td>]]></html>
+	<text>The French Lieutenant&amp;apos;s Woman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Fowles</td>]]></html>
+	<text>John Fowles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2516-0</td>]]></html>
+	<text>0-7607-2516-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Loved One</td>]]></html>
+	<text>The Loved One</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evelyn Waugh</td>]]></html>
+	<text>Evelyn Waugh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2518-7</td>]]></html>
+	<text>0-7607-2518-7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Town and the City</td>]]></html>
+	<text>The Town and the City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Kerouac</td>]]></html>
+	<text>Jack Kerouac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-7607-2410-5</td>]]></html>
+	<text>0-7607-2410-5</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Barnes &amp; Noble Classics Collection - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Author ISBN</text>
+</context>
+<context>
+	<score>0.88276494</score>
+	<text>[ edit ] Modern Classics by title</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>Barnes &amp; Noble Classics Collection</text>
+</context>
+<context>
+	<score>0.7830409</score>
+	<text>[ edit ] Modern Classics hardcover collection</text>
+</context>
+<context>
+	<score>0.75077724</score>
+	<text>[ edit ] Current Classics collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] Black dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] Cream dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] Children&apos;s hardcover collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] Modern Classics hardcover collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] Current Classics collection</text>
+</context>
+<context>
+	<score>0.7188436</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71142364</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70326173</score>
+	<text>[ edit ] Children&apos;s Classics by title</text>
+</context>
+<context>
+	<score>0.6394383</score>
+	<text>[ edit ] Children&apos;s hardcover collection</text>
+</context>
+<context>
+	<score>0.592391</score>
+	<text>The Current Classics collection began with some of the same titles as the previous classics collections however the collection is very different in that there are updated/revised notes, new essays and introductions etc, a full list of titles through April 2007 is provided.</text>
+</context>
+<context>
+	<score>0.5883796</score>
+	<text>[ edit ] Additional cream dustjacket classics by title</text>
+</context>
+<context>
+	<score>0.5401127</score>
+	<text>Most books that have black Dustjackets were included in the cream dustjacket collection. The only two known exceptions that are not in Cream dustjackets are James Joyce&apos;s &quot;Dubliners&quot; and &quot;A Portrait of the Artist as a Young Man&quot;, which for some reason are black dustjacket only.</text>
+</context>
+<context>
+	<score>0.5148551</score>
+	<text>[ edit ] Cream dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.51100725</score>
+	<text>[ edit ] Books in the Current Classics collection by title</text>
+</context>
+<context>
+	<score>0.48871303</score>
+	<text>[ edit ] Books in the black dustjacket collection by title</text>
+</context>
+<context>
+	<score>0.46779937</score>
+	<text>[ edit ] Black dustjacket hardcover collection</text>
+</context>
+<context>
+	<score>0.4587698</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Title</th><th>Author</th><th><a href="../../../../articles/i/n/t/International_Standard_Book_Number_c023.html" title="International Standard Book Number">ISBN</a></th></tr><tr><td><i><a href="../../../../articles/a/_/h/A_Handful_of_Dust_b8a9.html" title="A Handful of Dust">A Handful of Dust</a></i></td><td><a href="../../../../articles/e/v/e/Evelyn_Waugh_d3c0.html" title="Evelyn Waugh">Evelyn Waugh</a></td><td>0-7607-2517-9</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_African_Queen_1a5e.html" title="The African Queen">The African Queen</a></i></td><td><a href="../../../../articles/c/2E/_/C._S._Forester_7448.html" title="C. S. Forester">C. S. Forester</a></td><td>0-7607-2514-4</td></tr><tr><td><i>An Unfinished Woman</i></td><td><a href="../../../../articles/l/i/l/Lillian_Hellman_12ed.html" title="Lillian Hellman">Lillian Hellman</a></td><td>0-7607-2519-5</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Collected_Stories_of_Eudora_Welty_67fb.html" title="The Collected Stories of Eudora Welty">The Collected Stories of Eudora Welty</a></i></td><td><a href="../../../../articles/e/u/d/Eudora_Welty_46b3.html" title="Eudora Welty">Eudora Welty</a></td><td>0-7607-2409-1</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Collector_3a0a.html" title="The Collector">The Collector</a></i></td><td><a href="../../../../articles/j/o/h/John_Fowles_8448.html" title="John Fowles">John Fowles</a></td><td>0-7607-2539-X</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_French_Lieutenant%27s_Woman_10c3.html" title="The French Lieutenant's Woman">The French Lieutenant's Woman</a></i></td><td><a href="../../../../articles/j/o/h/John_Fowles_8448.html" title="John Fowles">John Fowles</a></td><td>0-7607-2516-0</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Loved_One_b77b.html" title="The Loved One">The Loved One</a></i></td><td><a href="../../../../articles/e/v/e/Evelyn_Waugh_d3c0.html" title="Evelyn Waugh">Evelyn Waugh</a></td><td>0-7607-2518-7</td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Town_and_the_City_00f0.html" title="The Town and the City">The Town and the City</a></i></td><td><a href="../../../../articles/j/a/c/Jack_Kerouac_011e.html" title="Jack Kerouac">Jack Kerouac</a></td><td>0-7607-2410-5</td></tr></table>]]>
+</htmlSnippet>
+</entity>

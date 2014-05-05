@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san24-data3-repo/attrParsedPage/out_data_416/dir122/file592476_0_cols1_rows8.xml" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Word</coltype>
+<coltype>Unknown</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td>Vasco Nunez de Balboa</td>]]></html>
+	<text>Vasco Nunez de Balboa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pacific Ocean</td>]]></html>
+	<text>Pacific Ocean</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>William Baffin</td>]]></html>
+	<text>William Baffin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Willem Barents</td>]]></html>
+	<text>Willem Barents</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northeast Passage</td>]]></html>
+	<text>Northeast Passage</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nicholas Baudin</td>]]></html>
+	<text>Nicholas Baudin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18th</td>]]></html>
+	<text>18th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Australian coastline</td>]]></html>
+	<text>West Australian coastline</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Richard Francis Burton</td>]]></html>
+	<text>Richard Francis Burton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Richard E . Byrd</td>]]></html>
+	<text>Richard E . Byrd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td>Vasco Nunez de Balboa</td>
+<td>Spanish</td>
+<td></td>
+<td>Pacific Ocean</td>
+</tr><tr><td>William Baffin</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>Willem Barents</td>
+<td>Dutch</td>
+<td></td>
+<td>Northeast Passage</td>
+</tr><tr><td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>Nicholas Baudin</td>
+<td>French</td>
+<td>18th</td>
+<td>West Australian coastline</td>
+</tr><tr><td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>Richard Francis Burton</td>
+<td></td>
+<td></td>
+<td></td>
+</tr><tr><td>Richard E . Byrd</td>
+<td></td>
+<td></td>
+<td></td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

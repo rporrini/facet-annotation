@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r25/u/n/i/United_States_House_of_Representatives_elections,_2004_5b24.html_8.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 4, 0.6875 1 4, 0.6666667 5, 0.6666667 0 5, 0.61111116 1 5, 0.5555556 2 5, 0.5 4 5, 0.11666667 0 3, 0.10694444 1 3, 0.099999994 2, 0.099999994 2 4, 0.089999996 4, 0.07777778 3 5, 0.055999998 3, 0.05444444 2 3, 0.0455 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_2004_5b24.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 1</td>]]></html>
+	<text>Florida 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jeff Miller</td>]]></html>
+	<text>Jeff Miller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jeff Miller (R) 76.5% Mark Coutu (D) 23.5%</td>]]></html>
+	<text>Jeff Miller (R) 76.5% Mark Coutu (D) 23.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 2</td>]]></html>
+	<text>Florida 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd (D) 61.6% Bev Kilmer (R) 38.4%</td>]]></html>
+	<text>Allen Boyd (D) 61.6% Bev Kilmer (R) 38.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 3</td>]]></html>
+	<text>Florida 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Corrine Brown</td>]]></html>
+	<text>Corrine Brown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Corrine Brown (D) unopposed</td>]]></html>
+	<text>Corrine Brown (D) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 4</td>]]></html>
+	<text>Florida 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ander Crenshaw</td>]]></html>
+	<text>Ander Crenshaw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ander Crenshaw (R) unopposed</td>]]></html>
+	<text>Ander Crenshaw (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 5</td>]]></html>
+	<text>Florida 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ginny Brown-Waite</td>]]></html>
+	<text>Ginny Brown-Waite</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ginny Brown-Waite (R) 65.9% Robert Whittel (D) 34.1%</td>]]></html>
+	<text>Ginny Brown-Waite (R) 65.9% Robert Whittel (D) 34.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 6</td>]]></html>
+	<text>Florida 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cliff Stearns</td>]]></html>
+	<text>Cliff Stearns</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1988</td>]]></html>
+	<text>1988</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cliff Stearns (R) 64.4% Dave Bruderly (D) 35.6%</td>]]></html>
+	<text>Cliff Stearns (R) 64.4% Dave Bruderly (D) 35.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 7</td>]]></html>
+	<text>Florida 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Mica</td>]]></html>
+	<text>John Mica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Mica (R) unopposed</td>]]></html>
+	<text>John Mica (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 8</td>]]></html>
+	<text>Florida 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ric Keller</td>]]></html>
+	<text>Ric Keller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ric Keller (R) 60.5% Stephen Murray (D) 39.5%</td>]]></html>
+	<text>Ric Keller (R) 60.5% Stephen Murray (D) 39.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 9</td>]]></html>
+	<text>Florida 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael Bilirakis</td>]]></html>
+	<text>Michael Bilirakis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael Bilirakis (R) unopposed</td>]]></html>
+	<text>Michael Bilirakis (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 10</td>]]></html>
+	<text>Florida 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Young</td>]]></html>
+	<text>Bill Young</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1970</td>]]></html>
+	<text>1970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Young (R) 69.3% Robert Dean Derry (D) 30.7%</td>]]></html>
+	<text>Bill Young (R) 69.3% Robert Dean Derry (D) 30.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 11</td>]]></html>
+	<text>Florida 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Davis</td>]]></html>
+	<text>Jim Davis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Davis (D) 85.8% Robert Johnson (L) 14.2%</td>]]></html>
+	<text>Jim Davis (D) 85.8% Robert Johnson (L) 14.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 12</td>]]></html>
+	<text>Florida 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adam Putnam</td>]]></html>
+	<text>Adam Putnam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adam Putnam (R) 64.9% Bob Hagenmeier (D) 35.1%</td>]]></html>
+	<text>Adam Putnam (R) 64.9% Bob Hagenmeier (D) 35.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 13</td>]]></html>
+	<text>Florida 13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Katherine Harris</td>]]></html>
+	<text>Katherine Harris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Katherine Harris (R) 55.3% Jan Schneider (D) 44.7%</td>]]></html>
+	<text>Katherine Harris (R) 55.3% Jan Schneider (D) 44.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 14</td>]]></html>
+	<text>Florida 14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vacant</td>]]></html>
+	<text>Vacant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(Seat was Republican in 2002)</td>]]></html>
+	<text>(Seat was Republican in 2002)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Connie Mack IV (R) 67.6% Robert Neeld (D) 32.4%</td>]]></html>
+	<text>Connie Mack IV (R) 67.6% Robert Neeld (D) 32.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 15</td>]]></html>
+	<text>Florida 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dave Weldon</td>]]></html>
+	<text>Dave Weldon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dave Weldon (R) 65.4% Simon Pristoop (D) 34.6%</td>]]></html>
+	<text>Dave Weldon (R) 65.4% Simon Pristoop (D) 34.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 16</td>]]></html>
+	<text>Florida 16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Foley</td>]]></html>
+	<text>Mark Foley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Foley (R) 68.0% Jeffrey Jay Fisher (D) 32.0%</td>]]></html>
+	<text>Mark Foley (R) 68.0% Jeffrey Jay Fisher (D) 32.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 17</td>]]></html>
+	<text>Florida 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kendrick Meek</td>]]></html>
+	<text>Kendrick Meek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kendrick Meek (D) unopposed</td>]]></html>
+	<text>Kendrick Meek (D) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 18</td>]]></html>
+	<text>Florida 18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ileana Ros-Lehtinen</td>]]></html>
+	<text>Ileana Ros-Lehtinen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989</td>]]></html>
+	<text>1989</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ileana Ros-Lehtinen (R) 64.7% Samuel Martin Sheldon (D) 35.3%</td>]]></html>
+	<text>Ileana Ros-Lehtinen (R) 64.7% Samuel Martin Sheldon (D) 35.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 19</td>]]></html>
+	<text>Florida 19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Wexler</td>]]></html>
+	<text>Robert Wexler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Wexler (D) unopposed</td>]]></html>
+	<text>Robert Wexler (D) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 20</td>]]></html>
+	<text>Florida 20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peter Deutsch</td>]]></html>
+	<text>Peter Deutsch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running for Senate</td>]]></html>
+	<text>Running for Senate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Debbie Wasserman Schultz (D) 70.2% Margaret Hostetter (R) 29.8%</td>]]></html>
+	<text>Debbie Wasserman Schultz (D) 70.2% Margaret Hostetter (R) 29.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 21</td>]]></html>
+	<text>Florida 21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lincoln Diaz-Balart</td>]]></html>
+	<text>Lincoln Diaz-Balart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lincoln Diaz-Balart (R) 72.8% Frank Gonzalez (L) 27.2%</td>]]></html>
+	<text>Lincoln Diaz-Balart (R) 72.8% Frank Gonzalez (L) 27.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 22</td>]]></html>
+	<text>Florida 22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clay Shaw</td>]]></html>
+	<text>Clay Shaw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1980</td>]]></html>
+	<text>1980</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clay Shaw (R) 62.9% Jim Stork (D) 35.4% Jack McLain (C) 1.7%</td>]]></html>
+	<text>Clay Shaw (R) 62.9% Jim Stork (D) 35.4% Jack McLain (C) 1.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 23</td>]]></html>
+	<text>Florida 23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alcee Hastings</td>]]></html>
+	<text>Alcee Hastings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alcee Hastings (D) unopposed</td>]]></html>
+	<text>Alcee Hastings (D) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 24</td>]]></html>
+	<text>Florida 24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom Feeney</td>]]></html>
+	<text>Tom Feeney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom Feeney (R) unopposed</td>]]></html>
+	<text>Tom Feeney (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida 25</td>]]></html>
+	<text>Florida 25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mario Diaz-Balart</td>]]></html>
+	<text>Mario Diaz-Balart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mario Diaz-Balart (R) unopposed</td>]]></html>
+	<text>Mario Diaz-Balart (R) unopposed</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 2004 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Result</text>
+</context>
+<context>
+	<score>0.8804171</score>
+	<text>[ edit ] Florida</text>
+</context>
+<context>
+	<score>0.80346316</score>
+	<text>United States House of Representatives elections, 2004</text>
+</context>
+<context>
+	<score>0.7834474</score>
+	<text>William E. Morris (L) 0.5%</text>
+</context>
+<context>
+	<score>0.7520748</score>
+	<text>[ edit ] Georgia</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Voting members</text>
+</context>
+<context>
+	<score>0.72751665</score>
+	<text>[ edit ] Non-voting delegates</text>
+</context>
+<context>
+	<score>0.7258875</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Maurice J. Barros (IPD) 0.7%</text>
+</context>
+<context>
+	<score>0.64381105</score>
+	<text>Paul Donnelly (D) 29.7%</text>
+</context>
+<context>
+	<score>0.60527813</score>
+	<text>[ edit ] Hawaii</text>
+</context>
+<context>
+	<score>0.5941625</score>
+	<text>Michael N. Castle (R) 69.1%</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Running</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Republican</text>
+</context>
+<context>
+	<score>0.51892716</score>
+	<text>[ edit ] Idaho</text>
+</context>
+<context>
+	<score>0.47691268</score>
+	<text>Delaware At Large</text>
+</context>
+<context>
+	<score>0.46813244</score>
+	<text>[ edit ] Illinois</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>District Incumbent Party Elected Status Result</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Result</th></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_1_ca5c.html" class="mw-redirect" title="United States House of Representatives, Florida District 1">Florida 1</a></td><td><a href="../../../../articles/j/e/f/Jeff_Miller_0014.html" title="Jeff Miller">Jeff Miller</a></td><td>Republican</td><td>2001</td><td>Running</td><td><b><a href="../../../../articles/j/e/f/Jeff_Miller_0014.html" title="Jeff Miller">Jeff Miller</a> (R) 76.5%</b><br />Mark Coutu (D) 23.5%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_2_a4ae.html" class="mw-redirect" title="United States House of Representatives, Florida District 2">Florida 2</a></td><td><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd">Allen Boyd</a></td><td>Democratic</td><td>1996</td><td>Running</td><td><b><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd">Allen Boyd</a> (D) 61.6%</b><br />Bev Kilmer (R) 38.4%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_3_a3a7.html" class="mw-redirect" title="United States House of Representatives, Florida District 3">Florida 3</a></td><td><a href="../../../../articles/c/o/r/Corrine_Brown_8979.html" title="Corrine Brown">Corrine Brown</a></td><td>Democratic</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/c/o/r/Corrine_Brown_8979.html" title="Corrine Brown">Corrine Brown</a> (D) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_4_4662.html" class="mw-redirect" title="United States House of Representatives, Florida District 4">Florida 4</a></td><td><a href="../../../../articles/a/n/d/Ander_Crenshaw_8e7f.html" title="Ander Crenshaw">Ander Crenshaw</a></td><td>Republican</td><td>2000</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/a/n/d/Ander_Crenshaw_8e7f.html" title="Ander Crenshaw">Ander Crenshaw</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_5_c7b4.html" class="mw-redirect" title="United States House of Representatives, Florida District 5">Florida 5</a></td><td><a href="../../../../articles/g/i/n/Ginny_Brown-Waite_4f65.html" title="Ginny Brown-Waite">Ginny Brown-Waite</a></td><td>Republican</td><td>2002</td><td>Running</td><td><b><a href="../../../../articles/g/i/n/Ginny_Brown-Waite_4f65.html" title="Ginny Brown-Waite">Ginny Brown-Waite</a> (R) 65.9%</b><br />Robert Whittel (D) 34.1%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_6_e1db.html" class="mw-redirect" title="United States House of Representatives, Florida District 6">Florida 6</a></td><td><a href="../../../../articles/c/l/i/Cliff_Stearns_89de.html" title="Cliff Stearns">Cliff Stearns</a></td><td>Republican</td><td>1988</td><td>Running</td><td><b><a href="../../../../articles/c/l/i/Cliff_Stearns_89de.html" title="Cliff Stearns">Cliff Stearns</a> (R) 64.4%</b><br /><a href="../../../../articles/d/a/v/Dave_Bruderly_cf42.html" title="Dave Bruderly">Dave Bruderly</a> (D) 35.6%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_7_b4f5.html" class="mw-redirect" title="United States House of Representatives, Florida District 7">Florida 7</a></td><td><a href="../../../../articles/j/o/h/John_Mica_c48a.html" title="John Mica">John Mica</a></td><td>Republican</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/j/o/h/John_Mica_c48a.html" title="John Mica">John Mica</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_8_fb85.html" class="mw-redirect" title="United States House of Representatives, Florida District 8">Florida 8</a></td><td><a href="../../../../articles/r/i/c/Ric_Keller_27e7.html" title="Ric Keller">Ric Keller</a></td><td>Republican</td><td>2000</td><td>Running</td><td><b><a href="../../../../articles/r/i/c/Ric_Keller_27e7.html" title="Ric Keller">Ric Keller</a> (R) 60.5%</b><br /><a href="../../../../articles/s/t/e/Stephen_Murray_ef20.html" title="Stephen Murray">Stephen Murray</a> (D) 39.5%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_9_3fd7.html" class="mw-redirect" title="United States House of Representatives, Florida District 9">Florida 9</a></td><td><a href="../../../../articles/m/i/c/Michael_Bilirakis_91ca.html" title="Michael Bilirakis">Michael Bilirakis</a></td><td>Republican</td><td>1982</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/m/i/c/Michael_Bilirakis_91ca.html" title="Michael Bilirakis">Michael Bilirakis</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_10_ddc0.html" class="mw-redirect" title="United States House of Representatives, Florida District 10">Florida 10</a></td><td><a href="../../../../articles/b/i/l/Bill_Young_b4fd.html" title="Bill Young">Bill Young</a></td><td>Republican</td><td>1970</td><td>Running</td><td><b><a href="../../../../articles/b/i/l/Bill_Young_b4fd.html" title="Bill Young">Bill Young</a> (R) 69.3%</b><br />Robert Dean Derry (D) 30.7%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_11_d7ac.html" class="mw-redirect" title="United States House of Representatives, Florida District 11">Florida 11</a></td><td><a href="../../../../articles/j/i/m/Jim_Davis_%28politician%29_1f26.html" title="Jim Davis (politician)">Jim Davis</a></td><td>Democratic</td><td>1996</td><td>Running</td><td><b><a href="../../../../articles/j/i/m/Jim_Davis_%28politician%29_1f26.html" title="Jim Davis (politician)">Jim Davis</a> (D) 85.8%</b><br />Robert Johnson (L) 14.2%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_12_02ee.html" class="mw-redirect" title="United States House of Representatives, Florida District 12">Florida 12</a></td><td><a href="../../../../articles/a/d/a/Adam_Putnam_8f00.html" title="Adam Putnam">Adam Putnam</a></td><td>Republican</td><td>2000</td><td>Running</td><td><b><a href="../../../../articles/a/d/a/Adam_Putnam_8f00.html" title="Adam Putnam">Adam Putnam</a> (R) 64.9%</b><br />Bob Hagenmeier (D) 35.1%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_13_fcb6.html" class="mw-redirect" title="United States House of Representatives, Florida District 13">Florida 13</a></td><td><a href="../../../../articles/k/a/t/Katherine_Harris_bc1c.html" title="Katherine Harris">Katherine Harris</a></td><td>Republican</td><td>2002</td><td>Running</td><td><b><a href="../../../../articles/k/a/t/Katherine_Harris_bc1c.html" title="Katherine Harris">Katherine Harris</a> (R) 55.3%</b><br /><a href="../../../../articles/j/a/n/Jan_Schneider_5135.html" title="Jan Schneider">Jan Schneider</a> (D) 44.7%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_14_8598.html" class="mw-redirect" title="United States House of Representatives, Florida District 14">Florida 14</a></td><td><i>Vacant</i></td><td>(Seat was Republican in 2002)</td><td>--</td><td>--</td><td><b><a href="../../../../articles/c/o/n/Connie_Mack_IV_f5f9.html" title="Connie Mack IV">Connie Mack IV</a> (R) 67.6%</b><br />Robert Neeld (D) 32.4%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_15_f756.html" class="mw-redirect" title="United States House of Representatives, Florida District 15">Florida 15</a></td><td><a href="../../../../articles/d/a/v/Dave_Weldon_6291.html" title="Dave Weldon">Dave Weldon</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/d/a/v/Dave_Weldon_6291.html" title="Dave Weldon">Dave Weldon</a> (R) 65.4%</b><br />Simon Pristoop (D) 34.6%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_16_3c30.html" class="mw-redirect" title="United States House of Representatives, Florida District 16">Florida 16</a></td><td><a href="../../../../articles/m/a/r/Mark_Foley_ac4b.html" title="Mark Foley">Mark Foley</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/m/a/r/Mark_Foley_ac4b.html" title="Mark Foley">Mark Foley</a> (R) 68.0%</b><br />Jeffrey Jay Fisher (D) 32.0%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_17_e6d4.html" class="mw-redirect" title="United States House of Representatives, Florida District 17">Florida 17</a></td><td><a href="../../../../articles/k/e/n/Kendrick_Meek_8d39.html" title="Kendrick Meek">Kendrick Meek</a></td><td>Democratic</td><td>2002</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/k/e/n/Kendrick_Meek_8d39.html" title="Kendrick Meek">Kendrick Meek</a> (D) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_18_c22e.html" class="mw-redirect" title="United States House of Representatives, Florida District 18">Florida 18</a></td><td><a href="../../../../articles/i/l/e/Ileana_Ros-Lehtinen_d062.html" title="Ileana Ros-Lehtinen">Ileana Ros-Lehtinen</a></td><td>Republican</td><td>1989</td><td>Running</td><td><b><a href="../../../../articles/i/l/e/Ileana_Ros-Lehtinen_d062.html" title="Ileana Ros-Lehtinen">Ileana Ros-Lehtinen</a> (R) 64.7%</b><br />Samuel Martin Sheldon (D) 35.3%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_19_8535.html" class="mw-redirect" title="United States House of Representatives, Florida District 19">Florida 19</a></td><td><a href="../../../../articles/r/o/b/Robert_Wexler_c56c.html" title="Robert Wexler">Robert Wexler</a></td><td>Democratic</td><td>1996</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/r/o/b/Robert_Wexler_c56c.html" title="Robert Wexler">Robert Wexler</a> (D) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_20_0f63.html" class="mw-redirect" title="United States House of Representatives, Florida District 20">Florida 20</a></td><td bgcolor="lightgrey"><a href="../../../../articles/p/e/t/Peter_Deutsch_2003.html" title="Peter Deutsch">Peter Deutsch</a></td><td>Democratic</td><td>1992</td><td>Running for Senate</td><td><b><a href="../../../../articles/d/e/b/Debbie_Wasserman_Schultz_50dc.html" title="Debbie Wasserman Schultz">Debbie Wasserman Schultz</a> (D) 70.2%</b><br />Margaret Hostetter (R) 29.8%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_21_5905.html" class="mw-redirect" title="United States House of Representatives, Florida District 21">Florida 21</a></td><td><a href="../../../../articles/l/i/n/Lincoln_Diaz-Balart_1d81.html" title="Lincoln Diaz-Balart">Lincoln Diaz-Balart</a></td><td>Republican</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/l/i/n/Lincoln_Diaz-Balart_1d81.html" title="Lincoln Diaz-Balart">Lincoln Diaz-Balart</a> (R) 72.8%</b><br />Frank Gonzalez (L) 27.2%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_22_5225.html" class="mw-redirect" title="United States House of Representatives, Florida District 22">Florida 22</a></td><td><a href="../../../../articles/e/2E/_/E._Clay_Shaw%2C_Jr._ab5b.html" title="E. Clay Shaw, Jr.">Clay Shaw</a></td><td>Republican</td><td>1980</td><td>Running</td><td><b><a href="../../../../articles/e/2E/_/E._Clay_Shaw%2C_Jr._ab5b.html" title="E. Clay Shaw, Jr.">Clay Shaw</a> (R) 62.9%</b><br /><a href="../../../../articles/j/i/m/Jim_Stork_de52.html" title="Jim Stork">Jim Stork</a> (D) 35.4%<br />Jack McLain (C) 1.7%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_23_97d5.html" class="mw-redirect" title="United States House of Representatives, Florida District 23">Florida 23</a></td><td><a href="../../../../articles/a/l/c/Alcee_Hastings_0493.html" title="Alcee Hastings">Alcee Hastings</a></td><td>Democratic</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/a/l/c/Alcee_Hastings_0493.html" title="Alcee Hastings">Alcee Hastings</a> (D) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_24_cf9c.html" class="mw-redirect" title="United States House of Representatives, Florida District 24">Florida 24</a></td><td><a href="../../../../articles/t/o/m/Tom_Feeney_4d2d.html" title="Tom Feeney">Tom Feeney</a></td><td>Republican</td><td>2002</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/t/o/m/Tom_Feeney_4d2d.html" title="Tom Feeney">Tom Feeney</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_House_of_Representatives%2C_Florida_District_25_306f.html" class="mw-redirect" title="United States House of Representatives, Florida District 25">Florida 25</a></td><td><a href="../../../../articles/m/a/r/Mario_Diaz-Balart_29bc.html" title="Mario Diaz-Balart">Mario Diaz-Balart</a></td><td>Republican</td><td>2002</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/m/a/r/Mario_Diaz-Balart_29bc.html" title="Mario Diaz-Balart">Mario Diaz-Balart</a> (R) unopposed</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

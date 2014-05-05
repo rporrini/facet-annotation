@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r37/d/i/s/Districts_of_Wales_c3ca.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 0 2, 0.71999997 1 2, 0.7 0 3, 0.63 1 3, 0.6 0 4, 0.54 1 4, 0.42162165 4, 0.40216216 2 4, 0.3064865 3 4, 0.24216217 2 3, 0.15135135 3, 0.08648649 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/i/s/Districts_of_Wales_c3ca.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Successor UA</th>]]></html>
+	<text>Successor UA</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GD4</td>]]></html>
+	<text>GD4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aberconwy</td>]]></html>
+	<text>Aberconwy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conwy</td>]]></html>
+	<text>Conwy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>WG4</td>]]></html>
+	<text>WG4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Afan renamed Port Talbot 1986</td>]]></html>
+	<text>Afan renamed Port Talbot 1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Glamorgan</td>]]></html>
+	<text>West Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neath Port Talbot</td>]]></html>
+	<text>Neath Port Talbot</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C4</td>]]></html>
+	<text>C4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alyn and Deeside</td>]]></html>
+	<text>Alyn and Deeside</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flintshire</td>]]></html>
+	<text>Flintshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GD1</td>]]></html>
+	<text>GD1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anglesey - Ynys Môn</td>]]></html>
+	<text>Anglesey - Ynys M&#244;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anglesey</td>]]></html>
+	<text>Anglesey</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GD3</td>]]></html>
+	<text>GD3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arfon</td>]]></html>
+	<text>Arfon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GT3</td>]]></html>
+	<text>GT3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blaenau Gwent</td>]]></html>
+	<text>Blaenau Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwent</td>]]></html>
+	<text>Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blaenau Gwent , Monmouthshire</td>]]></html>
+	<text>Blaenau Gwent , Monmouthshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>P3</td>]]></html>
+	<text>P3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brecknock</td>]]></html>
+	<text>Brecknock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SG1</td>]]></html>
+	<text>SG1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cardiff</td>]]></html>
+	<text>Cardiff</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City</td>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Glamorgan</td>]]></html>
+	<text>South Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cardiff</td>]]></html>
+	<text>Cardiff</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D4</td>]]></html>
+	<text>D4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carmarthen</td>]]></html>
+	<text>Carmarthen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carmarthenshire</td>]]></html>
+	<text>Carmarthenshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG3</td>]]></html>
+	<text>MG3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cynon Valley</td>]]></html>
+	<text>Cynon Valley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhondda Cynon Taff</td>]]></html>
+	<text>Rhondda Cynon Taff</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D1</td>]]></html>
+	<text>D1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ceredigion</td>]]></html>
+	<text>Ceredigion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ceredigion</td>]]></html>
+	<text>Ceredigion</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C1</td>]]></html>
+	<text>C1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colwyn</td>]]></html>
+	<text>Colwyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conwy , Denbighshire</td>]]></html>
+	<text>Conwy , Denbighshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C3</td>]]></html>
+	<text>C3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delyn</td>]]></html>
+	<text>Delyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flintshire</td>]]></html>
+	<text>Flintshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D6</td>]]></html>
+	<text>D6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dinefwr</td>]]></html>
+	<text>Dinefwr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carmarthenshire</td>]]></html>
+	<text>Carmarthenshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GD2</td>]]></html>
+	<text>GD2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dwyfor</td>]]></html>
+	<text>Dwyfor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GT2</td>]]></html>
+	<text>GT2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Islwyn</td>]]></html>
+	<text>Islwyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwent</td>]]></html>
+	<text>Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Caerphilly</td>]]></html>
+	<text>Caerphilly</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D5</td>]]></html>
+	<text>D5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Llanelli</td>]]></html>
+	<text>Llanelli</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carmarthenshire</td>]]></html>
+	<text>Carmarthenshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>WG2</td>]]></html>
+	<text>WG2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lliw Valley</td>]]></html>
+	<text>Lliw Valley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Glamorgan</td>]]></html>
+	<text>West Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neath Port Talbot , Swansea</td>]]></html>
+	<text>Neath Port Talbot , Swansea</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C5</td>]]></html>
+	<text>C5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glyndwr</td>]]></html>
+	<text>Glyndwr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denbighshire , Powys , Wrexham</td>]]></html>
+	<text>Denbighshire , Powys , Wrexham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GD5</td>]]></html>
+	<text>GD5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Meirionnydd</td>]]></html>
+	<text>Meirionnydd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwynedd</td>]]></html>
+	<text>Gwynedd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG4</td>]]></html>
+	<text>MG4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Merthyr Tydfil</td>]]></html>
+	<text>Merthyr Tydfil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Merthyr Tydfil</td>]]></html>
+	<text>Merthyr Tydfil</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GT5</td>]]></html>
+	<text>GT5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monmouth</td>]]></html>
+	<text>Monmouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District, Borough from 1988</td>]]></html>
+	<text>District, Borough from 1988</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwent</td>]]></html>
+	<text>Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monmouthshire</td>]]></html>
+	<text>Monmouthshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>P1</td>]]></html>
+	<text>P1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montgomery, renamed Montgomeryshire 1986</td>]]></html>
+	<text>Montgomery, renamed Montgomeryshire 1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>WG3</td>]]></html>
+	<text>WG3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neath</td>]]></html>
+	<text>Neath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Glamorgan</td>]]></html>
+	<text>West Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neath Port Talbot</td>]]></html>
+	<text>Neath Port Talbot</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GT1</td>]]></html>
+	<text>GT1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newport</td>]]></html>
+	<text>Newport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwent</td>]]></html>
+	<text>Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newport</td>]]></html>
+	<text>Newport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG1</td>]]></html>
+	<text>MG1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ogwr</td>]]></html>
+	<text>Ogwr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bridgend , Vale of Glamorgan</td>]]></html>
+	<text>Bridgend , Vale of Glamorgan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D2</td>]]></html>
+	<text>D2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Preseli , renamed Preseli Pembrokeshire 1987</td>]]></html>
+	<text>Preseli , renamed Preseli Pembrokeshire 1987</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pembrokeshire</td>]]></html>
+	<text>Pembrokeshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>P2</td>]]></html>
+	<text>P2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radnor, renamed Radnorshire 1989</td>]]></html>
+	<text>Radnor, renamed Radnorshire 1989</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Powys</td>]]></html>
+	<text>Powys</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG2</td>]]></html>
+	<text>MG2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhondda</td>]]></html>
+	<text>Rhondda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhondda Cynon Taff</td>]]></html>
+	<text>Rhondda Cynon Taff</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C2</td>]]></html>
+	<text>C2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhuddlan</td>]]></html>
+	<text>Rhuddlan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denbighshire</td>]]></html>
+	<text>Denbighshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG5</td>]]></html>
+	<text>MG5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhymney Valley</td>]]></html>
+	<text>Rhymney Valley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Caerphilly</td>]]></html>
+	<text>Caerphilly</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D3</td>]]></html>
+	<text>D3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Pembrokeshire</td>]]></html>
+	<text>South Pembrokeshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>District</td>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dyfed</td>]]></html>
+	<text>Dyfed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pembrokeshire</td>]]></html>
+	<text>Pembrokeshire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>WG1</td>]]></html>
+	<text>WG1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swansea</td>]]></html>
+	<text>Swansea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City</td>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Glamorgan</td>]]></html>
+	<text>West Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swansea</td>]]></html>
+	<text>Swansea</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MG6</td>]]></html>
+	<text>MG6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taff-Ely</td>]]></html>
+	<text>Taff-Ely</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mid Glamorgan</td>]]></html>
+	<text>Mid Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhondda Cynon Taff , Cardiff</td>]]></html>
+	<text>Rhondda Cynon Taff , Cardiff</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GT4</td>]]></html>
+	<text>GT4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Torfaen</td>]]></html>
+	<text>Torfaen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gwent</td>]]></html>
+	<text>Gwent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Torfaen</td>]]></html>
+	<text>Torfaen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SG2</td>]]></html>
+	<text>SG2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vale of Glamorgan</td>]]></html>
+	<text>Vale of Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Glamorgan</td>]]></html>
+	<text>South Glamorgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vale of Glamorgan</td>]]></html>
+	<text>Vale of Glamorgan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C6</td>]]></html>
+	<text>C6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wrexham Maelor</td>]]></html>
+	<text>Wrexham Maelor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough</td>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clwyd</td>]]></html>
+	<text>Clwyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wrexham</td>]]></html>
+	<text>Wrexham</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Districts of Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Code District Status County Successor UA</text>
+</context>
+<context>
+	<score>0.88832986</score>
+	<text>[ edit ] Former districts</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>Districts of Wales</text>
+</context>
+<context>
+	<score>0.7886058</score>
+	<text>For the list of districts before 1974 , see List of urban and rural districts in Wales .</text>
+</context>
+<context>
+	<score>0.75634223</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.74778134</score>
+	<text>[ edit ] Former districts</text>
+</context>
+<context>
+	<score>0.70882666</score>
+	<text>Each district was administered by an elected district council. The council was entitled to petition for a charter granting borough status, whereupon the district became a borough and the district council a borough council headed by a mayor . In addition, a district could be granted Letters Patent granting city status.</text>
+</context>
+<context>
+	<score>0.6450033</score>
+	<text>In 1974 , Wales was re-divided for local government purposes into thirty-seven districts . Districts were the second tier of local government introduced by the Local Government Act 1972 , being subdivisions of the eight counties introduced at the same time. This system of two-tier local government was abolished in 1996 and replaced with the current system of unitary principal areas .</text>
+</context>
+<context>
+	<score>0.61991435</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5790674</score>
+	<text>Districts of Wales</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th width="5">Code</th><th width="15">District</th><th width="25">Status</th><th width="20">County</th><th width="20">Successor UA</th></tr><tr><td>GD4</td><td><a href="../../../../articles/a/b/e/Aberconwy_%28district%29.html" title="Aberconwy (district)">Aberconwy</a></td><td><a href="../../../../articles/b/o/r/Borough_status_in_the_United_Kingdom_64a7.html" title="Borough status in the United Kingdom">Borough</a></td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td><td><a href="../../../../articles/c/o/n/Conwy_%28county_borough%29.html" title="Conwy (county borough)">Conwy</a></td></tr><tr><td>WG4</td><td><a href="../../../../articles/p/o/r/Port_Talbot_%28district%29_6158.html" title="Port Talbot (district)">Afan</a> <i>renamed</i><br /><p>Port Talbot <a href="../../../../articles/1/9/8/1986.html" title="1986">1986</a></p></td><td>Borough</td><td><a href="../../../../articles/w/e/s/West_Glamorgan_a3d8.html" title="West Glamorgan">West Glamorgan</a></td><td><a href="../../../../articles/n/e/a/Neath_Port_Talbot_df95.html" title="Neath Port Talbot">Neath Port Talbot</a></td></tr><tr><td>C4</td><td><a href="../../../../articles/a/l/y/Alyn_and_Deeside_%28district%29_454f.html" title="Alyn and Deeside (district)">Alyn and Deeside</a></td><td>District</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/f/l/i/Flintshire.html" title="Flintshire">Flintshire</a></td></tr><tr><td>GD1</td><td><a href="../../../../articles/a/n/g/Anglesey.html" title="Anglesey">Anglesey - Ynys Môn</a></td><td>Borough</td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td><td><a href="../../../../articles/a/n/g/Anglesey.html" title="Anglesey">Anglesey</a></td></tr><tr><td>GD3</td><td><a href="../../../../articles/a/r/f/Arfon.html" title="Arfon">Arfon</a></td><td>Borough</td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td></tr><tr><td>GT3</td><td><a href="../../../../articles/b/l/a/Blaenau_Gwent_05bc.html" title="Blaenau Gwent">Blaenau Gwent</a></td><td>Borough</td><td><a href="../../../../articles/g/w/e/Gwent_%28county%29.html" title="Gwent (county)">Gwent</a></td><td><a href="../../../../articles/b/l/a/Blaenau_Gwent_05bc.html" title="Blaenau Gwent">Blaenau Gwent</a>, <a href="../../../../articles/m/o/n/Monmouthshire.html" title="Monmouthshire">Monmouthshire</a></td></tr><tr><td>P3</td><td><a href="../../../../articles/b/r/e/Brecknockshire.html" title="Brecknockshire">Brecknock</a></td><td>Borough</td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td></tr><tr><td>SG1</td><td><a href="../../../../articles/c/a/r/Cardiff.html" title="Cardiff">Cardiff</a></td><td><a href="../../../../articles/c/i/t/City_status_in_the_United_Kingdom_d209.html" title="City status in the United Kingdom">City</a></td><td><a href="../../../../articles/s/o/u/South_Glamorgan_e90e.html" title="South Glamorgan">South Glamorgan</a></td><td><a href="../../../../articles/c/a/r/Cardiff.html" title="Cardiff">Cardiff</a></td></tr><tr><td>D4</td><td><a href="../../../../articles/c/a/r/Carmarthen_%28district%29.html" title="Carmarthen (district)">Carmarthen</a></td><td>District</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/c/a/r/Carmarthenshire.html" title="Carmarthenshire">Carmarthenshire</a></td></tr><tr><td>MG3</td><td><a href="../../../../articles/c/y/n/Cynon_Valley_ca9b.html" title="Cynon Valley">Cynon Valley</a></td><td>Borough</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/r/h/o/Rhondda_Cynon_Taff_74db.html" title="Rhondda Cynon Taff">Rhondda Cynon Taff</a></td></tr><tr><td>D1</td><td><a href="../../../../articles/c/e/r/Ceredigion.html" title="Ceredigion">Ceredigion</a></td><td>District</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/c/e/r/Ceredigion.html" title="Ceredigion">Ceredigion</a></td></tr><tr><td>C1</td><td><a href="../../../../articles/c/o/l/Colwyn.html" title="Colwyn">Colwyn</a></td><td>Borough</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/c/o/n/Conwy_%28county_borough%29.html" title="Conwy (county borough)">Conwy</a>, <a href="../../../../articles/d/e/n/Denbighshire.html" title="Denbighshire">Denbighshire</a></td></tr><tr><td>C3</td><td><a href="../../../../articles/d/e/l/Delyn_%28district%29.html" title="Delyn (district)">Delyn</a></td><td>Borough</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/f/l/i/Flintshire.html" title="Flintshire">Flintshire</a></td></tr><tr><td>D6</td><td><a href="../../../../articles/d/i/n/Dinefwr.html" title="Dinefwr">Dinefwr</a></td><td>Borough</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/c/a/r/Carmarthenshire.html" title="Carmarthenshire">Carmarthenshire</a></td></tr><tr><td>GD2</td><td><a href="../../../../articles/d/w/y/Dwyfor.html" title="Dwyfor">Dwyfor</a></td><td>District</td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td></tr><tr><td>GT2</td><td><a href="../../../../articles/i/s/l/Islwyn.html" title="Islwyn">Islwyn</a></td><td>Borough</td><td><a href="../../../../articles/g/w/e/Gwent_%28county%29.html" title="Gwent (county)">Gwent</a></td><td><a href="../../../../articles/c/a/e/Caerphilly_%28county_borough%29.html" title="Caerphilly (county borough)">Caerphilly</a></td></tr><tr><td>D5</td><td><a href="../../../../articles/l/l/a/Llanelli_%28district%29.html" title="Llanelli (district)">Llanelli</a></td><td>Borough</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/c/a/r/Carmarthenshire.html" title="Carmarthenshire">Carmarthenshire</a></td></tr><tr><td>WG2</td><td><a href="../../../../articles/l/l/i/Lliw_Valley_f37f.html" title="Lliw Valley">Lliw Valley</a></td><td>Borough</td><td><a href="../../../../articles/w/e/s/West_Glamorgan_a3d8.html" title="West Glamorgan">West Glamorgan</a></td><td><a href="../../../../articles/n/e/a/Neath_Port_Talbot_df95.html" title="Neath Port Talbot">Neath Port Talbot</a>, <a href="../../../../articles/s/w/a/Swansea.html" title="Swansea">Swansea</a></td></tr><tr><td>C5</td><td><a href="../../../../articles/g/l/y/Glyndwr.html" class="mw-redirect" title="Glyndwr">Glyndwr</a></td><td>District</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/d/e/n/Denbighshire.html" title="Denbighshire">Denbighshire</a>, <a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a>, <a href="../../../../articles/w/r/e/Wrexham_%28county_borough%29.html" title="Wrexham (county borough)">Wrexham</a></td></tr><tr><td>GD5</td><td><a href="../../../../articles/m/e/i/Meirionnydd.html" title="Meirionnydd">Meirionnydd</a></td><td>District</td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td><td><a href="../../../../articles/g/w/y/Gwynedd.html" title="Gwynedd">Gwynedd</a></td></tr><tr><td>MG4</td><td><a href="../../../../articles/m/e/r/Merthyr_Tydfil_c79f.html" title="Merthyr Tydfil">Merthyr Tydfil</a></td><td>Borough</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/m/e/r/Merthyr_Tydfil_c79f.html" title="Merthyr Tydfil">Merthyr Tydfil</a></td></tr><tr><td>GT5</td><td><a href="../../../../articles/m/o/n/Monmouth_%28district%29.html" title="Monmouth (district)">Monmouth</a></td><td>District, Borough from 1988</td><td><a href="../../../../articles/g/w/e/Gwent_%28county%29.html" title="Gwent (county)">Gwent</a></td><td><a href="../../../../articles/m/o/n/Monmouthshire.html" title="Monmouthshire">Monmouthshire</a></td></tr><tr><td>P1</td><td>Montgomery,<br /><i>renamed</i> <a href="../../../../articles/m/o/n/Montgomeryshire_%28district%29.html" title="Montgomeryshire (district)">Montgomeryshire</a> 1986</td><td>District</td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td></tr><tr><td>WG3</td><td><a href="../../../../articles/n/e/a/Neath_%28district%29.html" title="Neath (district)">Neath</a></td><td>Borough</td><td><a href="../../../../articles/w/e/s/West_Glamorgan_a3d8.html" title="West Glamorgan">West Glamorgan</a></td><td><a href="../../../../articles/n/e/a/Neath_Port_Talbot_df95.html" title="Neath Port Talbot">Neath Port Talbot</a></td></tr><tr><td>GT1</td><td><a href="../../../../articles/n/e/w/Newport_%28district%29.html" title="Newport (district)">Newport</a></td><td>Borough</td><td><a href="../../../../articles/g/w/e/Gwent_%28county%29.html" title="Gwent (county)">Gwent</a></td><td><a href="../../../../articles/n/e/w/Newport.html" title="Newport">Newport</a></td></tr><tr><td>MG1</td><td><a href="../../../../articles/o/g/w/Ogwr.html" title="Ogwr">Ogwr</a></td><td>Borough</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/b/r/i/Bridgend_%28county_borough%29.html" title="Bridgend (county borough)">Bridgend</a>, <a href="../../../../articles/v/a/l/Vale_of_Glamorgan_8b1b.html" title="Vale of Glamorgan">Vale of Glamorgan</a></td></tr><tr><td>D2</td><td><a href="../../../../articles/p/r/e/Preseli_Pembrokeshire_0fbe.html" title="Preseli Pembrokeshire">Preseli</a>, <i>renamed</i><br />Preseli Pembrokeshire 1987</td><td>District</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/p/e/m/Pembrokeshire.html" title="Pembrokeshire">Pembrokeshire</a></td></tr><tr><td>P2</td><td>Radnor,<br /><i>renamed</i> <a href="../../../../articles/r/a/d/Radnorshire_%28district%29.html" title="Radnorshire (district)">Radnorshire</a> 1989</td><td>District</td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td><td><a href="../../../../articles/p/o/w/Powys.html" title="Powys">Powys</a></td></tr><tr><td>MG2</td><td><a href="../../../../articles/r/h/o/Rhondda_%28district%29.html" title="Rhondda (district)">Rhondda</a></td><td>Borough</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/r/h/o/Rhondda_Cynon_Taff_74db.html" title="Rhondda Cynon Taff">Rhondda Cynon Taff</a></td></tr><tr><td>C2</td><td><a href="../../../../articles/r/h/u/Rhuddlan_%28district%29.html" title="Rhuddlan (district)">Rhuddlan</a></td><td>Borough</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/d/e/n/Denbighshire.html" title="Denbighshire">Denbighshire</a></td></tr><tr><td>MG5</td><td><a href="../../../../articles/r/h/y/Rhymney_Valley_%28district%29_9633.html" title="Rhymney Valley (district)">Rhymney Valley</a></td><td>District</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/c/a/e/Caerphilly_%28county_borough%29.html" title="Caerphilly (county borough)">Caerphilly</a></td></tr><tr><td>D3</td><td><a href="../../../../articles/s/o/u/South_Pembrokeshire_6ffd.html" title="South Pembrokeshire">South Pembrokeshire</a></td><td>District</td><td><a href="../../../../articles/d/y/f/Dyfed.html" title="Dyfed">Dyfed</a></td><td><a href="../../../../articles/p/e/m/Pembrokeshire.html" title="Pembrokeshire">Pembrokeshire</a></td></tr><tr><td>WG1</td><td><a href="../../../../articles/s/w/a/Swansea_%28district%29.html" title="Swansea (district)">Swansea</a></td><td>City</td><td><a href="../../../../articles/w/e/s/West_Glamorgan_a3d8.html" title="West Glamorgan">West Glamorgan</a></td><td><a href="../../../../articles/s/w/a/Swansea.html" title="Swansea">Swansea</a></td></tr><tr><td>MG6</td><td><a href="../../../../articles/t/a/f/Taff-Ely_638f.html" title="Taff-Ely">Taff-Ely</a></td><td>Borough</td><td><a href="../../../../articles/m/i/d/Mid_Glamorgan_02d3.html" title="Mid Glamorgan">Mid Glamorgan</a></td><td><a href="../../../../articles/r/h/o/Rhondda_Cynon_Taff_74db.html" title="Rhondda Cynon Taff">Rhondda Cynon Taff</a>, <a href="../../../../articles/c/a/r/Cardiff.html" title="Cardiff">Cardiff</a></td></tr><tr><td>GT4</td><td><a href="../../../../articles/t/o/r/Torfaen.html" title="Torfaen">Torfaen</a></td><td>Borough</td><td><a href="../../../../articles/g/w/e/Gwent_%28county%29.html" title="Gwent (county)">Gwent</a></td><td><a href="../../../../articles/t/o/r/Torfaen.html" title="Torfaen">Torfaen</a></td></tr><tr><td>SG2</td><td><a href="../../../../articles/v/a/l/Vale_of_Glamorgan_8b1b.html" title="Vale of Glamorgan">Vale of Glamorgan</a></td><td>Borough</td><td><a href="../../../../articles/s/o/u/South_Glamorgan_e90e.html" title="South Glamorgan">South Glamorgan</a></td><td><a href="../../../../articles/v/a/l/Vale_of_Glamorgan_8b1b.html" title="Vale of Glamorgan">Vale of Glamorgan</a></td></tr><tr><td>C6</td><td><a href="../../../../articles/w/r/e/Wrexham_Maelor_4cec.html" title="Wrexham Maelor">Wrexham Maelor</a></td><td>Borough</td><td><a href="../../../../articles/c/l/w/Clwyd.html" title="Clwyd">Clwyd</a></td><td><a href="../../../../articles/w/r/e/Wrexham_%28county_borough%29.html" title="Wrexham (county borough)">Wrexham</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

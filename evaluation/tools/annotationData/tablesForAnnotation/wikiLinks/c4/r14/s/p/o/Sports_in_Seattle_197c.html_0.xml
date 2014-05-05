@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r14/s/p/o/Sports_in_Seattle_197c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.69642854 2, 0.625 1, 0.625 0 3, 0.609375 1 2, 0.46875 1 3, 0.46875 2 3, 0.35714287 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/p/o/Sports_in_Seattle_197c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Mariners</td>]]></html>
+	<text>Seattle Mariners</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball (MLB) - AL</td>]]></html>
+	<text>Major League Baseball (MLB) - AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Safeco Field</td>]]></html>
+	<text>Safeco Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Seahawks</td>]]></html>
+	<text>Seattle Seahawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League (NFL) - NFC</td>]]></html>
+	<text>National Football League (NFL) - NFC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qwest Field</td>]]></html>
+	<text>Qwest Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Sounders</td>]]></html>
+	<text>Seattle Sounders</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soccer</td>]]></html>
+	<text>Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USL First Division (men's) W-League (women's)</td>]]></html>
+	<text>USL First Division (men&amp;apos;s) W-League (women&amp;apos;s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qwest Field</td>]]></html>
+	<text>Qwest Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Sounders FC (2009)</td>]]></html>
+	<text>Seattle Sounders FC (2009)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soccer</td>]]></html>
+	<text>Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Soccer</td>]]></html>
+	<text>Major League Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qwest Field</td>]]></html>
+	<text>Qwest Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Storm</td>]]></html>
+	<text>Seattle Storm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Women's National Basketball Association (WNBA)</td>]]></html>
+	<text>Women&amp;apos;s National Basketball Association (WNBA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KeyArena</td>]]></html>
+	<text>KeyArena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle SuperSonics</td>]]></html>
+	<text>Seattle SuperSonics</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Basketball Association (NBA)</td>]]></html>
+	<text>National Basketball Association (NBA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KeyArena</td>]]></html>
+	<text>KeyArena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Thunderbirds</td>]]></html>
+	<text>Seattle Thunderbirds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice Hockey</td>]]></html>
+	<text>Ice Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western Hockey League</td>]]></html>
+	<text>Western Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KeyArena</td>]]></html>
+	<text>KeyArena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Everett Silvertips</td>]]></html>
+	<text>Everett Silvertips</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice Hockey</td>]]></html>
+	<text>Ice Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western Hockey League</td>]]></html>
+	<text>Western Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Everett Events Center</td>]]></html>
+	<text>Everett Events Center</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Totems</td>]]></html>
+	<text>Seattle Totems</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice Hockey</td>]]></html>
+	<text>Ice Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northern Pacific Hockey League</td>]]></html>
+	<text>Northern Pacific Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Olympic View Ice Arena</td>]]></html>
+	<text>Olympic View Ice Arena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Tiger Sharks</td>]]></html>
+	<text>Seattle Tiger Sharks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mixed Martial Arts</td>]]></html>
+	<text>Mixed Martial Arts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>International Fight League</td>]]></html>
+	<text>International Fight League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Varies</td>]]></html>
+	<text>Varies</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Sockeye</td>]]></html>
+	<text>Seattle Sockeye</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ultimate</td>]]></html>
+	<text>Ultimate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ultimate Players Association</td>]]></html>
+	<text>Ultimate Players Association</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Varies</td>]]></html>
+	<text>Varies</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Wolves FC</td>]]></html>
+	<text>Seattle Wolves FC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football (soccer)</td>]]></html>
+	<text>Football (soccer)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pacific Coast Soccer League</td>]]></html>
+	<text>Pacific Coast Soccer League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Starfire Sports Complex</td>]]></html>
+	<text>Starfire Sports Complex</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Old Puget Sound Beach RFC</td>]]></html>
+	<text>Old Puget Sound Beach RFC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rugby union</td>]]></html>
+	<text>Rugby union</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rugby Super League (US)</td>]]></html>
+	<text>Rugby Super League (US)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Varies</td>]]></html>
+	<text>Varies</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington Huskies</td>]]></html>
+	<text>Washington Huskies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football Basketball</td>]]></html>
+	<text>Football Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NCAA - Division I -A Football NCAA - Division I -A Basketball</td>]]></html>
+	<text>NCAA - Division I -A Football NCAA - Division I -A Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Husky Stadium Hec Ed</td>]]></html>
+	<text>Husky Stadium Hec Ed</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Sports in Seattle - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Stadium</text>
+</context>
+<context>
+	<score>0.89256203</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Major professional teams</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Other professional teams</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Collegiate sports</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Other sports</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Sporting events</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] Notes and References</text>
+</context>
+<context>
+	<score>0.79928774</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.79559225</score>
+	<text>Sports in Seattle</text>
+</context>
+<context>
+	<score>0.79559225</score>
+	<text>Sports in Seattle</text>
+</context>
+<context>
+	<score>0.79559225</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7541411</score>
+	<text>Seattle &apos;s professional sports history began at the start of the 20th century with the PCHA&apos;s Seattle Metropolitans , which in 1917 became the first American hockey team to win the Stanley Cup , and continues today with the city&apos;s four major professional teams, the NBA&apos;s Seattle SuperSonics , the NFL&apos;s Seattle Seahawks , the MLB&apos;s Seattle Mariners , and the WNBA&apos;s Seattle Storm . Seattle also boasts a strong history in collegiate sports, the NCAA Division I school University of Washington and the NCAA Division II schools Seattle Pacific University and Seattle University .</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5209935</score>
+	<text>[ edit ] Major professional teams</text>
+</context>
+<context>
+	<score>0.47019872</score>
+	<text>The first professional team to play in Seattle was the PCHA Seattle Metropolitans , which played in the Seattle Ice Arena between 1915 and 1924 . The NHL has proposed relocating or expanding to Seattle.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Club</th><th>Sport</th><th>League</th><th>Stadium</th></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Mariners_8d2e.html" title="Seattle Mariners">Seattle Mariners</a></td><td><a href="../../../../articles/b/a/s/Baseball.html" title="Baseball">Baseball</a></td><td>Major League Baseball (MLB) - <a href="../../../../articles/a/m/e/American_League_6b8d.html" title="American League">AL</a></td><td><a href="../../../../articles/s/a/f/Safeco_Field_0b97.html" title="Safeco Field">Safeco Field</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Seahawks_2af6.html" title="Seattle Seahawks">Seattle Seahawks</a></td><td><a href="../../../../articles/a/m/e/American_football.html" title="American football">Football</a></td><td>National Football League (NFL) - <a href="../../../../articles/n/a/t/National_Football_Conference_d886.html" title="National Football Conference">NFC</a></td><td><a href="../../../../articles/q/w/e/Qwest_Field_6ca5.html" title="Qwest Field">Qwest Field</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Sounders_%28USL%29_7c6f.html" title="Seattle Sounders (USL)">Seattle Sounders</a></td><td><a href="../../../../articles/f/o/o/Football_%28soccer%29.html" class="mw-redirect" title="Football (soccer)">Soccer</a></td><td><a href="../../../../articles/u/s/l/USL_First_Division_eaef.html" title="USL First Division">USL First Division</a> (men's)<br /><a href="../../../../articles/w/-/l/W-League_3774.html" title="W-League">W-League</a> (women's)</td><td><a href="../../../../articles/q/w/e/Qwest_Field_6ca5.html" title="Qwest Field">Qwest Field</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Sounders_FC_e426.html" title="Seattle Sounders FC">Seattle Sounders FC</a>(2009)</td><td><a href="../../../../articles/f/o/o/Football_%28soccer%29.html" class="mw-redirect" title="Football (soccer)">Soccer</a></td><td><a href="../../../../articles/m/a/j/Major_League_Soccer_7bb1.html" title="Major League Soccer">Major League Soccer</a></td><td><a href="../../../../articles/q/w/e/Qwest_Field_6ca5.html" title="Qwest Field">Qwest Field</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Storm_5e76.html" title="Seattle Storm">Seattle Storm</a></td><td>Basketball</td><td>Women's National Basketball Association (WNBA)</td><td><a href="../../../../articles/k/e/y/KeyArena_7af3.html" title="KeyArena">KeyArena</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_SuperSonics_88de.html" title="Seattle SuperSonics">Seattle SuperSonics</a></td><td><a href="../../../../articles/b/a/s/Basketball.html" title="Basketball">Basketball</a></td><td>National Basketball Association (NBA)</td><td><a href="../../../../articles/k/e/y/KeyArena_7af3.html" title="KeyArena">KeyArena</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Thunderbirds_48d6.html" title="Seattle Thunderbirds">Seattle Thunderbirds</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Ice Hockey</a></td><td><a href="../../../../articles/w/e/s/Western_Hockey_League_6e9f.html" title="Western Hockey League">Western Hockey League</a></td><td><a href="../../../../articles/k/e/y/KeyArena_7af3.html" title="KeyArena">KeyArena</a></td></tr><tr><td><a href="../../../../articles/e/v/e/Everett_Silvertips_5113.html" title="Everett Silvertips">Everett Silvertips</a></td><td><a href="../../../../articles/i/c/e/Ice_Hockey_24c2.html" class="mw-redirect" title="Ice Hockey">Ice Hockey</a></td><td><a href="../../../../articles/w/e/s/Western_Hockey_League_6e9f.html" title="Western Hockey League">Western Hockey League</a></td><td><a href="../../../../articles/e/v/e/Everett_Events_Center_1163.html" title="Everett Events Center">Everett Events Center</a></td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Totems_355d.html" title="Seattle Totems">Seattle Totems</a></td><td><a href="../../../../articles/i/c/e/Ice_Hockey_24c2.html" class="mw-redirect" title="Ice Hockey">Ice Hockey</a></td><td><a href="../../../../articles/n/o/r/Northern_Pacific_Hockey_League_3f31.html" title="Northern Pacific Hockey League">Northern Pacific Hockey League</a></td><td>Olympic View Ice Arena</td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Tiger_Sharks_886e.html" title="Seattle Tiger Sharks">Seattle Tiger Sharks</a></td><td><a href="../../../../articles/m/i/x/Mixed_Martial_Arts_7035.html" class="mw-redirect" title="Mixed Martial Arts">Mixed Martial Arts</a></td><td><a href="../../../../articles/i/n/t/International_Fight_League_1787.html" title="International Fight League">International Fight League</a></td><td>Varies</td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Sockeye_62a7.html" title="Seattle Sockeye">Seattle Sockeye</a></td><td><a href="../../../../articles/u/l/t/Ultimate_%28sport%29.html" title="Ultimate (sport)">Ultimate</a></td><td><a href="../../../../articles/u/l/t/Ultimate_Players_Association_fe94.html" title="Ultimate Players Association">Ultimate Players Association</a></td><td>Varies</td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Wolves_FC_9ff1.html" title="Seattle Wolves FC">Seattle Wolves FC</a></td><td><a href="../../../../articles/f/o/o/Football_%28soccer%29.html" class="mw-redirect" title="Football (soccer)">Football (soccer)</a></td><td><a href="../../../../articles/p/a/c/Pacific_Coast_Soccer_League_858d.html" title="Pacific Coast Soccer League">Pacific Coast Soccer League</a></td><td><a href="../../../../articles/s/t/a/Starfire_Sports_Complex_1cf0.html" title="Starfire Sports Complex">Starfire Sports Complex</a></td></tr><tr><td><a href="../../../../articles/o/l/d/Old_Puget_Sound_Beach_RFC_5f6d.html" title="Old Puget Sound Beach RFC">Old Puget Sound Beach RFC</a></td><td><a href="../../../../articles/r/u/g/Rugby_union.html" title="Rugby union">Rugby union</a></td><td><a href="../../../../articles/r/u/g/Rugby_Super_League_%28US%29_3494.html" title="Rugby Super League (US)">Rugby Super League (US)</a></td><td>Varies</td></tr><tr><td><a href="../../../../articles/w/a/s/Washington_Huskies_40a2.html" title="Washington Huskies">Washington Huskies</a></td><td><a href="../../../../articles/f/o/o/Football.html" title="Football">Football</a><br /><a href="../../../../articles/b/a/s/Basketball.html" title="Basketball">Basketball</a></td><td><a href="../../../../articles/n/a/t/National_Collegiate_Athletic_Association_2404.html" title="National Collegiate Athletic Association">NCAA</a> - <a href="../../../../articles/d/i/v/Division_I_94db.html" title="Division I">Division I</a>-A <a href="../../../../articles/f/o/o/Football.html" title="Football">Football</a><br /><a href="../../../../articles/n/a/t/National_Collegiate_Athletic_Association_2404.html" title="National Collegiate Athletic Association">NCAA</a> - <a href="../../../../articles/d/i/v/Division_I_94db.html" title="Division I">Division I</a>-A <a href="../../../../articles/b/a/s/Basketball.html" title="Basketball">Basketball</a></td><td><a href="../../../../articles/h/u/s/Husky_Stadium_089b.html" title="Husky Stadium">Husky Stadium</a><br /><a href="../../../../articles/h/e/c/Hec_Ed_f224.html" class="mw-redirect" title="Hec Ed">Hec Ed</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

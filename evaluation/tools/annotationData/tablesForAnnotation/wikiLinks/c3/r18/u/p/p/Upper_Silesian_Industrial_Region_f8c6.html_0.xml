@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r18/u/p/p/Upper_Silesian_Industrial_Region_f8c6.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/u/p/p/Upper_Silesian_Industrial_Region_f8c6.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area in km²</th>]]></html>
+	<text>Area in km&#178;</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Katowice</td>]]></html>
+	<text>Katowice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>314 500</td>]]></html>
+	<text>314 500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>164.6</td>]]></html>
+	<text>164.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sosnowiec</td>]]></html>
+	<text>Sosnowiec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>223 284</td>]]></html>
+	<text>223 284</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.26</td>]]></html>
+	<text>91.26</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gliwice</td>]]></html>
+	<text>Gliwice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>199 086</td>]]></html>
+	<text>199 086</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>134.2</td>]]></html>
+	<text>134.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bytom</td>]]></html>
+	<text>Bytom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>188 234</td>]]></html>
+	<text>188 234</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69.32</td>]]></html>
+	<text>69.32</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zabrze</td>]]></html>
+	<text>Zabrze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>190 400</td>]]></html>
+	<text>190 400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80.47</td>]]></html>
+	<text>80.47</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ruda Śląska</td>]]></html>
+	<text>Ruda &#346;l&#261;ska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>145 470</td>]]></html>
+	<text>145 470</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>77.7</td>]]></html>
+	<text>77.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tychy</td>]]></html>
+	<text>Tychy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>132 700</td>]]></html>
+	<text>132 700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>82.63</td>]]></html>
+	<text>82.63</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dąbrowa Górnicza</td>]]></html>
+	<text>D&#261;browa G&#243;rnicza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>129 560</td>]]></html>
+	<text>129 560</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>188</td>]]></html>
+	<text>188</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chorzów</td>]]></html>
+	<text>Chorz&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114 686</td>]]></html>
+	<text>114 686</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.5</td>]]></html>
+	<text>33.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jaworzno</td>]]></html>
+	<text>Jaworzno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96 000</td>]]></html>
+	<text>96 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>152.2</td>]]></html>
+	<text>152.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mysłowice</td>]]></html>
+	<text>Mys&#322;owice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>78 300</td>]]></html>
+	<text>78 300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>66</td>]]></html>
+	<text>66</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Siemianowice Śląskie</td>]]></html>
+	<text>Siemianowice &#346;l&#261;skie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75 700</td>]]></html>
+	<text>75 700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.5</td>]]></html>
+	<text>25.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piekary Śląskie</td>]]></html>
+	<text>Piekary &#346;l&#261;skie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 600</td>]]></html>
+	<text>64 600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.6</td>]]></html>
+	<text>39.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Będzin</td>]]></html>
+	<text>B&#281;dzin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58 600</td>]]></html>
+	<text>58 600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.2</td>]]></html>
+	<text>37.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Świętochłowice</td>]]></html>
+	<text>&#346;wi&#281;toch&#322;owice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55 527</td>]]></html>
+	<text>55 527</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.22</td>]]></html>
+	<text>13.22</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Knurów</td>]]></html>
+	<text>Knur&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 000</td>]]></html>
+	<text>42 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34.2</td>]]></html>
+	<text>34.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czeladź</td>]]></html>
+	<text>Czelad&#378;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35 200</td>]]></html>
+	<text>35 200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 143 000</td>]]></html>
+	<text>2 143 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1304</td>]]></html>
+	<text>1304</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Upper Silesian Industrial Region - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Population Area in km</text>
+</context>
+<context>
+	<score>0.88175875</score>
+	<text>[ edit ] Main cities</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Upper Silesian Industrial Region</text>
+</context>
+<context>
+	<score>0.784789</score>
+	<text>The climate of the area is continental humid. The average temperature is 17 degrees Celsius (-5 C in January and up to 30 C in July). Yearly rainfall averages at 750 mm , the most rainy month being July.</text>
+</context>
+<context>
+	<score>0.75341654</score>
+	<text>[ edit ] Notable suburbs</text>
+</context>
+<context>
+	<score>0.7240483</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7240483</score>
+	<text>[ edit ] Transport</text>
+</context>
+<context>
+	<score>0.7240483</score>
+	<text>[ edit ] Culture and Education</text>
+</context>
+<context>
+	<score>0.7240483</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7240483</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7072133</score>
+	<text>[ edit ] Climate</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>The market square in Bytom</text>
+</context>
+<context>
+	<score>0.60661983</score>
+	<text>[ edit ] Transport</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Gliwice</text>
+</context>
+<context>
+	<score>0.5557854</score>
+	<text>Katowice, Silesian Parliament</text>
+</context>
+<context>
+	<score>0.52401036</score>
+	<text>Upper Silesian Industry Area is located in the historical region of Upper Silesia and Zag bie D browskie in southern Poland in a basin between the Vistula and Oder rivers.</text>
+</context>
+<context>
+	<score>0.52026886</score>
+	<text>[ edit ] Public Transport</text>
+</context>
+<context>
+	<score>0.49859038</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Tramway Katowice - Chorz w - Bytom</text>
+</context>
+<context>
+	<score>0.46198553</score>
+	<text>Upper Silesian Industry Area with its 2.8 million population and Rybnik Coal Area (Polish: Rybnicki Okr g W glowy , ROW) with its 0.7 million population both lie within the Upper Silesian Coal Basin , a home of altogether 3,487,000 people.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr align="center"><th><a href="../../../../articles/c/i/t/City.html" title="City">City</a></th><th><a href="../../../../articles/p/o/p/Population.html" title="Population">Population</a></th><th><a href="../../../../articles/a/r/e/Area.html" title="Area">Area</a> in km²</th></tr><tr><td><a href="../../../../articles/k/a/t/Katowice.html" title="Katowice">Katowice</a></td><td>314&#160;500</td><td>164.6</td></tr><tr><td><a href="../../../../articles/s/o/s/Sosnowiec.html" title="Sosnowiec">Sosnowiec</a></td><td>223&#160;284</td><td>91.26</td></tr><tr><td><a href="../../../../articles/g/l/i/Gliwice.html" title="Gliwice">Gliwice</a></td><td>199&#160;086</td><td>134.2</td></tr><tr><td><a href="../../../../articles/b/y/t/Bytom.html" title="Bytom">Bytom</a></td><td>188&#160;234</td><td>69.32</td></tr><tr><td><a href="../../../../articles/z/a/b/Zabrze.html" title="Zabrze">Zabrze</a></td><td>190&#160;400</td><td>80.47</td></tr><tr><td><a href="../../../../articles/r/u/d/Ruda_%C5%9Al%C4%85ska_e4c6.html" title="Ruda Śląska">Ruda Śląska</a></td><td>145&#160;470</td><td>77.7</td></tr><tr><td><a href="../../../../articles/t/y/c/Tychy.html" title="Tychy">Tychy</a></td><td>132&#160;700</td><td>82.63</td></tr><tr><td><a href="../../../../articles/d/%C4%85/b/D%C4%85browa_G%C3%B3rnicza_90a2.html" title="Dąbrowa Górnicza">Dąbrowa Górnicza</a></td><td>129&#160;560</td><td>188</td></tr><tr><td><a href="../../../../articles/c/h/o/Chorz%C3%B3w.html" title="Chorzów">Chorzów</a></td><td>114&#160;686</td><td>33.5</td></tr><tr><td><a href="../../../../articles/j/a/w/Jaworzno.html" title="Jaworzno">Jaworzno</a></td><td>96&#160;000</td><td>152.2</td></tr><tr><td><a href="../../../../articles/m/y/s/Mys%C5%82owice.html" title="Mysłowice">Mysłowice</a></td><td>78&#160;300</td><td>66</td></tr><tr><td><a href="../../../../articles/s/i/e/Siemianowice_%C5%9Al%C4%85skie_c08d.html" title="Siemianowice Śląskie">Siemianowice Śląskie</a></td><td>75&#160;700</td><td>25.5</td></tr><tr><td><a href="../../../../articles/p/i/e/Piekary_%C5%9Al%C4%85skie_63f1.html" title="Piekary Śląskie">Piekary Śląskie</a></td><td>64&#160;600</td><td>39.6</td></tr><tr><td><a href="../../../../articles/b/%C4%99/d/B%C4%99dzin.html" title="Będzin">Będzin</a></td><td>58&#160;600</td><td>37.2</td></tr><tr><td><a href="../../../../articles/%C5%9B/w/i/%C5%9Awi%C4%99toch%C5%82owice.html" title="Świętochłowice">Świętochłowice</a></td><td>55&#160;527</td><td>13.22</td></tr><tr><td><a href="../../../../articles/k/n/u/Knur%C3%B3w.html" title="Knurów">Knurów</a></td><td>42&#160;000</td><td>34.2</td></tr><tr><td><a href="../../../../articles/c/z/e/Czelad%C5%BA.html" title="Czeladź">Czeladź</a></td><td>35&#160;200</td><td>17</td></tr><tr><td><b>Total</b></td><td>2&#160;143&#160;000</td><td>1304</td></tr></table>]]>
+</htmlSnippet>
+</entity>

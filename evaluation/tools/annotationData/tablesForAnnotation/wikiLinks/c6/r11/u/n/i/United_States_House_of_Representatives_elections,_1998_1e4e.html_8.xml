@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r11/u/n/i/United_States_House_of_Representatives_elections,_1998_1e4e.html_8.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 4, 0.6875 1 4, 0.6666667 5, 0.6666667 0 5, 0.61111116 1 5, 0.5555556 2 5, 0.5 4 5, 0.15151516 2, 0.11666667 0 3, 0.11363637 2 4, 0.10694444 1 3, 0.07777778 3 5, 0.06818182 4, 0.04419192 2 3, 0.042424243 3, 0.03181818 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_1998_1e4e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 1</td>]]></html>
+	<text>Georgia 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Kingston</td>]]></html>
+	<text>Jack Kingston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Kingston (R) unopposed</td>]]></html>
+	<text>Jack Kingston (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 2</td>]]></html>
+	<text>Georgia 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanford Bishop</td>]]></html>
+	<text>Sanford Bishop</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanford Bishop (D) 57% Joseph McCormick (R) 43%</td>]]></html>
+	<text>Sanford Bishop (D) 57% Joseph McCormick (R) 43%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 3</td>]]></html>
+	<text>Georgia 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mac Collins</td>]]></html>
+	<text>Mac Collins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mac Collins (R) unopposed</td>]]></html>
+	<text>Mac Collins (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 4</td>]]></html>
+	<text>Georgia 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cynthia McKinney</td>]]></html>
+	<text>Cynthia McKinney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cynthia McKinney (D) 61% Sunny Warren (R) 39%</td>]]></html>
+	<text>Cynthia McKinney (D) 61% Sunny Warren (R) 39%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 5</td>]]></html>
+	<text>Georgia 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Lewis</td>]]></html>
+	<text>John Lewis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1986</td>]]></html>
+	<text>1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Lewis (D) 79% John Lewis Sr. (R) 21%</td>]]></html>
+	<text>John Lewis (D) 79% John Lewis Sr. (R) 21%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 6</td>]]></html>
+	<text>Georgia 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newt Gingrich</td>]]></html>
+	<text>Newt Gingrich</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978</td>]]></html>
+	<text>1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newt Gingrich (R) 71% Gary Pelphrey (D) 29%</td>]]></html>
+	<text>Newt Gingrich (R) 71% Gary Pelphrey (D) 29%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 7</td>]]></html>
+	<text>Georgia 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Barr</td>]]></html>
+	<text>Bob Barr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Barr (R) 55% James Williams (D) 45%</td>]]></html>
+	<text>Bob Barr (R) 55% James Williams (D) 45%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 8</td>]]></html>
+	<text>Georgia 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saxby Chambliss</td>]]></html>
+	<text>Saxby Chambliss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saxby Chambliss (R) 62% Ronald Cain (D) 38%</td>]]></html>
+	<text>Saxby Chambliss (R) 62% Ronald Cain (D) 38%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 9</td>]]></html>
+	<text>Georgia 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nathan Deal</td>]]></html>
+	<text>Nathan Deal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nathan Deal (R) unopposed</td>]]></html>
+	<text>Nathan Deal (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 10</td>]]></html>
+	<text>Georgia 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Norwood</td>]]></html>
+	<text>Charlie Norwood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Norwood (R) 59% Marion Freeman (D) 41%</td>]]></html>
+	<text>Charlie Norwood (R) 59% Marion Freeman (D) 41%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia 11</td>]]></html>
+	<text>Georgia 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Linder</td>]]></html>
+	<text>John Linder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Linder (R) 69% Vince Littman (D) 31%</td>]]></html>
+	<text>John Linder (R) 69% Vince Littman (D) 31%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 1998 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Result</text>
+</context>
+<context>
+	<score>0.8803662</score>
+	<text>[ edit ] Georgia</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>United States House of Representatives elections, 1998</text>
+</context>
+<context>
+	<score>0.7833965</score>
+	<text>[ edit ] Florida</text>
+</context>
+<context>
+	<score>0.75202394</score>
+	<text>[ edit ] Hawaii</text>
+</context>
+<context>
+	<score>0.7226558</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.7226558</score>
+	<text>[ edit ] Voting members</text>
+</context>
+<context>
+	<score>0.7226558</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7226558</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7226558</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Kim Stanley Bemis (NL) 0.5%</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>James P. Webster (T) 1.3%</text>
+</context>
+<context>
+	<score>0.60522723</score>
+	<text>[ edit ] Idaho</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Dennis Williams (D) 31.8%</text>
+</context>
+<context>
+	<score>0.5543928</score>
+	<text>Michael N. Castle (R) 66.4%</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Running</text>
+</context>
+<context>
+	<score>0.5188762</score>
+	<text>[ edit ] Illinois</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Republican</text>
+</context>
+<context>
+	<score>0.46808153</score>
+	<text>[ edit ] Indiana</text>
+</context>
+<context>
+	<score>0.46059293</score>
+	<text>Delaware At Large</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Result</th></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 1</td><td><a href="../../../../articles/j/a/c/Jack_Kingston_b422.html" title="Jack Kingston">Jack Kingston</a></td><td>Republican</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/j/a/c/Jack_Kingston_b422.html" title="Jack Kingston">Jack Kingston</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 2</td><td><a href="../../../../articles/s/a/n/Sanford_Bishop_fd91.html" title="Sanford Bishop">Sanford Bishop</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/s/a/n/Sanford_Bishop_fd91.html" title="Sanford Bishop">Sanford Bishop</a> (D) 57%</b><br />Joseph McCormick (R) 43%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 3</td><td><a href="../../../../articles/m/a/c/Mac_Collins_5c10.html" title="Mac Collins">Mac Collins</a></td><td>Republican</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/m/a/c/Mac_Collins_5c10.html" title="Mac Collins">Mac Collins</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 4</td><td><a href="../../../../articles/c/y/n/Cynthia_McKinney_087e.html" title="Cynthia McKinney">Cynthia McKinney</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/c/y/n/Cynthia_McKinney_087e.html" title="Cynthia McKinney">Cynthia McKinney</a> (D) 61%</b><br />Sunny Warren (R) 39%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 5</td><td><a href="../../../../articles/j/o/h/John_Lewis_%28US_politician%29_c50a.html" class="mw-redirect" title="John Lewis (US politician)">John Lewis</a></td><td>Democratic</td><td>1986</td><td>Running</td><td><b><a href="../../../../articles/j/o/h/John_Lewis_%28US_politician%29_c50a.html" class="mw-redirect" title="John Lewis (US politician)">John Lewis</a> (D) 79%</b><br />John Lewis Sr. (R) 21%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 6</td><td><a href="../../../../articles/n/e/w/Newt_Gingrich_8f3a.html" title="Newt Gingrich">Newt Gingrich</a></td><td>Republican</td><td>1978</td><td>Running</td><td><b><a href="../../../../articles/n/e/w/Newt_Gingrich_8f3a.html" title="Newt Gingrich">Newt Gingrich</a> (R) 71%</b><br />Gary Pelphrey (D) 29%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 7</td><td><a href="../../../../articles/b/o/b/Bob_Barr_bdf1.html" title="Bob Barr">Bob Barr</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/b/o/b/Bob_Barr_bdf1.html" title="Bob Barr">Bob Barr</a> (R) 55%</b><br />James Williams (D) 45%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 8</td><td><a href="../../../../articles/s/a/x/Saxby_Chambliss_72b2.html" title="Saxby Chambliss">Saxby Chambliss</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/s/a/x/Saxby_Chambliss_72b2.html" title="Saxby Chambliss">Saxby Chambliss</a> (R) 62%</b><br />Ronald Cain (D) 38%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 9</td><td><a href="../../../../articles/n/a/t/Nathan_Deal_5031.html" title="Nathan Deal">Nathan Deal</a></td><td>Republican</td><td>1992</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/n/a/t/Nathan_Deal_5031.html" title="Nathan Deal">Nathan Deal</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 10</td><td><a href="../../../../articles/c/h/a/Charlie_Norwood_594d.html" title="Charlie Norwood">Charlie Norwood</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/c/h/a/Charlie_Norwood_594d.html" title="Charlie Norwood">Charlie Norwood</a> (R) 59%</b><br />Marion Freeman (D) 41%</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a> 11</td><td><a href="../../../../articles/j/o/h/John_Linder_3cb4.html" title="John Linder">John Linder</a></td><td>Republican</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/j/o/h/John_Linder_3cb4.html" title="John Linder">John Linder</a> (R) 69%</b><br />Vince Littman (D) 31%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

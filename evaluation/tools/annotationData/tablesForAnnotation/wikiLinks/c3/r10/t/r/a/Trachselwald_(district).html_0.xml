@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/t/r/a/Trachselwald_(district).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/a/Trachselwald_(district).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (2005)</th>]]></html>
+	<text>Population (2005)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (km²)</th>]]></html>
+	<text>Area (km&#178;)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Affoltern im Emmental</td>]]></html>
+	<text>Affoltern im Emmental</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1167</td>]]></html>
+	<text>1167</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.5</td>]]></html>
+	<text>11.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dürrenroth</td>]]></html>
+	<text>D&#252;rrenroth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1018</td>]]></html>
+	<text>1018</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.1</td>]]></html>
+	<text>14.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eriswil</td>]]></html>
+	<text>Eriswil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1516</td>]]></html>
+	<text>1516</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.3</td>]]></html>
+	<text>11.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Huttwil</td>]]></html>
+	<text>Huttwil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4731</td>]]></html>
+	<text>4731</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.3</td>]]></html>
+	<text>17.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lützelflüh</td>]]></html>
+	<text>L&#252;tzelfl&#252;h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4062</td>]]></html>
+	<text>4062</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.9</td>]]></html>
+	<text>26.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rüegsau</td>]]></html>
+	<text>R&#252;egsau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3047</td>]]></html>
+	<text>3047</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.1</td>]]></html>
+	<text>15.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sumiswald</td>]]></html>
+	<text>Sumiswald</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5140</td>]]></html>
+	<text>5140</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>59.4</td>]]></html>
+	<text>59.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trachselwald</td>]]></html>
+	<text>Trachselwald</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1058</td>]]></html>
+	<text>1058</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.0</td>]]></html>
+	<text>16.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Walterswil (BE)</td>]]></html>
+	<text>Walterswil (BE)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>552</td>]]></html>
+	<text>552</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.9</td>]]></html>
+	<text>7.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyssachen</td>]]></html>
+	<text>Wyssachen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1227</td>]]></html>
+	<text>1227</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.8</td>]]></html>
+	<text>11.8</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Trachselwald (district) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Municipality Population (2005) Area (km )</text>
+</context>
+<context>
+	<score>0.89218783</score>
+	<text>Trachselwald is a district in the Swiss canton of Berne . Its governor&apos;s seat is in Trachselwald Castle in Trachselwald . It consists of 10 municipalities within an area of 191 km .</text>
+</context>
+<context>
+	<score>0.80901843</score>
+	<text>Trachselwald (district)</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>Municipalities in the district of Trachselwald</text>
+</context>
+<context>
+	<score>0.76172596</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7455632</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7455632</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>District of Trachselwald</text>
+</context>
+<context>
+	<score>0.66707593</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61660755</score>
+	<text>Trachselwald (district)</text>
+</context>
+<context>
+	<score>0.61250496</score>
+	<text>(German) Official website of the district</text>
+</context>
+<context>
+	<score>0.5247279</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4730943</score>
+	<text>This article is based on a translation of an article from the German Wikipedia .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Municipality</th><th>Population (2005)</th><th>Area (km²)</th></tr><tr><td><a href="../../../../articles/a/f/f/Affoltern_im_Emmental_99e1.html" title="Affoltern im Emmental">Affoltern im Emmental</a></td><td align="right">1167</td><td align="right">11.5</td></tr><tr><td><a href="../../../../articles/d/%C3%BC/r/D%C3%BCrrenroth.html" title="Dürrenroth">Dürrenroth</a></td><td align="right">1018</td><td align="right">14.1</td></tr><tr><td><a href="../../../../articles/e/r/i/Eriswil.html" title="Eriswil">Eriswil</a></td><td align="right">1516</td><td align="right">11.3</td></tr><tr><td><a href="../../../../articles/h/u/t/Huttwil.html" title="Huttwil">Huttwil</a></td><td align="right">4731</td><td align="right">17.3</td></tr><tr><td><a href="../../../../articles/l/%C3%BC/t/L%C3%BCtzelfl%C3%BCh.html" title="Lützelflüh">Lützelflüh</a></td><td align="right">4062</td><td align="right">26.9</td></tr><tr><td><a href="../../../../articles/r/%C3%BC/e/R%C3%BCegsau.html" title="Rüegsau">Rüegsau</a></td><td align="right">3047</td><td align="right">15.1</td></tr><tr><td><a href="../../../../articles/s/u/m/Sumiswald.html" title="Sumiswald">Sumiswald</a></td><td align="right">5140</td><td align="right">59.4</td></tr><tr><td><a href="../../../../articles/t/r/a/Trachselwald.html" title="Trachselwald">Trachselwald</a></td><td align="right">1058</td><td align="right">16.0</td></tr><tr><td><a href="../../../../articles/w/a/l/Walterswil_%28BE%29_973e.html" class="mw-redirect" title="Walterswil (BE)">Walterswil (BE)</a></td><td align="right">552</td><td align="right">7.9</td></tr><tr><td><a href="../../../../articles/w/y/s/Wyssachen.html" title="Wyssachen">Wyssachen</a></td><td align="right">1227</td><td align="right">11.8</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/l/i/s/List_of_channels_on_freesat.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 1 3, 0.8333333 1 4, 0.75 1 5, 0.55 3, 0.45833334 3 4, 0.41250002 3 5, 0.33333334 4, 0.3 5, 0.25 4 5, 0.13333334 0, 0.13333334 0 1, 0.12222223 0 3, 0.11111111 0 4, 0.10000001 0 5, 0.058333334 1 2, 0.032083336 2 3, 0.019444445 2 4, 0.0175 2 5, 0.011666667 2, 0.007777778 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_channels_on_freesat.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG No.</th>]]></html>
+	<text>EPG No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel Name</th>]]></html>
+	<text>Channel Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Owner/parent company</th>]]></html>
+	<text>Owner/parent company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast hours</th>]]></html>
+	<text>Broadcast hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast format</th>]]></html>
+	<text>Broadcast format</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>300</td>]]></html>
+	<text>300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Film4</td>]]></html>
+	<text>Film4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Channel 4 Television Corporation</td>]]></html>
+	<text>Channel 4 Television Corporation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13:00 - 03:00</td>]]></html>
+	<text>13:00 - 03:00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>302</td>]]></html>
+	<text>302</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>True Movies</td>]]></html>
+	<text>True Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moving Movies Ltd. ( CSC Media Group )</td>]]></html>
+	<text>Moving Movies Ltd. ( CSC Media Group )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>303</td>]]></html>
+	<text>303</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>True Movies 2</td>]]></html>
+	<text>True Movies 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moving Movies Ltd. ( CSC Media Group )</td>]]></html>
+	<text>Moving Movies Ltd. ( CSC Media Group )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>304</td>]]></html>
+	<text>304</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies4Men</td>]]></html>
+	<text>Movies4Men</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dolphin Broadcast Services Ltd.</td>]]></html>
+	<text>Dolphin Broadcast Services Ltd.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>306</td>]]></html>
+	<text>306</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies4Men 2</td>]]></html>
+	<text>Movies4Men 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dolphin Broadcast Services Ltd.</td>]]></html>
+	<text>Dolphin Broadcast Services Ltd.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of channels on freesat - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours Broadcast format</text>
+</context>
+<context>
+	<score>0.88367</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.79127795</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.78669566</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.7553216</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7185863</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.7136985</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7091162</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.6421649</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.608518</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.5974018</score>
+	<text>This is a list of services currently available via the freesat platform</text>
+</context>
+<context>
+	<score>0.5622635</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.53048694</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.5221629</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.47136575</score>
+	<text>[ edit ] Specialist</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours sortable" border="1" cellpadding="3" style="border-collapse:collapse; font-size: 90%; text-align:center" width="100%"><tr><th>EPG No.</th><th>Channel Name</th><th>Notes</th><th>Owner/parent company</th><th>Broadcast hours</th><th>Broadcast format</th></tr><tr><td>300</td><td><a href="../../../../articles/f/i/l/Film4.html" title="Film4">Film4</a></td><td></td><td><a href="../../../../articles/c/h/a/Channel_4_Television_Corporation_2f86.html" class="mw-redirect" title="Channel 4 Television Corporation">Channel 4 Television Corporation</a></td><td>13:00 - 03:00</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>302</td><td><a href="../../../../articles/t/r/u/True_Movies_cd8e.html" title="True Movies">True Movies</a></td><td></td><td><a href="../../../../articles/m/o/v/Moving_Movies_Ltd_d44a.html" class="mw-redirect" title="Moving Movies Ltd">Moving Movies Ltd.</a> (<a href="../../../../articles/c/s/c/CSC_Media_Group_4998.html" title="CSC Media Group">CSC Media Group</a>)</td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>303</td><td><a href="../../../../articles/t/r/u/True_Movies_2_0521.html" title="True Movies 2">True Movies 2</a></td><td></td><td><a href="../../../../articles/m/o/v/Moving_Movies_Ltd_d44a.html" class="mw-redirect" title="Moving Movies Ltd">Moving Movies Ltd.</a> (<a href="../../../../articles/c/s/c/CSC_Media_Group_4998.html" title="CSC Media Group">CSC Media Group</a>)</td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>304</td><td><a href="../../../../articles/m/o/v/Movies4Men_7e16.html" title="Movies4Men">Movies4Men</a></td><td></td><td>Dolphin Broadcast Services Ltd.</td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>306</td><td><a href="../../../../articles/m/o/v/Movies4Men_2_f2c7.html" title="Movies4Men 2">Movies4Men 2</a></td><td></td><td>Dolphin Broadcast Services Ltd.</td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

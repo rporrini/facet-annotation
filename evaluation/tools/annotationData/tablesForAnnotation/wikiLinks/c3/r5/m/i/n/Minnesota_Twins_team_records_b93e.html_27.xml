@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/m/i/n/Minnesota_Twins_team_records_b93e.html_27.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/m/i/n/Minnesota_Twins_team_records_b93e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Player</th>]]></html>
+	<text>Player</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Amount</th>]]></html>
+	<text>Amount</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walter Johnson</td>]]></html>
+	<text>Walter Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,914 ⅓</td>]]></html>
+	<text>5,914 &#8531;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Kaat</td>]]></html>
+	<text>Jim Kaat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,014 ⅓</td>]]></html>
+	<text>3,014 &#8531;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bert Blyleven</td>]]></html>
+	<text>Bert Blyleven</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,566 ⅔</td>]]></html>
+	<text>2,566 &#8532;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camilo Pascual</td>]]></html>
+	<text>Camilo Pascual</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,465</td>]]></html>
+	<text>2,465</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brad Radke</td>]]></html>
+	<text>Brad Radke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,451</td>]]></html>
+	<text>2,451</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Minnesota Twins team records - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Player Amount</text>
+</context>
+<context>
+	<score>0.8815139</score>
+	<text>[ edit ] Innings pitched</text>
+</context>
+<context>
+	<score>0.7968329</score>
+	<text>Minnesota Twins team records</text>
+</context>
+<context>
+	<score>0.7816712</score>
+	<text>*still active</text>
+</context>
+<context>
+	<score>0.7530853</score>
+	<text>[ edit ] Rare Feats</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] Single season records</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] Single game records</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] All-Time Leaders</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] Rare Feats</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] Major League Baseball records and firsts</text>
+</context>
+<context>
+	<score>0.7220126</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7192049</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70685095</score>
+	<text>[ edit ] Saves</text>
+</context>
+<context>
+	<score>0.6447485</score>
+	<text>[ edit ] Shutouts</text>
+</context>
+<context>
+	<score>0.6061897</score>
+	<text>[ edit ] No-hitters</text>
+</context>
+<context>
+	<score>0.59506655</score>
+	<text>[ edit ] Complete games</text>
+</context>
+<context>
+	<score>0.55532104</score>
+	<text>[ edit ] Games started</text>
+</context>
+<context>
+	<score>0.5207169</score>
+	<text>*Active Player</text>
+</context>
+<context>
+	<score>0.5197805</score>
+	<text>Dean Chance also threw a perfect game through five innings on August 6 , 1967 , against the Boston Red Sox , but the game was shortened due to rain. Under MLB rule revisions in 1991 , it is not recognized as an official no-hitter or perfect game.</text>
+</context>
+<context>
+	<score>0.49808747</score>
+	<text>[ edit ] Games played</text>
+</context>
+<context>
+	<score>0.47773775</score>
+	<text>[ edit ] ERA</text>
+</context>
+<context>
+	<score>0.46895158</score>
+	<text>[ edit ] Hit for the Cycle</text>
+</context>
+<context>
+	<score>0.46145797</score>
+	<text>[ edit ] Losses</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="font-size: 95%; text-align:left;"><tr><th>Rank</th><th>Player</th><th>Amount</th></tr><tr><td align="center">1</td><td><a href="../../../../articles/w/a/l/Walter_Johnson_b086.html" title="Walter Johnson">Walter Johnson</a></td><td>5,914 ⅓</td></tr><tr><td align="center">2</td><td><a href="../../../../articles/j/i/m/Jim_Kaat_02bf.html" title="Jim Kaat">Jim Kaat</a></td><td>3,014 ⅓</td></tr><tr><td align="center">3</td><td><a href="../../../../articles/b/e/r/Bert_Blyleven_41e8.html" title="Bert Blyleven">Bert Blyleven</a></td><td>2,566 ⅔</td></tr><tr><td align="center">4</td><td><a href="../../../../articles/c/a/m/Camilo_Pascual_2897.html" title="Camilo Pascual">Camilo Pascual</a></td><td>2,465</td></tr><tr><td align="center">5</td><td><a href="../../../../articles/b/r/a/Brad_Radke_ac6d.html" title="Brad Radke">Brad Radke</a></td><td>2,451</td></tr></table>]]>
+</htmlSnippet>
+</entity>

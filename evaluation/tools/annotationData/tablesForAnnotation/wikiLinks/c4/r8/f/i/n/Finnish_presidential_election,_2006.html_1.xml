@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r8/f/i/n/Finnish_presidential_election,_2006.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/f/i/n/Finnish_presidential_election,_2006.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>candidate</th>]]></html>
+	<text>candidate</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>party</th>]]></html>
+	<text>party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>votes</th>]]></html>
+	<text>votes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>%</th>]]></html>
+	<text>%</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tarja Halonen</td>]]></html>
+	<text>Tarja Halonen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Social Democratic Party</td>]]></html>
+	<text>Social Democratic Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>636,143</td>]]></html>
+	<text>636,143</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49.4</td>]]></html>
+	<text>49.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sauli Niinistö</td>]]></html>
+	<text>Sauli Niinist&#246;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Coalition Party</td>]]></html>
+	<text>National Coalition Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>281,901</td>]]></html>
+	<text>281,901</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.9</td>]]></html>
+	<text>21.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Matti Vanhanen</td>]]></html>
+	<text>Matti Vanhanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Centre Party</td>]]></html>
+	<text>Centre Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>258,034</td>]]></html>
+	<text>258,034</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.0</td>]]></html>
+	<text>20.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Timo Soini</td>]]></html>
+	<text>Timo Soini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>True Finns</td>]]></html>
+	<text>True Finns</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,275</td>]]></html>
+	<text>33,275</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6</td>]]></html>
+	<text>2.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heidi Hautala</td>]]></html>
+	<text>Heidi Hautala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Green League</td>]]></html>
+	<text>Green League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,406</td>]]></html>
+	<text>31,406</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4</td>]]></html>
+	<text>2.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bjarne Kallis</td>]]></html>
+	<text>Bjarne Kallis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Christian Democrats</td>]]></html>
+	<text>Christian Democrats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,009</td>]]></html>
+	<text>23,009</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.8</td>]]></html>
+	<text>1.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Henrik Lax</td>]]></html>
+	<text>Henrik Lax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swedish People's Party</td>]]></html>
+	<text>Swedish People&amp;apos;s Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,654</td>]]></html>
+	<text>17,654</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.4</td>]]></html>
+	<text>1.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arto Lahti</td>]]></html>
+	<text>Arto Lahti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(independent)</td>]]></html>
+	<text>(independent)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,810</td>]]></html>
+	<text>5,810</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.5</td>]]></html>
+	<text>0.5</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Finnish presidential election, 2006 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>candidate party votes %</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Results of advance voting</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>Finnish presidential election, 2006</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>First round: Votes 3 025 606, turnout 70.8%</text>
+</context>
+<context>
+	<score>0.7537395</score>
+	<text>[ edit ] Runoff election</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] First round</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] Runoff election</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] Election themes</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] Opinion polls</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] Voting</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] Trivia</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71919125</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Electorate: 4 272 537</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>The candidate in plurality in each municipality of Finland on the first round; represents the geographical distribution but not population of supporters in plurality</text>
+</context>
+<context>
+	<score>0.6069428</score>
+	<text>A second round run-off was held on 29 January , 2006 between Tarja Halonen ( Social Democratic Party ) and Sauli Niinist ( National Coalition Party ).</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>The results of the first round.</text>
+</context>
+<context>
+	<score>0.55610836</score>
+	<text>[ edit ] Results</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>The law states that candidate numbers start from number 2. There are various justifications, such as preventing any candidate from using the slogan &quot;number 1&quot; for publicity, preventing ambiguity between the numbers 1 and 7, or preventing votes from being accidentally discounted because of a resemblance to a tickmark.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Opinion polls predicted a close election. A January 19 poll (HS Gallup) gave Halonen 53% and Niinist 47% of the vote. By comparison, in October 2005 a clear majority of 70% would have voted for Halonen when asked to choose between her and Niinist</text>
+</context>
+<context>
+	<score>0.4989133</score>
+	<text>The candidates are listed below following their candidate numbers. This list was confirmed by the Electoral District Committee of Helsinki on 15 December 2005 .</text>
+</context>
+<context>
+	<score>0.47857726</score>
+	<text>[ edit ] Candidates</text>
+</context>
+<context>
+	<score>0.46979707</score>
+	<text>Four of the six candidates who did not make it to the second round, Matti Vanhanen , Bjarne Kallis , Henrik Lax and Arto Lahti publicly expressed their support for Sauli Niinist in the runoff election. This reflects a loose alliance termed porvariyhteisty in the Finnish media, (roughly translated as &quot;bourgeois collaboration&quot;). According to Niinist and Vanhanen, the main centre-right parties (the National Coalition Party and the Centre Party ) had agreed about a year earlier on some level of co-operation to better compete with Halonen, who is supported by both the Social Democrats and Left Alliance .</text>
+</context>
+<context>
+	<score>0.46230844</score>
+	<text>[ edit ] First round</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th style="background:#CCDDEE;">candidate</th><th style="background:#CCDDEE;">party</th><th style="background:#CCDDEE;">votes</th><th style="background:#CCDDEE;">%</th></tr><tr><td><a href="../../../../articles/t/a/r/Tarja_Halonen_9f91.html" title="Tarja Halonen">Tarja Halonen</a></td><td><a href="../../../../articles/s/o/c/Social_Democratic_Party_of_Finland_d123.html" title="Social Democratic Party of Finland">Social Democratic Party</a></td><td align="right">636,143</td><td align="right">49.4</td></tr><tr><td><a href="../../../../articles/s/a/u/Sauli_Niinist%C3%B6_5186.html" title="Sauli Niinistö">Sauli Niinistö</a></td><td><a href="../../../../articles/n/a/t/National_Coalition_Party_%28Finland%29_9bcc.html" title="National Coalition Party (Finland)">National Coalition Party</a></td><td align="right">281,901</td><td align="right">21.9</td></tr><tr><td><a href="../../../../articles/m/a/t/Matti_Vanhanen_7918.html" title="Matti Vanhanen">Matti Vanhanen</a></td><td><a href="../../../../articles/c/e/n/Centre_Party_%28Finland%29_2794.html" title="Centre Party (Finland)">Centre Party</a></td><td align="right">258,034</td><td align="right">20.0</td></tr><tr><td><a href="../../../../articles/t/i/m/Timo_Soini_2785.html" title="Timo Soini">Timo Soini</a></td><td><a href="../../../../articles/t/r/u/True_Finns_3931.html" title="True Finns">True Finns</a></td><td align="right">33,275</td><td align="right">2.6</td></tr><tr><td><a href="../../../../articles/h/e/i/Heidi_Hautala_7d08.html" title="Heidi Hautala">Heidi Hautala</a></td><td><a href="../../../../articles/g/r/e/Green_League_1676.html" title="Green League">Green League</a></td><td align="right">31,406</td><td align="right">2.4</td></tr><tr><td><a href="../../../../articles/b/j/a/Bjarne_Kallis_fd20.html" title="Bjarne Kallis">Bjarne Kallis</a></td><td><a href="../../../../articles/c/h/r/Christian_Democrats_%28Finland%29_0863.html" title="Christian Democrats (Finland)">Christian Democrats</a></td><td align="right">23,009</td><td align="right">1.8</td></tr><tr><td><a href="../../../../articles/h/e/n/Henrik_Lax_ed81.html" title="Henrik Lax">Henrik Lax</a></td><td><a href="../../../../articles/s/w/e/Swedish_People%27s_Party_%28Finland%29_c203.html" title="Swedish People's Party (Finland)">Swedish People's Party</a></td><td align="right">17,654</td><td align="right">1.4</td></tr><tr><td><a href="../../../../articles/a/r/t/Arto_Lahti_62e0.html" title="Arto Lahti">Arto Lahti</a></td><td>(independent)</td><td align="right">5,810</td><td align="right">0.5</td></tr></table>]]>
+</htmlSnippet>
+</entity>

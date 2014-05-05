@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r8/c/y/f/Cyfra+.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9444444 1 2, 0.8888889 1 3, 0.8333333 1 4, 0.7777778 1 5, 0.7345679 2 3, 0.7222222 1 6, 0.7083333 2, 0.6666667 1 7, 0.6111111 1 8, 0.5902778 2 4, 0.5555556 3, 0.5509259 2 5, 0.5509259 2 7, 0.51157403 2 6, 0.46296296 3 4, 0.44444445 3 7, 0.43287036 2 8, 0.43209878 3 5, 0.40123457 3 6, 0.33950615 3 8, 0.19444446 5 7, 0.19444445 5, 0.16666667 7, 0.16203703 4 5, 0.1404321 5 6, 0.1388889 4 7, 0.12037037 6 7, 0.118827164 5 8, 0.11111112 0, 0.11111112 0 1, 0.104938276 0 2, 0.104166664 4, 0.10185185 7 8, 0.09876544 0 3, 0.0925926 0 4, 0.090277776 6, 0.08641976 0 5, 0.08024692 0 6, 0.07638889 8, 0.07523148 4 6, 0.07407408 0 7, 0.06790124 0 8, 0.0636574 4 8, 0.05516975 6 8, " />
+<meta name="parentHTMLDoc" value="en/articles/c/y/f/Cyfra+.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG</th>]]></html>
+	<text>EPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel name</th>]]></html>
+	<text>Channel name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcasting country</th>]]></html>
+	<text>Broadcasting country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Spoken language</th>]]></html>
+	<text>Spoken language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Subtitles language</th>]]></html>
+	<text>Subtitles language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Free-to-air (FTA)</th>]]></html>
+	<text>Free-to-air (FTA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>HD</th>]]></html>
+	<text>HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pay-per-view</th>]]></html>
+	<text>Pay-per-view</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eurosport</td>]]></html>
+	<text>Eurosport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish , English</td>]]></html>
+	<text>Polish , English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>61</td>]]></html>
+	<text>61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eurosport HD</td>]]></html>
+	<text>Eurosport HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>62</td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eurosport 2</td>]]></html>
+	<text>Eurosport 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>63</td>]]></html>
+	<text>63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Extreme Sports</td>]]></html>
+	<text>Extreme Sports</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nederland</td>]]></html>
+	<text>Nederland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>64</td>]]></html>
+	<text>64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ESPN Classic</td>]]></html>
+	<text>ESPN Classic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>65</td>]]></html>
+	<text>65</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TVN Turbo</td>]]></html>
+	<text>TVN Turbo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>68</td>]]></html>
+	<text>68</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rai Sport</td>]]></html>
+	<text>Rai Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Italian</td>]]></html>
+	<text>Italian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>69</td>]]></html>
+	<text>69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport Planeta</td>]]></html>
+	<text>Sport Planeta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Russia</td>]]></html>
+	<text>Russia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Russian</td>]]></html>
+	<text>Russian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Cyfra+ - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG Channel name Broadcasting country Spoken language Subtitles language Free-to-air (FTA) Type HD Pay-per-view</text>
+</context>
+<context>
+	<score>0.88351333</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.8007415</score>
+	<text>Cyfra+</text>
+</context>
+<context>
+	<score>0.7865358</score>
+	<text>[ edit ] Premium and Movie Channels</text>
+</context>
+<context>
+	<score>0.7551608</score>
+	<text>[ edit ] Children</text>
+</context>
+<context>
+	<score>0.7278948</score>
+	<text>[ edit ] Setbacks</text>
+</context>
+<context>
+	<score>0.7278948</score>
+	<text>[ edit ] Philips PVR</text>
+</context>
+<context>
+	<score>0.7278948</score>
+	<text>[ edit ] List of channels on Cyfra+</text>
+</context>
+<context>
+	<score>0.7278948</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72315955</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70895386</score>
+	<text>[ edit ] Basic</text>
+</context>
+<context>
+	<score>0.64688826</score>
+	<text>[ edit ] List of channels on Cyfra+</text>
+</context>
+<context>
+	<score>0.6083522</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.59723574</score>
+	<text>[ edit ] Limitations</text>
+</context>
+<context>
+	<score>0.5575137</score>
+	<text>[ edit ] Disadvantages</text>
+</context>
+<context>
+	<score>0.52573615</score>
+	<text>[ edit ] Advantages</text>
+</context>
+<context>
+	<score>0.5219943</score>
+	<text>[ edit ] Documentary / Reality</text>
+</context>
+<context>
+	<score>0.49557886</score>
+	<text>As of Nov 30, 2007, users of Cyfra+ can choose an option of Cyfra PVR decoder.</text>
+</context>
+<context>
+	<score>0.47997642</score>
+	<text>[ edit ] Philips PVR</text>
+</context>
+<context>
+	<score>0.4711955</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.4637063</score>
+	<text>[ edit ] Setbacks</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%" style="text-align:center; font-size: 90%"><tr><th>EPG</th><th>Channel name</th><th>Broadcasting country</th><th>Spoken language</th><th>Subtitles language</th><th><a href="../../../../articles/f/r/e/Free-to-air.html" title="Free-to-air">Free-to-air</a> (FTA)</th><th>Type</th><th><a href="../../../../articles/h/i/g/High-definition_television.html" title="High-definition television">HD</a></th><th><a href="../../../../articles/p/a/y/Pay-per-view.html" title="Pay-per-view">Pay-per-view</a></th></tr><tr><td>60</td><td><a href="../../../../articles/e/u/r/Eurosport.html" title="Eurosport">Eurosport</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a>, <a href="../../../../articles/e/n/g/English_Language_4501.html" class="mw-redirect" title="English Language">English</a></td><td>none</td><td>No</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>61</td><td><a href="../../../../articles/e/u/r/Eurosport_HD_2fe4.html" class="mw-redirect" title="Eurosport HD">Eurosport HD</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td><a href="../../../../articles/p/o/l/Polish_language.html" title="Polish language">Polish</a></td><td>none</td><td>No</td><td>Sport</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>No</td></tr><tr><td>62</td><td><a href="../../../../articles/e/u/r/Eurosport_2.html" title="Eurosport 2">Eurosport 2</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>none</td><td>No</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>63</td><td><a href="../../../../articles/e/x/t/Extreme_Sports_Channel_d335.html" title="Extreme Sports Channel">Extreme Sports</a></td><td><a href="../../../../articles/n/e/d/Nederland.html" title="Nederland">Nederland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>none</td><td>No</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>64</td><td><a href="../../../../articles/e/s/p/ESPN_Classic_4581.html" title="ESPN Classic">ESPN Classic</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td><a href="../../../../articles/e/n/g/English_Language_4501.html" class="mw-redirect" title="English Language">English</a></td><td>none</td><td>No</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>65</td><td><a href="../../../../articles/t/v/n/TVN_Turbo_1fb1.html" title="TVN Turbo">TVN Turbo</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>none</td><td>No</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>68</td><td><a href="../../../../articles/r/a/i/Rai_Sport_2665.html" class="mw-redirect" title="Rai Sport">Rai Sport</a></td><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td><a href="../../../../articles/i/t/a/Italian_Language_bfb9.html" class="mw-redirect" title="Italian Language">Italian</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>Sport</td><td>No</td><td>No</td></tr><tr><td>69</td><td>Sport Planeta</td><td><a href="../../../../articles/r/u/s/Russia.html" title="Russia">Russia</a></td><td><a href="../../../../articles/r/u/s/Russian_Language_5826.html" class="mw-redirect" title="Russian Language">Russian</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>Sport</td><td>No</td><td>No</td></tr></table>]]>
+</htmlSnippet>
+</entity>

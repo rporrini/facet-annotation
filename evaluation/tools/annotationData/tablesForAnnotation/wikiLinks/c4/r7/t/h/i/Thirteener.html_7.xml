@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/t/h/i/Thirteener.html_7.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 3, 0.25 3, 0.15 1 2, 0.12857144 2, 0.125 0, 0.125 0 1, 0.11250001 2 3, 0.109375 0 3, 0.01875 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/t/h/i/Thirteener.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mountain</th>]]></html>
+	<text>Mountain</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elevation</th>]]></html>
+	<text>Elevation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Range</th>]]></html>
+	<text>Range</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gannett Peak</td>]]></html>
+	<text>Gannett Peak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,804 ft (4,207 m)</td>]]></html>
+	<text>13,804 ft (4,207 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Teton</td>]]></html>
+	<text>Grand Teton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,770 ft (4,197 m)</td>]]></html>
+	<text>13,770 ft (4,197 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teton Range</td>]]></html>
+	<text>Teton Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fremont Peak</td>]]></html>
+	<text>Fremont Peak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,745 ft (4,189 m)</td>]]></html>
+	<text>13,745 ft (4,189 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Warren</td>]]></html>
+	<text>Mount Warren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,722 ft (4,182 m)</td>]]></html>
+	<text>13,722 ft (4,182 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Helen</td>]]></html>
+	<text>Mount Helen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,620 ft (4,151 m)</td>]]></html>
+	<text>13,620 ft (4,151 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Turret Peak</td>]]></html>
+	<text>Turret Peak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,620 ft (4,151 m)</td>]]></html>
+	<text>13,620 ft (4,151 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Sacagawea</td>]]></html>
+	<text>Mount Sacagawea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,569 ft (4,136 m)</td>]]></html>
+	<text>13,569 ft (4,136 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wind River Range</td>]]></html>
+	<text>Wind River Range</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Thirteener - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Mountain Elevation Range</text>
+</context>
+<context>
+	<score>0.8818181</score>
+	<text>Almost all of them are located in the remote Wind River Range . The highest of them are:</text>
+</context>
+<context>
+	<score>0.8007574</score>
+	<text>Thirteener</text>
+</context>
+<context>
+	<score>0.78484833</score>
+	<text>Wyoming has 34 thirteeners, but no fourteeners.</text>
+</context>
+<context>
+	<score>0.75044554</score>
+	<text>Other notable Wyoming thirteeners include:</text>
+</context>
+<context>
+	<score>0.7262119</score>
+	<text>[ edit ] List of United States thirteeners by state</text>
+</context>
+<context>
+	<score>0.7262119</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7262119</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7262119</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72318166</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7072725</score>
+	<text>[ edit ] Wyoming</text>
+</context>
+<context>
+	<score>0.6452119</score>
+	<text>Gannett Peak , Wyoming</text>
+</context>
+<context>
+	<score>0.606679</score>
+	<text>Kings Peak , Utah</text>
+</context>
+<context>
+	<score>0.59556335</score>
+	<text>Mount Jarvis (north and main peaks), Alaska</text>
+</context>
+<context>
+	<score>0.55281425</score>
+	<text>mainly because many of the peaks (especially those which are sub-peaks of a higher mountain) are unnamed and have no spot elevations given on the USGS topographical maps. The following list may still be missing a few peaks which should be included:</text>
+</context>
+<context>
+	<score>0.5240695</score>
+	<text>Alaska has at least 41 thirteeners which meet its more stringent prominence criteria of 500 ft, of which 20 are also fourteeners. Different sources list varying numbers of 13,000+ ft peaks in the state,</text>
+</context>
+<context>
+	<score>0.5203279</score>
+	<text>[ edit ] Utah</text>
+</context>
+<context>
+	<score>0.49864948</score>
+	<text>[ edit ] Alaska</text>
+</context>
+<context>
+	<score>0.47831345</score>
+	<text>Parka Peak , Atna Peaks , and Mount Blackburn , Alaska</text>
+</context>
+<context>
+	<score>0.4695332</score>
+	<text>Utah has 17 thirteeners with at least 300 ft of prominence, but no fourteeners.</text>
+</context>
+<context>
+	<score>0.4590143</score>
+	<text>Other notable California thirteeners include:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Mountain</th><th>Elevation</th><th>Range</th></tr><tr><td align="center">1</td><td><a href="../../../../articles/g/a/n/Gannett_Peak_9b69.html" title="Gannett Peak">Gannett Peak</a></td><td>13,804&#160;ft (4,207&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr><tr><td align="center">2</td><td><a href="../../../../articles/g/r/a/Grand_Teton_a029.html" title="Grand Teton">Grand Teton</a></td><td>13,770&#160;ft (4,197&#160;m)</td><td><a href="../../../../articles/t/e/t/Teton_Range_e3e8.html" title="Teton Range">Teton Range</a></td></tr><tr><td align="center">3</td><td><a href="../../../../articles/f/r/e/Fremont_Peak_%28Wyoming%29_485a.html" title="Fremont Peak (Wyoming)">Fremont Peak</a></td><td>13,745&#160;ft (4,189&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr><tr><td align="center">4</td><td><a href="../../../../articles/m/o/u/Mount_Warren_9eb5.html" title="Mount Warren">Mount Warren</a></td><td>13,722&#160;ft (4,182&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr><tr><td align="center">5</td><td><a href="../../../../articles/m/o/u/Mount_Helen_c24e.html" title="Mount Helen">Mount Helen</a></td><td>13,620&#160;ft (4,151&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr><tr><td align="center">6</td><td><a href="../../../../articles/t/u/r/Turret_Peak_%28Wyoming%29_c78e.html" title="Turret Peak (Wyoming)">Turret Peak</a></td><td>13,620&#160;ft (4,151&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr><tr><td align="center">7</td><td><a href="../../../../articles/m/o/u/Mount_Sacagawea_6296.html" title="Mount Sacagawea">Mount Sacagawea</a></td><td>13,569&#160;ft (4,136&#160;m)</td><td><a href="../../../../articles/w/i/n/Wind_River_Range_64c8.html" title="Wind River Range">Wind River Range</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

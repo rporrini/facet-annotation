@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r7/f/r/u/Frutigen_(district).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/f/r/u/Frutigen_(district).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (01.01.2005)</th>]]></html>
+	<text>Population (01.01.2005)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (km²)</th>]]></html>
+	<text>Area (km&#178;)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Adelboden</td>]]></html>
+	<text>Adelboden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,686</td>]]></html>
+	<text>3,686</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.2</td>]]></html>
+	<text>88.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aeschi bei Spiez</td>]]></html>
+	<text>Aeschi bei Spiez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,967</td>]]></html>
+	<text>1,967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30.9</td>]]></html>
+	<text>30.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Frutigen</td>]]></html>
+	<text>Frutigen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,648</td>]]></html>
+	<text>6,648</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71.8</td>]]></html>
+	<text>71.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kandergrund</td>]]></html>
+	<text>Kandergrund</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,092</td>]]></html>
+	<text>1,092</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32.0</td>]]></html>
+	<text>32.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kandersteg</td>]]></html>
+	<text>Kandersteg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,193</td>]]></html>
+	<text>1,193</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>134.5</td>]]></html>
+	<text>134.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Krattigen</td>]]></html>
+	<text>Krattigen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>916</td>]]></html>
+	<text>916</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.0</td>]]></html>
+	<text>6.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Reichenbach im Kandertal</td>]]></html>
+	<text>Reichenbach im Kandertal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,342</td>]]></html>
+	<text>3,342</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125.8</td>]]></html>
+	<text>125.8</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Frutigen (district) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Municipality Population (01.01.2005) Area (km )</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>Towns in the district of Frutigen</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>Frutigen (district)</text>
+</context>
+<context>
+	<score>0.77562094</score>
+	<text>Frutigen (district)</text>
+</context>
+<context>
+	<score>0.76067054</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71315503</score>
+	<text>The administrative district of Frutigen in the Swiss canton of Bern with its seat Frutigen includes seven municipalities in an area of 490 km :</text>
+</context>
+<context>
+	<score>0.66318214</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6121234</score>
+	<text>Frutigen (district)</text>
+</context>
+<context>
+	<score>0.6097042</score>
+	<text>This article is based on a translation of an article from the German Wikipedia .</text>
+</context>
+<context>
+	<score>0.52090055</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46866304</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Municipality</th><th>Population (01.01.2005)</th><th>Area (km²)</th></tr><tr><td><a href="../../../../articles/a/d/e/Adelboden.html" title="Adelboden">Adelboden</a></td><td align="center">3,686</td><td align="center">88.2</td></tr><tr><td><a href="../../../../articles/a/e/s/Aeschi_bei_Spiez_9c9c.html" title="Aeschi bei Spiez">Aeschi bei Spiez</a></td><td align="center">1,967</td><td align="center">30.9</td></tr><tr><td><a href="../../../../articles/f/r/u/Frutigen.html" title="Frutigen">Frutigen</a></td><td align="center">6,648</td><td align="center">71.8</td></tr><tr><td><a href="../../../../articles/k/a/n/Kandergrund.html" title="Kandergrund">Kandergrund</a></td><td align="center">1,092</td><td align="center">32.0</td></tr><tr><td><a href="../../../../articles/k/a/n/Kandersteg.html" title="Kandersteg">Kandersteg</a></td><td align="center">1,193</td><td align="center">134.5</td></tr><tr><td><a href="../../../../articles/k/r/a/Krattigen.html" title="Krattigen">Krattigen</a></td><td align="center">916</td><td align="center">6.0</td></tr><tr><td><a href="../../../../articles/r/e/i/Reichenbach_im_Kandertal_9aee.html" title="Reichenbach im Kandertal">Reichenbach im Kandertal</a></td><td align="center">3,342</td><td align="center">125.8</td></tr></table>]]>
+</htmlSnippet>
+</entity>

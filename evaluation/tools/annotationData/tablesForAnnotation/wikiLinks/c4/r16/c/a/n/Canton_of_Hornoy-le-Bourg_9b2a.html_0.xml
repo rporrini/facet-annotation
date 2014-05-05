@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r16/c/a/n/Canton_of_Hornoy-le-Bourg_9b2a.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 0 2, 0.125 3, 0.125 0 3, 0.0375 2, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/n/Canton_of_Hornoy-le-Bourg_9b2a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Commune</th>]]></html>
+	<text>Commune</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Post Code</th>]]></html>
+	<text>Post Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>INSEE Code</th>]]></html>
+	<text>INSEE Code</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arguel</td>]]></html>
+	<text>Arguel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80140</td>]]></html>
+	<text>80140</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80026</td>]]></html>
+	<text>80026</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aumont</td>]]></html>
+	<text>Aumont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>116</td>]]></html>
+	<text>116</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80041</td>]]></html>
+	<text>80041</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beaucamps-le-Jeune</td>]]></html>
+	<text>Beaucamps-le-Jeune</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>187</td>]]></html>
+	<text>187</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80061</td>]]></html>
+	<text>80061</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beaucamps-le-Vieux</td>]]></html>
+	<text>Beaucamps-le-Vieux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 385</td>]]></html>
+	<text>1 385</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80062</td>]]></html>
+	<text>80062</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belloy-Saint-Léonard</td>]]></html>
+	<text>Belloy-Saint-L&#233;onard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102</td>]]></html>
+	<text>102</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80270</td>]]></html>
+	<text>80270</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80081</td>]]></html>
+	<text>80081</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brocourt</td>]]></html>
+	<text>Brocourt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120</td>]]></html>
+	<text>120</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80143</td>]]></html>
+	<text>80143</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dromesnil</td>]]></html>
+	<text>Dromesnil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>121</td>]]></html>
+	<text>121</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80259</td>]]></html>
+	<text>80259</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hornoy-le-Bourg</td>]]></html>
+	<text>Hornoy-le-Bourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1449</td>]]></html>
+	<text>1449</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80443</td>]]></html>
+	<text>80443</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lafresguimont-Saint-Martin</td>]]></html>
+	<text>Lafresguimont-Saint-Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>445</td>]]></html>
+	<text>445</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80456</td>]]></html>
+	<text>80456</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liomer</td>]]></html>
+	<text>Liomer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>370</td>]]></html>
+	<text>370</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80484</td>]]></html>
+	<text>80484</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Méricourt-en-Vimeu</td>]]></html>
+	<text>M&#233;ricourt-en-Vimeu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107</td>]]></html>
+	<text>107</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80531</td>]]></html>
+	<text>80531</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Le Quesne</td>]]></html>
+	<text>Le Quesne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300</td>]]></html>
+	<text>300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80651</td>]]></html>
+	<text>80651</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint-Germain-sur-Bresle</td>]]></html>
+	<text>Saint-Germain-sur-Bresle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>185</td>]]></html>
+	<text>185</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80430</td>]]></html>
+	<text>80430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80703</td>]]></html>
+	<text>80703</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thieulloy-l'Abbaye</td>]]></html>
+	<text>Thieulloy-l&amp;apos;Abbaye</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>276</td>]]></html>
+	<text>276</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80754</td>]]></html>
+	<text>80754</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Villers-Campsart</td>]]></html>
+	<text>Villers-Campsart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>156</td>]]></html>
+	<text>156</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80140</td>]]></html>
+	<text>80140</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80800</td>]]></html>
+	<text>80800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vraignes-lès-Hornoy</td>]]></html>
+	<text>Vraignes-l&#232;s-Hornoy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>82</td>]]></html>
+	<text>82</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80640</td>]]></html>
+	<text>80640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80813</td>]]></html>
+	<text>80813</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Demographic Composition</text>
+</context>
+<context>
+	<score>0.8697607</score>
+	<text>Canton of Hornoy-le-Bourg - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8697607</score>
+	<text>Commune Population Post Code INSEE Code</text>
+</context>
+<context>
+	<score>0.77123183</score>
+	<text>The canton of Hornoy-le-Bourg comprises 16 communes and a total of 5436 inhabitants (census of 1999, without double counting).</text>
+</context>
+<context>
+	<score>0.69524</score>
+	<text>Canton of Hornoy-le-Bourg</text>
+</context>
+<context>
+	<score>0.68787867</score>
+	<text>[ edit ] Composition</text>
+</context>
+<context>
+	<score>0.6609115</score>
+	<text>[ edit ] Population</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] Composition</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] Population</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.6342201</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.62855756</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6211962</score>
+	<text>The canton is organised around the commune of Hornoy-le-Bourg in the arrondissement of Amiens . The altitude varies from 48m at Belloy-Saint-L onard to 211m at Beaucamps-le-Jeune for an average of 161m.</text>
+</context>
+<context>
+	<score>0.5678502</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.5347281</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5195108</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.49103194</score>
+	<text>The Canton of Hornoy-le-Bourg is a canton situated in the department of the Somme and in the Picardie region of northern France .</text>
+</context>
+<context>
+	<score>0.4605026</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table align="center" rules="all" cellspacing="0" cellpadding="4" style="border: 1px solid #999; border-right: 2px solid #999; border-bottom:2px solid #999; background: #f3fff3"><caption style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.5em">Demographic Composition</caption><tr style="background: #ddffdd"><th>Commune</th><th>Population</th><th>Post Code</th><th>INSEE Code</th></tr><tr><td><a href="../../../../articles/a/r/g/Arguel%2C_Somme_9b20.html" title="Arguel, Somme">Arguel</a></td><td align="right">35</td><td align="right">80140</td><td align="right">80026</td></tr><tr><td><a href="../../../../articles/a/u/m/Aumont%2C_Somme_b82a.html" title="Aumont, Somme">Aumont</a></td><td align="right">116</td><td align="right">80640</td><td align="right">80041</td></tr><tr><td><a href="../../../../articles/b/e/a/Beaucamps-le-Jeune_0bdc.html" title="Beaucamps-le-Jeune">Beaucamps-le-Jeune</a></td><td align="right">187</td><td align="right">80430</td><td align="right">80061</td></tr><tr><td><a href="../../../../articles/b/e/a/Beaucamps-le-Vieux_21a6.html" title="Beaucamps-le-Vieux">Beaucamps-le-Vieux</a></td><td align="right">1&#160;385</td><td align="right">80430</td><td align="right">80062</td></tr><tr><td><a href="../../../../articles/b/e/l/Belloy-Saint-L%C3%A9onard_4eed.html" title="Belloy-Saint-Léonard">Belloy-Saint-Léonard</a></td><td align="right">102</td><td align="right">80270</td><td align="right">80081</td></tr><tr><td><a href="../../../../articles/b/r/o/Brocourt.html" title="Brocourt">Brocourt</a></td><td align="right">120</td><td align="right">80430</td><td align="right">80143</td></tr><tr><td><a href="../../../../articles/d/r/o/Dromesnil.html" title="Dromesnil">Dromesnil</a></td><td align="right">121</td><td align="right">80640</td><td align="right">80259</td></tr><tr><td><b><a href="../../../../articles/h/o/r/Hornoy-le-Bourg_4e16.html" title="Hornoy-le-Bourg">Hornoy-le-Bourg</a></b></td><td align="right">1449</td><td align="right">80640</td><td align="right">80443</td></tr><tr><td><a href="../../../../articles/l/a/f/Lafresguimont-Saint-Martin_1919.html" title="Lafresguimont-Saint-Martin">Lafresguimont-Saint-Martin</a></td><td align="right">445</td><td align="right">80430</td><td align="right">80456</td></tr><tr><td><a href="../../../../articles/l/i/o/Liomer.html" title="Liomer">Liomer</a></td><td align="right">370</td><td align="right">80430</td><td align="right">80484</td></tr><tr><td><a href="../../../../articles/m/%C3%A9/r/M%C3%A9ricourt-en-Vimeu_a54a.html" title="Méricourt-en-Vimeu">Méricourt-en-Vimeu</a></td><td align="right">107</td><td align="right">80640</td><td align="right">80531</td></tr><tr><td><a href="../../../../articles/l/e/_/Le_Quesne_5b13.html" title="Le Quesne">Le Quesne</a></td><td align="right">300</td><td align="right">80430</td><td align="right">80651</td></tr><tr><td><a href="../../../../articles/s/a/i/Saint-Germain-sur-Bresle_ab95.html" title="Saint-Germain-sur-Bresle">Saint-Germain-sur-Bresle</a></td><td align="right">185</td><td align="right">80430</td><td align="right">80703</td></tr><tr><td><a href="../../../../articles/t/h/i/Thieulloy-l%27Abbaye_d125.html" title="Thieulloy-l'Abbaye">Thieulloy-l'Abbaye</a></td><td align="right">276</td><td align="right">80640</td><td align="right">80754</td></tr><tr><td><a href="../../../../articles/v/i/l/Villers-Campsart_536f.html" title="Villers-Campsart">Villers-Campsart</a></td><td align="right">156</td><td align="right">80140</td><td align="right">80800</td></tr><tr><td><a href="../../../../articles/v/r/a/Vraignes-l%C3%A8s-Hornoy_542f.html" title="Vraignes-lès-Hornoy">Vraignes-lès-Hornoy</a></td><td align="right">82</td><td align="right">80640</td><td align="right">80813</td></tr></table>]]>
+</htmlSnippet>
+</entity>

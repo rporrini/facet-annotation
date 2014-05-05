@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r24/n/e/w/New_Hampshire_Senate_db98.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 1 2, 0.8 1 3, 0.7 3, 0.65999997 2 3, 0.14 1 4, 0.120000005 0, 0.120000005 0 1, 0.112 3 4, 0.108 0 2, 0.09600001 0 3, 0.075 2, 0.05775 2 4, 0.046666667 4, 0.0168 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/n/e/w/New_Hampshire_Senate_db98.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Representative</th>]]></html>
+	<text>Representative</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Residence</th>]]></html>
+	<text>Residence</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>First Elected</th>]]></html>
+	<text>First Elected</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Gallus</td>]]></html>
+	<text>John Gallus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Deborah Reynolds</td>]]></html>
+	<text>Deborah Reynolds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Plymouth</td>]]></html>
+	<text>Plymouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joseph Kenney</td>]]></html>
+	<text>Joseph Kenney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Union</td>]]></html>
+	<text>Union</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kathleen Sgambati</td>]]></html>
+	<text>Kathleen Sgambati</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tilton</td>]]></html>
+	<text>Tilton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peter Burling</td>]]></html>
+	<text>Peter Burling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cornish</td>]]></html>
+	<text>Cornish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacalyn Cilley</td>]]></html>
+	<text>Jacalyn Cilley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barrington</td>]]></html>
+	<text>Barrington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harold Janeway</td>]]></html>
+	<text>Harold Janeway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Webster</td>]]></html>
+	<text>Webster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Odell</td>]]></html>
+	<text>Bob Odell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lempster</td>]]></html>
+	<text>Lempster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sheila Roberge</td>]]></html>
+	<text>Sheila Roberge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bedford</td>]]></html>
+	<text>Bedford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Molly Kelly</td>]]></html>
+	<text>Molly Kelly</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Keene</td>]]></html>
+	<text>Keene</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peter Bragdon</td>]]></html>
+	<text>Peter Bragdon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Milford</td>]]></html>
+	<text>Milford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David Gottesman</td>]]></html>
+	<text>David Gottesman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nashua</td>]]></html>
+	<text>Nashua</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joseph Foster</td>]]></html>
+	<text>Joseph Foster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nashua</td>]]></html>
+	<text>Nashua</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Clegg, Jr.</td>]]></html>
+	<text>Robert Clegg, Jr.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hudson</td>]]></html>
+	<text>Hudson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sylvia Larsen</td>]]></html>
+	<text>Sylvia Larsen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Concord</td>]]></html>
+	<text>Concord</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Theodore Gatsas</td>]]></html>
+	<text>Theodore Gatsas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester</td>]]></html>
+	<text>Manchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Barnes, Jr.</td>]]></html>
+	<text>John Barnes, Jr.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raymond</td>]]></html>
+	<text>Raymond</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000 (1992-1998)</td>]]></html>
+	<text>2000 (1992-1998)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Betsi DeVries</td>]]></html>
+	<text>Betsi DeVries</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester</td>]]></html>
+	<text>Manchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Letourneau</td>]]></html>
+	<text>Robert Letourneau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Derry</td>]]></html>
+	<text>Derry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lou D'Allesandro</td>]]></html>
+	<text>Lou D&amp;apos;Allesandro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester</td>]]></html>
+	<text>Manchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iris Estabrook</td>]]></html>
+	<text>Iris Estabrook</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Durham</td>]]></html>
+	<text>Durham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael Downing</td>]]></html>
+	<text>Michael Downing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salem</td>]]></html>
+	<text>Salem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Margaret Wood Hassan</td>]]></html>
+	<text>Margaret Wood Hassan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Exeter</td>]]></html>
+	<text>Exeter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martha Fuller Clark</td>]]></html>
+	<text>Martha Fuller Clark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democrat</td>]]></html>
+	<text>Democrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portsmouth</td>]]></html>
+	<text>Portsmouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>New Hampshire Senate - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Representative Party Residence First Elected</text>
+</context>
+<context>
+	<score>0.8860645</score>
+	<text>[ edit ] Members of the New Hampshire Senate</text>
+</context>
+<context>
+	<score>0.7975659</score>
+	<text>New Hampshire Senate</text>
+</context>
+<context>
+	<score>0.78431743</score>
+	<text>Sylvia Larsen (D-15) is the President of the Senate, and Maggie Hassan (D-23) is President Pro Tem. Joseph Foster (D-13) is Majority Leader, with Deputy Majority Leader Peter Burling (D-5), Majority Whip Martha Fuller Clark (D-24), and Deputy Democratic Whip David Gottesman (D-12). Lou D&apos;Allesandro (D-20) is Vice President for Finance, and Iris Estabrook (D-21) is Vice-President for Policy. Theodore Gatsas (R-16) is the Republican Leader. [1]</text>
+</context>
+<context>
+	<score>0.75139934</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7294165</score>
+	<text>[ edit ] 2007 2008 Biennial Session</text>
+</context>
+<context>
+	<score>0.7294165</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7161682</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7029199</score>
+	<text>[ edit ] Leadership of the New Hampshire Senate</text>
+</context>
+<context>
+	<score>0.6378018</score>
+	<text>[ edit ] 2007 2008 Biennial Session</text>
+</context>
+<context>
+	<score>0.5973705</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5857073</score>
+	<text>1 2007 2008 Biennial Session 1.1 Leadership of the New Hampshire Senate 1.2 Members of the New Hampshire Senate 2 External links</text>
+</context>
+<context>
+	<score>0.5307834</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.49744293</score>
+	<text>The New Hampshire Senate has been meeting since 1784. It is the upper house of the New Hampshire General Court. It consists of 24 members representing Senate districts based on population. Currently, there are 14 Democrats and 10 Republicans in the Senate.</text>
+</context>
+<context>
+	<score>0.4972672</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4759293</score>
+	<text>New Hampshire Senate</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0" cellpadding="5"><tr bgcolor="#CCCCCC"><th><b>District</b></th><th><b>Representative</b></th><th><b>Party</b></th><th><b>Residence</b></th><th><b>First Elected</b></th></tr><tr><td></td></tr><tr bgcolor="#FFE8E8"><td>1</td><td><a href="../../../../articles/j/o/h/John_Gallus_dfc4.html" title="John Gallus">John Gallus</a></td><td>Republican</td><td><a href="../../../../articles/b/e/r/Berlin%2C_New_Hampshire_461e.html" title="Berlin, New Hampshire">Berlin</a></td><td>2002</td></tr><tr bgcolor="#DDEEFF"><td>2</td><td><a href="../../../../articles/d/e/b/Deborah_Reynolds_9877.html" title="Deborah Reynolds">Deborah Reynolds</a></td><td>Democrat</td><td><a href="../../../../articles/p/l/y/Plymouth%2C_New_Hampshire_fc9e.html" title="Plymouth, New Hampshire">Plymouth</a></td><td>2006</td></tr><tr bgcolor="#FFE8E8"><td>3</td><td><a href="../../../../articles/j/o/s/Joseph_Kenney_2964.html" title="Joseph Kenney">Joseph Kenney</a></td><td>Republican</td><td><a href="../../../../articles/u/n/i/Union%2C_New_Hampshire_3d83.html" class="mw-redirect" title="Union, New Hampshire">Union</a></td><td>2002</td></tr><tr bgcolor="#DDEEFF"><td>4</td><td><a href="../../../../articles/k/a/t/Kathleen_Sgambati_3744.html" title="Kathleen Sgambati">Kathleen Sgambati</a></td><td>Democrat</td><td><a href="../../../../articles/t/i/l/Tilton%2C_New_Hampshire_7e71.html" title="Tilton, New Hampshire">Tilton</a></td><td>2006</td></tr><tr bgcolor="#DDEEFF"><td>5</td><td><a href="../../../../articles/p/e/t/Peter_Burling_a724.html" title="Peter Burling">Peter Burling</a></td><td>Democrat</td><td><a href="../../../../articles/c/o/r/Cornish%2C_New_Hampshire_04a8.html" title="Cornish, New Hampshire">Cornish</a></td><td>2004</td></tr><tr bgcolor="#DDEEFF"><td>6</td><td><a href="../../../../articles/j/a/c/Jacalyn_Cilley_1812.html" title="Jacalyn Cilley">Jacalyn Cilley</a></td><td>Democrat</td><td><a href="../../../../articles/b/a/r/Barrington%2C_New_Hampshire_36f2.html" title="Barrington, New Hampshire">Barrington</a></td><td>2006</td></tr><tr bgcolor="#DDEEFF"><td>7</td><td><a href="../../../../articles/h/a/r/Harold_Janeway_a161.html" title="Harold Janeway">Harold Janeway</a></td><td>Democrat</td><td><a href="../../../../articles/w/e/b/Webster%2C_New_Hampshire_1b4d.html" title="Webster, New Hampshire">Webster</a></td><td>2006</td></tr><tr bgcolor="#FFE8E8"><td>8</td><td><a href="../../../../articles/b/o/b/Bob_Odell_%28politician%29_e291.html" title="Bob Odell (politician)">Bob Odell</a></td><td>Republican</td><td><a href="../../../../articles/l/e/m/Lempster%2C_New_Hampshire_e085.html" title="Lempster, New Hampshire">Lempster</a></td><td>2002</td></tr><tr bgcolor="#FFE8E8"><td>9</td><td><a href="../../../../articles/s/h/e/Sheila_Roberge_7ce0.html" title="Sheila Roberge">Sheila Roberge</a></td><td>Republican</td><td><a href="../../../../articles/b/e/d/Bedford%2C_New_Hampshire_a528.html" title="Bedford, New Hampshire">Bedford</a></td><td>1984</td></tr><tr bgcolor="#DDEEFF"><td>10</td><td><a href="../../../../articles/m/o/l/Molly_Kelly_af9d.html" title="Molly Kelly">Molly Kelly</a></td><td>Democrat</td><td><a href="../../../../articles/k/e/e/Keene%2C_New_Hampshire_4507.html" title="Keene, New Hampshire">Keene</a></td><td>2006</td></tr><tr bgcolor="#FFE8E8"><td>11</td><td><a href="../../../../articles/p/e/t/Peter_Bragdon_762a.html" title="Peter Bragdon">Peter Bragdon</a></td><td>Republican</td><td><a href="../../../../articles/m/i/l/Milford%2C_New_Hampshire_af62.html" title="Milford, New Hampshire">Milford</a></td><td>2004</td></tr><tr bgcolor="#DDEEFF"><td>12</td><td><a href="../../../../articles/d/a/v/David_Gottesman_%28politician%29_e501.html" title="David Gottesman (politician)">David Gottesman</a></td><td>Democrat</td><td><a href="../../../../articles/n/a/s/Nashua%2C_New_Hampshire_09fc.html" title="Nashua, New Hampshire">Nashua</a></td><td>2004</td></tr><tr bgcolor="#DDEEFF"><td>13</td><td><a href="../../../../articles/j/o/s/Joseph_Foster_4ddd.html" title="Joseph Foster">Joseph Foster</a></td><td>Democrat</td><td><a href="../../../../articles/n/a/s/Nashua%2C_New_Hampshire_09fc.html" title="Nashua, New Hampshire">Nashua</a></td><td>2002</td></tr><tr bgcolor="#FFE8E8"><td>14</td><td><a href="../../../../articles/r/o/b/Robert_Clegg%2C_Jr._03b5.html" title="Robert Clegg, Jr.">Robert Clegg, Jr.</a></td><td>Republican</td><td><a href="../../../../articles/h/u/d/Hudson%2C_New_Hampshire_f55d.html" title="Hudson, New Hampshire">Hudson</a></td><td>2002</td></tr><tr bgcolor="#DDEEFF"><td>15</td><td><a href="../../../../articles/s/y/l/Sylvia_Larsen_5540.html" title="Sylvia Larsen">Sylvia Larsen</a></td><td>Democrat</td><td><a href="../../../../articles/c/o/n/Concord%2C_New_Hampshire_de09.html" title="Concord, New Hampshire">Concord</a></td><td>1994</td></tr><tr bgcolor="#FFE8E8"><td>16</td><td><a href="../../../../articles/t/h/e/Theodore_Gatsas_3022.html" class="mw-redirect" title="Theodore Gatsas">Theodore Gatsas</a></td><td>Republican</td><td><a href="../../../../articles/m/a/n/Manchester%2C_New_Hampshire_7d61.html" title="Manchester, New Hampshire">Manchester</a></td><td>2000</td></tr><tr bgcolor="#FFE8E8"><td>17</td><td><a href="../../../../articles/j/o/h/John_Barnes%2C_Jr._f716.html" title="John Barnes, Jr.">John Barnes, Jr.</a></td><td>Republican</td><td><a href="../../../../articles/r/a/y/Raymond%2C_New_Hampshire_75e3.html" title="Raymond, New Hampshire">Raymond</a></td><td>2000 (1992-1998)</td></tr><tr bgcolor="#DDEEFF"><td>18</td><td><a href="../../../../articles/b/e/t/Betsi_DeVries_7e83.html" title="Betsi DeVries">Betsi DeVries</a></td><td>Democrat</td><td><a href="../../../../articles/m/a/n/Manchester%2C_New_Hampshire_7d61.html" title="Manchester, New Hampshire">Manchester</a></td><td>2006</td></tr><tr bgcolor="#FFE8E8"><td>19</td><td><a href="../../../../articles/r/o/b/Robert_Letourneau_71aa.html" title="Robert Letourneau">Robert Letourneau</a></td><td>Republican</td><td><a href="../../../../articles/d/e/r/Derry%2C_New_Hampshire_cb08.html" title="Derry, New Hampshire">Derry</a></td><td>2004</td></tr><tr bgcolor="#DDEEFF"><td>20</td><td><a href="../../../../articles/l/o/u/Lou_D%27Allesandro_fa82.html" title="Lou D'Allesandro">Lou D'Allesandro</a></td><td>Democrat</td><td><a href="../../../../articles/m/a/n/Manchester%2C_New_Hampshire_7d61.html" title="Manchester, New Hampshire">Manchester</a></td><td>1998</td></tr><tr bgcolor="#DDEEFF"><td>21</td><td><a href="../../../../articles/i/r/i/Iris_Estabrook_f64b.html" title="Iris Estabrook">Iris Estabrook</a></td><td>Democrat</td><td><a href="../../../../articles/d/u/r/Durham%2C_New_Hampshire_6212.html" title="Durham, New Hampshire">Durham</a></td><td>2002</td></tr><tr bgcolor="#FFE8E8"><td>22</td><td><a href="../../../../articles/m/i/c/Michael_Downing_e2cf.html" title="Michael Downing">Michael Downing</a></td><td>Republican</td><td><a href="../../../../articles/s/a/l/Salem%2C_New_Hampshire_584b.html" title="Salem, New Hampshire">Salem</a></td><td>2006</td></tr><tr bgcolor="#DDEEFF"><td>23</td><td><a href="../../../../articles/m/a/r/Margaret_Wood_Hassan_b05c.html" title="Margaret Wood Hassan">Margaret Wood Hassan</a></td><td>Democrat</td><td><a href="../../../../articles/e/x/e/Exeter%2C_New_Hampshire_ef05.html" title="Exeter, New Hampshire">Exeter</a></td><td>2004</td></tr><tr bgcolor="#DDEEFF"><td>24</td><td><a href="../../../../articles/m/a/r/Martha_Fuller_Clark_273c.html" title="Martha Fuller Clark">Martha Fuller Clark</a></td><td>Democrat</td><td><a href="../../../../articles/p/o/r/Portsmouth%2C_New_Hampshire_5b29.html" title="Portsmouth, New Hampshire">Portsmouth</a></td><td>2004</td></tr></table>]]>
+</htmlSnippet>
+</entity>

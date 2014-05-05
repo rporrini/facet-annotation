@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/a/f/r/African_Australian_c81c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 2, 0.8333333 0 2, 0.13333334 1, 0.13333334 0 1, 0.11111111 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/a/f/r/African_Australian_c81c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Main city</th>]]></html>
+	<text>Main city</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104,128</td>]]></html>
+	<text>104,128</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney (27.3%)</td>]]></html>
+	<text>Sydney (27.3%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Egypt</td>]]></html>
+	<text>Egypt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,497</td>]]></html>
+	<text>33,497</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney (48.5%)</td>]]></html>
+	<text>Sydney (48.5%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zimbabwe</td>]]></html>
+	<text>Zimbabwe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,157</td>]]></html>
+	<text>20,157</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth (24.7%)</td>]]></html>
+	<text>Perth (24.7%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sudan</td>]]></html>
+	<text>Sudan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,049</td>]]></html>
+	<text>19,049</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne (31.0%)</td>]]></html>
+	<text>Melbourne (31.0%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mauritius</td>]]></html>
+	<text>Mauritius</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,175</td>]]></html>
+	<text>18,175</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne (48.6%)</td>]]></html>
+	<text>Melbourne (48.6%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kenya</td>]]></html>
+	<text>Kenya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,940</td>]]></html>
+	<text>9,940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth (26.9%)</td>]]></html>
+	<text>Perth (26.9%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ethiopia</td>]]></html>
+	<text>Ethiopia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,633</td>]]></html>
+	<text>5,633</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne (53.9%)</td>]]></html>
+	<text>Melbourne (53.9%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Somalia</td>]]></html>
+	<text>Somalia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,316</td>]]></html>
+	<text>4,316</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne (60.1%)</td>]]></html>
+	<text>Melbourne (60.1%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zambia</td>]]></html>
+	<text>Zambia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,082</td>]]></html>
+	<text>4,082</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth (30.7%)</td>]]></html>
+	<text>Perth (30.7%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ghana</td>]]></html>
+	<text>Ghana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,771</td>]]></html>
+	<text>2,771</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney (51.0%)</td>]]></html>
+	<text>Sydney (51.0%)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Major countries of birth of African Australians (2006 Census)</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>African Australian - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Population Main city</text>
+</context>
+<context>
+	<score>0.88418984</score>
+	<text>At the 2006 Census 248,605 residents declared that they were born in Africa</text>
+</context>
+<context>
+	<score>0.8070551</score>
+	<text>African Australian</text>
+</context>
+<context>
+	<score>0.7872123</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.75583726</score>
+	<text>While most Africans reside in the largest cities, there are pockets of refugee Africans who have been resettled in country areas, such as Shepparton and Tamworth . In Sydney South Africans have taken to living in Bondi and St Ives</text>
+</context>
+<context>
+	<score>0.7348849</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7348849</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7348849</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7096303</score>
+	<text>Australia also has taken in refugees who left due to conflicts that emerged in the 1990s, such as in Sierra Leone , Burundi , Liberia , Congo and Rwanda .</text>
+</context>
+<context>
+	<score>0.64756465</score>
+	<text>Recent conflicts in various parts of Africa, particularly around the Horn of Africa , have prompted people to migrate through humanitarian programs.</text>
+</context>
+<context>
+	<score>0.6090287</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.5979122</score>
+	<text>Most Africans in Australia come from South Africa and are largely of Afrikaner and British descent. Other South Africans emigrate courtesy of skilled migration programs. Opportunities in Australia, as well as push factors such as rising crime, unemployment and complications arising from the Black Economic Empowerment policies in their home country, have prompted many South Africans to migrate. Earlier Australia had taken in Zimbabwe migrants who left under following the end of white minority rule</text>
+</context>
+<context>
+	<score>0.5527785</score>
+	<text>. However immigration from Africa to Australia remained limited until the 1990s.</text>
+</context>
+<context>
+	<score>0.52267075</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5210009</score>
+	<text>Historical archives suggest that convicts transported to Australia included Afro-Caribbeans</text>
+</context>
+<context>
+	<score>0.5009905</score>
+	<text>There is no clear definition of what constitutes being an &quot;African Australian&quot; (or &quot;Afro-Australian&quot;). The Australian Bureau of Statistics records people according to their birthplace and their self-described ancestry , although aggregated data for Africa is split between &quot;Sub-Saharan&quot; and &quot;North Africa and the Middle East&quot;</text>
+</context>
+<context>
+	<score>0.48065287</score>
+	<text>Immigration from Africa to Australia is only a recent phenomenon, with Europe and Asia traditionally being the largest sources of migration to Australia . In 2005-06 permanent settler arrivals to Australia included 4,000 South Africans and 3,800 Sudanese , constituting the sixth and seventh largest sources of migrants respectively</text>
+</context>
+<context>
+	<score>0.47187197</score>
+	<text>Sudanese Australian Egyptian Australian</text>
+</context>
+<context>
+	<score>0.45897108</score>
+	<text>Its initial author is invited to give a brief description/definition.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><caption><b>Major countries of birth of African Australians (2006 Census)</b></caption><tr bgcolor="#EFEFEF"><th>Country</th><th>Population</th><th>Main city</th></tr><tr><td><a href="../../../../articles/s/o/u/South_Africa_1287.html" title="South Africa">South Africa</a></td><td>104,128</td><td>Sydney (27.3%)</td></tr><tr><td><a href="../../../../articles/e/g/y/Egypt.html" title="Egypt">Egypt</a></td><td>33,497</td><td>Sydney (48.5%)</td></tr><tr><td><a href="../../../../articles/z/i/m/Zimbabwe.html" title="Zimbabwe">Zimbabwe</a></td><td>20,157</td><td>Perth (24.7%)</td></tr><tr><td><a href="../../../../articles/s/u/d/Sudan.html" title="Sudan">Sudan</a></td><td>19,049</td><td>Melbourne (31.0%)</td></tr><tr><td><a href="../../../../articles/m/a/u/Mauritius.html" title="Mauritius">Mauritius</a></td><td>18,175</td><td>Melbourne (48.6%)</td></tr><tr><td><a href="../../../../articles/k/e/n/Kenya.html" title="Kenya">Kenya</a></td><td>9,940</td><td>Perth (26.9%)</td></tr><tr><td><a href="../../../../articles/e/t/h/Ethiopia.html" title="Ethiopia">Ethiopia</a></td><td>5,633</td><td>Melbourne (53.9%)</td></tr><tr><td><a href="../../../../articles/s/o/m/Somalia.html" title="Somalia">Somalia</a></td><td>4,316</td><td>Melbourne (60.1%)</td></tr><tr><td><a href="../../../../articles/z/a/m/Zambia.html" title="Zambia">Zambia</a></td><td>4,082</td><td>Perth (30.7%)</td></tr><tr><td><a href="../../../../articles/g/h/a/Ghana.html" title="Ghana">Ghana</a></td><td>2,771</td><td>Sydney (51.0%)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

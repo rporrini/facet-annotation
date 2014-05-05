@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/l/i/s/List_of_motifs_on_banknotes.html_8.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_motifs_on_banknotes.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Denomination</th>]]></html>
+	<text>Denomination</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Obverse</th>]]></html>
+	<text>Obverse</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Reverse</th>]]></html>
+	<text>Reverse</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 1</td>]]></html>
+	<text>EEK 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kristjan Raud</td>]]></html>
+	<text>Kristjan Raud</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toompea Castle in Tallinn</td>]]></html>
+	<text>Toompea Castle in Tallinn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 2</td>]]></html>
+	<text>EEK 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Karl Ernst von Baer</td>]]></html>
+	<text>Karl Ernst von Baer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Tartu</td>]]></html>
+	<text>University of Tartu</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 5</td>]]></html>
+	<text>EEK 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Keres</td>]]></html>
+	<text>Paul Keres</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Narva river and the Jaanilinn stronghold</td>]]></html>
+	<text>The Narva river and the Jaanilinn stronghold</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 10</td>]]></html>
+	<text>EEK 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jakob Hurt</td>]]></html>
+	<text>Jakob Hurt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Tamme-Lauri oak at Urvaste</td>]]></html>
+	<text>The Tamme-Lauri oak at Urvaste</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 25</td>]]></html>
+	<text>EEK 25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anton Hansen Tammsaare</td>]]></html>
+	<text>Anton Hansen Tammsaare</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A view of Vargamäe</td>]]></html>
+	<text>A view of Vargam&#228;e</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 50</td>]]></html>
+	<text>EEK 50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rudolf Tobias</td>]]></html>
+	<text>Rudolf Tobias</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Estonia Opera House in Tallinn</td>]]></html>
+	<text>The Estonia Opera House in Tallinn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 100</td>]]></html>
+	<text>EEK 100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lydia Koidula</td>]]></html>
+	<text>Lydia Koidula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Estonian limestone shore</td>]]></html>
+	<text>North Estonian limestone shore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EEK 500</td>]]></html>
+	<text>EEK 500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carl Robert Jakobson</td>]]></html>
+	<text>Carl Robert Jakobson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A barn swallow flying over a landscape</td>]]></html>
+	<text>A barn swallow flying over a landscape</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of motifs on banknotes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Denomination Obverse Reverse</text>
+</context>
+<context>
+	<score>0.88007194</score>
+	<text>The official currency of Estonia is the Estonian kroon ( EEK ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.7857032</score>
+	<text>List of motifs on banknotes</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Carl Robert Jakobson on the obverse side of the 500 EEK banknote.</text>
+</context>
+<context>
+	<score>0.75172967</score>
+	<text>[ edit ] Euro area</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Argentina</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Australia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Brazil</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Colombia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Croatia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Denmark</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Egypt</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Estonia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Euro area</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Hungary</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Iceland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] India</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Japan</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Jersey</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Lithuania</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] New Zealand</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Norway</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Pakistan</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Paraguay</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Peru</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Philippines</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Poland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Romania</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Russia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Serbia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Slovakia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] South Africa</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Sweden</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Switzerland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Turkey</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Ukraine</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] The United Kingdom</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] United States</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70812744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055265</score>
+	<text>[ edit ] Estonia</text>
+</context>
+<context>
+	<score>0.6434658</score>
+	<text>The official currency of Egypt is the Egyptian pound ( EGP ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.60493296</score>
+	<text>The euro ( EUR ) is the official currency of the Eurozone (some European Union countries). The motifs used are:</text>
+</context>
+<context>
+	<score>0.59381735</score>
+	<text>[ edit ] Egypt</text>
+</context>
+<context>
+	<score>0.5540986</score>
+	<text>The official currency of Denmark is the Danish krone ( DKK ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.52232355</score>
+	<text>[ edit ] Denmark</text>
+</context>
+<context>
+	<score>0.518582</score>
+	<text>[ edit ] Hungary</text>
+</context>
+<context>
+	<score>0.4969035</score>
+	<text>The official currency of Croatia is the Croatian kuna ( HRK ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Obverse and reverse of a 200 Croatian kuna banknote</text>
+</context>
+<context>
+	<score>0.46778727</score>
+	<text>The official currency of Hungary is the Hungarian forint ( HUF ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.4602987</score>
+	<text>[ edit ] Croatia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>Denomination</th><th>Obverse</th><th>Reverse</th></tr><tr><td><b>EEK 1</b></td><td><a href="../../../../articles/k/r/i/Kristjan_Raud_624d.html" title="Kristjan Raud">Kristjan Raud</a></td><td><a href="../../../../articles/t/o/o/Toompea_Castle_b1d9.html" title="Toompea Castle">Toompea Castle</a> in <a href="../../../../articles/t/a/l/Tallinn.html" title="Tallinn">Tallinn</a></td></tr><tr><td><b>EEK 2</b></td><td><a href="../../../../articles/k/a/r/Karl_Ernst_von_Baer_45f1.html" title="Karl Ernst von Baer">Karl Ernst von Baer</a></td><td><a href="../../../../articles/u/n/i/University_of_Tartu_96bb.html" title="University of Tartu">University of Tartu</a></td></tr><tr><td><b>EEK 5</b></td><td><a href="../../../../articles/p/a/u/Paul_Keres_07b1.html" title="Paul Keres">Paul Keres</a></td><td>The <a href="../../../../articles/n/a/r/Narva_river.html" class="mw-redirect" title="Narva river">Narva river</a> and the <a href="../../../../articles/j/a/a/Jaanilinn.html" class="mw-redirect" title="Jaanilinn">Jaanilinn</a> stronghold</td></tr><tr><td><b>EEK 10</b></td><td><a href="../../../../articles/j/a/k/Jakob_Hurt_39db.html" title="Jakob Hurt">Jakob Hurt</a></td><td>The Tamme-Lauri oak at Urvaste</td></tr><tr><td><b>EEK 25</b></td><td><a href="../../../../articles/a/n/t/Anton_Hansen_Tammsaare_d5d5.html" title="Anton Hansen Tammsaare">Anton Hansen Tammsaare</a></td><td>A view of Vargamäe</td></tr><tr><td><b>EEK 50</b></td><td><a href="../../../../articles/r/u/d/Rudolf_Tobias_91ba.html" title="Rudolf Tobias">Rudolf Tobias</a></td><td>The <a href="../../../../articles/e/s/t/Estonia_Opera_House_9b94.html" class="mw-redirect" title="Estonia Opera House">Estonia Opera House</a> in <a href="../../../../articles/t/a/l/Tallinn.html" title="Tallinn">Tallinn</a></td></tr><tr><td><b>EEK 100</b></td><td><a href="../../../../articles/l/y/d/Lydia_Koidula_bc9a.html" title="Lydia Koidula">Lydia Koidula</a></td><td>North Estonian limestone shore</td></tr><tr><td><b>EEK 500</b></td><td><a href="../../../../articles/c/a/r/Carl_Robert_Jakobson_7e11.html" title="Carl Robert Jakobson">Carl Robert Jakobson</a></td><td>A barn swallow flying over a landscape</td></tr></table>]]>
+</htmlSnippet>
+</entity>

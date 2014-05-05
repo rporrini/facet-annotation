@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r7/l/i/s/List_of_countries_and_capitals_in_native_languages.html_18.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1 2, 0.7 3, 0.7 0 3, 0.63 1 3, 0.6 4, 0.6 0 4, 0.56 2 3, 0.54 1 4, 0.48000002 2 4, 0.42000002 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_countries_and_capitals_in_native_languages.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country ( Exonym )</th>]]></html>
+	<text>Country ( Exonym )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital ( Exonym )</th>]]></html>
+	<text>Capital ( Exonym )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country ( Endonym )</th>]]></html>
+	<text>Country ( Endonym )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital ( Endonym )</th>]]></html>
+	<text>Capital ( Endonym )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Official or Native Language(s) (Alphabet/Script)</th>]]></html>
+	<text>Official or Native Language(s) (Alphabet/Script)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uganda</td>]]></html>
+	<text>Uganda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kampala</td>]]></html>
+	<text>Kampala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ukraine</td>]]></html>
+	<text>Ukraine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kyiv</td>]]></html>
+	<text>Kyiv</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ukraїna Україна</td>]]></html>
+	<text>Ukra&#1111;na &#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1072;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kyїv Київ</td>]]></html>
+	<text>Ky&#1111;v &#1050;&#1080;&#1111;&#1074;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ukrainian ( Cyrillic alphabet )</td>]]></html>
+	<text>Ukrainian ( Cyrillic alphabet )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Arab Emirates</td>]]></html>
+	<text>United Arab Emirates</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abu Dhabi</td>]]></html>
+	<text>Abu Dhabi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah الإمارات العربيّة المتّحدة</td>]]></html>
+	<text>Al-&#8217;Im&#257;rat Al-&#8216;Arabiyyah Al-Mutta&#7717;idah &#1575;&#1604;&#1573;&#1605;&#1575;&#1585;&#1575;&#1578; &#1575;&#1604;&#1593;&#1585;&#1576;&#1610;&#1617;&#1577; &#1575;&#1604;&#1605;&#1578;&#1617;&#1581;&#1583;&#1577;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>‘Abū ẓabī أبوظبي</td>]]></html>
+	<text>&#8216;Ab&#363; &#7827;ab&#299; &#1571;&#1576;&#1608;&#1592;&#1576;&#1610;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arabic ( Arabic script )</td>]]></html>
+	<text>Arabic ( Arabic script )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom Y Deyrnas Unedig Unitit Kinrick Rìoghachd Aonaichte Ríocht Aontaithe</td>]]></html>
+	<text>United Kingdom Y Deyrnas Unedig Unitit Kinrick R&#236;oghachd Aonaichte R&#237;ocht Aontaithe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London Llundain Lunnon Lunnainn Londain</td>]]></html>
+	<text>London Llundain Lunnon Lunnainn Londain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English Welsh Scots Scots Gaelic Irish</td>]]></html>
+	<text>English Welsh Scots Scots Gaelic Irish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington, D.C.</td>]]></html>
+	<text>Washington, D.C.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States or America Estados Unidos or América États-Unis or Amérique 'Amelika-hui-pu-'ia or 'Amelika-hui</td>]]></html>
+	<text>United States or America Estados Unidos or Am&#233;rica &#201;tats-Unis or Am&#233;rique &amp;apos;Amelika-hui-pu-&amp;apos;ia or &amp;apos;Amelika-hui</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington Washington Washington Wakinekona or Wasinetona</td>]]></html>
+	<text>Washington Washington Washington Wakinekona or Wasinetona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English Spanish Cajun French Hawaiian</td>]]></html>
+	<text>English Spanish Cajun French Hawaiian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uruguay</td>]]></html>
+	<text>Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montevideo</td>]]></html>
+	<text>Montevideo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>República Oriental del Uruguay</td>]]></html>
+	<text>Rep&#250;blica Oriental del Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montevideo</td>]]></html>
+	<text>Montevideo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uzbekistan</td>]]></html>
+	<text>Uzbekistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tashkent</td>]]></html>
+	<text>Tashkent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O'zbekiston</td>]]></html>
+	<text>O&amp;apos;zbekiston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toshkent</td>]]></html>
+	<text>Toshkent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uzbek</td>]]></html>
+	<text>Uzbek</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of countries and capitals in native languages - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country ( Exonym ) Capital ( Exonym ) Country ( Endonym ) Capital ( Endonym ) Official or Native Language(s) (Alphabet/Script)</text>
+</context>
+<context>
+	<score>0.8799718</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.784988</score>
+	<text>List of countries and capitals in native languages</text>
+</context>
+<context>
+	<score>0.7820664</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.7503911</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] W, X, Y, Z</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70901716</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.70666367</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7037421</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.64108264</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.602178</score>
+	<text>[ edit ] W, X, Y, Z</text>
+</context>
+<context>
+	<score>0.5909551</score>
+	<text>( Arabic script )</text>
+</context>
+<context>
+	<score>0.5164179</score>
+	<text>Ad-Daw ah</text>
+</context>
+<context>
+	<score>0.5149938</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.49075264</score>
+	<text>Qa ar</text>
+</context>
+<context>
+	<score>0.46370894</score>
+	<text>Exonym and endonym List of adjectival forms of place names</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" style="border-collapse: collapse;" class="wikitable"><tr style="background:#ccc;"><th width="175">Country (<a href="../../../../articles/e/x/o/Exonym.html" class="mw-redirect" title="Exonym">Exonym</a>)</th><th width="175">Capital (<a href="../../../../articles/e/x/o/Exonym.html" class="mw-redirect" title="Exonym">Exonym</a>)</th><th width="175">Country (<a href="../../../../articles/e/n/d/Endonym.html" class="mw-redirect" title="Endonym">Endonym</a>)</th><th width="175">Capital (<a href="../../../../articles/e/n/d/Endonym.html" class="mw-redirect" title="Endonym">Endonym</a>)</th><th width="175">Official or Native Language(s) (Alphabet/Script)</th></tr><tr><td><center><a href="../../../../articles/u/g/a/Uganda.html" title="Uganda">Uganda</a></center></td><td><center><a href="../../../../articles/k/a/m/Kampala.html" title="Kampala">Kampala</a></center></td><td></td><td></td><td><center><a href="../../../../articles/e/n/g/English_language.html" title="English language">English</a></center></td></tr><tr><td><center><a href="../../../../articles/u/k/r/Ukraine.html" title="Ukraine">Ukraine</a></center></td><td><center><a href="../../../../articles/k/y/i/Kyiv.html" class="mw-redirect" title="Kyiv">Kyiv</a></center></td><td><center><b>Ukraїna</b><br />Україна</center></td><td><center><b>Kyїv</b><br />Київ</center></td><td><center><a href="../../../../articles/u/k/r/Ukrainian_language.html" title="Ukrainian language">Ukrainian</a><br />(<a href="../../../../articles/c/y/r/Cyrillic_alphabet.html" title="Cyrillic alphabet">Cyrillic alphabet</a>)</center></td></tr><tr><td><center><a href="../../../../articles/u/n/i/United_Arab_Emirates_edab.html" title="United Arab Emirates">United Arab Emirates</a></center></td><td><center><a href="../../../../articles/a/b/u/Abu_Dhabi_b84d.html" class="mw-redirect" title="Abu Dhabi">Abu Dhabi</a></center></td><td><center><b>Al-’Imārat Al-‘Arabiyyah Al-Muttaḥidah</b><br />الإمارات العربيّة المتّحدة</center></td><td><center><b>‘Abū ẓabī</b><br />أبوظبي</center></td><td><center><a href="../../../../articles/a/r/a/Arabic_language.html" title="Arabic language">Arabic</a><br />(<a href="../../../../articles/a/r/a/Arabic_script.html" class="mw-redirect" title="Arabic script">Arabic script</a>)</center></td></tr><tr><td><center><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></center></td><td><center><a href="../../../../articles/l/o/n/London.html" title="London">London</a></center></td><td><center><b>United Kingdom</b><br /><b>Y Deyrnas Unedig</b><br /><b>Unitit Kinrick</b><br /><b>Rìoghachd Aonaichte</b><br /><b>Ríocht Aontaithe</b></center></td><td><center><b>London</b><br /><b>Llundain</b><br /><b>Lunnon</b><br /><b>Lunnainn</b><br /><b>Londain</b></center></td><td><center><a href="../../../../articles/e/n/g/English_language.html" title="English language">English</a><br /><a href="../../../../articles/w/e/l/Welsh_language.html" title="Welsh language">Welsh</a><br /><a href="../../../../articles/s/c/o/Scots_language.html" title="Scots language">Scots</a><br /><a href="../../../../articles/s/c/o/Scottish_Gaelic_language_83df.html" class="mw-redirect" title="Scottish Gaelic language">Scots Gaelic</a><br /><a href="../../../../articles/i/r/i/Irish_language.html" title="Irish language">Irish</a></center></td></tr><tr><td><center><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></center></td><td><center><a href="../../../../articles/w/a/s/Washington%2C_D.C._323f.html" title="Washington, D.C.">Washington, D.C.</a></center></td><td><center><b>United States</b> or <b>America</b><br /><b>Estados Unidos</b> or <b>América</b><br /><b>États-Unis</b> or <b>Amérique</b><br /><b>'Amelika-hui-pu-'ia</b> or <b>'Amelika-hui</b></center></td><td><center><b>Washington</b><br /><b>Washington</b><br /><b>Washington</b><br /><b>Wakinekona</b> or <b>Wasinetona</b></center></td><td><center><a href="../../../../articles/e/n/g/English_language.html" title="English language">English</a><br /><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a><br /><a href="../../../../articles/c/a/j/Cajun_French_ea39.html" title="Cajun French">Cajun French</a><br /><a href="../../../../articles/h/a/w/Hawaiian_language.html" title="Hawaiian language">Hawaiian</a></center></td></tr><tr><td><center><a href="../../../../articles/u/r/u/Uruguay.html" title="Uruguay">Uruguay</a></center></td><td><center><a href="../../../../articles/m/o/n/Montevideo.html" title="Montevideo">Montevideo</a></center></td><td><center><b>República Oriental del Uruguay</b></center></td><td><center><b>Montevideo</b></center></td><td><center><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a></center></td></tr><tr><td><center><a href="../../../../articles/u/z/b/Uzbekistan.html" title="Uzbekistan">Uzbekistan</a></center></td><td><center><a href="../../../../articles/t/a/s/Tashkent.html" title="Tashkent">Tashkent</a></center></td><td><center><b>O'zbekiston</b></center></td><td><center><b>Toshkent</b></center></td><td><center><a href="../../../../articles/u/z/b/Uzbek_language.html" title="Uzbek language">Uzbek</a></center></td></tr></table>]]>
+</htmlSnippet>
+</entity>

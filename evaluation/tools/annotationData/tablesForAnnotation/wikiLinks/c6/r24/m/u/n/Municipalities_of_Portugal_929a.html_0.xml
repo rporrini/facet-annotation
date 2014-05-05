@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r24/m/u/n/Municipalities_of_Portugal_929a.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 1 5, 0.16666667 2, 0.16666667 1 2, 0.15277779 2 5, 0.15 3, 0.15 1 3, 0.1375 3 5, 0.13333334 4, 0.13333334 1 4, 0.12222223 4 5, 0.11666667 0, 0.11666667 0 1, 0.114583336 5, 0.10694445 0 5, 0.025 2 3, 0.022222225 2 4, 0.020000001 3 4, 0.019444445 0 2, 0.0175 0 3, 0.015555556 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/m/u/n/Municipalities_of_Portugal_929a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Land Area</th>]]></html>
+	<text>Land Area</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Density</th>]]></html>
+	<text>Density</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Metropolitan area</th>]]></html>
+	<text>Metropolitan area</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lisbon</td>]]></html>
+	<text>Lisbon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>564,657</td>]]></html>
+	<text>564,657</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>84.8</td>]]></html>
+	<text>84.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,658</td>]]></html>
+	<text>6,658</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sintra</td>]]></html>
+	<text>Sintra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>409,482</td>]]></html>
+	<text>409,482</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>319.2</td>]]></html>
+	<text>319.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,283</td>]]></html>
+	<text>1,283</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vila Nova de Gaia</td>]]></html>
+	<text>Vila Nova de Gaia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>288,749</td>]]></html>
+	<text>288,749</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170.8</td>]]></html>
+	<text>170.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,690</td>]]></html>
+	<text>1,690</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Porto</td>]]></html>
+	<text>Porto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>238,954</td>]]></html>
+	<text>238,954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41.3</td>]]></html>
+	<text>41.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,785</td>]]></html>
+	<text>5,785</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loures</td>]]></html>
+	<text>Loures</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>199,231</td>]]></html>
+	<text>199,231</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>169.3</td>]]></html>
+	<text>169.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,177</td>]]></html>
+	<text>1,177</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cascais</td>]]></html>
+	<text>Cascais</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>181,444</td>]]></html>
+	<text>181,444</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97.4</td>]]></html>
+	<text>97.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,863</td>]]></html>
+	<text>1,863</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amadora</td>]]></html>
+	<text>Amadora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>176,239</td>]]></html>
+	<text>176,239</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.8</td>]]></html>
+	<text>23.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,405</td>]]></html>
+	<text>7,405</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Braga</td>]]></html>
+	<text>Braga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170,858</td>]]></html>
+	<text>170,858</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>183.2</td>]]></html>
+	<text>183.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>933</td>]]></html>
+	<text>933</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oeiras</td>]]></html>
+	<text>Oeiras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168,475</td>]]></html>
+	<text>168,475</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.7</td>]]></html>
+	<text>45.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,687</td>]]></html>
+	<text>3,687</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matosinhos</td>]]></html>
+	<text>Matosinhos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168,451</td>]]></html>
+	<text>168,451</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.2</td>]]></html>
+	<text>62.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,708</td>]]></html>
+	<text>2,708</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Almada</td>]]></html>
+	<text>Almada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>164,844</td>]]></html>
+	<text>164,844</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70.0</td>]]></html>
+	<text>70.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,355</td>]]></html>
+	<text>2,355</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seixal</td>]]></html>
+	<text>Seixal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>164,715</td>]]></html>
+	<text>164,715</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.5</td>]]></html>
+	<text>95.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1725</td>]]></html>
+	<text>1725</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gondomar</td>]]></html>
+	<text>Gondomar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>164,096</td>]]></html>
+	<text>164,096</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>133.26</td>]]></html>
+	<text>133.26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,231</td>]]></html>
+	<text>1,231</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guimarães</td>]]></html>
+	<text>Guimar&#227;es</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>161,876</td>]]></html>
+	<text>161,876</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>241.3</td>]]></html>
+	<text>241.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>671</td>]]></html>
+	<text>671</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coimbra</td>]]></html>
+	<text>Coimbra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>148,474</td>]]></html>
+	<text>148,474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>319.0</td>]]></html>
+	<text>319.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>465</td>]]></html>
+	<text>465</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Odivelas</td>]]></html>
+	<text>Odivelas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>143,995</td>]]></html>
+	<text>143,995</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.4</td>]]></html>
+	<text>26.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,454</td>]]></html>
+	<text>5,454</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Maria da Feira</td>]]></html>
+	<text>Santa Maria da Feira</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>142,295</td>]]></html>
+	<text>142,295</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>215.1</td>]]></html>
+	<text>215.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>661</td>]]></html>
+	<text>661</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vila Franca de Xira</td>]]></html>
+	<text>Vila Franca de Xira</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>133,224</td>]]></html>
+	<text>133,224</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>317.7</td>]]></html>
+	<text>317.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>419</td>]]></html>
+	<text>419</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vila Nova de Famalicão</td>]]></html>
+	<text>Vila Nova de Famalic&#227;o</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>131,690</td>]]></html>
+	<text>131,690</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>201.7</td>]]></html>
+	<text>201.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>653</td>]]></html>
+	<text>653</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barcelos</td>]]></html>
+	<text>Barcelos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>123,831</td>]]></html>
+	<text>123,831</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>378.9</td>]]></html>
+	<text>378.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>327</td>]]></html>
+	<text>327</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Setúbal</td>]]></html>
+	<text>Set&#250;bal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120,117</td>]]></html>
+	<text>120,117</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>171.9</td>]]></html>
+	<text>171.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>699</td>]]></html>
+	<text>699</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Lisbon</td>]]></html>
+	<text>Greater Lisbon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maia</td>]]></html>
+	<text>Maia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120,111</td>]]></html>
+	<text>120,111</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>83.70</td>]]></html>
+	<text>83.70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1435</td>]]></html>
+	<text>1435</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Porto</td>]]></html>
+	<text>Greater Porto</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leiria</td>]]></html>
+	<text>Leiria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>119,870</td>]]></html>
+	<text>119,870</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>564.7</td>]]></html>
+	<text>564.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>212</td>]]></html>
+	<text>212</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Funchal</td>]]></html>
+	<text>Funchal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,847</td>]]></html>
+	<text>100,847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75.7</td>]]></html>
+	<text>75.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1332</td>]]></html>
+	<text>1332</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Municipalities of Portugal - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Municipality Population Land Area Density Metropolitan area</text>
+</context>
+<context>
+	<score>0.88573295</score>
+	<text>Denotes the number of inhabitants in the municipality area; area is in km ; only for populations of over 100,000 inhabitants.</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>Municipalities of Portugal</text>
+</context>
+<context>
+	<score>0.78600883</score>
+	<text>[ edit ] Most populated municipalities of Portugal</text>
+</context>
+<context>
+	<score>0.7537452</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73739344</score>
+	<text>[ edit ] Most populated municipalities of Portugal</text>
+</context>
+<context>
+	<score>0.73739344</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.6958417</score>
+	<text>Later in the end of the 20th century, democracy has granted more autonomy to municipalities. And, the formation of two super municipalities , known as reas metropolitanas (meaning &quot;metropolitan areas&quot;) for the two major cities of the country (Lisbon and Porto).</text>
+</context>
+<context>
+	<score>0.6424063</score>
+	<text>Most municipalities have their origin in the foral , a legal document, issued by the king, which assigned privileges to a town or a region. The present subdivisions have their origins in the 19th century. By the 19th century, the republicans promised a federal organization for the Portuguese territory -- that the country would become a municipal republic. When the Republic was formed, however, they didn&apos;t adopt what they promised for almost half a century.</text>
+</context>
+<context>
+	<score>0.602779</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5913476</score>
+	<text>The concelhos probably formed after the expulsion of the Visigothic rulers by the Moors during the Umayyad conquest of Hispania . Towns were thus left free to govern themselves, the population started to organize in councils in order to govern the town and surrounding lands. These were also a reminder of Roman municipalities.</text>
+</context>
+<context>
+	<score>0.55050063</score>
+	<text>Portugal has an entirely separate system of cities and towns . Cities and towns are located in municipalities, but often do not have the same boundaries, even if built-up is continuous. In total there are around twice as many cities and towns as there are municipalities.</text>
+</context>
+<context>
+	<score>0.5178231</score>
+	<text>In Portugal , municipality (munic pio) or concelho (meaning &quot;council&quot;) is the most stable subdivision of Portugal since the foundation of the country. A list of the current municipalities can be found in: list of municipalities of Portugal .</text>
+</context>
+<context>
+	<score>0.51245683</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4915432</score>
+	<text>Municipalities of Portugal</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" border="1" cellpadding="4" cellspacing="0" style="border: 1px solid #afafaf; border-collapse: collapse;"><tr style="background: #efefef;"><th align="right">Rank</th><th align="left">Municipality</th><th align="right">Population</th><th align="right">Land Area</th><th align="right">Density</th><th align="left">Metropolitan area</th></tr><tr align="right"><td>1</td><td align="left"><a href="../../../../articles/l/i/s/Lisbon.html" title="Lisbon">Lisbon</a></td><td><b>564,657</b></td><td>84.8</td><td>6,658</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>2</td><td align="left"><a href="../../../../articles/s/i/n/Sintra.html" title="Sintra">Sintra</a></td><td><b>409,482</b></td><td>319.2</td><td>1,283</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>3</td><td align="left"><a href="../../../../articles/v/i/l/Vila_Nova_de_Gaia_d7ed.html" title="Vila Nova de Gaia">Vila Nova de Gaia</a></td><td><b>288,749</b></td><td>170.8</td><td>1,690</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>4</td><td align="left"><a href="../../../../articles/p/o/r/Porto.html" title="Porto">Porto</a></td><td><b>238,954</b></td><td>41.3</td><td>5,785</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>5</td><td align="left"><a href="../../../../articles/l/o/u/Loures.html" title="Loures">Loures</a></td><td><b>199,231</b></td><td>169.3</td><td>1,177</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>6</td><td align="left"><a href="../../../../articles/c/a/s/Cascais.html" title="Cascais">Cascais</a></td><td><b>181,444</b></td><td>97.4</td><td>1,863</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>7</td><td align="left"><a href="../../../../articles/a/m/a/Amadora.html" title="Amadora">Amadora</a></td><td><b>176,239</b></td><td>23.8</td><td>7,405</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>8</td><td align="left"><a href="../../../../articles/b/r/a/Braga.html" title="Braga">Braga</a></td><td><b>170,858</b></td><td>183.2</td><td>933</td></tr><tr align="right"><td>9</td><td align="left"><a href="../../../../articles/o/e/i/Oeiras.html" title="Oeiras">Oeiras</a></td><td><b>168,475</b></td><td>45.7</td><td>3,687</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>10</td><td align="left"><a href="../../../../articles/m/a/t/Matosinhos.html" title="Matosinhos">Matosinhos</a></td><td><b>168,451</b></td><td>62.2</td><td>2,708</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>11</td><td align="left"><a href="../../../../articles/a/l/m/Almada.html" title="Almada">Almada</a></td><td><b>164,844</b></td><td>70.0</td><td>2,355</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>12</td><td align="left"><a href="../../../../articles/s/e/i/Seixal.html" title="Seixal">Seixal</a></td><td><b>164,715</b></td><td>95.5</td><td>1725</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>13</td><td align="left"><a href="../../../../articles/g/o/n/Gondomar_%28Portugal%29_879c.html" class="mw-redirect" title="Gondomar (Portugal)">Gondomar</a></td><td><b>164,096</b></td><td>133.26</td><td>1,231</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>14</td><td align="left"><a href="../../../../articles/g/u/i/Guimar%C3%A3es.html" title="Guimarães">Guimarães</a></td><td><b>161,876</b></td><td>241.3</td><td>671</td></tr><tr align="right"><td>15</td><td align="left"><a href="../../../../articles/c/o/i/Coimbra.html" title="Coimbra">Coimbra</a></td><td><b>148,474</b></td><td>319.0</td><td>465</td></tr><tr align="right"><td>16</td><td align="left"><a href="../../../../articles/o/d/i/Odivelas.html" title="Odivelas">Odivelas</a></td><td><b>143,995</b></td><td>26.4</td><td>5,454</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>17</td><td align="left"><a href="../../../../articles/s/a/n/Santa_Maria_da_Feira_e342.html" title="Santa Maria da Feira">Santa Maria da Feira</a></td><td><b>142,295</b></td><td>215.1</td><td>661</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>18</td><td align="left"><a href="../../../../articles/v/i/l/Vila_Franca_de_Xira_aa66.html" title="Vila Franca de Xira">Vila Franca de Xira</a></td><td><b>133,224</b></td><td>317.7</td><td>419</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>19</td><td align="left"><a href="../../../../articles/v/i/l/Vila_Nova_de_Famalic%C3%A3o_4d4d.html" title="Vila Nova de Famalicão">Vila Nova de Famalicão</a></td><td><b>131,690</b></td><td>201.7</td><td>653</td></tr><tr align="right"><td>20</td><td align="left"><a href="../../../../articles/b/a/r/Barcelos.html" title="Barcelos">Barcelos</a></td><td><b>123,831</b></td><td>378.9</td><td>327</td></tr><tr align="right"><td>21</td><td align="left"><a href="../../../../articles/s/e/t/Set%C3%BAbal.html" title="Setúbal">Setúbal</a></td><td><b>120,117</b></td><td>171.9</td><td>699</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Lisbon_a195.html" class="mw-redirect" title="Greater Metropolitan Area of Lisbon">Greater Lisbon</a></td></tr><tr align="right"><td>22</td><td align="left"><a href="../../../../articles/m/a/i/Maia%2C_Portugal_b9e8.html" title="Maia, Portugal">Maia</a></td><td><b>120,111</b></td><td>83.70</td><td>1435</td><td align="left"><a href="../../../../articles/g/r/e/Greater_Metropolitan_Area_of_Porto_d24d.html" title="Greater Metropolitan Area of Porto">Greater Porto</a></td></tr><tr align="right"><td>23</td><td align="left"><a href="../../../../articles/l/e/i/Leiria.html" title="Leiria">Leiria</a></td><td><b>119,870</b></td><td>564.7</td><td>212</td></tr><tr align="right"><td>24</td><td align="left"><a href="../../../../articles/f/u/n/Funchal.html" title="Funchal">Funchal</a></td><td><b>100,847</b></td><td>75.7</td><td>1332</td></tr></table>]]>
+</htmlSnippet>
+</entity>

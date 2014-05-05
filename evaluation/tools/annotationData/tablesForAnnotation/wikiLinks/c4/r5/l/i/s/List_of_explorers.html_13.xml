@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_explorers.html_13.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.52500004 1, 0.52500004 1 2, 0.46875 2 3, 0.45000002 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_explorers.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nationality</th>]]></html>
+	<text>Nationality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Century</th>]]></html>
+	<text>Century</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Main area/s explored</th>]]></html>
+	<text>Main area/s explored</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sebastián de Ocampo</td>]]></html>
+	<text>Sebasti&#225;n de Ocampo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 16th</td>]]></html>
+	<text>early 16th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Caribbean , Gulf of Mexico</td>]]></html>
+	<text>Caribbean , Gulf of Mexico</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peter Skene Ogden</td>]]></html>
+	<text>Peter Skene Ogden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canadian</td>]]></html>
+	<text>Canadian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 19th</td>]]></html>
+	<text>early 19th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Snake River country, western United States</td>]]></html>
+	<text>Snake River country, western United States</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Juan de Oñate</td>]]></html>
+	<text>Juan de O&#241;ate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16th</td>]]></html>
+	<text>16th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American Southwest</td>]]></html>
+	<text>American Southwest</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Francisco de Orellana</td>]]></html>
+	<text>Francisco de Orellana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16th</td>]]></html>
+	<text>16th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South America , Amazon River</td>]]></html>
+	<text>South America , Amazon River</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John Oxley</td>]]></html>
+	<text>John Oxley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British</td>]]></html>
+	<text>British</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 19th</td>]]></html>
+	<text>early 19th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia [7]</td>]]></html>
+	<text>Australia [7]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of explorers - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Nationality Century Main area/s explored</text>
+</context>
+<context>
+	<score>0.88108236</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.7868666</score>
+	<text>List of explorers</text>
+</context>
+<context>
+	<score>0.78411174</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.75273895</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] Z</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.71158576</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70653534</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.6444741</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.6059408</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.5948251</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.5551059</score>
+	<text>Russia , Persia</text>
+</context>
+<context>
+	<score>0.52103484</score>
+	<text>16th</text>
+</context>
+<context>
+	<score>0.519589</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.46879378</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.4590094</score>
+	<text>Name Nationality Century Main area/s explored</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center;"><tr><th width="250px">Name</th><th width="125px">Nationality</th><th width="100px">Century</th><th width="400px">Main area/s explored</th></tr><tr><td><a href="../../../../articles/s/e/b/Sebasti%C3%A1n_de_Ocampo_a86a.html" title="Sebastián de Ocampo">Sebastián de Ocampo</a></td><td><a href="../../../../articles/s/p/a/Spanish_people.html" title="Spanish people">Spanish</a></td><td>early&#160;16th</td><td><a href="../../../../articles/c/a/r/Caribbean.html" title="Caribbean">Caribbean</a>, <a href="../../../../articles/g/u/l/Gulf_of_Mexico_73a1.html" title="Gulf of Mexico">Gulf of Mexico</a></td></tr><tr><td><a href="../../../../articles/p/e/t/Peter_Skene_Ogden_fb36.html" title="Peter Skene Ogden">Peter Skene Ogden</a></td><td><a href="../../../../articles/c/a/n/Canadian_people.html" class="mw-redirect" title="Canadian people">Canadian</a></td><td>early&#160;19th</td><td><a href="../../../../articles/s/n/a/Snake_River_61af.html" title="Snake River">Snake River</a> country, <a href="../../../../articles/w/e/s/Western_United_States_afd6.html" title="Western United States">western United States</a></td></tr><tr><td><a href="../../../../articles/j/u/a/Juan_de_O%C3%B1ate_1b5c.html" title="Juan de Oñate">Juan de Oñate</a></td><td>Spanish</td><td>16th</td><td><a href="../../../../articles/s/o/u/Southwestern_United_States_dabc.html" title="Southwestern United States">American Southwest</a></td></tr><tr><td><a href="../../../../articles/f/r/a/Francisco_de_Orellana_1d6b.html" title="Francisco de Orellana">Francisco de Orellana</a></td><td>Spanish</td><td>16th</td><td><a href="../../../../articles/s/o/u/South_America_9663.html" title="South America">South America</a>, <a href="../../../../articles/a/m/a/Amazon_River_052f.html" title="Amazon River">Amazon River</a></td></tr><tr><td><a href="../../../../articles/j/o/h/John_Oxley_e99d.html" title="John Oxley">John Oxley</a></td><td><a href="../../../../articles/b/r/i/British_people.html" title="British people">British</a></td><td>early&#160;19th</td><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

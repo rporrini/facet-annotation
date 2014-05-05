@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r18/l/i/s/List_of_channels_on_freesat.html_6.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 1 3, 0.8 1 4, 0.14 0, 0.14 0 1, 0.126 0 3, 0.112 0 4, 0.060000002 1 2, 0.05 3, 0.044444446 4, 0.04 3 4, 0.016666668 2, 0.0150000015 2 3, 0.0133333355 2 4, 0.008400001 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_channels_on_freesat.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG No.</th>]]></html>
+	<text>EPG No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel Name</th>]]></html>
+	<text>Channel Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Owner/parent company</th>]]></html>
+	<text>Owner/parent company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast hours</th>]]></html>
+	<text>Broadcast hours</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>700</td>]]></html>
+	<text>700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 1</td>]]></html>
+	<text>BBC Radio 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>701</td>]]></html>
+	<text>701</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 1Xtra</td>]]></html>
+	<text>BBC Radio 1Xtra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>702</td>]]></html>
+	<text>702</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 2</td>]]></html>
+	<text>BBC Radio 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>703</td>]]></html>
+	<text>703</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 3</td>]]></html>
+	<text>BBC Radio 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>704</td>]]></html>
+	<text>704</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 4 FM</td>]]></html>
+	<text>BBC Radio 4 FM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>705</td>]]></html>
+	<text>705</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 4 LW</td>]]></html>
+	<text>BBC Radio 4 LW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>706</td>]]></html>
+	<text>706</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 5 Live</td>]]></html>
+	<text>BBC Radio 5 Live</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>707</td>]]></html>
+	<text>707</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 5 Live Sports Extra</td>]]></html>
+	<text>BBC Radio 5 Live Sports Extra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Only broadcasts when needed, otherwise rolling promos are played.</td>]]></html>
+	<text>Only broadcasts when needed, otherwise rolling promos are played.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>708</td>]]></html>
+	<text>708</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 6 Music</td>]]></html>
+	<text>BBC 6 Music</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>709</td>]]></html>
+	<text>709</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio 7</td>]]></html>
+	<text>BBC Radio 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>710</td>]]></html>
+	<text>710</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Asian Network</td>]]></html>
+	<text>BBC Asian Network</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>711</td>]]></html>
+	<text>711</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC World Service</td>]]></html>
+	<text>BBC World Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>712</td>]]></html>
+	<text>712</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio Scotland</td>]]></html>
+	<text>BBC Radio Scotland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>713</td>]]></html>
+	<text>713</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio nan Gàidheal</td>]]></html>
+	<text>BBC Radio nan G&#224;idheal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Programmes in Scottish Gaelic</td>]]></html>
+	<text>Programmes in Scottish Gaelic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 hours</td>]]></html>
+	<text>24 hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>714</td>]]></html>
+	<text>714</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio Wales</td>]]></html>
+	<text>BBC Radio Wales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>715</td>]]></html>
+	<text>715</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio Cymru</td>]]></html>
+	<text>BBC Radio Cymru</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Programmes in Welsh</td>]]></html>
+	<text>Programmes in Welsh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>716</td>]]></html>
+	<text>716</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio Ulster</td>]]></html>
+	<text>BBC Radio Ulster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Programmes mainly in English, but also in the Irish language and in Ulster Scots</td>]]></html>
+	<text>Programmes mainly in English, but also in the Irish language and in Ulster Scots</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>718</td>]]></html>
+	<text>718</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Radio London</td>]]></html>
+	<text>BBC Radio London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of channels on freesat - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours</text>
+</context>
+<context>
+	<score>0.88255304</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.789274</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.78464764</score>
+	<text>16:9 SDTV</text>
+</context>
+<context>
+	<score>0.75297236</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7158844</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.71094966</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>24 Hours</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>Education Digital Ltd</text>
+</context>
+<context>
+	<score>0.6047592</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.5484995</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours Broadcast format</text>
+</context>
+<context>
+	<score>0.5213527</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.517575</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.49568737</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.47515512</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.46629018</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.45872933</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours sortable" border="1" cellpadding="3" style="border-collapse:collapse; font-size: 90%; text-align:center" width="100%"><tr><th>EPG No.</th><th>Channel Name</th><th>Notes</th><th>Owner/parent company</th><th>Broadcast hours</th></tr><tr><td>700</td><td><a href="../../../../articles/b/b/c/BBC_Radio_1_3f66.html" title="BBC Radio 1">BBC Radio 1</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>701</td><td><a href="../../../../articles/b/b/c/BBC_Radio_1Xtra_ca88.html" title="BBC Radio 1Xtra">BBC Radio 1Xtra</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>702</td><td><a href="../../../../articles/b/b/c/BBC_Radio_2_14a4.html" title="BBC Radio 2">BBC Radio 2</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>703</td><td><a href="../../../../articles/b/b/c/BBC_Radio_3_08b7.html" title="BBC Radio 3">BBC Radio 3</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>704</td><td><a href="../../../../articles/b/b/c/BBC_Radio_4_eb17.html" title="BBC Radio 4">BBC Radio 4 FM</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>705</td><td><a href="../../../../articles/b/b/c/BBC_Radio_4_eb17.html" title="BBC Radio 4">BBC Radio 4 LW</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>706</td><td><a href="../../../../articles/b/b/c/BBC_Radio_5_Live_35e4.html" title="BBC Radio 5 Live">BBC Radio 5 Live</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>707</td><td><a href="../../../../articles/b/b/c/BBC_Radio_5_Live_Sports_Extra_c59f.html" title="BBC Radio 5 Live Sports Extra">BBC Radio 5 Live Sports Extra</a></td><td>Only broadcasts when needed, otherwise rolling promos are played.</td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>708</td><td><a href="../../../../articles/b/b/c/BBC_6_Music_e64e.html" title="BBC 6 Music">BBC 6 Music</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>709</td><td><a href="../../../../articles/b/b/c/BBC_Radio_7_792f.html" class="mw-redirect" title="BBC Radio 7">BBC Radio 7</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>710</td><td><a href="../../../../articles/b/b/c/BBC_Asian_Network_66c8.html" title="BBC Asian Network">BBC Asian Network</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>711</td><td><a href="../../../../articles/b/b/c/BBC_World_Service_bff7.html" title="BBC World Service">BBC World Service</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>712</td><td><a href="../../../../articles/b/b/c/BBC_Radio_Scotland_44f0.html" title="BBC Radio Scotland">BBC Radio Scotland</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td></tr><tr><td>713</td><td><a href="../../../../articles/b/b/c/BBC_Radio_nan_G%C3%A0idheal_5d30.html" title="BBC Radio nan Gàidheal">BBC Radio nan Gàidheal</a></td><td>Programmes in <a href="../../../../articles/s/c/o/Scottish_Gaelic_language_83df.html" class="mw-redirect" title="Scottish Gaelic language">Scottish Gaelic</a></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 hours</td></tr><tr><td>714</td><td><a href="../../../../articles/b/b/c/BBC_Radio_Wales_8d0a.html" title="BBC Radio Wales">BBC Radio Wales</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td></tr><tr><td>715</td><td><a href="../../../../articles/b/b/c/BBC_Radio_Cymru_4e89.html" title="BBC Radio Cymru">BBC Radio Cymru</a></td><td>Programmes in <a href="../../../../articles/w/e/l/Welsh_language.html" title="Welsh language">Welsh</a></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td></tr><tr><td>716</td><td><a href="../../../../articles/b/b/c/BBC_Radio_Ulster_62ab.html" title="BBC Radio Ulster">BBC Radio Ulster</a></td><td>Programmes mainly in English, but also in the <a href="../../../../articles/i/r/i/Irish_language.html" title="Irish language">Irish language</a> and in <a href="../../../../articles/u/l/s/Ulster_Scots_%28linguistics%29_123e.html" title="Ulster Scots (linguistics)">Ulster Scots</a></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td></tr><tr><td>718</td><td><a href="../../../../articles/b/b/c/BBC_Radio_London_e9ec.html" class="mw-redirect" title="BBC Radio London">BBC Radio London</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td></tr></table>]]>
+</htmlSnippet>
+</entity>

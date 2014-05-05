@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/r/i/m/Rimma_Zhukova_b60a.html_1.xml" />
+<meta name="primaryKey" value="0.2 3, 0.17999999 2, 0.17999999 2 3, 0.16000001 1, 0.16000001 1 3, 0.14 4, 0.14 3 4, 0.120000005 0, 0.120000005 0 3, 0.028800001 1 2, 0.025199998 2 4, 0.022400001 1 4, 0.0216 0 2, 0.019200003 0 1, 0.0168 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/r/i/m/Rimma_Zhukova_b60a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Event</th>]]></html>
+	<text>Event</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>WR</th>]]></html>
+	<text>WR</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>500 m</td>]]></html>
+	<text>500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46.6</td>]]></html>
+	<text>46.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 January 1952</td>]]></html>
+	<text>24 January 1952</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46.4</td>]]></html>
+	<text>46.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,000 m</td>]]></html>
+	<text>1,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:34.4</td>]]></html>
+	<text>1:34.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 January 1955</td>]]></html>
+	<text>12 January 1955</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:36.4</td>]]></html>
+	<text>1:36.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,500 m</td>]]></html>
+	<text>1,500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:27.7</td>]]></html>
+	<text>2:27.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 January 1955</td>]]></html>
+	<text>11 January 1955</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:25.5</td>]]></html>
+	<text>2:25.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3,000 m</td>]]></html>
+	<text>3,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5:13.8</td>]]></html>
+	<text>5:13.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23 January 1953</td>]]></html>
+	<text>23 January 1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5:21.3</td>]]></html>
+	<text>5:21.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5,000 m</td>]]></html>
+	<text>5,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9:01.6</td>]]></html>
+	<text>9:01.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 January 1953</td>]]></html>
+	<text>24 January 1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9:10.7</td>]]></html>
+	<text>9:10.7</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Rimma Zhukova - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Event Result Date Venue WR</text>
+</context>
+<context>
+	<score>0.8781026</score>
+	<text>To put these personal records in perspective, the WR column lists the official world records on the dates that Zhukova skated her personal records.</text>
+</context>
+<context>
+	<score>0.8023521</score>
+	<text>Rimma Zhukova</text>
+</context>
+<context>
+	<score>0.78820324</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.75665337</score>
+	<text>Note that Zhukova&apos;s personal record on the 1,000 m was not a world record because Tamara Rylova skated 1:33.4 at the same tournament.</text>
+</context>
+<context>
+	<score>0.73195636</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.73195636</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.73195636</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.73195636</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.710189</score>
+	<text>Over the course of her career, Zhukova skated eight world records :</text>
+</context>
+<context>
+	<score>0.64777744</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.60902673</score>
+	<text>Zukova has an Adelskalender score of 193.050 points.</text>
+</context>
+<context>
+	<score>0.5902297</score>
+	<text>An overview of medals won by Zhukova at important championships she participated in, listing the years in which she won each:</text>
+</context>
+<context>
+	<score>0.55790496</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.5259503</score>
+	<text>Rimma Zhukova competed for the Soviet Union and after having become Soviet Allround Champion three times and having won the prestigious Kirov prize four times, she became World Allround Champion in 1955. Zhukova was one of the Soviet women who dominated skating for almost 20 years starting in 1948. Since all three medals at every one of the twelve World Championships between 1953 and 1964 were won by Soviet women, the strongest competition Zhukova experienced came from other Soviet skaters.</text>
+</context>
+<context>
+	<score>0.5221876</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5003866</score>
+	<text>) (born 14 March 1925 in Yekaterinburg , Russia died 1999) was a speed skater .</text>
+</context>
+<context>
+	<score>0.4799356</score>
+	<text>Rimma Mikhaylovna Zhukova ( Russian :</text>
+</context>
+<context>
+	<score>0.4777236</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47110575</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46463495</score>
+	<text>Rimma Zhukova</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Event</th><th>Result</th><th>Date</th><th>Venue</th><th>WR</th></tr><tr align="right"><td>500 m</td><td>46.6</td><td><a href="../../../../articles/j/a/n/January_24.html" title="January 24">24 January</a> <a href="../../../../articles/1/9/5/1952.html" title="1952">1952</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td><td>46.4</td></tr><tr align="right"><td>1,000 m</td><td>1:34.4</td><td><a href="../../../../articles/j/a/n/January_12.html" title="January 12">12 January</a> <a href="../../../../articles/1/9/5/1955.html" title="1955">1955</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td><td>1:36.4</td></tr><tr align="right"><td>1,500 m</td><td>2:27.7</td><td><a href="../../../../articles/j/a/n/January_11.html" title="January 11">11 January</a> <a href="../../../../articles/1/9/5/1955.html" title="1955">1955</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td><td>2:25.5</td></tr><tr align="right"><td>3,000 m</td><td>5:13.8</td><td><a href="../../../../articles/j/a/n/January_23.html" title="January 23">23 January</a> <a href="../../../../articles/1/9/5/1953.html" title="1953">1953</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td><td>5:21.3</td></tr><tr align="right"><td>5,000 m</td><td>9:01.6</td><td><a href="../../../../articles/j/a/n/January_24.html" title="January 24">24 January</a> <a href="../../../../articles/1/9/5/1953.html" title="1953">1953</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td><td>9:10.7</td></tr></table>]]>
+</htmlSnippet>
+</entity>

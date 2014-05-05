@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/b/l/a/Blackpool_F.C._records_a31a.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/b/l/a/Blackpool_F.C._records_a31a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Player</th>]]></html>
+	<text>Player</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>To</th>]]></html>
+	<text>To</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Fee</th>]]></html>
+	<text>Fee</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joe Lane</td>]]></html>
+	<text>Joe Lane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Birmingham City</td>]]></html>
+	<text>Birmingham City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£3,600</td>]]></html>
+	<text>&#163;3,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alan Ball</td>]]></html>
+	<text>Alan Ball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Everton</td>]]></html>
+	<text>Everton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£112,000</td>]]></html>
+	<text>&#163;112,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966</td>]]></html>
+	<text>1966</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tony Green</td>]]></html>
+	<text>Tony Green</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newcastle United</td>]]></html>
+	<text>Newcastle United</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£150,000</td>]]></html>
+	<text>&#163;150,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1971</td>]]></html>
+	<text>1971</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paul Stewart</td>]]></html>
+	<text>Paul Stewart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester City</td>]]></html>
+	<text>Manchester City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£200,000</td>]]></html>
+	<text>&#163;200,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alan Wright</td>]]></html>
+	<text>Alan Wright</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blackburn Rovers</td>]]></html>
+	<text>Blackburn Rovers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£400,000</td>]]></html>
+	<text>&#163;400,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trevor Sinclair</td>]]></html>
+	<text>Trevor Sinclair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Q.P.R.</td>]]></html>
+	<text>Q.P.R.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£600,000</td>]]></html>
+	<text>&#163;600,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993</td>]]></html>
+	<text>1993</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brett Ormerod</td>]]></html>
+	<text>Brett Ormerod</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Southampton</td>]]></html>
+	<text>Southampton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>£1.75m</td>]]></html>
+	<text>&#163;1.75m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Blackpool F.C. records - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Player To Fee Year</text>
+</context>
+<context>
+	<score>0.883243</score>
+	<text>[ edit ] Received</text>
+</context>
+<context>
+	<score>0.8007556</score>
+	<text>Blackpool F.C. records</text>
+</context>
+<context>
+	<score>0.7862724</score>
+	<text>[ edit ] Paid</text>
+</context>
+<context>
+	<score>0.7548996</score>
+	<text>[ edit ] Individual records</text>
+</context>
+<context>
+	<score>0.72763556</score>
+	<text>[ edit ] Club records</text>
+</context>
+<context>
+	<score>0.72763556</score>
+	<text>[ edit ] Individual records</text>
+</context>
+<context>
+	<score>0.72763556</score>
+	<text>[ edit ] Attendances</text>
+</context>
+<context>
+	<score>0.72763556</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7231791</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.708696</score>
+	<text>[ edit ] Record transfer-fee progression</text>
+</context>
+<context>
+	<score>0.64663476</score>
+	<text>Largest transfer fee paid : 300,000 ( Stephen McPhee , Hull , 2008) Largest ransfer fee received : 1.75m ( Brett Ormerod , Southampton , 2001)</text>
+</context>
+<context>
+	<score>0.6081014</score>
+	<text>[ edit ] Players</text>
+</context>
+<context>
+	<score>0.59698576</score>
+	<text>[ edit ] Transfer fees</text>
+</context>
+<context>
+	<score>0.5572666</score>
+	<text>Highest : 2nd in Division One ( 1956 ) Lowest : 21st in Division Four ( 1983 )</text>
+</context>
+<context>
+	<score>0.5499496</score>
+	<text>Blackpool Football Club v d e</text>
+</context>
+<context>
+	<score>0.52549124</score>
+	<text>[ edit ] League finishing positions</text>
+</context>
+<context>
+	<score>0.5217497</score>
+	<text>Most league appearances : Jimmy Armfield (569, between December 27 , 1954 and May 1 , 1971 )</text>
+</context>
+<context>
+	<score>0.500071</score>
+	<text>[ edit ] Results</text>
+</context>
+<context>
+	<score>0.47973478</score>
+	<text>[ edit ] Club records</text>
+</context>
+<context>
+	<score>0.47095445</score>
+	<text>For a list of Blackpool players with the most league appearances, see here and sort by appearances.</text>
+</context>
+<context>
+	<score>0.4590094</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.4504506</score>
+	<text>This page details Blackpool F.C. records .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours"><tr><th bgcolor="silver">Player</th><th bgcolor="silver">To</th><th bgcolor="silver">Fee</th><th bgcolor="silver">Year</th></tr><tr bgcolor="#EEEEEE"><td><a href="../../../../articles/j/o/e/Joe_Lane_56d3.html" title="Joe Lane">Joe Lane</a></td><td><a href="../../../../articles/b/i/r/Birmingham_City_F.C._f327.html" title="Birmingham City F.C.">Birmingham City</a></td><td>£3,600</td><td>1920</td></tr><tr><td><a href="../../../../articles/a/l/a/Alan_Ball%2C_Jr._71e0.html" title="Alan Ball, Jr.">Alan Ball</a></td><td><a href="../../../../articles/e/v/e/Everton_F.C._db0c.html" title="Everton F.C.">Everton</a></td><td>£112,000</td><td>1966</td></tr><tr bgcolor="#EEEEEE"><td><a href="../../../../articles/t/o/n/Tony_Green_%28footballer%29_f0d1.html" title="Tony Green (footballer)">Tony Green</a></td><td><a href="../../../../articles/n/e/w/Newcastle_United_F.C._2974.html" title="Newcastle United F.C.">Newcastle United</a></td><td>£150,000</td><td>1971</td></tr><tr><td><a href="../../../../articles/p/a/u/Paul_Stewart_%28footballer%29_38c6.html" title="Paul Stewart (footballer)">Paul Stewart</a></td><td><a href="../../../../articles/m/a/n/Manchester_City_F.C._90bc.html" title="Manchester City F.C.">Manchester City</a></td><td>£200,000</td><td>1987</td></tr><tr bgcolor="#EEEEEE"><td><a href="../../../../articles/a/l/a/Alan_Wright_39ec.html" title="Alan Wright">Alan Wright</a></td><td><a href="../../../../articles/b/l/a/Blackburn_Rovers_F.C._07df.html" title="Blackburn Rovers F.C.">Blackburn Rovers</a></td><td>£400,000</td><td>1991</td></tr><tr><td><a href="../../../../articles/t/r/e/Trevor_Sinclair_6ba3.html" title="Trevor Sinclair">Trevor Sinclair</a></td><td><a href="../../../../articles/q/u/e/Queens_Park_Rangers_F.C._4b31.html" title="Queens Park Rangers F.C.">Q.P.R.</a></td><td>£600,000</td><td>1993</td></tr><tr bgcolor="#EEEEEE"><td><a href="../../../../articles/b/r/e/Brett_Ormerod_aaf2.html" title="Brett Ormerod">Brett Ormerod</a></td><td><a href="../../../../articles/s/o/u/Southampton_F.C._c5ae.html" title="Southampton F.C.">Southampton</a></td><td>£1.75m</td><td>2001</td></tr></table>]]>
+</htmlSnippet>
+</entity>

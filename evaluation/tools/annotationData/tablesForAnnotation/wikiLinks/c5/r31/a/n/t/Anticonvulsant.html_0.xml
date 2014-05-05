@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r31/a/n/t/Anticonvulsant.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.16000001 0 2, 0.144 1 2, 0.14 0 3, 0.13935485 2, 0.126 1 3, 0.120000005 0 4, 0.108 1 4, 0.09483871 3, 0.05419355 4, 0.022400001 2 3, 0.018580647 2 4, 0.011380646 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/n/t/Anticonvulsant.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Drug</th>]]></html>
+	<text>Drug</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Brand</th>]]></html>
+	<text>Brand</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>US</th>]]></html>
+	<text>US</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>UK</th>]]></html>
+	<text>UK</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>France</th>]]></html>
+	<text>France</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>acetazolamide</td>]]></html>
+	<text>acetazolamide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Diamox</td>]]></html>
+	<text>Diamox</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953-07-27 1953 - 07-27 [4]</td>]]></html>
+	<text>1953-07-27 1953 - 07-27 [4]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1988 [5]</td>]]></html>
+	<text>1988 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>carbamazepine</td>]]></html>
+	<text>carbamazepine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tegretol</td>]]></html>
+	<text>Tegretol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1974-07-15 1974 - 07-15 [6] [7]</td>]]></html>
+	<text>1974-07-15 1974 - 07-15 [6] [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1965 [5]</td>]]></html>
+	<text>1965 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963 [8]</td>]]></html>
+	<text>1963 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>clobazam</td>]]></html>
+	<text>clobazam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frisium</td>]]></html>
+	<text>Frisium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1979 [5]</td>]]></html>
+	<text>1979 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>clonazepam</td>]]></html>
+	<text>clonazepam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Klonopin/Rivotril</td>]]></html>
+	<text>Klonopin/Rivotril</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1975-06-04 1975 - 06-04 [9]</td>]]></html>
+	<text>1975-06-04 1975 - 06-04 [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1974 [5]</td>]]></html>
+	<text>1974 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>diazepam</td>]]></html>
+	<text>diazepam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Valium</td>]]></html>
+	<text>Valium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963-11-15 1963 - 11-15 [10]</td>]]></html>
+	<text>1963-11-15 1963 - 11-15 [10]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>divalproex sodium</td>]]></html>
+	<text>divalproex sodium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Depakote</td>]]></html>
+	<text>Depakote</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1983-03-10 1983 - 03-10 [11]</td>]]></html>
+	<text>1983-03-10 1983 - 03-10 [11]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ethosuximide</td>]]></html>
+	<text>ethosuximide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zarontin</td>]]></html>
+	<text>Zarontin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1960-11-02 1960 - 11-02 [12]</td>]]></html>
+	<text>1960-11-02 1960 - 11-02 [12]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1955 [5]</td>]]></html>
+	<text>1955 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1962 [8]</td>]]></html>
+	<text>1962 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ethotoin</td>]]></html>
+	<text>ethotoin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peganone</td>]]></html>
+	<text>Peganone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1957-04-22 1957 - 04-22 [13]</td>]]></html>
+	<text>1957-04-22 1957 - 04-22 [13]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>felbamate</td>]]></html>
+	<text>felbamate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Felbatol</td>]]></html>
+	<text>Felbatol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993-07-29 1993 - 07-29 [14]</td>]]></html>
+	<text>1993-07-29 1993 - 07-29 [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>fosphenytoin</td>]]></html>
+	<text>fosphenytoin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cerebyx</td>]]></html>
+	<text>Cerebyx</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996-08-05 1996 - 08-05 [15]</td>]]></html>
+	<text>1996-08-05 1996 - 08-05 [15]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>gabapentin</td>]]></html>
+	<text>gabapentin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neurontin</td>]]></html>
+	<text>Neurontin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993-12-30 1993 - 12-30 [16]</td>]]></html>
+	<text>1993-12-30 1993 - 12-30 [16]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993-05 May 1993 [5] [8]</td>]]></html>
+	<text>1993-05 May 1993 [5] [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994-10 October 1994 [8]</td>]]></html>
+	<text>1994-10 October 1994 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>lamotrigine</td>]]></html>
+	<text>lamotrigine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lamictal</td>]]></html>
+	<text>Lamictal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994-12-27 1994 - 12-27 [17]</td>]]></html>
+	<text>1994-12-27 1994 - 12-27 [17]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991-10 October 1991 [5] [8]</td>]]></html>
+	<text>1991-10 October 1991 [5] [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1995-05 May 1995 [8]</td>]]></html>
+	<text>1995-05 May 1995 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>levetiracetam</td>]]></html>
+	<text>levetiracetam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Keppra</td>]]></html>
+	<text>Keppra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999-11-30 1999 - 11-30 [18]</td>]]></html>
+	<text>1999-11-30 1999 - 11-30 [18]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-09-29 2000 - 09-29 [5] [19]</td>]]></html>
+	<text>2000-09-29 2000 - 09-29 [5] [19]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-09-29 2000 - 09-29 [19]</td>]]></html>
+	<text>2000-09-29 2000 - 09-29 [19]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>mephenytoin</td>]]></html>
+	<text>mephenytoin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mesantoin</td>]]></html>
+	<text>Mesantoin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946-10-23 1946 - 10-23 [20]</td>]]></html>
+	<text>1946-10-23 1946 - 10-23 [20]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>metharbital</td>]]></html>
+	<text>metharbital</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemonil</td>]]></html>
+	<text>Gemonil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1952 [21] [22]</td>]]></html>
+	<text>1952 [21] [22]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>methsuximide</td>]]></html>
+	<text>methsuximide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Celontin</td>]]></html>
+	<text>Celontin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1957-02-08 1957 - 02-08 [23]</td>]]></html>
+	<text>1957-02-08 1957 - 02-08 [23]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>methazolamide</td>]]></html>
+	<text>methazolamide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neptazane</td>]]></html>
+	<text>Neptazane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1959-01-26 1959 - 01-26 [24]</td>]]></html>
+	<text>1959-01-26 1959 - 01-26 [24]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>oxcarbazepine</td>]]></html>
+	<text>oxcarbazepine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trileptal</td>]]></html>
+	<text>Trileptal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-01-14 2000 - 01-14 [25]</td>]]></html>
+	<text>2000-01-14 2000 - 01-14 [25]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000 [5]</td>]]></html>
+	<text>2000 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>phenobarbital</td>]]></html>
+	<text>phenobarbital</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912 [5]</td>]]></html>
+	<text>1912 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920 [8]</td>]]></html>
+	<text>1920 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>phenytoin</td>]]></html>
+	<text>phenytoin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dilantin/Epanutin</td>]]></html>
+	<text>Dilantin/Epanutin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1938 [26] [8]</td>]]></html>
+	<text>1938 [26] [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1938 [5]</td>]]></html>
+	<text>1938 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1941 [8]</td>]]></html>
+	<text>1941 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>phensuximide</td>]]></html>
+	<text>phensuximide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Milontin</td>]]></html>
+	<text>Milontin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953 [27] [28]</td>]]></html>
+	<text>1953 [27] [28]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>pregabalin</td>]]></html>
+	<text>pregabalin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyrica</td>]]></html>
+	<text>Lyrica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004-12-30 2004 - 12-30 [29]</td>]]></html>
+	<text>2004-12-30 2004 - 12-30 [29]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004-07-06 2004 - 07-06 [5] [30]</td>]]></html>
+	<text>2004-07-06 2004 - 07-06 [5] [30]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004-07-06 2004 - 07-06 [30]</td>]]></html>
+	<text>2004-07-06 2004 - 07-06 [30]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>primidone</td>]]></html>
+	<text>primidone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mysoline</td>]]></html>
+	<text>Mysoline</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1954-03-08 1954 - 03-08 [31]</td>]]></html>
+	<text>1954-03-08 1954 - 03-08 [31]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1952 [5]</td>]]></html>
+	<text>1952 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953 [8]</td>]]></html>
+	<text>1953 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>sodium valproate</td>]]></html>
+	<text>sodium valproate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epilim</td>]]></html>
+	<text>Epilim</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1977-12 December 1977 [8]</td>]]></html>
+	<text>1977-12 December 1977 [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1967-06 June 1967 [8]</td>]]></html>
+	<text>1967-06 June 1967 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>stiripentol</td>]]></html>
+	<text>stiripentol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Diacomit</td>]]></html>
+	<text>Diacomit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-12-05 2001 - 12-05 [32]</td>]]></html>
+	<text>2001-12-05 2001 - 12-05 [32]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-12-05 2001 - 12-05 [32]</td>]]></html>
+	<text>2001-12-05 2001 - 12-05 [32]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>tiagabine</td>]]></html>
+	<text>tiagabine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gabitril</td>]]></html>
+	<text>Gabitril</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997-09-30 1997 - 09-30 [33]</td>]]></html>
+	<text>1997-09-30 1997 - 09-30 [33]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998 [5]</td>]]></html>
+	<text>1998 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997-11 November 1997 [8]</td>]]></html>
+	<text>1997-11 November 1997 [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>topiramate</td>]]></html>
+	<text>topiramate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Topamax</td>]]></html>
+	<text>Topamax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996-12-24 1996 - 12-24 [34]</td>]]></html>
+	<text>1996-12-24 1996 - 12-24 [34]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1995 [5]</td>]]></html>
+	<text>1995 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>trimethadione</td>]]></html>
+	<text>trimethadione</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tridione</td>]]></html>
+	<text>Tridione</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946-01-25 1946 - 01-25 [35]</td>]]></html>
+	<text>1946-01-25 1946 - 01-25 [35]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>valproic acid</td>]]></html>
+	<text>valproic acid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Depakene/Convulex</td>]]></html>
+	<text>Depakene/Convulex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978-02-28 1978 - 02-28 [36]</td>]]></html>
+	<text>1978-02-28 1978 - 02-28 [36]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993 [5]</td>]]></html>
+	<text>1993 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>vigabatrin</td>]]></html>
+	<text>vigabatrin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sabril</td>]]></html>
+	<text>Sabril</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989 [5]</td>]]></html>
+	<text>1989 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>zonisamide</td>]]></html>
+	<text>zonisamide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zonegran</td>]]></html>
+	<text>Zonegran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-03-27 2000 - 03-27 [37]</td>]]></html>
+	<text>2000-03-27 2000 - 03-27 [37]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005-03-10 2005 - 03-10 [5] [38]</td>]]></html>
+	<text>2005-03-10 2005 - 03-10 [5] [38]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005-03-10 2005 - 03-10 [38]</td>]]></html>
+	<text>2005-03-10 2005 - 03-10 [38]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Anticonvulsant - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Drug Brand US UK France</text>
+</context>
+<context>
+	<score>0.88041747</score>
+	<text>The following table lists anticonvulsant drugs together with the date their marketing was approved in the US, UK and France. Data for the UK and France is incomplete. In recent years, the European Medicines Agency has approved drugs throughout the European Union . Some of the drugs are no longer marketed.</text>
+</context>
+<context>
+	<score>0.79402936</score>
+	<text>Anticonvulsant</text>
+</context>
+<context>
+	<score>0.783252</score>
+	<text>[ edit ] Marketing approval history</text>
+</context>
+<context>
+	<score>0.7518162</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] Approval</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] Drugs</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] Diet</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] Devices</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] Marketing approval history</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7181714</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7162971</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70551974</score>
+	<text>The vagus nerve stimulator (VNS) is a device that sends electric impulses to the left vagus nerve in the neck via a lead implanted under the skin. It was FDA approved in 1997 as an adjunctive therapy for partial-onset epilepsy.</text>
+</context>
+<context>
+	<score>0.6433338</score>
+	<text>[ edit ] Devices</text>
+</context>
+<context>
+	<score>0.593585</score>
+	<text>The ketogenic diet is a strict medically supervised diet that has an anticonvulsant effect. It is typically used in children with refractory epilepsy.</text>
+</context>
+<context>
+	<score>0.55378604</score>
+	<text>[ edit ] Diet</text>
+</context>
+<context>
+	<score>0.52194685</score>
+	<text>Valpromide Valnoctamide</text>
+</context>
+<context>
+	<score>0.5181977</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4964755</score>
+	<text>Main article: Amides</text>
+</context>
+<context>
+	<score>0.47609842</score>
+	<text>[ edit ] Valproylamides (amide derivatives of valproate)</text>
+</context>
+<context>
+	<score>0.4673005</score>
+	<text>Drug Reference for FDA Approved Epilepsy Drugs Epilepsy Action: UK Anti-Epileptic Drugs List</text>
+</context>
+<context>
+	<score>0.45979676</score>
+	<text>Pheneturide Phenacemide</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Drug</th><th>Brand</th><th>US</th><th>UK</th><th>France</th></tr><tr><td><a href="../../../../articles/a/c/e/Acetazolamide.html" title="Acetazolamide">acetazolamide</a></td><td>Diamox</td><td><span style="display:none">1953-07-27</span><a href="../../../../articles/1/9/5/1953.html" title="1953">1953</a>-<a href="../../../../articles/j/u/l/July_27.html" title="July 27">07-27</a><sup id="cite_ref-NDA_008943_3-0" class="reference"><a href="#cite_note-NDA_008943-3" title="">[4]</a></sup></td><td>1988<sup id="cite_ref-EpilepsyAction_4-0" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/c/a/r/Carbamazepine.html" title="Carbamazepine">carbamazepine</a></td><td>Tegretol</td><td><span style="display:none">1974-07-15</span><a href="../../../../articles/1/9/7/1974.html" title="1974">1974</a>-<a href="../../../../articles/j/u/l/July_15.html" title="July 15">07-15</a><sup id="cite_ref-NDA_016608_5-0" class="reference"><a href="#cite_note-NDA_016608-5" title="">[6]</a></sup><sup id="cite_ref-Tegretol1978WJM_6-0" class="reference"><a href="#cite_note-Tegretol1978WJM-6" title="">[7]</a></sup></td><td>1965<sup id="cite_ref-EpilepsyAction_4-1" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td>1963<sup id="cite_ref-Loiseau_et_al_1999_7-0" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/c/l/o/Clobazam.html" title="Clobazam">clobazam</a></td><td>Frisium</td><td></td><td>1979<sup id="cite_ref-EpilepsyAction_4-2" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/c/l/o/Clonazepam.html" title="Clonazepam">clonazepam</a></td><td>Klonopin/Rivotril</td><td><span style="display:none">1975-06-04</span><a href="../../../../articles/1/9/7/1975.html" title="1975">1975</a>-<a href="../../../../articles/j/u/n/June_4.html" title="June 4">06-04</a><sup id="cite_ref-NDA_017533_8-0" class="reference"><a href="#cite_note-NDA_017533-8" title="">[9]</a></sup></td><td>1974<sup id="cite_ref-EpilepsyAction_4-3" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/d/i/a/Diazepam.html" title="Diazepam">diazepam</a></td><td>Valium</td><td><span style="display:none">1963-11-15</span><a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a>-<a href="../../../../articles/n/o/v/November_15.html" title="November 15">11-15</a><sup id="cite_ref-NDA_013263_9-0" class="reference"><a href="#cite_note-NDA_013263-9" title="">[10]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/d/i/v/Divalproex_sodium.html" class="mw-redirect" title="Divalproex sodium">divalproex sodium</a></td><td>Depakote</td><td><span style="display:none">1983-03-10</span><a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a>-<a href="../../../../articles/m/a/r/March_10.html" title="March 10">03-10</a><sup id="cite_ref-NDA_018723_10-0" class="reference"><a href="#cite_note-NDA_018723-10" title="">[11]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/e/t/h/Ethosuximide.html" title="Ethosuximide">ethosuximide</a></td><td>Zarontin</td><td><span style="display:none">1960-11-02</span><a href="../../../../articles/1/9/6/1960.html" title="1960">1960</a>-<a href="../../../../articles/n/o/v/November_2.html" title="November 2">11-02</a><sup id="cite_ref-NDA_012380_11-0" class="reference"><a href="#cite_note-NDA_012380-11" title="">[12]</a></sup></td><td>1955<sup id="cite_ref-EpilepsyAction_4-4" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td>1962<sup id="cite_ref-Loiseau_et_al_1999_7-1" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/e/t/h/Ethotoin.html" title="Ethotoin">ethotoin</a></td><td>Peganone</td><td><span style="display:none">1957-04-22</span><a href="../../../../articles/1/9/5/1957.html" title="1957">1957</a>-<a href="../../../../articles/a/p/r/April_22.html" title="April 22">04-22</a><sup id="cite_ref-NDA_010841_12-0" class="reference"><a href="#cite_note-NDA_010841-12" title="">[13]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/f/e/l/Felbamate.html" title="Felbamate">felbamate</a></td><td>Felbatol</td><td><span style="display:none">1993-07-29</span><a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a>-<a href="../../../../articles/j/u/l/July_29.html" title="July 29">07-29</a><sup id="cite_ref-NDA_020189_13-0" class="reference"><a href="#cite_note-NDA_020189-13" title="">[14]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/f/o/s/Fosphenytoin.html" title="Fosphenytoin">fosphenytoin</a></td><td>Cerebyx</td><td><span style="display:none">1996-08-05</span><a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a>-<a href="../../../../articles/a/u/g/August_5.html" title="August 5">08-05</a><sup id="cite_ref-NDA_020450_14-0" class="reference"><a href="#cite_note-NDA_020450-14" title="">[15]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/g/a/b/Gabapentin.html" title="Gabapentin">gabapentin</a></td><td>Neurontin</td><td><span style="display:none">1993-12-30</span><a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a>-<a href="../../../../articles/d/e/c/December_30.html" title="December 30">12-30</a><sup id="cite_ref-NDA_020235_15-0" class="reference"><a href="#cite_note-NDA_020235-15" title="">[16]</a></sup></td><td><span style="display:none">1993-05</span>May 1993<sup id="cite_ref-EpilepsyAction_4-5" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup><sup id="cite_ref-Loiseau_et_al_1999_7-2" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td><td><span style="display:none">1994-10</span>October 1994<sup id="cite_ref-Loiseau_et_al_1999_7-3" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/l/a/m/Lamotrigine.html" title="Lamotrigine">lamotrigine</a></td><td>Lamictal</td><td><span style="display:none">1994-12-27</span><a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a>-<a href="../../../../articles/d/e/c/December_27.html" title="December 27">12-27</a><sup id="cite_ref-NDA_020241_16-0" class="reference"><a href="#cite_note-NDA_020241-16" title="">[17]</a></sup></td><td><span style="display:none">1991-10</span>October 1991<sup id="cite_ref-EpilepsyAction_4-6" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup><sup id="cite_ref-Loiseau_et_al_1999_7-4" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td><td><span style="display:none">1995-05</span>May 1995<sup id="cite_ref-Loiseau_et_al_1999_7-5" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/l/e/v/Levetiracetam.html" title="Levetiracetam">levetiracetam</a></td><td>Keppra</td><td><span style="display:none">1999-11-30</span><a href="../../../../articles/1/9/9/1999.html" title="1999">1999</a>-<a href="../../../../articles/n/o/v/November_30.html" title="November 30">11-30</a><sup id="cite_ref-NDA_021035_17-0" class="reference"><a href="#cite_note-NDA_021035-17" title="">[18]</a></sup></td><td><span style="display:none">2000-09-29</span><a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a>-<a href="../../../../articles/s/e/p/September_29.html" title="September 29">09-29</a><sup id="cite_ref-EpilepsyAction_4-7" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup><sup id="cite_ref-keppra_18-0" class="reference"><a href="#cite_note-keppra-18" title="">[19]</a></sup></td><td><span style="display:none">2000-09-29</span><a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a>-<a href="../../../../articles/s/e/p/September_29.html" title="September 29">09-29</a><sup id="cite_ref-keppra_18-1" class="reference"><a href="#cite_note-keppra-18" title="">[19]</a></sup></td></tr><tr><td><a href="../../../../articles/m/e/p/Mephenytoin.html" title="Mephenytoin">mephenytoin</a></td><td>Mesantoin</td><td><span style="display:none">1946-10-23</span><a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a>-<a href="../../../../articles/o/c/t/October_23.html" title="October 23">10-23</a><sup id="cite_ref-NDA_006008_19-0" class="reference"><a href="#cite_note-NDA_006008-19" title="">[20]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/e/t/Metharbital.html" title="Metharbital">metharbital</a></td><td>Gemonil</td><td>1952<sup id="cite_ref-NDA_008322_20-0" class="reference"><a href="#cite_note-NDA_008322-20" title="">[21]</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21" title="">[22]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/e/t/Methsuximide.html" class="mw-redirect" title="Methsuximide">methsuximide</a></td><td>Celontin</td><td><span style="display:none">1957-02-08</span><a href="../../../../articles/1/9/5/1957.html" title="1957">1957</a>-<a href="../../../../articles/f/e/b/February_8.html" title="February 8">02-08</a><sup id="cite_ref-NDA_010596_22-0" class="reference"><a href="#cite_note-NDA_010596-22" title="">[23]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/e/t/Methazolamide.html" title="Methazolamide">methazolamide</a></td><td>Neptazane</td><td><span style="display:none">1959-01-26</span><a href="../../../../articles/1/9/5/1959.html" title="1959">1959</a>-<a href="../../../../articles/j/a/n/January_26.html" title="January 26">01-26</a><sup id="cite_ref-NDA_011721_23-0" class="reference"><a href="#cite_note-NDA_011721-23" title="">[24]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/o/x/c/Oxcarbazepine.html" title="Oxcarbazepine">oxcarbazepine</a></td><td>Trileptal</td><td><span style="display:none">2000-01-14</span><a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a>-<a href="../../../../articles/j/a/n/January_14.html" title="January 14">01-14</a><sup id="cite_ref-NDA_021014_24-0" class="reference"><a href="#cite_note-NDA_021014-24" title="">[25]</a></sup></td><td>2000<sup id="cite_ref-EpilepsyAction_4-8" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/p/h/e/Phenobarbital.html" title="Phenobarbital">phenobarbital</a></td><td></td><td></td><td>1912<sup id="cite_ref-EpilepsyAction_4-9" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td>1920<sup id="cite_ref-Loiseau_et_al_1999_7-6" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/p/h/e/Phenytoin.html" title="Phenytoin">phenytoin</a></td><td>Dilantin/Epanutin</td><td>1938<sup id="cite_ref-NDA_008762_25-0" class="reference"><a href="#cite_note-NDA_008762-25" title="">[26]</a></sup><sup id="cite_ref-Loiseau_et_al_1999_7-7" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td><td>1938<sup id="cite_ref-EpilepsyAction_4-10" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td>1941<sup id="cite_ref-Loiseau_et_al_1999_7-8" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/p/h/e/Phensuximide.html" title="Phensuximide">phensuximide</a></td><td>Milontin</td><td>1953<sup id="cite_ref-NDA_008855_26-0" class="reference"><a href="#cite_note-NDA_008855-26" title="">[27]</a></sup><sup id="cite_ref-isbn0824785495_27-0" class="reference"><a href="#cite_note-isbn0824785495-27" title="">[28]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/p/r/e/Pregabalin.html" title="Pregabalin">pregabalin</a></td><td>Lyrica</td><td><span style="display:none">2004-12-30</span><a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a>-<a href="../../../../articles/d/e/c/December_30.html" title="December 30">12-30</a><sup id="cite_ref-NDA_021446_28-0" class="reference"><a href="#cite_note-NDA_021446-28" title="">[29]</a></sup></td><td><span style="display:none">2004-07-06</span><a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a>-<a href="../../../../articles/j/u/l/July_6.html" title="July 6">07-06</a><sup id="cite_ref-EpilepsyAction_4-11" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup><sup id="cite_ref-lyrica_29-0" class="reference"><a href="#cite_note-lyrica-29" title="">[30]</a></sup></td><td><span style="display:none">2004-07-06</span><a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a>-<a href="../../../../articles/j/u/l/July_6.html" title="July 6">07-06</a><sup id="cite_ref-lyrica_29-1" class="reference"><a href="#cite_note-lyrica-29" title="">[30]</a></sup></td></tr><tr><td><a href="../../../../articles/p/r/i/Primidone.html" title="Primidone">primidone</a></td><td>Mysoline</td><td><span style="display:none">1954-03-08</span><a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a>-<a href="../../../../articles/m/a/r/March_8.html" title="March 8">03-08</a><sup id="cite_ref-NDA_009170_30-0" class="reference"><a href="#cite_note-NDA_009170-30" title="">[31]</a></sup></td><td>1952<sup id="cite_ref-EpilepsyAction_4-12" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td>1953<sup id="cite_ref-Loiseau_et_al_1999_7-9" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/s/o/d/Sodium_valproate.html" title="Sodium valproate">sodium valproate</a></td><td>Epilim</td><td></td><td><span style="display:none">1977-12</span>December 1977<sup id="cite_ref-Loiseau_et_al_1999_7-10" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td><td><span style="display:none">1967-06</span>June 1967<sup id="cite_ref-Loiseau_et_al_1999_7-11" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/s/t/i/Stiripentol.html" title="Stiripentol">stiripentol</a></td><td>Diacomit</td><td></td><td><span style="display:none">2001-12-05</span><a href="../../../../articles/2/0/0/2001.html" title="2001">2001</a>-<a href="../../../../articles/d/e/c/December_5.html" title="December 5">12-05</a><sup id="cite_ref-diacomit_31-0" class="reference"><a href="#cite_note-diacomit-31" title="">[32]</a></sup></td><td><span style="display:none">2001-12-05</span><a href="../../../../articles/2/0/0/2001.html" title="2001">2001</a>-<a href="../../../../articles/d/e/c/December_5.html" title="December 5">12-05</a><sup id="cite_ref-diacomit_31-1" class="reference"><a href="#cite_note-diacomit-31" title="">[32]</a></sup></td></tr><tr><td><a href="../../../../articles/t/i/a/Tiagabine.html" title="Tiagabine">tiagabine</a></td><td>Gabitril</td><td><span style="display:none">1997-09-30</span><a href="../../../../articles/1/9/9/1997.html" title="1997">1997</a>-<a href="../../../../articles/s/e/p/September_30.html" title="September 30">09-30</a><sup id="cite_ref-NDA_020646_32-0" class="reference"><a href="#cite_note-NDA_020646-32" title="">[33]</a></sup></td><td>1998<sup id="cite_ref-EpilepsyAction_4-13" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td><span style="display:none">1997-11</span>November 1997<sup id="cite_ref-Loiseau_et_al_1999_7-12" class="reference"><a href="#cite_note-Loiseau_et_al_1999-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/t/o/p/Topiramate.html" title="Topiramate">topiramate</a></td><td>Topamax</td><td><span style="display:none">1996-12-24</span><a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a>-<a href="../../../../articles/d/e/c/December_24.html" title="December 24">12-24</a><sup id="cite_ref-NDA_020505_33-0" class="reference"><a href="#cite_note-NDA_020505-33" title="">[34]</a></sup></td><td>1995<sup id="cite_ref-EpilepsyAction_4-14" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/t/r/i/Trimethadione.html" title="Trimethadione">trimethadione</a></td><td>Tridione</td><td><span style="display:none">1946-01-25</span><a href="../../../../articles/1/9/4/1946.html" title="1946">1946</a>-<a href="../../../../articles/j/a/n/January_25.html" title="January 25">01-25</a><sup id="cite_ref-NDA_005856_34-0" class="reference"><a href="#cite_note-NDA_005856-34" title="">[35]</a></sup></td><td></td><td></td></tr><tr><td><a href="../../../../articles/v/a/l/Valproic_acid.html" title="Valproic acid">valproic acid</a></td><td>Depakene/Convulex</td><td><span style="display:none">1978-02-28</span><a href="../../../../articles/1/9/7/1978.html" title="1978">1978</a>-<a href="../../../../articles/f/e/b/February_28.html" title="February 28">02-28</a><sup id="cite_ref-NDA_018081_35-0" class="reference"><a href="#cite_note-NDA_018081-35" title="">[36]</a></sup></td><td>1993<sup id="cite_ref-EpilepsyAction_4-15" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/v/i/g/Vigabatrin.html" title="Vigabatrin">vigabatrin</a></td><td>Sabril</td><td></td><td>1989<sup id="cite_ref-EpilepsyAction_4-16" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/z/o/n/Zonisamide.html" title="Zonisamide">zonisamide</a></td><td>Zonegran</td><td><span style="display:none">2000-03-27</span><a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a>-<a href="../../../../articles/m/a/r/March_27.html" title="March 27">03-27</a><sup id="cite_ref-NDA_020789_36-0" class="reference"><a href="#cite_note-NDA_020789-36" title="">[37]</a></sup></td><td><span style="display:none">2005-03-10</span><a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a>-<a href="../../../../articles/m/a/r/March_10.html" title="March 10">03-10</a><sup id="cite_ref-EpilepsyAction_4-17" class="reference"><a href="#cite_note-EpilepsyAction-4" title="">[5]</a></sup><sup id="cite_ref-zonegran_37-0" class="reference"><a href="#cite_note-zonegran-37" title="">[38]</a></sup></td><td><span style="display:none">2005-03-10</span><a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a>-<a href="../../../../articles/m/a/r/March_10.html" title="March 10">03-10</a><sup id="cite_ref-zonegran_37-1" class="reference"><a href="#cite_note-zonegran-37" title="">[38]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

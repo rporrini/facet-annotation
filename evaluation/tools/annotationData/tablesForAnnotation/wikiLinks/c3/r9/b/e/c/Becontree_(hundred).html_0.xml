@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/b/e/c/Becontree_(hundred).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.7407407 1, 0.6666667 0 2, 0.4938272 1 2, 0.2962963 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/e/c/Becontree_(hundred).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Parish</th>]]></html>
+	<text>Parish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Today</th>]]></html>
+	<text>Today</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barking</td>]]></html>
+	<text>Barking</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barking Town Urban District</td>]]></html>
+	<text>Barking Town Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barking and Dagenham</td>]]></html>
+	<text>Barking and Dagenham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dagenham</td>]]></html>
+	<text>Dagenham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romford Rural District</td>]]></html>
+	<text>Romford Rural District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barking and Dagenham</td>]]></html>
+	<text>Barking and Dagenham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Ham</td>]]></html>
+	<text>East Ham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Ham Urban District</td>]]></html>
+	<text>East Ham Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newham</td>]]></html>
+	<text>Newham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ilford</td>]]></html>
+	<text>Ilford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ilford Urban District</td>]]></html>
+	<text>Ilford Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Redbridge</td>]]></html>
+	<text>Redbridge</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leyton</td>]]></html>
+	<text>Leyton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leyton Urban District</td>]]></html>
+	<text>Leyton Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waltham Forest</td>]]></html>
+	<text>Waltham Forest</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Little Ilford</td>]]></html>
+	<text>Little Ilford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Ham Urban District</td>]]></html>
+	<text>East Ham Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newham</td>]]></html>
+	<text>Newham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Walthamstow</td>]]></html>
+	<text>Walthamstow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walthamstow Urban District</td>]]></html>
+	<text>Walthamstow Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waltham Forest</td>]]></html>
+	<text>Waltham Forest</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wanstead</td>]]></html>
+	<text>Wanstead</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wanstead Urban District</td>]]></html>
+	<text>Wanstead Urban District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Redbridge</td>]]></html>
+	<text>Redbridge</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Ham</td>]]></html>
+	<text>West Ham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>County Borough of West Ham</td>]]></html>
+	<text>County Borough of West Ham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newham</td>]]></html>
+	<text>Newham</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Becontree (hundred) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Parish District Today</text>
+</context>
+<context>
+	<score>0.8839924</score>
+	<text>The hundreds of England declined in administrative use because of the rise of various ad-hoc boards. By 1894 they were effectively replaced by a system of uniform local government districts, which were consolidated over time and finally replaced in 1965 by the London boroughs which are still in use today.</text>
+</context>
+<context>
+	<score>0.80520916</score>
+	<text>Becontree (hundred)</text>
+</context>
+<context>
+	<score>0.786087</score>
+	<text>[ edit ] Replacement</text>
+</context>
+<context>
+	<score>0.7544117</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7332589</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7332589</score>
+	<text>[ edit ] Replacement</text>
+</context>
+<context>
+	<score>0.7332589</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>In 1887 the area is recorded as 37,705 acres (152.59 km ) and the population as 221,217.</text>
+</context>
+<context>
+	<score>0.6451032</score>
+	<text>In 1840 the hundred was included in the Metropolitan Police District by the Metropolitan Police Act 1839 . The population of the hundred in 1851 was 46,777 and in 1861, 73,023.</text>
+</context>
+<context>
+	<score>0.60619855</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5886016</score>
+	<text>In 1831, the hundred occupied 35,950 acres (145.5 km ).</text>
+</context>
+<context>
+	<score>0.5548736</score>
+	<text>The River Lee formed the western boundary with the Tower division of the Ossulstone hundred of Middlesex . The River Roding runs roughly north to south through the area.</text>
+</context>
+<context>
+	<score>0.522792</score>
+	<text>In the east it borded the Havering liberty and to the north Waltham and Ongar hundreds.</text>
+</context>
+<context>
+	<score>0.49075264</score>
+	<text>totalling 402 acres (1.63 km ).</text>
+</context>
+<context>
+	<score>0.47659442</score>
+	<text>The southern boundary with the Blackheath hundred of Kent was the River Thames , however there was also a land boundary; the Woolwich parish included two small detached parts north of the river,</text>
+</context>
+<context>
+	<score>0.45379457</score>
+	<text>After the area of the liberty was removed, the hundred contained the parishes of Barking, Dagenham, East Ham, Ilford (also known as Great Ilford), Leyton, Little Ilford, Walthamstow, Wanstead and West Ham.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Parish</th><th>District</th><th>Today</th></tr><tr><td><a href="../../../../articles/b/a/r/Barking.html" title="Barking">Barking</a></td><td><a href="../../../../articles/m/u/n/Municipal_Borough_of_Barking_2577.html" title="Municipal Borough of Barking">Barking Town Urban District</a></td><td>Barking and Dagenham</td></tr><tr><td><a href="../../../../articles/d/a/g/Dagenham.html" title="Dagenham">Dagenham</a></td><td><a href="../../../../articles/r/o/m/Romford_Rural_District_81fc.html" title="Romford Rural District">Romford Rural District</a></td><td>Barking and Dagenham</td></tr><tr><td><a href="../../../../articles/e/a/s/East_Ham_9ef0.html" title="East Ham">East Ham</a></td><td><a href="../../../../articles/c/o/u/County_Borough_of_East_Ham_977f.html" title="County Borough of East Ham">East Ham Urban District</a></td><td>Newham</td></tr><tr><td><a href="../../../../articles/i/l/f/Ilford.html" title="Ilford">Ilford</a></td><td><a href="../../../../articles/m/u/n/Municipal_Borough_of_Ilford_4c90.html" title="Municipal Borough of Ilford">Ilford Urban District</a></td><td>Redbridge</td></tr><tr><td><a href="../../../../articles/l/e/y/Leyton.html" title="Leyton">Leyton</a></td><td><a href="../../../../articles/m/u/n/Municipal_Borough_of_Leyton_ee55.html" title="Municipal Borough of Leyton">Leyton Urban District</a></td><td>Waltham Forest</td></tr><tr><td><a href="../../../../articles/l/i/t/Little_Ilford_5052.html" title="Little Ilford">Little Ilford</a></td><td>East Ham Urban District</td><td>Newham</td></tr><tr><td><a href="../../../../articles/w/a/l/Walthamstow.html" title="Walthamstow">Walthamstow</a></td><td><a href="../../../../articles/m/u/n/Municipal_Borough_of_Walthamstow_dbb0.html" title="Municipal Borough of Walthamstow">Walthamstow Urban District</a></td><td>Waltham Forest</td></tr><tr><td><a href="../../../../articles/w/a/n/Wanstead.html" title="Wanstead">Wanstead</a></td><td><a href="../../../../articles/w/a/n/Wanstead_Urban_District_414b.html" class="mw-redirect" title="Wanstead Urban District">Wanstead Urban District</a></td><td>Redbridge</td></tr><tr><td><a href="../../../../articles/w/e/s/West_Ham_a0cd.html" title="West Ham">West Ham</a></td><td><a href="../../../../articles/c/o/u/County_Borough_of_West_Ham_2c11.html" title="County Borough of West Ham">County Borough of West Ham</a></td><td>Newham</td></tr></table>]]>
+</htmlSnippet>
+</entity>

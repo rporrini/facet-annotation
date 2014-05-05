@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r13/b/e/r/Berlin_population_statistics.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/e/r/Berlin_population_statistics.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Borough</th>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population 30 November 2005</th>]]></html>
+	<text>Population 30 November 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area in km²</th>]]></html>
+	<text>Area in km&#178;</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charlottenburg-Wilmersdorf</td>]]></html>
+	<text>Charlottenburg-Wilmersdorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>315,473</td>]]></html>
+	<text>315,473</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.72</td>]]></html>
+	<text>64.72</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Friedrichshain-Kreuzberg</td>]]></html>
+	<text>Friedrichshain-Kreuzberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>261,734</td>]]></html>
+	<text>261,734</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.16</td>]]></html>
+	<text>20.16</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lichtenberg</td>]]></html>
+	<text>Lichtenberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>258,926</td>]]></html>
+	<text>258,926</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.29</td>]]></html>
+	<text>52.29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marzahn-Hellersdorf</td>]]></html>
+	<text>Marzahn-Hellersdorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250,547</td>]]></html>
+	<text>250,547</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61.74</td>]]></html>
+	<text>61.74</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mitte</td>]]></html>
+	<text>Mitte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>323,187</td>]]></html>
+	<text>323,187</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.47</td>]]></html>
+	<text>39.47</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Neukölln</td>]]></html>
+	<text>Neuk&#246;lln</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>305,940</td>]]></html>
+	<text>305,940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44.93</td>]]></html>
+	<text>44.93</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pankow</td>]]></html>
+	<text>Pankow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>354,053</td>]]></html>
+	<text>354,053</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.01</td>]]></html>
+	<text>103.01</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Reinickendorf</td>]]></html>
+	<text>Reinickendorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>244,430</td>]]></html>
+	<text>244,430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.46</td>]]></html>
+	<text>89.46</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spandau</td>]]></html>
+	<text>Spandau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>225,097</td>]]></html>
+	<text>225,097</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.91</td>]]></html>
+	<text>91.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Steglitz-Zehlendorf</td>]]></html>
+	<text>Steglitz-Zehlendorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>288,862</td>]]></html>
+	<text>288,862</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.50</td>]]></html>
+	<text>102.50</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tempelhof-Schöneberg</td>]]></html>
+	<text>Tempelhof-Sch&#246;neberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>333,330</td>]]></html>
+	<text>333,330</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53.09</td>]]></html>
+	<text>53.09</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Treptow-Köpenick</td>]]></html>
+	<text>Treptow-K&#246;penick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>235,411</td>]]></html>
+	<text>235,411</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168.42</td>]]></html>
+	<text>168.42</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berlin</td>]]></html>
+	<text>Berlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,396,990</td>]]></html>
+	<text>3,396,990</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>891.82</td>]]></html>
+	<text>891.82</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Berlin population statistics - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Borough Population 30 November 2005 Area in km</text>
+</context>
+<context>
+	<score>0.8787597</score>
+	<text>in Kreuzberg</text>
+</context>
+<context>
+	<score>0.8120774</score>
+	<text>Berlin population statistics</text>
+</context>
+<context>
+	<score>0.78176737</score>
+	<text>Berliners at the Tiergarten</text>
+</context>
+<context>
+	<score>0.7655426</score>
+	<text>[ edit ] Historical development of Berlin&apos;s population</text>
+</context>
+<context>
+	<score>0.7496387</score>
+	<text>[ edit ] Historical development of Berlin&apos;s population</text>
+</context>
+<context>
+	<score>0.7496387</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73448366</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6724086</score>
+	<text>Berlin population statistics</text>
+</context>
+<context>
+	<score>0.60355663</score>
+	<text>Chart showing Berlin&apos;s population fluctuations, 1880 to 2006</text>
+</context>
+<context>
+	<score>0.5323406</score>
+	<text>[ edit ] References</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:right;"><tr style="text-align:center;"><th><b><a href="../../../../articles/b/o/r/Borough.html" title="Borough">Borough</a></b></th><th>Population<br /><small>30 November 2005</small></th><th>Area<br />in km²</th></tr><tr><td align="left"><a href="../../../../articles/c/h/a/Charlottenburg-Wilmersdorf_54d3.html" title="Charlottenburg-Wilmersdorf">Charlottenburg-Wilmersdorf</a></td><td>315,473</td><td>64.72</td></tr><tr><td align="left"><a href="../../../../articles/f/r/i/Friedrichshain-Kreuzberg_e421.html" title="Friedrichshain-Kreuzberg">Friedrichshain-Kreuzberg</a></td><td>261,734</td><td>20.16</td></tr><tr><td align="left"><a href="../../../../articles/l/i/c/Lichtenberg.html" title="Lichtenberg">Lichtenberg</a></td><td>258,926</td><td>52.29</td></tr><tr><td align="left"><a href="../../../../articles/m/a/r/Marzahn-Hellersdorf_3b3e.html" title="Marzahn-Hellersdorf">Marzahn-Hellersdorf</a></td><td>250,547</td><td>61.74</td></tr><tr><td align="left"><a href="../../../../articles/m/i/t/Mitte.html" title="Mitte">Mitte</a></td><td>323,187</td><td>39.47</td></tr><tr><td align="left"><a href="../../../../articles/n/e/u/Neuk%C3%B6lln.html" title="Neukölln">Neukölln</a></td><td>305,940</td><td>44.93</td></tr><tr><td align="left"><a href="../../../../articles/p/a/n/Pankow.html" title="Pankow">Pankow</a></td><td>354,053</td><td>103.01</td></tr><tr><td align="left"><a href="../../../../articles/r/e/i/Reinickendorf.html" title="Reinickendorf">Reinickendorf</a></td><td>244,430</td><td>89.46</td></tr><tr><td align="left"><a href="../../../../articles/s/p/a/Spandau.html" title="Spandau">Spandau</a></td><td>225,097</td><td>91.91</td></tr><tr><td align="left"><a href="../../../../articles/s/t/e/Steglitz-Zehlendorf_6f04.html" title="Steglitz-Zehlendorf">Steglitz-Zehlendorf</a></td><td>288,862</td><td>102.50</td></tr><tr><td align="left"><a href="../../../../articles/t/e/m/Tempelhof-Sch%C3%B6neberg_22a2.html" title="Tempelhof-Schöneberg">Tempelhof-Schöneberg</a></td><td>333,330</td><td>53.09</td></tr><tr><td align="left"><a href="../../../../articles/t/r/e/Treptow-K%C3%B6penick_122e.html" title="Treptow-Köpenick">Treptow-Köpenick</a></td><td>235,411</td><td>168.42</td></tr><tr><td align="left"><a href="../../../../articles/b/e/r/Berlin.html" title="Berlin">Berlin</a></td><td>3,396,990</td><td>891.82</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,63 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="3">
+<anno name="wordnet_scale_113850304" value="1.0"> </anno>
+<anno name="wikicategory_Musical_keys" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="2">
+<anno name="wikicategory_Études_by_Frédéric_Chopin" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wordnet_scale_113850304" value="1.0"> </anno>
+<anno name="wikicategory_Musical_keys" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wikicategory_Études_by_Frédéric_Chopin" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Étude_Op._25,_No._1_(Chopin)</entity>
+<entity>A-flat_major</entity>
+<entity>Étude_Op._25,_No._7_(Chopin)</entity>
+<entity>C-sharp_minor</entity>
+</row>
+<row>
+<entity>Étude_Op._25,_No._2_(Chopin)</entity>
+<entity>F_minor</entity>
+<entity>Étude_Op._25,_No._8_(Chopin)</entity>
+<entity>D-flat_major</entity>
+</row>
+<row>
+<entity>Étude_Op._25,_No._3_(Chopin)</entity>
+<entity>F_major</entity>
+<entity>Étude_Op._25,_No._9_(Chopin)</entity>
+<entity>G-flat_major</entity>
+</row>
+<row>
+<entity>Étude_Op._25,_No._4_(Chopin)</entity>
+<entity>A_minor</entity>
+<entity>Étude_Op._25,_No._10_(Chopin)</entity>
+<entity>B_minor</entity>
+</row>
+<row>
+<entity>Étude_Op._25,_No._5_(Chopin)</entity>
+<entity>E_minor</entity>
+<entity>Étude_Op._25,_No._11_(Chopin)</entity>
+<entity>A_minor</entity>
+</row>
+<row>
+<entity>Étude_Op._25,_No._6_(Chopin)</entity>
+<entity>G-sharp_minor</entity>
+<entity>Étude_Op._25,_No._12_(Chopin)</entity>
+<entity>C_minor</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

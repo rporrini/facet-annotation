@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/m/o/o/Moon_landing.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 2, 0.8333333 0 4, 0.75 5, 0.75 0 5, 0.6875 2 5, 0.625 4 5, 0.18333334 2, 0.16666667 4, 0.15277778 2 4, 0.13333334 3, 0.13333334 0 3, 0.12222224 2 3, 0.11666667 0 1, 0.11111111 3 4, 0.10000001 3 5, 0.0875 1 5, 0.023333333 1, 0.02138889 1 2, 0.019444445 1 4, 0.015555556 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/o/Moon_landing.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>U.S. Mission</th>]]></html>
+	<text>U.S. Mission</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mass (kg)</th>]]></html>
+	<text>Mass (kg)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Booster</th>]]></html>
+	<text>Booster</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launched</th>]]></html>
+	<text>Launched</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mission Goal</th>]]></html>
+	<text>Mission Goal</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Mission Result</th>]]></html>
+	<text>Mission Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lunar Orbiter 1</td>]]></html>
+	<text>Lunar Orbiter 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386</td>]]></html>
+	<text>386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas - Agena</td>]]></html>
+	<text>Atlas - Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 Aug 1966</td>]]></html>
+	<text>10 Aug 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 1160 km X 189 km x 12 deg orbit, 208 m period, 80 day photography mission</td>]]></html>
+	<text>Success - 1160 km X 189 km x 12 deg orbit, 208 m period, 80 day photography mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lunar Orbiter 2</td>]]></html>
+	<text>Lunar Orbiter 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386</td>]]></html>
+	<text>386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas - Agena</td>]]></html>
+	<text>Atlas - Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>06 Nov 1966</td>]]></html>
+	<text>06 Nov 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 1860 km X 52 km x 12 deg orbit, 208 m period, 339 day photography mission</td>]]></html>
+	<text>Success - 1860 km X 52 km x 12 deg orbit, 208 m period, 339 day photography mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lunar Orbiter 3</td>]]></html>
+	<text>Lunar Orbiter 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386</td>]]></html>
+	<text>386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas - Agena</td>]]></html>
+	<text>Atlas - Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>05 Feb 1967</td>]]></html>
+	<text>05 Feb 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 1860 km X 52 km x 21 deg orbit, 208 m period, 246 day photography mission</td>]]></html>
+	<text>Success - 1860 km X 52 km x 21 deg orbit, 208 m period, 246 day photography mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lunar Orbiter 4</td>]]></html>
+	<text>Lunar Orbiter 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386</td>]]></html>
+	<text>386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas - Agena</td>]]></html>
+	<text>Atlas - Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>04 May 1967</td>]]></html>
+	<text>04 May 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 6111 km X 2706 km x 86 deg orbit, 721 m period, 180 day photography mission</td>]]></html>
+	<text>Success - 6111 km X 2706 km x 86 deg orbit, 721 m period, 180 day photography mission</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lunar Orbiter 5</td>]]></html>
+	<text>Lunar Orbiter 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386</td>]]></html>
+	<text>386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas - Agena</td>]]></html>
+	<text>Atlas - Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>01 Aug 1967</td>]]></html>
+	<text>01 Aug 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lunar orbiter</td>]]></html>
+	<text>Lunar orbiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Success - 6023 km X 195 km x 85 deg orbit, 510 m period, 183 day photography mission</td>]]></html>
+	<text>Success - 6023 km X 195 km x 85 deg orbit, 510 m period, 183 day photography mission</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Moon landing - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>U.S. Mission Mass (kg) Booster Launched Mission Goal Mission Result</text>
+</context>
+<context>
+	<score>0.88033396</score>
+	<text>Earthrise, 24 December 1968 (NASA)</text>
+</context>
+<context>
+	<score>0.78939396</score>
+	<text>Moon landing</text>
+</context>
+<context>
+	<score>0.7833643</score>
+	<text>[ edit ] U.S. lunar orbit satellites (1966-1967)</text>
+</context>
+<context>
+	<score>0.7519917</score>
+	<text>Apollo 8 carried out the first manned orbit of the Moon on December 24 , 1968 , certifying the Saturn V booster for manned use. Apollo 10 then performed a full dress rehearsal of a manned moon landing in May 1969. This mission stopped short at ten miles altitude above the lunar surface, performing necessary low-altitude mapping of trajectory-altering mascons using a factory prototype lunar module that was too overweight to allow a successful landing. With the failure of the unmanned Soviet sample return moon landing attempt Luna 15 in July 1969, the stage was set for Apollo 11 .</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Scientific background</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Political background</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S. unmanned hard landings (1958-1965)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S.S.R. unmanned hard landings (1958-1966)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] American unmanned soft landings (1966-1968)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Transition From Direct Ascent Landings To Lunar Orbit Operations (1966)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet lunar orbit satellites (1966-1974)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet Circumlunar Loop Flights (1967-1970)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] U.S. lunar orbit satellites (1966-1967)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] American manned Moon landings (1969-1972)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Soviet unmanned soft landings (1969-1976)</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Future plans</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Moon landing hoax accusations</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7133643</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Zond 5 was the first spacecraft to carry life from Earth to the vicinity of the Moon. Believing a Soviet manned lunar flight was imminent in late 1968, NASA changed the flight plan of Apollo 8 from an Earth-orbit mission to a risky lunar orbit mission.</text>
+</context>
+<context>
+	<score>0.64372784</score>
+	<text>[ edit ] Soviet Circumlunar Loop Flights (1967-1970)</text>
+</context>
+<context>
+	<score>0.605195</score>
+	<text>[ edit ] American manned Moon landings (1969-1972)</text>
+</context>
+<context>
+	<score>0.5940794</score>
+	<text>Luna 10 became the first spacecraft to orbit the Moon on April 3 , 1966 .</text>
+</context>
+<context>
+	<score>0.5543606</score>
+	<text>[ edit ] Soviet lunar orbit satellites (1966-1974)</text>
+</context>
+<context>
+	<score>0.5225856</score>
+	<text>In contrast, manned vehicles need additional fuel after a lunar landing to enable a return trip back to Earth for the crew. Leaving this massive amount of required Earth-return fuel in lunar orbit until it is actually used later in the mission is far more efficient than taking such fuel down to the lunar surface in a Moon landing and then hauling it all back into space yet again, working against lunar gravity both ways. Such considerations lead logically to a lunar orbit rendezvous mission profile for a manned Moon landing. Accordingly, beginning in mid-1966 both the U.S. and U.S.S.R. naturally progressed into missions which featured lunar orbit operations as a necessary prerequisite to a manned Moon landing.</text>
+</context>
+<context>
+	<score>0.518844</score>
+	<text>[ edit ] American strategy</text>
+</context>
+<context>
+	<score>0.49716556</score>
+	<text>Advances in other areas were necessary before manned spacecraft could follow unmanned ones to the surface of the Moon. Of particular importance was developing the expertise to perform flight operations in lunar orbit. Ranger, Surveyor and initial Luna moon landing attempts all utilized flight paths from Earth that traveled directly to the lunar surface without first placing the spacecraft in a lunar orbit. Such direct ascents use a minimum amount of fuel for unmanned spacecraft on a one-way trip.</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>However, the Luna 9 hard landing of a ruggedized sphere using airbags at a 30 mile-per-hour ballistic impact speed had much more in common with the failed 1962 Ranger landing attempts and their planned 100 mile-per-hour impacts than with the Surveyor 1 soft landing on three footpads using its radar-controlled, adjustable-thrust retrorocket. While Luna 9 and Surveyor 1 were both major national accomplishments, only Surveyor 1 had reached its landing site employing key technologies that would be needed for a crewed flight. Thus as of mid-1966, the United States had begun to pull ahead of the Soviet Union in the so-called Space Race to land a man on the Moon.</text>
+</context>
+<context>
+	<score>0.46804932</score>
+	<text>The U.S. Moon exploration program originated during the Eisenhower administration. In a series of mid-1950s articles in Collier&apos;s magazine, Wernher von Braun had popularized the idea of a manned expedition to the Moon to establish a lunar base. A manned Moon landing posed several daunting technical challenges to the U.S. and USSR. Besides guidance and weight management, atmospheric re-entry without ablative overheating was a major hurdle. After the Soviet Union&apos;s launch of Sputnik , von Braun promoted a plan for the United States Army to establish a military lunar outpost by 1965.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Within four months of each other in early 1966 the Soviet Union and the United States had accomplished successful moon landings with unmanned spacecraft. To the general public both countries had demonstrated roughly equal technical capabilities by returning photographic images from the surface of the Moon. These pictures provided a key affirmative answer to the crucial question of whether or not lunar soil would support upcoming manned landers with their much greater weight.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"><tr><th align="left">U.S. Mission</th><th align="center">Mass (kg)</th><th align="center">Booster</th><th align="center">Launched</th><th align="center">Mission Goal</th><th align="center">Mission Result</th></tr><tr><td><a href="../../../../articles/l/u/n/Lunar_Orbiter_1_68b4.html" title="Lunar Orbiter 1">Lunar Orbiter 1</a></td><td>386</td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a> - <a href="../../../../articles/a/g/e/Agena.html" class="mw-redirect" title="Agena">Agena</a></td><td>10 Aug 1966</td><td>Lunar orbiter</td><td>Success - 1160 km X 189 km x 12 deg orbit, 208 m period, 80 day photography mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Lunar_Orbiter_2_68f4.html" title="Lunar Orbiter 2">Lunar Orbiter 2</a></td><td>386</td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a> - <a href="../../../../articles/a/g/e/Agena.html" class="mw-redirect" title="Agena">Agena</a></td><td>06 Nov 1966</td><td>Lunar orbiter</td><td>Success - 1860 km X 52 km x 12 deg orbit, 208 m period, 339 day photography mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Lunar_Orbiter_3_c993.html" title="Lunar Orbiter 3">Lunar Orbiter 3</a></td><td>386</td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a> - <a href="../../../../articles/a/g/e/Agena.html" class="mw-redirect" title="Agena">Agena</a></td><td>05 Feb 1967</td><td>Lunar orbiter</td><td>Success - 1860 km X 52 km x 21 deg orbit, 208 m period, 246 day photography mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Lunar_Orbiter_4_f1ac.html" title="Lunar Orbiter 4">Lunar Orbiter 4</a></td><td>386</td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a> - <a href="../../../../articles/a/g/e/Agena.html" class="mw-redirect" title="Agena">Agena</a></td><td>04 May 1967</td><td>Lunar orbiter</td><td>Success - 6111 km X 2706 km x 86 deg orbit, 721 m period, 180 day photography mission</td></tr><tr><td><a href="../../../../articles/l/u/n/Lunar_Orbiter_5_bee7.html" title="Lunar Orbiter 5">Lunar Orbiter 5</a></td><td>386</td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a> - <a href="../../../../articles/a/g/e/Agena.html" class="mw-redirect" title="Agena">Agena</a></td><td>01 Aug 1967</td><td>Lunar orbiter</td><td>Success - 6023 km X 195 km x 85 deg orbit, 510 m period, 183 day photography mission</td></tr></table>]]>
+</htmlSnippet>
+</entity>

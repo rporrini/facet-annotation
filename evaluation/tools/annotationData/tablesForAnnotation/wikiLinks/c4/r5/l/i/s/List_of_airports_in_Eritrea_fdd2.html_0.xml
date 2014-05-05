@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_airports_in_Eritrea_fdd2.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_Eritrea_fdd2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>LOCATION</th>]]></html>
+	<text>LOCATION</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT NAME</th>]]></html>
+	<text>AIRPORT NAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Agordat</td>]]></html>
+	<text>Agordat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HHAG</td>]]></html>
+	<text>HHAG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Agordat Airport</td>]]></html>
+	<text>Agordat Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Asmara</td>]]></html>
+	<text>Asmara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HHAS</td>]]></html>
+	<text>HHAS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ASM</td>]]></html>
+	<text>ASM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asmara International Airport</td>]]></html>
+	<text>Asmara International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Assab</td>]]></html>
+	<text>Assab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HHSB</td>]]></html>
+	<text>HHSB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ASA</td>]]></html>
+	<text>ASA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Assab International Airport</td>]]></html>
+	<text>Assab International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massawa</td>]]></html>
+	<text>Massawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HHMS</td>]]></html>
+	<text>HHMS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MSW</td>]]></html>
+	<text>MSW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Massawa International Airport</td>]]></html>
+	<text>Massawa International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Teseney</td>]]></html>
+	<text>Teseney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HHTS</td>]]></html>
+	<text>HHTS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TES</td>]]></html>
+	<text>TES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teseney Airport</td>]]></html>
+	<text>Teseney Airport</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in Eritrea - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>LOCATION ICAO IATA AIRPORT NAME</text>
+</context>
+<context>
+	<score>0.8878868</score>
+	<text>[ edit ] List</text>
+</context>
+<context>
+	<score>0.8000965</score>
+	<text>List of airports in Eritrea</text>
+</context>
+<context>
+	<score>0.78109425</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7591188</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73176455</score>
+	<text>[ edit ] List</text>
+</context>
+<context>
+	<score>0.73176455</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73176455</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73176455</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72226346</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7127623</score>
+	<text>List of airports in Eritrea , sorted by location.</text>
+</context>
+<context>
+	<score>0.65999687</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.611835</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.61018366</score>
+	<text>List of airports in Eritrea</text>
+</context>
+<context>
+	<score>0.52519757</score>
+	<text>ICAO Location Indicators by State ( PDF ). International Civil Aviation Organization ( 2006 - 01-12 ).</text>
+</context>
+<context>
+	<score>0.47423428</score>
+	<text>UN Location Codes: Eritrea [includes IATA codes]. UN/LOCODE 2006-2 . UNECE ( 2007 - 04-30 ).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr valign="baseline"><th>LOCATION</th><th><a href="../../../../articles/i/c/a/ICAO_airport_code_cd3b.html" class="mw-redirect" title="ICAO airport code">ICAO</a></th><th><a href="../../../../articles/i/a/t/IATA_airport_code_3507.html" class="mw-redirect" title="IATA airport code">IATA</a></th><th>AIRPORT&#160;NAME</th></tr><tr valign="top"><td><a href="../../../../articles/a/g/o/Agordat.html" title="Agordat">Agordat</a></td><td>HHAG</td><td>&#160;</td><td>Agordat Airport</td></tr><tr valign="top"><td><a href="../../../../articles/a/s/m/Asmara.html" title="Asmara">Asmara</a></td><td>HHAS</td><td>ASM</td><td><a href="../../../../articles/a/s/m/Asmara_International_Airport_ef38.html" title="Asmara International Airport">Asmara International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/a/s/s/Assab.html" title="Assab">Assab</a></td><td>HHSB</td><td>ASA</td><td><a href="../../../../articles/a/s/s/Assab_International_Airport_cc13.html" title="Assab International Airport">Assab International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/m/a/s/Massawa.html" title="Massawa">Massawa</a></td><td>HHMS</td><td>MSW</td><td><a href="../../../../articles/m/a/s/Massawa_International_Airport_dbc8.html" title="Massawa International Airport">Massawa International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/t/e/s/Teseney.html" title="Teseney">Teseney</a></td><td>HHTS</td><td>TES</td><td>Teseney Airport</td></tr></table>]]>
+</htmlSnippet>
+</entity>

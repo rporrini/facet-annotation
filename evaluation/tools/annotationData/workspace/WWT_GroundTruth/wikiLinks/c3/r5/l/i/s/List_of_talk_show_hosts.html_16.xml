@@ -1,0 +1,42 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_yagoActorGeo_1" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Alan_Thicke</entity>
+<entity>Canada</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Ty_Treadway</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Slavi_Trifonov</entity>
+<entity>Bulgaria</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Ryan_Tubridy</entity>
+<entity>Ireland</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Hal_Turner</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

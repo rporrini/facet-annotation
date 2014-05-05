@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/t/a/m/Tampa,_Florida_a617.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 2, 0.65625 1 2, 0.64285713 2, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, 0.4464286 3, " />
+<meta name="parentHTMLDoc" value="en/articles/t/a/m/Tampa,_Florida_a617.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Buccaneers</td>]]></html>
+	<text>Tampa Bay Buccaneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League (NFL) - NFC</td>]]></html>
+	<text>National Football League (NFL) - NFC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raymond James Stadium</td>]]></html>
+	<text>Raymond James Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Rays</td>]]></html>
+	<text>Tampa Bay Rays</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball - AL</td>]]></html>
+	<text>Major League Baseball - AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tropicana Field , St. Petersburg</td>]]></html>
+	<text>Tropicana Field , St. Petersburg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Lightning</td>]]></html>
+	<text>Tampa Bay Lightning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice hockey</td>]]></html>
+	<text>Ice hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Hockey League (NHL) - Eastern Conference, Southeast division</td>]]></html>
+	<text>National Hockey League (NHL) - Eastern Conference, Southeast division</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Pete Times Forum</td>]]></html>
+	<text>St. Pete Times Forum</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Storm</td>]]></html>
+	<text>Tampa Bay Storm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena football</td>]]></html>
+	<text>Arena football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football League (AFL)</td>]]></html>
+	<text>Arena Football League (AFL)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Pete Times Forum</td>]]></html>
+	<text>St. Pete Times Forum</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of South Florida Bulls Football</td>]]></html>
+	<text>University of South Florida Bulls Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>College football</td>]]></html>
+	<text>College football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NCAA - Big East Conference</td>]]></html>
+	<text>NCAA - Big East Conference</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raymond James Stadium</td>]]></html>
+	<text>Raymond James Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of South Florida Bulls Basketball</td>]]></html>
+	<text>University of South Florida Bulls Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>College basketball</td>]]></html>
+	<text>College basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NCAA - Big East Conference</td>]]></html>
+	<text>NCAA - Big East Conference</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USF Sun Dome</td>]]></html>
+	<text>USF Sun Dome</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bay Area Pelicans</td>]]></html>
+	<text>Bay Area Pelicans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rugby</td>]]></html>
+	<text>Rugby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rugby Union - USA Rugby Union</td>]]></html>
+	<text>Rugby Union - USA Rugby Union</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sawgrass Park, St. Petersburg</td>]]></html>
+	<text>Sawgrass Park, St. Petersburg</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tampa, Florida - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Stadium</text>
+</context>
+<context>
+	<score>0.87949926</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.79023564</score>
+	<text>Tampa, Florida</text>
+</context>
+<context>
+	<score>0.78252953</score>
+	<text>Several large scale malls call Tampa and its surrounding areas home. Well known shopping areas include International Plaza and Bay Street , WestShore Plaza , University Mall , Westfield Brandon , and Westfield Citrus Park . Well known Hyde Park Village is an upscale open-air shopping center residing in the neighborhood of Hyde Park . Previously, Tampa had also been home to the Floriland Mall (now an office park), Tampa Bay Center (demolished and replaced with the new Tampa Bay Buccaneers training facility, known as &quot;One Buc Place&quot;), and East Lake Square Mall (now an office park).</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Current sporting venues in Tampa, Florida</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Geography &amp; Climate</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Cityscape</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Culture</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Government</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Education</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Infrastructure</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Sister cities</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.7133713</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71265996</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70495373</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.64289314</score>
+	<text>Tampa&apos;s first church was the First Methodist Church , founded in a cabin by circuit rider J.C. Lay in 1846. The most famous church, however, is the Sacred Heart Catholic Church which was officially opened in 1905. The city also contains the St. Paul A.M.E. Church which was founded by Reverend Thomas W. Long in 1870 and is Tampa&apos;s oldest African-American congregation , and First Presbyterian Church which is housed in a Spanish mission style building from 1930. There are also many other churches such as St. Patrick Catholic Church and Christ the King Catholic Church.</text>
+</context>
+<context>
+	<score>0.6043603</score>
+	<text>The USF Sun Dome</text>
+</context>
+<context>
+	<score>0.5932447</score>
+	<text>[ edit ] Religion</text>
+</context>
+<context>
+	<score>0.55352587</score>
+	<text>In addition, since the mid 1980&apos;s, Tampa has been known world-wide as the unofficial birthplace of Death Metal , an extreme form of Heavy Metal . Many of the genre&apos;s pioneers and foremost figures are based in and around the city. Chief among these are Deicide , Six Feet Under , Death , Obituary , &amp; Morbid Angel . Tampa&apos;s Death Metal scene had also adopted The Brass Mug, a bar that showcases local music acts, crowning it as a mecca for extreme music in the world metal community, &amp; attracting metal fans from around the world.</text>
+</context>
+<context>
+	<score>0.54617137</score>
+	<text>8/Tampawideskyline.jpg/900px-Tampawideskyline.jpg&quot; width=&quot;900&quot; height=&quot;107&quot; border=&quot;0&quot; /&gt; Hillsborough Bay (foreground), Downtown Tampa skyline (top center), and parts of the Port of Tampa, including Channelside (right) as seen from Apollo Beach</text>
+</context>
+<context>
+	<score>0.52175087</score>
+	<text>Tampa became noted in the late 1990s for Southern hip hop music, a variant of the &quot;Dirty South&quot; or Southern hip hop genre. Several different artists from the area began to gain national recognition. These artists include Khia , Tampa Tony, Rated R and various other nobodys that were signed to national record labels but were later dropped. East coast rap is still popular in Tampa although the southern hip hop has slowly taken over the radio stations.</text>
+</context>
+<context>
+	<score>0.4963308</score>
+	<text>Please help improve this section by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+</context>
+<context>
+	<score>0.4759948</score>
+	<text>This section does not cite any references or sources . ( January 2008 )</text>
+</context>
+<context>
+	<score>0.459726</score>
+	<text>[ edit ] Music</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" align="center"><tr><th>Club</th><th>Sport</th><th>League</th><th>Stadium</th></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Buccaneers_437e.html" title="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a></td><td><a href="../../../../articles/a/m/e/American_football.html" title="American football">Football</a></td><td><a href="../../../../articles/n/a/t/National_Football_League_dcce.html" title="National Football League">National Football League</a> (NFL) - <a href="../../../../articles/n/a/t/National_Football_Conference_d886.html" title="National Football Conference">NFC</a></td><td><a href="../../../../articles/r/a/y/Raymond_James_Stadium_b192.html" title="Raymond James Stadium">Raymond James Stadium</a></td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Rays_032b.html" title="Tampa Bay Rays">Tampa Bay Rays</a></td><td><a href="../../../../articles/b/a/s/Baseball.html" title="Baseball">Baseball</a></td><td><a href="../../../../articles/m/a/j/Major_League_Baseball_9421.html" title="Major League Baseball">Major League Baseball</a> - <a href="../../../../articles/a/m/e/American_League_6b8d.html" title="American League">AL</a></td><td><a href="../../../../articles/t/r/o/Tropicana_Field_f12b.html" title="Tropicana Field">Tropicana Field</a>, <a href="../../../../articles/s/t/2E/St._Petersburg%2C_Florida_3698.html" title="St. Petersburg, Florida">St. Petersburg</a></td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Lightning_f2fb.html" title="Tampa Bay Lightning">Tampa Bay Lightning</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Ice hockey</a></td><td><a href="../../../../articles/n/a/t/National_Hockey_League_6c9a.html" title="National Hockey League">National Hockey League</a> (NHL) - Eastern Conference, Southeast division</td><td><a href="../../../../articles/s/t/2E/St._Pete_Times_Forum_c6bf.html" title="St. Pete Times Forum">St. Pete Times Forum</a></td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Storm_5511.html" title="Tampa Bay Storm">Tampa Bay Storm</a></td><td><a href="../../../../articles/a/r/e/Arena_football.html" title="Arena football">Arena football</a></td><td><a href="../../../../articles/a/r/e/Arena_Football_League_e313.html" title="Arena Football League">Arena Football League</a> (AFL)</td><td><a href="../../../../articles/s/t/2E/St._Pete_Times_Forum_c6bf.html" title="St. Pete Times Forum">St. Pete Times Forum</a></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_South_Florida_7e0b.html" title="University of South Florida">University of South Florida Bulls Football</a></td><td><a href="../../../../articles/c/o/l/College_football.html" title="College football">College football</a></td><td><a href="../../../../articles/n/c/a/NCAA_e914.html" class="mw-redirect" title="NCAA">NCAA</a> - <a href="../../../../articles/b/i/g/Big_East_Conference_f830.html" title="Big East Conference">Big East Conference</a></td><td><a href="../../../../articles/r/a/y/Raymond_James_Stadium_b192.html" title="Raymond James Stadium">Raymond James Stadium</a></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_South_Florida_7e0b.html" title="University of South Florida">University of South Florida Bulls Basketball</a></td><td><a href="../../../../articles/c/o/l/College_basketball.html" title="College basketball">College basketball</a></td><td><a href="../../../../articles/n/c/a/NCAA_e914.html" class="mw-redirect" title="NCAA">NCAA</a> - <a href="../../../../articles/b/i/g/Big_East_Conference_f830.html" title="Big East Conference">Big East Conference</a></td><td><a href="../../../../articles/u/s/f/USF_Sun_Dome_770d.html" title="USF Sun Dome">USF Sun Dome</a></td></tr><tr><td><a href="../../../../articles/b/a/y/Bay_Area_Pelicans_3ba8.html" title="Bay Area Pelicans">Bay Area Pelicans</a></td><td><a href="../../../../articles/r/u/g/Rugby.html" title="Rugby">Rugby</a></td><td><a href="../../../../articles/r/u/g/Rugby_Union_a947.html" class="mw-redirect" title="Rugby Union">Rugby Union</a> - USA Rugby Union</td><td>Sawgrass Park, <a href="../../../../articles/s/t/2E/St._Petersburg%2C_Florida_3698.html" title="St. Petersburg, Florida">St. Petersburg</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

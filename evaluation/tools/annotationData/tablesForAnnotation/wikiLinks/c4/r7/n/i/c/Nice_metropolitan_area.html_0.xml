@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/n/i/c/Nice_metropolitan_area.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.125 3, 0.125 0 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/n/i/c/Nice_metropolitan_area.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1901</th>]]></html>
+	<text>1901</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1954</th>]]></html>
+	<text>1954</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1999</th>]]></html>
+	<text>1999</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nice</td>]]></html>
+	<text>Nice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105 109</td>]]></html>
+	<text>105 109</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>244 360</td>]]></html>
+	<text>244 360</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>342 738</td>]]></html>
+	<text>342 738</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Antibes</td>]]></html>
+	<text>Antibes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 947</td>]]></html>
+	<text>10 947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 064</td>]]></html>
+	<text>27 064</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72 412</td>]]></html>
+	<text>72 412</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cannes</td>]]></html>
+	<text>Cannes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30 420</td>]]></html>
+	<text>30 420</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50 192</td>]]></html>
+	<text>50 192</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>67 304</td>]]></html>
+	<text>67 304</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cagnes-sur-Mer</td>]]></html>
+	<text>Cagnes-sur-Mer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 381</td>]]></html>
+	<text>3 381</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 066</td>]]></html>
+	<text>11 066</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43 942</td>]]></html>
+	<text>43 942</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grasse</td>]]></html>
+	<text>Grasse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 429</td>]]></html>
+	<text>15 429</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22 187</td>]]></html>
+	<text>22 187</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43 874</td>]]></html>
+	<text>43 874</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Le Cannet</td>]]></html>
+	<text>Le Cannet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 097</td>]]></html>
+	<text>3 097</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 601</td>]]></html>
+	<text>11 601</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 158</td>]]></html>
+	<text>42 158</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint-Laurent-du-Var</td>]]></html>
+	<text>Saint-Laurent-du-Var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 530</td>]]></html>
+	<text>1 530</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 623</td>]]></html>
+	<text>5 623</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 141</td>]]></html>
+	<text>27 141</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Nice metropolitan area - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City 1901 1954 1999</text>
+</context>
+<context>
+	<score>0.88612217</score>
+	<text>The table below shows the evolution of the seven most important communes parts of nowadays aire urbaine of Nice (census data).</text>
+</context>
+<context>
+	<score>0.80597997</score>
+	<text>Nice metropolitan area</text>
+</context>
+<context>
+	<score>0.7886043</score>
+	<text>Only nine years later, with the 1999 census, the two aires merged to form French sixth aire urbaine, after Paris , Lyon , Marseille , Lille and Toulouse .</text>
+</context>
+<context>
+	<score>0.7570544</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7359853</score>
+	<text>[ edit ] Organisation</text>
+</context>
+<context>
+	<score>0.71058995</score>
+	<text>In the 1990 census, INSEE identified two distinct aire urbaines in the d partement : Nice , with 539,217 inhabitants, and Cannes-Grasse-Antibes with 352,000 inhabitants.</text>
+</context>
+<context>
+	<score>0.64817846</score>
+	<text>After World War II , growth increased with the development of mass tourism and development of transports in the region. The consequences of the end of the Algeria War were also very important for the region&apos;s population, with many Pied-Noirs settling in the area. The growth in main cities decreased, while new town were growing very quickly like Saint-Laurent-du-Var , Vallauris , Le Cannet .</text>
+</context>
+<context>
+	<score>0.6014082</score>
+	<text>The aire urbaine consists in a narrow strip of land along the sea : 50 km long (31 miles) and between 5 and 15 km wide (between 3 and 9 miles).</text>
+</context>
+<context>
+	<score>0.5982493</score>
+	<text>The urbanized area began to spread outside city limits, in La Trinit to the North, Villefranche-sur-Mer to the East and Cagnes-sur-Mer to the West. In the meantime, old cities, about 30 km to the West, like Grasse , Cannes , Antibes were experiencing regular growth as well.</text>
+</context>
+<context>
+	<score>0.558306</score>
+	<text>In the beginning of the nineteenth century, Nice was a 20,000 inhabitants city belonging to the Kingdom of Piedmont-Sardinia . It grew steadily to reach 48,273 inhabitants in 1861 , one year after annexation to the French Second Empire . By the end of the century, the population was over 100,000.</text>
+</context>
+<context>
+	<score>0.5263513</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.52258855</score>
+	<text>Transportation is based on a railway line and vital A8 autoroute , built from 1966. Nice-C te-d&apos;Azur airport is the second biggest in France with more than 9 million passengers welcomed every year.</text>
+</context>
+<context>
+	<score>0.5007875</score>
+	<text>) as defined by INSEE is a residential area near Nice . It has 933,020 inhabitants and an area that covers a large strip of territory from the city of Villefranche-sur-Mer to the westernmost part of the Alpes-Maritimes d partement , including cities like Antibes , Grasse , Cannes and Cagnes-sur-Mer .</text>
+</context>
+<context>
+	<score>0.472317</score>
+	<text>aire urbaine</text>
+</context>
+<context>
+	<score>0.47150669</score>
+	<text>[ edit ] Organisation</text>
+</context>
+<context>
+	<score>0.46826285</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4639758</score>
+	<text>Nice metropolitan area ( French :</text>
+</context>
+<context>
+	<score>0.45779195</score>
+	<text>Nice metropolitan area</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align: right;"><tr><th>City</th><th>1901</th><th>1954</th><th>1999</th></tr><tr><td style="text-align:left"><b><a href="../../../../articles/n/i/c/Nice.html" title="Nice">Nice</a></b></td><td>105 109</td><td>244 360</td><td>342 738</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/a/n/t/Antibes.html" title="Antibes">Antibes</a></b></td><td>10 947</td><td>27 064</td><td>72 412</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/c/a/n/Cannes.html" title="Cannes">Cannes</a></b></td><td>30 420</td><td>50 192</td><td>67 304</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/c/a/g/Cagnes-sur-Mer_bca2.html" title="Cagnes-sur-Mer">Cagnes-sur-Mer</a></b></td><td>3 381</td><td>11 066</td><td>43 942</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/g/r/a/Grasse.html" title="Grasse">Grasse</a></b></td><td>15 429</td><td>22 187</td><td>43 874</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/l/e/_/Le_Cannet_3038.html" title="Le Cannet">Le Cannet</a></b></td><td>3 097</td><td>11 601</td><td>42 158</td></tr><tr><td style="text-align:left"><b><a href="../../../../articles/s/a/i/Saint-Laurent-du-Var_98c9.html" title="Saint-Laurent-du-Var">Saint-Laurent-du-Var</a></b></td><td>1 530</td><td>5 623</td><td>27 141</td></tr></table>]]>
+</htmlSnippet>
+</entity>

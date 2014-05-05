@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r18/c/a/r/Cardinal_vowel.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.16666667 0, 0.16666667 0 2, 0.06666667 1 2, 0.025925927 1, 0.011111112 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/r/Cardinal_vowel.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>cardinal</th>]]></html>
+	<text>cardinal</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IPA</th>]]></html>
+	<text>IPA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>description</th>]]></html>
+	<text>description</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[i]</td>]]></html>
+	<text>[i]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close front unrounded vowel</td>]]></html>
+	<text>close front unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[e]</td>]]></html>
+	<text>[e]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close-mid front unrounded vowel</td>]]></html>
+	<text>close-mid front unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɛ]</td>]]></html>
+	<text>[&#603;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open-mid front unrounded vowel</td>]]></html>
+	<text>open-mid front unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[a]</td>]]></html>
+	<text>[a]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open front unrounded vowel</td>]]></html>
+	<text>open front unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɑ]</td>]]></html>
+	<text>[&#593;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open back unrounded vowel</td>]]></html>
+	<text>open back unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɔ]</td>]]></html>
+	<text>[&#596;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open-mid back rounded vowel</td>]]></html>
+	<text>open-mid back rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[o]</td>]]></html>
+	<text>[o]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close-mid back rounded vowel</td>]]></html>
+	<text>close-mid back rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[u]</td>]]></html>
+	<text>[u]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close back rounded vowel</td>]]></html>
+	<text>close back rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[y]</td>]]></html>
+	<text>[y]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close front rounded vowel</td>]]></html>
+	<text>close front rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ø]</td>]]></html>
+	<text>[&#248;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close-mid front rounded vowel</td>]]></html>
+	<text>close-mid front rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[œ]</td>]]></html>
+	<text>[&#339;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open-mid front rounded vowel</td>]]></html>
+	<text>open-mid front rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɶ]</td>]]></html>
+	<text>[&#630;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open front rounded vowel</td>]]></html>
+	<text>open front rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɒ]</td>]]></html>
+	<text>[&#594;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open back rounded vowel</td>]]></html>
+	<text>open back rounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ʌ]</td>]]></html>
+	<text>[&#652;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>open-mid back unrounded vowel</td>]]></html>
+	<text>open-mid back unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɤ]</td>]]></html>
+	<text>[&#612;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close-mid back unrounded vowel</td>]]></html>
+	<text>close-mid back unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɯ]</td>]]></html>
+	<text>[&#623;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>close back unrounded vowel</td>]]></html>
+	<text>close back unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ɨ]</td>]]></html>
+	<text>[&#616;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Close central unrounded vowel</td>]]></html>
+	<text>Close central unrounded vowel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ʉ]</td>]]></html>
+	<text>[&#649;]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Close central rounded vowel</td>]]></html>
+	<text>Close central rounded vowel</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Cardinal vowel - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>cardinal IPA description</text>
+</context>
+<context>
+	<score>0.88705385</score>
+	<text>[ edit ] Table of cardinal vowels</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>Cardinal vowel</text>
+</context>
+<context>
+	<score>0.7884827</score>
+	<text>The lip positions can be reversed with the lip position for the corresponding vowel on the opposite side of the front-back dimension, so that e.g. Cardinal 1 can be produced with the rounding for Cardinal 9, etc.; these are known as &apos;secondary cardinal vowels&apos;. Sounds such as these are less common in the world&apos;s languages. Other vowel sounds are also recognised on the vowel chart of the International Phonetic Alphabet .</text>
+</context>
+<context>
+	<score>0.7565921</score>
+	<text>In the IPA&apos;s number chart , the cardinal vowels have the same numbers used above, but added to 300.</text>
+</context>
+<context>
+	<score>0.7352954</score>
+	<text>[ edit ] Table of cardinal vowels</text>
+</context>
+<context>
+	<score>0.7352954</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7352954</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>These degrees of aperture plus the front-back distinction define 8 reference points on a mixture of articulatory and auditory criteria. These eight vowels are known as the eight &apos;primary cardinal vowels&apos;, and vowels like these are common in the world&apos;s languages.</text>
+</context>
+<context>
+	<score>0.6465403</score>
+	<text>The other vowels are &apos;auditorily equidistant&apos; between these three &apos;corner vowels&apos;, at four degrees of aperture or &apos;height&apos;: close (high tongue position), close-mid, open-mid, and open (low tongue position). The Ngwe language of West Africa has been cited as a language with a vowel system that has 8 vowels which are rather similar to the 8 primary cardinal vowels (Ladefoged 1971:67).</text>
+</context>
+<context>
+	<score>0.6073711</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.58580405</score>
+	<text>is produced with the tongue as low and as far back in the mouth as possible.</text>
+</context>
+<context>
+	<score>0.5454293</score>
+	<text>is produced with the tongue as far back and as high in the mouth as is possible, with pursed lips. This sound can be approximated by adopting the posture to whistle a very low note, or blow out a candle.</text>
+</context>
+<context>
+	<score>0.51959395</score>
+	<text>list of phonetics topics audio demonstrations of cardinal vowels as spoken by Daniel Jones at age 75</text>
+</context>
+<context>
+	<score>0.5131295</score>
+	<text>[u]</text>
+</context>
+<context>
+	<score>0.48728967</score>
+	<text>have articulatory definitions. [i] is produced with the tongue as far forward and as high in the mouth as is possible (without producing friction), with spread lips.</text>
+</context>
+<context>
+	<score>0.4679604</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.4666178</score>
+	<text>[u]</text>
+</context>
+<context>
+	<score>0.4500803</score>
+	<text>and</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="4" cellspacing="0"><tr><th>cardinal</th><th><a href="../../../../articles/i/p/a/Help%7EIPA_9abd.html" title="Help:IPA">IPA</a></th><th>description</th></tr><tr><td align="center">1</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[i]</span></td><td><a href="../../../../articles/c/l/o/Close_front_unrounded_vowel.html" title="Close front unrounded vowel">close front unrounded vowel</a></td></tr><tr><td align="center">2</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[e]</span></td><td><a href="../../../../articles/c/l/o/Close-mid_front_unrounded_vowel.html" title="Close-mid front unrounded vowel">close-mid front unrounded vowel</a></td></tr><tr><td align="center">3</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɛ]</span></td><td><a href="../../../../articles/o/p/e/Open-mid_front_unrounded_vowel.html" title="Open-mid front unrounded vowel">open-mid front unrounded vowel</a></td></tr><tr><td align="center">4</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[a]</span></td><td><a href="../../../../articles/o/p/e/Open_front_unrounded_vowel.html" title="Open front unrounded vowel">open front unrounded vowel</a></td></tr><tr><td align="center">5</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɑ]</span></td><td><a href="../../../../articles/o/p/e/Open_back_unrounded_vowel.html" title="Open back unrounded vowel">open back unrounded vowel</a></td></tr><tr><td align="center">6</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɔ]</span></td><td><a href="../../../../articles/o/p/e/Open-mid_back_rounded_vowel.html" title="Open-mid back rounded vowel">open-mid back rounded vowel</a></td></tr><tr><td align="center">7</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[o]</span></td><td><a href="../../../../articles/c/l/o/Close-mid_back_rounded_vowel.html" title="Close-mid back rounded vowel">close-mid back rounded vowel</a></td></tr><tr><td align="center">8</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[u]</span></td><td><a href="../../../../articles/c/l/o/Close_back_rounded_vowel.html" title="Close back rounded vowel">close back rounded vowel</a></td></tr><tr><td align="center">9</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[y]</span></td><td><a href="../../../../articles/c/l/o/Close_front_rounded_vowel.html" title="Close front rounded vowel">close front rounded vowel</a></td></tr><tr><td align="center">10</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ø]</span></td><td><a href="../../../../articles/c/l/o/Close-mid_front_rounded_vowel.html" title="Close-mid front rounded vowel">close-mid front rounded vowel</a></td></tr><tr><td align="center">11</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[œ]</span></td><td><a href="../../../../articles/o/p/e/Open-mid_front_rounded_vowel.html" title="Open-mid front rounded vowel">open-mid front rounded vowel</a></td></tr><tr><td align="center">12</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɶ]</span></td><td><a href="../../../../articles/o/p/e/Open_front_rounded_vowel.html" title="Open front rounded vowel">open front rounded vowel</a></td></tr><tr><td align="center">13</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɒ]</span></td><td><a href="../../../../articles/o/p/e/Open_back_rounded_vowel.html" title="Open back rounded vowel">open back rounded vowel</a></td></tr><tr><td align="center">14</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʌ]</span></td><td><a href="../../../../articles/o/p/e/Open-mid_back_unrounded_vowel.html" title="Open-mid back unrounded vowel">open-mid back unrounded vowel</a></td></tr><tr><td align="center">15</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɤ]</span></td><td><a href="../../../../articles/c/l/o/Close-mid_back_unrounded_vowel.html" title="Close-mid back unrounded vowel">close-mid back unrounded vowel</a></td></tr><tr><td align="center">16</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɯ]</span></td><td><a href="../../../../articles/c/l/o/Close_back_unrounded_vowel.html" title="Close back unrounded vowel">close back unrounded vowel</a></td></tr><tr><td align="center">17</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ɨ]</span></td><td><a href="../../../../articles/c/l/o/Close_central_unrounded_vowel.html" title="Close central unrounded vowel">Close central unrounded vowel</a></td></tr><tr><td align="center">18</td><td align="center"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">[ʉ]</span></td><td><a href="../../../../articles/c/l/o/Close_central_rounded_vowel.html" title="Close central rounded vowel">Close central rounded vowel</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

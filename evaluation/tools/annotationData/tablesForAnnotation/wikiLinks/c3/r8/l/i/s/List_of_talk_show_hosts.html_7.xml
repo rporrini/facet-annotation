@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/l/i/s/List_of_talk_show_hosts.html_7.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, 0.3125 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_talk_show_hosts.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Host</th>]]></html>
+	<text>Host</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Talk show(s) hosted</th>]]></html>
+	<text>Talk show(s) hosted</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arsenio Hall</td>]]></html>
+	<text>Arsenio Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Arsenio Hall Show</td>]]></html>
+	<text>The Arsenio Hall Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alan Hamel</td>]]></html>
+	<text>Alan Hamel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Alan Hamel Show</td>]]></html>
+	<text>The Alan Hamel Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sean Hannity</td>]]></html>
+	<text>Sean Hannity</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hannity &amp; Colmes</td>]]></html>
+	<text>Hannity &amp;amp;amp; Colmes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chuck Harder</td>]]></html>
+	<text>Chuck Harder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elisabeth Hasselbeck</td>]]></html>
+	<text>Elisabeth Hasselbeck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The View</td>]]></html>
+	<text>The View</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John Henson</td>]]></html>
+	<text>John Henson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Talk Soup</td>]]></html>
+	<text>Talk Soup</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Laura Hernández</td>]]></html>
+	<text>Laura Hern&#225;ndez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Rico</td>]]></html>
+	<text>Puerto Rico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No te Duermas</td>]]></html>
+	<text>No te Duermas</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hugh Hewitt</td>]]></html>
+	<text>Hugh Hewitt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Hugh Hewitt Show</td>]]></html>
+	<text>The Hugh Hewitt Show</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of talk show hosts - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.8810493</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.7876457</score>
+	<text>List of talk show hosts</text>
+</context>
+<context>
+	<score>0.7840796</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.7527071</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.71233135</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7065039</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.6444433</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.59479475</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.55507594</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.52330095</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.4978809</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.47754487</score>
+	<text>Top 0 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th width="150">Host</th><th width="150">Country</th><th width="400">Talk show(s) hosted</th></tr><tr><td><a href="../../../../articles/a/r/s/Arsenio_Hall_7ad2.html" title="Arsenio Hall">Arsenio Hall</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/h/e/The_Arsenio_Hall_Show_12f2.html" title="The Arsenio Hall Show">The Arsenio Hall Show</a></i></td></tr><tr><td><a href="../../../../articles/a/l/a/Alan_Hamel_c2fc.html" title="Alan Hamel">Alan Hamel</a></td><td><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td><i>The Alan Hamel Show</i></td></tr><tr><td><a href="../../../../articles/h/a/n/Hannity.html" class="mw-redirect" title="Hannity">Sean Hannity</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/h/a/n/Hannity_%26_Colmes_b449.html" title="Hannity &amp; Colmes">Hannity &amp; Colmes</a></i></td></tr><tr><td><a href="../../../../articles/c/h/u/Chuck_Harder_0736.html" title="Chuck Harder">Chuck Harder</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td></td></tr><tr><td><a href="../../../../articles/e/l/i/Elisabeth_Hasselbeck_466e.html" title="Elisabeth Hasselbeck">Elisabeth Hasselbeck</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/h/e/The_View_4421.html" title="The View">The View</a></i></td></tr><tr><td><a href="../../../../articles/j/o/h/John_Henson_a95a.html" title="John Henson">John Henson</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/a/l/Talk_Soup_60fe.html" title="Talk Soup">Talk Soup</a></i></td></tr><tr><td><a href="../../../../articles/l/a/u/Laura_Hern%C3%A1ndez_bd4c.html" title="Laura Hernández">Laura Hernández</a></td><td><a href="../../../../articles/p/u/e/Puerto_Rico_f6b0.html" title="Puerto Rico">Puerto Rico</a></td><td><i><a href="../../../../articles/n/o/_/No_te_Duermas_5681.html" title="No te Duermas">No te Duermas</a></i></td></tr><tr><td><a href="../../../../articles/h/u/g/Hugh_Hewitt_39ce.html" title="Hugh Hewitt">Hugh Hewitt</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/t/h/e/The_Hugh_Hewitt_Show_0776.html" class="mw-redirect" title="The Hugh Hewitt Show">The Hugh Hewitt Show</a></i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

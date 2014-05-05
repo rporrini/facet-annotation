@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r13/m/o/o/Moody_Broadcasting_Network_0b6f.html_10.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 0 3, 0.6730769 2, 0.5048077 2 3, 0.125 0 1, 0.109375 1 2, 0.10576923 1, 0.07932693 1 3, 0.05769231 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/o/Moody_Broadcasting_Network_0b6f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KWRB</td>]]></html>
+	<text>KWRB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bisbee, Arizona</td>]]></html>
+	<text>Bisbee, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KRMB</td>]]></html>
+	<text>KRMB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.1</td>]]></html>
+	<text>90.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bisbee, Arizona</td>]]></html>
+	<text>Bisbee, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KRMC</td>]]></html>
+	<text>KRMC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.7</td>]]></html>
+	<text>91.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Douglas, Arizona</td>]]></html>
+	<text>Douglas, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KAPR</td>]]></html>
+	<text>KAPR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>930</td>]]></html>
+	<text>930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Douglas, Arizona</td>]]></html>
+	<text>Douglas, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KJAA</td>]]></html>
+	<text>KJAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1240</td>]]></html>
+	<text>1240</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Globe, Arizona</td>]]></html>
+	<text>Globe, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KNLB</td>]]></html>
+	<text>KNLB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.1</td>]]></html>
+	<text>91.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Havasu City, Arizona</td>]]></html>
+	<text>Lake Havasu City, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KNOG</td>]]></html>
+	<text>KNOG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.1</td>]]></html>
+	<text>91.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nogales, Arizona</td>]]></html>
+	<text>Nogales, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KWFH</td>]]></html>
+	<text>KWFH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.1</td>]]></html>
+	<text>90.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parker, Arizona</td>]]></html>
+	<text>Parker, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KFLR</td>]]></html>
+	<text>KFLR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.3</td>]]></html>
+	<text>90.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phoenix, Arizona</td>]]></html>
+	<text>Phoenix, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KNXN</td>]]></html>
+	<text>KNXN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1470</td>]]></html>
+	<text>1470</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sierra Vista, Arizona</td>]]></html>
+	<text>Sierra Vista, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KGMS</td>]]></html>
+	<text>KGMS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>940</td>]]></html>
+	<text>940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tucson, Arizona</td>]]></html>
+	<text>Tucson, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KHAC</td>]]></html>
+	<text>KHAC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>880</td>]]></html>
+	<text>880</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Window Rock, Arizona</td>]]></html>
+	<text>Window Rock, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KWIM-FM</td>]]></html>
+	<text>KWIM-FM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.7</td>]]></html>
+	<text>102.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Window Rock, Arizona</td>]]></html>
+	<text>Window Rock, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Moody Broadcasting Network - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Additional Information</text>
+</context>
+<context>
+	<score>0.880117</score>
+	<text>[ edit ] Arizona</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Moody Broadcasting Network</text>
+</context>
+<context>
+	<score>0.7831472</score>
+	<text>[ edit ] Alaska</text>
+</context>
+<context>
+	<score>0.75177467</score>
+	<text>[ edit ] Arkansas</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Owned &amp; Operated Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Affiliate Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055715</score>
+	<text>[ edit ] Alabama</text>
+</context>
+<context>
+	<score>0.6435109</score>
+	<text>[ edit ] Affiliate Stations</text>
+</context>
+<context>
+	<score>0.604978</score>
+	<text>[ edit ] California</text>
+</context>
+<context>
+	<score>0.5938624</score>
+	<text>[ edit ] Washington</text>
+</context>
+<context>
+	<score>0.5541436</score>
+	<text>[ edit ] Tennessee</text>
+</context>
+<context>
+	<score>0.5223686</score>
+	<text>[ edit ] Pennsylvania</text>
+</context>
+<context>
+	<score>0.51862705</score>
+	<text>[ edit ] Colorado</text>
+</context>
+<context>
+	<score>0.49694857</score>
+	<text>[ edit ] Ohio</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Las Cruces, New Mexico</text>
+</context>
+<context>
+	<score>0.4678323</score>
+	<text>[ edit ] Connecticut</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>KMBN</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>KWRB</b></td><td>90.9</td><td><a href="../../../../articles/b/i/s/Bisbee%2C_Arizona_a5e5.html" title="Bisbee, Arizona">Bisbee, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KWRB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KWRB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWRB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWRB" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KRMB</b></td><td>90.1</td><td><a href="../../../../articles/b/i/s/Bisbee%2C_Arizona_a5e5.html" title="Bisbee, Arizona">Bisbee, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KRMB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KRMB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KRMB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KRMB" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KRMC</b></td><td>91.7</td><td><a href="../../../../articles/d/o/u/Douglas%2C_Arizona_a16b.html" title="Douglas, Arizona">Douglas, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KRMC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KRMC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KRMC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KRMC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KAPR</b></td><td>930</td><td><a href="../../../../articles/d/o/u/Douglas%2C_Arizona_a16b.html" title="Douglas, Arizona">Douglas, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KAPR" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KAPR" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KAPR" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KAPR" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KJAA</b></td><td>1240</td><td><a href="../../../../articles/g/l/o/Globe%2C_Arizona_4fc0.html" title="Globe, Arizona">Globe, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KJAA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KJAA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJAA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJAA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KNLB</b></td><td>91.1</td><td><a href="../../../../articles/l/a/k/Lake_Havasu_City%2C_Arizona_c8c7.html" title="Lake Havasu City, Arizona">Lake Havasu City, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KNLB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KNLB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNLB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNLB" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KNOG</b></td><td>91.1</td><td><a href="../../../../articles/n/o/g/Nogales%2C_Arizona_1940.html" title="Nogales, Arizona">Nogales, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KNOG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KNOG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNOG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNOG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KWFH</b></td><td>90.1</td><td><a href="../../../../articles/p/a/r/Parker%2C_Arizona_e05d.html" title="Parker, Arizona">Parker, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KWFH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KWFH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWFH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWFH" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KFLR</b></td><td>90.3</td><td><a href="../../../../articles/p/h/o/Phoenix%2C_Arizona_97f7.html" title="Phoenix, Arizona">Phoenix, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KFLR" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KFLR" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KFLR" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KFLR" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KNXN</b></td><td>1470</td><td><a href="../../../../articles/s/i/e/Sierra_Vista%2C_Arizona_4c29.html" title="Sierra Vista, Arizona">Sierra Vista, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KNXN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KNXN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNXN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KNXN" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KGMS</b></td><td>940</td><td><a href="../../../../articles/t/u/c/Tucson%2C_Arizona_9259.html" title="Tucson, Arizona">Tucson, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KGMS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KGMS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGMS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGMS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KHAC</b></td><td>880</td><td><a href="../../../../articles/w/i/n/Window_Rock%2C_Arizona_3688.html" title="Window Rock, Arizona">Window Rock, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KHAC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KHAC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KHAC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KHAC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KWIM-FM</b></td><td>102.7</td><td><a href="../../../../articles/w/i/n/Window_Rock%2C_Arizona_3688.html" title="Window Rock, Arizona">Window Rock, Arizona</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KWIM-FM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KWIM-FM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWIM-FM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KWIM-FM" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/b/a/n/Bangladesh.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/a/n/Bangladesh.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City population [36]</th>]]></html>
+	<text>City population [36]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Metro population [36]</th>]]></html>
+	<text>Metro population [36]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dhaka</td>]]></html>
+	<text>Dhaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,969,458</td>]]></html>
+	<text>6,969,458</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,918,442</td>]]></html>
+	<text>11,918,442</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chittagong</td>]]></html>
+	<text>Chittagong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,920,222</td>]]></html>
+	<text>3,920,222</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,920,222</td>]]></html>
+	<text>3,920,222</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Khulna</td>]]></html>
+	<text>Khulna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,400,689</td>]]></html>
+	<text>1,400,689</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,400,689</td>]]></html>
+	<text>1,400,689</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rajshahi</td>]]></html>
+	<text>Rajshahi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>727,083</td>]]></html>
+	<text>727,083</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>727,083</td>]]></html>
+	<text>727,083</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sylhet</td>]]></html>
+	<text>Sylhet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>339,368</td>]]></html>
+	<text>339,368</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>339,368</td>]]></html>
+	<text>339,368</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barisal</td>]]></html>
+	<text>Barisal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>291,769</td>]]></html>
+	<text>291,769</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>291,769</td>]]></html>
+	<text>291,769</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Bangladesh - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City City population [36] Metro population [36]</text>
+</context>
+<context>
+	<score>0.87989384</score>
+	<text>Dhaka is the capital and largest city of Bangladesh. Other major cities include Chittagong , Khulna , Rajshahi , and Barisal .These metropolitan cities have mayoral elections, while other municipalities elect a chairperson. Mayors and chairpersons are elected for a span of five years.</text>
+</context>
+<context>
+	<score>0.7919192</score>
+	<text>Bangladesh</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Divisions are subdivided into districts ( zila ). There are 64 districts in Bangladesh, each further subdivided into upazila (subdistricts) or thana (&quot;police stations&quot;). The area within each police station, except for those in metropolitan areas, is divided into several unions , with each union consisting of multiple villages. In the metropolitan areas, police stations are divided into wards, which are further divided into mahallas . There are no elected officials at the divisional, district or upazila levels, and the administration is composed only of government officials. Direct elections are held for each union (or ward), electing a chairperson and a number of members. In 1997, a parliamentary act was passed to reserve three seats (out of twelve) in every union for female candidates.</text>
+</context>
+<context>
+	<score>0.75155157</score>
+	<text>[ edit ] Geography and climate</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Government and politics</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Foreign policy and military</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Divisions, districts, and upazilas</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Geography and climate</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] Culture</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7154494</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143434</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7053484</score>
+	<text>each named after their respective divisional headquarters: Barisal ( ), Chittagong ( ), Dhaka ( ), Khulna ( ), Rajshahi ( ), and Sylhet ( ).</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Bangladesh is divided into six administrative divisions,</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Satellite image presenting physical features of Bangladesh.</text>
+</context>
+<context>
+	<score>0.5936393</score>
+	<text>Main articles: Divisions of Bangladesh , Districts of Bangladesh , and Upazilas of Bangladesh</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Administrative divisions of Bangladesh. This map shows the highest level unit called a Division.</text>
+</context>
+<context>
+	<score>0.5184039</score>
+	<text>Main article: Geography of Bangladesh</text>
+</context>
+<context>
+	<score>0.49672544</score>
+	<text>[ edit ] Divisions, districts, and upazilas</text>
+</context>
+<context>
+	<score>0.4763894</score>
+	<text>Bangladesh enjoys relatively warm ties with the People&apos;s Republic of China which has, particularly in the past decade, increased economic cooperation with the South Asian nation. Between 2006-07, trade between the two nations rose by 28.5% and there have been agreements to grant various Bangladeshi commodities tariff-free access to the Chinese market. Military cooperation between the Military of Bangladesh and the People&apos;s Liberation Army is also increasing, with joint military agreements signed and Bangladesh procuring Chinese arms which range from small arms to large naval surface combatants such as the Chinese Type 053H1 Missile Frigate.</text>
+</context>
+<context>
+	<score>0.4676092</score>
+	<text>Bangladesh is located in the low-lying Ganges - Brahmaputra River Delta or Ganges Delta. This delta is formed by the confluence of the Ganges (local name Padma or P dda ), Brahmaputra ( Jamuna or Jomuna ), and Meghna rivers and their respective tributaries. The Ganges unites with the Jamuna (main channel of the Brahmaputra) and later joins the Meghna to eventually empty into the Bay of Bengal. The alluvial soil deposited by these rivers has created some of the most fertile plains in the world. Bangladesh has 58 trans-boundary rivers , making water issues politically complicated to resolve - in most cases as the lower riparian state to India.</text>
+</context>
+<context>
+	<score>0.4601206</score>
+	<text>In addition to traditional defense roles, the military has been called on to provide support to civil authorities for disaster relief and internal security during periods of political unrest. Bangladesh is not currently active in any ongoing war, but it did contribute 2,300 troops to the coalition that fought in the 1991 Gulf War and Bangladesh is consistently a top contributor to UN peacekeeping forces around the world. As of May 2007, Bangladesh had major deployments in Democratic Republic of Congo , Liberia , Sudan , Timor-Leste and Cote d&apos;Ivoire .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>City</th><th>City population<sup id="cite_ref-population_35-0" class="reference"><a href="#cite_note-population-35" title="">[36]</a></sup></th><th>Metro population<sup id="cite_ref-population_35-1" class="reference"><a href="#cite_note-population-35" title="">[36]</a></sup></th></tr><tr><td><a href="../../../../articles/d/h/a/Dhaka.html" title="Dhaka">Dhaka</a></td><td>6,969,458</td><td>11,918,442</td></tr><tr><td><a href="../../../../articles/c/h/i/Chittagong.html" title="Chittagong">Chittagong</a></td><td>3,920,222</td><td>3,920,222</td></tr><tr><td><a href="../../../../articles/k/h/u/Khulna.html" title="Khulna">Khulna</a></td><td>1,400,689</td><td>1,400,689</td></tr><tr><td><a href="../../../../articles/r/a/j/Rajshahi.html" title="Rajshahi">Rajshahi</a></td><td>727,083</td><td>727,083</td></tr><tr><td><a href="../../../../articles/s/y/l/Sylhet.html" title="Sylhet">Sylhet</a></td><td>339,368</td><td>339,368</td></tr><tr><td><a href="../../../../articles/b/a/r/Barisal_City_6af5.html" title="Barisal City">Barisal</a></td><td>291,769</td><td>291,769</td></tr></table>]]>
+</htmlSnippet>
+</entity>

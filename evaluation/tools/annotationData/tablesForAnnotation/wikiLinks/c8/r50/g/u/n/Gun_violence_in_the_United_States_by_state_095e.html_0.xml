@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r50/g/u/n/Gun_violence_in_the_United_States_by_state_095e.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.1875 1, 0.1875 0 1, 0.175 2, 0.175 0 2, 0.16250001 0 3, 0.156 3, 0.15 0 4, 0.1375 0 5, 0.135 4, 0.12650001 5, 0.125 0 6, 0.112500004 0 7, 0.1075 6, 0.10125 7, 0.032812502 1 2, 0.03046875 1 3, 0.028437499 2 3, 0.028125001 1 4, 0.02625 2 4, 0.02578125 1 5, 0.024375001 3 4, 0.0240625 2 5, 0.0234375 1 6, 0.022343753 3 5, 0.021875 2 6, 0.02109375 1 7, 0.020625 4 5, 0.020312501 3 6, 0.0196875 2 7, 0.018375002 4 6, 0.018281251 3 7, 0.0171875 5 6, 0.016875 4 7, 0.015468751 5 7, 0.014062501 6 7, " />
+<meta name="parentHTMLDoc" value="en/articles/g/u/n/Gun_violence_in_the_United_States_by_state_095e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Homicide rate per 100,000 population</th>]]></html>
+	<text>Homicide rate per 100,000 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Gun homicides per 100,000 population</th>]]></html>
+	<text>Gun homicides per 100,000 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of homicides</th>]]></html>
+	<text>Number of homicides</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Gun</th>]]></html>
+	<text>% Gun</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Knife</th>]]></html>
+	<text>% Knife</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Other Weapons</th>]]></html>
+	<text>% Other Weapons</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4506685</td>]]></html>
+	<text>4506685</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.74</td>]]></html>
+	<text>12.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.13</td>]]></html>
+	<text>10.13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>574</td>]]></html>
+	<text>574</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>79.5</td>]]></html>
+	<text>79.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.9</td>]]></html>
+	<text>7.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.6</td>]]></html>
+	<text>12.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5561332</td>]]></html>
+	<text>5561332</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.37</td>]]></html>
+	<text>9.37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.95</td>]]></html>
+	<text>6.95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>521</td>]]></html>
+	<text>521</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74.2</td>]]></html>
+	<text>74.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.8</td>]]></html>
+	<text>14.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2900768</td>]]></html>
+	<text>2900768</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.83</td>]]></html>
+	<text>7.83</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.55</td>]]></html>
+	<text>5.55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>227</td>]]></html>
+	<text>227</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70.9</td>]]></html>
+	<text>70.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.6</td>]]></html>
+	<text>12.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.6</td>]]></html>
+	<text>16.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5739879</td>]]></html>
+	<text>5739879</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.21</td>]]></html>
+	<text>3.21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.22</td>]]></html>
+	<text>1.22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>414</td>]]></html>
+	<text>414</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72.4</td>]]></html>
+	<text>72.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.8</td>]]></html>
+	<text>10.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.9</td>]]></html>
+	<text>16.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35842038</td>]]></html>
+	<text>35842038</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.67</td>]]></html>
+	<text>6.67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.82</td>]]></html>
+	<text>4.82</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2392</td>]]></html>
+	<text>2392</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72.2</td>]]></html>
+	<text>72.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.8</td>]]></html>
+	<text>11.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.1</td>]]></html>
+	<text>16.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2332898</td>]]></html>
+	<text>2332898</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.37</td>]]></html>
+	<text>7.37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.72</td>]]></html>
+	<text>4.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>172</td>]]></html>
+	<text>172</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64</td>]]></html>
+	<text>64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.1</td>]]></html>
+	<text>22.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4197892</td>]]></html>
+	<text>4197892</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.86</td>]]></html>
+	<text>6.86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.64</td>]]></html>
+	<text>4.64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>288</td>]]></html>
+	<text>288</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>67.7</td>]]></html>
+	<text>67.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.2</td>]]></html>
+	<text>13.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.1</td>]]></html>
+	<text>19.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12712016</td>]]></html>
+	<text>12712016</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.10</td>]]></html>
+	<text>6.10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.59</td>]]></html>
+	<text>4.59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>776</td>]]></html>
+	<text>776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75.2</td>]]></html>
+	<text>75.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.3</td>]]></html>
+	<text>8.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.5</td>]]></html>
+	<text>16.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10104206</td>]]></html>
+	<text>10104206</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.36</td>]]></html>
+	<text>6.36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.55</td>]]></html>
+	<text>4.55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>643</td>]]></html>
+	<text>643</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71.5</td>]]></html>
+	<text>71.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.7</td>]]></html>
+	<text>10.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.9</td>]]></html>
+	<text>17.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1903006</td>]]></html>
+	<text>1903006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.88</td>]]></html>
+	<text>8.88</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.44</td>]]></html>
+	<text>4.44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>169</td>]]></html>
+	<text>169</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8918129</td>]]></html>
+	<text>8918129</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.87</td>]]></html>
+	<text>6.87</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.43</td>]]></html>
+	<text>4.43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>613</td>]]></html>
+	<text>613</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.5</td>]]></html>
+	<text>64.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.2</td>]]></html>
+	<text>13.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.3</td>]]></html>
+	<text>22.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5759532</td>]]></html>
+	<text>5759532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.15</td>]]></html>
+	<text>6.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.23</td>]]></html>
+	<text>4.23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>354</td>]]></html>
+	<text>354</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68.8</td>]]></html>
+	<text>68.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.5</td>]]></html>
+	<text>10.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.7</td>]]></html>
+	<text>20.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2750000</td>]]></html>
+	<text>2750000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.4</td>]]></html>
+	<text>6.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.91</td>]]></html>
+	<text>4.91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>176</td>]]></html>
+	<text>176</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.7</td>]]></html>
+	<text>62.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.4</td>]]></html>
+	<text>12.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24.8</td>]]></html>
+	<text>24.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22471549</td>]]></html>
+	<text>22471549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.07</td>]]></html>
+	<text>6.07</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.93</td>]]></html>
+	<text>3.93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1364</td>]]></html>
+	<text>1364</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.8</td>]]></html>
+	<text>64.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.5</td>]]></html>
+	<text>15.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.7</td>]]></html>
+	<text>19.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5893298</td>]]></html>
+	<text>5893298</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.95</td>]]></html>
+	<text>5.95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.76</td>]]></html>
+	<text>3.76</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>351</td>]]></html>
+	<text>351</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>63.1</td>]]></html>
+	<text>63.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.7</td>]]></html>
+	<text>13.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.1</td>]]></html>
+	<text>23.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12394471</td>]]></html>
+	<text>12394471</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.24</td>]]></html>
+	<text>5.24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.72</td>]]></html>
+	<text>3.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>650</td>]]></html>
+	<text>650</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71</td>]]></html>
+	<text>71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.5</td>]]></html>
+	<text>8.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.4</td>]]></html>
+	<text>20.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8540468</td>]]></html>
+	<text>8540468</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.23</td>]]></html>
+	<text>6.23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.71</td>]]></html>
+	<text>3.71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>532</td>]]></html>
+	<text>532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>59.5</td>]]></html>
+	<text>59.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.4</td>]]></html>
+	<text>26.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7481332</td>]]></html>
+	<text>7481332</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.23</td>]]></html>
+	<text>5.23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.63</td>]]></html>
+	<text>3.63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>391</td>]]></html>
+	<text>391</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69.4</td>]]></html>
+	<text>69.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.3</td>]]></html>
+	<text>11.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.3</td>]]></html>
+	<text>19.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4525375</td>]]></html>
+	<text>4525375</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.61</td>]]></html>
+	<text>5.61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.61</td>]]></html>
+	<text>3.61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>254</td>]]></html>
+	<text>254</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.3</td>]]></html>
+	<text>64.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.6</td>]]></html>
+	<text>9.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.1</td>]]></html>
+	<text>26.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4141835</td>]]></html>
+	<text>4141835</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.70</td>]]></html>
+	<text>5.70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.57</td>]]></html>
+	<text>3.57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>236</td>]]></html>
+	<text>236</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.7</td>]]></html>
+	<text>62.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.5</td>]]></html>
+	<text>11.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.8</td>]]></html>
+	<text>25.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6226537</td>]]></html>
+	<text>6226537</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.06</td>]]></html>
+	<text>5.06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.53</td>]]></html>
+	<text>3.53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>316</td>]]></html>
+	<text>316</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69.6</td>]]></html>
+	<text>69.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.4</td>]]></html>
+	<text>12.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.1</td>]]></html>
+	<text>18.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17385430</td>]]></html>
+	<text>17385430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.08</td>]]></html>
+	<text>5.08</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.15</td>]]></html>
+	<text>3.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>883</td>]]></html>
+	<text>883</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62</td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.8</td>]]></html>
+	<text>14.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.2</td>]]></html>
+	<text>23.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3523546</td>]]></html>
+	<text>3523546</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.28</td>]]></html>
+	<text>5.28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.01</td>]]></html>
+	<text>3.01</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>186</td>]]></html>
+	<text>186</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>57</td>]]></html>
+	<text>57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.2</td>]]></html>
+	<text>17.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.8</td>]]></html>
+	<text>25.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2733697</td>]]></html>
+	<text>2733697</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.50</td>]]></html>
+	<text>4.50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.70</td>]]></html>
+	<text>2.70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>123</td>]]></html>
+	<text>123</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19280727</td>]]></html>
+	<text>19280727</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.61</td>]]></html>
+	<text>4.61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.67</td>]]></html>
+	<text>2.67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>889</td>]]></html>
+	<text>889</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>57.8</td>]]></html>
+	<text>57.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.2</td>]]></html>
+	<text>22.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8685166</td>]]></html>
+	<text>8685166</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.51</td>]]></html>
+	<text>4.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.65</td>]]></html>
+	<text>2.65</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>392</td>]]></html>
+	<text>392</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.8</td>]]></html>
+	<text>58.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.9</td>]]></html>
+	<text>17.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.3</td>]]></html>
+	<text>23.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>657755</td>]]></html>
+	<text>657755</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.63</td>]]></html>
+	<text>5.63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.58</td>]]></html>
+	<text>2.58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.9</td>]]></html>
+	<text>45.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.8</td>]]></html>
+	<text>10.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.2</td>]]></html>
+	<text>43.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4601821</td>]]></html>
+	<text>4601821</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.41</td>]]></html>
+	<text>4.41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.57</td>]]></html>
+	<text>2.57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>203</td>]]></html>
+	<text>203</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.3</td>]]></html>
+	<text>58.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.1</td>]]></html>
+	<text>16.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.6</td>]]></html>
+	<text>25.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11450143</td>]]></html>
+	<text>11450143</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.52</td>]]></html>
+	<text>4.52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.37</td>]]></html>
+	<text>2.37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>517</td>]]></html>
+	<text>517</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.7</td>]]></html>
+	<text>52.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.3</td>]]></html>
+	<text>12.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35.1</td>]]></html>
+	<text>35.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>926920</td>]]></html>
+	<text>926920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.24</td>]]></html>
+	<text>3.24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.31</td>]]></html>
+	<text>2.31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71.4</td>]]></html>
+	<text>71.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.3</td>]]></html>
+	<text>14.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.3</td>]]></html>
+	<text>14.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1812548</td>]]></html>
+	<text>1812548</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.75</td>]]></html>
+	<text>3.75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.90</td>]]></html>
+	<text>1.90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68</td>]]></html>
+	<text>68</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50.8</td>]]></html>
+	<text>50.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.7</td>]]></html>
+	<text>12.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36.5</td>]]></html>
+	<text>36.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5503533</td>]]></html>
+	<text>5503533</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.79</td>]]></html>
+	<text>2.79</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.80</td>]]></html>
+	<text>1.80</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>154</td>]]></html>
+	<text>154</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.5</td>]]></html>
+	<text>64.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.9</td>]]></html>
+	<text>12.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.6</td>]]></html>
+	<text>22.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6207046</td>]]></html>
+	<text>6207046</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.06</td>]]></html>
+	<text>3.06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.71</td>]]></html>
+	<text>1.71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>190</td>]]></html>
+	<text>190</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>56.1</td>]]></html>
+	<text>56.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.3</td>]]></html>
+	<text>15.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.6</td>]]></html>
+	<text>28.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6407382</td>]]></html>
+	<text>6407382</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.64</td>]]></html>
+	<text>2.64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.53</td>]]></html>
+	<text>1.53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>169</td>]]></html>
+	<text>169</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.1</td>]]></html>
+	<text>58.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.2</td>]]></html>
+	<text>22.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.8</td>]]></html>
+	<text>19.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1079916</td>]]></html>
+	<text>1079916</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.41</td>]]></html>
+	<text>2.41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.48</td>]]></html>
+	<text>1.48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61.5</td>]]></html>
+	<text>61.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.5</td>]]></html>
+	<text>11.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.9</td>]]></html>
+	<text>26.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5096546</td>]]></html>
+	<text>5096546</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.22</td>]]></html>
+	<text>2.22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.47</td>]]></html>
+	<text>1.47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113</td>]]></html>
+	<text>113</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>66.4</td>]]></html>
+	<text>66.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.3</td>]]></html>
+	<text>17.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.4</td>]]></html>
+	<text>16.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1747704</td>]]></html>
+	<text>1747704</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.89</td>]]></html>
+	<text>2.89</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.44</td>]]></html>
+	<text>1.44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>63</td>]]></html>
+	<text>63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.1</td>]]></html>
+	<text>11.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.9</td>]]></html>
+	<text>25.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3498966</td>]]></html>
+	<text>3498966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.60</td>]]></html>
+	<text>2.60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.40</td>]]></html>
+	<text>1.40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91</td>]]></html>
+	<text>91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54</td>]]></html>
+	<text>54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.5</td>]]></html>
+	<text>19.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.4</td>]]></html>
+	<text>26.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3591363</td>]]></html>
+	<text>3591363</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.51</td>]]></html>
+	<text>2.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.34</td>]]></html>
+	<text>1.34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90</td>]]></html>
+	<text>90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53.3</td>]]></html>
+	<text>53.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.7</td>]]></html>
+	<text>26.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>830069</td>]]></html>
+	<text>830069</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.05</td>]]></html>
+	<text>2.05</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.32</td>]]></html>
+	<text>1.32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.3</td>]]></html>
+	<text>64.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.4</td>]]></html>
+	<text>21.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.3</td>]]></html>
+	<text>14.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1395140</td>]]></html>
+	<text>1395140</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.15</td>]]></html>
+	<text>2.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.22</td>]]></html>
+	<text>1.22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>56.7</td>]]></html>
+	<text>56.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.7</td>]]></html>
+	<text>16.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.7</td>]]></html>
+	<text>26.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2420708</td>]]></html>
+	<text>2420708</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.90</td>]]></html>
+	<text>1.90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.93</td>]]></html>
+	<text>0.93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46</td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49.1</td>]]></html>
+	<text>49.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.7</td>]]></html>
+	<text>12.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.2</td>]]></html>
+	<text>38.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2952904</td>]]></html>
+	<text>2952904</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.36</td>]]></html>
+	<text>1.36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.74</td>]]></html>
+	<text>0.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46</td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47.5</td>]]></html>
+	<text>47.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.5</td>]]></html>
+	<text>22.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>770621</td>]]></html>
+	<text>770621</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.34</td>]]></html>
+	<text>2.34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.74</td>]]></html>
+	<text>0.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31.3</td>]]></html>
+	<text>31.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.8</td>]]></html>
+	<text>43.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1314985</td>]]></html>
+	<text>1314985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.37</td>]]></html>
+	<text>1.37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.72</td>]]></html>
+	<text>0.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.9</td>]]></html>
+	<text>52.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.5</td>]]></html>
+	<text>23.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.5</td>]]></html>
+	<text>23.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>636308</td>]]></html>
+	<text>636308</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.41</td>]]></html>
+	<text>1.41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.71</td>]]></html>
+	<text>0.71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>505887</td>]]></html>
+	<text>505887</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.17</td>]]></html>
+	<text>2.17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.59</td>]]></html>
+	<text>0.59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.3</td>]]></html>
+	<text>27.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.3</td>]]></html>
+	<text>27.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.5</td>]]></html>
+	<text>45.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1262124</td>]]></html>
+	<text>1262124</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.61</td>]]></html>
+	<text>2.61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.51</td>]]></html>
+	<text>0.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.4</td>]]></html>
+	<text>19.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41.9</td>]]></html>
+	<text>41.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.7</td>]]></html>
+	<text>38.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>621233</td>]]></html>
+	<text>621233</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.58</td>]]></html>
+	<text>2.58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.48</td>]]></html>
+	<text>0.48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.8</td>]]></html>
+	<text>18.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.8</td>]]></html>
+	<text>43.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.5</td>]]></html>
+	<text>37.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1299169</td>]]></html>
+	<text>1299169</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.39</td>]]></html>
+	<text>1.39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.43</td>]]></html>
+	<text>0.43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30.8</td>]]></html>
+	<text>30.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.1</td>]]></html>
+	<text>23.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46.2</td>]]></html>
+	<text>46.2</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Gun violence in the United States by state - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State Population Homicide rate per 100,000 population Gun homicides per 100,000 population Number of homicides % Gun % Knife % Other Weapons</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>Gun violence in the United States by state:</text>
+</context>
+<context>
+	<score>0.8103083</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8103083</score>
+	<text>Gun violence in the United States by state</text>
+</context>
+<context>
+	<score>0.7633354</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.74728173</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.74728173</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.7319841</score>
+	<text>Gun violence in the United States by state</text>
+</context>
+<context>
+	<score>0.6151222</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.52793795</score>
+	<text>State-level homicide characteristics database - Bureau of Justice Statistics American FactFinder - United States Census Bureau</text>
+</context>
+<context>
+	<score>0.47665316</score>
+	<text>This United States -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table style="width:100%;" class="wikitable sortable"><tr><th style="width:15%;text-align:left;">State</th><th style="width:12%;text-align:left;">Population</th><th style="width:10%;text-align:left;">Homicide rate<br /><small>per 100,000 population</small></th><th style="width:10%;text-align:left;background-color:#F8FBA3;">Gun homicides<br /><small>per 100,000 population</small></th><th style="width:10%;text-align:left;">Number of homicides</th><th style="width:10%;text-align:left;">% Gun</th><th style="width:10%;text-align:left;">% Knife</th><th style="width:10%;text-align:left;">% Other Weapons</th></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td>4506685</td><td>12.74</td><td style="background-color:#F9FBCA;">10.13</td><td>574</td><td>79.5</td><td>7.9</td><td>12.6</td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td>5561332</td><td>9.37</td><td style="background-color:#F9FBCA;">6.95</td><td>521</td><td>74.2</td><td>11</td><td>14.8</td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td>2900768</td><td>7.83</td><td style="background-color:#F9FBCA;">5.55</td><td>227</td><td>70.9</td><td>12.6</td><td>16.6</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>5739879</td><td>3.21</td><td style="background-color:#F9FBCA;">1.22</td><td>414</td><td>72.4</td><td>10.8</td><td>16.9</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>35842038</td><td>6.67</td><td style="background-color:#F9FBCA;">4.82</td><td>2392</td><td>72.2</td><td>11.8</td><td>16.1</td></tr><tr><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>2332898</td><td>7.37</td><td style="background-color:#F9FBCA;">4.72</td><td>172</td><td>64</td><td>14</td><td>22.1</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td>4197892</td><td>6.86</td><td style="background-color:#F9FBCA;">4.64</td><td>288</td><td>67.7</td><td>13.2</td><td>19.1</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td>12712016</td><td>6.10</td><td style="background-color:#F9FBCA;">4.59</td><td>776</td><td>75.2</td><td>8.3</td><td>16.5</td></tr><tr><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td>10104206</td><td>6.36</td><td style="background-color:#F9FBCA;">4.55</td><td>643</td><td>71.5</td><td>10.7</td><td>17.9</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td>1903006</td><td>8.88</td><td style="background-color:#F9FBCA;">4.44</td><td>169</td><td>50</td><td>18</td><td>32</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td>8918129</td><td>6.87</td><td style="background-color:#F9FBCA;">4.43</td><td>613</td><td>64.5</td><td>13.2</td><td>22.3</td></tr><tr><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td>5759532</td><td>6.15</td><td style="background-color:#F9FBCA;">4.23</td><td>354</td><td>68.8</td><td>10.5</td><td>20.7</td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td>2750000</td><td>6.4</td><td style="background-color:#F9FBCA;">4.91</td><td>176</td><td>62.7</td><td>12.4</td><td>24.8</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>22471549</td><td>6.07</td><td style="background-color:#F9FBCA;">3.93</td><td>1364</td><td>64.8</td><td>15.5</td><td>19.7</td></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td>5893298</td><td>5.95</td><td style="background-color:#F9FBCA;">3.76</td><td>351</td><td>63.1</td><td>13.7</td><td>23.1</td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>12394471</td><td>5.24</td><td style="background-color:#F9FBCA;">3.72</td><td>650</td><td>71</td><td>8.5</td><td>20.4</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td>8540468</td><td>6.23</td><td style="background-color:#F9FBCA;">3.71</td><td>532</td><td>59.5</td><td>14</td><td>26.4</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td>7481332</td><td>5.23</td><td style="background-color:#F9FBCA;">3.63</td><td>391</td><td>69.4</td><td>11.3</td><td>19.3</td></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td>4525375</td><td>5.61</td><td style="background-color:#F9FBCA;">3.61</td><td>254</td><td>64.3</td><td>9.6</td><td>26.1</td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td>4141835</td><td>5.70</td><td style="background-color:#F9FBCA;">3.57</td><td>236</td><td>62.7</td><td>11.5</td><td>25.8</td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td>6226537</td><td>5.06</td><td style="background-color:#F9FBCA;">3.53</td><td>316</td><td>69.6</td><td>12.4</td><td>18.1</td></tr><tr><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td>17385430</td><td>5.08</td><td style="background-color:#F9FBCA;">3.15</td><td>883</td><td>62</td><td>14.8</td><td>23.2</td></tr><tr><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td>3523546</td><td>5.28</td><td style="background-color:#F9FBCA;">3.01</td><td>186</td><td>57</td><td>17.2</td><td>25.8</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td>2733697</td><td>4.50</td><td style="background-color:#F9FBCA;">2.70</td><td>123</td><td>60</td><td>8</td><td>32</td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>19280727</td><td>4.61</td><td style="background-color:#F9FBCA;">2.67</td><td>889</td><td>57.8</td><td>20</td><td>22.2</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td>8685166</td><td>4.51</td><td style="background-color:#F9FBCA;">2.65</td><td>392</td><td>58.8</td><td>17.9</td><td>23.3</td></tr><tr><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td>657755</td><td>5.63</td><td style="background-color:#F9FBCA;">2.58</td><td>37</td><td>45.9</td><td>10.8</td><td>43.2</td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>4601821</td><td>4.41</td><td style="background-color:#F9FBCA;">2.57</td><td>203</td><td>58.3</td><td>16.1</td><td>25.6</td></tr><tr><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td>11450143</td><td>4.52</td><td style="background-color:#F9FBCA;">2.37</td><td>517</td><td>52.7</td><td>12.3</td><td>35.1</td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td>926920</td><td>3.24</td><td style="background-color:#F9FBCA;">2.31</td><td>30</td><td>71.4</td><td>14.3</td><td>14.3</td></tr><tr><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td>1812548</td><td>3.75</td><td style="background-color:#F9FBCA;">1.90</td><td>68</td><td>50.8</td><td>12.7</td><td>36.5</td></tr><tr><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td>5503533</td><td>2.79</td><td style="background-color:#F9FBCA;">1.80</td><td>154</td><td>64.5</td><td>12.9</td><td>22.6</td></tr><tr><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td>6207046</td><td>3.06</td><td style="background-color:#F9FBCA;">1.71</td><td>190</td><td>56.1</td><td>15.3</td><td>28.6</td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td>6407382</td><td>2.64</td><td style="background-color:#F9FBCA;">1.53</td><td>169</td><td>58.1</td><td>22.2</td><td>19.8</td></tr><tr><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td>1079916</td><td>2.41</td><td style="background-color:#F9FBCA;">1.48</td><td>26</td><td>61.5</td><td>11.5</td><td>26.9</td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>5096546</td><td>2.22</td><td style="background-color:#F9FBCA;">1.47</td><td>113</td><td>66.4</td><td>17.3</td><td>16.4</td></tr><tr><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td>1747704</td><td>2.89</td><td style="background-color:#F9FBCA;">1.44</td><td>40</td><td>63</td><td>11.1</td><td>25.9</td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td>3498966</td><td>2.60</td><td style="background-color:#F9FBCA;">1.40</td><td>91</td><td>54</td><td>19.5</td><td>26.4</td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td>3591363</td><td>2.51</td><td style="background-color:#F9FBCA;">1.34</td><td>90</td><td>53.3</td><td>20</td><td>26.7</td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td>830069</td><td>2.05</td><td style="background-color:#F9FBCA;">1.32</td><td>17</td><td>64.3</td><td>21.4</td><td>14.3</td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td>1395140</td><td>2.15</td><td style="background-color:#F9FBCA;">1.22</td><td>30</td><td>56.7</td><td>16.7</td><td>26.7</td></tr><tr><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td>2420708</td><td>1.90</td><td style="background-color:#F9FBCA;">0.93</td><td>46</td><td>49.1</td><td>12.7</td><td>38.2</td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td>2952904</td><td>1.36</td><td style="background-color:#F9FBCA;">0.74</td><td>46</td><td>47.5</td><td>22.5</td><td>30</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td>770621</td><td>2.34</td><td style="background-color:#F9FBCA;">0.74</td><td>18</td><td>31.3</td><td>25</td><td>43.8</td></tr><tr><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td>1314985</td><td>1.37</td><td style="background-color:#F9FBCA;">0.72</td><td>18</td><td>52.9</td><td>23.5</td><td>23.5</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td>636308</td><td>1.41</td><td style="background-color:#F9FBCA;">0.71</td><td>9</td><td>50</td><td>0</td><td>50</td></tr><tr><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td>505887</td><td>2.17</td><td style="background-color:#F9FBCA;">0.59</td><td>11</td><td>27.3</td><td>27.3</td><td>45.5</td></tr><tr><td><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td>1262124</td><td>2.61</td><td style="background-color:#F9FBCA;">0.51</td><td>33</td><td>19.4</td><td>41.9</td><td>38.7</td></tr><tr><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td>621233</td><td>2.58</td><td style="background-color:#F9FBCA;">0.48</td><td>16</td><td>18.8</td><td>43.8</td><td>37.5</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td>1299169</td><td>1.39</td><td style="background-color:#F9FBCA;">0.43</td><td>18</td><td>30.8</td><td>23.1</td><td>46.2</td></tr></table>]]>
+</htmlSnippet>
+</entity>

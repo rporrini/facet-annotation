@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r17/t/r/a/Transatlantic_telephone_cable.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 2, 0.85714287 0 5, 0.78571427 0 6, 0.5942377 5 6, 0.515006 2 6, 0.50840336 6, 0.42136857 2 5, 0.40336135 5, 0.14285715 1, 0.14285715 0 1, 0.13265306 1 2, 0.12857144 0 3, 0.12244899 1 5, 0.11428572 0 4, 0.112244904 1 6, 0.1092437 2, 0.10588236 3, 0.10102041 3 6, 0.09831932 2 3, 0.0972389 3 5, 0.089795925 4 6, 0.07490997 4 5, 0.056182478 2 4, 0.053781517 4, 0.018367348 1 3, 0.016326532 1 4, 0.013829533 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/a/Transatlantic_telephone_cable.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Cable Name</th>]]></html>
+	<text>Cable Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date(s) in service</th>]]></html>
+	<text>Date(s) in service</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Initial No. of channels</th>]]></html>
+	<text>Initial No. of channels</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Final No. of channels</th>]]></html>
+	<text>Final No. of channels</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Western end</th>]]></html>
+	<text>Western end</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Eastern end</th>]]></html>
+	<text>Eastern end</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-1</td>]]></html>
+	<text>TAT-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1956 - 1978</td>]]></html>
+	<text>1956 - 1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newfoundland</td>]]></html>
+	<text>Newfoundland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scotland</td>]]></html>
+	<text>Scotland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-2</td>]]></html>
+	<text>TAT-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1959 - 1982</td>]]></html>
+	<text>1959 - 1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72</td>]]></html>
+	<text>72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newfoundland</td>]]></html>
+	<text>Newfoundland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-3</td>]]></html>
+	<text>TAT-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963 - 1986</td>]]></html>
+	<text>1963 - 1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>138</td>]]></html>
+	<text>138</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>276</td>]]></html>
+	<text>276</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-4</td>]]></html>
+	<text>TAT-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1965 - 1987</td>]]></html>
+	<text>1965 - 1987</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>138</td>]]></html>
+	<text>138</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>345</td>]]></html>
+	<text>345</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-5</td>]]></html>
+	<text>TAT-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1970 - 1993</td>]]></html>
+	<text>1970 - 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>845</td>]]></html>
+	<text>845</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2112</td>]]></html>
+	<text>2112</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-6</td>]]></html>
+	<text>TAT-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1976 - 1994</td>]]></html>
+	<text>1976 - 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000</td>]]></html>
+	<text>4,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-7</td>]]></html>
+	<text>TAT-7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978 - 1994</td>]]></html>
+	<text>1978 - 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000</td>]]></html>
+	<text>4,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,500</td>]]></html>
+	<text>10,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-8 *</td>]]></html>
+	<text>TAT-8 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1988 - 2002</td>]]></html>
+	<text>1988 - 2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,000</td>]]></html>
+	<text>40,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA</td>]]></html>
+	<text>USA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England , France</td>]]></html>
+	<text>England , France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-9</td>]]></html>
+	<text>TAT-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992 - 2004</td>]]></html>
+	<text>1992 - 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80,000</td>]]></html>
+	<text>80,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA , Nova Scotia</td>]]></html>
+	<text>USA , Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spain , France , United Kingdom</td>]]></html>
+	<text>Spain , France , United Kingdom</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-10</td>]]></html>
+	<text>TAT-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992 - 2003</td>]]></html>
+	<text>1992 - 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 x 565 Mbit/s</td>]]></html>
+	<text>2 x 565 Mbit/s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA</td>]]></html>
+	<text>USA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-11</td>]]></html>
+	<text>TAT-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1993 - 2003</td>]]></html>
+	<text>1993 - 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 x 565 Mbit/s</td>]]></html>
+	<text>2 x 565 Mbit/s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA</td>]]></html>
+	<text>USA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-12/13</td>]]></html>
+	<text>TAT-12/13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1996 -</td>]]></html>
+	<text>1996 -</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 x 2.5 Gbit/s</td>]]></html>
+	<text>12 x 2.5 Gbit/s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA x 2</td>]]></html>
+	<text>USA x 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom , France</td>]]></html>
+	<text>United Kingdom , France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TAT-14</td>]]></html>
+	<text>TAT-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000 -</td>]]></html>
+	<text>2000 -</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 x 10 Gbit/s</td>]]></html>
+	<text>64 x 10 Gbit/s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA x 2</td>]]></html>
+	<text>USA x 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom , France , Netherlands , Germany , Denmark</td>]]></html>
+	<text>United Kingdom , France , Netherlands , Germany , Denmark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CANTAT-1</td>]]></html>
+	<text>CANTAT-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1961 - 1986</td>]]></html>
+	<text>1961 - 1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80</td>]]></html>
+	<text>80</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newfoundland</td>]]></html>
+	<text>Newfoundland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scotland</td>]]></html>
+	<text>Scotland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CANTAT-2</td>]]></html>
+	<text>CANTAT-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1974 - 1992</td>]]></html>
+	<text>1974 - 1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Galvanic</td>]]></html>
+	<text>Galvanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,840</td>]]></html>
+	<text>1,840</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CANTAT-3</td>]]></html>
+	<text>CANTAT-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994 -</td>]]></html>
+	<text>1994 -</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 x 2.5 Gbit/s</td>]]></html>
+	<text>2 x 2.5 Gbit/s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iceland , Faroe Islands , England , Denmark , Germany</td>]]></html>
+	<text>Iceland , Faroe Islands , England , Denmark , Germany</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PTAT-1</td>]]></html>
+	<text>PTAT-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989 - 2004</td>]]></html>
+	<text>1989 - 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiber-optic</td>]]></html>
+	<text>Fiber-optic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 x 140 Mbit/s?</td>]]></html>
+	<text>3 x 140 Mbit/s?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey &amp; Bermuda</td>]]></html>
+	<text>New Jersey &amp;amp;amp; Bermuda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ireland &amp; United Kingdom</td>]]></html>
+	<text>Ireland &amp;amp;amp; United Kingdom</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Transatlantic telephone cable - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Cable Name Date(s) in service Type Initial No. of channels Final No. of channels Western end Eastern end</text>
+</context>
+<context>
+	<score>0.8873279</score>
+	<text>There have been a succession of newer transatlantic cable systems. All recent systems have used fiber optic transmission, and a self-healing ring topology. Late in the 20th century, Communications satellites lost most of their North Atlantic telephone traffic to these low cost, high capacity cables.</text>
+</context>
+<context>
+	<score>0.8064306</score>
+	<text>Transatlantic telephone cable</text>
+</context>
+<context>
+	<score>0.7900365</score>
+	<text>TAT-1 (Transatlantic No. 1) was the first submarine transatlantic telephone cable system. It was laid between Gallanach Bay, near Oban , Scotland and Clarenville , Newfoundland between 1955 and 1956. It was inaugurated on September 25 , 1956 , initially carrying 36 telephone channels. In the first 24 hours of public service there were 588 London-US calls and 119 from London to Canada. The capacity of the cable was soon increased to 48 channels. TAT-1 was finally retired in 1978.</text>
+</context>
+<context>
+	<score>0.75855994</score>
+	<text>* first fiber optic cable.</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] Other Atlantic cables</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71220344</score>
+	<text>When the first transatlantic telegraph cable was laid in 1858 by businessman Cyrus West Field , it operated for only a month; subsequent attempts in 1865 and 1866 were more successful. Although a telephone cable was discussed starting in the 1920s, to be practical it needed a number of technological advances which did not arrive until the 1940s. Starting in 1927, transatlantic telephone service was radio -based.</text>
+</context>
+<context>
+	<score>0.64993685</score>
+	<text>A transatlantic telephone cable is a submarine communications cable that carries telephone traffic under the Atlantic Ocean .</text>
+</context>
+<context>
+	<score>0.6165177</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6112761</score>
+	<text>The TAT series of cables constitute a large percentage of all north Atlantic cables. All TAT cables are consortia joint ventures between a number of telecommunications companies, e.g. British Telecom . CANTAT are Transatlantic Telephone cables terminating in Canada rather than the USA. There are a number of private non-TAT cables.</text>
+</context>
+<context>
+	<score>0.57666713</score>
+	<text>Transatlantic telephone cable</text>
+</context>
+<context>
+	<score>0.52463865</score>
+	<text>[ edit ] Other Atlantic cables</text>
+</context>
+<context>
+	<score>0.47367543</score>
+	<text>SAT-2 , SAT-3/WASC/SAFE , ATLANTIS-2 , COLUMBUS III .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Cable Name</th><th>Date(s) in service</th><th>Type</th><th>Initial No. of channels</th><th>Final No. of channels</th><th>Western end</th><th>Eastern end</th></tr><tr><td><a href="../../../../articles/t/a/t/TAT-1_8497.html" title="TAT-1">TAT-1</a></td><td><a href="../../../../articles/1/9/5/1956.html" title="1956">1956</a>-<a href="../../../../articles/1/9/7/1978.html" title="1978">1978</a></td><td>Galvanic</td><td>36</td><td>48</td><td><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland</a></td><td><a href="../../../../articles/s/c/o/Scotland.html" title="Scotland">Scotland</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-2_b28f.html" title="TAT-2">TAT-2</a></td><td><a href="../../../../articles/1/9/5/1959.html" title="1959">1959</a>-<a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a></td><td>Galvanic</td><td>48</td><td>72</td><td><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-3_745b.html" title="TAT-3">TAT-3</a></td><td><a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a>-<a href="../../../../articles/1/9/8/1986.html" title="1986">1986</a></td><td>Galvanic</td><td>138</td><td>276</td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/e/n/g/England.html" title="England">England</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-4_000f.html" title="TAT-4">TAT-4</a></td><td><a href="../../../../articles/1/9/6/1965.html" title="1965">1965</a>-<a href="../../../../articles/1/9/8/1987.html" title="1987">1987</a></td><td>Galvanic</td><td>138</td><td>345</td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-5_7bb0.html" title="TAT-5">TAT-5</a></td><td><a href="../../../../articles/1/9/7/1970.html" title="1970">1970</a>-<a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td>Galvanic</td><td>845</td><td>2112</td><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-6_c4e3.html" title="TAT-6">TAT-6</a></td><td><a href="../../../../articles/1/9/7/1976.html" title="1976">1976</a>-<a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td>Galvanic</td><td>4,000</td><td>10,000</td><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-7_6981.html" title="TAT-7">TAT-7</a></td><td><a href="../../../../articles/1/9/7/1978.html" title="1978">1978</a>-<a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td>Galvanic</td><td>4,000</td><td>10,500</td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/e/n/g/England.html" title="England">England</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-8_89df.html" title="TAT-8">TAT-8</a>*</td><td><a href="../../../../articles/1/9/8/1988.html" title="1988">1988</a>-<a href="../../../../articles/2/0/0/2002.html" title="2002">2002</a></td><td>Fiber-optic</td><td>40,000</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a></td><td><a href="../../../../articles/e/n/g/England.html" title="England">England</a>, <a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-9_45c0.html" title="TAT-9">TAT-9</a></td><td><a href="../../../../articles/1/9/9/1992.html" title="1992">1992</a>-<a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td>Fiber-optic</td><td>80,000</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a>, <a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a>, <a href="../../../../articles/f/r/a/France.html" title="France">France</a>, <a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-10_0565.html" title="TAT-10">TAT-10</a></td><td><a href="../../../../articles/1/9/9/1992.html" title="1992">1992</a>-<a href="../../../../articles/2/0/0/2003.html" title="2003">2003</a></td><td>Fiber-optic</td><td>2 x 565 Mbit/s</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a></td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-11_3133.html" title="TAT-11">TAT-11</a></td><td><a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a>-<a href="../../../../articles/2/0/0/2003.html" title="2003">2003</a></td><td>Fiber-optic</td><td>2 x 565 Mbit/s</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-12_13_9732.html" title="TAT-12/13">TAT-12/13</a></td><td><a href="../../../../articles/1/9/9/1996.html" title="1996">1996</a>-</td><td>Fiber-optic</td><td>12 x 2.5 Gbit/s</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a> x 2</td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a>, <a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/t/a/t/TAT-14_7df0.html" title="TAT-14">TAT-14</a></td><td><a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a>-</td><td>Fiber-optic</td><td>64 x 10 Gbit/s</td><td>-</td><td><a href="../../../../articles/u/s/a/USA_f75d.html" class="mw-redirect" title="USA">USA</a> x 2</td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a>, <a href="../../../../articles/f/r/a/France.html" title="France">France</a>, <a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a>, <a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a>, <a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td></tr><tr><td><a href="../../../../articles/c/a/n/CANTAT-1_5521.html" title="CANTAT-1">CANTAT-1</a></td><td><a href="../../../../articles/1/9/6/1961.html" title="1961">1961</a>-<a href="../../../../articles/1/9/8/1986.html" title="1986">1986</a></td><td>Galvanic</td><td>80</td><td>-</td><td><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland</a></td><td><a href="../../../../articles/s/c/o/Scotland.html" title="Scotland">Scotland</a></td></tr><tr><td><a href="../../../../articles/c/a/n/CANTAT-2_f611.html" title="CANTAT-2">CANTAT-2</a></td><td><a href="../../../../articles/1/9/7/1974.html" title="1974">1974</a>-<a href="../../../../articles/1/9/9/1992.html" title="1992">1992</a></td><td>Galvanic</td><td>1,840</td><td>-</td><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td><a href="../../../../articles/e/n/g/England.html" title="England">England</a></td></tr><tr><td><a href="../../../../articles/c/a/n/CANTAT-3_2c93.html" title="CANTAT-3">CANTAT-3</a></td><td><a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a>-</td><td>Fiber-optic</td><td>2 x 2.5 Gbit/s</td><td></td><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td><a href="../../../../articles/i/c/e/Iceland.html" title="Iceland">Iceland</a>, <a href="../../../../articles/f/a/r/Faroe_Islands_62a3.html" title="Faroe Islands">Faroe Islands</a>, <a href="../../../../articles/e/n/g/England.html" title="England">England</a>, <a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a>, <a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td></tr><tr><td><a href="../../../../articles/p/t/a/PTAT-1_e054.html" title="PTAT-1">PTAT-1</a></td><td><a href="../../../../articles/1/9/8/1989.html" title="1989">1989</a>-<a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td>Fiber-optic</td><td>3 x 140 Mbit/s?</td><td></td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a> &amp; <a href="../../../../articles/b/e/r/Bermuda.html" title="Bermuda">Bermuda</a></td><td><a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a> &amp; <a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

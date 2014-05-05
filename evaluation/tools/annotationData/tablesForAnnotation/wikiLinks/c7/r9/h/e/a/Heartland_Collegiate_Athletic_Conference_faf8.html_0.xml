@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r9/h/e/a/Heartland_Collegiate_Athletic_Conference_faf8.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 2, 0.85714287 0 2, 0.79591835 1 2, 0.78571427 4, 0.78571427 0 4, 0.7295918 1 4, 0.67346936 2 4, 0.14285715 3, 0.14285715 0 3, 0.13265306 1 3, 0.12857144 0 5, 0.12244898 2 3, 0.119387746 1 5, 0.11428572 5, 0.11428572 0 6, 0.112244904 3 4, 0.11020408 2 5, 0.10612245 1 6, 0.10102041 4 5, 0.09795919 2 6, 0.089795925 4 6, 0.038095243 6, 0.018367348 3 5, 0.016326532 3 6, 0.014693879 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/h/e/a/Heartland_Collegiate_Athletic_Conference_faf8.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Institution</th>]]></html>
+	<text>Institution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Team Name</th>]]></html>
+	<text>Team Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Founded</th>]]></html>
+	<text>Founded</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Affiliation</th>]]></html>
+	<text>Affiliation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Enrollment</th>]]></html>
+	<text>Enrollment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year Joined</th>]]></html>
+	<text>Year Joined</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Anderson University</td>]]></html>
+	<text>Anderson University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anderson, Indiana</td>]]></html>
+	<text>Anderson, Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ravens</td>]]></html>
+	<text>Ravens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1917</td>]]></html>
+	<text>1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Church of God</td>]]></html>
+	<text>Private/Church of God</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,065</td>]]></html>
+	<text>3,065</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bluffton University</td>]]></html>
+	<text>Bluffton University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bluffton, Ohio</td>]]></html>
+	<text>Bluffton, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beavers</td>]]></html>
+	<text>Beavers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1899</td>]]></html>
+	<text>1899</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Mennonite</td>]]></html>
+	<text>Private/Mennonite</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,191</td>]]></html>
+	<text>1,191</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>College of Mount St. Joseph</td>]]></html>
+	<text>College of Mount St. Joseph</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cincinnati, Ohio</td>]]></html>
+	<text>Cincinnati, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lions</td>]]></html>
+	<text>Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Catholic</td>]]></html>
+	<text>Private/Catholic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,259</td>]]></html>
+	<text>2,259</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Defiance College</td>]]></html>
+	<text>Defiance College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defiance, Ohio</td>]]></html>
+	<text>Defiance, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellow Jackets</td>]]></html>
+	<text>Yellow Jackets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1850</td>]]></html>
+	<text>1850</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/United Church of Christ</td>]]></html>
+	<text>Private/United Church of Christ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Franklin College</td>]]></html>
+	<text>Franklin College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Franklin, Indiana</td>]]></html>
+	<text>Franklin, Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grizzlies</td>]]></html>
+	<text>Grizzlies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1834</td>]]></html>
+	<text>1834</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Baptist</td>]]></html>
+	<text>Private/Baptist</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hanover College</td>]]></html>
+	<text>Hanover College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hanover, Indiana</td>]]></html>
+	<text>Hanover, Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Panthers</td>]]></html>
+	<text>Panthers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1827</td>]]></html>
+	<text>1827</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Presbyterian</td>]]></html>
+	<text>Private/Presbyterian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,062</td>]]></html>
+	<text>1,062</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manchester College</td>]]></html>
+	<text>Manchester College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Manchester, Indiana</td>]]></html>
+	<text>North Manchester, Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spartans</td>]]></html>
+	<text>Spartans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1860</td>]]></html>
+	<text>1860</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Church of the Brethren</td>]]></html>
+	<text>Private/Church of the Brethren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,069</td>]]></html>
+	<text>1,069</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1987</td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rose-Hulman Institute of Technology</td>]]></html>
+	<text>Rose-Hulman Institute of Technology</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Terre Haute, Indiana</td>]]></html>
+	<text>Terre Haute, Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fightin' Engineers</td>]]></html>
+	<text>Fightin&amp;apos; Engineers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1874</td>]]></html>
+	<text>1874</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Non-sectarian</td>]]></html>
+	<text>Private/Non-sectarian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,970</td>]]></html>
+	<text>1,970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989</td>]]></html>
+	<text>1989</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Transylvania University</td>]]></html>
+	<text>Transylvania University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lexington, Kentucky</td>]]></html>
+	<text>Lexington, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pioneers</td>]]></html>
+	<text>Pioneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1780</td>]]></html>
+	<text>1780</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Disciples of Christ</td>]]></html>
+	<text>Private/Disciples of Christ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,120</td>]]></html>
+	<text>1,120</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Heartland Collegiate Athletic Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Institution Location Team Name Founded Affiliation Enrollment Year Joined</text>
+</context>
+<context>
+	<score>0.8785516</score>
+	<text>The league currently has 9 full members:</text>
+</context>
+<context>
+	<score>0.8003692</score>
+	<text>Heartland Collegiate Athletic Conference</text>
+</context>
+<context>
+	<score>0.79032296</score>
+	<text>[ edit ] Members (and year joined)</text>
+</context>
+<context>
+	<score>0.7588893</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.7315724</score>
+	<text>[ edit ] Members (and year joined)</text>
+</context>
+<context>
+	<score>0.7315724</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.7315724</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7315724</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7226423</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70366603</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.64148444</score>
+	<text>On August 1, 2006, Ryan Davis was hired as the new Sports Information Director for the conference.</text>
+</context>
+<context>
+	<score>0.6118064</score>
+	<text>Member teams compete in women&apos;s basketball , cross country , golf , soccer , softball , tennis , track and field and volleyball and men&apos;s baseball , basketball , cross country , football , golf , soccer , tennis and track and field .</text>
+</context>
+<context>
+	<score>0.6006692</score>
+	<text>Former members include Taylor (1987-1999), Wabash (1987-1999), and Wilmington (1998-1999). Rose-Hulman Institute of Technology (1988-1998) rejoined as of July 1, 2006.</text>
+</context>
+<context>
+	<score>0.55194294</score>
+	<text>Original members of the HCAC included Anderson, Bluffton, Franklin, Hanover, Manchester, Mount St. Joseph, Wabash, and Wilmington. Of the eight current members, six were founding members of the former ICAC.</text>
+</context>
+<context>
+	<score>0.529036</score>
+	<text>The Heartland Collegiate Athletic Conference ( HCAC ) is an intercollegiate athletic conference affiliated with the NCAA &apos;s Division III. Member institutions are located in Indiana , Kentucky and Ohio . Although officially instituted during the 1998-1999 season, the HCAC actually traces its history to the formation of the Indiana Collegiate Athletic Conference (ICAC) in 1987.</text>
+</context>
+<context>
+	<score>0.52528715</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.51361275</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.49323708</score>
+	<text>Heartland Collegiate Athletic Conference</text>
+</context>
+<context>
+	<score>0.4654634</score>
+	<text>The Indiana Collegiate Athletic Conference (ICAC) was formed in June 1987, with 1990-1991 being the first full season of competition (all eight teams competing in eight varsity sports).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Institution</th><th>Location</th><th>Team Name</th><th>Founded</th><th>Affiliation</th><th>Enrollment</th><th>Year Joined</th></tr><tr><td><a href="../../../../articles/a/n/d/Anderson_University_%28Indiana%29_3dfa.html" title="Anderson University (Indiana)">Anderson University</a></td><td><a href="../../../../articles/a/n/d/Anderson%2C_Indiana_1b64.html" title="Anderson, Indiana">Anderson, Indiana</a></td><td>Ravens</td><td>1917</td><td>Private/Church of God</td><td>3,065</td><td>1987</td></tr><tr><td><a href="../../../../articles/b/l/u/Bluffton_University_2785.html" title="Bluffton University">Bluffton University</a></td><td><a href="../../../../articles/b/l/u/Bluffton%2C_Ohio_ed2c.html" title="Bluffton, Ohio">Bluffton, Ohio</a></td><td>Beavers</td><td>1899</td><td>Private/Mennonite</td><td>1,191</td><td>1987</td></tr><tr><td><a href="../../../../articles/c/o/l/College_of_Mount_St._Joseph_702f.html" title="College of Mount St. Joseph">College of Mount St. Joseph</a></td><td><a href="../../../../articles/c/i/n/Cincinnati%2C_Ohio_33af.html" title="Cincinnati, Ohio">Cincinnati, Ohio</a></td><td>Lions</td><td>1920</td><td>Private/Catholic</td><td>2,259</td><td>1987</td></tr><tr><td><a href="../../../../articles/d/e/f/Defiance_College_82e7.html" title="Defiance College">Defiance College</a></td><td><a href="../../../../articles/d/e/f/Defiance%2C_Ohio_3875.html" title="Defiance, Ohio">Defiance, Ohio</a></td><td>Yellow Jackets</td><td>1850</td><td>Private/United Church of Christ</td><td>1,000</td><td>2000</td></tr><tr><td><a href="../../../../articles/f/r/a/Franklin_College_30a7.html" title="Franklin College">Franklin College</a></td><td><a href="../../../../articles/f/r/a/Franklin%2C_Indiana_e3d7.html" title="Franklin, Indiana">Franklin, Indiana</a></td><td>Grizzlies</td><td>1834</td><td>Private/Baptist</td><td>1,000</td><td>1987</td></tr><tr><td><a href="../../../../articles/h/a/n/Hanover_College_53cf.html" title="Hanover College">Hanover College</a></td><td><a href="../../../../articles/h/a/n/Hanover%2C_Indiana_da9e.html" title="Hanover, Indiana">Hanover, Indiana</a></td><td>Panthers</td><td>1827</td><td>Private/Presbyterian</td><td>1,062</td><td>1987</td></tr><tr><td><a href="../../../../articles/m/a/n/Manchester_College_%28Indiana%29_1ec8.html" title="Manchester College (Indiana)">Manchester College</a></td><td><a href="../../../../articles/n/o/r/North_Manchester%2C_Indiana_ac4e.html" title="North Manchester, Indiana">North Manchester, Indiana</a></td><td>Spartans</td><td>1860</td><td>Private/Church of the Brethren</td><td>1,069</td><td>1987</td></tr><tr><td><a href="../../../../articles/r/o/s/Rose-Hulman_Institute_of_Technology_019b.html" title="Rose-Hulman Institute of Technology">Rose-Hulman Institute of Technology</a></td><td><a href="../../../../articles/t/e/r/Terre_Haute%2C_Indiana_349e.html" title="Terre Haute, Indiana">Terre Haute, Indiana</a></td><td>Fightin' Engineers</td><td>1874</td><td>Private/Non-sectarian</td><td>1,970</td><td>1989</td></tr><tr><td><a href="../../../../articles/t/r/a/Transylvania_University_329b.html" title="Transylvania University">Transylvania University</a></td><td><a href="../../../../articles/l/e/x/Lexington%2C_Kentucky_68e8.html" title="Lexington, Kentucky">Lexington, Kentucky</a></td><td>Pioneers</td><td>1780</td><td>Private/Disciples of Christ</td><td>1,120</td><td>2000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

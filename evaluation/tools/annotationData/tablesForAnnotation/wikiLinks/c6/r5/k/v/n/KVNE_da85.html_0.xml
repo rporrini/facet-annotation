@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/k/v/n/KVNE_da85.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.73333335 3, 0.6111111 3 4, 0.55 3 5, 0.16666667 4, 0.15 5, 0.13333334 1, 0.13333334 1 2, 0.125 4 5, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.10000001 1 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/v/n/KVNE_da85.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K214BE</td>]]></html>
+	<text>K214BE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.7</td>]]></html>
+	<text>90.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shreveport, Louisiana</td>]]></html>
+	<text>Shreveport, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36 watts</td>]]></html>
+	<text>36 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K248BO</td>]]></html>
+	<text>K248BO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97.5</td>]]></html>
+	<text>97.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lufkin, Texas</td>]]></html>
+	<text>Lufkin, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62 watts</td>]]></html>
+	<text>62 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K282AM</td>]]></html>
+	<text>K282AM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104.3</td>]]></html>
+	<text>104.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Pleasant, Texas</td>]]></html>
+	<text>Mount Pleasant, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K256AT</td>]]></html>
+	<text>K256AT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.1</td>]]></html>
+	<text>99.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nacogdoches, Texas</td>]]></html>
+	<text>Nacogdoches, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115 watts</td>]]></html>
+	<text>115 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K274BA</td>]]></html>
+	<text>K274BA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.7</td>]]></html>
+	<text>102.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paris, Texas</td>]]></html>
+	<text>Paris, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KVNE - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>In addition to the main station, KVNE is relayed by an additional 5 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>KVNE</text>
+</context>
+<context>
+	<score>0.7910497</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.759159</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7121928</score>
+	<text>KVNE (89.5 FM ) is a radio station broadcasting a Christian radio format. Licensed to Tyler, Texas , USA, the station serves the Tyler-Longview area. The station is currently owned by Educational Radio Foundation of East Texas, Inc..</text>
+</context>
+<context>
+	<score>0.661942</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61147356</score>
+	<text>KVNE</text>
+</context>
+<context>
+	<score>0.60993797</score>
+	<text>^ &quot; Tyler-Longview TX Market Ratings &quot;, Radio Research Consortium , Arbitron , FALL 2007. ^ KVNE Facility Record . United States Federal Communications Commission , audio division .</text>
+</context>
+<context>
+	<score>0.52216095</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.47052738</score>
+	<text>This article about a radio station in Texas is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K214BE</b></td><td>90.7</td><td><a href="../../../../articles/s/h/r/Shreveport%2C_Louisiana_c251.html" title="Shreveport, Louisiana">Shreveport, Louisiana</a></td><td>36 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K214BE" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K214BE" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214BE" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K214BE" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K248BO</b></td><td>97.5</td><td><a href="../../../../articles/l/u/f/Lufkin%2C_Texas_d3c3.html" title="Lufkin, Texas">Lufkin, Texas</a></td><td>62 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K248BO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K248BO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K248BO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K248BO" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K282AM</b></td><td>104.3</td><td><a href="../../../../articles/m/o/u/Mount_Pleasant%2C_Texas_c018.html" title="Mount Pleasant, Texas">Mount Pleasant, Texas</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K282AM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K282AM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K282AM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K282AM" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K256AT</b></td><td>99.1</td><td><a href="../../../../articles/n/a/c/Nacogdoches%2C_Texas_a604.html" title="Nacogdoches, Texas">Nacogdoches, Texas</a></td><td>115 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K256AT" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K256AT" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K256AT" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K256AT" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K274BA</b></td><td>102.7</td><td><a href="../../../../articles/p/a/r/Paris%2C_Texas_5935.html" title="Paris, Texas">Paris, Texas</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K274BA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K274BA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K274BA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K274BA" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

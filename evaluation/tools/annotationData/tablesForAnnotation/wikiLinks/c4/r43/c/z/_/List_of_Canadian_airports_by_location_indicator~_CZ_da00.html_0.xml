@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r43/c/z/_/List_of_Canadian_airports_by_location_indicator~_CZ_da00.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.7732558 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/z/_/List_of_Canadian_airports_by_location_indicator~_CZ_da00.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>TC LID</th>]]></html>
+	<text>TC LID</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport name</th>]]></html>
+	<text>Airport name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Community and province</th>]]></html>
+	<text>Community and province</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZAC</td>]]></html>
+	<text>CZAC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZAC</td>]]></html>
+	<text>ZAC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>York Landing Airport</td>]]></html>
+	<text>York Landing Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>York Landing , Manitoba</td>]]></html>
+	<text>York Landing , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZAM</td>]]></html>
+	<text>CZAM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YSN</td>]]></html>
+	<text>YSN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salmon Arm Airport</td>]]></html>
+	<text>Salmon Arm Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salmon Arm , British Columbia</td>]]></html>
+	<text>Salmon Arm , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZBA</td>]]></html>
+	<text>CZBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burlington Airpark</td>]]></html>
+	<text>Burlington Airpark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burlington , Ontario</td>]]></html>
+	<text>Burlington , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZBB</td>]]></html>
+	<text>CZBB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YDT</td>]]></html>
+	<text>YDT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boundary Bay Airport</td>]]></html>
+	<text>Boundary Bay Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delta , British Columbia</td>]]></html>
+	<text>Delta , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZBD</td>]]></html>
+	<text>CZBD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ILF</td>]]></html>
+	<text>ILF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ilford Airport</td>]]></html>
+	<text>Ilford Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ilford , Manitoba</td>]]></html>
+	<text>Ilford , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZBF</td>]]></html>
+	<text>CZBF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZBF</td>]]></html>
+	<text>ZBF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bathurst Airport</td>]]></html>
+	<text>Bathurst Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bathurst , New Brunswick</td>]]></html>
+	<text>Bathurst , New Brunswick</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZBM</td>]]></html>
+	<text>CZBM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZBM</td>]]></html>
+	<text>ZBM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bromont Airport</td>]]></html>
+	<text>Bromont Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bromont , Quebec</td>]]></html>
+	<text>Bromont , Quebec</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZEE</td>]]></html>
+	<text>CZEE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KES</td>]]></html>
+	<text>KES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kelsey Airport</td>]]></html>
+	<text>Kelsey Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kelesy, Manitoba</td>]]></html>
+	<text>Kelesy, Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZEM</td>]]></html>
+	<text>CZEM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZEM</td>]]></html>
+	<text>ZEM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eastmain River Airport</td>]]></html>
+	<text>Eastmain River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eastmain , Quebec</td>]]></html>
+	<text>Eastmain , Quebec</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZFA</td>]]></html>
+	<text>CZFA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZFA</td>]]></html>
+	<text>ZFA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Faro Airport (Yukon)</td>]]></html>
+	<text>Faro Airport (Yukon)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Faro , Yukon</td>]]></html>
+	<text>Faro , Yukon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZFD</td>]]></html>
+	<text>CZFD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZFD</td>]]></html>
+	<text>ZFD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fond-du-Lac Airport</td>]]></html>
+	<text>Fond-du-Lac Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fond-du-Lac , Saskatchewan</td>]]></html>
+	<text>Fond-du-Lac , Saskatchewan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZFG</td>]]></html>
+	<text>CZFG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XPK</td>]]></html>
+	<text>XPK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pukatawagan Airport</td>]]></html>
+	<text>Pukatawagan Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pukatawagan , Manitoba</td>]]></html>
+	<text>Pukatawagan , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZFM</td>]]></html>
+	<text>CZFM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZFM</td>]]></html>
+	<text>ZFM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort McPherson Airport</td>]]></html>
+	<text>Fort McPherson Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort McPherson , Northwest Territories</td>]]></html>
+	<text>Fort McPherson , Northwest Territories</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZFN</td>]]></html>
+	<text>CZFN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZFN</td>]]></html>
+	<text>ZFN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tulita Airport</td>]]></html>
+	<text>Tulita Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tulita , Northwest Territories</td>]]></html>
+	<text>Tulita , Northwest Territories</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZGF</td>]]></html>
+	<text>CZGF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZGF</td>]]></html>
+	<text>ZGF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Forks Airport</td>]]></html>
+	<text>Grand Forks Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Forks , British Columbia</td>]]></html>
+	<text>Grand Forks , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZGI</td>]]></html>
+	<text>CZGI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZGI</td>]]></html>
+	<text>ZGI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gods River Airport</td>]]></html>
+	<text>Gods River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gods River , Manitoba</td>]]></html>
+	<text>Gods River , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZGR</td>]]></html>
+	<text>CZGR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZGR</td>]]></html>
+	<text>ZGR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Grand Rapids Airport</td>]]></html>
+	<text>Little Grand Rapids Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Grand Rapids , Manitoba</td>]]></html>
+	<text>Little Grand Rapids , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZHP</td>]]></html>
+	<text>CZHP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>High Prairie Airport</td>]]></html>
+	<text>High Prairie Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>High Prairie , Alberta</td>]]></html>
+	<text>High Prairie , Alberta</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZJG</td>]]></html>
+	<text>CZJG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZJG</td>]]></html>
+	<text>ZJG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jenpeg Airport</td>]]></html>
+	<text>Jenpeg Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jenpeg, Manitoba</td>]]></html>
+	<text>Jenpeg, Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZJN</td>]]></html>
+	<text>CZJN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZJN</td>]]></html>
+	<text>ZJN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swan River Airport</td>]]></html>
+	<text>Swan River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swan River , Manitoba</td>]]></html>
+	<text>Swan River , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZKE</td>]]></html>
+	<text>CZKE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZKE</td>]]></html>
+	<text>ZKE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kashechewan Airport</td>]]></html>
+	<text>Kashechewan Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kashechewan First Nation , Ontario</td>]]></html>
+	<text>Kashechewan First Nation , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZLQ</td>]]></html>
+	<text>CZLQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YTD</td>]]></html>
+	<text>YTD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thicket Portage Airport</td>]]></html>
+	<text>Thicket Portage Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thicket Portage , Manitoba</td>]]></html>
+	<text>Thicket Portage , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZMD</td>]]></html>
+	<text>CZMD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MSA</td>]]></html>
+	<text>MSA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Muskrat Dam Airport</td>]]></html>
+	<text>Muskrat Dam Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Muskrat Dam , Ontario</td>]]></html>
+	<text>Muskrat Dam , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZML</td>]]></html>
+	<text>CZML</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZMH</td>]]></html>
+	<text>ZMH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Cariboo Regional Airport (108 Mile Ranch Airport)</td>]]></html>
+	<text>South Cariboo Regional Airport (108 Mile Ranch Airport)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Cariboo, British Columbia</td>]]></html>
+	<text>South Cariboo, British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZMN</td>]]></html>
+	<text>CZMN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PIW</td>]]></html>
+	<text>PIW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pikwitonei Airport</td>]]></html>
+	<text>Pikwitonei Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pikwitonei , Manitoba</td>]]></html>
+	<text>Pikwitonei , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZMT</td>]]></html>
+	<text>CZMT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZMT</td>]]></html>
+	<text>ZMT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Masset Airport</td>]]></html>
+	<text>Masset Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Masset , British Columbia</td>]]></html>
+	<text>Masset , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZNG</td>]]></html>
+	<text>CZNG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XPP</td>]]></html>
+	<text>XPP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poplar River Airport</td>]]></html>
+	<text>Poplar River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poplar River , Manitoba</td>]]></html>
+	<text>Poplar River , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZNL</td>]]></html>
+	<text>CZNL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nelson Airport</td>]]></html>
+	<text>Nelson Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nelson , British Columbia</td>]]></html>
+	<text>Nelson , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZPB</td>]]></html>
+	<text>CZPB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZPB</td>]]></html>
+	<text>ZPB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sachigo Lake Airport</td>]]></html>
+	<text>Sachigo Lake Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sachigo Lake , Ontario</td>]]></html>
+	<text>Sachigo Lake , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZPC</td>]]></html>
+	<text>CZPC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pincher Creek Airport</td>]]></html>
+	<text>Pincher Creek Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pincher Creek , Alberta</td>]]></html>
+	<text>Pincher Creek , Alberta</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZPO</td>]]></html>
+	<text>CZPO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pinehouse Lake Airport</td>]]></html>
+	<text>Pinehouse Lake Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pinehouse Lake, Saskatchewan</td>]]></html>
+	<text>Pinehouse Lake, Saskatchewan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZRJ</td>]]></html>
+	<text>CZRJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZRJ</td>]]></html>
+	<text>ZRJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Round Lake (Weagamow Lake) Airport</td>]]></html>
+	<text>Round Lake (Weagamow Lake) Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Round Lake , Ontario</td>]]></html>
+	<text>Round Lake , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZSJ</td>]]></html>
+	<text>CZSJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZSJ</td>]]></html>
+	<text>ZSJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Lake Airport</td>]]></html>
+	<text>Sandy Lake Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Lake , Ontario</td>]]></html>
+	<text>Sandy Lake , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZSN</td>]]></html>
+	<text>CZSN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XSI</td>]]></html>
+	<text>XSI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Indian Lake Airport</td>]]></html>
+	<text>South Indian Lake Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Indian Lake , Manitoba</td>]]></html>
+	<text>South Indian Lake , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZST</td>]]></html>
+	<text>CZST</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZST</td>]]></html>
+	<text>ZST</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stewart Airport (British Columbia)</td>]]></html>
+	<text>Stewart Airport (British Columbia)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stewart , British Columbia</td>]]></html>
+	<text>Stewart , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZSW</td>]]></html>
+	<text>CZSW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZSW</td>]]></html>
+	<text>ZSW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prince Rupert/Seal Cove Water Airport</td>]]></html>
+	<text>Prince Rupert/Seal Cove Water Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prince Rupert , British Columbia</td>]]></html>
+	<text>Prince Rupert , British Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZTA</td>]]></html>
+	<text>CZTA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YDT</td>]]></html>
+	<text>YDT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bloodvein River Airport</td>]]></html>
+	<text>Bloodvein River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bloodvein River, Manitoba</td>]]></html>
+	<text>Bloodvein River, Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZTM</td>]]></html>
+	<text>CZTM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZTM</td>]]></html>
+	<text>ZTM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shamattawa Airport</td>]]></html>
+	<text>Shamattawa Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shamattawa , Manitoba</td>]]></html>
+	<text>Shamattawa , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZUC</td>]]></html>
+	<text>CZUC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZUC</td>]]></html>
+	<text>ZUC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ignace Municipal Airport</td>]]></html>
+	<text>Ignace Municipal Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ignace , Ontario</td>]]></html>
+	<text>Ignace , Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZUM</td>]]></html>
+	<text>CZUM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZUM</td>]]></html>
+	<text>ZUM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Churchill Falls Airport</td>]]></html>
+	<text>Churchill Falls Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Churchill Falls , Newfoundland and Labrador</td>]]></html>
+	<text>Churchill Falls , Newfoundland and Labrador</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZVL</td>]]></html>
+	<text>CZVL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZVL</td>]]></html>
+	<text>ZVL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmonton/Villeneuve Airport (Villeneuve Airport)</td>]]></html>
+	<text>Edmonton/Villeneuve Airport (Villeneuve Airport)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Villeneuve, Alberta</td>]]></html>
+	<text>Villeneuve, Alberta</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZWH</td>]]></html>
+	<text>CZWH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XLB</td>]]></html>
+	<text>XLB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lac Brochet Airport</td>]]></html>
+	<text>Lac Brochet Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lac Brochet , Manitoba</td>]]></html>
+	<text>Lac Brochet , Manitoba</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CZWL</td>]]></html>
+	<text>CZWL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZWL</td>]]></html>
+	<text>ZWL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wollaston Lake Airport</td>]]></html>
+	<text>Wollaston Lake Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wollaston Lake, Saskatchewan</td>]]></html>
+	<text>Wollaston Lake, Saskatchewan</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Canadian airports by location indicator: CZ - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>TC LID IATA Airport name Community and province</text>
+</context>
+<context>
+	<score>0.87526697</score>
+	<text>Also see airport category and list .</text>
+</context>
+<context>
+	<score>0.7656331</score>
+	<text>List of Canadian airports by location indicator: CZ</text>
+</context>
+<context>
+	<score>0.74922085</score>
+	<text>CZ - Canada</text>
+</context>
+<context>
+	<score>0.70844126</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.6976208</score>
+	<text>CZ - Canada</text>
+</context>
+<context>
+	<score>0.64838403</score>
+	<text>Airports that are part of the National Airports System are emphasised .</text>
+</context>
+<context>
+	<score>0.53489006</score>
+	<text>Location indicator IATA Airport Name (alternate name) Airport Location</text>
+</context>
+<context>
+	<score>0.47035444</score>
+	<text>Format of entries is:</text>
+</context>
+<context>
+	<score>0.4679627</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="width:auto;"><tr><th width="*"><b><a href="../../../../articles/t/r/a/Transport_Canada_8929.html" title="Transport Canada">TC</a> <a href="../../../../articles/l/o/c/Location_identifier.html" title="Location identifier">LID</a></b>&#160;&#160;</th><th width="*"><b><a href="../../../../articles/i/n/t/International_Air_Transport_Association_airport_code_960d.html" title="International Air Transport Association airport code">IATA</a></b>&#160;&#160;</th><th width="*"><b>Airport name</b>&#160;&#160;</th><th width="*"><b>Community and province</b>&#160;&#160;</th></tr><tr><td>CZAC</td><td>ZAC</td><td><a href="../../../../articles/y/o/r/York_Landing_Airport_c7ce.html" title="York Landing Airport">York Landing Airport</a></td><td><a href="../../../../articles/y/o/r/York_Landing%2C_Manitoba_e983.html" title="York Landing, Manitoba">York Landing</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZAM</td><td>YSN</td><td><a href="../../../../articles/s/a/l/Salmon_Arm_Airport_52dc.html" title="Salmon Arm Airport">Salmon Arm Airport</a></td><td><a href="../../../../articles/s/a/l/Salmon_Arm%2C_British_Columbia_9d82.html" title="Salmon Arm, British Columbia">Salmon Arm</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZBA</td><td></td><td><a href="../../../../articles/b/u/r/Burlington_Airpark_296a.html" title="Burlington Airpark">Burlington Airpark</a></td><td><a href="../../../../articles/b/u/r/Burlington%2C_Ontario_153f.html" title="Burlington, Ontario">Burlington</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZBB</td><td>YDT</td><td><a href="../../../../articles/b/o/u/Boundary_Bay_Airport_5af4.html" title="Boundary Bay Airport">Boundary Bay Airport</a></td><td><a href="../../../../articles/d/e/l/Delta%2C_British_Columbia_408a.html" title="Delta, British Columbia">Delta</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZBD</td><td>ILF</td><td><a href="../../../../articles/i/l/f/Ilford_Airport_43f5.html" title="Ilford Airport">Ilford Airport</a></td><td><a href="../../../../articles/i/l/f/Ilford%2C_Manitoba_a801.html" title="Ilford, Manitoba">Ilford</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZBF</td><td>ZBF</td><td><a href="../../../../articles/b/a/t/Bathurst_Airport_%28Canada%29_24fd.html" title="Bathurst Airport (Canada)">Bathurst Airport</a></td><td><a href="../../../../articles/b/a/t/Bathurst%2C_New_Brunswick_fd69.html" title="Bathurst, New Brunswick">Bathurst</a>, <a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td></tr><tr><td>CZBM</td><td>ZBM</td><td><a href="../../../../articles/b/r/o/Bromont_Airport_feb7.html" title="Bromont Airport">Bromont Airport</a></td><td><a href="../../../../articles/b/r/o/Bromont%2C_Quebec_0880.html" title="Bromont, Quebec">Bromont</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td></tr><tr><td>CZEE</td><td>KES</td><td><a href="../../../../articles/k/e/l/Kelsey_Airport_6b84.html" title="Kelsey Airport">Kelsey Airport</a></td><td>Kelesy, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZEM</td><td>ZEM</td><td><a href="../../../../articles/e/a/s/Eastmain_River_Airport_1cd2.html" title="Eastmain River Airport">Eastmain River Airport</a></td><td><a href="../../../../articles/e/a/s/Eastmain%2C_Quebec_4245.html" title="Eastmain, Quebec">Eastmain</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td></tr><tr><td>CZFA</td><td>ZFA</td><td><a href="../../../../articles/f/a/r/Faro_Airport_%28Yukon%29_bb7e.html" title="Faro Airport (Yukon)">Faro Airport (Yukon)</a></td><td><a href="../../../../articles/f/a/r/Faro%2C_Yukon_e9fb.html" title="Faro, Yukon">Faro</a>, <a href="../../../../articles/y/u/k/Yukon.html" title="Yukon">Yukon</a></td></tr><tr><td>CZFD</td><td>ZFD</td><td><a href="../../../../articles/f/o/n/Fond-du-Lac_Airport_e07d.html" title="Fond-du-Lac Airport">Fond-du-Lac Airport</a></td><td><a href="../../../../articles/f/o/n/Fond-du-Lac%2C_Saskatchewan_8a18.html" title="Fond-du-Lac, Saskatchewan">Fond-du-Lac</a>, <a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td></tr><tr><td>CZFG</td><td>XPK</td><td><a href="../../../../articles/p/u/k/Pukatawagan_Airport_73ff.html" title="Pukatawagan Airport">Pukatawagan Airport</a></td><td><a href="../../../../articles/p/u/k/Pukatawagan%2C_Manitoba_5e52.html" title="Pukatawagan, Manitoba">Pukatawagan</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZFM</td><td>ZFM</td><td><a href="../../../../articles/f/o/r/Fort_McPherson_Airport_f5a5.html" title="Fort McPherson Airport">Fort McPherson Airport</a></td><td><a href="../../../../articles/f/o/r/Fort_McPherson%2C_Northwest_Territories_0c65.html" title="Fort McPherson, Northwest Territories">Fort McPherson</a>, <a href="../../../../articles/n/o/r/Northwest_Territories_ca27.html" title="Northwest Territories">Northwest Territories</a></td></tr><tr><td>CZFN</td><td>ZFN</td><td><a href="../../../../articles/t/u/l/Tulita_Airport_9413.html" title="Tulita Airport">Tulita Airport</a></td><td><a href="../../../../articles/t/u/l/Tulita%2C_Northwest_Territories_d210.html" title="Tulita, Northwest Territories">Tulita</a>, <a href="../../../../articles/n/o/r/Northwest_Territories_ca27.html" title="Northwest Territories">Northwest Territories</a></td></tr><tr><td>CZGF</td><td>ZGF</td><td><a href="../../../../articles/g/r/a/Grand_Forks_Airport_0985.html" title="Grand Forks Airport">Grand Forks Airport</a></td><td><a href="../../../../articles/g/r/a/Grand_Forks%2C_British_Columbia_a70e.html" title="Grand Forks, British Columbia">Grand Forks</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZGI</td><td>ZGI</td><td><a href="../../../../articles/g/o/d/Gods_River_Airport_8177.html" title="Gods River Airport">Gods River Airport</a></td><td><a href="../../../../articles/g/o/d/Gods_River%2C_Manitoba_66dc.html" title="Gods River, Manitoba">Gods River</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZGR</td><td>ZGR</td><td><a href="../../../../articles/l/i/t/Little_Grand_Rapids_Airport_79c4.html" title="Little Grand Rapids Airport">Little Grand Rapids Airport</a></td><td><a href="../../../../articles/l/i/t/Little_Grand_Rapids%2C_Manitoba_8b64.html" title="Little Grand Rapids, Manitoba">Little Grand Rapids</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZHP</td><td></td><td><a href="../../../../articles/h/i/g/High_Prairie_Airport_84dc.html" title="High Prairie Airport">High Prairie Airport</a></td><td><a href="../../../../articles/h/i/g/High_Prairie%2C_Alberta_e06b.html" title="High Prairie, Alberta">High Prairie</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td></tr><tr><td>CZJG</td><td>ZJG</td><td><a href="../../../../articles/j/e/n/Jenpeg_Airport_6982.html" title="Jenpeg Airport">Jenpeg Airport</a></td><td>Jenpeg, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZJN</td><td>ZJN</td><td><a href="../../../../articles/s/w/a/Swan_River_Airport_0d3a.html" title="Swan River Airport">Swan River Airport</a></td><td><a href="../../../../articles/s/w/a/Swan_River%2C_Manitoba_86ba.html" title="Swan River, Manitoba">Swan River</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZKE</td><td>ZKE</td><td><a href="../../../../articles/k/a/s/Kashechewan_Airport_f76e.html" title="Kashechewan Airport">Kashechewan Airport</a></td><td><a href="../../../../articles/k/a/s/Kashechewan_First_Nation_c72e.html" title="Kashechewan First Nation">Kashechewan First Nation</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZLQ</td><td>YTD</td><td><a href="../../../../articles/t/h/i/Thicket_Portage_Airport_ab5a.html" title="Thicket Portage Airport">Thicket Portage Airport</a></td><td><a href="../../../../articles/t/h/i/Thicket_Portage%2C_Manitoba_b6ba.html" title="Thicket Portage, Manitoba">Thicket Portage</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZMD</td><td>MSA</td><td><a href="../../../../articles/m/u/s/Muskrat_Dam_Airport_06f4.html" title="Muskrat Dam Airport">Muskrat Dam Airport</a></td><td><a href="../../../../articles/m/u/s/Muskrat_Dam%2C_Ontario_d77b.html" class="mw-redirect" title="Muskrat Dam, Ontario">Muskrat Dam</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZML</td><td>ZMH</td><td><a href="../../../../articles/1/0/8/108_Mile_Ranch_Airport_d288.html" title="108 Mile Ranch Airport">South Cariboo Regional Airport</a> (108 Mile Ranch Airport)</td><td>South Cariboo, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZMN</td><td>PIW</td><td><a href="../../../../articles/p/i/k/Pikwitonei_Airport_2f3b.html" title="Pikwitonei Airport">Pikwitonei Airport</a></td><td><a href="../../../../articles/p/i/k/Pikwitonei%2C_Manitoba_6f12.html" title="Pikwitonei, Manitoba">Pikwitonei</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZMT</td><td>ZMT</td><td><a href="../../../../articles/m/a/s/Masset_Airport_6d69.html" title="Masset Airport">Masset Airport</a></td><td><a href="../../../../articles/m/a/s/Masset%2C_British_Columbia_1f0e.html" title="Masset, British Columbia">Masset</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZNG</td><td>XPP</td><td><a href="../../../../articles/p/o/p/Poplar_River_Airport_5f9c.html" title="Poplar River Airport">Poplar River Airport</a></td><td><a href="../../../../articles/p/o/p/Poplar_River%2C_Manitoba_e90f.html" class="mw-redirect" title="Poplar River, Manitoba">Poplar River</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZNL</td><td></td><td><a href="../../../../articles/n/e/l/Nelson_Airport_787b.html" title="Nelson Airport">Nelson Airport</a></td><td><a href="../../../../articles/n/e/l/Nelson%2C_British_Columbia_6371.html" title="Nelson, British Columbia">Nelson</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZPB</td><td>ZPB</td><td><a href="../../../../articles/s/a/c/Sachigo_Lake_Airport_a072.html" title="Sachigo Lake Airport">Sachigo Lake Airport</a></td><td><a href="../../../../articles/s/a/c/Sachigo_Lake%2C_Ontario_e6c0.html" class="mw-redirect" title="Sachigo Lake, Ontario">Sachigo Lake</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZPC</td><td></td><td><a href="../../../../articles/p/i/n/Pincher_Creek_Airport_5535.html" title="Pincher Creek Airport">Pincher Creek Airport</a></td><td><a href="../../../../articles/p/i/n/Pincher_Creek%2C_Alberta_17ac.html" title="Pincher Creek, Alberta">Pincher Creek</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td></tr><tr><td>CZPO</td><td></td><td><a href="../../../../articles/p/i/n/Pinehouse_Lake_Airport_4cd7.html" title="Pinehouse Lake Airport">Pinehouse Lake Airport</a></td><td>Pinehouse Lake, <a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td></tr><tr><td>CZRJ</td><td>ZRJ</td><td><a href="../../../../articles/r/o/u/Round_Lake_%28Weagamow_Lake%29_Airport_0833.html" title="Round Lake (Weagamow Lake) Airport">Round Lake (Weagamow Lake) Airport</a></td><td><a href="../../../../articles/r/o/u/Round_Lake%2C_Ontario_fd55.html" class="mw-redirect" title="Round Lake, Ontario">Round Lake</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZSJ</td><td>ZSJ</td><td><a href="../../../../articles/s/a/n/Sandy_Lake_Airport_08a8.html" title="Sandy Lake Airport">Sandy Lake Airport</a></td><td><a href="../../../../articles/s/a/n/Sandy_Lake%2C_Ontario_25ec.html" class="mw-redirect" title="Sandy Lake, Ontario">Sandy Lake</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZSN</td><td>XSI</td><td><a href="../../../../articles/s/o/u/South_Indian_Lake_Airport_529e.html" title="South Indian Lake Airport">South Indian Lake Airport</a></td><td><a href="../../../../articles/s/o/u/South_Indian_Lake%2C_Manitoba_fbb2.html" title="South Indian Lake, Manitoba">South Indian Lake</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZST</td><td>ZST</td><td><a href="../../../../articles/s/t/e/Stewart_Airport_%28British_Columbia%29_bbd5.html" title="Stewart Airport (British Columbia)">Stewart Airport (British Columbia)</a></td><td><a href="../../../../articles/s/t/e/Stewart%2C_British_Columbia_cfc0.html" title="Stewart, British Columbia">Stewart</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZSW</td><td>ZSW</td><td><a href="../../../../articles/p/r/i/Prince_Rupert_Seal_Cove_Water_Airport_ef1f.html" title="Prince Rupert/Seal Cove Water Airport">Prince Rupert/Seal Cove Water Airport</a></td><td><a href="../../../../articles/p/r/i/Prince_Rupert%2C_British_Columbia_8a80.html" title="Prince Rupert, British Columbia">Prince Rupert</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td></tr><tr><td>CZTA</td><td>YDT</td><td><a href="../../../../articles/b/l/o/Bloodvein_River_Airport_931c.html" title="Bloodvein River Airport">Bloodvein River Airport</a></td><td>Bloodvein River, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZTM</td><td>ZTM</td><td><a href="../../../../articles/s/h/a/Shamattawa_Airport_ad5f.html" title="Shamattawa Airport">Shamattawa Airport</a></td><td><a href="../../../../articles/s/h/a/Shamattawa%2C_Manitoba_b4d7.html" title="Shamattawa, Manitoba">Shamattawa</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZUC</td><td>ZUC</td><td><a href="../../../../articles/i/g/n/Ignace_Municipal_Airport_c13b.html" title="Ignace Municipal Airport">Ignace Municipal Airport</a></td><td><a href="../../../../articles/i/g/n/Ignace%2C_Ontario_9795.html" title="Ignace, Ontario">Ignace</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td></tr><tr><td>CZUM</td><td>ZUM</td><td><a href="../../../../articles/c/h/u/Churchill_Falls_Airport_c466.html" title="Churchill Falls Airport">Churchill Falls Airport</a></td><td><a href="../../../../articles/c/h/u/Churchill_Falls%2C_Newfoundland_and_Labrador_3329.html" class="mw-redirect" title="Churchill Falls, Newfoundland and Labrador">Churchill Falls</a>, <a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland and Labrador</a></td></tr><tr><td>CZVL</td><td>ZVL</td><td><a href="../../../../articles/e/d/m/Edmonton_Villeneuve_Airport_c3f6.html" title="Edmonton/Villeneuve Airport">Edmonton/Villeneuve Airport</a> (Villeneuve Airport)</td><td>Villeneuve, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td></tr><tr><td>CZWH</td><td>XLB</td><td><a href="../../../../articles/l/a/c/Lac_Brochet_Airport_441e.html" title="Lac Brochet Airport">Lac Brochet Airport</a></td><td><a href="../../../../articles/l/a/c/Lac_Brochet%2C_Manitoba_9bb3.html" title="Lac Brochet, Manitoba">Lac Brochet</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td></tr><tr><td>CZWL</td><td>ZWL</td><td><a href="../../../../articles/w/o/l/Wollaston_Lake_Airport_bf6d.html" title="Wollaston Lake Airport">Wollaston Lake Airport</a></td><td>Wollaston Lake, <a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

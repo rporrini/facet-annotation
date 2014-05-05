@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r19/s/t/o/Stockholm_City_Centre_63fc.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 4, 0.8333333 0 5, 0.38596493 4, 0.36184213 4 5, 0.15 0 1, 0.14210527 1, 0.13333334 2, 0.13333334 0 2, 0.13157894 5, 0.13026316 1 4, 0.12222223 2 4, 0.118421055 1 5, 0.11666667 3, 0.11666667 0 3, 0.11111111 2 5, 0.10694445 3 4, 0.097222224 3 5, 0.020000001 1 2, 0.0175 1 3, 0.015555556 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/t/o/Stockholm_City_Centre_63fc.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area¹</th>]]></html>
+	<text>Area&#185;</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Density²</th>]]></html>
+	<text>Density&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Borough</th>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Djurgården</td>]]></html>
+	<text>Djurg&#229;rden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.79</td>]]></html>
+	<text>2.79</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>831</td>]]></html>
+	<text>831</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>297.85</td>]]></html>
+	<text>297.85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Östermalm</td>]]></html>
+	<text>&#214;stermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fredhäll</td>]]></html>
+	<text>Fredh&#228;ll</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.38</td>]]></html>
+	<text>0.38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,869</td>]]></html>
+	<text>4,869</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,813.16</td>]]></html>
+	<text>12,813.16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gamla Stan + Riddarholmen</td>]]></html>
+	<text>Gamla Stan + Riddarholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.36 + 0.06</td>]]></html>
+	<text>0.36 + 0.06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,948³</td>]]></html>
+	<text>2,948&#179;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,019.05</td>]]></html>
+	<text>7,019.05</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maria-Gamla stan</td>]]></html>
+	<text>Maria-Gamla stan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hjorthagen</td>]]></html>
+	<text>Hjorthagen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.16</td>]]></html>
+	<text>1.16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,267</td>]]></html>
+	<text>2,267</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,954.31</td>]]></html>
+	<text>1,954.31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Östermalm</td>]]></html>
+	<text>&#214;stermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kristineberg</td>]]></html>
+	<text>Kristineberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.64</td>]]></html>
+	<text>0.64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,310</td>]]></html>
+	<text>5,310</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,296.88</td>]]></html>
+	<text>8,296.88</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.62</td>]]></html>
+	<text>1.62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,022</td>]]></html>
+	<text>32,022</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,766.67</td>]]></html>
+	<text>19,766.67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ladugårdsgärdet</td>]]></html>
+	<text>Ladug&#229;rdsg&#228;rdet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.12</td>]]></html>
+	<text>5.12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,340</td>]]></html>
+	<text>17,340</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,386.72</td>]]></html>
+	<text>3,386.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Östermalm</td>]]></html>
+	<text>&#214;stermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lilla Essingen</td>]]></html>
+	<text>Lilla Essingen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.23</td>]]></html>
+	<text>0.23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,949</td>]]></html>
+	<text>2,949</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,821.74</td>]]></html>
+	<text>12,821.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marieberg</td>]]></html>
+	<text>Marieberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.63</td>]]></html>
+	<text>0.63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,610</td>]]></html>
+	<text>2,610</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,142.86</td>]]></html>
+	<text>4,142.86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norra Djurgården</td>]]></html>
+	<text>Norra Djurg&#229;rden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.30</td>]]></html>
+	<text>6.30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,803</td>]]></html>
+	<text>6,803</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,079.84</td>]]></html>
+	<text>1,079.84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Östermalm</td>]]></html>
+	<text>&#214;stermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norrmalm + Skeppsholmen</td>]]></html>
+	<text>Norrmalm + Skeppsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.63 + 0.20</td>]]></html>
+	<text>1.63 + 0.20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,411³</td>]]></html>
+	<text>7,411&#179;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,049.73</td>]]></html>
+	<text>4,049.73</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norrmalm</td>]]></html>
+	<text>Norrmalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Reimersholme + Långholmen</td>]]></html>
+	<text>Reimersholme + L&#229;ngholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.16 + 0.36</td>]]></html>
+	<text>0.16 + 0.36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,367³</td>]]></html>
+	<text>2,367&#179;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,451.92</td>]]></html>
+	<text>4,451.92</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maria-Gamla stan</td>]]></html>
+	<text>Maria-Gamla stan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Södermanland</td>]]></html>
+	<text>S&#246;dermanland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stadshagen</td>]]></html>
+	<text>Stadshagen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.64</td>]]></html>
+	<text>0.64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,678</td>]]></html>
+	<text>1,678</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,621.88</td>]]></html>
+	<text>2,621.88</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stora Essingen</td>]]></html>
+	<text>Stora Essingen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.73</td>]]></html>
+	<text>0.73</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,850</td>]]></html>
+	<text>3,850</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,273.97</td>]]></html>
+	<text>5,273.97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kungsholmen</td>]]></html>
+	<text>Kungsholmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Södermalm</td>]]></html>
+	<text>S&#246;dermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.72</td>]]></html>
+	<text>5.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,595</td>]]></html>
+	<text>96,595</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,887.24</td>]]></html>
+	<text>16,887.24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maria-Gamla stan , Katarina-Sofia</td>]]></html>
+	<text>Maria-Gamla stan , Katarina-Sofia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Södermanland</td>]]></html>
+	<text>S&#246;dermanland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Södra Hammarbyhamnen</td>]]></html>
+	<text>S&#246;dra Hammarbyhamnen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.20</td>]]></html>
+	<text>1.20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,684</td>]]></html>
+	<text>4,684</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,903.33</td>]]></html>
+	<text>3,903.33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Katarina-Sofia</td>]]></html>
+	<text>Katarina-Sofia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Södermanland</td>]]></html>
+	<text>S&#246;dermanland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vasastaden</td>]]></html>
+	<text>Vasastaden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.00</td>]]></html>
+	<text>3.00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,661</td>]]></html>
+	<text>51,661</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,220.33</td>]]></html>
+	<text>17,220.33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norrmalm</td>]]></html>
+	<text>Norrmalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Östermalm</td>]]></html>
+	<text>&#214;stermalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.56</td>]]></html>
+	<text>2.56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36,636</td>]]></html>
+	<text>36,636</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,310.94</td>]]></html>
+	<text>14,310.94</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Östermalm , Norrmalm</td>]]></html>
+	<text>&#214;stermalm , Norrmalm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uppland</td>]]></html>
+	<text>Uppland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,49</td>]]></html>
+	<text>35,49</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>282,831</td>]]></html>
+	<text>282,831</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,969.32</td>]]></html>
+	<text>7,969.32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>As of 2004</td>]]></html>
+	<text>As of 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Stockholm City Centre - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Area Population Density Borough Province</text>
+</context>
+<context>
+	<score>0.88863355</score>
+	<text>[ edit ] City Centre</text>
+</context>
+<context>
+	<score>0.80901843</score>
+	<text>Stockholm City Centre</text>
+</context>
+<context>
+	<score>0.79006237</score>
+	<text>The border between the historical provinces of Uppland and S dermanland splits Stockholm City Centre in two parts. In the northern, Upplandian, part lives 179,185 people on an area of 28.05 km , which gives a density of 6,388.06/km . The same data for the southern, S dermanlandian, part is: 103,646 on 7.44 km = 13,930.91/km . This border is purely historical and has no administrative significance whatsoever.</text>
+</context>
+<context>
+	<score>0.7581718</score>
+	<text>1/ km 2/ Population per km 3/Population figures from 2003 gives a hint of the distribution: Gamla Stan 2,986; Riddarholmen 3 Norrmalm 6,758; Skeppsholmen 63 Reimersholme 2,205; L ngsholmen 162</text>
+</context>
+<context>
+	<score>0.74200904</score>
+	<text>[ edit ] City Centre</text>
+</context>
+<context>
+	<score>0.74200904</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71120554</score>
+	<text>Stockholm City Centre is divided into 21 districts, which are in turn organized into five boroughs : Katarina-Sofia borough , Kungsholmen borough , Maria-Gamla stan borough , Norrmalm borough and stermalm borough .</text>
+</context>
+<context>
+	<score>0.6481199</score>
+	<text>Stockholm City Centre ( Innerstaden ) is the city centre of Stockholm in Sweden . The entire city of Stockholm is also the centre of the Stockholm Metropolitan Area .</text>
+</context>
+<context>
+	<score>0.61660755</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.60895073</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5762328</score>
+	<text>Stockholm City Centre</text>
+</context>
+<context>
+	<score>0.5211736</score>
+	<text>South Stockholm West Stockholm</text>
+</context>
+<context>
+	<score>0.46954006</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="border"><tr bgcolor="#DDDDDD"><th><a href="../../../../articles/d/i/s/District.html" title="District">District</a></th><th>Area¹</th><th>Population</th><th>Density²</th><th><a href="../../../../articles/b/o/r/Borough.html" title="Borough">Borough</a></th><th><a href="../../../../articles/p/r/o/Province.html" title="Province">Province</a></th></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/d/j/u/Djurg%C3%A5rden.html" title="Djurgården">Djurgården</a></td><td>2.79</td><td>831</td><td>297.85</td><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm_borough.html" title="Östermalm borough">Östermalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left">Fredhäll</td><td>0.38</td><td>4,869</td><td>12,813.16</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/g/a/m/Gamla_Stan_ea75.html" class="mw-redirect" title="Gamla Stan">Gamla Stan</a> + <a href="../../../../articles/r/i/d/Riddarholmen.html" title="Riddarholmen">Riddarholmen</a></td><td>0.36 + 0.06</td><td>2,948³</td><td>7,019.05</td><td align="left"><a href="../../../../articles/m/a/r/Maria-Gamla_stan_borough_77e7.html" class="mw-redirect" title="Maria-Gamla stan borough">Maria-Gamla stan</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left">Hjorthagen</td><td>1.16</td><td>2,267</td><td>1,954.31</td><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm_borough.html" title="Östermalm borough">Östermalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/k/r/i/Kristineberg.html" title="Kristineberg">Kristineberg</a></td><td>0.64</td><td>5,310</td><td>8,296.88</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen.html" title="Kungsholmen">Kungsholmen</a></td><td>1.62</td><td>32,022</td><td>19,766.67</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/l/a/d/Ladug%C3%A5rdsg%C3%A4rdet.html" class="mw-redirect" title="Ladugårdsgärdet">Ladugårdsgärdet</a></td><td>5.12</td><td>17,340</td><td>3,386.72</td><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm_borough.html" title="Östermalm borough">Östermalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/l/i/l/Lilla_Essingen_779f.html" title="Lilla Essingen">Lilla Essingen</a></td><td>0.23</td><td>2,949</td><td>12,821.74</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/m/a/r/Marieberg.html" title="Marieberg">Marieberg</a></td><td>0.63</td><td>2,610</td><td>4,142.86</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left">Norra Djurgården</td><td>6.30</td><td>6,803</td><td>1,079.84</td><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm_borough.html" title="Östermalm borough">Östermalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/n/o/r/Norrmalm.html" class="mw-redirect" title="Norrmalm">Norrmalm</a> + <a href="../../../../articles/s/k/e/Skeppsholmen.html" title="Skeppsholmen">Skeppsholmen</a></td><td>1.63 + 0.20</td><td>7,411³</td><td>4,049.73</td><td align="left"><a href="../../../../articles/n/o/r/Norrmalm_borough.html" title="Norrmalm borough">Norrmalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#DDDDFF"><td align="left"><a href="../../../../articles/r/e/i/Reimersholme.html" title="Reimersholme">Reimersholme</a> + <a href="../../../../articles/l/%C3%A5/n/L%C3%A5ngholmen.html" title="Långholmen">Långholmen</a></td><td>0.16 + 0.36</td><td>2,367³</td><td>4,451.92</td><td align="left"><a href="../../../../articles/m/a/r/Maria-Gamla_stan_borough_77e7.html" class="mw-redirect" title="Maria-Gamla stan borough">Maria-Gamla stan</a></td><td align="left"><a href="../../../../articles/s/%C3%B6/d/S%C3%B6dermanland.html" title="Södermanland">Södermanland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/s/t/a/Stadshagen.html" title="Stadshagen">Stadshagen</a></td><td>0.64</td><td>1,678</td><td>2,621.88</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/s/t/o/Stora_Essingen_1b3e.html" title="Stora Essingen">Stora Essingen</a></td><td>0.73</td><td>3,850</td><td>5,273.97</td><td align="left"><a href="../../../../articles/k/u/n/Kungsholmen_borough.html" title="Kungsholmen borough">Kungsholmen</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#DDDDFF"><td align="left"><a href="../../../../articles/s/%C3%B6/d/S%C3%B6dermalm.html" title="Södermalm">Södermalm</a></td><td>5.72</td><td>96,595</td><td>16,887.24</td><td align="left"><a href="../../../../articles/m/a/r/Maria-Gamla_stan_borough_77e7.html" class="mw-redirect" title="Maria-Gamla stan borough">Maria-Gamla stan</a>, <a href="../../../../articles/k/a/t/Katarina-Sofia_borough_f88b.html" class="mw-redirect" title="Katarina-Sofia borough">Katarina-Sofia</a></td><td align="left"><a href="../../../../articles/s/%C3%B6/d/S%C3%B6dermanland.html" title="Södermanland">Södermanland</a></td></tr><tr align="right" bgcolor="#DDDDFF"><td align="left">Södra Hammarbyhamnen</td><td>1.20</td><td>4,684</td><td>3,903.33</td><td align="left"><a href="../../../../articles/k/a/t/Katarina-Sofia_borough_f88b.html" class="mw-redirect" title="Katarina-Sofia borough">Katarina-Sofia</a></td><td align="left"><a href="../../../../articles/s/%C3%B6/d/S%C3%B6dermanland.html" title="Södermanland">Södermanland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/v/a/s/Vasastaden.html" title="Vasastaden">Vasastaden</a></td><td>3.00</td><td>51,661</td><td>17,220.33</td><td align="left"><a href="../../../../articles/n/o/r/Norrmalm_borough.html" title="Norrmalm borough">Norrmalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#FFDDDD"><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm.html" title="Östermalm">Östermalm</a></td><td>2.56</td><td>36,636</td><td>14,310.94</td><td align="left"><a href="../../../../articles/%C3%B6/s/t/%C3%96stermalm_borough.html" title="Östermalm borough">Östermalm</a>, <a href="../../../../articles/n/o/r/Norrmalm_borough.html" title="Norrmalm borough">Norrmalm</a></td><td align="left"><a href="../../../../articles/u/p/p/Uppland.html" title="Uppland">Uppland</a></td></tr><tr align="right" bgcolor="#DDDDDD"><td align="left"><b><a href="../../../../articles/s/u/m/Sum.html" class="mw-redirect" title="Sum">Total</a></b></td><td>35,49</td><td>282,831</td><td>7,969.32</td><td align="left"><a href="../../../../articles/a/s/_/As_of_2004.html" class="mw-redirect" title="As of 2004">As of 2004</a></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r18/a/m/e/American_films_of_1960.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1 2, 0.7 0 3, 0.63 1 3, 0.56 2 3, 0.23333333 3, 0.060000002 0 4, 0.054 1 4, 0.048000004 2 4, 0.014000001 3 4, 0.0033333334 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_films_of_1960.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cast</th>]]></html>
+	<text>Cast</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genre</th>]]></html>
+	<text>Genre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Can-Can</td>]]></html>
+	<text>Can-Can</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walter Lang</td>]]></html>
+	<text>Walter Lang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Sinatra , Shirley MacLaine , Maurice Chevalier , Louis Jourdan</td>]]></html>
+	<text>Frank Sinatra , Shirley MacLaine , Maurice Chevalier , Louis Jourdan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Musical</td>]]></html>
+	<text>Musical</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Cape Canaveral Monsters</td>]]></html>
+	<text>The Cape Canaveral Monsters</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phil Tucker</td>]]></html>
+	<text>Phil Tucker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scott Peters , Linda Connell, Jason Johnson</td>]]></html>
+	<text>Scott Peters , Linda Connell, Jason Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Science fiction</td>]]></html>
+	<text>Science fiction</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cash McCall</td>]]></html>
+	<text>Cash McCall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joseph Pevney</td>]]></html>
+	<text>Joseph Pevney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>James Garner , Natalie Wood , Nina Foch , Dean Jagger</td>]]></html>
+	<text>James Garner , Natalie Wood , Nina Foch , Dean Jagger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cinderfella</td>]]></html>
+	<text>Cinderfella</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Tashlin</td>]]></html>
+	<text>Frank Tashlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jerry Lewis , Ed Wynn , Judith Anderson</td>]]></html>
+	<text>Jerry Lewis , Ed Wynn , Judith Anderson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Musical</td>]]></html>
+	<text>Musical</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Comanche Station</td>]]></html>
+	<text>Comanche Station</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Budd Boetticher</td>]]></html>
+	<text>Budd Boetticher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Randolph Scott , Nancy Gates , Claude Akins , Skip Homeier</td>]]></html>
+	<text>Randolph Scott , Nancy Gates , Claude Akins , Skip Homeier</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western</td>]]></html>
+	<text>Western</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Dark at the Top of the Stairs</td>]]></html>
+	<text>The Dark at the Top of the Stairs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delbert Mann</td>]]></html>
+	<text>Delbert Mann</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Preston , Dorothy McGuire , Eve Arden , Angela Lansbury</td>]]></html>
+	<text>Robert Preston , Dorothy McGuire , Eve Arden , Angela Lansbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dinosaurus!</td>]]></html>
+	<text>Dinosaurus!</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Irvin Shortess Yeaworth Jr</td>]]></html>
+	<text>Irvin Shortess Yeaworth Jr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ward Ramsey, Paul Lukather , Kristina Hanson</td>]]></html>
+	<text>Ward Ramsey, Paul Lukather , Kristina Hanson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Science fiction</td>]]></html>
+	<text>Science fiction</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elmer Gantry</td>]]></html>
+	<text>Elmer Gantry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Brooks</td>]]></html>
+	<text>Richard Brooks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burt Lancaster , Jean Simmons , Arthur Kennedy , Dean Jagger , Shirley Jones</td>]]></html>
+	<text>Burt Lancaster , Jean Simmons , Arthur Kennedy , Dean Jagger , Shirley Jones</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Exodus</td>]]></html>
+	<text>Exodus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Otto Preminger</td>]]></html>
+	<text>Otto Preminger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Newman , Eva Marie Saint , Ralph Richardson , Lee J. Cobb , Peter Lawford , Sal Mineo</td>]]></html>
+	<text>Paul Newman , Eva Marie Saint , Ralph Richardson , Lee J. Cobb , Peter Lawford , Sal Mineo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Facts of Life</td>]]></html>
+	<text>The Facts of Life</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melvin Frank</td>]]></html>
+	<text>Melvin Frank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Hope , Lucille Ball , Ruth Hussey</td>]]></html>
+	<text>Bob Hope , Lucille Ball , Ruth Hussey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Flaming Star</td>]]></html>
+	<text>Flaming Star</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Don Siegel</td>]]></html>
+	<text>Don Siegel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elvis Presley , Steve Forrest , Barbara Eden , Dolores del Rio</td>]]></html>
+	<text>Elvis Presley , Steve Forrest , Barbara Eden , Dolores del Rio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western</td>]]></html>
+	<text>Western</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>From the Terrace</td>]]></html>
+	<text>From the Terrace</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Robson</td>]]></html>
+	<text>Mark Robson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Newman , Joanne Woodward , Myrna Loy , Leon Ames , Barbara Eden</td>]]></html>
+	<text>Paul Newman , Joanne Woodward , Myrna Loy , Leon Ames , Barbara Eden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>G.I. Blues</td>]]></html>
+	<text>G.I. Blues</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norman Taurog</td>]]></html>
+	<text>Norman Taurog</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elvis Presley , Juliet Prowse , Robert Ivers</td>]]></html>
+	<text>Elvis Presley , Juliet Prowse , Robert Ivers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Musical</td>]]></html>
+	<text>Musical</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Grass Is Greener</td>]]></html>
+	<text>The Grass Is Greener</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stanley Donen</td>]]></html>
+	<text>Stanley Donen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cary Grant , Deborah Kerr , Robert Mitchum , Jean Simmons</td>]]></html>
+	<text>Cary Grant , Deborah Kerr , Robert Mitchum , Jean Simmons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heller in Pink Tights</td>]]></html>
+	<text>Heller in Pink Tights</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Cukor</td>]]></html>
+	<text>George Cukor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sophia Loren , Anthony Quinn , Margaret O'Brien , Steve Forrest , Eileen Heckart , Ramon Novarro</td>]]></html>
+	<text>Sophia Loren , Anthony Quinn , Margaret O&amp;apos;Brien , Steve Forrest , Eileen Heckart , Ramon Novarro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western</td>]]></html>
+	<text>Western</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>High Time</td>]]></html>
+	<text>High Time</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blake Edwards</td>]]></html>
+	<text>Blake Edwards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bing Crosby , Fabian , Tuesday Weld , Nicole Maurey</td>]]></html>
+	<text>Bing Crosby , Fabian , Tuesday Weld , Nicole Maurey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Musical</td>]]></html>
+	<text>Musical</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Home from the Hill</td>]]></html>
+	<text>Home from the Hill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vincente Minnelli</td>]]></html>
+	<text>Vincente Minnelli</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Mitchum , Eleanor Parker , George Peppard , George Hamilton</td>]]></html>
+	<text>Robert Mitchum , Eleanor Parker , George Peppard , George Hamilton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hyde and Go Tweet</td>]]></html>
+	<text>Hyde and Go Tweet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Friz Freleng</td>]]></html>
+	<text>Friz Freleng</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Animated</td>]]></html>
+	<text>Animated</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American films of 1960 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.8873279</score>
+	<text>[ edit ] C-H</text>
+</context>
+<context>
+	<score>0.8064306</score>
+	<text>American films of 1960</text>
+</context>
+<context>
+	<score>0.7900365</score>
+	<text>[ edit ] A-B</text>
+</context>
+<context>
+	<score>0.75855994</score>
+	<text>[ edit ] I-R</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] A-B</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72859746</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71220344</score>
+	<text>1 A-B 1.1 C-H 1.2 I-R 1.3 S-Z 2 External links</text>
+</context>
+<context>
+	<score>0.64099467</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6112761</score>
+	<text>[ edit ] S-Z</text>
+</context>
+<context>
+	<score>0.60012364</score>
+	<text>A list of American films released in 1960 . The Apartment won the Academy Award for Best Picture.</text>
+</context>
+<context>
+	<score>0.56027305</score>
+	<text>This list is incomplete ; you can help by expanding it .</text>
+</context>
+<context>
+	<score>0.52463865</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.51928234</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.49887884</score>
+	<text>American films of 1960</text>
+</context>
+<context>
+	<score>0.47367543</score>
+	<text>American films of 1960 at the Internet Movie Database</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="21%">Title</th><th width="16%">Director</th><th width="22%">Cast</th><th width="13%">Genre</th><th width="28%">Notes</th></tr><tr><td><i><a href="../../../../articles/c/a/n/Can-Can_%28film%29_4e87.html" title="Can-Can (film)">Can-Can</a></i></td><td><a href="../../../../articles/w/a/l/Walter_Lang_643d.html" title="Walter Lang">Walter Lang</a></td><td><a href="../../../../articles/f/r/a/Frank_Sinatra_d0f7.html" title="Frank Sinatra">Frank Sinatra</a>, <a href="../../../../articles/s/h/i/Shirley_MacLaine_0c3e.html" title="Shirley MacLaine">Shirley MacLaine</a>, <a href="../../../../articles/m/a/u/Maurice_Chevalier_7444.html" title="Maurice Chevalier">Maurice Chevalier</a>, <a href="../../../../articles/l/o/u/Louis_Jourdan_95bd.html" title="Louis Jourdan">Louis Jourdan</a></td><td>Musical</td><td></td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Cape_Canaveral_Monsters_68ed.html" title="The Cape Canaveral Monsters">The Cape Canaveral Monsters</a></i></td><td><a href="../../../../articles/p/h/i/Phil_Tucker_85a4.html" title="Phil Tucker">Phil Tucker</a></td><td><a href="../../../../articles/s/c/o/Scott_Peters_e775.html" title="Scott Peters">Scott Peters</a>, Linda Connell, <a href="../../../../articles/j/a/s/Jason_Johnson_64a8.html" title="Jason Johnson">Jason Johnson</a></td><td>Science fiction</td><td></td></tr><tr><td><i><a href="../../../../articles/c/a/s/Cash_McCall_0880.html" title="Cash McCall">Cash McCall</a></i></td><td><a href="../../../../articles/j/o/s/Joseph_Pevney_2f54.html" title="Joseph Pevney">Joseph Pevney</a></td><td><a href="../../../../articles/j/a/m/James_Garner_f24a.html" title="James Garner">James Garner</a>, <a href="../../../../articles/n/a/t/Natalie_Wood_6dd2.html" title="Natalie Wood">Natalie Wood</a>, <a href="../../../../articles/n/i/n/Nina_Foch_6000.html" title="Nina Foch">Nina Foch</a>, <a href="../../../../articles/d/e/a/Dean_Jagger_39a9.html" title="Dean Jagger">Dean Jagger</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/c/i/n/Cinderfella.html" title="Cinderfella">Cinderfella</a></i></td><td><a href="../../../../articles/f/r/a/Frank_Tashlin_bdb1.html" title="Frank Tashlin">Frank Tashlin</a></td><td><a href="../../../../articles/j/e/r/Jerry_Lewis_ea4b.html" title="Jerry Lewis">Jerry Lewis</a>, <a href="../../../../articles/e/d/_/Ed_Wynn_c487.html" title="Ed Wynn">Ed Wynn</a>, <a href="../../../../articles/j/u/d/Judith_Anderson_57cf.html" title="Judith Anderson">Judith Anderson</a></td><td>Musical</td><td></td></tr><tr><td><i><a href="../../../../articles/c/o/m/Comanche_Station_36ec.html" title="Comanche Station">Comanche Station</a></i></td><td><a href="../../../../articles/b/u/d/Budd_Boetticher_7952.html" title="Budd Boetticher">Budd Boetticher</a></td><td><a href="../../../../articles/r/a/n/Randolph_Scott_7e7d.html" title="Randolph Scott">Randolph Scott</a>, <a href="../../../../articles/n/a/n/Nancy_Gates_4479.html" title="Nancy Gates">Nancy Gates</a>, <a href="../../../../articles/c/l/a/Claude_Akins_7966.html" title="Claude Akins">Claude Akins</a>, <a href="../../../../articles/s/k/i/Skip_Homeier_4eef.html" title="Skip Homeier">Skip Homeier</a></td><td>Western</td><td></td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Dark_at_the_Top_of_the_Stairs_7403.html" title="The Dark at the Top of the Stairs">The Dark at the Top of the Stairs</a></i></td><td><a href="../../../../articles/d/e/l/Delbert_Mann_3c0b.html" title="Delbert Mann">Delbert Mann</a></td><td><a href="../../../../articles/r/o/b/Robert_Preston_6c54.html" title="Robert Preston">Robert Preston</a>, <a href="../../../../articles/d/o/r/Dorothy_McGuire_aa02.html" title="Dorothy McGuire">Dorothy McGuire</a>, <a href="../../../../articles/e/v/e/Eve_Arden_5f89.html" title="Eve Arden">Eve Arden</a>, <a href="../../../../articles/a/n/g/Angela_Lansbury_e516.html" title="Angela Lansbury">Angela Lansbury</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/d/i/n/Dinosaurus%21.html" title="Dinosaurus!">Dinosaurus!</a></i></td><td><a href="../../../../articles/i/r/v/Irvin_Shortess_Yeaworth_Jr_2c79.html" class="mw-redirect" title="Irvin Shortess Yeaworth Jr">Irvin Shortess Yeaworth Jr</a></td><td>Ward Ramsey, <a href="../../../../articles/p/a/u/Paul_Lukather_ef84.html" title="Paul Lukather">Paul Lukather</a>, Kristina Hanson</td><td>Science fiction</td><td></td></tr><tr><td><i><a href="../../../../articles/e/l/m/Elmer_Gantry_%28film%29_bef4.html" title="Elmer Gantry (film)">Elmer Gantry</a></i></td><td><a href="../../../../articles/r/i/c/Richard_Brooks_a86d.html" title="Richard Brooks">Richard Brooks</a></td><td><a href="../../../../articles/b/u/r/Burt_Lancaster_2aa7.html" title="Burt Lancaster">Burt Lancaster</a>, <a href="../../../../articles/j/e/a/Jean_Simmons_376e.html" title="Jean Simmons">Jean Simmons</a>, <a href="../../../../articles/a/r/t/Arthur_Kennedy_d97b.html" title="Arthur Kennedy">Arthur Kennedy</a>, <a href="../../../../articles/d/e/a/Dean_Jagger_39a9.html" title="Dean Jagger">Dean Jagger</a>, <a href="../../../../articles/s/h/i/Shirley_Jones_15cc.html" title="Shirley Jones">Shirley Jones</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/e/x/o/Exodus_%28film%29.html" title="Exodus (film)">Exodus</a></i></td><td><a href="../../../../articles/o/t/t/Otto_Preminger_082f.html" title="Otto Preminger">Otto Preminger</a></td><td><a href="../../../../articles/p/a/u/Paul_Newman_7c26.html" title="Paul Newman">Paul Newman</a>, <a href="../../../../articles/e/v/a/Eva_Marie_Saint_1f70.html" title="Eva Marie Saint">Eva Marie Saint</a>, <a href="../../../../articles/r/a/l/Ralph_Richardson_f3d0.html" title="Ralph Richardson">Ralph Richardson</a>, <a href="../../../../articles/l/e/e/Lee_J._Cobb_5123.html" title="Lee J. Cobb">Lee J. Cobb</a>, <a href="../../../../articles/p/e/t/Peter_Lawford_c2d1.html" title="Peter Lawford">Peter Lawford</a>, <a href="../../../../articles/s/a/l/Sal_Mineo_9172.html" title="Sal Mineo">Sal Mineo</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Facts_of_Life_%28film%29_1664.html" title="The Facts of Life (film)">The Facts of Life</a></i></td><td><a href="../../../../articles/m/e/l/Melvin_Frank_781d.html" title="Melvin Frank">Melvin Frank</a></td><td><a href="../../../../articles/b/o/b/Bob_Hope_c9fc.html" title="Bob Hope">Bob Hope</a>, <a href="../../../../articles/l/u/c/Lucille_Ball_0936.html" title="Lucille Ball">Lucille Ball</a>, <a href="../../../../articles/r/u/t/Ruth_Hussey_6088.html" title="Ruth Hussey">Ruth Hussey</a></td><td>Comedy</td><td></td></tr><tr><td><i><a href="../../../../articles/f/l/a/Flaming_Star_ab3c.html" title="Flaming Star">Flaming Star</a></i></td><td><a href="../../../../articles/d/o/n/Don_Siegel_7fa1.html" title="Don Siegel">Don Siegel</a></td><td><a href="../../../../articles/e/l/v/Elvis_Presley_0230.html" title="Elvis Presley">Elvis Presley</a>, <a href="../../../../articles/s/t/e/Steve_Forrest_d943.html" title="Steve Forrest">Steve Forrest</a>, <a href="../../../../articles/b/a/r/Barbara_Eden_7737.html" title="Barbara Eden">Barbara Eden</a>, <a href="../../../../articles/d/o/l/Dolores_del_Rio_b78c.html" class="mw-redirect" title="Dolores del Rio">Dolores del Rio</a></td><td>Western</td><td></td></tr><tr><td><i><a href="../../../../articles/f/r/o/From_the_Terrace_ba1a.html" title="From the Terrace">From the Terrace</a></i></td><td><a href="../../../../articles/m/a/r/Mark_Robson_4c4a.html" title="Mark Robson">Mark Robson</a></td><td><a href="../../../../articles/p/a/u/Paul_Newman_7c26.html" title="Paul Newman">Paul Newman</a>, <a href="../../../../articles/j/o/a/Joanne_Woodward_0efb.html" title="Joanne Woodward">Joanne Woodward</a>, <a href="../../../../articles/m/y/r/Myrna_Loy_cd0a.html" title="Myrna Loy">Myrna Loy</a>, <a href="../../../../articles/l/e/o/Leon_Ames_b0ae.html" title="Leon Ames">Leon Ames</a>, <a href="../../../../articles/b/a/r/Barbara_Eden_7737.html" title="Barbara Eden">Barbara Eden</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/g/2E/i/G.I._Blues_0cb9.html" title="G.I. Blues">G.I. Blues</a></i></td><td><a href="../../../../articles/n/o/r/Norman_Taurog_7552.html" title="Norman Taurog">Norman Taurog</a></td><td><a href="../../../../articles/e/l/v/Elvis_Presley_0230.html" title="Elvis Presley">Elvis Presley</a>, <a href="../../../../articles/j/u/l/Juliet_Prowse_679f.html" title="Juliet Prowse">Juliet Prowse</a>, <a href="../../../../articles/r/o/b/Robert_Ivers_186b.html" title="Robert Ivers">Robert Ivers</a></td><td>Musical</td><td></td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_Grass_Is_Greener_eb8a.html" title="The Grass Is Greener">The Grass Is Greener</a></i></td><td><a href="../../../../articles/s/t/a/Stanley_Donen_7d58.html" title="Stanley Donen">Stanley Donen</a></td><td><a href="../../../../articles/c/a/r/Cary_Grant_b5ee.html" title="Cary Grant">Cary Grant</a>, <a href="../../../../articles/d/e/b/Deborah_Kerr_1f59.html" title="Deborah Kerr">Deborah Kerr</a>, <a href="../../../../articles/r/o/b/Robert_Mitchum_ecba.html" title="Robert Mitchum">Robert Mitchum</a>, <a href="../../../../articles/j/e/a/Jean_Simmons_376e.html" title="Jean Simmons">Jean Simmons</a></td><td>Comedy</td><td></td></tr><tr><td><i><a href="../../../../articles/h/e/l/Heller_in_Pink_Tights_60b6.html" title="Heller in Pink Tights">Heller in Pink Tights</a></i></td><td><a href="../../../../articles/g/e/o/George_Cukor_4a4a.html" title="George Cukor">George Cukor</a></td><td><a href="../../../../articles/s/o/p/Sophia_Loren_f82d.html" title="Sophia Loren">Sophia Loren</a>, <a href="../../../../articles/a/n/t/Anthony_Quinn_3f2a.html" title="Anthony Quinn">Anthony Quinn</a>, <a href="../../../../articles/m/a/r/Margaret_O%27Brien_0415.html" title="Margaret O'Brien">Margaret O'Brien</a>, <a href="../../../../articles/s/t/e/Steve_Forrest_d943.html" title="Steve Forrest">Steve Forrest</a>, <a href="../../../../articles/e/i/l/Eileen_Heckart_e0b3.html" title="Eileen Heckart">Eileen Heckart</a>, <a href="../../../../articles/r/a/m/Ramon_Novarro_1a78.html" class="mw-redirect" title="Ramon Novarro">Ramon Novarro</a></td><td>Western</td><td></td></tr><tr><td><i><a href="../../../../articles/h/i/g/High_Time_%28film%29_20b0.html" title="High Time (film)">High Time</a></i></td><td><a href="../../../../articles/b/l/a/Blake_Edwards_35fd.html" title="Blake Edwards">Blake Edwards</a></td><td><a href="../../../../articles/b/i/n/Bing_Crosby_1db0.html" title="Bing Crosby">Bing Crosby</a>, <a href="../../../../articles/f/a/b/Fabian.html" title="Fabian">Fabian</a>, <a href="../../../../articles/t/u/e/Tuesday_Weld_bd8b.html" title="Tuesday Weld">Tuesday Weld</a>, Nicole Maurey</td><td>Musical</td><td></td></tr><tr><td><i><a href="../../../../articles/h/o/m/Home_from_the_Hill_%28film%29_7cac.html" title="Home from the Hill (film)">Home from the Hill</a></i></td><td><a href="../../../../articles/v/i/n/Vincente_Minnelli_077f.html" title="Vincente Minnelli">Vincente Minnelli</a></td><td><a href="../../../../articles/r/o/b/Robert_Mitchum_ecba.html" title="Robert Mitchum">Robert Mitchum</a>, <a href="../../../../articles/e/l/e/Eleanor_Parker_a76b.html" title="Eleanor Parker">Eleanor Parker</a>, <a href="../../../../articles/g/e/o/George_Peppard_8788.html" title="George Peppard">George Peppard</a>, <a href="../../../../articles/g/e/o/George_Hamilton_56d1.html" title="George Hamilton">George Hamilton</a></td><td>Drama</td><td></td></tr><tr><td><i><a href="../../../../articles/h/y/d/Hyde_and_Go_Tweet_4eb6.html" title="Hyde and Go Tweet">Hyde and Go Tweet</a></i></td><td><a href="../../../../articles/f/r/i/Friz_Freleng_45b9.html" title="Friz Freleng">Friz Freleng</a></td><td></td><td>Animated</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r11/g/u/y/Guyana.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.17999999 2, 0.17999999 1 2, 0.16000001 3, 0.16000001 1 3, 0.14 4, 0.14 1 4, 0.120000005 0, 0.120000005 0 1, 0.0288 2 3, 0.025199998 2 4, 0.022400001 3 4, 0.0216 0 2, 0.019200003 0 3, 0.0168 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/g/u/y/Guyana.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>No</th>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Region</th>]]></html>
+	<text>Region</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area km²</th>]]></html>
+	<text>Area km&#178;</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population per km²</th>]]></html>
+	<text>Population per km&#178;</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barima-Waini</td>]]></html>
+	<text>Barima-Waini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 339</td>]]></html>
+	<text>20 339</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 275</td>]]></html>
+	<text>24 275</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,2</td>]]></html>
+	<text>1,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pomeroon-Supenaam</td>]]></html>
+	<text>Pomeroon-Supenaam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 195</td>]]></html>
+	<text>6 195</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49 253</td>]]></html>
+	<text>49 253</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,0</td>]]></html>
+	<text>8,0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Essequibo Islands-West Demerara</td>]]></html>
+	<text>Essequibo Islands-West Demerara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 755</td>]]></html>
+	<text>3 755</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103 061</td>]]></html>
+	<text>103 061</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,5</td>]]></html>
+	<text>27,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Demerara-Mahaica</td>]]></html>
+	<text>Demerara-Mahaica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 232</td>]]></html>
+	<text>2 232</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>310 320</td>]]></html>
+	<text>310 320</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>139,0</td>]]></html>
+	<text>139,0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mahaica-Berbice</td>]]></html>
+	<text>Mahaica-Berbice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 190</td>]]></html>
+	<text>4 190</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52 428</td>]]></html>
+	<text>52 428</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,5</td>]]></html>
+	<text>12,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Berbice-Corentyne</td>]]></html>
+	<text>East Berbice-Corentyne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36 234</td>]]></html>
+	<text>36 234</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>123 695</td>]]></html>
+	<text>123 695</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,4</td>]]></html>
+	<text>3,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cuyuni-Mazaruni</td>]]></html>
+	<text>Cuyuni-Mazaruni</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47 213</td>]]></html>
+	<text>47 213</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 597</td>]]></html>
+	<text>17 597</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0,4</td>]]></html>
+	<text>0,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Potaro-Siparuni</td>]]></html>
+	<text>Potaro-Siparuni</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 051</td>]]></html>
+	<text>20 051</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 095</td>]]></html>
+	<text>10 095</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0,5</td>]]></html>
+	<text>0,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Takutu-Upper Essequibo</td>]]></html>
+	<text>Upper Takutu-Upper Essequibo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>57 750</td>]]></html>
+	<text>57 750</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 387</td>]]></html>
+	<text>19 387</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0,3</td>]]></html>
+	<text>0,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Demerara-Berbice</td>]]></html>
+	<text>Upper Demerara-Berbice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 040</td>]]></html>
+	<text>17 040</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41 112</td>]]></html>
+	<text>41 112</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,4</td>]]></html>
+	<text>2,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guyana</td>]]></html>
+	<text>Guyana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>214 999</td>]]></html>
+	<text>214 999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>751 223</td>]]></html>
+	<text>751 223</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,5</td>]]></html>
+	<text>3,5</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Guyana - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>No Region Area km Population Population per km</text>
+</context>
+<context>
+	<score>0.93460655</score>
+	<text>).png&quot; width=&quot;180&quot; height=&quot;262&quot; border=&quot;0&quot; /&gt; Regions of Guyana</text>
+</context>
+<context>
+	<score>0.8800611</score>
+	<text>Guyana is divided into 10 regions :</text>
+</context>
+<context>
+	<score>0.7897926</score>
+	<text>Guyana</text>
+</context>
+<context>
+	<score>0.7517189</score>
+	<text>The regions are divided into 27 neighborhood councils .</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Regions and neighborhood councils</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Politics</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Culture</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Environment and biodiversity</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Landmarks</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Military</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Miscellaneous</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Notes and references</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.7134901</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Regions of Guyana</text>
+</context>
+<context>
+	<score>0.643455</score>
+	<text>[ edit ] Regions and neighborhood councils</text>
+</context>
+<context>
+	<score>0.6049222</score>
+	<text>[ edit ] Politics Main article: Politics of Guyana</text>
+</context>
+<context>
+	<score>0.59380656</score>
+	<text>In addition to English, other languages of Guyana include Guyanese Creole , Akawaio , Wai-Wai , Arawak and Macushi .</text>
+</context>
+<context>
+	<score>0.55408776</score>
+	<text>English is the official language of Guyana. In addition, Amerindian languages are spoken by a small minority, while Guyanese Creole (an English-based creole with African and Indian syntax) is widely spoken. Grammar is not standardized.</text>
+</context>
+<context>
+	<score>0.52231276</score>
+	<text>[ edit ] Languages</text>
+</context>
+<context>
+	<score>0.5185712</score>
+	<text>Politics of Guyana takes place in a framework of a semi-presidential representative democratic republic , whereby the President of Guyana is the head of government , and of a multi-party system . Executive power is exercised by the government. Legislative power is vested in both the government and the National Assembly of Guyana . The Judiciary is independent of the executive and the legislature. The 2006 national elections were the first peaceful elections in recent times. The elections were free and fair and were a welcome departure from the turmoil of previous elections.</text>
+</context>
+<context>
+	<score>0.49689272</score>
+	<text>The population distribution in 2002 was determined by nationality background. The distribution pattern has been similar to those of the 1980 and 1991 censuses , but the share of the two main groups has declined. The East Indians were 51.9 percent of the total population in 1980, but by 1991 had fallen to 48.6 percent, and then 43.5 percent in 2002 census. Those of African descent increased slightly from 30.8 to 32.3 percent during the first period (1980 and 1991) before falling to 30.2 percent in the 2002 census. With small growth in the population, the decline in the shares of the two larger groups has resulted in the relative shares of the Mixed and Amerindian groups. The Amerindian population rose by 22,097 persons between 1991 and 2002. This represents an increase of 47.3 percent or annual growth of 3.5 percent. Similarly, the Mixed population increased by 37,788 persons, representing a 43.0 percent increase or annual growth rate of 3.2 percent from the base period of 1991 census. The whites and Chinese populations which declined between 1980 and 1991 regained in numbers by the 2002 census by 54.4 percent (168 persons) and 8.1 percent (105 persons) respectively. However, because of their relatively small sizes, the increase has effectively a zero effect on the overall change. The Portuguese group has declined constantly over the decades.</text>
+</context>
+<context>
+	<score>0.4765567</score>
+	<text>The largest nationality sub-group is that of the descendants of India , also known as East Indians (Indo-Guyanese), comprising 43.5 percent of the population in 2002. They are followed by people of African heritage (Afro-Guyanese) (30.2 percent). The third in number are those of mixed heritage (16.7 percent), while the Aboriginal Indians are fourth with 9.2 percent. The smallest groups are European , including Portuguese , (0.06 percent or 476 persons) and the Chinese (0.19 percent or 1395). A small group (0.01 percent or 112 persons) did not identify their race/ethnic background.</text>
+</context>
+<context>
+	<score>0.46777648</score>
+	<text>Historically, politics is a source of tension in the country and violent riots have often broken out during elections. During the 1970s and 1980s, the political landscape was dominated by The People&apos;s National Congress, who retained their power by skewing election results. In 1992, the first &quot;free and fair&quot; elections were overseen by former American president Jimmy Carter , and the People&apos;s Progressive Party has led the country since. The two parties are principally organized along ethnic lines and as a result often clash on issues of governance.</text>
+</context>
+<context>
+	<score>0.46028787</score>
+	<text>The present population of Guyana is racially and ethnically heterogeneous, composed chiefly of the descendants of immigrants who came to the country either as enslaved people or as indentured labourers. The population therefore comprises groups of persons with nationality backgrounds from Europe (especially the United Kingdom , the Netherlands , and Portugal ), Africa , China , India , and the Middle East , with the Aboriginal Indians as the indigenous population. These groups of diverse nationality backgrounds have been fused together by a common language, i.e., English and Creole .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#BBBBBB"><th>No</th><th>Region</th><th>Area km²</th><th>Population</th><th>Population<br />per km²</th></tr><tr><td align="right">1</td><td><a href="../../../../articles/b/a/r/Barima-Waini_88b7.html" title="Barima-Waini">Barima-Waini</a></td><td align="right">20&#160;339</td><td align="right">24&#160;275</td><td align="right">1,2</td></tr><tr><td align="right">2</td><td><a href="../../../../articles/p/o/m/Pomeroon-Supenaam_1ac2.html" title="Pomeroon-Supenaam">Pomeroon-Supenaam</a></td><td align="right">6&#160;195</td><td align="right">49&#160;253</td><td align="right">8,0</td></tr><tr><td align="right">3</td><td><a href="../../../../articles/e/s/s/Essequibo_Islands-West_Demerara_da69.html" title="Essequibo Islands-West Demerara">Essequibo Islands-West Demerara</a></td><td align="right">3&#160;755</td><td align="right">103&#160;061</td><td align="right">27,5</td></tr><tr><td align="right">4</td><td><a href="../../../../articles/d/e/m/Demerara-Mahaica_703a.html" title="Demerara-Mahaica">Demerara-Mahaica</a></td><td align="right">2&#160;232</td><td align="right">310&#160;320</td><td align="right">139,0</td></tr><tr><td align="right">5</td><td><a href="../../../../articles/m/a/h/Mahaica-Berbice_0731.html" title="Mahaica-Berbice">Mahaica-Berbice</a></td><td align="right">4&#160;190</td><td align="right">52&#160;428</td><td align="right">12,5</td></tr><tr><td align="right">6</td><td><a href="../../../../articles/e/a/s/East_Berbice-Corentyne_0feb.html" title="East Berbice-Corentyne">East Berbice-Corentyne</a></td><td align="right">36&#160;234</td><td align="right">123&#160;695</td><td align="right">3,4</td></tr><tr><td align="right">7</td><td><a href="../../../../articles/c/u/y/Cuyuni-Mazaruni_70bc.html" title="Cuyuni-Mazaruni">Cuyuni-Mazaruni</a></td><td align="right">47&#160;213</td><td align="right">17&#160;597</td><td align="right">0,4</td></tr><tr><td align="right">8</td><td><a href="../../../../articles/p/o/t/Potaro-Siparuni_1ec6.html" title="Potaro-Siparuni">Potaro-Siparuni</a></td><td align="right">20&#160;051</td><td align="right">10&#160;095</td><td align="right">0,5</td></tr><tr><td align="right">9</td><td><a href="../../../../articles/u/p/p/Upper_Takutu-Upper_Essequibo_a61e.html" title="Upper Takutu-Upper Essequibo">Upper Takutu-Upper Essequibo</a></td><td align="right">57&#160;750</td><td align="right">19&#160;387</td><td align="right">0,3</td></tr><tr><td align="right">10</td><td><a href="../../../../articles/u/p/p/Upper_Demerara-Berbice_0af3.html" title="Upper Demerara-Berbice">Upper Demerara-Berbice</a></td><td align="right">17&#160;040</td><td align="right">41&#160;112</td><td align="right">2,4</td></tr><tr><td></td><td><b>Guyana</b></td><td align="right"><b>214&#160;999</b></td><td align="right"><b>751&#160;223</b></td><td align="right"><b>3,5</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

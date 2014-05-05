@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r25/o/b/x/OBX_Index_858f.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.63 1, 0.125 0 3, 0.12 3, 0.109375 1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/o/b/x/OBX_Index_858f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Company</th>]]></html>
+	<text>Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GICS Sector [1]</th>]]></html>
+	<text>GICS Sector [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ticker symbol</th>]]></html>
+	<text>Ticker symbol</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Index weighting (%) [2]</th>]]></html>
+	<text>Index weighting (%) [2]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Acergy</td>]]></html>
+	<text>Acergy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ACY</td>]]></html>
+	<text>ACY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.68</td>]]></html>
+	<text>2.68</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aker Solutions</td>]]></html>
+	<text>Aker Solutions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AKSO</td>]]></html>
+	<text>AKSO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.86</td>]]></html>
+	<text>2.86</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aker Yards</td>]]></html>
+	<text>Aker Yards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>construction and farm machinery; heavy trucks</td>]]></html>
+	<text>construction and farm machinery; heavy trucks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AKY</td>]]></html>
+	<text>AKY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.50</td>]]></html>
+	<text>0.50</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Awilco Offshore</td>]]></html>
+	<text>Awilco Offshore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas drilling</td>]]></html>
+	<text>oil and gas drilling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AWO</td>]]></html>
+	<text>AWO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.70</td>]]></html>
+	<text>0.70</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DnB NOR</td>]]></html>
+	<text>DnB NOR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>diversified banks</td>]]></html>
+	<text>diversified banks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DNBNOR</td>]]></html>
+	<text>DNBNOR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.54</td>]]></html>
+	<text>7.54</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DNO</td>]]></html>
+	<text>DNO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas exploration and production</td>]]></html>
+	<text>oil and gas exploration and production</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DNO</td>]]></html>
+	<text>DNO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.01</td>]]></html>
+	<text>1.01</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fred. Olsen Energy</td>]]></html>
+	<text>Fred. Olsen Energy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas drilling</td>]]></html>
+	<text>oil and gas drilling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FOE</td>]]></html>
+	<text>FOE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.13</td>]]></html>
+	<text>1.13</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Frontline</td>]]></html>
+	<text>Frontline</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas storage and transportation</td>]]></html>
+	<text>oil and gas storage and transportation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FRO</td>]]></html>
+	<text>FRO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.03</td>]]></html>
+	<text>1.03</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Golden Ocean Group</td>]]></html>
+	<text>Golden Ocean Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>marine</td>]]></html>
+	<text>marine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GOGL</td>]]></html>
+	<text>GOGL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.68</td>]]></html>
+	<text>0.68</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marine Harvest</td>]]></html>
+	<text>Marine Harvest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>packaged foods and meats</td>]]></html>
+	<text>packaged foods and meats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MHG</td>]]></html>
+	<text>MHG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.04</td>]]></html>
+	<text>1.04</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norsk Hydro</td>]]></html>
+	<text>Norsk Hydro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>aluminium</td>]]></html>
+	<text>aluminium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NHY</td>]]></html>
+	<text>NHY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.11</td>]]></html>
+	<text>6.11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norske Skog</td>]]></html>
+	<text>Norske Skog</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>paper products</td>]]></html>
+	<text>paper products</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSG</td>]]></html>
+	<text>NSG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.01</td>]]></html>
+	<text>1.01</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Orkla</td>]]></html>
+	<text>Orkla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial conglomerates</td>]]></html>
+	<text>industrial conglomerates</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ORK</td>]]></html>
+	<text>ORK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.68</td>]]></html>
+	<text>9.68</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Petroleum Geo-Services</td>]]></html>
+	<text>Petroleum Geo-Services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PGS</td>]]></html>
+	<text>PGS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.11</td>]]></html>
+	<text>3.11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prosafe</td>]]></html>
+	<text>Prosafe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PRS</td>]]></html>
+	<text>PRS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.03</td>]]></html>
+	<text>2.03</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Renewable Energy Corporation</td>]]></html>
+	<text>Renewable Energy Corporation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>electrical components and equipment</td>]]></html>
+	<text>electrical components and equipment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>REC</td>]]></html>
+	<text>REC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.61</td>]]></html>
+	<text>4.61</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seadrill</td>]]></html>
+	<text>Seadrill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas drilling</td>]]></html>
+	<text>oil and gas drilling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SDRL</td>]]></html>
+	<text>SDRL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.17</td>]]></html>
+	<text>4.17</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>StatoilHydro</td>]]></html>
+	<text>StatoilHydro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>integrated oil and gas</td>]]></html>
+	<text>integrated oil and gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STL</td>]]></html>
+	<text>STL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24.98</td>]]></html>
+	<text>24.98</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Storebrand</td>]]></html>
+	<text>Storebrand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>multi-line insurance</td>]]></html>
+	<text>multi-line insurance</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STB</td>]]></html>
+	<text>STB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.19</td>]]></html>
+	<text>2.19</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Subsea 7</td>]]></html>
+	<text>Subsea 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SUB</td>]]></html>
+	<text>SUB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.25</td>]]></html>
+	<text>1.25</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tandberg</td>]]></html>
+	<text>Tandberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>communications equipment</td>]]></html>
+	<text>communications equipment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAA</td>]]></html>
+	<text>TAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.55</td>]]></html>
+	<text>1.55</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Telenor</td>]]></html>
+	<text>Telenor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>integrated telecommunication services</td>]]></html>
+	<text>integrated telecommunication services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TEL</td>]]></html>
+	<text>TEL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.15</td>]]></html>
+	<text>13.15</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TGS-NOPEC</td>]]></html>
+	<text>TGS-NOPEC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas equipment and services</td>]]></html>
+	<text>oil and gas equipment and services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TGS</td>]]></html>
+	<text>TGS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.91</td>]]></html>
+	<text>0.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tomra</td>]]></html>
+	<text>Tomra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>environmental and facilities services</td>]]></html>
+	<text>environmental and facilities services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TOM</td>]]></html>
+	<text>TOM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.73</td>]]></html>
+	<text>0.73</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yara International</td>]]></html>
+	<text>Yara International</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>fertilizers and agricultural chemicals</td>]]></html>
+	<text>fertilizers and agricultural chemicals</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YAR</td>]]></html>
+	<text>YAR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.36</td>]]></html>
+	<text>5.36</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>OBX Index - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Company GICS Sector [1] Ticker symbol Index weighting (%) [2]</text>
+</context>
+<context>
+	<score>0.8859578</score>
+	<text>As of the half-yearly index reclassification effective 21 December 2007 , the following companies constitute the OBX list:</text>
+</context>
+<context>
+	<score>0.8006787</score>
+	<text>OBX Index</text>
+</context>
+<context>
+	<score>0.7889496</score>
+	<text>[ edit ] List of companies on the OBX Index</text>
+</context>
+<context>
+	<score>0.75756466</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73029006</score>
+	<text>[ edit ] List of companies on the OBX Index</text>
+</context>
+<context>
+	<score>0.73029006</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73029006</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73029006</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7230722</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7041253</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.64925796</score>
+	<text>The OBX Index is a stock market index which lists the 25 most liquid companies on the main index of the Oslo Stock Exchange in Norway . All stocks on the OBX list can be traded with options and futures . The companies on the OBX list are rotated twice a year, on the third Friday of June and December.</text>
+</context>
+<context>
+	<score>0.6113188</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61070985</score>
+	<text>^ Source: GICS listings , Oslo B rs . ^ As of index review, 21 December 2007. Source: OBX weight report for 21.12.2007 , Oslo B rs .</text>
+</context>
+<context>
+	<score>0.5715843</score>
+	<text>OBX Index</text>
+</context>
+<context>
+	<score>0.5243246</score>
+	<text>[ edit ] See also</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align: center; font-size: 90%;" cellpadding="2" cellspacing="2"><tr><th>Company</th><th><a href="../../../../articles/g/l/o/Global_Industry_Classification_Standard_957a.html" title="Global Industry Classification Standard">GICS</a> Sector<sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></th><th>Ticker symbol</th><th>Index weighting (%)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup></th></tr><tr><td><a href="../../../../articles/a/c/e/Acergy.html" title="Acergy">Acergy</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.ACY" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.ACY" rel="nofollow">ACY</a></td><td>2.68</td></tr><tr><td><a href="../../../../articles/a/k/e/Aker_Solutions_6fd6.html" title="Aker Solutions">Aker Solutions</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AKSO" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AKSO" rel="nofollow">AKSO</a></td><td>2.86</td></tr><tr><td><a href="../../../../articles/a/k/e/Aker_Yards_9f41.html" title="Aker Yards">Aker Yards</a></td><td>construction and farm machinery; heavy trucks</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AKY" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AKY" rel="nofollow">AKY</a></td><td>0.50</td></tr><tr><td><a href="../../../../articles/a/w/i/Awilco_Offshore_f32e.html" title="Awilco Offshore">Awilco Offshore</a></td><td>oil and gas drilling</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AWO" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.AWO" rel="nofollow">AWO</a></td><td>0.70</td></tr><tr><td><a href="../../../../articles/d/n/b/DnB_NOR_d0ca.html" title="DnB NOR">DnB NOR</a></td><td>diversified banks</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.DNBNOR" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.DNBNOR" rel="nofollow">DNBNOR</a></td><td>7.54</td></tr><tr><td><a href="../../../../articles/d/n/o/DNO_ASA_c98a.html" class="mw-redirect" title="DNO ASA">DNO</a></td><td>oil and gas exploration and production</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.DNO" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.DNO" rel="nofollow">DNO</a></td><td>1.01</td></tr><tr><td><a href="../../../../articles/f/r/e/Fred._Olsen_Energy_3419.html" title="Fred. Olsen Energy">Fred. Olsen Energy</a></td><td>oil and gas drilling</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.FOE" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.FOE" rel="nofollow">FOE</a></td><td>1.13</td></tr><tr><td><a href="../../../../articles/f/r/o/Frontline_Ltd._0baa.html" title="Frontline Ltd.">Frontline</a></td><td>oil and gas storage and transportation</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.FRO" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.FRO" rel="nofollow">FRO</a></td><td>1.03</td></tr><tr><td><a href="../../../../articles/g/o/l/Golden_Ocean_Group_d7cf.html" title="Golden Ocean Group">Golden Ocean Group</a></td><td>marine</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.GOGL" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.GOGL" rel="nofollow">GOGL</a></td><td>0.68</td></tr><tr><td><a href="../../../../articles/m/a/r/Marine_Harvest_0346.html" title="Marine Harvest">Marine Harvest</a></td><td>packaged foods and meats</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.MHG" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.MHG" rel="nofollow">MHG</a></td><td>1.04</td></tr><tr><td><a href="../../../../articles/n/o/r/Norsk_Hydro_a9e6.html" title="Norsk Hydro">Norsk Hydro</a></td><td>aluminium</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.NHY" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.NHY" rel="nofollow">NHY</a></td><td>6.11</td></tr><tr><td><a href="../../../../articles/n/o/r/Norske_Skog_19c3.html" title="Norske Skog">Norske Skog</a></td><td>paper products</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.NSG" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.NSG" rel="nofollow">NSG</a></td><td>1.01</td></tr><tr><td><a href="../../../../articles/o/r/k/Orkla_Group_ccc4.html" title="Orkla Group">Orkla</a></td><td>industrial conglomerates</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.ORK" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.ORK" rel="nofollow">ORK</a></td><td>9.68</td></tr><tr><td><a href="../../../../articles/p/e/t/Petroleum_Geo-Services_cb21.html" title="Petroleum Geo-Services">Petroleum Geo-Services</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.PGS" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.PGS" rel="nofollow">PGS</a></td><td>3.11</td></tr><tr><td><a href="../../../../articles/p/r/o/Prosafe.html" title="Prosafe">Prosafe</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.PRS" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.PRS" rel="nofollow">PRS</a></td><td>2.03</td></tr><tr><td><a href="../../../../articles/r/e/n/Renewable_Energy_Corporation_8b41.html" title="Renewable Energy Corporation">Renewable Energy Corporation</a></td><td>electrical components and equipment</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.REC" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.REC" rel="nofollow">REC</a></td><td>4.61</td></tr><tr><td><a href="../../../../articles/s/e/a/Seadrill.html" title="Seadrill">Seadrill</a></td><td>oil and gas drilling</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.SDRL" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.SDRL" rel="nofollow">SDRL</a></td><td>4.17</td></tr><tr><td><a href="../../../../articles/s/t/a/StatoilHydro_b013.html" title="StatoilHydro">StatoilHydro</a></td><td>integrated oil and gas</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.STL" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.STL" rel="nofollow">STL</a></td><td>24.98</td></tr><tr><td><a href="../../../../articles/s/t/o/Storebrand.html" title="Storebrand">Storebrand</a></td><td>multi-line insurance</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.STB" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.STB" rel="nofollow">STB</a></td><td>2.19</td></tr><tr><td><a href="../../../../articles/s/u/b/Subsea_7.html" title="Subsea 7">Subsea 7</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.SUB" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.SUB" rel="nofollow">SUB</a></td><td>1.25</td></tr><tr><td><a href="../../../../articles/t/a/n/Tandberg.html" title="Tandberg">Tandberg</a></td><td>communications equipment</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TAA" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TAA" rel="nofollow">TAA</a></td><td>1.55</td></tr><tr><td><a href="../../../../articles/t/e/l/Telenor.html" title="Telenor">Telenor</a></td><td>integrated telecommunication services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TEL" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TEL" rel="nofollow">TEL</a></td><td>13.15</td></tr><tr><td><a href="../../../../articles/t/g/s/TGS-NOPEC_Geophysical_Company_8273.html" title="TGS-NOPEC Geophysical Company">TGS-NOPEC</a></td><td>oil and gas equipment and services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TGS" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TGS" rel="nofollow">TGS</a></td><td>0.91</td></tr><tr><td><a href="../../../../articles/t/o/m/Tomra.html" title="Tomra">Tomra</a></td><td>environmental and facilities services</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TOM" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.TOM" rel="nofollow">TOM</a></td><td>0.73</td></tr><tr><td><a href="../../../../articles/y/a/r/Yara_International_cf31.html" title="Yara International">Yara International</a></td><td>fertilizers and agricultural chemicals</td><td><a href="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.YAR" class="external text" title="http://www.oslobors.no/ob/aksje_kursutvikling?menu2show=1.1.2.1.&amp;p_instrid=ticker.ose.YAR" rel="nofollow">YAR</a></td><td>5.36</td></tr></table>]]>
+</htmlSnippet>
+</entity>

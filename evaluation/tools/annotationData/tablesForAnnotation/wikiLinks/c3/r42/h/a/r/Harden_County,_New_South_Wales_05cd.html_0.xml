@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r42/h/a/r/Harden_County,_New_South_Wales_05cd.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11904762 1, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/h/a/r/Harden_County,_New_South_Wales_05cd.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Parish</th>]]></html>
+	<text>Parish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>LGA</th>]]></html>
+	<text>LGA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coordinates</th>]]></html>
+	<text>Coordinates</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beggan Beggan</td>]]></html>
+	<text>Beggan Beggan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 148°21′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 148&#176;21&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Binalong</td>]]></html>
+	<text>Binalong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 148°38′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 148&#176;38&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Birrema</td>]]></html>
+	<text>Birrema</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°50′54″S, 148°28′04″E</td>]]></html>
+	<text>34&#176;50&#8242;54&#8243;S, 148&#176;28&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bobbara</td>]]></html>
+	<text>Bobbara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°34′54″S, 148°37′04″E</td>]]></html>
+	<text>34&#176;34&#8242;54&#8243;S, 148&#176;37&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bongongalong</td>]]></html>
+	<text>Bongongalong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°55′54″S, 148°06′04″E</td>]]></html>
+	<text>34&#176;55&#8242;54&#8243;S, 148&#176;06&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bookham</td>]]></html>
+	<text>Bookham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°47′54″S, 148°38′04″E</td>]]></html>
+	<text>34&#176;47&#8242;54&#8243;S, 148&#176;38&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bowning</td>]]></html>
+	<text>Bowning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°43′54″S, 148°48′04″E</td>]]></html>
+	<text>34&#176;43&#8242;54&#8243;S, 148&#176;48&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Burra</td>]]></html>
+	<text>Burra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°53′54″S, 148°00′04″E</td>]]></html>
+	<text>34&#176;53&#8242;54&#8243;S, 148&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Childowla</td>]]></html>
+	<text>Childowla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°58′54″S, 148°36′04″E</td>]]></html>
+	<text>34&#176;58&#8242;54&#8243;S, 148&#176;36&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Coolac</td>]]></html>
+	<text>Coolac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°58′54″S, 148°11′04″E</td>]]></html>
+	<text>34&#176;58&#8242;54&#8243;S, 148&#176;11&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cooney</td>]]></html>
+	<text>Cooney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°44′54″S, 148°12′04″E</td>]]></html>
+	<text>34&#176;44&#8242;54&#8243;S, 148&#176;12&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cootamundra</td>]]></html>
+	<text>Cootamundra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°37′54″S, 147°00′04″E</td>]]></html>
+	<text>34&#176;37&#8242;54&#8243;S, 147&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Coppabella</td>]]></html>
+	<text>Coppabella</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°44′54″S, 148°30′04″E</td>]]></html>
+	<text>34&#176;44&#8242;54&#8243;S, 148&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cowcumbala</td>]]></html>
+	<text>Cowcumbala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°43′54″S, 148°04′04″E</td>]]></html>
+	<text>34&#176;43&#8242;54&#8243;S, 148&#176;04&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cullinga</td>]]></html>
+	<text>Cullinga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°36′54″S, 147°10′04″E</td>]]></html>
+	<text>34&#176;36&#8242;54&#8243;S, 147&#176;10&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cumbamurra</td>]]></html>
+	<text>Cumbamurra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°37′54″S, 148°26′04″E</td>]]></html>
+	<text>34&#176;37&#8242;54&#8243;S, 148&#176;26&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cunjegong</td>]]></html>
+	<text>Cunjegong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°42′54″S, 147°57′04″E</td>]]></html>
+	<text>34&#176;42&#8242;54&#8243;S, 147&#176;57&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cunningar</td>]]></html>
+	<text>Cunningar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°31′54″S, 148°26′04″E</td>]]></html>
+	<text>34&#176;31&#8242;54&#8243;S, 148&#176;26&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cunningham</td>]]></html>
+	<text>Cunningham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°46′54″S, 148°21′04″E</td>]]></html>
+	<text>34&#176;46&#8242;54&#8243;S, 148&#176;21&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Currawong</td>]]></html>
+	<text>Currawong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°27′54″S, 148°22′04″E</td>]]></html>
+	<text>34&#176;27&#8242;54&#8243;S, 148&#176;22&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Demondrille</td>]]></html>
+	<text>Demondrille</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°30′54″S, 148°14′04″E</td>]]></html>
+	<text>34&#176;30&#8242;54&#8243;S, 148&#176;14&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Douglas</td>]]></html>
+	<text>Douglas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°27′54″S, 148°30′04″E</td>]]></html>
+	<text>34&#176;27&#8242;54&#8243;S, 148&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eubindal</td>]]></html>
+	<text>Eubindal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°36′54″S, 148°42′04″E</td>]]></html>
+	<text>34&#176;36&#8242;54&#8243;S, 148&#176;42&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Galong</td>]]></html>
+	<text>Galong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°32′54″S, 148°31′04″E</td>]]></html>
+	<text>34&#176;32&#8242;54&#8243;S, 148&#176;31&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gobarralong</td>]]></html>
+	<text>Gobarralong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°54′54″S, 148°16′04″E</td>]]></html>
+	<text>34&#176;54&#8242;54&#8243;S, 148&#176;16&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gooramma</td>]]></html>
+	<text>Gooramma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°30′54″S, 148°34′04″E</td>]]></html>
+	<text>34&#176;30&#8242;54&#8243;S, 148&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Harden</td>]]></html>
+	<text>Harden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°37′54″S, 148°33′04″E</td>]]></html>
+	<text>34&#176;37&#8242;54&#8243;S, 148&#176;33&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illalong</td>]]></html>
+	<text>Illalong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 148°45′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 148&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jindalee</td>]]></html>
+	<text>Jindalee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°33′54″S, 147°03′04″E</td>]]></html>
+	<text>34&#176;33&#8242;54&#8243;S, 147&#176;03&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jugiong</td>]]></html>
+	<text>Jugiong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°47′54″S, 148°21′04″E</td>]]></html>
+	<text>34&#176;47&#8242;54&#8243;S, 148&#176;21&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mooney Mooney</td>]]></html>
+	<text>Mooney Mooney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°50′54″S, 148°12′04″E</td>]]></html>
+	<text>34&#176;50&#8242;54&#8243;S, 148&#176;12&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moppity</td>]]></html>
+	<text>Moppity</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Young Shire Council</td>]]></html>
+	<text>Young Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°22′54″S, 148°23′04″E</td>]]></html>
+	<text>34&#176;22&#8242;54&#8243;S, 148&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Murrimboola</td>]]></html>
+	<text>Murrimboola</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°31′54″S, 148°22′04″E</td>]]></html>
+	<text>34&#176;31&#8242;54&#8243;S, 148&#176;22&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Muttama</td>]]></html>
+	<text>Muttama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gundagai Shire Council</td>]]></html>
+	<text>Gundagai Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°45′54″S, 148°00′04″E</td>]]></html>
+	<text>34&#176;45&#8242;54&#8243;S, 148&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mylora</td>]]></html>
+	<text>Mylora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°43′54″S, 148°38′04″E</td>]]></html>
+	<text>34&#176;43&#8242;54&#8243;S, 148&#176;38&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nubba</td>]]></html>
+	<text>Nubba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 148°10′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 148&#176;10&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nurung</td>]]></html>
+	<text>Nurung</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°29′54″S, 148°34′04″E</td>]]></html>
+	<text>34&#176;29&#8242;54&#8243;S, 148&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Talmo</td>]]></html>
+	<text>Talmo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°52′54″S, 148°36′04″E</td>]]></html>
+	<text>34&#176;52&#8242;54&#8243;S, 148&#176;36&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wallendoon</td>]]></html>
+	<text>Wallendoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cootamundra Shire Council</td>]]></html>
+	<text>Cootamundra Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°32′54″S, 147°10′04″E</td>]]></html>
+	<text>34&#176;32&#8242;54&#8243;S, 147&#176;10&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wambat</td>]]></html>
+	<text>Wambat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 148°15′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 148&#176;15&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wilkie</td>]]></html>
+	<text>Wilkie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harden Shire Council</td>]]></html>
+	<text>Harden Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°24′54″S, 148°16′04″E</td>]]></html>
+	<text>34&#176;24&#8242;54&#8243;S, 148&#176;16&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Woolgarlo</td>]]></html>
+	<text>Woolgarlo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°52′54″S, 148°43′04″E</td>]]></html>
+	<text>34&#176;52&#8242;54&#8243;S, 148&#176;43&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Harden County, New South Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Parish LGA Coordinates</text>
+</context>
+<context>
+	<score>0.8865688</score>
+	<text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>Harden County, New South Wales</text>
+</context>
+<context>
+	<score>0.78118753</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.7470937</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72981423</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.72981423</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.67858714</score>
+	<text>The background to the name of Harden County is unknown at this time.</text>
+</context>
+<context>
+	<score>0.6294386</score>
+	<text>Harden County, New South Wales is one of the 141 Cadastral divisions of New South Wales . It contains the town of Harden .</text>
+</context>
+<context>
+	<score>0.5901196</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.58756316</score>
+	<text>^ Geographical Names Board of NSW</text>
+</context>
+<context>
+	<score>0.54695547</score>
+	<text>Harden County, New South Wales</text>
+</context>
+<context>
+	<score>0.49372172</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center"><tr><th>Parish</th><th>LGA</th><th>Coordinates</th></tr><tr><td>Beggan Beggan</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_39_54_S_148_21_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_39_54_S_148_21_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">148°21′04″E</span></span></a></span></td></tr><tr><td>Binalong</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_39_54_S_148_38_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_39_54_S_148_38_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">148°38′04″E</span></span></a></span></td></tr><tr><td>Birrema</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_50_54_S_148_28_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_50_54_S_148_28_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°50′54″S,</span> <span style="white-space:nowrap">148°28′04″E</span></span></a></span></td></tr><tr><td>Bobbara</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_34_54_S_148_37_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_34_54_S_148_37_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°34′54″S,</span> <span style="white-space:nowrap">148°37′04″E</span></span></a></span></td></tr><tr><td>Bongongalong</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_55_54_S_148_06_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_55_54_S_148_06_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°55′54″S,</span> <span style="white-space:nowrap">148°06′04″E</span></span></a></span></td></tr><tr><td>Bookham</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_47_54_S_148_38_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_47_54_S_148_38_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°47′54″S,</span> <span style="white-space:nowrap">148°38′04″E</span></span></a></span></td></tr><tr><td>Bowning</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_48_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_48_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°43′54″S,</span> <span style="white-space:nowrap">148°48′04″E</span></span></a></span></td></tr><tr><td>Burra</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_53_54_S_148_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_53_54_S_148_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°53′54″S,</span> <span style="white-space:nowrap">148°00′04″E</span></span></a></span></td></tr><tr><td>Childowla</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_58_54_S_148_36_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_58_54_S_148_36_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°58′54″S,</span> <span style="white-space:nowrap">148°36′04″E</span></span></a></span></td></tr><tr><td>Coolac</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_58_54_S_148_11_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_58_54_S_148_11_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°58′54″S,</span> <span style="white-space:nowrap">148°11′04″E</span></span></a></span></td></tr><tr><td>Cooney</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_44_54_S_148_12_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_44_54_S_148_12_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°44′54″S,</span> <span style="white-space:nowrap">148°12′04″E</span></span></a></span></td></tr><tr><td>Cootamundra</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_147_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_147_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°37′54″S,</span> <span style="white-space:nowrap">147°00′04″E</span></span></a></span></td></tr><tr><td>Coppabella</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_44_54_S_148_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_44_54_S_148_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°44′54″S,</span> <span style="white-space:nowrap">148°30′04″E</span></span></a></span></td></tr><tr><td>Cowcumbala</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_04_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_04_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°43′54″S,</span> <span style="white-space:nowrap">148°04′04″E</span></span></a></span></td></tr><tr><td>Cullinga</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_36_54_S_147_10_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_36_54_S_147_10_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°36′54″S,</span> <span style="white-space:nowrap">147°10′04″E</span></span></a></span></td></tr><tr><td>Cumbamurra</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_148_26_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_148_26_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°37′54″S,</span> <span style="white-space:nowrap">148°26′04″E</span></span></a></span></td></tr><tr><td>Cunjegong</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_42_54_S_147_57_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_42_54_S_147_57_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°42′54″S,</span> <span style="white-space:nowrap">147°57′04″E</span></span></a></span></td></tr><tr><td>Cunningar</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_31_54_S_148_26_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_31_54_S_148_26_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°31′54″S,</span> <span style="white-space:nowrap">148°26′04″E</span></span></a></span></td></tr><tr><td>Cunningham</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_46_54_S_148_21_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_46_54_S_148_21_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°46′54″S,</span> <span style="white-space:nowrap">148°21′04″E</span></span></a></span></td></tr><tr><td>Currawong</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_27_54_S_148_22_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_27_54_S_148_22_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°27′54″S,</span> <span style="white-space:nowrap">148°22′04″E</span></span></a></span></td></tr><tr><td>Demondrille</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_30_54_S_148_14_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_30_54_S_148_14_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°30′54″S,</span> <span style="white-space:nowrap">148°14′04″E</span></span></a></span></td></tr><tr><td>Douglas</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_27_54_S_148_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_27_54_S_148_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°27′54″S,</span> <span style="white-space:nowrap">148°30′04″E</span></span></a></span></td></tr><tr><td>Eubindal</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_36_54_S_148_42_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_36_54_S_148_42_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°36′54″S,</span> <span style="white-space:nowrap">148°42′04″E</span></span></a></span></td></tr><tr><td>Galong</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_32_54_S_148_31_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_32_54_S_148_31_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°32′54″S,</span> <span style="white-space:nowrap">148°31′04″E</span></span></a></span></td></tr><tr><td>Gobarralong</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_54_54_S_148_16_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_54_54_S_148_16_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°54′54″S,</span> <span style="white-space:nowrap">148°16′04″E</span></span></a></span></td></tr><tr><td>Gooramma</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_30_54_S_148_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_30_54_S_148_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°30′54″S,</span> <span style="white-space:nowrap">148°34′04″E</span></span></a></span></td></tr><tr><td>Harden</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_148_33_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_37_54_S_148_33_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°37′54″S,</span> <span style="white-space:nowrap">148°33′04″E</span></span></a></span></td></tr><tr><td>Illalong</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_41_54_S_148_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_41_54_S_148_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">148°45′04″E</span></span></a></span></td></tr><tr><td>Jindalee</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_33_54_S_147_03_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_33_54_S_147_03_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°33′54″S,</span> <span style="white-space:nowrap">147°03′04″E</span></span></a></span></td></tr><tr><td>Jugiong</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_47_54_S_148_21_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_47_54_S_148_21_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°47′54″S,</span> <span style="white-space:nowrap">148°21′04″E</span></span></a></span></td></tr><tr><td>Mooney Mooney</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_50_54_S_148_12_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_50_54_S_148_12_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°50′54″S,</span> <span style="white-space:nowrap">148°12′04″E</span></span></a></span></td></tr><tr><td>Moppity</td><td><a href="../../../../articles/y/o/u/Young_Shire_Council_f13d.html" title="Young Shire Council">Young Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_22_54_S_148_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_22_54_S_148_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°22′54″S,</span> <span style="white-space:nowrap">148°23′04″E</span></span></a></span></td></tr><tr><td>Murrimboola</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_31_54_S_148_22_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_31_54_S_148_22_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°31′54″S,</span> <span style="white-space:nowrap">148°22′04″E</span></span></a></span></td></tr><tr><td>Muttama</td><td><a href="../../../../articles/g/u/n/Gundagai_Shire_Council_e4d0.html" title="Gundagai Shire Council">Gundagai Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_45_54_S_148_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_45_54_S_148_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°45′54″S,</span> <span style="white-space:nowrap">148°00′04″E</span></span></a></span></td></tr><tr><td>Mylora</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_38_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_43_54_S_148_38_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°43′54″S,</span> <span style="white-space:nowrap">148°38′04″E</span></span></a></span></td></tr><tr><td>Nubba</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_28_54_S_148_10_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_28_54_S_148_10_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">148°10′04″E</span></span></a></span></td></tr><tr><td>Nurung</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_29_54_S_148_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_29_54_S_148_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°29′54″S,</span> <span style="white-space:nowrap">148°34′04″E</span></span></a></span></td></tr><tr><td>Talmo</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_52_54_S_148_36_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_52_54_S_148_36_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°52′54″S,</span> <span style="white-space:nowrap">148°36′04″E</span></span></a></span></td></tr><tr><td>Wallendoon</td><td><a href="../../../../articles/c/o/o/Cootamundra_Shire_Council_afb2.html" title="Cootamundra Shire Council">Cootamundra Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_32_54_S_147_10_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_32_54_S_147_10_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°32′54″S,</span> <span style="white-space:nowrap">147°10′04″E</span></span></a></span></td></tr><tr><td>Wambat</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_28_54_S_148_15_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_28_54_S_148_15_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">148°15′04″E</span></span></a></span></td></tr><tr><td>Wilkie</td><td><a href="../../../../articles/h/a/r/Harden_Shire_Council_eb1c.html" title="Harden Shire Council">Harden Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_24_54_S_148_16_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_24_54_S_148_16_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°24′54″S,</span> <span style="white-space:nowrap">148°16′04″E</span></span></a></span></td></tr><tr><td>Woolgarlo</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_52_54_S_148_43_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Harden_County%2C_New_South_Wales&amp;params=34_52_54_S_148_43_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°52′54″S,</span> <span style="white-space:nowrap">148°43′04″E</span></span></a></span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

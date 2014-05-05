@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r39/c/r/i/Crime_in_Poland_5362.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/c/r/i/Crime_in_Poland_5362.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>No.</th>]]></html>
+	<text>No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of crimes per 100,000 inhabitants</th>]]></html>
+	<text>Number of crimes per 100,000 inhabitants</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1.</td>]]></html>
+	<text>1.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Katowice</td>]]></html>
+	<text>Katowice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7063,7</td>]]></html>
+	<text>7063,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2.</td>]]></html>
+	<text>2.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chorzów</td>]]></html>
+	<text>Chorz&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6733,3</td>]]></html>
+	<text>6733,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.</td>]]></html>
+	<text>3.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Legnica</td>]]></html>
+	<text>Legnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6361,5</td>]]></html>
+	<text>6361,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4.</td>]]></html>
+	<text>4.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalisz</td>]]></html>
+	<text>Kalisz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6228,2</td>]]></html>
+	<text>6228,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5.</td>]]></html>
+	<text>5.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gdańsk</td>]]></html>
+	<text>Gda&#324;sk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6133,7</td>]]></html>
+	<text>6133,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6.</td>]]></html>
+	<text>6.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poznań</td>]]></html>
+	<text>Pozna&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6109,2</td>]]></html>
+	<text>6109,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7.</td>]]></html>
+	<text>7.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wrocław</td>]]></html>
+	<text>Wroc&#322;aw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5983,4</td>]]></html>
+	<text>5983,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8.</td>]]></html>
+	<text>8.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kraków</td>]]></html>
+	<text>Krak&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5974,2</td>]]></html>
+	<text>5974,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9.</td>]]></html>
+	<text>9.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kielce</td>]]></html>
+	<text>Kielce</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5926,6</td>]]></html>
+	<text>5926,6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10.</td>]]></html>
+	<text>10.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gliwice</td>]]></html>
+	<text>Gliwice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5733,5</td>]]></html>
+	<text>5733,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11.</td>]]></html>
+	<text>11.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opole</td>]]></html>
+	<text>Opole</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5649,8</td>]]></html>
+	<text>5649,8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12.</td>]]></html>
+	<text>12.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Włocławek</td>]]></html>
+	<text>W&#322;oc&#322;awek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5626,9</td>]]></html>
+	<text>5626,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13.</td>]]></html>
+	<text>13.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warszawa</td>]]></html>
+	<text>Warszawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5353,2</td>]]></html>
+	<text>5353,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14.</td>]]></html>
+	<text>14.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bytom</td>]]></html>
+	<text>Bytom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5332,5</td>]]></html>
+	<text>5332,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15.</td>]]></html>
+	<text>15.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elbląg</td>]]></html>
+	<text>Elbl&#261;g</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5328,1</td>]]></html>
+	<text>5328,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16.</td>]]></html>
+	<text>16.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zielona Góra</td>]]></html>
+	<text>Zielona G&#243;ra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5193,2</td>]]></html>
+	<text>5193,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17.</td>]]></html>
+	<text>17.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tarnów</td>]]></html>
+	<text>Tarn&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5187,3</td>]]></html>
+	<text>5187,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18.</td>]]></html>
+	<text>18.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gorzów Wielkopolski</td>]]></html>
+	<text>Gorz&#243;w Wielkopolski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5156,6</td>]]></html>
+	<text>5156,6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19.</td>]]></html>
+	<text>19.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Szczecin</td>]]></html>
+	<text>Szczecin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5120,9</td>]]></html>
+	<text>5120,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20.</td>]]></html>
+	<text>20.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toruń</td>]]></html>
+	<text>Toru&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5120,2</td>]]></html>
+	<text>5120,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21.</td>]]></html>
+	<text>21.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Łódź</td>]]></html>
+	<text>&#321;&#243;d&#378;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5116,4</td>]]></html>
+	<text>5116,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22.</td>]]></html>
+	<text>22.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sosnowiec</td>]]></html>
+	<text>Sosnowiec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5051,7</td>]]></html>
+	<text>5051,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23.</td>]]></html>
+	<text>23.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bielsko-Biała</td>]]></html>
+	<text>Bielsko-Bia&#322;a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4969,1</td>]]></html>
+	<text>4969,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24.</td>]]></html>
+	<text>24.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lublin</td>]]></html>
+	<text>Lublin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4968,7</td>]]></html>
+	<text>4968,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25.</td>]]></html>
+	<text>25.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zabrze</td>]]></html>
+	<text>Zabrze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4808,8</td>]]></html>
+	<text>4808,8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26.</td>]]></html>
+	<text>26.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wałbrzych</td>]]></html>
+	<text>Wa&#322;brzych</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4710,2</td>]]></html>
+	<text>4710,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27.</td>]]></html>
+	<text>27.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dąbrowa Górnicza</td>]]></html>
+	<text>D&#261;browa G&#243;rnicza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4690,8</td>]]></html>
+	<text>4690,8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28.</td>]]></html>
+	<text>28.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radom</td>]]></html>
+	<text>Radom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4670,1</td>]]></html>
+	<text>4670,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29.</td>]]></html>
+	<text>29.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bydgoszcz</td>]]></html>
+	<text>Bydgoszcz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4515,1</td>]]></html>
+	<text>4515,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30.</td>]]></html>
+	<text>30.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rybnik</td>]]></html>
+	<text>Rybnik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4500,7</td>]]></html>
+	<text>4500,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>31.</td>]]></html>
+	<text>31.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gdynia</td>]]></html>
+	<text>Gdynia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4328,1</td>]]></html>
+	<text>4328,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>32.</td>]]></html>
+	<text>32.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Olsztyn</td>]]></html>
+	<text>Olsztyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4317</td>]]></html>
+	<text>4317</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>33.</td>]]></html>
+	<text>33.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koszalin</td>]]></html>
+	<text>Koszalin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4004,7</td>]]></html>
+	<text>4004,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34.</td>]]></html>
+	<text>34.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ruda Śląska</td>]]></html>
+	<text>Ruda &#346;l&#261;ska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3945,3</td>]]></html>
+	<text>3945,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>35.</td>]]></html>
+	<text>35.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rzeszów</td>]]></html>
+	<text>Rzesz&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3890,9</td>]]></html>
+	<text>3890,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>36.</td>]]></html>
+	<text>36.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tychy</td>]]></html>
+	<text>Tychy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3842,7</td>]]></html>
+	<text>3842,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>37.</td>]]></html>
+	<text>37.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Częstochowa</td>]]></html>
+	<text>Cz&#281;stochowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3786,5</td>]]></html>
+	<text>3786,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>38.</td>]]></html>
+	<text>38.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Płock</td>]]></html>
+	<text>P&#322;ock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3262,5</td>]]></html>
+	<text>3262,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>39.</td>]]></html>
+	<text>39.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Białystok</td>]]></html>
+	<text>Bia&#322;ystok</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2977</td>]]></html>
+	<text>2977</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Crime in Poland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>No. City Number of crimes per 100,000 inhabitants</text>
+</context>
+<context>
+	<score>0.87878585</score>
+	<text>List of Polish cities most affected by crimes</text>
+</context>
+<context>
+	<score>0.7986499</score>
+	<text>Crime in Poland</text>
+</context>
+<context>
+	<score>0.7876421</score>
+	<text>[ edit ] Crime in Poland by city</text>
+</context>
+<context>
+	<score>0.75626916</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72690046</score>
+	<text>[ edit ] Organized crime</text>
+</context>
+<context>
+	<score>0.72690046</score>
+	<text>[ edit ] Crime in Poland by city</text>
+</context>
+<context>
+	<score>0.72690046</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72690046</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.72690046</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72107285</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7100652</score>
+	<text>While local organized crime in Poland existed during the interwar period, it has mostly developed during the time of fall of communism (late 1980s/1990s) with the introduction of capitalist system in Poland and the lessening of the police ( milicja ) power. Currently the so-called Polish mafia has two major groups: the Pruszk w Mafia and the Wo omin Mafia .</text>
+</context>
+<context>
+	<score>0.6480036</score>
+	<text>[ edit ] Organized crime</text>
+</context>
+<context>
+	<score>0.60947</score>
+	<text>^ Wprost , June 2006</text>
+</context>
+<context>
+	<score>0.5925266</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5586348</score>
+	<text>The crime rate is the highest in the Upper Silesia , where both the earnings and the unemployment is the highest and the number of social deviations is growing.</text>
+</context>
+<context>
+	<score>0.5268593</score>
+	<text>although the Polish society feels as endangered and affected as their Western counterparts.</text>
+</context>
+<context>
+	<score>0.5231176</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.5014388</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.48110247</score>
+	<text>Crime in Poland is lower than in the Western Europe ,</text>
+</context>
+<context>
+	<score>0.47584108</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4723221</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4628258</score>
+	<text>Crime in Poland</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" align="center" style="text-align: center"><tr><th>No.</th><th>City</th><th>Number of crimes<br />per 100,000 inhabitants</th></tr><tr><td>1.</td><td><a href="../../../../articles/k/a/t/Katowice.html" title="Katowice">Katowice</a></td><td>7063,7</td></tr><tr><td>2.</td><td><a href="../../../../articles/c/h/o/Chorz%C3%B3w.html" title="Chorzów">Chorzów</a></td><td>6733,3</td></tr><tr><td>3.</td><td><a href="../../../../articles/l/e/g/Legnica.html" title="Legnica">Legnica</a></td><td>6361,5</td></tr><tr><td>4.</td><td><a href="../../../../articles/k/a/l/Kalisz.html" title="Kalisz">Kalisz</a></td><td>6228,2</td></tr><tr><td>5.</td><td><a href="../../../../articles/g/d/a/Gda%C5%84sk.html" title="Gdańsk">Gdańsk</a></td><td>6133,7</td></tr><tr><td>6.</td><td><a href="../../../../articles/p/o/z/Pozna%C5%84.html" title="Poznań">Poznań</a></td><td>6109,2</td></tr><tr><td>7.</td><td><a href="../../../../articles/w/r/o/Wroc%C5%82aw.html" title="Wrocław">Wrocław</a></td><td>5983,4</td></tr><tr><td>8.</td><td><a href="../../../../articles/k/r/a/Krak%C3%B3w.html" title="Kraków">Kraków</a></td><td>5974,2</td></tr><tr><td>9.</td><td><a href="../../../../articles/k/i/e/Kielce.html" title="Kielce">Kielce</a></td><td>5926,6</td></tr><tr><td>10.</td><td><a href="../../../../articles/g/l/i/Gliwice.html" title="Gliwice">Gliwice</a></td><td>5733,5</td></tr><tr><td>11.</td><td><a href="../../../../articles/o/p/o/Opole.html" title="Opole">Opole</a></td><td>5649,8</td></tr><tr><td>12.</td><td><a href="../../../../articles/w/%C5%82/o/W%C5%82oc%C5%82awek.html" title="Włocławek">Włocławek</a></td><td>5626,9</td></tr><tr><td>13.</td><td><a href="../../../../articles/w/a/r/Warszawa.html" class="mw-redirect" title="Warszawa">Warszawa</a></td><td>5353,2</td></tr><tr><td>14.</td><td><a href="../../../../articles/b/y/t/Bytom.html" title="Bytom">Bytom</a></td><td>5332,5</td></tr><tr><td>15.</td><td><a href="../../../../articles/e/l/b/Elbl%C4%85g.html" title="Elbląg">Elbląg</a></td><td>5328,1</td></tr><tr><td>16.</td><td><a href="../../../../articles/z/i/e/Zielona_G%C3%B3ra_5602.html" title="Zielona Góra">Zielona Góra</a></td><td>5193,2</td></tr><tr><td>17.</td><td><a href="../../../../articles/t/a/r/Tarn%C3%B3w.html" title="Tarnów">Tarnów</a></td><td>5187,3</td></tr><tr><td>18.</td><td><a href="../../../../articles/g/o/r/Gorz%C3%B3w_Wielkopolski_d622.html" title="Gorzów Wielkopolski">Gorzów Wielkopolski</a></td><td>5156,6</td></tr><tr><td>19.</td><td><a href="../../../../articles/s/z/c/Szczecin.html" title="Szczecin">Szczecin</a></td><td>5120,9</td></tr><tr><td>20.</td><td><a href="../../../../articles/t/o/r/Toru%C5%84.html" title="Toruń">Toruń</a></td><td>5120,2</td></tr><tr><td>21.</td><td><a href="../../../../articles/%C5%82/%C3%B3/d/%C5%81%C3%B3d%C5%BA.html" title="Łódź">Łódź</a></td><td>5116,4</td></tr><tr><td>22.</td><td><a href="../../../../articles/s/o/s/Sosnowiec.html" title="Sosnowiec">Sosnowiec</a></td><td>5051,7</td></tr><tr><td>23.</td><td><a href="../../../../articles/b/i/e/Bielsko-Bia%C5%82a_c9a3.html" title="Bielsko-Biała">Bielsko-Biała</a></td><td>4969,1</td></tr><tr><td>24.</td><td><a href="../../../../articles/l/u/b/Lublin.html" title="Lublin">Lublin</a></td><td>4968,7</td></tr><tr><td>25.</td><td><a href="../../../../articles/z/a/b/Zabrze.html" title="Zabrze">Zabrze</a></td><td>4808,8</td></tr><tr><td>26.</td><td><a href="../../../../articles/w/a/%C5%82/Wa%C5%82brzych.html" title="Wałbrzych">Wałbrzych</a></td><td>4710,2</td></tr><tr><td>27.</td><td><a href="../../../../articles/d/%C4%85/b/D%C4%85browa_G%C3%B3rnicza_90a2.html" title="Dąbrowa Górnicza">Dąbrowa Górnicza</a></td><td>4690,8</td></tr><tr><td>28.</td><td><a href="../../../../articles/r/a/d/Radom.html" title="Radom">Radom</a></td><td>4670,1</td></tr><tr><td>29.</td><td><a href="../../../../articles/b/y/d/Bydgoszcz.html" title="Bydgoszcz">Bydgoszcz</a></td><td>4515,1</td></tr><tr><td>30.</td><td><a href="../../../../articles/r/y/b/Rybnik.html" title="Rybnik">Rybnik</a></td><td>4500,7</td></tr><tr><td>31.</td><td><a href="../../../../articles/g/d/y/Gdynia.html" title="Gdynia">Gdynia</a></td><td>4328,1</td></tr><tr><td>32.</td><td><a href="../../../../articles/o/l/s/Olsztyn.html" title="Olsztyn">Olsztyn</a></td><td>4317</td></tr><tr><td>33.</td><td><a href="../../../../articles/k/o/s/Koszalin.html" title="Koszalin">Koszalin</a></td><td>4004,7</td></tr><tr><td>34.</td><td><a href="../../../../articles/r/u/d/Ruda_%C5%9Al%C4%85ska_e4c6.html" title="Ruda Śląska">Ruda Śląska</a></td><td>3945,3</td></tr><tr><td>35.</td><td><a href="../../../../articles/r/z/e/Rzesz%C3%B3w.html" title="Rzeszów">Rzeszów</a></td><td>3890,9</td></tr><tr><td>36.</td><td><a href="../../../../articles/t/y/c/Tychy.html" title="Tychy">Tychy</a></td><td>3842,7</td></tr><tr><td>37.</td><td><a href="../../../../articles/c/z/%C4%99/Cz%C4%99stochowa.html" title="Częstochowa">Częstochowa</a></td><td>3786,5</td></tr><tr><td>38.</td><td><a href="../../../../articles/p/%C5%82/o/P%C5%82ock.html" title="Płock">Płock</a></td><td>3262,5</td></tr><tr><td>39.</td><td><a href="../../../../articles/b/i/a/Bia%C5%82ystok.html" title="Białystok">Białystok</a></td><td>2977</td></tr></table>]]>
+</htmlSnippet>
+</entity>

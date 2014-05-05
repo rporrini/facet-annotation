@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/r/i/c/Rich&apos;s.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 3, 0.65625 1 3, 0.6 3, 0.125 0 2, 0.109375 1 2, 0.1 2, 0.075 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/r/i/c/Rich&apos;s.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shopping center</th>]]></html>
+	<text>Shopping center</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Existed</th>]]></html>
+	<text>Existed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Macon</td>]]></html>
+	<text>Macon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Macon Mall</td>]]></html>
+	<text>Macon Mall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former Davison's/Macy's store.</td>]]></html>
+	<text>Former Davison&amp;apos;s/Macy&amp;apos;s store.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Augusta</td>]]></html>
+	<text>Augusta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Augusta Mall</td>]]></html>
+	<text>Augusta Mall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978</td>]]></html>
+	<text>1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Athens</td>]]></html>
+	<text>Athens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Georgia Square Mall</td>]]></html>
+	<text>Georgia Square Mall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former Davison's/Macy's store.</td>]]></html>
+	<text>Former Davison&amp;apos;s/Macy&amp;apos;s store.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Columbus</td>]]></html>
+	<text>Columbus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peachtree Mall</td>]]></html>
+	<text>Peachtree Mall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former Montgomery Ward Location</td>]]></html>
+	<text>Former Montgomery Ward Location</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Savannah</td>]]></html>
+	<text>Savannah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oglethorpe Mall</td>]]></html>
+	<text>Oglethorpe Mall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Building replaced former Maas Brothers store</td>]]></html>
+	<text>Building replaced former Maas Brothers store</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Rich&apos;s - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Shopping center Existed Notes</text>
+</context>
+<context>
+	<score>0.88212746</score>
+	<text>[ edit ] Georgia</text>
+</context>
+<context>
+	<score>0.80071115</score>
+	<text>Rich&apos;s</text>
+</context>
+<context>
+	<score>0.7851352</score>
+	<text>[ edit ] Metro Atlanta locations</text>
+</context>
+<context>
+	<score>0.75375533</score>
+	<text>[ edit ] South Carolina</text>
+</context>
+<context>
+	<score>0.7264852</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7264852</score>
+	<text>[ edit ] Rich&apos;s Store Pictures</text>
+</context>
+<context>
+	<score>0.7264852</score>
+	<text>[ edit ] Former locations</text>
+</context>
+<context>
+	<score>0.7264852</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72311735</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70417356</score>
+	<text>All locations converted to Rich&apos;s-Macy&apos;s in 2003, then Macy&apos;s in 2005; except where noted</text>
+</context>
+<context>
+	<score>0.64546627</score>
+	<text>[ edit ] Former locations</text>
+</context>
+<context>
+	<score>0.6069245</score>
+	<text>[ edit ] Alabama</text>
+</context>
+<context>
+	<score>0.59243846</score>
+	<text>Historical picture of Rich&apos;s in Downtown Knoxville in 1955.</text>
+</context>
+<context>
+	<score>0.5527104</score>
+	<text>Rich&apos;s Knoxville TN location. Now, UT Conference Center.</text>
+</context>
+<context>
+	<score>0.52092797</score>
+	<text>Rich&apos;s building at Cobb Center Mall. Closed and vacant, mall demolished.</text>
+</context>
+<context>
+	<score>0.52055335</score>
+	<text>[ edit ] Tennessee</text>
+</context>
+<context>
+	<score>0.49550205</score>
+	<text>Rich&apos;s at North DeKalb Mall 2007. Converted to Macy&apos;s.</text>
+</context>
+<context>
+	<score>0.47516128</score>
+	<text>Rich&apos;s at Lenox Square 2007. Converted to Macy&apos;s.</text>
+</context>
+<context>
+	<score>0.46637902</score>
+	<text>City Shopping center Existed Notes</text>
+</context>
+<context>
+	<score>0.45888868</score>
+	<text>Rich&apos;s Downtown Flagship Store. Part of Sam Nunn Federal Center.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>City</th><th>Shopping center</th><th>Existed</th><th>Notes</th></tr><tr><td><a href="../../../../articles/m/a/c/Macon%2C_Georgia_d068.html" title="Macon, Georgia">Macon</a></td><td><a href="../../../../articles/m/a/c/Macon_Mall_fcc8.html" title="Macon Mall">Macon Mall</a></td><td>1998</td><td>Former Davison's/Macy's store.</td></tr><tr><td><a href="../../../../articles/a/u/g/Augusta%2C_Georgia_e540.html" title="Augusta, Georgia">Augusta</a></td><td><a href="../../../../articles/a/u/g/Augusta_Mall_c430.html" title="Augusta Mall">Augusta Mall</a></td><td>1978</td><td></td></tr><tr><td><a href="../../../../articles/a/t/h/Athens%2C_Georgia_5177.html" title="Athens, Georgia">Athens</a></td><td><a href="../../../../articles/g/e/o/Georgia_Square_Mall_bc6b.html" title="Georgia Square Mall">Georgia Square Mall</a></td><td>1998</td><td>Former Davison's/Macy's store.</td></tr><tr><td><a href="../../../../articles/c/o/l/Columbus%2C_Georgia_8051.html" title="Columbus, Georgia">Columbus</a></td><td><a href="../../../../articles/p/e/a/Peachtree_Mall_0c61.html" title="Peachtree Mall">Peachtree Mall</a></td><td>2002</td><td>Former Montgomery Ward Location</td></tr><tr><td><a href="../../../../articles/s/a/v/Savannah%2C_Georgia_bd58.html" title="Savannah, Georgia">Savannah</a></td><td><a href="../../../../articles/o/g/l/Oglethorpe_Mall_66d3.html" title="Oglethorpe Mall">Oglethorpe Mall</a></td><td>1991</td><td>Building replaced former Maas Brothers store</td></tr></table>]]>
+</htmlSnippet>
+</entity>

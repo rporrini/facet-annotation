@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r8/c/a/n/Cancer_immunotherapy.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 3, 0.7638889 1 3, 0.75 0 4, 0.6875 1 4, 0.6666667 0 5, 0.625 3 4, 0.61111116 1 5, 0.5625 4, 0.5555556 3 5, 0.5 5, 0.4375 4 5, 0.41666666 3, 0.11666667 0 2, 0.10694444 1 2, 0.10208333 2, 0.097222224 2 3, 0.0875 2 4, 0.068055555 2 5, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/n/Cancer_immunotherapy.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Antibody</th>]]></html>
+	<text>Antibody</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Brand name</th>]]></html>
+	<text>Brand name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Approval date</th>]]></html>
+	<text>Approval date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Target</th>]]></html>
+	<text>Target</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Approved treatment(s)</th>]]></html>
+	<text>Approved treatment(s)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alemtuzumab</td>]]></html>
+	<text>Alemtuzumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campath</td>]]></html>
+	<text>Campath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD52</td>]]></html>
+	<text>CD52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chronic lymphocytic leukemia</td>]]></html>
+	<text>Chronic lymphocytic leukemia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bevacizumab</td>]]></html>
+	<text>Bevacizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Avastin</td>]]></html>
+	<text>Avastin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>vascular endothelial growth factor</td>]]></html>
+	<text>vascular endothelial growth factor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colorectal cancer</td>]]></html>
+	<text>colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cetuximab</td>]]></html>
+	<text>Cetuximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erbitux</td>]]></html>
+	<text>Erbitux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>epidermal growth factor receptor</td>]]></html>
+	<text>epidermal growth factor receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colorectal cancer</td>]]></html>
+	<text>colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemtuzumab ozogamicin</td>]]></html>
+	<text>Gemtuzumab ozogamicin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mylotarg</td>]]></html>
+	<text>Mylotarg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD33</td>]]></html>
+	<text>CD33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>acute myelogenous leukemia (with calicheamicin )</td>]]></html>
+	<text>acute myelogenous leukemia (with calicheamicin )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ibritumomab tiuxetan</td>]]></html>
+	<text>Ibritumomab tiuxetan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zevalin</td>]]></html>
+	<text>Zevalin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>murine</td>]]></html>
+	<text>murine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD20</td>]]></html>
+	<text>CD20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>non-Hodgkin lymphoma (with yttrium-90 or indium-111 )</td>]]></html>
+	<text>non-Hodgkin lymphoma (with yttrium-90 or indium-111 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Panitumumab</td>]]></html>
+	<text>Panitumumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vectibix</td>]]></html>
+	<text>Vectibix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>human</td>]]></html>
+	<text>human</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>epidermal growth factor receptor</td>]]></html>
+	<text>epidermal growth factor receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colorectal cancer</td>]]></html>
+	<text>colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rituximab</td>]]></html>
+	<text>Rituximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rituxan, Mabthera</td>]]></html>
+	<text>Rituxan, Mabthera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997</td>]]></html>
+	<text>1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD20</td>]]></html>
+	<text>CD20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>non-Hodgkin lymphoma</td>]]></html>
+	<text>non-Hodgkin lymphoma</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trastuzumab</td>]]></html>
+	<text>Trastuzumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Herceptin</td>]]></html>
+	<text>Herceptin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ErbB2</td>]]></html>
+	<text>ErbB2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>breast cancer</td>]]></html>
+	<text>breast cancer</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Cancer immunotherapy:Monoclonal antibodies [1]</text>
+</context>
+<context>
+	<score>0.9972028</score>
+	<text>Cancer immunotherapy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.9972028</score>
+	<text>Antibody Brand name Approval date Type Target Approved treatment(s)</text>
+</context>
+<context>
+	<score>0.8791609</score>
+	<text>A number of therapeutic monoclonal antibodies have been approved for use in humans; approvals mentioned here are by the FDA .</text>
+</context>
+<context>
+	<score>0.793424</score>
+	<text>Cancer immunotherapy</text>
+</context>
+<context>
+	<score>0.7824895</score>
+	<text>Antibodies are a key component of the adaptive immune response , playing a central role in both in the recognition of foreign antigens and the stimulation of an immune response to them. It is not surprising therefore, that many immunotherapeutic approaches involve the use of antibodies. The advent of monoclonal antibody technology has made it possible to raise antibodies against specific antigens such as the unusual antigens that are presented on the surfaces of tumors.</text>
+</context>
+<context>
+	<score>0.7512135</score>
+	<text>[ edit ] Alemtuzumab</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] Monoclonal antibody therapy</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] Radioimmunotherapy</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] Advances in immunotherapy</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] Topical immunotherapy</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7188841</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7160869</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70515245</score>
+	<text>[ edit ] Monoclonal antibody therapy Main article: Monoclonal antibody therapy</text>
+</context>
+<context>
+	<score>0.64048564</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.60486853</score>
+	<text>Alemtuzumab is an anti- CD52 humanized IgG1 monoclonal antibody indicated for the treatment of Chronic lymphocytic leukemia (CLL), the most frequent form of leukaemia in Western countries.</text>
+</context>
+<context>
+	<score>0.5937871</score>
+	<text>Other kinds of tumor cells display cell surface receptors that are rare or absent on the surfaces of healthy cells, and which are responsible for activating cellular signal transduction pathways that cause the unregulated growth and division of the tumor cell. Examples include ErbB2 , a constitutively active cell surface receptor that is produced at abnormally high levels on the surface of breast cancer tumor cells.</text>
+</context>
+<context>
+	<score>0.5541905</score>
+	<text>In spite of this fact, however, many kinds of tumor cells display unusual antigens that are either inappropriate for the cell type and/or its environment, or are only normally present during the organisms&apos; development (e.g. fetal antigens). Examples of such antigens include the glycosphingolipid GD2 , a disialoganglioside that is normally only expressed at a significant level on the outer surface membranes of neuronal cells, where its exposure to the immune system is limited by the blood-brain barrier . GD2 is expressed on the surfaces of a wide range of tumor cells including neuroblastoma , medulloblastomas , astrocytomas , melanomas , small-cell lung cancer , osteosarcomas and other soft tissue sarcomas . GD2 is thus a convenient tumor-specific target for immunotherapies.</text>
+</context>
+<context>
+	<score>0.5225133</score>
+	<text>Since the immune system responds to the environmental factors it encounters on the basis of discrimination between self and non-self, many kinds of tumor cells that arise as a result of the onset of cancer are more or less tolerated by the patient&apos;s own immune system since the tumor cells are essentially the patient&apos;s own cells that are growing, dividing and spreading without proper regulatory control.</text>
+</context>
+<context>
+	<score>0.5187832</score>
+	<text>The function of CD52 is unknown, but it is found on &gt;95% of peripheral blood lymphocytes and monocytes . Upon binding to CD52, alemtuzumab initiates its cytotoxic effect by complement fixation and antibody-dependent cell-mediated cytotoxicity mechanisms. Alemtuzumab therapy is also indicated for T-prolymphocytic leukaemia (TPPL), for which no standard treatment exists. This is a highly aggressive tumour, with a median survival of 7.5 months.</text>
+</context>
+<context>
+	<score>0.49717143</score>
+	<text>Cancer immunotherapy is the use of the immune system to reject cancer . The main premise is stimulating the patient&apos;s immune system to attack the malignant tumor cells that are responsible for the disease. This can be either through immunization of the patient, in which case the patient&apos;s own immune system is trained to recognize tumor cells as targets to be destroyed, or through the administration of therapeutic antibodies as drugs, in which case the patient&apos;s immune system is recruited to destroy tumor cells by the therapeutic antibodies.</text>
+</context>
+<context>
+	<score>0.48783252</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47161376</score>
+	<text>Cancer immunotherapy</text>
+</context>
+<context>
+	<score>0.46814477</score>
+	<text>[ edit ] Bevacizumab</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="margin: 1em auto 1em auto"><caption><b>Cancer immunotherapy:Monoclonal antibodies</b><sup id="cite_ref-Waldmann_0-0" class="reference"><a href="#cite_note-Waldmann-0" title="">[1]</a></sup></caption><tr><th>Antibody</th><th>Brand name</th><th>Approval date</th><th>Type</th><th>Target</th><th>Approved treatment(s)</th></tr><tr><td><a href="../../../../articles/a/l/e/Alemtuzumab.html" title="Alemtuzumab">Alemtuzumab</a></td><td>Campath</td><td>2001</td><td>humanized</td><td><a href="../../../../articles/c/d/5/CD52_a390.html" title="CD52">CD52</a></td><td><a href="../../../../articles/c/h/r/Chronic_lymphocytic_leukemia.html" title="Chronic lymphocytic leukemia">Chronic lymphocytic leukemia</a></td></tr><tr><td><a href="../../../../articles/b/e/v/Bevacizumab.html" title="Bevacizumab">Bevacizumab</a></td><td>Avastin</td><td>2004</td><td>humanized</td><td><a href="../../../../articles/v/a/s/Vascular_endothelial_growth_factor.html" title="Vascular endothelial growth factor">vascular endothelial growth factor</a></td><td><a href="../../../../articles/c/o/l/Colorectal_cancer.html" title="Colorectal cancer">colorectal cancer</a></td></tr><tr><td><a href="../../../../articles/c/e/t/Cetuximab.html" title="Cetuximab">Cetuximab</a></td><td>Erbitux</td><td>2004</td><td>chimeric</td><td><a href="../../../../articles/e/p/i/Epidermal_growth_factor_receptor.html" title="Epidermal growth factor receptor">epidermal growth factor receptor</a></td><td><a href="../../../../articles/c/o/l/Colorectal_cancer.html" title="Colorectal cancer">colorectal cancer</a></td></tr><tr><td><a href="../../../../articles/g/e/m/Gemtuzumab_ozogamicin.html" title="Gemtuzumab ozogamicin">Gemtuzumab ozogamicin</a></td><td>Mylotarg</td><td>2000</td><td>humanized</td><td><a href="../../../../articles/c/d/3/CD33_7377.html" title="CD33">CD33</a></td><td><a href="../../../../articles/a/c/u/Acute_myelogenous_leukemia.html" class="mw-redirect" title="Acute myelogenous leukemia">acute myelogenous leukemia</a> (with <a href="../../../../articles/c/a/l/Calicheamicin.html" title="Calicheamicin">calicheamicin</a>)</td></tr><tr><td><a href="../../../../articles/i/b/r/Ibritumomab_tiuxetan.html" title="Ibritumomab tiuxetan">Ibritumomab tiuxetan</a></td><td>Zevalin</td><td>2002</td><td>murine</td><td><a href="../../../../articles/c/d/2/CD20_7052.html" title="CD20">CD20</a></td><td><a href="../../../../articles/n/o/n/Non-Hodgkin_lymphoma_aa74.html" title="Non-Hodgkin lymphoma">non-Hodgkin lymphoma</a> (with <a href="../../../../articles/y/t/t/Yttrium.html" title="Yttrium">yttrium-90</a> or <a href="../../../../articles/i/n/d/Indium.html" title="Indium">indium-111</a>)</td></tr><tr><td><a href="../../../../articles/p/a/n/Panitumumab.html" title="Panitumumab">Panitumumab</a></td><td>Vectibix</td><td>2006</td><td>human</td><td><a href="../../../../articles/e/p/i/Epidermal_growth_factor_receptor.html" title="Epidermal growth factor receptor">epidermal growth factor receptor</a></td><td><a href="../../../../articles/c/o/l/Colorectal_cancer.html" title="Colorectal cancer">colorectal cancer</a></td></tr><tr><td><a href="../../../../articles/r/i/t/Rituximab.html" title="Rituximab">Rituximab</a></td><td>Rituxan, Mabthera</td><td>1997</td><td>chimeric</td><td><a href="../../../../articles/c/d/2/CD20_7052.html" title="CD20">CD20</a></td><td><a href="../../../../articles/n/o/n/Non-Hodgkin_lymphoma_aa74.html" title="Non-Hodgkin lymphoma">non-Hodgkin lymphoma</a></td></tr><tr><td><a href="../../../../articles/t/r/a/Trastuzumab.html" title="Trastuzumab">Trastuzumab</a></td><td>Herceptin</td><td>1998</td><td>humanized</td><td><a href="../../../../articles/e/r/b/ErbB2_443d.html" class="mw-redirect" title="ErbB2">ErbB2</a></td><td><a href="../../../../articles/b/r/e/Breast_cancer.html" title="Breast cancer">breast cancer</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

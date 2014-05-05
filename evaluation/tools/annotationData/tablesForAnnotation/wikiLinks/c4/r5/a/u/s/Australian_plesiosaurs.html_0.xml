@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/a/u/s/Australian_plesiosaurs.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 2, 0.65625 1 2, 0.625 0 3, 0.6 2, 0.546875 1 3, 0.375 2 3, 0.125 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/u/s/Australian_plesiosaurs.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Latin Name</th>]]></html>
+	<text>Latin Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Discovery</th>]]></html>
+	<text>Discovery</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genus</th>]]></html>
+	<text>Genus</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Period</th>]]></html>
+	<text>Period</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cimiliosaurus maccoyi</td>]]></html>
+	<text>Cimiliosaurus maccoyi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Etheridge 1904</td>]]></html>
+	<text>Etheridge 1904</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cimiliosauridae</td>]]></html>
+	<text>Cimiliosauridae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early Cretaceous</td>]]></html>
+	<text>Early Cretaceous</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kronosaurus queenslandicus</td>]]></html>
+	<text>Kronosaurus queenslandicus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Longman 1924</td>]]></html>
+	<text>Longman 1924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pliosauridae</td>]]></html>
+	<text>Pliosauridae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early Cretaceous</td>]]></html>
+	<text>Early Cretaceous</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leptocleidus clemai</td>]]></html>
+	<text>Leptocleidus clemai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cruickschank &amp; Long 1997</td>]]></html>
+	<text>Cruickschank &amp;amp;amp; Long 1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhomaleosauridae</td>]]></html>
+	<text>Rhomaleosauridae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early Cretaceous</td>]]></html>
+	<text>Early Cretaceous</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Umoonasaurus demoscyllus</td>]]></html>
+	<text>Umoonasaurus demoscyllus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kear, Schroeder &amp; Lee 2006</td>]]></html>
+	<text>Kear, Schroeder &amp;amp;amp; Lee 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhomaleosauridae</td>]]></html>
+	<text>Rhomaleosauridae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early Cretaceous</td>]]></html>
+	<text>Early Cretaceous</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Woolungasaurus glendowerensis</td>]]></html>
+	<text>Woolungasaurus glendowerensis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Persson, 1960</td>]]></html>
+	<text>Persson, 1960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elasmosauridae</td>]]></html>
+	<text>Elasmosauridae</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early Cretaceous</td>]]></html>
+	<text>Early Cretaceous</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Australian plesiosaurs - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Latin Name Discovery Genus Period</text>
+</context>
+<context>
+	<score>0.89482236</score>
+	<text>The following is a list of members of the Plesiosauria that have been identified in Australia .</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>Australian plesiosaurs</text>
+</context>
+<context>
+	<score>0.7628346</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7542738</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7347964</score>
+	<text>Australian plesiosaurs</text>
+</context>
+<context>
+	<score>0.5230647</score>
+	<text>This article about a prehistoric reptile is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.4708272</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Latin Name</th><th>Discovery</th><th>Genus</th><th>Period</th></tr><tr><td><i>Cimiliosaurus maccoyi</i></td><td>Etheridge 1904</td><td>Cimiliosauridae</td><td><a href="../../../../articles/e/a/r/Early_Cretaceous_a369.html" title="Early Cretaceous">Early Cretaceous</a></td></tr><tr><td><i><a href="../../../../articles/k/r/o/Kronosaurus.html" title="Kronosaurus">Kronosaurus</a> queenslandicus</i></td><td>Longman 1924</td><td><a href="../../../../articles/p/l/i/Pliosauridae.html" class="mw-redirect" title="Pliosauridae">Pliosauridae</a></td><td><a href="../../../../articles/e/a/r/Early_Cretaceous_a369.html" title="Early Cretaceous">Early Cretaceous</a></td></tr><tr><td><i><a href="../../../../articles/l/e/p/Leptocleidus.html" title="Leptocleidus">Leptocleidus</a> clemai</i></td><td>Cruickschank &amp; Long 1997</td><td>Rhomaleosauridae</td><td><a href="../../../../articles/e/a/r/Early_Cretaceous_a369.html" title="Early Cretaceous">Early Cretaceous</a></td></tr><tr><td><i><a href="../../../../articles/u/m/o/Umoonasaurus.html" title="Umoonasaurus">Umoonasaurus</a> demoscyllus</i></td><td>Kear, Schroeder &amp; Lee 2006</td><td>Rhomaleosauridae</td><td><a href="../../../../articles/e/a/r/Early_Cretaceous_a369.html" title="Early Cretaceous">Early Cretaceous</a></td></tr><tr><td><i><a href="../../../../articles/w/o/o/Woolungasaurus.html" title="Woolungasaurus">Woolungasaurus</a> glendowerensis</i></td><td>Persson, 1960</td><td><a href="../../../../articles/e/l/a/Elasmosauridae.html" title="Elasmosauridae">Elasmosauridae</a></td><td><a href="../../../../articles/e/a/r/Early_Cretaceous_a369.html" title="Early Cretaceous">Early Cretaceous</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

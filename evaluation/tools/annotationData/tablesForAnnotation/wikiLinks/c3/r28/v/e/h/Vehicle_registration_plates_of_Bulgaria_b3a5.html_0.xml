@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r28/v/e/h/Vehicle_registration_plates_of_Bulgaria_b3a5.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.023809526 2, " />
+<meta name="parentHTMLDoc" value="en/articles/v/e/h/Vehicle_registration_plates_of_Bulgaria_b3a5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Current province code</th>]]></html>
+	<text>Current province code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Old province code (pink fields indicate changed codes)</th>]]></html>
+	<text>Old province code (pink fields indicate changed codes)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A</td>]]></html>
+	<text>A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burgas Province</td>]]></html>
+	<text>Burgas Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Бс , Б</td>]]></html>
+	<text>Cyrillic &#1041;&#1089; , &#1041;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>B</td>]]></html>
+	<text>B</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Varna Province</td>]]></html>
+	<text>Varna Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Вн , В</td>]]></html>
+	<text>Cyrillic &#1042;&#1085; , &#1042;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>BH</td>]]></html>
+	<text>BH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vidin Province</td>]]></html>
+	<text>Vidin Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Вд , ВД</td>]]></html>
+	<text>Cyrillic &#1042;&#1076; , &#1042;&#1044;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>BP</td>]]></html>
+	<text>BP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vratsa Province</td>]]></html>
+	<text>Vratsa Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Вр , ВР</td>]]></html>
+	<text>Cyrillic &#1042;&#1088; , &#1042;&#1056;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>BT</td>]]></html>
+	<text>BT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Veliko Tarnovo Province</td>]]></html>
+	<text>Veliko Tarnovo Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic ВТ</td>]]></html>
+	<text>Cyrillic &#1042;&#1058;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C or CA (since 2006)</td>]]></html>
+	<text>C or CA (since 2006)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Sofia</td>]]></html>
+	<text>City of Sofia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Сф , С , А</td>]]></html>
+	<text>Cyrillic &#1057;&#1092; , &#1057; , &#1040;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CC</td>]]></html>
+	<text>CC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Silistra Province</td>]]></html>
+	<text>Silistra Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Сс , СС</td>]]></html>
+	<text>Cyrillic &#1057;&#1089; , &#1057;&#1057;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CH</td>]]></html>
+	<text>CH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sliven Province</td>]]></html>
+	<text>Sliven Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Сл , СЛ</td>]]></html>
+	<text>Cyrillic &#1057;&#1083; , &#1057;&#1051;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CM</td>]]></html>
+	<text>CM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Smolyan Province</td>]]></html>
+	<text>Smolyan Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic См , СМ</td>]]></html>
+	<text>Cyrillic &#1057;&#1084; , &#1057;&#1052;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CO</td>]]></html>
+	<text>CO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sofia Province</td>]]></html>
+	<text>Sofia Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic СФ</td>]]></html>
+	<text>Cyrillic &#1057;&#1060;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CT</td>]]></html>
+	<text>CT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stara Zagora Province</td>]]></html>
+	<text>Stara Zagora Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Сз , СЗ</td>]]></html>
+	<text>Cyrillic &#1057;&#1079; , &#1057;&#1047;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>E</td>]]></html>
+	<text>E</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blagoevgrad Province</td>]]></html>
+	<text>Blagoevgrad Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Бл , БЛ</td>]]></html>
+	<text>Cyrillic &#1041;&#1083; , &#1041;&#1051;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EB</td>]]></html>
+	<text>EB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gabrovo Province</td>]]></html>
+	<text>Gabrovo Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Гб , Г</td>]]></html>
+	<text>Cyrillic &#1043;&#1073; , &#1043;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>EH</td>]]></html>
+	<text>EH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pleven Province</td>]]></html>
+	<text>Pleven Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Пл , ПЛ</td>]]></html>
+	<text>Cyrillic &#1055;&#1083; , &#1055;&#1051;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>H</td>]]></html>
+	<text>H</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shumen Province</td>]]></html>
+	<text>Shumen Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Ш</td>]]></html>
+	<text>Cyrillic &#1064;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K</td>]]></html>
+	<text>K</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kardzhali Province</td>]]></html>
+	<text>Kardzhali Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Кж , К</td>]]></html>
+	<text>Cyrillic &#1050;&#1078; , &#1050;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KH</td>]]></html>
+	<text>KH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kyustendil Province</td>]]></html>
+	<text>Kyustendil Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Кн , КН</td>]]></html>
+	<text>Cyrillic &#1050;&#1085; , &#1050;&#1053;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>M</td>]]></html>
+	<text>M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana Province</td>]]></html>
+	<text>Montana Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Мх , М</td>]]></html>
+	<text>Cyrillic &#1052;&#1093; , &#1052;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>OB</td>]]></html>
+	<text>OB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lovech Province</td>]]></html>
+	<text>Lovech Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Лч , Л</td>]]></html>
+	<text>Cyrillic &#1051;&#1095; , &#1051;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>P</td>]]></html>
+	<text>P</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ruse Province</td>]]></html>
+	<text>Ruse Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Рс , Р</td>]]></html>
+	<text>Cyrillic &#1056;&#1089; , &#1056;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PA</td>]]></html>
+	<text>PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pazardzhik Province</td>]]></html>
+	<text>Pazardzhik Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Пз , ПЗ</td>]]></html>
+	<text>Cyrillic &#1055;&#1079; , &#1055;&#1047;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PB</td>]]></html>
+	<text>PB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Plovdiv Province</td>]]></html>
+	<text>Plovdiv Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Пд , П</td>]]></html>
+	<text>Cyrillic &#1055;&#1076; , &#1055;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PK</td>]]></html>
+	<text>PK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pernik Province</td>]]></html>
+	<text>Pernik Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Пк , ПК</td>]]></html>
+	<text>Cyrillic &#1055;&#1082; , &#1055;&#1050;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>PP</td>]]></html>
+	<text>PP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Razgrad Province</td>]]></html>
+	<text>Razgrad Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Пз , РЗ</td>]]></html>
+	<text>Cyrillic &#1055;&#1079; , &#1056;&#1047;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>T</td>]]></html>
+	<text>T</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Targovishte Province</td>]]></html>
+	<text>Targovishte Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Тщ , Т</td>]]></html>
+	<text>Cyrillic &#1058;&#1097; , &#1058;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TX</td>]]></html>
+	<text>TX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dobrich Province</td>]]></html>
+	<text>Dobrich Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Тх , ТХ</td>]]></html>
+	<text>Cyrillic &#1058;&#1093; , &#1058;&#1061;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Haskovo Province</td>]]></html>
+	<text>Haskovo Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Хс , Х</td>]]></html>
+	<text>Cyrillic &#1061;&#1089; , &#1061;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Y</td>]]></html>
+	<text>Y</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yambol Province</td>]]></html>
+	<text>Yambol Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cyrillic Яб , Я</td>]]></html>
+	<text>Cyrillic &#1071;&#1073; , &#1071;</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Vehicle registration plates of Bulgaria - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Current province code Province Old province code (pink fields indicate changed codes)</text>
+</context>
+<context>
+	<score>0.80050033</score>
+	<text>Vehicle registration plates of Bulgaria</text>
+</context>
+<context>
+	<score>0.7535714</score>
+	<text>[ edit ] Army and Civil Protection plates</text>
+</context>
+<context>
+	<score>0.7262724</score>
+	<text>[ edit ] License plate codes</text>
+</context>
+<context>
+	<score>0.7262724</score>
+	<text>[ edit ] Army and Civil Protection plates</text>
+</context>
+<context>
+	<score>0.7262724</score>
+	<text>[ edit ] Diplomatic plates</text>
+</context>
+<context>
+	<score>0.7262724</score>
+	<text>[ edit ] Foreigner and temporary plates</text>
+</context>
+<context>
+	<score>0.7228244</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6031372</score>
+	<text>Additionally, there is a special code for Bulgarian Army and Civil Protection vehicles:</text>
+</context>
+<context>
+	<score>0.5752098</score>
+	<text>Y</text>
+</context>
+<context>
+	<score>0.5201227</score>
+	<text>[ edit ] Diplomatic plates</text>
+</context>
+<context>
+	<score>0.4781149</score>
+	<text>BP</text>
+</context>
+<context>
+	<score>0.4658144</score>
+	<text>Diplomatic and consular car number plates are similar to ordinary ones, but are recognizably different in their color: white symbols on a red background without the blue &quot;Europlate&quot; elements. Plates starting with &quot;C&quot; indicate diplomatic status, &quot;CC&quot; indicate consular status, while &quot;CT&quot; is used for cars belonging to other staff of diplomatic representations. Additionally, the first two digits of the numeric group represent the country of the diplomatic or consular mission to which the vehicle belongs. Two smaller digits in the upper right corner denote the expiry year of the plate.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Current province code</th><th><a href="../../../../articles/p/r/o/Provinces_of_Bulgaria_cbc4.html" title="Provinces of Bulgaria">Province</a></th><th>Old province code (pink fields indicate changed codes)</th></tr><tr><td><b>A</b></td><td><a href="../../../../articles/b/u/r/Burgas_Province_9eb9.html" title="Burgas Province">Burgas Province</a></td><td bgcolor="pink">Cyrillic <b>Бс</b>, <b>Б</b></td></tr><tr><td><b>B</b></td><td><a href="../../../../articles/v/a/r/Varna_Province_0e89.html" title="Varna Province">Varna Province</a></td><td>Cyrillic <b>Вн</b>, <b>В</b></td></tr><tr><td><b>BH</b></td><td><a href="../../../../articles/v/i/d/Vidin_Province_7d35.html" title="Vidin Province">Vidin Province</a></td><td bgcolor="pink">Cyrillic <b>Вд</b>, <b>ВД</b></td></tr><tr><td><b>BP</b></td><td><a href="../../../../articles/v/r/a/Vratsa_Province_1de7.html" title="Vratsa Province">Vratsa Province</a></td><td>Cyrillic <b>Вр</b>, <b>ВР</b></td></tr><tr><td><b>BT</b></td><td><a href="../../../../articles/v/e/l/Veliko_Tarnovo_Province_30e4.html" title="Veliko Tarnovo Province">Veliko Tarnovo Province</a></td><td>Cyrillic <b>ВТ</b></td></tr><tr><td><b>C</b> or <b>CA</b> (since 2006)</td><td>City of <a href="../../../../articles/s/o/f/Sofia.html" title="Sofia">Sofia</a></td><td bgcolor="pink">Cyrillic <b>Сф</b>, <b>С</b>, <b>А</b></td></tr><tr><td><b>CC</b></td><td><a href="../../../../articles/s/i/l/Silistra_Province_018a.html" title="Silistra Province">Silistra Province</a></td><td>Cyrillic <b>Сс</b>, <b>СС</b></td></tr><tr><td><b>CH</b></td><td><a href="../../../../articles/s/l/i/Sliven_Province_d017.html" title="Sliven Province">Sliven Province</a></td><td bgcolor="pink">Cyrillic <b>Сл</b>, <b>СЛ</b></td></tr><tr><td><b>CM</b></td><td><a href="../../../../articles/s/m/o/Smolyan_Province_8ad6.html" title="Smolyan Province">Smolyan Province</a></td><td>Cyrillic <b>См</b>, <b>СМ</b></td></tr><tr><td><b>CO</b></td><td><a href="../../../../articles/s/o/f/Sofia_Province_f0f8.html" title="Sofia Province">Sofia Province</a></td><td bgcolor="pink">Cyrillic <b>СФ</b></td></tr><tr><td><b>CT</b></td><td><a href="../../../../articles/s/t/a/Stara_Zagora_Province_4f8a.html" title="Stara Zagora Province">Stara Zagora Province</a></td><td bgcolor="pink">Cyrillic <b>Сз</b>, <b>СЗ</b></td></tr><tr><td><b>E</b></td><td><a href="../../../../articles/b/l/a/Blagoevgrad_Province_aeb8.html" title="Blagoevgrad Province">Blagoevgrad Province</a></td><td bgcolor="pink">Cyrillic <b>Бл</b>, <b>БЛ</b></td></tr><tr><td><b>EB</b></td><td><a href="../../../../articles/g/a/b/Gabrovo_Province_6ed0.html" title="Gabrovo Province">Gabrovo Province</a></td><td bgcolor="pink">Cyrillic <b>Гб</b>, <b>Г</b></td></tr><tr><td><b>EH</b></td><td><a href="../../../../articles/p/l/e/Pleven_Province_83d5.html" title="Pleven Province">Pleven Province</a></td><td bgcolor="pink">Cyrillic <b>Пл</b>, <b>ПЛ</b></td></tr><tr><td><b>H</b></td><td><a href="../../../../articles/s/h/u/Shumen_Province_aa6a.html" title="Shumen Province">Shumen Province</a></td><td bgcolor="pink">Cyrillic <b>Ш</b></td></tr><tr><td><b>K</b></td><td><a href="../../../../articles/k/a/r/Kardzhali_Province_489a.html" title="Kardzhali Province">Kardzhali Province</a></td><td>Cyrillic <b>Кж</b>, <b>К</b></td></tr><tr><td><b>KH</b></td><td><a href="../../../../articles/k/y/u/Kyustendil_Province_66ad.html" title="Kyustendil Province">Kyustendil Province</a></td><td>Cyrillic <b>Кн</b>, <b>КН</b></td></tr><tr><td><b>M</b></td><td><a href="../../../../articles/m/o/n/Montana_Province_46a5.html" title="Montana Province">Montana Province</a></td><td>Cyrillic <b>Мх</b>, <b>М</b></td></tr><tr><td><b>OB</b></td><td><a href="../../../../articles/l/o/v/Lovech_Province_a983.html" title="Lovech Province">Lovech Province</a></td><td bgcolor="pink">Cyrillic <b>Лч</b>, <b>Л</b></td></tr><tr><td><b>P</b></td><td><a href="../../../../articles/r/u/s/Ruse_Province_1a5f.html" class="mw-redirect" title="Ruse Province">Ruse Province</a></td><td>Cyrillic <b>Рс</b>, <b>Р</b></td></tr><tr><td><b>PA</b></td><td><a href="../../../../articles/p/a/z/Pazardzhik_Province_3e6b.html" title="Pazardzhik Province">Pazardzhik Province</a></td><td bgcolor="pink">Cyrillic <b>Пз</b>, <b>ПЗ</b></td></tr><tr><td><b>PB</b></td><td><a href="../../../../articles/p/l/o/Plovdiv_Province_1354.html" title="Plovdiv Province">Plovdiv Province</a></td><td bgcolor="pink">Cyrillic <b>Пд</b>, <b>П</b></td></tr><tr><td><b>PK</b></td><td><a href="../../../../articles/p/e/r/Pernik_Province_704e.html" title="Pernik Province">Pernik Province</a></td><td bgcolor="pink">Cyrillic <b>Пк</b>, <b>ПК</b></td></tr><tr><td><b>PP</b></td><td><a href="../../../../articles/r/a/z/Razgrad_Province_d780.html" title="Razgrad Province">Razgrad Province</a></td><td bgcolor="pink">Cyrillic <b>Пз</b>, <b>РЗ</b></td></tr><tr><td><b>T</b></td><td><a href="../../../../articles/t/a/r/Targovishte_Province_550b.html" title="Targovishte Province">Targovishte Province</a></td><td>Cyrillic <b>Тщ</b>, <b>Т</b></td></tr><tr><td><b>TX</b></td><td><a href="../../../../articles/d/o/b/Dobrich_Province_7ae5.html" title="Dobrich Province">Dobrich Province</a></td><td>Cyrillic <b>Тх</b>, <b>ТХ</b></td></tr><tr><td><b>X</b></td><td><a href="../../../../articles/h/a/s/Haskovo_Province_9d07.html" title="Haskovo Province">Haskovo Province</a></td><td>Cyrillic <b>Хс</b>, <b>Х</b></td></tr><tr><td><b>Y</b></td><td><a href="../../../../articles/y/a/m/Yambol_Province_8386.html" title="Yambol Province">Yambol Province</a></td><td bgcolor="pink">Cyrillic <b>Яб</b>, <b>Я</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

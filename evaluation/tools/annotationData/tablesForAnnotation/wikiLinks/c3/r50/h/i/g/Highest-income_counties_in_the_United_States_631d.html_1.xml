@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r50/h/i/g/Highest-income_counties_in_the_United_States_631d.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/h/i/g/Highest-income_counties_in_the_United_States_631d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Personal Per Capita Income</th>]]></html>
+	<text>Personal Per Capita Income</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York County, New York</td>]]></html>
+	<text>New York County, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$93,377</td>]]></html>
+	<text>$93,377</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teton County, Wyoming</td>]]></html>
+	<text>Teton County, Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$89,028</td>]]></html>
+	<text>$89,028</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pitkin County, Colorado</td>]]></html>
+	<text>Pitkin County, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$77,970</td>]]></html>
+	<text>$77,970</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loving County, Texas</td>]]></html>
+	<text>Loving County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$77,787</td>]]></html>
+	<text>$77,787</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marin County, California</td>]]></html>
+	<text>Marin County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$75,884</td>]]></html>
+	<text>$75,884</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fairfield County, Connecticut</td>]]></html>
+	<text>Fairfield County, Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$67,269</td>]]></html>
+	<text>$67,269</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Francisco County, California</td>]]></html>
+	<text>San Francisco County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$62,614</td>]]></html>
+	<text>$62,614</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Morris County, New Jersey</td>]]></html>
+	<text>Morris County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$62,583</td>]]></html>
+	<text>$62,583</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Westchester County, New York</td>]]></html>
+	<text>Westchester County, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$62,045</td>]]></html>
+	<text>$62,045</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alexandria, Virginia</td>]]></html>
+	<text>Alexandria, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$61,147</td>]]></html>
+	<text>$61,147</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Somerset County, New Jersey</td>]]></html>
+	<text>Somerset County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$61,039</td>]]></html>
+	<text>$61,039</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hunterdon County, New Jersey</td>]]></html>
+	<text>Hunterdon County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$60,357</td>]]></html>
+	<text>$60,357</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fairfax County , Fairfax , and Falls Church, Virginia</td>]]></html>
+	<text>Fairfax County , Fairfax , and Falls Church, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$60,289</td>]]></html>
+	<text>$60,289</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montgomery County, Maryland</td>]]></html>
+	<text>Montgomery County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$59,953</td>]]></html>
+	<text>$59,953</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arlington County, Virginia</td>]]></html>
+	<text>Arlington County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$59,389</td>]]></html>
+	<text>$59,389</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Mateo County, California</td>]]></html>
+	<text>San Mateo County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$59,213</td>]]></html>
+	<text>$59,213</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bergen County, New Jersey</td>]]></html>
+	<text>Bergen County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$56,725</td>]]></html>
+	<text>$56,725</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nantucket County, Massachusetts</td>]]></html>
+	<text>Nantucket County, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$56,092</td>]]></html>
+	<text>$56,092</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nassau County, New York</td>]]></html>
+	<text>Nassau County, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$54,941</td>]]></html>
+	<text>$54,941</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montgomery County, Pennsylvania</td>]]></html>
+	<text>Montgomery County, Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$54,293</td>]]></html>
+	<text>$54,293</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Alamos County, New Mexico</td>]]></html>
+	<text>Los Alamos County, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$54,134</td>]]></html>
+	<text>$54,134</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norfolk County, Massachusetts</td>]]></html>
+	<text>Norfolk County, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$53,278</td>]]></html>
+	<text>$53,278</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington, D.C. (federal district)</td>]]></html>
+	<text>Washington, D.C. (federal district)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,811</td>]]></html>
+	<text>$52,811</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Howard County, Maryland</td>]]></html>
+	<text>Howard County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,580</td>]]></html>
+	<text>$52,580</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ozaukee County, Wisconsin</td>]]></html>
+	<text>Ozaukee County, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,490</td>]]></html>
+	<text>$52,490</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oakland County, Michigan</td>]]></html>
+	<text>Oakland County, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,274</td>]]></html>
+	<text>$52,274</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blaine County, Idaho</td>]]></html>
+	<text>Blaine County, Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,245</td>]]></html>
+	<text>$52,245</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Goochland County, Virginia</td>]]></html>
+	<text>Goochland County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$52,212</td>]]></html>
+	<text>$52,212</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middlesex County, Massachusetts</td>]]></html>
+	<text>Middlesex County, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$51,869</td>]]></html>
+	<text>$51,869</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Clara County, California</td>]]></html>
+	<text>Santa Clara County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$51,112</td>]]></html>
+	<text>$51,112</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Talbot County, Maryland</td>]]></html>
+	<text>Talbot County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50,872</td>]]></html>
+	<text>$50,872</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chester County, Pennsylvania</td>]]></html>
+	<text>Chester County, Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50,787</td>]]></html>
+	<text>$50,787</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Summit County, Utah</td>]]></html>
+	<text>Summit County, Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50,542</td>]]></html>
+	<text>$50,542</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palm Beach County, Florida</td>]]></html>
+	<text>Palm Beach County, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50,371</td>]]></html>
+	<text>$50,371</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martin County, Florida</td>]]></html>
+	<text>Martin County, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$49,992</td>]]></html>
+	<text>$49,992</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hennepin County, Minnesota</td>]]></html>
+	<text>Hennepin County, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$49,566</td>]]></html>
+	<text>$49,566</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Collier County, Florida</td>]]></html>
+	<text>Collier County, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$49,492</td>]]></html>
+	<text>$49,492</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fulton County, Georgia</td>]]></html>
+	<text>Fulton County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$49,291</td>]]></html>
+	<text>$49,291</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sully County, South Dakota</td>]]></html>
+	<text>Sully County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$49,119</td>]]></html>
+	<text>$49,119</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake County, Illinois</td>]]></html>
+	<text>Lake County, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,906</td>]]></html>
+	<text>$48,906</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contra Costa County, California</td>]]></html>
+	<text>Contra Costa County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,618</td>]]></html>
+	<text>$48,618</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>42</td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monmouth County, New Jersey</td>]]></html>
+	<text>Monmouth County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,506</td>]]></html>
+	<text>$48,506</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DuPage County, Illinois</td>]]></html>
+	<text>DuPage County, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,472</td>]]></html>
+	<text>$48,472</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>44</td>]]></html>
+	<text>44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>King County, Washington</td>]]></html>
+	<text>King County, Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,216</td>]]></html>
+	<text>$48,216</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>45</td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clear Creek County, Colorado</td>]]></html>
+	<text>Clear Creek County, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,150</td>]]></html>
+	<text>$48,150</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>46</td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Johnson County, Kansas</td>]]></html>
+	<text>Johnson County, Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,123</td>]]></html>
+	<text>$48,123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>47</td>]]></html>
+	<text>47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Williamson County, Tennessee</td>]]></html>
+	<text>Williamson County, Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$47,712</td>]]></html>
+	<text>$47,712</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denver County, Colorado</td>]]></html>
+	<text>Denver County, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$47,652</td>]]></html>
+	<text>$47,652</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>49</td>]]></html>
+	<text>49</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denali Borough, Alaska</td>]]></html>
+	<text>Denali Borough, Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$47,551</td>]]></html>
+	<text>$47,551</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Douglas County, Nevada</td>]]></html>
+	<text>Douglas County, Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$47,303</td>]]></html>
+	<text>$47,303</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Highest-income counties in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank County Personal Per Capita Income</text>
+</context>
+<context>
+	<score>0.8787875</score>
+	<text>Number of counties by state in the top 50 : Virginia 6, California 5, New Jersey 5, Colorado 3, Florida 3, Maryland 3, Massachusetts 3, New York 3, Illinois 2, Pennsylvania 2, Alaska 1, Connecticut 1, District of Columbia 1, Georgia 1, Idaho 1, Kansas 1, Michigan 1, Minnesota 1, Nevada 1, New Mexico 1, South Dakota 1, Tennessee 1, Texas 1, Utah 1, Washington 1, Wisconsin 1, Wyoming 1. Twenty-four states do not have any counties in the top 50.</text>
+</context>
+<context>
+	<score>0.7955916</score>
+	<text>Highest-income counties in the United States</text>
+</context>
+<context>
+	<score>0.787645</score>
+	<text>[ edit ] 50 highest-income counties by personal per capita income [2]</text>
+</context>
+<context>
+	<score>0.7562723</score>
+	<text>[ edit ] 100 highest-income counties by median household income (2000) [1]</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] 100 highest-income counties by per capita income [1]</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] 50 highest-income counties by personal per capita income [2]</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] 100 highest-income counties by median household income (2000) [1]</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] 20 highest-income counties by median household income (2006) [3]</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] Highest-income counties and places by state</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7238431</score>
+	<text>[ edit ] Notes and References</text>
+</context>
+<context>
+	<score>0.71801555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042414</score>
+	<text>Number of counties by state in the top 100 : Colorado 10, Virginia 10, New Jersey 9, California 8, Florida 6, New York 6, Georgia 4, Maryland 4, Minnesota 4, Connecticut 3, Massachusetts 3, Michigan 3, Pennsylvania 3, Texas 3, Illinois 2, North Carolina 2, Ohio 2, Washington 2, Wisconsin 2, Idaho 1, Alaska 1, Alabama 1, District of Columbia 1, Indiana 1, Kansas 1, Missouri 1, Nevada 1, Rhode Island 1, New Hampshire 1, New Mexico 1, Tennessee 1, Utah 1, Wyoming 1. Eighteen states do not have any counties in the top 100. United States of America per capita average: $21,587</text>
+</context>
+<context>
+	<score>0.6421806</score>
+	<text>100 Highest ranked counties by per capita income</text>
+</context>
+<context>
+	<score>0.60364765</score>
+	<text>Number of counties by state in the top 100</text>
+</context>
+<context>
+	<score>0.592532</score>
+	<text>Number of counties ranked in the top 100 nationally, by state</text>
+</context>
+<context>
+	<score>0.5586406</score>
+	<text>[ edit ] 100 highest-income counties by per capita income [1]</text>
+</context>
+<context>
+	<score>0.52103794</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5172964</score>
+	<text>100 highest counties by median household income</text>
+</context>
+<context>
+	<score>0.50144535</score>
+	<text>There are 3,142 counties in the United States . The source of the data is the U.S. Census Bureau , and the data is current as of the 2000 Census.</text>
+</context>
+<context>
+	<score>0.48110923</score>
+	<text>It needs to be updated . Tagged since May 2008. It may require general cleanup to meet Wikipedia&apos;s quality standards . Tagged since April 2007.</text>
+</context>
+<context>
+	<score>0.46650147</score>
+	<text>Source: US Census Bureau: 2000 Census</text>
+</context>
+<context>
+	<score>0.46484035</score>
+	<text>This article or section has multiple issues. Please help improve the article or discuss these issues on the talk page .</text>
+</context>
+<context>
+	<score>0.4597719</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table align="center" cellpadding="4" cellspacing="0" style="border: 1px solid #aaa; border-collapse: collapse;"><tr style="background:#efefef;"><th>Rank</th><th>County</th><th>Personal Per<br />Capita Income</th></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>1</b></td><td><a href="../../../../articles/n/e/w/New_York_County%2C_New_York_6829.html" class="mw-redirect" title="New York County, New York">New York County, New York</a></td><td>$93,377</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>2</b></td><td><a href="../../../../articles/t/e/t/Teton_County%2C_Wyoming_6865.html" title="Teton County, Wyoming">Teton County, Wyoming</a></td><td>$89,028</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>3</b></td><td><a href="../../../../articles/p/i/t/Pitkin_County%2C_Colorado_e285.html" title="Pitkin County, Colorado">Pitkin County, Colorado</a></td><td>$77,970</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>4</b></td><td><a href="../../../../articles/l/o/v/Loving_County%2C_Texas_d760.html" title="Loving County, Texas">Loving County, Texas</a></td><td>$77,787</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>5</b></td><td><a href="../../../../articles/m/a/r/Marin_County%2C_California_9e00.html" title="Marin County, California">Marin County, California</a></td><td>$75,884</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>6</b></td><td><a href="../../../../articles/f/a/i/Fairfield_County%2C_Connecticut_98de.html" title="Fairfield County, Connecticut">Fairfield County, Connecticut</a></td><td>$67,269</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>7</b></td><td><a href="../../../../articles/s/a/n/San_Francisco_County%2C_California_f146.html" class="mw-redirect" title="San Francisco County, California">San Francisco County, California</a></td><td>$62,614</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>8</b></td><td><a href="../../../../articles/m/o/r/Morris_County%2C_New_Jersey_03e2.html" title="Morris County, New Jersey">Morris County, New Jersey</a></td><td>$62,583</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>9</b></td><td><a href="../../../../articles/w/e/s/Westchester_County%2C_New_York_0dbc.html" title="Westchester County, New York">Westchester County, New York</a></td><td>$62,045</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>10</b></td><td><a href="../../../../articles/a/l/e/Alexandria%2C_Virginia_fe7e.html" title="Alexandria, Virginia">Alexandria, Virginia</a></td><td>$61,147</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>11</b></td><td><a href="../../../../articles/s/o/m/Somerset_County%2C_New_Jersey_4d9b.html" title="Somerset County, New Jersey">Somerset County, New Jersey</a></td><td>$61,039</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>12</b></td><td><a href="../../../../articles/h/u/n/Hunterdon_County%2C_New_Jersey_5c2c.html" title="Hunterdon County, New Jersey">Hunterdon County, New Jersey</a></td><td>$60,357</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>13</b></td><td><a href="../../../../articles/f/a/i/Fairfax_County%2C_Virginia_71ab.html" title="Fairfax County, Virginia">Fairfax County</a>, <a href="../../../../articles/f/a/i/Fairfax%2C_Virginia_f296.html" title="Fairfax, Virginia">Fairfax</a>, and <a href="../../../../articles/f/a/l/Falls_Church%2C_Virginia_8016.html" title="Falls Church, Virginia">Falls Church, Virginia</a></td><td>$60,289</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>14</b></td><td><a href="../../../../articles/m/o/n/Montgomery_County%2C_Maryland_ce0d.html" title="Montgomery County, Maryland">Montgomery County, Maryland</a></td><td>$59,953</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>15</b></td><td><a href="../../../../articles/a/r/l/Arlington_County%2C_Virginia_922a.html" title="Arlington County, Virginia">Arlington County, Virginia</a></td><td>$59,389</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>16</b></td><td><a href="../../../../articles/s/a/n/San_Mateo_County%2C_California_36e8.html" title="San Mateo County, California">San Mateo County, California</a></td><td>$59,213</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>17</b></td><td><a href="../../../../articles/b/e/r/Bergen_County%2C_New_Jersey_6a2d.html" title="Bergen County, New Jersey">Bergen County, New Jersey</a></td><td>$56,725</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>18</b></td><td><a href="../../../../articles/n/a/n/Nantucket_County%2C_Massachusetts_d2ef.html" class="mw-redirect" title="Nantucket County, Massachusetts">Nantucket County, Massachusetts</a></td><td>$56,092</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>19</b></td><td><a href="../../../../articles/n/a/s/Nassau_County%2C_New_York_358d.html" title="Nassau County, New York">Nassau County, New York</a></td><td>$54,941</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>20</b></td><td><a href="../../../../articles/m/o/n/Montgomery_County%2C_Pennsylvania_0f58.html" title="Montgomery County, Pennsylvania">Montgomery County, Pennsylvania</a></td><td>$54,293</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>21</b></td><td><a href="../../../../articles/l/o/s/Los_Alamos_County%2C_New_Mexico_2759.html" title="Los Alamos County, New Mexico">Los Alamos County, New Mexico</a></td><td>$54,134</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>22</b></td><td><a href="../../../../articles/n/o/r/Norfolk_County%2C_Massachusetts_6161.html" title="Norfolk County, Massachusetts">Norfolk County, Massachusetts</a></td><td>$53,278</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>23</b></td><td><a href="../../../../articles/w/a/s/Washington%2C_D.C._323f.html" title="Washington, D.C.">Washington, D.C. (federal district)</a></td><td>$52,811</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>24</b></td><td><a href="../../../../articles/h/o/w/Howard_County%2C_Maryland_b2b8.html" title="Howard County, Maryland">Howard County, Maryland</a></td><td>$52,580</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>25</b></td><td><a href="../../../../articles/o/z/a/Ozaukee_County%2C_Wisconsin_02e3.html" title="Ozaukee County, Wisconsin">Ozaukee County, Wisconsin</a></td><td>$52,490</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>26</b></td><td><a href="../../../../articles/o/a/k/Oakland_County%2C_Michigan_3a8b.html" title="Oakland County, Michigan">Oakland County, Michigan</a></td><td>$52,274</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>27</b></td><td><a href="../../../../articles/b/l/a/Blaine_County%2C_Idaho_d079.html" title="Blaine County, Idaho">Blaine County, Idaho</a></td><td>$52,245</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>28</b></td><td><a href="../../../../articles/g/o/o/Goochland_County%2C_Virginia_2a11.html" title="Goochland County, Virginia">Goochland County, Virginia</a></td><td>$52,212</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>29</b></td><td><a href="../../../../articles/m/i/d/Middlesex_County%2C_Massachusetts_9af6.html" title="Middlesex County, Massachusetts">Middlesex County, Massachusetts</a></td><td>$51,869</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>30</b></td><td><a href="../../../../articles/s/a/n/Santa_Clara_County%2C_California_7af1.html" title="Santa Clara County, California">Santa Clara County, California</a></td><td>$51,112</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>31</b></td><td><a href="../../../../articles/t/a/l/Talbot_County%2C_Maryland_f4f3.html" title="Talbot County, Maryland">Talbot County, Maryland</a></td><td>$50,872</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>32</b></td><td><a href="../../../../articles/c/h/e/Chester_County%2C_Pennsylvania_3fbb.html" title="Chester County, Pennsylvania">Chester County, Pennsylvania</a></td><td>$50,787</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>33</b></td><td><a href="../../../../articles/s/u/m/Summit_County%2C_Utah_022f.html" title="Summit County, Utah">Summit County, Utah</a></td><td>$50,542</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>34</b></td><td><a href="../../../../articles/p/a/l/Palm_Beach_County%2C_Florida_7907.html" title="Palm Beach County, Florida">Palm Beach County, Florida</a></td><td>$50,371</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>35</b></td><td><a href="../../../../articles/m/a/r/Martin_County%2C_Florida_e839.html" title="Martin County, Florida">Martin County, Florida</a></td><td>$49,992</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>36</b></td><td><a href="../../../../articles/h/e/n/Hennepin_County%2C_Minnesota_75f2.html" title="Hennepin County, Minnesota">Hennepin County, Minnesota</a></td><td>$49,566</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>37</b></td><td><a href="../../../../articles/c/o/l/Collier_County%2C_Florida_d473.html" title="Collier County, Florida">Collier County, Florida</a></td><td>$49,492</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>38</b></td><td><a href="../../../../articles/f/u/l/Fulton_County%2C_Georgia_b815.html" title="Fulton County, Georgia">Fulton County, Georgia</a></td><td>$49,291</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>39</b></td><td><a href="../../../../articles/s/u/l/Sully_County%2C_South_Dakota_bc28.html" title="Sully County, South Dakota">Sully County, South Dakota</a></td><td>$49,119</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>40</b></td><td><a href="../../../../articles/l/a/k/Lake_County%2C_Illinois_3e8a.html" title="Lake County, Illinois">Lake County, Illinois</a></td><td>$48,906</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>41</b></td><td><a href="../../../../articles/c/o/n/Contra_Costa_County%2C_California_cb21.html" title="Contra Costa County, California">Contra Costa County, California</a></td><td>$48,618</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>42</b></td><td><a href="../../../../articles/m/o/n/Monmouth_County%2C_New_Jersey_7c6b.html" title="Monmouth County, New Jersey">Monmouth County, New Jersey</a></td><td>$48,506</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>43</b></td><td><a href="../../../../articles/d/u/p/DuPage_County%2C_Illinois_3e00.html" title="DuPage County, Illinois">DuPage County, Illinois</a></td><td>$48,472</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>44</b></td><td><a href="../../../../articles/k/i/n/King_County%2C_Washington_c929.html" title="King County, Washington">King County, Washington</a></td><td>$48,216</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>45</b></td><td><a href="../../../../articles/c/l/e/Clear_Creek_County%2C_Colorado_cbf8.html" title="Clear Creek County, Colorado">Clear Creek County, Colorado</a></td><td>$48,150</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>46</b></td><td><a href="../../../../articles/j/o/h/Johnson_County%2C_Kansas_e25a.html" title="Johnson County, Kansas">Johnson County, Kansas</a></td><td>$48,123</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>47</b></td><td><a href="../../../../articles/w/i/l/Williamson_County%2C_Tennessee_0952.html" title="Williamson County, Tennessee">Williamson County, Tennessee</a></td><td>$47,712</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>48</b></td><td><a href="../../../../articles/d/e/n/Denver_County%2C_Colorado_7906.html" class="mw-redirect" title="Denver County, Colorado">Denver County, Colorado</a></td><td>$47,652</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>49</b></td><td><a href="../../../../articles/d/e/n/Denali_Borough%2C_Alaska_59e0.html" title="Denali Borough, Alaska">Denali Borough, Alaska</a></td><td>$47,551</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>50</b></td><td><a href="../../../../articles/d/o/u/Douglas_County%2C_Nevada_f76f.html" title="Douglas County, Nevada">Douglas County, Nevada</a></td><td>$47,303</td></tr></table>]]>
+</htmlSnippet>
+</entity>

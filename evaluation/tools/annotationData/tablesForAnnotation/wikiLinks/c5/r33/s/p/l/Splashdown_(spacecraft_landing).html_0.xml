@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r33/s/p/l/Splashdown_(spacecraft_landing).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 3, 0.54545456 3, 0.16000001 1, 0.16000001 0 1, 0.14400001 1 3, 0.14 2, 0.14 0 2, 0.126 2 3, 0.120000005 0 4, 0.104727276 3 4, 0.08727273 4, 0.022400001 1 2, 0.019200003 1 4, 0.016800001 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/s/p/l/Splashdown_(spacecraft_landing).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Spacecraft</th>]]></html>
+	<text>Spacecraft</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Landing Date</th>]]></html>
+	<text>Landing Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coordinates</th>]]></html>
+	<text>Coordinates</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Recovery Ship</th>]]></html>
+	<text>Recovery Ship</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Miss Distance</th>]]></html>
+	<text>Miss Distance</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Freedom 7</td>]]></html>
+	<text>Freedom 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 5, 1961</td>]]></html>
+	<text>May 5, 1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°13.7′N 75°53′W ﻿ / ﻿ 27.2283 , -75.883 ﻿ ( Freedom 7 )</td>]]></html>
+	<text>27&#176;13.7&#8242;N 75&#176;53&#8242;W &#65279; / &#65279; 27.2283 , -75.883 &#65279; ( Freedom 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Lake Champlain (CVS-39)</td>]]></html>
+	<text>USS Lake Champlain (CVS-39)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.6 km</td>]]></html>
+	<text>5.6 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liberty Bell 7</td>]]></html>
+	<text>Liberty Bell 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 21, 1961</td>]]></html>
+	<text>July 21, 1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°32′N 75°44′W ﻿ / ﻿ 27.533 , -75.733 ﻿ ( Liberty Bell 7 )</td>]]></html>
+	<text>27&#176;32&#8242;N 75&#176;44&#8242;W &#65279; / &#65279; 27.533 , -75.733 &#65279; ( Liberty Bell 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Randolph (CVS-15)</td>]]></html>
+	<text>USS Randolph (CVS-15)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.3 km</td>]]></html>
+	<text>9.3 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Friendship 7</td>]]></html>
+	<text>Friendship 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 20, 1962</td>]]></html>
+	<text>February 20, 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21°26′N 68°41′W ﻿ / ﻿ 21.433 , -68.683 ﻿ ( Friendship 7 )</td>]]></html>
+	<text>21&#176;26&#8242;N 68&#176;41&#8242;W &#65279; / &#65279; 21.433 , -68.683 &#65279; ( Friendship 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Noa (DD-841) ( USS Randolph (CVS-15)** )</td>]]></html>
+	<text>USS Noa (DD-841) ( USS Randolph (CVS-15)** )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74 km</td>]]></html>
+	<text>74 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aurora 7</td>]]></html>
+	<text>Aurora 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 24, 1962</td>]]></html>
+	<text>May 24, 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19°27′N 63°59′W ﻿ / ﻿ 19.45 , -63.983 ﻿ ( Aurora 7 )</td>]]></html>
+	<text>19&#176;27&#8242;N 63&#176;59&#8242;W &#65279; / &#65279; 19.45 , -63.983 &#65279; ( Aurora 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Farragut (DLG-6) ( USS Intrepid (CVS-11)** )</td>]]></html>
+	<text>USS Farragut (DLG-6) ( USS Intrepid (CVS-11)** )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>400 km</td>]]></html>
+	<text>400 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sigma 7</td>]]></html>
+	<text>Sigma 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 3, 1962</td>]]></html>
+	<text>October 3, 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32°06′N 174°28′W ﻿ / ﻿ 32.1 , -174.467 ﻿ ( Sigma 7 )</td>]]></html>
+	<text>32&#176;06&#8242;N 174&#176;28&#8242;W &#65279; / &#65279; 32.1 , -174.467 &#65279; ( Sigma 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Kearsarge (CVS-33)</td>]]></html>
+	<text>USS Kearsarge (CVS-33)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.4 km</td>]]></html>
+	<text>7.4 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Faith 7</td>]]></html>
+	<text>Faith 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 16, 1963</td>]]></html>
+	<text>May 16, 1963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°20′N 176°26′W ﻿ / ﻿ 27.333 , -176.433 ﻿ ( Faith 7 )</td>]]></html>
+	<text>27&#176;20&#8242;N 176&#176;26&#8242;W &#65279; / &#65279; 27.333 , -176.433 &#65279; ( Faith 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Kearsarge' (CVS-33)</td>]]></html>
+	<text>USS Kearsarge&amp;apos; (CVS-33)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.1 km</td>]]></html>
+	<text>8.1 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 3</td>]]></html>
+	<text>Gemini 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 23, 1965</td>]]></html>
+	<text>March 23, 1965</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22°26′N 70°51′W ﻿ / ﻿ 22.433 , -70.85 ﻿ ( Gemini 3 )</td>]]></html>
+	<text>22&#176;26&#8242;N 70&#176;51&#8242;W &#65279; / &#65279; 22.433 , -70.85 &#65279; ( Gemini 3 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Intrepid (CVS-11)</td>]]></html>
+	<text>USS Intrepid (CVS-11)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111 km</td>]]></html>
+	<text>111 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 4</td>]]></html>
+	<text>Gemini 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 7, 1965</td>]]></html>
+	<text>June 7, 1965</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°44′N 74°11′W ﻿ / ﻿ 27.733 , -74.183 ﻿ ( Gemini 4 )</td>]]></html>
+	<text>27&#176;44&#8242;N 74&#176;11&#8242;W &#65279; / &#65279; 27.733 , -74.183 &#65279; ( Gemini 4 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Wasp (CVS-18)</td>]]></html>
+	<text>USS Wasp (CVS-18)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81 km</td>]]></html>
+	<text>81 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 5</td>]]></html>
+	<text>Gemini 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 29, 1965</td>]]></html>
+	<text>August 29, 1965</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29°44′N 69°45′W ﻿ / ﻿ 29.733 , -69.75 ﻿ ( Gemini 5 )</td>]]></html>
+	<text>29&#176;44&#8242;N 69&#176;45&#8242;W &#65279; / &#65279; 29.733 , -69.75 &#65279; ( Gemini 5 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Lake Champlain (CVS 39)</td>]]></html>
+	<text>USS Lake Champlain (CVS 39)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>270 km</td>]]></html>
+	<text>270 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 7</td>]]></html>
+	<text>Gemini 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 18, 1965</td>]]></html>
+	<text>December 18, 1965</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25°25′N 70°07′W ﻿ / ﻿ 25.417 , -70.117 ﻿ ( Gemini 7 )</td>]]></html>
+	<text>25&#176;25&#8242;N 70&#176;07&#8242;W &#65279; / &#65279; 25.417 , -70.117 &#65279; ( Gemini 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Wasp (CVS-18)</td>]]></html>
+	<text>USS Wasp (CVS-18)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 km</td>]]></html>
+	<text>12 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 6A</td>]]></html>
+	<text>Gemini 6A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 16, 1965</td>]]></html>
+	<text>December 16, 1965</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23°35′N 67°50′W ﻿ / ﻿ 23.583 , -67.833 ﻿ ( Gemini 6A )</td>]]></html>
+	<text>23&#176;35&#8242;N 67&#176;50&#8242;W &#65279; / &#65279; 23.583 , -67.833 &#65279; ( Gemini 6A )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Wasp (CVS-18)</td>]]></html>
+	<text>USS Wasp (CVS-18)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 km</td>]]></html>
+	<text>13 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 8</td>]]></html>
+	<text>Gemini 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 17, 1966</td>]]></html>
+	<text>March 17, 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25°14′N 136°0′E ﻿ / ﻿ 25.233 , 136 ﻿ ( Gemini 8 )</td>]]></html>
+	<text>25&#176;14&#8242;N 136&#176;0&#8242;E &#65279; / &#65279; 25.233 , 136 &#65279; ( Gemini 8 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Leonard F. Mason (DD-852) ( USS Boxer (LPH-4)** )</td>]]></html>
+	<text>USS Leonard F. Mason (DD-852) ( USS Boxer (LPH-4)** )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 km</td>]]></html>
+	<text>2 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 9A</td>]]></html>
+	<text>Gemini 9A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 6, 1966</td>]]></html>
+	<text>June 6, 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°52′N 75°0′W ﻿ / ﻿ 27.867 , -75 ﻿ ( Gemini 9A )</td>]]></html>
+	<text>27&#176;52&#8242;N 75&#176;0&#8242;W &#65279; / &#65279; 27.867 , -75 &#65279; ( Gemini 9A )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Wasp (CVS-18)</td>]]></html>
+	<text>USS Wasp (CVS-18)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.7 km</td>]]></html>
+	<text>0.7 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 10</td>]]></html>
+	<text>Gemini 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 21, 1966</td>]]></html>
+	<text>July 21, 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26°45′N 71°57′W ﻿ / ﻿ 26.75 , -71.95 ﻿ ( Gemini 10 )</td>]]></html>
+	<text>26&#176;45&#8242;N 71&#176;57&#8242;W &#65279; / &#65279; 26.75 , -71.95 &#65279; ( Gemini 10 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Guadalcanal (LPH-7)</td>]]></html>
+	<text>USS Guadalcanal (LPH-7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 km</td>]]></html>
+	<text>6 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 11</td>]]></html>
+	<text>Gemini 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 15, 1966</td>]]></html>
+	<text>September 15, 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24°15′N 70°0′W ﻿ / ﻿ 24.25 , -70 ﻿ ( Gemini 11 )</td>]]></html>
+	<text>24&#176;15&#8242;N 70&#176;0&#8242;W &#65279; / &#65279; 24.25 , -70 &#65279; ( Gemini 11 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Guam (LPH-9)</td>]]></html>
+	<text>USS Guam (LPH-9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 km</td>]]></html>
+	<text>5 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemini 12</td>]]></html>
+	<text>Gemini 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 15, 1966</td>]]></html>
+	<text>November 15, 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24°35′N 69°57′W ﻿ / ﻿ 24.583 , -69.95 ﻿ ( Gemini 12 )</td>]]></html>
+	<text>24&#176;35&#8242;N 69&#176;57&#8242;W &#65279; / &#65279; 24.583 , -69.95 &#65279; ( Gemini 12 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Wasp (CVS-18)</td>]]></html>
+	<text>USS Wasp (CVS-18)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 km</td>]]></html>
+	<text>5 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 1</td>]]></html>
+	<text>Apollo 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 7, 1967</td>]]></html>
+	<text>March 7, 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Planned N of Puerto Rico</td>]]></html>
+	<text>Planned N of Puerto Rico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Essex (CVS-9)**</td>]]></html>
+	<text>USS Essex (CVS-9)**</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Planned</td>]]></html>
+	<text>Planned</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 7</td>]]></html>
+	<text>Apollo 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 22, 1968</td>]]></html>
+	<text>October 22, 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°32′N 64°04′W ﻿ / ﻿ 27.533 , -64.067 ﻿ ( Apollo 7 )</td>]]></html>
+	<text>27&#176;32&#8242;N 64&#176;04&#8242;W &#65279; / &#65279; 27.533 , -64.067 &#65279; ( Apollo 7 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Essex (CVS-9)</td>]]></html>
+	<text>USS Essex (CVS-9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 km</td>]]></html>
+	<text>3 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 8</td>]]></html>
+	<text>Apollo 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 27, 1968</td>]]></html>
+	<text>December 27, 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8°7.5′N 165°1.2′W ﻿ / ﻿ 8.125 , -165.02 ﻿ ( Apollo 8 )</td>]]></html>
+	<text>8&#176;7.5&#8242;N 165&#176;1.2&#8242;W &#65279; / &#65279; 8.125 , -165.02 &#65279; ( Apollo 8 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Yorktown (CVS-10)</td>]]></html>
+	<text>USS Yorktown (CVS-10)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 km</td>]]></html>
+	<text>2 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 9</td>]]></html>
+	<text>Apollo 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 13, 1969</td>]]></html>
+	<text>March 13, 1969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23°15′N 67°56′W ﻿ / ﻿ 23.25 , -67.933 ﻿ ( Apollo 9 )</td>]]></html>
+	<text>23&#176;15&#8242;N 67&#176;56&#8242;W &#65279; / &#65279; 23.25 , -67.933 &#65279; ( Apollo 9 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Guadalcanal (LPH-7)</td>]]></html>
+	<text>USS Guadalcanal (LPH-7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 km</td>]]></html>
+	<text>5 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 10</td>]]></html>
+	<text>Apollo 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 26, 1969</td>]]></html>
+	<text>May 26, 1969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15°2′S 164°39′W ﻿ / ﻿ -15.033 , -164.65 ﻿ ( Apollo 10 )</td>]]></html>
+	<text>15&#176;2&#8242;S 164&#176;39&#8242;W &#65279; / &#65279; -15.033 , -164.65 &#65279; ( Apollo 10 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Princeton (CVS-37)</td>]]></html>
+	<text>USS Princeton (CVS-37)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4 km</td>]]></html>
+	<text>2.4 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 11</td>]]></html>
+	<text>Apollo 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 24, 1969</td>]]></html>
+	<text>July 24, 1969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13°19′N 169°9′W ﻿ / ﻿ 13.317 , -169.15 ﻿ ( Apollo 11 )</td>]]></html>
+	<text>13&#176;19&#8242;N 169&#176;9&#8242;W &#65279; / &#65279; 13.317 , -169.15 &#65279; ( Apollo 11 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Hornet (CVS-12)</td>]]></html>
+	<text>USS Hornet (CVS-12)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.1 km</td>]]></html>
+	<text>3.1 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 12</td>]]></html>
+	<text>Apollo 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 24, 1969</td>]]></html>
+	<text>November 24, 1969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15°47′S 165°9′W ﻿ / ﻿ -15.783 , -165.15 ﻿ ( Apollo 12 )</td>]]></html>
+	<text>15&#176;47&#8242;S 165&#176;9&#8242;W &#65279; / &#65279; -15.783 , -165.15 &#65279; ( Apollo 12 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Hornet (CVS-12)</td>]]></html>
+	<text>USS Hornet (CVS-12)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.7 km</td>]]></html>
+	<text>3.7 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 13</td>]]></html>
+	<text>Apollo 13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 17, 1970</td>]]></html>
+	<text>April 17, 1970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21°38′24″S 165°21′42″W ﻿ / ﻿ -21.64 , -165.36167 ﻿ ( Apollo 13 )</td>]]></html>
+	<text>21&#176;38&#8242;24&#8243;S 165&#176;21&#8242;42&#8243;W &#65279; / &#65279; -21.64 , -165.36167 &#65279; ( Apollo 13 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Iwo Jima (LPH-2)</td>]]></html>
+	<text>USS Iwo Jima (LPH-2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.9 km</td>]]></html>
+	<text>1.9 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 14</td>]]></html>
+	<text>Apollo 14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 9, 1971</td>]]></html>
+	<text>February 9, 1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27°1′S 172°39′W ﻿ / ﻿ -27.017 , -172.65 ﻿ ( Apollo 14 )</td>]]></html>
+	<text>27&#176;1&#8242;S 172&#176;39&#8242;W &#65279; / &#65279; -27.017 , -172.65 &#65279; ( Apollo 14 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS New Orleans (LPH-11)</td>]]></html>
+	<text>USS New Orleans (LPH-11)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.1 km</td>]]></html>
+	<text>1.1 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 15</td>]]></html>
+	<text>Apollo 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 7, 1971</td>]]></html>
+	<text>August 7, 1971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26°7′N 158°8′W ﻿ / ﻿ 26.117 , -158.133 ﻿ ( Apollo 15 )</td>]]></html>
+	<text>26&#176;7&#8242;N 158&#176;8&#8242;W &#65279; / &#65279; 26.117 , -158.133 &#65279; ( Apollo 15 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Okinawa (LPH-3)</td>]]></html>
+	<text>USS Okinawa (LPH-3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.9 km</td>]]></html>
+	<text>1.9 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 16</td>]]></html>
+	<text>Apollo 16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 27, 1972</td>]]></html>
+	<text>April 27, 1972</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0°45′S 156°13′W ﻿ / ﻿ -0.75 , -156.217 ﻿ ( Apollo 16 )</td>]]></html>
+	<text>0&#176;45&#8242;S 156&#176;13&#8242;W &#65279; / &#65279; -0.75 , -156.217 &#65279; ( Apollo 16 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Ticonderoga (CVS-14)</td>]]></html>
+	<text>USS Ticonderoga (CVS-14)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.6 km</td>]]></html>
+	<text>5.6 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Apollo 17</td>]]></html>
+	<text>Apollo 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 19, 1972</td>]]></html>
+	<text>December 19, 1972</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17°53′S 166°7′W ﻿ / ﻿ -17.883 , -166.117 ﻿ ( Apollo 17 )</td>]]></html>
+	<text>17&#176;53&#8242;S 166&#176;7&#8242;W &#65279; / &#65279; -17.883 , -166.117 &#65279; ( Apollo 17 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Ticonderoga (CVS-14)</td>]]></html>
+	<text>USS Ticonderoga (CVS-14)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.9 km</td>]]></html>
+	<text>1.9 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Skylab 2</td>]]></html>
+	<text>Skylab 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 22, 1973</td>]]></html>
+	<text>June 22, 1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24°45′N 127°2′W ﻿ / ﻿ 24.75 , -127.033 ﻿ ( Skylab 2 )</td>]]></html>
+	<text>24&#176;45&#8242;N 127&#176;2&#8242;W &#65279; / &#65279; 24.75 , -127.033 &#65279; ( Skylab 2 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS Ticonderoga (CVS-14)</td>]]></html>
+	<text>USS Ticonderoga (CVS-14)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.6 km</td>]]></html>
+	<text>9.6 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Skylab 3</td>]]></html>
+	<text>Skylab 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 25, 1973</td>]]></html>
+	<text>September 25, 1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30°47′N 120°29′W ﻿ / ﻿ 30.783 , -120.483 ﻿ ( Skylab 3 )</td>]]></html>
+	<text>30&#176;47&#8242;N 120&#176;29&#8242;W &#65279; / &#65279; 30.783 , -120.483 &#65279; ( Skylab 3 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS New Orleans (LPH-11)</td>]]></html>
+	<text>USS New Orleans (LPH-11)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 km?</td>]]></html>
+	<text>8 km?</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Skylab 4</td>]]></html>
+	<text>Skylab 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 8, 1974</td>]]></html>
+	<text>February 8, 1974</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31°18′N 119°48′W ﻿ / ﻿ 31.3 , -119.8 ﻿ ( Skylab 4 )</td>]]></html>
+	<text>31&#176;18&#8242;N 119&#176;48&#8242;W &#65279; / &#65279; 31.3 , -119.8 &#65279; ( Skylab 4 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS New Orleans (LPH-11)</td>]]></html>
+	<text>USS New Orleans (LPH-11)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 km?</td>]]></html>
+	<text>8 km?</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ASTP Apollo</td>]]></html>
+	<text>ASTP Apollo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 24, 1975</td>]]></html>
+	<text>July 24, 1975</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21°52′N 162°45′W ﻿ / ﻿ 21.867 , -162.75 ﻿ ( ASTP Apollo )]</td>]]></html>
+	<text>21&#176;52&#8242;N 162&#176;45&#8242;W &#65279; / &#65279; 21.867 , -162.75 &#65279; ( ASTP Apollo )]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USS New Orleans (LPH-11)</td>]]></html>
+	<text>USS New Orleans (LPH-11)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.3 km</td>]]></html>
+	<text>7.3 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Soyuz 23</td>]]></html>
+	<text>Soyuz 23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 16, 1976</td>]]></html>
+	<text>October 16, 1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Tengiz</td>]]></html>
+	<text>Lake Tengiz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Helicopter Mi-8</td>]]></html>
+	<text>Helicopter Mi-8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Not intended to land in water</td>]]></html>
+	<text>Not intended to land in water</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Splashdown (spacecraft landing) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Spacecraft Landing Date Coordinates Recovery Ship Miss Distance</text>
+</context>
+<context>
+	<score>0.8832438</score>
+	<text>[ edit ] Manned spacecraft</text>
+</context>
+<context>
+	<score>0.7986525</score>
+	<text>Splashdown (spacecraft landing)</text>
+</context>
+<context>
+	<score>0.78181744</score>
+	<text>Please help Wikipedia by adding references. See the talk page for details. (October 2007)</text>
+</context>
+<context>
+	<score>0.75044477</score>
+	<text>Planned recovery ship **</text>
+</context>
+<context>
+	<score>0.7255328</score>
+	<text>[ edit ] Disadvantages</text>
+</context>
+<context>
+	<score>0.7255328</score>
+	<text>[ edit ] Locations of splashdowns</text>
+</context>
+<context>
+	<score>0.7255328</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7255328</score>
+	<text>[ edit ] Gallery</text>
+</context>
+<context>
+	<score>0.7255328</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72107655</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70869786</score>
+	<text>This section may contain original research or unverified claims.</text>
+</context>
+<context>
+	<score>0.64663696</score>
+	<text>[ edit ] Locations of splashdowns</text>
+</context>
+<context>
+	<score>0.60810393</score>
+	<text>[ edit ] Unmanned spacecraft</text>
+</context>
+<context>
+	<score>0.5969883</score>
+	<text>Another problem associated with splashdown is that if the capsule comes down far from any recovery forces the crew are exposed to greater danger. As an example, Scott Carpenter in Mercury 7 overshot the assigned landing zone by 400 km. This was caused by a retroattitude misalignment caused by the spacecraft automatic guidance system. It took three hours for a recovery helicopter to reach his location. These recovery operation mishaps can be mitigated by placing several vessels on standby in several different locations, but this is quite an expensive option.</text>
+</context>
+<context>
+	<score>0.5572694</score>
+	<text>There are several disadvantages for splashdowns, foremost among them being the danger of the spacecraft flooding and sinking. This happened to Gus Grissom when the hatch of his Mercury-Redstone 4 capsule malfunctioned and blew prematurely. The capsule was lost and Grissom nearly drowned.</text>
+</context>
+<context>
+	<score>0.5254943</score>
+	<text>While the water the spacecraft landed on would cushion it to a degree, the impact could still be quite violent for the astronauts .</text>
+</context>
+<context>
+	<score>0.5217527</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.50007415</score>
+	<text>[ edit ] Disadvantages</text>
+</context>
+<context>
+	<score>0.47528172</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47095782</score>
+	<text>[ edit ] Gallery</text>
+</context>
+<context>
+	<score>0.4634692</score>
+	<text>The new Crew Exploration Vehicle , which will replace the Space Shuttle (which lands on a modified aircraft-style runway), will be designed to be recovered on land using a combination of parachutes and airbags, although it is also designed to make a contingency splashdown (only for an in-flight abort) if needed. Although not new, NASA and the Air Force originally wanted to place a paraglider recovery system to allow for a controlled, precise landing on land on ski-like skids (a landing system used on X-15 rocket plane), most likely on the dry lakebeds at Edwards Air Force Base in California . This idea was first proposed for the Gemini spacecraft, but was dropped in favor of the traditional parachute system.</text>
+</context>
+<context>
+	<score>0.45045412</score>
+	<text>After the flotation collar is attached, a hatch on the spacecraft is usually opened. At that time, some astronauts decide to be hoisted aboard a helicopter for a ride to the recovery ship and some decided to stay with the spacecraft and be lifted aboard ship via crane. (Because of his overshoot aboard Aurora 7 , and mindful of the fate of Liberty Bell 7, Scott Carpenter alone egressed through the nose of his capsule instead of through the hatch, waiting for recovery forces in his life raft.) All Gemini and Apollo flights (Apollos 7 to 17 ) used the former, while Mercury missions from Mercury 6 to Mercury 9, as well as all Skylab missions and Apollo-Soyuz used the latter, especially the Skylab flights as to preserve all medical data.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" border="1" cellspacing="0" align="left"><tr><th><b>Spacecraft</b></th><th><b>Landing Date</b></th><th><b>Coordinates</b></th><th><b>Recovery Ship</b></th><th><b>Miss Distance</b></th></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Redstone_3_d5e7.html" title="Mercury-Redstone 3">Freedom 7</a></td><td>May 5, 1961</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_13.7_N_75_53_W_&amp;title=Freedom+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_13.7_N_75_53_W_&amp;title=Freedom+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°13.7′N 75°53′W"><span class="latitude">27°13.7′N</span> <span class="longitude">75°53′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.2283 -75.883"><span class="latitude">27.2283</span>, <span class="longitude">-75.883</span></span><span style="display:none">﻿ (<span class="fn org">Freedom 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Lake_Champlain_%28CV-39%29_d2cf.html" title="USS Lake Champlain (CV-39)">USS <i>Lake Champlain</i> (CVS-39)</a></td><td>5.6&#160;km</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Redstone_4_92aa.html" title="Mercury-Redstone 4">Liberty Bell 7</a></td><td>July 21, 1961</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_32_N_75_44_W_&amp;title=Liberty+Bell+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_32_N_75_44_W_&amp;title=Liberty+Bell+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°32′N 75°44′W"><span class="latitude">27°32′N</span> <span class="longitude">75°44′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.533 -75.733"><span class="latitude">27.533</span>, <span class="longitude">-75.733</span></span><span style="display:none">﻿ (<span class="fn org">Liberty Bell 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Randolph_%28CV-15%29_990b.html" title="USS Randolph (CV-15)">USS <i>Randolph</i> (CVS-15)</a></td><td>9.3&#160;km</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_6_23db.html" title="Mercury-Atlas 6">Friendship 7</a></td><td>February 20, 1962</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_26_N_68_41_W_&amp;title=Friendship+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_26_N_68_41_W_&amp;title=Friendship+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 21°26′N 68°41′W"><span class="latitude">21°26′N</span> <span class="longitude">68°41′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 21.433 -68.683"><span class="latitude">21.433</span>, <span class="longitude">-68.683</span></span><span style="display:none">﻿ (<span class="fn org">Friendship 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Noa_%28DD-841%29_ed80.html" title="USS Noa (DD-841)">USS&#160;<i>Noa</i>&#160;(DD-841)</a> (<a href="../../../../articles/u/s/s/USS_Randolph_%28CV-15%29_990b.html" title="USS Randolph (CV-15)">USS <i>Randolph</i> (CVS-15)**</a>)</td><td>74&#160;km</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_7_b2c9.html" title="Mercury-Atlas 7">Aurora 7</a></td><td>May 24, 1962</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=19_27_N_63_59_W_&amp;title=Aurora+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=19_27_N_63_59_W_&amp;title=Aurora+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 19°27′N 63°59′W"><span class="latitude">19°27′N</span> <span class="longitude">63°59′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 19.45 -63.983"><span class="latitude">19.45</span>, <span class="longitude">-63.983</span></span><span style="display:none">﻿ (<span class="fn org">Aurora 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Farragut_%28DLG-6%29_e711.html" class="mw-redirect" title="USS Farragut (DLG-6)">USS&#160;<i>Farragut</i>&#160;(DLG-6)</a> (<a href="../../../../articles/u/s/s/USS_Intrepid_%28CV-11%29_3784.html" title="USS Intrepid (CV-11)">USS <i>Intrepid</i> (CVS-11)**</a>)</td><td>400&#160;km</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_8_6272.html" title="Mercury-Atlas 8">Sigma 7</a></td><td>October 3, 1962</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=32_06_N_174_28_W_&amp;title=Sigma+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=32_06_N_174_28_W_&amp;title=Sigma+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 32°06′N 174°28′W"><span class="latitude">32°06′N</span> <span class="longitude">174°28′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 32.1 -174.467"><span class="latitude">32.1</span>, <span class="longitude">-174.467</span></span><span style="display:none">﻿ (<span class="fn org">Sigma 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Kearsarge_%28CV-33%29_fbdf.html" title="USS Kearsarge (CV-33)">USS <i>Kearsarge</i> (CVS-33)</a></td><td>7.4&#160;km</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_9_d3c5.html" title="Mercury-Atlas 9">Faith 7</a></td><td>May 16, 1963</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_20_N_176_26_W_&amp;title=Faith+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_20_N_176_26_W_&amp;title=Faith+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°20′N 176°26′W"><span class="latitude">27°20′N</span> <span class="longitude">176°26′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.333 -176.433"><span class="latitude">27.333</span>, <span class="longitude">-176.433</span></span><span style="display:none">﻿ (<span class="fn org">Faith 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Kearsarge_%28CV-33%29_fbdf.html" title="USS Kearsarge (CV-33)">USS <i>Kearsarge'</i> (CVS-33)</a></td><td>8.1&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_3.html" title="Gemini 3">Gemini 3</a></td><td>March 23, 1965</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=22_26_N_70_51_W_&amp;title=Gemini+3" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=22_26_N_70_51_W_&amp;title=Gemini+3" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 22°26′N 70°51′W"><span class="latitude">22°26′N</span> <span class="longitude">70°51′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 22.433 -70.85"><span class="latitude">22.433</span>, <span class="longitude">-70.85</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 3</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Intrepid_%28CV-11%29_3784.html" title="USS Intrepid (CV-11)">USS <i>Intrepid</i> (CVS-11)</a></td><td>111&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_4.html" title="Gemini 4">Gemini 4</a></td><td>June 7, 1965</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_44_N_74_11_W_&amp;title=Gemini+4" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_44_N_74_11_W_&amp;title=Gemini+4" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°44′N 74°11′W"><span class="latitude">27°44′N</span> <span class="longitude">74°11′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.733 -74.183"><span class="latitude">27.733</span>, <span class="longitude">-74.183</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 4</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Wasp_%28CV-18%29_db56.html" title="USS Wasp (CV-18)">USS <i>Wasp</i> (CVS-18)</a></td><td>81&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_5.html" title="Gemini 5">Gemini 5</a></td><td>August 29, 1965</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=29_44_N_69_45_W_&amp;title=Gemini+5" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=29_44_N_69_45_W_&amp;title=Gemini+5" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 29°44′N 69°45′W"><span class="latitude">29°44′N</span> <span class="longitude">69°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 29.733 -69.75"><span class="latitude">29.733</span>, <span class="longitude">-69.75</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 5</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Lake_Champlain_%28CV-39%29_d2cf.html" title="USS Lake Champlain (CV-39)">USS <i>Lake Champlain</i> (CVS 39)</a></td><td>270&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_7.html" title="Gemini 7">Gemini 7</a></td><td>December 18, 1965</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=25_25_N_70_07_W_&amp;title=Gemini+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=25_25_N_70_07_W_&amp;title=Gemini+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 25°25′N 70°07′W"><span class="latitude">25°25′N</span> <span class="longitude">70°07′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 25.417 -70.117"><span class="latitude">25.417</span>, <span class="longitude">-70.117</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Wasp_%28CV-18%29_db56.html" title="USS Wasp (CV-18)">USS <i>Wasp</i> (CVS-18)</a></td><td>12&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_6A_4fd4.html" title="Gemini 6A">Gemini 6A</a></td><td>December 16, 1965</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=23_35_N_67_50_W_&amp;title=Gemini+6A" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=23_35_N_67_50_W_&amp;title=Gemini+6A" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 23°35′N 67°50′W"><span class="latitude">23°35′N</span> <span class="longitude">67°50′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 23.583 -67.833"><span class="latitude">23.583</span>, <span class="longitude">-67.833</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 6A</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Wasp_%28CV-18%29_db56.html" title="USS Wasp (CV-18)">USS <i>Wasp</i> (CVS-18)</a></td><td>13&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_8.html" title="Gemini 8">Gemini 8</a></td><td>March 17, 1966</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=25_14_N_136_0_E_&amp;title=Gemini+8" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=25_14_N_136_0_E_&amp;title=Gemini+8" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 25°14′N 136°0′E"><span class="latitude">25°14′N</span> <span class="longitude">136°0′E</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 25.233 136"><span class="latitude">25.233</span>, <span class="longitude">136</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 8</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Leonard_F._Mason_%28DD-852%29_c227.html" title="USS Leonard F. Mason (DD-852)">USS&#160;<i>Leonard F. Mason</i>&#160;(DD-852)</a> (<a href="../../../../articles/u/s/s/USS_Boxer_%28CV-21%29_4b4a.html" title="USS Boxer (CV-21)">USS <i>Boxer</i> (LPH-4)**</a>)</td><td>2&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_9A_a00e.html" title="Gemini 9A">Gemini 9A</a></td><td>June 6, 1966</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_52_N_75_0_W_&amp;title=Gemini+9A" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_52_N_75_0_W_&amp;title=Gemini+9A" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°52′N 75°0′W"><span class="latitude">27°52′N</span> <span class="longitude">75°0′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.867 -75"><span class="latitude">27.867</span>, <span class="longitude">-75</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 9A</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Wasp_%28CV-18%29_db56.html" title="USS Wasp (CV-18)">USS <i>Wasp</i> (CVS-18)</a></td><td>0.7&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_10.html" title="Gemini 10">Gemini 10</a></td><td>July 21, 1966</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=26_45_N_71_57_W_&amp;title=Gemini+10" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=26_45_N_71_57_W_&amp;title=Gemini+10" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 26°45′N 71°57′W"><span class="latitude">26°45′N</span> <span class="longitude">71°57′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 26.75 -71.95"><span class="latitude">26.75</span>, <span class="longitude">-71.95</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 10</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Guadalcanal_%28LPH-7%29_e22a.html" title="USS Guadalcanal (LPH-7)">USS&#160;<i>Guadalcanal</i>&#160;(LPH-7)</a></td><td>6&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_11.html" title="Gemini 11">Gemini 11</a></td><td>September 15, 1966</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_15_N_70_0_W_&amp;title=Gemini+11" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_15_N_70_0_W_&amp;title=Gemini+11" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 24°15′N 70°0′W"><span class="latitude">24°15′N</span> <span class="longitude">70°0′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 24.25 -70"><span class="latitude">24.25</span>, <span class="longitude">-70</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 11</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Guam_%28LPH-9%29_b6f4.html" title="USS Guam (LPH-9)">USS&#160;<i>Guam</i>&#160;(LPH-9)</a></td><td>5&#160;km</td></tr><tr><td><a href="../../../../articles/g/e/m/Gemini_12.html" title="Gemini 12">Gemini 12</a></td><td>November 15, 1966</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_35_N_69_57_W_&amp;title=Gemini+12" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_35_N_69_57_W_&amp;title=Gemini+12" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 24°35′N 69°57′W"><span class="latitude">24°35′N</span> <span class="longitude">69°57′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 24.583 -69.95"><span class="latitude">24.583</span>, <span class="longitude">-69.95</span></span><span style="display:none">﻿ (<span class="fn org">Gemini 12</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Wasp_%28CV-18%29_db56.html" title="USS Wasp (CV-18)">USS <i>Wasp</i> (CVS-18)</a></td><td>5&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_1.html" title="Apollo 1">Apollo 1</a></td><td>March 7, 1967</td><td>Planned N of Puerto Rico</td><td><a href="../../../../articles/u/s/s/USS_Essex_%28CV-9%29_cdc4.html" title="USS Essex (CV-9)">USS <i>Essex</i> (CVS-9)**</a></td><td>Planned</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_7.html" title="Apollo 7">Apollo 7</a></td><td>October 22, 1968</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_32_N_64_04_W_&amp;title=Apollo+7" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_32_N_64_04_W_&amp;title=Apollo+7" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°32′N 64°04′W"><span class="latitude">27°32′N</span> <span class="longitude">64°04′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 27.533 -64.067"><span class="latitude">27.533</span>, <span class="longitude">-64.067</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 7</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Essex_%28CV-9%29_cdc4.html" title="USS Essex (CV-9)">USS <i>Essex</i> (CVS-9)</a></td><td>3&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_8.html" title="Apollo 8">Apollo 8</a></td><td>December 27, 1968</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=8_7.5_N_165_1.2_W_&amp;title=Apollo+8" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=8_7.5_N_165_1.2_W_&amp;title=Apollo+8" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 8°7.5′N 165°1.2′W"><span class="latitude">8°7.5′N</span> <span class="longitude">165°1.2′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 8.125 -165.02"><span class="latitude">8.125</span>, <span class="longitude">-165.02</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 8</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Yorktown_%28CV-10%29_3506.html" title="USS Yorktown (CV-10)">USS <i>Yorktown</i> (CVS-10)</a></td><td>2&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_9.html" title="Apollo 9">Apollo 9</a></td><td>March 13, 1969</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=23_15_N_67_56_W_&amp;title=Apollo+9" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=23_15_N_67_56_W_&amp;title=Apollo+9" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 23°15′N 67°56′W"><span class="latitude">23°15′N</span> <span class="longitude">67°56′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 23.25 -67.933"><span class="latitude">23.25</span>, <span class="longitude">-67.933</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 9</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Guadalcanal_%28LPH-7%29_e22a.html" title="USS Guadalcanal (LPH-7)">USS&#160;<i>Guadalcanal</i>&#160;(LPH-7)</a></td><td>5&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_10.html" title="Apollo 10">Apollo 10</a></td><td>May 26, 1969</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=15_2_S_164_39_W_&amp;title=Apollo+10" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=15_2_S_164_39_W_&amp;title=Apollo+10" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 15°2′S 164°39′W"><span class="latitude">15°2′S</span> <span class="longitude">164°39′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -15.033 -164.65"><span class="latitude">-15.033</span>, <span class="longitude">-164.65</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 10</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Princeton_%28CV-37%29_8417.html" title="USS Princeton (CV-37)">USS <i>Princeton</i> (CVS-37)</a></td><td>2.4&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_11.html" title="Apollo 11">Apollo 11</a></td><td>July 24, 1969</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=13_19_N_169_9_W_&amp;title=Apollo+11" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=13_19_N_169_9_W_&amp;title=Apollo+11" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 13°19′N 169°9′W"><span class="latitude">13°19′N</span> <span class="longitude">169°9′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 13.317 -169.15"><span class="latitude">13.317</span>, <span class="longitude">-169.15</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 11</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Hornet_%28CV-12%29_2e5b.html" title="USS Hornet (CV-12)">USS <i>Hornet</i> (CVS-12)</a></td><td>3.1&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_12.html" title="Apollo 12">Apollo 12</a></td><td>November 24, 1969</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=15_47_S_165_9_W_&amp;title=Apollo+12" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=15_47_S_165_9_W_&amp;title=Apollo+12" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 15°47′S 165°9′W"><span class="latitude">15°47′S</span> <span class="longitude">165°9′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -15.783 -165.15"><span class="latitude">-15.783</span>, <span class="longitude">-165.15</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 12</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Hornet_%28CV-12%29_2e5b.html" title="USS Hornet (CV-12)">USS <i>Hornet</i> (CVS-12)</a></td><td>3.7&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_13.html" title="Apollo 13">Apollo 13</a></td><td>April 17, 1970</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_38_24_S_165_21_42_W_&amp;title=Apollo+13" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_38_24_S_165_21_42_W_&amp;title=Apollo+13" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 21°38′24″S 165°21′42″W"><span class="latitude">21°38′24″S</span> <span class="longitude">165°21′42″W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -21.64 -165.36167"><span class="latitude">-21.64</span>, <span class="longitude">-165.36167</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 13</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Iwo_Jima_%28LPH-2%29_619f.html" title="USS Iwo Jima (LPH-2)">USS&#160;<i>Iwo Jima</i>&#160;(LPH-2)</a></td><td>1.9&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_14.html" title="Apollo 14">Apollo 14</a></td><td>February 9, 1971</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_1_S_172_39_W_&amp;title=Apollo+14" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=27_1_S_172_39_W_&amp;title=Apollo+14" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 27°1′S 172°39′W"><span class="latitude">27°1′S</span> <span class="longitude">172°39′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -27.017 -172.65"><span class="latitude">-27.017</span>, <span class="longitude">-172.65</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 14</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_New_Orleans_%28LPH-11%29_fcc3.html" title="USS New Orleans (LPH-11)">USS&#160;<i>New Orleans</i>&#160;(LPH-11)</a></td><td>1.1&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_15.html" title="Apollo 15">Apollo 15</a></td><td>August 7, 1971</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=26_7_N_158_8_W_&amp;title=Apollo+15" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=26_7_N_158_8_W_&amp;title=Apollo+15" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 26°7′N 158°8′W"><span class="latitude">26°7′N</span> <span class="longitude">158°8′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 26.117 -158.133"><span class="latitude">26.117</span>, <span class="longitude">-158.133</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 15</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Okinawa_%28LPH-3%29_8fed.html" title="USS Okinawa (LPH-3)">USS&#160;<i>Okinawa</i>&#160;(LPH-3)</a></td><td>1.9&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_16.html" title="Apollo 16">Apollo 16</a></td><td>April 27, 1972</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=0_45_S_156_13_W_&amp;title=Apollo+16" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=0_45_S_156_13_W_&amp;title=Apollo+16" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 0°45′S 156°13′W"><span class="latitude">0°45′S</span> <span class="longitude">156°13′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -0.75 -156.217"><span class="latitude">-0.75</span>, <span class="longitude">-156.217</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 16</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Ticonderoga_%28CV-14%29_ab3b.html" title="USS Ticonderoga (CV-14)">USS <i>Ticonderoga</i> (CVS-14)</a></td><td>5.6&#160;km</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_17.html" title="Apollo 17">Apollo 17</a></td><td>December 19, 1972</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=17_53_S_166_7_W_&amp;title=Apollo+17" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=17_53_S_166_7_W_&amp;title=Apollo+17" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 17°53′S 166°7′W"><span class="latitude">17°53′S</span> <span class="longitude">166°7′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for -17.883 -166.117"><span class="latitude">-17.883</span>, <span class="longitude">-166.117</span></span><span style="display:none">﻿ (<span class="fn org">Apollo 17</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Ticonderoga_%28CV-14%29_ab3b.html" title="USS Ticonderoga (CV-14)">USS <i>Ticonderoga</i> (CVS-14)</a></td><td>1.9&#160;km</td></tr><tr><td><a href="../../../../articles/s/k/y/Skylab_2.html" title="Skylab 2">Skylab 2</a></td><td>June 22, 1973</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_45_N_127_2_W_&amp;title=Skylab+2" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=24_45_N_127_2_W_&amp;title=Skylab+2" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 24°45′N 127°2′W"><span class="latitude">24°45′N</span> <span class="longitude">127°2′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 24.75 -127.033"><span class="latitude">24.75</span>, <span class="longitude">-127.033</span></span><span style="display:none">﻿ (<span class="fn org">Skylab 2</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_Ticonderoga_%28CV-14%29_ab3b.html" title="USS Ticonderoga (CV-14)">USS <i>Ticonderoga</i> (CVS-14)</a></td><td>9.6&#160;km</td></tr><tr><td><a href="../../../../articles/s/k/y/Skylab_3.html" title="Skylab 3">Skylab 3</a></td><td>September 25, 1973</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=30_47_N_120_29_W_&amp;title=Skylab+3" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=30_47_N_120_29_W_&amp;title=Skylab+3" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 30°47′N 120°29′W"><span class="latitude">30°47′N</span> <span class="longitude">120°29′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 30.783 -120.483"><span class="latitude">30.783</span>, <span class="longitude">-120.483</span></span><span style="display:none">﻿ (<span class="fn org">Skylab 3</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_New_Orleans_%28LPH-11%29_fcc3.html" title="USS New Orleans (LPH-11)">USS&#160;<i>New Orleans</i>&#160;(LPH-11)</a></td><td>8&#160;km?</td></tr><tr><td><a href="../../../../articles/s/k/y/Skylab_4.html" title="Skylab 4">Skylab 4</a></td><td>February 8, 1974</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=31_18_N_119_48_W_&amp;title=Skylab+4" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=31_18_N_119_48_W_&amp;title=Skylab+4" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 31°18′N 119°48′W"><span class="latitude">31°18′N</span> <span class="longitude">119°48′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 31.3 -119.8"><span class="latitude">31.3</span>, <span class="longitude">-119.8</span></span><span style="display:none">﻿ (<span class="fn org">Skylab 4</span>)</span></span></span></a></span></td><td><a href="../../../../articles/u/s/s/USS_New_Orleans_%28LPH-11%29_fcc3.html" title="USS New Orleans (LPH-11)">USS&#160;<i>New Orleans</i>&#160;(LPH-11)</a></td><td>8&#160;km?</td></tr><tr><td><a href="../../../../articles/a/p/o/Apollo_Soyuz_Test_Project_bf38.html" class="mw-redirect" title="Apollo Soyuz Test Project">ASTP Apollo</a></td><td>July 24, 1975</td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_52_N_162_45_W_&amp;title=ASTP+Apollo%5D" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Splashdown_(spacecraft_landing)&amp;params=21_52_N_162_45_W_&amp;title=ASTP+Apollo%5D" rel="nofollow"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for 21°52′N 162°45′W"><span class="latitude">21°52′N</span> <span class="longitude">162°45′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="vcard"><span class="geo-dec geo" title="Maps, aerial photos, and other data for 21.867 -162.75"><span class="latitude">21.867</span>, <span class="longitude">-162.75</span></span><span style="display:none">﻿ (<span class="fn org">ASTP Apollo</span></span></span></span></a></span>)]</td><td><a href="../../../../articles/u/s/s/USS_New_Orleans_%28LPH-11%29_fcc3.html" title="USS New Orleans (LPH-11)">USS&#160;<i>New Orleans</i>&#160;(LPH-11)</a></td><td>7.3&#160;km</td></tr><tr><td><a href="../../../../articles/s/o/y/Soyuz_23.html" title="Soyuz 23">Soyuz 23</a></td><td>October 16, 1976</td><td><a href="../../../../articles/l/a/k/Lake_Tengiz_e2b6.html" title="Lake Tengiz">Lake Tengiz</a></td><td>Helicopter <a href="../../../../articles/m/i/-/Mi-8.html" class="mw-redirect" title="Mi-8">Mi-8</a></td><td>Not intended to land in water</td></tr></table>]]>
+</htmlSnippet>
+</entity>

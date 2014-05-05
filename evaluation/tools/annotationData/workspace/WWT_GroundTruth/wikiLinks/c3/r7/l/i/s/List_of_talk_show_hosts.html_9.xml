@@ -1,0 +1,52 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_yagoActorGeo_1" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Pat_Kenny</entity>
+<entity>Ireland</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Craig_Kilborn</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Jimmy_Kimmel</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Larry_King</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Zaven_Kouyoumdjian</entity>
+<entity>Lebanon</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Jeremy_Kyle</entity>
+<entity>United_Kingdom</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Jim_Kaiser</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

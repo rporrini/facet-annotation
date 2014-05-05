@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/h/l/a/Hladno_pivo.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 2, 0.75 0 3, 0.65625 2 3, 0.53571427 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/h/l/a/Hladno_pivo.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Released</th>]]></html>
+	<text>Released</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Recording studio</th>]]></html>
+	<text>Recording studio</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Publisher</th>]]></html>
+	<text>Publisher</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Džinovski</td>]]></html>
+	<text>D&#382;inovski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In March 1993</td>]]></html>
+	<text>In March 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Best studio</td>]]></html>
+	<text>Best studio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Croatia Records</td>]]></html>
+	<text>Croatia Records</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>G.A.D.</td>]]></html>
+	<text>G.A.D.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In May 1995</td>]]></html>
+	<text>In May 1995</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oktava - digital</td>]]></html>
+	<text>Oktava - digital</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>T.R.I.P. records / Croatia Records</td>]]></html>
+	<text>T.R.I.P. records / Croatia Records</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Desetka</td>]]></html>
+	<text>Desetka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997</td>]]></html>
+	<text>1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jabukaton</td>]]></html>
+	<text>Jabukaton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pobjeda</td>]]></html>
+	<text>Pobjeda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999</td>]]></html>
+	<text>1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gajba Records</td>]]></html>
+	<text>Gajba Records</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dancing Bear</td>]]></html>
+	<text>Dancing Bear</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Istočno od Gajnica</td>]]></html>
+	<text>Isto&#269;no od Gajnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Live concert</td>]]></html>
+	<text>Live concert</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dancing Bear</td>]]></html>
+	<text>Dancing Bear</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Šamar</td>]]></html>
+	<text>&#352;amar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dancing Bear</td>]]></html>
+	<text>Dancing Bear</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Knjiga žalbe</td>]]></html>
+	<text>Knjiga &#382;albe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2007</td>]]></html>
+	<text>2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Menart</td>]]></html>
+	<text>Menart</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Hladno pivo - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Released Recording studio Publisher</text>
+</context>
+<context>
+	<score>0.8797284</score>
+	<text>[ edit ] Discography</text>
+</context>
+<context>
+	<score>0.7887336</score>
+	<text>Hladno pivo</text>
+</context>
+<context>
+	<score>0.7779813</score>
+	<text>Hladno Pivo performs at the EXIT (festival) .</text>
+</context>
+<context>
+	<score>0.7450632</score>
+	<text>[ edit ] Awards</text>
+</context>
+<context>
+	<score>0.7142482</score>
+	<text>[ edit ] Early history</text>
+</context>
+<context>
+	<score>0.7142482</score>
+	<text>[ edit ] Road to fame</text>
+</context>
+<context>
+	<score>0.7142482</score>
+	<text>[ edit ] Discography</text>
+</context>
+<context>
+	<score>0.7142482</score>
+	<text>[ edit ] Awards</text>
+</context>
+<context>
+	<score>0.7142482</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.70733607</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.69658375</score>
+	<text>After the December 12 1998 concert in Celje , Slovenia, Had o left the band, and was replaced by okec (bass guitar). In 1999 Suba had to do his military service and was temporary replaced with Matko from Makarska , Croatia. Their fourth album Pobjeda was recorded from August 16 till August 23 1999, this time under Gajba Records in collaboration with Dancing Bear . Gajba Records was founded because of the band&apos;s need to have a better control of the recording of the album. The band had two new members: Stipe ( trumpet ) from Makarska , Croatia and Milko ( keyboards ).</text>
+</context>
+<context>
+	<score>0.6314656</score>
+	<text>On October 11 1994 Hladno pivo performed in Dom sportova , Tre njevka opening for the Ramones . In February 1995 the band records their second album called G.A.D. under T.R.I.P. records - Croatia Records . The album G.A.D. appeared on the market in May 1995. On January 19 1996 Hladno pivo held a concert in Skopje , Republic of Macedonia . In March 1997 the bend chose Jabukaton from Ljubljana, Slovenia as their recording studio and recorded their third album Desetka .</text>
+</context>
+<context>
+	<score>0.5910344</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.57937115</score>
+	<text>D inovski was published in 1993 and was a hit. After D inovski , Hladno pivo held about ten concerts in Croatia and Slovenia. In June 1993 Tedi left the band and was replaced by Had o. After that the band started practising a lot. While they were preparing for their next album, they held about 40 concerts across Croatia, Slovenia and a concert in Bregenz , Austria . In 1993 Hladno pivo was awarded with the Porin music award for best alternative rock album.</text>
+</context>
+<context>
+	<score>0.5376956</score>
+	<text>Soon after Hladno pivo held their concerts in KSET and Video-teatar, they were accepted by the public. They soon recorded a music video of the song &quot;Buba vabe&quot; (remake of Toy Dolls &apos; song &quot; Spiders in the Dressing Room &quot;) in Mile&apos;s house for 200 German marks . This music video was broadcast as a part of a television music show called Hit-depo in April of 1992. This allowed the band to be introduced to whole of Croatia . The same year A. Draga and T. unji offered the band to make a record as T.R.I.P. records. T.R.I.P. records had in that time negotiated with Croatia Records . The result of the collaboration was the T.R.I.P. zone compilation where Hladno pivo appeared with two songs. On December 17 1992 in Ljubljana , Slovenia Hladno pivo opened for KUD Idijoti . The band also appeared on the Tivoli festival with Dr. Nelet Karajli and his fraction of Zabranjeno pu enje . The same year in November the band makes its first album - D inovski at the Best Music studio, in Vrbik, Zagreb .</text>
+</context>
+<context>
+	<score>0.5043551</score>
+	<text>[ edit ] Road to fame</text>
+</context>
+<context>
+	<score>0.5004292</score>
+	<text>Official site Unofficial site</text>
+</context>
+<context>
+	<score>0.47768274</score>
+	<text>When they returned from military service in 1990 they started playing again. The result were songs: &quot;Princeza&quot;, &quot;Heroin&quot;, &quot;Dobro ve e&quot;, &quot;Trening za umiranje&quot;, &quot;Buba vabe&quot;, &quot;Zakaj se tak&apos; obla i &quot;, &quot;Pjevajte ne to ljubavno&quot;. These songs were recorded at Denis (a.k.a. Denyken) in Sopot , Zagreb . These songs, along with modified &quot;Marginalci&quot; were published as a cassette in production of Megatherium rec.</text>
+</context>
+<context>
+	<score>0.45634484</score>
+	<text>In 1989 Stipe left the band. This year was also important because Zok, Tedi, Suba and Mile recorded their first demo . The demo consisted of six songs: &quot;F r immer Punk&quot; (a Goldene Zitronen cover), &quot;Bonzo&quot;, &quot;Savr eni marginalci&quot;, &quot;Niemals&quot;, &quot;Buntovnik&quot; and &quot; eli ne zavjese&quot;. The demo was recorded at Jozo in Tre njevka , Zagreb . One week later, Mile and Zok were sent to do their military service.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="font-size:95%"><tr><th>Title</th><th>Released</th><th>Recording studio</th><th>Publisher</th></tr><tr><td><center><i><b><a href="../../../../articles/d/%C5%BE/i/D%C5%BEinovski.html" title="Džinovski">Džinovski</a></b></i></center></td><td><center>In March 1993</center></td><td><center><i>Best studio</i></center></td><td><center><i><a href="../../../../articles/c/r/o/Croatia_Records_f74a.html" title="Croatia Records">Croatia Records</a></i></center></td></tr><tr><td><center><i><b><a href="../../../../articles/g/2E/a/G.A.D._d229.html" title="G.A.D.">G.A.D.</a></b></i></center></td><td><center>In May 1995</center></td><td><center><i>Oktava - digital</i></center></td><td><center><i>T.R.I.P. records</i> / <i><a href="../../../../articles/c/r/o/Croatia_Records_f74a.html" title="Croatia Records">Croatia Records</a></i></center></td></tr><tr><td><center><i><b><a href="../../../../articles/d/e/s/Desetka.html" title="Desetka">Desetka</a></b></i></center></td><td><center>1997</center></td><td><center><i>Jabukaton</i></center></td><td></td></tr><tr><td><center><i><b><a href="../../../../articles/p/o/b/Pobjeda_%28album%29.html" title="Pobjeda (album)">Pobjeda</a></b></i></center></td><td><center>1999</center></td><td><center><i>Gajba Records</i></center></td><td><center><i>Dancing Bear</i></center></td></tr><tr><td><center><i><b><a href="../../../../articles/i/s/t/Isto%C4%8Dno_od_Gajnica_6f30.html" title="Istočno od Gajnica">Istočno od Gajnica</a></b></i></center></td><td><center>2000</center></td><td><center><i><a href="../../../../articles/l/i/v/Live_concert.html" class="mw-redirect" title="Live concert">Live concert</a></i></center></td><td><center><i>Dancing Bear</i></center></td></tr><tr><td><center><i><b><a href="../../../../articles/%C5%A1/a/m/%C5%A0amar.html" title="Šamar">Šamar</a></b></i></center></td><td><center>2003</center></td><td></td><td><center><i>Dancing Bear</i></center></td></tr><tr><td><center><i><b><a href="../../../../articles/k/n/j/Knjiga_%C5%BEalbe.html" title="Knjiga žalbe">Knjiga žalbe</a></b></i></center></td><td><center>2007</center></td><td></td><td><center><i>Menart</i></center></td></tr></table>]]>
+</htmlSnippet>
+</entity>

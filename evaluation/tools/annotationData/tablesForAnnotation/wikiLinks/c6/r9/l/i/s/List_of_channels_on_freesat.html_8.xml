@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r9/l/i/s/List_of_channels_on_freesat.html_8.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 1 3, 0.8333333 1 4, 0.75 1 5, 0.13333334 0, 0.13333334 0 1, 0.12222223 0 3, 0.11111111 0 4, 0.10185186 3, 0.10000001 0 5, 0.09259259 4, 0.084876545 3 4, 0.083333336 5, 0.07638889 3 5, 0.06944445 4 5, 0.058333334 1 2, 0.007777778 0 2, 0.0064814817 2, 0.0059413584 2 3, 0.0054012346 2 4, 0.0048611113 2 5, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_channels_on_freesat.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG No.</th>]]></html>
+	<text>EPG No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel Name</th>]]></html>
+	<text>Channel Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Owner/parent company</th>]]></html>
+	<text>Owner/parent company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast hours</th>]]></html>
+	<text>Broadcast hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast format</th>]]></html>
+	<text>Broadcast format</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>950</td>]]></html>
+	<text>950</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 London</td>]]></html>
+	<text>BBC 1 London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>951</td>]]></html>
+	<text>951</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 CI</td>]]></html>
+	<text>BBC 1 CI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>954</td>]]></html>
+	<text>954</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 East (W)</td>]]></html>
+	<text>BBC 1 East (W)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>957</td>]]></html>
+	<text>957</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 NI</td>]]></html>
+	<text>BBC 1 NI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>960</td>]]></html>
+	<text>960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 Scotland</td>]]></html>
+	<text>BBC 1 Scotland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>964</td>]]></html>
+	<text>964</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 1 Wales</td>]]></html>
+	<text>BBC 1 Wales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>969</td>]]></html>
+	<text>969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 2 NI</td>]]></html>
+	<text>BBC 2 NI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>970</td>]]></html>
+	<text>970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 2 Scotland</td>]]></html>
+	<text>BBC 2 Scotland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>971</td>]]></html>
+	<text>971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC 2 W</td>]]></html>
+	<text>BBC 2 W</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of channels on freesat - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours Broadcast format</text>
+</context>
+<context>
+	<score>0.88037145</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.7853596</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.78064734</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7483837</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7106068</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.7055804</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7008681</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.6370448</score>
+	<text>16:9 SDTV</text>
+</context>
+<context>
+	<score>0.5974174</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.5809597</score>
+	<text>24 Hours</text>
+</context>
+<context>
+	<score>0.5401127</score>
+	<text>Education Digital Ltd</text>
+</context>
+<context>
+	<score>0.5086137</score>
+	<text>^ freesat - What&apos;s On ^ Freesat: Channel Lineup</text>
+</context>
+<context>
+	<score>0.4812931</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours Broadcast format</text>
+</context>
+<context>
+	<score>0.46540588</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.45637625</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours sortable" border="1" cellpadding="3" style="border-collapse:collapse; font-size: 90%; text-align:center" width="100%"><tr><th>EPG No.</th><th>Channel Name</th><th>Notes</th><th>Owner/parent company</th><th>Broadcast hours</th><th>Broadcast format</th></tr><tr><td>950</td><td><a href="../../../../articles/b/b/c/BBC_One_5f6f.html" title="BBC One">BBC 1 London</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>951</td><td><a href="../../../../articles/b/b/c/BBC_One_5f6f.html" title="BBC One">BBC 1 CI</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>954</td><td><a href="../../../../articles/b/b/c/BBC_One_5f6f.html" title="BBC One">BBC 1 East (W)</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>957</td><td><a href="../../../../articles/b/b/c/BBC_One_Northern_Ireland_0e4b.html" title="BBC One Northern Ireland">BBC 1 NI</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>960</td><td><a href="../../../../articles/b/b/c/BBC_One_Scotland_aeb7.html" title="BBC One Scotland">BBC 1 Scotland</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>964</td><td><a href="../../../../articles/b/b/c/BBC_One_Wales_7989.html" title="BBC One Wales">BBC 1 Wales</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>969</td><td><a href="../../../../articles/b/b/c/BBC_Two_Northern_Ireland_acb0.html" title="BBC Two Northern Ireland">BBC 2 NI</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>970</td><td><a href="../../../../articles/b/b/c/BBC_Two_Scotland_0998.html" title="BBC Two Scotland">BBC 2 Scotland</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>971</td><td><a href="../../../../articles/b/b/c/BBC_2W_3033.html" title="BBC 2W">BBC 2 W</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

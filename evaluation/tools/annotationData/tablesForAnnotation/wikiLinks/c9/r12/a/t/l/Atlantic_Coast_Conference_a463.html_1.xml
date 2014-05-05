@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r12/a/t/l/Atlantic_Coast_Conference_a463.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 1, 0.9444444 0 1, 0.8888889 2, 0.8888889 0 2, 0.83950615 1 2, 0.8333333 0 5, 0.787037 1 5, 0.7407407 2 5, 0.20833333 5, 0.15555556 3, 0.15555556 0 3, 0.14691357 1 3, 0.14444445 0 4, 0.13827161 2 3, 0.13641976 1 4, 0.13333334 6, 0.13333334 0 6, 0.12962963 3 5, 0.12839507 2 4, 0.12592593 1 6, 0.12222222 0 7, 0.118518524 2 6, 0.1154321 1 7, 0.11111112 0 8, 0.11111112 5 6, 0.108641975 2 7, 0.10493827 1 8, 0.09876544 2 8, 0.0925926 8, 0.0925926 5 8, 0.09166667 7, 0.08487654 5 7, 0.07021605 4 5, 0.060185187 4, 0.022469137 3 4, 0.020740742 3 6, 0.019259261 4 6, 0.019012347 3 7, 0.017283952 3 8, 0.016296297 6 7, 0.016183129 4 7, 0.016049383 4 8, 0.014814816 6 8, 0.013580248 7 8, " />
+<meta name="parentHTMLDoc" value="en/articles/a/t/l/Atlantic_Coast_Conference_a463.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nickname</th>]]></html>
+	<text>Nickname</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Founded</th>]]></html>
+	<text>Founded</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Joined ACC</th>]]></html>
+	<text>Joined ACC</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>School Type</th>]]></html>
+	<text>School Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Undergraduate Enrollment</th>]]></html>
+	<text>Undergraduate Enrollment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Varsity Sports</th>]]></html>
+	<text>Varsity Sports</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>NCAA Championships</th>]]></html>
+	<text>NCAA Championships</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boston College</td>]]></html>
+	<text>Boston College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eagles</td>]]></html>
+	<text>Eagles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chestnut Hill, Massachusetts</td>]]></html>
+	<text>Chestnut Hill, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1863</td>]]></html>
+	<text>1863</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Jesuit</td>]]></html>
+	<text>Private/Jesuit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,019</td>]]></html>
+	<text>9,019</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clemson University</td>]]></html>
+	<text>Clemson University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tigers</td>]]></html>
+	<text>Tigers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clemson, South Carolina</td>]]></html>
+	<text>Clemson, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1889</td>]]></html>
+	<text>1889</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,959</td>]]></html>
+	<text>13,959</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Duke University</td>]]></html>
+	<text>Duke University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blue Devils</td>]]></html>
+	<text>Blue Devils</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Durham, North Carolina</td>]]></html>
+	<text>Durham, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1838</td>]]></html>
+	<text>1838</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Non-Sectarian</td>]]></html>
+	<text>Private/Non-Sectarian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,259</td>]]></html>
+	<text>6,259</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida State University</td>]]></html>
+	<text>Florida State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seminoles</td>]]></html>
+	<text>Seminoles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tallahassee, Florida</td>]]></html>
+	<text>Tallahassee, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1851</td>]]></html>
+	<text>1851</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,058</td>]]></html>
+	<text>31,058</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia Tech</td>]]></html>
+	<text>Georgia Tech</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellow Jackets</td>]]></html>
+	<text>Yellow Jackets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlanta, Georgia</td>]]></html>
+	<text>Atlanta, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1885</td>]]></html>
+	<text>1885</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1979</td>]]></html>
+	<text>1979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,360</td>]]></html>
+	<text>12,360</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Maryland</td>]]></html>
+	<text>University of Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Terrapins</td>]]></html>
+	<text>Terrapins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>College Park, Maryland</td>]]></html>
+	<text>College Park, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1856</td>]]></html>
+	<text>1856</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24,876</td>]]></html>
+	<text>24,876</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Miami</td>]]></html>
+	<text>University of Miami</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hurricanes</td>]]></html>
+	<text>Hurricanes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coral Gables, Florida</td>]]></html>
+	<text>Coral Gables, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1925</td>]]></html>
+	<text>1925</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Non-Sectarian</td>]]></html>
+	<text>Private/Non-Sectarian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,132</td>]]></html>
+	<text>10,132</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of North Carolina at Chapel Hill</td>]]></html>
+	<text>University of North Carolina at Chapel Hill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tar Heels</td>]]></html>
+	<text>Tar Heels</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chapel Hill, North Carolina</td>]]></html>
+	<text>Chapel Hill, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1789</td>]]></html>
+	<text>1789</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,278</td>]]></html>
+	<text>16,278</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina State University</td>]]></html>
+	<text>North Carolina State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wolfpack</td>]]></html>
+	<text>Wolfpack</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raleigh, North Carolina</td>]]></html>
+	<text>Raleigh, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1887</td>]]></html>
+	<text>1887</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22,879</td>]]></html>
+	<text>22,879</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Virginia</td>]]></html>
+	<text>University of Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cavaliers</td>]]></html>
+	<text>Cavaliers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlottesville, Virginia</td>]]></html>
+	<text>Charlottesville, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1819</td>]]></html>
+	<text>1819</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,387</td>]]></html>
+	<text>13,387</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia Tech</td>]]></html>
+	<text>Virginia Tech</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hokies</td>]]></html>
+	<text>Hokies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blacksburg, Virginia</td>]]></html>
+	<text>Blacksburg, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1872</td>]]></html>
+	<text>1872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21,937</td>]]></html>
+	<text>21,937</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wake Forest University</td>]]></html>
+	<text>Wake Forest University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Demon Deacons</td>]]></html>
+	<text>Demon Deacons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winston-Salem, North Carolina</td>]]></html>
+	<text>Winston-Salem, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1834</td>]]></html>
+	<text>1834</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Non-Sectarian</td>]]></html>
+	<text>Private/Non-Sectarian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,231</td>]]></html>
+	<text>4,231</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Atlantic Coast Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Nickname Location Founded Joined ACC School Type Undergraduate Enrollment Varsity Sports NCAA Championships</text>
+</context>
+<context>
+	<score>0.8813559</score>
+	<text>[ edit ] Members</text>
+</context>
+<context>
+	<score>0.79023564</score>
+	<text>Atlantic Coast Conference</text>
+</context>
+<context>
+	<score>0.7843862</score>
+	<text>[ edit ] Commissioners</text>
+</context>
+<context>
+	<score>0.75301373</score>
+	<text>In Division I FBS, football is the only sport for which the NCAA does not sponsor a championship. Championships sponsored by various third parties, such as the Bowl Championship Series and Associated Press are not included in the table.</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Commissioners</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Members</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Facilities</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Current Champions</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Baseball</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Basketball</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Field Hockey</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Football</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Golf</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Lacrosse</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Soccer</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71265996</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70681053</score>
+	<text>In 1971, the ACC lost a member in the University of South Carolina , now a member of the Southeastern Conference . The ACC operated with seven members until the addition of former Southeastern Conference member Georgia Tech from the Metro Conference on April 3 , 1978 . The addition of Florida State , also from the Metro Conference, on July 1 , 1991 , brought the total to nine. The ACC added three members from the Big East during the 2003 cycle of conference realignment: Miami and Virginia Tech joined on July 1 , 2004 , and Boston College joined on July 1 , 2005 , as the league&apos;s twelfth member and first from New England . The expansion was not without controversy, as Connecticut , Rutgers , Pittsburgh , and West Virginia (and, initially, Virginia Tech) filed lawsuits against the ACC and against Miami and Boston College for conspiring to weaken the Big East .</text>
+</context>
+<context>
+	<score>0.6447499</score>
+	<text>Charter members of the ACC were Clemson , Duke , Maryland , North Carolina , North Carolina State , South Carolina , and Wake Forest . The seven ACC charter members had been aligned with the Southern Conference , but left primarily due to the league&apos;s ban on postseason play. After drafting a set of bylaws for the creation of a new league, they formally withdrew from the Southern Conference at the Spring Meeting on the morning of May 8 , 1953 . The bylaws were ratified and the ACC officially came into existence on June 14 , 1953 . On December 4 , 1953 , officials convened in Greensboro , North Carolina , and admitted Virginia into the conference.</text>
+</context>
+<context>
+	<score>0.60621697</score>
+	<text>[ edit ] Facilities</text>
+</context>
+<context>
+	<score>0.59510136</score>
+	<text>[ edit ] History See also: ACC-Big East Realignment</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52360755</score>
+	<text>The Atlantic Coast Conference (ACC) is a collegiate athletic league in the United States . Founded in 1953, the ACC&apos;s twelve member universities compete in twenty sports in the NCAA&apos;s Division I . Football teams participate in the Division I Football Bowl Subdivision (FBS), the higher of two levels of Division I college football .</text>
+</context>
+<context>
+	<score>0.519866</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.504037</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.483701</score>
+	<text>Atlantic Coast Conference</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Member universities compete in the following sports:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align: center;"><tr><th width="280">School</th><th width="110">Nickname</th><th width="200">Location</th><th>Founded</th><th>Joined ACC</th><th>School Type</th><th>Undergraduate Enrollment</th><th>Varsity Sports</th><th>NCAA Championships</th></tr><tr><td><a href="../../../../articles/b/o/s/Boston_College_ba3b.html" title="Boston College">Boston College</a></td><td><a href="../../../../articles/b/o/s/Boston_College_Eagles_800a.html" title="Boston College Eagles">Eagles</a></td><td><a href="../../../../articles/c/h/e/Chestnut_Hill%2C_Massachusetts_75f8.html" title="Chestnut Hill, Massachusetts">Chestnut Hill, Massachusetts</a></td><td>1863</td><td>2005</td><td>Private/Jesuit</td><td>9,019</td><td>31</td><td>3</td></tr><tr><td><a href="../../../../articles/c/l/e/Clemson_University_7d0f.html" title="Clemson University">Clemson University</a></td><td><a href="../../../../articles/c/l/e/Clemson_Tigers_1ab5.html" title="Clemson Tigers">Tigers</a></td><td><a href="../../../../articles/c/l/e/Clemson%2C_South_Carolina_6bd3.html" title="Clemson, South Carolina">Clemson, South Carolina</a></td><td>1889</td><td>1953</td><td>Public</td><td>13,959</td><td>19</td><td>3</td></tr><tr><td><a href="../../../../articles/d/u/k/Duke_University_c8f9.html" title="Duke University">Duke University</a></td><td><a href="../../../../articles/d/u/k/Duke_Blue_Devils_d7b9.html" title="Duke Blue Devils">Blue Devils</a></td><td><a href="../../../../articles/d/u/r/Durham%2C_North_Carolina_32ae.html" title="Durham, North Carolina">Durham, North Carolina</a></td><td>1838</td><td>1953</td><td>Private/Non-Sectarian</td><td>6,259</td><td>26</td><td>9</td></tr><tr><td><a href="../../../../articles/f/l/o/Florida_State_University_69d3.html" title="Florida State University">Florida State University</a></td><td><a href="../../../../articles/f/l/o/Florida_State_Seminoles_cc6a.html" title="Florida State Seminoles">Seminoles</a></td><td><a href="../../../../articles/t/a/l/Tallahassee%2C_Florida_a0f0.html" title="Tallahassee, Florida">Tallahassee, Florida</a></td><td>1851</td><td>1991</td><td>Public</td><td>31,058</td><td>17</td><td>9</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_Institute_of_Technology_33f4.html" title="Georgia Institute of Technology">Georgia Tech</a></td><td><a href="../../../../articles/g/e/o/Georgia_Tech_Yellow_Jackets_775f.html" title="Georgia Tech Yellow Jackets">Yellow Jackets</a></td><td><a href="../../../../articles/a/t/l/Atlanta%2C_Georgia_4e3e.html" title="Atlanta, Georgia">Atlanta, Georgia</a></td><td>1885</td><td>1979</td><td>Public</td><td>12,360</td><td>17</td><td>1</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Maryland%2C_College_Park_4efc.html" title="University of Maryland, College Park">University of Maryland</a></td><td><a href="../../../../articles/m/a/r/Maryland_Terrapins_5da7.html" title="Maryland Terrapins">Terrapins</a></td><td><a href="../../../../articles/c/o/l/College_Park%2C_Maryland_4c1b.html" title="College Park, Maryland">College Park, Maryland</a></td><td>1856</td><td>1953</td><td>Public</td><td>24,876</td><td>27</td><td>21</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Miami_4499.html" title="University of Miami">University of Miami</a></td><td><a href="../../../../articles/m/i/a/Miami_Hurricanes_3f9f.html" title="Miami Hurricanes">Hurricanes</a></td><td><a href="../../../../articles/c/o/r/Coral_Gables%2C_Florida_79e2.html" title="Coral Gables, Florida">Coral Gables, Florida</a></td><td>1925</td><td>2004</td><td>Private/Non-Sectarian</td><td>10,132</td><td>17</td><td>5</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_North_Carolina_at_Chapel_Hill_49d1.html" title="University of North Carolina at Chapel Hill">University of North Carolina at Chapel Hill</a></td><td><a href="../../../../articles/n/o/r/North_Carolina_Tar_Heels_a7de.html" title="North Carolina Tar Heels">Tar Heels</a></td><td><a href="../../../../articles/c/h/a/Chapel_Hill%2C_North_Carolina_2de0.html" title="Chapel Hill, North Carolina">Chapel Hill, North Carolina</a></td><td>1789</td><td>1953</td><td>Public</td><td>16,278</td><td>28</td><td>33</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_State_University_da5b.html" title="North Carolina State University">North Carolina State University</a></td><td><a href="../../../../articles/n/c/_/NC_State_Wolfpack_0c26.html" title="NC State Wolfpack">Wolfpack</a></td><td><a href="../../../../articles/r/a/l/Raleigh%2C_North_Carolina_6921.html" title="Raleigh, North Carolina">Raleigh, North Carolina</a></td><td>1887</td><td>1953</td><td>Public</td><td>22,879</td><td>25</td><td>2</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Virginia_2eaf.html" title="University of Virginia">University of Virginia</a></td><td><a href="../../../../articles/v/i/r/Virginia_Cavaliers_0976.html" title="Virginia Cavaliers">Cavaliers</a></td><td><a href="../../../../articles/c/h/a/Charlottesville%2C_Virginia_400c.html" title="Charlottesville, Virginia">Charlottesville, Virginia</a></td><td>1819</td><td>1953</td><td>Public</td><td>13,387</td><td>25</td><td>14</td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia_Polytechnic_Institute_and_State_University_a523.html" title="Virginia Polytechnic Institute and State University">Virginia Tech</a></td><td><a href="../../../../articles/v/i/r/Virginia_Tech_Hokies_b806.html" title="Virginia Tech Hokies">Hokies</a></td><td><a href="../../../../articles/b/l/a/Blacksburg%2C_Virginia_4987.html" title="Blacksburg, Virginia">Blacksburg, Virginia</a></td><td>1872</td><td>2004</td><td>Public</td><td>21,937</td><td>21</td><td>0</td></tr><tr><td><a href="../../../../articles/w/a/k/Wake_Forest_University_d590.html" title="Wake Forest University">Wake Forest University</a></td><td><a href="../../../../articles/w/a/k/Wake_Forest_Demon_Deacons_6898.html" title="Wake Forest Demon Deacons">Demon Deacons</a></td><td><a href="../../../../articles/w/i/n/Winston-Salem%2C_North_Carolina_ae0f.html" title="Winston-Salem, North Carolina">Winston-Salem, North Carolina</a></td><td>1834</td><td>1953</td><td>Private/Non-Sectarian</td><td>4,231</td><td>18</td><td>8</td></tr></table>]]>
+</htmlSnippet>
+</entity>

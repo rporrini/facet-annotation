@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/d/r/i/Drive_(TV_series)_9e5b.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/r/i/Drive_(TV_series)_9e5b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Checkpoint</th>]]></html>
+	<text>Checkpoint</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Clue/Instructions</th>]]></html>
+	<text>Clue/Instructions</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Specifics</th>]]></html>
+	<text>Specifics</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Key West, Florida</td>]]></html>
+	<text>Key West, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Text message: "Mainland Go" (announced the start of the race, not a destination)</td>]]></html>
+	<text>Text message: &amp;quot;Mainland Go&amp;quot; (announced the start of the race, not a destination)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The starting line of the race.</td>]]></html>
+	<text>The starting line of the race.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jupiter, Florida</td>]]></html>
+	<text>Jupiter, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Text message: "Fly to Jupiter and find the red eye."</td>]]></html>
+	<text>Text message: &amp;quot;Fly to Jupiter and find the red eye.&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Jupiter Inlet lighthouse.</td>]]></html>
+	<text>The Jupiter Inlet lighthouse.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cape Canaveral, Florida</td>]]></html>
+	<text>Cape Canaveral, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Text message: "Kennedy killed in '73." The message is accompanied by a countdown clock.</td>]]></html>
+	<text>Text message: &amp;quot;Kennedy killed in &amp;apos;73.&amp;quot; The message is accompanied by a countdown clock.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In 1973, Cape Kennedy was renamed to Cape Canaveral, thus "killing" the name "Kennedy." Drivers met at the Kennedy Space Center, where the countdown corresponded with a shuttle launch.</td>]]></html>
+	<text>In 1973, Cape Kennedy was renamed to Cape Canaveral, thus &amp;quot;killing&amp;quot; the name &amp;quot;Kennedy.&amp;quot; Drivers met at the Kennedy Space Center, where the countdown corresponded with a shuttle launch.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rome, Georgia</td>]]></html>
+	<text>Rome, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Each driver was given a red ticket stub with instructions to go to Rome, "After sunset, before dark."</td>]]></html>
+	<text>Each driver was given a red ticket stub with instructions to go to Rome, &amp;quot;After sunset, before dark.&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>After Sunset drive-in movie theater.</td>]]></html>
+	<text>After Sunset drive-in movie theater.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Appomattox Court House , Virginia</td>]]></html>
+	<text>Appomattox Court House , Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Text message: "Surrender, America"</td>]]></html>
+	<text>Text message: &amp;quot;Surrender, America&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Appomattox Court House was where Confederate general Robert E. Lee surrendered to Union general Ulysses S. Grant , thus ending the Civil War.</td>]]></html>
+	<text>Appomattox Court House was where Confederate general Robert E. Lee surrendered to Union general Ulysses S. Grant , thus ending the Civil War.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cleveland, Ohio</td>]]></html>
+	<text>Cleveland, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Most of the racers received two hot candies, while Alex, Corinna, Sean and Winston, who had taken advantage of their head start, received a note reading "Great Balls of Fire: The Rock 'n' Roll Hall of Fame - Cleveland"</td>]]></html>
+	<text>Most of the racers received two hot candies, while Alex, Corinna, Sean and Winston, who had taken advantage of their head start, received a note reading &amp;quot;Great Balls of Fire: The Rock &amp;apos;n&amp;apos; Roll Hall of Fame - Cleveland&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Rock 'n' Roll Hall of Fame .</td>]]></html>
+	<text>The Rock &amp;apos;n&amp;apos; Roll Hall of Fame .</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Drive (TV series) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Checkpoint Clue/Instructions Specifics</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>The following are the checkpoints passed, clues and/or instructions before arrival, and the specifics regarding them.</text>
+</context>
+<context>
+	<score>0.79559225</score>
+	<text>Drive (TV series)</text>
+</context>
+<context>
+	<score>0.78526163</score>
+	<text>[ edit ] Route</text>
+</context>
+<context>
+	<score>0.75388914</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] Cast and characters</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] Route</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] Production notes</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] Awards</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72146004</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7180165</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70768595</score>
+	<text>*Note: While referred to in the show as a 1972 model, the vehicle&apos;s distinctive front and rear mark it as a 1970 model, markedly different from the 1972-1974 models.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>ef=&quot;../../../../articles/d/r/i/Image%7EDrive_Cast.jpg_3298.html&quot; title=&quot;Enlarge&quot;&gt; The cast of Drive</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>A total of six episodes of Drive were produced prior to its cancellation. The series premiered on April 13, 2007 in Canada and on April 16, 2007 in the United States.</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>The cast of Drive</text>
+</context>
+<context>
+	<score>0.5562581</score>
+	<text>[ edit ] Cast and characters</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52074146</score>
+	<text>[ edit ] Production notes</text>
+</context>
+<context>
+	<score>0.49906301</score>
+	<text>It debuted in the United States on April 15 , 2007 on FOX, and moved into its regular time slot on Mondays the next day; in that slot it faced stiff competition from NBC&apos;s Deal or No Deal and ABC&apos;s Dancing with the Stars . On April 25 , FOX cancelled Drive after four episodes had aired.</text>
+</context>
+<context>
+	<score>0.47872698</score>
+	<text>The show premiered on April 13 , 2007 on CTV in Canada.</text>
+</context>
+<context>
+	<score>0.46994677</score>
+	<text>Fox greenlit series production on Drive in October 2006. In addition to the series pilot, another twelve episodes were ordered as a midseason replacement for spring 2007.</text>
+</context>
+<context>
+	<score>0.46245816</score>
+	<text>Firefly and Serenity star Nathan Fillion , a longtime friend of Drive creator Tim Minear , plays the lead role of Alex Tully in the series. Ivan Sergei played Tully in the unaired pilot.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Checkpoint</th><th>Clue/Instructions</th><th>Specifics</th></tr><tr><td><a href="../../../../articles/k/e/y/Key_West%2C_Florida_4530.html" title="Key West, Florida">Key West, Florida</a></td><td>Text message: "Mainland Go" (announced the start of the race, not a destination)</td><td>The starting line of the race.</td></tr><tr><td><a href="../../../../articles/j/u/p/Jupiter%2C_Florida_118b.html" title="Jupiter, Florida">Jupiter, Florida</a></td><td>Text message: "Fly to Jupiter and find the red eye."</td><td>The Jupiter Inlet lighthouse.</td></tr><tr><td><a href="../../../../articles/c/a/p/Cape_Canaveral%2C_Florida_5c53.html" title="Cape Canaveral, Florida">Cape Canaveral, Florida</a></td><td>Text message: "Kennedy killed in '73." The message is accompanied by a countdown clock.</td><td>In 1973, Cape Kennedy was <a href="../../../../articles/c/a/p/Cape_kennedy.html#Name_changes" class="mw-redirect" title="Cape kennedy">renamed</a> to Cape Canaveral, thus "killing" the name "Kennedy." Drivers met at the Kennedy Space Center, where the countdown corresponded with a shuttle launch.</td></tr><tr><td><a href="../../../../articles/r/o/m/Rome%2C_Georgia_117a.html" title="Rome, Georgia">Rome, Georgia</a></td><td>Each driver was given a red ticket stub with instructions to go to Rome, "After sunset, before dark."</td><td>After Sunset drive-in movie theater.</td></tr><tr><td><a href="../../../../articles/a/p/p/Appomattox_Court_House_8602.html" title="Appomattox Court House">Appomattox Court House</a>, <a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td>Text message: "Surrender, America"</td><td>Appomattox Court House was where <a href="../../../../articles/c/o/n/Confederate_States_of_America_b8e1.html" title="Confederate States of America">Confederate</a> general <a href="../../../../articles/r/o/b/Robert_E._Lee_733b.html" title="Robert E. Lee">Robert E. Lee</a> surrendered to <a href="../../../../articles/u/n/i/Union_%28Civil_War%29_7a13.html" class="mw-redirect" title="Union (Civil War)">Union</a> general <a href="../../../../articles/u/l/y/Ulysses_S._Grant_1b52.html" title="Ulysses S. Grant">Ulysses S. Grant</a>, thus ending the Civil War.</td></tr><tr><td><a href="../../../../articles/c/l/e/Cleveland%2C_Ohio_cd1a.html" title="Cleveland, Ohio">Cleveland, Ohio</a></td><td>Most of the racers received two hot candies, while Alex, Corinna, Sean and Winston, who had taken advantage of their head start, received a note reading "Great Balls of Fire: The Rock 'n' Roll Hall of Fame - Cleveland"</td><td>The <a href="../../../../articles/r/o/c/Rock_%27n%27_Roll_Hall_of_Fame_c6a5.html" class="mw-redirect" title="Rock 'n' Roll Hall of Fame">Rock 'n' Roll Hall of Fame</a>.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

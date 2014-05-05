@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r9/e/u/r/European_route_E81_ae90.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 3, 0.5833334 3, 0.15 1, 0.15 0 1, 0.13125001 1 3, 0.125 2, 0.125 0 2, 0.109375 2 3, 0.01875 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/e/u/r/European_route_E81_ae90.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>miles/ km (section)</th>]]></html>
+	<text>miles/ km (section)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>miles/ km (cuml.)</th>]]></html>
+	<text>miles/ km (cuml.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Connection</th>]]></html>
+	<text>Connection</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Halmeu</td>]]></html>
+	<text>Halmeu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Satu Mare</td>]]></html>
+	<text>Satu Mare</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.4/ 31</td>]]></html>
+	<text>19.4/ 31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.4/ 31</td>]]></html>
+	<text>19.4/ 31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zalău</td>]]></html>
+	<text>Zal&#259;u</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.1/ 93</td>]]></html>
+	<text>58.1/ 93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>77.5/ 124</td>]]></html>
+	<text>77.5/ 124</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cluj-Napoca</td>]]></html>
+	<text>Cluj-Napoca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48.1/ 77</td>]]></html>
+	<text>48.1/ 77</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125.6/ 201</td>]]></html>
+	<text>125.6/ 201</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European route E60 , European route E576</td>]]></html>
+	<text>European route E60 , European route E576</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turda</td>]]></html>
+	<text>Turda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.1/ 29</td>]]></html>
+	<text>18.1/ 29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>230</td>]]></html>
+	<text>230</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European route E60</td>]]></html>
+	<text>European route E60</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sebeş</td>]]></html>
+	<text>Sebe&#351;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50.6/ 81</td>]]></html>
+	<text>50.6/ 81</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>194.4/ 311</td>]]></html>
+	<text>194.4/ 311</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sibiu</td>]]></html>
+	<text>Sibiu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32.5/ 52</td>]]></html>
+	<text>32.5/ 52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>226.9/ 363</td>]]></html>
+	<text>226.9/ 363</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European route E68</td>]]></html>
+	<text>European route E68</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piteşti</td>]]></html>
+	<text>Pite&#351;ti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.6/ 145</td>]]></html>
+	<text>90.6/ 145</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>318.1/ 509</td>]]></html>
+	<text>318.1/ 509</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European route E70 , European route E574</td>]]></html>
+	<text>European route E70 , European route E574</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bucharest</td>]]></html>
+	<text>Bucharest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71.25/ 114</td>]]></html>
+	<text>71.25/ 114</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>389.4/ 623</td>]]></html>
+	<text>389.4/ 623</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European route E70 , European route E85 , European route E60</td>]]></html>
+	<text>European route E70 , European route E85 , European route E60</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>European route E81 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City miles/ km (section) miles/ km (cuml.) Connection</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>The road follows the route The road follows the route :</text>
+</context>
+<context>
+	<score>0.8295541</score>
+	<text>European route E81</text>
+</context>
+<context>
+	<score>0.7974671</score>
+	<text>European route E81 is a road part of the International E-road network . It begins in Bucharest , Romania and ends in Mukacevo , Ukraine . The road is 389.4 miles (623km) long.</text>
+</context>
+<context>
+	<score>0.7655765</score>
+	<text>This European road or road transport -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.75069714</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6876116</score>
+	<text>European route E81</text>
+</context>
+<context>
+	<score>0.61635536</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" align="center" cellpadding="2" cellspacing="0" style="border-collapse:collapse;border:1px solid gray;font-size:100%; text-align:center;"><tr style="background:#efefef;"><th align="center">City</th><th align="center">miles/ km (section)</th><th>miles/ km (cuml.)</th><th>Connection</th></tr><tr><td><a href="../../../../articles/h/a/l/Halmeu.html" title="Halmeu">Halmeu</a></td><td align="center">0</td><td>0</td><td></td></tr><tr><td><a href="../../../../articles/s/a/t/Satu_Mare_40ff.html" title="Satu Mare">Satu Mare</a></td><td align="center">19.4/ 31</td><td>19.4/ 31</td><td></td></tr><tr><td><a href="../../../../articles/z/a/l/Zal%C4%83u.html" title="Zalău">Zalău</a></td><td align="center">58.1/ 93</td><td>77.5/ 124</td><td></td></tr><tr><td><a href="../../../../articles/c/l/u/Cluj-Napoca_316e.html" title="Cluj-Napoca">Cluj-Napoca</a></td><td align="center">48.1/ 77</td><td>125.6/ 201</td><td><a href="../../../../articles/e/u/r/European_route_E60_2bd7.html" title="European route E60">European route E60</a>, <a href="../../../../articles/e/u/r/European_route_E576_4b02.html" title="European route E576">European route E576</a></td></tr><tr><td><a href="../../../../articles/t/u/r/Turda.html" title="Turda">Turda</a></td><td align="center">18.1/ 29</td><td>230</td><td><a href="../../../../articles/e/u/r/European_route_E60_2bd7.html" title="European route E60">European route E60</a></td></tr><tr><td><a href="../../../../articles/s/e/b/Sebe%C5%9F.html" title="Sebeş">Sebeş</a></td><td align="center">50.6/ 81</td><td>194.4/ 311</td><td></td></tr><tr><td><a href="../../../../articles/s/i/b/Sibiu.html" title="Sibiu">Sibiu</a></td><td align="center">32.5/ 52</td><td>226.9/ 363</td><td>European route E68</td></tr><tr><td><a href="../../../../articles/p/i/t/Pite%C5%9Fti.html" title="Piteşti">Piteşti</a></td><td align="center">90.6/ 145</td><td>318.1/ 509</td><td><a href="../../../../articles/e/u/r/European_route_E70_cb55.html" title="European route E70">European route E70</a>, European route E574</td></tr><tr><td><a href="../../../../articles/b/u/c/Bucharest.html" title="Bucharest">Bucharest</a></td><td align="center">71.25/ 114</td><td>389.4/ 623</td><td><a href="../../../../articles/e/u/r/European_route_E70_cb55.html" title="European route E70">European route E70</a>, <a href="../../../../articles/e/u/r/European_route_E85_2244.html" title="European route E85">European route E85</a>, <a href="../../../../articles/e/u/r/European_route_E60_2bd7.html" title="European route E60">European route E60</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

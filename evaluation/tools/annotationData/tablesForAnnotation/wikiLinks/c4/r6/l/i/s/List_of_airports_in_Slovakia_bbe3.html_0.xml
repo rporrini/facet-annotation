@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/i/s/List_of_airports_in_Slovakia_bbe3.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_Slovakia_bbe3.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>LOCATION</th>]]></html>
+	<text>LOCATION</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT NAME</th>]]></html>
+	<text>AIRPORT NAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bratislava</td>]]></html>
+	<text>Bratislava</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZIB</td>]]></html>
+	<text>LZIB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BTS</td>]]></html>
+	<text>BTS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>M. R. Štefánik Airport</td>]]></html>
+	<text>M. R. &#352;tef&#225;nik Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Košice</td>]]></html>
+	<text>Ko&#353;ice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZKZ</td>]]></html>
+	<text>LZKZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KSC</td>]]></html>
+	<text>KSC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Košice International Airport</td>]]></html>
+	<text>Ko&#353;ice International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piešťany</td>]]></html>
+	<text>Pie&#353;&#357;any</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZPP</td>]]></html>
+	<text>LZPP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PZY</td>]]></html>
+	<text>PZY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Piešťany Airport</td>]]></html>
+	<text>Pie&#353;&#357;any Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poprad</td>]]></html>
+	<text>Poprad</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZTT</td>]]></html>
+	<text>LZTT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAT</td>]]></html>
+	<text>TAT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poprad-Tatry Airport</td>]]></html>
+	<text>Poprad-Tatry Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sliač</td>]]></html>
+	<text>Slia&#269;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZSL</td>]]></html>
+	<text>LZSL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SLD</td>]]></html>
+	<text>SLD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sliač Airport</td>]]></html>
+	<text>Slia&#269; Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Žilina</td>]]></html>
+	<text>&#381;ilina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LZZI</td>]]></html>
+	<text>LZZI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ILZ</td>]]></html>
+	<text>ILZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Žilina Airport</td>]]></html>
+	<text>&#381;ilina Airport</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in Slovakia - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>LOCATION ICAO IATA AIRPORT NAME</text>
+</context>
+<context>
+	<score>0.87864906</score>
+	<text>International airports:</text>
+</context>
+<context>
+	<score>0.81949043</score>
+	<text>List of airports in Slovakia</text>
+</context>
+<context>
+	<score>0.7984225</score>
+	<text>For a list sorted by airport name, see Category:Airports in Slovakia</text>
+</context>
+<context>
+	<score>0.75868016</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.75015974</score>
+	<text>Military airports:</text>
+</context>
+<context>
+	<score>0.72075796</score>
+	<text>List of airports in Slovakia , sorted by location</text>
+</context>
+<context>
+	<score>0.6796941</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.62998873</score>
+	<text>List of airports in Slovakia</text>
+</context>
+<context>
+	<score>0.6200492</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.5335993</score>
+	<text>Airport code database by S World Aero Data</text>
+</context>
+<context>
+	<score>0.4827464</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr valign="top" align="left"><th>LOCATION</th><th><a href="../../../../articles/i/c/a/ICAO_airport_code_cd3b.html" class="mw-redirect" title="ICAO airport code">ICAO</a></th><th><a href="../../../../articles/i/a/t/IATA_airport_code_3507.html" class="mw-redirect" title="IATA airport code">IATA</a></th><th>AIRPORT NAME</th></tr><tr valign="top"><td><a href="../../../../articles/b/r/a/Bratislava.html" title="Bratislava">Bratislava</a></td><td>LZIB</td><td>BTS</td><td><a href="../../../../articles/m/2E/_/M._R._%C5%A0tef%C3%A1nik_Airport_86e9.html" title="M. R. Štefánik Airport">M. R. Štefánik Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/k/o/%C5%A1/Ko%C5%A1ice.html" title="Košice">Košice</a></td><td>LZKZ</td><td>KSC</td><td><a href="../../../../articles/k/o/%C5%A1/Ko%C5%A1ice_International_Airport_5629.html" title="Košice International Airport">Košice International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/p/i/e/Pie%C5%A1%C5%A5any.html" title="Piešťany">Piešťany</a></td><td>LZPP</td><td>PZY</td><td><a href="../../../../articles/p/i/e/Pie%C5%A1%C5%A5any_Airport_bb8a.html" title="Piešťany Airport">Piešťany Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/p/o/p/Poprad.html" title="Poprad">Poprad</a></td><td>LZTT</td><td>TAT</td><td><a href="../../../../articles/p/o/p/Poprad-Tatry_Airport_493f.html" title="Poprad-Tatry Airport">Poprad-Tatry Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/s/l/i/Slia%C4%8D.html" title="Sliač">Sliač</a></td><td>LZSL</td><td>SLD</td><td><a href="../../../../articles/s/l/i/Slia%C4%8D_Airport_d704.html" title="Sliač Airport">Sliač Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/%C5%BE/i/l/%C5%BDilina.html" title="Žilina">Žilina</a></td><td>LZZI</td><td>ILZ</td><td><a href="../../../../articles/%C5%BE/i/l/%C5%BDilina_Airport_35c6.html" title="Žilina Airport">Žilina Airport</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/e/u/r/EuroBasket_2009_7bed.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 3, 0.65625 1 3, 0.32142857 3, 0.125 0 2, 0.109375 1 2, 0.10714286 2, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/u/r/EuroBasket_2009_7bed.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Arena</th>]]></html>
+	<text>Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Competition Stage</th>]]></html>
+	<text>Competition Stage</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bydgoszcz</td>]]></html>
+	<text>Bydgoszcz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Łuczniczka</td>]]></html>
+	<text>&#321;uczniczka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second phase group</td>]]></html>
+	<text>Second phase group</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poznań</td>]]></html>
+	<text>Pozna&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hala Arena</td>]]></html>
+	<text>Hala Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,200</td>]]></html>
+	<text>4,200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First phase group</td>]]></html>
+	<text>First phase group</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Katowice</td>]]></html>
+	<text>Katowice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spodek</td>]]></html>
+	<text>Spodek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,500</td>]]></html>
+	<text>11,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Final Phase</td>]]></html>
+	<text>Final Phase</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Łódź</td>]]></html>
+	<text>&#321;&#243;d&#378;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hala Wielofunkcyjna</td>]]></html>
+	<text>Hala Wielofunkcyjna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>( 10,000 )</td>]]></html>
+	<text>( 10,000 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second phase group</td>]]></html>
+	<text>Second phase group</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gdańsk</td>]]></html>
+	<text>Gda&#324;sk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hala Olivia</td>]]></html>
+	<text>Hala Olivia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,500</td>]]></html>
+	<text>5,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First phase group</td>]]></html>
+	<text>First phase group</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Warszawa</td>]]></html>
+	<text>Warszawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Torwar Hall</td>]]></html>
+	<text>Torwar Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,838</td>]]></html>
+	<text>4,838</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First phase group</td>]]></html>
+	<text>First phase group</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wrocław</td>]]></html>
+	<text>Wroc&#322;aw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Centennial Hall</td>]]></html>
+	<text>Centennial Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First phase group</td>]]></html>
+	<text>First phase group</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>EuroBasket 2009 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Arena Capacity Competition Stage</text>
+</context>
+<context>
+	<score>0.8787878</score>
+	<text>Spodek will host the Final phase of the competition</text>
+</context>
+<context>
+	<score>0.8007575</score>
+	<text>EuroBasket 2009</text>
+</context>
+<context>
+	<score>0.78591317</score>
+	<text>[ edit ] Venues [2] [3]</text>
+</context>
+<context>
+	<score>0.7545407</score>
+	<text>[ edit ] Qualified teams [4]</text>
+</context>
+<context>
+	<score>0.72727686</score>
+	<text>[ edit ] Venues [2] [3]</text>
+</context>
+<context>
+	<score>0.72727686</score>
+	<text>[ edit ] Qualified teams [4]</text>
+</context>
+<context>
+	<score>0.72727686</score>
+	<text>[ edit ] EuroBasket 2009 qualification</text>
+</context>
+<context>
+	<score>0.72727686</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72318184</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70424247</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.64627683</score>
+	<text>This will be the second time the competition goes there. The first time was in 1963 .</text>
+</context>
+<context>
+	<score>0.6077439</score>
+	<text>The additional eight qualifying teams will qualify via qualification rounds that will begin at 20 August 2008 . The draw for the qualification rounds was held in 16 February 2008 at Venice , Italy .</text>
+</context>
+<context>
+	<score>0.5966283</score>
+	<text>regional championship held by FIBA Europe . The competition will be hosted by Poland .</text>
+</context>
+<context>
+	<score>0.5528145</score>
+	<text>th</text>
+</context>
+<context>
+	<score>0.5251345</score>
+	<text>The European Basketball Championship of 2009 , universally referred to as EuroBasket 2009 , will be the 36</text>
+</context>
+<context>
+	<score>0.5213929</score>
+	<text>[ edit ] EuroBasket 2009 qualification</text>
+</context>
+<context>
+	<score>0.49561945</score>
+	<text>It is likely to contain information of a speculative nature and the content may change as the event approaches and more information becomes available.</text>
+</context>
+<context>
+	<score>0.4793784</score>
+	<text>This article or section contains information about a future sporting event or team .</text>
+</context>
+<context>
+	<score>0.477954</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4665032</score>
+	<text>Group A Group B Group C Group D</text>
+</context>
+<context>
+	<score>0.46493897</score>
+	<text>EuroBasket 2009</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>City</th><th>Arena</th><th align="right">Capacity</th><th>Competition Stage</th></tr><tr><td><a href="../../../../articles/b/y/d/Bydgoszcz.html" title="Bydgoszcz">Bydgoszcz</a></td><td><a href="../../../../articles/%C5%82/u/c/%C5%81uczniczka.html" title="Łuczniczka">Łuczniczka</a></td><td align="right">8,000</td><td>Second phase group</td></tr><tr><td><a href="../../../../articles/p/o/z/Pozna%C5%84.html" title="Poznań">Poznań</a></td><td><a href="../../../../articles/h/a/l/Hala_Arena_f1e6.html" title="Hala Arena">Hala Arena</a></td><td align="right">4,200</td><td>First phase group</td></tr><tr><td><a href="../../../../articles/k/a/t/Katowice.html" title="Katowice">Katowice</a></td><td><a href="../../../../articles/s/p/o/Spodek.html" title="Spodek">Spodek</a></td><td align="right">11,500</td><td>Final Phase</td></tr><tr><td><a href="../../../../articles/%C5%82/%C3%B3/d/%C5%81%C3%B3d%C5%BA.html" title="Łódź">Łódź</a></td><td><a href="../../../../articles/h/a/l/Hala_Wielofunkcyjna_3f48.html" title="Hala Wielofunkcyjna">Hala Wielofunkcyjna</a></td><td align="right">(<i>10,000</i>)</td><td>Second phase group</td></tr><tr><td><a href="../../../../articles/g/d/a/Gda%C5%84sk.html" title="Gdańsk">Gdańsk</a></td><td><a href="../../../../articles/h/a/l/Hala_Olivia_88c6.html" title="Hala Olivia">Hala Olivia</a></td><td align="right">5,500</td><td>First phase group</td></tr><tr><td><a href="../../../../articles/w/a/r/Warszawa.html" class="mw-redirect" title="Warszawa">Warszawa</a></td><td><a href="../../../../articles/t/o/r/Torwar_Hall_5085.html" title="Torwar Hall">Torwar Hall</a></td><td align="right">4,838</td><td>First phase group</td></tr><tr><td><a href="../../../../articles/w/r/o/Wroc%C5%82aw.html" title="Wrocław">Wrocław</a></td><td><a href="../../../../articles/c/e/n/Centennial_Hall_ddaa.html" title="Centennial Hall">Centennial Hall</a></td><td align="right">8,000</td><td>First phase group</td></tr></table>]]>
+</htmlSnippet>
+</entity>

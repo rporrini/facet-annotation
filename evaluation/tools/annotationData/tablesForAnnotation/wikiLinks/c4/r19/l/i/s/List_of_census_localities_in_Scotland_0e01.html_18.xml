@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r19/l/i/s/List_of_census_localities_in_Scotland_0e01.html_18.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.125 0 3, 0.118421055 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_census_localities_in_Scotland_0e01.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Locality</th>]]></html>
+	<text>Locality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (2001)</th>]]></html>
+	<text>Population (2001)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area ( ha )</th>]]></html>
+	<text>Area ( ha )</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population density</th>]]></html>
+	<text>Population density</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aberlour</td>]]></html>
+	<text>Aberlour</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>785</td>]]></html>
+	<text>785</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71</td>]]></html>
+	<text>71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.1</td>]]></html>
+	<text>11.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buckie</td>]]></html>
+	<text>Buckie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8059</td>]]></html>
+	<text>8059</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>303</td>]]></html>
+	<text>303</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.6</td>]]></html>
+	<text>26.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Burghead</td>]]></html>
+	<text>Burghead</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1640</td>]]></html>
+	<text>1640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>56</td>]]></html>
+	<text>56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.3</td>]]></html>
+	<text>29.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cullen</td>]]></html>
+	<text>Cullen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1327</td>]]></html>
+	<text>1327</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.5</td>]]></html>
+	<text>26.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dufftown</td>]]></html>
+	<text>Dufftown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1454</td>]]></html>
+	<text>1454</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69</td>]]></html>
+	<text>69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.1</td>]]></html>
+	<text>21.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elgin</td>]]></html>
+	<text>Elgin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,829</td>]]></html>
+	<text>20,829</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>828</td>]]></html>
+	<text>828</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.2</td>]]></html>
+	<text>25.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Findhorn</td>]]></html>
+	<text>Findhorn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>885</td>]]></html>
+	<text>885</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93</td>]]></html>
+	<text>93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.5</td>]]></html>
+	<text>9.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Findochty</td>]]></html>
+	<text>Findochty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1106</td>]]></html>
+	<text>1106</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.7</td>]]></html>
+	<text>25.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fochabers</td>]]></html>
+	<text>Fochabers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1499</td>]]></html>
+	<text>1499</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53</td>]]></html>
+	<text>53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.3</td>]]></html>
+	<text>28.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Forres</td>]]></html>
+	<text>Forres</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8967</td>]]></html>
+	<text>8967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>378</td>]]></html>
+	<text>378</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.7</td>]]></html>
+	<text>23.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hopeman</td>]]></html>
+	<text>Hopeman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1624</td>]]></html>
+	<text>1624</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61</td>]]></html>
+	<text>61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.6</td>]]></html>
+	<text>26.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Keith</td>]]></html>
+	<text>Keith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4491</td>]]></html>
+	<text>4491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>225</td>]]></html>
+	<text>225</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.0</td>]]></html>
+	<text>20.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kinloss</td>]]></html>
+	<text>Kinloss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1931</td>]]></html>
+	<text>1931</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101</td>]]></html>
+	<text>101</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.1</td>]]></html>
+	<text>19.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lhanbryde</td>]]></html>
+	<text>Lhanbryde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1845</td>]]></html>
+	<text>1845</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51</td>]]></html>
+	<text>51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36.2</td>]]></html>
+	<text>36.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lossiemouth</td>]]></html>
+	<text>Lossiemouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6803</td>]]></html>
+	<text>6803</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>215</td>]]></html>
+	<text>215</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31.6</td>]]></html>
+	<text>31.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mosstodloch</td>]]></html>
+	<text>Mosstodloch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1017</td>]]></html>
+	<text>1017</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.4</td>]]></html>
+	<text>25.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portgordon</td>]]></html>
+	<text>Portgordon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>771</td>]]></html>
+	<text>771</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.8</td>]]></html>
+	<text>19.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portknockie</td>]]></html>
+	<text>Portknockie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1217</td>]]></html>
+	<text>1217</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55</td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.1</td>]]></html>
+	<text>22.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rothes</td>]]></html>
+	<text>Rothes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1156</td>]]></html>
+	<text>1156</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74</td>]]></html>
+	<text>74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.6</td>]]></html>
+	<text>15.6</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of census localities in Scotland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Locality Population (2001) Area ( ha ) Population density</text>
+</context>
+<context>
+	<score>0.8808351</score>
+	<text>[ edit ] Moray</text>
+</context>
+<context>
+	<score>0.78591275</score>
+	<text>List of census localities in Scotland</text>
+</context>
+<context>
+	<score>0.78181773</score>
+	<text>Dalkeith</text>
+</context>
+<context>
+	<score>0.7524927</score>
+	<text>[ edit ] North Ayrshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] City of Aberdeen</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Aberdeenshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Angus</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Argyll and Bute</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Clackmannanshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Dumfries and Galloway</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] City of Dundee</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] East Ayrshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] East Dunbartonshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] East Lothian</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] East Renfrewshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] City of Edinburgh</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Eileanan Siar</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Falkirk</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Fife</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] City of Glasgow</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Highland</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Inverclyde</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Midlothian</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Moray</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] North Ayrshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] North Lanarkshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Orkney Islands</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Perth and Kinross</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Renfrewshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] South Ayrshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] South Lanarkshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Scottish Borders</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Shetland Islands</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] Stirling</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] West Dunbartonshire</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] West Lothian</text>
+</context>
+<context>
+	<score>0.7103844</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70833695</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7062894</score>
+	<text>[ edit ] Midlothian</text>
+</context>
+<context>
+	<score>0.6421811</score>
+	<text>Greenock Settlement.</text>
+</context>
+<context>
+	<score>0.6036482</score>
+	<text>Ardrossan Settlement. Irvine Settlement.</text>
+</context>
+<context>
+	<score>0.59458005</score>
+	<text>[ edit ] Inverclyde</text>
+</context>
+<context>
+	<score>0.55281365</score>
+	<text>Culloden Settlement. Inverness Settlement.</text>
+</context>
+<context>
+	<score>0.5230861</score>
+	<text>[ edit ] Highland</text>
+</context>
+<context>
+	<score>0.5193445</score>
+	<text>[ edit ] North Lanarkshire</text>
+</context>
+<context>
+	<score>0.49561852</score>
+	<text>Greater Glasgow Settlement.</text>
+</context>
+<context>
+	<score>0.47732997</score>
+	<text>[ edit ] City of Glasgow</text>
+</context>
+<context>
+	<score>0.4685497</score>
+	<text>[ edit ] Orkney Islands</text>
+</context>
+<context>
+	<score>0.46106112</score>
+	<text>[ edit ] Fife</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th>Locality</th><th><a href="../../../../articles/p/o/p/Population.html" title="Population">Population</a><br />(2001)</th><th><a href="../../../../articles/a/r/e/Area.html" title="Area">Area</a><br />(<a href="../../../../articles/h/e/c/Hectare.html" title="Hectare">ha</a>)</th><th><a href="../../../../articles/p/o/p/Population_density.html" title="Population density">Population<br />density</a></th></tr><tr><td><a href="../../../../articles/a/b/e/Aberlour.html" title="Aberlour">Aberlour</a></td><td>785</td><td>71</td><td>11.1</td></tr><tr><td><a href="../../../../articles/b/u/c/Buckie.html" title="Buckie">Buckie</a></td><td>8059</td><td>303</td><td>26.6</td></tr><tr><td><a href="../../../../articles/b/u/r/Burghead.html" title="Burghead">Burghead</a></td><td>1640</td><td>56</td><td>29.3</td></tr><tr><td><a href="../../../../articles/c/u/l/Cullen.html" title="Cullen">Cullen</a></td><td>1327</td><td>50</td><td>26.5</td></tr><tr><td><a href="../../../../articles/d/u/f/Dufftown.html" title="Dufftown">Dufftown</a></td><td>1454</td><td>69</td><td>21.1</td></tr><tr><td><a href="../../../../articles/e/l/g/Elgin%2C_Moray_7d5a.html" title="Elgin, Moray">Elgin</a></td><td>20,829</td><td>828</td><td>25.2</td></tr><tr><td><a href="../../../../articles/f/i/n/Findhorn.html" title="Findhorn">Findhorn</a></td><td>885</td><td>93</td><td>9.5</td></tr><tr><td><a href="../../../../articles/f/i/n/Findochty.html" title="Findochty">Findochty</a></td><td>1106</td><td>43</td><td>25.7</td></tr><tr><td><a href="../../../../articles/f/o/c/Fochabers.html" title="Fochabers">Fochabers</a></td><td>1499</td><td>53</td><td>28.3</td></tr><tr><td><a href="../../../../articles/f/o/r/Forres.html" title="Forres">Forres</a></td><td>8967</td><td>378</td><td>23.7</td></tr><tr><td><a href="../../../../articles/h/o/p/Hopeman.html" title="Hopeman">Hopeman</a></td><td>1624</td><td>61</td><td>26.6</td></tr><tr><td><a href="../../../../articles/k/e/i/Keith%2C_Moray_fe16.html" title="Keith, Moray">Keith</a></td><td>4491</td><td>225</td><td>20.0</td></tr><tr><td><a href="../../../../articles/k/i/n/Kinloss.html" title="Kinloss">Kinloss</a></td><td>1931</td><td>101</td><td>19.1</td></tr><tr><td><a href="../../../../articles/l/h/a/Lhanbryde.html" title="Lhanbryde">Lhanbryde</a></td><td>1845</td><td>51</td><td>36.2</td></tr><tr><td><a href="../../../../articles/l/o/s/Lossiemouth.html" title="Lossiemouth">Lossiemouth</a></td><td>6803</td><td>215</td><td>31.6</td></tr><tr><td><a href="../../../../articles/m/o/s/Mosstodloch.html" title="Mosstodloch">Mosstodloch</a></td><td>1017</td><td>40</td><td>25.4</td></tr><tr><td><a href="../../../../articles/p/o/r/Portgordon.html" title="Portgordon">Portgordon</a></td><td>771</td><td>39</td><td>19.8</td></tr><tr><td><a href="../../../../articles/p/o/r/Portknockie.html" title="Portknockie">Portknockie</a></td><td>1217</td><td>55</td><td>22.1</td></tr><tr><td><a href="../../../../articles/r/o/t/Rothes.html" title="Rothes">Rothes</a></td><td>1156</td><td>74</td><td>15.6</td></tr></table>]]>
+</htmlSnippet>
+</entity>

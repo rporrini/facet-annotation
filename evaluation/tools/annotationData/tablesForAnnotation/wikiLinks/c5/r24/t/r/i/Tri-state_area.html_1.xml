@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r24/t/r/i/Tri-state_area.html_1.xml" />
+<meta name="primaryKey" value="0.825 0 1, 0.7 0 2, 0.6125 0 3, 0.6 1, 0.59999996 1 2, 0.5775 1 3, 0.5416667 0, 0.5 2, 0.5 0 4, 0.4958333 3, 0.49500003 1 4, 0.46666667 2 3, 0.42000002 2 4, 0.3675 3 4, 0.3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/i/Tri-state_area.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State 1</th>]]></html>
+	<text>State 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 2</th>]]></html>
+	<text>State 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 3</th>]]></html>
+	<text>State 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Water</th>]]></html>
+	<text>Water</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee River</td>]]></html>
+	<text>Tennessee River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado River</td>]]></html>
+	<text>Colorado River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Memphis, Tennessee metro area.</td>]]></html>
+	<text>Memphis, Tennessee metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red River</td>]]></html>
+	<text>Red River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Long Island Sound</td>]]></html>
+	<text>Long Island Sound</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The part of New York that is in this tri-state area is Fishers Island . It is the New London, Connecticut metro area.</td>]]></html>
+	<text>The part of New York that is in this tri-state area is Fishers Island . It is the New London, Connecticut metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delaware River</td>]]></html>
+	<text>Delaware River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philadelphia, Pennsylvania metro area.</td>]]></html>
+	<text>Philadelphia, Pennsylvania metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Snake River</td>]]></html>
+	<text>Snake River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wabash River and Ohio River</td>]]></html>
+	<text>Wabash River and Ohio River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evansville, Indiana metro area.</td>]]></html>
+	<text>Evansville, Indiana metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Michigan</td>]]></html>
+	<text>Lake Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Des Moines River and Mississippi River</td>]]></html>
+	<text>Des Moines River and Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dubuque, Iowa metro area.</td>]]></html>
+	<text>Dubuque, Iowa metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River and Ohio River</td>]]></html>
+	<text>Mississippi River and Ohio River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Egypt region popularly labeled as a tri-state area with St. Louis, Missouri , Marion, Illinois metro area, and Paducah, Kentucky being it's nuclei.</td>]]></html>
+	<text>Little Egypt region popularly labeled as a tri-state area with St. Louis, Missouri , Marion, Illinois metro area, and Paducah, Kentucky being it&amp;apos;s nuclei.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Michigan</td>]]></html>
+	<text>Lake Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>La Crosse, Wisconsin metro area.</td>]]></html>
+	<text>La Crosse, Wisconsin metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri River</td>]]></html>
+	<text>Missouri River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Big Sioux River and Missouri River</td>]]></html>
+	<text>Big Sioux River and Missouri River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sioux City , IA metro area.</td>]]></html>
+	<text>Sioux City , IA metro area.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Great Miami River and Ohio River</td>]]></html>
+	<text>Great Miami River and Ohio River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cincinnati, Ohio metro area .</td>]]></html>
+	<text>Cincinnati, Ohio metro area .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri River</td>]]></html>
+	<text>Missouri River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi River</td>]]></html>
+	<text>Mississippi River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 separate tripoints, due to meanders of the river</td>]]></html>
+	<text>3 separate tripoints, due to meanders of the river</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Big Sandy River and Ohio River</td>]]></html>
+	<text>Big Sandy River and Ohio River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Huntington (WV)-Ashland (KY)-Ironton (OH) Tri-State region .</td>]]></html>
+	<text>Huntington (WV)-Ashland (KY)-Ironton (OH) Tri-State region .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Superior</td>]]></html>
+	<text>Lake Superior</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio River</td>]]></html>
+	<text>Ohio River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tri-state area - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State 1 State 2 State 3 Water Notes</text>
+</context>
+<context>
+	<score>0.87864906</score>
+	<text>There are another 24 places where the tripoint is under water:</text>
+</context>
+<context>
+	<score>0.7967371</score>
+	<text>Tri-state area</text>
+</context>
+<context>
+	<score>0.7884632</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.75705475</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] Other Tripoints</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7259674</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7190725</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7039036</score>
+	<text>They are:</text>
+</context>
+<context>
+	<score>0.6417719</score>
+	<text>Of the 62 points where three states join, there are 38 tripoints with markers on land in the United States.</text>
+</context>
+<context>
+	<score>0.6031949</score>
+	<text>The following tri-state areas are also notable, but have no tripoint:</text>
+</context>
+<context>
+	<score>0.5989615</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.55230224</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5236399</score>
+	<text>[ edit ] Other Tripoints</text>
+</context>
+<context>
+	<score>0.5204908</score>
+	<text>The &quot;Joplin District&quot; Lead-Zinc Mining region of Oklahoma, Kansas and Missouri produced mineral specimens famous throughout the world as &quot;Tri-State&quot; minerals.</text>
+</context>
+<context>
+	<score>0.5019366</score>
+	<text>Other large metropolitan areas with a tri-state area include Cincinnati , Memphis , Philadelphia , and Washington, D.C.</text>
+</context>
+<context>
+	<score>0.4815773</score>
+	<text>The Tri-State Region around New York City is where New York , New Jersey , and Connecticut meet. There is no tripoint, however, as Connecticut does not touch New Jersey. Chicago&apos;s tri-state region includes Illinois , Indiana , and Wisconsin and is commonly referred to as Chicagoland . This tri-state region also does not have a tripoint since Indiana does not touch Wisconsin.</text>
+</context>
+<context>
+	<score>0.47278702</score>
+	<text>There are 18 tripoints between 1 US state and 2 Canadian provinces or 2 US states and 1 Canadian province.</text>
+</context>
+<context>
+	<score>0.46528986</score>
+	<text>There are a number of places in the 48 contiguous United States known as tri-state areas where three states or holdings meet at one point (a tripoint ), or in proximity to each other. The two most well-known are for the New York and Chicago metropolitan areas.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" width="70%"><tr><th width="15%">State 1</th><th width="15%">State 2</th><th width="15%">State 3</th><th width="27%">Water</th><th width="28%">Notes</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/t/e/n/Tennessee_River_8110.html" title="Tennessee River">Tennessee River</a></td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><a href="../../../../articles/c/o/l/Colorado_River_4ec7.html" title="Colorado River">Colorado River</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td><td><a href="../../../../articles/m/e/m/Memphis%2C_Tennessee_649e.html" title="Memphis, Tennessee">Memphis, Tennessee</a> metro area.</td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td><a href="../../../../articles/r/e/d/Red_River_%28Mississippi_watershed%29_947a.html" title="Red River (Mississippi watershed)">Red River</a></td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td><a href="../../../../articles/l/o/n/Long_Island_Sound_4e71.html" title="Long Island Sound">Long Island Sound</a></td><td>The part of New York that is in this tri-state area is <a href="../../../../articles/f/i/s/Fishers_Island_73f7.html" title="Fishers Island">Fishers Island</a>. It is the <a href="../../../../articles/n/e/w/New_London%2C_Connecticut_2c51.html" title="New London, Connecticut">New London, Connecticut</a> metro area.</td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/d/e/l/Delaware_River_6e02.html" title="Delaware River">Delaware River</a></td><td><a href="../../../../articles/p/h/i/Philadelphia%2C_Pennsylvania_7d25.html" class="mw-redirect" title="Philadelphia, Pennsylvania">Philadelphia, Pennsylvania</a> metro area.</td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td><a href="../../../../articles/s/n/a/Snake_River_61af.html" title="Snake River">Snake River</a></td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/w/a/b/Wabash_River_bb2b.html" title="Wabash River">Wabash River</a> and <a href="../../../../articles/o/h/i/Ohio_River_8c4c.html" title="Ohio River">Ohio River</a></td><td><a href="../../../../articles/e/v/a/Evansville%2C_Indiana_6824.html" title="Evansville, Indiana">Evansville, Indiana</a> metro area.</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td><a href="../../../../articles/l/a/k/Lake_Michigan_0b4b.html" title="Lake Michigan">Lake Michigan</a></td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/d/e/s/Des_Moines_River_7360.html" title="Des Moines River">Des Moines River</a> and <a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td><td><a href="../../../../articles/d/u/b/Dubuque%2C_Iowa_2ac1.html" title="Dubuque, Iowa">Dubuque, Iowa</a> metro area.</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a> and <a href="../../../../articles/o/h/i/Ohio_River_8c4c.html" title="Ohio River">Ohio River</a></td><td><a href="../../../../articles/l/i/t/Little_Egypt_47bd.html" title="Little Egypt">Little Egypt</a> region popularly labeled as a tri-state area with <a href="../../../../articles/s/t/2E/St._Louis%2C_Missouri_7f9c.html" title="St. Louis, Missouri">St. Louis, Missouri</a>, <a href="../../../../articles/m/a/r/Marion%2C_Illinois_438e.html" title="Marion, Illinois">Marion, Illinois</a> metro area, and <a href="../../../../articles/p/a/d/Paducah%2C_Kentucky_83c1.html" title="Paducah, Kentucky">Paducah, Kentucky</a> being it's nuclei.</td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td><a href="../../../../articles/l/a/k/Lake_Michigan_0b4b.html" title="Lake Michigan">Lake Michigan</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td><td><a href="../../../../articles/l/a/_/La_Crosse%2C_Wisconsin_c313.html" title="La Crosse, Wisconsin">La Crosse, Wisconsin</a> metro area.</td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td><a href="../../../../articles/m/i/s/Missouri_River_243a.html" title="Missouri River">Missouri River</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td><a href="../../../../articles/b/i/g/Big_Sioux_River_70f0.html" title="Big Sioux River">Big Sioux River</a> and <a href="../../../../articles/m/i/s/Missouri_River_243a.html" title="Missouri River">Missouri River</a></td><td><a href="../../../../articles/s/i/o/Sioux_City_5228.html" class="mw-redirect" title="Sioux City">Sioux City</a>, IA metro area.</td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td><a href="../../../../articles/g/r/e/Great_Miami_River_3a56.html" title="Great Miami River">Great Miami River</a> and <a href="../../../../articles/o/h/i/Ohio_River_8c4c.html" title="Ohio River">Ohio River</a></td><td><a href="../../../../articles/c/i/n/Cincinnati-Hamilton%2C_OH-KY-IN_Metropolitan_Statistical_Area_85ff.html" class="mw-redirect" title="Cincinnati-Hamilton, OH-KY-IN Metropolitan Statistical Area">Cincinnati, Ohio metro area</a>.</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td><a href="../../../../articles/m/i/s/Missouri_River_243a.html" title="Missouri River">Missouri River</a></td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/m/i/s/Mississippi_River_e27c.html" title="Mississippi River">Mississippi River</a></td><td>3 separate tripoints, due to meanders of the river</td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td><a href="../../../../articles/b/i/g/Big_Sandy_River_69b0.html" title="Big Sandy River">Big Sandy River</a> and <a href="../../../../articles/o/h/i/Ohio_River_8c4c.html" title="Ohio River">Ohio River</a></td><td><a href="../../../../articles/h/u/n/Huntington-Ashland%2C_WV-KY-OH%2C_Metropolitan_Statistical_Area_f826.html" title="Huntington-Ashland, WV-KY-OH, Metropolitan Statistical Area">Huntington (WV)-Ashland (KY)-Ironton (OH) Tri-State region</a>.</td></tr><tr><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td><a href="../../../../articles/l/a/k/Lake_Superior_3a7f.html" title="Lake Superior">Lake Superior</a></td></tr><tr><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td><a href="../../../../articles/o/h/i/Ohio_River_8c4c.html" title="Ohio River">Ohio River</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

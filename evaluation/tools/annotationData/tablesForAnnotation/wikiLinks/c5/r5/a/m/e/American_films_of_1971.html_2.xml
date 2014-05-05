@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/a/m/e/American_films_of_1971.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 0 2, 0.71999997 1, 0.7 0 3, 0.64000005 2, 0.576 1 2, 0.56 3, 0.504 1 3, 0.448 2 3, 0.060000002 0 4, 0.0432 1 4, 0.038400006 2 4, 0.033600003 3 4, 0.024000002 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_films_of_1971.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cast</th>]]></html>
+	<text>Cast</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genre</th>]]></html>
+	<text>Genre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Escape from the Planet of the Apes</td>]]></html>
+	<text>Escape from the Planet of the Apes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fiddler on the Roof (film)</td>]]></html>
+	<text>Fiddler on the Roof (film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norman Jewison</td>]]></html>
+	<text>Norman Jewison</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Topol , Norma Crane</td>]]></html>
+	<text>Topol , Norma Crane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Musical</td>]]></html>
+	<text>Musical</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A Fistful of Dynamite</td>]]></html>
+	<text>A Fistful of Dynamite</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sergio Leone</td>]]></html>
+	<text>Sergio Leone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rod Steiger , James Coburn</td>]]></html>
+	<text>Rod Steiger , James Coburn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western</td>]]></html>
+	<text>Western</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>With Italy Released in America as "Duck You Sucker"</td>]]></html>
+	<text>With Italy Released in America as &amp;quot;Duck You Sucker&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fools' Parade (film)</td>]]></html>
+	<text>Fools&amp;apos; Parade (film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The French Connection (film)</td>]]></html>
+	<text>The French Connection (film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William Friedkin</td>]]></html>
+	<text>William Friedkin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gene Hackman</td>]]></html>
+	<text>Gene Hackman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Police drama</td>]]></html>
+	<text>Police drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American films of 1971 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.8870762</score>
+	<text>[ edit ] E-F</text>
+</context>
+<context>
+	<score>0.81949043</score>
+	<text>American films of 1971</text>
+</context>
+<context>
+	<score>0.7899954</score>
+	<text>[ edit ] C-D</text>
+</context>
+<context>
+	<score>0.75858694</score>
+	<text>[ edit ] G-H</text>
+</context>
+<context>
+	<score>0.74182576</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71233076</score>
+	<text>[ edit ] A-B</text>
+</context>
+<context>
+	<score>0.6417719</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.61162204</score>
+	<text>[ edit ] I-L</text>
+</context>
+<context>
+	<score>0.60049367</score>
+	<text>The French Connection won the Academy Award for Best Picture.</text>
+</context>
+<context>
+	<score>0.56072944</score>
+	<text>A list of American films released in 1971 .</text>
+</context>
+<context>
+	<score>0.5251721</score>
+	<text>[ edit ] M-</text>
+</context>
+<context>
+	<score>0.51260453</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5034689</score>
+	<text>This list is incomplete ; you can help by expanding it .</text>
+</context>
+<context>
+	<score>0.4963171</score>
+	<text>American films of 1971</text>
+</context>
+<context>
+	<score>0.47431922</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="21%">Title</th><th width="16%">Director</th><th width="22%">Cast</th><th width="13%">Genre</th><th width="28%">Notes</th></tr><tr><td><i><a href="../../../../articles/e/s/c/Escape_from_the_Planet_of_the_Apes_bb42.html" title="Escape from the Planet of the Apes">Escape from the Planet of the Apes</a></i></td><td></td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/f/i/d/Fiddler_on_the_Roof_%28film%29_d4f0.html" title="Fiddler on the Roof (film)">Fiddler on the Roof (film)</a></i></td><td><a href="../../../../articles/n/o/r/Norman_Jewison_6a66.html" title="Norman Jewison">Norman Jewison</a></td><td><a href="../../../../articles/t/o/p/Topol.html" title="Topol">Topol</a>, <a href="../../../../articles/n/o/r/Norma_Crane_b0a3.html" title="Norma Crane">Norma Crane</a></td><td>Musical</td><td></td></tr><tr><td><i><a href="../../../../articles/a/_/f/A_Fistful_of_Dynamite_3a6f.html" title="A Fistful of Dynamite">A Fistful of Dynamite</a></i></td><td><a href="../../../../articles/s/e/r/Sergio_Leone_169a.html" title="Sergio Leone">Sergio Leone</a></td><td><a href="../../../../articles/r/o/d/Rod_Steiger_6ab7.html" title="Rod Steiger">Rod Steiger</a>, <a href="../../../../articles/j/a/m/James_Coburn_2a2a.html" title="James Coburn">James Coburn</a></td><td>Western</td><td>With <a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a> Released in America as "Duck You Sucker"</td></tr><tr><td><i><a href="../../../../articles/f/o/o/Fools%27_Parade_%28film%29_9197.html" title="Fools' Parade (film)">Fools' Parade (film)</a></i></td><td></td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/t/h/e/The_French_Connection_%28film%29_fc28.html" title="The French Connection (film)">The French Connection (film)</a></i></td><td><a href="../../../../articles/w/i/l/William_Friedkin_2b5a.html" title="William Friedkin">William Friedkin</a></td><td><a href="../../../../articles/g/e/n/Gene_Hackman_126a.html" title="Gene Hackman">Gene Hackman</a></td><td>Police drama</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

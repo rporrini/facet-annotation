@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/c/e/n/Central_Greece_9697.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 1 4, 0.35999998 4, 0.16000001 2, 0.16000001 1 2, 0.14400001 2 4, 0.14 3, 0.14 1 3, 0.126 3 4, 0.120000005 0, 0.120000005 0 1, 0.108 0 4, 0.022400001 2 3, 0.019200003 0 2, 0.0168 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/e/n/Central_Greece_9697.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Lake</th>]]></html>
+	<text>Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (km²)</th>]]></html>
+	<text>Area (km&#178;)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Placed in Greece</th>]]></html>
+	<text>Placed in Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Prefecture</th>]]></html>
+	<text>Prefecture</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trichonida</td>]]></html>
+	<text>Trichonida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,513</td>]]></html>
+	<text>96,513</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aetolia-Acarnania</td>]]></html>
+	<text>Aetolia-Acarnania</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yliki</td>]]></html>
+	<text>Yliki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22,731</td>]]></html>
+	<text>22,731</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9th</td>]]></html>
+	<text>9th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boeotia</td>]]></html>
+	<text>Boeotia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amvrakia</td>]]></html>
+	<text>Amvrakia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,619</td>]]></html>
+	<text>13,619</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13th</td>]]></html>
+	<text>13th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aetolia-Acarnania</td>]]></html>
+	<text>Aetolia-Acarnania</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lysimachia</td>]]></html>
+	<text>Lysimachia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,200</td>]]></html>
+	<text>13,200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14th</td>]]></html>
+	<text>14th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aetolia-Acarnania</td>]]></html>
+	<text>Aetolia-Acarnania</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ozeros</td>]]></html>
+	<text>Ozeros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,013</td>]]></html>
+	<text>10,013</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16th</td>]]></html>
+	<text>16th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aetolia-Acarnania</td>]]></html>
+	<text>Aetolia-Acarnania</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Central Greece - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Number Lake Area (km ) Placed in Greece Prefecture</text>
+</context>
+<context>
+	<score>0.8835216</score>
+	<text>Central Greece has also some of the largest lakes in Greece, while amongst the most important is Mornos lake in Phocis , which supplies water around the prefecture, parts of the Phthiotis and Boeotia prefectures and Athens as well.</text>
+</context>
+<context>
+	<score>0.7969677</score>
+	<text>Central Greece</text>
+</context>
+<context>
+	<score>0.78655094</score>
+	<text>[ edit ] Lakes</text>
+</context>
+<context>
+	<score>0.7551781</score>
+	<text>[ edit ] Rivers</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] Etymology</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] Cities</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] Culture</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72412616</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193912</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423955</score>
+	<text>The region is one of the most mountainous in Greece, having some of the highest elevations in the country.</text>
+</context>
+<context>
+	<score>0.64691323</score>
+	<text>[ edit ] Mountains</text>
+</context>
+<context>
+	<score>0.60838</score>
+	<text>Some important and well known rivers of Central Greece are Acheloos in Aetolia-Acarnania which is the second longest of the country, Spercheios in Phthiotis, Evenus in Aetolia-Acarnania and Mornos in Phocis.</text>
+</context>
+<context>
+	<score>0.5972643</score>
+	<text>Central Greece is the most populous geographical region of Greece, with a population of 4,591,568 people, and covers an area of 24,818.3 km , making it the second largest of the country. It is located to the north of the Peloponnese and to the south of Thessaly and Epirus , bordering the Aegean Sea to the east, the Ionian Sea to the west and the Corinthian Gulf to the south. Its climate is temperate along its coastlines, and dry in the interior.</text>
+</context>
+<context>
+	<score>0.55754507</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.52576977</score>
+	<text>The region has traditionally been known as Ro meli ( ), a name deriving from the Turkish word Rumelia or Rumeli , meaning &quot;the land of the Rum [the Romans, i.e. the Byzantine Greeks ]&quot;. The official name Stere Ell da (&quot;Continental&quot; or &quot;Mainland&quot; Greece), derives from the fact that Central Greece was, along with the Peloponnese peninsula, the first region to form the modern Greek state.</text>
+</context>
+<context>
+	<score>0.52202815</score>
+	<text>[ edit ] Cities</text>
+</context>
+<context>
+	<score>0.5003495</score>
+	<text>[ edit ] Etymology</text>
+</context>
+<context>
+	<score>0.47527838</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47123298</score>
+	<text>The principal cities of the region of Central Greece according to the census of 2001 are:</text>
+</context>
+<context>
+	<score>0.4637443</score>
+	<text>- Kentrik Ell da ), for a time known as Ro meli ( ), is a geographical region of Greece . Its territory is divided into the peripheries of Central Greece , Attica , and one prefecture of West Greece . However, Attica is not always included in the region of Central Greece, but has recently been considered a separate region itself.</text>
+</context>
+<context>
+	<score>0.45072913</score>
+	<text>- Stere Ell da , earlier ) or Central Greece ( Greek :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:left; font-size:90%"><tr style="font-size:100%; text-align:left"><th width="40px"><a href="../../../../articles/n/u/m/Number.html" title="Number">Number</a></th><th width="140px"><a href="../../../../articles/l/a/k/Lake.html" title="Lake">Lake</a></th><th width="80px"><a href="../../../../articles/a/r/e/Area.html" title="Area">Area</a> (km²)</th><th width="80px">Placed<br />in Greece</th><th width="80px"><a href="../../../../articles/p/r/e/Prefecture.html" title="Prefecture">Prefecture</a></th></tr><tr><td>1</td><td><a href="../../../../articles/l/a/k/Lake_Trichonida_103c.html" title="Lake Trichonida">Trichonida</a></td><td><center>96,513</center></td><td><center>1st</center></td><td><a href="../../../../articles/a/e/t/Aetolia-Acarnania_ceec.html" title="Aetolia-Acarnania">Aetolia-Acarnania</a></td></tr><tr><td>2</td><td>Yliki</td><td><center>22,731</center></td><td><center>9th</center></td><td><a href="../../../../articles/b/o/e/Boeotia_Prefecture_de9d.html" title="Boeotia Prefecture">Boeotia</a></td></tr><tr><td>3</td><td>Amvrakia</td><td><center>13,619</center></td><td><center>13th</center></td><td><a href="../../../../articles/a/e/t/Aetolia-Acarnania_ceec.html" title="Aetolia-Acarnania">Aetolia-Acarnania</a></td></tr><tr><td>4</td><td><a href="../../../../articles/l/a/k/Lake_Lysimachia_7af4.html" title="Lake Lysimachia">Lysimachia</a></td><td><center>13,200</center></td><td><center>14th</center></td><td><a href="../../../../articles/a/e/t/Aetolia-Acarnania_ceec.html" title="Aetolia-Acarnania">Aetolia-Acarnania</a></td></tr><tr><td>5</td><td><a href="../../../../articles/o/z/e/Ozeros.html" title="Ozeros">Ozeros</a></td><td><center>10,013</center></td><td><center>16th</center></td><td><a href="../../../../articles/a/e/t/Aetolia-Acarnania_ceec.html" title="Aetolia-Acarnania">Aetolia-Acarnania</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

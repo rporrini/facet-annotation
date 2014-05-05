@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r5/e/l/e/Electoral_systems_of_the_Australian_states_and_territories_fcff.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 0 1, 0.8888889 0 2, 0.8333333 0 3, 0.7777778 0 6, 0.7222222 0 7, 0.6666667 0 8, 0.5925926 2 3, 0.53333336 2, 0.53333336 8, 0.51358026 2 7, 0.5037037 1 2, 0.5037037 1 8, 0.5 3, 0.4814815 7 8, 0.48148146 3 7, 0.4740741 2 8, 0.47222224 1 3, 0.44444448 3 8, 0.43333334 7, 0.41481486 6 8, 0.41481483 2 6, 0.40925926 1 7, 0.3888889 3 6, 0.37777779 1, 0.33703706 6 7, 0.31111112 6, 0.29382715 1 6, 0.12222222 4, 0.12222222 0 4, 0.1154321 1 4, 0.11111112 5, 0.11111112 0 5, 0.108641975 2 4, 0.10493827 1 5, 0.10185184 3 4, 0.09876544 2 5, 0.09506173 4 6, 0.0925926 3 5, 0.0882716 4 7, 0.08641976 5 6, 0.08148149 4 8, 0.08024692 5 7, 0.07407408 5 8, 0.013580248 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/e/l/e/Electoral_systems_of_the_Australian_states_and_territories_fcff.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Body elected</th>]]></html>
+	<text>Body elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>System</th>]]></html>
+	<text>System</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Term</th>]]></html>
+	<text>Term</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Seats</th>]]></html>
+	<text>Seats</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Seats/district</th>]]></html>
+	<text>Seats/district</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Group tickets</th>]]></html>
+	<text>Group tickets</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Vacancies</th>]]></html>
+	<text>Vacancies</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Surplus method [6]</th>]]></html>
+	<text>Surplus method [6]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New South Wales Legislative Council</td>]]></html>
+	<text>New South Wales Legislative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STV</td>]]></html>
+	<text>STV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 years</td>]]></html>
+	<text>8 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 year</td>]]></html>
+	<text>4 year</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42</td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Appointment</td>]]></html>
+	<text>Appointment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Random</td>]]></html>
+	<text>Random</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Australian Legislative Council</td>]]></html>
+	<text>South Australian Legislative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STV</td>]]></html>
+	<text>STV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 years</td>]]></html>
+	<text>8 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Appointment</td>]]></html>
+	<text>Appointment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gregory (inclusive)</td>]]></html>
+	<text>Gregory (inclusive)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tasmanian Legislative Council</td>]]></html>
+	<text>Tasmanian Legislative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AV</td>]]></html>
+	<text>AV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 years</td>]]></html>
+	<text>6 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Annual</td>]]></html>
+	<text>Annual</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>By-election</td>]]></html>
+	<text>By-election</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n/a</td>]]></html>
+	<text>n/a</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Victorian Legislative Council [7]</td>]]></html>
+	<text>Victorian Legislative Council [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STV</td>]]></html>
+	<text>STV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Appointment</td>]]></html>
+	<text>Appointment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gregory (weighted inclusive)</td>]]></html>
+	<text>Gregory (weighted inclusive)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Western Australian Legislative Council</td>]]></html>
+	<text>Western Australian Legislative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STV</td>]]></html>
+	<text>STV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-7</td>]]></html>
+	<text>5-7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gregory (weighted inclusive)</td>]]></html>
+	<text>Gregory (weighted inclusive)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Electoral systems of the Australian states and territories - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Body elected System Term Frequency Seats Seats/district Group tickets Vacancies Surplus method [6]</text>
+</context>
+<context>
+	<score>0.87533975</score>
+	<text>[ edit ] Upper houses</text>
+</context>
+<context>
+	<score>0.78042096</score>
+	<text>Electoral systems of the Australian states and territories</text>
+</context>
+<context>
+	<score>0.77359265</score>
+	<text>[ edit ] Lower houses</text>
+</context>
+<context>
+	<score>0.7406745</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] New South Wales</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Victoria</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Queensland</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Western Australia</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] South Australia</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Tasmania</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Australian Capital Territory</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Northern Territory</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Summary</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7015468</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.6990233</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.692195</score>
+	<text>[ edit ] Summary</text>
+</context>
+<context>
+	<score>0.627077</score>
+	<text>The Northern Territory Legislative Assembly has 25 members, elected for four-year terms from single-member constituencies under the same full preferential form of the Alternative Vote used for the House of Representatives. The Territory has never had an upper house. Nomination as a candidate requires one of the following:</text>
+</context>
+<context>
+	<score>0.5866457</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.57498246</score>
+	<text>[ edit ] Northern Territory</text>
+</context>
+<context>
+	<score>0.5333069</score>
+	<text>The Legislative Assembly of the Australian Capital Territory has 17 members, elected for four-year terms from three multi-member constituencies by STV proportional representation. Two of the constituencies elect five members while the third elects seven. The Territory has never had an upper house. It uses the same &apos;Hare-Clark&apos; system of STV used in Tasmania, with vacancies filled by countback. Nomination as a candidate requires the following:</text>
+</context>
+<context>
+	<score>0.49996644</score>
+	<text>[ edit ] Australian Capital Territory</text>
+</context>
+<context>
+	<score>0.49604055</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.4707706</score>
+	<text>Nomination for either house requires:</text>
+</context>
+<context>
+	<score>0.45195615</score>
+	<text>[ edit ] Nomination</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>Body elected</th><th>System</th><th>Term</th><th>Frequency</th><th>Seats</th><th>Seats/district</th><th>Group tickets</th><th>Vacancies</th><th>Surplus method<sup id="cite_ref-5" class="reference"><a href="#cite_note-5" title="">[6]</a></sup></th></tr><tr><td><a href="../../../../articles/n/e/w/New_South_Wales_Legislative_Council_e58b.html" title="New South Wales Legislative Council">New South Wales Legislative Council</a></td><td><a href="../../../../articles/s/i/n/Single_Transferable_Vote_c914.html" class="mw-redirect" title="Single Transferable Vote">STV</a></td><td>8 years</td><td>4 year</td><td>42</td><td>21</td><td>Yes</td><td>Appointment</td><td>Random</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Australian_Legislative_Council_a288.html" title="South Australian Legislative Council">South Australian Legislative Council</a></td><td><a href="../../../../articles/s/i/n/Single_Transferable_Vote_c914.html" class="mw-redirect" title="Single Transferable Vote">STV</a></td><td>8 years</td><td>4 years</td><td>22</td><td>11</td><td>Yes</td><td>Appointment</td><td>Gregory (inclusive)</td></tr><tr><td><a href="../../../../articles/t/a/s/Tasmanian_Legislative_Council_a632.html" title="Tasmanian Legislative Council">Tasmanian Legislative Council</a></td><td><a href="../../../../articles/i/n/s/Instant-runoff_voting.html" title="Instant-runoff voting">AV</a></td><td>6 years</td><td>Annual</td><td>15</td><td>1</td><td>&#160;?</td><td><a href="../../../../articles/b/y/-/By-election.html" title="By-election">By-election</a></td><td><i>n/a</i></td></tr><tr><td><a href="../../../../articles/v/i/c/Victorian_Legislative_Council_c522.html" title="Victorian Legislative Council">Victorian Legislative Council</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></td><td><a href="../../../../articles/s/i/n/Single_Transferable_Vote_c914.html" class="mw-redirect" title="Single Transferable Vote">STV</a></td><td>4 years</td><td>4 years</td><td>40</td><td>5</td><td>Yes</td><td>Appointment</td><td>Gregory (weighted inclusive)</td></tr><tr><td><a href="../../../../articles/w/e/s/Western_Australian_Legislative_Council_0b81.html" title="Western Australian Legislative Council">Western Australian Legislative Council</a></td><td><a href="../../../../articles/s/i/n/Single_Transferable_Vote_c914.html" class="mw-redirect" title="Single Transferable Vote">STV</a></td><td>4 years</td><td>4 years</td><td>34</td><td>5-7</td><td>Yes</td><td>&#160;?</td><td>Gregory (weighted inclusive)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

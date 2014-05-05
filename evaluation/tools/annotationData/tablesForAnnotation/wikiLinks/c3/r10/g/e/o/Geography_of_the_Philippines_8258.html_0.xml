@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/g/e/o/Geography_of_the_Philippines_8258.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.06666667 0, 0.06666667 0 1, 0.011111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/g/e/o/Geography_of_the_Philippines_8258.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population in 2000</th>]]></html>
+	<text>Population in 2000</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1.</td>]]></html>
+	<text>1.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Metro Manila</td>]]></html>
+	<text>Metro Manila</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,932,560</td>]]></html>
+	<text>9,932,560</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2.</td>]]></html>
+	<text>2.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Metro Cebu</td>]]></html>
+	<text>Metro Cebu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,930,096</td>]]></html>
+	<text>1,930,096</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.</td>]]></html>
+	<text>3.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Davao City</td>]]></html>
+	<text>Davao City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,147,116</td>]]></html>
+	<text>1,147,116</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4.</td>]]></html>
+	<text>4.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zamboanga City</td>]]></html>
+	<text>Zamboanga City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>601,794</td>]]></html>
+	<text>601,794</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5.</td>]]></html>
+	<text>5.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Antipolo City</td>]]></html>
+	<text>Antipolo City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>470,866</td>]]></html>
+	<text>470,866</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6.</td>]]></html>
+	<text>6.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cagayan de Oro City</td>]]></html>
+	<text>Cagayan de Oro City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>461,877</td>]]></html>
+	<text>461,877</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7.</td>]]></html>
+	<text>7.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bacolod City</td>]]></html>
+	<text>Bacolod City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>429,076</td>]]></html>
+	<text>429,076</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8.</td>]]></html>
+	<text>8.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General Santos City</td>]]></html>
+	<text>General Santos City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>411,822</td>]]></html>
+	<text>411,822</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9.</td>]]></html>
+	<text>9.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iloilo City</td>]]></html>
+	<text>Iloilo City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>365,820</td>]]></html>
+	<text>365,820</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10.</td>]]></html>
+	<text>10.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iligan City</td>]]></html>
+	<text>Iligan City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>285,061</td>]]></html>
+	<text>285,061</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Geography of the Philippines - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank City Population in 2000</text>
+</context>
+<context>
+	<score>0.8802259</score>
+	<text>The following is a list of the ten largest cities in the country in terms of population, with their population according to the 2000 census. Component cities and municipalities of Metro Manila and Metro Cebu are taken as one to show the extent of urbanization .</text>
+</context>
+<context>
+	<score>0.79436296</score>
+	<text>Geography of the Philippines</text>
+</context>
+<context>
+	<score>0.7817317</score>
+	<text>Ten largest cities</text>
+</context>
+<context>
+	<score>0.75183284</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] Physical setting</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] Political geography</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] Climate</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] Terrain</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] Other information</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71824265</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7167565</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7041253</score>
+	<text>Distances from Manila:</text>
+</context>
+<context>
+	<score>0.6420401</score>
+	<text>signed, but not ratified: Climate Change-Kyoto Protocol, Desertification</text>
+</context>
+<context>
+	<score>0.59237194</score>
+	<text>party to: Biodiversity, Climate Change, Endangered Species, Hazardous Wastes, Law of the Sea, Marine Dumping, Nuclear Test Ban, Ozone Layer Protection, Tropical Timber 83, Tropical Timber 94, Wetlands, Whaling</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Environment - international agreements:</text>
+</context>
+<context>
+	<score>0.5208498</score>
+	<text>Environment - current issues: uncontrolled deforestation in watershed areas; soil erosion; air and water pollution in Manila; increasing pollution of coastal mangrove swamps which are important fish breeding grounds</text>
+</context>
+<context>
+	<score>0.5185928</score>
+	<text>List of islands of the Philippines Lands Claimed by the Philippines</text>
+</context>
+<context>
+	<score>0.4969057</score>
+	<text>Natural hazards: astride typhoon belt, usually affected by 15 and struck by five to six cyclonic storms per year; landslides; active volcanoes; destructive earthquakes; tsunamis</text>
+</context>
+<context>
+	<score>0.47507563</score>
+	<text>Irrigated land: 15,800 km (1993 est.)</text>
+</context>
+<context>
+	<score>0.46777797</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>other: 19% (1993 est.)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellspacing="5" cellpadding="0"><tr><th>Rank</th><th>City</th><th>&#160;Population in 2000&#160;</th></tr><tr><td align="right">1.</td><td><a href="../../../../articles/m/e/t/Metro_Manila_d597.html" title="Metro Manila">Metro Manila</a></td><td align="right">9,932,560</td></tr><tr><td align="right">2.</td><td><a href="../../../../articles/m/e/t/Metro_Cebu_7242.html" title="Metro Cebu">Metro Cebu</a></td><td align="right">1,930,096</td></tr><tr><td align="right">3.</td><td><a href="../../../../articles/d/a/v/Davao_City_826b.html" title="Davao City">Davao City</a></td><td align="right">1,147,116</td></tr><tr><td align="right">4.</td><td><a href="../../../../articles/z/a/m/Zamboanga_City_d4f4.html" title="Zamboanga City">Zamboanga City</a></td><td align="right">601,794</td></tr><tr><td align="right">5.</td><td><a href="../../../../articles/a/n/t/Antipolo_City_2854.html" title="Antipolo City">Antipolo City</a></td><td align="right">470,866</td></tr><tr><td align="right">6.</td><td><a href="../../../../articles/c/a/g/Cagayan_de_Oro_City_69ff.html" title="Cagayan de Oro City">Cagayan de Oro City</a></td><td align="right">461,877</td></tr><tr><td align="right">7.</td><td><a href="../../../../articles/b/a/c/Bacolod_City_5ed5.html" title="Bacolod City">Bacolod City</a></td><td align="right">429,076</td></tr><tr><td align="right">8.</td><td><a href="../../../../articles/g/e/n/General_Santos_City_6f7f.html" title="General Santos City">General Santos City</a></td><td align="right">411,822</td></tr><tr><td align="right">9.</td><td><a href="../../../../articles/i/l/o/Iloilo_City_aca2.html" title="Iloilo City">Iloilo City</a></td><td align="right">365,820</td></tr><tr><td align="right">10.</td><td><a href="../../../../articles/i/l/i/Iligan_City_5d62.html" title="Iligan City">Iligan City</a></td><td align="right">285,061</td></tr></table>]]>
+</htmlSnippet>
+</entity>

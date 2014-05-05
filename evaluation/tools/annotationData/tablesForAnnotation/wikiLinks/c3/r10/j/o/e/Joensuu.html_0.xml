@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/j/o/e/Joensuu.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 2, 0.25 2, 0.13333334 0 1, 0.120000005 1, 0.11111111 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/j/o/e/Joensuu.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance</th>]]></html>
+	<text>Distance</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Direction</th>]]></html>
+	<text>Direction</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Helsinki</td>]]></html>
+	<text>Helsinki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>437 km</td>]]></html>
+	<text>437 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SW</td>]]></html>
+	<text>SW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jyväskylä</td>]]></html>
+	<text>Jyv&#228;skyl&#228;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>245 km</td>]]></html>
+	<text>245 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>W</td>]]></html>
+	<text>W</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kuopio</td>]]></html>
+	<text>Kuopio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>136 km</td>]]></html>
+	<text>136 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NW</td>]]></html>
+	<text>NW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lappeenranta</td>]]></html>
+	<text>Lappeenranta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>235 km</td>]]></html>
+	<text>235 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SW</td>]]></html>
+	<text>SW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oulu</td>]]></html>
+	<text>Oulu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>393 km</td>]]></html>
+	<text>393 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NW</td>]]></html>
+	<text>NW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kajaani</td>]]></html>
+	<text>Kajaani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>222 km</td>]]></html>
+	<text>222 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NW</td>]]></html>
+	<text>NW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Savonlinna</td>]]></html>
+	<text>Savonlinna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>133 km</td>]]></html>
+	<text>133 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SW</td>]]></html>
+	<text>SW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampere</td>]]></html>
+	<text>Tampere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>393 km</td>]]></html>
+	<text>393 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SW</td>]]></html>
+	<text>SW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turku</td>]]></html>
+	<text>Turku</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>542 km</td>]]></html>
+	<text>542 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SW</td>]]></html>
+	<text>SW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vaasa</td>]]></html>
+	<text>Vaasa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>492 km</td>]]></html>
+	<text>492 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>W</td>]]></html>
+	<text>W</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Joensuu - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Distance Direction</text>
+</context>
+<context>
+	<score>0.8785516</score>
+	<text>Distances to other Finnish cities:</text>
+</context>
+<context>
+	<score>0.79657394</score>
+	<text>Joensuu</text>
+</context>
+<context>
+	<score>0.78139293</score>
+	<text>Ramin grilli at Niinivaara, Joensuu</text>
+</context>
+<context>
+	<score>0.7545596</score>
+	<text>[ edit ] Friendship cities</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] Statistics</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] Distances</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] Friendship cities</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72344726</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.718847</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70366603</score>
+	<text>Orthodox Church, Kirkkokatu, Joensuu</text>
+</context>
+<context>
+	<score>0.64148444</score>
+	<text>Kirkkokatu</text>
+</context>
+<context>
+	<score>0.6074767</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.59633946</score>
+	<text>[ edit ] Distances</text>
+</context>
+<context>
+	<score>0.55654323</score>
+	<text>[ edit ] Statistics</text>
+</context>
+<context>
+	<score>0.5247063</score>
+	<text>At the beginning of 2009 the municipalities of Eno and Pyh selk will become a part of Joensuu. There will then be approximately 72 000 inhabitants in the Joensuu municipal area.</text>
+</context>
+<context>
+	<score>0.52095747</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.49923673</score>
+	<text>Joensuu has been at times referred to as the &apos;Forest Capital of Europe&apos;, mainly due to the fact that the European Forest Institute is based there. Other forestry research and educational facilities are also based in Joensuu.</text>
+</context>
+<context>
+	<score>0.47886106</score>
+	<text>The proximity of the eastern border has been an important factor in the history of the city. The Republic of Karelia is once again a significant area for cooperation with nearby regions in Russia . Export companies in Joensuu continue the pre-revolutionary traditions in foreign trade. Joensuu offers many possibilities for varied cultural activities. High-quality events - Ilosaarirock, Joensuu Music Winter, Festival of Visual Culture Viscult, Gospel festivals - and the unspoilt environment increase the attractiveness of the city.</text>
+</context>
+<context>
+	<score>0.47006372</score>
+	<text>City of Joensuu (English) City of Joensuu (Finnish)</text>
+</context>
+<context>
+	<score>0.46256053</score>
+	<text>The University of Joensuu has, in twenty-five years, expanded to eight faculties . The University of Joensuu is one of the mainstays for the vitality of the city and so for all North Karelia . Diversified international cooperation in science, industry and commerce benefits the whole region.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0"><tr><th style="background:#efefef;">City</th><th style="background:#efefef;">Distance</th><th style="background:#efefef;">Direction</th></tr><tr><td><a href="../../../../articles/h/e/l/Helsinki.html" title="Helsinki">Helsinki</a></td><td align="center">437 km</td><td align="center">SW</td></tr><tr><td><a href="../../../../articles/j/y/v/Jyv%C3%A4skyl%C3%A4.html" title="Jyväskylä">Jyväskylä</a></td><td align="center">245 km</td><td align="center">W</td></tr><tr><td><a href="../../../../articles/k/u/o/Kuopio.html" title="Kuopio">Kuopio</a></td><td align="center">136 km</td><td align="center">NW</td></tr><tr><td><a href="../../../../articles/l/a/p/Lappeenranta.html" title="Lappeenranta">Lappeenranta</a></td><td align="center">235 km</td><td align="center">SW</td></tr><tr><td><a href="../../../../articles/o/u/l/Oulu.html" title="Oulu">Oulu</a></td><td align="center">393 km</td><td align="center">NW</td></tr><tr><td><a href="../../../../articles/k/a/j/Kajaani.html" title="Kajaani">Kajaani</a></td><td align="center">222 km</td><td align="center">NW</td></tr><tr><td><a href="../../../../articles/s/a/v/Savonlinna.html" title="Savonlinna">Savonlinna</a></td><td align="center">133 km</td><td align="center">SW</td></tr><tr><td><a href="../../../../articles/t/a/m/Tampere.html" title="Tampere">Tampere</a></td><td align="center">393 km</td><td align="center">SW</td></tr><tr><td><a href="../../../../articles/t/u/r/Turku.html" title="Turku">Turku</a></td><td align="center">542 km</td><td align="center">SW</td></tr><tr><td><a href="../../../../articles/v/a/a/Vaasa.html" title="Vaasa">Vaasa</a></td><td align="center">492 km</td><td align="center">W</td></tr></table>]]>
+</htmlSnippet>
+</entity>

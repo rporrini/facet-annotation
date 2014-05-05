@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_university_stadiums.html_9.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_university_stadiums.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Akron</td>]]></html>
+	<text>University of Akron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rubber Bowl</td>]]></html>
+	<text>Rubber Bowl</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,202</td>]]></html>
+	<text>35,202</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bowling Green University</td>]]></html>
+	<text>Bowling Green University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doyt Perry Stadium</td>]]></html>
+	<text>Doyt Perry Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,724</td>]]></html>
+	<text>23,724</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Buffalo</td>]]></html>
+	<text>University of Buffalo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University at Buffalo Stadium</td>]]></html>
+	<text>University at Buffalo Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,000</td>]]></html>
+	<text>31,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kent State University</td>]]></html>
+	<text>Kent State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dix Stadium</td>]]></html>
+	<text>Dix Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29,287</td>]]></html>
+	<text>29,287</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami University</td>]]></html>
+	<text>Miami University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yager Stadium</td>]]></html>
+	<text>Yager Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24,286</td>]]></html>
+	<text>24,286</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Ohio</td>]]></html>
+	<text>University of Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peden Stadium</td>]]></html>
+	<text>Peden Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24,000</td>]]></html>
+	<text>24,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of university stadiums - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Stadium Capacity</text>
+</context>
+<context>
+	<score>0.88205427</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.79068214</score>
+	<text>List of university stadiums</text>
+</context>
+<context>
+	<score>0.7850619</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.75368214</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Big 12</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Big 10</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Pac10</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Sun Belt</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] WAC</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Independent</text>
+</context>
+<context>
+	<score>0.7163829</score>
+	<text>[ edit ] Complete List of NCAA Stadiums</text>
+</context>
+<context>
+	<score>0.7130883</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70746815</score>
+	<text>[ edit ] Coastal</text>
+</context>
+<context>
+	<score>0.6453931</score>
+	<text>[ edit ] Atlantic</text>
+</context>
+<context>
+	<score>0.6068512</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.595733</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.556005</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.52422255</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.5204801</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.4987966</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.47845584</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.4696736</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.46218324</score>
+	<text>[ edit ] Pac10</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr bgcolor="#CCCCCC"><th>School</th><th>Stadium</th><th>Capacity</th></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Akron_1e60.html" title="University of Akron">University of Akron</a></td><td><a href="../../../../articles/r/u/b/Rubber_Bowl_2dcb.html" title="Rubber Bowl">Rubber Bowl</a></td><td>35,202</td></tr><tr><td><a href="../../../../articles/b/o/w/Bowling_Green_University_5050.html" class="mw-redirect" title="Bowling Green University">Bowling Green University</a></td><td><a href="../../../../articles/d/o/y/Doyt_Perry_Stadium_143e.html" title="Doyt Perry Stadium">Doyt Perry Stadium</a></td><td>23,724</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Buffalo_a9dc.html" class="mw-redirect" title="University of Buffalo">University of Buffalo</a></td><td><a href="../../../../articles/u/n/i/University_at_Buffalo_Stadium_6d61.html" title="University at Buffalo Stadium">University at Buffalo Stadium</a></td><td>31,000</td></tr><tr><td><a href="../../../../articles/k/e/n/Kent_State_University_5644.html" title="Kent State University">Kent State University</a></td><td><a href="../../../../articles/d/i/x/Dix_Stadium_86f0.html" title="Dix Stadium">Dix Stadium</a></td><td>29,287</td></tr><tr><td><a href="../../../../articles/m/i/a/Miami_University_faf2.html" title="Miami University">Miami University</a></td><td><a href="../../../../articles/y/a/g/Yager_Stadium_7aa8.html" title="Yager Stadium">Yager Stadium</a></td><td>24,286</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Ohio_0121.html" class="mw-redirect" title="University of Ohio">University of Ohio</a></td><td><a href="../../../../articles/p/e/d/Peden_Stadium_ad32.html" title="Peden Stadium">Peden Stadium</a></td><td>24,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

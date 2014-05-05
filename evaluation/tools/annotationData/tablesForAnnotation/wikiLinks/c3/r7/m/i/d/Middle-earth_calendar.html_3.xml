@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r7/m/i/d/Middle-earth_calendar.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/m/i/d/Middle-earth_calendar.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Day Name</th>]]></html>
+	<text>Day Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Meaning</th>]]></html>
+	<text>Meaning</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Relationship to Gregorian calendar</th>]]></html>
+	<text>Relationship to Gregorian calendar</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sterday</td>]]></html>
+	<text>Sterday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stars of Varda</td>]]></html>
+	<text>Stars of Varda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saturday</td>]]></html>
+	<text>Saturday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sunday</td>]]></html>
+	<text>Sunday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sun</td>]]></html>
+	<text>Sun</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sunday</td>]]></html>
+	<text>Sunday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Monday</td>]]></html>
+	<text>Monday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moon</td>]]></html>
+	<text>Moon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monday</td>]]></html>
+	<text>Monday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trewsday</td>]]></html>
+	<text>Trewsday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Two Trees of Valinor</td>]]></html>
+	<text>Two Trees of Valinor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tuesday</td>]]></html>
+	<text>Tuesday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hevensday</td>]]></html>
+	<text>Hevensday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Heavens</td>]]></html>
+	<text>Heavens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wednesday</td>]]></html>
+	<text>Wednesday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mersday</td>]]></html>
+	<text>Mersday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sea</td>]]></html>
+	<text>Sea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thursday</td>]]></html>
+	<text>Thursday</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Highday</td>]]></html>
+	<text>Highday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Valar</td>]]></html>
+	<text>Valar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Friday</td>]]></html>
+	<text>Friday</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Middle-earth calendar - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Day Name Meaning Relationship to Gregorian calendar</text>
+</context>
+<context>
+	<score>0.88231146</score>
+	<text>There were seven days in the Shire week. The first day of the week was called Sterday and the last day of the week was called Highday . The Mid-year&apos;s Day and, when present, Overlithe had no weekday assignments. This arrangement was used because it caused every day to have the same weekday designation from year to year (instead of changing as in the Gregorian calendar ).</text>
+</context>
+<context>
+	<score>0.7969696</score>
+	<text>Middle-earth calendar</text>
+</context>
+<context>
+	<score>0.7853417</score>
+	<text>The Yuledays were the days that signify the end of an old year and the beginning of a new one, so 2 Yule was the first day of the year. The Lithedays are the three days in the middle of the year, 1 Lithe, Mid-year&apos;s Day, and 2 Lithe. In leap years (every fourth year except centennial years) a day was added after Mid-year&apos;s Day called Overlithe . All these days were placed outside of any month. These days were primarily holidays and feast days. Mid-year&apos;s Day is meant to correspond to the summer solstice , which Tolkien describes as being 10 days earlier than the middle day of our year. However, since then the summer solstice has shifted slightly so it falls on a different date now, rendering the difference between Mid-year&apos;s Day and the middle day of our year eleven days, instead of ten.</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Highday was a holiday with evening feasts.</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] Elven calendar</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] N men rean Calendar</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] Hobbit Calendar</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] Durin&apos;s Day</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.7229175</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193938</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7077659</score>
+	<text>It is highly based on the Germanic calendar . Year 1 of the Shire Calendar corresponded when the Shire was founded by the Bree Hobbits Marcho and Blanco in the year 1601 of the Third Age . Therefore, years of the Third Age can be converted to Shire-years by subtracting 1600. The last year of the Third Age was year 1421 on the Shire calendar. A year in the Shire was the same length as our year - 365 days, 5 hours, 48 minutes, 46 seconds. The Shire&apos;s calendar year was also divided into 12 months but all of 30 days. Five additional days were added to create a 365-day year. The months followed the lunar cycle.</text>
+</context>
+<context>
+	<score>0.6457053</score>
+	<text>The Shire Calendar was a calendar used in J.R.R. Tolkien &apos;s fictional Middle-earth by the Hobbits of the Shire . It was different from that used by the Men , Dwarves and Elves . Use of this calendar in Middle-earth is referred to as Shire-reckoning .</text>
+</context>
+<context>
+	<score>0.6071724</score>
+	<text>In The Hobbit and The Lord of the Rings , the names of months and days are given in modern equivalents. For instance, Afteryule is called January and Sterday is called Saturday .</text>
+</context>
+<context>
+	<score>0.59605676</score>
+	<text>[ edit ] Hobbit Calendar</text>
+</context>
+<context>
+	<score>0.55633795</score>
+	<text>According to Jim Allan in An Introduction to Elvish , each of the elvish month names has a correspondence to the months of the French Republican Calendar . (cf. N nim /Pluvi se mean &apos;Rainy&apos;, S l m /Vent se mean &apos;Windy&apos; etc). Jim Allan suggests that Tolkien used this similarity because the French Republican Calendar was based on an earlier unrecorded Germanic month names.</text>
+</context>
+<context>
+	<score>0.52456295</score>
+	<text>[ edit ] Relationship to the French Republican Calendar</text>
+</context>
+<context>
+	<score>0.5208214</score>
+	<text>[ edit ] Lithe</text>
+</context>
+<context>
+	<score>0.49914292</score>
+	<text>The months of the Reckonings were in Quenya (or Sindarin among the D nedain ) and were:</text>
+</context>
+<context>
+	<score>0.47880688</score>
+	<text>In T.A. 3019, the Reunited Kingdom adopted a New Reckoning, which began the year on March 25, the date of the downfall of Sauron. This made it correspond more closely to the spring beginning of the Elven calendar.</text>
+</context>
+<context>
+	<score>0.47002664</score>
+	<text>Look up Middle-earth calendar in</text>
+</context>
+<context>
+	<score>0.46253806</score>
+	<text>Various irregularities occurred in this calendar, especially following the Downfall. In T.A. 2060, Mardil Voronw revised the calendar, and the new version became the Steward&apos;s Reckoning. The months of Steward&apos;s Reckoning all had 30 days, and there were two additional &quot;extra&quot; days at the equinoxes , tuil r and y vi r . The five extra days (the equinoxes, midsummer and two at midwinter) were holidays.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="2" cellspacing="0"><tr style="background:#EFEFEF;"><th>Day Name</th><th>Meaning</th><th>Relationship to <a href="../../../../articles/g/r/e/Gregorian_calendar.html" title="Gregorian calendar">Gregorian calendar</a></th></tr><tr><td><i>Sterday</i></td><td>Stars of <a href="../../../../articles/v/a/r/Varda.html" title="Varda">Varda</a></td><td><a href="../../../../articles/s/a/t/Saturday.html" title="Saturday">Saturday</a></td></tr><tr><td><i>Sunday</i></td><td><a href="../../../../articles/s/u/n/Sun_%28Middle-earth%29_63b7.html" class="mw-redirect" title="Sun (Middle-earth)">Sun</a></td><td><a href="../../../../articles/s/u/n/Sunday.html" title="Sunday">Sunday</a></td></tr><tr><td><i>Monday</i></td><td><a href="../../../../articles/m/o/o/Moon_%28Middle-earth%29_1cbc.html" class="mw-redirect" title="Moon (Middle-earth)">Moon</a></td><td><a href="../../../../articles/m/o/n/Monday.html" title="Monday">Monday</a></td></tr><tr><td><i>Trewsday</i></td><td><a href="../../../../articles/t/w/o/Two_Trees_of_Valinor_a1c2.html" title="Two Trees of Valinor">Two Trees</a> of <a href="../../../../articles/v/a/l/Valinor.html" title="Valinor">Valinor</a></td><td><a href="../../../../articles/t/u/e/Tuesday.html" title="Tuesday">Tuesday</a></td></tr><tr><td><i>Hevensday</i></td><td><a href="../../../../articles/i/l/m/Ilmen.html" title="Ilmen">Heavens</a></td><td><a href="../../../../articles/w/e/d/Wednesday.html" title="Wednesday">Wednesday</a></td></tr><tr><td><i>Mersday</i></td><td><a href="../../../../articles/b/e/l/Belegaer.html" title="Belegaer">Sea</a></td><td><a href="../../../../articles/t/h/u/Thursday.html" title="Thursday">Thursday</a></td></tr><tr><td><i>Highday</i></td><td><a href="../../../../articles/v/a/l/Vala_%28Middle-earth%29_3b8a.html" title="Vala (Middle-earth)">Valar</a></td><td><a href="../../../../articles/f/r/i/Friday.html" title="Friday">Friday</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

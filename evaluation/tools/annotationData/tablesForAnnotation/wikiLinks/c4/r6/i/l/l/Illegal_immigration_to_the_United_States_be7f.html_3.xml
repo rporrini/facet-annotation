@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/i/l/l/Illegal_immigration_to_the_United_States_be7f.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 0 1, 0.15 0 2, 0.14583333 1, 0.075 2, 0.0625 0 3, 0.021875 1 2, 0.020833334 3, 0.0109375 1 3, 0.0062500006 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/i/l/l/Illegal_immigration_to_the_United_States_be7f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country of Origin</th>]]></html>
+	<text>Country of Origin</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Raw Number</th>]]></html>
+	<text>Raw Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Percent of Total</th>]]></html>
+	<text>Percent of Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Percent Change 2000 to 2005</th>]]></html>
+	<text>Percent Change 2000 to 2005</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mexico</td>]]></html>
+	<text>Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,570,000</td>]]></html>
+	<text>6,570,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>57</td>]]></html>
+	<text>57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Salvador</td>]]></html>
+	<text>El Salvador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>510,000</td>]]></html>
+	<text>510,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guatemala</td>]]></html>
+	<text>Guatemala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>430,000</td>]]></html>
+	<text>430,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Philippines</td>]]></html>
+	<text>Philippines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>280,000</td>]]></html>
+	<text>280,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Honduras</td>]]></html>
+	<text>Honduras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>280,000</td>]]></html>
+	<text>280,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>270,000</td>]]></html>
+	<text>270,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Illegal immigration to the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country of Origin Raw Number Percent of Total Percent Change 2000 to 2005</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>For 2006</text>
+</context>
+<context>
+	<score>0.78939396</score>
+	<text>Illegal immigration to the United States</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>For 2005</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>The Urban Institute, a research group in Washington, D.C., estimates &quot;between 65,000 and 75,000 undocumented Canadians currently live in the United States.&quot;</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Definition</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] General profile of illegal immigrants</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Breakdown by state</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Present-day countries of origin</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Modes of entry</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Dangers</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Causes</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Impacts</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Immigration enforcement</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Public reaction</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Legal issues</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.7125609</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71181816</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>, the countries of origin for the largest numbers of illegal immigrants are as follows:</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>According to the U.S. Department of Homeland Security</text>
+</context>
+<context>
+	<score>0.6043917</score>
+	<text>[ edit ] Modes of entry</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>. Using data from March of 2004, PHC estimated</text>
+</context>
+<context>
+	<score>0.5535573</score>
+	<text>, a number supported by the US Government Accountability Office (GAO)</text>
+</context>
+<context>
+	<score>0.5217822</score>
+	<text>In March of 2006 the Pew Hispanic Center (PHC) estimated the undocumented population ranged from 11.5 to 12 million individuals</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>It is estimated that as of 2006 there were between 11.5 and 12 million undocumented immigrants in the US. Their mode of illegal entry into the country is believed to break down as follows:</text>
+</context>
+<context>
+	<score>0.4963622</score>
+	<text>[ edit ] Present-day countries of origin</text>
+</context>
+<context>
+	<score>0.47602618</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>A border crossing card is a card that allows non-immigrants &quot;to commute back and forth each week from Canada and Mexico&quot;.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Other top ten states for highest percentage of illegal aliens include; Arizona, Georgia, New Jersey, North Carolina, and Washington.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Country of Origin</th><th>Raw Number</th><th>Percent of Total</th><th>Percent Change 2000 to 2005</th></tr><tr><td><a href="../../../../articles/m/e/x/Mexico.html" title="Mexico">Mexico</a></td><td>6,570,000</td><td>57</td></tr><tr><td><a href="../../../../articles/e/l/_/El_Salvador_2636.html" title="El Salvador">El Salvador</a></td><td>510,000</td><td>4</td></tr><tr><td><a href="../../../../articles/g/u/a/Guatemala.html" title="Guatemala">Guatemala</a></td><td>430,000</td><td>4</td></tr><tr><td><a href="../../../../articles/p/h/i/Philippines.html" title="Philippines">Philippines</a></td><td>280,000</td><td>2</td><td>40</td></tr><tr><td><a href="../../../../articles/h/o/n/Honduras.html" title="Honduras">Honduras</a></td><td>280,000</td><td>2</td></tr><tr><td><a href="../../../../articles/i/n/d/India.html" title="India">India</a></td><td>270,000</td><td>2</td></tr></table>]]>
+</htmlSnippet>
+</entity>

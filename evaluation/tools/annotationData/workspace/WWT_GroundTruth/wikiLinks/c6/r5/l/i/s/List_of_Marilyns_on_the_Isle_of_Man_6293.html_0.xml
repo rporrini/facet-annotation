@@ -1,0 +1,57 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="5">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wikicategory_Mountains_and_hills_of_the_Isle_of_Man" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Snaefell</entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity>Isle_of_Man</entity>
+</row>
+<row>
+<entity>South_Barrule</entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity>Snaefell</entity>
+</row>
+<row>
+<entity>Bradda_Hill</entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity>South_Barrule</entity>
+</row>
+<row>
+<entity>Slieau_Freoaghane</entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity>Snaefell</entity>
+</row>
+<row>
+<entity>Mull_Hill</entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity></entity>
+<entity>Bradda_Hill</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

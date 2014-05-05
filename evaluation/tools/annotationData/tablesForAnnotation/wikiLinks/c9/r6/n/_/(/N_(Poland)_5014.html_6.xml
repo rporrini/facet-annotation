@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r6/n/_/(/N_(Poland)_5014.html_6.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9444444 1 2, 0.8888889 1 3, 0.8333333 1 4, 0.7777778 1 5, 0.7222222 1 6, 0.6666667 1 7, 0.6111111 1 8, 0.2777778 4, 0.2777778 4 7, 0.26234567 2 4, 0.24691358 3 4, 0.22222224 7, 0.21604937 4 5, 0.20987654 2 7, 0.20061728 4 6, 0.19753087 3 7, 0.17283952 5 7, 0.16975307 4 8, 0.16049384 6 7, 0.1574074 2, 0.14814815 3, 0.1399177 2 3, 0.13580248 7 8, 0.12962964 5, 0.122427985 2 5, 0.12037037 6, 0.11522634 3 5, 0.11368313 2 6, 0.11111112 0, 0.11111112 0 1, 0.10699588 3 6, 0.104938276 0 2, 0.10185185 8, 0.09876544 0 3, 0.09619342 2 8, 0.0936214 5 6, 0.0925926 0 4, 0.09053498 3 8, 0.08641976 0 5, 0.08024692 0 6, 0.07921811 5 8, 0.07407408 0 7, 0.07355967 6 8, 0.06790124 0 8, " />
+<meta name="parentHTMLDoc" value="en/articles/n/_/(/N_(Poland)_5014.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG</th>]]></html>
+	<text>EPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel name</th>]]></html>
+	<text>Channel name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcasting country</th>]]></html>
+	<text>Broadcasting country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Spoken language</th>]]></html>
+	<text>Spoken language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Subtitles language</th>]]></html>
+	<text>Subtitles language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Free-to-air (FTA)</th>]]></html>
+	<text>Free-to-air (FTA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>HD</th>]]></html>
+	<text>HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pay-per-view</th>]]></html>
+	<text>Pay-per-view</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>100</td>]]></html>
+	<text>100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HBO</td>]]></html>
+	<text>HBO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>101</td>]]></html>
+	<text>101</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HBO 2</td>]]></html>
+	<text>HBO 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>102</td>]]></html>
+	<text>102</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HBO Comedy</td>]]></html>
+	<text>HBO Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>103</td>]]></html>
+	<text>103</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cinemax</td>]]></html>
+	<text>Cinemax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>104</td>]]></html>
+	<text>104</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cinemax 2</td>]]></html>
+	<text>Cinemax 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>105</td>]]></html>
+	<text>105</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HBO HD</td>]]></html>
+	<text>HBO HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Polish</td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>n (Poland) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG Channel name Broadcasting country Spoken language Subtitles language Free-to-air (FTA) Type HD Pay-per-view</text>
+</context>
+<context>
+	<score>0.8829967</score>
+	<text>[ edit ] HBO+Cinemax</text>
+</context>
+<context>
+	<score>0.8007576</score>
+	<text>n (Poland)</text>
+</context>
+<context>
+	<score>0.7860269</score>
+	<text>[ edit ] &quot;Children&quot;</text>
+</context>
+<context>
+	<score>0.75465435</score>
+	<text>[ edit ] Filmbox</text>
+</context>
+<context>
+	<score>0.7273905</score>
+	<text>[ edit ] Channels</text>
+</context>
+<context>
+	<score>0.7273905</score>
+	<text>[ edit ] VOD</text>
+</context>
+<context>
+	<score>0.7273905</score>
+	<text>[ edit ] PVR</text>
+</context>
+<context>
+	<score>0.7273905</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7231818</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70845115</score>
+	<text>[ edit ] &quot;Style, Fashion, Music&quot;</text>
+</context>
+<context>
+	<score>0.64639056</score>
+	<text>[ edit ] &quot;Sports and Motorization&quot;</text>
+</context>
+<context>
+	<score>0.6078577</score>
+	<text>[ edit ] Other channels</text>
+</context>
+<context>
+	<score>0.59674203</score>
+	<text>[ edit ] &quot;Culture, Science, World&quot;</text>
+</context>
+<context>
+	<score>0.5570233</score>
+	<text>[ edit ] &quot;Movies Hits&quot;</text>
+</context>
+<context>
+	<score>0.5252483</score>
+	<text>[ edit ] &quot;Information and entertainment&quot;</text>
+</context>
+<context>
+	<score>0.52150667</score>
+	<text>[ edit ] Future channels</text>
+</context>
+<context>
+	<score>0.49982822</score>
+	<text>[ edit ] Channels</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.470712</score>
+	<text>EPG Channel name Broadcasting country Spoken language Subtitles language Free-to-air (FTA) Type HD Pay-per-view</text>
+</context>
+<context>
+	<score>0.4632234</score>
+	<text>n is a Polish DTH platform. It was launched October 12 , 2006 and is owned by ITI Neovision.</text>
+</context>
+<context>
+	<score>0.45452696</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45020834</score>
+	<text>For other meanings of the name &quot;n&quot;, see n .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%" style="text-align:center; font-size: 90%"><tr><th>EPG</th><th>Channel name</th><th>Broadcasting country</th><th>Spoken language</th><th>Subtitles language</th><th><a href="../../../../articles/f/r/e/Free-to-air.html" title="Free-to-air">Free-to-air</a> (FTA)</th><th>Type</th><th><a href="../../../../articles/h/i/g/High-definition_television.html" title="High-definition television">HD</a></th><th><a href="../../../../articles/p/a/y/Pay-per-view.html" title="Pay-per-view">Pay-per-view</a></th></tr><tr><td>100</td><td><a href="../../../../articles/h/b/o/HBO_509e.html" class="mw-redirect" title="HBO">HBO</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>No</td><td>Movies</td><td>No</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr><tr><td>101</td><td><a href="../../../../articles/h/b/o/HBO_2_25b1.html" class="mw-redirect" title="HBO 2">HBO 2</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>No</td><td>Movies</td><td>No</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr><tr><td>102</td><td><a href="../../../../articles/h/b/o/HBO_Comedy_2680.html" class="mw-redirect" title="HBO Comedy">HBO Comedy</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>No</td><td>Movies</td><td>No</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr><tr><td>103</td><td><a href="../../../../articles/c/i/n/Cinemax.html" class="mw-redirect" title="Cinemax">Cinemax</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>none</td><td>No</td><td>Movies</td><td>No</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr><tr><td>104</td><td><a href="../../../../articles/c/i/n/Cinemax_2.html" title="Cinemax 2">Cinemax 2</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>none</td><td>No</td><td>Movies</td><td>No</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr><tr><td>105</td><td><a href="../../../../articles/h/b/o/HBO_HD_68a2.html" class="mw-redirect" title="HBO HD">HBO HD</a></td><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td><a href="../../../../articles/p/o/l/Polish_Language_5040.html" class="mw-redirect" title="Polish Language">Polish</a></td><td>No</td><td>Movies</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td></tr></table>]]>
+</htmlSnippet>
+</entity>

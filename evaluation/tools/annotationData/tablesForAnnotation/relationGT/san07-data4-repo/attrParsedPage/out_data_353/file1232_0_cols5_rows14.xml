@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san07-data4-repo/attrParsedPage/out_data_353/file1232_0_cols5_rows14.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="0.64285713 0, 0.5785714 0 1, 0.51428574 0 2, 0.45 0 3, 0.42857146 0 4, 0.12857144 4, 0.11571429 1 4, 0.10285715 2 4, 0.09 3 4, 0.06428572 1, 0.05714286 2, 0.05142857 1 2, 0.05 3, 0.045 1 3, 0.040000003 2 3, " />
+<meta name="url" value="http://www.dhool.com/html/movie/Kudiyiruntha_Koyil.html" />
+<meta name="parentHTMLDoc" value="san07-data4-repo/attrParsedPage/out_data_353/file1232" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Name</coltype>
+<coltype>Name</coltype>
+<coltype>ShortText</coltype>
+<coltype>Text</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><a><b><font>Song title</font></b></a></td>]]></html>
+	<text>Song title</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><b><font>Movie</font></b></a></td>]]></html>
+	<text>Movie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><b><font>Composer</font></b></a></td>]]></html>
+	<text>Composer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><b><font>Actors</font></b></a></td>]]></html>
+	<text>Actors</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><b><font>Singers</font></b></a></td>]]></html>
+	<text>Singers</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>aadaludan paadalai kEttu</font></a></td>]]></html>
+	<text>aadaludan paadalai kEttu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>aadaludan paadalai kEttu</font></a></td>]]></html>
+	<text>aadaludan paadalai kEttu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>ennaith theriyumaa</font></a></td>]]></html>
+	<text>ennaith theriyumaa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a></td>]]></html>
+	<text>T.M.S</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>ennaith theriyumaa</font></a></td>]]></html>
+	<text>ennaith theriyumaa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a></td>]]></html>
+	<text>T.M.S</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>kungumap pottin mangalam</font></a></td>]]></html>
+	<text>kungumap pottin mangalam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>kungumap pottin mangalam</font></a></td>]]></html>
+	<text>kungumap pottin mangalam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>Naan Yaar Naan Yaar</font></a></td>]]></html>
+	<text>Naan Yaar Naan Yaar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a></td>]]></html>
+	<text>T.M.S</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>naan yaar naan yaar naan yaar</font></a></td>]]></html>
+	<text>naan yaar naan yaar naan yaar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a></td>]]></html>
+	<text>T.M.S</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>neeyEdhaan enakku maNavaatti</font></a></td>]]></html>
+	<text>neeyEdhaan enakku maNavaatti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>neeyEdhaan enakku maNavaatti</font></a></td>]]></html>
+	<text>neeyEdhaan enakku maNavaatti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>thuLLuvadhO iLamai</font></a></td>]]></html>
+	<text>thuLLuvadhO iLamai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td>]]></html>
+	<text>T.M.S,P.Suseela</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>thuLLuvadhO iLamai</font></a></td>]]></html>
+	<text>thuLLuvadhO iLamai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td>]]></html>
+	<text>T.M.S,L.R.Eswari</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>Un Viziyum En Vaalum</font></a></td>]]></html>
+	<text>Un Viziyum En Vaalum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td>]]></html>
+	<text>T.M.S,L.R.Eswari</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>un viziyum en vaaLum sandhiththaal</font></a></td>]]></html>
+	<text>un viziyum en vaaLum sandhiththaal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>Kudiyiruntha Koyil</font></a></td>]]></html>
+	<text>Kudiyiruntha Koyil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.S.Viswanathan</font></a></td>]]></html>
+	<text>M.S.Viswanathan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td>]]></html>
+	<text>M.G.R,Rajashree</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td>]]></html>
+	<text>T.M.S,L.R.Eswari</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Song title Movie Composer Actors Singers</text>
+</context>
+<context>
+	<score>0.81782943</score>
+	<text>All</text>
+</context>
+<context>
+	<score>0.672093</score>
+	<text>Z</text>
+</context>
+<context>
+	<score>0.55550385</score>
+	<text>Y</text>
+</context>
+<context>
+	<score>0.46223253</score>
+	<text>X</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><font><input /></font></td><td><a><b><font>Song title</font></b></a></td><td><a><b><font>Movie</font></b></a></td><td><a><b><font>Composer</font></b></a></td><td><a><b><font>Actors</font></b></a></td><td><a><b><font>Singers</font></b></a></td></tr><tr><td><input /></td><td><a><font>aadaludan paadalai kEttu</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>aadaludan paadalai kEttu</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>ennaith theriyumaa</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>ennaith theriyumaa</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>kungumap pottin mangalam</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>kungumap pottin mangalam</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>Naan Yaar Naan Yaar</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>naan yaar naan yaar naan yaar</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>neeyEdhaan enakku maNavaatti</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>neeyEdhaan enakku maNavaatti</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>thuLLuvadhO iLamai</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>P.Suseela</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>thuLLuvadhO iLamai</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>Un Viziyum En Vaalum</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td></tr><tr><td><img /></td></tr><tr><td><input /></td><td><a><font>un viziyum en vaaLum sandhiththaal</font></a></td><td><a><font>Kudiyiruntha Koyil</font></a></td><td><a><font>M.S.Viswanathan</font></a></td><td><a><font>M.G.R</font></a>,<a><font>Rajashree</font></a></td><td><a><font>T.M.S</font></a>,<a><font>L.R.Eswari</font></a></td></tr><tr><td><img /></td></tr></table>]]>
+</htmlSnippet>
+</entity>

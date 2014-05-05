@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r20/v/r/_/VR_Group_f6c8.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 5, 0.73333335 5, 0.16666667 1, 0.16666667 0 1, 0.15277779 1 5, 0.15 0 2, 0.1425 2, 0.1375 2 5, 0.13333334 0 3, 0.12666667 3, 0.11666667 4, 0.11666667 0 4, 0.116111115 3 5, 0.10694445 4 5, 0.025 1 2, 0.022222225 1 3, 0.020000001 2 3, 0.019444445 1 4, 0.0175 2 4, 0.015555556 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/v/r/_/VR_Group_f6c8.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance (km)</th>]]></html>
+	<text>Distance (km)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Travel time (hh:mm)</th>]]></html>
+	<text>Travel time (hh:mm)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>In future (hh:mm)</th>]]></html>
+	<text>In future (hh:mm)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Average speed</th>]]></html>
+	<text>Average speed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Train(s)</th>]]></html>
+	<text>Train(s)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hämeenlinna</td>]]></html>
+	<text>H&#228;meenlinna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>108</td>]]></html>
+	<text>108</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0:58</td>]]></html>
+	<text>0:58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0:50-0:55</td>]]></html>
+	<text>0:50-0:55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111.7 km/h</td>]]></html>
+	<text>111.7 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>InterCity 60</td>]]></html>
+	<text>InterCity 60</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iisalmi</td>]]></html>
+	<text>Iisalmi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>524</td>]]></html>
+	<text>524</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:51</td>]]></html>
+	<text>4:51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:30</td>]]></html>
+	<text>4:30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>108.0 km/h</td>]]></html>
+	<text>108.0 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 79</td>]]></html>
+	<text>Pendolino 79</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joensuu</td>]]></html>
+	<text>Joensuu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>482</td>]]></html>
+	<text>482</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:17</td>]]></html>
+	<text>4:17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:25-3:35</td>]]></html>
+	<text>3:25-3:35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112.5 km/h</td>]]></html>
+	<text>112.5 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 7</td>]]></html>
+	<text>Pendolino 7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jyväskylä</td>]]></html>
+	<text>Jyv&#228;skyl&#228;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>342</td>]]></html>
+	<text>342</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:50</td>]]></html>
+	<text>2:50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:30-2:40</td>]]></html>
+	<text>2:30-2:40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120.7 km/h</td>]]></html>
+	<text>120.7 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 81</td>]]></html>
+	<text>Pendolino 81</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kajaani</td>]]></html>
+	<text>Kajaani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>607</td>]]></html>
+	<text>607</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:40</td>]]></html>
+	<text>6:40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5:35</td>]]></html>
+	<text>5:35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.0 km/h</td>]]></html>
+	<text>91.0 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 79 and bus connection</td>]]></html>
+	<text>Pendolino 79 and bus connection</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kotka</td>]]></html>
+	<text>Kotka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>217</td>]]></html>
+	<text>217</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:14</td>]]></html>
+	<text>2:14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:00-2:10</td>]]></html>
+	<text>2:00-2:10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97.2 km/h</td>]]></html>
+	<text>97.2 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 1 and local train 722</td>]]></html>
+	<text>Pendolino 1 and local train 722</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kouvola</td>]]></html>
+	<text>Kouvola</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>166</td>]]></html>
+	<text>166</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:23</td>]]></html>
+	<text>1:23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:10-1:15</td>]]></html>
+	<text>1:10-1:15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120.0 km/h</td>]]></html>
+	<text>120.0 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 1</td>]]></html>
+	<text>Pendolino 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kuopio</td>]]></html>
+	<text>Kuopio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>439</td>]]></html>
+	<text>439</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:52</td>]]></html>
+	<text>3:52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:30</td>]]></html>
+	<text>4:30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113.5 km/h</td>]]></html>
+	<text>113.5 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 79</td>]]></html>
+	<text>Pendolino 79</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lahti</td>]]></html>
+	<text>Lahti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104</td>]]></html>
+	<text>104</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0:48</td>]]></html>
+	<text>0:48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0:44</td>]]></html>
+	<text>0:44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96.3 km/h</td>]]></html>
+	<text>96.3 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 1</td>]]></html>
+	<text>Pendolino 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lappeenranta</td>]]></html>
+	<text>Lappeenranta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>252</td>]]></html>
+	<text>252</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:09</td>]]></html>
+	<text>2:09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:00-2:05</td>]]></html>
+	<text>2:00-2:05</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117.2 km/h</td>]]></html>
+	<text>117.2 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 1</td>]]></html>
+	<text>Pendolino 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mikkeli</td>]]></html>
+	<text>Mikkeli</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>279</td>]]></html>
+	<text>279</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:26</td>]]></html>
+	<text>2:26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:05-2:10</td>]]></html>
+	<text>2:05-2:10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114.7 km/h</td>]]></html>
+	<text>114.7 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 70</td>]]></html>
+	<text>Pendolino 70</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moscow (Leningradski vokz.)</td>]]></html>
+	<text>Moscow (Leningradski vokz.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1091</td>]]></html>
+	<text>1091</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12:58</td>]]></html>
+	<text>12:58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10:00</td>]]></html>
+	<text>10:00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>84.1 km/h</td>]]></html>
+	<text>84.1 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Express train 31 "Tolstoi"</td>]]></html>
+	<text>Express train 31 &amp;quot;Tolstoi&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oulu</td>]]></html>
+	<text>Oulu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>680</td>]]></html>
+	<text>680</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5:41</td>]]></html>
+	<text>5:41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:20-4:40</td>]]></html>
+	<text>4:20-4:40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>119.6 km/h</td>]]></html>
+	<text>119.6 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 46</td>]]></html>
+	<text>Pendolino 46</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pori</td>]]></html>
+	<text>Pori</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>322</td>]]></html>
+	<text>322</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:02</td>]]></html>
+	<text>3:02</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:20-2:30</td>]]></html>
+	<text>2:20-2:30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.2 km/h</td>]]></html>
+	<text>106.2 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 93 and local train 475</td>]]></html>
+	<text>Pendolino 93 and local train 475</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rovaniemi</td>]]></html>
+	<text>Rovaniemi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>900</td>]]></html>
+	<text>900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8:17</td>]]></html>
+	<text>8:17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:50-7:10</td>]]></html>
+	<text>6:50-7:10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>108.7 km/h</td>]]></html>
+	<text>108.7 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Express train 406 and Pendolino 56</td>]]></html>
+	<text>Express train 406 and Pendolino 56</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Petersburg (Finl. vokz.)</td>]]></html>
+	<text>Saint Petersburg (Finl. vokz.)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>417</td>]]></html>
+	<text>417</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5:06</td>]]></html>
+	<text>5:06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:00-3:20</td>]]></html>
+	<text>3:00-3:20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81.8 km/h</td>]]></html>
+	<text>81.8 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Express train 35 "Sibelius"</td>]]></html>
+	<text>Express train 35 &amp;quot;Sibelius&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seinäjoki</td>]]></html>
+	<text>Sein&#228;joki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>346</td>]]></html>
+	<text>346</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:39</td>]]></html>
+	<text>2:39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:10-2:20</td>]]></html>
+	<text>2:10-2:20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>130.6 km/h</td>]]></html>
+	<text>130.6 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 45</td>]]></html>
+	<text>Pendolino 45</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampere</td>]]></html>
+	<text>Tampere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>187</td>]]></html>
+	<text>187</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:23</td>]]></html>
+	<text>1:23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:15-1:20</td>]]></html>
+	<text>1:15-1:20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>135.2 km/h</td>]]></html>
+	<text>135.2 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 81</td>]]></html>
+	<text>Pendolino 81</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turku</td>]]></html>
+	<text>Turku</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>194</td>]]></html>
+	<text>194</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:44</td>]]></html>
+	<text>1:44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:22-1:35</td>]]></html>
+	<text>1:22-1:35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111.9 km/h</td>]]></html>
+	<text>111.9 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pendolino 126</td>]]></html>
+	<text>Pendolino 126</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vaasa</td>]]></html>
+	<text>Vaasa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>420</td>]]></html>
+	<text>420</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:39</td>]]></html>
+	<text>3:39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:30-3:35</td>]]></html>
+	<text>3:30-3:35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115.1 km/h</td>]]></html>
+	<text>115.1 km/h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Local train 440 and Pendolino 42</td>]]></html>
+	<text>Local train 440 and Pendolino 42</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>VR Group - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Distance (km) Travel time (hh:mm) In future (hh:mm) Average speed Train(s)</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Travel time and speed by fastest train connections from/to Helsinki after 3 September 2006.</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>VR Group</text>
+</context>
+<context>
+	<score>0.7841138</score>
+	<text>[ edit ] Travel time and speed</text>
+</context>
+<context>
+	<score>0.75274134</score>
+	<text>[ edit ] Electrification</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Travel time and speed</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Electrification</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Carbon dioxide emissions</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Commuter traffic in Helsinki area</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7181931</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70653814</score>
+	<text>The Finnish Railway Museum in Hyvink is the official company museum.</text>
+</context>
+<context>
+	<score>0.6444775</score>
+	<text>The Finland Railway Bridge across the River Neva in Saint Petersburg, opened in 1912 , connected the Finnish State Railways to Russian Railways . Following Finnish independence, the Russian part of the line was handed over to Russian authorities. As of 2007 , only one private railway company exist in Finland, the Karhula-Sunila Railroad, a short branch line with freight traffic only, in Karhula , near Kotka . However several museum railways exist that are unrelated to VR Group.</text>
+</context>
+<context>
+	<score>0.60594463</score>
+	<text>VR Sr1 locomotive with an Inter City train and double-deck IC2 carriages at Tikkurila</text>
+</context>
+<context>
+	<score>0.594829</score>
+	<text>As Finland was a Grand Principality under Imperial Russia , railways were built to the broader Russian track gauge (1524 mm, i.e. 5 ft. exactly), rather than to the Western European standard gauge of 1435 mm. The first rail line between Helsinki and H meenlinna was opened in 1862 . An extension from Riihim ki to the new Finland Station in Saint Petersburg was opened in 1870 . The entire line was owned by the Finnish State Railways, even though parts of it were built on Russian soil. Between 1875 and 1950 most private broad-gauge Finnish railways were incorporated into the State Railways, such as the Hanko-Hyvink Railroad which was the first private railroad in Finland, and the first one to be sold to the state in 1875.</text>
+</context>
+<context>
+	<score>0.5551102</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.52333516</score>
+	<text>The Finnish State Railways was founded by the Senate of Finland in 1860 .</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>An Sm3 class Pendolino train</text>
+</context>
+<context>
+	<score>0.49791518</score>
+	<text>The Finland Railway Bridge across the Neva connected the Finnish State Railways to Russian Railways .</text>
+</context>
+<context>
+	<score>0.47757915</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.4687989</score>
+	<text>VR Sr2 class electric locomotive at Turku station with conventional &quot;blue&quot; coaches, April 2007</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>City</th><th>Distance (km)</th><th>Travel time (hh:mm)</th><th>In future (hh:mm)</th><th>Average speed</th><th>Train(s)</th></tr><tr><td><a href="../../../../articles/h/%C3%A4/m/H%C3%A4meenlinna.html" title="Hämeenlinna">Hämeenlinna</a></td><td align="center">108</td><td align="center">0:58</td><td align="center">0:50-0:55</td><td align="center">111.7&#160;km/h</td><td>InterCity 60</td></tr><tr><td><a href="../../../../articles/i/i/s/Iisalmi.html" title="Iisalmi">Iisalmi</a></td><td align="center">524</td><td align="center">4:51</td><td align="center">4:30</td><td align="center">108.0&#160;km/h</td><td>Pendolino 79</td></tr><tr><td><a href="../../../../articles/j/o/e/Joensuu.html" title="Joensuu">Joensuu</a></td><td align="center">482</td><td align="center">4:17</td><td align="center">3:25-3:35</td><td align="center">112.5&#160;km/h</td><td>Pendolino 7</td></tr><tr><td><a href="../../../../articles/j/y/v/Jyv%C3%A4skyl%C3%A4.html" title="Jyväskylä">Jyväskylä</a></td><td align="center">342</td><td align="center">2:50</td><td align="center">2:30-2:40</td><td align="center">120.7&#160;km/h</td><td>Pendolino 81</td></tr><tr><td><a href="../../../../articles/k/a/j/Kajaani.html" title="Kajaani">Kajaani</a></td><td align="center">607</td><td align="center">6:40</td><td align="center">5:35</td><td align="center">91.0&#160;km/h</td><td>Pendolino 79 and bus connection</td></tr><tr><td><a href="../../../../articles/k/o/t/Kotka.html" title="Kotka">Kotka</a></td><td align="center">217</td><td align="center">2:14</td><td align="center">2:00-2:10</td><td align="center">97.2&#160;km/h</td><td>Pendolino 1 and local train 722</td></tr><tr><td><a href="../../../../articles/k/o/u/Kouvola.html" title="Kouvola">Kouvola</a></td><td align="center">166</td><td align="center">1:23</td><td align="center">1:10-1:15</td><td align="center">120.0&#160;km/h</td><td>Pendolino 1</td></tr><tr><td><a href="../../../../articles/k/u/o/Kuopio.html" title="Kuopio">Kuopio</a></td><td align="center">439</td><td align="center">3:52</td><td align="center">4:30</td><td align="center">113.5&#160;km/h</td><td>Pendolino 79</td></tr><tr><td><a href="../../../../articles/l/a/h/Lahti.html" title="Lahti">Lahti</a></td><td align="center">104</td><td align="center">0:48</td><td align="center">0:44</td><td align="center">96.3&#160;km/h</td><td>Pendolino 1</td></tr><tr><td><a href="../../../../articles/l/a/p/Lappeenranta.html" title="Lappeenranta">Lappeenranta</a></td><td align="center">252</td><td align="center">2:09</td><td align="center">2:00-2:05</td><td align="center">117.2&#160;km/h</td><td>Pendolino 1</td></tr><tr><td><a href="../../../../articles/m/i/k/Mikkeli.html" title="Mikkeli">Mikkeli</a></td><td align="center">279</td><td align="center">2:26</td><td align="center">2:05-2:10</td><td align="center">114.7&#160;km/h</td><td>Pendolino 70</td></tr><tr><td><a href="../../../../articles/m/o/s/Moscow.html" title="Moscow">Moscow</a> (Leningradski vokz.)</td><td align="center">1091</td><td align="center">12:58</td><td align="center">10:00</td><td align="center">84.1&#160;km/h</td><td>Express train 31 "Tolstoi"</td></tr><tr><td><a href="../../../../articles/o/u/l/Oulu.html" title="Oulu">Oulu</a></td><td align="center">680</td><td align="center">5:41</td><td align="center">4:20-4:40</td><td align="center">119.6&#160;km/h</td><td>Pendolino 46</td></tr><tr><td><a href="../../../../articles/p/o/r/Pori.html" title="Pori">Pori</a></td><td align="center">322</td><td align="center">3:02</td><td align="center">2:20-2:30</td><td align="center">106.2&#160;km/h</td><td>Pendolino 93 and local train 475</td></tr><tr><td><a href="../../../../articles/r/o/v/Rovaniemi.html" title="Rovaniemi">Rovaniemi</a></td><td align="center">900</td><td align="center">8:17</td><td align="center">6:50-7:10</td><td align="center">108.7&#160;km/h</td><td>Express train 406 and Pendolino 56</td></tr><tr><td><a href="../../../../articles/s/a/i/Saint_Petersburg_5667.html" title="Saint Petersburg">Saint Petersburg</a> (Finl. vokz.)</td><td align="center">417</td><td align="center">5:06</td><td align="center">3:00-3:20</td><td align="center">81.8&#160;km/h</td><td>Express train 35 "Sibelius"</td></tr><tr><td><a href="../../../../articles/s/e/i/Sein%C3%A4joki.html" title="Seinäjoki">Seinäjoki</a></td><td align="center">346</td><td align="center">2:39</td><td align="center">2:10-2:20</td><td align="center">130.6&#160;km/h</td><td>Pendolino 45</td></tr><tr><td><a href="../../../../articles/t/a/m/Tampere.html" title="Tampere">Tampere</a></td><td align="center">187</td><td align="center">1:23</td><td align="center">1:15-1:20</td><td align="center">135.2&#160;km/h</td><td>Pendolino 81</td></tr><tr><td><a href="../../../../articles/t/u/r/Turku.html" title="Turku">Turku</a></td><td align="center">194</td><td align="center">1:44</td><td align="center">1:22-1:35</td><td align="center">111.9&#160;km/h</td><td>Pendolino 126</td></tr><tr><td><a href="../../../../articles/v/a/a/Vaasa.html" title="Vaasa">Vaasa</a></td><td align="center">420</td><td align="center">3:39</td><td align="center">3:30-3:35</td><td align="center">115.1&#160;km/h</td><td>Local train 440 and Pendolino 42</td></tr></table>]]>
+</htmlSnippet>
+</entity>

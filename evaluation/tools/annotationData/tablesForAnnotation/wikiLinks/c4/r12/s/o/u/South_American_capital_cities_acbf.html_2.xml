@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r12/s/o/u/South_American_capital_cities_acbf.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.15 1, 0.15 0 1, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 2 3, 0.01875 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/u/South_American_capital_cities_acbf.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City Population</th>]]></html>
+	<text>City Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country Population</th>]]></html>
+	<text>Country Population</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bogotá</td>]]></html>
+	<text>Bogot&#225;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,321,831</td>]]></html>
+	<text>7,321,831</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colombia</td>]]></html>
+	<text>Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45,600,000</td>]]></html>
+	<text>45,600,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Santiago</td>]]></html>
+	<text>Santiago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,450,000</td>]]></html>
+	<text>5,450,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chile</td>]]></html>
+	<text>Chile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,432,674</td>]]></html>
+	<text>16,432,674</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lima</td>]]></html>
+	<text>Lima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,097,340</td>]]></html>
+	<text>4,097,340</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peru</td>]]></html>
+	<text>Peru</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,968,000</td>]]></html>
+	<text>27,968,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Caracas</td>]]></html>
+	<text>Caracas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,276,000</td>]]></html>
+	<text>3,276,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Venezuela</td>]]></html>
+	<text>Venezuela</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26,749,000</td>]]></html>
+	<text>26,749,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buenos Aires</td>]]></html>
+	<text>Buenos Aires</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,776,138</td>]]></html>
+	<text>2,776,138</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Argentina</td>]]></html>
+	<text>Argentina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,060,000</td>]]></html>
+	<text>40,060,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brasilia</td>]]></html>
+	<text>Brasilia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,333,108</td>]]></html>
+	<text>2,333,108</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>188,078,261</td>]]></html>
+	<text>188,078,261</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quito</td>]]></html>
+	<text>Quito</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,865,541</td>]]></html>
+	<text>1,865,541</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ecuador</td>]]></html>
+	<text>Ecuador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,228,000</td>]]></html>
+	<text>13,228,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Asunción</td>]]></html>
+	<text>Asunci&#243;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,639,000</td>]]></html>
+	<text>1,639,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paraguay</td>]]></html>
+	<text>Paraguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,158,000</td>]]></html>
+	<text>6,158,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montevideo</td>]]></html>
+	<text>Montevideo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,325,968</td>]]></html>
+	<text>1,325,968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uruguay</td>]]></html>
+	<text>Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,431,932</td>]]></html>
+	<text>3,431,932</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>La Paz</td>]]></html>
+	<text>La Paz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000,000</td>]]></html>
+	<text>1,000,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bolivia</td>]]></html>
+	<text>Bolivia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,857,870</td>]]></html>
+	<text>8,857,870</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paramaribo</td>]]></html>
+	<text>Paramaribo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250,000</td>]]></html>
+	<text>250,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Suriname</td>]]></html>
+	<text>Suriname</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>449,000</td>]]></html>
+	<text>449,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgetown</td>]]></html>
+	<text>Georgetown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>213,705</td>]]></html>
+	<text>213,705</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guyana</td>]]></html>
+	<text>Guyana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>751,000</td>]]></html>
+	<text>751,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>South American capital cities - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City City Population Country Country Population</text>
+</context>
+<context>
+	<score>0.88199496</score>
+	<text>[ edit ] Organized by population of the capital city (Wikipedia estimates)</text>
+</context>
+<context>
+	<score>0.78347445</score>
+	<text>South American capital cities</text>
+</context>
+<context>
+	<score>0.77661365</score>
+	<text>[ edit ] Organized alphabetically by capital city</text>
+</context>
+<context>
+	<score>0.74251974</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.712891</score>
+	<text>[ edit ] Headline text</text>
+</context>
+<context>
+	<score>0.712891</score>
+	<text>[ edit ] Organized alphabetically by country</text>
+</context>
+<context>
+	<score>0.712891</score>
+	<text>[ edit ] Organized alphabetically by capital city</text>
+</context>
+<context>
+	<score>0.712891</score>
+	<text>[ edit ] Organized by population of the capital city (Wikipedia estimates)</text>
+</context>
+<context>
+	<score>0.69916946</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6923087</score>
+	<text>[ edit ] Organized alphabetically by country</text>
+</context>
+<context>
+	<score>0.6248647</score>
+	<text>[ edit ] Headline text</text>
+</context>
+<context>
+	<score>0.557188</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5140238</score>
+	<text>jabril work</text>
+</context>
+<context>
+	<score>0.50007474</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4724497</score>
+	<text>South American capital cities</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>City</th><th>City Population</th><th>Country</th><th>Country Population</th></tr><tr><td><a href="../../../../articles/b/o/g/Bogot%C3%A1.html" title="Bogotá">Bogotá</a></td><td>7,321,831</td><td><a href="../../../../articles/c/o/l/Colombia.html" title="Colombia">Colombia</a></td><td>45,600,000</td></tr><tr><td><a href="../../../../articles/s/a/n/Santiago%2C_Chile_7b34.html" title="Santiago, Chile">Santiago</a></td><td>5,450,000</td><td><a href="../../../../articles/c/h/i/Chile.html" title="Chile">Chile</a></td><td>16,432,674</td></tr><tr><td><a href="../../../../articles/l/i/m/Lima.html" title="Lima">Lima</a></td><td>4,097,340</td><td><a href="../../../../articles/p/e/r/Peru.html" title="Peru">Peru</a></td><td>27,968,000</td></tr><tr><td><a href="../../../../articles/c/a/r/Caracas.html" title="Caracas">Caracas</a></td><td>3,276,000</td><td><a href="../../../../articles/v/e/n/Venezuela.html" title="Venezuela">Venezuela</a></td><td>26,749,000</td></tr><tr><td><a href="../../../../articles/b/u/e/Buenos_Aires_8e35.html" title="Buenos Aires">Buenos Aires</a></td><td>2,776,138</td><td><a href="../../../../articles/a/r/g/Argentina.html" title="Argentina">Argentina</a></td><td>40,060,000</td></tr><tr><td><a href="../../../../articles/b/r/a/Brasilia.html" class="mw-redirect" title="Brasilia">Brasilia</a></td><td>2,333,108</td><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td>188,078,261</td></tr><tr><td><a href="../../../../articles/q/u/i/Quito.html" title="Quito">Quito</a></td><td>1,865,541</td><td><a href="../../../../articles/e/c/u/Ecuador.html" title="Ecuador">Ecuador</a></td><td>13,228,000</td></tr><tr><td><a href="../../../../articles/a/s/u/Asunci%C3%B3n.html" title="Asunción">Asunción</a></td><td>1,639,000</td><td><a href="../../../../articles/p/a/r/Paraguay.html" title="Paraguay">Paraguay</a></td><td>6,158,000</td></tr><tr><td><a href="../../../../articles/m/o/n/Montevideo.html" title="Montevideo">Montevideo</a></td><td>1,325,968</td><td><a href="../../../../articles/u/r/u/Uruguay.html" title="Uruguay">Uruguay</a></td><td>3,431,932</td></tr><tr><td><a href="../../../../articles/l/a/_/La_Paz_080e.html" title="La Paz">La Paz</a></td><td>1,000,000</td><td><a href="../../../../articles/b/o/l/Bolivia.html" title="Bolivia">Bolivia</a></td><td>8,857,870</td></tr><tr><td><a href="../../../../articles/p/a/r/Paramaribo.html" title="Paramaribo">Paramaribo</a></td><td>250,000</td><td><a href="../../../../articles/s/u/r/Suriname.html" title="Suriname">Suriname</a></td><td>449,000</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgetown%2C_Guyana_b146.html" title="Georgetown, Guyana">Georgetown</a></td><td>213,705</td><td><a href="../../../../articles/g/u/y/Guyana.html" title="Guyana">Guyana</a></td><td>751,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

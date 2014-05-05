@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/v/a/n/Vancouver.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 2, 0.75 0 2, 0.7 1, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/v/a/n/Vancouver.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vancouver Canucks</td>]]></html>
+	<text>Vancouver Canucks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice hockey</td>]]></html>
+	<text>Ice hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Hockey League</td>]]></html>
+	<text>National Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General Motors Place</td>]]></html>
+	<text>General Motors Place</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vancouver Giants</td>]]></html>
+	<text>Vancouver Giants</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice hockey</td>]]></html>
+	<text>Ice hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Western Hockey League</td>]]></html>
+	<text>Western Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pacific Coliseum</td>]]></html>
+	<text>Pacific Coliseum</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia Lions</td>]]></html>
+	<text>British Columbia Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canadian Football League</td>]]></html>
+	<text>Canadian Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BC Place Stadium</td>]]></html>
+	<text>BC Place Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vancouver Canadians</td>]]></html>
+	<text>Vancouver Canadians</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball ( Single A Short Season )</td>]]></html>
+	<text>Baseball ( Single A Short Season )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northwest League</td>]]></html>
+	<text>Northwest League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nat Bailey Stadium</td>]]></html>
+	<text>Nat Bailey Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Whitecaps FC</td>]]></html>
+	<text>Whitecaps FC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soccer</td>]]></html>
+	<text>Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USL First Division (men's) W-League (women's)</td>]]></html>
+	<text>USL First Division (men&amp;apos;s) W-League (women&amp;apos;s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swangard Stadium</td>]]></html>
+	<text>Swangard Stadium</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Vancouver - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Venue</text>
+</context>
+<context>
+	<score>0.8795198</score>
+	<text>GM Place , home of the Vancouver Canucks.</text>
+</context>
+<context>
+	<score>0.7897926</score>
+	<text>Vancouver</text>
+</context>
+<context>
+	<score>0.7825501</score>
+	<text>[ edit ] Professional sports teams</text>
+</context>
+<context>
+	<score>0.7511776</score>
+	<text>[ edit ] Media Main article: Media of Vancouver</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Geography and climate</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Economy</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Government</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Education</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Architecture and cityscape</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Arts and culture</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Sports and recreation</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Media</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] Affiliated cities and municipalities</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71294886</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7122169</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7049744</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.64291376</score>
+	<text>Vancouver is exploring a joint bid for Vancouver and Seattle to host the 2028 Summer Olympics . A multi-national bid would be a first for the Olympics as an International Olympic Committee rule currently requires that the Olympics be awarded to a single city. Vancouver and Seattle both believe that the logistics can be overcome and have cited that the travel time between Seattle and Vancouver is similar to the travel time between Whistler, British Columbia and Vancouver.</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Vancouver is the centre of the province&apos;s news media, with most national media chains having an office in the city.</text>
+</context>
+<context>
+	<score>0.5932653</score>
+	<text>Vancouver will be the host city for the 2010 Winter Olympic and Paralympic Games and the 2009 World Police and Fire Games . Swangard Stadium , in nearby Burnaby , hosted some games for the 2007 FIFA U-20 World Cup .</text>
+</context>
+<context>
+	<score>0.5535465</score>
+	<text>Running races include the Vancouver Sun Run (a 10 km race) every April; the Vancouver Marathon is held every May and Scotiabank Vancouver Half-Marathon held every June.</text>
+</context>
+<context>
+	<score>0.5217715</score>
+	<text>The nearby North Shore Mountains are home to three ski areas, Cypress Mountain , Grouse Mountain , and Mount Seymour . Each are within 20 to 30 minutes (driving time) of downtown Vancouver. Mountain bikers have created world-renowned trails across the North Shore. The Capilano River , Lynn Creek, Seymour River, within 20 minutes (driving time) of downtown, provide opportunities to whitewater enthusiasts during periods of rain and spring melt.</text>
+</context>
+<context>
+	<score>0.5180299</score>
+	<text>[ edit ] English-language media</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>The coastline provides for many types of water sport, and the city is a popular destination for boating enthusiasts.</text>
+</context>
+<context>
+	<score>0.47601542</score>
+	<text>The municipality also has several large beaches, many adjacent to one another, with the largest groups extending from the coast of Stanley Park before reaching False Creek, and on the other side of English Bay, starting in the Kitsilano neighbourhood all the way to the University Endowment Lands , which are separate from Vancouver. The 18 kilometres (11 miles) of beaches that surround Vancouver include English Bay (First Beach), Jericho, Kitsilano Beach , Locarno, Second Beach (Stanley Park), Spanish Bank East, Spanish Bank Extension, Spanish Bank West, Sunset, and Third Beach (Stanley Park).</text>
+</context>
+<context>
+	<score>0.4672352</score>
+	<text>Both of the city&apos;s major daily newspapers , The Vancouver Sun and The Province , are published by the Pacific Newspaper Group Inc . In recent years, The Globe and Mail , a national newspaper based in Toronto, has added a section for local content in an effort to improve its circulation in Vancouver.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Vancouver has over 1,298 hectares (3,200 acres) of parks, with Stanley Park being the largest at 404 hectares (1,000 acres).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Club</th><th>Sport</th><th>League</th><th>Venue</th></tr><tr><td><a href="../../../../articles/v/a/n/Vancouver_Canucks_ad4e.html" title="Vancouver Canucks">Vancouver Canucks</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Ice hockey</a></td><td><a href="../../../../articles/n/a/t/National_Hockey_League_6c9a.html" title="National Hockey League">National Hockey League</a></td><td><a href="../../../../articles/g/e/n/General_Motors_Place_e3a7.html" title="General Motors Place">General Motors Place</a></td></tr><tr><td><a href="../../../../articles/v/a/n/Vancouver_Giants_7513.html" title="Vancouver Giants">Vancouver Giants</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Ice hockey</a></td><td><a href="../../../../articles/w/e/s/Western_Hockey_League_6e9f.html" title="Western Hockey League">Western Hockey League</a></td><td><a href="../../../../articles/p/a/c/Pacific_Coliseum_a38b.html" title="Pacific Coliseum">Pacific Coliseum</a></td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_Lions_a5fc.html" title="British Columbia Lions">British Columbia Lions</a></td><td><a href="../../../../articles/c/a/n/Canadian_football.html" title="Canadian football">Football</a></td><td><a href="../../../../articles/c/a/n/Canadian_Football_League_451d.html" title="Canadian Football League">Canadian Football League</a></td><td><a href="../../../../articles/b/c/_/BC_Place_Stadium_5a95.html" title="BC Place Stadium">BC Place Stadium</a></td></tr><tr><td><a href="../../../../articles/v/a/n/Vancouver_Canadians_be0a.html" title="Vancouver Canadians">Vancouver Canadians</a></td><td><a href="../../../../articles/b/a/s/Baseball.html" title="Baseball">Baseball</a> (<a href="../../../../articles/m/i/n/Minor_league_baseball.html#Extant_farm_system" title="Minor league baseball">Single A Short Season</a>)</td><td><a href="../../../../articles/n/o/r/Northwest_League_a82d.html" title="Northwest League">Northwest League</a></td><td><a href="../../../../articles/n/a/t/Nat_Bailey_Stadium_314c.html" title="Nat Bailey Stadium">Nat Bailey Stadium</a></td></tr><tr><td><a href="../../../../articles/v/a/n/Vancouver_Whitecaps_%28USL%29_9502.html" title="Vancouver Whitecaps (USL)">Whitecaps FC</a></td><td><a href="../../../../articles/f/o/o/Football_%28soccer%29.html" class="mw-redirect" title="Football (soccer)">Soccer</a></td><td><a href="../../../../articles/u/s/l/USL_First_Division_eaef.html" title="USL First Division">USL First Division</a> (men's)<br /><a href="../../../../articles/w/-/l/W-League_3774.html" title="W-League">W-League</a> (women's)</td><td><a href="../../../../articles/s/w/a/Swangard_Stadium_7294.html" title="Swangard Stadium">Swangard Stadium</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

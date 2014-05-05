@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r10/l/i/s/List_of_Northwest_Territories_highways_40fb.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 2, 0.9 0 2, 0.8 3, 0.8 0 3, 0.71999997 2 3, 0.14 0 1, 0.126 1, 0.126 1 2, 0.120000005 4, 0.120000005 0 4, 0.112 1 3, 0.108 2 4, 0.09600001 3 4, 0.016800001 1 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_Northwest_Territories_highways_40fb.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>From</th>]]></html>
+	<text>From</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>To [1]</th>]]></html>
+	<text>To [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length ( km ) [2]</th>]]></html>
+	<text>Length ( km ) [2]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mackenzie Highway</td>]]></html>
+	<text>Mackenzie Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Towards Grimshaw, Alberta</td>]]></html>
+	<text>Towards Grimshaw, Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wrigley</td>]]></html>
+	<text>Wrigley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>690.0</td>]]></html>
+	<text>690.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hay River Highway</td>]]></html>
+	<text>Hay River Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Enterprise (Hwy 1)</td>]]></html>
+	<text>Enterprise (Hwy 1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hay River</td>]]></html>
+	<text>Hay River</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48.6</td>]]></html>
+	<text>48.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yellowknife Highway</td>]]></html>
+	<text>Yellowknife Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Near Fort Providence (Hwy 1)</td>]]></html>
+	<text>Near Fort Providence (Hwy 1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellowknife (Hwy 4)</td>]]></html>
+	<text>Yellowknife (Hwy 4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>338.8</td>]]></html>
+	<text>338.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ingraham Trail</td>]]></html>
+	<text>Ingraham Trail</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yellowknife (Hwy 3)</td>]]></html>
+	<text>Yellowknife (Hwy 3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tibbitt Lake</td>]]></html>
+	<text>Tibbitt Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69.2</td>]]></html>
+	<text>69.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fort Smith Highway</td>]]></html>
+	<text>Fort Smith Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Near Hay River (Hwy 2)</td>]]></html>
+	<text>Near Hay River (Hwy 2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort Smith</td>]]></html>
+	<text>Fort Smith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>267.0</td>]]></html>
+	<text>267.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fort Resolution Highway</td>]]></html>
+	<text>Fort Resolution Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Near Hay River (Hwy 5)</td>]]></html>
+	<text>Near Hay River (Hwy 5)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort Resolution</td>]]></html>
+	<text>Fort Resolution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.0</td>]]></html>
+	<text>90.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liard Highway</td>]]></html>
+	<text>Liard Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Towards Fort Nelson, British Columbia</td>]]></html>
+	<text>Towards Fort Nelson, British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Near Fort Simpson (Hwy 1)</td>]]></html>
+	<text>Near Fort Simpson (Hwy 1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>254.1</td>]]></html>
+	<text>254.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dempster Highway</td>]]></html>
+	<text>Dempster Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Towards Dawson City, Yukon</td>]]></html>
+	<text>Towards Dawson City, Yukon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inuvik</td>]]></html>
+	<text>Inuvik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>272.5</td>]]></html>
+	<text>272.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tibbitt to Contwoyto Winter Road</td>]]></html>
+	<text>Tibbitt to Contwoyto Winter Road</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tibbitt Lake</td>]]></html>
+	<text>Tibbitt Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Contwoyto Lake , Nunavut</td>]]></html>
+	<text>Contwoyto Lake , Nunavut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>568</td>]]></html>
+	<text>568</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canol Road</td>]]></html>
+	<text>Canol Road</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norman Wells</td>]]></html>
+	<text>Norman Wells</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Whitehorse , Yukon</td>]]></html>
+	<text>Whitehorse , Yukon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Northwest Territories highways - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Number From To [1] Length ( km ) [2]</text>
+</context>
+<context>
+	<score>0.8926582</score>
+	<text>The following is a list of territorial highways in the Northwest Territories of Canada .</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>List of Northwest Territories highways</text>
+</context>
+<context>
+	<score>0.76067054</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72700554</score>
+	<text>List of Northwest Territories highways</text>
+</context>
+<context>
+	<score>0.6097042</score>
+	<text>^ Highway Designation and Classification Regulations, N.W.T. Reg. 047-92 ^ Northwest Territories Department of Transportation, Highway Traffic, 2006</text>
+</context>
+<context>
+	<score>0.52090055</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46866304</score>
+	<text>NWT Highways Reports Road Signs of Northwest Territories by Mark O&apos;Neil</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Name</th><th>Number</th><th>From</th><th>To<sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></th><th>Length (<a href="../../../../articles/k/i/l/Kilometre.html" title="Kilometre">km</a>)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup></th></tr><tr><td><a href="../../../../articles/m/a/c/Mackenzie_Highway_220b.html" title="Mackenzie Highway">Mackenzie Highway</a></td><td>1</td><td>Towards <a href="../../../../articles/g/r/i/Grimshaw%2C_Alberta_f945.html" title="Grimshaw, Alberta">Grimshaw, Alberta</a></td><td><a href="../../../../articles/w/r/i/Wrigley%2C_Northwest_Territories_5455.html" title="Wrigley, Northwest Territories">Wrigley</a></td><td>690.0</td></tr><tr><td><a href="../../../../articles/h/a/y/Hay_River_Highway_b191.html" title="Hay River Highway">Hay River Highway</a></td><td>2</td><td><a href="../../../../articles/e/n/t/Enterprise%2C_Northwest_Territories_7621.html" title="Enterprise, Northwest Territories">Enterprise</a> (Hwy 1)</td><td><a href="../../../../articles/h/a/y/Hay_River%2C_Northwest_Territories_9146.html" title="Hay River, Northwest Territories">Hay River</a></td><td>48.6</td></tr><tr><td><a href="../../../../articles/y/e/l/Yellowknife_Highway_009b.html" title="Yellowknife Highway">Yellowknife Highway</a></td><td>3</td><td>Near <a href="../../../../articles/f/o/r/Fort_Providence%2C_Northwest_Territories_abf4.html" title="Fort Providence, Northwest Territories">Fort Providence</a> (Hwy 1)</td><td><a href="../../../../articles/y/e/l/Yellowknife.html" title="Yellowknife">Yellowknife</a> (Hwy 4)</td><td>338.8</td></tr><tr><td><a href="../../../../articles/i/n/g/Ingraham_Trail_1029.html" title="Ingraham Trail">Ingraham Trail</a></td><td>4</td><td><a href="../../../../articles/y/e/l/Yellowknife.html" title="Yellowknife">Yellowknife</a> (Hwy 3)</td><td><a href="../../../../articles/t/i/b/Tibbitt_Lake_56ae.html" title="Tibbitt Lake">Tibbitt Lake</a></td><td>69.2</td></tr><tr><td><a href="../../../../articles/f/o/r/Fort_Smith_Highway_8bed.html" title="Fort Smith Highway">Fort Smith Highway</a></td><td>5</td><td>Near <a href="../../../../articles/h/a/y/Hay_River%2C_Northwest_Territories_9146.html" title="Hay River, Northwest Territories">Hay River</a> (Hwy 2)</td><td><a href="../../../../articles/f/o/r/Fort_Smith%2C_Northwest_Territories_d460.html" title="Fort Smith, Northwest Territories">Fort Smith</a></td><td>267.0</td></tr><tr><td><a href="../../../../articles/f/o/r/Fort_Resolution_Highway_ab28.html" title="Fort Resolution Highway">Fort Resolution Highway</a></td><td>6</td><td>Near <a href="../../../../articles/h/a/y/Hay_River%2C_Northwest_Territories_9146.html" title="Hay River, Northwest Territories">Hay River</a> (Hwy 5)</td><td><a href="../../../../articles/f/o/r/Fort_Resolution%2C_Northwest_Territories_509c.html" title="Fort Resolution, Northwest Territories">Fort Resolution</a></td><td>90.0</td></tr><tr><td><a href="../../../../articles/l/i/a/Liard_Highway_8792.html" title="Liard Highway">Liard Highway</a></td><td>7</td><td>Towards <a href="../../../../articles/f/o/r/Fort_Nelson%2C_British_Columbia_a395.html" title="Fort Nelson, British Columbia">Fort Nelson, British Columbia</a></td><td>Near <a href="../../../../articles/f/o/r/Fort_Simpson%2C_Northwest_Territories_5a0d.html" title="Fort Simpson, Northwest Territories">Fort Simpson</a> (Hwy 1)</td><td>254.1</td></tr><tr><td><a href="../../../../articles/d/e/m/Dempster_Highway_d48b.html" title="Dempster Highway">Dempster Highway</a></td><td>8</td><td>Towards <a href="../../../../articles/d/a/w/Dawson_City%2C_Yukon_bdcf.html" title="Dawson City, Yukon">Dawson City, Yukon</a></td><td><a href="../../../../articles/i/n/u/Inuvik%2C_Northwest_Territories_e274.html" title="Inuvik, Northwest Territories">Inuvik</a></td><td>272.5</td></tr><tr><td><a href="../../../../articles/t/i/b/Tibbitt_to_Contwoyto_Winter_Road_6037.html" title="Tibbitt to Contwoyto Winter Road">Tibbitt to Contwoyto Winter Road</a></td><td>None</td><td><a href="../../../../articles/t/i/b/Tibbitt_Lake_56ae.html" title="Tibbitt Lake">Tibbitt Lake</a></td><td><a href="../../../../articles/c/o/n/Contwoyto_Lake_9222.html" title="Contwoyto Lake">Contwoyto Lake</a>, <a href="../../../../articles/n/u/n/Nunavut.html" title="Nunavut">Nunavut</a></td><td>568</td></tr><tr><td><a href="../../../../articles/c/a/n/Canol_Road_3b28.html" title="Canol Road">Canol Road</a></td><td>None</td><td><a href="../../../../articles/n/o/r/Norman_Wells%2C_Northwest_Territories_053e.html" title="Norman Wells, Northwest Territories">Norman Wells</a></td><td><a href="../../../../articles/w/h/i/Whitehorse.html" title="Whitehorse">Whitehorse</a>, <a href="../../../../articles/y/u/k/Yukon.html" title="Yukon">Yukon</a></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

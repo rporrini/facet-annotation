@@ -1,0 +1,21 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wordnet_novel_106367879" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wordnet_novelist_110363573" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<relationshipAnnotations>
+<relAnnos col1="1" col2="2">
+<rel>wrote</rel>
+</relAnnos>
+</relationshipAnnotations>
+
+</tableAnnotations>
+

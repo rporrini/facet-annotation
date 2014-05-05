@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r20/s/q/u/Squeeze_play_(bridge).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 1, 0.8333333 0 2, 0.75 0 4, 0.6666667 0 5, 0.34375 1 2, 0.240625 1 4, 0.22916667 1, 0.21875 2 4, 0.2138889 1 5, 0.20833333 2, 0.19444445 2 5, 0.13333334 5, 0.125 4 5, 0.11666667 0 3, 0.112500004 4, 0.04861111 2 3, 0.048125 1 3, 0.039375 3 4, 0.035 3, 0.035 3 5, " />
+<meta name="parentHTMLDoc" value="en/articles/s/q/u/Squeeze_play_(bridge).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Type of Squeeze</th>]]></html>
+	<text>Type of Squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Positional/Automatic</th>]]></html>
+	<text>Positional/Automatic</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponents</th>]]></html>
+	<text>Opponents</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Suits</th>]]></html>
+	<text>Suits</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Material</th>]]></html>
+	<text>Material</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Count Rectified</th>]]></html>
+	<text>Count Rectified</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Simple squeeze</td>]]></html>
+	<text>Simple squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Criss-cross squeeze</td>]]></html>
+	<text>Criss-cross squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Automatic</td>]]></html>
+	<text>Automatic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trump squeeze</td>]]></html>
+	<text>Trump squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Progressive squeeze (aka Triple squeeze )</td>]]></html>
+	<text>Progressive squeeze (aka Triple squeeze )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Double squeeze</td>]]></html>
+	<text>Double squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Double</td>]]></html>
+	<text>Double</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Compound squeeze</td>]]></html>
+	<text>Compound squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Double</td>]]></html>
+	<text>Double</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Entry-shifting squeeze</td>]]></html>
+	<text>Entry-shifting squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Single-suit squeeze</td>]]></html>
+	<text>Single-suit squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Strip squeeze</td>]]></html>
+	<text>Strip squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Backwash squeeze</td>]]></html>
+	<text>Backwash squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cannibal squeeze</td>]]></html>
+	<text>Cannibal squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes*</td>]]></html>
+	<text>Yes*</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stepping-stone squeeze</td>]]></html>
+	<text>Stepping-stone squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guard squeeze</td>]]></html>
+	<text>Guard squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-3</td>]]></html>
+	<text>2-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vice squeeze</td>]]></html>
+	<text>Vice squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-3</td>]]></html>
+	<text>2-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Winkle squeeze</td>]]></html>
+	<text>Winkle squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clash squeeze</td>]]></html>
+	<text>Clash squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Positional</td>]]></html>
+	<text>Positional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saturated squeeze</td>]]></html>
+	<text>Saturated squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pseudo-squeeze</td>]]></html>
+	<text>Pseudo-squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Entry squeeze</td>]]></html>
+	<text>Entry squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Knockout squeeze</td>]]></html>
+	<text>Knockout squeeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Either</td>]]></html>
+	<text>Either</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Single</td>]]></html>
+	<text>Single</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Squeeze play (bridge) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Type of Squeeze Positional/Automatic Opponents Suits Material Count Rectified</text>
+</context>
+<context>
+	<score>0.85975784</score>
+	<text>Most of the common types of squeezes (and some of the rare ones) have names:</text>
+</context>
+<context>
+	<score>0.78262454</score>
+	<text>Squeeze play (bridge)</text>
+</context>
+<context>
+	<score>0.747564</score>
+	<text>There are several ways to classify squeezes:</text>
+</context>
+<context>
+	<score>0.72879636</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.71039987</score>
+	<text>[ edit ] Classification</text>
+</context>
+<context>
+	<score>0.71039987</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.6753393</score>
+	<text>[ edit ] Classification</text>
+</context>
+<context>
+	<score>0.58600503</score>
+	<text>Q first does not work. East can return a spade, and declarer will score only the A. Not only does the squeeze position disappear, but there is no entry to cash the A.</text>
+</context>
+<context>
+	<score>0.5589528</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5285618</score>
+	<text>But with East&apos;s hand as shown in the diagram, losing the</text>
+</context>
+<context>
+	<score>0.48260722</score>
+	<text>Q immediately, before taking the A, in order to rectify the count. Now East is forced to lead a club, and West is squeezed as before.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Type of Squeeze</th><th>Positional/Automatic</th><th>Opponents</th><th>Suits</th><th>Material</th><th>Count Rectified</th></tr><tr><td><a href="../../../../articles/s/i/m/Simple_squeeze.html" title="Simple squeeze">Simple squeeze</a></td><td>Either</td><td>Single</td><td>2</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/c/r/i/Criss-cross_squeeze.html" title="Criss-cross squeeze">Criss-cross squeeze</a></td><td>Automatic</td><td>Single</td><td>2</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/t/r/u/Trump_squeeze.html" title="Trump squeeze">Trump squeeze</a></td><td>Either</td><td>Single</td><td>2</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/p/r/o/Progressive_squeeze.html" title="Progressive squeeze">Progressive squeeze</a><br />(aka <a href="../../../../articles/t/r/i/Triple_squeeze.html" title="Triple squeeze">Triple squeeze</a>)</td><td>Positional</td><td>Single</td><td>3</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/d/o/u/Double_squeeze.html" title="Double squeeze">Double squeeze</a></td><td>Either</td><td>Double</td><td>3</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/c/o/m/Compound_squeeze.html" title="Compound squeeze">Compound squeeze</a></td><td>Positional</td><td>Double</td><td>3</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/e/n/t/Entry-shifting_squeeze.html" title="Entry-shifting squeeze">Entry-shifting squeeze</a></td><td>Positional</td><td>Single</td><td>2</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/s/i/n/Single-suit_squeeze.html" title="Single-suit squeeze">Single-suit squeeze</a></td><td>Positional</td><td>Single</td><td>1</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/s/t/r/Strip_squeeze.html" title="Strip squeeze">Strip squeeze</a></td><td>Positional</td><td>Single</td><td>1</td><td>Yes</td><td>No</td></tr><tr><td><a href="../../../../articles/b/a/c/Backwash_squeeze.html" title="Backwash squeeze">Backwash squeeze</a></td><td>Positional</td><td>Single</td><td>2</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/c/a/n/Cannibal_squeeze.html" title="Cannibal squeeze">Cannibal squeeze</a></td><td>Positional</td><td>Single</td><td>2</td><td>Yes</td><td>Yes*</td></tr><tr><td><a href="../../../../articles/s/t/e/Stepping-stone_squeeze.html" title="Stepping-stone squeeze">Stepping-stone squeeze</a></td><td>Positional</td><td>Either</td><td>2</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/g/u/a/Guard_squeeze.html" title="Guard squeeze">Guard squeeze</a></td><td>Positional</td><td>Either</td><td>2-3</td><td>Yes</td><td>Yes</td></tr><tr><td><a href="../../../../articles/v/i/c/Vice_squeeze.html" title="Vice squeeze">Vice squeeze</a></td><td>Positional</td><td>Single</td><td>2-3</td><td>Yes</td><td>No</td></tr><tr><td><a href="../../../../articles/w/i/n/Winkle_squeeze.html" title="Winkle squeeze">Winkle squeeze</a></td><td>Positional</td><td>Single</td><td>3</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/c/l/a/Clash_squeeze.html" title="Clash squeeze">Clash squeeze</a></td><td>Positional</td><td>Either</td><td>3</td><td>Yes</td><td>Yes</td></tr><tr><td>Saturated squeeze</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/p/s/e/Pseudo-squeeze.html" title="Pseudo-squeeze">Pseudo-squeeze</a></td><td>N/A</td><td>N/A</td><td>N/A</td><td>No</td><td>N/A</td></tr><tr><td><a href="../../../../articles/e/n/t/Entry_squeeze.html" title="Entry squeeze">Entry squeeze</a></td><td>Either</td><td>Either</td><td>3</td><td>No</td><td>No</td></tr><tr><td><a href="../../../../articles/k/n/o/Knockout_squeeze.html" title="Knockout squeeze">Knockout squeeze</a></td><td>Either</td><td>Single</td><td>3</td><td>No</td><td>No</td></tr></table>]]>
+</htmlSnippet>
+</entity>

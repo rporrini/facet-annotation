@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r6/u/n/i/United_States_House_of_Representatives_elections,_1996_771f.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 1 2, 0.8333333 1 4, 0.75 5, 0.75 1 5, 0.6875 2 5, 0.625 4 5, 0.30555558 2, 0.25462964 2 4, 0.1388889 4, 0.13333334 1 3, 0.11666667 0, 0.11666667 0 1, 0.10694445 0 2, 0.10000001 3 5, 0.097222224 0 4, 0.0888889 3, 0.0875 0 5, 0.081481494 2 3, 0.074074075 3 4, 0.015555556 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_1996_771f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1st</td>]]></html>
+	<text>1st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matt Salmon</td>]]></html>
+	<text>Matt Salmon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matt Salmon (R) 60.18% John Cox (D) 39.82%</td>]]></html>
+	<text>Matt Salmon (R) 60.18% John Cox (D) 39.82%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2nd</td>]]></html>
+	<text>2nd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ed Pastor</td>]]></html>
+	<text>Ed Pastor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ed Pastor (D) 65.01% Jim Buster (R) 30.76% Alice Bangle (L) 4.23%</td>]]></html>
+	<text>Ed Pastor (D) 65.01% Jim Buster (R) 30.76% Alice Bangle (L) 4.23%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3rd</td>]]></html>
+	<text>3rd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Stump</td>]]></html>
+	<text>Bob Stump</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1976</td>]]></html>
+	<text>1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Stump (R) 66.52% Alexander Schneider (D) 33.48%</td>]]></html>
+	<text>Bob Stump (R) 66.52% Alexander Schneider (D) 33.48%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4th</td>]]></html>
+	<text>4th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Shadegg</td>]]></html>
+	<text>John Shadegg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Shadegg (R) 66.78% Maria Milton (D) 33.22%</td>]]></html>
+	<text>John Shadegg (R) 66.78% Maria Milton (D) 33.22%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5th</td>]]></html>
+	<text>5th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Kolbe</td>]]></html>
+	<text>Jim Kolbe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Kolbe (R) 68.74% Mort Nelson (D) 25.91% John Zajac (L) 2.81% Ed Finkelstein (Ref) 2.54%</td>]]></html>
+	<text>Jim Kolbe (R) 68.74% Mort Nelson (D) 25.91% John Zajac (L) 2.81% Ed Finkelstein (Ref) 2.54%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6th</td>]]></html>
+	<text>6th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>J. D. Hayworth</td>]]></html>
+	<text>J. D. Hayworth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>J. D. Hayworth (R) 47.57% Steve Owens (D) 46.60% Robert Anderson (L) 5.84%</td>]]></html>
+	<text>J. D. Hayworth (R) 47.57% Steve Owens (D) 46.60% Robert Anderson (L) 5.84%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 1996 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Result</text>
+</context>
+<context>
+	<score>0.88054967</score>
+	<text>[ edit ] Arizona</text>
+</context>
+<context>
+	<score>0.80346316</score>
+	<text>United States House of Representatives elections, 1996</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Johnny Grames (G) 1.93%</text>
+</context>
+<context>
+	<score>0.75220746</score>
+	<text>[ edit ] Arkansas</text>
+</context>
+<context>
+	<score>0.7276493</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.7276493</score>
+	<text>[ edit ] Voting members</text>
+</context>
+<context>
+	<score>0.7276493</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7258875</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>William Nemec (AKI) 2.15%</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Georgianna Lincoln (D) 36.42%</text>
+</context>
+<context>
+	<score>0.60541075</score>
+	<text>[ edit ] California</text>
+</context>
+<context>
+	<score>0.59429514</score>
+	<text>Don Young (R) 59.41%</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Running</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Republican</text>
+</context>
+<context>
+	<score>0.5190598</score>
+	<text>[ edit ] Colorado</text>
+</context>
+<context>
+	<score>0.47704527</score>
+	<text>Alaska 1</text>
+</context>
+<context>
+	<score>0.46826503</score>
+	<text>[ edit ] Connecticut</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Result</th></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_1st_congressional_district.html" title="Arizona's 1st congressional district">1st</a></td><td><a href="../../../../articles/m/a/t/Matt_Salmon_67c7.html" title="Matt Salmon">Matt Salmon</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/m/a/t/Matt_Salmon_67c7.html" title="Matt Salmon">Matt Salmon</a> (R) 60.18%</b><br />John Cox (D) 39.82%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_2nd_congressional_district.html" title="Arizona's 2nd congressional district">2nd</a></td><td><a href="../../../../articles/e/d/_/Ed_Pastor_d6a0.html" title="Ed Pastor">Ed Pastor</a></td><td>Democratic</td><td>1991</td><td>Running</td><td><b><a href="../../../../articles/e/d/_/Ed_Pastor_d6a0.html" title="Ed Pastor">Ed Pastor</a> (D) 65.01%</b><br />Jim Buster (R) 30.76%<br />Alice Bangle (L) 4.23%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_3rd_congressional_district.html" title="Arizona's 3rd congressional district">3rd</a></td><td><a href="../../../../articles/b/o/b/Bob_Stump_247e.html" title="Bob Stump">Bob Stump</a></td><td>Republican</td><td>1976</td><td>Running</td><td><b><a href="../../../../articles/b/o/b/Bob_Stump_247e.html" title="Bob Stump">Bob Stump</a> (R) 66.52%</b><br /><a href="../../../../articles/a/l/e/Alexander_Schneider_62ec.html" title="Alexander Schneider">Alexander Schneider</a> (D) 33.48%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_4th_congressional_district.html" title="Arizona's 4th congressional district">4th</a></td><td><a href="../../../../articles/j/o/h/John_Shadegg_89fd.html" title="John Shadegg">John Shadegg</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/j/o/h/John_Shadegg_89fd.html" title="John Shadegg">John Shadegg</a> (R) 66.78%</b><br />Maria Milton (D) 33.22%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_5th_congressional_district.html" title="Arizona's 5th congressional district">5th</a></td><td><a href="../../../../articles/j/i/m/Jim_Kolbe_2ccd.html" title="Jim Kolbe">Jim Kolbe</a></td><td>Republican</td><td>1984</td><td>Running</td><td><b><a href="../../../../articles/j/i/m/Jim_Kolbe_2ccd.html" title="Jim Kolbe">Jim Kolbe</a> (R) 68.74%</b><br />Mort Nelson (D) 25.91%<br />John Zajac (L) 2.81%<br />Ed Finkelstein (Ref) 2.54%</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona%27s_6th_congressional_district.html" title="Arizona's 6th congressional district">6th</a></td><td><a href="../../../../articles/j/2E/_/J._D._Hayworth_ed97.html" title="J. D. Hayworth">J. D. Hayworth</a></td><td>Republican</td><td>1994</td><td>Running</td><td><b><a href="../../../../articles/j/2E/_/J._D._Hayworth_ed97.html" title="J. D. Hayworth">J. D. Hayworth</a> (R) 47.57%</b><br />Steve Owens (D) 46.60%<br />Robert Anderson (L) 5.84%<br /></td></tr></table>]]>
+</htmlSnippet>
+</entity>

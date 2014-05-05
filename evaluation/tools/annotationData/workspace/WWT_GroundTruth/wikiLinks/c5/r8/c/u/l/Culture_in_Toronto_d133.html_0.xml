@@ -1,0 +1,77 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wordnet_object_100002684" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wordnet_league_108231184" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_club_108227214" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Toronto_Argonauts</entity>
+<entity>Canadian_Football_League</entity>
+<entity>Rogers_Centre</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Maple_Leafs</entity>
+<entity>National_Hockey_League</entity>
+<entity>Air_Canada_Centre</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Blue_Jays</entity>
+<entity>Major_League_Baseball</entity>
+<entity>Rogers_Centre</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Raptors</entity>
+<entity>National_Basketball_Association</entity>
+<entity>Air_Canada_Centre</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Lynx</entity>
+<entity>USL_First_Division</entity>
+<entity>Centennial_Park_Stadium</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Rock</entity>
+<entity>National_Lacrosse_League</entity>
+<entity>Air_Canada_Centre</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_Marlies</entity>
+<entity>American_Hockey_League</entity>
+<entity>Ricoh_Coliseum</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Toronto_FC</entity>
+<entity>Major_League_Soccer</entity>
+<entity>BMO_Field</entity>
+<entity></entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

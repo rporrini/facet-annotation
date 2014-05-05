@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r25/o/f/f/The_Bachelor~_Officer_and_a_Gentleman_ae4b.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 2, 0.84333336 2, 0.8333333 0 3, 0.7638889 2 3, 0.75 0 4, 0.7333333 3, 0.6325 2 4, 0.575 3 4, 0.27 4, 0.13333334 0 1, 0.12222223 1 2, 0.10666666 1 3, 0.08400001 1 4, 0.058333334 0 5, 0.05333334 1, 0.049194444 2 5, 0.04472222 3 5, 0.01925 4 5, 0.0069999998 5, 0.0037333334 1 5, " />
+<meta name="parentHTMLDoc" value="en/articles/o/f/f/The_Bachelor~_Officer_and_a_Gentleman_ae4b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Age</th>]]></html>
+	<text>Age</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Hometown</th>]]></html>
+	<text>Hometown</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Occupation</th>]]></html>
+	<text>Occupation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Eliminated</th>]]></html>
+	<text>Eliminated</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tessa Horst</td>]]></html>
+	<text>Tessa Horst</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Francisco, California</td>]]></html>
+	<text>San Francisco, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Social Worker</td>]]></html>
+	<text>Social Worker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winner</td>]]></html>
+	<text>Winner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bevin Nicole Powers</td>]]></html>
+	<text>Bevin Nicole Powers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palo Alto, California</td>]]></html>
+	<text>Palo Alto, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Assistant</td>]]></html>
+	<text>Assistant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 8</td>]]></html>
+	<text>Week 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Danielle Imwalle</td>]]></html>
+	<text>Danielle Imwalle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bethel, Connecticut</td>]]></html>
+	<text>Bethel, Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graphic Designer</td>]]></html>
+	<text>Graphic Designer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 7</td>]]></html>
+	<text>Week 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amber Alchalabi</td>]]></html>
+	<text>Amber Alchalabi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sugar Land, Texas</td>]]></html>
+	<text>Sugar Land, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teacher</td>]]></html>
+	<text>Teacher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 6</td>]]></html>
+	<text>Week 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stephanie Wilhite</td>]]></html>
+	<text>Stephanie Wilhite</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overland Park, Kansas</td>]]></html>
+	<text>Overland Park, Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Project Manager</td>]]></html>
+	<text>Project Manager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 5</td>]]></html>
+	<text>Week 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tina Wu</td>]]></html>
+	<text>Tina Wu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles, California</td>]]></html>
+	<text>Los Angeles, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medical student</td>]]></html>
+	<text>Medical student</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 5</td>]]></html>
+	<text>Week 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kate Brockhouse</td>]]></html>
+	<text>Kate Brockhouse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charleston, South Carolina</td>]]></html>
+	<text>Charleston, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boutique owner</td>]]></html>
+	<text>Boutique owner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 4</td>]]></html>
+	<text>Week 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nicole Clary</td>]]></html>
+	<text>Nicole Clary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charleston, South Carolina</td>]]></html>
+	<text>Charleston, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sales Manager</td>]]></html>
+	<text>Sales Manager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 4</td>]]></html>
+	<text>Week 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stephanie Tipper</td>]]></html>
+	<text>Stephanie Tipper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Folly Beach, South Carolina</td>]]></html>
+	<text>Folly Beach, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Organ donor coordinator</td>]]></html>
+	<text>Organ donor coordinator</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 4</td>]]></html>
+	<text>Week 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amanda</td>]]></html>
+	<text>Amanda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dallas, Texas</td>]]></html>
+	<text>Dallas, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Financial analyst</td>]]></html>
+	<text>Financial analyst</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 3</td>]]></html>
+	<text>Week 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Erin Parker</td>]]></html>
+	<text>Erin Parker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Logansport, Louisiana</td>]]></html>
+	<text>Logansport, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Financial analyst</td>]]></html>
+	<text>Financial analyst</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 3</td>]]></html>
+	<text>Week 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peyton Wright</td>]]></html>
+	<text>Peyton Wright</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dallas, Texas</td>]]></html>
+	<text>Dallas, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sorority recruiter</td>]]></html>
+	<text>Sorority recruiter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 3</td>]]></html>
+	<text>Week 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alexis Young</td>]]></html>
+	<text>Alexis Young</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Southlake, Texas</td>]]></html>
+	<text>Southlake, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Attorney</td>]]></html>
+	<text>Attorney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 2</td>]]></html>
+	<text>Week 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4th runner-up at Miss Texas USA 2006</td>]]></html>
+	<text>4th runner-up at Miss Texas USA 2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Susan</td>]]></html>
+	<text>Susan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Woodlands, Texas</td>]]></html>
+	<text>The Woodlands, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boutique manager</td>]]></html>
+	<text>Boutique manager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 2</td>]]></html>
+	<text>Week 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tiffany Warren</td>]]></html>
+	<text>Tiffany Warren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boston, Massachusetts</td>]]></html>
+	<text>Boston, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medical equipment sales rep</td>]]></html>
+	<text>Medical equipment sales rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 2</td>]]></html>
+	<text>Week 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Blakeney Rowe</td>]]></html>
+	<text>Blakeney Rowe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Birmingham, Alabama</td>]]></html>
+	<text>Birmingham, Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Radio sales</td>]]></html>
+	<text>Radio sales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Candace DeCost</td>]]></html>
+	<text>Candace DeCost</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hilton Head Island, South Carolina</td>]]></html>
+	<text>Hilton Head Island, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waitress</td>]]></html>
+	<text>Waitress</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Catherine Warren</td>]]></html>
+	<text>Catherine Warren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake Forest, Illinois</td>]]></html>
+	<text>Lake Forest, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former Miss Illinois</td>]]></html>
+	<text>Former Miss Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Former Miss Illinois USA 2006, top 15 at Miss USA 2006 [3]</td>]]></html>
+	<text>Former Miss Illinois USA 2006, top 15 at Miss USA 2006 [3]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Danielle V.</td>]]></html>
+	<text>Danielle V.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bronx, New York</td>]]></html>
+	<text>Bronx, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Attorney</td>]]></html>
+	<text>Attorney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jackie</td>]]></html>
+	<text>Jackie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minneapolis, Minnesota</td>]]></html>
+	<text>Minneapolis, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Executive coordinator</td>]]></html>
+	<text>Executive coordinator</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jeanette Alvarez</td>]]></html>
+	<text>Jeanette Alvarez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tampa, Florida</td>]]></html>
+	<text>Tampa, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Health care manager</td>]]></html>
+	<text>Health care manager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jessica</td>]]></html>
+	<text>Jessica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York City, New York</td>]]></html>
+	<text>New York City, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hedge fund analyst</td>]]></html>
+	<text>Hedge fund analyst</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Linda Malek</td>]]></html>
+	<text>Linda Malek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cuyahoga Falls, Ohio</td>]]></html>
+	<text>Cuyahoga Falls, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Attorney</td>]]></html>
+	<text>Attorney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lindsay Jo</td>]]></html>
+	<text>Lindsay Jo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lawrence, Kansas</td>]]></html>
+	<text>Lawrence, Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Student</td>]]></html>
+	<text>Student</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tiffany F.</td>]]></html>
+	<text>Tiffany F.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Louis Park, Minnesota</td>]]></html>
+	<text>St. Louis Park, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Real estate sales/development</td>]]></html>
+	<text>Real estate sales/development</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Week 1</td>]]></html>
+	<text>Week 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>The Bachelor: Officer and a Gentleman - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Age Hometown Occupation Eliminated Notes</text>
+</context>
+<context>
+	<score>0.8787062</score>
+	<text>The following is the list of bachelorettes for this season:</text>
+</context>
+<context>
+	<score>0.80062336</score>
+	<text>The Bachelor: Officer and a Gentleman</text>
+</context>
+<context>
+	<score>0.79058987</score>
+	<text>[ edit ] Contestants</text>
+</context>
+<context>
+	<score>0.7591962</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73191404</score>
+	<text>[ edit ] Contestants</text>
+</context>
+<context>
+	<score>0.73191404</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73191404</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.73191404</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7229954</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70404327</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6508595</score>
+	<text>The Bachelor: Officer and a Gentleman is the tenth season of ABC reality television series The Bachelor . The show was filmed in Los Angeles , Hawaii , and Pennsylvania . The premiere of this season of The Bachelor aired on April 2, 2007. The show features the bachelor, Andy Baldwin , courting 25 women.</text>
+</context>
+<context>
+	<score>0.6123006</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.611211</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.57146543</score>
+	<text>The Bachelor: Officer and a Gentleman</text>
+</context>
+<context>
+	<score>0.51697284</score>
+	<text>This article or section needs to be updated. Please update the article to reflect recent events / newly available information, and remove this template when finished.</text>
+</context>
+<context>
+	<score>0.47506255</score>
+	<text>Additional information needed</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name</th><th>Age</th><th>Hometown</th><th>Occupation</th><th>Eliminated</th><th>Notes</th></tr><tr><td bgcolor="gold"><b><a href="../../../../articles/t/e/s/Tessa_Horst_02ad.html" title="Tessa Horst">Tessa Horst</a></b></td><td bgcolor="gold"><b>26</b></td><td bgcolor="gold"><b><a href="../../../../articles/s/a/n/San_Francisco%2C_California_b6e2.html" title="San Francisco, California">San Francisco, California</a></b></td><td bgcolor="gold"><b>Social Worker</b></td><td bgcolor="gold"><b>Winner</b></td><td bgcolor="gold"></td></tr><tr><td>Bevin Nicole Powers</td><td>28</td><td><a href="../../../../articles/p/a/l/Palo_Alto%2C_California_ddd0.html" title="Palo Alto, California">Palo Alto, California</a></td><td>Assistant</td><td>Week 8</td><td></td></tr><tr><td>Danielle Imwalle</td><td>25</td><td><a href="../../../../articles/b/e/t/Bethel%2C_Connecticut_7ad2.html" title="Bethel, Connecticut">Bethel, Connecticut</a></td><td>Graphic Designer</td><td>Week 7</td><td></td></tr><tr><td>Amber Alchalabi</td><td>23</td><td><a href="../../../../articles/s/u/g/Sugar_Land%2C_Texas_5071.html" title="Sugar Land, Texas">Sugar Land, Texas</a></td><td>Teacher</td><td>Week 6</td><td></td></tr><tr><td>Stephanie Wilhite</td><td>23</td><td><a href="../../../../articles/o/v/e/Overland_Park%2C_Kansas_c43a.html" title="Overland Park, Kansas">Overland Park, Kansas</a></td><td>Project Manager</td><td>Week 5</td><td></td></tr><tr><td>Tina Wu</td><td>26</td><td><a href="../../../../articles/l/o/s/Los_Angeles%2C_California_b493.html" title="Los Angeles, California">Los Angeles, California</a></td><td>Medical student</td><td>Week 5</td><td></td></tr><tr><td>Kate Brockhouse</td><td>24</td><td><a href="../../../../articles/c/h/a/Charleston%2C_South_Carolina_d5d8.html" title="Charleston, South Carolina">Charleston, South Carolina</a></td><td>Boutique owner</td><td>Week 4</td><td></td></tr><tr><td>Nicole Clary</td><td>26</td><td><a href="../../../../articles/c/h/a/Charleston%2C_South_Carolina_d5d8.html" title="Charleston, South Carolina">Charleston, South Carolina</a></td><td>Sales Manager</td><td>Week 4</td><td></td></tr><tr><td>Stephanie Tipper</td><td>27</td><td><a href="../../../../articles/f/o/l/Folly_Beach%2C_South_Carolina_3279.html" title="Folly Beach, South Carolina">Folly Beach, South Carolina</a></td><td>Organ donor coordinator</td><td>Week 4</td><td></td></tr><tr><td>Amanda</td><td>26</td><td><a href="../../../../articles/d/a/l/Dallas%2C_Texas_2045.html" title="Dallas, Texas">Dallas, Texas</a></td><td>Financial analyst</td><td>Week 3</td><td></td></tr><tr><td>Erin Parker</td><td>24</td><td><a href="../../../../articles/l/o/g/Logansport%2C_Louisiana_52b7.html" title="Logansport, Louisiana">Logansport, Louisiana</a></td><td>Financial analyst</td><td>Week 3</td><td></td></tr><tr><td>Peyton Wright</td><td>24</td><td><a href="../../../../articles/d/a/l/Dallas%2C_Texas_2045.html" title="Dallas, Texas">Dallas, Texas</a></td><td>Sorority recruiter</td><td>Week 3</td><td></td></tr><tr><td>Alexis Young</td><td>26</td><td><a href="../../../../articles/s/o/u/Southlake%2C_Texas_7af9.html" title="Southlake, Texas">Southlake, Texas</a></td><td>Attorney</td><td>Week 2</td><td>4th runner-up at <a href="../../../../articles/m/i/s/Miss_Texas_USA_d52c.html" title="Miss Texas USA">Miss Texas USA</a> 2006</td></tr><tr><td>Susan</td><td>23</td><td><a href="../../../../articles/t/h/e/The_Woodlands%2C_Texas_3d38.html" title="The Woodlands, Texas">The Woodlands, Texas</a></td><td>Boutique manager</td><td>Week 2</td><td></td></tr><tr><td>Tiffany Warren</td><td>28</td><td><a href="../../../../articles/b/o/s/Boston%2C_Massachusetts_d688.html" title="Boston, Massachusetts">Boston, Massachusetts</a></td><td>Medical equipment sales rep</td><td>Week 2</td></tr><tr><td>Blakeney Rowe</td><td>29</td><td><a href="../../../../articles/b/i/r/Birmingham%2C_Alabama_0973.html" title="Birmingham, Alabama">Birmingham, Alabama</a></td><td>Radio sales</td><td>Week 1</td><td></td></tr><tr><td>Candace DeCost</td><td>23</td><td><a href="../../../../articles/h/i/l/Hilton_Head_Island%2C_South_Carolina_32d7.html" title="Hilton Head Island, South Carolina">Hilton Head Island, South Carolina</a></td><td>Waitress</td><td>Week 1</td><td></td></tr><tr><td><a href="../../../../articles/c/a/t/Catherine_Warren_de49.html" title="Catherine Warren">Catherine Warren</a></td><td>23</td><td><a href="../../../../articles/l/a/k/Lake_Forest%2C_Illinois_a1c5.html" title="Lake Forest, Illinois">Lake Forest, Illinois</a></td><td>Former Miss Illinois</td><td>Week 1</td><td>Former <a href="../../../../articles/m/i/s/Miss_Illinois_USA_a8c6.html" title="Miss Illinois USA">Miss Illinois USA</a> 2006, top 15 at <a href="../../../../articles/m/i/s/Miss_USA_2006_f423.html" title="Miss USA 2006">Miss USA 2006</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2" title="">[3]</a></sup></td></tr><tr><td>Danielle V.</td><td>26</td><td><a href="../../../../articles/b/r/o/Bronx%2C_New_York_faab.html" class="mw-redirect" title="Bronx, New York">Bronx, New York</a></td><td>Attorney</td><td>Week 1</td><td></td></tr><tr><td>Jackie</td><td>23</td><td><a href="../../../../articles/m/i/n/Minneapolis%2C_Minnesota_b081.html" title="Minneapolis, Minnesota">Minneapolis, Minnesota</a></td><td>Executive coordinator</td><td>Week 1</td><td></td></tr><tr><td>Jeanette Alvarez</td><td>27</td><td><a href="../../../../articles/t/a/m/Tampa%2C_Florida_a617.html" title="Tampa, Florida">Tampa, Florida</a></td><td>Health care manager</td><td>Week 1</td><td></td></tr><tr><td>Jessica</td><td>32</td><td><a href="../../../../articles/n/e/w/New_York_City%2C_New_York_68d2.html" class="mw-redirect" title="New York City, New York">New York City, New York</a></td><td>Hedge fund analyst</td><td>Week 1</td><td></td></tr><tr><td>Linda Malek</td><td>33</td><td><a href="../../../../articles/c/u/y/Cuyahoga_Falls%2C_Ohio_5a80.html" title="Cuyahoga Falls, Ohio">Cuyahoga Falls, Ohio</a></td><td>Attorney</td><td>Week 1</td><td></td></tr><tr><td>Lindsay Jo</td><td>22</td><td><a href="../../../../articles/l/a/w/Lawrence%2C_Kansas_0426.html" title="Lawrence, Kansas">Lawrence, Kansas</a></td><td>Student</td><td>Week 1</td><td></td></tr><tr><td>Tiffany F.</td><td>27</td><td><a href="../../../../articles/s/t/2E/St._Louis_Park%2C_Minnesota_6497.html" title="St. Louis Park, Minnesota">St. Louis Park, Minnesota</a></td><td>Real estate sales/development</td><td>Week 1</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

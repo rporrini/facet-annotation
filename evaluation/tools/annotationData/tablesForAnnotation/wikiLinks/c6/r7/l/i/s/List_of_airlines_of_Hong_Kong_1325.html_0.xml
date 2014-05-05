@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r7/l/i/s/List_of_airlines_of_Hong_Kong_1325.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 2, 0.9166667 0 2, 0.8333333 3, 0.8333333 0 3, 0.7638889 2 3, 0.75 4, 0.75 0 4, 0.6875 2 4, 0.625 3 4, 0.06666667 0 1, 0.061111115 1 2, 0.058333334 0 5, 0.055555556 1 3, 0.05347222 2 5, 0.050000004 1 4, 0.04861111 3 5, 0.04375 4 5, 0.009523811 1, 0.008333334 5, 5.5555557E-4 1 5, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airlines_of_Hong_Kong_1325.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>AIRLINE</th>]]></html>
+	<text>AIRLINE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRLINE (in Chinese)</th>]]></html>
+	<text>AIRLINE (in Chinese)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>CALLSIGN</th>]]></html>
+	<text>CALLSIGN</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>COMMENCED OPERATIONS</th>]]></html>
+	<text>COMMENCED OPERATIONS</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Air Hong Kong</td>]]></html>
+	<text>Air Hong Kong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>香港華民航空</td>]]></html>
+	<text>&#39321;&#28207;&#33775;&#27665;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AHK</td>]]></html>
+	<text>AHK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LD</td>]]></html>
+	<text>LD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AIR HONG KONG</td>]]></html>
+	<text>AIR HONG KONG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cathay Pacific</td>]]></html>
+	<text>Cathay Pacific</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>國泰航空</td>]]></html>
+	<text>&#22283;&#27888;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CPA</td>]]></html>
+	<text>CPA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CX</td>]]></html>
+	<text>CX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CATHAY</td>]]></html>
+	<text>CATHAY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dragonair</td>]]></html>
+	<text>Dragonair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>港龍航空</td>]]></html>
+	<text>&#28207;&#40845;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HDA</td>]]></html>
+	<text>HDA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KA</td>]]></html>
+	<text>KA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRAGON</td>]]></html>
+	<text>DRAGON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hong Kong Airlines</td>]]></html>
+	<text>Hong Kong Airlines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>香港航空</td>]]></html>
+	<text>&#39321;&#28207;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CRK</td>]]></html>
+	<text>CRK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HX</td>]]></html>
+	<text>HX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BAUHINIA</td>]]></html>
+	<text>BAUHINIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hong Kong Express Airways</td>]]></html>
+	<text>Hong Kong Express Airways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>香港快運航空</td>]]></html>
+	<text>&#39321;&#28207;&#24555;&#36939;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HKE</td>]]></html>
+	<text>HKE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UO</td>]]></html>
+	<text>UO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HONGKONG SHUTTLE</td>]]></html>
+	<text>HONGKONG SHUTTLE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Metrojet</td>]]></html>
+	<text>Metrojet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MTJ</td>]]></html>
+	<text>MTJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>METROJET</td>]]></html>
+	<text>METROJET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oasis Hong Kong Airlines</td>]]></html>
+	<text>Oasis Hong Kong Airlines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>甘泉香港航空</td>]]></html>
+	<text>&#29976;&#27849;&#39321;&#28207;&#33322;&#31354;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OHK</td>]]></html>
+	<text>OHK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O8</td>]]></html>
+	<text>O8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OASIS</td>]]></html>
+	<text>OASIS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airlines of Hong Kong - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>AIRLINE AIRLINE (in Chinese) ICAO IATA CALLSIGN COMMENCED OPERATIONS</text>
+</context>
+<context>
+	<score>0.89268875</score>
+	<text>), and for which oversight as recognised by the ICAO lies with the Civil Aviation Department .</text>
+</context>
+<context>
+	<score>0.81081414</score>
+	<text>List of airlines of Hong Kong</text>
+</context>
+<context>
+	<score>0.79094166</score>
+	<text>This is a list of airlines which have a current Airport Operator&apos;s Certificate issued by the Director-General of Civil Aviation ( Traditional Chinese :</text>
+</context>
+<context>
+	<score>0.7580235</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7492889</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7294165</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6642984</score>
+	<text>List of airlines of Hong Kong</text>
+</context>
+<context>
+	<score>0.60399467</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellpadding="2" cellspacing="3" class="wikitable sortable"><tr valign="middle"><th>AIRLINE</th><th>AIRLINE (in Chinese)</th><th><a href="../../../../articles/i/c/a/ICAO_airline_code_4ed6.html" class="mw-redirect" title="ICAO airline code">ICAO</a></th><th><a href="../../../../articles/i/a/t/IATA_a6cb.html" class="mw-redirect" title="IATA">IATA</a></th><th>CALLSIGN</th><th>COMMENCED<br />OPERATIONS</th></tr><tr><td><a href="../../../../articles/a/i/r/Air_Hong_Kong_4cb7.html" title="Air Hong Kong">Air Hong Kong</a></td><td>香港華民航空</td><td>AHK</td><td>LD</td><td>AIR HONG KONG</td><td></td></tr><tr><td><a href="../../../../articles/c/a/t/Cathay_Pacific_b58d.html" title="Cathay Pacific">Cathay Pacific</a></td><td>國泰航空</td><td>CPA</td><td>CX</td><td>CATHAY</td><td></td></tr><tr><td><a href="../../../../articles/d/r/a/Dragonair.html" title="Dragonair">Dragonair</a></td><td>港龍航空</td><td>HDA</td><td>KA</td><td>DRAGON</td><td></td></tr><tr><td><a href="../../../../articles/h/o/n/Hong_Kong_Airlines_f0c6.html" title="Hong Kong Airlines">Hong Kong Airlines</a></td><td>香港航空</td><td>CRK</td><td>HX</td><td>BAUHINIA</td><td></td></tr><tr><td><a href="../../../../articles/h/o/n/Hong_Kong_Express_Airways_e301.html" title="Hong Kong Express Airways">Hong Kong Express Airways</a></td><td>香港快運航空</td><td>HKE</td><td>UO</td><td>HONGKONG SHUTTLE</td><td></td></tr><tr><td><a href="../../../../articles/m/e/t/Metrojet_%28Hong_Kong%29_1a64.html" title="Metrojet (Hong Kong)">Metrojet</a></td><td></td><td>MTJ</td><td>-</td><td>METROJET</td><td></td></tr><tr><td><a href="../../../../articles/o/a/s/Oasis_Hong_Kong_Airlines_2855.html" title="Oasis Hong Kong Airlines">Oasis Hong Kong Airlines</a></td><td>甘泉香港航空</td><td>OHK</td><td>O8</td><td>OASIS</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

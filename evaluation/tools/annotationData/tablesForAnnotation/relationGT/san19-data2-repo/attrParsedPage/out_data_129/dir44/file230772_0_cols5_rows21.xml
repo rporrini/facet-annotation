@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san19-data2-repo/attrParsedPage/out_data_129/dir44/file230772_0_cols5_rows21.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="0.95238096 0, 0.85714287 0 1, 0.8 0 4, 0.47142857 1, 0.41142857 1 4, 0.1904762 4, 0.13333334 0 2, 0.120000005 0 3, 0.06666667 2, 0.06600001 1 2, 0.064 2 4, 0.06171429 1 3, 0.051428575 3, 0.050285723 3 4, 0.009600001 2 3, " />
+<meta name="url" value="http://www.movie-posters.com/1940.htm" />
+<meta name="parentHTMLDoc" value="san19-data2-repo/attrParsedPage/out_data_129/file230772" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>ShortText</coltype>
+<coltype>Number</coltype>
+<coltype>Currency</coltype>
+<coltype>Word</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th><font><b>MOVIE TITLE</b></font></th>]]></html>
+	<text>MOVIE TITLE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font><b>ACTORS</b></font></th>]]></html>
+	<text>ACTORS</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font><b>YEAR</b></font></th>]]></html>
+	<text>YEAR</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font><b>PRICE</b></font></th>]]></html>
+	<text>PRICE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><font><b>SIZE</b></font></th>]]></html>
+	<text>SIZE</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<th><font><b>COMMENTS</b></font></th>]]></html>
+	<text>COMMENTS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>BLONDIE HITS THE JACKPOT</font></td>]]></html>
+	<text>BLONDIE HITS THE JACKPOT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arthur Lake</td>]]></html>
+	<text>Arthur Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1949</td>]]></html>
+	<text>1949</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$20</td>]]></html>
+	<text>$20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LC</td>]]></html>
+	<text>LC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>LC with Dagwood</i></td>]]></html>
+	<text>LC with Dagwood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>BOOM TOWN</a></font></td>]]></html>
+	<text>BOOM TOWN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark Gable / Spencer Tracy</td>]]></html>
+	<text>Clark Gable / Spencer Tracy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946R</td>]]></html>
+	<text>1946R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$35</td>]]></html>
+	<text>$35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LC</td>]]></html>
+	<text>LC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Color LC with both stars</i></td>]]></html>
+	<text>Color LC with both stars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>CHAPLIN CAVALCADE</font></td>]]></html>
+	<text>CHAPLIN CAVALCADE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Chaplin</td>]]></html>
+	<text>Charlie Chaplin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>R</td>]]></html>
+	<text>R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50</td>]]></html>
+	<text>$50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1SHT</td>]]></html>
+	<text>1SHT</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Late 40's festival of Chaplin shorts</i></td>]]></html>
+	<text>Late 40&amp;amp;apos;s festival of Chaplin shorts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>CHARLEY'S AUNT</a></font></td>]]></html>
+	<text>CHARLEY&amp;amp;apos;S AUNT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Benny</td>]]></html>
+	<text>Jack Benny</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1941</td>]]></html>
+	<text>1941</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$45</td>]]></html>
+	<text>$45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LC</td>]]></html>
+	<text>LC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Rare "deluxe" glossy LC</i></td>]]></html>
+	<text>Rare &amp;amp;quot;deluxe&amp;amp;quot; glossy LC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>DESPERATE</a></font></td>]]></html>
+	<text>DESPERATE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steve Brodie</td>]]></html>
+	<text>Steve Brodie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1947</td>]]></html>
+	<text>1947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$150</td>]]></html>
+	<text>$150</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1SHT</td>]]></html>
+	<text>1SHT</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Film Noir; nice RKO Litho</i></td>]]></html>
+	<text>Film Noir; nice RKO Litho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>MOVIE CRAZY</font></td>]]></html>
+	<text>MOVIE CRAZY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harold Lloyd</td>]]></html>
+	<text>Harold Lloyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1949R</td>]]></html>
+	<text>1949R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$20</td>]]></html>
+	<text>$20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LC</td>]]></html>
+	<text>LC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>NEVER SAY GOODBYE</a></font></td>]]></html>
+	<text>NEVER SAY GOODBYE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Errol Flynn</td>]]></html>
+	<text>Errol Flynn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946</td>]]></html>
+	<text>1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$85</td>]]></html>
+	<text>$85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1SHT</td>]]></html>
+	<text>1SHT</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a><font>ONE NIGHT<br />IN THE TROPICS</font></a></td>]]></html>
+	<text>ONE NIGHTIN THE TROPICS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abbott &amp; Costello</td>]]></html>
+	<text>Abbott &amp;amp;amp; Costello</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1941</td>]]></html>
+	<text>1941</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$85</td>]]></html>
+	<text>$85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BELG</td>]]></html>
+	<text>BELG</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Original release</i></td>]]></html>
+	<text>Original release</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>PERILOUS WATERS</a></font></td>]]></html>
+	<text>PERILOUS WATERS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Don Castle</td>]]></html>
+	<text>Don Castle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1948</td>]]></html>
+	<text>1948</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$40</td>]]></html>
+	<text>$40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1SHT</td>]]></html>
+	<text>1SHT</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Nice graphics</i></td>]]></html>
+	<text>Nice graphics</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>TROUBLE CHASERS</a></font></td>]]></html>
+	<text>TROUBLE CHASERS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shemp Howard</td>]]></html>
+	<text>Shemp Howard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1945</td>]]></html>
+	<text>1945</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$50</td>]]></html>
+	<text>$50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LC</td>]]></html>
+	<text>LC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>LC with Shemp</i></td>]]></html>
+	<text>LC with Shemp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><a>TROUBLE CHASERS</a></font></td>]]></html>
+	<text>TROUBLE CHASERS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shemp Howard</td>]]></html>
+	<text>Shemp Howard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1945</td>]]></html>
+	<text>1945</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$75</td>]]></html>
+	<text>$75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TC</td>]]></html>
+	<text>TC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i>Nice</i></td>]]></html>
+	<text>Nice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>MOVIE TITLE ACTORS YEAR PRICE SIZE</text>
+</context>
+<context>
+	<score>0.72198176</score>
+	<text>CLICK HERE TO HAVE JPEG PHOTO EMAILED TO YOU FOR ANY POSTER WITHOUT PHOTO</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th><font><b>MOVIE TITLE</b></font></th><th><font><b>ACTORS</b></font></th><th><font><b>YEAR</b></font></th><th><font><b>PRICE</b></font></th><th><font><b>SIZE</b></font></th></tr><tr><th><font><b>COMMENTS</b></font></th></tr><tr><td><font>BLONDIE HITS THE JACKPOT</font></td><td>Arthur Lake</td><td>1949</td><td>$20</td><td>LC</td></tr><tr><td><i>LC with Dagwood</i></td></tr><tr><td><font><a>BOOM TOWN</a></font></td><td>Clark Gable / Spencer Tracy</td><td>1946R</td><td>$35</td><td>LC</td></tr><tr><td><i>Color LC with both stars</i></td></tr><tr><td><font>CHAPLIN CAVALCADE</font></td><td>Charlie Chaplin</td><td>R</td><td>$50</td><td>1SHT</td></tr><tr><td><i>Late 40's festival of Chaplin shorts</i></td></tr><tr><td><font><a>CHARLEY'S AUNT</a></font></td><td>Jack Benny</td><td>1941</td><td>$45</td><td>LC</td></tr><tr><td><i>Rare "deluxe" glossy LC</i></td></tr><tr><td><font><a>DESPERATE</a></font></td><td>Steve Brodie</td><td>1947</td><td>$150</td><td>1SHT</td></tr><tr><td><i>Film Noir; nice RKO Litho</i></td></tr><tr><td><font>MOVIE CRAZY</font></td><td>Harold Lloyd</td><td>1949R</td><td>$20</td><td>LC</td></tr><tr><td><i></i></td></tr><tr><td><font><a>NEVER SAY GOODBYE</a></font></td><td>Errol Flynn</td><td>1946</td><td>$85</td><td>1SHT</td></tr><tr><td><i></i></td></tr><tr><td><a><font>ONE NIGHT<br />IN THE TROPICS</font></a></td><td>Abbott &amp; Costello</td><td>1941</td><td>$85</td><td>BELG</td></tr><tr><td><i>Original release</i></td></tr><tr><td><font><a>PERILOUS WATERS</a></font></td><td>Don Castle</td><td>1948</td><td>$40</td><td>1SHT</td></tr><tr><td><i>Nice graphics</i></td></tr><tr><td><font><a>TROUBLE CHASERS</a></font></td><td>Shemp Howard</td><td>1945</td><td>$50</td><td>LC</td></tr><tr><td><i>LC with Shemp</i></td></tr><tr><td><font><a>TROUBLE CHASERS</a></font></td><td>Shemp Howard</td><td>1945</td><td>$75</td><td>TC</td></tr><tr><td><i>Nice</i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

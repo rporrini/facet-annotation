@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r7/c/j/c/CJCB-TV_9a58.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.16000001 0 2, 0.144 1 2, 0.14 3, 0.14 0 3, 0.13714287 2, 0.126 1 3, 0.060000002 0 4, 0.054 1 4, 0.022400001 2 3, 0.017142858 4, 0.008400001 3 4, 0.008228573 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/c/j/c/CJCB-TV_9a58.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Town/location</th>]]></html>
+	<text>Town/location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Call-sign</th>]]></html>
+	<text>Call-sign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel</th>]]></html>
+	<text>Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power (kW)</th>]]></html>
+	<text>Power (kW)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sydney, Nova Scotia</td>]]></html>
+	<text>Sydney, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV</td>]]></html>
+	<text>CJCB-TV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>180</td>]]></html>
+	<text>180</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Main station</td>]]></html>
+	<text>Main station</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Inverness, Nova Scotia</td>]]></html>
+	<text>Inverness, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-1</td>]]></html>
+	<text>CJCB-TV-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.4</td>]]></html>
+	<text>9.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Antigonish, Nova Scotia</td>]]></html>
+	<text>Antigonish, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-2</td>]]></html>
+	<text>CJCB-TV-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>260</td>]]></html>
+	<text>260</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dingwall, Nova Scotia</td>]]></html>
+	<text>Dingwall, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-3</td>]]></html>
+	<text>CJCB-TV-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.008</td>]]></html>
+	<text>0.008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Glasgow, Nova Scotia</td>]]></html>
+	<text>New Glasgow, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-4</td>]]></html>
+	<text>CJCB-TV-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.005</td>]]></html>
+	<text>0.005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bay St. Lawrence, Nova Scotia</td>]]></html>
+	<text>Bay St. Lawrence, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-5</td>]]></html>
+	<text>CJCB-TV-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.001</td>]]></html>
+	<text>0.001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Port Hawkesbury, Nova Scotia</td>]]></html>
+	<text>Port Hawkesbury, Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CJCB-TV-6</td>]]></html>
+	<text>CJCB-TV-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>CJCB-TV - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Town/location Call-sign Channel Power (kW) Notes</text>
+</context>
+<context>
+	<score>0.88826066</score>
+	<text>The station also has rebroadcast transmitters in the following communities ( semi-satellites in bold):</text>
+</context>
+<context>
+	<score>0.81105906</score>
+	<text>CJCB-TV</text>
+</context>
+<context>
+	<score>0.7907428</score>
+	<text>[ edit ] Transmitters</text>
+</context>
+<context>
+	<score>0.75919294</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.74320287</score>
+	<text>[ edit ] Transmitters</text>
+</context>
+<context>
+	<score>0.74320287</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7127285</score>
+	<text>It airs the same programming as CJCH in Halifax at all times, except some commercials and an annual telethon.</text>
+</context>
+<context>
+	<score>0.650317</score>
+	<text>CJCB is a Canadian television station, broadcasting in Sydney, Nova Scotia . It is an O&amp;O of the CTV Television Network , through the CTV Atlantic regional system in the Canadian Maritimes . CJCB began operations in 1954 as a CBC affiliate, switching to CTV in 1972 when the CBC put CBIT on the air in Sydney.</text>
+</context>
+<context>
+	<score>0.6207041</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5807608</score>
+	<text>CJCB-TV</text>
+</context>
+<context>
+	<score>0.5247271</score>
+	<text>This article about a television station in Canada is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.47364524</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Town/location</th><th>Call-sign</th><th>Channel</th><th>Power (kW)</th><th>Notes</th></tr><tr><td><b><a href="../../../../articles/s/y/d/Sydney%2C_Nova_Scotia_15d5.html" title="Sydney, Nova Scotia">Sydney, Nova Scotia</a></b></td><td><b>CJCB-TV</b></td><td><b>4</b></td><td><b>180</b></td><td>Main station</td></tr><tr><td><a href="../../../../articles/i/n/v/Inverness%2C_Nova_Scotia_6e1c.html" title="Inverness, Nova Scotia">Inverness, Nova Scotia</a></td><td>CJCB-TV-1</td><td>6</td><td>9.4</td><td></td></tr><tr><td><a href="../../../../articles/a/n/t/Antigonish%2C_Nova_Scotia_c298.html" title="Antigonish, Nova Scotia">Antigonish, Nova Scotia</a></td><td>CJCB-TV-2</td><td>9</td><td>260</td><td></td></tr><tr><td><a href="../../../../articles/d/i/n/Dingwall%2C_Nova_Scotia_94a4.html" title="Dingwall, Nova Scotia">Dingwall, Nova Scotia</a></td><td>CJCB-TV-3</td><td>9</td><td>0.008</td><td></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Glasgow%2C_Nova_Scotia_f87c.html" title="New Glasgow, Nova Scotia">New Glasgow, Nova Scotia</a></td><td>CJCB-TV-4</td><td>2</td><td>0.005</td><td></td></tr><tr><td><a href="../../../../articles/b/a/y/Bay_St._Lawrence%2C_Nova_Scotia_3091.html" title="Bay St. Lawrence, Nova Scotia">Bay St. Lawrence, Nova Scotia</a></td><td>CJCB-TV-5</td><td>7</td><td>0.001</td><td></td></tr><tr><td><a href="../../../../articles/p/o/r/Port_Hawkesbury%2C_Nova_Scotia_b3d0.html" title="Port Hawkesbury, Nova Scotia">Port Hawkesbury, Nova Scotia</a></td><td>CJCB-TV-6</td><td>3</td><td>15</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

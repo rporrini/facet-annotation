@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/t/h/e/The_Andy_Milonakis_Show_3a65.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 3, 0.875 1 3, 0.15 2, 0.15 1 2, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 3, 0.01875 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/t/h/e/The_Andy_Milonakis_Show_3a65.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Episode Number</th>]]></html>
+	<text>Episode Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Episode Title</th>]]></html>
+	<text>Episode Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Original Air Date</th>]]></html>
+	<text>Original Air Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Guest Star(s)</th>]]></html>
+	<text>Guest Star(s)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.1</td>]]></html>
+	<text>3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy Moves To L.A."</td>]]></html>
+	<text>&amp;quot;Andy Moves To L.A.&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 27 , 2007</td>]]></html>
+	<text>March 27 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hilary Duff</td>]]></html>
+	<text>Hilary Duff</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy Is Annoying"</td>]]></html>
+	<text>&amp;quot;Andy Is Annoying&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April, 2007</td>]]></html>
+	<text>April, 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sarah Silverman</td>]]></html>
+	<text>Sarah Silverman</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.3</td>]]></html>
+	<text>3.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy Goes Camping"</td>]]></html>
+	<text>&amp;quot;Andy Goes Camping&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 3 , 2007</td>]]></html>
+	<text>April 3 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Three 6 Mafia</td>]]></html>
+	<text>Three 6 Mafia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.4</td>]]></html>
+	<text>3.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy and Ralphie Are Dumb"</td>]]></html>
+	<text>&amp;quot;Andy and Ralphie Are Dumb&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 10 , 2007</td>]]></html>
+	<text>April 10 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Akon</td>]]></html>
+	<text>Akon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.5</td>]]></html>
+	<text>3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy's Soap Opera"</td>]]></html>
+	<text>&amp;quot;Andy&amp;apos;s Soap Opera&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 17 , 2007</td>]]></html>
+	<text>April 17 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Reubens</td>]]></html>
+	<text>Paul Reubens</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.6</td>]]></html>
+	<text>3.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Andy's Season Finale Extravaganza"</td>]]></html>
+	<text>&amp;quot;Andy&amp;apos;s Season Finale Extravaganza&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 1 , 2007</td>]]></html>
+	<text>May 1 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bow Wow</td>]]></html>
+	<text>Bow Wow</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>The Andy Milonakis Show - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Episode Number Episode Title Original Air Date Guest Star(s)</text>
+</context>
+<context>
+	<score>0.88329566</score>
+	<text>[ edit ] Season 3: March 2007-May 2007</text>
+</context>
+<context>
+	<score>0.79657394</score>
+	<text>The Andy Milonakis Show</text>
+</context>
+<context>
+	<score>0.786137</score>
+	<text>[ edit ] Season 2: March 2006-May 2006</text>
+</context>
+<context>
+	<score>0.75470334</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] Origins</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] Format</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] Series changes</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.723591</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.718847</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7084101</score>
+	<text>[ edit ] Season 1: June 2005-August 2005</text>
+</context>
+<context>
+	<score>0.6462285</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.6076205</score>
+	<text>^ a b c MTV.com: The Andy Milonakis Show</text>
+</context>
+<context>
+	<score>0.59648323</score>
+	<text>There have been rumours spreading that neither MTV nor MTV2 are thinking of renewing the show for a 4th Season. There is a possible chance though that Andy could take the series to Comedy Central or another station to buy the series.</text>
+</context>
+<context>
+	<score>0.556687</score>
+	<text>The series first debuted on MTV , but was moved to MTV2 after its first season. At the start of season three, the series location was changed from New York to Los Angeles .</text>
+</context>
+<context>
+	<score>0.5248501</score>
+	<text>[ edit ] Series changes</text>
+</context>
+<context>
+	<score>0.52110124</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.4993805</score>
+	<text>Guests have included Snoop Dogg , Fat Joe , The Ying Yang Twins , Black Eyed Peas , Biz Markie , and The All-American Rejects , John Stamos , Rob Schneider , Carson Daly , Nick Cannon , and Seth Green</text>
+</context>
+<context>
+	<score>0.47900483</score>
+	<text>The show consists of short, unrelated comedy sketches featuring Milonakis as well as a supporting cast made up of his actual neighbours and people from the Lower East Side , Manhattan neighbourhood where the show takes place. There is no plot, and the comedy in the sketches tends to skew absurdist and silly. Despite its time slot and intended adult audience, the content is rated TV PG . There are often animated segments, and often man-on-the-street segments. The last sketch of the show usually involves a celebrity guest.</text>
+</context>
+<context>
+	<score>0.47020748</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4627043</score>
+	<text>[ edit ] Format</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Episode Number</th><th>Episode Title</th><th>Original Air Date</th><th>Guest Star(s)</th></tr><tr><td>3.1</td><td>"Andy Moves To L.A."</td><td><a href="../../../../articles/m/a/r/March_27.html" title="March 27">March 27</a>, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/h/i/l/Hilary_Duff_20dd.html" title="Hilary Duff">Hilary Duff</a></td></tr><tr><td>3.2</td><td>"Andy Is Annoying"</td><td>April, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/s/a/r/Sarah_Silverman_96ec.html" title="Sarah Silverman">Sarah Silverman</a></td></tr><tr><td>3.3</td><td>"Andy Goes Camping"</td><td><a href="../../../../articles/a/p/r/April_3.html" title="April 3">April 3</a>, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/t/h/r/Three_6_Mafia_dfa8.html" title="Three 6 Mafia">Three 6 Mafia</a></td></tr><tr><td>3.4</td><td>"Andy and Ralphie Are Dumb"</td><td><a href="../../../../articles/a/p/r/April_10.html" title="April 10">April 10</a>, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/a/k/o/Akon.html" title="Akon">Akon</a></td></tr><tr><td>3.5</td><td>"Andy's Soap Opera"</td><td><a href="../../../../articles/a/p/r/April_17.html" title="April 17">April 17</a>, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/p/a/u/Paul_Reubens_6240.html" title="Paul Reubens">Paul Reubens</a></td></tr><tr><td>3.6</td><td>"Andy's Season Finale Extravaganza"</td><td><a href="../../../../articles/m/a/y/May_1.html" title="May 1">May 1</a>, <a href="../../../../articles/2/0/0/2007_in_television.html" title="2007 in television">2007</a></td><td><a href="../../../../articles/b/o/w/Bow_Wow_6ef4.html" title="Bow Wow">Bow Wow</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

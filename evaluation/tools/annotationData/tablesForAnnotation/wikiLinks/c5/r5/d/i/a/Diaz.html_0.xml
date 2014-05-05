@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/d/i/a/Diaz.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.17999999 0 3, 0.16000001 4, 0.16000001 0 4, 0.144 3, 0.07 0 1, 0.060000002 0 2, 0.0288 3 4, 0.028 1, 0.024000002 2, 0.0112000005 1 4, 0.01008 1 3, 0.009600001 2 4, 0.008640001 2 3, 0.0025200003 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/i/a/Diaz.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1880–1889</th>]]></html>
+	<text>1880&#8211;1889</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1960–1969</th>]]></html>
+	<text>1960&#8211;1969</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1990–1999</th>]]></html>
+	<text>1990&#8211;1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>2000–2009</th>]]></html>
+	<text>2000&#8211;2009</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002: 0.008% (rank ?)(c)</td>]]></html>
+	<text>2002: 0.008% (rank ?)(c)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002: 0.002% (rank ?)(c)</td>]]></html>
+	<text>2002: 0.002% (rank ?)(c)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999: 0.74% (rank 14)(a)</td>]]></html>
+	<text>1999: 0.74% (rank 14)(a)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004: na% (rank 14)(b)</td>]]></html>
+	<text>2004: na% (rank 14)(b)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1881: na% (rank 23,037)(c)</td>]]></html>
+	<text>1881: na% (rank 23,037)(c)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998: 0.001% (rank 10,773)(c)</td>]]></html>
+	<text>1998: 0.001% (rank 10,773)(c)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964: 0.047% (rank 335) [1]</td>]]></html>
+	<text>1964: 0.047% (rank 335) [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1990: 0.084% (rank 99)(d) 1990: 0.014% (rank ?)(c)</td>]]></html>
+	<text>1990: 0.084% (rank 99)(d) 1990: 0.014% (rank ?)(c)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000: 0.18% (rank 73)(d)</td>]]></html>
+	<text>2000: 0.18% (rank 73)(d)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Diaz - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country 1880 1889 1960 1969 1990 1999 2000 2009</text>
+</context>
+<context>
+	<score>0.8787872</score>
+	<text>The following matrix contains available information on the frequency of this surname in various countries across a span of years.</text>
+</context>
+<context>
+	<score>0.7944432</score>
+	<text>Diaz</text>
+</context>
+<context>
+	<score>0.78560483</score>
+	<text>Spanish surnames, including Diaz , are found more abundantly in Southern Italy than other non-Italian surnames as a result of the domination of Italy by Spain during the 17 th Century (Fucilla 1949).</text>
+</context>
+<context>
+	<score>0.75423217</score>
+	<text>Reference codes, see #References : (a)=OcioTotal 1999, (b)=Mateos &amp; Tucker 2008, (c)=Longley, et al. , (d)=United States Census Bureau 1995, (e)=United States Census Bureau 2000</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] Variants and related names</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] Usage</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] Transliteration</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] Notable people sharing the surname Diaz or D az</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72065496</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.716867</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7080287</score>
+	<text>In Latin America , the diacritical form D az was among the top 25% of surnames in use based on a study conducted in 1987 by the Institute for Genealogy and History for Latin America (De Platt 1996, pages 31 32).</text>
+</context>
+<context>
+	<score>0.64596766</score>
+	<text>[ edit ] Frequency</text>
+</context>
+<context>
+	<score>0.6074345</score>
+	<text>Several assessed countries have shown no instances of this surname, among these being Northern Ireland , Republic of Ireland and Scotland (Bowie 2003; Longley, et al. ).</text>
+</context>
+<context>
+	<score>0.5963189</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.55659986</score>
+	<text>There is at least one instance of use as a single name, the former Norwegian rap artist Diaz (b. 1976 Norway), who was born to a Spanish father and Norwegian mother; his birth name was &quot;Andres Rafael Diaz Rosa&quot;.</text>
+</context>
+<context>
+	<score>0.5248246</score>
+	<text>Many examples of the surnames Diaz and D az exist among historically notable people. Among the earliest such examples is El Cid , who was born c.1044 as Rodrigo D az (Catholic Encyclopedia 1913).</text>
+</context>
+<context>
+	<score>0.52108306</score>
+	<text>[ edit ] Transliteration</text>
+</context>
+<context>
+	<score>0.49940446</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.4790683</score>
+	<text>Diaz and the diacritical form D az appear to be surnames only, without evidence for use as given names. Use of Diaz may arise through Anglicization of Dias , as in the case of Bartolomeu Dias , born c. 1450.</text>
+</context>
+<context>
+	<score>0.46650016</score>
+	<text>It has been noted that Diaz may be subject to transcription errors and mistaken as Eliaz , which may subsequently be equated with Heliaz , in manuscripts dating from the 15</text>
+</context>
+<context>
+	<score>0.46279943</score>
+	<text>[ edit ] Usage</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Country</th><th>1880–1889</th><th>1960–1969</th><th>1990–1999</th><th>2000–2009</th></tr><tr><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td></td><td></td><td></td><td>2002: 0.008% (rank&#160;?)(c)</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Zealand_2311.html" title="New Zealand">New Zealand</a></td><td></td><td></td><td></td><td>2002: 0.002% (rank&#160;?)(c)</td></tr><tr><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td></td><td></td><td>1999: 0.74% (rank 14)(a)</td><td>2004: na% (rank 14)(b)</td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>1881: na% (rank 23,037)(c)</td><td></td><td>1998: 0.001% (rank 10,773)(c)</td><td></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td></td><td>1964: 0.047% (rank 335)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></td><td>1990: 0.084% (rank 99)(d)<br />1990: 0.014% (rank&#160;?)(c)</td><td>2000: 0.18% (rank 73)(d)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

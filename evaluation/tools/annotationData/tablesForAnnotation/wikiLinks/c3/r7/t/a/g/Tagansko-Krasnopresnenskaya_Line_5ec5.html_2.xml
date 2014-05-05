@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r7/t/a/g/Tagansko-Krasnopresnenskaya_Line_5ec5.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.8333333 1 2, 0.71428573 2, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/t/a/g/Tagansko-Krasnopresnenskaya_Line_5ec5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>#</th>]]></html>
+	<text>#</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Transfer to</th>]]></html>
+	<text>Transfer to</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>At</th>]]></html>
+	<text>At</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sokolnicheskaya Line</td>]]></html>
+	<text>Sokolnicheskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kuznetskiy Most</td>]]></html>
+	<text>Kuznetskiy Most</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zamoskvoretskaya Line</td>]]></html>
+	<text>Zamoskvoretskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pushkinskaya</td>]]></html>
+	<text>Pushkinskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koltsevaya Line</td>]]></html>
+	<text>Koltsevaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barrikadnaya , Taganskaya</td>]]></html>
+	<text>Barrikadnaya , Taganskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kaluzhsko-Rizhskaya Line</td>]]></html>
+	<text>Kaluzhsko-Rizhskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kitay-Gorod</td>]]></html>
+	<text>Kitay-Gorod</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalininskaya Line</td>]]></html>
+	<text>Kalininskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taganskaya</td>]]></html>
+	<text>Taganskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Serpukhovsko-Timiryazevskaya Line</td>]]></html>
+	<text>Serpukhovsko-Timiryazevskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pushkinskaya</td>]]></html>
+	<text>Pushkinskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyublinskaya Line</td>]]></html>
+	<text>Lyublinskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proletarskaya</td>]]></html>
+	<text>Proletarskaya</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tagansko-Krasnopresnenskaya Line - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text># Transfer to At</text>
+</context>
+<context>
+	<score>0.88545215</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.8003692</score>
+	<text>Tagansko-Krasnopresnenskaya Line</text>
+</context>
+<context>
+	<score>0.78829336</score>
+	<text>[ edit ] Name changes</text>
+</context>
+<context>
+	<score>0.7499593</score>
+	<text>The Kitay-Gorod transfer is a cross-platform one.</text>
+</context>
+<context>
+	<score>0.72954273</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72954273</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.72954273</score>
+	<text>[ edit ] Rolling Stock</text>
+</context>
+<context>
+	<score>0.72954273</score>
+	<text>[ edit ] Recent developments and Future plans</text>
+</context>
+<context>
+	<score>0.7226423</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7105664</score>
+	<text>[ edit ] Timeline</text>
+</context>
+<context>
+	<score>0.64838487</score>
+	<text>Building the final part of the line commenced shortly afterwards on the central stretch finally linking up the Zhdanovskaya Line, and finishing the Krasnopresnensky radius. The former was built with two deep level column stations, one of the centrepieces was the increased diameter of the central vault of 9.5 metres, as well as the rich architecture methods used. The latter section encountered a major difficulty when building under the Moscow Canal . To avoid flooding, boring had to be done in the winter, and a three metre thick plane of ice had to be placed on the canal bed. Afterwards the line continued into the northern regions of Shchukino and Tushino, including another combined railway link at Tushinskaya. The station Skhodnenskaya was another pioneering design, which consisted of a single vault technology originally developed for the Kharkiv Metro , it too became common elesewhere in the Soviet Union.</text>
+</context>
+<context>
+	<score>0.6097769</score>
+	<text>[ edit ] Rolling Stock</text>
+</context>
+<context>
+	<score>0.5917391</score>
+	<text>As four of the five stations were sub-surface an attempt was made to modernise the existing centepede design. The volume of the station space was increased, and to support the larger roof, the size of the pillars was increased, but so was their spacing, from 4 to 6.5 metres. In the end, instead of the two rows of 40, there was 2 of 26. The new design became very widespread in the rest of the system. Architecture also made a comeback with new stations. For the first time in nearly 20 years, marble was used on station walls.</text>
+</context>
+<context>
+	<score>0.5588434</score>
+	<text>Construction of the Krasnopresnensky radius was in built in much more difficult conditions, in a similar fashion it was designed to make the new massifs of the northwestern Moscow accessible, however the more dense regions, underground fortifications and communication lines that the builders had to face, the first stage of the Krasnopresnensky radius knows no equals in the amount of difficulties that the builders were faced with. Beginning at the ring, where the only deep level station was located, the line follows the Krasnaya Presnya street and then turns north along the 1905 year street, further work was hampered by the necessity to cross under the sorting yard of the Belorussky Rail Terminal with a total of 27 individual railroads, and when building the last stretch Polezhayevskaya-Oktyabrskoye Pole. In both cases the soil was typical sand that was used to elevate the railways, which made it impossible to bore under using conventional means. First chemical adhesive had to be used to strengthen it, so that when drained, it would not fall in. To avoid a collapse after the shield bored its way, a horizontal platform had to be installed above it, and the TBM moved at maximum pressure, without any temporary joining in the sand. Just like the Zhdanovskaya Line, the line relieved major transport arteries and congestion, Begovaya was built in a similar manner to Tekstilshchiki with exists from subways coming straight onto railway platforms.</text>
+</context>
+<context>
+	<score>0.5270065</score>
+	<text>In a similar logic that was shown when building the Kaluzhsko-Rizhskaya Line , it was decided to postpone the central section in favour of building the new radial line, however after the opening of the new Zhdanovskaya Line in late 1966, the passenger traffic between it and the former Kaluzhskaya Line overstretched the capacity of the ring between Oktyabrskaya and Taganskaya. The two presented itself a unique opportunity and in late 1970 Moscow Metro&apos;s first cross-platform transfer point was opened at Kitay-Gorod .</text>
+</context>
+<context>
+	<score>0.5163571</score>
+	<text>The line is served by two depots, Planernoe ( 6) and Vykhino ( 11). Respectively 36 and 34 eight carriage trains are assigned to them. Most of the trains are Ezh3 and Em-508T models which were received new from 1974, currently all of the trains are being slowly modernised extending the service life by another 15 years.</text>
+</context>
+<context>
+	<score>0.49463642</score>
+	<text>Although the geology of the line was unfavourable, so to cut down costs, the builders adopted a cut-and cover method for tunnel construction building them out of large concrete boxes. In some cases, like second stretch of the Volgogrdsky Prospekt-Tekstilshchiki path, in a rare case for Moscow, the track goes on the surface, as with the approach to Vykhino.</text>
+</context>
+<context>
+	<score>0.48116124</score>
+	<text>The path began at the Taganskaya square (on the ring) and followed the Marxist street/Volgograd avenue through the districts of Pechatniki, Kuzminki and Tekstilshchiki. On its final stretch the line deviates from the Volgograd avenue and crosses onto the Ryazan avenue and terminates at a combined cross-platform transfer to the railways at Vykhino.</text>
+</context>
+<context>
+	<score>0.4723639</score>
+	<text>[ edit ] Recent developments and Future plans</text>
+</context>
+<context>
+	<score>0.4648607</score>
+	<text>Tagansko-Krasnopresnenskaya Line is classic example of Soviet urban planning, sometimes referred to as the seventh stage of the Metro. Construction began in early 1960s and in 1966 the first complete segment was opened. In the practice of Moscow radial line openings, it began at the ring and left through to the new housing massifs on the southeast of Moscow, orinally called the Zhdanovskaya Line ( ). The construction of the new radius was designed to maximise the efficiency of it with the land-based trasnportation. All the stations were built on major transport links and the stations Tekstilschiki and Vykhino were integrated into a single transport complex with the railroad stations.</text>
+</context>
+<context>
+	<score>0.45182028</score>
+	<text>[ edit ] History</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable" cellpadding="3" style="border-collapse: collapse; text-align: left;"><tr><th>#</th><th>Transfer to</th><th>At</th></tr><tr><td style="background: red; padding:.5em;">1</td><td style="text-align: left;"><a href="../../../../articles/s/o/k/Sokolnicheskaya_Line_fd85.html" title="Sokolnicheskaya Line">Sokolnicheskaya Line</a></td><td><a href="../../../../articles/k/u/z/Kuznetskiy_Most_%28Metro%29_6fc5.html" class="mw-redirect" title="Kuznetskiy Most (Metro)">Kuznetskiy Most</a></td></tr><tr><td style="background: green;padding:.5em;">2</td><td style="text-align: left;"><a href="../../../../articles/z/a/m/Zamoskvoretskaya_Line_b0fe.html" title="Zamoskvoretskaya Line">Zamoskvoretskaya Line</a></td><td><a href="../../../../articles/p/u/s/Pushkinskaya.html" class="mw-redirect" title="Pushkinskaya">Pushkinskaya</a></td></tr><tr><td style="background: #CC6600;padding:.5em;">5</td><td style="text-align: left;"><a href="../../../../articles/k/o/l/Koltsevaya_Line_c3fb.html" title="Koltsevaya Line">Koltsevaya Line</a></td><td><a href="../../../../articles/b/a/r/Barrikadnaya.html" title="Barrikadnaya">Barrikadnaya</a>, <a href="../../../../articles/t/a/g/Taganskaya-Radialnaya_4b0d.html" title="Taganskaya-Radialnaya">Taganskaya</a></td></tr><tr><td style="background: orange;padding:.5em;">6</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kaluzhsko-Rizhskaya_Line_f663.html" title="Kaluzhsko-Rizhskaya Line">Kaluzhsko-Rizhskaya Line</a></td><td><a href="../../../../articles/k/i/t/Kitay-Gorod_%28Metro%29_8f58.html" title="Kitay-Gorod (Metro)">Kitay-Gorod</a></td></tr><tr><td style="background: yellow;padding:.5em;">8</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kalininskaya_Line_bd37.html" title="Kalininskaya Line">Kalininskaya Line</a></td><td><a href="../../../../articles/t/a/g/Taganskaya-Radialnaya_4b0d.html" title="Taganskaya-Radialnaya">Taganskaya</a></td></tr><tr><td style="background: #999999;padding:.5em;">9</td><td style="text-align: left;"><a href="../../../../articles/s/e/r/Serpukhovsko-Timiryazevskaya_Line_b0d8.html" title="Serpukhovsko-Timiryazevskaya Line">Serpukhovsko-Timiryazevskaya Line</a></td><td><a href="../../../../articles/p/u/s/Pushkinskaya.html" class="mw-redirect" title="Pushkinskaya">Pushkinskaya</a></td></tr><tr><td style="background: #00FF00;padding:.5em;">10</td><td style="text-align: left;"><a href="../../../../articles/l/y/u/Lyublinskaya_Line_9dc9.html" title="Lyublinskaya Line">Lyublinskaya Line</a></td><td><a href="../../../../articles/p/r/o/Proletarskaya.html" title="Proletarskaya">Proletarskaya</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

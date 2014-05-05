@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_birds_of_Trinidad_and_Tobago_c211.html_31.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.33333334 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_birds_of_Trinidad_and_Tobago_c211.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Common name</th>]]></html>
+	<text>Common name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Binomial</th>]]></html>
+	<text>Binomial</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Plain-brown Woodcreeper</td>]]></html>
+	<text>Plain-brown Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dendrocincla fuliginosa</td>]]></html>
+	<text>Dendrocincla fuliginosa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Olivaceous Woodcreeper</td>]]></html>
+	<text>Olivaceous Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sittasomus griseicapillus</td>]]></html>
+	<text>Sittasomus griseicapillus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tobago only</td>]]></html>
+	<text>Tobago only</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buff-throated Woodcreeper</td>]]></html>
+	<text>Buff-throated Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xiphorhynchus guttatus</td>]]></html>
+	<text>Xiphorhynchus guttatus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trinidad only</td>]]></html>
+	<text>Trinidad only</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cocoa Woodcreeper</td>]]></html>
+	<text>Cocoa Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xiphorhynchus susurrans</td>]]></html>
+	<text>Xiphorhynchus susurrans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Straight-billed Woodcreeper</td>]]></html>
+	<text>Straight-billed Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dendroplex picus</td>]]></html>
+	<text>Dendroplex picus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trinidad only</td>]]></html>
+	<text>Trinidad only</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Streak-headed Woodcreeper</td>]]></html>
+	<text>Streak-headed Woodcreeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lepidocolaptes souleyetii</td>]]></html>
+	<text>Lepidocolaptes souleyetii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trinidad only</td>]]></html>
+	<text>Trinidad only</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of birds of Trinidad and Tobago - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Common name Binomial Status</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>The Dendrocolaptidae are brownish birds and maintain an upright vertical posture, supported by their stiff tail vanes. They feed mainly on insects taken from tree trunks. There are 57 species worldwide, six of which occur in Trinidad and Tobago.</text>
+</context>
+<context>
+	<score>0.7838118</score>
+	<text>List of birds of Trinidad and Tobago</text>
+</context>
+<context>
+	<score>0.7823249</score>
+	<text>Order : Passeriformes Family : Dendrocolaptidae</text>
+</context>
+<context>
+	<score>0.75095236</score>
+	<text>[ edit ] Typical antbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Tinamous</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Grebes</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Shearwaters and petrels</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Storm-petrels</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Tropicbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Pelicans</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Boobies and gannets</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Cormorants</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Darters</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Frigatebirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Bitterns, herons and egrets</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Storks</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Ibises and spoonbills</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Flamingos</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Screamers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Ducks and geese</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] New World vultures</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Ospreys</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Hawks, kites and eagles</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Caracaras and falcons</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Chachalacas, guans and curassows</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Limpkins</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Rails, crakes, gallinules, and coots</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Sungrebes</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Jacanas</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Oystercatchers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Avocets and stilts</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Thick-knees</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Plovers and lapwings</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Sandpipers and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Skuas</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Gulls</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Terns</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Skimmers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Pigeons and doves</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Parrots, macaws and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Cuckoos and anis</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Barn owls</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Typical owls</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Oilbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Potoos</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Nightjars</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Swifts</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Hummingbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Trogons</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Kingfishers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Motmots</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Jacamars</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Toucans</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Woodpeckers and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Ovenbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Woodcreepers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Typical antbirds</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Antthrushes and antpittas</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Cotingas</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Manakins</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Tyrant flycatchers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Swallows and martins</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Wagtails and pipits</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Wrens</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Mockingbirds and thrashers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Thrushes and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Gnatcatchers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Vireos</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] New World warblers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Bananaquits</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Tanagers</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Buntings, sparrows, seedeaters and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Saltators, cardinals and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Troupials and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] Siskins, crossbills and allies</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.70674276</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.70474917</score>
+	<text>[ edit ] Woodcreepers</text>
+</context>
+<context>
+	<score>0.6426886</score>
+	<text>Ovenbirds comprise a large family of small sub-oscine passerine bird species found in Central and South America. They are a diverse group of insectivores which gets its name from the elaborate &quot;oven-like&quot; clay nests built by some species, although others build stick nests or nest in tunnels or clefts in rock. There are 243 species worldwide, five of which occur in Trinidad and Tobago.</text>
+</context>
+<context>
+	<score>0.6217189</score>
+	<text>^ Ogilvie, Malcolm; Chris Rose (2003). Grebes of the World . Uxbridge, UK: Bruce Coleman. ISBN 1-872842-03-8 .</text>
+</context>
+<context>
+	<score>0.60415566</score>
+	<text>Order : Passeriformes Family : Thamnophilidae</text>
+</context>
+<context>
+	<score>0.59304005</score>
+	<text>Order : Passeriformes Family : Furnariidae</text>
+</context>
+<context>
+	<score>0.55332124</score>
+	<text>[ edit ] Ovenbirds</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Woodpeckers are small to medium sized birds with chisel like beaks, short legs, stiff tails and long tongues used for capturing insects. Some species have feet with two toes pointing forward, and two backward, while several species have only three toes. Many woodpeckers have the habit of tapping noisily on tree trunks with their beaks. There are 218 species worldwide, six of which occur in Trinidad and Tobago.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>The antbirds are a large family of small passerine birds of subtropical and tropical Central and South America. They are forest birds, and tend to feed on insects at or near the ground. A sizable minority of them specialize in following columns of army ants to eat the small invertebrates that leave hiding to flee the ants.Many species lack bright colour; brown, black and white being the dominant tones. There are about 212 species worldwide, eight of which occur in Trinidad and Tobago.</text>
+</context>
+<context>
+	<score>0.49612623</score>
+	<text>Order : Piciformes Family : Picidae</text>
+</context>
+<context>
+	<score>0.47579023</score>
+	<text>[ edit ] Woodpeckers and allies</text>
+</context>
+<context>
+	<score>0.46701</score>
+	<text>[ edit ] Antthrushes and antpittas</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Trinidad only</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table width="72%" class="wikitable"><tr><th width="24%">Common name</th><th width="24%">Binomial</th><th width="24%">Status</th></tr><tr><td><a href="../../../../articles/p/l/a/Plain-brown_Woodcreeper_83d4.html" title="Plain-brown Woodcreeper">Plain-brown Woodcreeper</a></td><td><i>Dendrocincla fuliginosa</i></td><td></td></tr><tr><td><a href="../../../../articles/o/l/i/Olivaceous_Woodcreeper_916b.html" title="Olivaceous Woodcreeper">Olivaceous Woodcreeper</a></td><td><i>Sittasomus griseicapillus</i></td><td>Tobago only</td></tr><tr><td><a href="../../../../articles/b/u/f/Buff-throated_Woodcreeper_4eaf.html" title="Buff-throated Woodcreeper">Buff-throated Woodcreeper</a></td><td><i>Xiphorhynchus guttatus</i></td><td>Trinidad only</td></tr><tr><td><a href="../../../../articles/c/o/c/Cocoa_Woodcreeper_f061.html" title="Cocoa Woodcreeper">Cocoa Woodcreeper</a></td><td><i>Xiphorhynchus susurrans</i></td><td></td></tr><tr><td><a href="../../../../articles/s/t/r/Straight-billed_Woodcreeper_d07a.html" title="Straight-billed Woodcreeper">Straight-billed Woodcreeper</a></td><td><i>Dendroplex picus</i></td><td>Trinidad only</td></tr><tr><td><a href="../../../../articles/s/t/r/Streak-headed_Woodcreeper_2ad5.html" title="Streak-headed Woodcreeper">Streak-headed Woodcreeper</a></td><td><i>Lepidocolaptes souleyetii</i></td><td>Trinidad only</td></tr></table>]]>
+</htmlSnippet>
+</entity>

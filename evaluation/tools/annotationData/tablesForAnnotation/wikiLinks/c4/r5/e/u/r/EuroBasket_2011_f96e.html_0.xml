@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/e/u/r/EuroBasket_2011_f96e.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 3, 0.65625 1 3, 0.6 3, 0.125 2, 0.125 0 2, 0.109375 1 2, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/u/r/EuroBasket_2011_f96e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Arena</th>]]></html>
+	<text>Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vilnius</td>]]></html>
+	<text>Vilnius</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Siemens Arena</td>]]></html>
+	<text>Siemens Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,000</td>]]></html>
+	<text>11,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Built</td>]]></html>
+	<text>Built</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Šiauliai</td>]]></html>
+	<text>&#352;iauliai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šiaulių arena</td>]]></html>
+	<text>&#352;iauli&#371; arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,500</td>]]></html>
+	<text>5,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Built</td>]]></html>
+	<text>Built</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Panevėžys</td>]]></html>
+	<text>Panev&#279;&#382;ys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Panevėžio arena</td>]]></html>
+	<text>Panev&#279;&#382;io arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,115</td>]]></html>
+	<text>5,115</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Under construction, opening in October 2008</td>]]></html>
+	<text>Under construction, opening in October 2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Klaipėda</td>]]></html>
+	<text>Klaip&#279;da</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Klaipėdos arena</td>]]></html>
+	<text>Klaip&#279;dos arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,486</td>]]></html>
+	<text>5,486</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Under construction, opening in summer 2010</td>]]></html>
+	<text>Under construction, opening in summer 2010</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kaunas</td>]]></html>
+	<text>Kaunas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kauno arena</td>]]></html>
+	<text>Kauno arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000+</td>]]></html>
+	<text>10,000+</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed</td>]]></html>
+	<text>Proposed</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>EuroBasket 2011 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Arena Capacity Status</text>
+</context>
+<context>
+	<score>0.888863</score>
+	<text>The group matches are set to be played in four national arenas, including Kaunas Arena (under construction), iauli arena , an arena in Klaip da (under construction) and an arena in Panev ys (under construction). The qualifying matches are to be played at the Siemens Arena in the capital Vilnius or the new Kaunas arena.</text>
+</context>
+<context>
+	<score>0.819655</score>
+	<text>EuroBasket 2011</text>
+</context>
+<context>
+	<score>0.7918707</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.76049083</score>
+	<text>This basketball -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.7521645</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.7142769</score>
+	<text>The European Basketball Championship of 2011 , universally referred to as Eurobasket 2011 , will be the 37th regional championship held by FIBA Europe . The competition will be hosted by Lithuania . This will be the second time Lithuania has hosted Eurobasket, and the first since the restoration of its independence in 1991 .</text>
+</context>
+<context>
+	<score>0.6420985</score>
+	<text>It is likely to contain information of a speculative nature and the content may change as the event approaches and more information becomes available.</text>
+</context>
+<context>
+	<score>0.61366004</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.6025418</score>
+	<text>This article or section contains information about a future sporting event or team .</text>
+</context>
+<context>
+	<score>0.590598</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5588156</score>
+	<text>EuroBasket 2011</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>City</th><th>Arena</th><th align="right">Capacity</th><th>Status</th></tr><tr><td><a href="../../../../articles/v/i/l/Vilnius.html" title="Vilnius">Vilnius</a></td><td><a href="../../../../articles/s/i/e/Siemens_Arena_e022.html" title="Siemens Arena">Siemens Arena</a></td><td align="right">11,000</td><td>Built</td></tr><tr><td><a href="../../../../articles/%C5%A1/i/a/%C5%A0iauliai.html" title="Šiauliai">Šiauliai</a></td><td><a href="../../../../articles/%C5%A1/i/a/%C5%A0iauli%C5%B3_arena.html" title="Šiaulių arena">Šiaulių arena</a></td><td align="right">5,500</td><td>Built</td></tr><tr><td><a href="../../../../articles/p/a/n/Panev%C4%97%C5%BEys.html" title="Panevėžys">Panevėžys</a></td><td>Panevėžio arena</td><td align="right">5,115</td><td>Under construction, opening in October 2008</td></tr><tr><td><a href="../../../../articles/k/l/a/Klaip%C4%97da.html" title="Klaipėda">Klaipėda</a></td><td>Klaipėdos arena</td><td align="right">5,486</td><td>Under construction, opening in summer 2010</td></tr><tr><td><a href="../../../../articles/k/a/u/Kaunas.html" title="Kaunas">Kaunas</a></td><td>Kauno arena</td><td align="right">10,000+</td><td>Proposed</td></tr></table>]]>
+</htmlSnippet>
+</entity>

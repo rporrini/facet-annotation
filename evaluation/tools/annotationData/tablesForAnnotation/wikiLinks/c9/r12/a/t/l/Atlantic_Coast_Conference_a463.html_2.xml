@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r12/a/t/l/Atlantic_Coast_Conference_a463.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 1, 0.9444444 0 1, 0.8888889 3, 0.8888889 0 3, 0.83950615 1 3, 0.8333333 5, 0.8333333 0 5, 0.787037 1 5, 0.7777778 7, 0.7777778 0 7, 0.7407407 3 5, 0.7345679 1 7, 0.69135803 3 7, 0.6481481 5 7, 0.14444445 0 2, 0.13641976 1 2, 0.13333334 4, 0.13333334 0 4, 0.13240741 2, 0.12839507 2 3, 0.12592593 1 4, 0.12222222 0 6, 0.12037037 2 5, 0.118518524 3 4, 0.1154321 1 6, 0.11234569 2 7, 0.11203704 6, 0.11111112 8, 0.11111112 0 8, 0.11111111 4 5, 0.108641975 3 6, 0.10493827 1 8, 0.10370371 4 7, 0.10185184 5 6, 0.09876544 3 8, 0.09506173 6 7, 0.0925926 5 8, 0.08641976 7 8, 0.019259261 2 4, 0.017654322 2 6, 0.016296297 4 6, 0.016049383 2 8, 0.014814816 4 8, 0.013580248 6 8, " />
+<meta name="parentHTMLDoc" value="en/articles/a/t/l/Atlantic_Coast_Conference_a463.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Baseball Stadium</th>]]></html>
+	<text>Baseball Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Basketball Arena</th>]]></html>
+	<text>Basketball Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Football Stadium</th>]]></html>
+	<text>Football Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Soccer/Lacrosse Stadium</th>]]></html>
+	<text>Soccer/Lacrosse Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boston College</td>]]></html>
+	<text>Boston College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shea Field</td>]]></html>
+	<text>Shea Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conte Forum</td>]]></html>
+	<text>Conte Forum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,606</td>]]></html>
+	<text>8,606</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alumni Stadium</td>]]></html>
+	<text>Alumni Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,500</td>]]></html>
+	<text>44,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newton Campus Soccer Field</td>]]></html>
+	<text>Newton Campus Soccer Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clemson</td>]]></html>
+	<text>Clemson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doug Kingsmore Stadium</td>]]></html>
+	<text>Doug Kingsmore Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,500</td>]]></html>
+	<text>6,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Littlejohn Coliseum</td>]]></html>
+	<text>Littlejohn Coliseum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Memorial Stadium</td>]]></html>
+	<text>Memorial Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80,301</td>]]></html>
+	<text>80,301</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Riggs Field</td>]]></html>
+	<text>Riggs Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,332</td>]]></html>
+	<text>8,332</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Duke</td>]]></html>
+	<text>Duke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Coombs Field</td>]]></html>
+	<text>Jack Coombs Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,000</td>]]></html>
+	<text>2,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cameron Indoor Stadium</td>]]></html>
+	<text>Cameron Indoor Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,314</td>]]></html>
+	<text>9,314</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wallace Wade Stadium</td>]]></html>
+	<text>Wallace Wade Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,941</td>]]></html>
+	<text>33,941</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koskinen Stadium</td>]]></html>
+	<text>Koskinen Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,000</td>]]></html>
+	<text>7,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida State</td>]]></html>
+	<text>Florida State</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dick Howser Stadium</td>]]></html>
+	<text>Dick Howser Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,700</td>]]></html>
+	<text>6,700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Donald L. Tucker Center</td>]]></html>
+	<text>Donald L. Tucker Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,200</td>]]></html>
+	<text>12,200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doak Campbell Stadium</td>]]></html>
+	<text>Doak Campbell Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>84,300</td>]]></html>
+	<text>84,300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seminole Soccer Complex</td>]]></html>
+	<text>Seminole Soccer Complex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,600</td>]]></html>
+	<text>1,600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia Tech</td>]]></html>
+	<text>Georgia Tech</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Russ Chandler Stadium</td>]]></html>
+	<text>Russ Chandler Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,157</td>]]></html>
+	<text>4,157</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alexander Memorial Coliseum</td>]]></html>
+	<text>Alexander Memorial Coliseum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,191</td>]]></html>
+	<text>9,191</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bobby Dodd Stadium</td>]]></html>
+	<text>Bobby Dodd Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,000</td>]]></html>
+	<text>55,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shipley Field</td>]]></html>
+	<text>Shipley Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,500</td>]]></html>
+	<text>2,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comcast Center</td>]]></html>
+	<text>Comcast Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,950</td>]]></html>
+	<text>17,950</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Byrd Stadium</td>]]></html>
+	<text>Byrd Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,500</td>]]></html>
+	<text>51,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ludwig Field</td>]]></html>
+	<text>Ludwig Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000</td>]]></html>
+	<text>4,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami</td>]]></html>
+	<text>Miami</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Light Field</td>]]></html>
+	<text>Mark Light Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,000</td>]]></html>
+	<text>5,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BankUnited Center</td>]]></html>
+	<text>BankUnited Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,900</td>]]></html>
+	<text>7,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dolphin Stadium</td>]]></html>
+	<text>Dolphin Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>76,500</td>]]></html>
+	<text>76,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cobb Stadium</td>]]></html>
+	<text>Cobb Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500</td>]]></html>
+	<text>500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>USA Baseball National Training Complex</td>]]></html>
+	<text>USA Baseball National Training Complex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,754</td>]]></html>
+	<text>1,754</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dean Smith Center</td>]]></html>
+	<text>Dean Smith Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21,750</td>]]></html>
+	<text>21,750</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kenan Memorial Stadium</td>]]></html>
+	<text>Kenan Memorial Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60,000</td>]]></html>
+	<text>60,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fetzer Field</td>]]></html>
+	<text>Fetzer Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,025</td>]]></html>
+	<text>5,025</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina State</td>]]></html>
+	<text>North Carolina State</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doak Field</td>]]></html>
+	<text>Doak Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,500</td>]]></html>
+	<text>2,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RBC Center Reynolds Coliseum</td>]]></html>
+	<text>RBC Center Reynolds Coliseum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,722 8,400</td>]]></html>
+	<text>19,722 8,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carter-Finley Stadium</td>]]></html>
+	<text>Carter-Finley Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60,000</td>]]></html>
+	<text>60,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Method Road Soccer Stadium WakeMed Soccer Park</td>]]></html>
+	<text>Method Road Soccer Stadium WakeMed Soccer Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,000 7,130</td>]]></html>
+	<text>3,000 7,130</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Davenport Field</td>]]></html>
+	<text>Davenport Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,924</td>]]></html>
+	<text>2,924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Paul Jones Arena</td>]]></html>
+	<text>John Paul Jones Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,219</td>]]></html>
+	<text>15,219</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scott Stadium</td>]]></html>
+	<text>Scott Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61,500</td>]]></html>
+	<text>61,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Klöckner Stadium</td>]]></html>
+	<text>Kl&#246;ckner Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia Tech</td>]]></html>
+	<text>Virginia Tech</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English Field</td>]]></html>
+	<text>English Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,033</td>]]></html>
+	<text>1,033</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cassell Coliseum</td>]]></html>
+	<text>Cassell Coliseum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,052</td>]]></html>
+	<text>10,052</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lane Stadium</td>]]></html>
+	<text>Lane Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>66,233</td>]]></html>
+	<text>66,233</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia Tech Lacrosse and Soccer Stadium</td>]]></html>
+	<text>Virginia Tech Lacrosse and Soccer Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,500</td>]]></html>
+	<text>2,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wake Forest</td>]]></html>
+	<text>Wake Forest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gene Hooks Stadium</td>]]></html>
+	<text>Gene Hooks Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,500</td>]]></html>
+	<text>1,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joel Coliseum</td>]]></html>
+	<text>Joel Coliseum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,407</td>]]></html>
+	<text>14,407</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BB&amp;T Field</td>]]></html>
+	<text>BB&amp;amp;amp;T Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,500</td>]]></html>
+	<text>31,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spry Stadium</td>]]></html>
+	<text>Spry Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,000</td>]]></html>
+	<text>3,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Atlantic Coast Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Baseball Stadium Capacity Basketball Arena Capacity Football Stadium Capacity Soccer/Lacrosse Stadium Capacity</text>
+</context>
+<context>
+	<score>0.8813559</score>
+	<text>[ edit ] Facilities</text>
+</context>
+<context>
+	<score>0.79023564</score>
+	<text>Atlantic Coast Conference</text>
+</context>
+<context>
+	<score>0.7843862</score>
+	<text>In Division I FBS, football is the only sport for which the NCAA does not sponsor a championship. Championships sponsored by various third parties, such as the Bowl Championship Series and Associated Press are not included in the table.</text>
+</context>
+<context>
+	<score>0.75301373</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Commissioners</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Members</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Facilities</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Sports</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Current Champions</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Baseball</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Basketball</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Field Hockey</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Football</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Golf</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Lacrosse</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] Soccer</text>
+</context>
+<context>
+	<score>0.715228</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71265996</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70681053</score>
+	<text>[ edit ] Members</text>
+</context>
+<context>
+	<score>0.6447499</score>
+	<text>[ edit ] Commissioners</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Member universities compete in the following sports:</text>
+</context>
+<context>
+	<score>0.59510136</score>
+	<text>In 1971, the ACC lost a member in the University of South Carolina , now a member of the Southeastern Conference . The ACC operated with seven members until the addition of former Southeastern Conference member Georgia Tech from the Metro Conference on April 3 , 1978 . The addition of Florida State , also from the Metro Conference, on July 1 , 1991 , brought the total to nine. The ACC added three members from the Big East during the 2003 cycle of conference realignment: Miami and Virginia Tech joined on July 1 , 2004 , and Boston College joined on July 1 , 2005 , as the league&apos;s twelfth member and first from New England . The expansion was not without controversy, as Connecticut , Rutgers , Pittsburgh , and West Virginia (and, initially, Virginia Tech) filed lawsuits against the ACC and against Miami and Boston College for conspiring to weaken the Big East .</text>
+</context>
+<context>
+	<score>0.55538255</score>
+	<text>Charter members of the ACC were Clemson , Duke , Maryland , North Carolina , North Carolina State , South Carolina , and Wake Forest . The seven ACC charter members had been aligned with the Southern Conference , but left primarily due to the league&apos;s ban on postseason play. After drafting a set of bylaws for the creation of a new league, they formally withdrew from the Southern Conference at the Spring Meeting on the morning of May 8 , 1953 . The bylaws were ratified and the ACC officially came into existence on June 14 , 1953 . On December 4 , 1953 , officials convened in Greensboro , North Carolina , and admitted Virginia into the conference.</text>
+</context>
+<context>
+	<score>0.52360755</score>
+	<text>[ edit ] History See also: ACC-Big East Realignment</text>
+</context>
+<context>
+	<score>0.519866</score>
+	<text>Boston College plays ice hockey as a member of Hockey East .</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47785154</score>
+	<text>The Atlantic Coast Conference (ACC) is a collegiate athletic league in the United States . Founded in 1953, the ACC&apos;s twelve member universities compete in twenty sports in the NCAA&apos;s Division I . Football teams participate in the Division I Football Bowl Subdivision (FBS), the higher of two levels of Division I college football .</text>
+</context>
+<context>
+	<score>0.4690713</score>
+	<text>[ edit ] Current Champions</text>
+</context>
+<context>
+	<score>0.46743217</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4544171</score>
+	<text>Atlantic Coast Conference</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align: center;"><tr><th width="150">School</th><th>Baseball Stadium</th><th>Capacity</th><th>Basketball Arena</th><th>Capacity</th><th>Football Stadium</th><th>Capacity</th><th>Soccer/Lacrosse Stadium</th><th>Capacity</th></tr><tr><td>Boston College</td><td><a href="../../../../articles/s/h/e/Shea_Field_10b2.html" title="Shea Field">Shea Field</a></td><td>1,000</td><td><a href="../../../../articles/c/o/n/Conte_Forum_58f5.html" title="Conte Forum">Conte Forum</a></td><td>8,606</td><td><a href="../../../../articles/a/l/u/Alumni_Stadium_1419.html" title="Alumni Stadium">Alumni Stadium</a></td><td>44,500</td><td>Newton Campus Soccer Field</td><td>1,000</td></tr><tr><td>Clemson</td><td><a href="../../../../articles/d/o/u/Doug_Kingsmore_Stadium_6a96.html" title="Doug Kingsmore Stadium">Doug Kingsmore Stadium</a></td><td>6,500</td><td><a href="../../../../articles/l/i/t/Littlejohn_Coliseum_4d89.html" title="Littlejohn Coliseum">Littlejohn Coliseum</a></td><td>10,000</td><td><a href="../../../../articles/m/e/m/Memorial_Stadium%2C_Clemson_7cca.html" title="Memorial Stadium, Clemson">Memorial Stadium</a></td><td>80,301</td><td><a href="../../../../articles/r/i/g/Riggs_Field_199e.html" title="Riggs Field">Riggs Field</a></td><td>8,332</td></tr><tr><td>Duke</td><td><a href="../../../../articles/j/a/c/Jack_Coombs_Field_29ac.html" title="Jack Coombs Field">Jack Coombs Field</a></td><td>2,000</td><td><a href="../../../../articles/c/a/m/Cameron_Indoor_Stadium_f9fc.html" title="Cameron Indoor Stadium">Cameron Indoor Stadium</a></td><td>9,314</td><td><a href="../../../../articles/w/a/l/Wallace_Wade_Stadium_349b.html" title="Wallace Wade Stadium">Wallace Wade Stadium</a></td><td>33,941</td><td><a href="../../../../articles/k/o/s/Koskinen_Stadium_8b25.html" title="Koskinen Stadium">Koskinen Stadium</a></td><td>7,000</td></tr><tr><td>Florida State</td><td><a href="../../../../articles/m/i/k/Mike_Martin_Field_at_Dick_Howser_Stadium_8eed.html" title="Mike Martin Field at Dick Howser Stadium">Dick Howser Stadium</a></td><td>6,700</td><td><a href="../../../../articles/d/o/n/Donald_L._Tucker_Center_c441.html" title="Donald L. Tucker Center">Donald L. Tucker Center</a></td><td>12,200</td><td><a href="../../../../articles/b/o/b/Bobby_Bowden_Field_at_Doak_Campbell_Stadium_3785.html" title="Bobby Bowden Field at Doak Campbell Stadium">Doak Campbell Stadium</a></td><td>84,300</td><td><a href="../../../../articles/s/e/m/Seminole_Soccer_Complex_b263.html" title="Seminole Soccer Complex">Seminole Soccer Complex</a></td><td>1,600</td></tr><tr><td>Georgia Tech</td><td><a href="../../../../articles/r/u/s/Russ_Chandler_Stadium_3b41.html" title="Russ Chandler Stadium">Russ Chandler Stadium</a></td><td>4,157</td><td><a href="../../../../articles/a/l/e/Alexander_Memorial_Coliseum_2bcd.html" title="Alexander Memorial Coliseum">Alexander Memorial Coliseum</a></td><td>9,191</td><td><a href="../../../../articles/b/o/b/Bobby_Dodd_Stadium_83fe.html" title="Bobby Dodd Stadium">Bobby Dodd Stadium</a></td><td>55,000</td><td>None</td><td>-</td></tr><tr><td>Maryland</td><td><a href="../../../../articles/s/h/i/Shipley_Field_b5d8.html" title="Shipley Field">Shipley Field</a></td><td>2,500</td><td><a href="../../../../articles/c/o/m/Comcast_Center_%28arena%29_dca1.html" title="Comcast Center (arena)">Comcast Center</a></td><td>17,950</td><td><a href="../../../../articles/c/h/e/Chevy_Chase_Bank_Field_at_Byrd_Stadium_5fd1.html" class="mw-redirect" title="Chevy Chase Bank Field at Byrd Stadium">Byrd Stadium</a></td><td>51,500</td><td><a href="../../../../articles/l/u/d/Ludwig_Field_f2e7.html" title="Ludwig Field">Ludwig Field</a></td><td>4,000</td></tr><tr><td>Miami</td><td><a href="../../../../articles/m/a/r/Mark_Light_Field_9594.html" title="Mark Light Field">Mark Light Field</a></td><td>5,000</td><td><a href="../../../../articles/b/a/n/BankUnited_Center_62c2.html" title="BankUnited Center">BankUnited Center</a></td><td>7,900</td><td><a href="../../../../articles/d/o/l/Dolphin_Stadium_97dc.html" title="Dolphin Stadium">Dolphin Stadium</a></td><td>76,500</td><td><a href="../../../../articles/c/o/b/Cobb_Stadium_0670.html" title="Cobb Stadium">Cobb Stadium</a></td><td>500</td></tr><tr><td>North Carolina</td><td><a href="../../../../articles/u/s/a/USA_Baseball_National_Training_Complex_0965.html" title="USA Baseball National Training Complex">USA Baseball National Training Complex</a></td><td>1,754</td><td><a href="../../../../articles/d/e/a/Dean_Smith_Center_dba0.html" title="Dean Smith Center">Dean Smith Center</a></td><td>21,750</td><td><a href="../../../../articles/k/e/n/Kenan_Stadium_26c3.html" title="Kenan Stadium">Kenan Memorial Stadium</a></td><td>60,000</td><td><a href="../../../../articles/f/e/t/Fetzer_Field_158f.html" title="Fetzer Field">Fetzer Field</a></td><td>5,025</td></tr><tr><td>North Carolina State</td><td><a href="../../../../articles/d/o/a/Doak_Field_520d.html" title="Doak Field">Doak Field</a></td><td>2,500</td><td><a href="../../../../articles/r/b/c/RBC_Center_5c56.html" title="RBC Center">RBC Center</a><br /><a href="../../../../articles/r/e/y/Reynolds_Coliseum_970f.html" title="Reynolds Coliseum">Reynolds Coliseum</a></td><td>19,722<br />8,400</td><td><a href="../../../../articles/c/a/r/Carter-Finley_Stadium_7078.html" title="Carter-Finley Stadium">Carter-Finley Stadium</a></td><td>60,000</td><td><a href="../../../../articles/m/e/t/Method_Road_Soccer_Stadium_0be0.html" title="Method Road Soccer Stadium">Method Road Soccer Stadium</a><br /><a href="../../../../articles/w/a/k/WakeMed_Soccer_Park_9bad.html" title="WakeMed Soccer Park">WakeMed Soccer Park</a></td><td>3,000<br />7,130</td></tr><tr><td>Virginia</td><td><a href="../../../../articles/d/a/v/Davenport_Field_c2a1.html" title="Davenport Field">Davenport Field</a></td><td>2,924</td><td><a href="../../../../articles/j/o/h/John_Paul_Jones_Arena_43ce.html" title="John Paul Jones Arena">John Paul Jones Arena</a></td><td>15,219</td><td><a href="../../../../articles/s/c/o/Scott_Stadium_5672.html" title="Scott Stadium">Scott Stadium</a></td><td>61,500</td><td><a href="../../../../articles/k/l/%C3%B6/Kl%C3%B6ckner_Stadium_37c6.html" title="Klöckner Stadium">Klöckner Stadium</a></td><td>8,000</td></tr><tr><td>Virginia Tech</td><td><a href="../../../../articles/e/n/g/English_Field_8064.html" title="English Field">English Field</a></td><td>1,033</td><td><a href="../../../../articles/c/a/s/Cassell_Coliseum_e2e6.html" title="Cassell Coliseum">Cassell Coliseum</a></td><td>10,052</td><td><a href="../../../../articles/l/a/n/Lane_Stadium_da0b.html" title="Lane Stadium">Lane Stadium</a></td><td>66,233</td><td><a href="../../../../articles/v/i/r/Virginia_Tech_Lacrosse_and_Soccer_Stadium_865a.html" title="Virginia Tech Lacrosse and Soccer Stadium">Virginia Tech Lacrosse and Soccer Stadium</a></td><td>2,500</td></tr><tr><td>Wake Forest</td><td><a href="../../../../articles/g/e/n/Gene_Hooks_Stadium_b1f9.html" title="Gene Hooks Stadium">Gene Hooks Stadium</a></td><td>1,500</td><td><a href="../../../../articles/l/a/w/Lawrence_Joel_Veterans_Memorial_Coliseum_1ff8.html" title="Lawrence Joel Veterans Memorial Coliseum">Joel Coliseum</a></td><td>14,407</td><td><a href="../../../../articles/b/b/%26/BB%26T_Field_f3dd.html" title="BB&amp;T Field">BB&amp;T Field</a></td><td>31,500</td><td><a href="../../../../articles/s/p/r/Spry_Stadium_1dc8.html" class="mw-redirect" title="Spry Stadium">Spry Stadium</a></td><td>3,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

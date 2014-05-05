@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r35/a/u/s/Australia_A_cricket_team_f00e.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.75 1 3, 0.45000002 2 3, 0.22500001 2, 0.12857144 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.09375 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/u/s/Australia_A_cricket_team_f00e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Role</th>]]></html>
+	<text>Role</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brad Haddin</td>]]></html>
+	<text>Brad Haddin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wicketkeeper</td>]]></html>
+	<text>Wicketkeeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSW</td>]]></html>
+	<text>NSW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doug Bollinger</td>]]></html>
+	<text>Doug Bollinger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSW</td>]]></html>
+	<text>NSW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brett Dorey</td>]]></html>
+	<text>Brett Dorey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jason Gillespie</td>]]></html>
+	<text>Jason Gillespie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chris Rogers</td>]]></html>
+	<text>Chris Rogers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opening Batsmen</td>]]></html>
+	<text>Opening Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dan Cullen</td>]]></html>
+	<text>Dan Cullen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Orthodox Spin Bowler</td>]]></html>
+	<text>Orthodox Spin Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cameron White</td>]]></html>
+	<text>Cameron White</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Batting Allrounder</td>]]></html>
+	<text>Batting Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Travis Birt</td>]]></html>
+	<text>Travis Birt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cullen Bailey</td>]]></html>
+	<text>Cullen Bailey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Allrounder</td>]]></html>
+	<text>Bowling Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Bailey</td>]]></html>
+	<text>George Bailey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middle-Order Batsmen</td>]]></html>
+	<text>Middle-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Callum Ferguson</td>]]></html>
+	<text>Callum Ferguson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shane Watson</td>]]></html>
+	<text>Shane Watson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Allrounder</td>]]></html>
+	<text>Bowling Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QLD</td>]]></html>
+	<text>QLD</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Cosgrove</td>]]></html>
+	<text>Mark Cosgrove</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ben Hilfenhaus</td>]]></html>
+	<text>Ben Hilfenhaus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brad Hodge</td>]]></html>
+	<text>Brad Hodge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Luke Butterworth</td>]]></html>
+	<text>Luke Butterworth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Allrounder</td>]]></html>
+	<text>Bowling Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mick Lewis</td>]]></html>
+	<text>Mick Lewis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shaun Marsh</td>]]></html>
+	<text>Shaun Marsh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opening Batsmen</td>]]></html>
+	<text>Opening Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brendan Drew</td>]]></html>
+	<text>Brendan Drew</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashley Noffke</td>]]></html>
+	<text>Ashley Noffke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Allrounder</td>]]></html>
+	<text>Bowling Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QLD</td>]]></html>
+	<text>QLD</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phil Jaques</td>]]></html>
+	<text>Phil Jaques</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opening Batsmen</td>]]></html>
+	<text>Opening Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSW</td>]]></html>
+	<text>NSW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adam Voges</td>]]></html>
+	<text>Adam Voges</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middle-Order Batsmen</td>]]></html>
+	<text>Middle-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mitchell Johnson</td>]]></html>
+	<text>Mitchell Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling All Rounder</td>]]></html>
+	<text>Bowling All Rounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QLD</td>]]></html>
+	<text>QLD</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marcus North</td>]]></html>
+	<text>Marcus North</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dominic Thornley</td>]]></html>
+	<text>Dominic Thornley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middle-Order Batsmen</td>]]></html>
+	<text>Middle-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSW</td>]]></html>
+	<text>NSW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ben Edmondson</td>]]></html>
+	<text>Ben Edmondson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David Hussey</td>]]></html>
+	<text>David Hussey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Luke Ronchi</td>]]></html>
+	<text>Luke Ronchi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wicketkeeper</td>]]></html>
+	<text>Wicketkeeper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shaun Tait</td>]]></html>
+	<text>Shaun Tait</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Andrew McDonald</td>]]></html>
+	<text>Andrew McDonald</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Allrounder</td>]]></html>
+	<text>Bowling Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Luke Pomersbach</td>]]></html>
+	<text>Luke Pomersbach</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middle-Order Batsmen</td>]]></html>
+	<text>Middle-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WA</td>]]></html>
+	<text>WA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shane Harwood</td>]]></html>
+	<text>Shane Harwood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fast Bowler</td>]]></html>
+	<text>Fast Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VIC</td>]]></html>
+	<text>VIC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>James Hopes</td>]]></html>
+	<text>James Hopes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Batting Allrounder</td>]]></html>
+	<text>Batting Allrounder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QLD</td>]]></html>
+	<text>QLD</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>45</td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stuart MacGill</td>]]></html>
+	<text>Stuart MacGill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leg Spin Bowler</td>]]></html>
+	<text>Leg Spin Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSW</td>]]></html>
+	<text>NSW</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>55</td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daniel Marsh</td>]]></html>
+	<text>Daniel Marsh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Top-Order Batsmen</td>]]></html>
+	<text>Top-Order Batsmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAS</td>]]></html>
+	<text>TAS</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Australia A cricket team - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Number Name Role State</text>
+</context>
+<context>
+	<score>0.8682735</score>
+	<text>Australia A Squad: Captained by Adam Voges</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>Australia A cricket team</text>
+</context>
+<context>
+	<score>0.77935797</score>
+	<text>[ edit ] Players</text>
+</context>
+<context>
+	<score>0.7452641</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] Season-by-season results summary</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] Players</text>
+</context>
+<context>
+	<score>0.69505304</score>
+	<text>[ edit ] Season-by-season results summary</text>
+</context>
+<context>
+	<score>0.6111432</score>
+	<text>In earlier times, Australia often sent Second XI teams on overseas tour, consisting of players on the fringes of national selection. Instances of this occurred in 1949 50 and 1959 60, to New Zealand.</text>
+</context>
+<context>
+	<score>0.57365376</score>
+	<text>In the Australian summer of 1994-95, the (then) Benson and Hedges World Series Cup was expanded to involve four teams instead of the usual three Australia, England, Zimbabwe and Australia A (though games involving Australia A are not considered official One-day Internationals). In a shock result, the Australia A team (captained by Damien Martyn and featuring up-and-comers such as Ricky Ponting , Matthew Hayden and Greg Blewett , as well as veterans wicket-keeper Phil Emery and pacemen Paul Reiffel and Merv Hughes ) ousted England from the series and went into the best-of-3 final against Australia. They were swept 2-0, but it was unquestionably a display of the next generation of Australia&apos;s prowess. Many of the 1994-95 A players later played for Australia.</text>
+</context>
+<context>
+	<score>0.5304896</score>
+	<text>The Australia A cricket team is a national cricket team representing Australia , and is the &quot;second tier&quot; of international Australian cricket below the full Australian cricket team . They have also played far more one-day than first-class matches; indeed they have played only two first-class games against equivalent A sides, both against South Africa &apos;A&apos; in 2002-03.</text>
+</context>
+<context>
+	<score>0.5124241</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.48479903</score>
+	<text>Australia A cricket team</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Number</th><th>Name</th><th>Role</th><th>State</th></tr><tr><td>1</td><td><a href="../../../../articles/b/r/a/Brad_Haddin_7e04.html" title="Brad Haddin">Brad Haddin</a></td><td>Wicketkeeper</td><td><a href="../../../../articles/n/e/w/New_South_Wales_Blues_3cbe.html" title="New South Wales Blues">NSW</a></td></tr><tr><td>2</td><td><a href="../../../../articles/d/o/u/Doug_Bollinger_d0b8.html" title="Doug Bollinger">Doug Bollinger</a></td><td>Fast Bowler</td><td><a href="../../../../articles/n/e/w/New_South_Wales_Blues_3cbe.html" title="New South Wales Blues">NSW</a></td></tr><tr><td>3</td><td><a href="../../../../articles/b/r/e/Brett_Dorey_18bb.html" title="Brett Dorey">Brett Dorey</a></td><td>Fast Bowler</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>4</td><td><a href="../../../../articles/j/a/s/Jason_Gillespie_d806.html" title="Jason Gillespie">Jason Gillespie</a></td><td>Fast Bowler</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>5</td><td><a href="../../../../articles/c/h/r/Chris_Rogers_%28cricketer%29_e796.html" title="Chris Rogers (cricketer)">Chris Rogers</a></td><td>Opening Batsmen</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>6</td><td><a href="../../../../articles/d/a/n/Dan_Cullen_e4c6.html" title="Dan Cullen">Dan Cullen</a></td><td>Orthodox Spin Bowler</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>7</td><td><a href="../../../../articles/c/a/m/Cameron_White_0ce5.html" title="Cameron White">Cameron White</a></td><td>Batting Allrounder</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>8</td><td><a href="../../../../articles/t/r/a/Travis_Birt_fc91.html" title="Travis Birt">Travis Birt</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr><tr><td>9</td><td><a href="../../../../articles/c/u/l/Cullen_Bailey_b11f.html" title="Cullen Bailey">Cullen Bailey</a></td><td>Bowling Allrounder</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>10</td><td><a href="../../../../articles/g/e/o/George_Bailey_%28cricketer%29_09cc.html" title="George Bailey (cricketer)">George Bailey</a></td><td>Middle-Order Batsmen</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr><tr><td>12</td><td><a href="../../../../articles/c/a/l/Callum_Ferguson_310a.html" title="Callum Ferguson">Callum Ferguson</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>14</td><td><a href="../../../../articles/s/h/a/Shane_Watson_1c2b.html" title="Shane Watson">Shane Watson</a></td><td>Bowling Allrounder</td><td><a href="../../../../articles/q/u/e/Queensland_Bulls_608f.html" title="Queensland Bulls">QLD</a></td></tr><tr><td>15</td><td><a href="../../../../articles/m/a/r/Mark_Cosgrove_ba22.html" title="Mark Cosgrove">Mark Cosgrove</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>16</td><td><a href="../../../../articles/b/e/n/Ben_Hilfenhaus_4c5d.html" title="Ben Hilfenhaus">Ben Hilfenhaus</a></td><td>Fast Bowler</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr><tr><td>17</td><td><a href="../../../../articles/b/r/a/Brad_Hodge_c38f.html" title="Brad Hodge">Brad Hodge</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>18</td><td><a href="../../../../articles/l/u/k/Luke_Butterworth_ebcc.html" title="Luke Butterworth">Luke Butterworth</a></td><td>Bowling Allrounder</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr><tr><td>19</td><td><a href="../../../../articles/m/i/c/Mick_Lewis_b90a.html" title="Mick Lewis">Mick Lewis</a></td><td>Fast Bowler</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>20</td><td><a href="../../../../articles/s/h/a/Shaun_Marsh_05a2.html" title="Shaun Marsh">Shaun Marsh</a></td><td>Opening Batsmen</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>21</td><td><a href="../../../../articles/b/r/e/Brendan_Drew_b060.html" title="Brendan Drew">Brendan Drew</a></td><td>Fast Bowler</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr><tr><td>22</td><td><a href="../../../../articles/a/s/h/Ashley_Noffke_b6d6.html" title="Ashley Noffke">Ashley Noffke</a></td><td>Bowling Allrounder</td><td><a href="../../../../articles/q/u/e/Queensland_Bulls_608f.html" title="Queensland Bulls">QLD</a></td></tr><tr><td>23</td><td><a href="../../../../articles/p/h/i/Phil_Jaques_3cd9.html" title="Phil Jaques">Phil Jaques</a></td><td>Opening Batsmen</td><td><a href="../../../../articles/n/e/w/New_South_Wales_Blues_3cbe.html" title="New South Wales Blues">NSW</a></td></tr><tr><td>24</td><td><a href="../../../../articles/a/d/a/Adam_Voges_273f.html" title="Adam Voges">Adam Voges</a></td><td>Middle-Order Batsmen</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>25</td><td><a href="../../../../articles/m/i/t/Mitchell_Johnson_%28cricketer%29_ce1f.html" title="Mitchell Johnson (cricketer)">Mitchell Johnson</a></td><td>Bowling All Rounder</td><td><a href="../../../../articles/q/u/e/Queensland_Bulls_608f.html" title="Queensland Bulls">QLD</a></td></tr><tr><td>26</td><td><a href="../../../../articles/m/a/r/Marcus_North_6af8.html" title="Marcus North">Marcus North</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>27</td><td><a href="../../../../articles/d/o/m/Dominic_Thornley_cf6f.html" class="mw-redirect" title="Dominic Thornley">Dominic Thornley</a></td><td>Middle-Order Batsmen</td><td><a href="../../../../articles/n/e/w/New_South_Wales_Blues_3cbe.html" title="New South Wales Blues">NSW</a></td></tr><tr><td>28</td><td><a href="../../../../articles/b/e/n/Ben_Edmondson_2ba2.html" title="Ben Edmondson">Ben Edmondson</a></td><td>Fast Bowler</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>29</td><td><a href="../../../../articles/d/a/v/David_Hussey_17d3.html" title="David Hussey">David Hussey</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>30</td><td><a href="../../../../articles/l/u/k/Luke_Ronchi_d07a.html" title="Luke Ronchi">Luke Ronchi</a></td><td>Wicketkeeper</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>32</td><td><a href="../../../../articles/s/h/a/Shaun_Tait_400e.html" title="Shaun Tait">Shaun Tait</a></td><td>Fast Bowler</td><td><a href="../../../../articles/s/o/u/Southern_Redbacks_c2da.html" title="Southern Redbacks">SA</a></td></tr><tr><td>34</td><td><a href="../../../../articles/a/n/d/Andrew_McDonald_ddf5.html" title="Andrew McDonald">Andrew McDonald</a></td><td>Bowling Allrounder</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>36</td><td><a href="../../../../articles/l/u/k/Luke_Pomersbach_1030.html" title="Luke Pomersbach">Luke Pomersbach</a></td><td>Middle-Order Batsmen</td><td><a href="../../../../articles/w/e/s/Western_Warriors_d57c.html" title="Western Warriors">WA</a></td></tr><tr><td>37</td><td><a href="../../../../articles/s/h/a/Shane_Harwood_e063.html" title="Shane Harwood">Shane Harwood</a></td><td>Fast Bowler</td><td><a href="../../../../articles/v/i/c/Victorian_Bushrangers_38fe.html" title="Victorian Bushrangers">VIC</a></td></tr><tr><td>39</td><td><a href="../../../../articles/j/a/m/James_Hopes_b0b6.html" title="James Hopes">James Hopes</a></td><td>Batting Allrounder</td><td><a href="../../../../articles/q/u/e/Queensland_Bulls_608f.html" title="Queensland Bulls">QLD</a></td></tr><tr><td>45</td><td><a href="../../../../articles/s/t/u/Stuart_MacGill_2520.html" title="Stuart MacGill">Stuart MacGill</a></td><td>Leg Spin Bowler</td><td><a href="../../../../articles/n/e/w/New_South_Wales_Blues_3cbe.html" title="New South Wales Blues">NSW</a></td></tr><tr><td>55</td><td><a href="../../../../articles/d/a/n/Daniel_Marsh_e4b1.html" title="Daniel Marsh">Daniel Marsh</a></td><td>Top-Order Batsmen</td><td><a href="../../../../articles/t/a/s/Tasmanian_Tigers_db8a.html" title="Tasmanian Tigers">TAS</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/l/i/s/List_of_newspapers_in_Venezuela_01d6.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 0 2, 0.5833334 2, 0.5555556 1 2, 0.3125 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_newspapers_in_Venezuela_01d6.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Newspaper</th>]]></html>
+	<text>Newspaper</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Edition city</th>]]></html>
+	<text>Edition city</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Digital edition</th>]]></html>
+	<text>Digital edition</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Bolivarense</td>]]></html>
+	<text>El Bolivarense</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Bolívar</td>]]></html>
+	<text>Ciudad Bol&#237;var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Expreso</td>]]></html>
+	<text>El Expreso</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Bolívar</td>]]></html>
+	<text>Ciudad Bol&#237;var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.diarioelexpreso.com.ve</td>]]></html>
+	<text>http://www.diarioelexpreso.com.ve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Progreso</td>]]></html>
+	<text>El Progreso</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Bolívar</td>]]></html>
+	<text>Ciudad Bol&#237;var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.diarioelprogreso.com</td>]]></html>
+	<text>http://www.diarioelprogreso.com</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Correo del Caroní</td>]]></html>
+	<text>Correo del Caron&#237;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Guayana</td>]]></html>
+	<text>Ciudad Guayana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.correodelcaroni.com</td>]]></html>
+	<text>http://www.correodelcaroni.com</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Diario de Guayana</td>]]></html>
+	<text>El Diario de Guayana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Guayana</td>]]></html>
+	<text>Ciudad Guayana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.eldiariodeguayana.com.ve</td>]]></html>
+	<text>http://www.eldiariodeguayana.com.ve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nueva Prensa</td>]]></html>
+	<text>Nueva Prensa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Guayana</td>]]></html>
+	<text>Ciudad Guayana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.nuevaprensa.com.ve</td>]]></html>
+	<text>http://www.nuevaprensa.com.ve</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>El Guayanés</td>]]></html>
+	<text>El Guayan&#233;s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Ordaz</td>]]></html>
+	<text>Puerto Ordaz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Extra</td>]]></html>
+	<text>Extra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Ordaz</td>]]></html>
+	<text>Puerto Ordaz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>http://www.diarioextra.com.ve</td>]]></html>
+	<text>http://www.diarioextra.com.ve</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of newspapers in Venezuela - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Newspaper Edition city Digital edition</text>
+</context>
+<context>
+	<score>0.88164663</score>
+	<text>[ edit ] Bol var</text>
+</context>
+<context>
+	<score>0.7944444</score>
+	<text>List of newspapers in Venezuela</text>
+</context>
+<context>
+	<score>0.78467697</score>
+	<text>[ edit ] Barinas</text>
+</context>
+<context>
+	<score>0.7533045</score>
+	<text>[ edit ] Carabobo</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] National</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Economic newspapers</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Sports newspapers</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Catholic or religion-themed</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Other languages</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] Online</text>
+</context>
+<context>
+	<score>0.71972746</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7168687</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7071012</score>
+	<text>[ edit ] Aragua</text>
+</context>
+<context>
+	<score>0.64504063</score>
+	<text>[ edit ] Anzo tegui</text>
+</context>
+<context>
+	<score>0.60650766</score>
+	<text>[ edit ] Cojedes</text>
+</context>
+<context>
+	<score>0.5953921</score>
+	<text>[ edit ] Venezuelan Capital District</text>
+</context>
+<context>
+	<score>0.5556733</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.5238983</score>
+	<text>[ edit ] National</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Newspaper Edition city Digital edition</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47814226</score>
+	<text>The following is a list of Venezuelan newspapers , both national and regional. Also includes other languages and themes newspapers.</text>
+</context>
+<context>
+	<score>0.4716409</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Las Noticias de Cojedes</text>
+</context>
+<context>
+	<score>0.45862585</score>
+	<text>List of newspapers in Venezuela</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table style="border:1px; border: thin solid gold; background-color:#f7f8ff" align="center" cellpadding="7"><tr align="center" bgcolor="#E6E9FF"><th><b>Newspaper</b></th><th><b>Edition city</b></th><th><b>Digital edition</b></th></tr><tr><td><i>El Bolivarense</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Bol%C3%ADvar_5837.html" title="Ciudad Bolívar">Ciudad Bolívar</a></td><td></td></tr><tr><td><i>El Expreso</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Bol%C3%ADvar_5837.html" title="Ciudad Bolívar">Ciudad Bolívar</a></td><td><a href="http://www.diarioelexpreso.com.ve" class="external free" title="http://www.diarioelexpreso.com.ve" rel="nofollow">http://www.diarioelexpreso.com.ve</a></td></tr><tr><td><i>El Progreso</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Bol%C3%ADvar_5837.html" title="Ciudad Bolívar">Ciudad Bolívar</a></td><td><a href="http://www.diarioelprogreso.com" class="external free" title="http://www.diarioelprogreso.com" rel="nofollow">http://www.diarioelprogreso.com</a></td></tr><tr><td><i>Correo del Caroní</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Guayana_51a9.html" title="Ciudad Guayana">Ciudad Guayana</a></td><td><a href="http://www.correodelcaroni.com" class="external free" title="http://www.correodelcaroni.com" rel="nofollow">http://www.correodelcaroni.com</a></td></tr><tr><td><i>El Diario de Guayana</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Guayana_51a9.html" title="Ciudad Guayana">Ciudad Guayana</a></td><td><a href="http://www.eldiariodeguayana.com.ve" class="external free" title="http://www.eldiariodeguayana.com.ve" rel="nofollow">http://www.eldiariodeguayana.com.ve</a></td></tr><tr><td><i>Nueva Prensa</i></td><td><a href="../../../../articles/c/i/u/Ciudad_Guayana_51a9.html" title="Ciudad Guayana">Ciudad Guayana</a></td><td><a href="http://www.nuevaprensa.com.ve" class="external free" title="http://www.nuevaprensa.com.ve" rel="nofollow">http://www.nuevaprensa.com.ve</a></td></tr><tr><td><i>El Guayanés</i></td><td><a href="../../../../articles/p/u/e/Puerto_Ordaz_a2c4.html" title="Puerto Ordaz">Puerto Ordaz</a></td><td></td></tr><tr><td><i>Extra</i></td><td><a href="../../../../articles/p/u/e/Puerto_Ordaz_a2c4.html" title="Puerto Ordaz">Puerto Ordaz</a></td><td><a href="http://www.diarioextra.com.ve" class="external free" title="http://www.diarioextra.com.ve" rel="nofollow">http://www.diarioextra.com.ve</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

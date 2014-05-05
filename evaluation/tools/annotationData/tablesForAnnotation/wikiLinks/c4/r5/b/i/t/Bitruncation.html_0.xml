@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/b/i/t/Bitruncation.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/b/i/t/Bitruncation.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Polychoron or honeycomb</th>]]></html>
+	<text>Polychoron or honeycomb</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Schläfli symbol Coxeter-Dynkin diagram</th>]]></html>
+	<text>Schl&#228;fli symbol Coxeter-Dynkin diagram</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cell type</th>]]></html>
+	<text>Cell type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cell image</th>]]></html>
+	<text>Cell image</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bitruncated 5-cell</td>]]></html>
+	<text>Bitruncated 5-cell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t 1,2 {3,3,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</td>]]></html>
+	<text>t 1,2 {3,3,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated tetrahedron</td>]]></html>
+	<text>truncated tetrahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/7/75/Truncated_tetrahedron.png/40px-Truncated_tetrahedron.png</td>]]></html>
+	<text>../../../../images/shared/thumb/7/75/Truncated_tetrahedron.png/40px-Truncated_tetrahedron.png</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bitruncated 24-cell</td>]]></html>
+	<text>Bitruncated 24-cell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t 1,2 {3,4,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</td>]]></html>
+	<text>t 1,2 {3,4,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated cube</td>]]></html>
+	<text>truncated cube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/7/7e/Truncated_hexahedron.png/40px-Truncated_hexahedron.png</td>]]></html>
+	<text>../../../../images/shared/thumb/7/7e/Truncated_hexahedron.png/40px-Truncated_hexahedron.png</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bitruncated cubic honeycomb</td>]]></html>
+	<text>Bitruncated cubic honeycomb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t 1,2 {4,3,4} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/f/fc/CDW_dot.png</td>]]></html>
+	<text>t 1,2 {4,3,4} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/dd/CDW_4.png ../../../../images/shared/f/fc/CDW_dot.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated octahedron</td>]]></html>
+	<text>truncated octahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/9/95/Truncated_octahedron.png/40px-Truncated_octahedron.png</td>]]></html>
+	<text>../../../../images/shared/thumb/9/95/Truncated_octahedron.png/40px-Truncated_octahedron.png</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bitruncated order-3 icosahedral honeycomb</td>]]></html>
+	<text>Bitruncated order-3 icosahedral honeycomb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t 1,2 {3,5,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</td>]]></html>
+	<text>t 1,2 {3,5,3} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/f/fc/CDW_dot.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated dodecahedron</td>]]></html>
+	<text>truncated dodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/6/6a/Truncated_dodecahedron.png/40px-Truncated_dodecahedron.png</td>]]></html>
+	<text>../../../../images/shared/thumb/6/6a/Truncated_dodecahedron.png/40px-Truncated_dodecahedron.png</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bitruncated order-5 dodecahedral honeycomb</td>]]></html>
+	<text>Bitruncated order-5 dodecahedral honeycomb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t 1,2 {5,3,5} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/f/fc/CDW_dot.png</td>]]></html>
+	<text>t 1,2 {5,3,5} ../../../../images/shared/f/fc/CDW_dot.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/d/de/CDW_3.png ../../../../images/shared/5/52/CDW_ring.png ../../../../images/shared/2/2b/CDW_5.png ../../../../images/shared/f/fc/CDW_dot.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated icosahedron</td>]]></html>
+	<text>truncated icosahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/c3/Truncated_icosahedron.png/40px-Truncated_icosahedron.png</td>]]></html>
+	<text>../../../../images/shared/thumb/c/c3/Truncated_icosahedron.png/40px-Truncated_icosahedron.png</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Bitruncation - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Polychoron or honeycomb Schl fli symbol Coxeter-Dynkin diagram Cell type Cell image</text>
+</context>
+<context>
+	<score>0.88654166</score>
+	<text>An interesting result of this operation is that self-dual polychora {p,q,p} (and honeycombs) remain cell-transitive after bitruncation. There are 5 such forms corresponding to the five truncated regular polyhedra: t{q,p}. Two are honeycombs on the 3-sphere , one a honeycomb in Euclidean 3-space, and two are honeycombs in hyperbolic 3-space.</text>
+</context>
+<context>
+	<score>0.80308014</score>
+	<text>Bitruncation</text>
+</context>
+<context>
+	<score>0.789383</score>
+	<text>[ edit ] Self-dual {p,q,p} polychora/honeycombs</text>
+</context>
+<context>
+	<score>0.7579493</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7333432</score>
+	<text>[ edit ] In regular polyhedra and tilings</text>
+</context>
+<context>
+	<score>0.7333432</score>
+	<text>[ edit ] In regular polychora and honeycombs</text>
+</context>
+<context>
+	<score>0.7333432</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7253531</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71165603</score>
+	<text>A regular polytope (or honeycomb ) {p, q, r} will have its {p, q} cells bitruncated into truncated {q, p} cells, and the vertices are replaced by truncated {q, r} cells.</text>
+</context>
+<context>
+	<score>0.6494744</score>
+	<text>For regular polychoron , a bitruncated form is a dual-symmetric operator. A bitruncated polychoron is the same as the bitruncated dual.</text>
+</context>
+<context>
+	<score>0.6108664</score>
+	<text>This polyhedron -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.5997292</score>
+	<text>[ edit ] In regular polychora and honeycombs</text>
+</context>
+<context>
+	<score>0.559933</score>
+	<text>For regular polyhedron , a bitruncated form is the truncated dual . For example, a bitruncated cube is a truncated octahedron .</text>
+</context>
+<context>
+	<score>0.528096</score>
+	<text>[ edit ] In regular polyhedra and tilings</text>
+</context>
+<context>
+	<score>0.5243471</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.49463642</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.48225075</score>
+	<text>Bitruncated regular polytopes can be represented by an extended Schl fli symbol notation t 1,2 {p, q,...}.</text>
+</context>
+<context>
+	<score>0.46595025</score>
+	<text>In geometry , a bitruncation is an operation on regular polytopes. It represents a truncation beyond rectification . The original edges are lost completely and the original faces remain as smaller copies of themselves.</text>
+</context>
+<context>
+	<score>0.45290986</score>
+	<text>A bitruncated cubic honeycomb - Cubic cells become orange truncated octahedra, and vertices are replaced by blue truncated octahedra.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable"><tr><th>Polychoron or honeycomb</th><th><a href="../../../../articles/s/c/h/Schl%C3%A4fli_symbol.html" title="Schläfli symbol">Schläfli symbol</a><br /><a href="../../../../articles/c/o/x/Coxeter-Dynkin_diagram_3f15.html" class="mw-redirect" title="Coxeter-Dynkin diagram">Coxeter-Dynkin diagram</a></th><th>Cell type</th><th>Cell<br />image</th></tr><tr><td><a href="../../../../articles/b/i/t/Bitruncated_5-cell.html" title="Bitruncated 5-cell">Bitruncated 5-cell</a></td><td>t<sub>1,2</sub>{3,3,3}<p><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a></p></td><td><a href="../../../../articles/t/r/u/Truncated_tetrahedron.html" title="Truncated tetrahedron">truncated tetrahedron</a></td><td><a href="../../../../articles/t/r/u/Image%7ETruncated_tetrahedron.png_9775.html" class="image" title="Truncated tetrahedron.png"><img alt="" src="../../../../images/shared/thumb/7/75/Truncated_tetrahedron.png/40px-Truncated_tetrahedron.png" width="40" height="40" border="0" /></a></td></tr><tr><td><a href="../../../../articles/b/i/t/Bitruncated_24-cell.html" title="Bitruncated 24-cell">Bitruncated 24-cell</a></td><td>t<sub>1,2</sub>{3,4,3}<p><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_4.png_0186.html" class="image" title="Image:CDW_4.png"><img alt="Image:CDW_4.png" src="../../../../images/shared/d/dd/CDW_4.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a></p></td><td><a href="../../../../articles/t/r/u/Truncated_cube.html" title="Truncated cube">truncated cube</a></td><td><a href="../../../../articles/t/r/u/Image%7ETruncated_hexahedron.png_f91a.html" class="image" title="Truncated hexahedron.png"><img alt="" src="../../../../images/shared/thumb/7/7e/Truncated_hexahedron.png/40px-Truncated_hexahedron.png" width="40" height="40" border="0" /></a></td></tr><tr><td><a href="../../../../articles/b/i/t/Bitruncated_cubic_honeycomb.html" title="Bitruncated cubic honeycomb">Bitruncated cubic honeycomb</a></td><td>t<sub>1,2</sub>{4,3,4}<p><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_4.png_0186.html" class="image" title="Image:CDW_4.png"><img alt="Image:CDW_4.png" src="../../../../images/shared/d/dd/CDW_4.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_4.png_0186.html" class="image" title="Image:CDW_4.png"><img alt="Image:CDW_4.png" src="../../../../images/shared/d/dd/CDW_4.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a></p></td><td><a href="../../../../articles/t/r/u/Truncated_octahedron.html" title="Truncated octahedron">truncated octahedron</a></td><td><a href="../../../../articles/t/r/u/Image%7ETruncated_octahedron.png_b195.html" class="image" title="Truncated octahedron.png"><img alt="" src="../../../../images/shared/thumb/9/95/Truncated_octahedron.png/40px-Truncated_octahedron.png" width="40" height="40" border="0" /></a></td></tr><tr><td>Bitruncated <a href="../../../../articles/o/r/d/Order-3_icosahedral_honeycomb.html" title="Order-3 icosahedral honeycomb">order-3 icosahedral honeycomb</a></td><td>t<sub>1,2</sub>{3,5,3}<p><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_5.png_906e.html" class="image" title="Image:CDW_5.png"><img alt="Image:CDW_5.png" src="../../../../images/shared/2/2b/CDW_5.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a></p></td><td><a href="../../../../articles/t/r/u/Truncated_dodecahedron.html" title="Truncated dodecahedron">truncated dodecahedron</a></td><td><a href="../../../../articles/t/r/u/Image%7ETruncated_dodecahedron.png_d3ed.html" class="image" title="Truncated dodecahedron.png"><img alt="" src="../../../../images/shared/thumb/6/6a/Truncated_dodecahedron.png/40px-Truncated_dodecahedron.png" width="40" height="40" border="0" /></a></td></tr><tr><td>Bitruncated <a href="../../../../articles/o/r/d/Order-5_dodecahedral_honeycomb.html" title="Order-5 dodecahedral honeycomb">order-5 dodecahedral honeycomb</a></td><td>t<sub>1,2</sub>{5,3,5}<p><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_5.png_906e.html" class="image" title="Image:CDW_5.png"><img alt="Image:CDW_5.png" src="../../../../images/shared/2/2b/CDW_5.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_3.png_4ced.html" class="image" title="Image:CDW_3.png"><img alt="Image:CDW_3.png" src="../../../../images/shared/d/de/CDW_3.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_ring.png_e738.html" class="image" title="Image:CDW_ring.png"><img alt="Image:CDW_ring.png" src="../../../../images/shared/5/52/CDW_ring.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_5.png_906e.html" class="image" title="Image:CDW_5.png"><img alt="Image:CDW_5.png" src="../../../../images/shared/2/2b/CDW_5.png" width="11" height="20" border="0" /></a><a href="../../../../articles/c/d/w/Image%7ECDW_dot.png_52f6.html" class="image" title="Image:CDW_dot.png"><img alt="Image:CDW_dot.png" src="../../../../images/shared/f/fc/CDW_dot.png" width="7" height="20" border="0" /></a></p></td><td><a href="../../../../articles/t/r/u/Truncated_icosahedron.html" title="Truncated icosahedron">truncated icosahedron</a></td><td><a href="../../../../articles/t/r/u/Image%7ETruncated_icosahedron.png_441c.html" class="image" title="Truncated icosahedron.png"><img alt="" src="../../../../images/shared/thumb/c/c3/Truncated_icosahedron.png/40px-Truncated_icosahedron.png" width="40" height="40" border="0" /></a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

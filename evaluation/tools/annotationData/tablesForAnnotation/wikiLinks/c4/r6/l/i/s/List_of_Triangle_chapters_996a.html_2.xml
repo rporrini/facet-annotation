@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/i/s/List_of_Triangle_chapters_996a.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 0 3, 0.625 3, 0.546875 2 3, 0.2916667 2, 0.0625 0 1, 0.046875 1 3, 0.036458336 1 2, 0.03125 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_Triangle_chapters_996a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Chapter</th>]]></html>
+	<text>Chapter</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Years Active</th>]]></html>
+	<text>Years Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of North Carolina at Charlotte</td>]]></html>
+	<text>University of North Carolina at Charlotte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uncc</td>]]></html>
+	<text>uncc</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008-present</td>]]></html>
+	<text>2008-present</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of California, San Diego</td>]]></html>
+	<text>University of California, San Diego</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ucsd</td>]]></html>
+	<text>ucsd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008-present</td>]]></html>
+	<text>2008-present</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colonization started by UCI colony</td>]]></html>
+	<text>colonization started by UCI colony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey Institute of Technology</td>]]></html>
+	<text>New Jersey Institute of Technology</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008-present</td>]]></html>
+	<text>2008-present</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of California, Berkeley</td>]]></html>
+	<text>University of California, Berkeley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colonization beginning fall 2008</td>]]></html>
+	<text>colonization beginning fall 2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Washington</td>]]></html>
+	<text>University of Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colonization beginning fall/winter 2008</td>]]></html>
+	<text>colonization beginning fall/winter 2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia Commonwealth University</td>]]></html>
+	<text>Virginia Commonwealth University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>colonization beginning fall 2011</td>]]></html>
+	<text>colonization beginning fall 2011</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Triangle chapters - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Chapter Years Active Notes</text>
+</context>
+<context>
+	<score>0.88641214</score>
+	<text>[ edit ] Interest Groups</text>
+</context>
+<context>
+	<score>0.79532796</score>
+	<text>List of Triangle chapters</text>
+</context>
+<context>
+	<score>0.787841</score>
+	<text>[ edit ] Colonies</text>
+</context>
+<context>
+	<score>0.7559504</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7260971</score>
+	<text>[ edit ] Chapters</text>
+</context>
+<context>
+	<score>0.7260971</score>
+	<text>[ edit ] Colonies</text>
+</context>
+<context>
+	<score>0.7260971</score>
+	<text>[ edit ] Interest Groups</text>
+</context>
+<context>
+	<score>0.7260971</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7260971</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.716471</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70898414</score>
+	<text>[ edit ] Chapters</text>
+</context>
+<context>
+	<score>0.6362725</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6067293</score>
+	<text>^ Chapter Roll . Triangle Fraternity (2008). Retrieved on 2008 - 04-19 .</text>
+</context>
+<context>
+	<score>0.59543014</score>
+	<text>A list of the chapters, colonies, and interest groups of Triangle Fraternity</text>
+</context>
+<context>
+	<score>0.5625423</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.53024256</score>
+	<text>List of Triangle chapters</text>
+</context>
+<context>
+	<score>0.51895225</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>School</th><th>Chapter</th><th>Years Active</th><th>Notes</th></tr><tr><td><a href="../../../../articles/u/n/i/University_of_North_Carolina_at_Charlotte_d3aa.html" title="University of North Carolina at Charlotte">University of North Carolina at Charlotte</a></td><td><i>uncc</i></td><td>2008-present</td><td></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_California%2C_San_Diego_00bc.html" title="University of California, San Diego">University of California, San Diego</a></td><td><i>ucsd</i></td><td>2008-present</td><td><i>colonization started by UCI colony</i></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_Institute_of_Technology_281a.html" title="New Jersey Institute of Technology">New Jersey Institute of Technology</a></td><td></td><td>2008-present</td><td></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_California%2C_Berkeley_70e2.html" title="University of California, Berkeley">University of California, Berkeley</a></td><td></td><td></td><td><i>colonization beginning fall 2008</i></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Washington_e29d.html" title="University of Washington">University of Washington</a></td><td></td><td></td><td><i>colonization beginning fall/winter 2008</i></td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia_Commonwealth_University_95d7.html" title="Virginia Commonwealth University">Virginia Commonwealth University</a></td><td></td><td></td><td><i>colonization beginning fall 2011</i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

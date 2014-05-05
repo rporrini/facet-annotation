@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/g/o/l/Golden_Triangle_(UK_universities)_3705.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/g/o/l/Golden_Triangle_(UK_universities)_3705.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>SN</th>]]></html>
+	<text>SN</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>University</th>]]></html>
+	<text>University</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>funding (£,000)</th>]]></html>
+	<text>funding (&#163;,000)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>01</td>]]></html>
+	<text>01</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Cambridge</td>]]></html>
+	<text>University of Cambridge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,058</td>]]></html>
+	<text>107,058</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>02</td>]]></html>
+	<text>02</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Oxford</td>]]></html>
+	<text>University of Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104,204</td>]]></html>
+	<text>104,204</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>03</td>]]></html>
+	<text>03</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University College London</td>]]></html>
+	<text>University College London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,333</td>]]></html>
+	<text>101,333</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>04</td>]]></html>
+	<text>04</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Imperial College London</td>]]></html>
+	<text>Imperial College London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,800</td>]]></html>
+	<text>91,800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>05</td>]]></html>
+	<text>05</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Manchester</td>]]></html>
+	<text>University of Manchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>76,994</td>]]></html>
+	<text>76,994</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>06</td>]]></html>
+	<text>06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>King's College London</td>]]></html>
+	<text>King&amp;apos;s College London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58,401</td>]]></html>
+	<text>58,401</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>07</td>]]></html>
+	<text>07</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Leeds</td>]]></html>
+	<text>University of Leeds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,243</td>]]></html>
+	<text>47,243</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>08</td>]]></html>
+	<text>08</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Southampton</td>]]></html>
+	<text>University of Southampton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46,530</td>]]></html>
+	<text>46,530</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>09</td>]]></html>
+	<text>09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Sheffield</td>]]></html>
+	<text>University of Sheffield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43,895</td>]]></html>
+	<text>43,895</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Bristol</td>]]></html>
+	<text>University of Bristol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43,192</td>]]></html>
+	<text>43,192</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Golden Triangle (UK universities) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>SN University funding ( ,000)</text>
+</context>
+<context>
+	<score>0.88387966</score>
+	<text>[ edit ] Higher Education Research Funding for England (2007-08)</text>
+</context>
+<context>
+	<score>0.7967371</score>
+	<text>Golden Triangle (UK universities)</text>
+</context>
+<context>
+	<score>0.7867989</score>
+	<text>. Top 10 Universities are illustrated in the following table with Golden Triangle institutions in bold form. LSE is the only Golden Triangle institution that failed to make it top ten because of its predominantly social science based research work but it topped amongst the social science based universities with a total research funding of 18,118,000.</text>
+</context>
+<context>
+	<score>0.7553904</score>
+	<text>[ edit ] Notes and references</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] Structure of the triangle</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] Reputation</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] Funding for the year 2007-08</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] Notes and references</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7243031</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7190725</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7039036</score>
+	<text>Higher Education Funding Council for England has published its research funding for the year 2007-08 for the universities in England</text>
+</context>
+<context>
+	<score>0.6470025</score>
+	<text>[ edit ] Funding for the year 2007-08</text>
+</context>
+<context>
+	<score>0.60842556</score>
+	<text>^ The future of the University of London: a discussion paper from the Provost of UCL by Malcolm Grant, President and Provost, UCL. (p.6) ^ Funding list for the year 2007-08</text>
+</context>
+<context>
+	<score>0.5972972</score>
+	<text>for access by European Union nationals, asserting that they do not have the assets to compete on even ground with many of the world s other leading research universities (the majority of which are private, or if public such as the University of California, Berkeley and UCSB charge higher fees to foreign and out of state students for attendance).</text>
+</context>
+<context>
+	<score>0.5575329</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.52197564</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5204908</score>
+	<text>All of the universities are currently pressing to charge greater fees</text>
+</context>
+<context>
+	<score>0.50027233</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.479913</score>
+	<text>The institutions of the &apos;Golden Triangle&apos; not only receive a large section of the research budget in the United Kingdom , but also enjoy a worldwide reputation for excellence in their own right, hence the term &apos;golden&apos;. However, the term has gained currency in recent years as a way to denote unrest amongst the nation&apos;s premier universities as well as their lobbying efforts to bring about favourable legislation in the British Parliament .</text>
+</context>
+<context>
+	<score>0.47112274</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46362555</score>
+	<text>[ edit ] Reputation</text>
+</context>
+<context>
+	<score>0.4505956</score>
+	<text>The future of the University of London: a discussion paper from the Provost of UCL by Malcolm Grant, President and Provost, UCL. (p.6) [1]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center; font-size:95%"><tr><th>SN</th><th>University</th><th>funding (£,000)</th></tr><tr><td>01</td><td><b><a href="../../../../articles/u/n/i/University_of_Cambridge_5f20.html" title="University of Cambridge">University of Cambridge</a></b></td><td>107,058</td></tr><tr><td>02</td><td><b><a href="../../../../articles/u/n/i/University_of_Oxford_2ca4.html" title="University of Oxford">University of Oxford</a></b></td><td>104,204</td></tr><tr><td>03</td><td><b><a href="../../../../articles/u/n/i/University_College_London_3428.html" title="University College London">University College London</a></b></td><td>101,333</td></tr><tr><td>04</td><td><b><a href="../../../../articles/i/m/p/Imperial_College_London_588b.html" title="Imperial College London">Imperial College London</a></b></td><td>91,800</td></tr><tr><td>05</td><td><a href="../../../../articles/u/n/i/University_of_Manchester_aff5.html" title="University of Manchester">University of Manchester</a></td><td>76,994</td></tr><tr><td>06</td><td><b><a href="../../../../articles/k/i/n/King%27s_College_London_ad1a.html" title="King's College London">King's College London</a></b></td><td>58,401</td></tr><tr><td>07</td><td><a href="../../../../articles/u/n/i/University_of_Leeds_c6d8.html" title="University of Leeds">University of Leeds</a></td><td>47,243</td></tr><tr><td>08</td><td><a href="../../../../articles/u/n/i/University_of_Southampton_d5a5.html" title="University of Southampton">University of Southampton</a></td><td>46,530</td></tr><tr><td>09</td><td><a href="../../../../articles/u/n/i/University_of_Sheffield_dc51.html" title="University of Sheffield">University of Sheffield</a></td><td>43,895</td></tr><tr><td>10</td><td><a href="../../../../articles/u/n/i/University_of_Bristol_9e35.html" title="University of Bristol">University of Bristol</a></td><td>43,192</td></tr></table>]]>
+</htmlSnippet>
+</entity>

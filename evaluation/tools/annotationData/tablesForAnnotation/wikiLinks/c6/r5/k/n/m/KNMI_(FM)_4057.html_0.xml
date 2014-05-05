@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/k/n/m/KNMI_(FM)_4057.html_0.xml" />
+<meta name="primaryKey" value="0.8 2, 0.73333335 3, 0.73333335 2 3, 0.6666667 2 4, 0.6111111 3 4, 0.6 2 5, 0.55 3 5, 0.16666667 4, 0.15 5, 0.13333334 1, 0.13333334 1 2, 0.125 4 5, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.10000001 1 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/n/m/KNMI_(FM)_4057.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K265DC</td>]]></html>
+	<text>K265DC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.9</td>]]></html>
+	<text>100.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cortez, Colorado</td>]]></html>
+	<text>Cortez, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 watts</td>]]></html>
+	<text>7 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K213AD</td>]]></html>
+	<text>K213AD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.5</td>]]></html>
+	<text>90.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Durango, Colorado</td>]]></html>
+	<text>Durango, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>82 watts</td>]]></html>
+	<text>82 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K215AX</td>]]></html>
+	<text>K215AX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pagosa Springs, Colorado</td>]]></html>
+	<text>Pagosa Springs, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38 watts</td>]]></html>
+	<text>38 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K281AW</td>]]></html>
+	<text>K281AW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104.1</td>]]></html>
+	<text>104.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shiprock, New Mexico</td>]]></html>
+	<text>Shiprock, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K231BB</td>]]></html>
+	<text>K231BB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94.1</td>]]></html>
+	<text>94.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shiprock, New Mexico</td>]]></html>
+	<text>Shiprock, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KNMI (FM) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>In addition to the main station, KNMI is relayed by an additional 5 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>KNMI (FM)</text>
+</context>
+<context>
+	<score>0.7910497</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.759159</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7121928</score>
+	<text>KNMI (88.9 FM ) is a radio station broadcasting a Contemporary Christian format. Licensed to Farmington, New Mexico , USA, the station serves the Four Corners area. The station is currently owned by Navajo Missions, Inc..</text>
+</context>
+<context>
+	<score>0.661942</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61147356</score>
+	<text>KNMI (FM)</text>
+</context>
+<context>
+	<score>0.60993797</score>
+	<text>^ KNMI Facility Record . United States Federal Communications Commission , audio division .</text>
+</context>
+<context>
+	<score>0.52216095</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.47052738</score>
+	<text>This article about a radio station in New Mexico is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K265DC</b></td><td>100.9</td><td><a href="../../../../articles/c/o/r/Cortez%2C_Colorado_cde4.html" title="Cortez, Colorado">Cortez, Colorado</a></td><td>7 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K265DC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K265DC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K265DC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K265DC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K213AD</b></td><td>90.5</td><td><a href="../../../../articles/d/u/r/Durango%2C_Colorado_c4d7.html" title="Durango, Colorado">Durango, Colorado</a></td><td>82 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K213AD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K213AD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K213AD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K213AD" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K215AX</b></td><td>90.9</td><td><a href="../../../../articles/p/a/g/Pagosa_Springs%2C_Colorado_4415.html" title="Pagosa Springs, Colorado">Pagosa Springs, Colorado</a></td><td>38 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K215AX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K215AX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215AX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215AX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K281AW</b></td><td>104.1</td><td><a href="../../../../articles/s/h/i/Shiprock%2C_New_Mexico_6572.html" title="Shiprock, New Mexico">Shiprock, New Mexico</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K281AW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K281AW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K281AW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K281AW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K231BB</b></td><td>94.1</td><td><a href="../../../../articles/s/h/i/Shiprock%2C_New_Mexico_6572.html" title="Shiprock, New Mexico">Shiprock, New Mexico</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K231BB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K231BB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K231BB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K231BB" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

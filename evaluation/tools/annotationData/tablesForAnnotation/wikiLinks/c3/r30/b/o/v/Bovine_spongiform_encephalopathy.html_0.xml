@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r30/b/o/v/Bovine_spongiform_encephalopathy.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 0 1, 0.13333334 0 2, 0.12222223 1, 0.03555556 2, 0.017037038 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/o/v/Bovine_spongiform_encephalopathy.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>BSE cases</th>]]></html>
+	<text>BSE cases</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>vCJD cases</th>]]></html>
+	<text>vCJD cases</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Austria</td>]]></html>
+	<text>Austria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125</td>]]></html>
+	<text>125</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czech Republic</td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Falkland Islands</td>]]></html>
+	<text>Falkland Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Finland</td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France [25]</td>]]></html>
+	<text>France [25]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>900</td>]]></html>
+	<text>900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>312</td>]]></html>
+	<text>312</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greece</td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hong Kong</td>]]></html>
+	<text>Hong Kong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Israel</td>]]></html>
+	<text>Israel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117</td>]]></html>
+	<text>117</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Japan</td>]]></html>
+	<text>Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liechtenstein</td>]]></html>
+	<text>Liechtenstein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luxembourg</td>]]></html>
+	<text>Luxembourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75</td>]]></html>
+	<text>75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oman</td>]]></html>
+	<text>Oman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portugal</td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>875</td>]]></html>
+	<text>875</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Republic of Ireland</td>]]></html>
+	<text>Republic of Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,353</td>]]></html>
+	<text>1,353</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovakia</td>]]></html>
+	<text>Slovakia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovenia</td>]]></html>
+	<text>Slovenia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>412</td>]]></html>
+	<text>412</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>453</td>]]></html>
+	<text>453</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thailand [26]</td>]]></html>
+	<text>Thailand [26]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>183,823</td>]]></html>
+	<text>183,823</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>163</td>]]></html>
+	<text>163</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>188,535</td>]]></html>
+	<text>188,535</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>193</td>]]></html>
+	<text>193</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Bovine spongiform encephalopathy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country BSE cases vCJD cases</text>
+</context>
+<context>
+	<score>0.88140017</score>
+	<text>[ edit ] BSE statistics by country</text>
+</context>
+<context>
+	<score>0.79696965</score>
+	<text>Bovine spongiform encephalopathy</text>
+</context>
+<context>
+	<score>0.7844305</score>
+	<text>On December 31 , 2006 , Hematech , a biotechnology company based in Sioux Falls , South Dakota , announced that it had used genetic engineering and cloning technology to produce cattle that lacked a necessary gene for prion production - thus theoretically making them immune to BSE.</text>
+</context>
+<context>
+	<score>0.75044566</score>
+	<text>Dark green areas are countries with confirmed human cases of vCJD. Light green shows countries which have reported cases of only BSE.</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] Infectious agent</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] The BSE epidemic in British cattle</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] Husbandry practices in the United States relating to BSE</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] BSE statistics by country</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7220062</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193939</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70424247</score>
+	<text>65 nations implemented full or partial restrictions on importing U.S. beef products because of concerns that U.S. testing lacked sufficient rigor. As a result, exports of U.S. beef declined from 1.3 million metric tons in 2003, before the first mad cow was detected in the US, to 322 thousand metric tons in 2004. This has increased since then to 771 thousand metric tons in 2007.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Possibly due to pressure from large agribusiness, the United States has drastically cut back on the number of cows inspected for BSE.</text>
+</context>
+<context>
+	<score>0.6036489</score>
+	<text>The table</text>
+</context>
+<context>
+	<score>0.5925333</score>
+	<text>Tokyo yielded to U.S. pressure to resume imports, ignoring consumer worries about the safety of U.S. beef, said Japanese consumer groups. Michiko Kamiyama from Food Safety Citizen Watch said about this: &quot;The government has put priority on the political schedule between the two countries, not on food safety or human health.&quot;</text>
+</context>
+<context>
+	<score>0.5528145</score>
+	<text>Japan was the top importer of U.S. beef, buying 240,000 tons valued at $1.4 billion in 2003. After the discovery of the first case of BSE in the U.S. on December 23, 2003, Japan stopped U.S. beef imports in December 2003. In December 2005, Japan once again allowed imports of U.S. beef, but reinstated its ban in mid-January 2006 after a technical violation of the U.S.-Japan beef import agreement: a vertebral column, which should have been removed prior to shipment, was included in a shipment of veal.</text>
+</context>
+<context>
+	<score>0.52365184</score>
+	<text>In February 2001 , the USGAO reported that the FDA , which is responsible for regulating feed, had not adequately policed the various bans. [5] Compliance with the regulations was shown to be extremely poor before the discovery of the Washington cow, but industry representatives report that compliance is now 100%. Even so, critics call the partial prohibitions insufficient. Indeed, US meat producer Creekstone Farms alleges that the USDA is preventing BSE testing from being conducted [6] .</text>
+</context>
+<context>
+	<score>0.5199102</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.49823177</score>
+	<text>ref-20&quot;&gt; [21] in January 2004 has yet to be implemented [4] , despite the efforts of some advocates of such a policy, who cite the fact that cows are herbivores, and that blood and fecal matter could potentially carry BSE.</text>
+</context>
+<context>
+	<score>0.47789574</score>
+	<text>in January 2004 has yet to be implemented [4] , despite the efforts of some advocates of such a policy, who cite the fact that cows are herbivores, and that blood and fecal matter could potentially carry BSE.</text>
+</context>
+<context>
+	<score>0.4665032</score>
+	<text>to the right summarizes reported cases of BSE and of vCJD by country. BSE is the disease in cattle , while vCJD is the disease in people .</text>
+</context>
+<context>
+	<score>0.46162695</score>
+	<text>Soybean meal is cheap and plentiful in the United States . As a result, the use of animal byproduct feeds was never common, as it was in Europe. However, U.S. regulations only partially prohibit the use of animal byproducts in feed. In 1997, regulations prohibited the feeding of mammalian byproducts to ruminants such as cows and goats. However, the byproducts of ruminants can still be legally fed to pets or other livestock such as pigs and poultry such as chickens. In addition, it is legal for ruminants to be fed byproducts from some of these animals. [3] A proposal to end the use of cow blood, restaurant scraps, and poultry litter (fecal matter, feathers)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="font-size:75%; float:right; margin-right: 0; margin-left:1em; text-align:right"><tr><th>Country</th><th>BSE cases</th><th><a href="../../../../articles/c/r/e/Creutzfeldt-Jakob_disease_74e6.html#Variant_Creutzfeldt-Jakob_Disease_.28vCJD.29" title="Creutzfeldt-Jakob disease">vCJD</a> cases</th></tr><tr><td align="left"><a href="../../../../articles/a/u/s/Austria.html" title="Austria">Austria</a></td><td>5</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>125</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>10</td><td>1</td></tr><tr><td align="left"><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td>9</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>15</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/f/a/l/Falkland_Islands_2644.html" title="Falkland Islands">Falkland Islands</a></td><td>1</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a></td><td>1</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/f/r/a/France.html" title="France">France</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24" title="">[25]</a></sup></td><td>900</td><td>11</td></tr><tr><td align="left"><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>312</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/g/r/e/Greece.html" title="Greece">Greece</a></td><td>1</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/h/o/n/Hong_Kong_6282.html" title="Hong Kong">Hong Kong</a></td><td>2</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/i/s/r/Israel.html" title="Israel">Israel</a></td><td>1</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>117</td><td>1</td></tr><tr><td align="left"><a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>26</td><td>1</td></tr><tr><td align="left"><a href="../../../../articles/l/i/e/Liechtenstein.html" title="Liechtenstein">Liechtenstein</a></td><td>2</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/l/u/x/Luxembourg.html" title="Luxembourg">Luxembourg</a></td><td>2</td><td>1</td></tr><tr><td align="left"><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>75</td><td>2</td></tr><tr><td align="left"><a href="../../../../articles/o/m/a/Oman.html" title="Oman">Oman</a></td><td>2</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td>21</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td><td>875</td><td>2</td></tr><tr><td align="left"><a href="../../../../articles/r/e/p/Republic_of_Ireland_10e7.html" title="Republic of Ireland">Republic of Ireland</a></td><td>1,353</td><td>4</td></tr><tr><td align="left"><a href="../../../../articles/s/l/o/Slovakia.html" title="Slovakia">Slovakia</a></td><td>15</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/s/l/o/Slovenia.html" title="Slovenia">Slovenia</a></td><td>7</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>412</td><td>2</td></tr><tr><td align="left"><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>1</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>453</td><td>0</td></tr><tr><td align="left"><a href="../../../../articles/t/h/a/Thailand.html" title="Thailand">Thailand</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25" title="">[26]</a></sup></td><td></td><td>2</td></tr><tr><td align="left"><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>183,823</td><td>163</td></tr><tr><td align="left"><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>3</td><td>3</td></tr><tr><td align="left"><b>Total</b></td><td><b>188,535</b></td><td><b>193</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

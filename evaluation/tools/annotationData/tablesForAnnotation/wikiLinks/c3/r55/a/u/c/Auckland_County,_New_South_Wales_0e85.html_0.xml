@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r55/a/u/c/Auckland_County,_New_South_Wales_0e85.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, 0.03030303 1, " />
+<meta name="parentHTMLDoc" value="en/articles/a/u/c/Auckland_County,_New_South_Wales_0e85.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Parish</th>]]></html>
+	<text>Parish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>LGA</th>]]></html>
+	<text>LGA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coordinates</th>]]></html>
+	<text>Coordinates</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bega</td>]]></html>
+	<text>Bega</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°40′54″S, 149°54′04″E</td>]]></html>
+	<text>36&#176;40&#8242;54&#8243;S, 149&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bemboka</td>]]></html>
+	<text>Bemboka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°40′54″S, 149°37′04″E</td>]]></html>
+	<text>36&#176;40&#8242;54&#8243;S, 149&#176;37&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bimmil</td>]]></html>
+	<text>Bimmil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°59′54″S, 149°50′04″E</td>]]></html>
+	<text>36&#176;59&#8242;54&#8243;S, 149&#176;50&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bondi</td>]]></html>
+	<text>Bondi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bombala Council</td>]]></html>
+	<text>Bombala Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°06′54″S, 149°15′04″E</td>]]></html>
+	<text>37&#176;06&#8242;54&#8243;S, 149&#176;15&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bournda</td>]]></html>
+	<text>Bournda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°48′54″S, 149°55′04″E</td>]]></html>
+	<text>36&#176;48&#8242;54&#8243;S, 149&#176;55&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boyd</td>]]></html>
+	<text>Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°00′54″S, 149°43′04″E</td>]]></html>
+	<text>37&#176;00&#8242;54&#8243;S, 149&#176;43&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bredbendoura</td>]]></html>
+	<text>Bredbendoura</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°45′54″S, 149°30′04″E</td>]]></html>
+	<text>36&#176;45&#8242;54&#8243;S, 149&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brogo</td>]]></html>
+	<text>Brogo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°37′54″S, 149°51′04″E</td>]]></html>
+	<text>36&#176;37&#8242;54&#8243;S, 149&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bronte</td>]]></html>
+	<text>Bronte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°34′54″S, 149°45′04″E</td>]]></html>
+	<text>36&#176;34&#8242;54&#8243;S, 149&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buckle</td>]]></html>
+	<text>Buckle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°18′54″S, 149°41′04″E</td>]]></html>
+	<text>37&#176;18&#8242;54&#8243;S, 149&#176;41&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Burragate</td>]]></html>
+	<text>Burragate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°58′54″S, 149°38′04″E</td>]]></html>
+	<text>36&#176;58&#8242;54&#8243;S, 149&#176;38&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Candelo</td>]]></html>
+	<text>Candelo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°43′54″S, 149°45′04″E</td>]]></html>
+	<text>36&#176;43&#8242;54&#8243;S, 149&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cobra</td>]]></html>
+	<text>Cobra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°53′54″S, 149°47′04″E</td>]]></html>
+	<text>36&#176;53&#8242;54&#8243;S, 149&#176;47&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colombo</td>]]></html>
+	<text>Colombo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°33′54″S, 149°26′04″E</td>]]></html>
+	<text>36&#176;33&#8242;54&#8243;S, 149&#176;26&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Coolangubra</td>]]></html>
+	<text>Coolangubra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°59′54″S, 149°30′04″E</td>]]></html>
+	<text>36&#176;59&#8242;54&#8243;S, 149&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eden</td>]]></html>
+	<text>Eden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°03′54″S, 149°51′04″E</td>]]></html>
+	<text>37&#176;03&#8242;54&#8243;S, 149&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Genoa</td>]]></html>
+	<text>Genoa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bombala Council</td>]]></html>
+	<text>Bombala Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°08′54″S, 149°25′04″E</td>]]></html>
+	<text>37&#176;08&#8242;54&#8243;S, 149&#176;25&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gnupa</td>]]></html>
+	<text>Gnupa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°57′54″S, 149°47′04″E</td>]]></html>
+	<text>36&#176;57&#8242;54&#8243;S, 149&#176;47&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gooyan</td>]]></html>
+	<text>Gooyan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°14′54″S, 149°47′04″E</td>]]></html>
+	<text>37&#176;14&#8242;54&#8243;S, 149&#176;47&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Howe</td>]]></html>
+	<text>Howe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°21′54″S, 149°56′04″E</td>]]></html>
+	<text>37&#176;21&#8242;54&#8243;S, 149&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Imlay</td>]]></html>
+	<text>Imlay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°04′54″S, 149°44′04″E</td>]]></html>
+	<text>37&#176;04&#8242;54&#8243;S, 149&#176;44&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kameruka</td>]]></html>
+	<text>Kameruka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°44′54″S, 149°50′04″E</td>]]></html>
+	<text>36&#176;44&#8242;54&#8243;S, 149&#176;50&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kanoonah</td>]]></html>
+	<text>Kanoonah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°55′54″S, 149°25′04″E</td>]]></html>
+	<text>36&#176;55&#8242;54&#8243;S, 149&#176;25&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kiah</td>]]></html>
+	<text>Kiah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°07′54″S, 149°56′04″E</td>]]></html>
+	<text>37&#176;07&#8242;54&#8243;S, 149&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kokoboreeka</td>]]></html>
+	<text>Kokoboreeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°23′54″S, 149°35′04″E</td>]]></html>
+	<text>36&#176;23&#8242;54&#8243;S, 149&#176;35&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mataganah</td>]]></html>
+	<text>Mataganah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°58′54″S, 149°34′04″E</td>]]></html>
+	<text>36&#176;58&#8242;54&#8243;S, 149&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Meringo</td>]]></html>
+	<text>Meringo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°41′54″S, 149°46′04″E</td>]]></html>
+	<text>36&#176;41&#8242;54&#8243;S, 149&#176;46&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mogila</td>]]></html>
+	<text>Mogila</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°41′54″S, 149°30′04″E</td>]]></html>
+	<text>36&#176;41&#8242;54&#8243;S, 149&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mokoreeka</td>]]></html>
+	<text>Mokoreeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°27′54″S, 149°31′04″E</td>]]></html>
+	<text>36&#176;27&#8242;54&#8243;S, 149&#176;31&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mookerwah</td>]]></html>
+	<text>Mookerwah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°24′54″S, 149°43′04″E</td>]]></html>
+	<text>36&#176;24&#8242;54&#8243;S, 149&#176;43&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mumbulla</td>]]></html>
+	<text>Mumbulla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°29′54″S, 149°48′04″E</td>]]></html>
+	<text>36&#176;29&#8242;54&#8243;S, 149&#176;48&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nalbaugh</td>]]></html>
+	<text>Nalbaugh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°03′54″S, 149°23′04″E</td>]]></html>
+	<text>37&#176;03&#8242;54&#8243;S, 149&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Narrabarba</td>]]></html>
+	<text>Narrabarba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°15′54″S, 149°53′04″E</td>]]></html>
+	<text>37&#176;15&#8242;54&#8243;S, 149&#176;53&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nullica</td>]]></html>
+	<text>Nullica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°07′54″S, 149°49′04″E</td>]]></html>
+	<text>37&#176;07&#8242;54&#8243;S, 149&#176;49&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Numbugga</td>]]></html>
+	<text>Numbugga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°38′54″S, 149°46′04″E</td>]]></html>
+	<text>36&#176;38&#8242;54&#8243;S, 149&#176;46&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nungatta</td>]]></html>
+	<text>Nungatta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°12′54″S, 149°27′04″E</td>]]></html>
+	<text>37&#176;12&#8242;54&#8243;S, 149&#176;27&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ooranook</td>]]></html>
+	<text>Ooranook</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°33′54″S, 149°34′04″E</td>]]></html>
+	<text>36&#176;33&#8242;54&#8243;S, 149&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pambula</td>]]></html>
+	<text>Pambula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°52′54″S, 149°54′04″E</td>]]></html>
+	<text>36&#176;52&#8242;54&#8243;S, 149&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pericoe</td>]]></html>
+	<text>Pericoe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°05′54″S, 149°33′04″E</td>]]></html>
+	<text>37&#176;05&#8242;54&#8243;S, 149&#176;33&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Puen Buen</td>]]></html>
+	<text>Puen Buen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°28′54″S, 149°45′04″E</td>]]></html>
+	<text>36&#176;28&#8242;54&#8243;S, 149&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sturt</td>]]></html>
+	<text>Sturt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°11′54″S, 149°42′04″E</td>]]></html>
+	<text>37&#176;11&#8242;54&#8243;S, 149&#176;42&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tantawangalo</td>]]></html>
+	<text>Tantawangalo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°45′54″S, 149°34′04″E</td>]]></html>
+	<text>36&#176;45&#8242;54&#8243;S, 149&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Towamba</td>]]></html>
+	<text>Towamba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°07′54″S, 149°42′04″E</td>]]></html>
+	<text>37&#176;07&#8242;54&#8243;S, 149&#176;42&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Victoria</td>]]></html>
+	<text>Victoria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°20′54″S, 149°52′04″E</td>]]></html>
+	<text>37&#176;20&#8242;54&#8243;S, 149&#176;52&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Waalimma</td>]]></html>
+	<text>Waalimma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°16′54″S, 149°32′04″E</td>]]></html>
+	<text>37&#176;16&#8242;54&#8243;S, 149&#176;32&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wallagaraugh</td>]]></html>
+	<text>Wallagaraugh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°19′54″S, 149°45′04″E</td>]]></html>
+	<text>37&#176;19&#8242;54&#8243;S, 149&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wallagoot</td>]]></html>
+	<text>Wallagoot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°43′54″S, 149°56′04″E</td>]]></html>
+	<text>36&#176;43&#8242;54&#8243;S, 149&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wolumla</td>]]></html>
+	<text>Wolumla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°48′54″S, 149°48′04″E</td>]]></html>
+	<text>36&#176;48&#8242;54&#8243;S, 149&#176;48&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wonboyn</td>]]></html>
+	<text>Wonboyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°12′54″S, 149°56′04″E</td>]]></html>
+	<text>37&#176;12&#8242;54&#8243;S, 149&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yambulla</td>]]></html>
+	<text>Yambulla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37°11′54″S, 149°34′04″E</td>]]></html>
+	<text>37&#176;11&#8242;54&#8243;S, 149&#176;34&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yowaka</td>]]></html>
+	<text>Yowaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°57′54″S, 149°50′34″E</td>]]></html>
+	<text>36&#176;57&#8242;54&#8243;S, 149&#176;50&#8242;34&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yuglamah</td>]]></html>
+	<text>Yuglamah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°52′54″S, 149°30′04″E</td>]]></html>
+	<text>36&#176;52&#8242;54&#8243;S, 149&#176;30&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yurammie</td>]]></html>
+	<text>Yurammie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°49′54″S, 149°40′04″E</td>]]></html>
+	<text>36&#176;49&#8242;54&#8243;S, 149&#176;40&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Werri Berri</td>]]></html>
+	<text>Werri Berri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°33′45″S, 149°29′60″E</td>]]></html>
+	<text>36&#176;33&#8242;45&#8243;S, 149&#176;29&#8242;60&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyndham</td>]]></html>
+	<text>Wyndham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bega Valley Shire Council</td>]]></html>
+	<text>Bega Valley Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36°54′49″S, 149°39′43″E</td>]]></html>
+	<text>36&#176;54&#8242;49&#8243;S, 149&#176;39&#8242;43&#8243;E</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Auckland County, New South Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Parish LGA Coordinates</text>
+</context>
+<context>
+	<score>0.8847392</score>
+	<text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>Auckland County, New South Wales</text>
+</context>
+<context>
+	<score>0.77935797</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.7452641</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.67858714</score>
+	<text>In 1852 it had an area of 1,536,000 acres (6,220 km ) and was described as being mountainous with fertile plains.</text>
+</context>
+<context>
+	<score>0.627609</score>
+	<text>Auckland County was named in honour of George Eden , who was the First Earl of Auckland between (1784-1849).</text>
+</context>
+<context>
+	<score>0.58573365</score>
+	<text>^ Geographical Names Board of NSW ^ &quot;Old Welsh Books with English Translations&quot; , The Land of Gold: the Companion for the Welsh Emigrant to Australia , 1852</text>
+</context>
+<context>
+	<score>0.57365376</score>
+	<text>Auckland County, New South Wales is one of the 141 Cadastral divisions of New South Wales . It is at the extreme south-east of the state, with the Victorian border to the south, and the area to the north of the Brogo River the boundary to the north. It includes Bega , Eden and Merimbula</text>
+</context>
+<context>
+	<score>0.54695547</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5124241</score>
+	<text>Auckland County, New South Wales</text>
+</context>
+<context>
+	<score>0.49189216</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center"><tr><th>Parish</th><th>LGA</th><th>Coordinates</th></tr><tr><td>Bega</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_40_54_S_149_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_40_54_S_149_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°40′54″S,</span> <span style="white-space:nowrap">149°54′04″E</span></span></a></span></td></tr><tr><td>Bemboka</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_40_54_S_149_37_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_40_54_S_149_37_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°40′54″S,</span> <span style="white-space:nowrap">149°37′04″E</span></span></a></span></td></tr><tr><td>Bimmil</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_59_54_S_149_50_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_59_54_S_149_50_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°59′54″S,</span> <span style="white-space:nowrap">149°50′04″E</span></span></a></span></td></tr><tr><td>Bondi</td><td><a href="../../../../articles/b/o/m/Bombala_Council_6fae.html" title="Bombala Council">Bombala Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_06_54_S_149_15_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_06_54_S_149_15_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°06′54″S,</span> <span style="white-space:nowrap">149°15′04″E</span></span></a></span></td></tr><tr><td>Bournda</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_48_54_S_149_55_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_48_54_S_149_55_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°48′54″S,</span> <span style="white-space:nowrap">149°55′04″E</span></span></a></span></td></tr><tr><td>Boyd</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_00_54_S_149_43_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_00_54_S_149_43_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°00′54″S,</span> <span style="white-space:nowrap">149°43′04″E</span></span></a></span></td></tr><tr><td>Bredbendoura</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_45_54_S_149_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_45_54_S_149_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°45′54″S,</span> <span style="white-space:nowrap">149°30′04″E</span></span></a></span></td></tr><tr><td>Brogo</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_37_54_S_149_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_37_54_S_149_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°37′54″S,</span> <span style="white-space:nowrap">149°51′04″E</span></span></a></span></td></tr><tr><td>Bronte</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_34_54_S_149_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_34_54_S_149_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°34′54″S,</span> <span style="white-space:nowrap">149°45′04″E</span></span></a></span></td></tr><tr><td>Buckle</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_18_54_S_149_41_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_18_54_S_149_41_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°18′54″S,</span> <span style="white-space:nowrap">149°41′04″E</span></span></a></span></td></tr><tr><td>Burragate</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_58_54_S_149_38_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_58_54_S_149_38_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°58′54″S,</span> <span style="white-space:nowrap">149°38′04″E</span></span></a></span></td></tr><tr><td>Candelo</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_43_54_S_149_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_43_54_S_149_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°43′54″S,</span> <span style="white-space:nowrap">149°45′04″E</span></span></a></span></td></tr><tr><td>Cobra</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_53_54_S_149_47_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_53_54_S_149_47_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°53′54″S,</span> <span style="white-space:nowrap">149°47′04″E</span></span></a></span></td></tr><tr><td>Colombo</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_54_S_149_26_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_54_S_149_26_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°33′54″S,</span> <span style="white-space:nowrap">149°26′04″E</span></span></a></span></td></tr><tr><td>Coolangubra</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_59_54_S_149_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_59_54_S_149_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°59′54″S,</span> <span style="white-space:nowrap">149°30′04″E</span></span></a></span></td></tr><tr><td>Eden</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_03_54_S_149_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_03_54_S_149_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°03′54″S,</span> <span style="white-space:nowrap">149°51′04″E</span></span></a></span></td></tr><tr><td>Genoa</td><td><a href="../../../../articles/b/o/m/Bombala_Council_6fae.html" title="Bombala Council">Bombala Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_08_54_S_149_25_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_08_54_S_149_25_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°08′54″S,</span> <span style="white-space:nowrap">149°25′04″E</span></span></a></span></td></tr><tr><td>Gnupa</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_57_54_S_149_47_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_57_54_S_149_47_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°57′54″S,</span> <span style="white-space:nowrap">149°47′04″E</span></span></a></span></td></tr><tr><td>Gooyan</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_14_54_S_149_47_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_14_54_S_149_47_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°14′54″S,</span> <span style="white-space:nowrap">149°47′04″E</span></span></a></span></td></tr><tr><td>Howe</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_21_54_S_149_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_21_54_S_149_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°21′54″S,</span> <span style="white-space:nowrap">149°56′04″E</span></span></a></span></td></tr><tr><td>Imlay</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_04_54_S_149_44_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_04_54_S_149_44_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°04′54″S,</span> <span style="white-space:nowrap">149°44′04″E</span></span></a></span></td></tr><tr><td>Kameruka</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_44_54_S_149_50_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_44_54_S_149_50_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°44′54″S,</span> <span style="white-space:nowrap">149°50′04″E</span></span></a></span></td></tr><tr><td>Kanoonah</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_55_54_S_149_25_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_55_54_S_149_25_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°55′54″S,</span> <span style="white-space:nowrap">149°25′04″E</span></span></a></span></td></tr><tr><td>Kiah</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°07′54″S,</span> <span style="white-space:nowrap">149°56′04″E</span></span></a></span></td></tr><tr><td>Kokoboreeka</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_23_54_S_149_35_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_23_54_S_149_35_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°23′54″S,</span> <span style="white-space:nowrap">149°35′04″E</span></span></a></span></td></tr><tr><td>Mataganah</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_58_54_S_149_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_58_54_S_149_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°58′54″S,</span> <span style="white-space:nowrap">149°34′04″E</span></span></a></span></td></tr><tr><td>Meringo</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_41_54_S_149_46_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_41_54_S_149_46_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°41′54″S,</span> <span style="white-space:nowrap">149°46′04″E</span></span></a></span></td></tr><tr><td>Mogila</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_41_54_S_149_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_41_54_S_149_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°41′54″S,</span> <span style="white-space:nowrap">149°30′04″E</span></span></a></span></td></tr><tr><td>Mokoreeka</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_27_54_S_149_31_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_27_54_S_149_31_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°27′54″S,</span> <span style="white-space:nowrap">149°31′04″E</span></span></a></span></td></tr><tr><td>Mookerwah</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_24_54_S_149_43_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_24_54_S_149_43_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°24′54″S,</span> <span style="white-space:nowrap">149°43′04″E</span></span></a></span></td></tr><tr><td>Mumbulla</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_29_54_S_149_48_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_29_54_S_149_48_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°29′54″S,</span> <span style="white-space:nowrap">149°48′04″E</span></span></a></span></td></tr><tr><td>Nalbaugh</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_03_54_S_149_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_03_54_S_149_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°03′54″S,</span> <span style="white-space:nowrap">149°23′04″E</span></span></a></span></td></tr><tr><td>Narrabarba</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_15_54_S_149_53_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_15_54_S_149_53_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°15′54″S,</span> <span style="white-space:nowrap">149°53′04″E</span></span></a></span></td></tr><tr><td>Nullica</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_49_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_49_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°07′54″S,</span> <span style="white-space:nowrap">149°49′04″E</span></span></a></span></td></tr><tr><td>Numbugga</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_38_54_S_149_46_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_38_54_S_149_46_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°38′54″S,</span> <span style="white-space:nowrap">149°46′04″E</span></span></a></span></td></tr><tr><td>Nungatta</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_12_54_S_149_27_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_12_54_S_149_27_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°12′54″S,</span> <span style="white-space:nowrap">149°27′04″E</span></span></a></span></td></tr><tr><td>Ooranook</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_54_S_149_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_54_S_149_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°33′54″S,</span> <span style="white-space:nowrap">149°34′04″E</span></span></a></span></td></tr><tr><td>Pambula</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_52_54_S_149_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_52_54_S_149_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°52′54″S,</span> <span style="white-space:nowrap">149°54′04″E</span></span></a></span></td></tr><tr><td>Pericoe</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_05_54_S_149_33_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_05_54_S_149_33_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°05′54″S,</span> <span style="white-space:nowrap">149°33′04″E</span></span></a></span></td></tr><tr><td>Puen Buen</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_28_54_S_149_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_28_54_S_149_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°28′54″S,</span> <span style="white-space:nowrap">149°45′04″E</span></span></a></span></td></tr><tr><td>Sturt</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_11_54_S_149_42_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_11_54_S_149_42_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°11′54″S,</span> <span style="white-space:nowrap">149°42′04″E</span></span></a></span></td></tr><tr><td>Tantawangalo</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_45_54_S_149_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_45_54_S_149_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°45′54″S,</span> <span style="white-space:nowrap">149°34′04″E</span></span></a></span></td></tr><tr><td>Towamba</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_42_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_07_54_S_149_42_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°07′54″S,</span> <span style="white-space:nowrap">149°42′04″E</span></span></a></span></td></tr><tr><td>Victoria</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_20_54_S_149_52_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_20_54_S_149_52_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°20′54″S,</span> <span style="white-space:nowrap">149°52′04″E</span></span></a></span></td></tr><tr><td>Waalimma</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_16_54_S_149_32_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_16_54_S_149_32_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°16′54″S,</span> <span style="white-space:nowrap">149°32′04″E</span></span></a></span></td></tr><tr><td>Wallagaraugh</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_19_54_S_149_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_19_54_S_149_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°19′54″S,</span> <span style="white-space:nowrap">149°45′04″E</span></span></a></span></td></tr><tr><td>Wallagoot</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_43_54_S_149_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_43_54_S_149_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°43′54″S,</span> <span style="white-space:nowrap">149°56′04″E</span></span></a></span></td></tr><tr><td>Wolumla</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_48_54_S_149_48_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_48_54_S_149_48_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°48′54″S,</span> <span style="white-space:nowrap">149°48′04″E</span></span></a></span></td></tr><tr><td>Wonboyn</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_12_54_S_149_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_12_54_S_149_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°12′54″S,</span> <span style="white-space:nowrap">149°56′04″E</span></span></a></span></td></tr><tr><td>Yambulla</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_11_54_S_149_34_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=37_11_54_S_149_34_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">37°11′54″S,</span> <span style="white-space:nowrap">149°34′04″E</span></span></a></span></td></tr><tr><td>Yowaka</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_57_54_S_149_50_34_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_57_54_S_149_50_34_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°57′54″S,</span> <span style="white-space:nowrap">149°50′34″E</span></span></a></span></td></tr><tr><td>Yuglamah</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_52_54_S_149_30_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_52_54_S_149_30_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°52′54″S,</span> <span style="white-space:nowrap">149°30′04″E</span></span></a></span></td></tr><tr><td>Yurammie</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_49_54_S_149_40_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_49_54_S_149_40_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°49′54″S,</span> <span style="white-space:nowrap">149°40′04″E</span></span></a></span></td></tr><tr><td>Werri Berri</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_45_S_149_29_60_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_33_45_S_149_29_60_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°33′45″S,</span> <span style="white-space:nowrap">149°29′60″E</span></span></a></span></td></tr><tr><td>Wyndham</td><td><a href="../../../../articles/b/e/g/Bega_Valley_Shire_Council_c696.html" title="Bega Valley Shire Council">Bega Valley Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_54_49_S_149_39_43_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Auckland_County%2C_New_South_Wales&amp;params=36_54_49_S_149_39_43_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">36°54′49″S,</span> <span style="white-space:nowrap">149°39′43″E</span></span></a></span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

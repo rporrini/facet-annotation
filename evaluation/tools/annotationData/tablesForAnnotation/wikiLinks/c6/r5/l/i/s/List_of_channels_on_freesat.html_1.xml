@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/l/i/s/List_of_channels_on_freesat.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 1 3, 0.8333333 1 4, 0.75 1 5, 0.73333335 3, 0.6111111 3 4, 0.55 3 5, 0.375 4 5, 0.33333334 4, 0.3 5, 0.13333334 0, 0.13333334 0 1, 0.12222223 0 3, 0.11111111 0 4, 0.10000001 0 5, 0.058333334 1 2, 0.04277778 2 3, 0.019444445 2 4, 0.0175 2 5, 0.011666667 2, 0.007777778 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_channels_on_freesat.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG No.</th>]]></html>
+	<text>EPG No.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel Name</th>]]></html>
+	<text>Channel Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Owner/parent company</th>]]></html>
+	<text>Owner/parent company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast hours</th>]]></html>
+	<text>Broadcast hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcast format</th>]]></html>
+	<text>Broadcast format</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>200</td>]]></html>
+	<text>200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News</td>]]></html>
+	<text>BBC News</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>201</td>]]></html>
+	<text>201</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC Parliament</td>]]></html>
+	<text>BBC Parliament</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC</td>]]></html>
+	<text>BBC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>202</td>]]></html>
+	<text>202</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>S4C2</td>]]></html>
+	<text>S4C2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>S4C</td>]]></html>
+	<text>S4C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>09:00 - 18:00 Tue - Thurs</td>]]></html>
+	<text>09:00 - 18:00 Tue - Thurs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16:9 SDTV</td>]]></html>
+	<text>16:9 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>203</td>]]></html>
+	<text>203</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Al Jazeera English</td>]]></html>
+	<text>Al Jazeera English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Al Jazeera</td>]]></html>
+	<text>Al Jazeera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>204</td>]]></html>
+	<text>204</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EuroNews</td>]]></html>
+	<text>EuroNews</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SOCEMIE</td>]]></html>
+	<text>SOCEMIE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Hours</td>]]></html>
+	<text>24 Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:3 SDTV</td>]]></html>
+	<text>4:3 SDTV</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of channels on freesat - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG No. Channel Name Notes Owner/parent company Broadcast hours Broadcast format</text>
+</context>
+<context>
+	<score>0.8836722</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.79128206</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.78669983</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.75532645</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Entertainment</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Childrens</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Specialist</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Shopping</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Regional</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7185919</score>
+	<text>[ edit ] Footnotes and references</text>
+</context>
+<context>
+	<score>0.7137042</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423424</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.64705956</score>
+	<text>This is a list of services currently available via the freesat platform</text>
+</context>
+<context>
+	<score>0.6085256</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.60199195</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.562272</score>
+	<text>List of channels on freesat</text>
+</context>
+<context>
+	<score>0.5221723</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.47137612</score>
+	<text>[ edit ] Childrens</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours sortable" border="1" cellpadding="3" style="border-collapse:collapse; font-size: 90%; text-align:center" width="100%"><tr><th>EPG No.</th><th>Channel Name</th><th>Notes</th><th>Owner/parent company</th><th>Broadcast hours</th><th>Broadcast format</th></tr><tr><td>200</td><td><a href="../../../../articles/b/b/c/BBC_News_%28TV_channel%29_3725.html" title="BBC News (TV channel)">BBC News</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>201</td><td><a href="../../../../articles/b/b/c/BBC_Parliament_0961.html" title="BBC Parliament">BBC Parliament</a></td><td></td><td><a href="../../../../articles/b/b/c/BBC_a61d.html" title="BBC">BBC</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>202</td><td><a href="../../../../articles/s/4/c/S4C2_7d98.html" title="S4C2">S4C2</a></td><td></td><td><a href="../../../../articles/s/4/c/S4C_c447.html" title="S4C">S4C</a></td><td>09:00 - 18:00<br /><small>Tue - Thurs</small></td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#16:9_standard" title="Aspect ratio (image)">16:9</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>203</td><td><a href="../../../../articles/a/l/_/Al_Jazeera_English_3f0f.html" title="Al Jazeera English">Al Jazeera English</a></td><td></td><td><a href="../../../../articles/a/l/_/Al_Jazeera_27e8.html" title="Al Jazeera">Al Jazeera</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr><tr><td>204</td><td><a href="../../../../articles/e/u/r/EuroNews_0641.html" title="EuroNews">EuroNews</a></td><td></td><td><a href="../../../../articles/s/o/c/SOCEMIE_c053.html" title="SOCEMIE">SOCEMIE</a></td><td>24 Hours</td><td><a href="../../../../articles/a/s/p/Aspect_ratio_%28image%29.html#4:3_standard" title="Aspect ratio (image)">4:3</a> <a href="../../../../articles/s/t/a/Standard-definition_television.html" title="Standard-definition television">SDTV</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

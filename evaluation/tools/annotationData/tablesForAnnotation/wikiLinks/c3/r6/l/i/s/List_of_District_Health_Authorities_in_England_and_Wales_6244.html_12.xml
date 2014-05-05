@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_District_Health_Authorities_in_England_and_Wales_6244.html_12.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, 0.41666666 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_District_Health_Authorities_in_England_and_Wales_6244.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District Health Authority</th>]]></html>
+	<text>District Health Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area</th>]]></html>
+	<text>Area</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bexley and Greenwich</td>]]></html>
+	<text>Bexley and Greenwich</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater London</td>]]></html>
+	<text>Greater London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bexley , Greenwich</td>]]></html>
+	<text>Bexley , Greenwich</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bromley</td>]]></html>
+	<text>Bromley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater London</td>]]></html>
+	<text>Greater London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(unchanged)</td>]]></html>
+	<text>(unchanged)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Kent</td>]]></html>
+	<text>East Kent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kent</td>]]></html>
+	<text>Kent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashford , Canterbury , Dover , part of Swale (Faversham area), Shepway , Thanet</td>]]></html>
+	<text>Ashford , Canterbury , Dover , part of Swale (Faversham area), Shepway , Thanet</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Sussex</td>]]></html>
+	<text>East Sussex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Sussex</td>]]></html>
+	<text>East Sussex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Entire County</td>]]></html>
+	<text>Entire County</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South East London</td>]]></html>
+	<text>South East London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater London</td>]]></html>
+	<text>Greater London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London Boroughs of Lambeth , Lewisham and Southwark</td>]]></html>
+	<text>London Boroughs of Lambeth , Lewisham and Southwark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Kent</td>]]></html>
+	<text>West Kent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kent</td>]]></html>
+	<text>Kent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dartford , Gillingham , Gravesham , Maidstone , Rochester-upon-Medway , Sevenoaks , part of Tonbridge and Malling (Malling area) part of Swale (Queenborough and Sittingbourne areas), Tunbridge Wells</td>]]></html>
+	<text>Dartford , Gillingham , Gravesham , Maidstone , Rochester-upon-Medway , Sevenoaks , part of Tonbridge and Malling (Malling area) part of Swale (Queenborough and Sittingbourne areas), Tunbridge Wells</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of District Health Authorities in England and Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Health Authority County Area</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Reorganisation in 1993 and 1994 led to a reduction in the number of districts to eight:</text>
+</context>
+<context>
+	<score>0.7890332</score>
+	<text>List of District Health Authorities in England and Wales</text>
+</context>
+<context>
+	<score>0.78378594</score>
+	<text>[ edit ] 1993 - 1996</text>
+</context>
+<context>
+	<score>0.75241333</score>
+	<text>[ edit ] Authorities in South West Thames Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Northern Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Yorkshire Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Trent Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in East Anglia Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in North West Thames Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities In North East Thames Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in South East Thames Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in South West Thames Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Wessex Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Oxford Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in South Western Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in West Midlands Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Mersey Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in North Western Region</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Authorities in Wales</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7134251</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.71145743</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Fifteen district health authorities were formed in the South East Thames Region in 1982, replacing five Area Health Authorities:</text>
+</context>
+<context>
+	<score>0.6441495</score>
+	<text>[ edit ] District Authorities created 1982</text>
+</context>
+<context>
+	<score>0.6056166</score>
+	<text>[ edit ] District Authorities created 1982</text>
+</context>
+<context>
+	<score>0.5945011</score>
+	<text>[ edit ] Authorities in South East Thames Region</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Reorganisation in 1990 and 1993 led to a reduction in the number of districts to seven:</text>
+</context>
+<context>
+	<score>0.5230073</score>
+	<text>[ edit ] 1993 - 1996</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Thirteen district health authorities were formed in the South West Thames Region in 1982, replacing five Area Health Authorities:</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Bloomsbury and Islington District was created in 1990. It consisted of the London Borough of Islington and 11 wards from the London Borough of Camden. It became part of Camden and Islington District in 1993.</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Fourteen district health authorities were formed in the North East Thames Region in 1982, replacing seven Area Health Authorities:</text>
+</context>
+<context>
+	<score>0.468471</score>
+	<text>[ edit ] 1993 - 1996</text>
+</context>
+<context>
+	<score>0.46098235</score>
+	<text>[ edit ] District Authorities created 1982</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>District Health Authority</th><th>County</th><th>Area</th></tr><tr><td>Bexley and Greenwich</td><td><a href="../../../../articles/g/r/e/Greater_London_d0dd.html" title="Greater London">Greater London</a></td><td><a href="../../../../articles/l/o/n/London_Borough_of_Bexley_e3d6.html" title="London Borough of Bexley">Bexley</a>, <a href="../../../../articles/l/o/n/London_Borough_of_Greenwich_f079.html" title="London Borough of Greenwich">Greenwich</a></td></tr><tr><td>Bromley</td><td><a href="../../../../articles/g/r/e/Greater_London_d0dd.html" title="Greater London">Greater London</a></td><td>(unchanged)</td></tr><tr><td>East Kent</td><td><a href="../../../../articles/k/e/n/Kent.html" title="Kent">Kent</a></td><td><a href="../../../../articles/a/s/h/Ashford%2C_Kent_8ab9.html" title="Ashford, Kent">Ashford</a>, <a href="../../../../articles/c/a/n/Canterbury.html" title="Canterbury">Canterbury</a>, <a href="../../../../articles/d/o/v/Dover.html" title="Dover">Dover</a>, part of <a href="../../../../articles/s/w/a/Swale.html" title="Swale">Swale</a> (Faversham area), <a href="../../../../articles/s/h/e/Shepway.html" title="Shepway">Shepway</a>, <a href="../../../../articles/t/h/a/Thanet.html" title="Thanet">Thanet</a></td></tr><tr><td><a href="../../../../articles/e/a/s/East_Sussex_9ac8.html" title="East Sussex">East Sussex</a></td><td><a href="../../../../articles/e/a/s/East_Sussex_9ac8.html" title="East Sussex">East Sussex</a></td><td>Entire County</td></tr><tr><td>South East London</td><td><a href="../../../../articles/g/r/e/Greater_London_d0dd.html" title="Greater London">Greater London</a></td><td>London Boroughs of <a href="../../../../articles/l/o/n/London_Borough_of_Lambeth_f435.html" title="London Borough of Lambeth">Lambeth</a>, <a href="../../../../articles/l/o/n/London_Borough_of_Lewisham_769b.html" title="London Borough of Lewisham">Lewisham</a> and <a href="../../../../articles/l/o/n/London_Borough_of_Southwark_9d8c.html" title="London Borough of Southwark">Southwark</a></td></tr><tr><td>West Kent</td><td><a href="../../../../articles/k/e/n/Kent.html" title="Kent">Kent</a></td><td><a href="../../../../articles/d/a/r/Dartford.html" title="Dartford">Dartford</a>,<a href="../../../../articles/g/i/l/Gillingham%2C_Medway_e61e.html" class="mw-redirect" title="Gillingham, Medway">Gillingham</a>, <a href="../../../../articles/g/r/a/Gravesham.html" title="Gravesham">Gravesham</a>, <a href="../../../../articles/m/a/i/Maidstone.html" title="Maidstone">Maidstone</a>,<a href="../../../../articles/r/o/c/Rochester-upon-Medway_e116.html" class="mw-redirect" title="Rochester-upon-Medway">Rochester-upon-Medway</a>, <a href="../../../../articles/s/e/v/Sevenoaks.html" title="Sevenoaks">Sevenoaks</a>, part of <a href="../../../../articles/t/o/n/Tonbridge_and_Malling_85de.html" title="Tonbridge and Malling">Tonbridge and Malling</a> (Malling area) part of <a href="../../../../articles/s/w/a/Swale.html" title="Swale">Swale</a> (Queenborough and Sittingbourne areas), <a href="../../../../articles/r/o/y/Royal_Tunbridge_Wells_f353.html" title="Royal Tunbridge Wells">Tunbridge Wells</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r12/s/a/l/Salyut_7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 0 3, 0.79591835 1 3, 0.78571427 0 5, 0.7295918 1 5, 0.71428573 3, 0.67346936 3 5, 0.65476185 5, 0.14285715 0 2, 0.13265306 1 2, 0.12857144 0 4, 0.119387746 1 4, 0.11904762 2, 0.11428572 0 6, 0.112244904 2 5, 0.11020408 3 4, 0.10714286 4, 0.10612245 1 6, 0.10476191 6, 0.10204082 2 3, 0.09795919 3 6, 0.089795925 5 6, 0.08418367 4 5, 0.018367348 2 4, 0.016326532 2 6, 0.014693879 4 6, " />
+<meta name="parentHTMLDoc" value="en/articles/s/a/l/Salyut_7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Expedition</th>]]></html>
+	<text>Expedition</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Crew</th>]]></html>
+	<text>Crew</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launch Date</th>]]></html>
+	<text>Launch Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Flight Up</th>]]></html>
+	<text>Flight Up</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Landing Date</th>]]></html>
+	<text>Landing Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Flight Down</th>]]></html>
+	<text>Flight Down</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Duration (Days)</th>]]></html>
+	<text>Duration (Days)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-1</td>]]></html>
+	<text>Salyut 7 - EO-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anatoli Berezovoy , Valentin Lebedev</td>]]></html>
+	<text>Anatoli Berezovoy , Valentin Lebedev</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 13 , 1982 09:58:05 UTC</td>]]></html>
+	<text>May 13 , 1982 09:58:05 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-5</td>]]></html>
+	<text>Soyuz T-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 10 , 1982 19:02:36 UTC</td>]]></html>
+	<text>December 10 , 1982 19:02:36 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-7</td>]]></html>
+	<text>Soyuz T-7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>211.38</td>]]></html>
+	<text>211.38</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EP-1</td>]]></html>
+	<text>Salyut 7 - EP-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vladimir Dzhanibekov , Aleksandr Ivanchenkov , Jean-Loup Chrétien - France</td>]]></html>
+	<text>Vladimir Dzhanibekov , Aleksandr Ivanchenkov , Jean-Loup Chr&#233;tien - France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 24 , 1982 16:29:48 UTC</td>]]></html>
+	<text>June 24 , 1982 16:29:48 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-6</td>]]></html>
+	<text>Soyuz T-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 2 , 1982 14:20:40 UTC</td>]]></html>
+	<text>July 2 , 1982 14:20:40 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-6</td>]]></html>
+	<text>Soyuz T-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.91</td>]]></html>
+	<text>7.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EP-2</td>]]></html>
+	<text>Salyut 7 - EP-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leonid Popov , Aleksandr Serebrov , Svetlana Savitskaya</td>]]></html>
+	<text>Leonid Popov , Aleksandr Serebrov , Svetlana Savitskaya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 19 , 1982 17:11:52 UTC</td>]]></html>
+	<text>August 19 , 1982 17:11:52 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-7</td>]]></html>
+	<text>Soyuz T-7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 27 , 1982 15:04:16 UTC</td>]]></html>
+	<text>August 27 , 1982 15:04:16 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-5</td>]]></html>
+	<text>Soyuz T-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.91</td>]]></html>
+	<text>7.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-2</td>]]></html>
+	<text>Salyut 7 - EO-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vladimir Lyakhov , Aleksandr Pavlovich Aleksandrov</td>]]></html>
+	<text>Vladimir Lyakhov , Aleksandr Pavlovich Aleksandrov</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 27 , 1983 09:12:00 UTC</td>]]></html>
+	<text>June 27 , 1983 09:12:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-9</td>]]></html>
+	<text>Soyuz T-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 23 , 1983 19:58:00 UTC</td>]]></html>
+	<text>November 23 , 1983 19:58:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-9</td>]]></html>
+	<text>Soyuz T-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>149.45</td>]]></html>
+	<text>149.45</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-3</td>]]></html>
+	<text>Salyut 7 - EO-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leonid Kizim , Vladimir Solovyov , Oleg Atkov</td>]]></html>
+	<text>Leonid Kizim , Vladimir Solovyov , Oleg Atkov</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 8 , 1984 12:07:26 UTC</td>]]></html>
+	<text>February 8 , 1984 12:07:26 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-10</td>]]></html>
+	<text>Soyuz T-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 2 , 1984 10:57:00 UTC</td>]]></html>
+	<text>October 2 , 1984 10:57:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-11</td>]]></html>
+	<text>Soyuz T-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>236.95</td>]]></html>
+	<text>236.95</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EP-3</td>]]></html>
+	<text>Salyut 7 - EP-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yuri Malyshev , Gennady Strekalov , Rakesh Sharma - India</td>]]></html>
+	<text>Yuri Malyshev , Gennady Strekalov , Rakesh Sharma - India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 3 , 1984 13:08:00 UTC</td>]]></html>
+	<text>April 3 , 1984 13:08:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-11</td>]]></html>
+	<text>Soyuz T-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>April 11 , 1984 10:48:48 UTC</td>]]></html>
+	<text>April 11 , 1984 10:48:48 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-10</td>]]></html>
+	<text>Soyuz T-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.90</td>]]></html>
+	<text>7.90</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EP-4</td>]]></html>
+	<text>Salyut 7 - EP-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vladimir Dzhanibekov , Svetlana Savitskaya , Igor Volk</td>]]></html>
+	<text>Vladimir Dzhanibekov , Svetlana Savitskaya , Igor Volk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 17 , 1984 17:40:54 UTC</td>]]></html>
+	<text>July 17 , 1984 17:40:54 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-12</td>]]></html>
+	<text>Soyuz T-12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 29 , 1984 12:55:30 UTC</td>]]></html>
+	<text>July 29 , 1984 12:55:30 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-12</td>]]></html>
+	<text>Soyuz T-12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.80</td>]]></html>
+	<text>11.80</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-4-1a</td>]]></html>
+	<text>Salyut 7 - EO-4-1a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viktor Savinykh</td>]]></html>
+	<text>Viktor Savinykh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 6 , 1985 06:39:52 UTC</td>]]></html>
+	<text>June 6 , 1985 06:39:52 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-13</td>]]></html>
+	<text>Soyuz T-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 21 , 1985 10:31:00 UTC</td>]]></html>
+	<text>November 21 , 1985 10:31:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-14</td>]]></html>
+	<text>Soyuz T-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168.16</td>]]></html>
+	<text>168.16</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-4-1b</td>]]></html>
+	<text>Salyut 7 - EO-4-1b</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vladimir Dzhanibekov</td>]]></html>
+	<text>Vladimir Dzhanibekov</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 6 , 1985 06:39:52 UTC</td>]]></html>
+	<text>June 6 , 1985 06:39:52 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-13</td>]]></html>
+	<text>Soyuz T-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 26 , 1985 09:51:58 UTC</td>]]></html>
+	<text>September 26 , 1985 09:51:58 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-13</td>]]></html>
+	<text>Soyuz T-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112.13</td>]]></html>
+	<text>112.13</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EP-5</td>]]></html>
+	<text>Salyut 7 - EP-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Georgi Grechko</td>]]></html>
+	<text>Georgi Grechko</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 17 , 1985 12:38:52 UTC</td>]]></html>
+	<text>September 17 , 1985 12:38:52 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-14</td>]]></html>
+	<text>Soyuz T-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 26 , 1985 09:51:58 UTC</td>]]></html>
+	<text>September 26 , 1985 09:51:58 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-13</td>]]></html>
+	<text>Soyuz T-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.88</td>]]></html>
+	<text>8.88</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-4-2</td>]]></html>
+	<text>Salyut 7 - EO-4-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vladimir Vasyutin , Alexander Volkov</td>]]></html>
+	<text>Vladimir Vasyutin , Alexander Volkov</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 17 , 1985 12:38:52 UTC</td>]]></html>
+	<text>September 17 , 1985 12:38:52 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-14</td>]]></html>
+	<text>Soyuz T-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 21 , 1985 10:31:00 UTC</td>]]></html>
+	<text>November 21 , 1985 10:31:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-14</td>]]></html>
+	<text>Soyuz T-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64.91</td>]]></html>
+	<text>64.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salyut 7 - EO-5</td>]]></html>
+	<text>Salyut 7 - EO-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leonid Kizim , Vladimir Solovyov</td>]]></html>
+	<text>Leonid Kizim , Vladimir Solovyov</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 13 , 1986 12:33:09 UTC</td>]]></html>
+	<text>March 13 , 1986 12:33:09 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-15</td>]]></html>
+	<text>Soyuz T-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 16 , 1986 12:34:05 UTC</td>]]></html>
+	<text>July 16 , 1986 12:34:05 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soyuz T-15</td>]]></html>
+	<text>Soyuz T-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125.00 50 on S7</td>]]></html>
+	<text>125.00 50 on S7</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Salyut 7 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Expedition Crew Launch Date Flight Up Landing Date Flight Down Duration (Days)</text>
+</context>
+<context>
+	<score>0.8824834</score>
+	<text>[ edit ] Salyut 7 expeditions</text>
+</context>
+<context>
+	<score>0.79696965</score>
+	<text>Salyut 7</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>There were also four visiting missions, crews which came to bring supplies and make shorter duration visits with the resident crews.</text>
+</context>
+<context>
+	<score>0.7541411</score>
+	<text>[ edit ] Salyut 7 spacewalks</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] Description</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] Crews and missions</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] Specifications</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] Visiting spacecraft and crews</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72308946</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71939397</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Salyut 7 had six resident crews.</text>
+</context>
+<context>
+	<score>0.6458773</score>
+	<text>Following up the use of Cosmos 1267 on Salyut 6, the Soviets launched Cosmos 1443 on March 2 , 1983 , from a Proton SL-13. It docked with the station on March 10 , and was used by the crew of Soyuz T-9 . It jettisoned its recovery module on August 23, and re-entered the atmosphere on September 19 . Cosmos 1686 was launched on September 27 , 1985 , docking with the station on October 2 . It did not carry a recovery vehicle, and remained connected to the station for use by the crew of Soyuz T-14 . Ten Soyuz T crews operated in Salyut 7. Only two InterCosmos &quot;guest cosmonauts&quot; worked in Salyut 7. The first attempt to launch Soyuz T-10 was aborted on the launch pad when a fire broke out at the base of the vehicle. The payload was ejected, and the crew was recovered safely.</text>
+</context>
+<context>
+	<score>0.60734445</score>
+	<text>[ edit ] Specifications</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Salyut 7 with docked spacecraft</text>
+</context>
+<context>
+	<score>0.55651003</score>
+	<text>[ edit ] Crews and missions</text>
+</context>
+<context>
+	<score>0.524735</score>
+	<text>It had two docking ports, one on either end of the station, to allow docking with the Progress unmanned resupply craft, and a wider front docking port to allow safer docking with a Heavy Cosmos module. It carried three solar panels , two in lateral and one in dorsal longitudinal positions, but they now had the ability to mount secondary panels on their sides. Internally, the Salyut 7 carried electric stoves, a refrigerator, constant hot water and redesigned seats at the command console (more like bicycle seats). Two portholes were designed to allow ultraviolet light in, to help kill infections. Further, the medical, biological and exercise sections were improved, to allow long stays in the station. The BST-1M telescope used in Salyut 6 was replaced by an X-ray detection system.</text>
+</context>
+<context>
+	<score>0.5209935</score>
+	<text>[ edit ] Visiting spacecraft and crews</text>
+</context>
+<context>
+	<score>0.499315</score>
+	<text>Salyut 7 was the back-up vehicle for Salyut 6 and very similar in equipment and capabilities. With delays to the Mir programme it was decided to launch the back-up vehicle as Salyut 7. In orbit the station suffered a number of technical failures though it benefited from the improved payload capacity of the visiting Progress and Soyuz craft and the experience of its crews who improvised many solutions (such as a fuel line rupture in September 1983 requiring EVAs by the Soyuz T-10 to repair). It was aloft for eight years and two months (a record not broken until Mir), during which time it was visited by 10 crews constituting 6 main expeditions and 4 secondary flights (including French and Indian cosmonauts). Also saw two flights of Svetlana Savitskaya making her the second woman in space since 1963 and the first to perform an EVA . Aside from the many experiments and observations made on Salyut 7, the station also tested the docking and use of large modules with an orbiting space station. The modules were called &quot;Heavy Cosmos modules&quot; though in reality were variants of the TKS spacecraft intended for the cancelled Almaz military space station. They helped engineers develop technology necessary to build Mir . Salyut 7 deorbited on February 7 , 1991 .</text>
+</context>
+<context>
+	<score>0.47897896</score>
+	<text>Soyuz T-13 approaches the &apos;dead&apos; Salyut 7.</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>(Launched crews. Spacecraft launch and landing dates listed.)</text>
+</context>
+<context>
+	<score>0.46271014</score>
+	<text>[ edit ] Description</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#EFEFEF" valign="top"><th style="text-align:left" width="100">Expedition</th><th style="text-align:left" width="350">Crew</th><th style="text-align:left" width="175">Launch Date</th><th style="text-align:left" width="125">Flight Up</th><th style="text-align:left" width="175">Landing Date</th><th style="text-align:left" width="125">Flight Down</th><th style="text-align:left" width="50">Duration (Days)</th></tr><tr><td><i><b>Salyut 7 - EO-1</b></i></td><td><a href="../../../../articles/a/n/a/Anatoli_Berezovoy_c97c.html" class="mw-redirect" title="Anatoli Berezovoy">Anatoli Berezovoy</a>,<br /><a href="../../../../articles/v/a/l/Valentin_Lebedev_6cc8.html" title="Valentin Lebedev">Valentin Lebedev</a></td><td><a href="../../../../articles/m/a/y/May_13.html" title="May 13">May 13</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />09:58:05 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-5_e3a9.html" title="Soyuz T-5">Soyuz T-5</a></td><td><a href="../../../../articles/d/e/c/December_10.html" title="December 10">December 10</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />19:02:36 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-7_1817.html" title="Soyuz T-7">Soyuz T-7</a></td><td align="right">211.38</td></tr><tr><td><i><b>Salyut 7 - EP-1</b></i></td><td><a href="../../../../articles/v/l/a/Vladimir_Dzhanibekov_cf82.html" title="Vladimir Dzhanibekov">Vladimir Dzhanibekov</a>,<br /><a href="../../../../articles/a/l/e/Aleksandr_Ivanchenkov_8264.html" title="Aleksandr Ivanchenkov">Aleksandr Ivanchenkov</a>,<br /><a href="../../../../articles/j/e/a/Jean-Loup_Chr%C3%A9tien_55fc.html" title="Jean-Loup Chrétien">Jean-Loup Chrétien</a> - <a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td><a href="../../../../articles/j/u/n/June_24.html" title="June 24">June 24</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />16:29:48 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-6_7ab8.html" title="Soyuz T-6">Soyuz T-6</a></td><td><a href="../../../../articles/j/u/l/July_2.html" title="July 2">July 2</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />14:20:40 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-6_7ab8.html" title="Soyuz T-6">Soyuz T-6</a></td><td align="right">7.91</td></tr><tr><td><i><b>Salyut 7 - EP-2</b></i></td><td><a href="../../../../articles/l/e/o/Leonid_Popov_7295.html" title="Leonid Popov">Leonid Popov</a>,<br /><a href="../../../../articles/a/l/e/Aleksandr_Serebrov_6fe4.html" title="Aleksandr Serebrov">Aleksandr Serebrov</a>,<br /><a href="../../../../articles/s/v/e/Svetlana_Savitskaya_ade9.html" title="Svetlana Savitskaya">Svetlana Savitskaya</a></td><td><a href="../../../../articles/a/u/g/August_19.html" title="August 19">August 19</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />17:11:52 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-7_1817.html" title="Soyuz T-7">Soyuz T-7</a></td><td><a href="../../../../articles/a/u/g/August_27.html" title="August 27">August 27</a>, <a href="../../../../articles/1/9/8/1982.html" title="1982">1982</a><br />15:04:16 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-5_e3a9.html" title="Soyuz T-5">Soyuz T-5</a></td><td align="right">7.91</td></tr><tr><td><i><b>Salyut 7 - EO-2</b></i></td><td><a href="../../../../articles/v/l/a/Vladimir_Lyakhov_8d2f.html" title="Vladimir Lyakhov">Vladimir Lyakhov</a>,<br /><a href="../../../../articles/a/l/e/Aleksandr_Pavlovich_Aleksandrov_2035.html" title="Aleksandr Pavlovich Aleksandrov">Aleksandr Pavlovich Aleksandrov</a></td><td><a href="../../../../articles/j/u/n/June_27.html" title="June 27">June 27</a>, <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a><br />09:12:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-9_8a9c.html" title="Soyuz T-9">Soyuz T-9</a></td><td><a href="../../../../articles/n/o/v/November_23.html" title="November 23">November 23</a>, <a href="../../../../articles/1/9/8/1983.html" title="1983">1983</a><br />19:58:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-9_8a9c.html" title="Soyuz T-9">Soyuz T-9</a></td><td align="right">149.45</td></tr><tr><td><i><b>Salyut 7 - EO-3</b></i></td><td><a href="../../../../articles/l/e/o/Leonid_Kizim_6f6f.html" title="Leonid Kizim">Leonid Kizim</a>,<br /><a href="../../../../articles/v/l/a/Vladimir_Alekseyevich_Solovyov_4546.html" title="Vladimir Alekseyevich Solovyov">Vladimir Solovyov</a>,<br /><a href="../../../../articles/o/l/e/Oleg_Atkov_8e21.html" title="Oleg Atkov">Oleg Atkov</a></td><td><a href="../../../../articles/f/e/b/February_8.html" title="February 8">February 8</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />12:07:26 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-10_b4c2.html" title="Soyuz T-10">Soyuz T-10</a></td><td><a href="../../../../articles/o/c/t/October_2.html" title="October 2">October 2</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />10:57:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-11_e719.html" title="Soyuz T-11">Soyuz T-11</a></td><td align="right">236.95</td></tr><tr><td><i><b>Salyut 7 - EP-3</b></i></td><td><a href="../../../../articles/y/u/r/Yuri_Malyshev_c9fb.html" title="Yuri Malyshev">Yuri Malyshev</a>,<br /><a href="../../../../articles/g/e/n/Gennady_Strekalov_c566.html" title="Gennady Strekalov">Gennady Strekalov</a>,<br /><a href="../../../../articles/r/a/k/Rakesh_Sharma_686b.html" title="Rakesh Sharma">Rakesh Sharma</a> - <a href="../../../../articles/i/n/d/India.html" title="India">India</a></td><td><a href="../../../../articles/a/p/r/April_3.html" title="April 3">April 3</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />13:08:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-11_e719.html" title="Soyuz T-11">Soyuz T-11</a></td><td><a href="../../../../articles/a/p/r/April_11.html" title="April 11">April 11</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />10:48:48 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-10_b4c2.html" title="Soyuz T-10">Soyuz T-10</a></td><td align="right">7.90</td></tr><tr><td><i><b>Salyut 7 - EP-4</b></i></td><td><a href="../../../../articles/v/l/a/Vladimir_Dzhanibekov_cf82.html" title="Vladimir Dzhanibekov">Vladimir Dzhanibekov</a>,<br /><a href="../../../../articles/s/v/e/Svetlana_Savitskaya_ade9.html" title="Svetlana Savitskaya">Svetlana Savitskaya</a>,<br /><a href="../../../../articles/i/g/o/Igor_Volk_3069.html" title="Igor Volk">Igor Volk</a></td><td><a href="../../../../articles/j/u/l/July_17.html" title="July 17">July 17</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />17:40:54 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-12_e8df.html" title="Soyuz T-12">Soyuz T-12</a></td><td><a href="../../../../articles/j/u/l/July_29.html" title="July 29">July 29</a>, <a href="../../../../articles/1/9/8/1984.html" title="1984">1984</a><br />12:55:30 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-12_e8df.html" title="Soyuz T-12">Soyuz T-12</a></td><td align="right">11.80</td></tr><tr><td><i><b>Salyut 7 - EO-4-1a</b></i></td><td><a href="../../../../articles/v/i/k/Viktor_Savinykh_55c6.html" title="Viktor Savinykh">Viktor Savinykh</a></td><td><a href="../../../../articles/j/u/n/June_6.html" title="June 6">June 6</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />06:39:52 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-13_f350.html" title="Soyuz T-13">Soyuz T-13</a></td><td><a href="../../../../articles/n/o/v/November_21.html" title="November 21">November 21</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />10:31:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-14_2e85.html" title="Soyuz T-14">Soyuz T-14</a></td><td align="right">168.16</td></tr><tr><td><i><b>Salyut 7 - EO-4-1b</b></i></td><td><a href="../../../../articles/v/l/a/Vladimir_Dzhanibekov_cf82.html" title="Vladimir Dzhanibekov">Vladimir Dzhanibekov</a></td><td><a href="../../../../articles/j/u/n/June_6.html" title="June 6">June 6</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />06:39:52 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-13_f350.html" title="Soyuz T-13">Soyuz T-13</a></td><td><a href="../../../../articles/s/e/p/September_26.html" title="September 26">September 26</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />09:51:58 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-13_f350.html" title="Soyuz T-13">Soyuz T-13</a></td><td align="right">112.13</td></tr><tr><td><i><b>Salyut 7 - EP-5</b></i></td><td><a href="../../../../articles/g/e/o/Georgi_Grechko_acde.html" title="Georgi Grechko">Georgi Grechko</a></td><td><a href="../../../../articles/s/e/p/September_17.html" title="September 17">September 17</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />12:38:52 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-14_2e85.html" title="Soyuz T-14">Soyuz T-14</a></td><td><a href="../../../../articles/s/e/p/September_26.html" title="September 26">September 26</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />09:51:58 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-13_f350.html" title="Soyuz T-13">Soyuz T-13</a></td><td align="right">8.88</td></tr><tr><td><i><b>Salyut 7 - EO-4-2</b></i></td><td><a href="../../../../articles/v/l/a/Vladimir_Vasyutin_73a7.html" title="Vladimir Vasyutin">Vladimir Vasyutin</a>,<br /><a href="../../../../articles/a/l/e/Alexander_Alexandrovich_Volkov_%28cosmonaut%29_17e3.html" title="Alexander Alexandrovich Volkov (cosmonaut)">Alexander Volkov</a></td><td><a href="../../../../articles/s/e/p/September_17.html" title="September 17">September 17</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />12:38:52 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-14_2e85.html" title="Soyuz T-14">Soyuz T-14</a></td><td><a href="../../../../articles/n/o/v/November_21.html" title="November 21">November 21</a>, <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a><br />10:31:00 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-14_2e85.html" title="Soyuz T-14">Soyuz T-14</a></td><td align="right">64.91</td></tr><tr><td><i><b>Salyut 7 - EO-5</b></i></td><td><a href="../../../../articles/l/e/o/Leonid_Kizim_6f6f.html" title="Leonid Kizim">Leonid Kizim</a>,<br /><a href="../../../../articles/v/l/a/Vladimir_Alekseyevich_Solovyov_4546.html" title="Vladimir Alekseyevich Solovyov">Vladimir Solovyov</a></td><td><a href="../../../../articles/m/a/r/March_13.html" title="March 13">March 13</a>, <a href="../../../../articles/1/9/8/1986.html" title="1986">1986</a><br />12:33:09 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-15_de49.html" title="Soyuz T-15">Soyuz T-15</a></td><td><a href="../../../../articles/j/u/l/July_16.html" title="July 16">July 16</a>, <a href="../../../../articles/1/9/8/1986.html" title="1986">1986</a><br />12:34:05 UTC</td><td><a href="../../../../articles/s/o/y/Soyuz_T-15_de49.html" title="Soyuz T-15">Soyuz T-15</a></td><td align="right">125.00<br />50 on S7</td></tr></table>]]>
+</htmlSnippet>
+</entity>

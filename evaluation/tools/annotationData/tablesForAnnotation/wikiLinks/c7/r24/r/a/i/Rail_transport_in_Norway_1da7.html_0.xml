@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r24/r/a/i/Rail_transport_in_Norway_1da7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 1, 0.8898809 1, 0.85714287 0 4, 0.79591835 1 4, 0.78571427 0 5, 0.71428573 0 6, 0.6991921 1 5, 0.6632653 1 6, 0.48469388 4 6, 0.4464286 6, 0.397534 5 6, 0.2857143 4, 0.25255102 4 5, 0.12857144 0 2, 0.119387746 1 2, 0.11428572 0 3, 0.10952382 3, 0.10612245 1 3, 0.10178572 2, 0.09795919 3 4, 0.09642857 2 4, 0.09183674 2 6, 0.08605443 3 5, 0.08418367 2 5, 0.08163266 3 6, 0.065476194 5, 0.014693879 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/r/a/i/Rail_transport_in_Norway_1da7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Line</th>]]></html>
+	<text>Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Termini</th>]]></html>
+	<text>Termini</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opened</th>]]></html>
+	<text>Opened</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length</th>]]></html>
+	<text>Length</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Double track</th>]]></html>
+	<text>Double track</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Electrified</th>]]></html>
+	<text>Electrified</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comment</th>]]></html>
+	<text>Comment</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hovedbanen</td>]]></html>
+	<text>Hovedbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo S - Eidsvoll</td>]]></html>
+	<text>Oslo S - Eidsvoll</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1854</td>]]></html>
+	<text>1854</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68 km</td>]]></html>
+	<text>68 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21 km</td>]]></html>
+	<text>21 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kongsvingerbanen</td>]]></html>
+	<text>Kongsvingerbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lillestrøm - Charlottenberg</td>]]></html>
+	<text>Lillestr&#248;m - Charlottenberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1862</td>]]></html>
+	<text>1862</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115 km</td>]]></html>
+	<text>115 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Randsfjordbanen</td>]]></html>
+	<text>Randsfjordbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hokksund - Hønefoss Station</td>]]></html>
+	<text>Hokksund - H&#248;nefoss Station</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1868</td>]]></html>
+	<text>1868</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>73 km</td>]]></html>
+	<text>73 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reclassified from Drammen-Hønefoss</td>]]></html>
+	<text>Reclassified from Drammen-H&#248;nefoss</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Drammenbanen</td>]]></html>
+	<text>Drammenbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo S - Drammen Station</td>]]></html>
+	<text>Oslo S - Drammen Station</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1872</td>]]></html>
+	<text>1872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 km</td>]]></html>
+	<text>42 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 km</td>]]></html>
+	<text>42 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spikkestadbanen</td>]]></html>
+	<text>Spikkestadbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asker - Spikkestad</td>]]></html>
+	<text>Asker - Spikkestad</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1872</td>]]></html>
+	<text>1872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 km</td>]]></html>
+	<text>14 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>originally part of Drammenbanen</td>]]></html>
+	<text>originally part of Drammenbanen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rørosbanen</td>]]></html>
+	<text>R&#248;rosbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamar - Røros - Trondheim S</td>]]></html>
+	<text>Hamar - R&#248;ros - Trondheim S</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1877</td>]]></html>
+	<text>1877</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>383 km</td>]]></html>
+	<text>383 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0km</td>]]></html>
+	<text>0km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Østfoldbanen</td>]]></html>
+	<text>&#216;stfoldbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo S - Kornsjø</td>]]></html>
+	<text>Oslo S - Kornsj&#248;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1879</td>]]></html>
+	<text>1879</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170 km</td>]]></html>
+	<text>170 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>63 km</td>]]></html>
+	<text>63 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>continues as Väneren/Norgebanan in Sweden</td>]]></html>
+	<text>continues as V&#228;neren/Norgebanan in Sweden</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Østfoldbanen eastern line</td>]]></html>
+	<text>&#216;stfoldbanen eastern line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ski - Sarpsborg</td>]]></html>
+	<text>Ski - Sarpsborg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1882</td>]]></html>
+	<text>1882</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80 km</td>]]></html>
+	<text>80 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>freight only Rakkestad-Sarpsborg</td>]]></html>
+	<text>freight only Rakkestad-Sarpsborg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vestfoldbanen</td>]]></html>
+	<text>Vestfoldbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drammen - Skien )</td>]]></html>
+	<text>Drammen - Skien )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1882</td>]]></html>
+	<text>1882</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>148 km</td>]]></html>
+	<text>148 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 km</td>]]></html>
+	<text>17 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Meråkerbanen</td>]]></html>
+	<text>Mer&#229;kerbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hell - Storlien</td>]]></html>
+	<text>Hell - Storlien</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1882</td>]]></html>
+	<text>1882</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71 km</td>]]></html>
+	<text>71 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>reclassified from Trondheim-Storlien, continues as Mittbanan in Sweden</td>]]></html>
+	<text>reclassified from Trondheim-Storlien, continues as Mittbanan in Sweden</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gjøvikbanen</td>]]></html>
+	<text>Gj&#248;vikbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo S - Gjøvik</td>]]></html>
+	<text>Oslo S - Gj&#248;vik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1900</td>]]></html>
+	<text>1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>124 km</td>]]></html>
+	<text>124 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 km</td>]]></html>
+	<text>3 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ofotbanen</td>]]></html>
+	<text>Ofotbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narvik Station -Riksgränsen</td>]]></html>
+	<text>Narvik Station -Riksgr&#228;nsen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1902</td>]]></html>
+	<text>1902</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 km</td>]]></html>
+	<text>42 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>continues as Malmbanan in Sweden</td>]]></html>
+	<text>continues as Malmbanan in Sweden</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bergensbanen</td>]]></html>
+	<text>Bergensbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hønefoss - Bergen</td>]]></html>
+	<text>H&#248;nefoss - Bergen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1909</td>]]></html>
+	<text>1909</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>372 km</td>]]></html>
+	<text>372 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Completed to Voss in 1883</td>]]></html>
+	<text>Completed to Voss in 1883</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Roa-Hønefossbanen</td>]]></html>
+	<text>Roa-H&#248;nefossbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roa - Hønefoss</td>]]></html>
+	<text>Roa - H&#248;nefoss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1909</td>]]></html>
+	<text>1909</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32 km</td>]]></html>
+	<text>32 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>freight only</td>]]></html>
+	<text>freight only</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arendalsbanen</td>]]></html>
+	<text>Arendalsbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nelaug - Arendal</td>]]></html>
+	<text>Nelaug - Arendal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1910</td>]]></html>
+	<text>1910</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37 km</td>]]></html>
+	<text>37 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>built as part of Sørlandsbanen</td>]]></html>
+	<text>built as part of S&#248;rlandsbanen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Solørbanen</td>]]></html>
+	<text>Sol&#248;rbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kongsvinger - Elverum</td>]]></html>
+	<text>Kongsvinger - Elverum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1913</td>]]></html>
+	<text>1913</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94 km</td>]]></html>
+	<text>94 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>freight only</td>]]></html>
+	<text>freight only</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bratsbergbanen</td>]]></html>
+	<text>Bratsbergbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Skien - Notodden</td>]]></html>
+	<text>Skien - Notodden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1917</td>]]></html>
+	<text>1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44 km</td>]]></html>
+	<text>44 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shares some line with Sørlandsbanen</td>]]></html>
+	<text>Shares some line with S&#248;rlandsbanen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dovrebanen</td>]]></html>
+	<text>Dovrebanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eidsvoll - Trondheim S</td>]]></html>
+	<text>Eidsvoll - Trondheim S</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1921</td>]]></html>
+	<text>1921</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>485 km</td>]]></html>
+	<text>485 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Raumabanen</td>]]></html>
+	<text>Raumabanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dombås - Åndalsnes</td>]]></html>
+	<text>Domb&#229;s - &#197;ndalsnes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1924</td>]]></html>
+	<text>1924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114 km</td>]]></html>
+	<text>114 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sørlandsbanen</td>]]></html>
+	<text>S&#248;rlandsbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drammen - Stavanger</td>]]></html>
+	<text>Drammen - Stavanger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1944</td>]]></html>
+	<text>1944</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>545 km</td>]]></html>
+	<text>545 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>to Kongsberg 1871, Kristiansand 1938, Egersund-Stavanger finished 1878</td>]]></html>
+	<text>to Kongsberg 1871, Kristiansand 1938, Egersund-Stavanger finished 1878</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Flåmsbana</td>]]></html>
+	<text>Fl&#229;msbana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Myrdal - Flåm</td>]]></html>
+	<text>Myrdal - Fl&#229;m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1944</td>]]></html>
+	<text>1944</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 km</td>]]></html>
+	<text>20 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nordlandsbanen</td>]]></html>
+	<text>Nordlandsbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trondheim S - Bodø</td>]]></html>
+	<text>Trondheim S - Bod&#248;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1962</td>]]></html>
+	<text>1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>729 km</td>]]></html>
+	<text>729 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km</td>]]></html>
+	<text>0 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>to Sunnan 1905, Grong 1929</td>]]></html>
+	<text>to Sunnan 1905, Grong 1929</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gardermobanen</td>]]></html>
+	<text>Gardermobanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo S - Eidsvoll</td>]]></html>
+	<text>Oslo S - Eidsvoll</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 km</td>]]></html>
+	<text>64 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 km</td>]]></html>
+	<text>64 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>parallel to Hovedbanen</td>]]></html>
+	<text>parallel to Hovedbanen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Askerbanen</td>]]></html>
+	<text>Askerbanen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandvika - Asker</td>]]></html>
+	<text>Sandvika - Asker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 km</td>]]></html>
+	<text>10 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 km</td>]]></html>
+	<text>10 km</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>parallel to Drammenbanen</td>]]></html>
+	<text>parallel to Drammenbanen</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Rail transport in Norway - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Line Termini Opened Length Double track Electrified Comment</text>
+</context>
+<context>
+	<score>0.88087314</score>
+	<text>[ edit ] Operational railways</text>
+</context>
+<context>
+	<score>0.7936199</score>
+	<text>Rail transport in Norway</text>
+</context>
+<context>
+	<score>0.7829677</score>
+	<text>CargoNet uses a combination of 30 El 14 , 15 El 16 , 19 Di 8 and 6 CD66 . The other companies use stock retired by NSB, including Ofotbanen&apos;s 7 El 13 , 5 Di 3 and 2 T43 , HectorRail&apos;s 6 El 15 (now known as 161) and T k keriet&apos;s Rc2 .</text>
+</context>
+<context>
+	<score>0.7512925</score>
+	<text>[ edit ] Urban railways</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] Network</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] Operation</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] Operational railways</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] Abandoned railways</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71855044</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71529555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7046435</score>
+	<text>[ edit ] Freight rolling stock</text>
+</context>
+<context>
+	<score>0.641984</score>
+	<text>NSB still uses locomotive hauled passenger trains on a few of the long distance lines. For this task they use 22 El 18s and 5 Di 4s in addition to six El 17 on Fl msbana . Most of the cars are B7 on long distance services and B5 on regional services. Most of the locomotives have been transferred to the freight division CargoNet.</text>
+</context>
+<context>
+	<score>0.6030793</score>
+	<text>[ edit ] Abandoned railways</text>
+</context>
+<context>
+	<score>0.5918564</score>
+	<text>Until the 1990s only commuter and regional trains were operated with multiple units , but since then NSB has ordered numerous multiple units for its regional and express lines. Express trains are operated with 16 BM 73 units with tilting technology , regional trains with 16 BM 70 , 6 BM 73b (both electric) and 15 BM 93 (diesel) units while the local trains are operated by 71 BM 69 and 36 BM 72 (both electric) while the local trains around Trondheim, Tr nderbanen , uses 14 BM 92 diesel multiple units . The Airport Express Train uses 16 BM 71 and NSB Anbud operates 9 BM 69g units. Ofotbanen operates three BM 68 electric multiple units.</text>
+</context>
+<context>
+	<score>0.5517544</score>
+	<text>[ edit ] Passenger rolling stock</text>
+</context>
+<context>
+	<score>0.51967275</score>
+	<text>Traditionally, all trains were operated by NSB, but the deregulation in the 2000s has led to the introduction of a number of new freight operators, including CargoNet , Hector Rail , T g keriet and Ofotbanen . The conservative-liberal government tried to introduce public service obligation bids on subsidized passenger routes in 2005 , but the contract was won by the NSB subsidiary NSB Anbud and the following red-green government has cancelled further PSO contracting. Also the Airport Express Train has been made a separate company.</text>
+</context>
+<context>
+	<score>0.51589507</score>
+	<text>[ edit ] Abandoned urban railways</text>
+</context>
+<context>
+	<score>0.49400744</score>
+	<text>[ edit ] Railway companies</text>
+</context>
+<context>
+	<score>0.4734752</score>
+	<text>[ edit ] Operation</text>
+</context>
+<context>
+	<score>0.46461028</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4570494</score>
+	<text>There are also several operational museum railways in Norway, including Kr derbanen , Setesdalsbanen , Urskog-H landsbanen , Thamshavnbanen , Rjukanbanen , Valdresbanen , Nesttun-Osbanen and Gamle Vossebanen . The Norwegian Railroad Museum is located in Hamar and includes exhibits of train hardware, related objects, as well as document and photography archives.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Line</th><th>Termini</th><th>Opened</th><th>Length</th><th>Double track</th><th>Electrified</th><th>Comment</th></tr><tr><td><a href="../../../../articles/h/o/v/Hovedbanen.html" title="Hovedbanen">Hovedbanen</a></td><td><a href="../../../../articles/o/s/l/Oslo_Central_Station_f457.html" class="mw-redirect" title="Oslo Central Station">Oslo S</a>-<a href="../../../../articles/e/i/d/Eidsvoll_Station_f202.html" title="Eidsvoll Station">Eidsvoll</a></td><td>1854</td><td align="right">68 km</td><td align="right">21 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/k/o/n/Kongsvingerbanen.html" title="Kongsvingerbanen">Kongsvingerbanen</a></td><td><a href="../../../../articles/l/i/l/Lillestr%C3%B8m_Station_80af.html" title="Lillestrøm Station">Lillestrøm</a>-<a href="../../../../articles/c/h/a/Charlottenberg_Station_aefd.html" title="Charlottenberg Station">Charlottenberg</a></td><td>1862</td><td align="right">115 km</td><td align="right">0 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/r/a/n/Randsfjordbanen.html" title="Randsfjordbanen">Randsfjordbanen</a></td><td><a href="../../../../articles/h/o/k/Hokksund_Station_1154.html" title="Hokksund Station">Hokksund</a>-<a href="../../../../articles/h/%C3%B8/n/H%C3%B8nefoss_Station_35b8.html" title="Hønefoss Station">Hønefoss Station</a></td><td>1868</td><td align="right">73 km</td><td align="right">0 km</td><td>Yes</td><td>Reclassified from Drammen-Hønefoss</td></tr><tr><td><a href="../../../../articles/d/r/a/Drammenbanen.html" title="Drammenbanen">Drammenbanen</a></td><td><a href="../../../../articles/o/s/l/Oslo_Central_Station_f457.html" class="mw-redirect" title="Oslo Central Station">Oslo S</a>-<a href="../../../../articles/d/r/a/Drammen_Station_3682.html" title="Drammen Station">Drammen Station</a></td><td>1872</td><td align="right">42 km</td><td align="right">42 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/s/p/i/Spikkestadbanen.html" title="Spikkestadbanen">Spikkestadbanen</a></td><td><a href="../../../../articles/a/s/k/Asker_Station_8cdd.html" title="Asker Station">Asker</a>-<a href="../../../../articles/s/p/i/Spikkestad_Station_a945.html" title="Spikkestad Station">Spikkestad</a></td><td>1872</td><td align="right">14 km</td><td align="right">0 km</td><td>Yes</td><td>originally part of Drammenbanen</td></tr><tr><td><a href="../../../../articles/r/%C3%B8/r/R%C3%B8rosbanen.html" title="Rørosbanen">Rørosbanen</a></td><td><a href="../../../../articles/h/a/m/Hamar_Station_3ea2.html" title="Hamar Station">Hamar</a>-<a href="../../../../articles/r/%C3%B8/r/R%C3%B8ros_Station_addd.html" title="Røros Station">Røros</a>-<a href="../../../../articles/t/r/o/Trondheim_Central_Station_a62f.html" title="Trondheim Central Station">Trondheim S</a></td><td>1877</td><td align="right">383 km</td><td align="right">0km</td><td>No</td><td></td></tr><tr><td><a href="../../../../articles/%C3%B8/s/t/%C3%98stfoldbanen.html" title="Østfoldbanen">Østfoldbanen</a></td><td><a href="../../../../articles/o/s/l/Oslo_Central_Station_f457.html" class="mw-redirect" title="Oslo Central Station">Oslo S</a>-<a href="../../../../articles/k/o/r/Kornsj%C3%B8_Station_c3fc.html" title="Kornsjø Station">Kornsjø</a></td><td>1879</td><td align="right">170 km</td><td align="right">63 km</td><td>Yes</td><td>continues as Väneren/Norgebanan in Sweden</td></tr><tr><td><a href="../../../../articles/i/n/d/Indre_%C3%98stfoldbanen_fec7.html" title="Indre Østfoldbanen">Østfoldbanen eastern line</a></td><td><a href="../../../../articles/s/k/i/Ski_Station_91f7.html" title="Ski Station">Ski</a>-<a href="../../../../articles/s/a/r/Sarpsborg_Station_1859.html" title="Sarpsborg Station">Sarpsborg</a></td><td>1882</td><td align="right">80 km</td><td align="right">0 km</td><td>Yes</td><td>freight only Rakkestad-Sarpsborg</td></tr><tr><td><a href="../../../../articles/v/e/s/Vestfoldbanen.html" title="Vestfoldbanen">Vestfoldbanen</a></td><td><a href="../../../../articles/d/r/a/Drammen_Station_3682.html" title="Drammen Station">Drammen</a>-<a href="../../../../articles/s/k/i/Skien_Station_6a0c.html" title="Skien Station">Skien</a>)</td><td>1882</td><td align="right">148 km</td><td align="right">17 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/m/e/r/Mer%C3%A5kerbanen.html" title="Meråkerbanen">Meråkerbanen</a></td><td><a href="../../../../articles/h/e/l/Hell_Station_61d7.html" title="Hell Station">Hell</a>-<a href="../../../../articles/s/t/o/Storlien_Station_d9ce.html" title="Storlien Station">Storlien</a></td><td>1882</td><td align="right">71 km</td><td align="right">0 km</td><td>No</td><td>reclassified from Trondheim-Storlien, continues as <a href="../../../../articles/m/i/t/Mittbanan.html" title="Mittbanan">Mittbanan</a> in Sweden</td></tr><tr><td><a href="../../../../articles/g/j/%C3%B8/Gj%C3%B8vikbanen.html" title="Gjøvikbanen">Gjøvikbanen</a></td><td><a href="../../../../articles/o/s/l/Oslo_Central_Station_f457.html" class="mw-redirect" title="Oslo Central Station">Oslo S</a>-<a href="../../../../articles/g/j/%C3%B8/Gj%C3%B8vik_Station_2991.html" title="Gjøvik Station">Gjøvik</a></td><td>1900</td><td align="right">124 km</td><td align="right">3 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/o/f/o/Ofotbanen.html" title="Ofotbanen">Ofotbanen</a></td><td><a href="../../../../articles/n/a/r/Narvik_Station_36de.html" title="Narvik Station">Narvik Station</a>-Riksgränsen</td><td>1902</td><td align="right">42 km</td><td align="right">0 km</td><td>Yes</td><td>continues as <a href="../../../../articles/m/a/l/Malmbanan.html" title="Malmbanan">Malmbanan</a> in Sweden</td></tr><tr><td><a href="../../../../articles/b/e/r/Bergensbanen.html" title="Bergensbanen">Bergensbanen</a></td><td><a href="../../../../articles/h/%C3%B8/n/H%C3%B8nefoss_Station_35b8.html" title="Hønefoss Station">Hønefoss</a>-<a href="../../../../articles/b/e/r/Bergen_Railway_Station_d813.html" title="Bergen Railway Station">Bergen</a></td><td>1909</td><td align="right">372 km</td><td align="right">0 km</td><td>Yes</td><td>Completed to Voss in 1883</td></tr><tr><td><a href="../../../../articles/r/o/a/Roa-H%C3%B8nefossbanen_bf9b.html" title="Roa-Hønefossbanen">Roa-Hønefossbanen</a></td><td><a href="../../../../articles/r/o/a/Roa_Station_727c.html" title="Roa Station">Roa</a>-<a href="../../../../articles/h/%C3%B8/n/H%C3%B8nefoss_Station_35b8.html" title="Hønefoss Station">Hønefoss</a></td><td>1909</td><td align="right">32 km</td><td align="right">0 km</td><td>Yes</td><td>freight only</td></tr><tr><td><a href="../../../../articles/a/r/e/Arendalsbanen.html" title="Arendalsbanen">Arendalsbanen</a></td><td><a href="../../../../articles/n/e/l/Nelaug_Station_a1d9.html" title="Nelaug Station">Nelaug</a>-<a href="../../../../articles/a/r/e/Arendal_Station_5d12.html" title="Arendal Station">Arendal</a></td><td>1910</td><td align="right">37 km</td><td align="right">0 km</td><td>Yes</td><td>built as part of Sørlandsbanen</td></tr><tr><td><a href="../../../../articles/s/o/l/Sol%C3%B8rbanen.html" title="Solørbanen">Solørbanen</a></td><td><a href="../../../../articles/k/o/n/Kongsvinger_Station_6362.html" title="Kongsvinger Station">Kongsvinger</a>-<a href="../../../../articles/e/l/v/Elverum_Station_698a.html" title="Elverum Station">Elverum</a></td><td>1913</td><td align="right">94 km</td><td align="right">0 km</td><td>No</td><td>freight only</td></tr><tr><td><a href="../../../../articles/b/r/a/Bratsbergbanen.html" title="Bratsbergbanen">Bratsbergbanen</a></td><td><a href="../../../../articles/s/k/i/Skien_Station_6a0c.html" title="Skien Station">Skien</a>-<a href="../../../../articles/n/o/t/Notodden_Station_e1e4.html" title="Notodden Station">Notodden</a></td><td>1917</td><td align="right">44 km</td><td align="right">0 km</td><td>Yes</td><td>Shares some line with Sørlandsbanen</td></tr><tr><td><a href="../../../../articles/d/o/v/Dovrebanen.html" title="Dovrebanen">Dovrebanen</a></td><td><a href="../../../../articles/e/i/d/Eidsvoll_Station_f202.html" title="Eidsvoll Station">Eidsvoll</a>-<a href="../../../../articles/t/r/o/Trondheim_Central_Station_a62f.html" title="Trondheim Central Station">Trondheim S</a></td><td>1921</td><td align="right">485 km</td><td align="right">0 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/r/a/u/Raumabanen.html" title="Raumabanen">Raumabanen</a></td><td><a href="../../../../articles/d/o/m/Domb%C3%A5s_Station_d609.html" title="Dombås Station">Dombås</a>-<a href="../../../../articles/%C3%A5/n/d/%C3%85ndalsnes_Station_e10a.html" title="Åndalsnes Station">Åndalsnes</a></td><td>1924</td><td align="right">114 km</td><td align="right">0 km</td><td>No</td><td></td></tr><tr><td><a href="../../../../articles/s/%C3%B8/r/S%C3%B8rlandsbanen.html" title="Sørlandsbanen">Sørlandsbanen</a></td><td><a href="../../../../articles/d/r/a/Drammen_Station_3682.html" title="Drammen Station">Drammen</a>-<a href="../../../../articles/s/t/a/Stavanger_Station_5628.html" title="Stavanger Station">Stavanger</a></td><td>1944</td><td align="right">545 km</td><td align="right">0 km</td><td>Yes</td><td>to Kongsberg 1871, Kristiansand 1938, Egersund-Stavanger finished 1878</td></tr><tr><td><a href="../../../../articles/f/l/%C3%A5/Fl%C3%A5msbana.html" title="Flåmsbana">Flåmsbana</a></td><td><a href="../../../../articles/m/y/r/Myrdal_Station_30e5.html" title="Myrdal Station">Myrdal</a>-<a href="../../../../articles/f/l/%C3%A5/Fl%C3%A5m_Station_9d2f.html" title="Flåm Station">Flåm</a></td><td>1944</td><td align="right">20 km</td><td align="right">0 km</td><td>Yes</td><td></td></tr><tr><td><a href="../../../../articles/n/o/r/Nordlandsbanen.html" title="Nordlandsbanen">Nordlandsbanen</a></td><td><a href="../../../../articles/t/r/o/Trondheim_Central_Station_a62f.html" title="Trondheim Central Station">Trondheim S</a>-<a href="../../../../articles/b/o/d/Bod%C3%B8_Station_7e4f.html" title="Bodø Station">Bodø</a></td><td>1962</td><td align="right">729 km</td><td align="right">0 km</td><td>Yes</td><td>to Sunnan 1905, Grong 1929</td></tr><tr><td><a href="../../../../articles/g/a/r/Gardermobanen.html" title="Gardermobanen">Gardermobanen</a></td><td><a href="../../../../articles/o/s/l/Oslo_Central_Station_f457.html" class="mw-redirect" title="Oslo Central Station">Oslo S</a>-<a href="../../../../articles/e/i/d/Eidsvoll_Station_f202.html" title="Eidsvoll Station">Eidsvoll</a></td><td>1998</td><td align="right">64 km</td><td align="right">64 km</td><td>Yes</td><td>parallel to Hovedbanen</td></tr><tr><td><a href="../../../../articles/a/s/k/Askerbanen.html" title="Askerbanen">Askerbanen</a></td><td><a href="../../../../articles/s/a/n/Sandvika_Station_2299.html" title="Sandvika Station">Sandvika</a>-<a href="../../../../articles/a/s/k/Asker_Station_8cdd.html" title="Asker Station">Asker</a></td><td>2005</td><td align="right">10 km</td><td align="right">10 km</td><td>Yes</td><td>parallel to Drammenbanen</td></tr></table>]]>
+</htmlSnippet>
+</entity>

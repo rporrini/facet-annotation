@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san13-data3-repo/attrParsedPage/out_data_672/dir119/file509101_0_cols4_rows12.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="url" value="http://en.wikipedia.org/wiki/Venezuela" />
+<meta name="parentHTMLDoc" value="san13-data3-repo/attrParsedPage/out_data_672/file509101" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th><a>State</a></th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><a>Capital City</a></th>]]></html>
+	<text>Capital City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><a>State</a></th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th><a>Capital City</a></th>]]></html>
+	<text>Capital City</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1)<a>Amazonas</a></td>]]></html>
+	<text>1)Amazonas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Puerto Ayacucho</a></td>]]></html>
+	<text>Puerto Ayacucho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13)<a>Mérida</a></td>]]></html>
+	<text>13)M&#233;rida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Mérida</a></td>]]></html>
+	<text>M&#233;rida</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2)<a>Anzoátegui</a></td>]]></html>
+	<text>2)Anzo&#225;tegui</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Barcelona</a></td>]]></html>
+	<text>Barcelona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14)<a>Miranda</a></td>]]></html>
+	<text>14)Miranda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Los Teques</a></td>]]></html>
+	<text>Los Teques</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3)<a>Apure</a></td>]]></html>
+	<text>3)Apure</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>San Fernando de Apure</a></td>]]></html>
+	<text>San Fernando de Apure</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15)<a>Monagas</a></td>]]></html>
+	<text>15)Monagas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Maturín</a></td>]]></html>
+	<text>Matur&#237;n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4)<a>Aragua</a></td>]]></html>
+	<text>4)Aragua</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Maracay</a></td>]]></html>
+	<text>Maracay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16)<a>Nueva Esparta</a></td>]]></html>
+	<text>16)Nueva Esparta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>La Asunción</a></td>]]></html>
+	<text>La Asunci&#243;n</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5)<a>Barinas</a></td>]]></html>
+	<text>5)Barinas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Barinas</a></td>]]></html>
+	<text>Barinas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17)<a>Portuguesa</a></td>]]></html>
+	<text>17)Portuguesa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Guanare</a></td>]]></html>
+	<text>Guanare</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6)<a>Bolívar</a></td>]]></html>
+	<text>6)Bol&#237;var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Ciudad Bolívar</a></td>]]></html>
+	<text>Ciudad Bol&#237;var</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18)<a>Sucre</a></td>]]></html>
+	<text>18)Sucre</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Cumaná</a></td>]]></html>
+	<text>Cuman&#225;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7)<a>Carabobo</a></td>]]></html>
+	<text>7)Carabobo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Valencia</a></td>]]></html>
+	<text>Valencia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19)<a>Táchira</a></td>]]></html>
+	<text>19)T&#225;chira</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>San Cristóbal</a></td>]]></html>
+	<text>San Crist&#243;bal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8)<a>Cojedes</a></td>]]></html>
+	<text>8)Cojedes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>San Carlos</a></td>]]></html>
+	<text>San Carlos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20)<a>Trujillo</a></td>]]></html>
+	<text>20)Trujillo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Trujillo</a></td>]]></html>
+	<text>Trujillo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9)<a>Delta Amacuro</a></td>]]></html>
+	<text>9)Delta Amacuro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Tucupita</a></td>]]></html>
+	<text>Tucupita</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21)<a>Yaracuy</a></td>]]></html>
+	<text>21)Yaracuy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>San Felipe</a></td>]]></html>
+	<text>San Felipe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10)<a>Falcón</a></td>]]></html>
+	<text>10)Falc&#243;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Coro</a></td>]]></html>
+	<text>Coro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22)<a>Vargas</a></td>]]></html>
+	<text>22)Vargas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>La Güaira</a></td>]]></html>
+	<text>La G&#252;aira</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11)<a>Guárico</a></td>]]></html>
+	<text>11)Gu&#225;rico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>San Juan De Los Morros</a></td>]]></html>
+	<text>San Juan De Los Morros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23)<a>Zulia</a></td>]]></html>
+	<text>23)Zulia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Maracaibo</a></td>]]></html>
+	<text>Maracaibo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12)<a>Lara</a></td>]]></html>
+	<text>12)Lara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><a>Barquisimeto</a></td>]]></html>
+	<text>Barquisimeto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24)<a>Federal Dependencies</a></td>]]></html>
+	<text>24)Federal Dependencies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><i>not appliable</i></td>]]></html>
+	<text>not appliable</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.9556814</score>
+	<text>State Capital City State Capital City</text>
+</context>
+<context>
+	<score>0.77840674</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5907042</score>
+	<text>Venezuela portal</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th><a>State</a></th><th><a>Capital City</a></th><th><a>State</a></th><th><a>Capital City</a></th></tr><tr><td>1)<a>Amazonas</a></td><td><a>Puerto Ayacucho</a></td><td>13)<a>Mérida</a></td><td><a>Mérida</a></td></tr><tr><td>2)<a>Anzoátegui</a></td><td><a>Barcelona</a></td><td>14)<a>Miranda</a></td><td><a>Los Teques</a></td></tr><tr><td>3)<a>Apure</a></td><td><a>San Fernando de Apure</a></td><td>15)<a>Monagas</a></td><td><a>Maturín</a></td></tr><tr><td>4)<a>Aragua</a></td><td><a>Maracay</a></td><td>16)<a>Nueva Esparta</a></td><td><a>La Asunción</a></td></tr><tr><td>5)<a>Barinas</a></td><td><a>Barinas</a></td><td>17)<a>Portuguesa</a></td><td><a>Guanare</a></td></tr><tr><td>6)<a>Bolívar</a></td><td><a>Ciudad Bolívar</a></td><td>18)<a>Sucre</a></td><td><a>Cumaná</a></td></tr><tr><td>7)<a>Carabobo</a></td><td><a>Valencia</a></td><td>19)<a>Táchira</a></td><td><a>San Cristóbal</a></td></tr><tr><td>8)<a>Cojedes</a></td><td><a>San Carlos</a></td><td>20)<a>Trujillo</a></td><td><a>Trujillo</a></td></tr><tr><td>9)<a>Delta Amacuro</a></td><td><a>Tucupita</a></td><td>21)<a>Yaracuy</a></td><td><a>San Felipe</a></td></tr><tr><td>10)<a>Falcón</a></td><td><a>Coro</a></td><td>22)<a>Vargas</a></td><td><a>La Güaira</a></td></tr><tr><td>11)<a>Guárico</a></td><td><a>San Juan De Los Morros</a></td><td>23)<a>Zulia</a></td><td><a>Maracaibo</a></td></tr><tr><td>12)<a>Lara</a></td><td><a>Barquisimeto</a></td><td>24)<a>Federal Dependencies</a></td><td><i>not appliable</i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

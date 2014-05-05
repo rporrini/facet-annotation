@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r22/l/i/s/List_of_airlines_of_South_Africa_5ea6.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 0 2, 0.71999997 1 2, 0.7 3, 0.7 0 3, 0.63 1 3, 0.56 2 3, 0.47272727 2, 0.060000002 0 4, 0.054 1 4, 0.042000003 3 4, 0.028363638 2 4, 0.002727273 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airlines_of_South_Africa_5ea6.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>AIRLINE</th>]]></html>
+	<text>AIRLINE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>CALLSIGN</th>]]></html>
+	<text>CALLSIGN</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>COMMENCED OPERATIONS</th>]]></html>
+	<text>COMMENCED OPERATIONS</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1Time</td>]]></html>
+	<text>1Time</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RNX</td>]]></html>
+	<text>RNX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1T</td>]]></html>
+	<text>1T</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NEXTTIME</td>]]></html>
+	<text>NEXTTIME</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>African International Airways</td>]]></html>
+	<text>African International Airways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AIN</td>]]></html>
+	<text>AIN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FLY CARGO</td>]]></html>
+	<text>FLY CARGO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Airlink</td>]]></html>
+	<text>Airlink</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LNK</td>]]></html>
+	<text>LNK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4Z</td>]]></html>
+	<text>4Z</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LINK</td>]]></html>
+	<text>LINK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AirQuarius Aviation</td>]]></html>
+	<text>AirQuarius Aviation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AQU</td>]]></html>
+	<text>AQU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QUARIUS</td>]]></html>
+	<text>QUARIUS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Civair</td>]]></html>
+	<text>Civair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CIW</td>]]></html>
+	<text>CIW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2I</td>]]></html>
+	<text>2I</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CIVFLIGHT</td>]]></html>
+	<text>CIVFLIGHT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Comair</td>]]></html>
+	<text>Comair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CAW</td>]]></html>
+	<text>CAW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MN</td>]]></html>
+	<text>MN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>COMMERCIAL</td>]]></html>
+	<text>COMMERCIAL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Executive Aerospace</td>]]></html>
+	<text>Executive Aerospace</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EAS</td>]]></html>
+	<text>EAS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AEROSPACE</td>]]></html>
+	<text>AEROSPACE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Federal Air</td>]]></html>
+	<text>Federal Air</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FDR</td>]]></html>
+	<text>FDR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FEDAIR</td>]]></html>
+	<text>FEDAIR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Interair South Africa</td>]]></html>
+	<text>Interair South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ILN</td>]]></html>
+	<text>ILN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D6</td>]]></html>
+	<text>D6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>INLINE</td>]]></html>
+	<text>INLINE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Interlink Airlines</td>]]></html>
+	<text>Interlink Airlines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ITK</td>]]></html>
+	<text>ITK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1D</td>]]></html>
+	<text>1D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>INTERLINK</td>]]></html>
+	<text>INTERLINK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>King Air Charter</td>]]></html>
+	<text>King Air Charter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mango</td>]]></html>
+	<text>Mango</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MNO</td>]]></html>
+	<text>MNO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JE</td>]]></html>
+	<text>JE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TULCA</td>]]></html>
+	<text>TULCA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>National Airways</td>]]></html>
+	<text>National Airways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NTN</td>]]></html>
+	<text>NTN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YJ</td>]]></html>
+	<text>YJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NATCHAIR</td>]]></html>
+	<text>NATCHAIR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Naturelink Aviation</td>]]></html>
+	<text>Naturelink Aviation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NRK</td>]]></html>
+	<text>NRK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NATURELINK</td>]]></html>
+	<text>NATURELINK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norse Air</td>]]></html>
+	<text>Norse Air</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NRX</td>]]></html>
+	<text>NRX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NORSE AIR</td>]]></html>
+	<text>NORSE AIR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pelican Air Services</td>]]></html>
+	<text>Pelican Air Services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PDF</td>]]></html>
+	<text>PDF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7V</td>]]></html>
+	<text>7V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PELICAN AIRWAYS</td>]]></html>
+	<text>PELICAN AIRWAYS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rossair</td>]]></html>
+	<text>Rossair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RSS</td>]]></html>
+	<text>RSS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ROSS CHARTER</td>]]></html>
+	<text>ROSS CHARTER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rovos Air</td>]]></html>
+	<text>Rovos Air</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VOS</td>]]></html>
+	<text>VOS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ROVOS</td>]]></html>
+	<text>ROVOS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Safair</td>]]></html>
+	<text>Safair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SFR</td>]]></html>
+	<text>SFR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FA</td>]]></html>
+	<text>FA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CARGO</td>]]></html>
+	<text>CARGO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South African Airways</td>]]></html>
+	<text>South African Airways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SAA</td>]]></html>
+	<text>SAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SA</td>]]></html>
+	<text>SA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SPRINGBOK</td>]]></html>
+	<text>SPRINGBOK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South African Express</td>]]></html>
+	<text>South African Express</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EXY</td>]]></html>
+	<text>EXY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YB</td>]]></html>
+	<text>YB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EXPRESSWAYS</td>]]></html>
+	<text>EXPRESSWAYS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tramon Air</td>]]></html>
+	<text>Tramon Air</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TMX</td>]]></html>
+	<text>TMX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TRAMON</td>]]></html>
+	<text>TRAMON</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airlines of South Africa - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>AIRLINE ICAO IATA CALLSIGN COMMENCED OPERATIONS</text>
+</context>
+<context>
+	<score>0.89552754</score>
+	<text>This is a list of airlines currently operating in South Africa</text>
+</context>
+<context>
+	<score>0.81081414</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.81081414</score>
+	<text>List of airlines of South Africa</text>
+</context>
+<context>
+	<score>0.76086247</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.75212795</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7294165</score>
+	<text>List of airlines of South Africa</text>
+</context>
+<context>
+	<score>0.60683364</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellpadding="2" cellspacing="3" class="wikitable sortable"><tr valign="middle"><th>AIRLINE</th><th><a href="../../../../articles/i/c/a/ICAO_airline_code_4ed6.html" class="mw-redirect" title="ICAO airline code">ICAO</a></th><th><a href="../../../../articles/i/a/t/IATA_a6cb.html" class="mw-redirect" title="IATA">IATA</a></th><th>CALLSIGN</th><th>COMMENCED<br />OPERATIONS</th></tr><tr><td><a href="../../../../articles/1/t/i/1Time_2a95.html" title="1Time">1Time</a></td><td>RNX</td><td>1T</td><td>NEXTTIME</td><td></td></tr><tr><td><a href="../../../../articles/a/f/r/African_International_Airways_8ad1.html" title="African International Airways">African International Airways</a></td><td>AIN</td><td>-</td><td>FLY CARGO</td><td></td></tr><tr><td><a href="../../../../articles/a/i/r/Airlink.html" title="Airlink">Airlink</a></td><td>LNK</td><td>4Z</td><td>LINK</td><td></td></tr><tr><td><a href="../../../../articles/a/i/r/AirQuarius_Aviation_2179.html" title="AirQuarius Aviation">AirQuarius Aviation</a></td><td>AQU</td><td>-</td><td>QUARIUS</td><td></td></tr><tr><td><a href="../../../../articles/c/i/v/Civair.html" title="Civair">Civair</a></td><td>CIW</td><td>2I</td><td>CIVFLIGHT</td><td></td></tr><tr><td><a href="../../../../articles/c/o/m/Comair_%28South_Africa%29_b606.html" title="Comair (South Africa)">Comair</a></td><td>CAW</td><td>MN</td><td>COMMERCIAL</td><td></td></tr><tr><td><a href="../../../../articles/e/x/e/Executive_Aerospace_217b.html" title="Executive Aerospace">Executive Aerospace</a></td><td>EAS</td><td>-</td><td>AEROSPACE</td><td></td></tr><tr><td><a href="../../../../articles/f/e/d/Federal_Air_ba96.html" title="Federal Air">Federal Air</a></td><td>FDR</td><td>-</td><td>FEDAIR</td><td></td></tr><tr><td><a href="../../../../articles/i/n/t/Interair_South_Africa_9182.html" title="Interair South Africa">Interair South Africa</a></td><td>ILN</td><td>D6</td><td>INLINE</td><td></td></tr><tr><td><a href="../../../../articles/i/n/t/Interlink_Airlines_983e.html" title="Interlink Airlines">Interlink Airlines</a></td><td>ITK</td><td>1D</td><td>INTERLINK</td><td></td></tr><tr><td><a href="../../../../articles/k/i/n/King_Air_Charter_c217.html" title="King Air Charter">King Air Charter</a></td><td>-</td><td>-</td><td>-</td><td></td></tr><tr><td><a href="../../../../articles/m/a/n/Mango_%28airline%29.html" title="Mango (airline)">Mango</a></td><td>MNO</td><td>JE</td><td>TULCA</td><td></td></tr><tr><td><a href="../../../../articles/n/a/t/National_Airways_a59e.html" title="National Airways">National Airways</a></td><td>NTN</td><td>YJ</td><td>NATCHAIR</td><td></td></tr><tr><td><a href="../../../../articles/n/a/t/Naturelink_Aviation_f8e6.html" title="Naturelink Aviation">Naturelink Aviation</a></td><td>NRK</td><td>-</td><td>NATURELINK</td><td></td></tr><tr><td><a href="../../../../articles/n/o/r/Norse_Air_9b45.html" title="Norse Air">Norse Air</a></td><td>NRX</td><td>-</td><td>NORSE AIR</td><td></td></tr><tr><td><a href="../../../../articles/p/e/l/Pelican_Air_Services_10ce.html" title="Pelican Air Services">Pelican Air Services</a></td><td>PDF</td><td>7V</td><td>PELICAN AIRWAYS</td><td></td></tr><tr><td><a href="../../../../articles/r/o/s/Rossair_%28South_Africa%29_93ca.html" title="Rossair (South Africa)">Rossair</a></td><td>RSS</td><td>-</td><td>ROSS CHARTER</td><td></td></tr><tr><td><a href="../../../../articles/r/o/v/Rovos_Air_694b.html" title="Rovos Air">Rovos Air</a></td><td>VOS</td><td>-</td><td>ROVOS</td><td></td></tr><tr><td><a href="../../../../articles/s/a/f/Safair.html" title="Safair">Safair</a></td><td>SFR</td><td>FA</td><td>CARGO</td><td></td></tr><tr><td><a href="../../../../articles/s/o/u/South_African_Airways_0ba4.html" title="South African Airways">South African Airways</a></td><td>SAA</td><td>SA</td><td>SPRINGBOK</td><td></td></tr><tr><td><a href="../../../../articles/s/o/u/South_African_Express_0288.html" title="South African Express">South African Express</a></td><td>EXY</td><td>YB</td><td>EXPRESSWAYS</td><td></td></tr><tr><td><a href="../../../../articles/t/r/a/Tramon_Air_6f54.html" title="Tramon Air">Tramon Air</a></td><td>TMX</td><td>-</td><td>TRAMON</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

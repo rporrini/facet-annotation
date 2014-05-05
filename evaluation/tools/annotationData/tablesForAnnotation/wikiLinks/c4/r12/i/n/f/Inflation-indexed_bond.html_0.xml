@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r12/i/n/f/Inflation-indexed_bond.html_0.xml" />
+<meta name="primaryKey" value="0.9166667 0, 0.875 0 1, 0.8020834 1, 0.6875 0 2, 0.625 2, 0.6015625 1 2, 0.5729167 0 3, 0.5013021 1 3, 0.46875 3, 0.390625 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/i/n/f/Inflation-indexed_bond.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Issue</th>]]></html>
+	<text>Issue</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Issuer</th>]]></html>
+	<text>Issuer</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Inflation Index</th>]]></html>
+	<text>Inflation Index</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Treasury Inflation-Protected Securities (TIPS) [4]</td>]]></html>
+	<text>Treasury Inflation-Protected Securities (TIPS) [4]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>US Treasury</td>]]></html>
+	<text>US Treasury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>US Consumer Price Index</td>]]></html>
+	<text>US Consumer Price Index</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Series I Inflation-Indexed Savings Bonds (I-Bonds) [5]</td>]]></html>
+	<text>Series I Inflation-Indexed Savings Bonds (I-Bonds) [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>US Treasury</td>]]></html>
+	<text>US Treasury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>US Consumer Price Index</td>]]></html>
+	<text>US Consumer Price Index</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflation-linked Gilt (ILG)</td>]]></html>
+	<text>Inflation-linked Gilt (ILG)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK Debt Management Office</td>]]></html>
+	<text>UK Debt Management Office</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retail Price Index (RPI)</td>]]></html>
+	<text>Retail Price Index (RPI)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OATi and OAT€i [6]</td>]]></html>
+	<text>OATi and OAT&#8364;i [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Agence France Trésor</td>]]></html>
+	<text>Agence France Tr&#233;sor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France CPI ex-tobacco (OATi), EU HICP (OAT€i)</td>]]></html>
+	<text>France CPI ex-tobacco (OATi), EU HICP (OAT&#8364;i)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Real Return Bond (RRB) [7]</td>]]></html>
+	<text>Real Return Bond (RRB) [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bank of Canada</td>]]></html>
+	<text>Bank of Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canada All-Items CPI</td>]]></html>
+	<text>Canada All-Items CPI</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Capital Indexed Bonds</td>]]></html>
+	<text>Capital Indexed Bonds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reserve Bank of Australia</td>]]></html>
+	<text>Reserve Bank of Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Weighted Average of Eight Capital Cities: All-Groups Index</td>]]></html>
+	<text>Weighted Average of Eight Capital Cities: All-Groups Index</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bund index. and BO index.</td>]]></html>
+	<text>Bund index. and BO index.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bundesrepublik Deutschland Finanzagentur</td>]]></html>
+	<text>Bundesrepublik Deutschland Finanzagentur</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EU HICP ex Tabacco</td>]]></html>
+	<text>EU HICP ex Tabacco</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greece</td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BTP€i</td>]]></html>
+	<text>BTP&#8364;i</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Department of the Treasury</td>]]></html>
+	<text>Department of the Treasury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EU HICP ex Tabacco</td>]]></html>
+	<text>EU HICP ex Tabacco</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Japan</td>]]></html>
+	<text>Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JGBi</td>]]></html>
+	<text>JGBi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ministry of Finance (Japan)</td>]]></html>
+	<text>Ministry of Finance (Japan)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Japan CPI (nationwide, ex-fresh-food)</td>]]></html>
+	<text>Japan CPI (nationwide, ex-fresh-food)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Index-linked treasury bonds</td>]]></html>
+	<text>Index-linked treasury bonds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swedish National Debt Office</td>]]></html>
+	<text>Swedish National Debt Office</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swedish CPI</td>]]></html>
+	<text>Swedish CPI</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iceland</td>]]></html>
+	<text>Iceland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Inflation-indexed bond - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Issue Issuer Inflation Index</text>
+</context>
+<context>
+	<score>0.88483274</score>
+	<text>The most liquid instruments are Treasury Inflation-Protected Securities (TIPS), a type of US Treasury security , with about $500 billion in issuance. The other important inflation-linked markets are the UK Index-linked Gilts with over $300 billion outstanding and the French OATi/OAT i market with about $200 billion outstanding. Germany , Canada , Greece , Italy , Japan , Sweden and Iceland - as well as a number of smaller emerging markets - also issue inflation-indexed bonds; the Australian government stopped issuing the Capital Indexed Bond in 2003</text>
+</context>
+<context>
+	<score>0.7969419</score>
+	<text>Inflation-indexed bond</text>
+</context>
+<context>
+	<score>0.7878497</score>
+	<text>[ edit ] Global issuance</text>
+</context>
+<context>
+	<score>0.7564728</score>
+	<text>[ edit ] Inflation-indexed bond indices See also: Bond market index</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] Global issuance</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] Inflation-indexed bond indices</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72541696</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7102633</score>
+	<text>A common misconception about these bonds is that the interest rate changes with inflation. What actually happens is that the underlying principal of the bond changes, which results in a higher interest payment when multiplied by the same rate. For example, if the annual coupon of the bond was 5% and the underlying principal of the bond was 100 units, the annual payment would be 5 units. If the inflation index increased by 10%, the principal of the bond would increase to 110 units. The coupon rate would remain at 5%, resulting in an interest payment of 110 x 5% = 5.5 units. The only known exception to this is the Australian Capital Indexed Bond, in which the interest rate is adjusted as well as the principal.</text>
+</context>
+<context>
+	<score>0.64819425</score>
+	<text>Inflation-indexed bonds pay a periodic coupon that is equal to the product of the inflation index and the nominal coupon rate. The relationship between coupon payments, breakeven inflation and real interest rates is given by the Fisher equation . A rise in coupon payments is a result of an increase in inflation expectations, real rates, or both.</text>
+</context>
+<context>
+	<score>0.6096561</score>
+	<text>Inflation-indexed bond indices include Barclays World Government Inflation-Linked Index.</text>
+</context>
+<context>
+	<score>0.59853894</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.55275327</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52703536</score>
+	<text>See also: inflation derivatives</text>
+</context>
+<context>
+	<score>0.52329326</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4955504</score>
+	<text>The inflation-linked market primarily consists of sovereign debt, with privately issued inflation-linked bonds constituting a small portion of the market.</text>
+</context>
+<context>
+	<score>0.48127303</score>
+	<text>. The first known inflation-indexed bond was issued by the Massachusetts Bay Company in 1780 . The market has grown dramatically since the British government began issuing inflation-linked Gilts in 1981 . As of 2008, government-issued inflation-linked bonds comprise over $1.5 trillion of the international debt market.</text>
+</context>
+<context>
+	<score>0.4724916</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.46500197</score>
+	<text>Inflation-indexed bonds (also known as inflation-linked bonds or colloquially as linkers ) are bonds where the principal is indexed to inflation . They are thus designed to cut out the inflation risk of an investment.</text>
+</context>
+<context>
+	<score>0.46107727</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45066383</score>
+	<text>Inflation-indexed bond</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Country</th><th>Issue</th><th>Issuer</th><th>Inflation Index</th></tr><tr><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><a href="../../../../articles/t/r/e/Treasury_Inflation-Protected_Securities_db3d.html" class="mw-redirect" title="Treasury Inflation-Protected Securities">Treasury Inflation-Protected Securities</a> (TIPS)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3" title="">[4]</a></sup></td><td><a href="../../../../articles/u/s/_/US_Treasury_e18b.html" class="mw-redirect" title="US Treasury">US Treasury</a></td><td><a href="../../../../articles/u/n/i/United_States_Consumer_Price_Index_e884.html" title="United States Consumer Price Index">US Consumer Price Index</a></td></tr><tr><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><a href="../../../../articles/t/r/e/Treasury_security.html" title="Treasury security">Series I Inflation-Indexed Savings Bonds</a> (I-Bonds)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4" title="">[5]</a></sup></td><td><a href="../../../../articles/u/s/_/US_Treasury_e18b.html" class="mw-redirect" title="US Treasury">US Treasury</a></td><td><a href="../../../../articles/u/n/i/United_States_Consumer_Price_Index_e884.html" title="United States Consumer Price Index">US Consumer Price Index</a></td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>Inflation-linked Gilt (ILG)</td><td>UK Debt Management Office</td><td>Retail Price Index (RPI)</td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>OATi and OAT€i<sup id="cite_ref-5" class="reference"><a href="#cite_note-5" title="">[6]</a></sup></td><td>Agence France Trésor</td><td>France CPI ex-tobacco (OATi), EU HICP (OAT€i)</td></tr><tr><td><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>Real Return Bond (RRB)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></td><td><a href="../../../../articles/b/a/n/Bank_of_Canada_e4fa.html" title="Bank of Canada">Bank of Canada</a></td><td>Canada All-Items <a href="../../../../articles/c/o/n/Consumer_Price_Index_bd3b.html" class="mw-redirect" title="Consumer Price Index">CPI</a></td></tr><tr><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td>Capital Indexed Bonds</td><td>Reserve Bank of Australia</td><td>Weighted Average of Eight Capital Cities: All-Groups Index</td></tr><tr><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>Bund index. and BO index.</td><td>Bundesrepublik Deutschland Finanzagentur</td><td>EU HICP ex Tabacco</td></tr><tr><td><a href="../../../../articles/g/r/e/Greece.html" title="Greece">Greece</a></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>BTP€i</td><td>Department of the Treasury</td><td>EU HICP ex Tabacco</td></tr><tr><td><a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>JGBi</td><td><a href="../../../../articles/m/i/n/Ministry_of_Finance_%28Japan%29_23b0.html" title="Ministry of Finance (Japan)">Ministry of Finance (Japan)</a></td><td>Japan CPI (nationwide, ex-fresh-food)</td></tr><tr><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>Index-linked treasury bonds</td><td>Swedish National Debt Office</td><td>Swedish CPI</td></tr><tr><td><a href="../../../../articles/i/c/e/Iceland.html" title="Iceland">Iceland</a></td><td></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

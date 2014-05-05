@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san15-data1-repo/attrParsedPage/out_data_401/dir16/file108624_0_cols4_rows39.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 0 3, 0.42307693 3, 0.38701925 2 3, 0.13461539 2, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="url" value="http://encyclopedia.caribseek.com/Caribbean_Population_and_Languages/" />
+<meta name="parentHTMLDoc" value="san15-data1-repo/attrParsedPage/out_data_401/file108624" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>Number</coltype>
+<coltype>Word</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><font>Country</font></td>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><p><font>Population<br />Size</font></p></td>]]></html>
+	<text>PopulationSize</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><p><font>Official Language</font></p></td>]]></html>
+	<text>Official Language</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Spoken Languages</font></td>]]></html>
+	<text>Spoken Languages</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Anguilla</td>]]></html>
+	<text>Anguilla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,430</td>]]></html>
+	<text>11,430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Some Spanish</td>]]></html>
+	<text>English, Some Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Antigua and Barbuda</td>]]></html>
+	<text>Antigua and Barbuda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>66,970</td>]]></html>
+	<text>66,970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, local dialects</td>]]></html>
+	<text>English, local dialects</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aruba</td>]]></html>
+	<text>Aruba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,007</td>]]></html>
+	<text>70,007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Papiamento, Dutch, English, Spanish</td>]]></html>
+	<text>Papiamento, Dutch, English, Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bahamas</td>]]></html>
+	<text>Bahamas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>303,611</td>]]></html>
+	<text>303,611</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Creole</td>]]></html>
+	<text>English, Creole</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barbados</td>]]></html>
+	<text>Barbados</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>275,330</td>]]></html>
+	<text>275,330</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bay Islands, Honduras</td>]]></html>
+	<text>Bay Islands, Honduras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49,151</td>]]></html>
+	<text>49,151</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, English, Amerindian dialects</td>]]></html>
+	<text>Spanish, English, Amerindian dialects</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belize</td>]]></html>
+	<text>Belize</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>256,062</td>]]></html>
+	<text>256,062</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Spanish, Mayan, Garifuna, Creole</td>]]></html>
+	<text>English, Spanish, Mayan, Garifuna, Creole</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bermuda</td>]]></html>
+	<text>Bermuda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>63,503</td>]]></html>
+	<text>63,503</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Portuguese</td>]]></html>
+	<text>English, Portuguese</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bonaire</td>]]></html>
+	<text>Bonaire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,230</td>]]></html>
+	<text>14,230</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Papiamento, Dutch, English, Spanish</td>]]></html>
+	<text>Papiamento, Dutch, English, Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Virgin Islands</td>]]></html>
+	<text>British Virgin Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,812</td>]]></html>
+	<text>20,812</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cancun</td>]]></html>
+	<text>Cancun</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>400,000</td>]]></html>
+	<text>400,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, English</td>]]></html>
+	<text>Spanish, English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cayman Islands</td>]]></html>
+	<text>Cayman Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,900</td>]]></html>
+	<text>40,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cuba</td>]]></html>
+	<text>Cuba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,217,100</td>]]></html>
+	<text>11,217,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Curacao</td>]]></html>
+	<text>Curacao</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>130,000</td>]]></html>
+	<text>130,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dominica</td>]]></html>
+	<text>Dominica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,786</td>]]></html>
+	<text>70,786</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, French patois</td>]]></html>
+	<text>English, French patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dominican Republic</td>]]></html>
+	<text>Dominican Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,581,477</td>]]></html>
+	<text>8,581,477</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, Some English</td>]]></html>
+	<text>Spanish, Some English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grenada</td>]]></html>
+	<text>Grenada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,227</td>]]></html>
+	<text>89,227</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, French patois</td>]]></html>
+	<text>English, French patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guadeloupe</td>]]></html>
+	<text>Guadeloupe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>431,170</td>]]></html>
+	<text>431,170</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French, Creole patois</td>]]></html>
+	<text>French, Creole patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Haiti</td>]]></html>
+	<text>Haiti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,964,549</td>]]></html>
+	<text>6,964,549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French, Creole</td>]]></html>
+	<text>French, Creole</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Isla Cozumel</td>]]></html>
+	<text>Isla Cozumel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50,000</td>]]></html>
+	<text>50,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, Some English</td>]]></html>
+	<text>Spanish, Some English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Isla de Margarita</td>]]></html>
+	<text>Isla de Margarita</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350,000</td>]]></html>
+	<text>350,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish</td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, Some English</td>]]></html>
+	<text>Spanish, Some English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jamaica</td>]]></html>
+	<text>Jamaica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,665,636</td>]]></html>
+	<text>2,665,636</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Creole</td>]]></html>
+	<text>English, Creole</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Martinique</td>]]></html>
+	<text>Martinique</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>418,454</td>]]></html>
+	<text>418,454</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French, Creole patois</td>]]></html>
+	<text>French, Creole patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montserrat</td>]]></html>
+	<text>Montserrat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,574</td>]]></html>
+	<text>7,574</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Puerto Rico</td>]]></html>
+	<text>Puerto Rico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,808,610</td>]]></html>
+	<text>3,808,610</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, English</td>]]></html>
+	<text>Spanish, English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish, English</td>]]></html>
+	<text>Spanish, English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saba</td>]]></html>
+	<text>Saba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,704</td>]]></html>
+	<text>1,704</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Dutch</td>]]></html>
+	<text>English, Dutch</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Barthelemy</td>]]></html>
+	<text>Saint Barthelemy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,500</td>]]></html>
+	<text>6,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French, English</td>]]></html>
+	<text>French, English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Croix</td>]]></html>
+	<text>Saint Croix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,234</td>]]></html>
+	<text>53,234</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint John</td>]]></html>
+	<text>Saint John</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,197</td>]]></html>
+	<text>4,197</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Kitts and Nevis</td>]]></html>
+	<text>Saint Kitts and Nevis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38,756</td>]]></html>
+	<text>38,756</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Lucia</td>]]></html>
+	<text>Saint Lucia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>158,178</td>]]></html>
+	<text>158,178</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, French patois</td>]]></html>
+	<text>English, French patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Martin - FWI</td>]]></html>
+	<text>Saint Martin - FWI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,000</td>]]></html>
+	<text>27,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French</td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>French, English, Creole<br />patois, Spanish</td>]]></html>
+	<text>French, English, Creolepatois, Spanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Thomas</td>]]></html>
+	<text>Saint Thomas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,181</td>]]></html>
+	<text>51,181</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saint Vincent<br />and the Grenadines</td>]]></html>
+	<text>Saint Vincentand the Grenadines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115,942</td>]]></html>
+	<text>115,942</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, French patois</td>]]></html>
+	<text>English, French patois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sint Eustatius</td>]]></html>
+	<text>Sint Eustatius</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,249</td>]]></html>
+	<text>2,249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Dutch, Some<br />Spanish</td>]]></html>
+	<text>English, Dutch, SomeSpanish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sint Maarten</td>]]></html>
+	<text>Sint Maarten</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41,718</td>]]></html>
+	<text>41,718</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch</td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Spanish, Dutch,<br />Creole, Papiamento</td>]]></html>
+	<text>English, Spanish, Dutch,Creole, Papiamento</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trinidad and Tobago</td>]]></html>
+	<text>Trinidad and Tobago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,169,682</td>]]></html>
+	<text>1,169,682</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English, Hindi, French,<br />Spanish, Chinese</td>]]></html>
+	<text>English, Hindi, French,Spanish, Chinese</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turks and Caicos<br />Islands</td>]]></html>
+	<text>Turks and CaicosIslands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,122</td>]]></html>
+	<text>18,122</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><i><b>Total Population</b></i></td>]]></html>
+	<text>Total Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><p><i><b>38,045,052</b></i></p></td>]]></html>
+	<text>38,045,052</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Country Population Size Official Language Spoken Languages</text>
+</context>
+<context>
+	<score>0.77171665</score>
+	<text>Advertisement</text>
+</context>
+<context>
+	<score>0.58908993</score>
+	<text>Caribbean Population and Languages 2001</text>
+</context>
+<context>
+	<score>0.53000486</score>
+	<text>Notes</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><font>Country</font></td><td><p><font>Population<br />Size</font></p></td><td><font></font></td><td><p><font>Official Language</font></p></td><td><font>Spoken Languages</font></td></tr><tr><td>Anguilla</td><td>11,430</td><td></td><td>English</td><td>English, Some Spanish</td></tr><tr><td>Antigua and Barbuda</td><td>66,970</td><td></td><td>English</td><td>English, local dialects</td></tr><tr><td>Aruba</td><td>70,007</td><td></td><td>Dutch</td><td>Papiamento, Dutch, English, Spanish</td></tr><tr><td>Bahamas</td><td>303,611</td><td></td><td>English</td><td>English, Creole</td></tr><tr><td>Barbados</td><td>275,330</td><td></td><td>English</td><td>English</td></tr><tr><td>Bay Islands, Honduras</td><td>49,151</td><td></td><td>Spanish</td><td>Spanish, English, Amerindian dialects</td></tr><tr><td>Belize</td><td>256,062</td><td></td><td>English</td><td>English, Spanish, Mayan, Garifuna, Creole</td></tr><tr><td>Bermuda</td><td>63,503</td><td></td><td>English</td><td>English, Portuguese</td></tr><tr><td>Bonaire</td><td>14,230</td><td></td><td>Dutch</td><td>Papiamento, Dutch, English, Spanish</td></tr><tr><td>British Virgin Islands</td><td>20,812</td><td></td><td>English</td><td>English</td></tr><tr><td>Cancun</td><td>400,000</td><td></td><td>Spanish</td><td>Spanish, English</td></tr><tr><td>Cayman Islands</td><td>40,900</td><td></td><td>English</td><td>English</td></tr><tr><td>Cuba</td><td>11,217,100</td><td></td><td>Spanish</td><td>Spanish</td></tr><tr><td>Curacao</td><td>130,000</td><td></td><td>Dutch</td><td>Dutch</td></tr><tr><td>Dominica</td><td>70,786</td><td></td><td>English</td><td>English, French patois</td></tr><tr><td>Dominican Republic</td><td>8,581,477</td><td></td><td>Spanish</td><td>Spanish, Some English</td></tr><tr><td>Grenada</td><td>89,227</td><td></td><td>English</td><td>English, French patois</td></tr><tr><td>Guadeloupe</td><td>431,170</td><td></td><td>French</td><td>French, Creole patois</td></tr><tr><td>Haiti</td><td>6,964,549</td><td></td><td>French</td><td>French, Creole</td></tr><tr><td>Isla Cozumel</td><td>50,000</td><td></td><td>Spanish</td><td>Spanish, Some English</td></tr><tr><td>Isla de Margarita</td><td>350,000</td><td></td><td>Spanish</td><td>Spanish, Some English</td></tr><tr><td>Jamaica</td><td>2,665,636</td><td></td><td>English</td><td>English, Creole</td></tr><tr><td>Martinique</td><td>418,454</td><td></td><td>French</td><td>French, Creole patois</td></tr><tr><td>Montserrat</td><td>7,574</td><td></td><td>English</td><td>English</td></tr><tr><td>Puerto Rico</td><td>3,808,610</td><td></td><td>Spanish, English</td><td>Spanish, English</td></tr><tr><td>Saba</td><td>1,704</td><td></td><td>Dutch</td><td>English, Dutch</td></tr><tr><td>Saint Barthelemy</td><td>6,500</td><td></td><td>French</td><td>French, English</td></tr><tr><td>Saint Croix</td><td>53,234</td><td></td><td>English</td><td>English</td></tr><tr><td>Saint John</td><td>4,197</td><td></td><td>English</td><td>English</td></tr><tr><td>Saint Kitts and Nevis</td><td>38,756</td><td></td><td>English</td><td>English</td></tr><tr><td>Saint Lucia</td><td>158,178</td><td></td><td>English</td><td>English, French patois</td></tr><tr><td>Saint Martin - FWI</td><td>27,000</td><td></td><td>French</td><td>French, English, Creole<br />patois, Spanish</td></tr><tr><td>Saint Thomas</td><td>51,181</td><td></td><td>English</td><td>English</td></tr><tr><td>Saint Vincent<br />and the Grenadines</td><td>115,942</td><td></td><td>English</td><td>English, French patois</td></tr><tr><td>Sint Eustatius</td><td>2,249</td><td></td><td>Dutch</td><td>English, Dutch, Some<br />Spanish</td></tr><tr><td>Sint Maarten</td><td>41,718</td><td></td><td>Dutch</td><td>English, Spanish, Dutch,<br />Creole, Papiamento</td></tr><tr><td>Trinidad and Tobago</td><td>1,169,682</td><td></td><td>English</td><td>English, Hindi, French,<br />Spanish, Chinese</td></tr><tr><td>Turks and Caicos<br />Islands</td><td>18,122</td><td></td><td>English</td><td>English</td></tr><tr><td><i><b>Total Population</b></i></td><td><p><i><b>38,045,052</b></i></p></td><td></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

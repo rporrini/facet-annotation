@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/c/a/r/Car_and_Driver_Ten_Best_7180.html_28.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 0 2, 0.11111112 1 2, 0.080000006 2, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/r/Car_and_Driver_Ten_Best_7180.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Model</th>]]></html>
+	<text>Model</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Times on List</th>]]></html>
+	<text>Times on List</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Large SUV</td>]]></html>
+	<text>Large SUV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Honda Pilot</td>]]></html>
+	<text>Honda Pilot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luxury SUV</td>]]></html>
+	<text>Luxury SUV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cadillac SRX</td>]]></html>
+	<text>Cadillac SRX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pickup Truck</td>]]></html>
+	<text>Pickup Truck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ford F-Series</td>]]></html>
+	<text>Ford F-Series</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Small SUV</td>]]></html>
+	<text>Small SUV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Subaru Forester</td>]]></html>
+	<text>Subaru Forester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Van</td>]]></html>
+	<text>Van</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toyota Sienna</td>]]></html>
+	<text>Toyota Sienna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Car and Driver Ten Best - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Model Times on List</text>
+</context>
+<context>
+	<score>0.880217</score>
+	<text>[ edit ] Five Best Trucks</text>
+</context>
+<context>
+	<score>0.78640914</score>
+	<text>Car and Driver Ten Best</text>
+</context>
+<context>
+	<score>0.78181773</score>
+	<text>Price cap: $69,000</text>
+</context>
+<context>
+	<score>0.75187457</score>
+	<text>[ edit ] 2005</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] Top Ten Marques</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] Top Manufacturers</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] Top Ten Models</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1983</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1984</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1985</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1986</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1987</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1988</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1989</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1990</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1991</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1992</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1993</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1994</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1995</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1996</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1997</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1998</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 1999</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2000</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2001</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2002</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2003</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2004</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2005</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2006</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2007</text>
+</context>
+<context>
+	<score>0.7102626</score>
+	<text>[ edit ] 2008</text>
+</context>
+<context>
+	<score>0.7088333</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70567125</score>
+	<text>[ edit ] Ten Best Cars</text>
+</context>
+<context>
+	<score>0.6436105</score>
+	<text>[ edit ] 2004</text>
+</context>
+<context>
+	<score>0.60507756</score>
+	<text>[ edit ] Ten Best Cars</text>
+</context>
+<context>
+	<score>0.5939619</score>
+	<text>[ edit ] Five Best Trucks</text>
+</context>
+<context>
+	<score>0.55281365</score>
+	<text>Price cap: $66,000</text>
+</context>
+<context>
+	<score>0.522468</score>
+	<text>[ edit ] Ten Best Cars</text>
+</context>
+<context>
+	<score>0.517297</score>
+	<text>Price cap: $70,000</text>
+</context>
+<context>
+	<score>0.4970479</score>
+	<text>[ edit ] 2003</text>
+</context>
+<context>
+	<score>0.47671184</score>
+	<text>[ edit ] Five Best Trucks</text>
+</context>
+<context>
+	<score>0.4665022</score>
+	<text>For 2005 and 2006, the magazine named one winner in each category.</text>
+</context>
+<context>
+	<score>0.4590136</score>
+	<text>Price cap: $66,000</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th>Title</th><th>Model</th><th>Times on List</th></tr><tr><td>Large SUV</td><td><a href="../../../../articles/h/o/n/Honda_Pilot_c88e.html" title="Honda Pilot">Honda Pilot</a></td><td>6</td></tr><tr><td>Luxury SUV</td><td><a href="../../../../articles/c/a/d/Cadillac_SRX_526d.html" title="Cadillac SRX">Cadillac SRX</a></td><td>3</td></tr><tr><td>Pickup Truck</td><td><a href="../../../../articles/f/o/r/Ford_F-Series_ed98.html" title="Ford F-Series">Ford F-Series</a></td><td>3</td></tr><tr><td>Small SUV</td><td><a href="../../../../articles/s/u/b/Subaru_Forester_cf7f.html" title="Subaru Forester">Subaru Forester</a></td><td>3</td></tr><tr><td>Van</td><td><a href="../../../../articles/t/o/y/Toyota_Sienna_b648.html" title="Toyota Sienna">Toyota Sienna</a></td><td>1</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/m/i/n/Minnesota_Twins_team_records_b93e.html_25.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 1 2, 0.13333334 2, 0.13333334 0 1, 0.10666668 0, 0.017777778 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/m/i/n/Minnesota_Twins_team_records_b93e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Player</th>]]></html>
+	<text>Player</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Amount</th>]]></html>
+	<text>Amount</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walter Johnson</td>]]></html>
+	<text>Walter Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110</td>]]></html>
+	<text>110</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camilo Pascual</td>]]></html>
+	<text>Camilo Pascual</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bert Blyleven</td>]]></html>
+	<text>Bert Blyleven</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Kaat</td>]]></html>
+	<text>Jim Kaat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dutch Leonard</td>]]></html>
+	<text>Dutch Leonard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Minnesota Twins team records - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Player Amount</text>
+</context>
+<context>
+	<score>0.88157755</score>
+	<text>[ edit ] Shutouts</text>
+</context>
+<context>
+	<score>0.7969419</score>
+	<text>Minnesota Twins team records</text>
+</context>
+<context>
+	<score>0.7845945</score>
+	<text>[ edit ] Complete games</text>
+</context>
+<context>
+	<score>0.75321764</score>
+	<text>[ edit ] Saves</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] Single season records</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] Single game records</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] All-Time Leaders</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] Rare Feats</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] Major League Baseball records and firsts</text>
+</context>
+<context>
+	<score>0.7221617</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70700806</score>
+	<text>[ edit ] Games started</text>
+</context>
+<context>
+	<score>0.6421328</score>
+	<text>*Active Player</text>
+</context>
+<context>
+	<score>0.60359466</score>
+	<text>*still active</text>
+</context>
+<context>
+	<score>0.5952837</score>
+	<text>[ edit ] Games played</text>
+</context>
+<context>
+	<score>0.5555595</score>
+	<text>[ edit ] ERA</text>
+</context>
+<context>
+	<score>0.5237801</score>
+	<text>[ edit ] Losses</text>
+</context>
+<context>
+	<score>0.520038</score>
+	<text>[ edit ] Innings pitched</text>
+</context>
+<context>
+	<score>0.4983566</score>
+	<text>[ edit ] Wins</text>
+</context>
+<context>
+	<score>0.4780178</score>
+	<text>[ edit ] Pitching</text>
+</context>
+<context>
+	<score>0.46923634</score>
+	<text>[ edit ] Rare Feats</text>
+</context>
+<context>
+	<score>0.46174675</score>
+	<text>[ edit ] Batting average</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="font-size: 95%; text-align:left;"><tr><th>Rank</th><th>Player</th><th>Amount</th></tr><tr><td align="center">1</td><td><a href="../../../../articles/w/a/l/Walter_Johnson_b086.html" title="Walter Johnson">Walter Johnson</a></td><td>110</td></tr><tr><td align="center">2</td><td><a href="../../../../articles/c/a/m/Camilo_Pascual_2897.html" title="Camilo Pascual">Camilo Pascual</a></td><td>31</td></tr><tr><td align="center">3</td><td><a href="../../../../articles/b/e/r/Bert_Blyleven_41e8.html" title="Bert Blyleven">Bert Blyleven</a></td><td>29</td></tr><tr><td align="center">4</td><td><a href="../../../../articles/j/i/m/Jim_Kaat_02bf.html" title="Jim Kaat">Jim Kaat</a></td><td>23</td></tr><tr><td align="center">4</td><td><a href="../../../../articles/d/u/t/Dutch_Leonard_%28right-handed_pitcher%29_a1fd.html" title="Dutch Leonard (right-handed pitcher)">Dutch Leonard</a></td><td>23</td></tr></table>]]>
+</htmlSnippet>
+</entity>

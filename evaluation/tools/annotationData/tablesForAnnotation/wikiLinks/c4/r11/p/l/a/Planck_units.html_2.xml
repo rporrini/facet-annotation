@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r11/p/l/a/Planck_units.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/p/l/a/Planck_units.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Dimensions</th>]]></html>
+	<text>Dimensions</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Expression</th>]]></html>
+	<text>Expression</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Approximate SI equivalent</th>]]></html>
+	<text>Approximate SI equivalent</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck area</td>]]></html>
+	<text>Planck area</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Area (L²)</td>]]></html>
+	<text>Area (L&#178;)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/2/8/e/28e992462b3c43cd1009d441cf3aeeb9.png</td>]]></html>
+	<text>../../../../math/2/8/e/28e992462b3c43cd1009d441cf3aeeb9.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.61223 × 10 -70 m 2</td>]]></html>
+	<text>2.61223 &#215; 10 -70 m 2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck momentum</td>]]></html>
+	<text>Planck momentum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Momentum (LMT −1 )</td>]]></html>
+	<text>Momentum (LMT &#8722;1 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/e/c/5/ec5b8890d5b2bcd865430577f0c27bea.png</td>]]></html>
+	<text>../../../../math/e/c/5/ec5b8890d5b2bcd865430577f0c27bea.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.52485 kg m/s</td>]]></html>
+	<text>6.52485 kg m/s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck energy</td>]]></html>
+	<text>Planck energy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Energy (L²MT −2 )</td>]]></html>
+	<text>Energy (L&#178;MT &#8722;2 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/f/2/c/f2c9473fbfb49966007d7850fb90c05d.png</td>]]></html>
+	<text>../../../../math/f/2/c/f2c9473fbfb49966007d7850fb90c05d.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.9561 × 10 9 J</td>]]></html>
+	<text>1.9561 &#215; 10 9 J</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck force</td>]]></html>
+	<text>Planck force</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Force (LMT −2 )</td>]]></html>
+	<text>Force (LMT &#8722;2 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/4/6/5/465e8a759f2f6afe254ff8996c287282.png</td>]]></html>
+	<text>../../../../math/4/6/5/465e8a759f2f6afe254ff8996c287282.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.21027 × 10 44 N</td>]]></html>
+	<text>1.21027 &#215; 10 44 N</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck power</td>]]></html>
+	<text>Planck power</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Power (L²MT −3 )</td>]]></html>
+	<text>Power (L&#178;MT &#8722;3 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/4/6/5/4652c2063dd869b4445aa563d0f08974.png</td>]]></html>
+	<text>../../../../math/4/6/5/4652c2063dd869b4445aa563d0f08974.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.62831 × 10 52 W</td>]]></html>
+	<text>3.62831 &#215; 10 52 W</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck density</td>]]></html>
+	<text>Planck density</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Density (L −3 M)</td>]]></html>
+	<text>Density (L &#8722;3 M)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/4/8/c/48c66845e575d1ae801f525403b0ff3a.png</td>]]></html>
+	<text>../../../../math/4/8/c/48c66845e575d1ae801f525403b0ff3a.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.15500 × 10 96 kg/m 3</td>]]></html>
+	<text>5.15500 &#215; 10 96 kg/m 3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck angular frequency</td>]]></html>
+	<text>Planck angular frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frequency (T −1 )</td>]]></html>
+	<text>Frequency (T &#8722;1 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/4/c/e/4ce116a8acb442a1c23a739c22fe9dd0.png</td>]]></html>
+	<text>../../../../math/4/c/e/4ce116a8acb442a1c23a739c22fe9dd0.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.85487 × 10 43 s −1</td>]]></html>
+	<text>1.85487 &#215; 10 43 s &#8722;1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck pressure</td>]]></html>
+	<text>Planck pressure</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pressure (LM −1 T −2 )</td>]]></html>
+	<text>Pressure (LM &#8722;1 T &#8722;2 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/b/8/f/b8f505074d893087a48bc562aed7c420.png</td>]]></html>
+	<text>../../../../math/b/8/f/b8f505074d893087a48bc562aed7c420.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.63309 × 10 113 Pa</td>]]></html>
+	<text>4.63309 &#215; 10 113 Pa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck current</td>]]></html>
+	<text>Planck current</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Electric current (QT −1 )</td>]]></html>
+	<text>Electric current (QT &#8722;1 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/5/7/7/57750bfc66e0490ffa47f50f44615d0d.png</td>]]></html>
+	<text>../../../../math/5/7/7/57750bfc66e0490ffa47f50f44615d0d.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.4789 × 10 25 A</td>]]></html>
+	<text>3.4789 &#215; 10 25 A</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck voltage</td>]]></html>
+	<text>Planck voltage</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voltage (L²MT −2 Q −1 )</td>]]></html>
+	<text>Voltage (L&#178;MT &#8722;2 Q &#8722;1 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/5/e/2/5e2a4cb7ffff38ed112e3d658935ac29.png</td>]]></html>
+	<text>../../../../math/5/e/2/5e2a4cb7ffff38ed112e3d658935ac29.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.04295 × 10 27 V</td>]]></html>
+	<text>1.04295 &#215; 10 27 V</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Planck impedance</td>]]></html>
+	<text>Planck impedance</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Resistance (L²MT −1 Q −2 )</td>]]></html>
+	<text>Resistance (L&#178;MT &#8722;1 Q &#8722;2 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../math/6/f/9/6f94b64c1aafd06b24b56155947d7c50.png</td>]]></html>
+	<text>../../../../math/6/f/9/6f94b64c1aafd06b24b56155947d7c50.png</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.9792458 Ω</td>]]></html>
+	<text>29.9792458 &#937;</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Planck units - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Dimensions Expression Approximate SI equivalent</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Table 3: Derived Planck units</text>
+</context>
+<context>
+	<score>0.7926406</score>
+	<text>Planck units</text>
+</context>
+<context>
+	<score>0.78457296</score>
+	<text>In any system of measurement, units for many physical quantities can be derived from base units. Table 3 offers a random sample of derived Planck units, some of which in fact are seldom used. As with the base units, their use is mostly confined to theoretical physics because most of them are too large or too small for empirical or practical use and there are large uncertainties in their values (see Discussion and Uncertainties in values below).</text>
+</context>
+<context>
+	<score>0.7532004</score>
+	<text>[ edit ] Planck units simplify the key equations of physics</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Base Planck units</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Derived Planck units</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Planck units simplify the key equations of physics</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Alternative normalizations</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Uncertainties in values</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Discussion</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71781975</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7069972</score>
+	<text>[ edit ] Derived Planck units</text>
+</context>
+<context>
+	<score>0.6449366</score>
+	<text>By setting to unity the five fundamental constants in Table 1, the base units of length , mass , time , charge , and temperature shown in Table 2 also acquire the value unity. This may be expressed in non-dimensional terms as follows:</text>
+</context>
+<context>
+	<score>0.60640377</score>
+	<text>Ordinarily, physical quantities that have different dimensions (such as time and length) cannot be equated even if they are numerically equal (1 second is not the same as 1 metre). However, in theoretical physics this scruple can be set aside in order to simplify calculations. The process by which this is done is called Nondimensionalization . Table 4 shows how Planck units, by setting the numerical values of the five fundamental constants to unity, simplify many equations of physics and make them nondimensional .</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Table 2: Base Planck units</text>
+</context>
+<context>
+	<score>0.55556935</score>
+	<text>Key: L = length , T = time , M = mass , Q = electric charge , = temperature . The values given without uncertainties are exact due to the definitions of the metre and the ampere .</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Table 1: Fundamental physical constants</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Table 4: Nondimensionalized equations</text>
+</context>
+<context>
+	<score>0.4983743</score>
+	<text>All systems of measurement feature &quot;base units&quot;. (In the SI system, for example, the base unit of length is the meter .) In the system of Planck units, the Planck base unit of length is known simply as the Planck length , the base unit of time is the Planck time , etc. These units are derived from the five fundamental physical constants in Table 1, which are arranged in Table 2 so as to cancel out the unwanted dimensions, leaving only the dimension appropriate to each unit. (Like all systems of natural units , Planck units are an instance of dimensional analysis .)</text>
+</context>
+<context>
+	<score>0.47803828</score>
+	<text>[ edit ] Base Planck units</text>
+</context>
+<context>
+	<score>0.46925807</score>
+	<text>[ edit ] Alternative normalizations</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="margin: 1em auto 1em auto; background-color: #ffffff"><tr><th>Name</th><th>Dimensions</th><th>Expression</th><th>Approximate <a href="../../../../articles/s/i/_/SI_ce77.html" class="mw-redirect" title="SI">SI</a> equivalent</th></tr><tr align="left"><td><b><a href="../../../../articles/p/l/a/Planck_area.html" class="mw-redirect" title="Planck area">Planck area</a></b></td><td><a href="../../../../articles/a/r/e/Area.html" title="Area">Area</a> (L²)</td><td><img class="tex" alt=" l_P^2 = \frac{\hbar G}{c^3}" src="../../../../math/2/8/e/28e992462b3c43cd1009d441cf3aeeb9.png" /></td><td>2.61223 × 10<sup>-70</sup> <a href="../../../../articles/s/q/u/Square_metre.html" title="Square metre">m<sup>2</sup></a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_momentum.html" title="Planck momentum">Planck momentum</a></b></td><td><a href="../../../../articles/m/o/m/Momentum.html" title="Momentum">Momentum</a> (LMT<sup>−1</sup>)</td><td><img class="tex" alt="m_P c = \frac{\hbar}{l_P} = \sqrt{\frac{\hbar c^3}{G}} " src="../../../../math/e/c/5/ec5b8890d5b2bcd865430577f0c27bea.png" /></td><td>6.52485 <a href="../../../../articles/k/i/l/Kilogram.html" title="Kilogram">kg</a> <a href="../../../../articles/m/e/t/Metre_per_second.html" title="Metre per second">m/s</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_energy.html" title="Planck energy">Planck energy</a></b></td><td><a href="../../../../articles/e/n/e/Energy.html" title="Energy">Energy</a> (L²MT<sup>−2</sup>)</td><td><img class="tex" alt="E_P = m_P c^2 = \frac{\hbar}{t_P} = \sqrt{\frac{\hbar c^5}{G}} " src="../../../../math/f/2/c/f2c9473fbfb49966007d7850fb90c05d.png" /></td><td><a href="../../../../articles/1/_/e/1_E9_J_e95d.html" class="mw-redirect" title="1 E9 J">1.9561 × 10<sup>9</sup></a> <a href="../../../../articles/j/o/u/Joule.html" title="Joule">J</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_force.html" title="Planck force">Planck force</a></b></td><td><a href="../../../../articles/f/o/r/Force.html" title="Force">Force</a> (LMT<sup>−2</sup>)</td><td><img class="tex" alt="F_P = \frac{E_P}{l_P} = \frac{\hbar}{l_P t_P} = \frac{c^4}{G} " src="../../../../math/4/6/5/465e8a759f2f6afe254ff8996c287282.png" /></td><td>1.21027 × 10<sup>44</sup> <a href="../../../../articles/n/e/w/Newton.html" title="Newton">N</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_power.html" title="Planck power">Planck power</a></b></td><td><a href="../../../../articles/p/o/w/Power_%28physics%29.html" title="Power (physics)">Power</a> (L²MT<sup>−3</sup>)</td><td><img class="tex" alt="P_P = \frac{E_P}{t_P} = \frac{\hbar}{t_P^2} = \frac{c^5}{G} " src="../../../../math/4/6/5/4652c2063dd869b4445aa563d0f08974.png" /></td><td><a href="../../../../articles/1/_/e/1_E52_W_e8f9.html" class="mw-redirect" title="1 E52 W">3.62831 × 10<sup>52</sup></a> <a href="../../../../articles/w/a/t/Watt.html" title="Watt">W</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_density.html" title="Planck density">Planck density</a></b></td><td><a href="../../../../articles/d/e/n/Density.html" title="Density">Density</a> (L<sup>−3</sup>M)</td><td><img class="tex" alt="\rho_P = \frac{m_P}{l_P^3} = \frac{\hbar t_P}{l_P^5} = \frac{c^5}{\hbar G^2} " src="../../../../math/4/8/c/48c66845e575d1ae801f525403b0ff3a.png" /></td><td><a href="../../../../articles/1/_/e/1_E96_f250.html" class="mw-redirect" title="1 E96">5.15500 × 10<sup>96</sup></a> <a href="../../../../articles/k/i/l/Kilogram_per_cubic_metre.html" title="Kilogram per cubic metre">kg/m<sup>3</sup></a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_angular_frequency.html" title="Planck angular frequency">Planck angular frequency</a></b></td><td><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a> (T<sup>−1</sup>)</td><td><img class="tex" alt="\omega_P = \frac{1}{t_P} = \sqrt{\frac{c^5}{\hbar G}} " src="../../../../math/4/c/e/4ce116a8acb442a1c23a739c22fe9dd0.png" /></td><td>1.85487 × 10<sup>43</sup> <a href="../../../../articles/a/n/g/Angular_frequency.html" title="Angular frequency">s<sup>−1</sup></a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_pressure.html" title="Planck pressure">Planck pressure</a></b></td><td><a href="../../../../articles/p/r/e/Pressure.html" title="Pressure">Pressure</a> (LM<sup>−1</sup>T<sup>−2</sup>)</td><td><img class="tex" alt="p_P = \frac{F_P}{l_P^2} = \frac{\hbar}{l_P^3 t_P} =\frac{c^7}{\hbar G^2} " src="../../../../math/b/8/f/b8f505074d893087a48bc562aed7c420.png" /></td><td><a href="../../../../articles/o/r/d/Orders_of_magnitude_%28pressure%29.html" title="Orders of magnitude (pressure)">4.63309 × 10<sup>113</sup></a> <a href="../../../../articles/p/a/s/Pascal_%28unit%29.html" title="Pascal (unit)">Pa</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_current.html" title="Planck current">Planck current</a></b></td><td><a href="../../../../articles/c/u/r/Current_%28electricity%29.html" class="mw-redirect" title="Current (electricity)">Electric current</a> (QT<sup>−1</sup>)</td><td><img class="tex" alt="I_P = \frac{q_P}{t_P} = \sqrt{\frac{c^6 4 \pi \epsilon_0}{G}} " src="../../../../math/5/7/7/57750bfc66e0490ffa47f50f44615d0d.png" /></td><td>3.4789 × 10<sup>25</sup> <a href="../../../../articles/a/m/p/Ampere.html" title="Ampere">A</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_voltage.html" title="Planck voltage">Planck voltage</a></b></td><td><a href="../../../../articles/v/o/l/Voltage.html" title="Voltage">Voltage</a> (L²MT<sup>−2</sup>Q<sup>−1</sup>)</td><td><img class="tex" alt="V_P = \frac{E_P}{q_P} = \frac{\hbar}{t_P q_P} = \sqrt{\frac{c^4}{G 4 \pi \epsilon_0} } " src="../../../../math/5/e/2/5e2a4cb7ffff38ed112e3d658935ac29.png" /></td><td>1.04295 × 10<sup>27</sup> <a href="../../../../articles/v/o/l/Volt.html" title="Volt">V</a></td></tr><tr><td><b><a href="../../../../articles/p/l/a/Planck_impedance.html" title="Planck impedance">Planck impedance</a></b></td><td><a href="../../../../articles/e/l/e/Electrical_resistance.html" title="Electrical resistance">Resistance</a> (L²MT<sup>−1</sup>Q<sup>−2</sup>)</td><td><img class="tex" alt="Z_P = \frac{V_P}{I_P} = \frac{\hbar}{q_P^2} = \frac{1}{4 \pi \epsilon_0 c} = \frac{Z_0}{4 \pi} " src="../../../../math/6/f/9/6f94b64c1aafd06b24b56155947d7c50.png" /></td><td>29.9792458 <a href="../../../../articles/o/h/m/Ohm_%28unit%29.html" class="mw-redirect" title="Ohm (unit)">Ω</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

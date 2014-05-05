@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r14/l/o/n/Long_March_rocket_ea21.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 0 1, 0.20238096 1, 0.17777778 0 2, 0.16666667 0 3, 0.15555556 0 4, 0.15476191 3, 0.14616401 1 3, 0.14444445 5, 0.14444445 0 5, 0.13641976 1 5, 0.13333334 0 6, 0.12222222 0 7, 0.113492064 7, 0.11111112 0 8, 0.10718694 1 7, 0.098941796 1 6, 0.09594356 1 2, 0.07619049 6, 0.07495591 1 8, 0.071428575 8, 0.06349207 2, 0.052469134 1 4, 0.033333335 4, 0.029629631 2 3, 0.025679013 2 5, 0.024074076 3 4, 0.024074076 3 5, 0.022469137 4 5, 0.022222225 3 6, 0.021728395 2 7, 0.02037037 3 7, 0.019259261 5 6, 0.019012347 4 7, 0.01851852 3 8, 0.017654322 5 7, 0.016296297 6 7, 0.016049383 5 8, 0.015238096 2 6, 0.01410935 2 8, 0.013756615 6 8, 0.013580248 7 8, 0.01234568 4 8, 0.011851853 2 4, 0.011851853 4 6, " />
+<meta name="parentHTMLDoc" value="en/articles/l/o/n/Long_March_rocket_ea21.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Model</th>]]></html>
+	<text>Model</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stages</th>]]></html>
+	<text>Stages</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Length (m)</th>]]></html>
+	<text>Length (m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Max. diameter (m)</th>]]></html>
+	<text>Max. diameter (m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Liftoff mass (t)</th>]]></html>
+	<text>Liftoff mass (t)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Liftoff thrust (kN)</th>]]></html>
+	<text>Liftoff thrust (kN)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Payload ( LEO , kg)</th>]]></html>
+	<text>Payload ( LEO , kg)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Payload ( GTO , kg)</th>]]></html>
+	<text>Payload ( GTO , kg)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 1</td>]]></html>
+	<text>Long March 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired</td>]]></html>
+	<text>Retired</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.86</td>]]></html>
+	<text>29.86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.25</td>]]></html>
+	<text>2.25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81.6</td>]]></html>
+	<text>81.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1020</td>]]></html>
+	<text>1020</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300</td>]]></html>
+	<text>300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 1D</td>]]></html>
+	<text>Long March 1D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired</td>]]></html>
+	<text>Retired</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.22</td>]]></html>
+	<text>28.22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.25</td>]]></html>
+	<text>2.25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81.1</td>]]></html>
+	<text>81.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1101</td>]]></html>
+	<text>1101</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>930</td>]]></html>
+	<text>930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 2A</td>]]></html>
+	<text>Long March 2A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired</td>]]></html>
+	<text>Retired</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31.17</td>]]></html>
+	<text>31.17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>190</td>]]></html>
+	<text>190</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2786</td>]]></html>
+	<text>2786</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1800</td>]]></html>
+	<text>1800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 2C</td>]]></html>
+	<text>Long March 2C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35.15</td>]]></html>
+	<text>35.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>192</td>]]></html>
+	<text>192</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2786</td>]]></html>
+	<text>2786</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2400</td>]]></html>
+	<text>2400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 2D</td>]]></html>
+	<text>Long March 2D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.667 (without shield)</td>]]></html>
+	<text>33.667 (without shield)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>232</td>]]></html>
+	<text>232</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2962</td>]]></html>
+	<text>2962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3100</td>]]></html>
+	<text>3100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 2E</td>]]></html>
+	<text>Long March 2E</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired [ citation needed ]</td>]]></html>
+	<text>Retired [ citation needed ]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 (plus 4 Strap-on boosters)</td>]]></html>
+	<text>2 (plus 4 Strap-on boosters)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49.686</td>]]></html>
+	<text>49.686</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.85</td>]]></html>
+	<text>7.85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>462</td>]]></html>
+	<text>462</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5923</td>]]></html>
+	<text>5923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9200</td>]]></html>
+	<text>9200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3500</td>]]></html>
+	<text>3500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 2F</td>]]></html>
+	<text>Long March 2F</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 (plus 4 Strap-on boosters)</td>]]></html>
+	<text>2 (plus 4 Strap-on boosters)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.34</td>]]></html>
+	<text>58.34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.85</td>]]></html>
+	<text>7.85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>480</td>]]></html>
+	<text>480</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5923</td>]]></html>
+	<text>5923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8400</td>]]></html>
+	<text>8400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3370</td>]]></html>
+	<text>3370</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 3</td>]]></html>
+	<text>Long March 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired</td>]]></html>
+	<text>Retired</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.8</td>]]></html>
+	<text>43.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>202</td>]]></html>
+	<text>202</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2962</td>]]></html>
+	<text>2962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5000</td>]]></html>
+	<text>5000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1500</td>]]></html>
+	<text>1500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 3A</td>]]></html>
+	<text>Long March 3A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52.3</td>]]></html>
+	<text>52.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>241</td>]]></html>
+	<text>241</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2962</td>]]></html>
+	<text>2962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8500</td>]]></html>
+	<text>8500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2600</td>]]></html>
+	<text>2600</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 3B</td>]]></html>
+	<text>Long March 3B</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 (plus 4 Strap-on boosters)</td>]]></html>
+	<text>3 (plus 4 Strap-on boosters)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54.84</td>]]></html>
+	<text>54.84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.85</td>]]></html>
+	<text>7.85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>425.5</td>]]></html>
+	<text>425.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5924</td>]]></html>
+	<text>5924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12000</td>]]></html>
+	<text>12000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5200</td>]]></html>
+	<text>5200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 3C</td>]]></html>
+	<text>Long March 3C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 (plus 2 Strap-on boosters)</td>]]></html>
+	<text>3 (plus 2 Strap-on boosters)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54.84</td>]]></html>
+	<text>54.84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.85</td>]]></html>
+	<text>7.85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>345</td>]]></html>
+	<text>345</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4443</td>]]></html>
+	<text>4443</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3800</td>]]></html>
+	<text>3800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 4A</td>]]></html>
+	<text>Long March 4A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retired</td>]]></html>
+	<text>Retired</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41.9</td>]]></html>
+	<text>41.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>249</td>]]></html>
+	<text>249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2962</td>]]></html>
+	<text>2962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4000</td>]]></html>
+	<text>4000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>( SSO ) 1500</td>]]></html>
+	<text>( SSO ) 1500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 4B</td>]]></html>
+	<text>Long March 4B</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44.1</td>]]></html>
+	<text>44.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>254</td>]]></html>
+	<text>254</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2971</td>]]></html>
+	<text>2971</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4200</td>]]></html>
+	<text>4200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>( SSO ) 2200</td>]]></html>
+	<text>( SSO ) 2200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Long March 4C</td>]]></html>
+	<text>Long March 4C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Active</td>]]></html>
+	<text>Active</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.35</td>]]></html>
+	<text>3.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2971?</td>]]></html>
+	<text>2971?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Long March rocket - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Model Status Stages Length (m) Max. diameter (m) Liftoff mass (t) Liftoff thrust (kN) Payload ( LEO , kg) Payload ( GTO , kg)</text>
+</context>
+<context>
+	<score>0.88223135</score>
+	<text>[ edit ] Specifications of Long March rocket family</text>
+</context>
+<context>
+	<score>0.7919191</score>
+	<text>Long March rocket</text>
+</context>
+<context>
+	<score>0.7852617</score>
+	<text>As of 2003, the main stages and the booster rockets of Long March rockets use storable propellants with UDMH as the fuel and dinitrogen tetroxide as the oxidizing agent . The upper stages (third stage) of Long March 3 rockets use YF-73 and YF-75 engines, using Liquid hydrogen (LH2) as the fuel and Liquid oxygen (LOX) as the oxidizer.</text>
+</context>
+<context>
+	<score>0.7538891</score>
+	<text>See also: Long March 5 rocket family</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Payloads</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Propellants</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Specifications of Long March rocket family</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Origins</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Launch sites</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Commercial launch services</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Launch history</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] Planned launches</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7177869</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143434</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7076859</score>
+	<text>[ edit ] Propellants</text>
+</context>
+<context>
+	<score>0.64562523</score>
+	<text>The PRC launched its first satellite , known as Dong Fang Hong 1 (&quot;the East is Red&quot;), to Earth orbit on its own Long March space rocket on April 24 , 1970 , becoming the fifth nation to achieve independent launch capability. The Shenzhou spacecraft and Chang&apos;e 1 lunar orbiter are also launched on the Long March rocket. The maximum payload for LEO is 9200 kg (CZ-2F), the maximum payload for GTO is 5200 kg (CZ-3B). The next generation rocket -- Long March 5 variants will offer more payload in the future.</text>
+</context>
+<context>
+	<score>0.6070924</score>
+	<text>[ edit ] Origins</text>
+</context>
+<context>
+	<score>0.59597677</score>
+	<text>[ edit ] Payloads</text>
+</context>
+<context>
+	<score>0.5528144</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5244829</score>
+	<text>; pinyin : Ch ngzh ng x li y nz i hu ji n) is any rocket in a family of expendable launch systems operated by the People&apos;s Republic of China . Development and design falls under the auspices of the China Academy of Launch Vehicle Technology . Confusingly, the rockets are abbreviated both LM- and CZ- in English . The rockets are named after the Long March of Chinese communist history .</text>
+</context>
+<context>
+	<score>0.5207414</score>
+	<text>The Long March rocket is related to early versions of the Dongfeng missile (note that Dongfeng is the generic Chinese name for all of its land ICBMs ). However, like its counterparts in both the United States and in Russia , the differing needs of space rockets and strategic missiles have caused the development of space rockets and missiles to diverge. The main goal of a space rocket is to maximize payload, while for strategic missiles increased throw weight is much less important than the ability to launch quickly and to survive a first strike . This divergence has become clear in the next generation of Long March rockets which use cryogenic propellants in sharp contrast to the next generation of strategic missiles which are mobile and solid fuelled .</text>
+</context>
+<context>
+	<score>0.4990629</score>
+	<text>; traditional Chinese :</text>
+</context>
+<context>
+	<score>0.4787269</score>
+	<text>A Long March rocket ( simplified Chinese :</text>
+</context>
+<context>
+	<score>0.46994665</score>
+	<text>[ edit ] Launch sites</text>
+</context>
+<context>
+	<score>0.45901453</score>
+	<text>CZ-2F rocket</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Model</th><th>Status</th><th>Stages</th><th>Length<br />(m)</th><th>Max. diameter<br />(m)</th><th>Liftoff mass<br />(t)</th><th>Liftoff thrust<br />(kN)</th><th>Payload<br />( <a href="../../../../articles/l/o/w/Low_Earth_orbit_c9ed.html" title="Low Earth orbit">LEO</a>, kg)</th><th>Payload<br />( <a href="../../../../articles/g/e/o/Geostationary_transfer_orbit.html" title="Geostationary transfer orbit">GTO</a>, kg)</th></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_1_36df.html" title="Long March 1">Long March 1</a></td><td>Retired</td><td>3</td><td>29.86</td><td>2.25</td><td>&#160;&#160;81.6</td><td>1020</td><td>&#160;&#160;&#160;&#160;300</td><td>-</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_1D_2ef9.html" title="Long March 1D">Long March 1D</a></td><td>Retired</td><td>3</td><td>28.22</td><td>2.25</td><td>&#160;&#160;81.1</td><td>1101</td><td>&#160;&#160;&#160;&#160;930</td><td>-</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_2A_f6dc.html" title="Long March 2A">Long March 2A</a></td><td>Retired</td><td>2</td><td>31.17</td><td>3.35</td><td>190</td><td>2786</td><td>&#160;&#160;1800</td><td>-</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_2C_50d2.html" title="Long March 2C">Long March 2C</a></td><td>Active</td><td>2</td><td>35.15</td><td>3.35</td><td>192</td><td>2786</td><td>&#160;&#160;2400</td><td>-</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_2D_79bf.html" title="Long March 2D">Long March 2D</a></td><td>Active</td><td>2</td><td>33.667<br />(without shield)</td><td>3.35</td><td>232</td><td>2962</td><td>&#160;&#160;3100</td><td>-</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_2E_7ccc.html" title="Long March 2E">Long March 2E</a></td><td>Retired<sup class="noprint Template-Fact"><span title="This claim needs references to reliable sources&#160;since April 2008" style="white-space: nowrap;">[<i><a href="../../../../articles/c/i/t/Wikipedia%7ECitation_needed_0174.html" title="Wikipedia:Citation needed">citation needed</a></i>]</span></sup></td><td>2 (plus 4<br />Strap-on boosters)</td><td>49.686</td><td>7.85</td><td>462</td><td>5923</td><td>&#160;&#160;9200</td><td>3500</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_2F_d702.html" title="Long March 2F">Long March 2F</a></td><td>Active</td><td>2 (plus 4<br />Strap-on boosters)</td><td>58.34</td><td>7.85</td><td>480</td><td>5923</td><td>&#160;&#160;8400</td><td>3370</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_3_6137.html" title="Long March 3">Long March 3</a></td><td>Retired</td><td>3</td><td>43.8</td><td>3.35</td><td>202</td><td>2962</td><td>&#160;&#160;5000</td><td>1500</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_3A_a49d.html" title="Long March 3A">Long March 3A</a></td><td>Active</td><td>3</td><td>52.3</td><td>3.35</td><td>241</td><td>2962</td><td>&#160;&#160;8500</td><td>2600</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_3B_d039.html" title="Long March 3B">Long March 3B</a></td><td>Active</td><td>3 (plus 4<br />Strap-on boosters)</td><td>54.84</td><td>7.85</td><td>425.5</td><td>5924</td><td>12000</td><td>5200</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_3C_f047.html" title="Long March 3C">Long March 3C</a></td><td>Active</td><td>3 (plus 2<br />Strap-on boosters)</td><td>54.84</td><td>7.85</td><td>345</td><td>4443</td><td>-</td><td>3800</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_4A_f1c1.html" title="Long March 4A">Long March 4A</a></td><td>Retired</td><td>3</td><td>41.9</td><td>3.35</td><td>249</td><td>2962</td><td>&#160;&#160;4000</td><td><b>(<a href="../../../../articles/s/s/o/SSO_46fd.html" title="SSO">SSO</a>)</b><br />1500</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_4B_29bf.html" title="Long March 4B">Long March 4B</a></td><td>Active</td><td>3</td><td>44.1</td><td>3.35</td><td>254</td><td>2971</td><td>&#160;&#160;4200</td><td><b>(<a href="../../../../articles/s/s/o/SSO_46fd.html" title="SSO">SSO</a>)</b><br />2200</td></tr><tr><td><a href="../../../../articles/l/o/n/Long_March_4C_343b.html" title="Long March 4C">Long March 4C</a></td><td>Active</td><td>3</td><td>&#160;</td><td>3.35</td><td>&#160;</td><td>2971?</td><td>&#160;</td><td>&#160;</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/a/r/b/Arbatsko-Pokrovskaya_Line_1718.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.8333333 1 2, 0.6944444 2, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/a/r/b/Arbatsko-Pokrovskaya_Line_1718.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>#</th>]]></html>
+	<text>#</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Transfer to</th>]]></html>
+	<text>Transfer to</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>At</th>]]></html>
+	<text>At</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sokolnicheskaya Line</td>]]></html>
+	<text>Sokolnicheskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arbatskaya</td>]]></html>
+	<text>Arbatskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zamoskvoretskaya Line</td>]]></html>
+	<text>Zamoskvoretskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ploshchad Revolyutsii</td>]]></html>
+	<text>Ploshchad Revolyutsii</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Filyovskaya Line</td>]]></html>
+	<text>Filyovskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arbatskaya , Kiyevskaya , Kuntsevskaya</td>]]></html>
+	<text>Arbatskaya , Kiyevskaya , Kuntsevskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koltsevaya Line</td>]]></html>
+	<text>Koltsevaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kurskaya , Kiyevskaya</td>]]></html>
+	<text>Kurskaya , Kiyevskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Serpukhovsko-Timiryazevskaya Line</td>]]></html>
+	<text>Serpukhovsko-Timiryazevskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arbatskaya</td>]]></html>
+	<text>Arbatskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyublinskaya Line</td>]]></html>
+	<text>Lyublinskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kurskaya</td>]]></html>
+	<text>Kurskaya</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Arbatsko-Pokrovskaya Line - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text># Transfer to At</text>
+</context>
+<context>
+	<score>0.883243</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.7986512</score>
+	<text>Arbatsko-Pokrovskaya Line</text>
+</context>
+<context>
+	<score>0.7862724</score>
+	<text>[ edit ] Name changes</text>
+</context>
+<context>
+	<score>0.7548996</score>
+	<text>[ edit ] Rolling Stock</text>
+</context>
+<context>
+	<score>0.7255311</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7255311</score>
+	<text>[ edit ] Name changes</text>
+</context>
+<context>
+	<score>0.7255311</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.7255311</score>
+	<text>[ edit ] Rolling Stock</text>
+</context>
+<context>
+	<score>0.7255311</score>
+	<text>[ edit ] Recent Events and Future plans</text>
+</context>
+<context>
+	<score>0.7210748</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.708696</score>
+	<text>**Upon the 1961 extension, temporary station Pervomayskaya was closed, along with its track.</text>
+</context>
+<context>
+	<score>0.64663476</score>
+	<text>* Up till 1953 section to Kiyevskaya via Alexandrovsky Sad was an integral part of the line.</text>
+</context>
+<context>
+	<score>0.6081014</score>
+	<text>The line is served by the Izmailovo depot (#3) and it presently has 43 seven carriage trains assigned to it. Traditionally none of the trains that it received were factory-fresh and most of its rolling stock consisted of old trains models that other lines retired upon upgrade to newer ones, and thus all trains that are retired from this line are sent to the scrapyard , this was seen Am and Bm types in 1975 and the D type in 1995 and is currently taking place with the E type. Presentely the trains are a combination of Ezh, Ezh1, Em-508 and Em-509 models.</text>
+</context>
+<context>
+	<score>0.59698576</score>
+	<text>[ edit ] Timeline</text>
+</context>
+<context>
+	<score>0.5572666</score>
+	<text>The line is known most for its architecture, as the bulk of its central stations were built in Stalin&apos;s period. Example include the art deco Ploshchad Revolyutsii with its 72 sculptural groups by M.G. Manizer, Elektrozavodskaya which is lit by 318 incandescent lights, and the semi-elliptical Arbatskaya, with its Moscow Baroque styling are probably the most well-known stations of the system let alone the line.</text>
+</context>
+<context>
+	<score>0.52549124</score>
+	<text>Thus for almost 40 years there was no extension work carried out on the line. All this changed in the late 1980s, when a new general plan thought to correct the ill-attempted Filyovskaya Line experiment, and the first part of the station, after nearly 15 years of construction (although most of that time it was conserved due to the shortage of funding in the 1990s) Park Pobedy opened in 2003, becoming the deepest station in Moscow. In 2008 this was followed by the long-awaited extension to Strogino , the line opened two new segments and annexing some from the Filyovskaya Line growing in total by approximately 16 km.</text>
+</context>
+<context>
+	<score>0.5217497</score>
+	<text>[ edit ] Recent Events and Future plans</text>
+</context>
+<context>
+	<score>0.500071</score>
+	<text>The line would then be planned to be extended west to the Fili districts, but yet another policy change prevented that extension from being realised. Nikita Khruschev after the visit to the United States, was impressed by a large network of surface level Metros, and instead promoted the idea of building the Filoyvsky Radius on the surface. Thus the Filyovskaya Line was born, which opend in 1958 along with the four original stations.</text>
+</context>
+<context>
+	<score>0.47973478</score>
+	<text>The Western end of the line has much more complex history. The original first stage stations, were built sub-surface. Given their importance in the centre of Moscow, and the post-WWII threat of a Nuclear War these would be useless as bomb shelters . So to solve this problem it was decided to build a parallel deep level section, and close the older stations, which took place in 1953.</text>
+</context>
+<context>
+	<score>0.47095445</score>
+	<text>[ edit ] The West</text>
+</context>
+<context>
+	<score>0.46346578</score>
+	<text>In 1938 the branch was split into a separate line, and a 3.2 km stretch was inaugurated from Alexandrovsky Sad to the Kursky Rail Terminal . During the Second World War the construction of the metro was not stopped, and in 1944 the Pokrovsky radius was opened with three stations ( Elektrozavodskaya added later). The western part of the line received three more extensions, a 1954 one to a temporary station Pervomayskaya inside a newly opened depot. This was replaced in 1961 by further two stations, incidentally despite the line being famous for its rich Stalinist architecture, the 1961 extension simultaneously demonstrated the new station designs that would persist throughout the 1960s, the surface station Izmailovskaya located in the Izmaylovsky Park , and the new &quot;sorokonozhka&quot; (centepede) design for the new Pervomayskaya . The line reached its present terminus in 1963 with an extension to Shcholkovskaya .</text>
+</context>
+<context>
+	<score>0.4504506</score>
+	<text>The history of the east-west axis is one of the most complicated in the Moscow Metro, and is partly due to the politics change in priorities. In 1935, when the first stage opened, a branch was build from Okhotny Ryad to the Smolenskaya Square on the Garden Ring , further extended to the Kiyevsky Rail Terminal in 1937.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable" cellpadding="5" style="border-collapse: collapse; text-align: left;"><tr><th>#</th><th>Transfer to</th><th>At</th></tr><tr><td style="background: red; padding:.5em;">1</td><td style="text-align: left;"><a href="../../../../articles/s/o/k/Sokolnicheskaya_Line_fd85.html" title="Sokolnicheskaya Line">Sokolnicheskaya Line</a></td><td><a href="../../../../articles/a/r/b/Arbatskaya_%28Arbatsko-Pokrovskaya_Line%29_ea82.html" title="Arbatskaya (Arbatsko-Pokrovskaya Line)">Arbatskaya</a></td></tr><tr><td style="background: green; padding:.5em;">2</td><td style="text-align: left;"><a href="../../../../articles/z/a/m/Zamoskvoretskaya_Line_b0fe.html" title="Zamoskvoretskaya Line">Zamoskvoretskaya Line</a></td><td><a href="../../../../articles/p/l/o/Ploshchad_Revolyutsii_c448.html" title="Ploshchad Revolyutsii">Ploshchad Revolyutsii</a></td></tr><tr><td style="background: #33CCFF; padding:.5em;">4</td><td style="text-align: left;"><a href="../../../../articles/f/i/l/Filyovskaya_Line_2ad3.html" title="Filyovskaya Line">Filyovskaya Line</a></td><td><a href="../../../../articles/a/r/b/Arbatskaya_%28Arbatsko-Pokrovskaya_Line%29_ea82.html" title="Arbatskaya (Arbatsko-Pokrovskaya Line)">Arbatskaya</a>, <a href="../../../../articles/k/i/y/Kiyevskaya_%28Arbatsko-Pokrovskaya%29_ba4e.html" title="Kiyevskaya (Arbatsko-Pokrovskaya)">Kiyevskaya</a>, <a href="../../../../articles/k/u/n/Kuntsevskaya.html" title="Kuntsevskaya">Kuntsevskaya</a></td></tr><tr><td style="background: #CC6600; padding:.5em;">5</td><td style="text-align: left;"><a href="../../../../articles/k/o/l/Koltsevaya_Line_c3fb.html" title="Koltsevaya Line">Koltsevaya Line</a></td><td><a href="../../../../articles/k/u/r/Kurskaya-Radialnaya_5ce5.html" title="Kurskaya-Radialnaya">Kurskaya</a>, <a href="../../../../articles/k/i/y/Kiyevskaya_%28Arbatsko-Pokrovskaya%29_ba4e.html" title="Kiyevskaya (Arbatsko-Pokrovskaya)">Kiyevskaya</a></td></tr><tr><td style="background: #999999; padding:.5em;">9</td><td style="text-align: left;"><a href="../../../../articles/s/e/r/Serpukhovsko-Timiryazevskaya_Line_b0d8.html" title="Serpukhovsko-Timiryazevskaya Line">Serpukhovsko-Timiryazevskaya Line</a></td><td><a href="../../../../articles/a/r/b/Arbatskaya_%28Arbatsko-Pokrovskaya_Line%29_ea82.html" title="Arbatskaya (Arbatsko-Pokrovskaya Line)">Arbatskaya</a></td></tr><tr><td style="background: #00FF00; padding:.5em;">10</td><td style="text-align: left;"><a href="../../../../articles/l/y/u/Lyublinskaya_Line_9dc9.html" title="Lyublinskaya Line">Lyublinskaya Line</a></td><td><a href="../../../../articles/k/u/r/Kurskaya-Radialnaya_5ce5.html" title="Kurskaya-Radialnaya">Kurskaya</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

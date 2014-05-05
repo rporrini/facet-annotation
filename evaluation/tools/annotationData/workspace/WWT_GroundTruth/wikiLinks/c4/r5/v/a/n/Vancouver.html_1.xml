@@ -1,0 +1,47 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="3">
+<anno name="wordnet_venue_108677628" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="2">
+<anno name="wordnet_league_108231184" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>National_Hockey_League</entity>
+<entity>General_Motors_Place</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Western_Hockey_League</entity>
+<entity>Pacific_Coliseum</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Canadian_Football_League</entity>
+<entity>BC_Place_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Northwest_League</entity>
+<entity>Nat_Bailey_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>USL_First_Division</entity>
+<entity>Swangard_Stadium</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

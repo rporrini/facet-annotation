@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r17/f/o/r/Formula_1_(PS1)_2bec.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/f/o/r/Formula_1_(PS1)_2bec.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Grand Prix</th>]]></html>
+	<text>Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Circuit Name</th>]]></html>
+	<text>Circuit Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brazilian Grand Prix</td>]]></html>
+	<text>Brazilian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autódromo José Carlos Pace</td>]]></html>
+	<text>Aut&#243;dromo Jos&#233; Carlos Pace</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>São Paulo , Brazil</td>]]></html>
+	<text>S&#227;o Paulo , Brazil</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Argentine Grand Prix</td>]]></html>
+	<text>Argentine Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autódromo Oscar Alfredo Gálvez</td>]]></html>
+	<text>Aut&#243;dromo Oscar Alfredo G&#225;lvez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buenos Aires , Argentina</td>]]></html>
+	<text>Buenos Aires , Argentina</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Marino Grand Prix</td>]]></html>
+	<text>San Marino Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autodromo Enzo e Dino Ferrari</td>]]></html>
+	<text>Autodromo Enzo e Dino Ferrari</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Imola , Italy</td>]]></html>
+	<text>Imola , Italy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spanish Grand Prix</td>]]></html>
+	<text>Spanish Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Circuit de Catalunya</td>]]></html>
+	<text>Circuit de Catalunya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barcelona , Spain</td>]]></html>
+	<text>Barcelona , Spain</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Monaco Grand Prix</td>]]></html>
+	<text>Monaco Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Circuit de Monaco</td>]]></html>
+	<text>Circuit de Monaco</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monte Carlo , Monaco</td>]]></html>
+	<text>Monte Carlo , Monaco</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canadian Grand Prix</td>]]></html>
+	<text>Canadian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Circuit Gilles Villeneuve</td>]]></html>
+	<text>Circuit Gilles Villeneuve</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montreal , Canada</td>]]></html>
+	<text>Montreal , Canada</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>French Grand Prix</td>]]></html>
+	<text>French Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Circuit de Nevers Magny-Cours</td>]]></html>
+	<text>Circuit de Nevers Magny-Cours</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Magny-Cours , France</td>]]></html>
+	<text>Magny-Cours , France</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Grand Prix</td>]]></html>
+	<text>British Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Silverstone Circuit</td>]]></html>
+	<text>Silverstone Circuit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northamptonshire , United Kingdom</td>]]></html>
+	<text>Northamptonshire , United Kingdom</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>German Grand Prix</td>]]></html>
+	<text>German Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hockenheimring</td>]]></html>
+	<text>Hockenheimring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hockenheim , Germany</td>]]></html>
+	<text>Hockenheim , Germany</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hungarian Grand Prix</td>]]></html>
+	<text>Hungarian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hungaroring</td>]]></html>
+	<text>Hungaroring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mogyoród , Hungary</td>]]></html>
+	<text>Mogyor&#243;d , Hungary</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgian Grand Prix</td>]]></html>
+	<text>Belgian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Circuit de Spa-Francorchamps</td>]]></html>
+	<text>Circuit de Spa-Francorchamps</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spa , Belgium</td>]]></html>
+	<text>Spa , Belgium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italian Grand Prix</td>]]></html>
+	<text>Italian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autodromo Nazionale Monza</td>]]></html>
+	<text>Autodromo Nazionale Monza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monza , Italy</td>]]></html>
+	<text>Monza , Italy</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portuguese Grand Prix</td>]]></html>
+	<text>Portuguese Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autódromo do Estoril</td>]]></html>
+	<text>Aut&#243;dromo do Estoril</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estoril , Portugal</td>]]></html>
+	<text>Estoril , Portugal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>European Grand Prix</td>]]></html>
+	<text>European Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nürburgring</td>]]></html>
+	<text>N&#252;rburgring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nürburg , Germany</td>]]></html>
+	<text>N&#252;rburg , Germany</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pacific Grand Prix</td>]]></html>
+	<text>Pacific Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TI Circuit</td>]]></html>
+	<text>TI Circuit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aida , Japan</td>]]></html>
+	<text>Aida , Japan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Japanese Grand Prix</td>]]></html>
+	<text>Japanese Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Suzuka Circuit</td>]]></html>
+	<text>Suzuka Circuit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Suzuka , Japan</td>]]></html>
+	<text>Suzuka , Japan</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australian Grand Prix</td>]]></html>
+	<text>Australian Grand Prix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adelaide Street Circuit</td>]]></html>
+	<text>Adelaide Street Circuit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adelaide , Australia</td>]]></html>
+	<text>Adelaide , Australia</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Formula 1 (PS1) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Grand Prix Circuit Name Location</text>
+</context>
+<context>
+	<score>0.87878776</score>
+	<text>The circuits are:</text>
+</context>
+<context>
+	<score>0.79865295</score>
+	<text>Formula 1 (PS1)</text>
+</context>
+<context>
+	<score>0.7870426</score>
+	<text>Formula 1 follows the 1995 Formula One season , with 17 tracks, 13 teams and 26 drivers. The teams are:</text>
+</context>
+<context>
+	<score>0.75567</score>
+	<text>Later tracks have 24 competitors on them instead of 26 because Simtek pulled out of the actual championship after the Monaco Grand Prix . It is still possible to drive a Simtek on any course after Monaco, creating a field of 25 drivers.</text>
+</context>
+<context>
+	<score>0.7263018</score>
+	<text>[ edit ] Gameplay</text>
+</context>
+<context>
+	<score>0.7263018</score>
+	<text>[ edit ] Commentary</text>
+</context>
+<context>
+	<score>0.7263018</score>
+	<text>[ edit ] Soundtrack</text>
+</context>
+<context>
+	<score>0.7263018</score>
+	<text>[ edit ] Development</text>
+</context>
+<context>
+	<score>0.7263018</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72107714</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70946676</score>
+	<text>[ edit ] Gameplay</text>
+</context>
+<context>
+	<score>0.6421814</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6088731</score>
+	<text>[ edit ] Commentary</text>
+</context>
+<context>
+	<score>0.5977575</score>
+	<text>Published by Psygnosis , Formula 1 is based on the 1995 Formula One season , although it was released in 1996. It is distinct from its sequels because it was made after the end of the season, meaning that it features driver substitutes.</text>
+</context>
+<context>
+	<score>0.5580387</score>
+	<text>Formula 1 is the first racing game in Sony &apos;s Formula One series . Unlike later games in the series, this game&apos;s cover has no specific driver on it.</text>
+</context>
+<context>
+	<score>0.537874</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.52252203</score>
+	<text>This game saw the introduction of in game commentary, which was done in the English version of the game by Murray Walker , the German version by Jochen Mass , the French version by Philippe Alliot , the Spanish version by Carlos Riera and the Italian version by Luigi Chiappini.</text>
+</context>
+<context>
+	<score>0.512454</score>
+	<text>Formula 1 (PS1)</text>
+</context>
+<context>
+	<score>0.4717273</score>
+	<text>[ edit ] Soundtrack</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="4" class="wikitable"><tr><th>Grand Prix</th><th>Circuit Name</th><th>Location</th></tr><tr><td><a href="../../../../articles/b/r/a/Brazilian_Grand_Prix_0874.html" title="Brazilian Grand Prix">Brazilian Grand Prix</a></td><td><a href="../../../../articles/a/u/t/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_544f.html" title="Autódromo José Carlos Pace">Autódromo José Carlos Pace</a></td><td><a href="../../../../articles/s/%C3%A3/o/S%C3%A3o_Paulo_23d2.html" title="São Paulo">São Paulo</a>, <a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td></tr><tr><td><a href="../../../../articles/a/r/g/Argentine_Grand_Prix_e284.html" title="Argentine Grand Prix">Argentine Grand Prix</a></td><td><a href="../../../../articles/a/u/t/Aut%C3%B3dromo_Oscar_Alfredo_G%C3%A1lvez_7090.html" title="Autódromo Oscar Alfredo Gálvez">Autódromo Oscar Alfredo Gálvez</a></td><td><a href="../../../../articles/b/u/e/Buenos_Aires_8e35.html" title="Buenos Aires">Buenos Aires</a>, <a href="../../../../articles/a/r/g/Argentina.html" title="Argentina">Argentina</a></td></tr><tr><td><a href="../../../../articles/s/a/n/San_Marino_Grand_Prix_5b62.html" title="San Marino Grand Prix">San Marino Grand Prix</a></td><td><a href="../../../../articles/a/u/t/Autodromo_Enzo_e_Dino_Ferrari_ca1d.html" title="Autodromo Enzo e Dino Ferrari">Autodromo Enzo e Dino Ferrari</a></td><td><a href="../../../../articles/i/m/o/Imola.html" title="Imola">Imola</a>, <a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td></tr><tr><td><a href="../../../../articles/s/p/a/Spanish_Grand_Prix_179a.html" title="Spanish Grand Prix">Spanish Grand Prix</a></td><td><a href="../../../../articles/c/i/r/Circuit_de_Catalunya_53ae.html" title="Circuit de Catalunya">Circuit de Catalunya</a></td><td><a href="../../../../articles/b/a/r/Barcelona.html" title="Barcelona">Barcelona</a>, <a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Monaco_Grand_Prix_b9fa.html" title="Monaco Grand Prix">Monaco Grand Prix</a></td><td><a href="../../../../articles/c/i/r/Circuit_de_Monaco_b526.html" title="Circuit de Monaco">Circuit de Monaco</a></td><td><a href="../../../../articles/m/o/n/Monte_Carlo_9de6.html" title="Monte Carlo">Monte Carlo</a>, <a href="../../../../articles/m/o/n/Monaco.html" title="Monaco">Monaco</a></td></tr><tr><td><a href="../../../../articles/c/a/n/Canadian_Grand_Prix_3753.html" title="Canadian Grand Prix">Canadian Grand Prix</a></td><td><a href="../../../../articles/c/i/r/Circuit_Gilles_Villeneuve_996c.html" title="Circuit Gilles Villeneuve">Circuit Gilles Villeneuve</a></td><td><a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a>, <a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td></tr><tr><td><a href="../../../../articles/f/r/e/French_Grand_Prix_7261.html" title="French Grand Prix">French Grand Prix</a></td><td><a href="../../../../articles/c/i/r/Circuit_de_Nevers_Magny-Cours_4ea9.html" title="Circuit de Nevers Magny-Cours">Circuit de Nevers Magny-Cours</a></td><td><a href="../../../../articles/m/a/g/Magny-Cours_8942.html" title="Magny-Cours">Magny-Cours</a>, <a href="../../../../articles/f/r/a/France.html" title="France">France</a></td></tr><tr><td><a href="../../../../articles/b/r/i/British_Grand_Prix_6c5b.html" title="British Grand Prix">British Grand Prix</a></td><td><a href="../../../../articles/s/i/l/Silverstone_Circuit_4e1c.html" title="Silverstone Circuit">Silverstone Circuit</a></td><td><a href="../../../../articles/n/o/r/Northamptonshire.html" title="Northamptonshire">Northamptonshire</a>, <a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td></tr><tr><td><a href="../../../../articles/g/e/r/German_Grand_Prix_7e4b.html" title="German Grand Prix">German Grand Prix</a></td><td><a href="../../../../articles/h/o/c/Hockenheimring.html" title="Hockenheimring">Hockenheimring</a></td><td><a href="../../../../articles/h/o/c/Hockenheim.html" title="Hockenheim">Hockenheim</a>, <a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td></tr><tr><td><a href="../../../../articles/h/u/n/Hungarian_Grand_Prix_7990.html" title="Hungarian Grand Prix">Hungarian Grand Prix</a></td><td><a href="../../../../articles/h/u/n/Hungaroring.html" title="Hungaroring">Hungaroring</a></td><td><a href="../../../../articles/m/o/g/Mogyor%C3%B3d.html" title="Mogyoród">Mogyoród</a>, <a href="../../../../articles/h/u/n/Hungary.html" title="Hungary">Hungary</a></td></tr><tr><td><a href="../../../../articles/b/e/l/Belgian_Grand_Prix_7484.html" title="Belgian Grand Prix">Belgian Grand Prix</a></td><td><a href="../../../../articles/c/i/r/Circuit_de_Spa-Francorchamps_db91.html" title="Circuit de Spa-Francorchamps">Circuit de Spa-Francorchamps</a></td><td><a href="../../../../articles/s/p/a/Spa.html" title="Spa">Spa</a>, <a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td></tr><tr><td><a href="../../../../articles/i/t/a/Italian_Grand_Prix_5014.html" title="Italian Grand Prix">Italian Grand Prix</a></td><td><a href="../../../../articles/a/u/t/Autodromo_Nazionale_Monza_d38f.html" title="Autodromo Nazionale Monza">Autodromo Nazionale Monza</a></td><td><a href="../../../../articles/m/o/n/Monza.html" title="Monza">Monza</a>, <a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td></tr><tr><td><a href="../../../../articles/p/o/r/Portuguese_Grand_Prix_3b01.html" title="Portuguese Grand Prix">Portuguese Grand Prix</a></td><td><a href="../../../../articles/a/u/t/Aut%C3%B3dromo_do_Estoril_711d.html" title="Autódromo do Estoril">Autódromo do Estoril</a></td><td><a href="../../../../articles/e/s/t/Estoril.html" title="Estoril">Estoril</a>, <a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td></tr><tr><td><a href="../../../../articles/e/u/r/European_Grand_Prix_eb16.html" title="European Grand Prix">European Grand Prix</a></td><td><a href="../../../../articles/n/%C3%BC/r/N%C3%BCrburgring.html" title="Nürburgring">Nürburgring</a></td><td><a href="../../../../articles/n/%C3%BC/r/N%C3%BCrburg.html" title="Nürburg">Nürburg</a>, <a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td></tr><tr><td><a href="../../../../articles/p/a/c/Pacific_Grand_Prix_9a08.html" title="Pacific Grand Prix">Pacific Grand Prix</a></td><td><a href="../../../../articles/t/i/_/TI_Circuit_a3ca.html" class="mw-redirect" title="TI Circuit">TI Circuit</a></td><td><a href="../../../../articles/a/i/d/Aida.html" title="Aida">Aida</a>, <a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td></tr><tr><td><a href="../../../../articles/j/a/p/Japanese_Grand_Prix_1b38.html" title="Japanese Grand Prix">Japanese Grand Prix</a></td><td><a href="../../../../articles/s/u/z/Suzuka_Circuit_f2d0.html" title="Suzuka Circuit">Suzuka Circuit</a></td><td><a href="../../../../articles/s/u/z/Suzuka.html" title="Suzuka">Suzuka</a>, <a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td></tr><tr><td><a href="../../../../articles/a/u/s/Australian_Grand_Prix_e5ce.html" title="Australian Grand Prix">Australian Grand Prix</a></td><td><a href="../../../../articles/a/d/e/Adelaide_Street_Circuit_659b.html" title="Adelaide Street Circuit">Adelaide Street Circuit</a></td><td><a href="../../../../articles/a/d/e/Adelaide.html" title="Adelaide">Adelaide</a>, <a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

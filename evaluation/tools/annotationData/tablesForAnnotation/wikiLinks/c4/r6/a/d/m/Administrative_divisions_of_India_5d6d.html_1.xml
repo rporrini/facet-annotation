@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/a/d/m/Administrative_divisions_of_India_5d6d.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/d/m/Administrative_divisions_of_India_5d6d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Union Territories</th>]]></html>
+	<text>Union Territories</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital</th>]]></html>
+	<text>Capital</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A</td>]]></html>
+	<text>A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Andaman and Nicobar Islands</td>]]></html>
+	<text>Andaman and Nicobar Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AN</td>]]></html>
+	<text>AN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Port Blair</td>]]></html>
+	<text>Port Blair</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>B</td>]]></html>
+	<text>B</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chandigarh</td>]]></html>
+	<text>Chandigarh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CH</td>]]></html>
+	<text>CH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chandigarh</td>]]></html>
+	<text>Chandigarh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>C</td>]]></html>
+	<text>C</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dadra and Nagar Haveli</td>]]></html>
+	<text>Dadra and Nagar Haveli</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DN</td>]]></html>
+	<text>DN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Silvassa</td>]]></html>
+	<text>Silvassa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daman and Diu</td>]]></html>
+	<text>Daman and Diu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DD</td>]]></html>
+	<text>DD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daman</td>]]></html>
+	<text>Daman</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>E</td>]]></html>
+	<text>E</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lakshadweep</td>]]></html>
+	<text>Lakshadweep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LD</td>]]></html>
+	<text>LD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kavaratti</td>]]></html>
+	<text>Kavaratti</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>F</td>]]></html>
+	<text>F</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puducherry</td>]]></html>
+	<text>Puducherry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PY</td>]]></html>
+	<text>PY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puducherry</td>]]></html>
+	<text>Puducherry</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Administrative divisions of India - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Number Union Territories Code Capital</text>
+</context>
+<context>
+	<score>0.87878674</score>
+	<text>6 Union Territories</text>
+</context>
+<context>
+	<score>0.79191715</score>
+	<text>Administrative divisions of India</text>
+</context>
+<context>
+	<score>0.78181607</score>
+	<text>29 States</text>
+</context>
+<context>
+	<score>0.75465196</score>
+	<text>[ edit ] Divisions (Super-Districts)</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] States and Union Territories</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Divisions (Super-Districts)</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Districts</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Tehsils (Sub-Districts)</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Hobli</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Villages</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Municipalities</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] Historic</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71854943</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143406</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423955</score>
+	<text>Indian States</text>
+</context>
+<context>
+	<score>0.64638716</score>
+	<text>There are 29 states and 6 Union territories in the country. Union Territories are administered by the President through an Administrator appointed by him. From the largest to the smallest, each State/UT of India has a unique demography, history and culture, dress, festivals, language etc. [1]</text>
+</context>
+<context>
+	<score>0.6036451</score>
+	<text>Nine of the largest Indian states are subdivided into divisions each comprising several districts:</text>
+</context>
+<context>
+	<score>0.59673816</score>
+	<text>[ edit ] States and Union Territories Main article: States and territories of India</text>
+</context>
+<context>
+	<score>0.5528102</score>
+	<text>India | ------------------------------------------------------------------- | | States Union Territories | | ------------------------------------------------------------------- | Divisions | Districts | ------------------------------------------------------------------ | | | | Blocks Municipal Corporations Municipalities City Councils (Tehsils) (Maha-Nagar-Palika) (Nagar-Palika) (Nagar-Panchayat) | | | | | --------------------------------------------- | | Villages Wards (Graam/Gau&apos;n)</text>
+</context>
+<context>
+	<score>0.5252437</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.5215021</score>
+	<text>[ edit ] Districts</text>
+</context>
+<context>
+	<score>0.49561462</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47527838</score>
+	<text>In the context of the Indian Constitution, local government bodies are the subject of the State List and are thereby governed by State Statutes, or in the case of Union Territories, by the Union Parliament. Federal recognition of local government was substantively expressed in the 74th Constitution Amendment Act of 1992.</text>
+</context>
+<context>
+	<score>0.47070688</score>
+	<text>States and territories (or divisions) are further subdivided in Districts ( zilla ), of which there are 604.</text>
+</context>
+<context>
+	<score>0.46321818</score>
+	<text>The smaller subdivisions (villages and blocks) exist only in rural areas. In urban areas Urban Local Bodies exist instead of these rural subdivisions.</text>
+</context>
+<context>
+	<score>0.450203</score>
+	<text>The subdivisions of India are Indian subnational administrative units; they compose a nested hierarchy of country subdivisions . Indian states and territories frequently use different local titles for the same level of subdivision (e.g., the mandals of Andhra Pradesh correspond to tehsils of Uttar Pradesh and other Hindi -speaking states.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" style="text-align:center;"><tr><th>Number</th><th>Union Territories</th><th>Code</th><th>Capital</th></tr><tr><td>A</td><td><a href="../../../../articles/a/n/d/Andaman_and_Nicobar_Islands_c637.html" title="Andaman and Nicobar Islands">Andaman and Nicobar Islands</a></td><td>AN</td><td><a href="../../../../articles/p/o/r/Port_Blair_75a0.html" title="Port Blair">Port Blair</a></td></tr><tr><td>B</td><td><a href="../../../../articles/c/h/a/Chandigarh.html" title="Chandigarh">Chandigarh</a></td><td>CH</td><td><a href="../../../../articles/c/h/a/Chandigarh.html" title="Chandigarh">Chandigarh</a></td></tr><tr><td>C</td><td><a href="../../../../articles/d/a/d/Dadra_and_Nagar_Haveli_746a.html" title="Dadra and Nagar Haveli">Dadra and Nagar Haveli</a></td><td>DN</td><td><a href="../../../../articles/s/i/l/Silvassa.html" title="Silvassa">Silvassa</a></td></tr><tr><td>D</td><td><a href="../../../../articles/d/a/m/Daman_and_Diu_b92a.html" title="Daman and Diu">Daman and Diu</a></td><td>DD</td><td><a href="../../../../articles/d/a/m/Daman%2C_India_8145.html" title="Daman, India">Daman</a></td></tr><tr><td>E</td><td><a href="../../../../articles/l/a/k/Lakshadweep.html" title="Lakshadweep">Lakshadweep</a></td><td>LD</td><td><a href="../../../../articles/k/a/v/Kavaratti.html" title="Kavaratti">Kavaratti</a></td></tr><tr><td>F</td><td><a href="../../../../articles/p/u/d/Puducherry.html" title="Puducherry">Puducherry</a></td><td>PY</td><td><a href="../../../../articles/p/u/d/Puducherry_%28city%29.html" title="Puducherry (city)">Puducherry</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

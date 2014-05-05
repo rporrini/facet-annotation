@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r29/g/a/m/Game_seven_(NBA)_fc05.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.17999999 0 1, 0.16000001 0 2, 0.14 0 3, 0.120000005 0 4, 0.086896546 1, 0.07448276 4, 0.055172417 2, 0.043448273 3, 0.022841379 1 2, 0.019986205 1 3, 0.017765518 2 3, 0.017131034 1 4, 0.014565519 2 4, 0.013324139 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/g/a/m/Game_seven_(NBA)_fc05.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GP</th>]]></html>
+	<text>GP</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>W</th>]]></html>
+	<text>W</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>L</th>]]></html>
+	<text>L</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>PCT</th>]]></html>
+	<text>PCT</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota Timberwolves</td>]]></html>
+	<text>Minnesota Timberwolves</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.000</td>]]></html>
+	<text>1.000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dallas Mavericks</td>]]></html>
+	<text>Dallas Mavericks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.800</td>]]></html>
+	<text>0.800</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boston Celtics</td>]]></html>
+	<text>Boston Celtics</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.792</td>]]></html>
+	<text>0.792</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington Wizards</td>]]></html>
+	<text>Washington Wizards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.667</td>]]></html>
+	<text>0.667</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Houston Rockets</td>]]></html>
+	<text>Houston Rockets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.625</td>]]></html>
+	<text>0.625</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Los Angeles Lakers</td>]]></html>
+	<text>Los Angeles Lakers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.619</td>]]></html>
+	<text>0.619</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle SuperSonics</td>]]></html>
+	<text>Seattle SuperSonics</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.571</td>]]></html>
+	<text>0.571</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Detroit Pistons</td>]]></html>
+	<text>Detroit Pistons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Golden State Warriors</td>]]></html>
+	<text>Golden State Warriors</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cleveland Cavaliers</td>]]></html>
+	<text>Cleveland Cavaliers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami Heat</td>]]></html>
+	<text>Miami Heat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah Jazz</td>]]></html>
+	<text>Utah Jazz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Orlando Magic</td>]]></html>
+	<text>Orlando Magic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denver Nuggets</td>]]></html>
+	<text>Denver Nuggets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.500</td>]]></html>
+	<text>0.500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York Knicks</td>]]></html>
+	<text>New York Knicks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.467</td>]]></html>
+	<text>0.467</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Phoenix Suns</td>]]></html>
+	<text>Phoenix Suns</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.444</td>]]></html>
+	<text>0.444</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Philadelphia 76ers</td>]]></html>
+	<text>Philadelphia 76ers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.429</td>]]></html>
+	<text>0.429</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Antonio Spurs</td>]]></html>
+	<text>San Antonio Spurs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.428</td>]]></html>
+	<text>0.428</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana Pacers</td>]]></html>
+	<text>Indiana Pacers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.400</td>]]></html>
+	<text>0.400</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Bulls</td>]]></html>
+	<text>Chicago Bulls</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.375</td>]]></html>
+	<text>0.375</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sacramento Kings</td>]]></html>
+	<text>Sacramento Kings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.333</td>]]></html>
+	<text>0.333</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portland Trail Blazers</td>]]></html>
+	<text>Portland Trail Blazers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.333</td>]]></html>
+	<text>0.333</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Milwaukee Bucks</td>]]></html>
+	<text>Milwaukee Bucks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.250</td>]]></html>
+	<text>0.250</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlanta Hawks</td>]]></html>
+	<text>Atlanta Hawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.222</td>]]></html>
+	<text>0.222</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey Nets</td>]]></html>
+	<text>New Jersey Nets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.000</td>]]></html>
+	<text>0.000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Toronto Raptors</td>]]></html>
+	<text>Toronto Raptors</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.000</td>]]></html>
+	<text>0.000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Louis Bombers</td>]]></html>
+	<text>St. Louis Bombers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.000</td>]]></html>
+	<text>0.000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Orleans Hornets</td>]]></html>
+	<text>New Orleans Hornets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.000</td>]]></html>
+	<text>0.000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Los Angeles Clippers</td>]]></html>
+	<text>Los Angeles Clippers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.000</td>]]></html>
+	<text>0.000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Game seven (NBA) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team GP W L PCT</text>
+</context>
+<context>
+	<score>0.8849952</score>
+	<text>[ edit ] All-time standings</text>
+</context>
+<context>
+	<score>0.79798514</score>
+	<text>Game seven (NBA)</text>
+</context>
+<context>
+	<score>0.7877038</score>
+	<text>[ edit ] List of all-time game sevens</text>
+</context>
+<context>
+	<score>0.75622714</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7267615</score>
+	<text>[ edit ] Game seven facts</text>
+</context>
+<context>
+	<score>0.7267615</score>
+	<text>[ edit ] Key</text>
+</context>
+<context>
+	<score>0.7267615</score>
+	<text>[ edit ] List of all-time game sevens</text>
+</context>
+<context>
+	<score>0.7267615</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7267615</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.720152</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70987064</score>
+	<text>[ edit ] Key</text>
+</context>
+<context>
+	<score>0.64760405</score>
+	<text>[ edit ] Game seven facts</text>
+</context>
+<context>
+	<score>0.5911814</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.55794036</score>
+	<text>Game seven is historically played in the arena or venue of the team holding home-court advantage for the series.</text>
+</context>
+<context>
+	<score>0.5223059</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.51945037</score>
+	<text>Whether or not a game seven is necessary can never be known until the outcome of game six is determined. In other words, game seven is the only game in a best-of-seven series that can never be guaranteed in advance.</text>
+</context>
+<context>
+	<score>0.5005555</score>
+	<text>Since the 1984 NBA Playoffs , sixteen total teams take part in each season&apos;s playoffs. When a team is defeated (by losing four games either consecutively or non-consecutively) in a best-of-seven series, that team is eliminated from the playoffs. Most of the time, a best-of-seven series will end in five or six games and only sometimes will a series reach the maximum of seven games.</text>
+</context>
+<context>
+	<score>0.480152</score>
+	<text>Since 2003 , eighteen best-of-seven series are played in each season&apos;s playoffs (eight were played in the first round; eight were played in the second round; one was played in the NBA Conference Finals ; and one was played in the NBA Finals ).</text>
+</context>
+<context>
+	<score>0.46473318</score>
+	<text>General</text>
+</context>
+<context>
+	<score>0.46382922</score>
+	<text>A game seven is name of the final game of a best-of-seven series in the NBA &apos;s postseason .</text>
+</context>
+<context>
+	<score>0.45077097</score>
+	<text>NBA Playoffs NBA Conference Finals NBA Finals Game 7</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align:center;"><tr><th>Team</th><th>GP</th><th>W</th><th>L</th><th>PCT</th></tr><tr><td align="left"><a href="../../../../articles/m/i/n/Minnesota_Timberwolves_ba65.html" title="Minnesota Timberwolves">Minnesota Timberwolves</a></td><td>1</td><td>1</td><td>0</td><td>1.000</td></tr><tr><td align="left"><a href="../../../../articles/d/a/l/Dallas_Mavericks_a6bb.html" title="Dallas Mavericks">Dallas Mavericks</a></td><td>5</td><td>4</td><td>1</td><td>0.800</td></tr><tr><td align="left"><a href="../../../../articles/b/o/s/Boston_Celtics_b035.html" title="Boston Celtics">Boston Celtics</a></td><td>24</td><td>19</td><td>5</td><td>0.792</td></tr><tr><td align="left"><a href="../../../../articles/w/a/s/Washington_Wizards_06c9.html" title="Washington Wizards">Washington Wizards</a></td><td>9</td><td>6</td><td>3</td><td>0.667</td></tr><tr><td align="left"><a href="../../../../articles/h/o/u/Houston_Rockets_ee7f.html" title="Houston Rockets">Houston Rockets</a></td><td>8</td><td>5</td><td>3</td><td>0.625</td></tr><tr><td align="left"><a href="../../../../articles/l/o/s/Los_Angeles_Lakers_c195.html" title="Los Angeles Lakers">Los Angeles Lakers</a></td><td>21</td><td>13</td><td>8</td><td>0.619</td></tr><tr><td align="left"><a href="../../../../articles/s/e/a/Seattle_SuperSonics_88de.html" title="Seattle SuperSonics">Seattle SuperSonics</a></td><td>7</td><td>4</td><td>3</td><td>0.571</td></tr><tr><td align="left"><a href="../../../../articles/d/e/t/Detroit_Pistons_5ccb.html" title="Detroit Pistons">Detroit Pistons</a></td><td>10</td><td>5</td><td>5</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/g/o/l/Golden_State_Warriors_cfb7.html" title="Golden State Warriors">Golden State Warriors</a></td><td>6</td><td>3</td><td>3</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/c/l/e/Cleveland_Cavaliers_ec27.html" title="Cleveland Cavaliers">Cleveland Cavaliers</a></td><td>4</td><td>2</td><td>2</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/m/i/a/Miami_Heat_9ca0.html" title="Miami Heat">Miami Heat</a></td><td>4</td><td>2</td><td>2</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/u/t/a/Utah_Jazz_5c87.html" title="Utah Jazz">Utah Jazz</a></td><td>4</td><td>2</td><td>2</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/o/r/l/Orlando_Magic_e259.html" title="Orlando Magic">Orlando Magic</a></td><td>2</td><td>1</td><td>1</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/d/e/n/Denver_Nuggets_e448.html" title="Denver Nuggets">Denver Nuggets</a></td><td>2</td><td>1</td><td>1</td><td>0.500</td></tr><tr><td align="left"><a href="../../../../articles/n/e/w/New_York_Knicks_22a8.html" title="New York Knicks">New York Knicks</a></td><td>17</td><td>7</td><td>8</td><td>0.467</td></tr><tr><td align="left"><a href="../../../../articles/p/h/o/Phoenix_Suns_91b6.html" title="Phoenix Suns">Phoenix Suns</a></td><td>9</td><td>4</td><td>5</td><td>0.444</td></tr><tr><td align="left"><a href="../../../../articles/p/h/i/Philadelphia_76ers.html" title="Philadelphia 76ers">Philadelphia 76ers</a></td><td>14</td><td>6</td><td>8</td><td>0.429</td></tr><tr><td align="left"><a href="../../../../articles/s/a/n/San_Antonio_Spurs_d600.html" title="San Antonio Spurs">San Antonio Spurs</a></td><td>7</td><td>3</td><td>4</td><td>0.428</td></tr><tr><td align="left"><a href="../../../../articles/i/n/d/Indiana_Pacers_833b.html" title="Indiana Pacers">Indiana Pacers</a></td><td>5</td><td>2</td><td>3</td><td>0.400</td></tr><tr><td align="left"><a href="../../../../articles/c/h/i/Chicago_Bulls_cb53.html" title="Chicago Bulls">Chicago Bulls</a></td><td>8</td><td>3</td><td>5</td><td>0.375</td></tr><tr><td align="left"><a href="../../../../articles/s/a/c/Sacramento_Kings_c271.html" title="Sacramento Kings">Sacramento Kings</a></td><td>6</td><td>2</td><td>4</td><td>0.333</td></tr><tr><td align="left"><a href="../../../../articles/p/o/r/Portland_Trail_Blazers_6b3c.html" title="Portland Trail Blazers">Portland Trail Blazers</a></td><td>3</td><td>1</td><td>2</td><td>0.333</td></tr><tr><td align="left"><a href="../../../../articles/m/i/l/Milwaukee_Bucks_51ef.html" title="Milwaukee Bucks">Milwaukee Bucks</a></td><td>8</td><td>2</td><td>6</td><td>0.250</td></tr><tr><td align="left"><a href="../../../../articles/a/t/l/Atlanta_Hawks_3a1a.html" title="Atlanta Hawks">Atlanta Hawks</a></td><td>9</td><td>2</td><td>7</td><td>0.222</td></tr><tr><td align="left"><a href="../../../../articles/n/e/w/New_Jersey_Nets_dd51.html" title="New Jersey Nets">New Jersey Nets</a></td><td>1</td><td>0</td><td>1</td><td>0.000</td></tr><tr><td align="left"><a href="../../../../articles/t/o/r/Toronto_Raptors_9b80.html" title="Toronto Raptors">Toronto Raptors</a></td><td>1</td><td>0</td><td>1</td><td>0.000</td></tr><tr><td align="left"><a href="../../../../articles/s/t/2E/St._Louis_Bombers_%28NBA%29_637a.html" title="St. Louis Bombers (NBA)">St. Louis Bombers</a></td><td>1</td><td>0</td><td>1</td><td>0.000</td></tr><tr><td align="left"><a href="../../../../articles/n/e/w/New_Orleans_Hornets_e45a.html" title="New Orleans Hornets">New Orleans Hornets</a></td><td>3</td><td>0</td><td>3</td><td>0.000</td></tr><tr><td align="left"><a href="../../../../articles/l/o/s/Los_Angeles_Clippers_fcf3.html" title="Los Angeles Clippers">Los Angeles Clippers</a></td><td>3</td><td>0</td><td>3</td><td>0.000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

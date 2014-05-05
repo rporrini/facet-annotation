@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r21/a/e/r/Aeropuertos_y_Servicios_Auxiliares_a1ee.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1 2, 0.7 3, 0.7 0 3, 0.64285713 1, 0.63 1 3, 0.6 4, 0.6 0 4, 0.56 2 3, 0.54 1 4, 0.48000002 2 4, 0.42000002 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/e/r/Aeropuertos_y_Servicios_Auxiliares_a1ee.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>CITY</th>]]></html>
+	<text>CITY</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>STATE</th>]]></html>
+	<text>STATE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT NAME</th>]]></html>
+	<text>AIRPORT NAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Campeche</td>]]></html>
+	<text>Campeche</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campeche</td>]]></html>
+	<text>Campeche</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCP</td>]]></html>
+	<text>MMCP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CPE</td>]]></html>
+	<text>CPE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ing. Alberto Acuña Ongay International Airport</td>]]></html>
+	<text>Ing. Alberto Acu&#241;a Ongay International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chetumal</td>]]></html>
+	<text>Chetumal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quintana Roo</td>]]></html>
+	<text>Quintana Roo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCM</td>]]></html>
+	<text>MMCM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CTM</td>]]></html>
+	<text>CTM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chetumal International Airport</td>]]></html>
+	<text>Chetumal International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciudad del Carmen</td>]]></html>
+	<text>Ciudad del Carmen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campeche</td>]]></html>
+	<text>Campeche</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCE</td>]]></html>
+	<text>MMCE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CME</td>]]></html>
+	<text>CME</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad del Carmen International Airport</td>]]></html>
+	<text>Ciudad del Carmen International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciudad de México</td>]]></html>
+	<text>Ciudad de M&#233;xico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Federal District</td>]]></html>
+	<text>Federal District</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMMX</td>]]></html>
+	<text>MMMX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MEX</td>]]></html>
+	<text>MEX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mexico City International Airport</td>]]></html>
+	<text>Mexico City International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciudad Obregón</td>]]></html>
+	<text>Ciudad Obreg&#243;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonora</td>]]></html>
+	<text>Sonora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCN</td>]]></html>
+	<text>MMCN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CEN</td>]]></html>
+	<text>CEN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ciudad Obregón International Airport</td>]]></html>
+	<text>Ciudad Obreg&#243;n International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciudad Victoria</td>]]></html>
+	<text>Ciudad Victoria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamaulipas</td>]]></html>
+	<text>Tamaulipas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCV</td>]]></html>
+	<text>MMCV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CVM</td>]]></html>
+	<text>CVM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General Pedro J. Méndez International Airport</td>]]></html>
+	<text>General Pedro J. M&#233;ndez International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colima</td>]]></html>
+	<text>Colima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colima</td>]]></html>
+	<text>Colima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMIA</td>]]></html>
+	<text>MMIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CLQ</td>]]></html>
+	<text>CLQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lic. Miguel de la Madrid Airport</td>]]></html>
+	<text>Lic. Miguel de la Madrid Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cuernavaca</td>]]></html>
+	<text>Cuernavaca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Morelos</td>]]></html>
+	<text>Morelos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMCB</td>]]></html>
+	<text>MMCB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CVJ</td>]]></html>
+	<text>CVJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General Mariano Matamoros Airport</td>]]></html>
+	<text>General Mariano Matamoros Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guaymas</td>]]></html>
+	<text>Guaymas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonora</td>]]></html>
+	<text>Sonora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMGM</td>]]></html>
+	<text>MMGM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GYM</td>]]></html>
+	<text>GYM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General José María Yáñez International Airport</td>]]></html>
+	<text>General Jos&#233; Mar&#237;a Y&#225;&#241;ez International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Loreto</td>]]></html>
+	<text>Loreto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baja California Sur</td>]]></html>
+	<text>Baja California Sur</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMLT</td>]]></html>
+	<text>MMLT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LTO</td>]]></html>
+	<text>LTO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loreto International Airport</td>]]></html>
+	<text>Loreto International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Matamoros</td>]]></html>
+	<text>Matamoros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamaulipas</td>]]></html>
+	<text>Tamaulipas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMMA</td>]]></html>
+	<text>MMMA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MAM</td>]]></html>
+	<text>MAM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General Servando Canales International Airport</td>]]></html>
+	<text>General Servando Canales International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nuevo Laredo</td>]]></html>
+	<text>Nuevo Laredo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamaulipas</td>]]></html>
+	<text>Tamaulipas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMNL</td>]]></html>
+	<text>MMNL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NLD</td>]]></html>
+	<text>NLD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quetzalcóatl International Airport</td>]]></html>
+	<text>Quetzalc&#243;atl International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nogales</td>]]></html>
+	<text>Nogales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sonora</td>]]></html>
+	<text>Sonora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMNG</td>]]></html>
+	<text>MMNG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NOG</td>]]></html>
+	<text>NOG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nogales International Airport</td>]]></html>
+	<text>Nogales International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poza Rica</td>]]></html>
+	<text>Poza Rica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Veracruz</td>]]></html>
+	<text>Veracruz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMPA</td>]]></html>
+	<text>MMPA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PAZ</td>]]></html>
+	<text>PAZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>El Tajín National Airport</td>]]></html>
+	<text>El Taj&#237;n National Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Palenque</td>]]></html>
+	<text>Palenque</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chiapas</td>]]></html>
+	<text>Chiapas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MM60</td>]]></html>
+	<text>MM60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PQM</td>]]></html>
+	<text>PQM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palenque International Airport</td>]]></html>
+	<text>Palenque International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Puerto Escondido</td>]]></html>
+	<text>Puerto Escondido</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oaxaca</td>]]></html>
+	<text>Oaxaca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMPS</td>]]></html>
+	<text>MMPS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PXM</td>]]></html>
+	<text>PXM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puerto Escondido International Airport</td>]]></html>
+	<text>Puerto Escondido International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Cristóbal de las Casas</td>]]></html>
+	<text>San Crist&#243;bal de las Casas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chiapas</td>]]></html>
+	<text>Chiapas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMSC</td>]]></html>
+	<text>MMSC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SZT</td>]]></html>
+	<text>SZT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Cristobal de las Casas Airport</td>]]></html>
+	<text>San Cristobal de las Casas Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tamuín</td>]]></html>
+	<text>Tamu&#237;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Luis Potosí</td>]]></html>
+	<text>San Luis Potos&#237;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMTN</td>]]></html>
+	<text>MMTN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TSL</td>]]></html>
+	<text>TSL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamuín Airport</td>]]></html>
+	<text>Tamu&#237;n Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tehuacán</td>]]></html>
+	<text>Tehuac&#225;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Puebla</td>]]></html>
+	<text>Puebla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMHC</td>]]></html>
+	<text>MMHC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TCN</td>]]></html>
+	<text>TCN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehuacán National Airport</td>]]></html>
+	<text>Tehuac&#225;n National Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tepic</td>]]></html>
+	<text>Tepic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nayarit</td>]]></html>
+	<text>Nayarit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMEP</td>]]></html>
+	<text>MMEP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TPQ</td>]]></html>
+	<text>TPQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amado Nervo National Airport</td>]]></html>
+	<text>Amado Nervo National Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uruapan</td>]]></html>
+	<text>Uruapan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michoacán</td>]]></html>
+	<text>Michoac&#225;n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMPN</td>]]></html>
+	<text>MMPN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UPN</td>]]></html>
+	<text>UPN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uruapan International Airport</td>]]></html>
+	<text>Uruapan International Airport</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Aeropuertos y Servicios Auxiliares - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>CITY STATE ICAO IATA AIRPORT NAME</text>
+</context>
+<context>
+	<score>0.88769144</score>
+	<text>[ edit ] Airports operated by ASA</text>
+</context>
+<context>
+	<score>0.8070551</score>
+	<text>Aeropuertos y Servicios Auxiliares</text>
+</context>
+<context>
+	<score>0.79071397</score>
+	<text>Aeropuertos y Servicios Auxiliares is a federal government-owned corporation with its own equity capital and legal identity. It was created by the Mexican Federal Government in June 1965 to oversee management, operations and development of Mexico&apos;s airports. Today, it operates 21 airports (including the Mexico City International Airport ) and provides aviation fuel at 65 stations.</text>
+</context>
+<context>
+	<score>0.759339</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7383866</score>
+	<text>[ edit ] Airports operated by ASA</text>
+</context>
+<context>
+	<score>0.7383866</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7383866</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7294732</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6674075</score>
+	<text>Aeropuertos y Servicios Auxiliares</text>
+</context>
+<context>
+	<score>0.61253035</score>
+	<text>ASA Official Page .</text>
+</context>
+<context>
+	<score>0.52617246</score>
+	<text>[ edit ] See also</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellpadding="3" cellspacing="1"><tr valign="top" align="left"><th><a href="../../../../articles/l/i/s/List_of_cities_in_Mexico_5513.html" title="List of cities in Mexico">CITY</a></th><th><a href="../../../../articles/s/t/a/States_of_Mexico_ddde.html" class="mw-redirect" title="States of Mexico">STATE</a></th><th><a href="../../../../articles/i/c/a/ICAO_airport_code_cd3b.html" class="mw-redirect" title="ICAO airport code">ICAO</a>&#160;&#160;</th><th><a href="../../../../articles/i/a/t/IATA_airport_code_3507.html" class="mw-redirect" title="IATA airport code">IATA</a>&#160;&#160;</th><th>AIRPORT NAME</th></tr><tr valign="top"><td><a href="../../../../articles/c/a/m/Campeche%2C_Campeche_339c.html" title="Campeche, Campeche">Campeche</a></td><td><a href="../../../../articles/c/a/m/Campeche.html" title="Campeche">Campeche</a></td><td>MMCP</td><td>CPE</td><td><a href="../../../../articles/i/n/g/Ing._Alberto_Acu%C3%B1a_Ongay_International_Airport_aa02.html" title="Ing. Alberto Acuña Ongay International Airport">Ing. Alberto Acuña Ongay International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/h/e/Chetumal.html" class="mw-redirect" title="Chetumal">Chetumal</a></td><td><a href="../../../../articles/q/u/i/Quintana_Roo_beb0.html" title="Quintana Roo">Quintana Roo</a></td><td>MMCM</td><td>CTM</td><td><a href="../../../../articles/c/h/e/Chetumal_International_Airport_5035.html" title="Chetumal International Airport">Chetumal International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/i/u/Ciudad_del_Carmen_8e4d.html" title="Ciudad del Carmen">Ciudad del Carmen</a></td><td><a href="../../../../articles/c/a/m/Campeche.html" title="Campeche">Campeche</a></td><td>MMCE</td><td>CME</td><td><a href="../../../../articles/c/i/u/Ciudad_del_Carmen_International_Airport_d25e.html" title="Ciudad del Carmen International Airport">Ciudad del Carmen International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/m/e/x/Mexico_City_fae1.html" title="Mexico City">Ciudad de México</a></td><td><a href="../../../../articles/m/e/x/Mexican_Federal_District_7817.html" class="mw-redirect" title="Mexican Federal District">Federal District</a></td><td>MMMX</td><td>MEX</td><td><a href="../../../../articles/m/e/x/Mexico_City_International_Airport_de3d.html" title="Mexico City International Airport">Mexico City International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/i/u/Ciudad_Obreg%C3%B3n_59a9.html" title="Ciudad Obregón">Ciudad Obregón</a></td><td><a href="../../../../articles/s/o/n/Sonora.html" title="Sonora">Sonora</a></td><td>MMCN</td><td>CEN</td><td><a href="../../../../articles/c/i/u/Ciudad_Obreg%C3%B3n_International_Airport_0d00.html" title="Ciudad Obregón International Airport">Ciudad Obregón International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/i/u/Ciudad_Victoria_8784.html" title="Ciudad Victoria">Ciudad Victoria</a></td><td><a href="../../../../articles/t/a/m/Tamaulipas.html" title="Tamaulipas">Tamaulipas</a></td><td>MMCV</td><td>CVM</td><td><a href="../../../../articles/g/e/n/General_Pedro_J._M%C3%A9ndez_International_Airport_0227.html" title="General Pedro J. Méndez International Airport">General Pedro J. Méndez International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/o/l/Colima%2C_Colima_11d6.html" title="Colima, Colima">Colima</a></td><td><a href="../../../../articles/c/o/l/Colima.html" title="Colima">Colima</a></td><td>MMIA</td><td>CLQ</td><td><a href="../../../../articles/l/i/c/Lic._Miguel_de_la_Madrid_Airport_55d5.html" title="Lic. Miguel de la Madrid Airport">Lic. Miguel de la Madrid Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/u/e/Cuernavaca.html" title="Cuernavaca">Cuernavaca</a></td><td><a href="../../../../articles/m/o/r/Morelos.html" title="Morelos">Morelos</a></td><td>MMCB</td><td>CVJ</td><td><a href="../../../../articles/g/e/n/General_Mariano_Matamoros_Airport_61ef.html" title="General Mariano Matamoros Airport">General Mariano Matamoros Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/g/u/a/Guaymas.html" title="Guaymas">Guaymas</a></td><td><a href="../../../../articles/s/o/n/Sonora.html" title="Sonora">Sonora</a></td><td>MMGM</td><td>GYM</td><td><a href="../../../../articles/g/e/n/General_Jos%C3%A9_Mar%C3%ADa_Y%C3%A1%C3%B1ez_International_Airport_061c.html" title="General José María Yáñez International Airport">General José María Yáñez International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/l/o/r/Loreto%2C_Baja_California_Sur_00c1.html" title="Loreto, Baja California Sur">Loreto</a></td><td><a href="../../../../articles/b/a/j/Baja_California_Sur_ff19.html" title="Baja California Sur">Baja California Sur</a>&#160;</td><td>MMLT</td><td>LTO</td><td><a href="../../../../articles/l/o/r/Loreto_International_Airport_abe6.html" title="Loreto International Airport">Loreto International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/m/a/t/Matamoros%2C_Tamaulipas_df2e.html" class="mw-redirect" title="Matamoros, Tamaulipas">Matamoros</a></td><td><a href="../../../../articles/t/a/m/Tamaulipas.html" title="Tamaulipas">Tamaulipas</a></td><td>MMMA</td><td>MAM</td><td><a href="../../../../articles/g/e/n/General_Servando_Canales_International_Airport_213f.html" title="General Servando Canales International Airport">General Servando Canales International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/n/u/e/Nuevo_Laredo_0340.html" title="Nuevo Laredo">Nuevo Laredo</a></td><td><a href="../../../../articles/t/a/m/Tamaulipas.html" title="Tamaulipas">Tamaulipas</a></td><td>MMNL</td><td>NLD</td><td><a href="../../../../articles/q/u/e/Quetzalc%C3%B3atl_International_Airport_3561.html" title="Quetzalcóatl International Airport">Quetzalcóatl International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/n/o/g/Nogales%2C_Sonora_99fe.html" title="Nogales, Sonora">Nogales</a></td><td><a href="../../../../articles/s/o/n/Sonora.html" title="Sonora">Sonora</a></td><td>MMNG</td><td>NOG</td><td><a href="../../../../articles/n/o/g/Nogales_International_Airport_%28Mexico%29_17be.html" title="Nogales International Airport (Mexico)">Nogales International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/p/o/z/Poza_Rica_edc4.html" class="mw-redirect" title="Poza Rica">Poza Rica</a></td><td><a href="../../../../articles/v/e/r/Veracruz.html" title="Veracruz">Veracruz</a></td><td>MMPA</td><td>PAZ</td><td><a href="../../../../articles/e/l/_/El_Taj%C3%ADn_National_Airport_9c09.html" title="El Tajín National Airport">El Tajín National Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/p/a/l/Palenque.html" title="Palenque">Palenque</a></td><td><a href="../../../../articles/c/h/i/Chiapas.html" title="Chiapas">Chiapas</a></td><td>MM60</td><td>PQM</td><td>Palenque International Airport</td></tr><tr valign="top"><td><a href="../../../../articles/p/u/e/Puerto_Escondido_%28Oaxaca%29_7f87.html" class="mw-redirect" title="Puerto Escondido (Oaxaca)">Puerto Escondido</a></td><td><a href="../../../../articles/o/a/x/Oaxaca.html" title="Oaxaca">Oaxaca</a></td><td>MMPS</td><td>PXM</td><td><a href="../../../../articles/p/u/e/Puerto_Escondido_International_Airport_ae43.html" title="Puerto Escondido International Airport">Puerto Escondido International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/s/a/n/San_Crist%C3%B3bal_de_las_Casas_714e.html" title="San Cristóbal de las Casas">San Cristóbal de las Casas</a></td><td><a href="../../../../articles/c/h/i/Chiapas.html" title="Chiapas">Chiapas</a></td><td>MMSC</td><td>SZT</td><td>San Cristobal de las Casas Airport</td></tr><tr valign="top"><td>Tamuín</td><td><a href="../../../../articles/s/a/n/San_Luis_Potos%C3%AD_fa59.html" title="San Luis Potosí">San Luis Potosí</a></td><td>MMTN</td><td>TSL</td><td>Tamuín Airport</td></tr><tr valign="top"><td><a href="../../../../articles/t/e/h/Tehuac%C3%A1n.html" title="Tehuacán">Tehuacán</a></td><td><a href="../../../../articles/p/u/e/Puebla.html" title="Puebla">Puebla</a></td><td>MMHC</td><td>TCN</td><td>Tehuacán National Airport</td></tr><tr valign="top"><td><a href="../../../../articles/t/e/p/Tepic.html" class="mw-redirect" title="Tepic">Tepic</a></td><td><a href="../../../../articles/n/a/y/Nayarit.html" title="Nayarit">Nayarit</a></td><td>MMEP</td><td>TPQ</td><td><a href="../../../../articles/a/m/a/Amado_Nervo_National_Airport_191c.html" title="Amado Nervo National Airport">Amado Nervo National Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/u/r/u/Uruapan.html" title="Uruapan">Uruapan</a></td><td><a href="../../../../articles/m/i/c/Michoac%C3%A1n.html" title="Michoacán">Michoacán</a></td><td>MMPN</td><td>UPN</td><td><a href="../../../../articles/u/r/u/Uruapan_International_Airport_8853.html" title="Uruapan International Airport">Uruapan International Airport</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r6/e/l/b/Elbe_class_replenishment_ship.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9166667 2, 0.9166667 1 2, 0.8333333 1 4, 0.7638889 2 4, 0.75 1 5, 0.6875 2 5, 0.625 5, 0.5208333 4 5, 0.41666666 4, 0.13333334 3, 0.13333334 1 3, 0.12222224 2 3, 0.11666667 0, 0.11666667 0 1, 0.11111111 3 4, 0.10694445 0 2, 0.10000001 3 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/l/b/Elbe_class_replenishment_ship.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Pennant number</th>]]></html>
+	<text>Pennant number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Call sign</th>]]></html>
+	<text>Call sign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Commissioned</th>]]></html>
+	<text>Commissioned</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Base</th>]]></html>
+	<text>Base</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Unit</th>]]></html>
+	<text>Unit</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A511</td>]]></html>
+	<text>A511</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elbe</td>]]></html>
+	<text>Elbe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHU</td>]]></html>
+	<text>DRHU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>January 28 , 1993</td>]]></html>
+	<text>January 28 , 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warnemünde</td>]]></html>
+	<text>Warnem&#252;nde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7th FAC squadron</td>]]></html>
+	<text>7th FAC squadron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A512</td>]]></html>
+	<text>A512</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mosel</td>]]></html>
+	<text>Mosel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHK</td>]]></html>
+	<text>DRHK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 1 , 1993</td>]]></html>
+	<text>July 1 , 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiel</td>]]></html>
+	<text>Kiel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5th Minesweeper squadron</td>]]></html>
+	<text>5th Minesweeper squadron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A513</td>]]></html>
+	<text>A513</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhein</td>]]></html>
+	<text>Rhein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHL</td>]]></html>
+	<text>DRHL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 1 , 1993</td>]]></html>
+	<text>September 1 , 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiel</td>]]></html>
+	<text>Kiel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Minesweeper squadron</td>]]></html>
+	<text>3rd Minesweeper squadron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A514</td>]]></html>
+	<text>A514</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Werra</td>]]></html>
+	<text>Werra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHM</td>]]></html>
+	<text>DRHM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 9 , 1993</td>]]></html>
+	<text>December 9 , 1993</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kiel</td>]]></html>
+	<text>Kiel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Minesweeper squadron</td>]]></html>
+	<text>3rd Minesweeper squadron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A515</td>]]></html>
+	<text>A515</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Main</td>]]></html>
+	<text>Main</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHN</td>]]></html>
+	<text>DRHN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 10 , 1994</td>]]></html>
+	<text>June 10 , 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eckernförde</td>]]></html>
+	<text>Eckernf&#246;rde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st Submarine squadron</td>]]></html>
+	<text>1st Submarine squadron</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A516</td>]]></html>
+	<text>A516</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Donau</td>]]></html>
+	<text>Donau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRHO</td>]]></html>
+	<text>DRHO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 15 , 1994</td>]]></html>
+	<text>November 15 , 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warnemünde</td>]]></html>
+	<text>Warnem&#252;nde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st Corvette squadron</td>]]></html>
+	<text>1st Corvette squadron</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Elbe class replenishment ship - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Pennant number Name Call sign Commissioned Base Unit</text>
+</context>
+<context>
+	<score>0.886617</score>
+	<text>[ edit ] List of ships</text>
+</context>
+<context>
+	<score>0.80520916</score>
+	<text>Elbe class replenishment ship</text>
+</context>
+<context>
+	<score>0.78871155</score>
+	<text>[ edit ] Major deployments</text>
+</context>
+<context>
+	<score>0.75703627</score>
+	<text>The ships were named after German rivers .</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] Major deployments</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] List of ships</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71038723</score>
+	<text>MLG-27 onboard Elbe class tender Rhein of the German Navy .</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>Tender A511 Elbe .</text>
+</context>
+<context>
+	<score>0.6088231</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5976003</score>
+	<text>Tender A511 Elbe in Warnem nde .</text>
+</context>
+<context>
+	<score>0.5484995</score>
+	<text>While in general all Elbe class tenders are quickly configurable to be reassigned to support other squadrons, one of the six ships is usually modified to support German submarines - carrying batteries for reloading for example. This ship - currently A515 Main - while still being of the same class, and easily reconfigurable - is often named as a separate &quot;sub-class&quot; due to this larger modification.</text>
+</context>
+<context>
+	<score>0.52163893</score>
+	<text>Tender ELBE-Klasse - German Navy, official homepage (German) http://www.tender-elbe.de/seiten/typenbla.htm (German)</text>
+</context>
+<context>
+	<score>0.5164179</score>
+	<text>Extensive communication gear and accommodations enable them to serve as squadron flagship.</text>
+</context>
+<context>
+	<score>0.4997513</score>
+	<text>The ships carry fuel , fresh water , food , ammunition and other mat riel . They also have a medical station aboard but doctors are not part of their standard complement and will have to be flown in. The tender also manage waste disposal for the ships they support at sea and can carry out minor repairs of assigned ships. For this purpose Elbe class tenders assigned to FAC squadrons , for example, carry the SUG repair and support shop specialized for these boats on their deck in a set of 13 standard containers.</text>
+</context>
+<context>
+	<score>0.47929075</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47921905</score>
+	<text>The Type 404 Elbe class replenishment ships of the German Navy were built to support squadrons of Fast Attack Crafts , submarines and minesweeper/hunters . As such they are usually called tender .</text>
+</context>
+<context>
+	<score>0.47035408</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4661501</score>
+	<text>Elbe class replenishment ship</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th><a href="../../../../articles/p/e/n/Pennant_number.html" title="Pennant number">Pennant<br />number</a></th><th>Name</th><th><a href="../../../../articles/c/a/l/Call_sign.html" title="Call sign">Call<br />sign</a></th><th>Commissioned</th><th>Base</th><th>Unit</th></tr><tr><td>A511</td><td>Elbe</td><td>DRHU</td><td><a href="../../../../articles/j/a/n/January_28.html" title="January 28">January 28</a>, <a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td><a href="../../../../articles/w/a/r/Warnem%C3%BCnde.html" title="Warnemünde">Warnemünde</a></td><td>7th <a href="../../../../articles/f/a/s/Fast_Attack_Craft_88d5.html" title="Fast Attack Craft">FAC</a> squadron</td></tr><tr><td>A512</td><td>Mosel</td><td>DRHK</td><td><a href="../../../../articles/j/u/l/July_1.html" title="July 1">July 1</a>, <a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td><a href="../../../../articles/k/i/e/Kiel.html" title="Kiel">Kiel</a></td><td>5th Minesweeper squadron</td></tr><tr><td>A513</td><td>Rhein</td><td>DRHL</td><td><a href="../../../../articles/s/e/p/September_1.html" title="September 1">September 1</a>, <a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td><a href="../../../../articles/k/i/e/Kiel.html" title="Kiel">Kiel</a></td><td>3rd Minesweeper squadron</td></tr><tr><td>A514</td><td>Werra</td><td>DRHM</td><td><a href="../../../../articles/d/e/c/December_9.html" title="December 9">December 9</a>, <a href="../../../../articles/1/9/9/1993.html" title="1993">1993</a></td><td><a href="../../../../articles/k/i/e/Kiel.html" title="Kiel">Kiel</a></td><td>3rd Minesweeper squadron</td></tr><tr><td>A515</td><td>Main</td><td>DRHN</td><td><a href="../../../../articles/j/u/n/June_10.html" title="June 10">June 10</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td><a href="../../../../articles/e/c/k/Eckernf%C3%B6rde.html" title="Eckernförde">Eckernförde</a></td><td>1st Submarine squadron</td></tr><tr><td>A516</td><td>Donau</td><td>DRHO</td><td><a href="../../../../articles/n/o/v/November_15.html" title="November 15">November 15</a>, <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td><a href="../../../../articles/w/a/r/Warnem%C3%BCnde.html" title="Warnemünde">Warnemünde</a></td><td>1st Corvette squadron</td></tr></table>]]>
+</htmlSnippet>
+</entity>

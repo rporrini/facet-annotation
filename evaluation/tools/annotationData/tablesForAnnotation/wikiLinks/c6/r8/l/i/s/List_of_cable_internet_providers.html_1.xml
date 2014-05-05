@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r8/l/i/s/List_of_cable_internet_providers.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 2, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 3, 0.6875 1 3, 0.6666667 4, 0.6666667 0 4, 0.65625 3, 0.625 2 3, 0.61111116 1 4, 0.5833333 0 5, 0.5555556 2 4, 0.5347222 1 5, 0.5 3 4, 0.48611107 2 5, 0.4375 5, 0.4375 3 5, 0.3888889 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cable_internet_providers.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Service Provider</th>]]></html>
+	<text>Service Provider</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Basic</th>]]></html>
+	<text>Basic</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Standard</th>]]></html>
+	<text>Standard</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Faster</th>]]></html>
+	<text>Faster</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Fastest</th>]]></html>
+	<text>Fastest</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Comcast</td>]]></html>
+	<text>Comcast</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 Mbit/s down, 384 kbit/s up</td>]]></html>
+	<text>4 Mbit/s down, 384 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 Mbit/s down, 384 kbit/s up (16 Mbit/s down, 384 kbit/s up available)</td>]]></html>
+	<text>6 Mbit/s down, 384 kbit/s up (16 Mbit/s down, 384 kbit/s up available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 Mbit/s down, 768 kbit/s up (24 Mbit/s down, 768 kbit/s up available)</td>]]></html>
+	<text>8 Mbit/s down, 768 kbit/s up (24 Mbit/s down, 768 kbit/s up available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 or 16 Mbit/s down, 2 Mbit/s up</td>]]></html>
+	<text>12 or 16 Mbit/s down, 2 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Will upgrade to DOCSIS 3.0 in order to boost speeds "up to 160 megabits of data per second." [1]</td>]]></html>
+	<text>Will upgrade to DOCSIS 3.0 in order to boost speeds &amp;quot;up to 160 megabits of data per second.&amp;quot; [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cox Communications</td>]]></html>
+	<text>Cox Communications</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 Mbit/s down, 512 kbit/s up (10 Mbit/s down, 2 Mbit/s up available in select markets)</td>]]></html>
+	<text>7 Mbit/s down, 512 kbit/s up (10 Mbit/s down, 2 Mbit/s up available in select markets)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 Mbit/s down, 1 Mbit/s up (20 Mbit/s down, 2 Mbit/s up available in select markets)</td>]]></html>
+	<text>15 Mbit/s down, 1 Mbit/s up (20 Mbit/s down, 2 Mbit/s up available in select markets)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blocks incoming ports 25 and 80.</td>]]></html>
+	<text>Blocks incoming ports 25 and 80.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cable One</td>]]></html>
+	<text>Cable One</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 Mbit/s down, 300 kbit/s up</td>]]></html>
+	<text>3 Mbit/s down, 300 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 Mbit/s down, 500 kbit/s up</td>]]></html>
+	<text>5 Mbit/s down, 500 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 Mbit/s down, 500 kbit/s up</td>]]></html>
+	<text>8 Mbit/s down, 500 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>8 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charter Communications</td>]]></html>
+	<text>Charter Communications</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 Mbit/s down, 512k Mbit/s up</td>]]></html>
+	<text>5 Mbit/s down, 512k Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>10 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 Mbit/s down, 2 Mbit/s up</td>]]></html>
+	<text>16 Mbit/s down, 2 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blocks no incoming ports.</td>]]></html>
+	<text>Blocks no incoming ports.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mediacom</td>]]></html>
+	<text>Mediacom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 Mbit/s down, 256 kbit/s up</td>]]></html>
+	<text>3 Mbit/s down, 256 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 Mbit/s down, 512 kbit/s up</td>]]></html>
+	<text>8 Mbit/s down, 512 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>10 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 Mbit/s down, 2 Mbit/s up</td>]]></html>
+	<text>20 Mbit/s down, 2 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 Mbit/s down, 1 Mbit/s up is available to subscribers of both other Mediacom services, cable television &amp; VoIP [2]</td>]]></html>
+	<text>10 Mbit/s down, 1 Mbit/s up is available to subscribers of both other Mediacom services, cable television &amp;amp;amp; VoIP [2]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Verizon FiOS</td>]]></html>
+	<text>Verizon FiOS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 Mbit/s down, 2 Mbit/s up</td>]]></html>
+	<text>5 Mbit/s down, 2 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 Mbit/s down, 2 Mbit/s up</td>]]></html>
+	<text>15 Mbit/s down, 2 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 Mbit/s down, 5 Mbit/s up</td>]]></html>
+	<text>20 Mbit/s down, 5 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50 Mbit/s down, 5 Mbit/s up (20 Mbit/s upload available in select markets)</td>]]></html>
+	<text>50 Mbit/s down, 5 Mbit/s up (20 Mbit/s upload available in select markets)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Verizon offers higher speeds in some highly-competitive areas.</td>]]></html>
+	<text>Verizon offers higher speeds in some highly-competitive areas.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AT&amp;T U-Verse</td>]]></html>
+	<text>AT&amp;amp;amp;T U-Verse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>1.5 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>3 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 Mbit/s down, 1 Mbit/s up</td>]]></html>
+	<text>6 Mbit/s down, 1 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 Mbit/s down, 1.5 Mbit/s up</td>]]></html>
+	<text>10 Mbit/s down, 1.5 Mbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>WOW!</td>]]></html>
+	<text>WOW!</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>768 kbit/s down, 256 kbit/s up</td>]]></html>
+	<text>768 kbit/s down, 256 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 Mbit/s down, 384 kbit/s up</td>]]></html>
+	<text>2 Mbit/s down, 384 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 Mbit/s down, 512 kbit/s up</td>]]></html>
+	<text>4 Mbit/s down, 512 kbit/s up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 Mbit/s down, 512 kbit/s up (1 Mbit/s upload available)</td>]]></html>
+	<text>6 Mbit/s down, 512 kbit/s up (1 Mbit/s upload available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cable internet providers - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Service Provider Basic Standard Faster Fastest Notes</text>
+</context>
+<context>
+	<score>0.8804529</score>
+	<text>[ edit ] United States</text>
+</context>
+<context>
+	<score>0.80346316</score>
+	<text>List of cable internet providers</text>
+</context>
+<context>
+	<score>0.7834832</score>
+	<text>Canadian cable operators offer varying levels of service based on different price points, though the actual marketing terms vary. Services offered by the major Canadian providers are included below.</text>
+</context>
+<context>
+	<score>0.75211066</score>
+	<text>Cablevision , serving parts of New Jersey , Brooklyn , The Bronx , Long Island , Westchester , Rockland , and Connecticut , also faces competition from FiOS and currently offers the fastest &apos;basic&apos; cable internet service ( Optimum Online ) in the US, with 15 Mbit/s Downstream and 2 Mbit/s upstream. A premium package offering 30 Mbit/s downstream and 5 Mbit/s upstream is also available.</text>
+</context>
+<context>
+	<score>0.7275524</score>
+	<text>[ edit ] North America</text>
+</context>
+<context>
+	<score>0.7275524</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.7275524</score>
+	<text>[ edit ] Asia &amp; Oceania</text>
+</context>
+<context>
+	<score>0.7258875</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7059074</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.6438468</score>
+	<text>[ edit ] North America</text>
+</context>
+<context>
+	<score>0.60531396</score>
+	<text>Time Warner Cable , through its regular Road Runner cable internet service speeds vary depending upon region. Some areas offering 8 Mbit/s [ specify ] downstream and 512 kbit/s upstream, while others are at 5 Mbit/s downstream and 384 kbit/s upstream. Areas such as Albany and San Diego now have speeds of 10 Mbit/s downstream and 1 Mbit/s upstream. Its Road Runner Premium service also varies, with offers of speeds from 10 Mbit/s (in the NYC Region &amp; Central Texas) to 8 Mbit/s downstream, and up to 1 Mbit/s (in Central Texas) to 512 kbit/s upstream. [3] [4] [5]</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.55447954</score>
+	<text>This is an incomplete list , which may never be able to satisfy certain standards for completeness. Revisions and sourced additions are welcome.</text>
+</context>
+<context>
+	<score>0.5227045</score>
+	<text>The article could be improved by integrating relevant items and removing inappropriate ones. (May 2008)</text>
+</context>
+<context>
+	<score>0.5189629</score>
+	<text>Midcontinent Communications , serving South Dakota and parts of North Dakota , Minnesota , and Nebraska , offers three grades of service through its MidcoNet cable internet service: Limited Internet service at 128 kbit/s upload and download; Standard service with 8 Mbit/s download and 256 kbit/s upload; and MidcoNet Max with unthrottled download speed (around the DOCSIS limit of 40 Mbit/s) and 768 kbit/s upload.</text>
+</context>
+<context>
+	<score>0.49728447</score>
+	<text>This article or section may contain an excessive amount of information with limited interest or intricate details .</text>
+</context>
+<context>
+	<score>0.49692848</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.48065966</score>
+	<text>List of cable internet providers</text>
+</context>
+<context>
+	<score>0.46816826</score>
+	<text>[ edit ] Europe</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th width="10%">Service Provider</th><th width="10%">Basic</th><th width="10%">Standard</th><th width="10%">Faster</th><th width="10%">Fastest</th><th width="10%">Notes</th></tr><tr><td><a href="../../../../articles/c/o/m/Comcast.html" title="Comcast">Comcast</a></td><td>4 Mbit/s down, 384 kbit/s up</td><td>6 Mbit/s down, 384 kbit/s up (16 Mbit/s down, 384 kbit/s up available)</td><td>8 Mbit/s down, 768 kbit/s up (24 Mbit/s down, 768 kbit/s up available)</td><td>12 or 16 Mbit/s down, 2 Mbit/s up</td><td>Will upgrade to <a href="../../../../articles/d/o/c/DOCSIS_d29a.html" title="DOCSIS">DOCSIS 3.0</a> in order to boost speeds "up to 160 megabits of data per second." <a href="http://www.cnn.com/2008/TECH/01/08/ces.comcast.ap/index.html" class="external autonumber" title="http://www.cnn.com/2008/TECH/01/08/ces.comcast.ap/index.html" rel="nofollow">[1]</a></td></tr><tr><td><a href="../../../../articles/c/o/x/Cox_Communications_3d49.html" title="Cox Communications">Cox Communications</a></td><td>7 Mbit/s down, 512 kbit/s up (10 Mbit/s down, 2 Mbit/s up available in select markets)</td><td></td><td></td><td>15 Mbit/s down, 1 Mbit/s up (20 Mbit/s down, 2 Mbit/s up available in select markets)</td><td>Blocks incoming ports 25 and 80.</td></tr><tr><td><a href="../../../../articles/c/a/b/Cable_One_ce77.html" title="Cable One">Cable One</a></td><td>3 Mbit/s down, 300 kbit/s up</td><td>5 Mbit/s down, 500 kbit/s up</td><td>8 Mbit/s down, 500 kbit/s up</td><td>8 Mbit/s down, 1 Mbit/s up</td><td></td></tr><tr><td><a href="../../../../articles/c/h/a/Charter_Communications_ff87.html" title="Charter Communications">Charter Communications</a></td><td></td><td>5 Mbit/s down, 512k Mbit/s up</td><td>10 Mbit/s down, 1 Mbit/s up</td><td>16 Mbit/s down, 2 Mbit/s up</td><td>Blocks no incoming ports.</td></tr><tr><td><a href="../../../../articles/m/e/d/Mediacom.html" title="Mediacom">Mediacom</a></td><td>3 Mbit/s down, 256 kbit/s up</td><td>8 Mbit/s down, 512 kbit/s up</td><td>10 Mbit/s down, 1 Mbit/s up</td><td>20 Mbit/s down, 2 Mbit/s up</td><td>10 Mbit/s down, 1 Mbit/s up is available to subscribers of both other <a href="../../../../articles/m/e/d/Mediacom.html" title="Mediacom">Mediacom</a> services, <a href="../../../../articles/c/a/b/Cable_television.html" title="Cable television">cable television</a> &amp; <a href="../../../../articles/v/o/i/VoIP_c2bd.html" class="mw-redirect" title="VoIP">VoIP</a><a href="http://mediacomcc.com/internet_online.html" class="external autonumber" title="http://mediacomcc.com/internet_online.html" rel="nofollow">[2]</a></td></tr><tr><td><a href="../../../../articles/v/e/r/Verizon_FiOS_67e1.html" title="Verizon FiOS">Verizon FiOS</a></td><td>5 Mbit/s down, 2 Mbit/s up</td><td>15 Mbit/s down, 2 Mbit/s up</td><td>20 Mbit/s down, 5 Mbit/s up</td><td>50 Mbit/s down, 5 Mbit/s up (20 Mbit/s upload available in select markets)</td><td>Verizon offers higher speeds in some highly-competitive areas.</td></tr><tr><td><a href="../../../../articles/u/-/v/U-verse.html" title="U-verse">AT&amp;T U-Verse</a></td><td>1.5 Mbit/s down, 1 Mbit/s up</td><td>3 Mbit/s down, 1 Mbit/s up</td><td>6 Mbit/s down, 1 Mbit/s up</td><td>10 Mbit/s down, 1.5 Mbit/s up</td><td></td></tr><tr><td><a href="../../../../articles/w/o/w/WOW%21_b098.html" title="WOW!">WOW!</a></td><td>768 kbit/s down, 256 kbit/s up</td><td>2 Mbit/s down, 384 kbit/s up</td><td>4 Mbit/s down, 512 kbit/s up</td><td>6 Mbit/s down, 512 kbit/s up (1 Mbit/s upload available)</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

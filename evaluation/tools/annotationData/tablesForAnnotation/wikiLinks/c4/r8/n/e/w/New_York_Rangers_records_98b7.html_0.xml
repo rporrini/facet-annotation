@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r8/n/e/w/New_York_Rangers_records_98b7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 0 2, 0.13125001 2, 0.125 0 3, 0.109375 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/n/e/w/New_York_Rangers_records_98b7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Coach</th>]]></html>
+	<text>Coach</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Games</th>]]></html>
+	<text>Games</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Wins</th>]]></html>
+	<text>Wins</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>%</th>]]></html>
+	<text>%</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Emile Francis</td>]]></html>
+	<text>Emile Francis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>654</td>]]></html>
+	<text>654</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>342</td>]]></html>
+	<text>342</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.602</td>]]></html>
+	<text>.602</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lester Patrick</td>]]></html>
+	<text>Lester Patrick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>604</td>]]></html>
+	<text>604</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>281</td>]]></html>
+	<text>281</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.554</td>]]></html>
+	<text>.554</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Frank Boucher</td>]]></html>
+	<text>Frank Boucher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>525</td>]]></html>
+	<text>525</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>179</td>]]></html>
+	<text>179</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.341</td>]]></html>
+	<text>.341</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Roger Neilson</td>]]></html>
+	<text>Roger Neilson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>280</td>]]></html>
+	<text>280</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>141</td>]]></html>
+	<text>141</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.566</td>]]></html>
+	<text>.566</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tom Renney 2</td>]]></html>
+	<text>Tom Renney 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>266</td>]]></html>
+	<text>266</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>133</td>]]></html>
+	<text>133</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.566</td>]]></html>
+	<text>.566</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Herb Brooks</td>]]></html>
+	<text>Herb Brooks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>285</td>]]></html>
+	<text>285</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>131</td>]]></html>
+	<text>131</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.532</td>]]></html>
+	<text>.532</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colin Campbell</td>]]></html>
+	<text>Colin Campbell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>269</td>]]></html>
+	<text>269</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118</td>]]></html>
+	<text>118</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.519</td>]]></html>
+	<text>.519</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Phil Watson</td>]]></html>
+	<text>Phil Watson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>294</td>]]></html>
+	<text>294</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>118</td>]]></html>
+	<text>118</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.401</td>]]></html>
+	<text>.401</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>New York Rangers records - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Coach Games Wins %</text>
+</context>
+<context>
+	<score>0.8841743</score>
+	<text>[ edit ] Coaching</text>
+</context>
+<context>
+	<score>0.79826075</score>
+	<text>New York Rangers records</text>
+</context>
+<context>
+	<score>0.78139293</score>
+	<text>player still active</text>
+</context>
+<context>
+	<score>0.7499593</score>
+	<text>still active coach</text>
+</context>
+<context>
+	<score>0.7261565</score>
+	<text>[ edit ] Team records</text>
+</context>
+<context>
+	<score>0.7261565</score>
+	<text>[ edit ] All-time regular season leaders</text>
+</context>
+<context>
+	<score>0.7261565</score>
+	<text>[ edit ] Single-season scoring leaders</text>
+</context>
+<context>
+	<score>0.7261565</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7261565</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7205338</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7092886</score>
+	<text>[ edit ] Most shutouts by a goaltender</text>
+</context>
+<context>
+	<score>0.647107</score>
+	<text>[ edit ] Most wins by a goaltender</text>
+</context>
+<context>
+	<score>0.60849905</score>
+	<text>[ edit ] Single-season scoring leaders</text>
+</context>
+<context>
+	<score>0.59736174</score>
+	<text>[ edit ] Most penalty minutes</text>
+</context>
+<context>
+	<score>0.55756557</score>
+	<text>[ edit ] Most points</text>
+</context>
+<context>
+	<score>0.5257286</score>
+	<text>[ edit ] Most assists</text>
+</context>
+<context>
+	<score>0.52197975</score>
+	<text>[ edit ] Most points</text>
+</context>
+<context>
+	<score>0.500259</score>
+	<text>[ edit ] Most goals</text>
+</context>
+<context>
+	<score>0.47988334</score>
+	<text>[ edit ] Most games played</text>
+</context>
+<context>
+	<score>0.47108603</score>
+	<text>[ edit ] Most goals</text>
+</context>
+<context>
+	<score>0.4635828</score>
+	<text>[ edit ] All-time regular season leaders</text>
+</context>
+<context>
+	<score>0.4505424</score>
+	<text>[ edit ] Single season</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Coach</th><th>Games</th><th>Wins</th><th>&#160;%</th></tr><tr><td><a href="../../../../articles/e/m/i/Emile_Francis_079c.html" title="Emile Francis">Emile Francis</a></td><td>654</td><td>342</td><td>.602</td></tr><tr><td><a href="../../../../articles/l/e/s/Lester_Patrick_b92b.html" title="Lester Patrick">Lester Patrick</a></td><td>604</td><td>281</td><td>.554</td></tr><tr><td><a href="../../../../articles/f/r/a/Frank_Boucher_63eb.html" title="Frank Boucher">Frank Boucher</a></td><td>525</td><td>179</td><td>.341</td></tr><tr><td><a href="../../../../articles/r/o/g/Roger_Neilson_2ed1.html" title="Roger Neilson">Roger Neilson</a></td><td>280</td><td>141</td><td>.566</td></tr><tr><td><a href="../../../../articles/t/o/m/Tom_Renney_2b3a.html" title="Tom Renney">Tom Renney</a><sup>2</sup></td><td>266</td><td>133</td><td>.566</td></tr><tr><td><a href="../../../../articles/h/e/r/Herb_Brooks_4afa.html" title="Herb Brooks">Herb Brooks</a></td><td>285</td><td>131</td><td>.532</td></tr><tr><td><a href="../../../../articles/c/o/l/Colin_Campbell_%28ice_hockey%29_ca0e.html" title="Colin Campbell (ice hockey)">Colin Campbell</a></td><td>269</td><td>118</td><td>.519</td></tr><tr><td><a href="../../../../articles/p/h/i/Phil_Watson_005f.html" title="Phil Watson">Phil Watson</a></td><td>294</td><td>118</td><td>.401</td></tr></table>]]>
+</htmlSnippet>
+</entity>

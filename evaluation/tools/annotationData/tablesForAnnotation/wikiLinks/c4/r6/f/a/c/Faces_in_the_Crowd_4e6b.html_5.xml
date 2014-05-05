@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/f/a/c/Faces_in_the_Crowd_4e6b.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 3, 0.75 0 3, 0.65625 1 3, 0.125 0 2, 0.109375 1 2, 0.104166664 2, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/f/a/c/Faces_in_the_Crowd_4e6b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Athlete</th>]]></html>
+	<text>Athlete</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>SI Cover Date</th>]]></html>
+	<text>SI Cover Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Special Notes</th>]]></html>
+	<text>Special Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joe Mauer</td>]]></html>
+	<text>Joe Mauer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 25, 2000</td>]]></html>
+	<text>December 25, 2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American League batting champion in 2006</td>]]></html>
+	<text>American League batting champion in 2006</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ben Gordon</td>]]></html>
+	<text>Ben Gordon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 19, 2001</td>]]></html>
+	<text>March 19, 2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First-round selection of the Chicago Bulls</td>]]></html>
+	<text>First-round selection of the Chicago Bulls</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Allyson Felix</td>]]></html>
+	<text>Allyson Felix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Track and Field</td>]]></html>
+	<text>Track and Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 13, 2001</td>]]></html>
+	<text>August 13, 2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold medalist in 200 meters at the 2005 World Championships</td>]]></html>
+	<text>Gold medalist in 200 meters at the 2005 World Championships</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michelle Wie</td>]]></html>
+	<text>Michelle Wie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Golf</td>]]></html>
+	<text>Golf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 13, 2001</td>]]></html>
+	<text>August 13, 2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Became youngest winner of any adult USGA title</td>]]></html>
+	<text>Became youngest winner of any adult USGA title</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zach Parise</td>]]></html>
+	<text>Zach Parise</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hockey</td>]]></html>
+	<text>Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 18, 2002</td>]]></html>
+	<text>February 18, 2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hometown: Fairbault, Minn</td>]]></html>
+	<text>Hometown: Fairbault, Minn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jennie Finch</td>]]></html>
+	<text>Jennie Finch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Softball</td>]]></html>
+	<text>Softball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 25, 2002</td>]]></html>
+	<text>March 25, 2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold medalist with Team USA in 2004 Olympics . Appeared in Sports Illustrated Swimsuit Issue , and hosted segments on This Week in Baseball .</td>]]></html>
+	<text>Gold medalist with Team USA in 2004 Olympics . Appeared in Sports Illustrated Swimsuit Issue , and hosted segments on This Week in Baseball .</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Faces in the Crowd - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Athlete Sport SI Cover Date Special Notes</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>The 2000s</text>
+</context>
+<context>
+	<score>0.7967104</score>
+	<text>Faces in the Crowd</text>
+</context>
+<context>
+	<score>0.7797129</score>
+	<text>The 1990s</text>
+</context>
+<context>
+	<score>0.7575987</score>
+	<text>[ edit ] By the Numbers</text>
+</context>
+<context>
+	<score>0.7279472</score>
+	<text>[ edit ] Famous Faces in the Crowd</text>
+</context>
+<context>
+	<score>0.7279472</score>
+	<text>[ edit ] By the Numbers</text>
+</context>
+<context>
+	<score>0.7279472</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7279472</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7279472</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7183861</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>The 1980s</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>The 1970s</text>
+</context>
+<context>
+	<score>0.60938555</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5886016</score>
+	<text>The 1960s</text>
+</context>
+<context>
+	<score>0.5484995</score>
+	<text>The 1950s</text>
+</context>
+<context>
+	<score>0.525979</score>
+	<text>[ edit ] Famous Faces in the Crowd</text>
+</context>
+<context>
+	<score>0.52220136</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.49075264</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47978145</score>
+	<text>The predecessor to These Faces... was a segment called Pat on the Back. It differed in that it did not just focus on unknown or amateur athletes. Contrary to Faces in the Crowd , it featured professional athletes who set milestones and celebrities who undertook an athletic endeavor. From 1956 to 2006, a total of 15,672 athletes have been featured.</text>
+</context>
+<context>
+	<score>0.4709165</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46335566</score>
+	<text>Faces in the Crowd is a long-running segment from Sports Illustrated . Starting in the January 9 , 1956 issue, the segment was originally titled These Faces in the Crowd.</text>
+</context>
+<context>
+	<score>0.4576514</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Athlete</th><th>Sport</th><th>SI Cover Date</th><th>Special Notes</th></tr><tr><td><a href="../../../../articles/j/o/e/Joe_Mauer_2952.html" title="Joe Mauer">Joe Mauer</a></td><td>Baseball</td><td>December 25, 2000</td><td><a href="../../../../articles/a/m/e/American_League_6b8d.html" title="American League">American League</a> batting champion in <a href="../../../../articles/2/0/0/2006_Major_League_Baseball_season_5ce5.html" title="2006 Major League Baseball season">2006</a></td></tr><tr><td><a href="../../../../articles/b/e/n/Ben_Gordon_e278.html" title="Ben Gordon">Ben Gordon</a></td><td>Basketball</td><td>March 19, 2001</td><td>First-round selection of the <a href="../../../../articles/c/h/i/Chicago_Bulls_cb53.html" title="Chicago Bulls">Chicago Bulls</a></td></tr><tr><td><a href="../../../../articles/a/l/l/Allyson_Felix_051d.html" title="Allyson Felix">Allyson Felix</a></td><td>Track and Field</td><td>August 13, 2001</td><td>Gold medalist in 200 meters at the <a href="../../../../articles/2/0/0/2005_IAAF_World_Championships_in_Athletics_2cc1.html" class="mw-redirect" title="2005 IAAF World Championships in Athletics">2005 World Championships</a></td></tr><tr><td><a href="../../../../articles/m/i/c/Michelle_Wie_0b9f.html" title="Michelle Wie">Michelle Wie</a></td><td>Golf</td><td>August 13, 2001</td><td>Became youngest winner of any adult <a href="../../../../articles/u/n/i/United_States_Golf_Association_b3e5.html" title="United States Golf Association">USGA</a> title</td></tr><tr><td><a href="../../../../articles/z/a/c/Zach_Parise_94ba.html" title="Zach Parise">Zach Parise</a></td><td>Hockey</td><td>February 18, 2002</td><td>Hometown: Fairbault, Minn</td></tr><tr><td><a href="../../../../articles/j/e/n/Jennie_Finch_b4b4.html" title="Jennie Finch">Jennie Finch</a></td><td>Softball</td><td>March 25, 2002</td><td>Gold medalist with Team USA in <a href="../../../../articles/s/o/f/Softball_at_the_2004_Summer_Olympics_8187.html" title="Softball at the 2004 Summer Olympics">2004 Olympics</a>. Appeared in <i><a href="../../../../articles/s/p/o/Sports_Illustrated_Swimsuit_Issue_e3fc.html" title="Sports Illustrated Swimsuit Issue">Sports Illustrated Swimsuit Issue</a></i>, and hosted segments on <i><a href="../../../../articles/t/h/i/This_Week_in_Baseball_d279.html" title="This Week in Baseball">This Week in Baseball</a></i>.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

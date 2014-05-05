@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_cities_in_Germany_starting_with_UV_f50b.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.75 0 3, 0.65625 2 3, 0.3 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cities_in_Germany_starting_with_UV_f50b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Town</th>]]></html>
+	<text>Town</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uelzen</td>]]></html>
+	<text>Uelzen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,400</td>]]></html>
+	<text>35,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uelzen</td>]]></html>
+	<text>Uelzen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lower Saxony</td>]]></html>
+	<text>Lower Saxony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ulm</td>]]></html>
+	<text>Ulm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115,600</td>]]></html>
+	<text>115,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baden-Württemberg</td>]]></html>
+	<text>Baden-W&#252;rttemberg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vechta</td>]]></html>
+	<text>Vechta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25,900</td>]]></html>
+	<text>25,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vechta</td>]]></html>
+	<text>Vechta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lower Saxony</td>]]></html>
+	<text>Lower Saxony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Verden</td>]]></html>
+	<text>Verden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28,000</td>]]></html>
+	<text>28,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Verden</td>]]></html>
+	<text>Verden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lower Saxony</td>]]></html>
+	<text>Lower Saxony</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Visselhövede</td>]]></html>
+	<text>Visselh&#246;vede</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,000</td>]]></html>
+	<text>11,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rotenburg</td>]]></html>
+	<text>Rotenburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lower Saxony</td>]]></html>
+	<text>Lower Saxony</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cities in Germany starting with UV - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Town Population District State</text>
+</context>
+<context>
+	<score>0.9035835</score>
+	<text>List of cities in Germany : A - B - C - D - E - F - G - H - I - J - K - L - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z</text>
+</context>
+<context>
+	<score>0.8059982</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.8059982</score>
+	<text>List of cities in Germany starting with UV</text>
+</context>
+<context>
+	<score>0.7550917</score>
+	<text>&quot;--&quot; in the district column means that the town is an urban district , i.e. a town which constitutes a district in its own right.</text>
+</context>
+<context>
+	<score>0.71624327</score>
+	<text>List of cities in Germany starting with UV</text>
+</context>
+<context>
+	<score>0.58524823</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" border="border"><tr><th>Town</th><th><a href="../../../../articles/p/o/p/Population.html" title="Population">Population</a></th><th><a href="../../../../articles/d/i/s/District.html" title="District">District</a></th><th><a href="../../../../articles/s/t/a/States_of_Germany_65c0.html" title="States of Germany">State</a></th></tr><tr><td><a href="../../../../articles/u/e/l/Uelzen.html" title="Uelzen">Uelzen</a></td><td>35,400</td><td><a href="../../../../articles/u/e/l/Uelzen_%28district%29.html" title="Uelzen (district)">Uelzen</a></td><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a></td></tr><tr><td><a href="../../../../articles/u/l/m/Ulm.html" title="Ulm">Ulm</a></td><td>115,600</td><td>--</td><td><a href="../../../../articles/b/a/d/Baden-W%C3%BCrttemberg_3684.html" title="Baden-Württemberg">Baden-Württemberg</a></td></tr><tr><td><a href="../../../../articles/v/e/c/Vechta.html" title="Vechta">Vechta</a></td><td>25,900</td><td><a href="../../../../articles/v/e/c/Vechta_%28district%29.html" title="Vechta (district)">Vechta</a></td><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a></td></tr><tr><td><a href="../../../../articles/v/e/r/Verden%2C_Germany_32fb.html" class="mw-redirect" title="Verden, Germany">Verden</a></td><td>28,000</td><td><a href="../../../../articles/v/e/r/Verden_%28district%29.html" title="Verden (district)">Verden</a></td><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a></td></tr><tr><td><a href="../../../../articles/v/i/s/Visselh%C3%B6vede.html" title="Visselhövede">Visselhövede</a></td><td>11,000</td><td><a href="../../../../articles/r/o/t/Rotenburg_%28district%29.html" title="Rotenburg (district)">Rotenburg</a></td><td><a href="../../../../articles/l/o/w/Lower_Saxony_d587.html" title="Lower Saxony">Lower Saxony</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

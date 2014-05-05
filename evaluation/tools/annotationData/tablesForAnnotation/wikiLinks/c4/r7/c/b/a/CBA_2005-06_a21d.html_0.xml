@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/c/b/a/CBA_2005-06_a21d.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/b/a/CBA_2005-06_a21d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>From</th>]]></html>
+	<text>From</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Wins</th>]]></html>
+	<text>Wins</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Losses</th>]]></html>
+	<text>Losses</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beijing Ducks</td>]]></html>
+	<text>Beijing Ducks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beijing</td>]]></html>
+	<text>Beijing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Xinjiang Flying Tigers</td>]]></html>
+	<text>Xinjiang Flying Tigers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xinjiang</td>]]></html>
+	<text>Xinjiang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liaoning Hunters</td>]]></html>
+	<text>Liaoning Hunters</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liaoning</td>]]></html>
+	<text>Liaoning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jilin Northeast Tigers</td>]]></html>
+	<text>Jilin Northeast Tigers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jilin</td>]]></html>
+	<text>Jilin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shandong Lions</td>]]></html>
+	<text>Shandong Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shandong</td>]]></html>
+	<text>Shandong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shaanxi Kylins</td>]]></html>
+	<text>Shaanxi Kylins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shaanxi</td>]]></html>
+	<text>Shaanxi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Henan Dragons</td>]]></html>
+	<text>Henan Dragons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henan</td>]]></html>
+	<text>Henan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>CBA 2005-06 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team From Wins Losses</text>
+</context>
+<context>
+	<score>0.8846151</score>
+	<text>[ edit ] North Division</text>
+</context>
+<context>
+	<score>0.7986528</score>
+	<text>CBA 2005-06</text>
+</context>
+<context>
+	<score>0.7876452</score>
+	<text>[ edit ] Regular Season</text>
+</context>
+<context>
+	<score>0.7562727</score>
+	<text>[ edit ] South Division</text>
+</context>
+<context>
+	<score>0.7269044</score>
+	<text>[ edit ] Changes to league</text>
+</context>
+<context>
+	<score>0.7269044</score>
+	<text>[ edit ] Regular Season</text>
+</context>
+<context>
+	<score>0.7269044</score>
+	<text>[ edit ] Playoffs</text>
+</context>
+<context>
+	<score>0.7269044</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7269044</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7210769</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71006936</score>
+	<text>The all-star game was played on March 18 , 2006 in Shanghai , after the end of the regular season and before the beginning of the playoffs: the South Division defeated the North Division 93-90. Also, all-star games were played against the KBL , on January 22 , 2006 in Korea and January 24 , 2006 in Jiyuan , Henan , China . Korea won the first game 96-86; China won the second game 104-85.</text>
+</context>
+<context>
+	<score>0.64800864</score>
+	<text>The playoffs began March 22 , 2006 and ended on April 19 , 2006 , with 30 playoff matches. It ended on April 19 , 2006 with the Guangdong Southern Tigers defeating the Bayi Rockets in Game 5 of the finals, making it Guangdong&apos;s 3rd championship win in 4 years.</text>
+</context>
+<context>
+	<score>0.6094757</score>
+	<text>[ edit ] Playoffs</text>
+</context>
+<context>
+	<score>0.59836006</score>
+	<text>The 2005 2006 regular season began on November 20 , 2005 and ended on March 15 , 2006 , with a total of 308 matches played. The eight South Division teams played 42 games each and the seven North Division teams played 40 games each.</text>
+</context>
+<context>
+	<score>0.5586412</score>
+	<text>[ edit ] Changes to league</text>
+</context>
+<context>
+	<score>0.55129606</score>
+	<text>Chinese Basketball Association seasons v d e</text>
+</context>
+<context>
+	<score>0.5231245</score>
+	<text>[ edit ] Quarter-finals</text>
+</context>
+<context>
+	<score>0.5210386</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.51245356</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4921175</score>
+	<text>CBA 2005-06</text>
+</context>
+<context>
+	<score>0.4665022</score>
+	<text>The quarter-finals were interdivisional. That is, the 1st team in each division played the 4th team in the other division, and the 2nd team in each division played the 3rd team in the other division, in a best-of-five series.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0"><tr><th>Team</th><th>From</th><th align="center">Wins</th><th align="center">Losses</th></tr><tr><td><a href="../../../../articles/b/e/i/Beijing_Ducks_dd17.html" title="Beijing Ducks">Beijing Ducks</a></td><td><a href="../../../../articles/b/e/i/Beijing.html" title="Beijing">Beijing</a></td><td align="right">31</td><td align="right">9</td></tr><tr><td><a href="../../../../articles/x/i/n/Xinjiang_Flying_Tigers_4d25.html" title="Xinjiang Flying Tigers">Xinjiang Flying Tigers</a></td><td><a href="../../../../articles/x/i/n/Xinjiang.html" title="Xinjiang">Xinjiang</a></td><td align="right">28</td><td align="right">12</td></tr><tr><td><a href="../../../../articles/l/i/a/Liaoning_Hunters_4e9f.html" title="Liaoning Hunters">Liaoning Hunters</a></td><td><a href="../../../../articles/l/i/a/Liaoning.html" title="Liaoning">Liaoning</a></td><td align="right">19</td><td align="right">21</td></tr><tr><td><a href="../../../../articles/j/i/l/Jilin_Northeast_Tigers_3d53.html" title="Jilin Northeast Tigers">Jilin Northeast Tigers</a></td><td><a href="../../../../articles/j/i/l/Jilin.html" title="Jilin">Jilin</a></td><td align="right">17</td><td align="right">23</td></tr><tr><td><a href="../../../../articles/s/h/a/Shandong_Lions_364d.html" title="Shandong Lions">Shandong Lions</a></td><td><a href="../../../../articles/s/h/a/Shandong.html" title="Shandong">Shandong</a></td><td align="right">12</td><td align="right">28</td></tr><tr><td><a href="../../../../articles/s/h/a/Shaanxi_Kylins_2ff1.html" title="Shaanxi Kylins">Shaanxi Kylins</a></td><td><a href="../../../../articles/s/h/a/Shaanxi.html" title="Shaanxi">Shaanxi</a></td><td align="right">11</td><td align="right">29</td></tr><tr><td><a href="../../../../articles/h/e/n/Henan_Dragons_752c.html" class="mw-redirect" title="Henan Dragons">Henan Dragons</a></td><td><a href="../../../../articles/h/e/n/Henan.html" title="Henan">Henan</a></td><td align="right">9</td><td align="right">31</td></tr></table>]]>
+</htmlSnippet>
+</entity>

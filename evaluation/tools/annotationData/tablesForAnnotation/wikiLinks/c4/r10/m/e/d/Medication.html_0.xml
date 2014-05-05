@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r10/m/e/d/Medication.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 2, 0.65625 1 2, 0.375 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/e/d/Medication.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Medication</th>]]></html>
+	<text>Medication</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Trade name</th>]]></html>
+	<text>Trade name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Company</th>]]></html>
+	<text>Company</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>atorvastatin</td>]]></html>
+	<text>atorvastatin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lipitor</td>]]></html>
+	<text>Lipitor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pfizer</td>]]></html>
+	<text>Pfizer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.9 &lt;</td>]]></html>
+	<text>5.9 &amp;amp;lt;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>clopidogrel</td>]]></html>
+	<text>clopidogrel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Plavix</td>]]></html>
+	<text>Plavix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bristol-Myers Squibb and sanofi-aventis</td>]]></html>
+	<text>Bristol-Myers Squibb and sanofi-aventis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.9 2005</td>]]></html>
+	<text>5.9 2005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>enoxaparin</td>]]></html>
+	<text>enoxaparin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lovenox or Clexane</td>]]></html>
+	<text>Lovenox or Clexane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>sanofi-aventis</td>]]></html>
+	<text>sanofi-aventis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>celecoxib</td>]]></html>
+	<text>celecoxib</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Celebrex</td>]]></html>
+	<text>Celebrex</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pfizer</td>]]></html>
+	<text>Pfizer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.3 2007</td>]]></html>
+	<text>2.3 2007</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>omeprazole</td>]]></html>
+	<text>omeprazole</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Losec/Prilosec</td>]]></html>
+	<text>Losec/Prilosec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AstraZeneca</td>]]></html>
+	<text>AstraZeneca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6 2004</td>]]></html>
+	<text>2.6 2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>esomeprazole</td>]]></html>
+	<text>esomeprazole</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nexium</td>]]></html>
+	<text>Nexium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AstraZeneca</td>]]></html>
+	<text>AstraZeneca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.3 2003</td>]]></html>
+	<text>3.3 2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fexofenadine</td>]]></html>
+	<text>Fexofenadine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Telfast/Allegra</td>]]></html>
+	<text>Telfast/Allegra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aventis</td>]]></html>
+	<text>Aventis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.87 2004</td>]]></html>
+	<text>1.87 2004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>quetiapine</td>]]></html>
+	<text>quetiapine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seroquel</td>]]></html>
+	<text>Seroquel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AstraZeneca</td>]]></html>
+	<text>AstraZeneca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5 2003</td>]]></html>
+	<text>1.5 2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>metoprolol</td>]]></html>
+	<text>metoprolol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seloken/Toprol</td>]]></html>
+	<text>Seloken/Toprol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AstraZeneca</td>]]></html>
+	<text>AstraZeneca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3 2003</td>]]></html>
+	<text>1.3 2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>budesonide</td>]]></html>
+	<text>budesonide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pulmicort/Rhinocort</td>]]></html>
+	<text>Pulmicort/Rhinocort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AstraZeneca</td>]]></html>
+	<text>AstraZeneca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3 2003 (plus some fraction of the $0.6bn sales of Symbicort )</td>]]></html>
+	<text>1.3 2003 (plus some fraction of the $0.6bn sales of Symbicort )</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Medication - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Medication Trade name Company</text>
+</context>
+<context>
+	<score>0.8807236</score>
+	<text>[ edit ] Leading blockbuster drugs</text>
+</context>
+<context>
+	<score>0.7944328</score>
+	<text>Medication</text>
+</context>
+<context>
+	<score>0.78374845</score>
+	<text>A recent report from Urch Publishing estimated that about one third of the pharma market by value is accounted for by blockbusters. About 100 products are blockbusters. The top seller was Lipitor, a cholesterol-lowering medication marketed by Pfizer with sales of $12.2 billion.</text>
+</context>
+<context>
+	<score>0.7523741</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] Classification</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] Types of medication</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] Legal considerations</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] Other/related topics</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] Blockbuster drug</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7187952</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168526</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7061683</score>
+	<text>A blockbuster drug is a drug generating more than $1 billion of revenue for its owner each year. The search for blockbusters has been the foundation of the R&amp;D strategy adopted by big pharmaceutical companies , but this looks set to change. New advances in genomics , and the promise of personalized medicine , are likely to fragment the pharmaceutical market.</text>
+</context>
+<context>
+	<score>0.6441041</score>
+	<text>[ edit ] Blockbuster drug</text>
+</context>
+<context>
+	<score>0.5944528</score>
+	<text>Zoopharmacognosy : Animal usage of drugs and non-foods.</text>
+</context>
+<context>
+	<score>0.5547318</score>
+	<text>Polypharmacy : suggests that multiple use of prescribed and non-prescribed medications, (use of 5 or more), can have adverse effects on the recipient.</text>
+</context>
+<context>
+	<score>0.52295494</score>
+	<text>[ edit ] Other/related topics</text>
+</context>
+<context>
+	<score>0.5192132</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4975335</score>
+	<text>The International Narcotics Control Board of the United Nations imposes a world law of prohibition of certain medications. They publish a lengthy list of chemicals and plants whose trade and consumption (where applicable) is forbidden. OTC medications are sold without restriction as they are considered safe enough that most people will not hurt themselves accidentally by taking it as instructed. Many countries, such as the United Kingdom have a third category of pharmacy medicines which can only be sold in registered pharmacies, by or under the supervision of a pharmacist .</text>
+</context>
+<context>
+	<score>0.4771963</score>
+	<text>Medications may be divided into over-the-counter drugs (OTC) which may be available without special restrictions, and prescription only medicine (POM), which must be prescribed by a licensed medical practitioner. The precise distinction between OTC and prescription depends on the legal jurisdiction .</text>
+</context>
+<context>
+	<score>0.4684156</score>
+	<text>^ Pharmaceutical Market Trends, 2006-2010 , from Urch Publishing [1] ^ Blockbuster Drugs 2006: Executive Overview , from Report Buyer [2]</text>
+</context>
+<context>
+	<score>0.4609266</score>
+	<text>[ edit ] Legal considerations</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Medication</th><th>Trade name</th><th>Company</th><td><b>Sales</b><sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup> <sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup> (billion $), year</td></tr><tr><td><a href="../../../../articles/a/t/o/Atorvastatin.html" title="Atorvastatin">atorvastatin</a></td><td>Lipitor</td><td><a href="../../../../articles/p/f/i/Pfizer.html" title="Pfizer">Pfizer</a></td><td>5.9 &lt;</td></tr><tr><td><a href="../../../../articles/c/l/o/Clopidogrel.html" title="Clopidogrel">clopidogrel</a></td><td>Plavix</td><td><a href="../../../../articles/b/r/i/Bristol-Myers_Squibb_b678.html" title="Bristol-Myers Squibb">Bristol-Myers Squibb</a> and <a href="../../../../articles/s/a/n/Sanofi-aventis.html" class="mw-redirect" title="Sanofi-aventis">sanofi-aventis</a></td><td>5.9 2005</td></tr><tr><td><a href="../../../../articles/e/n/o/Enoxaparin.html" title="Enoxaparin">enoxaparin</a></td><td>Lovenox or Clexane</td><td><a href="../../../../articles/s/a/n/Sanofi-aventis.html" class="mw-redirect" title="Sanofi-aventis">sanofi-aventis</a></td><td></td></tr><tr><td><a href="../../../../articles/c/e/l/Celecoxib.html" title="Celecoxib">celecoxib</a></td><td>Celebrex</td><td><a href="../../../../articles/p/f/i/Pfizer.html" title="Pfizer">Pfizer</a></td><td>2.3 2007</td></tr><tr><td><a href="../../../../articles/o/m/e/Omeprazole.html" title="Omeprazole">omeprazole</a></td><td>Losec/Prilosec</td><td><a href="../../../../articles/a/s/t/AstraZeneca_a083.html" title="AstraZeneca">AstraZeneca</a></td><td>2.6 2004</td></tr><tr><td><a href="../../../../articles/e/s/o/Esomeprazole.html" title="Esomeprazole">esomeprazole</a></td><td>Nexium</td><td><a href="../../../../articles/a/s/t/AstraZeneca_a083.html" title="AstraZeneca">AstraZeneca</a></td><td>3.3 2003</td></tr><tr><td><a href="../../../../articles/f/e/x/Fexofenadine.html" title="Fexofenadine">Fexofenadine</a></td><td>Telfast/Allegra</td><td><a href="../../../../articles/a/v/e/Aventis.html" title="Aventis">Aventis</a></td><td>1.87 2004</td></tr><tr><td><a href="../../../../articles/q/u/e/Quetiapine.html" title="Quetiapine">quetiapine</a></td><td>Seroquel</td><td><a href="../../../../articles/a/s/t/AstraZeneca_a083.html" title="AstraZeneca">AstraZeneca</a></td><td>1.5 2003</td></tr><tr><td><a href="../../../../articles/m/e/t/Metoprolol.html" title="Metoprolol">metoprolol</a></td><td>Seloken/Toprol</td><td><a href="../../../../articles/a/s/t/AstraZeneca_a083.html" title="AstraZeneca">AstraZeneca</a></td><td>1.3 2003</td></tr><tr><td><a href="../../../../articles/b/u/d/Budesonide.html" title="Budesonide">budesonide</a></td><td>Pulmicort/Rhinocort</td><td><a href="../../../../articles/a/s/t/AstraZeneca_a083.html" title="AstraZeneca">AstraZeneca</a></td><td>1.3 2003 (plus some fraction of the $0.6bn sales of <a href="../../../../articles/s/y/m/Symbicort.html" class="mw-redirect" title="Symbicort">Symbicort</a>)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

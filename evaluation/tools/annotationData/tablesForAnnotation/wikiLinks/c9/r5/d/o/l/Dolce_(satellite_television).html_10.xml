@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r5/d/o/l/Dolce_(satellite_television).html_10.xml" />
+<meta name="primaryKey" value="0.9444444 1, 0.9444444 0 1, 0.83950615 1 2, 0.787037 1 3, 0.7345679 1 4, 0.68209875 1 5, 0.6296296 1 6, 0.5771605 1 7, 0.52469134 1 8, 0.40000004 6, 0.40000004 0 6, 0.35555556 2 6, 0.33333337 3 6, 0.33333334 3, 0.33333334 0 3, 0.31111115 4 6, 0.31111112 4, 0.31111112 0 4, 0.2962963 2 3, 0.2888889 5 6, 0.27654323 2 4, 0.25925925 3 4, 0.24444444 6 7, 0.24074073 3 5, 0.22469138 4 5, 0.22222224 6 8, 0.20370369 3 7, 0.2 0, 0.19012347 4 7, 0.1851852 3 8, 0.17777778 2, 0.17777778 0 2, 0.17283952 4 8, 0.14444445 5, 0.14444445 0 5, 0.12839507 2 5, 0.12222222 7, 0.12222222 0 7, 0.11111112 8, 0.11111112 0 8, 0.108641975 2 7, 0.09876544 2 8, 0.0882716 5 7, 0.08024692 5 8, 0.06790124 7 8, " />
+<meta name="parentHTMLDoc" value="en/articles/d/o/l/Dolce_(satellite_television).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG</th>]]></html>
+	<text>EPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel name</th>]]></html>
+	<text>Channel name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcasting country</th>]]></html>
+	<text>Broadcasting country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Spoken language</th>]]></html>
+	<text>Spoken language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Subtitles language</th>]]></html>
+	<text>Subtitles language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Free-to-air (FTA)</th>]]></html>
+	<text>Free-to-air (FTA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>HD</th>]]></html>
+	<text>HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pay-per-view</th>]]></html>
+	<text>Pay-per-view</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sci Fi Channel</td>]]></html>
+	<text>Sci Fi Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romanian</td>]]></html>
+	<text>Romanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Universal Channel</td>]]></html>
+	<text>Universal Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romanian</td>]]></html>
+	<text>Romanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movies</td>]]></html>
+	<text>Movies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Geographic Wild</td>]]></html>
+	<text>National Geographic Wild</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>English</td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romanian</td>]]></html>
+	<text>Romanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentaries</td>]]></html>
+	<text>Documentaries</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jetix Play</td>]]></html>
+	<text>Jetix Play</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romanian</td>]]></html>
+	<text>Romanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kids</td>]]></html>
+	<text>Kids</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TBA</td>]]></html>
+	<text>TBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Da Vinci Learning</td>]]></html>
+	<text>Da Vinci Learning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romanian</td>]]></html>
+	<text>Romanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kids</td>]]></html>
+	<text>Kids</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Dolce (satellite television) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG Channel name Broadcasting country Spoken language Subtitles language Free-to-air (FTA) Type HD Pay-per-view</text>
+</context>
+<context>
+	<score>0.88458854</score>
+	<text>[ edit ] Future channels</text>
+</context>
+<context>
+	<score>0.80702585</score>
+	<text>Dolce (satellite television)</text>
+</context>
+<context>
+	<score>0.7875962</score>
+	<text>[ edit ] Hungarian</text>
+</context>
+<context>
+	<score>0.7562164</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.73526084</score>
+	<text>[ edit ] Channels</text>
+</context>
+<context>
+	<score>0.73526084</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.729432</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7100024</score>
+	<text>[ edit ] Adult</text>
+</context>
+<context>
+	<score>0.64792734</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.5982673</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.5585393</score>
+	<text>[ edit ] Kids</text>
+</context>
+<context>
+	<score>0.5267569</score>
+	<text>[ edit ] Sport</text>
+</context>
+<context>
+	<score>0.5230144</score>
+	<text>This Romania -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.5013309</score>
+	<text>[ edit ] News</text>
+</context>
+<context>
+	<score>0.48099014</score>
+	<text>[ edit ] Documentaries</text>
+</context>
+<context>
+	<score>0.4722079</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46471754</score>
+	<text>[ edit ] Movies</text>
+</context>
+<context>
+	<score>0.45169947</score>
+	<text>[ edit ] Main national terrestrial channels</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%" style="text-align:center; font-size: 90%"><tr><th>EPG</th><th>Channel name</th><th>Broadcasting country</th><th>Spoken language</th><th>Subtitles language</th><th><a href="../../../../articles/f/r/e/Free-to-air.html" title="Free-to-air">Free-to-air</a> (FTA)</th><th>Type</th><th><a href="../../../../articles/h/i/g/High-definition_television.html" title="High-definition television">HD</a></th><th><a href="../../../../articles/p/a/y/Pay-per-view.html" title="Pay-per-view">Pay-per-view</a></th></tr><tr><td>TBA</td><td><a href="../../../../articles/s/c/i/Sci_Fi_Channel_%28Romania%29_bc02.html" title="Sci Fi Channel (Romania)">Sci Fi Channel</a></td><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td><a href="../../../../articles/e/n/g/English_Language_4501.html" class="mw-redirect" title="English Language">English</a></td><td><a href="../../../../articles/r/o/m/Romanian_Language_e2b2.html" class="mw-redirect" title="Romanian Language">Romanian</a></td><td>No</td><td>Movies</td><td>No</td><td>No</td></tr><tr><td>TBA</td><td>Universal Channel</td><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td><a href="../../../../articles/e/n/g/English_Language_4501.html" class="mw-redirect" title="English Language">English</a></td><td><a href="../../../../articles/r/o/m/Romanian_Language_e2b2.html" class="mw-redirect" title="Romanian Language">Romanian</a></td><td>No</td><td>Movies</td><td>No</td><td>No</td></tr><tr><td>TBA</td><td><a href="../../../../articles/n/a/t/National_Geographic_Wild_92ad.html" title="National Geographic Wild">National Geographic Wild</a></td><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td><a href="../../../../articles/e/n/g/English_Language_4501.html" class="mw-redirect" title="English Language">English</a></td><td><a href="../../../../articles/r/o/m/Romanian_Language_e2b2.html" class="mw-redirect" title="Romanian Language">Romanian</a></td><td>No</td><td>Documentaries</td><td>No</td><td>No</td></tr><tr><td>TBA</td><td><a href="../../../../articles/j/e/t/Jetix_Play_e576.html" title="Jetix Play">Jetix Play</a></td><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td><a href="../../../../articles/r/o/m/Romanian_Language_e2b2.html" class="mw-redirect" title="Romanian Language">Romanian</a></td><td>None</td><td>No</td><td>Kids</td><td>No</td><td>No</td></tr><tr><td>TBA</td><td>Da Vinci Learning</td><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td><a href="../../../../articles/r/o/m/Romanian_Language_e2b2.html" class="mw-redirect" title="Romanian Language">Romanian</a></td><td>None</td><td>No</td><td>Kids</td><td>No</td><td>No</td></tr></table>]]>
+</htmlSnippet>
+</entity>

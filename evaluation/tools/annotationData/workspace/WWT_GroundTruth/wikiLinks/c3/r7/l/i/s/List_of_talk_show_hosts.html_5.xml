@@ -1,0 +1,52 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_yagoActorGeo_1" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Dave_Fanning</entity>
+<entity>Ireland</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Spike_Feresten</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Craig_Ferguson</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Cristy_Fermin</entity>
+<entity>Philippines</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Jack_Ford_(news_anchor)</entity>
+<entity>United_States</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Don_Francisco_(television_host)</entity>
+<entity>Chile</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Alexandra_Fuentes</entity>
+<entity>Puerto_Rico</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

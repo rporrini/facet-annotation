@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r12/f/a/s/Fast_bowling.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.4375 2, 0.15 1 3, 0.13125001 2 3, 0.125 3, 0.125 0 1, 0.109375 0 2, 0.104166664 0, 0.015625 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/f/a/s/Fast_bowling.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Played for</th>]]></html>
+	<text>Played for</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Highest rating</th>]]></html>
+	<text>Highest rating</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney Barnes</td>]]></html>
+	<text>Sydney Barnes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>932</td>]]></html>
+	<text>932</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Lohmann</td>]]></html>
+	<text>George Lohmann</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>931</td>]]></html>
+	<text>931</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Imran Khan</td>]]></html>
+	<text>Imran Khan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>922</td>]]></html>
+	<text>922</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glenn McGrath</td>]]></html>
+	<text>Glenn McGrath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>914</td>]]></html>
+	<text>914</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Curtly Ambrose</td>]]></html>
+	<text>Curtly Ambrose</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Indies</td>]]></html>
+	<text>West Indies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>912</td>]]></html>
+	<text>912</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ian Botham</td>]]></html>
+	<text>Ian Botham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>911</td>]]></html>
+	<text>911</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Malcolm Marshall</td>]]></html>
+	<text>Malcolm Marshall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Indies</td>]]></html>
+	<text>West Indies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>910</td>]]></html>
+	<text>910</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Hadlee</td>]]></html>
+	<text>Richard Hadlee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>909</td>]]></html>
+	<text>909</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waqar Younis</td>]]></html>
+	<text>Waqar Younis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>909</td>]]></html>
+	<text>909</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shaun Pollock</td>]]></html>
+	<text>Shaun Pollock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>909</td>]]></html>
+	<text>909</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alan Davidson</td>]]></html>
+	<text>Alan Davidson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>908</td>]]></html>
+	<text>908</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alec Bedser</td>]]></html>
+	<text>Alec Bedser</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>903</td>]]></html>
+	<text>903</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Fast bowling - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Name Played for Highest rating</text>
+</context>
+<context>
+	<score>0.8803354</score>
+	<text>These are the top rated fast bowlers who peaked with more than 900 points in the LG ICC cricket ratings as of December, 2006.</text>
+</context>
+<context>
+	<score>0.7912052</score>
+	<text>Fast bowling</text>
+</context>
+<context>
+	<score>0.7817317</score>
+	<text>Sydney Barnes</text>
+</context>
+<context>
+	<score>0.7503468</score>
+	<text>Some other well known fast bowlers</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Categorisation of fast bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Technique in fast bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Line and length</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Strike bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Seam bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Swing bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Intimidatory bowling</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Tactics</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Notable fast bowlers</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7151943</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7135987</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70572084</score>
+	<text>[ edit ] Notable fast bowlers</text>
+</context>
+<context>
+	<score>0.64363563</score>
+	<text>It must be remembered that surprise is a big element in bowling, and bowlers will often shun these common tactical approaches in the hope of simply confusing the batsman into playing the wrong shot. For example, bowling a yorker at a new batsman who will likely be expecting bouncers or at least standard line and length balls has been the cause of many batsmen losing their wicket first ball.</text>
+</context>
+<context>
+	<score>0.6050875</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.59396744</score>
+	<text>Another variation, especially against batsmen who have settled at the wicket and are starting to score more freely, is to switch the line of attack from the area just outside the off stump to bowling directly at leg stump. The batsman has to react to these balls as he otherwise runs a high risk of being bowled or trapped LBW but as he or she does so his or her bat moves over to the leg side, leaving the off side vulnerable. If the bowler can induce enough movement to the off side with swing or seam techniques it will often catch the outside edge of the bat offering a catch or strike the stumps directly.</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Most batsmen prefer to play shots off either the front or back foot and this will influence the bowlers&apos; choice of balls. It is difficult to play short balls off the front foot so bowlers will bowl more short balls at batsmen who prefer the front foot. Likewise, it is hard to play yorkers and full pitched balls off the back foot so those are the deliveries of choice against back foot players. If a bowler can successfully get a batsman playing off his or her less-favoured foot with a sequence of appropriately pitched balls he can then gain an element of surprise by suddenly throwing down the opposite kind of ball - a yorker after a succession of short balls or a bouncer after a succession of full balls. An unobservant or complacent batsman can easily be caught unawares and lose their wicket.</text>
+</context>
+<context>
+	<score>0.5208498</score>
+	<text>The precise balls chosen by the bowler during an over will depend on the situation of the match, the skill of the batsman and how settled the batsman is at the crease. It is common to attack batsmen who have recently come to the wicket with successive short-pitched balls or bouncers with the dual aim of getting them out and stopping them from settling into an attacking mode of play for as long as possible. Short balls are more risky against batsmen who have settled at the crease since they make easy boundaries, but most bowlers will still mix a few in during a spell, just to keep the batsman guessing.</text>
+</context>
+<context>
+	<score>0.4954197</score>
+	<text>Counterintuitively, the best approach for a fast bowler is not to aim consistent balls at the wicket as this prompts an obvious and easy response. The batsman can simply defend his or her wicket and pick off the occasional bad ball. A far more effective approach is to create uncertainty by bowling a line and length at which the batsman is unsure as to whether they should attack, defend or leave and by mixing up the types of delivery so the batsman is never sure what type of ball is coming next. The majority of balls in a well-bowled spell will usually be swinging or seaming balls that pass at waist height, just outside the off stump and move away from the batsman because this is the area where it is most difficult for the batsman to choose the most appropriate response. Common variations and their tactical application are discussed below.</text>
+</context>
+<context>
+	<score>0.47507563</score>
+	<text>The primary goal of any bowler is to take the wicket of the batsman. The secondary goal is to prevent the batsman scoring runs. The latter is often a route to the former as a batsman deprived of runs will often become frustrated and is more likely to attempt risky shots in order to score. In addition, stopping the batsman from scoring will usually mean that the bowler gets to bowl several consecutive balls at the same batsman, giving them the opportunity to set up some kind of tactical sequence.</text>
+</context>
+<context>
+	<score>0.46788746</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.4603959</score>
+	<text>[ edit ] Bowling an over</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Name</th><th>Played for</th><th>Highest rating</th></tr><tr><td>1</td><td><a href="../../../../articles/s/y/d/Sydney_Barnes_402f.html" title="Sydney Barnes">Sydney Barnes</a></td><td><a href="../../../../articles/e/n/g/English_cricket_team.html" class="mw-redirect" title="English cricket team">England</a></td><td>932</td></tr><tr><td>2</td><td><a href="../../../../articles/g/e/o/George_Lohmann_e2ae.html" title="George Lohmann">George Lohmann</a></td><td><a href="../../../../articles/e/n/g/English_cricket_team.html" class="mw-redirect" title="English cricket team">England</a></td><td>931</td></tr><tr><td>3</td><td><a href="../../../../articles/i/m/r/Imran_Khan_09cf.html" title="Imran Khan">Imran Khan</a></td><td><a href="../../../../articles/p/a/k/Pakistani_cricket_team.html" class="mw-redirect" title="Pakistani cricket team">Pakistan</a></td><td>922</td></tr><tr><td>4</td><td><a href="../../../../articles/g/l/e/Glenn_McGrath_73db.html" title="Glenn McGrath">Glenn McGrath</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td>914</td></tr><tr><td>5</td><td><a href="../../../../articles/c/u/r/Curtly_Ambrose_5eb5.html" title="Curtly Ambrose">Curtly Ambrose</a></td><td><a href="../../../../articles/w/e/s/West_Indian_cricket_team_6ec3.html" class="mw-redirect" title="West Indian cricket team">West Indies</a></td><td>912</td></tr><tr><td>6</td><td><a href="../../../../articles/i/a/n/Ian_Botham_39d4.html" title="Ian Botham">Ian Botham</a></td><td><a href="../../../../articles/e/n/g/English_cricket_team.html" class="mw-redirect" title="English cricket team">England</a></td><td>911</td></tr><tr><td>7</td><td><a href="../../../../articles/m/a/l/Malcolm_Marshall_af93.html" title="Malcolm Marshall">Malcolm Marshall</a></td><td><a href="../../../../articles/w/e/s/West_Indian_cricket_team_6ec3.html" class="mw-redirect" title="West Indian cricket team">West Indies</a></td><td>910</td></tr><tr><td>8</td><td><a href="../../../../articles/r/i/c/Richard_Hadlee_69b6.html" title="Richard Hadlee">Richard Hadlee</a></td><td><a href="../../../../articles/n/e/w/New_Zealand_cricket_team_b7ed.html" class="mw-redirect" title="New Zealand cricket team">New Zealand</a></td><td>909</td></tr><tr><td>8</td><td><a href="../../../../articles/w/a/q/Waqar_Younis_1827.html" title="Waqar Younis">Waqar Younis</a></td><td><a href="../../../../articles/p/a/k/Pakistani_cricket_team.html" class="mw-redirect" title="Pakistani cricket team">Pakistan</a></td><td>909</td></tr><tr><td>8</td><td><a href="../../../../articles/s/h/a/Shaun_Pollock_ee9e.html" title="Shaun Pollock">Shaun Pollock</a></td><td><a href="../../../../articles/s/o/u/South_African_cricket_team_2ad2.html" class="mw-redirect" title="South African cricket team">South Africa</a></td><td>909</td></tr><tr><td>11</td><td><a href="../../../../articles/a/l/a/Alan_Davidson_%28cricketer%29_55c5.html" title="Alan Davidson (cricketer)">Alan Davidson</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td>908</td></tr><tr><td>12</td><td><a href="../../../../articles/a/l/e/Alec_Bedser_f718.html" title="Alec Bedser">Alec Bedser</a></td><td><a href="../../../../articles/e/n/g/English_cricket_team.html" class="mw-redirect" title="English cricket team">England</a></td><td>903</td></tr></table>]]>
+</htmlSnippet>
+</entity>

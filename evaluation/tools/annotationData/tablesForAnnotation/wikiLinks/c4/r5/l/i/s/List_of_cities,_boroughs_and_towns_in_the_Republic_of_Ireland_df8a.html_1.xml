@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_cities,_boroughs_and_towns_in_the_Republic_of_Ireland_df8a.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cities,_boroughs_and_towns_in_the_Republic_of_Ireland_df8a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Borough</th>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population within limits</th>]]></html>
+	<text>Population within limits</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population of urban area</th>]]></html>
+	<text>Population of urban area</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clonmel</td>]]></html>
+	<text>Clonmel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Tipperary</td>]]></html>
+	<text>South Tipperary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,739</td>]]></html>
+	<text>15,739</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,910</td>]]></html>
+	<text>16,910</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Drogheda</td>]]></html>
+	<text>Drogheda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louth</td>]]></html>
+	<text>Louth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28,333</td>]]></html>
+	<text>28,333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,020</td>]]></html>
+	<text>31,020</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kilkenny [1]</td>]]></html>
+	<text>Kilkenny [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kilkenny</td>]]></html>
+	<text>Kilkenny</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8591</td>]]></html>
+	<text>8591</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,735</td>]]></html>
+	<text>20,735</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sligo</td>]]></html>
+	<text>Sligo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sligo</td>]]></html>
+	<text>Sligo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,473</td>]]></html>
+	<text>18,473</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,735</td>]]></html>
+	<text>19,735</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wexford</td>]]></html>
+	<text>Wexford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wexford</td>]]></html>
+	<text>Wexford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9449</td>]]></html>
+	<text>9449</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,235</td>]]></html>
+	<text>17,235</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cities, boroughs and towns in the Republic of Ireland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Borough County Population within limits Population of urban area</text>
+</context>
+<context>
+	<score>0.8848923</score>
+	<text>[ edit ] Boroughs</text>
+</context>
+<context>
+	<score>0.79532796</score>
+	<text>List of cities, boroughs and towns in the Republic of Ireland</text>
+</context>
+<context>
+	<score>0.7863211</score>
+	<text>[ edit ] Cities</text>
+</context>
+<context>
+	<score>0.7544305</score>
+	<text>[ edit ] Towns</text>
+</context>
+<context>
+	<score>0.72457725</score>
+	<text>[ edit ] Cities</text>
+</context>
+<context>
+	<score>0.72457725</score>
+	<text>[ edit ] Boroughs</text>
+</context>
+<context>
+	<score>0.72457725</score>
+	<text>[ edit ] Towns</text>
+</context>
+<context>
+	<score>0.72457725</score>
+	<text>[ edit ] Note</text>
+</context>
+<context>
+	<score>0.72457725</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.716471</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6443786</score>
+	<text>Source : Central Statistics Office (2003). Census 2002. Volume 1: Population Classified by Area . Dublin: Stationary Office. ISBN 0-7557-1507-1 .</text>
+</context>
+<context>
+	<score>0.6052094</score>
+	<text>[ edit ] Note</text>
+</context>
+<context>
+	<score>0.5939102</score>
+	<text>Note that there are many conurbations legally designated villages in Ireland despite having much larger populations than many towns. An extreme example would be the &quot;village&quot; of Celbridge , County Kildare , with a population approaching 20,000.</text>
+</context>
+<context>
+	<score>0.5454293</score>
+	<text>The spelling of town names and the language in which the name is given follow the usage of the Central Statistics Office in its report on the 2002 census: alternative spellings are in use elsewhere for certain town names. Older names for towns have been noted where this is deemed useful in the census report.</text>
+</context>
+<context>
+	<score>0.5212357</score>
+	<text>This page lists the cities, boroughs and towns of the Republic of Ireland with their population at the time of the 2002 census. The first figure for the population is that within the legally defined boundaries of the city, borough or town. The second is the population within the &quot;urban area&quot;, as defined by the Central Statistics Office : the continuation of the population cluster outside the legally defined boundary where no occupied dwelling is more than 200 metres from the nearest occupied dwelling. Where no second population figure is given, the town does not extend significantly beyond its legally defined boundaries.</text>
+</context>
+<context>
+	<score>0.51743233</score>
+	<text>^ Kilkenny is a city by virtue of its Royal Charter granted in 1609 by King James I , and its right to describe itself as a city is recognised by Section 10(7) of the Local Government Act 2001 . However it does not have the administrative privileges of other cities in the Republic of Ireland, and is considered to be a borough for local government purposes.</text>
+</context>
+<context>
+	<score>0.4953958</score>
+	<text>The same Act gave the status of towns ( bailte ) to the former &quot;urban districts&quot;, in addition to the twenty-six towns designated under the Towns Improvement Act (repealed). The following &quot;traditional towns&quot; had lost their status under Section 62 of the Local Government Act, 1994 (S.I. 171 of 1994): Callan , Fethard , Newcastle West , Rathkeale , Roscommon and Tullow . Hence, there are, as of 2002, seventy-five towns in the Republic of Ireland.</text>
+</context>
+<context>
+	<score>0.47472396</score>
+	<text>The five cities ( Irish : cathracha ) and five boroughs ( buirgeanna ) of the Republic of Ireland are defined by the Local Government Act 2001 (S.I. 591 of 2001): the cities were previously referred to as &quot;county boroughs&quot; and the boroughs were previously referred to as &quot;municipal boroughs&quot;.</text>
+</context>
+<context>
+	<score>0.46719337</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.46579874</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.45396337</score>
+	<text>List of cities, boroughs and towns in the Republic of Ireland</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th>Borough</th><th>County</th><th>Population<br />within limits</th><th>Population<br />of urban area</th></tr><tr><td><a href="../../../../articles/c/l/o/Clonmel.html" title="Clonmel">Clonmel</a></td><td><a href="../../../../articles/s/o/u/South_Tipperary_fbbf.html" class="mw-redirect" title="South Tipperary">South Tipperary</a></td><td align="right">15,739</td><td align="right">16,910</td></tr><tr><td><a href="../../../../articles/d/r/o/Drogheda.html" title="Drogheda">Drogheda</a></td><td><a href="../../../../articles/c/o/u/County_Louth_839a.html" title="County Louth">Louth</a></td><td align="right">28,333</td><td align="right">31,020</td></tr><tr><td><a href="../../../../articles/k/i/l/Kilkenny.html" title="Kilkenny">Kilkenny</a><span class="reference plainlinksneverexpand" id="ref_Kilkenny"><sup><a href="http://en.wikipedia.org../../../../articles/l/i/s/List_of_cities%2C_boroughs_and_towns_in_the_Republic_of_Ireland_df8a.html#endnote_Kilkenny" class="external autonumber" title="http://en.wikipedia.org../../../../articles/l/i/s/List_of_cities%2C_boroughs_and_towns_in_the_Republic_of_Ireland_df8a.html#endnote_Kilkenny" rel="nofollow">[1]</a></sup></span></td><td><a href="../../../../articles/c/o/u/County_Kilkenny_6076.html" title="County Kilkenny">Kilkenny</a></td><td align="right">8591</td><td align="right">20,735</td></tr><tr><td><a href="../../../../articles/s/l/i/Sligo.html" title="Sligo">Sligo</a></td><td><a href="../../../../articles/c/o/u/County_Sligo_dbcf.html" title="County Sligo">Sligo</a></td><td align="right">18,473</td><td align="right">19,735</td></tr><tr><td><a href="../../../../articles/w/e/x/Wexford.html" title="Wexford">Wexford</a></td><td><a href="../../../../articles/c/o/u/County_Wexford_4848.html" title="County Wexford">Wexford</a></td><td align="right">9449</td><td align="right">17,235</td></tr></table>]]>
+</htmlSnippet>
+</entity>

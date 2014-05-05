@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/c/a/p/Capital_punishment_in_Maryland_2a2e.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 3, 0.9 1 3, 0.8 1 4, 0.71999997 3 4, 0.48000002 4, 0.14 2, 0.14 1 2, 0.126 2 3, 0.120000005 0, 0.120000005 0 1, 0.112 2 4, 0.108 0 3, 0.09600001 0 4, 0.0168 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/p/Capital_punishment_in_Maryland_2a2e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th></th>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Executed person</th>]]></html>
+	<text>Executed person</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date of execution</th>]]></html>
+	<text>Date of execution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Victim(s)</th>]]></html>
+	<text>Victim(s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Under Governor</th>]]></html>
+	<text>Under Governor</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Frederick Thanos</td>]]></html>
+	<text>John Frederick Thanos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 May 1994</td>]]></html>
+	<text>16 May 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Billy Winebrenner, Gregory Allen Taylor, and Melody Pistorio.</td>]]></html>
+	<text>Billy Winebrenner, Gregory Allen Taylor, and Melody Pistorio.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William Donald Schaefer</td>]]></html>
+	<text>William Donald Schaefer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flint Gregory Hunt</td>]]></html>
+	<text>Flint Gregory Hunt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 July 1997</td>]]></html>
+	<text>2 July 1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vincent Adolfo.</td>]]></html>
+	<text>Vincent Adolfo.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parris Glendening</td>]]></html>
+	<text>Parris Glendening</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tyrone Delano Gilliam, Jr.</td>]]></html>
+	<text>Tyrone Delano Gilliam, Jr.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 November 1998</td>]]></html>
+	<text>16 November 1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Christine Doerfler.</td>]]></html>
+	<text>Christine Doerfler.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parris Glendening</td>]]></html>
+	<text>Parris Glendening</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steven Howard Oken</td>]]></html>
+	<text>Steven Howard Oken</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 June 2004</td>]]></html>
+	<text>17 June 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dawn Marie Garvin, Patricia Hirt, Lori Ward</td>]]></html>
+	<text>Dawn Marie Garvin, Patricia Hirt, Lori Ward</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Ehrlich</td>]]></html>
+	<text>Robert Ehrlich</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wesley Eugene Baker</td>]]></html>
+	<text>Wesley Eugene Baker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 December 2005</td>]]></html>
+	<text>5 December 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jane Tyson.</td>]]></html>
+	<text>Jane Tyson.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robert Ehrlich</td>]]></html>
+	<text>Robert Ehrlich</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Capital punishment in Maryland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Executed person Date of execution Victim(s) Under Governor</text>
+</context>
+<context>
+	<score>0.883453</score>
+	<text>A total of 5 individuals convicted of murder have been executed by the state of Maryland since 1976. All were executed by lethal injection .</text>
+</context>
+<context>
+	<score>0.79629606</score>
+	<text>Capital punishment in Maryland</text>
+</context>
+<context>
+	<score>0.78616154</score>
+	<text>[ edit ] Post- Gregg executions</text>
+</context>
+<context>
+	<score>0.75468487</score>
+	<text>[ edit ] Current Death Row Inmates</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] Current legislation</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] Post- Gregg executions</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] Current Death Row Inmates</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72353023</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7184629</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70832837</score>
+	<text>For offenses committed before March 25 , 1994 , the condemned is given the choice between the gas chamber and lethal injection.</text>
+</context>
+<context>
+	<score>0.64099467</score>
+	<text>&quot; by intravenous administration of a lethal quantity of an ultrashort-acting barbiturate or other similar drug in combination with a chemical paralytic agent.&quot;</text>
+</context>
+<context>
+	<score>0.6023339</score>
+	<text>5 men are currently sentenced to death in Maryland.</text>
+</context>
+<context>
+	<score>0.5911814</score>
+	<text>Under Maryland Code Criminal Law 2-303, the sentence of death is imposed:</text>
+</context>
+<context>
+	<score>0.5513308</score>
+	<text>On first degree murder is a capital offense in the state of Maryland. Maryland Code Criminal Law 2-201 defines murder in the first degree as:</text>
+</context>
+<context>
+	<score>0.52451766</score>
+	<text>[ edit ] Current legislation</text>
+</context>
+<context>
+	<score>0.5207637</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4990133</score>
+	<text>Unlike most states, Maryland does not offer the condemned a special last meal ; instead the prisoner receives whatever food the general prison population is served the day of the convict&apos;s death.</text>
+</context>
+<context>
+	<score>0.4786098</score>
+	<text>Governor Parris N. Glendening halted executions in Maryland by executive order on May 9 , 2002 , while a state-ordered University of Maryland, College Park study of capital punishment is conducted. The study eventually concluded that there are racial and geographic disparities in the application of the death penalty in the state, but the subsequent governor, Robert Ehrlich , ended the moratorium and resumed executions in 2004 nonetheless. However, on December 19 , 2006 , the Maryland Court of Appeals ruled that state executions would be suspended until the manual that spells out the protocol for lethal injections is reviewed by a legislative panel. The state&apos;s Department of Public Safety and Correctional Services had adopted the manual without having a public hearing or submitting it before a committee. Legislative review of the protocol is required before approval under state law.</text>
+</context>
+<context>
+	<score>0.462287</score>
+	<text>In 1993, the method was changed to lethal injection . The first execution with this method in the state, was also the first execution in over 30 years. John Thanos was put to death on May 16 , 1994 .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th></th><th>Executed person</th><th>Date of execution</th><th>Victim(s)</th><th>Under Governor</th></tr><tr><td>1</td><td><a href="../../../../articles/j/o/h/John_Thanos_aa82.html" title="John Thanos">John Frederick Thanos</a></td><td><a href="../../../../articles/m/a/y/May_16.html" title="May 16">16 May</a> <a href="../../../../articles/1/9/9/1994.html" title="1994">1994</a></td><td>Billy Winebrenner, Gregory Allen Taylor, and Melody Pistorio.</td><td><a href="../../../../articles/w/i/l/William_Donald_Schaefer_f75b.html" title="William Donald Schaefer">William Donald Schaefer</a></td></tr><tr><td>2</td><td><a href="../../../../articles/f/l/i/Flint_Gregory_Hunt_4e01.html" title="Flint Gregory Hunt">Flint Gregory Hunt</a></td><td><a href="../../../../articles/j/u/l/July_2.html" title="July 2">2 July</a> <a href="../../../../articles/1/9/9/1997.html" title="1997">1997</a></td><td>Vincent Adolfo.</td><td><a href="../../../../articles/p/a/r/Parris_Glendening_2d6e.html" title="Parris Glendening">Parris Glendening</a></td></tr><tr><td>3</td><td>Tyrone Delano Gilliam, Jr.</td><td><a href="../../../../articles/n/o/v/November_16.html" title="November 16">16 November</a> <a href="../../../../articles/1/9/9/1998.html" title="1998">1998</a></td><td>Christine Doerfler.</td><td><a href="../../../../articles/p/a/r/Parris_Glendening_2d6e.html" title="Parris Glendening">Parris Glendening</a></td></tr><tr><td>4</td><td><a href="../../../../articles/s/t/e/Steven_Oken_54b8.html" title="Steven Oken">Steven Howard Oken</a></td><td><a href="../../../../articles/j/u/n/June_17.html" title="June 17">17 June</a> <a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td>Dawn Marie Garvin, Patricia Hirt, Lori Ward</td><td><a href="../../../../articles/r/o/b/Robert_Ehrlich_fe3d.html" title="Robert Ehrlich">Robert Ehrlich</a></td></tr><tr><td>5</td><td><a href="../../../../articles/w/e/s/Wesley_Baker_02e8.html" title="Wesley Baker">Wesley Eugene Baker</a></td><td><a href="../../../../articles/d/e/c/December_5.html" title="December 5">5 December</a> <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td><td>Jane Tyson.</td><td><a href="../../../../articles/r/o/b/Robert_Ehrlich_fe3d.html" title="Robert Ehrlich">Robert Ehrlich</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

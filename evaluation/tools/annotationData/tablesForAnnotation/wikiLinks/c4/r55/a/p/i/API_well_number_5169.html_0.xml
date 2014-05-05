@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r55/a/p/i/API_well_number_5169.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.6363636 2, 0.15 1, 0.15 0 1, 0.13125001 1 2, 0.0625 0 3, 0.04886364 3, 0.042755682 2 3, 0.009375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/p/i/API_well_number_5169.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>STATE</th>]]></html>
+	<text>STATE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>CODE</th>]]></html>
+	<text>CODE</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>REGULATORY AGENCY</th>]]></html>
+	<text>REGULATORY AGENCY</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>LINK</th>]]></html>
+	<text>LINK</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>01</td>]]></html>
+	<text>01</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alabama State Oil &amp; Gas Board</td>]]></html>
+	<text>Alabama State Oil &amp;amp;amp; Gas Board</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[11]</td>]]></html>
+	<text>[11]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>02</td>]]></html>
+	<text>02</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arizona Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>Arizona Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[12]</td>]]></html>
+	<text>[12]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>03</td>]]></html>
+	<text>03</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arkansas Oil &amp; Gas Commission</td>]]></html>
+	<text>Arkansas Oil &amp;amp;amp; Gas Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[13]</td>]]></html>
+	<text>[13]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>04</td>]]></html>
+	<text>04</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California Department of Conservation</td>]]></html>
+	<text>California Department of Conservation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[14]</td>]]></html>
+	<text>[14]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>05</td>]]></html>
+	<text>05</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>Colorado Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[15]</td>]]></html>
+	<text>[15]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>06</td>]]></html>
+	<text>06</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>07</td>]]></html>
+	<text>07</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>District of Columbia</td>]]></html>
+	<text>District of Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>08</td>]]></html>
+	<text>08</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>09</td>]]></html>
+	<text>09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florida Geological Survey Oil &amp; Gas Section</td>]]></html>
+	<text>Florida Geological Survey Oil &amp;amp;amp; Gas Section</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[16]</td>]]></html>
+	<text>[16]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Georgia Department of Natural Resources Environmental Protection Division</td>]]></html>
+	<text>Georgia Department of Natural Resources Environmental Protection Division</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[17]</td>]]></html>
+	<text>[17]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Idaho State Board of Land Commissioners</td>]]></html>
+	<text>Idaho State Board of Land Commissioners</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[18]</td>]]></html>
+	<text>[18]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Illinois Division of Oil &amp; Gas</td>]]></html>
+	<text>Illinois Division of Oil &amp;amp;amp; Gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[19]</td>]]></html>
+	<text>[19]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indiana Division of Oil &amp; Gas</td>]]></html>
+	<text>Indiana Division of Oil &amp;amp;amp; Gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[20]</td>]]></html>
+	<text>[20]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kansas Oil &amp; Gas Conservation Division</td>]]></html>
+	<text>Kansas Oil &amp;amp;amp; Gas Conservation Division</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[21]</td>]]></html>
+	<text>[21]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kentucky Division of Oil &amp; Gas</td>]]></html>
+	<text>Kentucky Division of Oil &amp;amp;amp; Gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[ [22] ]</td>]]></html>
+	<text>[ [22] ]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisiana Office of Conservation</td>]]></html>
+	<text>Louisiana Office of Conservation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[23]</td>]]></html>
+	<text>[23]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maryland Department of Natural Resources</td>]]></html>
+	<text>Maryland Department of Natural Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[24]</td>]]></html>
+	<text>[24]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan Department of Environmental Quality</td>]]></html>
+	<text>Michigan Department of Environmental Quality</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[25]</td>]]></html>
+	<text>[25]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mississippi State Oil &amp; Gas Board</td>]]></html>
+	<text>Mississippi State Oil &amp;amp;amp; Gas Board</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[26]</td>]]></html>
+	<text>[26]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri State Oil &amp; Gas Council</td>]]></html>
+	<text>Missouri State Oil &amp;amp;amp; Gas Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[27]</td>]]></html>
+	<text>[27]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana Board of Oil &amp; Gas Conservation</td>]]></html>
+	<text>Montana Board of Oil &amp;amp;amp; Gas Conservation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[28]</td>]]></html>
+	<text>[28]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>Nebraska Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[29]</td>]]></html>
+	<text>[29]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada Commission on Mineral Resources</td>]]></html>
+	<text>Nevada Commission on Mineral Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[30]</td>]]></html>
+	<text>[30]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Mexico Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>New Mexico Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[31]</td>]]></html>
+	<text>[31]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York Division of Mineral Resources</td>]]></html>
+	<text>New York Division of Mineral Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[32]</td>]]></html>
+	<text>[32]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Carolina Department of Environment and Natural Resources</td>]]></html>
+	<text>North Carolina Department of Environment and Natural Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[33]</td>]]></html>
+	<text>[33]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota Industrial Commission Oil &amp; Gas Division</td>]]></html>
+	<text>North Dakota Industrial Commission Oil &amp;amp;amp; Gas Division</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[34]</td>]]></html>
+	<text>[34]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio Department of Natural Resources Division of Minerals Resource Management</td>]]></html>
+	<text>Ohio Department of Natural Resources Division of Minerals Resource Management</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[35]</td>]]></html>
+	<text>[35]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>Oklahoma Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[36]</td>]]></html>
+	<text>[36]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oregon Mineral Land Regulation &amp; Reclamation Program</td>]]></html>
+	<text>Oregon Mineral Land Regulation &amp;amp;amp; Reclamation Program</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[37]</td>]]></html>
+	<text>[37]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania Bureau of Oil &amp; Gas Management</td>]]></html>
+	<text>Pennsylvania Bureau of Oil &amp;amp;amp; Gas Management</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[38]</td>]]></html>
+	<text>[38]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Carolina Geological Survey</td>]]></html>
+	<text>South Carolina Geological Survey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[39]</td>]]></html>
+	<text>[39]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota Department of Environment &amp; Natural Resources</td>]]></html>
+	<text>South Dakota Department of Environment &amp;amp;amp; Natural Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[40]</td>]]></html>
+	<text>[40]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee State Oil &amp; Gas Board</td>]]></html>
+	<text>Tennessee State Oil &amp;amp;amp; Gas Board</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[41]</td>]]></html>
+	<text>[41]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42</td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Railroad Commission of Texas</td>]]></html>
+	<text>Railroad Commission of Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[42]</td>]]></html>
+	<text>[42]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah Division of Oil, Gas &amp; Mining</td>]]></html>
+	<text>Utah Division of Oil, Gas &amp;amp;amp; Mining</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[43]</td>]]></html>
+	<text>[43]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44</td>]]></html>
+	<text>44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45</td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia Division of Gas &amp; Oil</td>]]></html>
+	<text>Virginia Division of Gas &amp;amp;amp; Oil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[44]</td>]]></html>
+	<text>[44]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46</td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington Division of Geology &amp; Earth Resources</td>]]></html>
+	<text>Washington Division of Geology &amp;amp;amp; Earth Resources</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[45]</td>]]></html>
+	<text>[45]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47</td>]]></html>
+	<text>47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia Office of Oil &amp; Gas</td>]]></html>
+	<text>West Virginia Office of Oil &amp;amp;amp; Gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[46]</td>]]></html>
+	<text>[46]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49</td>]]></html>
+	<text>49</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming Oil &amp; Gas Conservation Commission</td>]]></html>
+	<text>Wyoming Oil &amp;amp;amp; Gas Conservation Commission</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[47]</td>]]></html>
+	<text>[47]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alaska Division of Oil &amp; Gas</td>]]></html>
+	<text>Alaska Division of Oil &amp;amp;amp; Gas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[48]</td>]]></html>
+	<text>[48]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51</td>]]></html>
+	<text>51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska Offshore</td>]]></html>
+	<text>Alaska Offshore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55</td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minerals Management Service</td>]]></html>
+	<text>Minerals Management Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[49]</td>]]></html>
+	<text>[49]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pacific Coast Offshore</td>]]></html>
+	<text>Pacific Coast Offshore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>56</td>]]></html>
+	<text>56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minerals Management Service</td>]]></html>
+	<text>Minerals Management Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[50]</td>]]></html>
+	<text>[50]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northern Gulf of Mexico</td>]]></html>
+	<text>Northern Gulf of Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minerals Management Service</td>]]></html>
+	<text>Minerals Management Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[51]</td>]]></html>
+	<text>[51]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlantic Coast Offshore</td>]]></html>
+	<text>Atlantic Coast Offshore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61</td>]]></html>
+	<text>61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minerals Management Service</td>]]></html>
+	<text>Minerals Management Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[52]</td>]]></html>
+	<text>[52]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>API well number - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>STATE CODE REGULATORY AGENCY LINK</text>
+</context>
+<context>
+	<score>0.87228954</score>
+	<text>Most oil and gas commissions make API numbers (and well header data) available on-line and free of charge. The ability to download the data varies from state to state. Below is a list of the 50 states, along with their state code, and the name and internet address of their oil and gas regulatory agency where available. This list is partially based on information available from the Railroad Commission of Texas [10] .</text>
+</context>
+<context>
+	<score>0.77465343</score>
+	<text>API well number</text>
+</context>
+<context>
+	<score>0.7669082</score>
+	<text>There are primary and secondary sources for API numbers. Petroleum Information (now IHS Energy [9] assigned API numbers for most wells drilled before January 1, 1967. After that date, most numbers were assigned by the various state oil and gas regulatory bodies. The state commissions are therefore the primary, authoritative source for API numbers. However, API numbers can be purchased (along with other well information) from IHS.</text>
+</context>
+<context>
+	<score>0.7287982</score>
+	<text>IHS is now a secondary source for API numbers for most states, since they do not have assigning authority. Other secondary sources include commercial vendors of oil and gas data. API numbers are also used in many private corporate databases.</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Well Names</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Example Number</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] State Code</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] County Code</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Unique Well Identifier</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Directional Sidetrack Codes</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Event Sequence Code</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] Sources for API Numbers</text>
+</context>
+<context>
+	<score>0.69436455</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.6903485</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6826032</score>
+	<text>[ edit ] Sources for API Numbers</text>
+</context>
+<context>
+	<score>0.6151592</score>
+	<text>IHS Energy [8] , the successor to Petroleum Information, adopted these unpublished recommendations in January of 1999. Data in the WHCS well completion and the Active well database have this event sequence code. However, this event sequence code is assigned by IHS Energy, and is not found in most oil and gas databases.</text>
+</context>
+<context>
+	<score>0.57328385</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.557188</score>
+	<text>The thirteenth and fourteenth digits (00 in the example above) are to distinguish between separate operations in a single bore hole. In 1995, the API Subcommittee on Well Data Retrieval Systems proposed adding the event sequence code to deal with re-entries, recompletions, and hole deepenings. However, because of industry conditions (low oil prices), the subcommittee was disbanded before the recommendations were published and adopted by API</text>
+</context>
+<context>
+	<score>0.5180398</score>
+	<text>[ edit ] Event Sequence Code</text>
+</context>
+<context>
+	<score>0.47949246</score>
+	<text>The sidetrack code is the eleventh and twelfth digits (03 in the example above) of the API number. The original vertical well is normally 00. The first directional sidetrack would then be 01. In some states, the regulatory agency assigns the sidetrack codes, while other regulatory agencies do not. This means that the sidetrack code is useful in some places, but not used in others.</text>
+</context>
+<context>
+	<score>0.47944242</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.45588347</score>
+	<text>[ edit ] Directional Sidetrack Codes</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>STATE</th><th>CODE</th><th>REGULATORY AGENCY</th><th>LINK</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td>01</td><td>Alabama State Oil &amp; Gas Board</td><td><a href="http://www.gsa.state.al.us/" class="external autonumber" title="http://www.gsa.state.al.us/" rel="nofollow">[11]</a></td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>02</td><td>Arizona Oil &amp; Gas Conservation Commission</td><td><a href="http://www.azogcc.az.gov/" class="external autonumber" title="http://www.azogcc.az.gov/" rel="nofollow">[12]</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td>03</td><td>Arkansas Oil &amp; Gas Commission</td><td><a href="http://www.aogc.state.ar.us/" class="external autonumber" title="http://www.aogc.state.ar.us/" rel="nofollow">[13]</a></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>04</td><td><a href="../../../../articles/c/a/l/California_Department_of_Conservation_0b24.html" title="California Department of Conservation">California Department of Conservation</a></td><td><a href="http://www.consrv.ca.gov/index/index.htmh" class="external autonumber" title="http://www.consrv.ca.gov/index/index.htmh" rel="nofollow">[14]</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>05</td><td>Colorado Oil &amp; Gas Conservation Commission</td><td><a href="http://www.dnr.state.co.us/" class="external autonumber" title="http://www.dnr.state.co.us/" rel="nofollow">[15]</a></td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td>06</td><td></td><td></td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td>07</td><td></td><td></td></tr><tr><td><a href="../../../../articles/d/i/s/District_of_Columbia_9454.html" class="mw-redirect" title="District of Columbia">District of Columbia</a></td><td>08</td><td></td><td></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td>09</td><td>Florida Geological Survey Oil &amp; Gas Section</td><td><a href="http://www.dep.state.fl.us/geology/programs/oil_gas/index.htm" class="external autonumber" title="http://www.dep.state.fl.us/geology/programs/oil_gas/index.htm" rel="nofollow">[16]</a></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td>10</td><td>Georgia Department of Natural Resources Environmental Protection Division</td><td><a href="http://www.gaepd.org" class="external autonumber" title="http://www.gaepd.org" rel="nofollow">[17]</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td>11</td><td>Idaho State Board of Land Commissioners</td><td><a href="http://www2.state.id.us/lands/index.htm" class="external autonumber" title="http://www2.state.id.us/lands/index.htm" rel="nofollow">[18]</a></td></tr><tr><td><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td>12</td><td>Illinois Division of Oil &amp; Gas</td><td><a href="http://dnr.state.il.us/mines/dog/index.htm" class="external autonumber" title="http://dnr.state.il.us/mines/dog/index.htm" rel="nofollow">[19]</a></td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td>13</td><td>Indiana Division of Oil &amp; Gas</td><td><a href="http://www.in.gov/dnr/dnroil/" class="external autonumber" title="http://www.in.gov/dnr/dnroil/" rel="nofollow">[20]</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td>14</td><td></td><td></td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td>15</td><td>Kansas Oil &amp; Gas Conservation Division</td><td><a href="http://www.kcc.state.ks.us/conservation/index.htm/" class="external autonumber" title="http://www.kcc.state.ks.us/conservation/index.htm/" rel="nofollow">[21]</a></td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td>16</td><td>Kentucky Division of Oil &amp; Gas</td><td>[<a href="http://www.dogc.ky.gov/" class="external autonumber" title="http://www.dogc.ky.gov/" rel="nofollow">[22]</a>]</td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td>17</td><td>Louisiana Office of Conservation</td><td><a href="http://www.dnr.state.la.us/cons/conserv.ssi" class="external autonumber" title="http://www.dnr.state.la.us/cons/conserv.ssi" rel="nofollow">[23]</a></td></tr><tr><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td>18</td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td>19</td><td><a href="../../../../articles/m/a/r/Maryland_Department_of_Natural_Resources_1f78.html" title="Maryland Department of Natural Resources">Maryland Department of Natural Resources</a></td><td><a href="http://www.dnr.state.md.us/index.asp" class="external autonumber" title="http://www.dnr.state.md.us/index.asp" rel="nofollow">[24]</a></td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td>20</td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td>21</td><td><a href="../../../../articles/m/i/c/Michigan_Department_of_Environmental_Quality_abad.html" title="Michigan Department of Environmental Quality">Michigan Department of Environmental Quality</a></td><td><a href="http://www.michigan.gov/deq" class="external autonumber" title="http://www.michigan.gov/deq" rel="nofollow">[25]</a></td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>22</td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td>23</td><td>Mississippi State Oil &amp; Gas Board</td><td><a href="http://www.ogb.state.ms.us/" class="external autonumber" title="http://www.ogb.state.ms.us/" rel="nofollow">[26]</a></td></tr><tr><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td>24</td><td>Missouri State Oil &amp; Gas Council</td><td><a href="http://www.dnr.mo.gov/geology/geosrv/ogc/index.html" class="external autonumber" title="http://www.dnr.mo.gov/geology/geosrv/ogc/index.html" rel="nofollow">[27]</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td>25</td><td>Montana Board of Oil &amp; Gas Conservation</td><td><a href="http://bogc.dnrc.mt.gov/" class="external autonumber" title="http://bogc.dnrc.mt.gov/" rel="nofollow">[28]</a></td></tr><tr><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td>26</td><td>Nebraska Oil &amp; Gas Conservation Commission</td><td><a href="http://www.oil-gas.state.ne.us/" class="external autonumber" title="http://www.oil-gas.state.ne.us/" rel="nofollow">[29]</a></td></tr><tr><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>27</td><td>Nevada Commission on Mineral Resources</td><td><a href="http://minerals.state.nv.us/" class="external autonumber" title="http://minerals.state.nv.us/" rel="nofollow">[30]</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td>28</td><td></td><td></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td>29</td><td></td><td></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td>30</td><td>New Mexico Oil &amp; Gas Conservation Commission</td><td><a href="http://www.emnrd.state.nm.us/ocd/" class="external autonumber" title="http://www.emnrd.state.nm.us/ocd/" rel="nofollow">[31]</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>31</td><td>New York Division of Mineral Resources</td><td><a href="http://www.dec.ny.gov/about/636.html" class="external autonumber" title="http://www.dec.ny.gov/about/636.html" rel="nofollow">[32]</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td>32</td><td><a href="../../../../articles/n/o/r/North_Carolina_Department_of_Environment_and_Natural_Resources_9889.html" title="North Carolina Department of Environment and Natural Resources">North Carolina Department of Environment and Natural Resources</a></td><td><a href="http://www.enr.state.nc.us/" class="external autonumber" title="http://www.enr.state.nc.us/" rel="nofollow">[33]</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td>33</td><td>North Dakota Industrial Commission Oil &amp; Gas Division</td><td><a href="https://www.dmr.nd.gov/oilgas/" class="external autonumber" title="https://www.dmr.nd.gov/oilgas/" rel="nofollow">[34]</a></td></tr><tr><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td>34</td><td>Ohio Department of Natural Resources Division of Minerals Resource Management</td><td><a href="http://www.dnr.state.oh.us/mineral/default/tabid/10352/Default.aspx" class="external autonumber" title="http://www.dnr.state.oh.us/mineral/default/tabid/10352/Default.aspx" rel="nofollow">[35]</a></td></tr><tr><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td>35</td><td>Oklahoma Oil &amp; Gas Conservation Commission</td><td><a href="http://www.occ.state.ok.us/Divisions/OG/newweb/og.htm" class="external autonumber" title="http://www.occ.state.ok.us/Divisions/OG/newweb/og.htm" rel="nofollow">[36]</a></td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td>36</td><td>Oregon Mineral Land Regulation &amp; Reclamation Program</td><td><a href="http://www.oregongeology.com/sub/mlr/mlrhome.htm" class="external autonumber" title="http://www.oregongeology.com/sub/mlr/mlrhome.htm" rel="nofollow">[37]</a></td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>37</td><td>Pennsylvania Bureau of Oil &amp; Gas Management</td><td><a href="http://www.dep.state.pa.us/dep/deputate/minres/oilgas/oilgas.htm" class="external autonumber" title="http://www.dep.state.pa.us/dep/deputate/minres/oilgas/oilgas.htm" rel="nofollow">[38]</a></td></tr><tr><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td>38</td><td></td><td></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td>39</td><td>South Carolina Geological Survey</td><td><a href="http://www.dnr.sc.gov/geology/" class="external autonumber" title="http://www.dnr.sc.gov/geology/" rel="nofollow">[39]</a></td></tr><tr><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td>40</td><td>South Dakota Department of Environment &amp; Natural Resources</td><td><a href="http://www.state.sd.us/denr/denr.html" class="external autonumber" title="http://www.state.sd.us/denr/denr.html" rel="nofollow">[40]</a></td></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td>41</td><td>Tennessee State Oil &amp; Gas Board</td><td><a href="http://www.state.tn.us/environment/boards/oilandgas.shtml" class="external autonumber" title="http://www.state.tn.us/environment/boards/oilandgas.shtml" rel="nofollow">[41]</a></td></tr><tr><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>42</td><td><a href="../../../../articles/r/a/i/Railroad_Commission_of_Texas_1a71.html" title="Railroad Commission of Texas">Railroad Commission of Texas</a></td><td><a href="http://www.rrc.state.tx.us/" class="external autonumber" title="http://www.rrc.state.tx.us/" rel="nofollow">[42]</a></td></tr><tr><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td>43</td><td>Utah Division of Oil, Gas &amp; Mining</td><td><a href="http://dogm.nr.state.ut.us/" class="external autonumber" title="http://dogm.nr.state.ut.us/" rel="nofollow">[43]</a></td></tr><tr><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td>44</td><td></td><td></td></tr><tr><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td>45</td><td>Virginia Division of Gas &amp; Oil</td><td><a href="http://www.mme.state.va.us/dgo/default.htm" class="external autonumber" title="http://www.mme.state.va.us/dgo/default.htm" rel="nofollow">[44]</a></td></tr><tr><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td>46</td><td>Washington Division of Geology &amp; Earth Resources</td><td><a href="http://www1.dnr.wa.gov/" class="external autonumber" title="http://www1.dnr.wa.gov/" rel="nofollow">[45]</a></td></tr><tr><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td>47</td><td>West Virginia Office of Oil &amp; Gas</td><td><a href="http://www.wvdep.org/item.cfm?ssid=23" class="external autonumber" title="http://www.wvdep.org/item.cfm?ssid=23" rel="nofollow">[46]</a></td></tr><tr><td><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td>48</td><td></td><td></td></tr><tr><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td>49</td><td>Wyoming Oil &amp; Gas Conservation Commission</td><td><a href="http://wogcc.state.wy.us/" class="external autonumber" title="http://wogcc.state.wy.us/" rel="nofollow">[47]</a></td></tr><tr><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td>50</td><td>Alaska Division of Oil &amp; Gas</td><td><a href="http://www.dog.dnr.state.ak.us/oil/index.htm" class="external autonumber" title="http://www.dog.dnr.state.ak.us/oil/index.htm" rel="nofollow">[48]</a></td></tr><tr><td><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td>51</td><td></td><td></td></tr><tr><td>Alaska Offshore</td><td>55</td><td><a href="../../../../articles/m/i/n/Minerals_Management_Service_f773.html" title="Minerals Management Service">Minerals Management Service</a></td><td><a href="http://www.mms.gov/" class="external autonumber" title="http://www.mms.gov/" rel="nofollow">[49]</a></td></tr><tr><td>Pacific Coast Offshore</td><td>56</td><td><a href="../../../../articles/m/i/n/Minerals_Management_Service_f773.html" title="Minerals Management Service">Minerals Management Service</a></td><td><a href="http://www.mms.gov/" class="external autonumber" title="http://www.mms.gov/" rel="nofollow">[50]</a></td></tr><tr><td>Northern Gulf of Mexico</td><td>60</td><td><a href="../../../../articles/m/i/n/Minerals_Management_Service_f773.html" title="Minerals Management Service">Minerals Management Service</a></td><td><a href="http://www.mms.gov/" class="external autonumber" title="http://www.mms.gov/" rel="nofollow">[51]</a></td></tr><tr><td>Atlantic Coast Offshore</td><td>61</td><td><a href="../../../../articles/m/i/n/Minerals_Management_Service_f773.html" title="Minerals Management Service">Minerals Management Service</a></td><td><a href="http://www.mms.gov/" class="external autonumber" title="http://www.mms.gov/" rel="nofollow">[52]</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

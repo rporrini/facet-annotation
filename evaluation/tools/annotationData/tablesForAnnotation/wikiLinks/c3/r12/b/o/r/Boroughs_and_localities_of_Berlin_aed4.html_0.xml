@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r12/b/o/r/Boroughs_and_localities_of_Berlin_aed4.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/o/r/Boroughs_and_localities_of_Berlin_aed4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Borough</th>]]></html>
+	<text>Borough</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population November 2006</th>]]></html>
+	<text>Population November 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area in km²</th>]]></html>
+	<text>Area in km&#178;</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charlottenburg-Wilmersdorf</td>]]></html>
+	<text>Charlottenburg-Wilmersdorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>315.702</td>]]></html>
+	<text>315.702</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64,72</td>]]></html>
+	<text>64,72</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Friedrichshain-Kreuzberg</td>]]></html>
+	<text>Friedrichshain-Kreuzberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>265.843</td>]]></html>
+	<text>265.843</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,16</td>]]></html>
+	<text>20,16</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lichtenberg</td>]]></html>
+	<text>Lichtenberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>258.944</td>]]></html>
+	<text>258.944</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52,29</td>]]></html>
+	<text>52,29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marzahn-Hellersdorf</td>]]></html>
+	<text>Marzahn-Hellersdorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>249.802</td>]]></html>
+	<text>249.802</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61,74</td>]]></html>
+	<text>61,74</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mitte</td>]]></html>
+	<text>Mitte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>326.500</td>]]></html>
+	<text>326.500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39,47</td>]]></html>
+	<text>39,47</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Neukölln</td>]]></html>
+	<text>Neuk&#246;lln</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>305.691</td>]]></html>
+	<text>305.691</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,93</td>]]></html>
+	<text>44,93</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pankow</td>]]></html>
+	<text>Pankow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>358.073</td>]]></html>
+	<text>358.073</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103,01</td>]]></html>
+	<text>103,01</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Reinickendorf</td>]]></html>
+	<text>Reinickendorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>242.652</td>]]></html>
+	<text>242.652</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,46</td>]]></html>
+	<text>89,46</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spandau</td>]]></html>
+	<text>Spandau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>224.342</td>]]></html>
+	<text>224.342</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,91</td>]]></html>
+	<text>91,91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Steglitz-Zehlendorf</td>]]></html>
+	<text>Steglitz-Zehlendorf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>288.848</td>]]></html>
+	<text>288.848</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102,50</td>]]></html>
+	<text>102,50</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tempelhof-Schöneberg</td>]]></html>
+	<text>Tempelhof-Sch&#246;neberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>332.140</td>]]></html>
+	<text>332.140</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,09</td>]]></html>
+	<text>53,09</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Treptow-Köpenick</td>]]></html>
+	<text>Treptow-K&#246;penick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>236.722</td>]]></html>
+	<text>236.722</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168,42</td>]]></html>
+	<text>168,42</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Boroughs and localities of Berlin - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Borough Population November 2006 Area in km</text>
+</context>
+<context>
+	<score>0.89007944</score>
+	<text>When Greater Berlin was established in 1920, the city was organized into 20 boroughs, most of which were named after their largest component locality, often a former city or municipality; others, such as Kreuzberg and Prenzlauer Berg , were named for geographic features. By 2000, Berlin comprised 23 boroughs, as three new boroughs had been created in East Berlin . An administrative reform in 2001 merged Berlin s existing boroughs to form the 12 boroughs that make up the city today. As of 2005, these 12 boroughs were made up of a total of 96 officially recognized localities, as listed below.</text>
+</context>
+<context>
+	<score>0.81149787</score>
+	<text>Boroughs and localities of Berlin</text>
+</context>
+<context>
+	<score>0.7927879</score>
+	<text>Each borough is made up of several officially recognized localities ( Ortsteile in German, sometimes called subdistricts in English). These localities typically have a historical identity as former independent cities, villages, or rural municipalities that were united in 1920 as part of the Greater Berlin Act , forming the basis for the present-day city and state. The localities do not have their own governmental bodies, but are recognized by the city and the boroughs for planning and statistical purposes. Berliners often identify more with the locality where they live than with the borough that governs them. The localities are further subdivided into statistical tracts, which are mainly used for planning and statistical purposes. The statistical tracts correspond roughly but not exactly with neighbourhoods recognized by residents.</text>
+</context>
+<context>
+	<score>0.7496177</score>
+	<text>Format of list:</text>
+</context>
+<context>
+	<score>0.74535847</score>
+	<text>[ edit ] List of boroughs and localities</text>
+</context>
+<context>
+	<score>0.74535847</score>
+	<text>[ edit ] Reference and external link</text>
+</context>
+<context>
+	<score>0.71495485</score>
+	<text>Berlin is both a city and one of Germany&apos;s federal states . It is made up of twelve boroughs ( Bezirke in German, also known as districts or administrative districts in English), each with its own borough government, though all boroughs are subject to Berlin s city and state government.</text>
+</context>
+<context>
+	<score>0.64099467</score>
+	<text>The boroughs and localities of Berlin</text>
+</context>
+<context>
+	<score>0.621585</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6023339</score>
+	<text>Borough Localities within that borough</text>
+</context>
+<context>
+	<score>0.5817344</score>
+	<text>Boroughs and localities of Berlin</text>
+</context>
+<context>
+	<score>0.52739006</score>
+	<text>[ edit ] List of boroughs and localities</text>
+</context>
+<context>
+	<score>0.47642687</score>
+	<text>[ edit ] Reference and external link</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable" style="text-align:right; font-size:90%"><tr style="text-align:center;"><th><b>Borough</b></th><th>Population<br /><small>November 2006</small></th><th>Area<br />in km²</th></tr><tr><td align="left"><a href="../../../../articles/c/h/a/Charlottenburg-Wilmersdorf_54d3.html" title="Charlottenburg-Wilmersdorf">Charlottenburg-Wilmersdorf</a></td><td>315.702</td><td>64,72</td></tr><tr><td align="left"><a href="../../../../articles/f/r/i/Friedrichshain-Kreuzberg_e421.html" title="Friedrichshain-Kreuzberg">Friedrichshain-Kreuzberg</a></td><td>265.843</td><td>20,16</td></tr><tr><td align="left"><a href="../../../../articles/l/i/c/Lichtenberg.html" title="Lichtenberg">Lichtenberg</a></td><td>258.944</td><td>52,29</td></tr><tr><td align="left"><a href="../../../../articles/m/a/r/Marzahn-Hellersdorf_3b3e.html" title="Marzahn-Hellersdorf">Marzahn-Hellersdorf</a></td><td>249.802</td><td>61,74</td></tr><tr><td align="left"><a href="../../../../articles/m/i/t/Mitte.html" title="Mitte">Mitte</a></td><td>326.500</td><td>39,47</td></tr><tr><td align="left"><a href="../../../../articles/n/e/u/Neuk%C3%B6lln.html" title="Neukölln">Neukölln</a></td><td>305.691</td><td>44,93</td></tr><tr><td align="left"><a href="../../../../articles/p/a/n/Pankow.html" title="Pankow">Pankow</a></td><td>358.073</td><td>103,01</td></tr><tr><td align="left"><a href="../../../../articles/r/e/i/Reinickendorf.html" title="Reinickendorf">Reinickendorf</a></td><td>242.652</td><td>89,46</td></tr><tr><td align="left"><a href="../../../../articles/s/p/a/Spandau.html" title="Spandau">Spandau</a></td><td>224.342</td><td>91,91</td></tr><tr><td align="left"><a href="../../../../articles/s/t/e/Steglitz-Zehlendorf_6f04.html" title="Steglitz-Zehlendorf">Steglitz-Zehlendorf</a></td><td>288.848</td><td>102,50</td></tr><tr><td align="left"><a href="../../../../articles/t/e/m/Tempelhof-Sch%C3%B6neberg_22a2.html" title="Tempelhof-Schöneberg">Tempelhof-Schöneberg</a></td><td>332.140</td><td>53,09</td></tr><tr><td align="left"><a href="../../../../articles/t/r/e/Treptow-K%C3%B6penick_122e.html" title="Treptow-Köpenick">Treptow-Köpenick</a></td><td>236.722</td><td>168,42</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r15/s/o/l/Solar_power_in_the_United_States_c72e.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 1, 0.8333333 0 3, 0.7638889 1 3, 0.75 0 5, 0.6111111 3, 0.5416667 3 5, 0.50416666 1 5, 0.4277778 1, 0.25 5, 0.13333334 2, 0.13333334 0 2, 0.12222224 1 2, 0.11666667 0 4, 0.11111111 2 3, 0.10000001 2 5, 0.09722222 3 4, 0.092685185 1 4, 0.07777778 4, 0.075833336 4 5, 0.015555556 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/l/Solar_power_in_the_United_States_c72e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>DC Peak Power (MW)</th>]]></html>
+	<text>DC Peak Power (MW)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Description</th>]]></html>
+	<text>Description</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GW·h/year</th>]]></html>
+	<text>GW&#183;h/year</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KCRD Solar Farm [8]</td>]]></html>
+	<text>KCRD Solar Farm [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80</td>]]></html>
+	<text>80</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scheduled to be completed in 2012</td>]]></html>
+	<text>Scheduled to be completed in 2012</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed [9] [10]</td>]]></html>
+	<text>Proposed [9] [10]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kohl's [11]</td>]]></html>
+	<text>Kohl&amp;apos;s [11]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Installed on 63 of the 80 stores</td>]]></html>
+	<text>Installed on 63 of the 80 stores</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Under construction</td>]]></html>
+	<text>Under construction</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nellis Solar Power Plant</td>]]></html>
+	<text>Nellis Solar Power Plant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,000 solar panels</td>]]></html>
+	<text>70,000 solar panels</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alamosa photovoltaic power plant [12]</td>]]></html>
+	<text>Alamosa photovoltaic power plant [12]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.22</td>]]></html>
+	<text>8.22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CalRENEW-1 [13]</td>]]></html>
+	<text>CalRENEW-1 [13]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cleantech America</td>]]></html>
+	<text>Cleantech America</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed</td>]]></html>
+	<text>Proposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Springerville Generating Station [14]</td>]]></html>
+	<text>Springerville Generating Station [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.59</td>]]></html>
+	<text>4.59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,980 BP solar modules</td>]]></html>
+	<text>34,980 BP solar modules</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.8</td>]]></html>
+	<text>7.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rancho Seco [14]</td>]]></html>
+	<text>Rancho Seco [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.9</td>]]></html>
+	<text>3.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prescott Airport Solar Power Plant [14]</td>]]></html>
+	<text>Prescott Airport Solar Power Plant [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.5</td>]]></html>
+	<text>3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.9</td>]]></html>
+	<text>4.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Destiny USA [15]</td>]]></html>
+	<text>Destiny USA [15]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.7</td>]]></html>
+	<text>3.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed</td>]]></html>
+	<text>Proposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LVVWD Distributed Solar Array [16]</td>]]></html>
+	<text>LVVWD Distributed Solar Array [16]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.1</td>]]></html>
+	<text>3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Located at the Luce Reservoir, Fort Apache Reservoir, Ronzone Reservoir, Spring Mountain-Durango Reservoir and Grand Canyon Reservoir</td>]]></html>
+	<text>Located at the Luce Reservoir, Fort Apache Reservoir, Ronzone Reservoir, Spring Mountain-Durango Reservoir and Grand Canyon Reservoir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>One of the largest public agency facilities.</td>]]></html>
+	<text>One of the largest public agency facilities.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Falls Township [17]</td>]]></html>
+	<text>Falls Township [17]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed</td>]]></html>
+	<text>Proposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fort Carson [14]</td>]]></html>
+	<text>Fort Carson [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n.a.</td>]]></html>
+	<text>n.a.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Google [18]</td>]]></html>
+	<text>Google [18]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9212 Sharp ND-208-U1 modules</td>]]></html>
+	<text>9212 Sharp ND-208-U1 modules</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>HP [19]</td>]]></html>
+	<text>HP [19]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SunPower</td>]]></html>
+	<text>SunPower</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Proposed</td>]]></html>
+	<text>Proposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beverly High School [20]</td>]]></html>
+	<text>Beverly High School [20]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1</td>]]></html>
+	<text>0.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Solar Power Corporation single crystal modules</td>]]></html>
+	<text>Solar Power Corporation single crystal modules</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.09</td>]]></html>
+	<text>0.09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Photovoltaic (PV) power plants</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Solar power in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Location DC Peak Power (MW) Description GW h/year Notes</text>
+</context>
+<context>
+	<score>0.8848479</score>
+	<text>The Nellis Solar Power Plant was completed in December, 2007. It is the largest solar photovoltaic system built in North America and is located at Nellis Air Force Base in Clark County , Nevada . It includes approximately 70,000 solar panels and the peak power generation capacity of the plant will is approximately 15 megawatts.</text>
+</context>
+<context>
+	<score>0.79865205</score>
+	<text>Solar power in the United States</text>
+</context>
+<context>
+	<score>0.78787756</score>
+	<text>[ edit ] Nellis Solar Power Plant</text>
+</context>
+<context>
+	<score>0.7565048</score>
+	<text>[ edit ] Distributed solar power</text>
+</context>
+<context>
+	<score>0.7271365</score>
+	<text>[ edit ] Solar thermal power plants</text>
+</context>
+<context>
+	<score>0.7271365</score>
+	<text>[ edit ] Solar photovoltaic power plants in the U.S.</text>
+</context>
+<context>
+	<score>0.7271365</score>
+	<text>[ edit ] Incentives</text>
+</context>
+<context>
+	<score>0.7271365</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7271365</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7210759</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71030134</score>
+	<text>[ edit ] Solar photovoltaic power plants in the U.S.</text>
+</context>
+<context>
+	<score>0.6421797</score>
+	<text>California electricity consumption was 272,464 GWh in 2005.</text>
+</context>
+<context>
+	<score>0.60364664</score>
+	<text>Photovoltaic solar panels on a house roof.</text>
+</context>
+<context>
+	<score>0.59253097</score>
+	<text>Annual output is expected to be 1,047 GWh.</text>
+</context>
+<context>
+	<score>0.5528119</score>
+	<text>Each of California&apos;s electric utilities are required to provide 20% of their electricity from renewable sources by 2017. Sterling Energy Systems is building a 4,500 acre sun farm to supply 500 MW by 2012. Output will go to Southern California Edison and San Diego Gas and Electric.</text>
+</context>
+<context>
+	<score>0.5270974</score>
+	<text>The largest solar power plant in the world is the 354 MW SEGS thermal power plant , in California.</text>
+</context>
+<context>
+	<score>0.5172952</score>
+	<text>/articles/s/o/l/Image%7ESolar_panels_on_house_roof.jpg_d9c0.html&quot; title=&quot;Enlarge&quot;&gt; Photovoltaic solar panels on a house roof.</text>
+</context>
+<context>
+	<score>0.5016772</score>
+	<text>[ edit ] Solar thermal power plants</text>
+</context>
+<context>
+	<score>0.47528043</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.4725608</score>
+	<text>In recent years thousands and soon millions of homes, as well as many schools and businesses will include photovoltaic solar panels on their roof. Most of these are grid connected and use net metering laws to allow use of electricity in the evening that was generated during the daytime. New Jersey lead the nation with the least restrictive net metering law,</text>
+</context>
+<context>
+	<score>0.46507215</score>
+	<text>Solar power in the United States is the largest available energy source for the United States , although it currently accounts for less than 1% of electricity generation.</text>
+</context>
+<context>
+	<score>0.4524194</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><caption><b>Photovoltaic (PV) power plants</b></caption><tr><th>Name</th><th>Location</th><th>DC Peak<br />Power (MW)</th><th>Description</th><th>GW·h/year</th><th>Notes</th></tr><tr><td>KCRD Solar Farm<sup id="cite_ref-7" class="reference"><a href="#cite_note-7" title="">[8]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>80</td><td>Scheduled to be completed in 2012</td><td></td><td>Proposed<sup id="cite_ref-upstream_8-0" class="reference"><a href="#cite_note-upstream-8" title="">[9]</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9" title="">[10]</a></sup></td></tr><tr><td><a href="../../../../articles/k/o/h/Kohl%27s.html" title="Kohl's">Kohl's</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10" title="">[11]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>25</td><td>Installed on 63 of the 80 stores</td><td>35</td><td>Under construction</td></tr><tr><td><a href="../../../../articles/n/e/l/Nellis_Solar_Power_Plant_ffd4.html" title="Nellis Solar Power Plant">Nellis Solar Power Plant</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>18</td><td>70,000 solar panels</td><td>25</td><td></td></tr><tr><td>Alamosa photovoltaic power plant<sup id="cite_ref-11" class="reference"><a href="#cite_note-11" title="">[12]</a></sup></td><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>8.22</td><td></td><td>17</td><td></td></tr><tr><td>CalRENEW-1<sup id="cite_ref-12" class="reference"><a href="#cite_note-12" title="">[13]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>5</td><td>Cleantech America</td><td>n.a.</td><td>Proposed</td></tr><tr><td>Springerville Generating Station<sup id="cite_ref-top50_13-0" class="reference"><a href="#cite_note-top50-13" title="">[14]</a></sup></td><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>4.59</td><td>34,980 BP solar modules</td><td>7.8</td><td></td></tr><tr><td><a href="../../../../articles/r/a/n/Rancho_Seco_6d01.html" class="mw-redirect" title="Rancho Seco">Rancho Seco</a><sup id="cite_ref-top50_13-1" class="reference"><a href="#cite_note-top50-13" title="">[14]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>3.9</td><td>n.a.</td><td>n.a.</td><td></td></tr><tr><td>Prescott Airport Solar Power Plant<sup id="cite_ref-top50_13-2" class="reference"><a href="#cite_note-top50-13" title="">[14]</a></sup></td><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td>3.5</td><td>n.a.</td><td>4.9</td><td></td></tr><tr><td>Destiny USA<sup id="cite_ref-14" class="reference"><a href="#cite_note-14" title="">[15]</a></sup></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>3.2</td><td>n.a.</td><td>3.7</td><td>Proposed</td></tr><tr><td>LVVWD Distributed Solar Array<sup id="cite_ref-15" class="reference"><a href="#cite_note-15" title="">[16]</a></sup></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td>3.1</td><td>Located at the Luce Reservoir, Fort Apache Reservoir, Ronzone Reservoir, Spring Mountain-Durango Reservoir and Grand Canyon Reservoir</td><td></td><td>One of the largest public agency facilities.</td></tr><tr><td><a href="../../../../articles/f/a/l/Falls_Township%2C_Bucks_County%2C_Pennsylvania_265f.html" title="Falls Township, Bucks County, Pennsylvania">Falls Township</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16" title="">[17]</a></sup></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>3</td><td></td><td></td><td>Proposed</td></tr><tr><td><a href="../../../../articles/f/o/r/Fort_Carson_eb91.html" title="Fort Carson">Fort Carson</a><sup id="cite_ref-top50_13-3" class="reference"><a href="#cite_note-top50-13" title="">[14]</a></sup></td><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>2</td><td>n.a.</td><td>3.2</td><td></td></tr><tr><td><a href="../../../../articles/g/o/o/Google.html" title="Google">Google</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17" title="">[18]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>1.6</td><td>9212 Sharp ND-208-U1 modules</td><td>3.2</td><td></td></tr><tr><td><a href="../../../../articles/h/p/_/HP_e6fc.html" class="mw-redirect" title="HP">HP</a><sup id="cite_ref-18" class="reference"><a href="#cite_note-18" title="">[19]</a></sup></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>1</td><td>SunPower</td><td></td><td>Proposed</td></tr><tr><td>Beverly High School<sup id="cite_ref-19" class="reference"><a href="#cite_note-19" title="">[20]</a></sup></td><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td>0.1</td><td>Solar Power Corporation single crystal modules</td><td>0.09</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

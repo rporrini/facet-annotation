@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r11/c/e/n/Centennial_Conference_97cf.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 0 4, 0.79591835 1 4, 0.78571427 6, 0.78571427 0 6, 0.7295918 1 6, 0.67346936 4 6, 0.15584417 4, 0.14285715 2, 0.14285715 0 2, 0.13265306 1 2, 0.12857144 3, 0.12857144 0 3, 0.12244899 2 4, 0.119387746 1 3, 0.11428572 0 5, 0.112244904 2 6, 0.110204086 3 4, 0.10612245 1 5, 0.10102041 3 6, 0.089795925 5 6, 0.035621524 4 5, 0.020779222 5, 0.018367348 2 3, 0.016326532 2 5, 0.014693879 3 5, " />
+<meta name="parentHTMLDoc" value="en/articles/c/e/n/Centennial_Conference_97cf.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Institution</th>]]></html>
+	<text>Institution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Founded</th>]]></html>
+	<text>Founded</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Enrollment</th>]]></html>
+	<text>Enrollment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Affiliation</th>]]></html>
+	<text>Affiliation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Joined</th>]]></html>
+	<text>Joined</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nickname</th>]]></html>
+	<text>Nickname</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bryn Mawr College</td>]]></html>
+	<text>Bryn Mawr College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bryn Mawr, PA</td>]]></html>
+	<text>Bryn Mawr, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1885</td>]]></html>
+	<text>1885</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,890</td>]]></html>
+	<text>1,890</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Owls</td>]]></html>
+	<text>Owls</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dickinson College</td>]]></html>
+	<text>Dickinson College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carlisle, PA</td>]]></html>
+	<text>Carlisle, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1783</td>]]></html>
+	<text>1783</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,381</td>]]></html>
+	<text>2,381</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red Devils</td>]]></html>
+	<text>Red Devils</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Franklin &amp; Marshall College</td>]]></html>
+	<text>Franklin &amp;amp;amp; Marshall College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lancaster, PA</td>]]></html>
+	<text>Lancaster, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1787</td>]]></html>
+	<text>1787</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,104</td>]]></html>
+	<text>2,104</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Diplomats</td>]]></html>
+	<text>Diplomats</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gettysburg College</td>]]></html>
+	<text>Gettysburg College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gettysburg, PA</td>]]></html>
+	<text>Gettysburg, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1832</td>]]></html>
+	<text>1832</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,497</td>]]></html>
+	<text>2,497</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Lutheran</td>]]></html>
+	<text>Private/Lutheran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bullets</td>]]></html>
+	<text>Bullets</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Haverford College</td>]]></html>
+	<text>Haverford College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Haverford, PA</td>]]></html>
+	<text>Haverford, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1833</td>]]></html>
+	<text>1833</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,169</td>]]></html>
+	<text>1,169</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Black Squirrels</td>]]></html>
+	<text>Black Squirrels</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Johns Hopkins University</td>]]></html>
+	<text>Johns Hopkins University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baltimore, MD</td>]]></html>
+	<text>Baltimore, MD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1876</td>]]></html>
+	<text>1876</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,478</td>]]></html>
+	<text>4,478</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blue Jays</td>]]></html>
+	<text>Blue Jays</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>McDaniel College</td>]]></html>
+	<text>McDaniel College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Westminster, MD</td>]]></html>
+	<text>Westminster, MD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1867</td>]]></html>
+	<text>1867</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,641</td>]]></html>
+	<text>3,641</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Green Terror</td>]]></html>
+	<text>Green Terror</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Muhlenberg College</td>]]></html>
+	<text>Muhlenberg College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allentown, PA</td>]]></html>
+	<text>Allentown, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1848</td>]]></html>
+	<text>1848</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,457</td>]]></html>
+	<text>2,457</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private/Lutheran</td>]]></html>
+	<text>Private/Lutheran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mules</td>]]></html>
+	<text>Mules</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Swarthmore College</td>]]></html>
+	<text>Swarthmore College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swarthmore, PA</td>]]></html>
+	<text>Swarthmore, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1864</td>]]></html>
+	<text>1864</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,491</td>]]></html>
+	<text>1,491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Garnet</td>]]></html>
+	<text>Garnet</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ursinus College</td>]]></html>
+	<text>Ursinus College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Collegeville, PA</td>]]></html>
+	<text>Collegeville, PA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1869</td>]]></html>
+	<text>1869</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,583</td>]]></html>
+	<text>1,583</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bears</td>]]></html>
+	<text>Bears</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington College</td>]]></html>
+	<text>Washington College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chestertown, MD</td>]]></html>
+	<text>Chestertown, MD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1782</td>]]></html>
+	<text>1782</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,285</td>]]></html>
+	<text>1,285</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Private</td>]]></html>
+	<text>Private</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shoremen, Shorewomen</td>]]></html>
+	<text>Shoremen, Shorewomen</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Centennial Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Institution Location Founded Enrollment Affiliation Joined Nickname</text>
+</context>
+<context>
+	<score>0.8864749</score>
+	<text>[ edit ] Current Members</text>
+</context>
+<context>
+	<score>0.79788077</score>
+	<text>Centennial Conference</text>
+</context>
+<context>
+	<score>0.7867508</score>
+	<text>[ edit ] Conference Members</text>
+</context>
+<context>
+	<score>0.7544872</score>
+	<text>Teams compete in men&apos;s and women&apos;s cross country , field hockey , football , men&apos;s and women&apos;s soccer , women&apos;s volleyball , men&apos;s and women&apos;s basketball , men&apos;s and women&apos;s swimming , men&apos;s and women&apos;s track and field , wrestling , baseball , men&apos;s and women&apos;s golf , men&apos;s and women&apos;s lacrosse , softball and men&apos;s and women&apos;s tennis .</text>
+</context>
+<context>
+	<score>0.7292315</score>
+	<text>[ edit ] Conference Background</text>
+</context>
+<context>
+	<score>0.7292315</score>
+	<text>[ edit ] Conference Members</text>
+</context>
+<context>
+	<score>0.7292315</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7181016</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6958417</score>
+	<text>On the average, Centennial members boast of 19 varsity teams per campus which is well above the national norm. They are also competitive nationally in athletics with the conference members have won five NCAA team titles - Franklin &amp; Marshall women&apos;s lacrosse (2007), Ursinus field hockey (2006) and Washington&apos;s men&apos;s lacrosse (1998) and men&apos;s tennis (1994, 1997) teams.</text>
+</context>
+<context>
+	<score>0.64314824</score>
+	<text>All of the charter members defected from the Middle Atlantic Corporation .</text>
+</context>
+<context>
+	<score>0.60352093</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.5809597</score>
+	<text>The Conference moved from a football only conference to an all-sports conference after a 1991 feasibility study. The study also recommended to expand from eight schools to eleven. The other schools recommended were Bryn Mawr College, Haverford College and Washington College. Those three schools accepted and became Charter members in 1992 as the conference expanded its sports offerings.</text>
+</context>
+<context>
+	<score>0.5401127</score>
+	<text>According to the Centennial Conference&apos;s web site: &quot;On June 4, 1981, Keith Spalding, then-president of Franklin &amp; Marshall College, made the announcement that &quot;eight private colleges found it timely and appropriate to form a round-robin football schedule among institutions with similar attitudes and practices in intercollegiate football competition.&quot; With that statement, the Centennial Conference was born.&quot;</text>
+</context>
+<context>
+	<score>0.50743514</score>
+	<text>Eleven highly selective private colleges compose the Centennial Conference. Most institutions are renowned nationally for their traditions in higher education excellence, each with impressive academic histories.</text>
+</context>
+<context>
+	<score>0.49242303</score>
+	<text>[ edit ] Conference Background</text>
+</context>
+<context>
+	<score>0.46247977</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46037945</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.45477846</score>
+	<text>The Centennial Conference is an athletic conference which competes in the NCAA &apos;s Division III . Member teams are located in Maryland and Pennsylvania . Since 1981 the &quot;Centennial Conference&quot; has been considered the nation&apos;s elite small colleges athletic conference.</text>
+</context>
+<context>
+	<score>0.45252362</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable"><tr><th>Institution</th><th>Location</th><th>Founded</th><th>Enrollment</th><th>Affiliation</th><th>Joined</th><th>Nickname</th></tr><tr><td><a href="../../../../articles/b/r/y/Bryn_Mawr_College_8219.html" title="Bryn Mawr College">Bryn Mawr College</a></td><td><a href="../../../../articles/b/r/y/Bryn_Mawr%2C_Pennsylvania_a4fd.html" title="Bryn Mawr, Pennsylvania">Bryn Mawr, PA</a></td><td>1885</td><td>1,890</td><td>Private</td><td>1992</td><td>Owls</td></tr><tr><td><a href="../../../../articles/d/i/c/Dickinson_College_23d7.html" title="Dickinson College">Dickinson College</a></td><td><a href="../../../../articles/c/a/r/Carlisle%2C_PA_1640.html" class="mw-redirect" title="Carlisle, PA">Carlisle, PA</a></td><td>1783</td><td>2,381</td><td>Private</td><td>1981</td><td>Red Devils</td></tr><tr><td><a href="../../../../articles/f/r/a/Franklin_%26_Marshall_College_7ac5.html" title="Franklin &amp; Marshall College">Franklin &amp; Marshall College</a></td><td><a href="../../../../articles/l/a/n/Lancaster%2C_PA_4055.html" class="mw-redirect" title="Lancaster, PA">Lancaster, PA</a></td><td>1787</td><td>2,104</td><td>Private</td><td>1981</td><td>Diplomats</td></tr><tr><td><a href="../../../../articles/g/e/t/Gettysburg_College_e855.html" title="Gettysburg College">Gettysburg College</a></td><td><a href="../../../../articles/g/e/t/Gettysburg%2C_PA_ac45.html" class="mw-redirect" title="Gettysburg, PA">Gettysburg, PA</a></td><td>1832</td><td>2,497</td><td>Private/Lutheran</td><td>1981</td><td>Bullets</td></tr><tr><td><a href="../../../../articles/h/a/v/Haverford_College_1d5b.html" title="Haverford College">Haverford College</a></td><td><a href="../../../../articles/h/a/v/Haverford%2C_PA_545f.html" class="mw-redirect" title="Haverford, PA">Haverford, PA</a></td><td>1833</td><td>1,169</td><td>Private</td><td>1992</td><td>Black Squirrels</td></tr><tr><td><a href="../../../../articles/j/o/h/Johns_Hopkins_University_14b6.html" title="Johns Hopkins University">Johns Hopkins University</a></td><td><a href="../../../../articles/b/a/l/Baltimore%2C_MD_ff95.html" class="mw-redirect" title="Baltimore, MD">Baltimore, MD</a></td><td>1876</td><td>4,478</td><td>Private</td><td>1981</td><td>Blue Jays</td></tr><tr><td><a href="../../../../articles/m/c/d/McDaniel_College_e119.html" title="McDaniel College">McDaniel College</a></td><td><a href="../../../../articles/w/e/s/Westminster%2C_MD_1eba.html" class="mw-redirect" title="Westminster, MD">Westminster, MD</a></td><td>1867</td><td>3,641</td><td>Private</td><td>1981</td><td>Green Terror</td></tr><tr><td><a href="../../../../articles/m/u/h/Muhlenberg_College_768f.html" title="Muhlenberg College">Muhlenberg College</a></td><td><a href="../../../../articles/a/l/l/Allentown%2C_PA_e627.html" class="mw-redirect" title="Allentown, PA">Allentown, PA</a></td><td>1848</td><td>2,457</td><td>Private/Lutheran</td><td>1992</td><td>Mules</td></tr><tr><td><a href="../../../../articles/s/w/a/Swarthmore_College_d010.html" title="Swarthmore College">Swarthmore College</a></td><td><a href="../../../../articles/s/w/a/Swarthmore%2C_PA_8731.html" class="mw-redirect" title="Swarthmore, PA">Swarthmore, PA</a></td><td>1864</td><td>1,491</td><td>Private</td><td>1981</td><td>Garnet</td></tr><tr><td><a href="../../../../articles/u/r/s/Ursinus_College_baf7.html" title="Ursinus College">Ursinus College</a></td><td><a href="../../../../articles/c/o/l/Collegeville%2C_PA_97c2.html" class="mw-redirect" title="Collegeville, PA">Collegeville, PA</a></td><td>1869</td><td>1,583</td><td>Private</td><td>1981</td><td>Bears</td></tr><tr><td><a href="../../../../articles/w/a/s/Washington_College_dc44.html" title="Washington College">Washington College</a></td><td><a href="../../../../articles/c/h/e/Chestertown%2C_MD_8758.html" class="mw-redirect" title="Chestertown, MD">Chestertown, MD</a></td><td>1782</td><td>1,285</td><td>Private</td><td>1981</td><td>Shoremen, Shorewomen</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r21/w/r/v/WRVL_ec77.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.43650794 3, 0.36375663 3 4, 0.32738096 3 5, 0.13333334 1 2, 0.12063493 1, 0.11666667 0, 0.11666667 0 2, 0.11058202 1 3, 0.10694445 0 3, 0.100529104 1 4, 0.097222224 0 4, 0.0904762 1 5, 0.0875 0 5, 0.03968254 4, 0.035714287 5, 0.029761905 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/w/r/v/WRVL_ec77.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W284BC</td>]]></html>
+	<text>W284BC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104.7</td>]]></html>
+	<text>104.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waldorf, Maryland</td>]]></html>
+	<text>Waldorf, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W236BO</td>]]></html>
+	<text>W236BO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.1</td>]]></html>
+	<text>95.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burlington, North Carolina</td>]]></html>
+	<text>Burlington, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 watts</td>]]></html>
+	<text>6 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W253AZ</td>]]></html>
+	<text>W253AZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98.5</td>]]></html>
+	<text>98.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Creedmoor, North Carolina</td>]]></html>
+	<text>Creedmoor, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40 watts</td>]]></html>
+	<text>40 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W279BW</td>]]></html>
+	<text>W279BW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.7</td>]]></html>
+	<text>103.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roxboro, North Carolina</td>]]></html>
+	<text>Roxboro, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W273BD</td>]]></html>
+	<text>W273BD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.5</td>]]></html>
+	<text>102.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winston-Salem, North Carolina</td>]]></html>
+	<text>Winston-Salem, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 watts</td>]]></html>
+	<text>4 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W210BY</td>]]></html>
+	<text>W210BY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.9</td>]]></html>
+	<text>89.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aquia Harbour, Virginia</td>]]></html>
+	<text>Aquia Harbour, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 watts</td>]]></html>
+	<text>5 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W274AV</td>]]></html>
+	<text>W274AV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.7</td>]]></html>
+	<text>102.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashland, Virginia</td>]]></html>
+	<text>Ashland, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 watts</td>]]></html>
+	<text>14 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W211CB</td>]]></html>
+	<text>W211CB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.1</td>]]></html>
+	<text>90.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Berryville, Virginia</td>]]></html>
+	<text>Berryville, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 watts</td>]]></html>
+	<text>3 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W245BG</td>]]></html>
+	<text>W245BG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96.9</td>]]></html>
+	<text>96.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cave Spring, Virginia</td>]]></html>
+	<text>Cave Spring, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W217BR</td>]]></html>
+	<text>W217BR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.3</td>]]></html>
+	<text>91.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chantilly, Virginia</td>]]></html>
+	<text>Chantilly, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W244BP</td>]]></html>
+	<text>W244BP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96.7</td>]]></html>
+	<text>96.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlottesville, Virginia</td>]]></html>
+	<text>Charlottesville, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W278BF</td>]]></html>
+	<text>W278BF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.5</td>]]></html>
+	<text>103.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Covington, Virginia</td>]]></html>
+	<text>Covington, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W237CA</td>]]></html>
+	<text>W237CA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.3</td>]]></html>
+	<text>95.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Culpeper, Virginia</td>]]></html>
+	<text>Culpeper, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 watts</td>]]></html>
+	<text>19 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W282BH</td>]]></html>
+	<text>W282BH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104.3</td>]]></html>
+	<text>104.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Danville, Virginia</td>]]></html>
+	<text>Danville, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>155 watts</td>]]></html>
+	<text>155 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W267BA</td>]]></html>
+	<text>W267BA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101.3</td>]]></html>
+	<text>101.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harrisonburg, Virginia</td>]]></html>
+	<text>Harrisonburg, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W286BN</td>]]></html>
+	<text>W286BN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.1</td>]]></html>
+	<text>105.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marion, Virginia</td>]]></html>
+	<text>Marion, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W295BF</td>]]></html>
+	<text>W295BF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.9</td>]]></html>
+	<text>106.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Midlothian, Virginia</td>]]></html>
+	<text>Midlothian, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W293AS</td>]]></html>
+	<text>W293AS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.5</td>]]></html>
+	<text>106.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pulaski, Virginia</td>]]></html>
+	<text>Pulaski, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W235AI</td>]]></html>
+	<text>W235AI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94.9</td>]]></html>
+	<text>94.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richmond, Virginia</td>]]></html>
+	<text>Richmond, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 watts</td>]]></html>
+	<text>16 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W293AX</td>]]></html>
+	<text>W293AX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.5</td>]]></html>
+	<text>106.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roanoke, Virginia</td>]]></html>
+	<text>Roanoke, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W279AN</td>]]></html>
+	<text>W279AN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.7</td>]]></html>
+	<text>103.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Boston, Virginia</td>]]></html>
+	<text>South Boston, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>WRVL - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>In addition to the main station, WRVL is relayed by an additional 26 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.8103083</score>
+	<text>WRVL</text>
+</context>
+<context>
+	<score>0.7924609</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.76078576</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7447322</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7447322</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7141367</score>
+	<text>WRVL is a radio station broadcasting Christian music format. Licensed to Lynchburg, Virginia , USA, it serves Virginia. The station is currently owned by Liberty University .</text>
+</context>
+<context>
+	<score>0.6693246</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.619197</score>
+	<text>WRVL</text>
+</context>
+<context>
+	<score>0.61257255</score>
+	<text>This article about a radio station in Virginia is a stub . You can help by expanding it .</text>
+</context>
+<context>
+	<score>0.52538836</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>W284BC</b></td><td>104.7</td><td><a href="../../../../articles/w/a/l/Waldorf%2C_Maryland_f700.html" title="Waldorf, Maryland">Waldorf, Maryland</a></td><td>10 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W284BC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W284BC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W284BC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W284BC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W236BO</b></td><td>95.1</td><td><a href="../../../../articles/b/u/r/Burlington%2C_North_Carolina_2612.html" title="Burlington, North Carolina">Burlington, North Carolina</a></td><td>6 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W236BO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W236BO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W236BO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W236BO" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W253AZ</b></td><td>98.5</td><td><a href="../../../../articles/c/r/e/Creedmoor%2C_North_Carolina_ba22.html" title="Creedmoor, North Carolina">Creedmoor, North Carolina</a></td><td>40 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W253AZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W253AZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W253AZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W253AZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W279BW</b></td><td>103.7</td><td><a href="../../../../articles/r/o/x/Roxboro%2C_North_Carolina_0592.html" title="Roxboro, North Carolina">Roxboro, North Carolina</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W279BW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W279BW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279BW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279BW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W273BD</b></td><td>102.5</td><td><a href="../../../../articles/w/i/n/Winston-Salem%2C_North_Carolina_ae0f.html" title="Winston-Salem, North Carolina">Winston-Salem, North Carolina</a></td><td>4 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W273BD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W273BD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W273BD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W273BD" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W210BY</b></td><td>89.9</td><td><a href="../../../../articles/a/q/u/Aquia_Harbour%2C_Virginia_946a.html" title="Aquia Harbour, Virginia">Aquia Harbour, Virginia</a></td><td>5 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W210BY" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W210BY" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W210BY" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W210BY" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W274AV</b></td><td>102.7</td><td><a href="../../../../articles/a/s/h/Ashland%2C_Virginia_9e7a.html" title="Ashland, Virginia">Ashland, Virginia</a></td><td>14 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W274AV" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W274AV" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W274AV" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W274AV" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W211CB</b></td><td>90.1</td><td><a href="../../../../articles/b/e/r/Berryville%2C_Virginia_7dbd.html" title="Berryville, Virginia">Berryville, Virginia</a></td><td>3 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W211CB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W211CB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W211CB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W211CB" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W245BG</b></td><td>96.9</td><td><a href="../../../../articles/c/a/v/Cave_Spring%2C_Virginia_6f06.html" title="Cave Spring, Virginia">Cave Spring, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W245BG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W245BG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W245BG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W245BG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W217BR</b></td><td>91.3</td><td><a href="../../../../articles/c/h/a/Chantilly%2C_Virginia_4ee1.html" title="Chantilly, Virginia">Chantilly, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W217BR" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W217BR" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W217BR" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W217BR" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W244BP</b></td><td>96.7</td><td><a href="../../../../articles/c/h/a/Charlottesville%2C_Virginia_400c.html" title="Charlottesville, Virginia">Charlottesville, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W244BP" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W244BP" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W244BP" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W244BP" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W278BF</b></td><td>103.5</td><td><a href="../../../../articles/c/o/v/Covington%2C_Virginia_6c9a.html" title="Covington, Virginia">Covington, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W278BF" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W278BF" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W278BF" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W278BF" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W237CA</b></td><td>95.3</td><td><a href="../../../../articles/c/u/l/Culpeper%2C_Virginia_8fce.html" title="Culpeper, Virginia">Culpeper, Virginia</a></td><td>19 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W237CA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W237CA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237CA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237CA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W282BH</b></td><td>104.3</td><td><a href="../../../../articles/d/a/n/Danville%2C_Virginia_d52f.html" title="Danville, Virginia">Danville, Virginia</a></td><td>155 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W282BH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W282BH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W282BH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W282BH" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W267BA</b></td><td>101.3</td><td><a href="../../../../articles/h/a/r/Harrisonburg%2C_Virginia_9898.html" title="Harrisonburg, Virginia">Harrisonburg, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W267BA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W267BA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W267BA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W267BA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W286BN</b></td><td>105.1</td><td><a href="../../../../articles/m/a/r/Marion%2C_Virginia_4d9f.html" title="Marion, Virginia">Marion, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W286BN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W286BN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W286BN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W286BN" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W295BF</b></td><td>106.9</td><td><a href="../../../../articles/m/i/d/Midlothian%2C_Virginia_3a88.html" title="Midlothian, Virginia">Midlothian, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W295BF" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W295BF" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W295BF" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W295BF" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W293AS</b></td><td>106.5</td><td><a href="../../../../articles/p/u/l/Pulaski%2C_Virginia_8f65.html" title="Pulaski, Virginia">Pulaski, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W293AS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W293AS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W293AS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W293AS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W235AI</b></td><td>94.9</td><td><a href="../../../../articles/r/i/c/Richmond%2C_Virginia_2b80.html" title="Richmond, Virginia">Richmond, Virginia</a></td><td>16 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W235AI" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W235AI" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W235AI" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W235AI" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W293AX</b></td><td>106.5</td><td><a href="../../../../articles/r/o/a/Roanoke%2C_Virginia_dcee.html" title="Roanoke, Virginia">Roanoke, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W293AX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W293AX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W293AX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W293AX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W279AN</b></td><td>103.7</td><td><a href="../../../../articles/s/o/u/South_Boston%2C_Virginia_01ca.html" title="South Boston, Virginia">South Boston, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W279AN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W279AN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AN" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

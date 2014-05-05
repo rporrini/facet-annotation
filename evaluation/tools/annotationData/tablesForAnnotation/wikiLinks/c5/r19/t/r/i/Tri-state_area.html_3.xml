@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r19/t/r/i/Tri-state_area.html_3.xml" />
+<meta name="primaryKey" value="0.8 0 2, 0.71999997 1 2, 0.63 1 3, 0.6157895 0 1, 0.51578945 0 3, 0.5052632 0 4, 0.50526315 2, 0.5010526 2 3, 0.44210523 3, 0.4294737 2 4, 0.4263158 1 4, 0.42631578 1, 0.42105263 0, 0.37894738 4, 0.3757895 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/i/Tri-state_area.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province 1</th>]]></html>
+	<text>Province 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Province 2</th>]]></html>
+	<text>Province 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 1</th>]]></html>
+	<text>State 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 2</th>]]></html>
+	<text>State 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yukon Territory</td>]]></html>
+	<text>Yukon Territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Continental Divide crosses the border at this point</td>]]></html>
+	<text>The Continental Divide crosses the border at this point</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Directly north of Minot, ND</td>]]></html>
+	<text>Directly north of Minot, ND</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roughly midway between Winnipeg and Grand Forks or Fargo, ND</td>]]></html>
+	<text>Roughly midway between Winnipeg and Grand Forks or Fargo, ND</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>At the Northwest Angle , northernmost point in the Continental United States ; international border diverges from 49th parallel .</td>]]></html>
+	<text>At the Northwest Angle , northernmost point in the Continental United States ; international border diverges from 49th parallel .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan and Minnesota's boundaries converge in Lake Superior and thus Wisconsin does not officially border Canada; Tri-point in Lake Superior near Thunder Bay, Ontario</td>]]></html>
+	<text>Michigan and Minnesota&amp;apos;s boundaries converge in Lake Superior and thus Wisconsin does not officially border Canada; Tri-point in Lake Superior near Thunder Bay, Ontario</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In Lake Erie , near Detroit , Toledo, Ohio , or Windsor, Ontario .</td>]]></html>
+	<text>In Lake Erie , near Detroit , Toledo, Ohio , or Windsor, Ontario .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In Lake Erie . Ohio/Pennsylvania and Ontario are on opposite shores of Lake Erie and do not share convenient border crossings. The OH/ON and PA/ON boundaries and tripoints are therefore of little practical significance.</td>]]></html>
+	<text>In Lake Erie . Ohio/Pennsylvania and Ontario are on opposite shores of Lake Erie and do not share convenient border crossings. The OH/ON and PA/ON boundaries and tripoints are therefore of little practical significance.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In eastern Lake Erie near Erie, PA</td>]]></html>
+	<text>In eastern Lake Erie near Erie, PA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South of Ottawa or Cornwall, Ontario , in the St. Lawrence River</td>]]></html>
+	<text>South of Ottawa or Cornwall, Ontario , in the St. Lawrence River</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South of Montreal</td>]]></html>
+	<text>South of Montreal</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Brunswick</td>]]></html>
+	<text>New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Brunswick</td>]]></html>
+	<text>New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In the Bay of Fundy . Location is poorly defined and of very little practical significance.</td>]]></html>
+	<text>In the Bay of Fundy . Location is poorly defined and of very little practical significance.</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tri-state area - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province 1 Province 2 State 1 State 2 Notes</text>
+</context>
+<context>
+	<score>0.88457173</score>
+	<text>There are 18 tripoints between 1 US state and 2 Canadian provinces or 2 US states and 1 Canadian province.</text>
+</context>
+<context>
+	<score>0.79501057</score>
+	<text>Tri-state area</text>
+</context>
+<context>
+	<score>0.7866664</score>
+	<text>[ edit ] Other Tripoints</text>
+</context>
+<context>
+	<score>0.7549912</score>
+	<text>There are 8 tripoints between 1 US state and 2 Mexican states or 2 US states and 1 Mexican state.</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] Other Tripoints</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7236398</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71668637</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>The following tri-state areas are also notable, but have no tripoint:</text>
+</context>
+<context>
+	<score>0.6456827</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.60677797</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5886016</score>
+	<text>There are another 24 places where the tripoint is under water:</text>
+</context>
+<context>
+	<score>0.55545306</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.5195938</score>
+	<text>^ Tri State Corners in the United States . Jack Parsell. ^ Tri-State Peak at Cumberland Gap National Historical Park</text>
+</context>
+<context>
+	<score>0.5164179</score>
+	<text>They are:</text>
+</context>
+<context>
+	<score>0.49075264</score>
+	<text>Of the 62 points where three states join, there are 38 tripoints with markers on land in the United States.</text>
+</context>
+<context>
+	<score>0.4771739</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.46830893</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.45379457</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" width="85%"><tr><th width="15%">Province 1</th><th width="15%">Province 2</th><th width="15%">State 1</th><th width="15%">State 2</th><th width="55%">Notes</th></tr><tr><td><a href="../../../../articles/y/u/k/Yukon_Territory_2a75.html" class="mw-redirect" title="Yukon Territory">Yukon Territory</a></td><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td></td><td><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td></td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td></td><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td></td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td></td><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td></td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td></td><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td>The <a href="../../../../articles/c/o/n/Continental_Divide_203a.html" class="mw-redirect" title="Continental Divide">Continental Divide</a> crosses the border at this point</td></tr><tr><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td></td><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td></td></tr><tr><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td></td><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td></td></tr><tr><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td></td><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td>Directly north of <a href="../../../../articles/m/i/n/Minot%2C_North_Dakota_0a33.html" title="Minot, North Dakota">Minot, ND</a></td></tr><tr><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td></td><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>Roughly midway between <a href="../../../../articles/w/i/n/Winnipeg.html" title="Winnipeg">Winnipeg</a> and <a href="../../../../articles/g/r/a/Grand_Forks%2C_North_Dakota_c709.html" title="Grand Forks, North Dakota">Grand Forks</a> or <a href="../../../../articles/f/a/r/Fargo%2C_North_Dakota_bb73.html" title="Fargo, North Dakota">Fargo, ND</a></td></tr><tr><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td>At the <a href="../../../../articles/n/o/r/Northwest_Angle_c2c3.html" title="Northwest Angle">Northwest Angle</a>, northernmost point in the <a href="../../../../articles/c/o/n/Continental_United_States_c894.html" title="Continental United States">Continental United States</a>; international border diverges from <a href="../../../../articles/4/9/t/49th_parallel.html" title="49th parallel">49th parallel</a>.</td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td>Michigan and Minnesota's boundaries converge in <a href="../../../../articles/l/a/k/Lake_Superior_3a7f.html" title="Lake Superior">Lake Superior</a> and thus <a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a> does not officially border Canada; Tri-point in Lake Superior near <a href="../../../../articles/t/h/u/Thunder_Bay%2C_Ontario_b670.html" title="Thunder Bay, Ontario">Thunder Bay, Ontario</a></td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td></td><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td>In <a href="../../../../articles/l/a/k/Lake_Erie_5da4.html" title="Lake Erie">Lake Erie</a>, near <a href="../../../../articles/d/e/t/Detroit%2C_Michigan_ae78.html" title="Detroit, Michigan">Detroit</a>, <a href="../../../../articles/t/o/l/Toledo%2C_Ohio_6371.html" title="Toledo, Ohio">Toledo, Ohio</a>, or <a href="../../../../articles/w/i/n/Windsor%2C_Ontario_57c6.html" title="Windsor, Ontario">Windsor, Ontario</a>.</td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td></td><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>In <a href="../../../../articles/l/a/k/Lake_Erie_5da4.html" title="Lake Erie">Lake Erie</a>. Ohio/Pennsylvania and Ontario are on opposite shores of Lake Erie and do not share convenient border crossings. The OH/ON and PA/ON boundaries and tripoints are therefore of little practical significance.</td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>In eastern <a href="../../../../articles/l/a/k/Lake_Erie_5da4.html" title="Lake Erie">Lake Erie</a> near <a href="../../../../articles/e/r/i/Erie%2C_Pennsylvania_def2.html" title="Erie, Pennsylvania">Erie, PA</a></td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>South of <a href="../../../../articles/o/t/t/Ottawa.html" title="Ottawa">Ottawa</a> or <a href="../../../../articles/c/o/r/Cornwall%2C_Ontario_ac0c.html" title="Cornwall, Ontario">Cornwall, Ontario</a>, in the <a href="../../../../articles/s/t/2E/St._Lawrence_River_2b38.html" class="mw-redirect" title="St. Lawrence River">St. Lawrence River</a></td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td>South of <a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a></td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td></td><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td></td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td></td><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td></td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td><a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td></td><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td></td><td><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td>In the <a href="../../../../articles/b/a/y/Bay_of_Fundy_9eb7.html" title="Bay of Fundy">Bay of Fundy</a>. Location is poorly defined and of very little practical significance.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

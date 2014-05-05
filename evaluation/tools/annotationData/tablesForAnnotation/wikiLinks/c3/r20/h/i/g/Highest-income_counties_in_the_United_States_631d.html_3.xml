@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r20/h/i/g/Highest-income_counties_in_the_United_States_631d.html_3.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/h/i/g/Highest-income_counties_in_the_United_States_631d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Median Household Income</th>]]></html>
+	<text>Median Household Income</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fairfax County, Virginia</td>]]></html>
+	<text>Fairfax County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$100,318</td>]]></html>
+	<text>$100,318</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Loudoun County, Virginia</td>]]></html>
+	<text>Loudoun County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$99,371</td>]]></html>
+	<text>$99,371</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Howard County, Maryland</td>]]></html>
+	<text>Howard County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$94,260</td>]]></html>
+	<text>$94,260</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hunterdon County, New Jersey</td>]]></html>
+	<text>Hunterdon County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$93,297</td>]]></html>
+	<text>$93,297</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Douglas County, Colorado</td>]]></html>
+	<text>Douglas County, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$92,125</td>]]></html>
+	<text>$92,125</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Somerset County, New Jersey</td>]]></html>
+	<text>Somerset County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$91,688</td>]]></html>
+	<text>$91,688</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Morris County, New Jersey</td>]]></html>
+	<text>Morris County, New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$89,587</td>]]></html>
+	<text>$89,587</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montgomery County, Maryland</td>]]></html>
+	<text>Montgomery County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$87,624</td>]]></html>
+	<text>$87,624</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arlington County, Virginia</td>]]></html>
+	<text>Arlington County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$87,350</td>]]></html>
+	<text>$87,350</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nassau County, New York</td>]]></html>
+	<text>Nassau County, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$85,994</td>]]></html>
+	<text>$85,994</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marin County, California</td>]]></html>
+	<text>Marin County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$85,892</td>]]></html>
+	<text>$85,892</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stafford County, Virginia</td>]]></html>
+	<text>Stafford County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$85,014</td>]]></html>
+	<text>$85,014</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calvert County, Maryland</td>]]></html>
+	<text>Calvert County, Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$84,891</td>]]></html>
+	<text>$84,891</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Clara County, California</td>]]></html>
+	<text>Santa Clara County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$84,838</td>]]></html>
+	<text>$84,838</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Forsyth County, Georgia</td>]]></html>
+	<text>Forsyth County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$83,682</td>]]></html>
+	<text>$83,682</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Mateo County, California</td>]]></html>
+	<text>San Mateo County, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$82,123</td>]]></html>
+	<text>$82,123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Putnam County, New York</td>]]></html>
+	<text>Putnam County, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$81,907</td>]]></html>
+	<text>$81,907</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Williamson County, Tennessee</td>]]></html>
+	<text>Williamson County, Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$81,449</td>]]></html>
+	<text>$81,449</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Prince William County, Virginia</td>]]></html>
+	<text>Prince William County, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$80,783</td>]]></html>
+	<text>$80,783</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alexandria City, Virginia</td>]]></html>
+	<text>Alexandria City, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$80,449</td>]]></html>
+	<text>$80,449</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Highest-income counties in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank County Median Household Income</text>
+</context>
+<context>
+	<score>0.8787399</score>
+	<text>Number of counties by state in the top 20 : Virginia 6, Maryland 3, New Jersey 3, California 3, New York 2, Colorado 1, Georgia 1, Tennessee 1. Forty-two states do not have any counties in the top 20.</text>
+</context>
+<context>
+	<score>0.7955113</score>
+	<text>Highest-income counties in the United States</text>
+</context>
+<context>
+	<score>0.7817317</score>
+	<text>Source: US Census Bureau: 2006 Census</text>
+</context>
+<context>
+	<score>0.7561766</score>
+	<text>[ edit ] Highest-income counties and places by state</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] 100 highest-income counties by per capita income [1]</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] 50 highest-income counties by personal per capita income [2]</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] 100 highest-income counties by median household income (2000) [1]</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] 20 highest-income counties by median household income (2006) [3]</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] Highest-income counties and places by state</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7237346</score>
+	<text>[ edit ] Notes and References</text>
+</context>
+<context>
+	<score>0.7179048</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7099551</score>
+	<text>[ edit ] 20 highest-income counties by median household income (2006) [3]</text>
+</context>
+<context>
+	<score>0.6420401</score>
+	<text>United States of America: $41,994</text>
+</context>
+<context>
+	<score>0.60349196</score>
+	<text>To see more detailed lists of rankings of counties and places in individual states, see the following pages:</text>
+</context>
+<context>
+	<score>0.59237194</score>
+	<text>Number of counties by state in the top 100 : Virginia 15, Maryland 9, California 8, New Jersey 8, Colorado 6, Georgia 6, Illinois 6, Minnesota 5, New York 5, Texas 5, Alaska 3, Connecticut 3, Ohio 3, Pennsylvania 3, Wisconsin 3, Massachusetts 2, Michigan 2, Indiana 1, Kansas 1, Kentucky 1, Missouri 1, New Hampshire 1, New Mexico 1, Tennessee 1, Utah 1. Twenty-five states do not have any counties in the top 100.</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Source: US Census Bureau: 2000 Census</text>
+</context>
+<context>
+	<score>0.5229366</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5208498</score>
+	<text>100 highest counties by median household income</text>
+</context>
+<context>
+	<score>0.4954197</score>
+	<text>Number of counties by state in the top 100</text>
+</context>
+<context>
+	<score>0.48090544</score>
+	<text>[ edit ] 100 highest-income counties by median household income (2000) [1]</text>
+</context>
+<context>
+	<score>0.47212178</score>
+	<text>[ edit ] US related topics</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>Number of counties by state in the top 50 : Virginia 6, California 5, New Jersey 5, Colorado 3, Florida 3, Maryland 3, Massachusetts 3, New York 3, Illinois 2, Pennsylvania 2, Alaska 1, Connecticut 1, District of Columbia 1, Georgia 1, Idaho 1, Kansas 1, Michigan 1, Minnesota 1, Nevada 1, New Mexico 1, South Dakota 1, Tennessee 1, Texas 1, Utah 1, Washington 1, Wisconsin 1, Wyoming 1. Twenty-four states do not have any counties in the top 50.</text>
+</context>
+<context>
+	<score>0.45160997</score>
+	<text>[ edit ] 50 highest-income counties by personal per capita income [2]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table align="center" cellpadding="4" cellspacing="0" style="border: 1px solid #aaa; border-collapse: collapse;"><tr style="background:#efefef;"><th>Rank</th><th>County</th><th>Median<br />Household<br />Income</th></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>1</b></td><td><a href="../../../../articles/f/a/i/Fairfax_County%2C_Virginia_71ab.html" title="Fairfax County, Virginia">Fairfax County, Virginia</a></td><td>$100,318</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>2</b></td><td><a href="../../../../articles/l/o/u/Loudoun_County%2C_Virginia_65b4.html" title="Loudoun County, Virginia">Loudoun County, Virginia</a></td><td>$99,371</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>3</b></td><td><a href="../../../../articles/h/o/w/Howard_County%2C_Maryland_b2b8.html" title="Howard County, Maryland">Howard County, Maryland</a></td><td>$94,260</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>4</b></td><td><a href="../../../../articles/h/u/n/Hunterdon_County%2C_New_Jersey_5c2c.html" title="Hunterdon County, New Jersey">Hunterdon County, New Jersey</a></td><td>$93,297</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>5</b></td><td><a href="../../../../articles/d/o/u/Douglas_County%2C_Colorado_a8ab.html" title="Douglas County, Colorado">Douglas County, Colorado</a></td><td>$92,125</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>6</b></td><td><a href="../../../../articles/s/o/m/Somerset_County%2C_New_Jersey_4d9b.html" title="Somerset County, New Jersey">Somerset County, New Jersey</a></td><td>$91,688</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>7</b></td><td><a href="../../../../articles/m/o/r/Morris_County%2C_New_Jersey_03e2.html" title="Morris County, New Jersey">Morris County, New Jersey</a></td><td>$89,587</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>8</b></td><td><a href="../../../../articles/m/o/n/Montgomery_County%2C_Maryland_ce0d.html" title="Montgomery County, Maryland">Montgomery County, Maryland</a></td><td>$87,624</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>9</b></td><td><a href="../../../../articles/a/r/l/Arlington_County%2C_Virginia_922a.html" title="Arlington County, Virginia">Arlington County, Virginia</a></td><td>$87,350</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>10</b></td><td><a href="../../../../articles/n/a/s/Nassau_County%2C_New_York_358d.html" title="Nassau County, New York">Nassau County, New York</a></td><td>$85,994</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>11</b></td><td><a href="../../../../articles/m/a/r/Marin_County%2C_California_9e00.html" title="Marin County, California">Marin County, California</a></td><td>$85,892</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>12</b></td><td><a href="../../../../articles/s/t/a/Stafford_County%2C_Virginia_6adc.html" title="Stafford County, Virginia">Stafford County, Virginia</a></td><td>$85,014</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>13</b></td><td><a href="../../../../articles/c/a/l/Calvert_County%2C_Maryland_9023.html" title="Calvert County, Maryland">Calvert County, Maryland</a></td><td>$84,891</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>14</b></td><td><a href="../../../../articles/s/a/n/Santa_Clara_County%2C_California_7af1.html" title="Santa Clara County, California">Santa Clara County, California</a></td><td>$84,838</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>15</b></td><td><a href="../../../../articles/f/o/r/Forsyth_County%2C_Georgia_89d2.html" title="Forsyth County, Georgia">Forsyth County, Georgia</a></td><td>$83,682</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>16</b></td><td><a href="../../../../articles/s/a/n/San_Mateo_County%2C_California_36e8.html" title="San Mateo County, California">San Mateo County, California</a></td><td>$82,123</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>17</b></td><td><a href="../../../../articles/p/u/t/Putnam_County%2C_New_York_7fd0.html" title="Putnam County, New York">Putnam County, New York</a></td><td>$81,907</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>18</b></td><td><a href="../../../../articles/w/i/l/Williamson_County%2C_Tennessee_0952.html" title="Williamson County, Tennessee">Williamson County, Tennessee</a></td><td>$81,449</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>19</b></td><td><a href="../../../../articles/p/r/i/Prince_William_County%2C_Virginia_2940.html" title="Prince William County, Virginia">Prince William County, Virginia</a></td><td>$80,783</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>20</b></td><td><a href="../../../../articles/a/l/e/Alexandria%2C_Virginia_fe7e.html" title="Alexandria, Virginia">Alexandria City, Virginia</a></td><td>$80,449</td></tr></table>]]>
+</htmlSnippet>
+</entity>

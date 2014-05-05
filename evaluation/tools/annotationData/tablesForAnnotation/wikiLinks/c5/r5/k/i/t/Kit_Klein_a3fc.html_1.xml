@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/k/i/t/Kit_Klein_a3fc.html_1.xml" />
+<meta name="primaryKey" value="0.6 3, 0.16000001 1, 0.16000001 1 3, 0.144 2, 0.144 2 3, 0.14 4, 0.14 3 4, 0.120000005 0, 0.120000005 0 3, 0.028800001 1 2, 0.025199998 2 4, 0.022400001 1 4, 0.0216 0 2, 0.019200003 0 1, 0.0168 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/k/i/t/Kit_Klein_a3fc.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Event</th>]]></html>
+	<text>Event</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>WR</th>]]></html>
+	<text>WR</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>500 m</td>]]></html>
+	<text>500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49.8</td>]]></html>
+	<text>49.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 March 1935</td>]]></html>
+	<text>1 March 1935</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kongsberg</td>]]></html>
+	<text>Kongsberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49.3</td>]]></html>
+	<text>49.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,000 m</td>]]></html>
+	<text>1,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:42.3</td>]]></html>
+	<text>1:42.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 March 1935</td>]]></html>
+	<text>1 March 1935</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kongsberg</td>]]></html>
+	<text>Kongsberg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:45.7</td>]]></html>
+	<text>1:45.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,500 m</td>]]></html>
+	<text>1,500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:47.4</td>]]></html>
+	<text>2:47.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 January 1936</td>]]></html>
+	<text>19 January 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo</td>]]></html>
+	<text>Oslo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2:40.0</td>]]></html>
+	<text>2:40.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3,000 m</td>]]></html>
+	<text>3,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:12.0</td>]]></html>
+	<text>6:12.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 February 1936</td>]]></html>
+	<text>1 February 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stockholm</td>]]></html>
+	<text>Stockholm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:22.4</td>]]></html>
+	<text>6:22.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5,000 m</td>]]></html>
+	<text>5,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10:18.0</td>]]></html>
+	<text>10:18.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 February 1936</td>]]></html>
+	<text>2 February 1936</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stockholm</td>]]></html>
+	<text>Stockholm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10:54.8</td>]]></html>
+	<text>10:54.8</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Kit Klein - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Event Result Date Venue WR</text>
+</context>
+<context>
+	<score>0.87838566</score>
+	<text>To put these personal records in perspective, the WR column lists the official world records on the dates that Klein skated her personal records.</text>
+</context>
+<context>
+	<score>0.79798514</score>
+	<text>Kit Klein</text>
+</context>
+<context>
+	<score>0.7867246</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.75524795</score>
+	<text>Note that Klein&apos;s personal record on the 5,000 m was not a world record because Vern Lesche skated 10:15.3 at the same tournament.</text>
+</context>
+<context>
+	<score>0.72578233</score>
+	<text>[ edit ] Short biography</text>
+</context>
+<context>
+	<score>0.72578233</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.72578233</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.72578233</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.72578233</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.720152</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70889145</score>
+	<text>Over the course of her career, Klein skated two world records :</text>
+</context>
+<context>
+	<score>0.6466249</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.6079642</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5968117</score>
+	<text>During the 1932 Winter Olympics, one of Klein&apos;s toughest opponents was Canadian skater Jean Wilson, who took gold on the 500 m and silver on the 1,500 m. The following year, Jean Wilson died from a progressive muscular disease, only 23 years old. The Jean Wilson Memorial Trophy mentioned above was named after her.</text>
+</context>
+<context>
+	<score>0.5513308</score>
+	<text>In addition, Klein won the following championships, amongst others:</text>
+</context>
+<context>
+	<score>0.5250807</score>
+	<text>An overview of medals won by Klein at important championships she participated in, listing the years in which she won each. Note that the World Allround Championships of 1935 were unofficial. Also note that speed skating for women was a demonstration sport at the 1932 Winter Olympics of Lake Placid . The medals related to these unofficial and demonstration events are in italics .</text>
+</context>
+<context>
+	<score>0.5213267</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4995763</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.47917283</score>
+	<text>Klein-Outland was inducted in the National Speedskating Hall of Fame in 1964, and posthumously in both the International Women&apos;s Sports Hall of Fame and the Greater Buffalo Sports Hall of Fame in 1993.</text>
+</context>
+<context>
+	<score>0.46285003</score>
+	<text>After the 1936 Winter Olympics , Klein toured Europe before sailing home. During the voyage home Klein actually threw her skates overboard to mark her retirement from competitive skating. Towards the end 1936, she married Dr. Thomas &quot;Tom&quot; Outland of Sayre, Pennsylvania and the couple settled down in Harrisburg, Pennsylvania . For a while, Klein toured around North America with the Ice Follies skating show. After her husband&apos;s retirement in 1967, they moved to Holmes Beach, Florida , where Catherine &quot;Kit&quot; Klein-Outland died in 1985 at the age of 75.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Event</th><th>Result</th><th>Date</th><th>Venue</th><th>WR</th></tr><tr align="right"><td>500 m</td><td>49.8</td><td><a href="../../../../articles/m/a/r/March_1.html" title="March 1">1 March</a> <a href="../../../../articles/1/9/3/1935.html" title="1935">1935</a></td><td align="left"><a href="../../../../articles/k/o/n/Kongsberg.html" title="Kongsberg">Kongsberg</a></td><td>49.3</td></tr><tr align="right"><td>1,000 m</td><td>1:42.3</td><td><a href="../../../../articles/m/a/r/March_1.html" title="March 1">1 March</a> <a href="../../../../articles/1/9/3/1935.html" title="1935">1935</a></td><td align="left"><a href="../../../../articles/k/o/n/Kongsberg.html" title="Kongsberg">Kongsberg</a></td><td>1:45.7</td></tr><tr align="right"><td>1,500 m</td><td>2:47.4</td><td><a href="../../../../articles/j/a/n/January_19.html" title="January 19">19 January</a> <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td align="left"><a href="../../../../articles/o/s/l/Oslo.html" title="Oslo">Oslo</a></td><td>2:40.0</td></tr><tr align="right"><td>3,000 m</td><td>6:12.0</td><td><a href="../../../../articles/f/e/b/February_1.html" title="February 1">1 February</a> <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td align="left"><a href="../../../../articles/s/t/o/Stockholm.html" title="Stockholm">Stockholm</a></td><td>6:22.4</td></tr><tr align="right"><td>5,000 m</td><td>10:18.0</td><td><a href="../../../../articles/f/e/b/February_2.html" title="February 2">2 February</a> <a href="../../../../articles/1/9/3/1936.html" title="1936">1936</a></td><td align="left"><a href="../../../../articles/s/t/o/Stockholm.html" title="Stockholm">Stockholm</a></td><td>10:54.8</td></tr></table>]]>
+</htmlSnippet>
+</entity>

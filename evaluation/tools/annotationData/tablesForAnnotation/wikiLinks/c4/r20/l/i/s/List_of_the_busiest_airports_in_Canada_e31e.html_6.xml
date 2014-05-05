@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r20/l/i/s/List_of_the_busiest_airports_in_Canada_e31e.html_6.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.78749996 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_the_busiest_airports_in_Canada_e31e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport</th>]]></html>
+	<text>Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Aircraft Movements</th>]]></html>
+	<text>Aircraft Movements</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto Pearson International Airport</td>]]></html>
+	<text>Toronto Pearson International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto , Ontario</td>]]></html>
+	<text>Toronto , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>411,609</td>]]></html>
+	<text>411,609</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver International Airport</td>]]></html>
+	<text>Vancouver International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver , British Columbia</td>]]></html>
+	<text>Vancouver , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>322,986</td>]]></html>
+	<text>322,986</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calgary International Airport</td>]]></html>
+	<text>Calgary International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calgary , Alberta</td>]]></html>
+	<text>Calgary , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>233,129</td>]]></html>
+	<text>233,129</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montréal-Pierre Elliott Trudeau International Airport</td>]]></html>
+	<text>Montr&#233;al-Pierre Elliott Trudeau International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montreal , Quebec</td>]]></html>
+	<text>Montreal , Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>208,329</td>]]></html>
+	<text>208,329</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boundary Bay Airport</td>]]></html>
+	<text>Boundary Bay Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delta , British Columbia</td>]]></html>
+	<text>Delta , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>187,939</td>]]></html>
+	<text>187,939</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abbotsford International Airport</td>]]></html>
+	<text>Abbotsford International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abbotsford , British Columbia</td>]]></html>
+	<text>Abbotsford , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>153,217</td>]]></html>
+	<text>153,217</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Victoria International Airport</td>]]></html>
+	<text>Victoria International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Victoria , British Columbia</td>]]></html>
+	<text>Victoria , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150,634</td>]]></html>
+	<text>150,634</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ottawa Macdonald-Cartier International Airport</td>]]></html>
+	<text>Ottawa Macdonald-Cartier International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ottawa , Ontario</td>]]></html>
+	<text>Ottawa , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>149,321</td>]]></html>
+	<text>149,321</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto/Buttonville Municipal Airport</td>]]></html>
+	<text>Toronto/Buttonville Municipal Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Markham , Ontario</td>]]></html>
+	<text>Markham , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>147,705</td>]]></html>
+	<text>147,705</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winnipeg James Armstrong Richardson International Airport</td>]]></html>
+	<text>Winnipeg James Armstrong Richardson International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winnipeg , Manitoba</td>]]></html>
+	<text>Winnipeg , Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>136,936</td>]]></html>
+	<text>136,936</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calgary/Springbank Airport</td>]]></html>
+	<text>Calgary/Springbank Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calgary , Alberta</td>]]></html>
+	<text>Calgary , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>134,581</td>]]></html>
+	<text>134,581</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montréal/Saint-Hubert Airport</td>]]></html>
+	<text>Montr&#233;al/Saint-Hubert Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montreal , Quebec</td>]]></html>
+	<text>Montreal , Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>128,881</td>]]></html>
+	<text>128,881</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmonton International Airport</td>]]></html>
+	<text>Edmonton International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmonton , Alberta</td>]]></html>
+	<text>Edmonton , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115,840</td>]]></html>
+	<text>115,840</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Québec/Jean Lesage International Airport</td>]]></html>
+	<text>Qu&#233;bec/Jean Lesage International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec City , Quebec</td>]]></html>
+	<text>Quebec City , Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,367</td>]]></html>
+	<text>101,367</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Region of Waterloo International Airport</td>]]></html>
+	<text>Region of Waterloo International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waterloo , Ontario</td>]]></html>
+	<text>Waterloo , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,791</td>]]></html>
+	<text>100,791</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pitt Meadows Airport</td>]]></html>
+	<text>Pitt Meadows Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pitt Meadows , British Columbia</td>]]></html>
+	<text>Pitt Meadows , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,098</td>]]></html>
+	<text>100,098</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London International Airport</td>]]></html>
+	<text>London International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London , Ontario</td>]]></html>
+	<text>London , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,388</td>]]></html>
+	<text>92,388</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thunder Bay International Airport</td>]]></html>
+	<text>Thunder Bay International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thunder Bay , Ontario</td>]]></html>
+	<text>Thunder Bay , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,935</td>]]></html>
+	<text>91,935</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Halifax International Airport</td>]]></html>
+	<text>Halifax International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Halifax , Nova Scotia</td>]]></html>
+	<text>Halifax , Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>86,393</td>]]></html>
+	<text>86,393</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saskatoon/John G. Diefenbaker International Airport</td>]]></html>
+	<text>Saskatoon/John G. Diefenbaker International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saskatoon , Saskatchewan</td>]]></html>
+	<text>Saskatoon , Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>81,629</td>]]></html>
+	<text>81,629</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of the busiest airports in Canada - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Airport Location Aircraft Movements</text>
+</context>
+<context>
+	<score>0.88037145</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements [15]</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>List of the busiest airports in Canada</text>
+</context>
+<context>
+	<score>0.78064734</score>
+	<text>[ edit ] Comparison of the 5 busiest airports by domestic, transborder and international passenger traffic</text>
+</context>
+<context>
+	<score>0.7483837</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] 2007</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] 2006</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] 2005</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7164501</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71142364</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7008681</score>
+	<text>[ edit ] Comparison of 10 of Canada&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.6370448</score>
+	<text>[ edit ] 2005</text>
+</context>
+<context>
+	<score>0.5974174</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5859861</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements [15]</text>
+</context>
+<context>
+	<score>0.54513913</score>
+	<text>[ edit ] Comparison of the 5 busiest airports by domestic, transborder and international passenger traffic</text>
+</context>
+<context>
+	<score>0.5124616</score>
+	<text>[ edit ] Comparison of 10 of Canada&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.5086137</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.4863195</score>
+	<text>[ edit ] 2006</text>
+</context>
+<context>
+	<score>0.46540588</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements (FSS) [1]</text>
+</context>
+<context>
+	<score>0.45637625</score>
+	<text>Transportation in Canada 2005 Annual Report North American Transportation Statistics</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Rank</th><th>Airport</th><th>Location</th><th>Aircraft<br />Movements</th></tr><tr><td>1</td><td><a href="../../../../articles/t/o/r/Toronto_Pearson_International_Airport_71a6.html" title="Toronto Pearson International Airport">Toronto Pearson International Airport</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>411,609</td></tr><tr><td>2</td><td><a href="../../../../articles/v/a/n/Vancouver_International_Airport_cfc9.html" title="Vancouver International Airport">Vancouver International Airport</a></td><td><a href="../../../../articles/v/a/n/Vancouver.html" title="Vancouver">Vancouver</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>322,986</td></tr><tr><td>3</td><td><a href="../../../../articles/c/a/l/Calgary_International_Airport_c787.html" title="Calgary International Airport">Calgary International Airport</a></td><td><a href="../../../../articles/c/a/l/Calgary.html" title="Calgary">Calgary</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>233,129</td></tr><tr><td>4</td><td><a href="../../../../articles/m/o/n/Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport_189b.html" title="Montréal-Pierre Elliott Trudeau International Airport">Montréal-Pierre Elliott Trudeau International Airport</a></td><td><a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>208,329</td></tr><tr><td>5</td><td><a href="../../../../articles/b/o/u/Boundary_Bay_Airport_5af4.html" title="Boundary Bay Airport">Boundary Bay Airport</a></td><td><a href="../../../../articles/d/e/l/Delta%2C_British_Columbia_408a.html" title="Delta, British Columbia">Delta</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>187,939</td></tr><tr><td>6</td><td><a href="../../../../articles/a/b/b/Abbotsford_International_Airport_7ec9.html" title="Abbotsford International Airport">Abbotsford International Airport</a></td><td><a href="../../../../articles/a/b/b/Abbotsford%2C_British_Columbia_de4f.html" title="Abbotsford, British Columbia">Abbotsford</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>153,217</td></tr><tr><td>7</td><td><a href="../../../../articles/v/i/c/Victoria_International_Airport_9d1a.html" title="Victoria International Airport">Victoria International Airport</a></td><td><a href="../../../../articles/v/i/c/Victoria%2C_British_Columbia_4e57.html" title="Victoria, British Columbia">Victoria</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>150,634</td></tr><tr><td>8</td><td><a href="../../../../articles/o/t/t/Ottawa_Macdonald-Cartier_International_Airport_2e48.html" title="Ottawa Macdonald-Cartier International Airport">Ottawa Macdonald-Cartier International Airport</a></td><td><a href="../../../../articles/o/t/t/Ottawa.html" title="Ottawa">Ottawa</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>149,321</td></tr><tr><td>9</td><td><a href="../../../../articles/t/o/r/Toronto_Buttonville_Municipal_Airport_060d.html" title="Toronto/Buttonville Municipal Airport">Toronto/Buttonville Municipal Airport</a></td><td><a href="../../../../articles/m/a/r/Markham%2C_Ontario_22ac.html" title="Markham, Ontario">Markham</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>147,705</td></tr><tr><td>10</td><td><a href="../../../../articles/w/i/n/Winnipeg_James_Armstrong_Richardson_International_Airport_f0ab.html" title="Winnipeg James Armstrong Richardson International Airport">Winnipeg James Armstrong Richardson International Airport</a></td><td><a href="../../../../articles/w/i/n/Winnipeg.html" title="Winnipeg">Winnipeg</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>136,936</td></tr><tr><td>11</td><td><a href="../../../../articles/c/a/l/Calgary_Springbank_Airport_0ac1.html" title="Calgary/Springbank Airport">Calgary/Springbank Airport</a></td><td><a href="../../../../articles/c/a/l/Calgary.html" title="Calgary">Calgary</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>134,581</td></tr><tr><td>12</td><td><a href="../../../../articles/m/o/n/Montr%C3%A9al_Saint-Hubert_Airport_f231.html" title="Montréal/Saint-Hubert Airport">Montréal/Saint-Hubert Airport</a></td><td><a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>128,881</td></tr><tr><td>13</td><td><a href="../../../../articles/e/d/m/Edmonton_International_Airport_3c9a.html" title="Edmonton International Airport">Edmonton International Airport</a></td><td><a href="../../../../articles/e/d/m/Edmonton.html" title="Edmonton">Edmonton</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>115,840</td></tr><tr><td>14</td><td><a href="../../../../articles/q/u/%C3%A9/Qu%C3%A9bec_Jean_Lesage_International_Airport_56fc.html" title="Québec/Jean Lesage International Airport">Québec/Jean Lesage International Airport</a></td><td><a href="../../../../articles/q/u/e/Quebec_City_5f2c.html" title="Quebec City">Quebec City</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>101,367</td></tr><tr><td>15</td><td><a href="../../../../articles/r/e/g/Region_of_Waterloo_International_Airport_e3b5.html" title="Region of Waterloo International Airport">Region of Waterloo International Airport</a></td><td><a href="../../../../articles/w/a/t/Waterloo%2C_Ontario_d76e.html" title="Waterloo, Ontario">Waterloo</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>100,791</td></tr><tr><td>16</td><td><a href="../../../../articles/p/i/t/Pitt_Meadows_Airport_394e.html" title="Pitt Meadows Airport">Pitt Meadows Airport</a></td><td><a href="../../../../articles/p/i/t/Pitt_Meadows%2C_British_Columbia_1525.html" title="Pitt Meadows, British Columbia">Pitt Meadows</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>100,098</td></tr><tr><td>17</td><td><a href="../../../../articles/l/o/n/London_International_Airport_637e.html" title="London International Airport">London International Airport</a></td><td><a href="../../../../articles/l/o/n/London%2C_Ontario_c3a0.html" title="London, Ontario">London</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>92,388</td></tr><tr><td>18</td><td><a href="../../../../articles/t/h/u/Thunder_Bay_International_Airport_2452.html" title="Thunder Bay International Airport">Thunder Bay International Airport</a></td><td><a href="../../../../articles/t/h/u/Thunder_Bay%2C_Ontario_b670.html" title="Thunder Bay, Ontario">Thunder Bay</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>91,935</td></tr><tr><td>19</td><td><a href="../../../../articles/h/a/l/Halifax_International_Airport_10d8.html" class="mw-redirect" title="Halifax International Airport">Halifax International Airport</a></td><td><a href="../../../../articles/h/a/l/Halifax_Urban_Area_1c90.html" class="mw-redirect" title="Halifax Urban Area">Halifax</a>, <a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td>86,393</td></tr><tr><td>20</td><td><a href="../../../../articles/s/a/s/Saskatoon_John_G._Diefenbaker_International_Airport_f42c.html" class="mw-redirect" title="Saskatoon/John G. Diefenbaker International Airport">Saskatoon/John G. Diefenbaker International Airport</a></td><td><a href="../../../../articles/s/a/s/Saskatoon.html" title="Saskatoon">Saskatoon</a>, <a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td>81,629</td></tr></table>]]>
+</htmlSnippet>
+</entity>

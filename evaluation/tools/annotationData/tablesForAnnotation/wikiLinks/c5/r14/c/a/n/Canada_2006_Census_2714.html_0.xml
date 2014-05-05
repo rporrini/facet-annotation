@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r14/c/a/n/Canada_2006_Census_2714.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.17999999 1, 0.17999999 0 1, 0.16000001 3, 0.16000001 0 3, 0.14 0 4, 0.13 4, 0.060000002 2, 0.060000002 0 2, 0.0288 1 3, 0.025199998 1 4, 0.022400001 3 4, 0.0108 1 2, 0.009600001 2 3, 0.0084 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/n/Canada_2006_Census_2714.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province / territory</th>]]></html>
+	<text>Province / territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Change (2001-2006)</th>]]></html>
+	<text>% Change (2001-2006)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Total private dwellings</th>]]></html>
+	<text>Total private dwellings</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population density per square kilometre</th>]]></html>
+	<text>Population density per square kilometre</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Newfoundland and Labrador</td>]]></html>
+	<text>Newfoundland and Labrador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>505,469</td>]]></html>
+	<text>505,469</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-1.5</td>]]></html>
+	<text>-1.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>235,958</td>]]></html>
+	<text>235,958</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.4</td>]]></html>
+	<text>1.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prince Edward Island</td>]]></html>
+	<text>Prince Edward Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>135,851</td>]]></html>
+	<text>135,851</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+0.4</td>]]></html>
+	<text>+0.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62,753</td>]]></html>
+	<text>62,753</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.9</td>]]></html>
+	<text>23.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>913,462</td>]]></html>
+	<text>913,462</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+0.6</td>]]></html>
+	<text>+0.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>425,681</td>]]></html>
+	<text>425,681</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.3</td>]]></html>
+	<text>17.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Brunswick</td>]]></html>
+	<text>New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>729,997</td>]]></html>
+	<text>729,997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+0.1</td>]]></html>
+	<text>+0.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>331,619</td>]]></html>
+	<text>331,619</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.2</td>]]></html>
+	<text>10.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,546,131</td>]]></html>
+	<text>7,546,131</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+4.3</td>]]></html>
+	<text>+4.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,452,300</td>]]></html>
+	<text>3,452,300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.6</td>]]></html>
+	<text>5.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,160,282</td>]]></html>
+	<text>12,160,282</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+6.6</td>]]></html>
+	<text>+6.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,972,869</td>]]></html>
+	<text>4,972,869</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.4</td>]]></html>
+	<text>13.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,148,401</td>]]></html>
+	<text>1,148,401</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+2.6</td>]]></html>
+	<text>+2.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>491,724</td>]]></html>
+	<text>491,724</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1</td>]]></html>
+	<text>2.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>968,157</td>]]></html>
+	<text>968,157</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-1.1</td>]]></html>
+	<text>-1.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>387,160</td>]]></html>
+	<text>387,160</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,290,350</td>]]></html>
+	<text>3,290,350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+10.6</td>]]></html>
+	<text>+10.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,335,745</td>]]></html>
+	<text>1,335,745</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.1</td>]]></html>
+	<text>5.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,113,487</td>]]></html>
+	<text>4,113,487</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+5.3</td>]]></html>
+	<text>+5.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,788,474</td>]]></html>
+	<text>1,788,474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.4</td>]]></html>
+	<text>4.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yukon</td>]]></html>
+	<text>Yukon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,372</td>]]></html>
+	<text>30,372</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+5.9</td>]]></html>
+	<text>+5.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,296</td>]]></html>
+	<text>15,296</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1</td>]]></html>
+	<text>0.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northwest Territories</td>]]></html>
+	<text>Northwest Territories</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41,464</td>]]></html>
+	<text>41,464</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+11.0*</td>]]></html>
+	<text>+11.0*</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,774</td>]]></html>
+	<text>16,774</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0</td>]]></html>
+	<text>0.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nunavut</td>]]></html>
+	<text>Nunavut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29,474</td>]]></html>
+	<text>29,474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+10.2</td>]]></html>
+	<text>+10.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,041</td>]]></html>
+	<text>9,041</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0</td>]]></html>
+	<text>0.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canada</td>]]></html>
+	<text>Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,612,897</td>]]></html>
+	<text>31,612,897</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+5.4</td>]]></html>
+	<text>+5.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,576,855</td>]]></html>
+	<text>13,576,855</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.5</td>]]></html>
+	<text>3.5</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Canada 2006 Census - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province / territory Population % Change (2001-2006) Total private dwellings Population density per square kilometre</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Population of the provinces and territories</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>Canada 2006 Census</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>was on March 13, 2007, covering population and dwelling counts by geographical unit.</text>
+</context>
+<context>
+	<score>0.7533594</score>
+	<text>* This change is likely overstated due to improvements in coverage of the Northwest Territories in 2006. [1]</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Summary</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Data products</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Advertising</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Outsourcing</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Forms</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] Controversy</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7188112</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>The first release of 2006 Census data</text>
+</context>
+<context>
+	<score>0.6450955</score>
+	<text>[ edit ] Population and dwelling counts</text>
+</context>
+<context>
+	<score>0.6065627</score>
+	<text>[ edit ] Age and sex</text>
+</context>
+<context>
+	<score>0.59544706</score>
+	<text>As the data are collected and digitized, Statistics Canada releases various categories of census data. On March 13 , 2007 , the first batch of data was released, covering population and dwelling counts by geographical unit. This has been followed by other census reports.</text>
+</context>
+<context>
+	<score>0.55572826</score>
+	<text>[ edit ] Data products</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Education. A separate question for each level of schooling, and type of school attended.</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>The second release of 2006 Census data</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Modified questions:</text>
+</context>
+<context>
+	<score>0.47819725</score>
+	<text>Religion. Normally asked only once every 10 years, and the religion question was asked in the 2001 Census . Education. The number of years of schooling received.</text>
+</context>
+<context>
+	<score>0.469417</score>
+	<text>was on July 17 , 2007 , covering age and sex of the Canadian population. Among other findings, Statistics Canada reported that the 65-and-over population was at a record high of 13.7% of the total population of Canada.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Questions not asked in the 2006 Census:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align:right"><tr><th>Province / territory<br /></th><th>Population<br /></th><th>&#160;% Change<br />(2001-2006)<br /></th><th>Total<br />private<br />dwellings<br /></th><th>Population density<br />per square kilometre<br /></th></tr><tr><td align="left"><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland and Labrador</a></td><td>505,469</td><td>-1.5</td><td>235,958</td><td>1.4</td></tr><tr><td align="left"><a href="../../../../articles/p/r/i/Prince_Edward_Island_24cf.html" title="Prince Edward Island">Prince Edward Island</a></td><td>135,851</td><td>+0.4</td><td>62,753</td><td>23.9</td></tr><tr><td align="left"><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td>913,462</td><td>+0.6</td><td>425,681</td><td>17.3</td></tr><tr><td align="left"><a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td>729,997</td><td>+0.1</td><td>331,619</td><td>10.2</td></tr><tr><td align="left"><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>7,546,131</td><td>+4.3</td><td>3,452,300</td><td>5.6</td></tr><tr><td align="left"><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>12,160,282</td><td>+6.6</td><td>4,972,869</td><td>13.4</td></tr><tr><td align="left"><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>1,148,401</td><td>+2.6</td><td>491,724</td><td>2.1</td></tr><tr><td align="left"><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td>968,157</td><td>-1.1</td><td>387,160</td><td>1.6</td></tr><tr><td align="left"><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>3,290,350</td><td>+10.6</td><td>1,335,745</td><td>5.1</td></tr><tr><td align="left"><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>4,113,487</td><td>+5.3</td><td>1,788,474</td><td>4.4</td></tr><tr><td align="left"><a href="../../../../articles/y/u/k/Yukon.html" title="Yukon">Yukon</a></td><td>30,372</td><td>+5.9</td><td>15,296</td><td>0.1</td></tr><tr><td align="left"><a href="../../../../articles/n/o/r/Northwest_Territories_ca27.html" title="Northwest Territories">Northwest Territories</a></td><td>41,464</td><td>+11.0*</td><td>16,774</td><td>0.0</td></tr><tr><td align="left"><a href="../../../../articles/n/u/n/Nunavut.html" title="Nunavut">Nunavut</a></td><td>29,474</td><td>+10.2</td><td>9,041</td><td>0.0</td></tr><tr class="sortbottom"><td align="center"><b><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></b></td><td><b>31,612,897</b></td><td><b>+5.4</b></td><td><b>13,576,855</b></td><td><b>3.5</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

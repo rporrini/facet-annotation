@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/c/h/i/Chicago_&apos;L&apos;_rolling_stock_e157.html_1.xml" />
+<meta name="primaryKey" value="0.8 3, 0.8 0 3, 0.71999997 1, 0.71999997 0 1, 0.71999997 1 3, 0.4 0, 0.14 2, 0.14 0 2, 0.126 1 2, 0.112 2 3, 0.048000004 3 4, 0.0432 1 4, 0.024000002 0 4, 0.012000001 4, 0.008400001 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/c/h/i/Chicago_&apos;L&apos;_rolling_stock_e157.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Operator</th>]]></html>
+	<text>Operator</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Manufacturer</th>]]></html>
+	<text>Manufacturer</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Delivered</th>]]></html>
+	<text>Delivered</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Surface Lines ; later Chicago Transit Authority</td>]]></html>
+	<text>Chicago Surface Lines ; later Chicago Transit Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cincinnati Car Company</td>]]></html>
+	<text>Cincinnati Car Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1914-15</td>]]></html>
+	<text>1914-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4000 series</td>]]></html>
+	<text>4000 series</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Transit Authority</td>]]></html>
+	<text>Chicago Transit Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pullman Car Company (5001-02) and St. Louis Car Company (5003-04)</td>]]></html>
+	<text>Pullman Car Company (5001-02) and St. Louis Car Company (5003-04)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1947</td>]]></html>
+	<text>1947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5000 series</td>]]></html>
+	<text>5000 series</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Transit Authority</td>]]></html>
+	<text>Chicago Transit Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Louis Car Company</td>]]></html>
+	<text>St. Louis Car Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1950-59</td>]]></html>
+	<text>1950-59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6000 series</td>]]></html>
+	<text>6000 series</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Transit Authority</td>]]></html>
+	<text>Chicago Transit Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Louis Car Company</td>]]></html>
+	<text>St. Louis Car Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1959-1960</td>]]></html>
+	<text>1959-1960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-50 \ 61-65 series Cars</td>]]></html>
+	<text>1-50 \ 61-65 series Cars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Transit Authority</td>]]></html>
+	<text>Chicago Transit Authority</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pullman Car Company</td>]]></html>
+	<text>Pullman Car Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964</td>]]></html>
+	<text>1964</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-series Cars</td>]]></html>
+	<text>2000-series Cars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Chicago &apos;L&apos; rolling stock - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Operator Manufacturer Delivered Type Notes</text>
+</context>
+<context>
+	<score>0.88288295</score>
+	<text>[ edit ] Steel cars</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>Chicago &apos;L&apos; rolling stock</text>
+</context>
+<context>
+	<score>0.78591317</score>
+	<text>[ edit ] Wooden Cars</text>
+</context>
+<context>
+	<score>0.7545406</score>
+	<text>[ edit ] 2200-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] Historic</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] 2200-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] 2400-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] 2600-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] 3200-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] 5000-series</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71999246</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7083374</score>
+	<text>[ edit ] Historic</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6077439</score>
+	<text>A 2200 series brings up the rear of a Pink Line train at Washington/Wells</text>
+</context>
+<context>
+	<score>0.59662837</score>
+	<text>The rolling stock of the Chicago &apos;L&apos; heavy rail system consists of 1,190 rail cars (all permanently coupled into 595 married pairs ) dating from 1969 to 1994 , delivered in four series: the 2200-series, 2400-series, 2600-series, and 3200-series, also known as the High Performance Family , because of innovative design and technological features from previous equipment in Chicago transit beginning with the former 2000-Series cars which operated between 1964 and 1993 . All cars are 12 feet tall (from top of rail), 9&apos;-4&quot; wide (at window sill; 8&apos;-8&quot; at door sill), and 48&apos;-3&quot; long (over coupler pulling faces). Presently, all rail cars operating on the Chicago &apos;L&apos; are DC power only; the next shipment of rail cars is expected to feature AC motors , but the traction power supply will continue to use DC.</text>
+</context>
+<context>
+	<score>0.5644696</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5326945</score>
+	<text>Chicago &apos;L&apos; rolling stock</text>
+</context>
+<context>
+	<score>0.52139294</score>
+	<text>The 2200-series of train cars (numbered 2201-2352) was manufactured by the Budd Company of Philadelphia, Pennsylvania and first delivered to the Chicago Transit Authority in 1969 when the Dan Ryan branch (now known as the south end of the Red Line ) was opened. 150 cars were ordered, and all delivered between 1969 and 1970 . These cars, the oldest still in revenue service on the &apos;L&apos;, are the only CTA cars still to feature the &quot;blinker door&quot; configuration, in which the doors to the train open inward into the car rather than slide horizontally. These doors, which have a much narrower opening than the newer sliding doors, are unable to accommodate a wheelchair . Because of this, all 2200-series trains in the system must be coupled with another married pair of a different series car, usually the 2600-series, in order to comply with the Americans with Disabilities Act of 1990 .</text>
+</context>
+<context>
+	<score>0.47059825</score>
+	<text>The 2200-series also features fluted, unpainted stainless steel sides, a unique feature in the rolling stock until the addition of the 3200-series.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Operator</th><th>Manufacturer</th><th>Delivered</th><th>Type</th><th>Notes</th></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Surface_Lines_fcfe.html" title="Chicago Surface Lines">Chicago Surface Lines</a>; later <a href="../../../../articles/c/h/i/Chicago_Transit_Authority_2a08.html" title="Chicago Transit Authority">Chicago Transit Authority</a></td><td><a href="../../../../articles/c/i/n/Cincinnati_Car_Company_db45.html" title="Cincinnati Car Company">Cincinnati Car Company</a></td><td>1914-15</td><td>4000 series</td><td></td></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Transit_Authority_2a08.html" title="Chicago Transit Authority">Chicago Transit Authority</a></td><td><a href="../../../../articles/p/u/l/Pullman_Car_Company_6f97.html" class="mw-redirect" title="Pullman Car Company">Pullman Car Company</a> (5001-02) and <a href="../../../../articles/s/t/2E/St._Louis_Car_Company_3299.html" title="St. Louis Car Company">St. Louis Car Company</a> (5003-04)</td><td>1947</td><td>5000 series</td><td></td></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Transit_Authority_2a08.html" title="Chicago Transit Authority">Chicago Transit Authority</a></td><td><a href="../../../../articles/s/t/2E/St._Louis_Car_Company_3299.html" title="St. Louis Car Company">St. Louis Car Company</a></td><td>1950-59</td><td>6000 series</td><td></td></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Transit_Authority_2a08.html" title="Chicago Transit Authority">Chicago Transit Authority</a></td><td><a href="../../../../articles/s/t/2E/St._Louis_Car_Company_3299.html" title="St. Louis Car Company">St. Louis Car Company</a></td><td>1959-1960</td><td>1-50 \ 61-65 series Cars</td><td></td></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Transit_Authority_2a08.html" title="Chicago Transit Authority">Chicago Transit Authority</a></td><td><a href="../../../../articles/p/u/l/Pullman_Car_Company_6f97.html" class="mw-redirect" title="Pullman Car Company">Pullman Car Company</a></td><td>1964</td><td>2000-series Cars</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

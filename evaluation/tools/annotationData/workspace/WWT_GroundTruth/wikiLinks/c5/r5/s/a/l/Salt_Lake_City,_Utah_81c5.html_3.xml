@@ -1,0 +1,57 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="3">
+<anno name="wikicategory_Sports_venues_in_Utah" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="2">
+<anno name="wordnet_league_108231184" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wikicategory_Professional_sports_teams_in_Utah" value="1.0"> </anno>
+<anno name="wikicategory_Sports_in_Salt_Lake_City,_Utah" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Utah_Jazz</entity>
+<entity></entity>
+<entity>National_Basketball_Association</entity>
+<entity>EnergySolutions_Arena</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Utah_Blaze</entity>
+<entity></entity>
+<entity>Arena_Football_League</entity>
+<entity>EnergySolutions_Arena</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Real_Salt_Lake</entity>
+<entity></entity>
+<entity>Major_League_Soccer</entity>
+<entity>Rice-Eccles_Stadium</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Utah_Grizzlies</entity>
+<entity></entity>
+<entity>ECHL</entity>
+<entity>E_Center</entity>
+<entity></entity>
+</row>
+<row>
+<entity>Salt_Lake_Bees</entity>
+<entity></entity>
+<entity>Pacific_Coast_League</entity>
+<entity>Franklin_Covey_Field</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r30/u/n/i/United_States_House_of_Representatives_elections,_1994_4425.html_39.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 4, 0.6875 1 4, 0.6666667 5, 0.6666667 0 5, 0.61111116 1 5, 0.5555556 2 5, 0.5 4 5, 0.11666667 0 3, 0.10694444 1 3, 0.10416667 2 4, 0.10000001 4, 0.07777778 3 5, 0.06611111 3, 0.061574068 2 3, 0.055555556 2, 0.055416666 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_1994_4425.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponent</th>]]></html>
+	<text>Opponent</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 1</td>]]></html>
+	<text>Texas 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Chapman</td>]]></html>
+	<text>Jim Chapman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1985</td>]]></html>
+	<text>1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Chapman (D) 55.3% Mike Blankenship (R) 40.9% Thomas Mosser (I) 3.8%</td>]]></html>
+	<text>Jim Chapman (D) 55.3% Mike Blankenship (R) 40.9% Thomas Mosser (I) 3.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 2</td>]]></html>
+	<text>Texas 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Wilson</td>]]></html>
+	<text>Charlie Wilson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1972</td>]]></html>
+	<text>1972</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlie Wilson (D) 57.0% Donna Peterson (R) 43.0%</td>]]></html>
+	<text>Charlie Wilson (D) 57.0% Donna Peterson (R) 43.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 3</td>]]></html>
+	<text>Texas 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sam Johnson</td>]]></html>
+	<text>Sam Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1991</td>]]></html>
+	<text>1991</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sam Johnson (R) 91.0% Tom Donahue (L) 9.0%</td>]]></html>
+	<text>Sam Johnson (R) 91.0% Tom Donahue (L) 9.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 4</td>]]></html>
+	<text>Texas 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ralph Hall</td>]]></html>
+	<text>Ralph Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1980</td>]]></html>
+	<text>1980</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ralph Hall (D) 58.8% David L. Bridges (R) 39.8% Steven Rothacker (L) 1.4%</td>]]></html>
+	<text>Ralph Hall (D) 58.8% David L. Bridges (R) 39.8% Steven Rothacker (L) 1.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 5</td>]]></html>
+	<text>Texas 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Wiley Bryant</td>]]></html>
+	<text>John Wiley Bryant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Wiley Bryant (D) 50.1% Pete Sessions (R) 47.3% Barbara Morgan (I) 1.4% Noel Kopala (L) 0.7% Regina Arashvand (I) 0.5%</td>]]></html>
+	<text>John Wiley Bryant (D) 50.1% Pete Sessions (R) 47.3% Barbara Morgan (I) 1.4% Noel Kopala (L) 0.7% Regina Arashvand (I) 0.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 6</td>]]></html>
+	<text>Texas 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joe Barton</td>]]></html>
+	<text>Joe Barton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joe Barton (R) 75.6% Terry Jesmore (D) 22.0% Bill Baird (L) 2.3%</td>]]></html>
+	<text>Joe Barton (R) 75.6% Terry Jesmore (D) 22.0% Bill Baird (L) 2.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 7</td>]]></html>
+	<text>Texas 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Archer</td>]]></html>
+	<text>Bill Archer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1970</td>]]></html>
+	<text>1970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Archer (R) unopposed</td>]]></html>
+	<text>Bill Archer (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 8</td>]]></html>
+	<text>Texas 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Fields</td>]]></html>
+	<text>Jack Fields</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1980</td>]]></html>
+	<text>1980</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Fields (R) 92.0% Russ Klecka (I) 8.0%</td>]]></html>
+	<text>Jack Fields (R) 92.0% Russ Klecka (I) 8.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 9</td>]]></html>
+	<text>Texas 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack Brooks</td>]]></html>
+	<text>Jack Brooks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1952</td>]]></html>
+	<text>1952</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steve Stockman (R) 51.9% Jack Brooks (D) 45.7% Bill Felton (I) 1.4% Darla K. Beenau (L) 1.1%</td>]]></html>
+	<text>Steve Stockman (R) 51.9% Jack Brooks (D) 45.7% Bill Felton (I) 1.4% Darla K. Beenau (L) 1.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 10</td>]]></html>
+	<text>Texas 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>J. J. Pickle</td>]]></html>
+	<text>J. J. Pickle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963</td>]]></html>
+	<text>1963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retiring</td>]]></html>
+	<text>Retiring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lloyd Doggett (D) 56.3% Jo Baylor (R) 39.8% Jeff Hill (L) 1.5% Michael L. Brandes (I) 1.3% Jeff Davis (I) 1.2%</td>]]></html>
+	<text>Lloyd Doggett (D) 56.3% Jo Baylor (R) 39.8% Jeff Hill (L) 1.5% Michael L. Brandes (I) 1.3% Jeff Davis (I) 1.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 11</td>]]></html>
+	<text>Texas 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chet Edwards</td>]]></html>
+	<text>Chet Edwards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1990</td>]]></html>
+	<text>1990</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chet Edwards (D) 59.2% James W. Broyles (R) 40.8%</td>]]></html>
+	<text>Chet Edwards (D) 59.2% James W. Broyles (R) 40.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 12</td>]]></html>
+	<text>Texas 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pete Geren</td>]]></html>
+	<text>Pete Geren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989</td>]]></html>
+	<text>1989</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pete Geren (D) 68.7% Ernest J. Anderson, Jr. (R) 31.3%</td>]]></html>
+	<text>Pete Geren (D) 68.7% Ernest J. Anderson, Jr. (R) 31.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 13</td>]]></html>
+	<text>Texas 13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Sarpalius</td>]]></html>
+	<text>Bill Sarpalius</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1988</td>]]></html>
+	<text>1988</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mac Thornberry (R) 55.4% Bill Sarpalius (D) 44.6%</td>]]></html>
+	<text>Mac Thornberry (R) 55.4% Bill Sarpalius (D) 44.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 14</td>]]></html>
+	<text>Texas 14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greg Laughlin</td>]]></html>
+	<text>Greg Laughlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greg Laughlin (D) 55.6% Jim Deats (R) 44.4%</td>]]></html>
+	<text>Greg Laughlin (D) 55.6% Jim Deats (R) 44.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 15</td>]]></html>
+	<text>Texas 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kika de la Garza</td>]]></html>
+	<text>Kika de la Garza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964</td>]]></html>
+	<text>1964</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kika de la Garza (D) 59.0% Tom Haughey (R) 39.4% John Hamilton (I) 1.6%</td>]]></html>
+	<text>Kika de la Garza (D) 59.0% Tom Haughey (R) 39.4% John Hamilton (I) 1.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 16</td>]]></html>
+	<text>Texas 16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ronald D. Coleman</td>]]></html>
+	<text>Ronald D. Coleman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ronald D. Coleman (D) 57.1% Bobby Ortiz (R) 42.9%</td>]]></html>
+	<text>Ronald D. Coleman (D) 57.1% Bobby Ortiz (R) 42.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 17</td>]]></html>
+	<text>Texas 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles Stenholm</td>]]></html>
+	<text>Charles Stenholm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978</td>]]></html>
+	<text>1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles Stenholm (D) 53.6% Phil Boone (R) 46.3%</td>]]></html>
+	<text>Charles Stenholm (D) 53.6% Phil Boone (R) 46.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 18</td>]]></html>
+	<text>Texas 18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Craig Anthony Washington</td>]]></html>
+	<text>Craig Anthony Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1989</td>]]></html>
+	<text>1989</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defeated in Primary</td>]]></html>
+	<text>Defeated in Primary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sheila Jackson-Lee (D) 73.5% Jerry Burley (R) 24.4% J. Larry Snellings (I) 1.1% George M. Hollenbeck (L) 1.0%</td>]]></html>
+	<text>Sheila Jackson-Lee (D) 73.5% Jerry Burley (R) 24.4% J. Larry Snellings (I) 1.1% George M. Hollenbeck (L) 1.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 19</td>]]></html>
+	<text>Texas 19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larry Combest</td>]]></html>
+	<text>Larry Combest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larry Combest (R) unopposed</td>]]></html>
+	<text>Larry Combest (R) unopposed</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 20</td>]]></html>
+	<text>Texas 20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry B. Gonzalez</td>]]></html>
+	<text>Henry B. Gonzalez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1961</td>]]></html>
+	<text>1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry B. Gonzalez (D) 62.5% Carl Bill Colyer (R) 37.5%</td>]]></html>
+	<text>Henry B. Gonzalez (D) 62.5% Carl Bill Colyer (R) 37.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 21</td>]]></html>
+	<text>Texas 21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lamar S. Smith</td>]]></html>
+	<text>Lamar S. Smith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1986</td>]]></html>
+	<text>1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lamar S. Smith (R) 90.0% Kerry L. Lowry (I) 10.0%</td>]]></html>
+	<text>Lamar S. Smith (R) 90.0% Kerry L. Lowry (I) 10.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 22</td>]]></html>
+	<text>Texas 22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom DeLay</td>]]></html>
+	<text>Tom DeLay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom DeLay (R) 73.7% Scott Douglas Cunningham (D) 23.8% Gregory D. Pepper (I) 2.5%</td>]]></html>
+	<text>Tom DeLay (R) 73.7% Scott Douglas Cunningham (D) 23.8% Gregory D. Pepper (I) 2.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 23</td>]]></html>
+	<text>Texas 23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry Bonilla</td>]]></html>
+	<text>Henry Bonilla</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry Bonilla (R) 62.6% Rolando L. Rios (D) 37.4%</td>]]></html>
+	<text>Henry Bonilla (R) 62.6% Rolando L. Rios (D) 37.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 24</td>]]></html>
+	<text>Texas 24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martin Frost</td>]]></html>
+	<text>Martin Frost</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1978</td>]]></html>
+	<text>1978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martin Frost (D) 52.8% Ed Harrison (R) 47.2%</td>]]></html>
+	<text>Martin Frost (D) 52.8% Ed Harrison (R) 47.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 25</td>]]></html>
+	<text>Texas 25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael A. Andrews</td>]]></html>
+	<text>Michael A. Andrews</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ran for Senate</td>]]></html>
+	<text>Ran for Senate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ken Bentsen, Jr. (D) 52.3% Gene Fontenot (R) 45.0% Sarah Klein-Tower (I) 1.7% Robert F. Lockhart (L) 1.0%</td>]]></html>
+	<text>Ken Bentsen, Jr. (D) 52.3% Gene Fontenot (R) 45.0% Sarah Klein-Tower (I) 1.7% Robert F. Lockhart (L) 1.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 26</td>]]></html>
+	<text>Texas 26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dick Armey</td>]]></html>
+	<text>Dick Armey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1984</td>]]></html>
+	<text>1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dick Armey (R) 76.4% LeEarl Ann Bryant (D) 22.4% Alfred Adask (L) 1.1%</td>]]></html>
+	<text>Dick Armey (R) 76.4% LeEarl Ann Bryant (D) 22.4% Alfred Adask (L) 1.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 27</td>]]></html>
+	<text>Texas 27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Solomon P. Ortiz</td>]]></html>
+	<text>Solomon P. Ortiz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1982</td>]]></html>
+	<text>1982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Solomon P. Ortiz (D) 59.4% Erol A. Stone (R) 40.06%</td>]]></html>
+	<text>Solomon P. Ortiz (D) 59.4% Erol A. Stone (R) 40.06%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 28</td>]]></html>
+	<text>Texas 28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Tejeda</td>]]></html>
+	<text>Frank Tejeda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frank Tejeda (D) 70.9% David C. Slatter (R) 27.6% Stephan Rothstein (L) 1.5%</td>]]></html>
+	<text>Frank Tejeda (D) 70.9% David C. Slatter (R) 27.6% Stephan Rothstein (L) 1.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 29</td>]]></html>
+	<text>Texas 29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gene Green</td>]]></html>
+	<text>Gene Green</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gene Green (D) 73.4% Harold Eide (R) 26.6%</td>]]></html>
+	<text>Gene Green (D) 73.4% Harold Eide (R) 26.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas 30</td>]]></html>
+	<text>Texas 30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eddie Bernice Johnson</td>]]></html>
+	<text>Eddie Bernice Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1992</td>]]></html>
+	<text>1992</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eddie Bernice Johnson (D) 72.6% Lucy Cain (R) 25.7% Ken Ashby (L) 1.7%</td>]]></html>
+	<text>Eddie Bernice Johnson (D) 72.6% Lucy Cain (R) 25.7% Ken Ashby (L) 1.7%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 1994 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+<context>
+	<score>0.8799624</score>
+	<text>[ edit ] Texas</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>United States House of Representatives elections, 1994</text>
+</context>
+<context>
+	<score>0.7829927</score>
+	<text>[ edit ] Tennessee</text>
+</context>
+<context>
+	<score>0.75162023</score>
+	<text>[ edit ] Utah</text>
+</context>
+<context>
+	<score>0.72225195</score>
+	<text>[ edit ] Voting Patterns</text>
+</context>
+<context>
+	<score>0.72225195</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.72225195</score>
+	<text>[ edit ] Individual State Results</text>
+</context>
+<context>
+	<score>0.72225195</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72225195</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>Ronald Wieczorek (I) 3.5%</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>Jan Berkhout (R) 36.6%</text>
+</context>
+<context>
+	<score>0.60482347</score>
+	<text>[ edit ] Vermont</text>
+</context>
+<context>
+	<score>0.59370786</score>
+	<text>Tim Johnson (D) 59.8%</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Running</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Democratic</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Opponent</th></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_1st_congressional_district.html" title="Texas's 1st congressional district">Texas&#160;1</a></td><td><a href="../../../../articles/j/i/m/Jim_Chapman_1a71.html" title="Jim Chapman">Jim Chapman</a></td><td>Democratic</td><td>1985</td><td>Running</td><td><b><a href="../../../../articles/j/i/m/Jim_Chapman_1a71.html" title="Jim Chapman">Jim Chapman</a> (D) 55.3%</b><br />Mike Blankenship (R) 40.9%<br />Thomas Mosser (I) 3.8%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_2nd_congressional_district.html" title="Texas's 2nd congressional district">Texas&#160;2</a></td><td><a href="../../../../articles/c/h/a/Charles_Wilson_%28Texas_politician%29_61cd.html" title="Charles Wilson (Texas politician)">Charlie Wilson</a></td><td>Democratic</td><td>1972</td><td>Running</td><td><b><a href="../../../../articles/c/h/a/Charles_Wilson_%28Texas_politician%29_61cd.html" title="Charles Wilson (Texas politician)">Charlie Wilson</a> (D) 57.0%</b><br />Donna Peterson (R) 43.0%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_3rd_congressional_district.html" title="Texas's 3rd congressional district">Texas&#160;3</a></td><td><a href="../../../../articles/s/a/m/Sam_Johnson_f6c0.html" title="Sam Johnson">Sam Johnson</a></td><td>Republican</td><td>1991</td><td>Running</td><td><b><a href="../../../../articles/s/a/m/Sam_Johnson_f6c0.html" title="Sam Johnson">Sam Johnson</a> (R) 91.0%</b><br />Tom Donahue (L) 9.0%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_4th_congressional_district.html" title="Texas's 4th congressional district">Texas&#160;4</a></td><td><a href="../../../../articles/r/a/l/Ralph_Hall_242a.html" title="Ralph Hall">Ralph Hall</a></td><td>Democratic</td><td>1980</td><td>Running</td><td><b><a href="../../../../articles/r/a/l/Ralph_Hall_242a.html" title="Ralph Hall">Ralph Hall</a> (D) 58.8%</b><br />David L. Bridges (R) 39.8%<br />Steven Rothacker (L) 1.4%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_5th_congressional_district.html" title="Texas's 5th congressional district">Texas&#160;5</a></td><td><a href="../../../../articles/j/o/h/John_Wiley_Bryant_e4bb.html" title="John Wiley Bryant">John Wiley Bryant</a></td><td>Democratic</td><td>1982</td><td>Running</td><td><b><a href="../../../../articles/j/o/h/John_Wiley_Bryant_e4bb.html" title="John Wiley Bryant">John Wiley Bryant</a> (D) 50.1%</b><br /><a href="../../../../articles/p/e/t/Pete_Sessions_af10.html" title="Pete Sessions">Pete Sessions</a> (R) 47.3%<br />Barbara Morgan (I) 1.4%<br />Noel Kopala (L) 0.7%<br />Regina Arashvand (I) 0.5%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_6th_congressional_district.html" title="Texas's 6th congressional district">Texas&#160;6</a></td><td><a href="../../../../articles/j/o/e/Joe_Barton_444e.html" title="Joe Barton">Joe Barton</a></td><td>Republican</td><td>1984</td><td>Running</td><td><b><a href="../../../../articles/j/o/e/Joe_Barton_444e.html" title="Joe Barton">Joe Barton</a> (R) 75.6%</b><br />Terry Jesmore (D) 22.0%<br />Bill Baird (L) 2.3%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_7th_congressional_district.html" title="Texas's 7th congressional district">Texas&#160;7</a></td><td><a href="../../../../articles/w/i/l/William_Reynolds_Archer%2C_Jr._6bce.html" title="William Reynolds Archer, Jr.">Bill Archer</a></td><td>Republican</td><td>1970</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/w/i/l/William_Reynolds_Archer%2C_Jr._6bce.html" title="William Reynolds Archer, Jr.">Bill Archer</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_8th_congressional_district.html" title="Texas's 8th congressional district">Texas&#160;8</a></td><td><a href="../../../../articles/j/a/c/Jack_Fields_95d4.html" title="Jack Fields">Jack Fields</a></td><td>Republican</td><td>1980</td><td>Running</td><td><b><a href="../../../../articles/j/a/c/Jack_Fields_95d4.html" title="Jack Fields">Jack Fields</a> (R) 92.0%</b><br />Russ Klecka (I) 8.0%</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/t/e/x/Texas%27s_9th_congressional_district.html" title="Texas's 9th congressional district">Texas&#160;9</a></td><td><a href="../../../../articles/j/a/c/Jack_Brooks_%28politician%29_88f5.html" title="Jack Brooks (politician)">Jack Brooks</a></td><td>Democratic</td><td>1952</td><td>Running</td><td><b><a href="../../../../articles/s/t/e/Steve_Stockman_ff98.html" title="Steve Stockman">Steve Stockman</a> (R) 51.9%</b><br /><a href="../../../../articles/j/a/c/Jack_Brooks_%28politician%29_88f5.html" title="Jack Brooks (politician)">Jack Brooks</a> (D) 45.7%<br />Bill Felton (I) 1.4%<br />Darla K. Beenau (L) 1.1%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_10th_congressional_district.html" title="Texas's 10th congressional district">Texas&#160;10</a></td><td bgcolor="lightgrey"><a href="../../../../articles/j/2E/_/J._J._Pickle_8262.html" title="J. J. Pickle">J. J. Pickle</a></td><td>Democratic</td><td>1963</td><td>Retiring</td><td><b><a href="../../../../articles/l/l/o/Lloyd_Doggett_4bc8.html" title="Lloyd Doggett">Lloyd Doggett</a> (D) 56.3%</b><br />Jo Baylor (R) 39.8%<br />Jeff Hill (L) 1.5%<br />Michael L. Brandes (I) 1.3%<br />Jeff Davis (I) 1.2%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_11th_congressional_district.html" title="Texas's 11th congressional district">Texas&#160;11</a></td><td><a href="../../../../articles/c/h/e/Chet_Edwards_5170.html" title="Chet Edwards">Chet Edwards</a></td><td>Democratic</td><td>1990</td><td>Running</td><td><b><a href="../../../../articles/c/h/e/Chet_Edwards_5170.html" title="Chet Edwards">Chet Edwards</a> (D) 59.2%</b><br />James W. Broyles (R) 40.8%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_12th_congressional_district.html" title="Texas's 12th congressional district">Texas&#160;12</a></td><td><a href="../../../../articles/p/e/t/Pete_Geren_7135.html" title="Pete Geren">Pete Geren</a></td><td>Democratic</td><td>1989</td><td>Running</td><td><b><a href="../../../../articles/p/e/t/Pete_Geren_7135.html" title="Pete Geren">Pete Geren</a> (D) 68.7%</b><br />Ernest J. Anderson, Jr. (R) 31.3%</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/t/e/x/Texas%27s_13th_congressional_district.html" title="Texas's 13th congressional district">Texas&#160;13</a></td><td><a href="../../../../articles/b/i/l/Bill_Sarpalius_30cd.html" title="Bill Sarpalius">Bill Sarpalius</a></td><td>Democratic</td><td>1988</td><td>Running</td><td><b><a href="../../../../articles/m/a/c/Mac_Thornberry_c3b1.html" title="Mac Thornberry">Mac Thornberry</a> (R) 55.4%</b><br /><a href="../../../../articles/b/i/l/Bill_Sarpalius_30cd.html" title="Bill Sarpalius">Bill Sarpalius</a> (D) 44.6%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_14th_congressional_district.html" title="Texas's 14th congressional district">Texas&#160;14</a></td><td><a href="../../../../articles/g/r/e/Greg_Laughlin_768e.html" title="Greg Laughlin">Greg Laughlin</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/g/r/e/Greg_Laughlin_768e.html" title="Greg Laughlin">Greg Laughlin</a> (D) 55.6%</b><br />Jim Deats (R) 44.4%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_15th_congressional_district.html" title="Texas's 15th congressional district">Texas&#160;15</a></td><td><a href="../../../../articles/k/i/k/Kika_de_la_Garza_ac77.html" title="Kika de la Garza">Kika de la Garza</a></td><td>Democratic</td><td>1964</td><td>Running</td><td><b><a href="../../../../articles/k/i/k/Kika_de_la_Garza_ac77.html" title="Kika de la Garza">Kika de la Garza</a> (D) 59.0%</b><br />Tom Haughey (R) 39.4%<br />John Hamilton (I) 1.6%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_16th_congressional_district.html" title="Texas's 16th congressional district">Texas&#160;16</a></td><td><a href="../../../../articles/r/o/n/Ronald_D._Coleman_8109.html" title="Ronald D. Coleman">Ronald D. Coleman</a></td><td>Democratic</td><td>1982</td><td>Running</td><td><b><a href="../../../../articles/r/o/n/Ronald_D._Coleman_8109.html" title="Ronald D. Coleman">Ronald D. Coleman</a> (D) 57.1%</b><br />Bobby Ortiz (R) 42.9%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_17th_congressional_district.html" title="Texas's 17th congressional district">Texas&#160;17</a></td><td><a href="../../../../articles/c/h/a/Charles_Stenholm_be41.html" title="Charles Stenholm">Charles Stenholm</a></td><td>Democratic</td><td>1978</td><td>Running</td><td><b><a href="../../../../articles/c/h/a/Charles_Stenholm_be41.html" title="Charles Stenholm">Charles Stenholm</a> (D) 53.6%</b><br />Phil Boone (R) 46.3%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_18th_congressional_district.html" title="Texas's 18th congressional district">Texas&#160;18</a></td><td bgcolor="lightgrey"><a href="../../../../articles/c/r/a/Craig_Anthony_Washington_9c17.html" title="Craig Anthony Washington">Craig Anthony Washington</a></td><td>Democratic</td><td>1989</td><td>Defeated in Primary</td><td><b><a href="../../../../articles/s/h/e/Sheila_Jackson-Lee_404d.html" title="Sheila Jackson-Lee">Sheila Jackson-Lee</a> (D) 73.5%</b><br />Jerry Burley (R) 24.4%<br />J. Larry Snellings (I) 1.1%<br />George M. Hollenbeck (L) 1.0%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_19th_congressional_district.html" title="Texas's 19th congressional district">Texas&#160;19</a></td><td><a href="../../../../articles/l/a/r/Larry_Combest_fbe0.html" title="Larry Combest">Larry Combest</a></td><td>Republican</td><td>1984</td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/l/a/r/Larry_Combest_fbe0.html" title="Larry Combest">Larry Combest</a> (R) unopposed</b></td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_20th_congressional_district.html" title="Texas's 20th congressional district">Texas&#160;20</a></td><td><a href="../../../../articles/h/e/n/Henry_B._Gonzalez_4bd7.html" title="Henry B. Gonzalez">Henry B. Gonzalez</a></td><td>Democratic</td><td>1961</td><td>Running</td><td><b><a href="../../../../articles/h/e/n/Henry_B._Gonzalez_4bd7.html" title="Henry B. Gonzalez">Henry B. Gonzalez</a> (D) 62.5%</b><br />Carl Bill Colyer (R) 37.5%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_21st_congressional_district.html" title="Texas's 21st congressional district">Texas&#160;21</a></td><td><a href="../../../../articles/l/a/m/Lamar_S._Smith_857d.html" title="Lamar S. Smith">Lamar S. Smith</a></td><td>Republican</td><td>1986</td><td>Running</td><td><b><a href="../../../../articles/l/a/m/Lamar_S._Smith_857d.html" title="Lamar S. Smith">Lamar S. Smith</a> (R) 90.0%</b><br />Kerry L. Lowry (I) 10.0%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_22nd_congressional_district.html" title="Texas's 22nd congressional district">Texas&#160;22</a></td><td><a href="../../../../articles/t/o/m/Tom_DeLay_86e9.html" title="Tom DeLay">Tom DeLay</a></td><td>Republican</td><td>1984</td><td>Running</td><td><b><a href="../../../../articles/t/o/m/Tom_DeLay_86e9.html" title="Tom DeLay">Tom DeLay</a> (R) 73.7%</b><br />Scott Douglas Cunningham (D) 23.8%<br />Gregory D. Pepper (I) 2.5%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_23rd_congressional_district.html" title="Texas's 23rd congressional district">Texas&#160;23</a></td><td><a href="../../../../articles/h/e/n/Henry_Bonilla_a939.html" title="Henry Bonilla">Henry Bonilla</a></td><td>Republican</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/h/e/n/Henry_Bonilla_a939.html" title="Henry Bonilla">Henry Bonilla</a> (R) 62.6%</b><br />Rolando L. Rios (D) 37.4%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_24th_congressional_district.html" title="Texas's 24th congressional district">Texas&#160;24</a></td><td><a href="../../../../articles/m/a/r/Martin_Frost_925c.html" title="Martin Frost">Martin Frost</a></td><td>Democratic</td><td>1978</td><td>Running</td><td><b><a href="../../../../articles/m/a/r/Martin_Frost_925c.html" title="Martin Frost">Martin Frost</a> (D) 52.8%</b><br />Ed Harrison (R) 47.2%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_25th_congressional_district.html" title="Texas's 25th congressional district">Texas&#160;25</a></td><td bgcolor="lightgrey"><a href="../../../../articles/m/i/c/Michael_A._Andrews_9529.html" title="Michael A. Andrews">Michael A. Andrews</a></td><td>Democratic</td><td>1982</td><td>Ran for Senate</td><td><b><a href="../../../../articles/k/e/n/Ken_Bentsen%2C_Jr._899d.html" title="Ken Bentsen, Jr.">Ken Bentsen, Jr.</a> (D) 52.3%</b><br />Gene Fontenot (R) 45.0%<br />Sarah Klein-Tower (I) 1.7%<br />Robert F. Lockhart (L) 1.0%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_26th_congressional_district.html" title="Texas's 26th congressional district">Texas&#160;26</a></td><td><a href="../../../../articles/d/i/c/Dick_Armey_c5c8.html" title="Dick Armey">Dick Armey</a></td><td>Republican</td><td>1984</td><td>Running</td><td><b><a href="../../../../articles/d/i/c/Dick_Armey_c5c8.html" title="Dick Armey">Dick Armey</a> (R) 76.4%</b><br />LeEarl Ann Bryant (D) 22.4%<br />Alfred Adask (L) 1.1%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_27th_congressional_district.html" title="Texas's 27th congressional district">Texas&#160;27</a></td><td><a href="../../../../articles/s/o/l/Solomon_P._Ortiz_a789.html" title="Solomon P. Ortiz">Solomon P. Ortiz</a></td><td>Democratic</td><td>1982</td><td>Running</td><td><b><a href="../../../../articles/s/o/l/Solomon_P._Ortiz_a789.html" title="Solomon P. Ortiz">Solomon P. Ortiz</a> (D) 59.4%</b><br />Erol A. Stone (R) 40.06%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_28th_congressional_district.html" title="Texas's 28th congressional district">Texas&#160;28</a></td><td><a href="../../../../articles/f/r/a/Frank_Tejeda_beb8.html" title="Frank Tejeda">Frank Tejeda</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/f/r/a/Frank_Tejeda_beb8.html" title="Frank Tejeda">Frank Tejeda</a> (D) 70.9%</b><br />David C. Slatter (R) 27.6%<br />Stephan Rothstein (L) 1.5%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_29th_congressional_district.html" title="Texas's 29th congressional district">Texas&#160;29</a></td><td><a href="../../../../articles/g/e/n/Gene_Green_1979.html" title="Gene Green">Gene Green</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/g/e/n/Gene_Green_1979.html" title="Gene Green">Gene Green</a> (D) 73.4%</b><br />Harold Eide (R) 26.6%</td></tr><tr><td><a href="../../../../articles/t/e/x/Texas%27s_30th_congressional_district.html" title="Texas's 30th congressional district">Texas&#160;30</a></td><td><a href="../../../../articles/e/d/d/Eddie_Bernice_Johnson_9c1f.html" title="Eddie Bernice Johnson">Eddie Bernice Johnson</a></td><td>Democratic</td><td>1992</td><td>Running</td><td><b><a href="../../../../articles/e/d/d/Eddie_Bernice_Johnson_9c1f.html" title="Eddie Bernice Johnson">Eddie Bernice Johnson</a> (D) 72.6%</b><br />Lucy Cain (R) 25.7%<br />Ken Ashby (L) 1.7%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

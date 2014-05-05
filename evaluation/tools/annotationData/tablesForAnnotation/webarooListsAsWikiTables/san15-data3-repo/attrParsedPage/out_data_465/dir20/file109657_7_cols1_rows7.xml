@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san15-data3-repo/attrParsedPage/out_data_465/dir20/file109657_7_cols1_rows7.xml" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Name</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td>Excalibur : Requiem</td>]]></html>
+	<text>Excalibur : Requiem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Excalibur Renaissance</td>]]></html>
+	<text>Excalibur Renaissance</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Excalibur : Restoration</td>]]></html>
+	<text>Excalibur : Restoration</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter & David Mack</td>]]></html>
+	<text>David , Peter &amp;amp; David Mack</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Being Human</td>]]></html>
+	<text>Being Human</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gods Above</td>]]></html>
+	<text>Gods Above</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stone and Anvil</td>]]></html>
+	<text>Stone and Anvil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>No Limits</td>]]></html>
+	<text>No Limits</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>David , Peter</td>]]></html>
+	<text>David , Peter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td>Excalibur : Requiem</td>
+<td>David , Peter</td>
+<td>2000</td>
+</tr><tr><td>Excalibur Renaissance</td>
+<td>David , Peter</td>
+<td>2000</td>
+</tr><tr><td>Excalibur : Restoration</td>
+<td>David , Peter &amp; David Mack</td>
+<td>2001</td>
+</tr><tr><td>Being Human</td>
+<td>David , Peter</td>
+<td>2001</td>
+</tr><tr><td>Gods Above</td>
+<td>David , Peter</td>
+<td>2003</td>
+</tr><tr><td>Stone and Anvil</td>
+<td>David , Peter</td>
+<td>2003</td>
+</tr><tr><td>No Limits</td>
+<td>David , Peter</td>
+<td>2003</td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

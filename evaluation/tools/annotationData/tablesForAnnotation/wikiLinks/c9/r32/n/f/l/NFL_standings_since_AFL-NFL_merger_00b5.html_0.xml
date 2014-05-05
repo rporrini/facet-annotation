@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r32/n/f/l/NFL_standings_since_AFL-NFL_merger_00b5.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.18888889 0 1, 0.17777778 0 2, 0.17222223 2, 0.17118056 1, 0.16666667 0 3, 0.15555556 0 4, 0.14583334 4, 0.14444445 0 5, 0.13333334 0 6, 0.12222222 7, 0.12222222 0 7, 0.11111112 0 8, 0.081250004 5, 0.06666667 6, 0.059027784 8, 0.046875 3, 0.033580247 1 2, 0.031481482 1 3, 0.029629631 2 3, 0.02846451 1 4, 0.027654324 2 4, 0.027283952 1 5, 0.025925929 3 4, 0.025679013 2 5, 0.025185186 1 6, 0.02332176 3 5, 0.02308642 1 7, 0.022962965 2 6, 0.022469137 4 5, 0.021728395 2 7, 0.020987656 1 8, 0.020740742 4 6, 0.02037037 3 7, 0.01975309 2 8, 0.019444447 3 6, 0.019012347 4 7, 0.018055556 5 6, 0.017654322 5 7, 0.017283952 4 8, 0.016296297 6 7, 0.015625002 3 8, 0.01404321 5 8, 0.013580248 7 8, 0.013425928 6 8, " />
+<meta name="parentHTMLDoc" value="en/articles/n/f/l/NFL_standings_since_AFL-NFL_merger_00b5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Wins</th>]]></html>
+	<text>Wins</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Losses</th>]]></html>
+	<text>Losses</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ties</th>]]></html>
+	<text>Ties</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Win Pct.</th>]]></html>
+	<text>Win Pct.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Playoff berths</th>]]></html>
+	<text>Playoff berths</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Division titles</th>]]></html>
+	<text>Division titles</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Postseason record</th>]]></html>
+	<text>Postseason record</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Super Bowl record</th>]]></html>
+	<text>Super Bowl record</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami Dolphins</td>]]></html>
+	<text>Miami Dolphins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>354</td>]]></html>
+	<text>354</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>228</td>]]></html>
+	<text>228</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.608</td>]]></html>
+	<text>.608</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20-19</td>]]></html>
+	<text>20-19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-3</td>]]></html>
+	<text>2-3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pittsburgh Steelers</td>]]></html>
+	<text>Pittsburgh Steelers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>351</td>]]></html>
+	<text>351</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>231</td>]]></html>
+	<text>231</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.603</td>]]></html>
+	<text>.603</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28-18</td>]]></html>
+	<text>28-18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-1</td>]]></html>
+	<text>5-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dallas Cowboys</td>]]></html>
+	<text>Dallas Cowboys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>347</td>]]></html>
+	<text>347</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>237</td>]]></html>
+	<text>237</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.594</td>]]></html>
+	<text>.594</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31-20</td>]]></html>
+	<text>31-20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-3</td>]]></html>
+	<text>5-3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denver Broncos</td>]]></html>
+	<text>Denver Broncos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>339</td>]]></html>
+	<text>339</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>239</td>]]></html>
+	<text>239</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.586</td>]]></html>
+	<text>.586</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17-15</td>]]></html>
+	<text>17-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-4</td>]]></html>
+	<text>2-4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota Vikings</td>]]></html>
+	<text>Minnesota Vikings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>333</td>]]></html>
+	<text>333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>249</td>]]></html>
+	<text>249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.572</td>]]></html>
+	<text>.572</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16-21</td>]]></html>
+	<text>16-21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-3</td>]]></html>
+	<text>0-3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Francisco 49ers</td>]]></html>
+	<text>San Francisco 49ers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>330</td>]]></html>
+	<text>330</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>251</td>]]></html>
+	<text>251</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.568</td>]]></html>
+	<text>.568</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25-16</td>]]></html>
+	<text>25-16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-0</td>]]></html>
+	<text>5-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington Redskins</td>]]></html>
+	<text>Washington Redskins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>325</td>]]></html>
+	<text>325</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>257</td>]]></html>
+	<text>257</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.558</td>]]></html>
+	<text>.558</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20-13</td>]]></html>
+	<text>20-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-2</td>]]></html>
+	<text>3-2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oakland Raiders ×</td>]]></html>
+	<text>Oakland Raiders &#215;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>323</td>]]></html>
+	<text>323</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>255</td>]]></html>
+	<text>255</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.558</td>]]></html>
+	<text>.558</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22-15</td>]]></html>
+	<text>22-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-1</td>]]></html>
+	<text>3-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jacksonville Jaguars 2</td>]]></html>
+	<text>Jacksonville Jaguars 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>113</td>]]></html>
+	<text>113</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95</td>]]></html>
+	<text>95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.543</td>]]></html>
+	<text>.543</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-6</td>]]></html>
+	<text>5-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Louis Rams ×</td>]]></html>
+	<text>St. Louis Rams &#215;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>310</td>]]></html>
+	<text>310</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>270</td>]]></html>
+	<text>270</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.534</td>]]></html>
+	<text>.534</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16-18</td>]]></html>
+	<text>16-18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-2</td>]]></html>
+	<text>1-2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New England Patriots</td>]]></html>
+	<text>New England Patriots</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>303</td>]]></html>
+	<text>303</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>281</td>]]></html>
+	<text>281</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.519</td>]]></html>
+	<text>.519</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20-12</td>]]></html>
+	<text>20-12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-3</td>]]></html>
+	<text>3-3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Philadelphia Eagles</td>]]></html>
+	<text>Philadelphia Eagles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>295</td>]]></html>
+	<text>295</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>282</td>]]></html>
+	<text>282</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.511</td>]]></html>
+	<text>.511</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13-16</td>]]></html>
+	<text>13-16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-2</td>]]></html>
+	<text>0-2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Green Bay Packers</td>]]></html>
+	<text>Green Bay Packers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>293</td>]]></html>
+	<text>293</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>283</td>]]></html>
+	<text>283</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.509</td>]]></html>
+	<text>.509</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13-12</td>]]></html>
+	<text>13-12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-1</td>]]></html>
+	<text>1-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Chiefs</td>]]></html>
+	<text>Kansas City Chiefs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>292</td>]]></html>
+	<text>292</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>285</td>]]></html>
+	<text>285</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.506</td>]]></html>
+	<text>.506</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-11</td>]]></html>
+	<text>3-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Baltimore Ravens 3</td>]]></html>
+	<text>Baltimore Ravens 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96</td>]]></html>
+	<text>96</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95</td>]]></html>
+	<text>95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.503</td>]]></html>
+	<text>.503</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-3</td>]]></html>
+	<text>5-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-0</td>]]></html>
+	<text>1-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Bears</td>]]></html>
+	<text>Chicago Bears</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>290</td>]]></html>
+	<text>290</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>293</td>]]></html>
+	<text>293</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.497</td>]]></html>
+	<text>.497</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9-13</td>]]></html>
+	<text>9-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-1</td>]]></html>
+	<text>1-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Seahawks 1</td>]]></html>
+	<text>Seattle Seahawks 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>246</td>]]></html>
+	<text>246</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>254</td>]]></html>
+	<text>254</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.492</td>]]></html>
+	<text>.492</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7-10</td>]]></html>
+	<text>7-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-1</td>]]></html>
+	<text>0-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York Giants</td>]]></html>
+	<text>New York Giants</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>282</td>]]></html>
+	<text>282</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>299</td>]]></html>
+	<text>299</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.485</td>]]></html>
+	<text>.485</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16-10</td>]]></html>
+	<text>16-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-1</td>]]></html>
+	<text>3-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indianapolis Colts ×</td>]]></html>
+	<text>Indianapolis Colts &#215;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>282</td>]]></html>
+	<text>282</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300</td>]]></html>
+	<text>300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.485</td>]]></html>
+	<text>.485</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13-14</td>]]></html>
+	<text>13-14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-0</td>]]></html>
+	<text>2-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee Titans ×</td>]]></html>
+	<text>Tennessee Titans &#215;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>280</td>]]></html>
+	<text>280</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>302</td>]]></html>
+	<text>302</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.481</td>]]></html>
+	<text>.481</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12-15</td>]]></html>
+	<text>12-15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-1</td>]]></html>
+	<text>0-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buffalo Bills</td>]]></html>
+	<text>Buffalo Bills</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>276</td>]]></html>
+	<text>276</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>306</td>]]></html>
+	<text>306</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.474</td>]]></html>
+	<text>.474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12-13</td>]]></html>
+	<text>12-13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-4</td>]]></html>
+	<text>0-4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Carolina Panthers 2</td>]]></html>
+	<text>Carolina Panthers 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97</td>]]></html>
+	<text>97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111</td>]]></html>
+	<text>111</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.466</td>]]></html>
+	<text>.466</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6-3</td>]]></html>
+	<text>6-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-1</td>]]></html>
+	<text>0-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Diego Chargers</td>]]></html>
+	<text>San Diego Chargers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>268</td>]]></html>
+	<text>268</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>311</td>]]></html>
+	<text>311</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.463</td>]]></html>
+	<text>.463</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8-10</td>]]></html>
+	<text>8-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-1</td>]]></html>
+	<text>0-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cleveland Browns 5</td>]]></html>
+	<text>Cleveland Browns 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>244</td>]]></html>
+	<text>244</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>289</td>]]></html>
+	<text>289</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.458</td>]]></html>
+	<text>.458</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4-11</td>]]></html>
+	<text>4-11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cincinnati Bengals</td>]]></html>
+	<text>Cincinnati Bengals</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>261</td>]]></html>
+	<text>261</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>323</td>]]></html>
+	<text>323</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.447</td>]]></html>
+	<text>.447</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5-8</td>]]></html>
+	<text>5-8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-2</td>]]></html>
+	<text>0-2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York Jets</td>]]></html>
+	<text>New York Jets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>253</td>]]></html>
+	<text>253</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>329</td>]]></html>
+	<text>329</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.435</td>]]></html>
+	<text>.435</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6-10</td>]]></html>
+	<text>6-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Detroit Lions</td>]]></html>
+	<text>Detroit Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>246</td>]]></html>
+	<text>246</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>334</td>]]></html>
+	<text>334</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.425</td>]]></html>
+	<text>.425</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-9</td>]]></html>
+	<text>1-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlanta Falcons</td>]]></html>
+	<text>Atlanta Falcons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>244</td>]]></html>
+	<text>244</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>335</td>]]></html>
+	<text>335</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.422</td>]]></html>
+	<text>.422</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6-8</td>]]></html>
+	<text>6-8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-1</td>]]></html>
+	<text>0-1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Orleans Saints</td>]]></html>
+	<text>New Orleans Saints</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>242</td>]]></html>
+	<text>242</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>338</td>]]></html>
+	<text>338</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.418</td>]]></html>
+	<text>.418</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-6</td>]]></html>
+	<text>2-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona Cardinals ×</td>]]></html>
+	<text>Arizona Cardinals &#215;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>232</td>]]></html>
+	<text>232</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>346</td>]]></html>
+	<text>346</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.402</td>]]></html>
+	<text>.402</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-4</td>]]></html>
+	<text>1-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Buccaneers 1</td>]]></html>
+	<text>Tampa Bay Buccaneers 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>196</td>]]></html>
+	<text>196</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>303</td>]]></html>
+	<text>303</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.393</td>]]></html>
+	<text>.393</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6-9</td>]]></html>
+	<text>6-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1-0</td>]]></html>
+	<text>1-0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Houston Texans 4</td>]]></html>
+	<text>Houston Texans 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64</td>]]></html>
+	<text>64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.333</td>]]></html>
+	<text>.333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0-0</td>]]></html>
+	<text>0-0</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>NFL standings since AFL-NFL merger - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Wins Losses Ties Win Pct. Playoff berths Division titles Postseason record Super Bowl record</text>
+</context>
+<context>
+	<score>0.88676125</score>
+	<text>Current as of February 3 , 2008 .</text>
+</context>
+<context>
+	<score>0.81211936</score>
+	<text>NFL standings since AFL-NFL merger</text>
+</context>
+<context>
+	<score>0.78181607</score>
+	<text>Super Bowls I - IV occurred prior to the merger and are not reflected in the chart below.</text>
+</context>
+<context>
+	<score>0.7584178</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.74251753</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.74251753</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7122141</score>
+	<text>The following are the National Football League standings since the 1970 AFL-NFL Merger .</text>
+</context>
+<context>
+	<score>0.67248166</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.62283266</score>
+	<text>NFL standings since AFL-NFL merger</text>
+</context>
+<context>
+	<score>0.61161965</score>
+	<text>Entered NFL in 1976 .</text>
+</context>
+<context>
+	<score>0.52526784</score>
+	<text>Entered NFL in 1995 .</text>
+</context>
+<context>
+	<score>0.47447264</score>
+	<text>Entered NFL in 1996 .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable"><tr><th>Team</th><th>Wins</th><th>Losses</th><th>Ties</th><th>Win Pct.</th><th>Playoff<br />berths</th><th>Division<br />titles</th><th>Postseason<br />record</th><th><a href="../../../../articles/s/u/p/Super_Bowl_21ed.html" title="Super Bowl">Super Bowl</a><br />record</th></tr><tr><td><a href="../../../../articles/m/i/a/Miami_Dolphins_fba7.html" title="Miami Dolphins">Miami Dolphins</a></td><td>354</td><td>228</td><td>2</td><td>.608</td><td>21</td><td>12</td><td>20-19</td><td>2-3</td></tr><tr><td><a href="../../../../articles/p/i/t/Pittsburgh_Steelers_bedf.html" title="Pittsburgh Steelers">Pittsburgh Steelers</a></td><td>351</td><td>231</td><td>2</td><td>.603</td><td>23</td><td>18</td><td>28-18</td><td>5-1</td></tr><tr><td><a href="../../../../articles/d/a/l/Dallas_Cowboys_c876.html" title="Dallas Cowboys">Dallas Cowboys</a></td><td>347</td><td>237</td><td>0</td><td>.594</td><td>25</td><td>16</td><td>31-20</td><td>5-3</td></tr><tr><td><a href="../../../../articles/d/e/n/Denver_Broncos_cd7b.html" title="Denver Broncos">Denver Broncos</a></td><td>339</td><td>239</td><td>6</td><td>.586</td><td>17</td><td>10</td><td>17-15</td><td>2-4</td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota_Vikings_eec0.html" title="Minnesota Vikings">Minnesota Vikings</a></td><td>333</td><td>249</td><td>2</td><td>.572</td><td>22</td><td>14</td><td>16-21</td><td>0-3</td></tr><tr><td><a href="../../../../articles/s/a/n/San_Francisco_49ers_43f8.html" title="San Francisco 49ers">San Francisco 49ers</a></td><td>330</td><td>251</td><td>3</td><td>.568</td><td>21</td><td>17</td><td>25-16</td><td>5-0</td></tr><tr><td><a href="../../../../articles/w/a/s/Washington_Redskins_17e9.html" title="Washington Redskins">Washington Redskins</a></td><td>325</td><td>257</td><td>2</td><td>.558</td><td>16</td><td>6</td><td>20-13</td><td>3-2</td></tr><tr><td><a href="../../../../articles/o/a/k/Oakland_Raiders_c8ad.html" title="Oakland Raiders">Oakland Raiders</a><sup><a href="#Notes" title="">×</a></sup></td><td>323</td><td>255</td><td>6</td><td>.558</td><td>18</td><td>12</td><td>22-15</td><td>3-1</td></tr><tr><td><a href="../../../../articles/j/a/c/Jacksonville_Jaguars_c078.html" title="Jacksonville Jaguars">Jacksonville Jaguars</a><sup><a href="#Notes" title="">2</a></sup></td><td>113</td><td>95</td><td>0</td><td>.543</td><td>6</td><td>2</td><td>5-6</td><td>0-0</td></tr><tr><td><a href="../../../../articles/s/t/2E/St._Louis_Rams_0f39.html" title="St. Louis Rams">St. Louis Rams</a><sup><a href="#Notes" title="">×</a></sup></td><td>310</td><td>270</td><td>4</td><td>.534</td><td>19</td><td>11</td><td>16-18</td><td>1-2</td></tr><tr><td><a href="../../../../articles/n/e/w/New_England_Patriots_d9e3.html" title="New England Patriots">New England Patriots</a></td><td>303</td><td>281</td><td>0</td><td>.519</td><td>15</td><td>10</td><td>20-12</td><td>3-3</td></tr><tr><td><a href="../../../../articles/p/h/i/Philadelphia_Eagles_04d3.html" title="Philadelphia Eagles">Philadelphia Eagles</a></td><td>295</td><td>282</td><td>7</td><td>.511</td><td>16</td><td>7</td><td>13-16</td><td>0-2</td></tr><tr><td><a href="../../../../articles/g/r/e/Green_Bay_Packers_4077.html" title="Green Bay Packers">Green Bay Packers</a></td><td>293</td><td>283</td><td>8</td><td>.509</td><td>13</td><td>8</td><td>13-12</td><td>1-1</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Chiefs_89f3.html" title="Kansas City Chiefs">Kansas City Chiefs</a></td><td>292</td><td>285</td><td>7</td><td>.506</td><td>11</td><td>5</td><td>3-11</td><td>0-0</td></tr><tr><td><a href="../../../../articles/b/a/l/Baltimore_Ravens_9241.html" title="Baltimore Ravens">Baltimore Ravens</a><sup><a href="#Notes" title="">3</a></sup></td><td>96</td><td>95</td><td>1</td><td>.503</td><td>4</td><td>2</td><td>5-3</td><td>1-0</td></tr><tr><td><a href="../../../../articles/c/h/i/Chicago_Bears_3f7c.html" title="Chicago Bears">Chicago Bears</a></td><td>290</td><td>293</td><td>1</td><td>.497</td><td>13</td><td>9</td><td>9-13</td><td>1-1</td></tr><tr><td><a href="../../../../articles/s/e/a/Seattle_Seahawks_2af6.html" title="Seattle Seahawks">Seattle Seahawks</a><sup><a href="#Notes" title="">1</a></sup></td><td>246</td><td>254</td><td>0</td><td>.492</td><td>10</td><td>6</td><td>7-10</td><td>0-1</td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_Giants_d193.html" title="New York Giants">New York Giants</a></td><td>282</td><td>299</td><td>3</td><td>.485</td><td>13</td><td>6</td><td>16-10</td><td>3-1</td></tr><tr><td><a href="../../../../articles/i/n/d/Indianapolis_Colts_aabe.html" title="Indianapolis Colts">Indianapolis Colts</a><sup><a href="#Notes" title="">×</a></sup></td><td>282</td><td>300</td><td>2</td><td>.485</td><td>16</td><td>11</td><td>13-14</td><td>2-0</td></tr><tr><td><a href="../../../../articles/t/e/n/Tennessee_Titans_ab07.html" title="Tennessee Titans">Tennessee Titans</a><sup><a href="#Notes" title="">×</a></sup></td><td>280</td><td>302</td><td>2</td><td>.481</td><td>15</td><td>4</td><td>12-15</td><td>0-1</td></tr><tr><td><a href="../../../../articles/b/u/f/Buffalo_Bills_71a1.html" title="Buffalo Bills">Buffalo Bills</a></td><td>276</td><td>306</td><td>2</td><td>.474</td><td>13</td><td>7</td><td>12-13</td><td>0-4</td></tr><tr><td><a href="../../../../articles/c/a/r/Carolina_Panthers_5726.html" title="Carolina Panthers">Carolina Panthers</a><sup><a href="#Notes" title="">2</a></sup></td><td>97</td><td>111</td><td>0</td><td>.466</td><td>3</td><td>2</td><td>6-3</td><td>0-1</td></tr><tr><td><a href="../../../../articles/s/a/n/San_Diego_Chargers_92bd.html" title="San Diego Chargers">San Diego Chargers</a></td><td>268</td><td>311</td><td>5</td><td>.463</td><td>10</td><td>8</td><td>8-10</td><td>0-1</td></tr><tr><td><a href="../../../../articles/c/l/e/Cleveland_Browns_d021.html" title="Cleveland Browns">Cleveland Browns</a><sup><a href="#Notes" title="">5</a></sup></td><td>244</td><td>289</td><td>3</td><td>.458</td><td>11</td><td>6</td><td>4-11</td><td>0-0</td></tr><tr><td><a href="../../../../articles/c/i/n/Cincinnati_Bengals_5178.html" title="Cincinnati Bengals">Cincinnati Bengals</a></td><td>261</td><td>323</td><td>0</td><td>.447</td><td>8</td><td>6</td><td>5-8</td><td>0-2</td></tr><tr><td><a href="../../../../articles/n/e/w/New_York_Jets_c84e.html" title="New York Jets">New York Jets</a></td><td>253</td><td>329</td><td>2</td><td>.435</td><td>10</td><td>2</td><td>6-10</td><td>0-0</td></tr><tr><td><a href="../../../../articles/d/e/t/Detroit_Lions_6dd4.html" title="Detroit Lions">Detroit Lions</a></td><td>246</td><td>334</td><td>4</td><td>.425</td><td>9</td><td>3</td><td>1-9</td><td>0-0</td></tr><tr><td><a href="../../../../articles/a/t/l/Atlanta_Falcons_01c3.html" title="Atlanta Falcons">Atlanta Falcons</a></td><td>244</td><td>335</td><td>5</td><td>.422</td><td>8</td><td>3</td><td>6-8</td><td>0-1</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Orleans_Saints_b2f5.html" title="New Orleans Saints">New Orleans Saints</a></td><td>242</td><td>338</td><td>4</td><td>.418</td><td>6</td><td>3</td><td>2-6</td><td>0-0</td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona_Cardinals_c8e5.html" title="Arizona Cardinals">Arizona Cardinals</a><sup><a href="#Notes" title="">×</a></sup></td><td>232</td><td>346</td><td>6</td><td>.402</td><td>4</td><td>2</td><td>1-4</td><td>0-0</td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Buccaneers_437e.html" title="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a><sup><a href="#Notes" title="">1</a></sup></td><td>196</td><td>303</td><td>1</td><td>.393</td><td>10</td><td>6</td><td>6-9</td><td>1-0</td></tr><tr><td><a href="../../../../articles/h/o/u/Houston_Texans_c5f6.html" title="Houston Texans">Houston Texans</a><sup><a href="#Notes" title="">4</a></sup></td><td>32</td><td>64</td><td>0</td><td>.333</td><td>0</td><td>0</td><td>0-0</td><td>0-0</td></tr></table>]]>
+</htmlSnippet>
+</entity>

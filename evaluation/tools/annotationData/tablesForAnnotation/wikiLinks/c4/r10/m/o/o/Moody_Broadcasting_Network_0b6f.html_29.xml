@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r10/m/o/o/Moody_Broadcasting_Network_0b6f.html_29.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.75 0 3, 0.65625 2 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, 0.075 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/o/Moody_Broadcasting_Network_0b6f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KGVW</td>]]></html>
+	<text>KGVW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>640</td>]]></html>
+	<text>640</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belgrade, Montana</td>]]></html>
+	<text>Belgrade, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KBLW</td>]]></html>
+	<text>KBLW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.1</td>]]></html>
+	<text>90.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Billings, Montana</td>]]></html>
+	<text>Billings, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KMCJ</td>]]></html>
+	<text>KMCJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.5</td>]]></html>
+	<text>99.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colstrip, Montana</td>]]></html>
+	<text>Colstrip, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KGLE</td>]]></html>
+	<text>KGLE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>590</td>]]></html>
+	<text>590</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glendive, Montana</td>]]></html>
+	<text>Glendive, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KGFC</td>]]></html>
+	<text>KGFC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.9</td>]]></html>
+	<text>88.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Great Falls, Montana</td>]]></html>
+	<text>Great Falls, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KXEI</td>]]></html>
+	<text>KXEI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.1</td>]]></html>
+	<text>95.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Havre, Montana</td>]]></html>
+	<text>Havre, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KVCM</td>]]></html>
+	<text>KVCM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.1</td>]]></html>
+	<text>103.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Helena, Montana</td>]]></html>
+	<text>Helena, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KSPL</td>]]></html>
+	<text>KSPL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalispell, Montana</td>]]></html>
+	<text>Kalispell, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KLEU</td>]]></html>
+	<text>KLEU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.1</td>]]></html>
+	<text>91.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lewistown, Montana</td>]]></html>
+	<text>Lewistown, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KPLG</td>]]></html>
+	<text>KPLG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.5</td>]]></html>
+	<text>91.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Plains, Montana</td>]]></html>
+	<text>Plains, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Moody Broadcasting Network - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Additional Information</text>
+</context>
+<context>
+	<score>0.880117</score>
+	<text>[ edit ] Montana</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Moody Broadcasting Network</text>
+</context>
+<context>
+	<score>0.7831472</score>
+	<text>[ edit ] Missouri</text>
+</context>
+<context>
+	<score>0.75177467</score>
+	<text>[ edit ] Nebraska</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Owned &amp; Operated Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Affiliate Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055715</score>
+	<text>[ edit ] Mississippi</text>
+</context>
+<context>
+	<score>0.6435109</score>
+	<text>[ edit ] Minnesota</text>
+</context>
+<context>
+	<score>0.604978</score>
+	<text>[ edit ] New Hampshire</text>
+</context>
+<context>
+	<score>0.5938624</score>
+	<text>[ edit ] Michigan</text>
+</context>
+<context>
+	<score>0.5541436</score>
+	<text>[ edit ] Maryland</text>
+</context>
+<context>
+	<score>0.5223686</score>
+	<text>[ edit ] Maine</text>
+</context>
+<context>
+	<score>0.51862705</score>
+	<text>[ edit ] New Jersey</text>
+</context>
+<context>
+	<score>0.49694857</score>
+	<text>[ edit ] Louisiana</text>
+</context>
+<context>
+	<score>0.47661254</score>
+	<text>[ edit ] Kentucky</text>
+</context>
+<context>
+	<score>0.4678323</score>
+	<text>Callsign Frequency City of license Additional Information</text>
+</context>
+<context>
+	<score>0.46034372</score>
+	<text>[ edit ] Kansas</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>KGVW</b></td><td>640</td><td><a href="../../../../articles/b/e/l/Belgrade%2C_Montana_335d.html" title="Belgrade, Montana">Belgrade, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KGVW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KGVW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGVW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGVW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KBLW</b></td><td>90.1</td><td><a href="../../../../articles/b/i/l/Billings%2C_Montana_8485.html" title="Billings, Montana">Billings, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KBLW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KBLW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KBLW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KBLW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KMCJ</b></td><td>99.5</td><td><a href="../../../../articles/c/o/l/Colstrip%2C_Montana_bfd9.html" title="Colstrip, Montana">Colstrip, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KMCJ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KMCJ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KMCJ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KMCJ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KGLE</b></td><td>590</td><td><a href="../../../../articles/g/l/e/Glendive%2C_Montana_4c7b.html" title="Glendive, Montana">Glendive, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KGLE" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KGLE" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGLE" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGLE" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KGFC</b></td><td>88.9</td><td><a href="../../../../articles/g/r/e/Great_Falls%2C_Montana_98c7.html" title="Great Falls, Montana">Great Falls, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KGFC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KGFC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGFC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGFC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KXEI</b></td><td>95.1</td><td><a href="../../../../articles/h/a/v/Havre%2C_Montana_31f5.html" title="Havre, Montana">Havre, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KXEI" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KXEI" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KXEI" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KXEI" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KVCM</b></td><td>103.1</td><td><a href="../../../../articles/h/e/l/Helena%2C_Montana_857d.html" title="Helena, Montana">Helena, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KVCM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KVCM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KVCM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KVCM" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KSPL</b></td><td>90.9</td><td><a href="../../../../articles/k/a/l/Kalispell%2C_Montana_85b3.html" title="Kalispell, Montana">Kalispell, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KSPL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KSPL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KSPL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KSPL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KLEU</b></td><td>91.1</td><td><a href="../../../../articles/l/e/w/Lewistown%2C_Montana_f48b.html" title="Lewistown, Montana">Lewistown, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KLEU" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KLEU" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KLEU" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KLEU" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KPLG</b></td><td>91.5</td><td><a href="../../../../articles/p/l/a/Plains%2C_Montana_9d06.html" title="Plains, Montana">Plains, Montana</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KPLG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KPLG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KPLG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KPLG" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

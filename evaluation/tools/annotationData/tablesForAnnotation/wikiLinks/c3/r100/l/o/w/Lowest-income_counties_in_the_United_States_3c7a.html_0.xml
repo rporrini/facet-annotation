@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r100/l/o/w/Lowest-income_counties_in_the_United_States_3c7a.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 1 2, 0.16333334 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/o/w/Lowest-income_counties_in_the_United_States_3c7a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Per Capita Income</th>]]></html>
+	<text>Per Capita Income</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buffalo County, South Dakota</td>]]></html>
+	<text>Buffalo County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$5,213</td>]]></html>
+	<text>$5,213</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shannon County, South Dakota</td>]]></html>
+	<text>Shannon County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$6,286</td>]]></html>
+	<text>$6,286</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Starr County, Texas</td>]]></html>
+	<text>Starr County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$7,069</td>]]></html>
+	<text>$7,069</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ziebach County, South Dakota</td>]]></html>
+	<text>Ziebach County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$7,463</td>]]></html>
+	<text>$7,463</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Todd County, South Dakota</td>]]></html>
+	<text>Todd County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$7,714</td>]]></html>
+	<text>$7,714</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sioux County, North Dakota</td>]]></html>
+	<text>Sioux County, North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$7,731</td>]]></html>
+	<text>$7,731</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Corson County, South Dakota</td>]]></html>
+	<text>Corson County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$8,615</td>]]></html>
+	<text>$8,615</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wade Hampton, Alaska</td>]]></html>
+	<text>Wade Hampton, Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$8,717</td>]]></html>
+	<text>$8,717</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maverick County, Texas</td>]]></html>
+	<text>Maverick County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$8,758</td>]]></html>
+	<text>$8,758</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Apache County, Arizona</td>]]></html>
+	<text>Apache County, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$8,986</td>]]></html>
+	<text>$8,986</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dewey County, South Dakota</td>]]></html>
+	<text>Dewey County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,251</td>]]></html>
+	<text>$9,251</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Willacy County, Texas</td>]]></html>
+	<text>Willacy County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,421</td>]]></html>
+	<text>$9,421</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hudspeth County, Texas</td>]]></html>
+	<text>Hudspeth County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,549</td>]]></html>
+	<text>$9,549</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Presidio County, Texas</td>]]></html>
+	<text>Presidio County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,558</td>]]></html>
+	<text>$9,558</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Carroll Parish, Louisiana</td>]]></html>
+	<text>East Carroll Parish, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,629</td>]]></html>
+	<text>$9,629</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>La Salle County, Texas</td>]]></html>
+	<text>La Salle County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,692</td>]]></html>
+	<text>$9,692</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jefferson County, Mississippi</td>]]></html>
+	<text>Jefferson County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,709</td>]]></html>
+	<text>$9,709</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clay County, Kentucky</td>]]></html>
+	<text>Clay County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,716</td>]]></html>
+	<text>$9,716</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dimmit County, Texas</td>]]></html>
+	<text>Dimmit County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,765</td>]]></html>
+	<text>$9,765</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>McKinley County, New Mexico</td>]]></html>
+	<text>McKinley County, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,872</td>]]></html>
+	<text>$9,872</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>McCreary County, Kentucky</td>]]></html>
+	<text>McCreary County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,896</td>]]></html>
+	<text>$9,896</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hidalgo County, Texas</td>]]></html>
+	<text>Hidalgo County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,899</td>]]></html>
+	<text>$9,899</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jackson County, South Dakota</td>]]></html>
+	<text>Jackson County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$9,981</td>]]></html>
+	<text>$9,981</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zavala County, Texas</td>]]></html>
+	<text>Zavala County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,034</td>]]></html>
+	<text>$10,034</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bennett County, South Dakota</td>]]></html>
+	<text>Bennett County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,106</td>]]></html>
+	<text>$10,106</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madison Parish, Louisiana</td>]]></html>
+	<text>Madison Parish, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,114</td>]]></html>
+	<text>$10,114</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bullock County, Alabama</td>]]></html>
+	<text>Bullock County, Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,163</td>]]></html>
+	<text>$10,163</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>McDowell County, West Virginia</td>]]></html>
+	<text>McDowell County, West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,174</td>]]></html>
+	<text>$10,174</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Juan County, Utah</td>]]></html>
+	<text>San Juan County, Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,229</td>]]></html>
+	<text>$10,229</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brooks County, Texas</td>]]></html>
+	<text>Brooks County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,234</td>]]></html>
+	<text>$10,234</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wolfe County, Kentucky</td>]]></html>
+	<text>Wolfe County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,321</td>]]></html>
+	<text>$10,321</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mellette County, South Dakota</td>]]></html>
+	<text>Mellette County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,362</td>]]></html>
+	<text>$10,362</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leslie County, Kentucky</td>]]></html>
+	<text>Leslie County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,429</td>]]></html>
+	<text>$10,429</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zapata County, Texas</td>]]></html>
+	<text>Zapata County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,486</td>]]></html>
+	<text>$10,486</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamilton County, Florida</td>]]></html>
+	<text>Hamilton County, Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,562</td>]]></html>
+	<text>$10,562</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Issaquena County, Mississippi</td>]]></html>
+	<text>Issaquena County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,581</td>]]></html>
+	<text>$10,581</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bee County, Texas</td>]]></html>
+	<text>Bee County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,625</td>]]></html>
+	<text>$10,625</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Menominee County, Wisconsin</td>]]></html>
+	<text>Menominee County, Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,625</td>]]></html>
+	<text>$10,625</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martin County, Kentucky</td>]]></html>
+	<text>Martin County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,650</td>]]></html>
+	<text>$10,650</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Knox County, Kentucky</td>]]></html>
+	<text>Knox County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,660</td>]]></html>
+	<text>$10,660</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Holmes County, Mississippi</td>]]></html>
+	<text>Holmes County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,683</td>]]></html>
+	<text>$10,683</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>42</td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Magoffin County, Kentucky</td>]]></html>
+	<text>Magoffin County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,685</td>]]></html>
+	<text>$10,685</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jackson County, Kentucky</td>]]></html>
+	<text>Jackson County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,711</td>]]></html>
+	<text>$10,711</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>44</td>]]></html>
+	<text>44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Owsley County, Kentucky</td>]]></html>
+	<text>Owsley County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,742</td>]]></html>
+	<text>$10,742</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>45</td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Costilla County, Colorado</td>]]></html>
+	<text>Costilla County, Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,748</td>]]></html>
+	<text>$10,748</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>46</td>]]></html>
+	<text>46</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tallahatchie County, Mississippi</td>]]></html>
+	<text>Tallahatchie County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,749</td>]]></html>
+	<text>$10,749</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>47</td>]]></html>
+	<text>47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Webb County, Texas</td>]]></html>
+	<text>Webb County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,759</td>]]></html>
+	<text>$10,759</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Big Horn County, Montana</td>]]></html>
+	<text>Big Horn County, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,792</td>]]></html>
+	<text>$10,792</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>49</td>]]></html>
+	<text>49</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lake County, Tennessee</td>]]></html>
+	<text>Lake County, Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,794</td>]]></html>
+	<text>$10,794</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reeves County, Texas</td>]]></html>
+	<text>Reeves County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,811</td>]]></html>
+	<text>$10,811</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>51</td>]]></html>
+	<text>51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quitman County, Mississippi</td>]]></html>
+	<text>Quitman County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,817</td>]]></html>
+	<text>$10,817</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>52</td>]]></html>
+	<text>52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilkinson County, Mississippi</td>]]></html>
+	<text>Wilkinson County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,868</td>]]></html>
+	<text>$10,868</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>53</td>]]></html>
+	<text>53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rolette County, North Dakota</td>]]></html>
+	<text>Rolette County, North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,873</td>]]></html>
+	<text>$10,873</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>54</td>]]></html>
+	<text>54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilcox County, Alabama</td>]]></html>
+	<text>Wilcox County, Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,903</td>]]></html>
+	<text>$10,903</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>55</td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hancock County, Georgia</td>]]></html>
+	<text>Hancock County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,916</td>]]></html>
+	<text>$10,916</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>56</td>]]></html>
+	<text>56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Humphreys County, Mississippi</td>]]></html>
+	<text>Humphreys County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,926</td>]]></html>
+	<text>$10,926</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>57</td>]]></html>
+	<text>57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perry County, Alabama</td>]]></html>
+	<text>Perry County, Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,948</td>]]></html>
+	<text>$10,948</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>58</td>]]></html>
+	<text>58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thurston County, Nebraska</td>]]></html>
+	<text>Thurston County, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,951</td>]]></html>
+	<text>$10,951</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>59</td>]]></html>
+	<text>59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madison County, Idaho</td>]]></html>
+	<text>Madison County, Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,956</td>]]></html>
+	<text>$10,956</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cameron County, Texas</td>]]></html>
+	<text>Cameron County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,960</td>]]></html>
+	<text>$10,960</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>61</td>]]></html>
+	<text>61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lee County, Arkansas</td>]]></html>
+	<text>Lee County, Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$10,983</td>]]></html>
+	<text>$10,983</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>62</td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Breathitt County, Kentucky</td>]]></html>
+	<text>Breathitt County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,044</td>]]></html>
+	<text>$11,044</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>63</td>]]></html>
+	<text>63</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark County, Idaho</td>]]></html>
+	<text>Clark County, Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,141</td>]]></html>
+	<text>$11,141</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>64</td>]]></html>
+	<text>64</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adair County, Oklahoma</td>]]></html>
+	<text>Adair County, Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,185</td>]]></html>
+	<text>$11,185</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>65</td>]]></html>
+	<text>65</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Luna County, New Mexico</td>]]></html>
+	<text>Luna County, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,218</td>]]></html>
+	<text>$11,218</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>66</td>]]></html>
+	<text>66</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guadalupe County, New Mexico</td>]]></html>
+	<text>Guadalupe County, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,241</td>]]></html>
+	<text>$11,241</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>67</td>]]></html>
+	<text>67</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Claiborne County, Mississippi</td>]]></html>
+	<text>Claiborne County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,244</td>]]></html>
+	<text>$11,244</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>68</td>]]></html>
+	<text>68</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allendale County, South Carolina</td>]]></html>
+	<text>Allendale County, South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,293</td>]]></html>
+	<text>$11,293</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>69</td>]]></html>
+	<text>69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Knott County, Kentucky</td>]]></html>
+	<text>Knott County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,297</td>]]></html>
+	<text>$11,297</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>70</td>]]></html>
+	<text>70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Duval County, Texas</td>]]></html>
+	<text>Duval County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,324</td>]]></html>
+	<text>$11,324</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>71</td>]]></html>
+	<text>71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roosevelt County, Montana</td>]]></html>
+	<text>Roosevelt County, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,347</td>]]></html>
+	<text>$11,347</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>72</td>]]></html>
+	<text>72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sunflower County, Mississippi</td>]]></html>
+	<text>Sunflower County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,365</td>]]></html>
+	<text>$11,365</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>73</td>]]></html>
+	<text>73</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sharkey County, Mississippi</td>]]></html>
+	<text>Sharkey County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,396</td>]]></html>
+	<text>$11,396</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>74</td>]]></html>
+	<text>74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Menifee County, Kentucky</td>]]></html>
+	<text>Menifee County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,399</td>]]></html>
+	<text>$11,399</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>75</td>]]></html>
+	<text>75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evangeline Parish, Louisiana</td>]]></html>
+	<text>Evangeline Parish, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,432</td>]]></html>
+	<text>$11,432</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>76</td>]]></html>
+	<text>76</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sumter County, Alabama</td>]]></html>
+	<text>Sumter County, Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,491</td>]]></html>
+	<text>$11,491</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>77</td>]]></html>
+	<text>77</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calhoun County, West Virginia</td>]]></html>
+	<text>Calhoun County, West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,491</td>]]></html>
+	<text>$11,491</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>78</td>]]></html>
+	<text>78</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shannon County, Missouri</td>]]></html>
+	<text>Shannon County, Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,492</td>]]></html>
+	<text>$11,492</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>79</td>]]></html>
+	<text>79</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Culberson County, Texas</td>]]></html>
+	<text>Culberson County, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,493</td>]]></html>
+	<text>$11,493</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>80</td>]]></html>
+	<text>80</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles Mix County, South Dakota</td>]]></html>
+	<text>Charles Mix County, South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,502</td>]]></html>
+	<text>$11,502</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>81</td>]]></html>
+	<text>81</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Benson County, North Dakota</td>]]></html>
+	<text>Benson County, North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,509</td>]]></html>
+	<text>$11,509</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>82</td>]]></html>
+	<text>82</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bell County, Kentucky</td>]]></html>
+	<text>Bell County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,526</td>]]></html>
+	<text>$11,526</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>83</td>]]></html>
+	<text>83</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harlan County, Kentucky</td>]]></html>
+	<text>Harlan County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,585</td>]]></html>
+	<text>$11,585</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>84</td>]]></html>
+	<text>84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glacier County, Montana</td>]]></html>
+	<text>Glacier County, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,597</td>]]></html>
+	<text>$11,597</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>85</td>]]></html>
+	<text>85</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Navajo County, Arizona</td>]]></html>
+	<text>Navajo County, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,609</td>]]></html>
+	<text>$11,609</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>86</td>]]></html>
+	<text>86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cibola County, New Mexico</td>]]></html>
+	<text>Cibola County, New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,731</td>]]></html>
+	<text>$11,731</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>87</td>]]></html>
+	<text>87</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winn Parish, Louisiana</td>]]></html>
+	<text>Winn Parish, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,794</td>]]></html>
+	<text>$11,794</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>88</td>]]></html>
+	<text>88</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Randolph County, Georgia</td>]]></html>
+	<text>Randolph County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,809</td>]]></html>
+	<text>$11,809</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>89</td>]]></html>
+	<text>89</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Macon County, Georgia</td>]]></html>
+	<text>Macon County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,820</td>]]></html>
+	<text>$11,820</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>90</td>]]></html>
+	<text>90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calhoun County, Georgia</td>]]></html>
+	<text>Calhoun County, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,839</td>]]></html>
+	<text>$11,839</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>91</td>]]></html>
+	<text>91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Keya Paha County, Nebraska</td>]]></html>
+	<text>Keya Paha County, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,860</td>]]></html>
+	<text>$11,860</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>92</td>]]></html>
+	<text>92</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greene County, Mississippi</td>]]></html>
+	<text>Greene County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,868</td>]]></html>
+	<text>$11,868</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>93</td>]]></html>
+	<text>93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wheatland County, Montana</td>]]></html>
+	<text>Wheatland County, Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,954</td>]]></html>
+	<text>$11,954</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>94</td>]]></html>
+	<text>94</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Concordia Parish, Louisiana</td>]]></html>
+	<text>Concordia Parish, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,966</td>]]></html>
+	<text>$11,966</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>95</td>]]></html>
+	<text>95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jefferson Davis County, Mississippi</td>]]></html>
+	<text>Jefferson Davis County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,974</td>]]></html>
+	<text>$11,974</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>96</td>]]></html>
+	<text>96</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tunica County, Mississippi</td>]]></html>
+	<text>Tunica County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,978</td>]]></html>
+	<text>$11,978</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>97</td>]]></html>
+	<text>97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Letcher County, Kentucky</td>]]></html>
+	<text>Letcher County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,984</td>]]></html>
+	<text>$11,984</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>98</td>]]></html>
+	<text>98</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kemper County, Mississippi</td>]]></html>
+	<text>Kemper County, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,985</td>]]></html>
+	<text>$11,985</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>99</td>]]></html>
+	<text>99</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hancock County, Tennessee</td>]]></html>
+	<text>Hancock County, Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$11,986</td>]]></html>
+	<text>$11,986</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>100</td>]]></html>
+	<text>100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lawrence County, Kentucky</td>]]></html>
+	<text>Lawrence County, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$12,008</td>]]></html>
+	<text>$12,008</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Lowest-income counties in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank County Per Capita Income</text>
+</context>
+<context>
+	<score>0.8781026</score>
+	<text>United States of America: $21,587</text>
+</context>
+<context>
+	<score>0.80597997</score>
+	<text>Lowest-income counties in the United States</text>
+</context>
+<context>
+	<score>0.7805847</score>
+	<text>Number of counties by state in the 100 poorest counties : Texas, 17; Kentucky, 16; Mississippi, 14; South Dakota, 10; Louisiana, 5; Alabama, 4; Georgia, 4; Montana, 4; New Mexico, 4; North Dakota, 3; Arizona, 2; Idaho, 2; Nebraska, 2; Tennessee, 2; West Virginia, 2; Alaska, 1; Arkansas, 1; Colorado, 1; Florida, 1; Missouri, 1; Oklahoma, 1; South Carolina, 1; Utah, 1; Wisconsin, 1. Twenty-six states do not have any counties in the 100 poorest counties.</text>
+</context>
+<context>
+	<score>0.7642719</score>
+	<text>[ edit ] 100 poorest counties by median household income</text>
+</context>
+<context>
+	<score>0.74320287</score>
+	<text>[ edit ] 100 poorest counties by per capita income</text>
+</context>
+<context>
+	<score>0.74320287</score>
+	<text>[ edit ] 100 poorest counties by median household income</text>
+</context>
+<context>
+	<score>0.74320287</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7178075</score>
+	<text>[ edit ] 100 poorest counties by per capita income</text>
+</context>
+<context>
+	<score>0.66555417</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61562496</score>
+	<text>Lowest-income counties in the United States</text>
+</context>
+<context>
+	<score>0.6014082</score>
+	<text>Number of counties by state in the 100 poorest counties : Kentucky, 29; Mississippi, 13; Texas, 10; Alabama, 7; Arkansas, 7; South Dakota, 6; West Virginia, 6; Louisiana, 5; Georgia, 3; Missouri, 3; Oklahoma, 3; Tennessee, 2; Colorado, 1; Hawai&apos;i, 1; North Dakota, 1; New Mexico, 1; South Carolina, 1; Virginia, 1. Thirty-two states do not have any counties in the 100 poorest counties.</text>
+</context>
+<context>
+	<score>0.514569</score>
+	<text>United States of America: $41,994</text>
+</context>
+<context>
+	<score>0.47872433</score>
+	<text>[ edit ] See also</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table align="center" cellpadding="4" cellspacing="0" style="border: 1px solid #aaa; border-collapse: collapse;"><tr style="background:#efefef;"><th>Rank</th><th>County</th><th>Per Capita<br />Income</th></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>1</b></td><td><a href="../../../../articles/b/u/f/Buffalo_County%2C_South_Dakota_737e.html" title="Buffalo County, South Dakota">Buffalo County, South Dakota</a></td><td>$5,213</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>2</b></td><td><a href="../../../../articles/s/h/a/Shannon_County%2C_South_Dakota_9de5.html" title="Shannon County, South Dakota">Shannon County, South Dakota</a></td><td>$6,286</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>3</b></td><td><a href="../../../../articles/s/t/a/Starr_County%2C_Texas_0311.html" title="Starr County, Texas">Starr County, Texas</a></td><td>$7,069</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>4</b></td><td><a href="../../../../articles/z/i/e/Ziebach_County%2C_South_Dakota_478f.html" title="Ziebach County, South Dakota">Ziebach County, South Dakota</a></td><td>$7,463</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>5</b></td><td><a href="../../../../articles/t/o/d/Todd_County%2C_South_Dakota_4189.html" title="Todd County, South Dakota">Todd County, South Dakota</a></td><td>$7,714</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>6</b></td><td><a href="../../../../articles/s/i/o/Sioux_County%2C_North_Dakota_4bce.html" title="Sioux County, North Dakota">Sioux County, North Dakota</a></td><td>$7,731</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>7</b></td><td><a href="../../../../articles/c/o/r/Corson_County%2C_South_Dakota_c34c.html" title="Corson County, South Dakota">Corson County, South Dakota</a></td><td>$8,615</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>8</b></td><td><a href="../../../../articles/w/a/d/Wade_Hampton_Census_Area%2C_Alaska_0ac7.html" title="Wade Hampton Census Area, Alaska">Wade Hampton, Alaska</a></td><td>$8,717</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>9</b></td><td><a href="../../../../articles/m/a/v/Maverick_County%2C_Texas_3644.html" title="Maverick County, Texas">Maverick County, Texas</a></td><td>$8,758</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>10</b></td><td><a href="../../../../articles/a/p/a/Apache_County%2C_Arizona_be3d.html" title="Apache County, Arizona">Apache County, Arizona</a></td><td>$8,986</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>11</b></td><td><a href="../../../../articles/d/e/w/Dewey_County%2C_South_Dakota_69d7.html" title="Dewey County, South Dakota">Dewey County, South Dakota</a></td><td>$9,251</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>12</b></td><td><a href="../../../../articles/w/i/l/Willacy_County%2C_Texas_b0ba.html" title="Willacy County, Texas">Willacy County, Texas</a></td><td>$9,421</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>13</b></td><td><a href="../../../../articles/h/u/d/Hudspeth_County%2C_Texas_5b98.html" title="Hudspeth County, Texas">Hudspeth County, Texas</a></td><td>$9,549</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>14</b></td><td><a href="../../../../articles/p/r/e/Presidio_County%2C_Texas_76b7.html" title="Presidio County, Texas">Presidio County, Texas</a></td><td>$9,558</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>15</b></td><td><a href="../../../../articles/e/a/s/East_Carroll_Parish%2C_Louisiana_b8a2.html" title="East Carroll Parish, Louisiana">East Carroll Parish, Louisiana</a></td><td>$9,629</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>16</b></td><td><a href="../../../../articles/l/a/_/La_Salle_County%2C_Texas_537b.html" title="La Salle County, Texas">La Salle County, Texas</a></td><td>$9,692</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>17</b></td><td><a href="../../../../articles/j/e/f/Jefferson_County%2C_Mississippi_d5e0.html" title="Jefferson County, Mississippi">Jefferson County, Mississippi</a></td><td>$9,709</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>18</b></td><td><a href="../../../../articles/c/l/a/Clay_County%2C_Kentucky_b865.html" title="Clay County, Kentucky">Clay County, Kentucky</a></td><td>$9,716</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>19</b></td><td><a href="../../../../articles/d/i/m/Dimmit_County%2C_Texas_8f4c.html" title="Dimmit County, Texas">Dimmit County, Texas</a></td><td>$9,765</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>20</b></td><td><a href="../../../../articles/m/c/k/McKinley_County%2C_New_Mexico_ddb5.html" title="McKinley County, New Mexico">McKinley County, New Mexico</a></td><td>$9,872</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>21</b></td><td><a href="../../../../articles/m/c/c/McCreary_County%2C_Kentucky_9a45.html" title="McCreary County, Kentucky">McCreary County, Kentucky</a></td><td>$9,896</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>22</b></td><td><a href="../../../../articles/h/i/d/Hidalgo_County%2C_Texas_1791.html" title="Hidalgo County, Texas">Hidalgo County, Texas</a></td><td>$9,899</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>23</b></td><td><a href="../../../../articles/j/a/c/Jackson_County%2C_South_Dakota_c334.html" title="Jackson County, South Dakota">Jackson County, South Dakota</a></td><td>$9,981</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>24</b></td><td><a href="../../../../articles/z/a/v/Zavala_County%2C_Texas_8368.html" title="Zavala County, Texas">Zavala County, Texas</a></td><td>$10,034</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>25</b></td><td><a href="../../../../articles/b/e/n/Bennett_County%2C_South_Dakota_230e.html" title="Bennett County, South Dakota">Bennett County, South Dakota</a></td><td>$10,106</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>26</b></td><td><a href="../../../../articles/m/a/d/Madison_Parish%2C_Louisiana_f46a.html" title="Madison Parish, Louisiana">Madison Parish, Louisiana</a></td><td>$10,114</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>27</b></td><td><a href="../../../../articles/b/u/l/Bullock_County%2C_Alabama_9b2b.html" title="Bullock County, Alabama">Bullock County, Alabama</a></td><td>$10,163</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>28</b></td><td><a href="../../../../articles/m/c/d/McDowell_County%2C_West_Virginia_afc8.html" title="McDowell County, West Virginia">McDowell County, West Virginia</a></td><td>$10,174</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>29</b></td><td><a href="../../../../articles/s/a/n/San_Juan_County%2C_Utah_0f78.html" title="San Juan County, Utah">San Juan County, Utah</a></td><td>$10,229</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>30</b></td><td><a href="../../../../articles/b/r/o/Brooks_County%2C_Texas_367e.html" title="Brooks County, Texas">Brooks County, Texas</a></td><td>$10,234</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>31</b></td><td><a href="../../../../articles/w/o/l/Wolfe_County%2C_Kentucky_13e8.html" title="Wolfe County, Kentucky">Wolfe County, Kentucky</a></td><td>$10,321</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>32</b></td><td><a href="../../../../articles/m/e/l/Mellette_County%2C_South_Dakota_7abb.html" title="Mellette County, South Dakota">Mellette County, South Dakota</a></td><td>$10,362</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>33</b></td><td><a href="../../../../articles/l/e/s/Leslie_County%2C_Kentucky_2a1f.html" title="Leslie County, Kentucky">Leslie County, Kentucky</a></td><td>$10,429</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>34</b></td><td><a href="../../../../articles/z/a/p/Zapata_County%2C_Texas_9a13.html" title="Zapata County, Texas">Zapata County, Texas</a></td><td>$10,486</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>35</b></td><td><a href="../../../../articles/h/a/m/Hamilton_County%2C_Florida_f2ba.html" title="Hamilton County, Florida">Hamilton County, Florida</a></td><td>$10,562</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>36</b></td><td><a href="../../../../articles/i/s/s/Issaquena_County%2C_Mississippi_eeab.html" title="Issaquena County, Mississippi">Issaquena County, Mississippi</a></td><td>$10,581</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>37</b></td><td><a href="../../../../articles/b/e/e/Bee_County%2C_Texas_eba9.html" title="Bee County, Texas">Bee County, Texas</a></td><td>$10,625</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>38</b></td><td><a href="../../../../articles/m/e/n/Menominee_County%2C_Wisconsin_8827.html" title="Menominee County, Wisconsin">Menominee County, Wisconsin</a></td><td>$10,625</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>39</b></td><td><a href="../../../../articles/m/a/r/Martin_County%2C_Kentucky_9fac.html" title="Martin County, Kentucky">Martin County, Kentucky</a></td><td>$10,650</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>40</b></td><td><a href="../../../../articles/k/n/o/Knox_County%2C_Kentucky_12c9.html" title="Knox County, Kentucky">Knox County, Kentucky</a></td><td>$10,660</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>41</b></td><td><a href="../../../../articles/h/o/l/Holmes_County%2C_Mississippi_5654.html" title="Holmes County, Mississippi">Holmes County, Mississippi</a></td><td>$10,683</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>42</b></td><td><a href="../../../../articles/m/a/g/Magoffin_County%2C_Kentucky_2303.html" title="Magoffin County, Kentucky">Magoffin County, Kentucky</a></td><td>$10,685</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>43</b></td><td><a href="../../../../articles/j/a/c/Jackson_County%2C_Kentucky_13d7.html" title="Jackson County, Kentucky">Jackson County, Kentucky</a></td><td>$10,711</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>44</b></td><td><a href="../../../../articles/o/w/s/Owsley_County%2C_Kentucky_c93a.html" title="Owsley County, Kentucky">Owsley County, Kentucky</a></td><td>$10,742</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>45</b></td><td><a href="../../../../articles/c/o/s/Costilla_County%2C_Colorado_9c29.html" title="Costilla County, Colorado">Costilla County, Colorado</a></td><td>$10,748</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>46</b></td><td><a href="../../../../articles/t/a/l/Tallahatchie_County%2C_Mississippi_f92f.html" title="Tallahatchie County, Mississippi">Tallahatchie County, Mississippi</a></td><td>$10,749</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>47</b></td><td><a href="../../../../articles/w/e/b/Webb_County%2C_Texas_1aed.html" title="Webb County, Texas">Webb County, Texas</a></td><td>$10,759</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>48</b></td><td><a href="../../../../articles/b/i/g/Big_Horn_County%2C_Montana_c3bc.html" title="Big Horn County, Montana">Big Horn County, Montana</a></td><td>$10,792</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>49</b></td><td><a href="../../../../articles/l/a/k/Lake_County%2C_Tennessee_319b.html" title="Lake County, Tennessee">Lake County, Tennessee</a></td><td>$10,794</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>50</b></td><td><a href="../../../../articles/r/e/e/Reeves_County%2C_Texas_c326.html" title="Reeves County, Texas">Reeves County, Texas</a></td><td>$10,811</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>51</b></td><td><a href="../../../../articles/q/u/i/Quitman_County%2C_Mississippi_23f3.html" title="Quitman County, Mississippi">Quitman County, Mississippi</a></td><td>$10,817</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>52</b></td><td><a href="../../../../articles/w/i/l/Wilkinson_County%2C_Mississippi_fa43.html" title="Wilkinson County, Mississippi">Wilkinson County, Mississippi</a></td><td>$10,868</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>53</b></td><td><a href="../../../../articles/r/o/l/Rolette_County%2C_North_Dakota_fc17.html" title="Rolette County, North Dakota">Rolette County, North Dakota</a></td><td>$10,873</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>54</b></td><td><a href="../../../../articles/w/i/l/Wilcox_County%2C_Alabama_f048.html" title="Wilcox County, Alabama">Wilcox County, Alabama</a></td><td>$10,903</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>55</b></td><td><a href="../../../../articles/h/a/n/Hancock_County%2C_Georgia_9492.html" title="Hancock County, Georgia">Hancock County, Georgia</a></td><td>$10,916</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>56</b></td><td><a href="../../../../articles/h/u/m/Humphreys_County%2C_Mississippi_69b2.html" title="Humphreys County, Mississippi">Humphreys County, Mississippi</a></td><td>$10,926</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>57</b></td><td><a href="../../../../articles/p/e/r/Perry_County%2C_Alabama_348f.html" title="Perry County, Alabama">Perry County, Alabama</a></td><td>$10,948</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>58</b></td><td><a href="../../../../articles/t/h/u/Thurston_County%2C_Nebraska_35b8.html" title="Thurston County, Nebraska">Thurston County, Nebraska</a></td><td>$10,951</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>59</b></td><td><a href="../../../../articles/m/a/d/Madison_County%2C_Idaho_540f.html" title="Madison County, Idaho">Madison County, Idaho</a></td><td>$10,956</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>60</b></td><td><a href="../../../../articles/c/a/m/Cameron_County%2C_Texas_e17c.html" title="Cameron County, Texas">Cameron County, Texas</a></td><td>$10,960</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>61</b></td><td><a href="../../../../articles/l/e/e/Lee_County%2C_Arkansas_3089.html" title="Lee County, Arkansas">Lee County, Arkansas</a></td><td>$10,983</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>62</b></td><td><a href="../../../../articles/b/r/e/Breathitt_County%2C_Kentucky_d930.html" title="Breathitt County, Kentucky">Breathitt County, Kentucky</a></td><td>$11,044</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>63</b></td><td><a href="../../../../articles/c/l/a/Clark_County%2C_Idaho_0631.html" title="Clark County, Idaho">Clark County, Idaho</a></td><td>$11,141</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>64</b></td><td><a href="../../../../articles/a/d/a/Adair_County%2C_Oklahoma_548c.html" title="Adair County, Oklahoma">Adair County, Oklahoma</a></td><td>$11,185</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>65</b></td><td><a href="../../../../articles/l/u/n/Luna_County%2C_New_Mexico_3070.html" title="Luna County, New Mexico">Luna County, New Mexico</a></td><td>$11,218</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>66</b></td><td><a href="../../../../articles/g/u/a/Guadalupe_County%2C_New_Mexico_a38d.html" title="Guadalupe County, New Mexico">Guadalupe County, New Mexico</a></td><td>$11,241</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>67</b></td><td><a href="../../../../articles/c/l/a/Claiborne_County%2C_Mississippi_43b0.html" title="Claiborne County, Mississippi">Claiborne County, Mississippi</a></td><td>$11,244</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>68</b></td><td><a href="../../../../articles/a/l/l/Allendale_County%2C_South_Carolina_6ec3.html" title="Allendale County, South Carolina">Allendale County, South Carolina</a></td><td>$11,293</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>69</b></td><td><a href="../../../../articles/k/n/o/Knott_County%2C_Kentucky_a17a.html" title="Knott County, Kentucky">Knott County, Kentucky</a></td><td>$11,297</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>70</b></td><td><a href="../../../../articles/d/u/v/Duval_County%2C_Texas_7dff.html" title="Duval County, Texas">Duval County, Texas</a></td><td>$11,324</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>71</b></td><td><a href="../../../../articles/r/o/o/Roosevelt_County%2C_Montana_21a0.html" title="Roosevelt County, Montana">Roosevelt County, Montana</a></td><td>$11,347</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>72</b></td><td><a href="../../../../articles/s/u/n/Sunflower_County%2C_Mississippi_cb9b.html" title="Sunflower County, Mississippi">Sunflower County, Mississippi</a></td><td>$11,365</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>73</b></td><td><a href="../../../../articles/s/h/a/Sharkey_County%2C_Mississippi_ae92.html" title="Sharkey County, Mississippi">Sharkey County, Mississippi</a></td><td>$11,396</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>74</b></td><td><a href="../../../../articles/m/e/n/Menifee_County%2C_Kentucky_2fd7.html" title="Menifee County, Kentucky">Menifee County, Kentucky</a></td><td>$11,399</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>75</b></td><td><a href="../../../../articles/e/v/a/Evangeline_Parish%2C_Louisiana_ef8c.html" title="Evangeline Parish, Louisiana">Evangeline Parish, Louisiana</a></td><td>$11,432</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>76</b></td><td><a href="../../../../articles/s/u/m/Sumter_County%2C_Alabama_e3a9.html" title="Sumter County, Alabama">Sumter County, Alabama</a></td><td>$11,491</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>77</b></td><td><a href="../../../../articles/c/a/l/Calhoun_County%2C_West_Virginia_9a3e.html" title="Calhoun County, West Virginia">Calhoun County, West Virginia</a></td><td>$11,491</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>78</b></td><td><a href="../../../../articles/s/h/a/Shannon_County%2C_Missouri_e508.html" title="Shannon County, Missouri">Shannon County, Missouri</a></td><td>$11,492</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>79</b></td><td><a href="../../../../articles/c/u/l/Culberson_County%2C_Texas_f72e.html" title="Culberson County, Texas">Culberson County, Texas</a></td><td>$11,493</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>80</b></td><td><a href="../../../../articles/c/h/a/Charles_Mix_County%2C_South_Dakota_536d.html" title="Charles Mix County, South Dakota">Charles Mix County, South Dakota</a></td><td>$11,502</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>81</b></td><td><a href="../../../../articles/b/e/n/Benson_County%2C_North_Dakota_db91.html" title="Benson County, North Dakota">Benson County, North Dakota</a></td><td>$11,509</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>82</b></td><td><a href="../../../../articles/b/e/l/Bell_County%2C_Kentucky_2f8e.html" title="Bell County, Kentucky">Bell County, Kentucky</a></td><td>$11,526</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>83</b></td><td><a href="../../../../articles/h/a/r/Harlan_County%2C_Kentucky_5763.html" title="Harlan County, Kentucky">Harlan County, Kentucky</a></td><td>$11,585</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>84</b></td><td><a href="../../../../articles/g/l/a/Glacier_County%2C_Montana_e2a3.html" title="Glacier County, Montana">Glacier County, Montana</a></td><td>$11,597</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>85</b></td><td><a href="../../../../articles/n/a/v/Navajo_County%2C_Arizona_8676.html" title="Navajo County, Arizona">Navajo County, Arizona</a></td><td>$11,609</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>86</b></td><td><a href="../../../../articles/c/i/b/Cibola_County%2C_New_Mexico_ea24.html" title="Cibola County, New Mexico">Cibola County, New Mexico</a></td><td>$11,731</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>87</b></td><td><a href="../../../../articles/w/i/n/Winn_Parish%2C_Louisiana_a4bc.html" title="Winn Parish, Louisiana">Winn Parish, Louisiana</a></td><td>$11,794</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>88</b></td><td><a href="../../../../articles/r/a/n/Randolph_County%2C_Georgia_98ff.html" title="Randolph County, Georgia">Randolph County, Georgia</a></td><td>$11,809</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>89</b></td><td><a href="../../../../articles/m/a/c/Macon_County%2C_Georgia_6840.html" title="Macon County, Georgia">Macon County, Georgia</a></td><td>$11,820</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>90</b></td><td><a href="../../../../articles/c/a/l/Calhoun_County%2C_Georgia_fa7f.html" title="Calhoun County, Georgia">Calhoun County, Georgia</a></td><td>$11,839</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>91</b></td><td><a href="../../../../articles/k/e/y/Keya_Paha_County%2C_Nebraska_1828.html" title="Keya Paha County, Nebraska">Keya Paha County, Nebraska</a></td><td>$11,860</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>92</b></td><td><a href="../../../../articles/g/r/e/Greene_County%2C_Mississippi_dac5.html" title="Greene County, Mississippi">Greene County, Mississippi</a></td><td>$11,868</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>93</b></td><td><a href="../../../../articles/w/h/e/Wheatland_County%2C_Montana_de75.html" title="Wheatland County, Montana">Wheatland County, Montana</a></td><td>$11,954</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>94</b></td><td><a href="../../../../articles/c/o/n/Concordia_Parish%2C_Louisiana_9590.html" title="Concordia Parish, Louisiana">Concordia Parish, Louisiana</a></td><td>$11,966</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>95</b></td><td><a href="../../../../articles/j/e/f/Jefferson_Davis_County%2C_Mississippi_180b.html" title="Jefferson Davis County, Mississippi">Jefferson Davis County, Mississippi</a></td><td>$11,974</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>96</b></td><td><a href="../../../../articles/t/u/n/Tunica_County%2C_Mississippi_dea7.html" title="Tunica County, Mississippi">Tunica County, Mississippi</a></td><td>$11,978</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>97</b></td><td><a href="../../../../articles/l/e/t/Letcher_County%2C_Kentucky_bbd5.html" title="Letcher County, Kentucky">Letcher County, Kentucky</a></td><td>$11,984</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>98</b></td><td><a href="../../../../articles/k/e/m/Kemper_County%2C_Mississippi_04bb.html" title="Kemper County, Mississippi">Kemper County, Mississippi</a></td><td>$11,985</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>99</b></td><td><a href="../../../../articles/h/a/n/Hancock_County%2C_Tennessee_4e51.html" title="Hancock County, Tennessee">Hancock County, Tennessee</a></td><td>$11,986</td></tr><tr style="border-top: 1px solid #aaa; vertical-align: top"><td><b>100</b></td><td><a href="../../../../articles/l/a/w/Lawrence_County%2C_Kentucky_29a6.html" title="Lawrence County, Kentucky">Lawrence County, Kentucky</a></td><td>$12,008</td></tr></table>]]>
+</htmlSnippet>
+</entity>

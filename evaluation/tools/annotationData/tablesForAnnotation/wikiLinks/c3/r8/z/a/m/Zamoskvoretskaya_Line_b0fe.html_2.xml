@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/z/a/m/Zamoskvoretskaya_Line_b0fe.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.8333333 1 2, 0.5208333 2, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/z/a/m/Zamoskvoretskaya_Line_b0fe.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>#</th>]]></html>
+	<text>#</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Transfer to</th>]]></html>
+	<text>Transfer to</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>At</th>]]></html>
+	<text>At</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sokolnicheskaya Line</td>]]></html>
+	<text>Sokolnicheskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teatralnaya</td>]]></html>
+	<text>Teatralnaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arbatsko-Pokrovskaya Line</td>]]></html>
+	<text>Arbatsko-Pokrovskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teatralnaya</td>]]></html>
+	<text>Teatralnaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koltsevaya Line</td>]]></html>
+	<text>Koltsevaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belorusskaya , Paveletskaya</td>]]></html>
+	<text>Belorusskaya , Paveletskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kaluzhsko-Rizhskaya Line</td>]]></html>
+	<text>Kaluzhsko-Rizhskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Novokuznetskaya</td>]]></html>
+	<text>Novokuznetskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tagansko-Krasnopresnenskaya Line</td>]]></html>
+	<text>Tagansko-Krasnopresnenskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tverskaya</td>]]></html>
+	<text>Tverskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalininskaya Line</td>]]></html>
+	<text>Kalininskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Novokuznetskaya</td>]]></html>
+	<text>Novokuznetskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Serpukhovsko-Timiryazevskaya Line</td>]]></html>
+	<text>Serpukhovsko-Timiryazevskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tverskaya</td>]]></html>
+	<text>Tverskaya</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kakhovskaya Line</td>]]></html>
+	<text>Kakhovskaya Line</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kashirskaya</td>]]></html>
+	<text>Kashirskaya</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Zamoskvoretskaya Line - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text># Transfer to At</text>
+</context>
+<context>
+	<score>0.8845697</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.79857343</score>
+	<text>Zamoskvoretskaya Line</text>
+</context>
+<context>
+	<score>0.7875616</score>
+	<text>[ edit ] Name changes</text>
+</context>
+<context>
+	<score>0.7503468</score>
+	<text>The Kashirskaya transfer is a cross-platform one.</text>
+</context>
+<context>
+	<score>0.7267968</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7267968</score>
+	<text>[ edit ] Transfers</text>
+</context>
+<context>
+	<score>0.7267968</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.7267968</score>
+	<text>[ edit ] Recent events and future plans</text>
+</context>
+<context>
+	<score>0.7267968</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.720967</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7099551</score>
+	<text>[ edit ] Timeline</text>
+</context>
+<context>
+	<score>0.6478699</score>
+	<text>When the line first opened in 1938, to distinguish the simultaneous formation of the three lines instead of one, colour coding was introduced. The first one, the Sokolnicheskaya being Red, for mostly political reasons. However chronologically the Arbatsko-Pokrovskaya Line would have been second and was coloured blue, whilst the third one Zamoskvoretskaya was given green. However as part of the Arbatsko-Pokrovskaya Line was already in operation from the first stage, the significance of the Zamoskvoretskaya Line was far greater. As a result the line was listed second. This tradition has since been passed on in all ex-Soviet cities with the first line being Red and the second/third being either blue or green. However some metros, notably Minsk Metro chose to deliberately reverse the trend.</text>
+</context>
+<context>
+	<score>0.6093218</score>
+	<text>[ edit ] Rolling stock</text>
+</context>
+<context>
+	<score>0.59820175</score>
+	<text>The line&apos;s complex and inspiring history is mirrored in its architectural ensemble, particularly as it is one of the few places that it is possible to see the best of Soviet pre-war Art Deco architecture. In the spotlight before all other stations is Mayakovskaya , a station that is not only most-photographed in the network but is also common sight on covers of brochures and tour guides into Moscow&apos;s underground realm.</text>
+</context>
+<context>
+	<score>0.5584672</score>
+	<text>Several more extensions were to take place including the northern one following the Leningrad Highway and the Moscow Canal into the Northern River Port in 1964 . A southern one in 1969 passed the Nagatino industrial district and the Kolomenskoye park, the rest of the extension went into the future Kakhovskaya Line . In 1984 a third extension commenced in two stages to the southeast past the Tsaritsyno park and into the Orekhovo-Borisovo housing massifs. A flooded tunnel, however forced the new branch to close a day after and for the next two and a half months. In late 1985 the second stage was completed, and in all the line reached its present length of 36.9 kilometres with 20 stations and a daily passenger traffic of 1.8 million people.</text>
+</context>
+<context>
+	<score>0.52667964</score>
+	<text>The second stage, construction of which was uninterrupted during the war, opened in 1943 and followed the Red Square south under the Moskva River into the dense district of Zamoskvorechye (hence the name) and then onto the Paveletsky Rail Terminal and more significantly the Stalin Factory (ZiS) in the Southeast of Moscow.</text>
+</context>
+<context>
+	<score>0.5171068</score>
+	<text>The line is served by the Sokol (No 2) and Zamoskvoretskoe (No 7) depots to which, respectively, 39 and 36 eight-carriage are assigned. The line began receiving 81-714/717 trains in 1980, replacing older E types in a programme which was finished in 1987. Some of these were upgraded to the .5 standard. When the Kakhovskaya branch separated from the main line, seven six-carriage trains were formed for it at the Zamoskvoretskoe depot.</text>
+</context>
+<context>
+	<score>0.5012495</score>
+	<text>The first stage of the followed Moscow&apos;s most busiest transport artery the Leningradsky Prospekt or as it moves into the centre the Tverskaya Street (formally Gorkovskaya hence the original name), and connected the northwestern districts of Aeroport and Begovoy along with the Belorussky Rail Terminal with the city centre in 1938 .</text>
+</context>
+<context>
+	<score>0.48090544</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.47212178</score>
+	<text>[ edit ] Recent events and future plans</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.45160997</score>
+	<text>), is a line of the Moscow Metro . Opened in 1938 , chronologically it became the third line. There are twenty stations on the Zamoskvoretskaya line, and it spans 36.9 kilometres (22.9 mi), roughly crossing Moscow in a north-south direction. A normal trip along the entire line takes 52 minutes, with the trains on the line averaging 42 kilometres per hour (26 mph). While most of the line is underground, there are some pockets of surface-level or above-ground track, mainly at the point where the line crosses the Moskva River . The Zamoskvoretskaya line contains many examples of original Moscow Metro architecture, and contains what may be the most photographed station on the entire network: Mayakovskaya .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable" cellpadding="3" style="border-collapse: collapse; text-align: left;"><tr><th>#</th><th>Transfer to</th><th>At</th></tr><tr><td style="background: red;padding:.5em;">1</td><td style="text-align: left;"><a href="../../../../articles/s/o/k/Sokolnicheskaya_Line_fd85.html" title="Sokolnicheskaya Line">Sokolnicheskaya Line</a></td><td><a href="../../../../articles/t/e/a/Teatralnaya.html" title="Teatralnaya">Teatralnaya</a></td></tr><tr><td style="background: blue;padding:.5em;">3</td><td style="text-align: left;"><a href="../../../../articles/a/r/b/Arbatsko-Pokrovskaya_Line_1718.html" title="Arbatsko-Pokrovskaya Line">Arbatsko-Pokrovskaya Line</a></td><td><a href="../../../../articles/t/e/a/Teatralnaya.html" title="Teatralnaya">Teatralnaya</a></td></tr><tr><td style="background: #CC6600;padding:.5em;">5</td><td style="text-align: left;"><a href="../../../../articles/k/o/l/Koltsevaya_Line_c3fb.html" title="Koltsevaya Line">Koltsevaya Line</a></td><td><a href="../../../../articles/b/e/l/Belorusskaya-Radialnaya_6cd6.html" title="Belorusskaya-Radialnaya">Belorusskaya</a>, <a href="../../../../articles/p/a/v/Paveletskaya-Radialnaya_e622.html" title="Paveletskaya-Radialnaya">Paveletskaya</a></td></tr><tr><td style="background: orange;padding:.5em;">6</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kaluzhsko-Rizhskaya_Line_f663.html" title="Kaluzhsko-Rizhskaya Line">Kaluzhsko-Rizhskaya Line</a></td><td><a href="../../../../articles/n/o/v/Novokuznetskaya.html" title="Novokuznetskaya">Novokuznetskaya</a></td></tr><tr><td style="background: #FF00FF;padding:.5em;">7</td><td style="text-align: left;"><a href="../../../../articles/t/a/g/Tagansko-Krasnopresnenskaya_Line_5ec5.html" title="Tagansko-Krasnopresnenskaya Line">Tagansko-Krasnopresnenskaya Line</a></td><td><a href="../../../../articles/t/v/e/Tverskaya.html" class="mw-redirect" title="Tverskaya">Tverskaya</a></td></tr><tr><td style="background: #FFFF00;padding:.5em;">8</td><td style="text-align: left;"><a href="../../../../articles/k/a/l/Kalininskaya_Line_bd37.html" title="Kalininskaya Line">Kalininskaya Line</a></td><td><a href="../../../../articles/n/o/v/Novokuznetskaya.html" title="Novokuznetskaya">Novokuznetskaya</a></td></tr><tr><td style="background: #999999;padding:.5em;">9</td><td style="text-align: left;"><a href="../../../../articles/s/e/r/Serpukhovsko-Timiryazevskaya_Line_b0d8.html" title="Serpukhovsko-Timiryazevskaya Line">Serpukhovsko-Timiryazevskaya Line</a></td><td><a href="../../../../articles/t/v/e/Tverskaya.html" class="mw-redirect" title="Tverskaya">Tverskaya</a></td></tr><tr><td style="background: #9999FF;padding:.5em;">11</td><td style="text-align: left;"><a href="../../../../articles/k/a/k/Kakhovskaya_Line_0b51.html" title="Kakhovskaya Line">Kakhovskaya Line</a></td><td><a href="../../../../articles/k/a/s/Kashirskaya.html" title="Kashirskaya">Kashirskaya</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

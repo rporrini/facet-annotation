@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r48/k/i/n/King_County,_New_South_Wales_d7f7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, 0.052083332 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/i/n/King_County,_New_South_Wales_d7f7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Parish</th>]]></html>
+	<text>Parish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>LGA</th>]]></html>
+	<text>LGA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coordinates</th>]]></html>
+	<text>Coordinates</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alton</td>]]></html>
+	<text>Alton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°13′54″S, 148°51′04″E</td>]]></html>
+	<text>34&#176;13&#8242;54&#8243;S, 148&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bala</td>]]></html>
+	<text>Bala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°18′54″S, 148°51′04″E</td>]]></html>
+	<text>34&#176;18&#8242;54&#8243;S, 148&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bango</td>]]></html>
+	<text>Bango</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°43′54″S, 148°58′04″E</td>]]></html>
+	<text>34&#176;43&#8242;54&#8243;S, 148&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barnett</td>]]></html>
+	<text>Barnett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°19′54″S, 148°58′04″E</td>]]></html>
+	<text>34&#176;19&#8242;54&#8243;S, 148&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Biala</td>]]></html>
+	<text>Biala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°34′54″S, 149°13′04″E</td>]]></html>
+	<text>34&#176;34&#8242;54&#8243;S, 149&#176;13&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Blakney</td>]]></html>
+	<text>Blakney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 148°58′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 148&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boorowa</td>]]></html>
+	<text>Boorowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 148°45′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 148&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bramah</td>]]></html>
+	<text>Bramah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°15′54″S, 149°02′04″E</td>]]></html>
+	<text>34&#176;15&#8242;54&#8243;S, 149&#176;02&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bunton</td>]]></html>
+	<text>Bunton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 149°06′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 149&#176;06&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Crookwell</td>]]></html>
+	<text>Crookwell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°25′54″S, 149°25′04″E</td>]]></html>
+	<text>34&#176;25&#8242;54&#8243;S, 149&#176;25&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Crosby</td>]]></html>
+	<text>Crosby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°38′54″S, 148°52′04″E</td>]]></html>
+	<text>34&#176;38&#8242;54&#8243;S, 148&#176;52&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cullarin</td>]]></html>
+	<text>Cullarin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°48′54″S, 149°21′04″E</td>]]></html>
+	<text>34&#176;48&#8242;54&#8243;S, 149&#176;21&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dalton</td>]]></html>
+	<text>Dalton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°42′54″S, 149°12′04″E</td>]]></html>
+	<text>34&#176;42&#8242;54&#8243;S, 149&#176;12&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Derringullen</td>]]></html>
+	<text>Derringullen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°42′54″S, 148°53′04″E</td>]]></html>
+	<text>34&#176;42&#8242;54&#8243;S, 148&#176;53&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dixon</td>]]></html>
+	<text>Dixon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°50′54″S, 149°13′04″E</td>]]></html>
+	<text>34&#176;50&#8242;54&#8243;S, 149&#176;13&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Garway</td>]]></html>
+	<text>Garway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 149°15′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 149&#176;15&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grabben Gullen</td>]]></html>
+	<text>Grabben Gullen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°30′54″S, 149°25′04″E</td>]]></html>
+	<text>34&#176;30&#8242;54&#8243;S, 149&#176;25&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Graham</td>]]></html>
+	<text>Graham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°07′54″S, 148°55′04″E</td>]]></html>
+	<text>34&#176;07&#8242;54&#8243;S, 148&#176;55&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gunnary</td>]]></html>
+	<text>Gunnary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°23′54″S, 148°49′04″E</td>]]></html>
+	<text>34&#176;23&#8242;54&#8243;S, 148&#176;49&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gunning</td>]]></html>
+	<text>Gunning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°46′54″S, 149°16′04″E</td>]]></html>
+	<text>34&#176;46&#8242;54&#8243;S, 149&#176;16&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hovell</td>]]></html>
+	<text>Hovell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°13′54″S, 148°57′04″E</td>]]></html>
+	<text>34&#176;13&#8242;54&#8243;S, 148&#176;57&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jerrara</td>]]></html>
+	<text>Jerrara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 149°11′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 149&#176;11&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jerrawa</td>]]></html>
+	<text>Jerrawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°45′54″S, 149°05′04″E</td>]]></html>
+	<text>34&#176;45&#8242;54&#8243;S, 149&#176;05&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kember</td>]]></html>
+	<text>Kember</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°01′54″S, 148°51′04″E</td>]]></html>
+	<text>34&#176;01&#8242;54&#8243;S, 148&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kenyu</td>]]></html>
+	<text>Kenyu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°07′54″S, 148°50′04″E</td>]]></html>
+	<text>34&#176;07&#8242;54&#8243;S, 148&#176;50&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kildare</td>]]></html>
+	<text>Kildare</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°36′54″S, 149°07′04″E</td>]]></html>
+	<text>34&#176;36&#8242;54&#8243;S, 149&#176;07&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lampton</td>]]></html>
+	<text>Lampton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°36′54″S, 149°21′04″E</td>]]></html>
+	<text>34&#176;36&#8242;54&#8243;S, 149&#176;21&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lerida</td>]]></html>
+	<text>Lerida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°52′54″S, 149°20′04″E</td>]]></html>
+	<text>34&#176;52&#8242;54&#8243;S, 149&#176;20&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manton</td>]]></html>
+	<text>Manton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°49′54″S, 148°59′04″E</td>]]></html>
+	<text>34&#176;49&#8242;54&#8243;S, 148&#176;59&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Merrill</td>]]></html>
+	<text>Merrill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 149°20′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 149&#176;20&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mundoonen</td>]]></html>
+	<text>Mundoonen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°52′54″S, 149°08′04″E</td>]]></html>
+	<text>34&#176;52&#8242;54&#8243;S, 149&#176;08&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Narrawa</td>]]></html>
+	<text>Narrawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°21′54″S, 149°09′04″E</td>]]></html>
+	<text>34&#176;21&#8242;54&#8243;S, 149&#176;09&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nelanglo</td>]]></html>
+	<text>Nelanglo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°56′54″S, 149°17′04″E</td>]]></html>
+	<text>34&#176;56&#8242;54&#8243;S, 149&#176;17&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Newham</td>]]></html>
+	<text>Newham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°02′54″S, 148°55′04″E</td>]]></html>
+	<text>34&#176;02&#8242;54&#8243;S, 148&#176;55&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Numby</td>]]></html>
+	<text>Numby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°08′54″S, 148°58′04″E</td>]]></html>
+	<text>34&#176;08&#8242;54&#8243;S, 148&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Olney</td>]]></html>
+	<text>Olney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°31′54″S, 148°52′04″E</td>]]></html>
+	<text>34&#176;31&#8242;54&#8243;S, 148&#176;52&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Opton</td>]]></html>
+	<text>Opton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°32′54″S, 148°57′04″E</td>]]></html>
+	<text>34&#176;32&#8242;54&#8243;S, 148&#176;57&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Preston</td>]]></html>
+	<text>Preston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°33′54″S, 149°05′04″E</td>]]></html>
+	<text>34&#176;33&#8242;54&#8243;S, 149&#176;05&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rabnor</td>]]></html>
+	<text>Rabnor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 149°04′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 149&#176;04&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Romner</td>]]></html>
+	<text>Romner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°21′54″S, 149°18′04″E</td>]]></html>
+	<text>34&#176;21&#8242;54&#8243;S, 149&#176;18&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rugby</td>]]></html>
+	<text>Rugby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°25′54″S, 149°00′04″E</td>]]></html>
+	<text>34&#176;25&#8242;54&#8243;S, 149&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Taunton</td>]]></html>
+	<text>Taunton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°33′54″S, 148°45′04″E</td>]]></html>
+	<text>34&#176;33&#8242;54&#8243;S, 148&#176;45&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wallah</td>]]></html>
+	<text>Wallah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°21′54″S, 149°03′04″E</td>]]></html>
+	<text>34&#176;21&#8242;54&#8243;S, 149&#176;03&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ware</td>]]></html>
+	<text>Ware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°25′54″S, 148°54′04″E</td>]]></html>
+	<text>34&#176;25&#8242;54&#8243;S, 148&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wheeo</td>]]></html>
+	<text>Wheeo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°23′54″S, 149°13′04″E</td>]]></html>
+	<text>34&#176;23&#8242;54&#8243;S, 149&#176;13&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Winduella</td>]]></html>
+	<text>Winduella</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Upper Lachlan Shire Council</td>]]></html>
+	<text>Upper Lachlan Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°29′54″S, 149°18′04″E</td>]]></html>
+	<text>34&#176;29&#8242;54&#8243;S, 149&#176;18&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyangala</td>]]></html>
+	<text>Wyangala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boorowa Council</td>]]></html>
+	<text>Boorowa Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°02′54″S, 148°59′04″E</td>]]></html>
+	<text>34&#176;02&#8242;54&#8243;S, 148&#176;59&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yass</td>]]></html>
+	<text>Yass</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yass Valley Council</td>]]></html>
+	<text>Yass Valley Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°47′54″S, 148°54′04″E</td>]]></html>
+	<text>34&#176;47&#8242;54&#8243;S, 148&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>King County, New South Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Parish LGA Coordinates</text>
+</context>
+<context>
+	<score>0.8847392</score>
+	<text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>King County, New South Wales</text>
+</context>
+<context>
+	<score>0.77935797</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.7452641</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.69505304</score>
+	<text>King County was named in honour of Governor Philip Gidley King (1758-1808).</text>
+</context>
+<context>
+	<score>0.627609</score>
+	<text>King County, New South Wales was one of the original Nineteen Counties in New South Wales and is now one of the 141 Cadastral divisions of New South Wales . It is in the area to the east of Yass . The northern part of it lies between the Lachlan River and the Boorowa River, including the locations of Frogmore, Taylors Flat, Gunnary, Rugby and Rye Park. The Crookwell River is also part of the northern boundary. The Yass River is the southern boundary.</text>
+</context>
+<context>
+	<score>0.5901196</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.58573365</score>
+	<text>^ Geographical Names Board of NSW</text>
+</context>
+<context>
+	<score>0.54695547</score>
+	<text>King County, New South Wales</text>
+</context>
+<context>
+	<score>0.49189216</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center"><tr><th>Parish</th><th>LGA</th><th>Coordinates</th></tr><tr><td>Alton</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_13_54_S_148_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_13_54_S_148_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°13′54″S,</span> <span style="white-space:nowrap">148°51′04″E</span></span></a></span></td></tr><tr><td>Bala</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_18_54_S_148_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_18_54_S_148_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°18′54″S,</span> <span style="white-space:nowrap">148°51′04″E</span></span></a></span></td></tr><tr><td>Bango</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_43_54_S_148_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_43_54_S_148_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°43′54″S,</span> <span style="white-space:nowrap">148°58′04″E</span></span></a></span></td></tr><tr><td>Barnett</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_19_54_S_148_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_19_54_S_148_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°19′54″S,</span> <span style="white-space:nowrap">148°58′04″E</span></span></a></span></td></tr><tr><td>Biala</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_34_54_S_149_13_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_34_54_S_149_13_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°34′54″S,</span> <span style="white-space:nowrap">149°13′04″E</span></span></a></span></td></tr><tr><td>Blakney</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_39_54_S_148_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_39_54_S_148_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">148°58′04″E</span></span></a></span></td></tr><tr><td>Boorowa</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_148_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_148_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">148°45′04″E</span></span></a></span></td></tr><tr><td>Bramah</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_15_54_S_149_02_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_15_54_S_149_02_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°15′54″S,</span> <span style="white-space:nowrap">149°02′04″E</span></span></a></span></td></tr><tr><td>Bunton</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_41_54_S_149_06_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_41_54_S_149_06_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">149°06′04″E</span></span></a></span></td></tr><tr><td>Crookwell</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_149_25_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_149_25_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°25′54″S,</span> <span style="white-space:nowrap">149°25′04″E</span></span></a></span></td></tr><tr><td>Crosby</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_38_54_S_148_52_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_38_54_S_148_52_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°38′54″S,</span> <span style="white-space:nowrap">148°52′04″E</span></span></a></span></td></tr><tr><td>Cullarin</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_48_54_S_149_21_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_48_54_S_149_21_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°48′54″S,</span> <span style="white-space:nowrap">149°21′04″E</span></span></a></span></td></tr><tr><td>Dalton</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_42_54_S_149_12_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_42_54_S_149_12_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°42′54″S,</span> <span style="white-space:nowrap">149°12′04″E</span></span></a></span></td></tr><tr><td>Derringullen</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_42_54_S_148_53_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_42_54_S_148_53_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°42′54″S,</span> <span style="white-space:nowrap">148°53′04″E</span></span></a></span></td></tr><tr><td>Dixon</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_50_54_S_149_13_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_50_54_S_149_13_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°50′54″S,</span> <span style="white-space:nowrap">149°13′04″E</span></span></a></span></td></tr><tr><td>Garway</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_39_54_S_149_15_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_39_54_S_149_15_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">149°15′04″E</span></span></a></span></td></tr><tr><td>Grabben Gullen</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_30_54_S_149_25_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_30_54_S_149_25_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°30′54″S,</span> <span style="white-space:nowrap">149°25′04″E</span></span></a></span></td></tr><tr><td>Graham</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_07_54_S_148_55_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_07_54_S_148_55_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°07′54″S,</span> <span style="white-space:nowrap">148°55′04″E</span></span></a></span></td></tr><tr><td>Gunnary</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_23_54_S_148_49_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_23_54_S_148_49_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°23′54″S,</span> <span style="white-space:nowrap">148°49′04″E</span></span></a></span></td></tr><tr><td>Gunning</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_46_54_S_149_16_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_46_54_S_149_16_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°46′54″S,</span> <span style="white-space:nowrap">149°16′04″E</span></span></a></span></td></tr><tr><td>Hovell</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_13_54_S_148_57_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_13_54_S_148_57_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°13′54″S,</span> <span style="white-space:nowrap">148°57′04″E</span></span></a></span></td></tr><tr><td>Jerrara</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_149_11_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_149_11_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">149°11′04″E</span></span></a></span></td></tr><tr><td>Jerrawa</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_45_54_S_149_05_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_45_54_S_149_05_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°45′54″S,</span> <span style="white-space:nowrap">149°05′04″E</span></span></a></span></td></tr><tr><td>Kember</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_01_54_S_148_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_01_54_S_148_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°01′54″S,</span> <span style="white-space:nowrap">148°51′04″E</span></span></a></span></td></tr><tr><td>Kenyu</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_07_54_S_148_50_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_07_54_S_148_50_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°07′54″S,</span> <span style="white-space:nowrap">148°50′04″E</span></span></a></span></td></tr><tr><td>Kildare</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_36_54_S_149_07_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_36_54_S_149_07_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°36′54″S,</span> <span style="white-space:nowrap">149°07′04″E</span></span></a></span></td></tr><tr><td>Lampton</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_36_54_S_149_21_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_36_54_S_149_21_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°36′54″S,</span> <span style="white-space:nowrap">149°21′04″E</span></span></a></span></td></tr><tr><td>Lerida</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_52_54_S_149_20_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_52_54_S_149_20_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°52′54″S,</span> <span style="white-space:nowrap">149°20′04″E</span></span></a></span></td></tr><tr><td>Manton</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_49_54_S_148_59_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_49_54_S_148_59_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°49′54″S,</span> <span style="white-space:nowrap">148°59′04″E</span></span></a></span></td></tr><tr><td>Merrill</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_41_54_S_149_20_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_41_54_S_149_20_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">149°20′04″E</span></span></a></span></td></tr><tr><td>Mundoonen</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_52_54_S_149_08_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_52_54_S_149_08_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°52′54″S,</span> <span style="white-space:nowrap">149°08′04″E</span></span></a></span></td></tr><tr><td>Narrawa</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_09_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_09_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°21′54″S,</span> <span style="white-space:nowrap">149°09′04″E</span></span></a></span></td></tr><tr><td>Nelanglo</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_56_54_S_149_17_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_56_54_S_149_17_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°56′54″S,</span> <span style="white-space:nowrap">149°17′04″E</span></span></a></span></td></tr><tr><td>Newham</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_02_54_S_148_55_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_02_54_S_148_55_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°02′54″S,</span> <span style="white-space:nowrap">148°55′04″E</span></span></a></span></td></tr><tr><td>Numby</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_08_54_S_148_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_08_54_S_148_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°08′54″S,</span> <span style="white-space:nowrap">148°58′04″E</span></span></a></span></td></tr><tr><td>Olney</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_31_54_S_148_52_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_31_54_S_148_52_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°31′54″S,</span> <span style="white-space:nowrap">148°52′04″E</span></span></a></span></td></tr><tr><td>Opton</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_32_54_S_148_57_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_32_54_S_148_57_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°32′54″S,</span> <span style="white-space:nowrap">148°57′04″E</span></span></a></span></td></tr><tr><td>Preston</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_33_54_S_149_05_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_33_54_S_149_05_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°33′54″S,</span> <span style="white-space:nowrap">149°05′04″E</span></span></a></span></td></tr><tr><td>Rabnor</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_149_04_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_28_54_S_149_04_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">149°04′04″E</span></span></a></span></td></tr><tr><td>Romner</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_18_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_18_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°21′54″S,</span> <span style="white-space:nowrap">149°18′04″E</span></span></a></span></td></tr><tr><td>Rugby</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_149_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_149_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°25′54″S,</span> <span style="white-space:nowrap">149°00′04″E</span></span></a></span></td></tr><tr><td>Taunton</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_33_54_S_148_45_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_33_54_S_148_45_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°33′54″S,</span> <span style="white-space:nowrap">148°45′04″E</span></span></a></span></td></tr><tr><td>Wallah</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_03_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_21_54_S_149_03_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°21′54″S,</span> <span style="white-space:nowrap">149°03′04″E</span></span></a></span></td></tr><tr><td>Ware</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_148_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_25_54_S_148_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°25′54″S,</span> <span style="white-space:nowrap">148°54′04″E</span></span></a></span></td></tr><tr><td>Wheeo</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_23_54_S_149_13_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_23_54_S_149_13_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°23′54″S,</span> <span style="white-space:nowrap">149°13′04″E</span></span></a></span></td></tr><tr><td>Winduella</td><td><a href="../../../../articles/u/p/p/Upper_Lachlan_Shire_Council_d17f.html" title="Upper Lachlan Shire Council">Upper Lachlan Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_29_54_S_149_18_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_29_54_S_149_18_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°29′54″S,</span> <span style="white-space:nowrap">149°18′04″E</span></span></a></span></td></tr><tr><td>Wyangala</td><td><a href="../../../../articles/b/o/o/Boorowa_Council_091a.html" title="Boorowa Council">Boorowa Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_02_54_S_148_59_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_02_54_S_148_59_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°02′54″S,</span> <span style="white-space:nowrap">148°59′04″E</span></span></a></span></td></tr><tr><td>Yass</td><td><a href="../../../../articles/y/a/s/Yass_Valley_Council_7546.html" title="Yass Valley Council">Yass Valley Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_47_54_S_148_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=King_County%2C_New_South_Wales&amp;params=34_47_54_S_148_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°47′54″S,</span> <span style="white-space:nowrap">148°54′04″E</span></span></a></span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

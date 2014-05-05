@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_university_stadiums.html_10.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 0 2, 0.11111112 1 2, 0.11111111 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_university_stadiums.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ball State University</td>]]></html>
+	<text>Ball State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scheumann Stadium</td>]]></html>
+	<text>Scheumann Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25,400</td>]]></html>
+	<text>25,400</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Central Michigan University</td>]]></html>
+	<text>Central Michigan University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kelly/Shorts Stadium</td>]]></html>
+	<text>Kelly/Shorts Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,199</td>]]></html>
+	<text>30,199</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eastern Michigan University</td>]]></html>
+	<text>Eastern Michigan University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rynearson Stadium</td>]]></html>
+	<text>Rynearson Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,200</td>]]></html>
+	<text>30,200</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northern Illinois University</td>]]></html>
+	<text>Northern Illinois University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Huskie Stadium</td>]]></html>
+	<text>Huskie Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,000</td>]]></html>
+	<text>31,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Toledo</td>]]></html>
+	<text>University of Toledo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glass Bowl</td>]]></html>
+	<text>Glass Bowl</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26,248</td>]]></html>
+	<text>26,248</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Western Michigan University</td>]]></html>
+	<text>Western Michigan University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waldo Stadium</td>]]></html>
+	<text>Waldo Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,200</td>]]></html>
+	<text>30,200</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of university stadiums - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Stadium Capacity</text>
+</context>
+<context>
+	<score>0.882035</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.7906479</score>
+	<text>List of university stadiums</text>
+</context>
+<context>
+	<score>0.78502685</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.7536419</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Big 12</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Big 10</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Pac10</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Sun Belt</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] WAC</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Independent</text>
+</context>
+<context>
+	<score>0.7163366</score>
+	<text>[ edit ] Complete List of NCAA Stadiums</text>
+</context>
+<context>
+	<score>0.7130414</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7074204</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.6453352</score>
+	<text>[ edit ] Coastal</text>
+</context>
+<context>
+	<score>0.6067871</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.595667</score>
+	<text>[ edit ] Atlantic</text>
+</context>
+<context>
+	<score>0.5559325</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.52414495</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.52040184</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.4987148</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.47837073</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.46958706</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.46209547</score>
+	<text>[ edit ] SEC</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr bgcolor="#CCCCCC"><th>School</th><th>Stadium</th><th>Capacity</th></tr><tr><td><a href="../../../../articles/b/a/l/Ball_State_University_459c.html" title="Ball State University">Ball State University</a></td><td><a href="../../../../articles/s/c/h/Scheumann_Stadium_42d2.html" title="Scheumann Stadium">Scheumann Stadium</a></td><td>25,400</td></tr><tr><td><a href="../../../../articles/c/e/n/Central_Michigan_University_1059.html" title="Central Michigan University">Central Michigan University</a></td><td><a href="../../../../articles/k/e/l/Kelly_Shorts_Stadium_d37a.html" title="Kelly/Shorts Stadium">Kelly/Shorts Stadium</a></td><td>30,199</td></tr><tr><td><a href="../../../../articles/e/a/s/Eastern_Michigan_University_54b1.html" title="Eastern Michigan University">Eastern Michigan University</a></td><td><a href="../../../../articles/r/y/n/Rynearson_Stadium_9ffb.html" title="Rynearson Stadium">Rynearson Stadium</a></td><td>30,200</td></tr><tr><td><a href="../../../../articles/n/o/r/Northern_Illinois_University_1574.html" title="Northern Illinois University">Northern Illinois University</a></td><td><a href="../../../../articles/h/u/s/Huskie_Stadium_ed9b.html" title="Huskie Stadium">Huskie Stadium</a></td><td>31,000</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Toledo_353b.html" title="University of Toledo">University of Toledo</a></td><td><a href="../../../../articles/g/l/a/Glass_Bowl_a375.html" title="Glass Bowl">Glass Bowl</a></td><td>26,248</td></tr><tr><td><a href="../../../../articles/w/e/s/Western_Michigan_University_bd15.html" title="Western Michigan University">Western Michigan University</a></td><td><a href="../../../../articles/w/a/l/Waldo_Stadium_0470.html" title="Waldo Stadium">Waldo Stadium</a></td><td>30,200</td></tr></table>]]>
+</htmlSnippet>
+</entity>

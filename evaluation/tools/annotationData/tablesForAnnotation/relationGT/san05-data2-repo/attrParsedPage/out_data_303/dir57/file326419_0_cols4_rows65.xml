@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san05-data2-repo/attrParsedPage/out_data_303/dir57/file326419_0_cols4_rows65.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.61153847 2, 0.5653846 1 2, 0.4173077 1, 0.125 0 3, 0.08918269 1 3, 0.08509615 2 3, 0.04423077 3, " />
+<meta name="url" value="http://movies.indiainfo.com/kannada/topstory/world_in_bangalore.html" />
+<meta name="parentHTMLDoc" value="san05-data2-repo/attrParsedPage/out_data_303/file326419" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Word</coltype>
+<coltype>Name</coltype>
+<coltype>Number</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><b><font>Film Name</font></b></td>]]></html>
+	<text>Film Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b><font>Country</font></b></td>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b><font>Director</font></b></td>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b><font>Year</font></b></td>]]></html>
+	<text>Year</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><b><font>Contemporary World Cinema</font></b></td>]]></html>
+	<text>Contemporary World Cinema</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Run for Money</font></td>]]></html>
+	<text>Run for Money</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Turkey</font></td>]]></html>
+	<text>Turkey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Reha Erdem</font></td>]]></html>
+	<text>Reha Erdem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Sweetie Cakes</font></td>]]></html>
+	<text>Sweetie Cakes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Switzerland</font></td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Geretta Geretta</font></td>]]></html>
+	<text>Geretta Geretta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Beauty Queen Olivia</font></td>]]></html>
+	<text>Beauty Queen Olivia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Italy</font></td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Federica Martino</font></td>]]></html>
+	<text>Federica Martino</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Three Birds</font></td>]]></html>
+	<text>Three Birds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Argentina</font></td>]]></html>
+	<text>Argentina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Carlos M. Jaureguialzo</font></td>]]></html>
+	<text>Carlos M. Jaureguialzo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>The Root of the Heart</font></td>]]></html>
+	<text>The Root of the Heart</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Portugal</font></td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Paulo Rocha</font></td>]]></html>
+	<text>Paulo Rocha</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>The Room</font></td>]]></html>
+	<text>The Room</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Germany</font></td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Roland Reber</font></td>]]></html>
+	<text>Roland Reber</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Quartet In Four Movements</font></td>]]></html>
+	<text>Quartet In Four Movements</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Greece</font></td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lucia Rikaki</font></td>]]></html>
+	<text>Lucia Rikaki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1994</font></td>]]></html>
+	<text>1994</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Lan Yu</font></td>]]></html>
+	<text>Lan Yu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hong Kong</font></td>]]></html>
+	<text>Hong Kong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Stanley Kwan</font></td>]]></html>
+	<text>Stanley Kwan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Unescapable Beauty</font></td>]]></html>
+	<text>Unescapable Beauty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Italy</font></td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Francesca Pirani</font></td>]]></html>
+	<text>Francesca Pirani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Ceuxqui</font></td>]]></html>
+	<text>Ceuxqui</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>France</font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Patrice Chereau</font></td>]]></html>
+	<text>Patrice Chereau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1998</font></td>]]></html>
+	<text>1998</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Peut - Etre</font></td>]]></html>
+	<text>Peut - Etre</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>France</font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Cedric Klapisch</font></td>]]></html>
+	<text>Cedric Klapisch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1999</font></td>]]></html>
+	<text>1999</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Marius Et Jeanette</font></td>]]></html>
+	<text>Marius Et Jeanette</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>France</font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Robert Guediguian</font></td>]]></html>
+	<text>Robert Guediguian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1999</font></td>]]></html>
+	<text>1999</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Conte</font></td>]]></html>
+	<text>Conte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>France</font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ehic Rohmer</font></td>]]></html>
+	<text>Ehic Rohmer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1997</font></td>]]></html>
+	<text>1997</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>The Sea That Thinks</font></td>]]></html>
+	<text>The Sea That Thinks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Netherlands</font></td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Gert De Graaf</font></td>]]></html>
+	<text>Gert De Graaf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Neutre</font></td>]]></html>
+	<text>Neutre</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Switzerland</font></td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Xavier Ruiz</font></td>]]></html>
+	<text>Xavier Ruiz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>I Love You Too</font></td>]]></html>
+	<text>I Love You Too</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Netherlands</font></td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ruud Van Hemeht</font></td>]]></html>
+	<text>Ruud Van Hemeht</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Hi Tereska</font></td>]]></html>
+	<text>Hi Tereska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Poland</font></td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Robert Glinski</font></td>]]></html>
+	<text>Robert Glinski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Scars</font></td>]]></html>
+	<text>Scars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Norway</font></td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lars Berg</font></td>]]></html>
+	<text>Lars Berg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Mayday Mayhem</font></td>]]></html>
+	<text>Mayday Mayhem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hungary</font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Robert Koltai</font></td>]]></html>
+	<text>Robert Koltai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Brighter Than The Moon</font></td>]]></html>
+	<text>Brighter Than The Moon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Austria</font></td>]]></html>
+	<text>Austria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Virgil Widrich</font></td>]]></html>
+	<text>Virgil Widrich</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Saroja</font></td>]]></html>
+	<text>Saroja</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sri Lanka</font></td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Somaratne Dissanayake</font></td>]]></html>
+	<text>Somaratne Dissanayake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Little Angel</font></td>]]></html>
+	<text>Little Angel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sri Lanka</font></td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Somaratne Dissanayake</font></td>]]></html>
+	<text>Somaratne Dissanayake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Blue Tears</font></td>]]></html>
+	<text>Blue Tears</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Africa</font></td>]]></html>
+	<text>Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sockate Safo</font></td>]]></html>
+	<text>Sockate Safo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Taking Sides</font></td>]]></html>
+	<text>Taking Sides</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>France</font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Istvan Szabo</font></td>]]></html>
+	<text>Istvan Szabo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Aswesuma (The Compensation)</font></td>]]></html>
+	<text>Aswesuma (The Compensation)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sri Lanka</font></td>]]></html>
+	<text>Sri Lanka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bennet Rathnayake</font></td>]]></html>
+	<text>Bennet Rathnayake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Black Name</font></td>]]></html>
+	<text>Black Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Taiwan</font></td>]]></html>
+	<text>Taiwan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Dong Cheng Liang</font></td>]]></html>
+	<text>Dong Cheng Liang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Little Vilma</font></td>]]></html>
+	<text>Little Vilma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hungary</font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Marta Meszaros</font></td>]]></html>
+	<text>Marta Meszaros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Whitman Boys</font></td>]]></html>
+	<text>Whitman Boys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hungary</font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Janos Szasz</font></td>]]></html>
+	<text>Janos Szasz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1997</font></td>]]></html>
+	<text>1997</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Thorns Under The Finger Nail</font></td>]]></html>
+	<text>Thorns Under The Finger Nail</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hungary</font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>San Dor Sara</font></td>]]></html>
+	<text>San Dor Sara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>I987</font></td>]]></html>
+	<text>I987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>On Death Row</font></td>]]></html>
+	<text>On Death Row</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hungary</font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Janoz Zsombolyai</font></td>]]></html>
+	<text>Janoz Zsombolyai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Elling</font></td>]]></html>
+	<text>Elling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Norway</font></td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Petter Naess</font></td>]]></html>
+	<text>Petter Naess</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Last Supper</font></td>]]></html>
+	<text>Last Supper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Iran</font></td>]]></html>
+	<text>Iran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Fereydoun Jeyrani</font></td>]]></html>
+	<text>Fereydoun Jeyrani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2002</font></td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Journey To The East</font></td>]]></html>
+	<text>Journey To The East</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Iran</font></td>]]></html>
+	<text>Iran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Seyyed Mehdi Borgheje</font></td>]]></html>
+	<text>Seyyed Mehdi Borgheje</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2002</font></td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><b><font>World Classics Of Yesteryears</font></b></td>]]></html>
+	<text>World Classics Of Yesteryears</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Citizen Kane</font></td>]]></html>
+	<text>Citizen Kane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Usa</font></td>]]></html>
+	<text>Usa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Orson Welles</font></td>]]></html>
+	<text>Orson Welles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1941</font></td>]]></html>
+	<text>1941</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Meghe Dhaka Tara</font></td>]]></html>
+	<text>Meghe Dhaka Tara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>India</font></td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ritwik Chalak</font></td>]]></html>
+	<text>Ritwik Chalak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1960</font></td>]]></html>
+	<text>1960</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>The Virgin Spring (Jungfrukallan)</font></td>]]></html>
+	<text>The Virgin Spring (Jungfrukallan)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sweden</font></td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ingmar Bergman</font></td>]]></html>
+	<text>Ingmar Bergman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1960</font></td>]]></html>
+	<text>1960</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Woman Of The Dunes / Suna No Onna</font></td>]]></html>
+	<text>Woman Of The Dunes / Suna No Onna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Japan</font></td>]]></html>
+	<text>Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hiroshi Teshigahara</font></td>]]></html>
+	<text>Hiroshi Teshigahara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1964</font></td>]]></html>
+	<text>1964</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>The Sacrifice / Offret</font></td>]]></html>
+	<text>The Sacrifice / Offret</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sweden</font></td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Andrei Tarkovsky</font></td>]]></html>
+	<text>Andrei Tarkovsky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1986</font></td>]]></html>
+	<text>1986</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Close-Up / Nama-Ye Nazdik</font></td>]]></html>
+	<text>Close-Up / Nama-Ye Nazdik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Iran</font></td>]]></html>
+	<text>Iran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Abbas Kiarostami</font></td>]]></html>
+	<text>Abbas Kiarostami</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1987</font></td>]]></html>
+	<text>1987</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>A Short Film About Love</font></td>]]></html>
+	<text>A Short Film About Love</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Poland</font></td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Krzysztof Kieslowski</font></td>]]></html>
+	<text>Krzysztof Kieslowski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1988</font></td>]]></html>
+	<text>1988</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><b><font>Retrospective Of Amol Palekar - Director</font></b></td>]]></html>
+	<text>Retrospective Of Amol Palekar - Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Ankahee</font></td>]]></html>
+	<text>Ankahee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Amol Palekar</font></td>]]></html>
+	<text>Amol Palekar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1984</font></td>]]></html>
+	<text>1984</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Thodasa Roomani Ho Jayen</font></td>]]></html>
+	<text>Thodasa Roomani Ho Jayen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Amol Palekar</font></td>]]></html>
+	<text>Amol Palekar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1990</font></td>]]></html>
+	<text>1990</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Banagarwadi</font></td>]]></html>
+	<text>Banagarwadi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Marathi</font></td>]]></html>
+	<text>Marathi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Amol Palekar</font></td>]]></html>
+	<text>Amol Palekar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1995</font></td>]]></html>
+	<text>1995</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Kairee</font></td>]]></html>
+	<text>Kairee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Marathi</font></td>]]></html>
+	<text>Marathi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Amol Palekar</font></td>]]></html>
+	<text>Amol Palekar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Dhyas Parva</font></td>]]></html>
+	<text>Dhyas Parva</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Marathi</font></td>]]></html>
+	<text>Marathi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Amol Palekar</font></td>]]></html>
+	<text>Amol Palekar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><b><font>Retrospective Of K K Mahajan - Cinematographer</font></b></td>]]></html>
+	<text>Retrospective Of K K Mahajan - Cinematographer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Bhuvan Shome</font></td>]]></html>
+	<text>Bhuvan Shome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mrinal Sen</font></td>]]></html>
+	<text>Mrinal Sen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1969</font></td>]]></html>
+	<text>1969</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Calcutta 71</font></td>]]></html>
+	<text>Calcutta 71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bengali</font></td>]]></html>
+	<text>Bengali</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mrinal Sen</font></td>]]></html>
+	<text>Mrinal Sen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1971</font></td>]]></html>
+	<text>1971</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Chit Chor</font></td>]]></html>
+	<text>Chit Chor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Basu Chatterji</font></td>]]></html>
+	<text>Basu Chatterji</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1976</font></td>]]></html>
+	<text>1976</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Swami</font></td>]]></html>
+	<text>Swami</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Basu Chatterji</font></td>]]></html>
+	<text>Basu Chatterji</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1977</font></td>]]></html>
+	<text>1977</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Khayal Gatha / The Khayal Raga</font></td>]]></html>
+	<text>Khayal Gatha / The Khayal Raga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Kumar Shahani</font></td>]]></html>
+	<text>Kumar Shahani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1989</font></td>]]></html>
+	<text>1989</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Chaar Adyay</font></td>]]></html>
+	<text>Chaar Adyay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bengali</font></td>]]></html>
+	<text>Bengali</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Kumar Shahani</font></td>]]></html>
+	<text>Kumar Shahani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1997</font></td>]]></html>
+	<text>1997</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><b><font>Indian Films</font></b></td>]]></html>
+	<text>Indian Films</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Uttara</font></td>]]></html>
+	<text>Uttara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bengali</font></td>]]></html>
+	<text>Bengali</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Buddha Deb Das Gupta</font></td>]]></html>
+	<text>Buddha Deb Das Gupta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>1999</font></td>]]></html>
+	<text>1999</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Oru Cheru Punchiri</font></td>]]></html>
+	<text>Oru Cheru Punchiri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Malayalam</font></td>]]></html>
+	<text>Malayalam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mt Vasudevan Nair</font></td>]]></html>
+	<text>Mt Vasudevan Nair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2000</font></td>]]></html>
+	<text>2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Show</font></td>]]></html>
+	<text>Show</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Telugu</font></td>]]></html>
+	<text>Telugu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Neeiakanta</font></td>]]></html>
+	<text>Neeiakanta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Tiladanam</font></td>]]></html>
+	<text>Tiladanam</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Telugu</font></td>]]></html>
+	<text>Telugu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>K N T Sastry</font></td>]]></html>
+	<text>K N T Sastry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Swaraj</font></td>]]></html>
+	<text>Swaraj</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hindi</font></td>]]></html>
+	<text>Hindi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Anwar Jamal</font></td>]]></html>
+	<text>Anwar Jamal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Deham</font></td>]]></html>
+	<text>Deham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>English</font></td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Govind Nihalani</font></td>]]></html>
+	<text>Govind Nihalani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Bub</font></td>]]></html>
+	<text>Bub</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Kashmiri</font></td>]]></html>
+	<text>Kashmiri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jyoti Sarup</font></td>]]></html>
+	<text>Jyoti Sarup</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Magunirashagada</font></td>]]></html>
+	<text>Magunirashagada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Oriya</font></td>]]></html>
+	<text>Oriya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Prafulla Mohanty, Sumitra Bhave, Sunil</font></td>]]></html>
+	<text>Prafulla Mohanty, Sumitra Bhave, Sunil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2001</font></td>]]></html>
+	<text>2001</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Vastupurush</font></td>]]></html>
+	<text>Vastupurush</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Marathi</font></td>]]></html>
+	<text>Marathi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sukhankar</font></td>]]></html>
+	<text>Sukhankar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>2002</font></td>]]></html>
+	<text>2002</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Film Name Country Director Year</text>
+</context>
+<context>
+	<score>0.77171665</score>
+	<text>Following is the list of films that would be shown in the festival:</text>
+</context>
+<context>
+	<score>0.58908993</score>
+	<text>A total of 30 Indian films and 30 International films are to be shown in this festival. It&apos;s estimated that around 1000 - 1500 audiences will watch these films from various popular film theatres of Bangalore. Girish Kasaravalli will preside over the festival.</text>
+</context>
+<context>
+	<score>0.53000486</score>
+	<text>Southern Spice</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tbody><tr><td><b><font>Film Name</font></b></td><td><b><font>Country</font></b></td><td><b><font>Director</font></b></td><td><b><font>Year</font></b></td></tr><tr><td><b><font>Contemporary World Cinema</font></b></td></tr><tr><td><font>Run for Money</font></td><td><font>Turkey</font></td><td><font>Reha Erdem</font></td><td><font>2001</font></td></tr><tr><td><font>Sweetie Cakes</font></td><td><font>Switzerland</font></td><td><font>Geretta Geretta</font></td><td><font>2001</font></td></tr><tr><td><font>Beauty Queen Olivia</font></td><td><font>Italy</font></td><td><font>Federica Martino</font></td><td><font>2001</font></td></tr><tr><td><font>Three Birds</font></td><td><font>Argentina</font></td><td><font>Carlos M. Jaureguialzo</font></td><td><font>2001</font></td></tr><tr><td><font>The Root of the Heart</font></td><td><font>Portugal</font></td><td><font>Paulo Rocha</font></td><td><font>2000</font></td></tr><tr><td><font>The Room</font></td><td><font>Germany</font></td><td><font>Roland Reber</font></td><td><font>2000</font></td></tr><tr><td><font>Quartet In Four Movements</font></td><td><font>Greece</font></td><td><font>Lucia Rikaki</font></td><td><font>1994</font></td></tr><tr><td><font>Lan Yu</font></td><td><font>Hong Kong</font></td><td><font>Stanley Kwan</font></td><td><font>2001</font></td></tr><tr><td><font>Unescapable Beauty</font></td><td><font>Italy</font></td><td><font>Francesca Pirani</font></td><td><font>2001</font></td></tr><tr><td><font>Ceuxqui</font></td><td><font>France</font></td><td><font>Patrice Chereau</font></td><td><font>1998</font></td></tr><tr><td><font>Peut - Etre</font></td><td><font>France</font></td><td><font>Cedric Klapisch</font></td><td><font>1999</font></td></tr><tr><td><font>Marius Et Jeanette</font></td><td><font>France</font></td><td><font>Robert Guediguian</font></td><td><font>1999</font></td></tr><tr><td><font>Conte</font></td><td><font>France</font></td><td><font>Ehic Rohmer</font></td><td><font>1997</font></td></tr><tr><td><font>The Sea That Thinks</font></td><td><font>Netherlands</font></td><td><font>Gert De Graaf</font></td><td><font>2000</font></td></tr><tr><td><font>Neutre</font></td><td><font>Switzerland</font></td><td><font>Xavier Ruiz</font></td><td><font>2001</font></td></tr><tr><td><font>I Love You Too</font></td><td><font>Netherlands</font></td><td><font>Ruud Van Hemeht</font></td><td><font>2001</font></td></tr><tr><td><font>Hi Tereska</font></td><td><font>Poland</font></td><td><font>Robert Glinski</font></td><td><font>2000</font></td></tr><tr><td><font>Scars</font></td><td><font>Norway</font></td><td><font>Lars Berg</font></td><td><font>2001</font></td></tr><tr><td><font>Mayday Mayhem</font></td><td><font>Hungary</font></td><td><font>Robert Koltai</font></td><td><font>2001</font></td></tr><tr><td><font>Brighter Than The Moon</font></td><td><font>Austria</font></td><td><font>Virgil Widrich</font></td><td><font>2000</font></td></tr><tr><td><font>Saroja</font></td><td><font>Sri Lanka</font></td><td><font>Somaratne Dissanayake</font></td><td><font>2000</font></td></tr><tr><td><font>Little Angel</font></td><td><font>Sri Lanka</font></td><td><font>Somaratne Dissanayake</font></td><td><font>2000</font></td></tr><tr><td><font>Blue Tears</font></td><td><font>Africa</font></td><td><font>Sockate Safo</font></td><td><font>2001</font></td></tr><tr><td><font>Taking Sides</font></td><td><font>France</font></td><td><font>Istvan Szabo</font></td><td><font>2000</font></td></tr><tr><td><font>Aswesuma (The Compensation)</font></td><td><font>Sri Lanka</font></td><td><font>Bennet Rathnayake</font></td><td><font>2001</font></td></tr><tr><td><font>Black Name</font></td><td><font>Taiwan</font></td><td><font>Dong Cheng Liang</font></td><td><font>2000</font></td></tr><tr><td><font>Little Vilma</font></td><td><font>Hungary</font></td><td><font>Marta Meszaros</font></td><td><font>2000</font></td></tr><tr><td><font>Whitman Boys</font></td><td><font>Hungary</font></td><td><font>Janos Szasz</font></td><td><font>1997</font></td></tr><tr><td><font>Thorns Under The Finger Nail</font></td><td><font>Hungary</font></td><td><font>San Dor Sara</font></td><td><font>I987</font></td></tr><tr><td><font>On Death Row</font></td><td><font>Hungary</font></td><td><font>Janoz Zsombolyai</font></td><td><font></font></td></tr><tr><td><font>Elling</font></td><td><font>Norway</font></td><td><font>Petter Naess</font></td><td><font>2001</font></td></tr><tr><td><font>Last Supper</font></td><td><font>Iran</font></td><td><font>Fereydoun Jeyrani</font></td><td><font>2002</font></td></tr><tr><td><font>Journey To The East</font></td><td><font>Iran</font></td><td><font>Seyyed Mehdi Borgheje</font></td><td><font>2002</font></td></tr><tr><td><font></font></td></tr><tr><td><b><font>World Classics Of Yesteryears</font></b></td></tr><tr><td><font>Citizen Kane</font></td><td><font>Usa</font></td><td><font>Orson Welles</font></td><td><font>1941</font></td></tr><tr><td><font>Meghe Dhaka Tara</font></td><td><font>India</font></td><td><font>Ritwik Chalak</font></td><td><font>1960</font></td></tr><tr><td><font>The Virgin Spring (Jungfrukallan)</font></td><td><font>Sweden</font></td><td><font>Ingmar Bergman</font></td><td><font>1960</font></td></tr><tr><td><font>Woman Of The Dunes / Suna No Onna</font></td><td><font>Japan</font></td><td><font>Hiroshi Teshigahara</font></td><td><font>1964</font></td></tr><tr><td><font>The Sacrifice / Offret</font></td><td><font>Sweden</font></td><td><font>Andrei Tarkovsky</font></td><td><font>1986</font></td></tr><tr><td><font>Close-Up / Nama-Ye Nazdik</font></td><td><font>Iran</font></td><td><font>Abbas Kiarostami</font></td><td><font>1987</font></td></tr><tr><td><font>A Short Film About Love</font></td><td><font>Poland</font></td><td><font>Krzysztof Kieslowski</font></td><td><font>1988</font></td></tr><tr><td><font></font></td></tr><tr><td><b><font>Retrospective Of Amol Palekar - Director</font></b></td></tr><tr><td><font>Ankahee</font></td><td><font>Hindi</font></td><td><font>Amol Palekar</font></td><td><font>1984</font></td></tr><tr><td><font>Thodasa Roomani Ho Jayen</font></td><td><font>Hindi</font></td><td><font>Amol Palekar</font></td><td><font>1990</font></td></tr><tr><td><font>Banagarwadi</font></td><td><font>Marathi</font></td><td><font>Amol Palekar</font></td><td><font>1995</font></td></tr><tr><td><font>Kairee</font></td><td><font>Marathi</font></td><td><font>Amol Palekar</font></td><td><font>2000</font></td></tr><tr><td><font>Dhyas Parva</font></td><td><font>Marathi</font></td><td><font>Amol Palekar</font></td><td><font>2000</font></td></tr><tr><td><font></font></td></tr><tr><td><b><font>Retrospective Of K K Mahajan - Cinematographer</font></b></td></tr><tr><td><font>Bhuvan Shome</font></td><td><font>Hindi</font></td><td><font>Mrinal Sen</font></td><td><font>1969</font></td></tr><tr><td><font>Calcutta 71</font></td><td><font>Bengali</font></td><td><font>Mrinal Sen</font></td><td><font>1971</font></td></tr><tr><td><font>Chit Chor</font></td><td><font>Hindi</font></td><td><font>Basu Chatterji</font></td><td><font>1976</font></td></tr><tr><td><font>Swami</font></td><td><font>Hindi</font></td><td><font>Basu Chatterji</font></td><td><font>1977</font></td></tr><tr><td><font>Khayal Gatha / The Khayal Raga</font></td><td><font>Hindi</font></td><td><font>Kumar Shahani</font></td><td><font>1989</font></td></tr><tr><td><font>Chaar Adyay</font></td><td><font>Bengali</font></td><td><font>Kumar Shahani</font></td><td><font>1997</font></td></tr><tr><td><font></font></td></tr><tr><td><b><font>Indian Films</font></b></td></tr><tr><td><font>Uttara</font></td><td><font>Bengali</font></td><td><font>Buddha Deb Das Gupta</font></td><td><font>1999</font></td></tr><tr><td><font>Oru Cheru Punchiri</font></td><td><font>Malayalam</font></td><td><font>Mt Vasudevan Nair</font></td><td><font>2000</font></td></tr><tr><td><font>Show</font></td><td><font>Telugu</font></td><td><font>Neeiakanta</font></td><td><font>2001</font></td></tr><tr><td><font>Tiladanam</font></td><td><font>Telugu</font></td><td><font>K N T Sastry</font></td><td><font>2001</font></td></tr><tr><td><font>Swaraj</font></td><td><font>Hindi</font></td><td><font>Anwar Jamal</font></td><td><font>2001</font></td></tr><tr><td><font>Deham</font></td><td><font>English</font></td><td><font>Govind Nihalani</font></td><td><font>2001</font></td></tr><tr><td><font>Bub</font></td><td><font>Kashmiri</font></td><td><font>Jyoti Sarup</font></td><td><font>2001</font></td></tr><tr><td><font>Magunirashagada</font></td><td><font>Oriya</font></td><td><font>Prafulla Mohanty, Sumitra Bhave, Sunil</font></td><td><font>2001</font></td></tr><tr><td><font>Vastupurush</font></td><td><font>Marathi</font></td><td><font>Sukhankar</font></td><td><font>2002</font></td></tr></tbody></table>]]>
+</htmlSnippet>
+</entity>

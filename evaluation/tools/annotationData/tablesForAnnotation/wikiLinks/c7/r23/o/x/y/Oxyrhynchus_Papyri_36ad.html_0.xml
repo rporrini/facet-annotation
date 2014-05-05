@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r23/o/x/y/Oxyrhynchus_Papyri_36ad.html_0.xml" />
+<meta name="primaryKey" value="0.9285714 3, 0.9285714 0 3, 0.79591835 3 4, 0.78260875 0 4, 0.7295918 3 5, 0.6632653 3 6, 0.6490683 0 5, 0.6086956 0, 0.5962733 4, 0.59006214 0 6, 0.46850044 4 5, 0.42590952 4 6, 0.3074534 5, 0.21960959 5 6, 0.12857144 1, 0.12857144 0 1, 0.11938776 1 3, 0.110204086 1 4, 0.10612246 2 3, 0.10102041 1 5, 0.099378884 0 2, 0.0931677 6, 0.09183674 1 6, 0.0851819 2 4, 0.066370904 2 5, 0.05465839 2, 0.053238694 2 6, 0.014693879 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/o/x/y/Oxyrhynchus_Papyri_36ad.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Vol</th>]]></html>
+	<text>Vol</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Oxy</th>]]></html>
+	<text>Oxy</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Content</th>]]></html>
+	<text>Content</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Institution</th>]]></html>
+	<text>Institution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City, State</th>]]></html>
+	<text>City, State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IV</td>]]></html>
+	<text>IV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>656</td>]]></html>
+	<text>656</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150</td>]]></html>
+	<text>150</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gen 14:21–23; 15:5–9; 19:32–20:11; 24:28–47; 27:32–33, 40–41</td>]]></html>
+	<text>Gen 14:21&#8211;23; 15:5&#8211;9; 19:32&#8211;20:11; 24:28&#8211;47; 27:32&#8211;33, 40&#8211;41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bodleian Library ; MS.Gr.bib.d.5(P)</td>]]></html>
+	<text>Bodleian Library ; MS.Gr.bib.d.5(P)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VI</td>]]></html>
+	<text>VI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>845</td>]]></html>
+	<text>845</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>400</td>]]></html>
+	<text>400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Psalms 68; 70</td>]]></html>
+	<text>Psalms 68; 70</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Egyptian Museum ; JE 41083</td>]]></html>
+	<text>Egyptian Museum ; JE 41083</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cairo</td>]]></html>
+	<text>Cairo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Egypt</td>]]></html>
+	<text>Egypt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VI</td>]]></html>
+	<text>VI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>846</td>]]></html>
+	<text>846</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>550</td>]]></html>
+	<text>550</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amos 2</td>]]></html>
+	<text>Amos 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Pennsylvania ; E 3074</td>]]></html>
+	<text>University of Pennsylvania ; E 3074</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philadelphia Pennsylvania</td>]]></html>
+	<text>Philadelphia Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VII</td>]]></html>
+	<text>VII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1007</td>]]></html>
+	<text>1007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>400</td>]]></html>
+	<text>400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Genesis 2–3</td>]]></html>
+	<text>Genesis 2&#8211;3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Museum ; Inv. 2047</td>]]></html>
+	<text>British Museum ; Inv. 2047</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VIII</td>]]></html>
+	<text>VIII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1073</td>]]></html>
+	<text>1073</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gen 5–6 Old Latin</td>]]></html>
+	<text>Gen 5&#8211;6 Old Latin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Museum ; Inv. 2052</td>]]></html>
+	<text>British Museum ; Inv. 2052</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VIII</td>]]></html>
+	<text>VIII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1074</td>]]></html>
+	<text>1074</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250</td>]]></html>
+	<text>250</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Exodus 31–32</td>]]></html>
+	<text>Exodus 31&#8211;32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>University of Illinois ; GP 1074</td>]]></html>
+	<text>University of Illinois ; GP 1074</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Urbana, Illinois</td>]]></html>
+	<text>Urbana, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>VIII</td>]]></html>
+	<text>VIII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1075</td>]]></html>
+	<text>1075</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250</td>]]></html>
+	<text>250</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Exodus 11:26–32</td>]]></html>
+	<text>Exodus 11:26&#8211;32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Library ; Inv. 2053 (recto)</td>]]></html>
+	<text>British Library ; Inv. 2053 (recto)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IX</td>]]></html>
+	<text>IX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1166</td>]]></html>
+	<text>1166</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250</td>]]></html>
+	<text>250</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Genesis 16:8–12</td>]]></html>
+	<text>Genesis 16:8&#8211;12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British Library ; Inv. 2066</td>]]></html>
+	<text>British Library ; Inv. 2066</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IX</td>]]></html>
+	<text>IX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1167</td>]]></html>
+	<text>1167</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Genesis 31</td>]]></html>
+	<text>Genesis 31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton Theological Seminary Pap. 9</td>]]></html>
+	<text>Princeton Theological Seminary Pap. 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton New Jersey</td>]]></html>
+	<text>Princeton New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>IX</td>]]></html>
+	<text>IX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1168</td>]]></html>
+	<text>1168</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joshua 40</td>]]></html>
+	<text>Joshua 40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton Theological Seminary Pap. 10</td>]]></html>
+	<text>Princeton Theological Seminary Pap. 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton New Jersey</td>]]></html>
+	<text>Princeton New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1225</td>]]></html>
+	<text>1225</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leviticus 16</td>]]></html>
+	<text>Leviticus 16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton Theological Seminary Pap. 12</td>]]></html>
+	<text>Princeton Theological Seminary Pap. 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Princeton New Jersey</td>]]></html>
+	<text>Princeton New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>X</td>]]></html>
+	<text>X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1226</td>]]></html>
+	<text>1226</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300</td>]]></html>
+	<text>300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Psalms 7–8</td>]]></html>
+	<text>Psalms 7&#8211;8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liverpool University Class. Gr. Libr. 4241227</td>]]></html>
+	<text>Liverpool University Class. Gr. Libr. 4241227</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liverpool</td>]]></html>
+	<text>Liverpool</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XI</td>]]></html>
+	<text>XI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1351</td>]]></html>
+	<text>1351</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lev 27 vellum</td>]]></html>
+	<text>Lev 27 vellum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ambrose Swasey Library; 886.4 Colgate Rochester Crozer Divinity School (prior to private sale )</td>]]></html>
+	<text>Ambrose Swasey Library; 886.4 Colgate Rochester Crozer Divinity School (prior to private sale )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rochester New York</td>]]></html>
+	<text>Rochester New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XI</td>]]></html>
+	<text>XI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1352</td>]]></html>
+	<text>1352</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>325</td>]]></html>
+	<text>325</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pss 82–83 vellum</td>]]></html>
+	<text>Pss 82&#8211;83 vellum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Egyptian Museum ; JE 47472</td>]]></html>
+	<text>Egyptian Museum ; JE 47472</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cairo</td>]]></html>
+	<text>Cairo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Egypt</td>]]></html>
+	<text>Egypt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XV</td>]]></html>
+	<text>XV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1779</td>]]></html>
+	<text>1779</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>350</td>]]></html>
+	<text>350</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Psalm 1</td>]]></html>
+	<text>Psalm 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Theological Seminary</td>]]></html>
+	<text>United Theological Seminary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dayton, Ohio</td>]]></html>
+	<text>Dayton, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S.</td>]]></html>
+	<text>U.S.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XVI</td>]]></html>
+	<text>XVI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1928</td>]]></html>
+	<text>1928</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500</td>]]></html>
+	<text>500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ps 90 amulet</td>]]></html>
+	<text>Ps 90 amulet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XVII</td>]]></html>
+	<text>XVII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2065</td>]]></html>
+	<text>2065</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500</td>]]></html>
+	<text>500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Psalm 90</td>]]></html>
+	<text>Psalm 90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XVII</td>]]></html>
+	<text>XVII</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2066</td>]]></html>
+	<text>2066</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500</td>]]></html>
+	<text>500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ecclesiastes 6–7</td>]]></html>
+	<text>Ecclesiastes 6&#8211;7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XXIV</td>]]></html>
+	<text>XXIV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2386</td>]]></html>
+	<text>2386</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500</td>]]></html>
+	<text>500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Psalms 83–84</td>]]></html>
+	<text>Psalms 83&#8211;84</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>L</td>]]></html>
+	<text>L</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3522</td>]]></html>
+	<text>3522</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50</td>]]></html>
+	<text>50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Job 42.11–12</td>]]></html>
+	<text>Job 42.11&#8211;12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LX</td>]]></html>
+	<text>LX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4011</td>]]></html>
+	<text>4011</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>550</td>]]></html>
+	<text>550</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ps 75 interlinear</td>]]></html>
+	<text>Ps 75 interlinear</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LXV</td>]]></html>
+	<text>LXV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4442</td>]]></html>
+	<text>4442</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>225</td>]]></html>
+	<text>225</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ex 20:10–17, 18–22</td>]]></html>
+	<text>Ex 20:10&#8211;17, 18&#8211;22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LXV</td>]]></html>
+	<text>LXV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4443</td>]]></html>
+	<text>4443</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100</td>]]></html>
+	<text>100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Esther 6–7</td>]]></html>
+	<text>Esther 6&#8211;7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashmolean Museum</td>]]></html>
+	<text>Ashmolean Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oxford</td>]]></html>
+	<text>Oxford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Oxyrhynchus Papyri - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Vol Oxy Date Content Institution City, State Country</text>
+</context>
+<context>
+	<score>0.88288283</score>
+	<text>P. Oxy. &lt;volume in Roman numerals &gt; &lt;publication sequence number&gt;.</text>
+</context>
+<context>
+	<score>0.80075747</score>
+	<text>Oxyrhynchus Papyri</text>
+</context>
+<context>
+	<score>0.7859131</score>
+	<text>The original Hebrew Bible ( Tanakh ) was translated into Greek between the 3rd and 1st centuries BC . This translation is called the Septuagint (or LXX, both 70 in Latin), because there is a tradition that 72 Jewish scribes compiled it in Alexandria , Egypt . It was quoted in the New Testament and is found bound together with the New Testament in the 4th and 5th century Greek uncial codices Sinaiticus , Alexandrinus and Vaticanus . The Septuagint included books called the Apocrypha, of disputed authority (see next section ). Portions of Old Testament books of undisputed authority found among the Oxyrhynchus Papyri are listed in this section.</text>
+</context>
+<context>
+	<score>0.7545406</score>
+	<text>[ edit ] Old Testament Apocrypha</text>
+</context>
+<context>
+	<score>0.7272768</score>
+	<text>[ edit ] Theological manuscripts</text>
+</context>
+<context>
+	<score>0.7272768</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7272768</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7272768</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7231818</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70833737</score>
+	<text>.png&quot; width=&quot;15&quot; height=&quot;11&quot; alt=&quot;&quot; /&gt; P. Oxy. VI 846: Amos 2 (LXX)</text>
+</context>
+<context>
+	<score>0.6462767</score>
+	<text>P. Oxy. VI 846: Amos 2 (LXX)</text>
+</context>
+<context>
+	<score>0.6077438</score>
+	<text>The Apocrypha is a name given to those books that have canonical status in the Old Testament of the Roman Catholic and Orthodox denominations, but were not part of the Hebrew Bible, and are not included in the Protestant Old Testament.</text>
+</context>
+<context>
+	<score>0.5966282</score>
+	<text>[ edit ] Old Testament</text>
+</context>
+<context>
+	<score>0.5569094</score>
+	<text>All manuscripts classified as &quot;theological&quot; in Oxyrhynchus Papyri are listed below. A few manuscripts that belong to multiple genres, or genres that are inconsistently treated in the volumes of Oxyrhynchus Papyri are also included. For example, the quotation from Psalm 90 (P. Oxy. XVI 1928) associated with an amulet, is classified according to its primary genre as a magic text in Oxyrhynchus Papyri , however it is included here among witnesses to the Old Testament text. In each volume that contains theological manuscripts, they are listed first, according to an English tradition of academic precedence (see Doctor of Divinity ).</text>
+</context>
+<context>
+	<score>0.5251343</score>
+	<text>[ edit ] Theological manuscripts Main article: Biblical manuscript</text>
+</context>
+<context>
+	<score>0.5172978</score>
+	<text>PP. Oxy. XIII 1594 and LXV 4444 are vellum (&quot;vellum&quot; noted in table). Both copies of Tobit are different editions to the known Septuagint text (&quot;not LXX&quot; noted in table).</text>
+</context>
+<context>
+	<score>0.4956193</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.47937825</score>
+	<text>, modern el-Bahnasa) in Egypt . They include thousands of Greek and Latin documents, letters and literary works. They also include a few vellum manuscripts, and more recent Arabic manuscripts on paper (for example, the medieval P. Oxy. VI 1006).</text>
+</context>
+<context>
+	<score>0.47059807</score>
+	<text>[ edit ] Other related papyri</text>
+</context>
+<context>
+	<score>0.45009443</score>
+	<text>The Oxyrhynchus papyri are a very numerous group of manuscripts discovered by archaeologists at an ancient rubbish dump near Oxyrhynchus (</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align:center"><tr><th>Vol</th><th>Oxy</th><th>Date</th><th>Content</th><th>Institution</th><th>City, State</th><th>Country</th></tr><tr><td>IV</td><td>656</td><td>150</td><td><a href="../../../../articles/b/o/o/Book_of_Genesis_35b0.html" title="Book of Genesis">Gen</a> 14:21–23; 15:5–9; 19:32–20:11;<br />24:28–47; 27:32–33, 40–41</td><td><a href="../../../../articles/b/o/d/Bodleian_Library_1cf5.html" title="Bodleian Library">Bodleian Library</a>; MS.Gr.bib.d.5(P)</td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>VI</td><td>845</td><td>400</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Psalms</a> 68; 70</td><td><a href="../../../../articles/e/g/y/Egyptian_Museum_74e1.html" title="Egyptian Museum">Egyptian Museum</a>; JE 41083</td><td><a href="../../../../articles/c/a/i/Cairo.html" title="Cairo">Cairo</a></td><td><a href="../../../../articles/e/g/y/Egypt.html" title="Egypt">Egypt</a></td></tr><tr><td>VI</td><td><b><a href="../../../../articles/p/o/x/POxy_846_2f7b.html" title="POxy 846">846</a></b></td><td>550</td><td><a href="../../../../articles/b/o/o/Book_of_Amos_2c61.html" title="Book of Amos">Amos</a> 2</td><td><a href="../../../../articles/u/n/i/University_of_Pennsylvania_1f66.html" title="University of Pennsylvania">University of Pennsylvania</a>; E 3074</td><td><a href="../../../../articles/p/h/i/Philadelphia%2C_Pennsylvania_7d25.html" class="mw-redirect" title="Philadelphia, Pennsylvania">Philadelphia</a><br /><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>VII</td><td>1007</td><td>400</td><td><a href="../../../../articles/b/o/o/Book_of_Genesis_35b0.html" title="Book of Genesis">Genesis</a> 2–3</td><td><a href="../../../../articles/b/r/i/British_Museum_7dce.html" title="British Museum">British Museum</a>; Inv. 2047</td><td><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>VIII</td><td>1073</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Genesis_35b0.html" title="Book of Genesis">Gen</a> 5–6 Old Latin</td><td><a href="../../../../articles/b/r/i/British_Museum_7dce.html" title="British Museum">British Museum</a>; Inv. 2052</td><td><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>VIII</td><td>1074</td><td>250</td><td><a href="../../../../articles/b/o/o/Book_of_Exodus_bed1.html" class="mw-redirect" title="Book of Exodus">Exodus</a> 31–32</td><td><a href="../../../../articles/u/n/i/University_of_Illinois_8473.html" class="mw-redirect" title="University of Illinois">University of Illinois</a>; GP 1074</td><td><a href="../../../../articles/u/r/b/Urbana%2C_Illinois_c503.html" title="Urbana, Illinois">Urbana, Illinois</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>VIII</td><td>1075</td><td>250</td><td><a href="../../../../articles/b/o/o/Book_of_Exodus_bed1.html" class="mw-redirect" title="Book of Exodus">Exodus</a> 11:26–32</td><td><a href="../../../../articles/b/r/i/British_Library_1c04.html" title="British Library">British Library</a>; Inv. 2053 (recto)</td><td><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>IX</td><td>1166</td><td>250</td><td><a href="../../../../articles/b/o/o/Book_of_Genesis_35b0.html" title="Book of Genesis">Genesis</a> 16:8–12</td><td><a href="../../../../articles/b/r/i/British_Library_1c04.html" title="British Library">British Library</a>; Inv. 2066</td><td><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>IX</td><td>1167</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Genesis_35b0.html" title="Book of Genesis">Genesis</a> 31</td><td><a href="../../../../articles/p/r/i/Princeton_Theological_Seminary_78dc.html" title="Princeton Theological Seminary">Princeton Theological Seminary</a><br />Pap. 9</td><td><a href="../../../../articles/p/r/i/Princeton%2C_New_Jersey_b719.html" title="Princeton, New Jersey">Princeton</a><br /><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>IX</td><td>1168</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Joshua_3669.html" title="Book of Joshua">Joshua</a> 40</td><td><a href="../../../../articles/p/r/i/Princeton_Theological_Seminary_78dc.html" title="Princeton Theological Seminary">Princeton Theological Seminary</a><br />Pap. 10</td><td><a href="../../../../articles/p/r/i/Princeton%2C_New_Jersey_b719.html" title="Princeton, New Jersey">Princeton</a><br /><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>X</td><td>1225</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Leviticus_8da6.html" class="mw-redirect" title="Book of Leviticus">Leviticus</a> 16</td><td><a href="../../../../articles/p/r/i/Princeton_Theological_Seminary_78dc.html" title="Princeton Theological Seminary">Princeton Theological Seminary</a><br />Pap. 12</td><td><a href="../../../../articles/p/r/i/Princeton%2C_New_Jersey_b719.html" title="Princeton, New Jersey">Princeton</a><br /><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>X</td><td>1226</td><td>300</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Psalms</a> 7–8</td><td><a href="../../../../articles/l/i/v/Liverpool_University_a3c6.html" class="mw-redirect" title="Liverpool University">Liverpool University</a><br />Class. Gr. Libr. 4241227</td><td><a href="../../../../articles/l/i/v/Liverpool.html" title="Liverpool">Liverpool</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>XI</td><td>1351</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Leviticus_8da6.html" class="mw-redirect" title="Book of Leviticus">Lev</a> 27 vellum</td><td><a href="../../../../articles/a/m/b/Ambrose_Swasey_4b5a.html" title="Ambrose Swasey">Ambrose Swasey</a> Library; 886.4<br /><p><a href="../../../../articles/c/o/l/Colgate_Rochester_Crozer_Divinity_School_faf2.html" title="Colgate Rochester Crozer Divinity School">Colgate Rochester Crozer Divinity School</a><br />(prior to private <a href="http://paleojudaica.blogspot.com/2003_06_22_archive.html" class="external text" title="http://paleojudaica.blogspot.com/2003_06_22_archive.html" rel="nofollow">sale</a>)</p></td><td><a href="../../../../articles/r/o/c/Rochester%2C_New_York_4bd8.html" title="Rochester, New York">Rochester</a><br /><a href="../../../../articles/n/e/w/New_York_State_572b.html" class="mw-redirect" title="New York State">New York</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>XI</td><td>1352</td><td>325</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Pss</a> 82–83 vellum</td><td><a href="../../../../articles/e/g/y/Egyptian_Museum_74e1.html" title="Egyptian Museum">Egyptian Museum</a>; JE 47472</td><td><a href="../../../../articles/c/a/i/Cairo.html" title="Cairo">Cairo</a></td><td><a href="../../../../articles/e/g/y/Egypt.html" title="Egypt">Egypt</a></td></tr><tr><td>XV</td><td>1779</td><td>350</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Psalm</a> 1</td><td><a href="../../../../articles/u/n/i/United_Theological_Seminary_5588.html" title="United Theological Seminary">United Theological Seminary</a></td><td><a href="../../../../articles/d/a/y/Dayton%2C_Ohio_88d9.html" title="Dayton, Ohio">Dayton, Ohio</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">U.S.</a></td></tr><tr><td>XVI</td><td>1928</td><td>500</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Ps</a> 90 <a href="../../../../articles/a/m/u/Amulet.html" title="Amulet">amulet</a></td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>XVII</td><td>2065</td><td>500</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Psalm</a> 90</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>XVII</td><td>2066</td><td>500</td><td><a href="../../../../articles/b/o/o/Book_of_Ecclesiastes_a498.html" class="mw-redirect" title="Book of Ecclesiastes">Ecclesiastes</a> 6–7</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>XXIV</td><td>2386</td><td>500</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Psalms</a> 83–84</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>L</td><td>3522</td><td>50</td><td><a href="../../../../articles/b/o/o/Book_of_Job_cd51.html" title="Book of Job">Job</a> 42.11–12</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>LX</td><td>4011</td><td>550</td><td><a href="../../../../articles/b/o/o/Book_of_Psalms_adda.html" class="mw-redirect" title="Book of Psalms">Ps</a> 75 interlinear</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>LXV</td><td>4442</td><td>225</td><td><a href="../../../../articles/b/o/o/Book_of_Exodus_bed1.html" class="mw-redirect" title="Book of Exodus">Ex</a> 20:10–17, 18–22</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr><tr><td>LXV</td><td>4443</td><td>100</td><td><a href="../../../../articles/b/o/o/Book_of_Esther_ae93.html" title="Book of Esther">Esther</a> 6–7</td><td><a href="../../../../articles/a/s/h/Ashmolean_Museum_d2c6.html" title="Ashmolean Museum">Ashmolean Museum</a></td><td><a href="../../../../articles/o/x/f/Oxford.html" title="Oxford">Oxford</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

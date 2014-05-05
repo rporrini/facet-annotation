@@ -1,0 +1,53 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Samuel_Osgood</entity>
+<entity>New_York</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Timothy_Pickering</entity>
+<entity>Massachusetts</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Joseph_Habersham</entity>
+<entity>Georgia_(U.S._state)</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Gideon_Granger</entity>
+<entity>Connecticut</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>Return_J._Meigs,_Jr.</entity>
+<entity>Ohio</entity>
+<entity></entity>
+<entity></entity>
+</row>
+<row>
+<entity>John_McLean</entity>
+<entity>Ohio</entity>
+<entity></entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

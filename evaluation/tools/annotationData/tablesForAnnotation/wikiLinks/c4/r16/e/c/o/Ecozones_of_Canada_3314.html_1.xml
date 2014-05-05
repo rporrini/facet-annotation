@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r16/e/c/o/Ecozones_of_Canada_3314.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 0 1, 0.1640625 1, 0.15 0 2, 0.140625 2, 0.125 0 3, 0.1171875 3, 0.024609374 1 2, 0.020507812 1 3, 0.017578125 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/c/o/Ecozones_of_Canada_3314.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Ecozone</th>]]></html>
+	<text>Ecozone</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (km²)</th>]]></html>
+	<text>Area (km&#178;)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Percentage of total area</th>]]></html>
+	<text>Percentage of total area</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Percentage of land area</th>]]></html>
+	<text>Percentage of land area</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pacific Maritime</td>]]></html>
+	<text>Pacific Maritime</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>205,175</td>]]></html>
+	<text>205,175</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.4</td>]]></html>
+	<text>1.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.2</td>]]></html>
+	<text>2.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montane Cordillera</td>]]></html>
+	<text>Montane Cordillera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>459,680</td>]]></html>
+	<text>459,680</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.1</td>]]></html>
+	<text>3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.0</td>]]></html>
+	<text>5.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boreal Cordillera</td>]]></html>
+	<text>Boreal Cordillera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>459,680</td>]]></html>
+	<text>459,680</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.1</td>]]></html>
+	<text>3.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.0</td>]]></html>
+	<text>5.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Taiga Cordillera</td>]]></html>
+	<text>Taiga Cordillera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>264,480</td>]]></html>
+	<text>264,480</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.8</td>]]></html>
+	<text>1.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.0</td>]]></html>
+	<text>3.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arctic Cordillera</td>]]></html>
+	<text>Arctic Cordillera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>230,873</td>]]></html>
+	<text>230,873</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.5</td>]]></html>
+	<text>2.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northern Arctic</td>]]></html>
+	<text>Northern Arctic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,361,433</td>]]></html>
+	<text>1,361,433</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.2</td>]]></html>
+	<text>9.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.8</td>]]></html>
+	<text>14.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Southern Arctic</td>]]></html>
+	<text>Southern Arctic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>773,010</td>]]></html>
+	<text>773,010</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.2</td>]]></html>
+	<text>5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.4</td>]]></html>
+	<text>8.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Taiga Plains</td>]]></html>
+	<text>Taiga Plains</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>580,139</td>]]></html>
+	<text>580,139</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.9</td>]]></html>
+	<text>3.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.4</td>]]></html>
+	<text>6.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Taiga Shield</td>]]></html>
+	<text>Taiga Shield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,253,887</td>]]></html>
+	<text>1,253,887</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.5</td>]]></html>
+	<text>8.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.6</td>]]></html>
+	<text>13.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boreal Plains</td>]]></html>
+	<text>Boreal Plains</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>679,969</td>]]></html>
+	<text>679,969</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.6</td>]]></html>
+	<text>4.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.4</td>]]></html>
+	<text>7.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prairies</td>]]></html>
+	<text>Prairies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>459,681</td>]]></html>
+	<text>459,681</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.2</td>]]></html>
+	<text>3.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.1</td>]]></html>
+	<text>5.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hudson Plains</td>]]></html>
+	<text>Hudson Plains</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>353,364</td>]]></html>
+	<text>353,364</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4</td>]]></html>
+	<text>2.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.8</td>]]></html>
+	<text>3.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boreal Shield</td>]]></html>
+	<text>Boreal Shield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,782,252</td>]]></html>
+	<text>1,782,252</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.2</td>]]></html>
+	<text>12.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.3</td>]]></html>
+	<text>19.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mixedwood Plains</td>]]></html>
+	<text>Mixedwood Plains</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>138,421</td>]]></html>
+	<text>138,421</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.9</td>]]></html>
+	<text>0.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5</td>]]></html>
+	<text>1.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlantic Maritime</td>]]></html>
+	<text>Atlantic Maritime</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>183,978</td>]]></html>
+	<text>183,978</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2</td>]]></html>
+	<text>1.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.0</td>]]></html>
+	<text>2.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,215,430</td>]]></html>
+	<text>9,215,430</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.3</td>]]></html>
+	<text>62.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.0</td>]]></html>
+	<text>100.0</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Ecozones of Canada - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Ecozone Area (km ) Percentage of total area Percentage of land area</text>
+</context>
+<context>
+	<score>0.8853701</score>
+	<text>an expanse of diverse ecoregions situated on the Canadian Shield .</text>
+</context>
+<context>
+	<score>0.79864365</score>
+	<text>Ecozones of Canada</text>
+</context>
+<context>
+	<score>0.78180784</score>
+	<text>The largest Canadian ecozone is the Boreal Shield,</text>
+</context>
+<context>
+	<score>0.7570217</score>
+	<text>[ edit ] Subdivisions</text>
+</context>
+<context>
+	<score>0.7276522</score>
+	<text>[ edit ] Marine ecozones</text>
+</context>
+<context>
+	<score>0.7276522</score>
+	<text>[ edit ] Terrestrial ecozones</text>
+</context>
+<context>
+	<score>0.7276522</score>
+	<text>[ edit ] Subdivisions</text>
+</context>
+<context>
+	<score>0.7276522</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7276522</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72106427</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7108163</score>
+	<text>[ edit ] Terrestrial ecozones</text>
+</context>
+<context>
+	<score>0.6421649</score>
+	<text>The Canadian marine ecozones adjoin to each other, except the Pacific ecozone, which is adjacent to international marine ecozones, as well as terrestrial Canadian ecozones. The largest is the Arctic Archipelago, which actually extends to sub-arctic regions.</text>
+</context>
+<context>
+	<score>0.6102181</score>
+	<text>The terrestrial ecozones are divided into 53 ecoprovinces. These are major geographical units with a characteristic macro climate , whose constituent physiographic forms, faunal and floral realms, hydrological systems and soils are inter-related. An ecoprovince is fully contained within only one ecozone.</text>
+</context>
+<context>
+	<score>0.59910196</score>
+	<text>[ edit ] Marine ecozones</text>
+</context>
+<context>
+	<score>0.5527933</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5276047</score>
+	<text>An ecozone is a large sub-continental geographical division with distinct representative biotic and abiotic features in the ecological unit.</text>
+</context>
+<context>
+	<score>0.523863</score>
+	<text>These subdivisions were defined in accordance with environmental provisions which established the Commission for Environmental Cooperation in 1994, under the North American Free Trade Agreement between Canada, the United States , and Mexico .</text>
+</context>
+<context>
+	<score>0.5021835</score>
+	<text>The ecozones of Canada consist of fifteen terrestrial and five marine ecozones in Canada . These are further subdivided into 53 ecoprovinces , 194 ecoregions , and 1021 ecodistricts.</text>
+</context>
+<context>
+	<score>0.49209443</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47582483</score>
+	<text>Ecozones of Canada</text>
+</context>
+<context>
+	<score>0.46647796</score>
+	<text>These were needed to address ecological issues common to, or overlapping the borders of, the three countries. They are also useful for national and regional planning.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" class="wikitable sortable"><tr><th width="30%">Ecozone</th><th width="25%">Area (km²)</th><th>Percentage of total area</th><th>Percentage of land area</th></tr><tr><td><a href="../../../../articles/p/a/c/Pacific_Maritime_65d3.html" title="Pacific Maritime">Pacific Maritime</a></td><td align="right">205,175</td><td align="right">1.4</td><td align="right">2.2</td></tr><tr><td><a href="../../../../articles/m/o/n/Montane_Cordillera_bf39.html" title="Montane Cordillera">Montane Cordillera</a></td><td align="right">459,680</td><td align="right">3.1</td><td align="right">5.0</td></tr><tr><td><a href="../../../../articles/b/o/r/Boreal_Cordillera_70c3.html" title="Boreal Cordillera">Boreal Cordillera</a></td><td align="right">459,680</td><td align="right">3.1</td><td align="right">5.0</td></tr><tr><td><a href="../../../../articles/t/a/i/Taiga_Cordillera_2add.html" title="Taiga Cordillera">Taiga Cordillera</a></td><td align="right">264,480</td><td align="right">1.8</td><td align="right">3.0</td></tr><tr><td><a href="../../../../articles/a/r/c/Arctic_Cordillera_8f24.html" title="Arctic Cordillera">Arctic Cordillera</a></td><td align="right">230,873</td><td align="right">1.6</td><td align="right">2.5</td></tr><tr><td><a href="../../../../articles/n/o/r/Northern_Arctic_c72a.html" title="Northern Arctic">Northern Arctic</a></td><td align="right">1,361,433</td><td align="right">9.2</td><td align="right">14.8</td></tr><tr><td><a href="../../../../articles/s/o/u/Southern_Arctic_236d.html" title="Southern Arctic">Southern Arctic</a></td><td align="right">773,010</td><td align="right">5.2</td><td align="right">8.4</td></tr><tr><td><a href="../../../../articles/t/a/i/Taiga_Plains_e82d.html" title="Taiga Plains">Taiga Plains</a></td><td align="right">580,139</td><td align="right">3.9</td><td align="right">6.4</td></tr><tr><td><a href="../../../../articles/t/a/i/Taiga_Shield_0b5d.html" title="Taiga Shield">Taiga Shield</a></td><td align="right">1,253,887</td><td align="right">8.5</td><td align="right">13.6</td></tr><tr><td><a href="../../../../articles/b/o/r/Boreal_Plains_5c21.html" title="Boreal Plains">Boreal Plains</a></td><td align="right">679,969</td><td align="right">4.6</td><td align="right">7.4</td></tr><tr><td><a href="../../../../articles/p/r/a/Prairies_%28ecozone%29.html" title="Prairies (ecozone)">Prairies</a></td><td align="right">459,681</td><td align="right">3.2</td><td align="right">5.1</td></tr><tr><td><a href="../../../../articles/h/u/d/Hudson_Plains_cf3a.html" title="Hudson Plains">Hudson Plains</a></td><td align="right">353,364</td><td align="right">2.4</td><td align="right">3.8</td></tr><tr><td><a href="../../../../articles/b/o/r/Boreal_Shield_a8d8.html" title="Boreal Shield">Boreal Shield</a></td><td align="right">1,782,252</td><td align="right">12.2</td><td align="right">19.3</td></tr><tr><td><a href="../../../../articles/m/i/x/Mixedwood_Plains_e4e9.html" title="Mixedwood Plains">Mixedwood Plains</a></td><td align="right">138,421</td><td align="right">0.9</td><td align="right">1.5</td></tr><tr><td><a href="../../../../articles/a/t/l/Atlantic_Maritime_875b.html" title="Atlantic Maritime">Atlantic Maritime</a></td><td align="right">183,978</td><td align="right">1.2</td><td align="right">2.0</td></tr><tr><th>Total</th><td align="right">9,215,430</td><td align="right">62.3</td><td align="right">100.0</td></tr></table>]]>
+</htmlSnippet>
+</entity>

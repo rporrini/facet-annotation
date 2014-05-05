@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r10/u/n/i/United_States_casualties_of_war_a1b4.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.175 2, 0.175 1 2, 0.15 3, 0.15 1 3, 0.125 0, 0.125 0 1, 0.02625 2 3, 0.021875 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_casualties_of_war_a1b4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>War</th>]]></html>
+	<text>War</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Years</th>]]></html>
+	<text>Years</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Deaths</th>]]></html>
+	<text>Deaths</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>World War II</td>]]></html>
+	<text>World War II</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1941–1945</td>]]></html>
+	<text>1941&#8211;1945</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>291,557</td>]]></html>
+	<text>291,557</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American Civil War</td>]]></html>
+	<text>American Civil War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1861–1865</td>]]></html>
+	<text>1861&#8211;1865</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>212,938</td>]]></html>
+	<text>212,938</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>World War I</td>]]></html>
+	<text>World War I</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1917–1918</td>]]></html>
+	<text>1917&#8211;1918</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,402</td>]]></html>
+	<text>53,402</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vietnam War</td>]]></html>
+	<text>Vietnam War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964–1973</td>]]></html>
+	<text>1964&#8211;1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,355</td>]]></html>
+	<text>47,355</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Korean War</td>]]></html>
+	<text>Korean War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1950–1953</td>]]></html>
+	<text>1950&#8211;1953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,746</td>]]></html>
+	<text>33,746</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American Revolutionary War</td>]]></html>
+	<text>American Revolutionary War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1775–1783</td>]]></html>
+	<text>1775&#8211;1783</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iraq War</td>]]></html>
+	<text>Iraq War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003–present</td>]]></html>
+	<text>2003&#8211;present</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,356 (as of 09/06/2008)</td>]]></html>
+	<text>3,356 (as of 09/06/2008)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>War of 1812</td>]]></html>
+	<text>War of 1812</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1812–1815</td>]]></html>
+	<text>1812&#8211;1815</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,260</td>]]></html>
+	<text>2,260</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mexican-American War</td>]]></html>
+	<text>Mexican-American War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1846–1848</td>]]></html>
+	<text>1846&#8211;1848</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,733</td>]]></html>
+	<text>1,733</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philippine War</td>]]></html>
+	<text>Philippine War</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1898–1902</td>]]></html>
+	<text>1898&#8211;1902</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,020</td>]]></html>
+	<text>1,020</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States casualties of war - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank War Years Deaths</text>
+</context>
+<context>
+	<score>0.88461345</score>
+	<text>[ edit ] Wars ranked by combat deaths</text>
+</context>
+<context>
+	<score>0.7969663</score>
+	<text>United States casualties of war</text>
+</context>
+<context>
+	<score>0.7876421</score>
+	<text>&quot;Deaths per day&quot; are the total number of US military deaths, divided by the number of days between the dates of the commencement and end of hostilities, or until 31 December 2007 in the case of the Iraq War . &quot;Deaths per population&quot; are the total number of US military deaths, divided by the US population of the year indicated.</text>
+</context>
+<context>
+	<score>0.75626916</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] Wars ranked by total deaths</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] Wars ranked by combat deaths</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7252169</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7193893</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7100652</score>
+	<text>[ edit ] Wars ranked by total deaths</text>
+</context>
+<context>
+	<score>0.66628915</score>
+	<text>a.</text>
+</context>
+<context>
+	<score>0.642176</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5925266</score>
+	<text>* Includes: Afghanistan, Philippines, Horn of Africa and Pankisi Gorge</text>
+</context>
+<context>
+	<score>0.5586348</score>
+	<text>Military casualties suffered by the United States of America in war or deployments:</text>
+</context>
+<context>
+	<score>0.5361834</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.51729006</score>
+	<text>unded estimates. Commonly cited casualty figures provided by the Department of Defense are 4,435 killed and 6,188 wounded, although the original government report that generated these numbers warned that the totals were incomplete and far too low.</text>
+</context>
+<context>
+	<score>0.510763</score>
+	<text>United States casualties of war</text>
+</context>
+<context>
+	<score>0.47134617</score>
+	<text>b.</text>
+</context>
+<context>
+	<score>0.4664945</score>
+	<text>Nevertheless, the numbers are often repeated without this warning, such as on the United States Department of Veteran Affairs website.</text>
+</context>
+<context>
+	<score>0.46168688</score>
+	<text>c. ^ World War I figures include expeditions in North Russia and Siberia. See also World War I casualties</text>
+</context>
+<context>
+	<score>0.45958248</score>
+	<text>d. ^ Iraq War . See also Casualties of the conflict in Iraq since 2003 . Sources:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Rank</th><th>War</th><th>Years</th><th>Deaths</th></tr><tr><td>1</td><td><a href="../../../../articles/w/o/r/World_War_II_d045.html" title="World War II">World War II</a></td><td>1941–1945</td><td>291,557</td></tr><tr><td>2</td><td><a href="../../../../articles/a/m/e/American_Civil_War_90af.html" title="American Civil War">American Civil War</a></td><td>1861–1865</td><td>212,938</td></tr><tr><td>3</td><td><a href="../../../../articles/w/o/r/World_War_I_9429.html" title="World War I">World War I</a></td><td>1917–1918</td><td>53,402</td></tr><tr><td>4</td><td><a href="../../../../articles/v/i/e/Vietnam_War_129f.html" title="Vietnam War">Vietnam War</a></td><td>1964–1973</td><td>47,355</td></tr><tr><td>5</td><td><a href="../../../../articles/k/o/r/Korean_War_7f11.html" title="Korean War">Korean War</a></td><td>1950–1953</td><td>33,746</td></tr><tr><td>6</td><td><a href="../../../../articles/a/m/e/American_Revolutionary_War_48ec.html" title="American Revolutionary War">American Revolutionary War</a></td><td>1775–1783</td><td>8,000</td></tr><tr><td>7</td><td><a href="../../../../articles/i/r/a/Iraq_War_58f4.html" title="Iraq War">Iraq War</a></td><td>2003–present</td><td>3,356 (as of 09/06/2008)</td></tr><tr><td>8</td><td><a href="../../../../articles/w/a/r/War_of_1812.html" title="War of 1812">War of 1812</a></td><td>1812–1815</td><td>2,260</td></tr><tr><td>9</td><td><a href="../../../../articles/m/e/x/Mexican-American_War_f1a1.html" title="Mexican-American War">Mexican-American War</a></td><td>1846–1848</td><td>1,733</td></tr><tr><td>10</td><td><a href="../../../../articles/p/h/i/Philippine_War_db61.html" class="mw-redirect" title="Philippine War">Philippine War</a></td><td>1898–1902</td><td>1,020</td></tr></table>]]>
+</htmlSnippet>
+</entity>

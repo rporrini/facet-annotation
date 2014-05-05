@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r30/h/i/k/Hikari_(Shinkansen)_bba5.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 2, 0.9444444 0 2, 0.17777778 3, 0.17777778 0 3, 0.16790123 2 3, 0.083333336 0 1, 0.0787037 1 2, 0.07777778 0 4, 0.07345679 2 4, 0.072222225 0 5, 0.06820988 2 5, 0.06666667 0 6, 0.062962964 2 6, 0.06111111 0 7, 0.05771605 2 7, 0.05555556 0 8, 0.052469134 2 8, 0.018148148 4, 0.0148148155 1 3, 0.013827162 3 4, 0.012839506 3 5, 0.011851853 3 6, 0.010864197 3 7, 0.010185186 7, 0.009876545 3 8, 0.007407408 8, 0.002777778 1, 0.0024074076 5, 0.0022222225 6, 0.0015843622 4 7, 0.0015123459 1 4, 0.0013106996 4 5, 0.0012962965 4 8, 0.0012098766 4 6, 9.053499E-4 7 8, 8.487654E-4 1 7, 7.3559675E-4 5 7, 6.790124E-4 6 7, 6.1728404E-4 1 8, 5.3497945E-4 5 8, 4.938272E-4 6 8, 2.006173E-4 1 5, 1.8518521E-4 1 6, 1.6049384E-4 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/h/i/k/Hikari_(Shinkansen)_bba5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Station</th>]]></html>
+	<text>Station</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>in Japanese</th>]]></html>
+	<text>in Japanese</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ward / City</th>]]></html>
+	<text>Ward / City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance (km) (from Tokyo)</th>]]></html>
+	<text>Distance (km) (from Tokyo)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Tokyo - Hiroshima</th>]]></html>
+	<text>Tokyo - Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Tokyo - Shin-Osaka</th>]]></html>
+	<text>Tokyo - Shin-Osaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Tokyo - Nagoya</th>]]></html>
+	<text>Tokyo - Nagoya</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nagoya - Hakata</th>]]></html>
+	<text>Nagoya - Hakata</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shin-Osaka - Hakata (Rail Star)</th>]]></html>
+	<text>Shin-Osaka - Hakata (Rail Star)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tokyo</td>]]></html>
+	<text>Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>東京</td>]]></html>
+	<text>&#26481;&#20140;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chiyoda, Tokyo</td>]]></html>
+	<text>Chiyoda, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0</td>]]></html>
+	<text>0.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>● (ex. 393)</td>]]></html>
+	<text>&#9679; (ex. 393)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shinagawa</td>]]></html>
+	<text>Shinagawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>品川</td>]]></html>
+	<text>&#21697;&#24029;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minato, Tokyo</td>]]></html>
+	<text>Minato, Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.8</td>]]></html>
+	<text>6.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>● (ex. 393)</td>]]></html>
+	<text>&#9679; (ex. 393)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Yokohama</td>]]></html>
+	<text>Shin-Yokohama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新横浜</td>]]></html>
+	<text>&#26032;&#27178;&#27996;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kōhoku-ku, Yokohama</td>]]></html>
+	<text>K&#333;hoku-ku, Yokohama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.5</td>]]></html>
+	<text>25.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Odawara</td>]]></html>
+	<text>Odawara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>小田原</td>]]></html>
+	<text>&#23567;&#30000;&#21407;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Odawara, Kanagawa</td>]]></html>
+	<text>Odawara, Kanagawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>76.7</td>]]></html>
+	<text>76.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atami</td>]]></html>
+	<text>Atami</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>熱海</td>]]></html>
+	<text>&#29105;&#28023;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atami, Shizuoka</td>]]></html>
+	<text>Atami, Shizuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.4</td>]]></html>
+	<text>95.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mishima</td>]]></html>
+	<text>Mishima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>三島</td>]]></html>
+	<text>&#19977;&#23798;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mishima, Shizuoka</td>]]></html>
+	<text>Mishima, Shizuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111.3</td>]]></html>
+	<text>111.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shizuoka</td>]]></html>
+	<text>Shizuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>静岡</td>]]></html>
+	<text>&#38745;&#23713;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aoi-ku, Shizuoka</td>]]></html>
+	<text>Aoi-ku, Shizuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>167.4</td>]]></html>
+	<text>167.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hamamatsu</td>]]></html>
+	<text>Hamamatsu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>浜松</td>]]></html>
+	<text>&#27996;&#26494;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamamatsu, Shizuoka</td>]]></html>
+	<text>Hamamatsu, Shizuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>238.9</td>]]></html>
+	<text>238.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Toyohashi</td>]]></html>
+	<text>Toyohashi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>豊橋</td>]]></html>
+	<text>&#35914;&#27211;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toyohashi, Aichi</td>]]></html>
+	<text>Toyohashi, Aichi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>274.2</td>]]></html>
+	<text>274.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nagoya</td>]]></html>
+	<text>Nagoya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>名古屋</td>]]></html>
+	<text>&#21517;&#21476;&#23627;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nakamura-ku, Nagoya</td>]]></html>
+	<text>Nakamura-ku, Nagoya</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>342.0</td>]]></html>
+	<text>342.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gifu-Hashima</td>]]></html>
+	<text>Gifu-Hashima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>岐阜羽島</td>]]></html>
+	<text>&#23696;&#38428;&#32701;&#23798;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hashima, Gifu</td>]]></html>
+	<text>Hashima, Gifu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>367.1</td>]]></html>
+	<text>367.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maibara</td>]]></html>
+	<text>Maibara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>米原</td>]]></html>
+	<text>&#31859;&#21407;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maibara, Shiga</td>]]></html>
+	<text>Maibara, Shiga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>408.2</td>]]></html>
+	<text>408.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kyoto</td>]]></html>
+	<text>Kyoto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>京都</td>]]></html>
+	<text>&#20140;&#37117;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shimogyo-ku, Kyoto</td>]]></html>
+	<text>Shimogyo-ku, Kyoto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>476.3</td>]]></html>
+	<text>476.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Ōsaka</td>]]></html>
+	<text>Shin-&#332;saka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新大阪</td>]]></html>
+	<text>&#26032;&#22823;&#38442;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yodogawa-ku, Osaka</td>]]></html>
+	<text>Yodogawa-ku, Osaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>515.4</td>]]></html>
+	<text>515.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Kobe</td>]]></html>
+	<text>Shin-Kobe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新神戸</td>]]></html>
+	<text>&#26032;&#31070;&#25144;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chūō-ku, Kobe</td>]]></html>
+	<text>Ch&#363;&#333;-ku, Kobe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>548.0</td>]]></html>
+	<text>548.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nishi-Akashi</td>]]></html>
+	<text>Nishi-Akashi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>西明石</td>]]></html>
+	<text>&#35199;&#26126;&#30707;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Akashi, Hyōgo</td>]]></html>
+	<text>Akashi, Hy&#333;go</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>570.2</td>]]></html>
+	<text>570.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (395 only)</td>]]></html>
+	<text>&#9650; (395 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Himeji</td>]]></html>
+	<text>Himeji</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>姫路</td>]]></html>
+	<text>&#23019;&#36335;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Himeji, Hyōgo</td>]]></html>
+	<text>Himeji, Hy&#333;go</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>601.3</td>]]></html>
+	<text>601.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aioi</td>]]></html>
+	<text>Aioi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>相生</td>]]></html>
+	<text>&#30456;&#29983;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aioi, Hyōgo</td>]]></html>
+	<text>Aioi, Hy&#333;go</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>621.3</td>]]></html>
+	<text>621.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>● (ex. 387, 393)</td>]]></html>
+	<text>&#9679; (ex. 387, 393)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (395 only)</td>]]></html>
+	<text>&#9650; (395 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Okayama</td>]]></html>
+	<text>Okayama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>岡山</td>]]></html>
+	<text>&#23713;&#23665;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Okayama, Okayama</td>]]></html>
+	<text>Okayama, Okayama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>676.3</td>]]></html>
+	<text>676.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>● (ex. 387)</td>]]></html>
+	<text>&#9679; (ex. 387)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Kurashiki</td>]]></html>
+	<text>Shin-Kurashiki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新倉敷</td>]]></html>
+	<text>&#26032;&#20489;&#25975;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kurashiki, Okayama</td>]]></html>
+	<text>Kurashiki, Okayama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>702.1</td>]]></html>
+	<text>702.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (362 only)</td>]]></html>
+	<text>&#9650; (362 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (440 only)</td>]]></html>
+	<text>&#9650; (440 only)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fukuyama</td>]]></html>
+	<text>Fukuyama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>福山</td>]]></html>
+	<text>&#31119;&#23665;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fukuyama, Hiroshima</td>]]></html>
+	<text>Fukuyama, Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>733.1</td>]]></html>
+	<text>733.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (362, 393 only)</td>]]></html>
+	<text>&#9650; (362, 393 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (390 only)</td>]]></html>
+	<text>&#9650; (390 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Onomichi</td>]]></html>
+	<text>Shin-Onomichi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新尾道</td>]]></html>
+	<text>&#26032;&#23614;&#36947;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Onomichi, Hiroshima</td>]]></html>
+	<text>Onomichi, Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>750.5</td>]]></html>
+	<text>750.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (362 only)</td>]]></html>
+	<text>&#9650; (362 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (440 only)</td>]]></html>
+	<text>&#9650; (440 only)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mihara</td>]]></html>
+	<text>Mihara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>三原</td>]]></html>
+	<text>&#19977;&#21407;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mihara, Hiroshima</td>]]></html>
+	<text>Mihara, Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>761.0</td>]]></html>
+	<text>761.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (362 only)</td>]]></html>
+	<text>&#9650; (362 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (440, 489 only)</td>]]></html>
+	<text>&#9650; (440, 489 only)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Higashi-Hiroshima</td>]]></html>
+	<text>Higashi-Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>東広島</td>]]></html>
+	<text>&#26481;&#24195;&#23798;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Higashihiroshima, Hiroshima</td>]]></html>
+	<text>Higashihiroshima, Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>791.9</td>]]></html>
+	<text>791.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (440 only)</td>]]></html>
+	<text>&#9650; (440 only)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hiroshima</td>]]></html>
+	<text>Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>広島</td>]]></html>
+	<text>&#24195;&#23798;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minami-ku, Hiroshima</td>]]></html>
+	<text>Minami-ku, Hiroshima</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>821.2</td>]]></html>
+	<text>821.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (393 only)</td>]]></html>
+	<text>&#9650; (393 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>● (440 starts) (489 ends)</td>]]></html>
+	<text>&#9679; (440 starts) (489 ends)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tokuyama</td>]]></html>
+	<text>Tokuyama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>徳山</td>]]></html>
+	<text>&#24499;&#23665;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shunan, Yamaguchi</td>]]></html>
+	<text>Shunan, Yamaguchi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>903.5</td>]]></html>
+	<text>903.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (390, 391 only)</td>]]></html>
+	<text>&#9650; (390, 391 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Yamaguchi</td>]]></html>
+	<text>Shin-Yamaguchi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新山口</td>]]></html>
+	<text>&#26032;&#23665;&#21475;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yamaguchi, Yamaguchi</td>]]></html>
+	<text>Yamaguchi, Yamaguchi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>944.6</td>]]></html>
+	<text>944.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (390, 391 only)</td>]]></html>
+	<text>&#9650; (390, 391 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shin-Shimonoseki</td>]]></html>
+	<text>Shin-Shimonoseki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>新下関</td>]]></html>
+	<text>&#26032;&#19979;&#38306;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shimonoseki, Yamaguchi</td>]]></html>
+	<text>Shimonoseki, Yamaguchi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>992.5</td>]]></html>
+	<text>992.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (391 only)</td>]]></html>
+	<text>&#9650; (391 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲</td>]]></html>
+	<text>&#9650;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kokura</td>]]></html>
+	<text>Kokura</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>小倉</td>]]></html>
+	<text>&#23567;&#20489;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kokura Kita-ku, Kitakyūshū</td>]]></html>
+	<text>Kokura Kita-ku, Kitaky&#363;sh&#363;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1013.2</td>]]></html>
+	<text>1013.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (390, 391 only)</td>]]></html>
+	<text>&#9650; (390, 391 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hakata</td>]]></html>
+	<text>Hakata</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>博多</td>]]></html>
+	<text>&#21338;&#22810;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hakata-ku, Fukuoka</td>]]></html>
+	<text>Hakata-ku, Fukuoka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1069.1</td>]]></html>
+	<text>1069.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ (390, 391 only)</td>]]></html>
+	<text>&#9650; (390, 391 only)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>●</td>]]></html>
+	<text>&#9679;</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Hikari (Shinkansen) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Station in Japanese Ward / City Distance (km) (from Tokyo) Tokyo - Hiroshima Tokyo - Shin-Osaka Tokyo - Nagoya Nagoya - Hakata Shin-Osaka - Hakata (Rail Star)</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>NOTE: Stations not served by Hikari trains are not included in this table.</text>
+</context>
+<context>
+	<score>0.81795716</score>
+	<text>Hikari (Shinkansen)</text>
+</context>
+<context>
+	<score>0.7797129</score>
+	<text>(###) Train numbers included in/excluded from table</text>
+</context>
+<context>
+	<score>0.75703627</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.74863154</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>No trains stop/Service does not run here</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>Some trains stop</text>
+</context>
+<context>
+	<score>0.5886016</score>
+	<text>All trains stop</text>
+</context>
+<context>
+	<score>0.5484995</score>
+	<text>Key</text>
+</context>
+<context>
+	<score>0.5254166</score>
+	<text>[ edit ] Hikari Stopping Patterns (As of March, 2008)</text>
+</context>
+<context>
+	<score>0.52163893</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4997513</score>
+	<text>Before and during World War II, Hikari was the name of the express train from Busan , Korea to Changchun , Manchuria . In the 1950s, the name was used for express trains from Fukuoka to Kagoshima and Beppu .</text>
+</context>
+<context>
+	<score>0.47921905</score>
+	<text>The word hikari means &quot; light &quot; in Japanese.</text>
+</context>
+<context>
+	<score>0.46279326</score>
+	<text>JR West began operating the Hikari Rail Star service in 2000. This service is limited to the Sany Shinkansen, and uses special 8-car 700 Series trains with a distinctive livery and a maximum speed of 285 km/h. JR West introduced the service to provide better competition against airlines on the Osaka-Fukuoka route. The reserved seat cars on Hikari Rail Star trains feature a 2-2 seating arrangement instead of the 3-2 arrangement found on other Hikari . The front row of seats in these cars feature power points for laptop users.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Station</th><th>in Japanese</th><th>Ward / City</th><th>Distance (km)<br />(from Tokyo)</th><th>Tokyo - Hiroshima</th><th>Tokyo - Shin-Osaka</th><th>Tokyo - Nagoya</th><th>Nagoya - Hakata</th><th>Shin-Osaka - Hakata<br /><i>(Rail Star)</i></th></tr><tr><td><a href="../../../../articles/t/o/k/Tokyo_Station_196a.html" title="Tokyo Station">Tokyo</a></td><td>東京</td><td><a href="../../../../articles/c/h/i/Chiyoda%2C_Tokyo_49b0.html" title="Chiyoda, Tokyo">Chiyoda, Tokyo</a></td><td align="center">0.0</td><td align="center">●<br />(ex. 393)</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/s/h/i/Shinagawa_Station_b506.html" title="Shinagawa Station">Shinagawa</a></td><td>品川</td><td><a href="../../../../articles/m/i/n/Minato%2C_Tokyo_b512.html" title="Minato, Tokyo">Minato, Tokyo</a></td><td align="center">6.8</td><td align="center">●<br />(ex. 393)</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/s/h/i/Shin-Yokohama_Station_201c.html" title="Shin-Yokohama Station">Shin-Yokohama</a></td><td>新横浜</td><td><a href="../../../../articles/k/%C5%8D/h/K%C5%8Dhoku-ku%2C_Yokohama_6efb.html" title="Kōhoku-ku, Yokohama">Kōhoku-ku, Yokohama</a></td><td align="center">25.5</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/o/d/a/Odawara_Station_0125.html" title="Odawara Station">Odawara</a></td><td>小田原</td><td><a href="../../../../articles/o/d/a/Odawara%2C_Kanagawa_6659.html" title="Odawara, Kanagawa">Odawara, Kanagawa</a></td><td align="center">76.7</td><td align="center">▬</td><td align="center">▲</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/a/t/a/Atami_Station_c702.html" title="Atami Station">Atami</a></td><td>熱海</td><td><a href="../../../../articles/a/t/a/Atami%2C_Shizuoka_818f.html" title="Atami, Shizuoka">Atami, Shizuoka</a></td><td align="center">95.4</td><td align="center">▲</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/m/i/s/Mishima_Station_42cc.html" title="Mishima Station">Mishima</a></td><td>三島</td><td><a href="../../../../articles/m/i/s/Mishima%2C_Shizuoka_aea2.html" title="Mishima, Shizuoka">Mishima, Shizuoka</a></td><td align="center">111.3</td><td align="center">▲</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/s/h/i/Shizuoka_Station_27d6.html" title="Shizuoka Station">Shizuoka</a></td><td>静岡</td><td><a href="../../../../articles/a/o/i/Aoi-ku%2C_Shizuoka_e9d8.html" title="Aoi-ku, Shizuoka">Aoi-ku, Shizuoka</a></td><td align="center">167.4</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/h/a/m/Hamamatsu_Station_697c.html" title="Hamamatsu Station">Hamamatsu</a></td><td>浜松</td><td><a href="../../../../articles/h/a/m/Hamamatsu%2C_Shizuoka_b595.html" class="mw-redirect" title="Hamamatsu, Shizuoka">Hamamatsu, Shizuoka</a></td><td align="center">238.9</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/t/o/y/Toyohashi_Station_6505.html" title="Toyohashi Station">Toyohashi</a></td><td>豊橋</td><td><a href="../../../../articles/t/o/y/Toyohashi%2C_Aichi_d880.html" title="Toyohashi, Aichi">Toyohashi, Aichi</a></td><td align="center">274.2</td><td align="center">▬</td><td align="center">▲</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/n/a/g/Nagoya_Station_5be6.html" title="Nagoya Station">Nagoya</a></td><td>名古屋</td><td><a href="../../../../articles/n/a/k/Nakamura-ku%2C_Nagoya_cfca.html" title="Nakamura-ku, Nagoya">Nakamura-ku, Nagoya</a></td><td align="center">342.0</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/g/i/f/Gifu-Hashima_Station_1c08.html" title="Gifu-Hashima Station">Gifu-Hashima</a></td><td>岐阜羽島</td><td><a href="../../../../articles/h/a/s/Hashima%2C_Gifu_083c.html" title="Hashima, Gifu">Hashima, Gifu</a></td><td align="center">367.1</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/m/a/i/Maibara_Station_099f.html" title="Maibara Station">Maibara</a></td><td>米原</td><td><a href="../../../../articles/m/a/i/Maibara%2C_Shiga_646c.html" title="Maibara, Shiga">Maibara, Shiga</a></td><td align="center">408.2</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/k/y/o/Kyoto_Station_cdc7.html" title="Kyoto Station">Kyoto</a></td><td>京都</td><td><a href="../../../../articles/s/h/i/Shimogyo-ku%2C_Kyoto_acb7.html" class="mw-redirect" title="Shimogyo-ku, Kyoto">Shimogyo-ku, Kyoto</a></td><td align="center">476.3</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/s/h/i/Shin-%C5%8Csaka_Station_c382.html" title="Shin-Ōsaka Station">Shin-Ōsaka</a></td><td>新大阪</td><td><a href="../../../../articles/y/o/d/Yodogawa-ku%2C_Osaka_fd3c.html" title="Yodogawa-ku, Osaka">Yodogawa-ku, Osaka</a></td><td align="center">515.4</td><td align="center">●</td><td align="center">●</td><td align="center">▬</td><td align="center">●</td><td align="center">●</td></tr><tr><td><a href="../../../../articles/s/h/i/Shin-Kobe_Station_565b.html" title="Shin-Kobe Station">Shin-Kobe</a></td><td>新神戸</td><td><a href="../../../../articles/c/h/%C5%AB/Ch%C5%AB%C5%8D-ku%2C_Kobe_c03b.html" title="Chūō-ku, Kobe">Chūō-ku, Kobe</a></td><td align="center">548.0</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td><td align="center">●</td><td align="center">●</td></tr><tr><td><a href="../../../../articles/n/i/s/Nishi-Akashi_Station_8b01.html" title="Nishi-Akashi Station">Nishi-Akashi</a></td><td>西明石</td><td><a href="../../../../articles/a/k/a/Akashi%2C_Hy%C5%8Dgo_0c1c.html" title="Akashi, Hyōgo">Akashi, Hyōgo</a></td><td align="center">570.2</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(395 only)</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/h/i/m/Himeji_Station_1f60.html" title="Himeji Station">Himeji</a></td><td>姫路</td><td><a href="../../../../articles/h/i/m/Himeji%2C_Hy%C5%8Dgo_5ce4.html" title="Himeji, Hyōgo">Himeji, Hyōgo</a></td><td align="center">601.3</td><td align="center">●</td><td align="center">▬</td><td align="center">▬</td><td align="center">●</td><td align="center">▲</td></tr><tr><td><a href="../../../../articles/a/i/o/Aioi_Station_237d.html" title="Aioi Station">Aioi</a></td><td>相生</td><td><a href="../../../../articles/a/i/o/Aioi%2C_Hy%C5%8Dgo_52bb.html" title="Aioi, Hyōgo">Aioi, Hyōgo</a></td><td align="center">621.3</td><td align="center">●<br />(ex. 387, 393)</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(395 only)</td><td align="center">▬</td></tr><tr><td><a href="../../../../articles/o/k/a/Okayama_Station_66fd.html" title="Okayama Station">Okayama</a></td><td>岡山</td><td><a href="../../../../articles/o/k/a/Okayama%2C_Okayama_bb2c.html" title="Okayama, Okayama">Okayama, Okayama</a></td><td align="center">676.3</td><td align="center">●<br />(ex. 387)</td><td align="center">▬</td><td align="center">▬</td><td align="center">●</td><td align="center">●</td></tr><tr><td>Shin-Kurashiki</td><td>新倉敷</td><td><a href="../../../../articles/k/u/r/Kurashiki%2C_Okayama_24c3.html" title="Kurashiki, Okayama">Kurashiki, Okayama</a></td><td align="center">702.1</td><td align="center">▲<br />(362 only)</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(440 only)</td></tr><tr><td>Fukuyama</td><td>福山</td><td><a href="../../../../articles/f/u/k/Fukuyama%2C_Hiroshima_ba14.html" title="Fukuyama, Hiroshima">Fukuyama, Hiroshima</a></td><td align="center">733.1</td><td align="center">▲<br />(362, 393 only)</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(390 only)</td><td align="center">▲</td></tr><tr><td>Shin-Onomichi</td><td>新尾道</td><td><a href="../../../../articles/o/n/o/Onomichi%2C_Hiroshima_f581.html" title="Onomichi, Hiroshima">Onomichi, Hiroshima</a></td><td align="center">750.5</td><td align="center">▲<br />(362 only)</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(440 only)</td></tr><tr><td>Mihara</td><td>三原</td><td><a href="../../../../articles/m/i/h/Mihara%2C_Hiroshima_1d83.html" title="Mihara, Hiroshima">Mihara, Hiroshima</a></td><td align="center">761.0</td><td align="center">▲<br />(362 only)</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(440, 489 only)</td></tr><tr><td>Higashi-Hiroshima</td><td>東広島</td><td><a href="../../../../articles/h/i/g/Higashihiroshima%2C_Hiroshima_ed70.html" title="Higashihiroshima, Hiroshima">Higashihiroshima, Hiroshima</a></td><td align="center">791.9</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(440 only)</td></tr><tr><td><a href="../../../../articles/h/i/r/Hiroshima_Station_9ced.html" title="Hiroshima Station">Hiroshima</a></td><td>広島</td><td><a href="../../../../articles/m/i/n/Minami-ku%2C_Hiroshima_0600.html" title="Minami-ku, Hiroshima">Minami-ku, Hiroshima</a></td><td align="center">821.2</td><td align="center">▲<br />(393 only)</td><td align="center">▬</td><td align="center">▬</td><td align="center">●</td><td align="center">●<br />(440 starts)<br />(489 ends)</td></tr><tr><td><a href="../../../../articles/t/o/k/Tokuyama_Station_180b.html" title="Tokuyama Station">Tokuyama</a></td><td>徳山</td><td><a href="../../../../articles/s/h/u/Shunan%2C_Yamaguchi_2f6d.html" class="mw-redirect" title="Shunan, Yamaguchi">Shunan, Yamaguchi</a></td><td align="center">903.5</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(390, 391 only)</td><td align="center">▲</td></tr><tr><td><a href="../../../../articles/s/h/i/Shin-Yamaguchi_Station_9d78.html" title="Shin-Yamaguchi Station">Shin-Yamaguchi</a></td><td>新山口</td><td><a href="../../../../articles/y/a/m/Yamaguchi%2C_Yamaguchi_4149.html" title="Yamaguchi, Yamaguchi">Yamaguchi, Yamaguchi</a></td><td align="center">944.6</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(390, 391 only)</td><td align="center">▲</td></tr><tr><td>Shin-Shimonoseki</td><td>新下関</td><td><a href="../../../../articles/s/h/i/Shimonoseki%2C_Yamaguchi_7758.html" title="Shimonoseki, Yamaguchi">Shimonoseki, Yamaguchi</a></td><td align="center">992.5</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(391 only)</td><td align="center">▲</td></tr><tr><td><a href="../../../../articles/k/o/k/Kokura_Station_764a.html" title="Kokura Station">Kokura</a></td><td>小倉</td><td><a href="../../../../articles/k/o/k/Kokura_Kita-ku%2C_Kitaky%C5%ABsh%C5%AB_736c.html" title="Kokura Kita-ku, Kitakyūshū">Kokura Kita-ku, Kitakyūshū</a></td><td align="center">1013.2</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(390, 391 only)</td><td align="center">●</td></tr><tr><td><a href="../../../../articles/h/a/k/Hakata_Station_c381.html" title="Hakata Station">Hakata</a></td><td>博多</td><td><a href="../../../../articles/h/a/k/Hakata-ku%2C_Fukuoka_aaf7.html" title="Hakata-ku, Fukuoka">Hakata-ku, Fukuoka</a></td><td align="center">1069.1</td><td align="center">▬</td><td align="center">▬</td><td align="center">▬</td><td align="center">▲<br />(390, 391 only)</td><td align="center">●</td></tr></table>]]>
+</htmlSnippet>
+</entity>

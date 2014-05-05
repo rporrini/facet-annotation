@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r21/w/y/f/WYFG_a53e.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.48015878 3, 0.4001323 3 4, 0.36011907 3 5, 0.13333334 1 2, 0.11666667 0, 0.11666667 0 2, 0.11640213 1 3, 0.10694445 0 3, 0.097222224 0 4, 0.0875 0 5, 0.06984128 1, 0.058201063 1 4, 0.05238096 1 5, 0.03968254 4, 0.035714287 5, 0.029761905 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/w/y/f/WYFG_a53e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K218CV</td>]]></html>
+	<text>K218CV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.5</td>]]></html>
+	<text>91.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Springerville, Arizona</td>]]></html>
+	<text>Springerville, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75 watts</td>]]></html>
+	<text>75 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K203CE</td>]]></html>
+	<text>K203CE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.5</td>]]></html>
+	<text>88.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Springdale, Arkansas</td>]]></html>
+	<text>Springdale, Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 watts</td>]]></html>
+	<text>15 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W219BZ</td>]]></html>
+	<text>W219BZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.7</td>]]></html>
+	<text>91.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lewes, Delaware</td>]]></html>
+	<text>Lewes, Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170 watts</td>]]></html>
+	<text>170 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W206AN</td>]]></html>
+	<text>W206AN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.1</td>]]></html>
+	<text>89.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carlinville, Illinois</td>]]></html>
+	<text>Carlinville, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80 watts</td>]]></html>
+	<text>80 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W204BG</td>]]></html>
+	<text>W204BG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Effingham, Illinois</td>]]></html>
+	<text>Effingham, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 watts</td>]]></html>
+	<text>19 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W201BL</td>]]></html>
+	<text>W201BL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacksonville, Illinois</td>]]></html>
+	<text>Jacksonville, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55 watts</td>]]></html>
+	<text>55 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W208AW</td>]]></html>
+	<text>W208AW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.5</td>]]></html>
+	<text>89.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pontiac, Illinois</td>]]></html>
+	<text>Pontiac, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55 watts</td>]]></html>
+	<text>55 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W205BC</td>]]></html>
+	<text>W205BC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.9</td>]]></html>
+	<text>88.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taylorville, Illinois</td>]]></html>
+	<text>Taylorville, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55 watts</td>]]></html>
+	<text>55 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K205CZ</td>]]></html>
+	<text>K205CZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.9</td>]]></html>
+	<text>88.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marshalltown, Iowa</td>]]></html>
+	<text>Marshalltown, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W201BW</td>]]></html>
+	<text>W201BW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hopkinsville, Kentucky</td>]]></html>
+	<text>Hopkinsville, Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 watts</td>]]></html>
+	<text>27 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K220EV</td>]]></html>
+	<text>K220EV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lafayette, Louisiana</td>]]></html>
+	<text>Lafayette, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K219DB</td>]]></html>
+	<text>K219DB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.7</td>]]></html>
+	<text>91.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Iberia, Louisiana</td>]]></html>
+	<text>New Iberia, Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W201BK</td>]]></html>
+	<text>W201BK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Biloxi, Mississippi</td>]]></html>
+	<text>Biloxi, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80 watts</td>]]></html>
+	<text>80 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W218AY</td>]]></html>
+	<text>W218AY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.5</td>]]></html>
+	<text>91.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Laurel, Mississippi</td>]]></html>
+	<text>Laurel, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 watts</td>]]></html>
+	<text>19 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W220BN</td>]]></html>
+	<text>W220BN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natchez, Mississippi</td>]]></html>
+	<text>Natchez, Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 watts</td>]]></html>
+	<text>13 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K204CS</td>]]></html>
+	<text>K204CS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poplar Bluff, Missouri</td>]]></html>
+	<text>Poplar Bluff, Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K220FS</td>]]></html>
+	<text>K220FS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Island, Nebraska</td>]]></html>
+	<text>Grand Island, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K209CF</td>]]></html>
+	<text>K209CF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.7</td>]]></html>
+	<text>89.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kearney, Nebraska</td>]]></html>
+	<text>Kearney, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>140 watts</td>]]></html>
+	<text>140 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K208CK</td>]]></html>
+	<text>K208CK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.5</td>]]></html>
+	<text>89.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scottsbluff, Nebraska</td>]]></html>
+	<text>Scottsbluff, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>170 watts</td>]]></html>
+	<text>170 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W205BA</td>]]></html>
+	<text>W205BA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.9</td>]]></html>
+	<text>88.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamestown, New York</td>]]></html>
+	<text>Jamestown, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 watts</td>]]></html>
+	<text>7 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W214AX</td>]]></html>
+	<text>W214AX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.7</td>]]></html>
+	<text>90.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pottersville, New York</td>]]></html>
+	<text>Pottersville, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>WYFG - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87838566</score>
+	<text>In addition to the main station, WYFG is relayed by an additional 36 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.8064306</score>
+	<text>WYFG</text>
+</context>
+<context>
+	<score>0.7900365</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.75855994</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71220344</score>
+	<text>WYFG signed on the air October 12 , 1982 . WYFG is 100,000 watts reaching 241 towns and cities in its listening area, which is in Upstate South Carolina and Piedmont North Carolina .</text>
+</context>
+<context>
+	<score>0.64993685</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.6112761</score>
+	<text>This article about a radio station in South Carolina is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.60012364</score>
+	<text>WYFG is a radio station simulcasting the Bible Broadcasting Network for the Gaffney , Spartanburg , and Greenville areas of South Carolina as well as the western suburbs of the Charlotte area . The transmitter is located off South Carolina Highway 11 atop Thicketty Mountain (which is about 5 miles east of Chesnee ).</text>
+</context>
+<context>
+	<score>0.56027305</score>
+	<text>It has been suggested that this article or section be merged into Bible Broadcasting Network . ( Discuss )</text>
+</context>
+<context>
+	<score>0.5447867</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.52463865</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.51928234</score>
+	<text>WYFG</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K218CV</b></td><td>91.5</td><td><a href="../../../../articles/s/p/r/Springerville%2C_Arizona_b77f.html" title="Springerville, Arizona">Springerville, Arizona</a></td><td>75 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K218CV" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K218CV" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K218CV" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K218CV" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K203CE</b></td><td>88.5</td><td><a href="../../../../articles/s/p/r/Springdale%2C_Arkansas_2c15.html" title="Springdale, Arkansas">Springdale, Arkansas</a></td><td>15 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K203CE" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K203CE" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K203CE" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K203CE" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W219BZ</b></td><td>91.7</td><td><a href="../../../../articles/l/e/w/Lewes%2C_Delaware_deb3.html" title="Lewes, Delaware">Lewes, Delaware</a></td><td>170 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W219BZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W219BZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W219BZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W219BZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W206AN</b></td><td>89.1</td><td><a href="../../../../articles/c/a/r/Carlinville%2C_Illinois_d2df.html" title="Carlinville, Illinois">Carlinville, Illinois</a></td><td>80 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W206AN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W206AN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W206AN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W206AN" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W204BG</b></td><td>88.7</td><td><a href="../../../../articles/e/f/f/Effingham%2C_Illinois_e2b4.html" title="Effingham, Illinois">Effingham, Illinois</a></td><td>19 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W204BG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W204BG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W204BG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W204BG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W201BL</b></td><td>88.1</td><td><a href="../../../../articles/j/a/c/Jacksonville%2C_Illinois_8c54.html" title="Jacksonville, Illinois">Jacksonville, Illinois</a></td><td>55 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W201BL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W201BL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W208AW</b></td><td>89.5</td><td><a href="../../../../articles/p/o/n/Pontiac%2C_Illinois_bc0d.html" title="Pontiac, Illinois">Pontiac, Illinois</a></td><td>55 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W208AW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W208AW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W208AW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W208AW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W205BC</b></td><td>88.9</td><td><a href="../../../../articles/t/a/y/Taylorville%2C_Illinois_3126.html" title="Taylorville, Illinois">Taylorville, Illinois</a></td><td>55 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W205BC" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W205BC" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W205BC" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W205BC" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K205CZ</b></td><td>88.9</td><td><a href="../../../../articles/m/a/r/Marshalltown%2C_Iowa_942e.html" title="Marshalltown, Iowa">Marshalltown, Iowa</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K205CZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K205CZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K205CZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K205CZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W201BW</b></td><td>88.1</td><td><a href="../../../../articles/h/o/p/Hopkinsville%2C_Kentucky_1fae.html" title="Hopkinsville, Kentucky">Hopkinsville, Kentucky</a></td><td>27 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W201BW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W201BW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K220EV</b></td><td>91.9</td><td><a href="../../../../articles/l/a/f/Lafayette%2C_Louisiana_00c0.html" title="Lafayette, Louisiana">Lafayette, Louisiana</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K220EV" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K220EV" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220EV" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220EV" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K219DB</b></td><td>91.7</td><td><a href="../../../../articles/n/e/w/New_Iberia%2C_Louisiana_2937.html" title="New Iberia, Louisiana">New Iberia, Louisiana</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K219DB" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K219DB" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K219DB" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K219DB" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W201BK</b></td><td>88.1</td><td><a href="../../../../articles/b/i/l/Biloxi%2C_Mississippi_ba37.html" title="Biloxi, Mississippi">Biloxi, Mississippi</a></td><td>80 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W201BK" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W201BK" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BK" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201BK" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W218AY</b></td><td>91.5</td><td><a href="../../../../articles/l/a/u/Laurel%2C_Mississippi_58f3.html" title="Laurel, Mississippi">Laurel, Mississippi</a></td><td>19 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W218AY" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W218AY" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W218AY" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W218AY" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W220BN</b></td><td>91.9</td><td><a href="../../../../articles/n/a/t/Natchez%2C_Mississippi_c113.html" title="Natchez, Mississippi">Natchez, Mississippi</a></td><td>13 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W220BN" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W220BN" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W220BN" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W220BN" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K204CS</b></td><td>88.7</td><td><a href="../../../../articles/p/o/p/Poplar_Bluff%2C_Missouri_fa8c.html" title="Poplar Bluff, Missouri">Poplar Bluff, Missouri</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K204CS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K204CS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204CS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204CS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K220FS</b></td><td>91.9</td><td><a href="../../../../articles/g/r/a/Grand_Island%2C_Nebraska_3a59.html" title="Grand Island, Nebraska">Grand Island, Nebraska</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K220FS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K220FS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220FS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220FS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K209CF</b></td><td>89.7</td><td><a href="../../../../articles/k/e/a/Kearney%2C_Nebraska_069c.html" title="Kearney, Nebraska">Kearney, Nebraska</a></td><td>140 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K209CF" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K209CF" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K209CF" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K209CF" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K208CK</b></td><td>89.5</td><td><a href="../../../../articles/s/c/o/Scottsbluff%2C_Nebraska_3ef9.html" title="Scottsbluff, Nebraska">Scottsbluff, Nebraska</a></td><td>170 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K208CK" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K208CK" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208CK" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208CK" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W205BA</b></td><td>88.9</td><td><a href="../../../../articles/j/a/m/Jamestown%2C_New_York_fbe9.html" title="Jamestown, New York">Jamestown, New York</a></td><td>7 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W205BA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W205BA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W205BA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W205BA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W214AX</b></td><td>90.7</td><td><a href="../../../../articles/p/o/t/Pottersville%2C_New_York_a432.html" class="mw-redirect" title="Pottersville, New York">Pottersville, New York</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W214AX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W214AX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W214AX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W214AX" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

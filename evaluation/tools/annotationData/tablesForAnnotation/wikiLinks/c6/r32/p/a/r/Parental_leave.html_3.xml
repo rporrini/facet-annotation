@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r32/p/a/r/Parental_leave.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 0 1, 0.8333333 0 2, 0.7734375 1, 0.75 0 3, 0.69227433 1 2, 0.6230469 1 3, 0.5208333 2, 0.390625 2 3, 0.328125 3, 0.06666667 0 4, 0.058333334 0 5, 0.05347223 1 4, 0.048459202 1 5, 0.034722224 2 4, 0.030381942 2 5, 0.025000002 4, 0.0234375 3 4, 0.019140625 3 5, 0.018229166 5, 0.001701389 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/p/a/r/Parental_leave.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Paid maternity leave</th>]]></html>
+	<text>Paid maternity leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Paid paternity leave</th>]]></html>
+	<text>Paid paternity leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Unpaid maternity leave</th>]]></html>
+	<text>Unpaid maternity leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Unpaid paternity leave</th>]]></html>
+	<text>Unpaid paternity leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Restrictions</th>]]></html>
+	<text>Restrictions</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Austria</td>]]></html>
+	<text>Austria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 100%</td>]]></html>
+	<text>16 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belarus</td>]]></html>
+	<text>Belarus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>126 days 100%</td>]]></html>
+	<text>126 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 weeks 82% for 30 days, 75%* thereafter</td>]]></html>
+	<text>15 weeks 82% for 30 days, 75%* thereafter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 days</td>]]></html>
+	<text>3 days</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 days but 82% paid out by health insurance fund</td>]]></html>
+	<text>7 days but 82% paid out by health insurance fund</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bulgaria</td>]]></html>
+	<text>Bulgaria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120-180 days 100%</td>]]></html>
+	<text>120-180 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cyprus</td>]]></html>
+	<text>Cyprus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 75%</td>]]></html>
+	<text>16 weeks 75%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52 weeks. 18 to be taken by the mother, 2 weeks by the father, the rest as they see fit.</td>]]></html>
+	<text>52 weeks. 18 to be taken by the mother, 2 weeks by the father, the rest as they see fit.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Estonia</td>]]></html>
+	<text>Estonia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>140 days (100%), 154 days in the case of multiple birth or medical complications [12]</td>]]></html>
+	<text>140 days (100%), 154 days in the case of multiple birth or medical complications [12]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 days, expires after 6 months after child's birth</td>]]></html>
+	<text>14 days, expires after 6 months after child&amp;apos;s birth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 years</td>]]></html>
+	<text>3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Finland</td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105 days 80%, followed by share of 158 days with father</td>]]></html>
+	<text>105 days 80%, followed by share of 158 days with father</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18 days, can share 158 days with mother after maternity leave</td>]]></html>
+	<text>18 days, can share 158 days with mother after maternity leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Until child turns 3</td>]]></html>
+	<text>Until child turns 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Until child turns 3</td>]]></html>
+	<text>Until child turns 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks (100%) rising to 26 weeks (100%) for third child</td>]]></html>
+	<text>16 weeks (100%) rising to 26 weeks (100%) for third child</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 weeks</td>]]></html>
+	<text>2 weeks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Share of 104 weeks (2 years) with father</td>]]></html>
+	<text>Share of 104 weeks (2 years) with father</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Share of 104 weeks (2 years) with mother</td>]]></html>
+	<text>Share of 104 weeks (2 years) with mother</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 weeks (100%) 6 before birth, 12-14 months (67%, but not more than 1.800 Euro/month) (14 only if shared with father)</td>]]></html>
+	<text>14 weeks (100%) 6 before birth, 12-14 months (67%, but not more than 1.800 Euro/month) (14 only if shared with father)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 months</td>]]></html>
+	<text>2 months</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Share of 156 weeks (3 years) with father</td>]]></html>
+	<text>Share of 156 weeks (3 years) with father</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Share of 156 weeks (3 years) with mother</td>]]></html>
+	<text>Share of 156 weeks (3 years) with mother</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Must have private health insurance for part of paid leave, rest of paid leave paid by employer</td>]]></html>
+	<text>Must have private health insurance for part of paid leave, rest of paid leave paid by employer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greece</td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 75%</td>]]></html>
+	<text>16 weeks 75%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hungary</td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 weeks 100%</td>]]></html>
+	<text>24 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Five days</td>]]></html>
+	<text>Five days</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iceland</td>]]></html>
+	<text>Iceland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90 days 80% (based on average salary for the two previous years). Max. monthly payment for 2007: Íkr518,600 (€5,950, $8,100); min. monthly payment for 2007: Íkr100,604 (€1,150, $1,575) + 90 days to be shared between the parents</td>]]></html>
+	<text>90 days 80% (based on average salary for the two previous years). Max. monthly payment for 2007: &#205;kr518,600 (&#8364;5,950, $8,100); min. monthly payment for 2007: &#205;kr100,604 (&#8364;1,150, $1,575) + 90 days to be shared between the parents</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>As for the mother</td>]]></html>
+	<text>As for the mother</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks</td>]]></html>
+	<text>13 weeks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks</td>]]></html>
+	<text>13 weeks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parents must have been working for a period of 6 months prior to taking the leave. Entitlement expires on the child's eighth birthday.</td>]]></html>
+	<text>Parents must have been working for a period of 6 months prior to taking the leave. Entitlement expires on the child&amp;apos;s eighth birthday.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ireland</td>]]></html>
+	<text>Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26 weeks (6½ months)</td>]]></html>
+	<text>26 weeks (6&#189; months)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 (4 months) weeks that can be shared with father</td>]]></html>
+	<text>16 (4 months) weeks that can be shared with father</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 (4 months) weeks that can be shared with mother</td>]]></html>
+	<text>16 (4 months) weeks that can be shared with mother</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22 weeks (5 months) (80%) 2 before birth</td>]]></html>
+	<text>22 weeks (5 months) (80%) 2 before birth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks (3 months) (80%)</td>]]></html>
+	<text>13 weeks (3 months) (80%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</td>]]></html>
+	<text>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</td>]]></html>
+	<text>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>For paid leave, job contract must include social contributions (INPS)</td>]]></html>
+	<text>For paid leave, job contract must include social contributions (INPS)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Latvia</td>]]></html>
+	<text>Latvia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 calendar days</td>]]></html>
+	<text>10 calendar days</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Liechtenstein</td>]]></html>
+	<text>Liechtenstein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 weeks 80%</td>]]></html>
+	<text>8 weeks 80%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luxembourg</td>]]></html>
+	<text>Luxembourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 100%</td>]]></html>
+	<text>16 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Malta</td>]]></html>
+	<text>Malta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks 100%</td>]]></html>
+	<text>13 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 100%</td>]]></html>
+	<text>16 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 days 100%</td>]]></html>
+	<text>2 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks 100%</td>]]></html>
+	<text>13 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 weeks 100%</td>]]></html>
+	<text>13 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>For unpaid leave you have to have worked for an employer for over 1 year. Unpaid leave for children under 8.</td>]]></html>
+	<text>For unpaid leave you have to have worked for an employer for over 1 year. Unpaid leave for children under 8.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norway</td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54 weeks (12.5 months) (80%) or 44 weeks (10 months) (100%) - mother must take at least 3 weeks immediately before birth and 6 weeks immediately after birth, father must take at least 6 weeks - the rest can be shared between mother and father.</td>]]></html>
+	<text>54 weeks (12.5 months) (80%) or 44 weeks (10 months) (100%) - mother must take at least 3 weeks immediately before birth and 6 weeks immediately after birth, father must take at least 6 weeks - the rest can be shared between mother and father.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45 weeks (10.5 months) (80%) or 35 weeks (8 months) (100%) shared with mother - father must take a minimum of 6 weeks or else these weeks are lost as paid leave.</td>]]></html>
+	<text>45 weeks (10.5 months) (80%) or 35 weeks (8 months) (100%) shared with mother - father must take a minimum of 6 weeks or else these weeks are lost as paid leave.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Each parent can also take an extra full year of unpaid leave after the paid period ends</td>]]></html>
+	<text>Each parent can also take an extra full year of unpaid leave after the paid period ends</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Two weeks after birth (many fathers are paid for these weeks by their employers) plus right to take up to one year unpaid leave</td>]]></html>
+	<text>Two weeks after birth (many fathers are paid for these weeks by their employers) plus right to take up to one year unpaid leave</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>To gain the right of paid leave, the parent must have worked for 6 of the last 10 months before birth, or the leave is unpaid (except for a lump sum benefit from the government)</td>]]></html>
+	<text>To gain the right of paid leave, the parent must have worked for 6 of the last 10 months before birth, or the leave is unpaid (except for a lump sum benefit from the government)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16-18 weeks 100%</td>]]></html>
+	<text>16-18 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portugal</td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120 days 100% or 150 days 80%</td>]]></html>
+	<text>120 days 100% or 150 days 80%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 days 100%</td>]]></html>
+	<text>15 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Five days plus two weeks.</td>]]></html>
+	<text>Five days plus two weeks.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Of the maternity leave, 6 weeks is compulsory. The father may take the rest of the time the mother would have been entitled to.</td>]]></html>
+	<text>Of the maternity leave, 6 weeks is compulsory. The father may take the rest of the time the mother would have been entitled to.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112 days 50%-94%</td>]]></html>
+	<text>112 days 50%-94%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Five days</td>]]></html>
+	<text>Five days</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Russia</td>]]></html>
+	<text>Russia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>140 days 100%</td>]]></html>
+	<text>140 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovenia</td>]]></html>
+	<text>Slovenia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 months 100%</td>]]></html>
+	<text>12 months 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 days</td>]]></html>
+	<text>11 days</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks 100%</td>]]></html>
+	<text>16 weeks 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 days (in the next years 30 days), independently of the mother. Up to 15 days of the mother's leave can be taken by the father (if the father takes all 15 days, the mother only has 97 days to take off instead of the full 4 weeks (112 days))</td>]]></html>
+	<text>15 days (in the next years 30 days), independently of the mother. Up to 15 days of the mother&amp;apos;s leave can be taken by the father (if the father takes all 15 days, the mother only has 97 days to take off instead of the full 4 weeks (112 days))</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Up to 3 years.</td>]]></html>
+	<text>Up to 3 years.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,500 € for every baby. 100 €/month for mother that worked. No free public day-care center from 0 to 3 years old infants.</td>]]></html>
+	<text>2,500 &#8364; for every baby. 100 &#8364;/month for mother that worked. No free public day-care center from 0 to 3 years old infants.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with father (minimum 60 days)</td>]]></html>
+	<text>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with father (minimum 60 days)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with mother (minimum 60 days) + 10 working days in connection with the child's birth</td>]]></html>
+	<text>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with mother (minimum 60 days) + 10 working days in connection with the child&amp;apos;s birth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 weeks (100%), 8 weeks mandatory</td>]]></html>
+	<text>16 weeks (100%), 8 weeks mandatory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>None</td>]]></html>
+	<text>None</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pregnant women can't be fired</td>]]></html>
+	<text>Pregnant women can&amp;apos;t be fired</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turkey</td>]]></html>
+	<text>Turkey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 weeks 66.7%</td>]]></html>
+	<text>12 weeks 66.7%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Three days paternity leave in the public sector</td>]]></html>
+	<text>Three days paternity leave in the public sector</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ukraine</td>]]></html>
+	<text>Ukraine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>126 days 100%</td>]]></html>
+	<text>126 days 100%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39 weeks (6 weeks at 90% of full pay and the next 33 weeks at a flat rate (as of 2007 = £112.75) or 90% of your salary if that is less than the flat rate)</td>]]></html>
+	<text>39 weeks (6 weeks at 90% of full pay and the next 33 weeks at a flat rate (as of 2007 = &#163;112.75) or 90% of your salary if that is less than the flat rate)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 weeks at a fixed amount (as of March 2006 = £112.75)</td>]]></html>
+	<text>2 weeks at a fixed amount (as of March 2006 = &#163;112.75)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52 weeks</td>]]></html>
+	<text>52 weeks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>If a person has worked for their current employer for 26 weeks or more before the 15th week before the due date (and received a salary that is higher than a fixed minimum), they can claim Statutory Maternity Pay. This typically means that the child can not have been conceived before the mother starts a new job. They must give the employer notice before the 15th week before the child is due. People not eligible for Statutory Maternity Pay may be able to receive Maternity Allowance (for example if they have changed jobs while pregnant, are unemployed or self employed, or earn less than a fixed minimum, but they must have been working for 26 of the 66 weeks ending the week before the pregnancy and for 13 of those weeks they must have earned more than 30 pounds per week). People unable to receive either of these benefits may be able to receive other benefits, such as incapacity benefit. Maternity leave can be started up to 11 weeks before the due date. If a woman has a pregnancy-related illness in the last 4 weeks of her pregnancy, her employer can request that her maternity leave begins then, even if she is only off sick for one day. A mother may not start working again for 2 weeks (or 4 weeks if she works in a factory) after the child's birth. [13] Both parents can have an additional 13 weeks unpaid overall (maximum of 4 weeks per year) if they have worked for an employer for over 1 year for a child under 6.</td>]]></html>
+	<text>If a person has worked for their current employer for 26 weeks or more before the 15th week before the due date (and received a salary that is higher than a fixed minimum), they can claim Statutory Maternity Pay. This typically means that the child can not have been conceived before the mother starts a new job. They must give the employer notice before the 15th week before the child is due. People not eligible for Statutory Maternity Pay may be able to receive Maternity Allowance (for example if they have changed jobs while pregnant, are unemployed or self employed, or earn less than a fixed minimum, but they must have been working for 26 of the 66 weeks ending the week before the pregnancy and for 13 of those weeks they must have earned more than 30 pounds per week). People unable to receive either of these benefits may be able to receive other benefits, such as incapacity benefit. Maternity leave can be started up to 11 weeks before the due date. If a woman has a pregnancy-related illness in the last 4 weeks of her pregnancy, her employer can request that her maternity leave begins then, even if she is only off sick for one day. A mother may not start working again for 2 weeks (or 4 weeks if she works in a factory) after the child&amp;apos;s birth. [13] Both parents can have an additional 13 weeks unpaid overall (maximum of 4 weeks per year) if they have worked for an employer for over 1 year for a child under 6.</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Parental leave - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Paid maternity leave Paid paternity leave Unpaid maternity leave Unpaid paternity leave Restrictions</text>
+</context>
+<context>
+	<score>0.88337594</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.80075204</score>
+	<text>Parental leave</text>
+</context>
+<context>
+	<score>0.7864036</score>
+	<text>[ edit ] Asia/Pacific</text>
+</context>
+<context>
+	<score>0.7550302</score>
+	<text>[ edit ] International Organizations</text>
+</context>
+<context>
+	<score>0.7277657</score>
+	<text>[ edit ] Parental leave rights in different countries around the world</text>
+</context>
+<context>
+	<score>0.7277657</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7277657</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7277657</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72317415</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7088257</score>
+	<text>[ edit ] Americas</text>
+</context>
+<context>
+	<score>0.6467634</score>
+	<text>[ edit ] Africa</text>
+</context>
+<context>
+	<score>0.60363793</score>
+	<text>As international organizations are not subject to the legislation of any country, they have their own internal legislation on parental leave.</text>
+</context>
+<context>
+	<score>0.5971135</score>
+	<text>[ edit ] Parental leave rights in different countries around the world</text>
+</context>
+<context>
+	<score>0.5528021</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52561766</score>
+	<text>It is doing so by appealing to each state legislature individually to obtain maternity leave in that state. The Center for Law and Social Policy is also a leader in the campaign for national paid leave policy and publishes often on the subject.</text>
+</context>
+<context>
+	<score>0.52187604</score>
+	<text>Country Paid maternity leave Paid paternity leave Unpaid maternity leave Unpaid paternity leave Restrictions</text>
+</context>
+<context>
+	<score>0.50019693</score>
+	<text>There is currently a push to expand paid maternity leave in countries such as Australia and the United States . One organization supporting paid maternity leave in the United States is Moms Rising.</text>
+</context>
+<context>
+	<score>0.47986037</score>
+	<text>In the UK , all female employees are entitled to 52 weeks of maternity leave, 39 weeks of which is paid, with the first six weeks paid at 90% of full pay and the remainder at a fixed rate.</text>
+</context>
+<context>
+	<score>0.4635911</score>
+	<text>In 2000, parental leave was greatly expanded in Canada from 10 weeks to 35 weeks divided as desired between two parents. This is in addition to 15 weeks maternity leave, giving a total possible period of 50 weeks paid leave for a mother. There is still no paid leave for new fathers, however. In Canada maternity and parental leave is paid for by the Employment Insurance system.</text>
+</context>
+<context>
+	<score>0.45057568</score>
+	<text>The maternal-leave only system in Bulgaria is even more generous, providing mothers with 45 days 100% paid sick leave prior the due date, 2 years paid leave, and 1 additional year of unpaid leave. The employer is obliged to restore the mother to the same position upon return to work. In addition, pregnant women and single mothers cannot be fired.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th><a href="../../../../articles/c/o/u/Country.html" title="Country">Country</a></th><th>Paid maternity leave</th><th>Paid paternity leave</th><th>Unpaid maternity leave</th><th>Unpaid paternity leave</th><th>Restrictions</th></tr><tr><td><a href="../../../../articles/a/u/s/Austria.html" title="Austria">Austria</a></td><td>16 weeks 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/b/e/l/Belarus.html" title="Belarus">Belarus</a></td><td>126 days 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>15 weeks 82% for 30 days, 75%* thereafter</td><td>3 days</td><td></td><td>7 days but 82% paid out by health insurance fund</td><td></td></tr><tr><td><a href="../../../../articles/b/u/l/Bulgaria.html" title="Bulgaria">Bulgaria</a></td><td>120-180 days 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/c/y/p/Cyprus.html" title="Cyprus">Cyprus</a></td><td>16 weeks 75%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>52 weeks. 18 to be taken by the mother, 2 weeks by the father, the rest as they see fit.</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/e/s/t/Estonia.html" title="Estonia">Estonia</a></td><td>140 days (100%), 154 days in the case of multiple birth or medical complications<sup id="cite_ref-11" class="reference"><a href="#cite_note-11" title="">[12]</a></sup></td><td>14 days, expires after 6 months after child's birth</td><td>3 years</td><td></td><td></td></tr><tr><td><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a></td><td>105 days 80%, followed by share of 158 days with father</td><td>18 days, can share 158 days with mother after maternity leave</td><td>Until child turns 3</td><td>Until child turns 3</td><td></td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>16 weeks (100%) rising to 26 weeks (100%) for third child</td><td>2 weeks</td><td>Share of 104 weeks (2 years) with father</td><td>Share of 104 weeks (2 years) with mother</td><td></td></tr><tr><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>14 weeks (100%) 6 before birth, 12-14 months (67%, but not more than 1.800 Euro/month) (14 only if shared with father)</td><td>2 months</td><td>Share of 156 weeks (3 years) with father</td><td>Share of 156 weeks (3 years) with mother</td><td>Must have private health insurance for part of paid leave, rest of paid leave paid by employer</td></tr><tr><td><a href="../../../../articles/g/r/e/Greece.html" title="Greece">Greece</a></td><td>16 weeks 75%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/h/u/n/Hungary.html" title="Hungary">Hungary</a></td><td>24 weeks 100%</td><td>Five days</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/i/c/e/Iceland.html" title="Iceland">Iceland</a></td><td>90 days 80% (based on average salary for the two previous years). Max. monthly payment for 2007: Íkr518,600 (€5,950, $8,100); min. monthly payment for 2007: Íkr100,604 (€1,150, $1,575)<p>+ 90 days to be shared between the parents</p></td><td>As for the mother</td><td>13 weeks</td><td>13 weeks</td><td>Parents must have been working for a period of 6 months prior to taking the leave. Entitlement expires on the child's eighth birthday.</td></tr><tr><td><a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a></td><td>26 weeks (6½ months)</td><td>0</td><td>16 (4 months) weeks that can be shared with father</td><td>16 (4 months) weeks that can be shared with mother</td><td></td></tr><tr><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>22 weeks (5 months) (80%) 2 before birth</td><td>13 weeks (3 months) (80%)</td><td>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</td><td>Maximum 26 weeks (6 months) (total for both parents maximum 44 weeks (10 months))</td><td>For paid leave, job contract must include social contributions (INPS)</td></tr><tr><td><a href="../../../../articles/l/a/t/Latvia.html" title="Latvia">Latvia</a></td><td></td><td>10 calendar days</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/l/i/e/Liechtenstein.html" title="Liechtenstein">Liechtenstein</a></td><td>8 weeks 80%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/l/u/x/Luxembourg.html" title="Luxembourg">Luxembourg</a></td><td>16 weeks 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/m/a/l/Malta.html" title="Malta">Malta</a></td><td>13 weeks 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>16 weeks 100%</td><td>2 days 100%</td><td>13 weeks 100%</td><td>13 weeks 100%</td><td>For unpaid leave you have to have worked for an employer for over 1 year. Unpaid leave for children under 8.</td></tr><tr><td><a href="../../../../articles/n/o/r/Norway.html" title="Norway">Norway</a></td><td>54 weeks (12.5 months) (80%) or 44 weeks (10 months) (100%) - mother must take at least 3 weeks immediately before birth and 6 weeks immediately after birth, father must take at least 6 weeks - the rest can be shared between mother and father.</td><td>45 weeks (10.5 months) (80%) or 35 weeks (8 months) (100%) shared with mother - father must take a minimum of 6 weeks or else these weeks are lost as paid leave.</td><td>Each parent can also take an extra full year of unpaid leave after the paid period ends</td><td>Two weeks after birth (many fathers are paid for these weeks by their employers) plus right to take up to one year unpaid leave</td><td>To gain the right of paid leave, the parent must have worked for 6 of the last 10 months before birth, or the leave is unpaid (except for a lump sum benefit from the government)</td></tr><tr><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td>16-18 weeks 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td><td>120 days 100% or 150 days 80%</td><td>15 days 100%</td><td>Five days plus two weeks.</td><td></td><td>Of the maternity leave, 6 weeks is compulsory. The father may take the rest of the time the mother would have been entitled to.</td></tr><tr><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td>112 days 50%-94%</td><td>Five days</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/r/u/s/Russia.html" title="Russia">Russia</a></td><td>140 days 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/s/l/o/Slovenia.html" title="Slovenia">Slovenia</a></td><td>12 months 100%</td><td>11 days</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>16 weeks 100%</td><td>15 days (in the next years 30 days), independently of the mother. Up to 15 days of the mother's leave can be taken by the father (if the father takes all 15 days, the mother only has 97 days to take off instead of the full 4 weeks (112 days))</td><td>Up to 3 years.</td><td></td><td>2,500 € for every baby. 100 €/month for mother that worked. No free public <a href="../../../../articles/d/a/y/Day-care_center.html" class="mw-redirect" title="Day-care center">day-care center</a> from 0 to 3 years old infants.</td></tr><tr><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with father (minimum 60 days)</td><td>480 days (16 months) (80% up to a ceiling the first 390 days, 90 days at flat rate) - shared with mother (minimum 60 days) + 10 working days in connection with the child's birth</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>16 weeks (100%), 8 weeks mandatory</td><td>None</td><td>None</td><td>None</td><td>Pregnant women can't be fired</td></tr><tr><td><a href="../../../../articles/t/u/r/Turkey.html" title="Turkey">Turkey</a></td><td>12 weeks 66.7%</td><td>Three days paternity leave in the public sector</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/u/k/r/Ukraine.html" title="Ukraine">Ukraine</a></td><td>126 days 100%</td><td></td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>39 weeks (6 weeks at 90% of full pay and the next 33 weeks at a flat rate (as of 2007 = £112.75) or 90% of your salary if that is less than the flat rate)</td><td>2 weeks at a fixed amount (as of March 2006 = £112.75)</td><td>52 weeks</td><td>0</td><td>If a person has worked for their current employer for 26 weeks or more before the 15th week before the due date (and received a salary that is higher than a fixed minimum), they can claim Statutory Maternity Pay. This typically means that the child can not have been conceived before the mother starts a new job. They must give the employer notice before the 15th week before the child is due. People not eligible for Statutory Maternity Pay may be able to receive Maternity Allowance (for example if they have changed jobs while pregnant, are unemployed or self employed, or earn less than a fixed minimum, but they must have been working for 26 of the 66 weeks ending the week before the pregnancy and for 13 of those weeks they must have earned more than 30 pounds per week). People unable to receive either of these benefits may be able to receive other benefits, such as incapacity benefit. Maternity leave can be started up to 11 weeks before the due date. If a woman has a pregnancy-related illness in the last 4 weeks of her pregnancy, her employer can request that her maternity leave begins then, even if she is only off sick for one day. A mother may not start working again for 2 weeks (or 4 weeks if she works in a factory) after the child's birth.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12" title="">[13]</a></sup> Both parents can have an additional 13 weeks unpaid overall (maximum of 4 weeks per year) if they have worked for an employer for over 1 year for a child under 6.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

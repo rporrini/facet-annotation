@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r7/p/r/o/Project_Mercury_e770.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 1, 0.9444444 0 1, 0.8888889 0 2, 0.83950615 1 2, 0.8333333 3, 0.8333333 0 3, 0.787037 1 3, 0.7777778 0 4, 0.7407407 2 3, 0.7345679 1 4, 0.7222222 8, 0.7222222 0 8, 0.69135803 2 4, 0.68209875 1 8, 0.6666667 4, 0.6481481 3 4, 0.6419753 2 8, 0.6018518 3 8, 0.5617284 4 8, 0.25396827 2, 0.13333334 5, 0.13333334 0 5, 0.12592593 1 5, 0.12222222 6, 0.12222222 0 6, 0.118518524 2 5, 0.1154321 1 6, 0.11111112 7, 0.11111112 0 7, 0.11111112 3 5, 0.108641975 2 6, 0.10493827 1 7, 0.103703715 4 5, 0.10185184 3 6, 0.09876544 2 7, 0.0962963 5 8, 0.095061734 4 6, 0.0925926 3 7, 0.0882716 6 8, 0.08641976 4 7, 0.08024692 7 8, 0.016296297 5 6, 0.014814816 5 7, 0.013580248 6 7, " />
+<meta name="parentHTMLDoc" value="en/articles/p/r/o/Project_Mercury_e770.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Mission</th>]]></html>
+	<text>Mission</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rocket</th>]]></html>
+	<text>Rocket</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Designation</th>]]></html>
+	<text>Designation</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pilot</th>]]></html>
+	<text>Pilot</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launch Date</th>]]></html>
+	<text>Launch Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launch Time</th>]]></html>
+	<text>Launch Time</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Duration</th>]]></html>
+	<text>Duration</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Remarks</th>]]></html>
+	<text>Remarks</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Redstone 3</td>]]></html>
+	<text>Mercury-Redstone 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Freedom 7</td>]]></html>
+	<text>Freedom 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Redstone</td>]]></html>
+	<text>Redstone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MR-3</td>]]></html>
+	<text>MR-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shepard</td>]]></html>
+	<text>Shepard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 5 , 1961</td>]]></html>
+	<text>May 5 , 1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14:34 UTC</td>]]></html>
+	<text>14:34 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>00d 00h 15 m 28s</td>]]></html>
+	<text>00d 00h 15 m 28s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First American to make a suborbital flight into space.</td>]]></html>
+	<text>First American to make a suborbital flight into space.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Redstone 4</td>]]></html>
+	<text>Mercury-Redstone 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liberty Bell 7</td>]]></html>
+	<text>Liberty Bell 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Redstone</td>]]></html>
+	<text>Redstone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MR-4</td>]]></html>
+	<text>MR-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grissom</td>]]></html>
+	<text>Grissom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 21 , 1961</td>]]></html>
+	<text>July 21 , 1961</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12:20 UTC</td>]]></html>
+	<text>12:20 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>00d 00h 15 m 37s</td>]]></html>
+	<text>00d 00h 15 m 37s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second suborbital flight. Capsule sank before recovery when hatch unexpectedly blew off.</td>]]></html>
+	<text>Second suborbital flight. Capsule sank before recovery when hatch unexpectedly blew off.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Atlas 6</td>]]></html>
+	<text>Mercury-Atlas 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Friendship 7</td>]]></html>
+	<text>Friendship 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas</td>]]></html>
+	<text>Atlas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA-6</td>]]></html>
+	<text>MA-6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glenn</td>]]></html>
+	<text>Glenn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 20 , 1962</td>]]></html>
+	<text>February 20 , 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14:47 UTC</td>]]></html>
+	<text>14:47 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>00d 04h 55 m 23s</td>]]></html>
+	<text>00d 04h 55 m 23s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First American to orbit the Earth (for a total of 3 orbits). Capsule's retropack retained during re-entry due to concerns about heatshield.</td>]]></html>
+	<text>First American to orbit the Earth (for a total of 3 orbits). Capsule&amp;apos;s retropack retained during re-entry due to concerns about heatshield.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Atlas 7</td>]]></html>
+	<text>Mercury-Atlas 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aurora 7</td>]]></html>
+	<text>Aurora 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas</td>]]></html>
+	<text>Atlas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA-7</td>]]></html>
+	<text>MA-7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carpenter</td>]]></html>
+	<text>Carpenter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 24 , 1962</td>]]></html>
+	<text>May 24 , 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12:45 UTC</td>]]></html>
+	<text>12:45 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>00d 04h 56 m 15s</td>]]></html>
+	<text>00d 04h 56 m 15s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 orbits. Reentered off-target by 402 km. Pilot Carpenter replaced Deke Slayton .</td>]]></html>
+	<text>3 orbits. Reentered off-target by 402 km. Pilot Carpenter replaced Deke Slayton .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Atlas 8</td>]]></html>
+	<text>Mercury-Atlas 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sigma 7</td>]]></html>
+	<text>Sigma 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas</td>]]></html>
+	<text>Atlas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA-8</td>]]></html>
+	<text>MA-8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Schirra</td>]]></html>
+	<text>Schirra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 3 , 1962</td>]]></html>
+	<text>October 3 , 1962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12:15 UTC</td>]]></html>
+	<text>12:15 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>00d 09h 13 m 11s</td>]]></html>
+	<text>00d 09h 13 m 11s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carried out engineering tests. 6 orbits.</td>]]></html>
+	<text>Carried out engineering tests. 6 orbits.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury-Atlas 9</td>]]></html>
+	<text>Mercury-Atlas 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Faith 7</td>]]></html>
+	<text>Faith 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas</td>]]></html>
+	<text>Atlas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA-9</td>]]></html>
+	<text>MA-9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cooper</td>]]></html>
+	<text>Cooper</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 15 , 1963</td>]]></html>
+	<text>May 15 , 1963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13:04 UTC</td>]]></html>
+	<text>13:04 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>01d 10h 19 m 49s</td>]]></html>
+	<text>01d 10h 19 m 49s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First American in space for over a day. Last American to orbit the Earth solo. 22 orbits.</td>]]></html>
+	<text>First American in space for over a day. Last American to orbit the Earth solo. 22 orbits.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mercury 10</td>]]></html>
+	<text>Mercury 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Freedom 7-II</td>]]></html>
+	<text>Freedom 7-II</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlas</td>]]></html>
+	<text>Atlas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MA-10</td>]]></html>
+	<text>MA-10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shepard</td>]]></html>
+	<text>Shepard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Intended to be a 3-day mission in October, 1963. Cancelled June 13 , 1963 .</td>]]></html>
+	<text>Intended to be a 3-day mission in October, 1963. Cancelled June 13 , 1963 .</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Project Mercury - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Mission Callsign Rocket Designation Pilot Launch Date Launch Time Duration Remarks</text>
+</context>
+<context>
+	<score>0.88175315</score>
+	<text>The &quot;Mercury seven&quot; astronauts pose with an Atlas model July 12, 1962. L to R: Grissom , Shepard , Carpenter , Schirra , Slayton , Glenn , Cooper .</text>
+</context>
+<context>
+	<score>0.7926308</score>
+	<text>Project Mercury</text>
+</context>
+<context>
+	<score>0.78477883</score>
+	<text>Mercury had seven prime astronauts , all former military test pilots , known as the Mercury Seven . NASA announced the selection of these astronauts on April 9 , 1959 .</text>
+</context>
+<context>
+	<score>0.75340486</score>
+	<text>[ edit ] Piloted Mercury launches</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Spacecraft</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Boosters</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Unmanned flights</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Manned flights</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Mercury Flight insignias</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Miscellaneous</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71802247</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7150514</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042284</score>
+	<text>The first Americans to venture into space were drawn from a group of 110 military pilots chosen for their flight test experience and because they met certain physical requirements. Seven of those 110 became astronauts in April 1959. Six of the seven flew Mercury missions (Deke Slayton was removed from flight status due to a heart condition). Beginning with Alan Shepard&apos;s Freedom 7 flight, the astronauts named their own spacecraft, and all added &quot;7&quot; to the name to acknowledge the teamwork of their fellow astronauts.</text>
+</context>
+<context>
+	<score>0.64513594</score>
+	<text>Wernher von Braun and astronaut Gordon Cooper in the blockhouse during MR-3 recovery operations May 5, 1961.</text>
+</context>
+<context>
+	<score>0.6036301</score>
+	<text>Piloted Mercury Launches.</text>
+</context>
+<context>
+	<score>0.5954851</score>
+	<text>[ edit ] Astronauts</text>
+</context>
+<context>
+	<score>0.5557644</score>
+	<text>[ edit ] Manned flights</text>
+</context>
+<context>
+	<score>0.5239878</score>
+	<text>Enos , a chimpanzee, launched November 29 , 1961 on Mercury-Atlas 5 for a 2-orbit flight.</text>
+</context>
+<context>
+	<score>0.5202461</score>
+	<text>[ edit ] Mercury Flight insignias</text>
+</context>
+<context>
+	<score>0.4985666</score>
+	<text>Ham , a chimpanzee , launched January 31 , 1961 on Mercury-Redstone 2 for a suborbital flight.</text>
+</context>
+<context>
+	<score>0.4782296</score>
+	<text>Miss Sam, a Rhesus macaque, launched January 21 , 1960 on Little Joe 1B to 15 km altitude.</text>
+</context>
+<context>
+	<score>0.46647796</score>
+	<text>Flight patches that purport to be patches from various Mercury missions are available to the public. In reality, these patches were designed by private entrepreneurs long after the Mercury program ended. When genuine flight patches were created by crews in the Gemini program, this caused a public demand for Mercury flight patches, which was filled by these private entrepreneurs. The only patches the Mercury astronauts wore were the NASA logo and a name tag. Each manned Mercury spacecraft, however, was decorated with a flight insignia. These are the genuine Mercury flight insignias.</text>
+</context>
+<context>
+	<score>0.46196002</score>
+	<text>Sam, a Rhesus macaque, launched December 4 , 1959 on Little Joe 2 to 85 km altitude.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="2" cellspacing="2" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"><tr bgcolor="#EFEFEF"><th>Mission</th><th>Callsign</th><th>Rocket</th><th>Designation</th><th>Pilot</th><th>Launch Date</th><th>Launch&#160;Time</th><th>Duration</th><th>Remarks</th></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Redstone_3_d5e7.html" title="Mercury-Redstone 3">Mercury-Redstone 3</a></td><td><i>Freedom 7</i></td><td><a href="../../../../articles/r/e/d/Redstone_%28rocket%29.html" title="Redstone (rocket)">Redstone</a></td><td>MR-3</td><td><a href="../../../../articles/a/l/a/Alan_Shepard_19fc.html" title="Alan Shepard">Shepard</a></td><td><a href="../../../../articles/m/a/y/May_5.html" title="May 5">May 5</a>, <a href="../../../../articles/1/9/6/1961.html" title="1961">1961</a></td><td>14:34 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>00d 00h<br />15 m 28s</td><td>First American to make a suborbital flight into space.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Redstone_4_92aa.html" title="Mercury-Redstone 4">Mercury-Redstone 4</a></td><td><i>Liberty Bell 7</i></td><td><a href="../../../../articles/r/e/d/Redstone_%28rocket%29.html" title="Redstone (rocket)">Redstone</a></td><td>MR-4</td><td><a href="../../../../articles/g/u/s/Gus_Grissom_f9b5.html" title="Gus Grissom">Grissom</a></td><td><a href="../../../../articles/j/u/l/July_21.html" title="July 21">July 21</a>, <a href="../../../../articles/1/9/6/1961.html" title="1961">1961</a></td><td>12:20 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>00d 00h<br />15 m 37s</td><td>Second suborbital flight. Capsule sank before recovery when hatch unexpectedly blew off.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_6_23db.html" title="Mercury-Atlas 6">Mercury-Atlas 6</a></td><td><i>Friendship 7</i></td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a></td><td>MA-6</td><td><a href="../../../../articles/j/o/h/John_Glenn_1471.html" title="John Glenn">Glenn</a></td><td><a href="../../../../articles/f/e/b/February_20.html" title="February 20">February 20</a>, <a href="../../../../articles/1/9/6/1962.html" title="1962">1962</a></td><td>14:47 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>00d 04h<br />55 m 23s</td><td>First American to orbit the Earth (for a total of 3 orbits). Capsule's retropack retained during re-entry due to concerns about heatshield.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_7_b2c9.html" title="Mercury-Atlas 7">Mercury-Atlas 7</a></td><td><i>Aurora 7</i></td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a></td><td>MA-7</td><td><a href="../../../../articles/s/c/o/Scott_Carpenter_61de.html" title="Scott Carpenter">Carpenter</a></td><td><a href="../../../../articles/m/a/y/May_24.html" title="May 24">May 24</a>, <a href="../../../../articles/1/9/6/1962.html" title="1962">1962</a></td><td>12:45 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>00d 04h<br />56 m 15s</td><td>3 orbits. Reentered off-target by 402 km. Pilot Carpenter replaced <a href="../../../../articles/d/e/k/Deke_Slayton_0540.html" title="Deke Slayton">Deke Slayton</a>.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_8_6272.html" title="Mercury-Atlas 8">Mercury-Atlas 8</a></td><td><i>Sigma 7</i></td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a></td><td>MA-8</td><td><a href="../../../../articles/w/a/l/Wally_Schirra_77c9.html" title="Wally Schirra">Schirra</a></td><td><a href="../../../../articles/o/c/t/October_3.html" title="October 3">October 3</a>, <a href="../../../../articles/1/9/6/1962.html" title="1962">1962</a></td><td>12:15 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>00d 09h<br />13 m 11s</td><td>Carried out engineering tests. 6 orbits.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_9_d3c5.html" title="Mercury-Atlas 9">Mercury-Atlas 9</a></td><td><i>Faith 7</i></td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a></td><td>MA-9</td><td><a href="../../../../articles/g/o/r/Gordon_Cooper_0ffe.html" title="Gordon Cooper">Cooper</a></td><td><a href="../../../../articles/m/a/y/May_15.html" title="May 15">May 15</a>, <a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a></td><td>13:04 <a href="../../../../articles/c/o/o/Coordinated_Universal_Time_e510.html" title="Coordinated Universal Time">UTC</a></td><td>01d 10h<br />19 m 49s</td><td>First American in space for over a day. Last American to orbit the Earth solo. 22 orbits.</td></tr><tr><td><a href="../../../../articles/m/e/r/Mercury-Atlas_10_e3a2.html" title="Mercury-Atlas 10">Mercury&#160;10</a></td><td><i>Freedom 7-II</i></td><td><a href="../../../../articles/a/t/l/Atlas_%28missile%29.html" class="mw-redirect" title="Atlas (missile)">Atlas</a></td><td>MA-10</td><td><a href="../../../../articles/a/l/a/Alan_Shepard_19fc.html" title="Alan Shepard">Shepard</a></td><td>N/A</td><td>N/A</td><td>N/A</td><td>Intended to be a 3-day mission in October, 1963. Cancelled <a href="../../../../articles/j/u/n/June_13.html" title="June 13">June 13</a>, <a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a>.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

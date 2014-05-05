@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/l/i/s/List_of_members_of_Stortinget_1945-1949_0a0b.html_20.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 1, 0.06666667 0 2, 0.04444445 1 2, 0.013333335 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_members_of_Stortinget_1945-1949_0a0b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Navn</th>]]></html>
+	<text>Navn</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>parti</th>]]></html>
+	<text>parti</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comments/supleant representatives</th>]]></html>
+	<text>Comments/supleant representatives</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sverre Offenberg Løberg</td>]]></html>
+	<text>Sverre Offenberg L&#248;berg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norwegian Labour Party</td>]]></html>
+	<text>Norwegian Labour Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Carl August Petersen Wright</td>]]></html>
+	<text>Carl August Petersen Wright</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative Party</td>]]></html>
+	<text>Conservative Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bernhard Berthelsen</td>]]></html>
+	<text>Bernhard Berthelsen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Liberal Party</td>]]></html>
+	<text>Liberal Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paul Tjøstolsen Sunde</td>]]></html>
+	<text>Paul Tj&#248;stolsen Sunde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norwegian Labour Party</td>]]></html>
+	<text>Norwegian Labour Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Karl Eugen Hammerstedt</td>]]></html>
+	<text>Karl Eugen Hammerstedt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Communist Party of Norway</td>]]></html>
+	<text>Communist Party of Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of members of Stortinget 1945-1949 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Navn parti Comments/supleant representatives</text>
+</context>
+<context>
+	<score>0.880889</score>
+	<text>These market towns were Arendal, Brevik, Grimstad, Krager , Notodden, Porsgrunn, Ris r and Skien.</text>
+</context>
+<context>
+	<score>0.7864036</score>
+	<text>List of members of Stortinget 1945-1949</text>
+</context>
+<context>
+	<score>0.78391653</score>
+	<text>[ edit ] Market towns of Telemark and Aust-Agder</text>
+</context>
+<context>
+	<score>0.7525431</score>
+	<text>[ edit ] Troms</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Aust-Agder</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Vest-Agder</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Vest-Agder and Rogaland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Akershus</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Bergen</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Buskerud</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Buskerud</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Finnmark</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Hedmark</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Hedmark and Oppland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Hordaland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] M re og Romsdal</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of M re og Romsdal</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Nordland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Nordland, Troms and Finnmark</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Oppland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Oslo</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Rogaland</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Sogn og Fjordane</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Telemark</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Telemark and Aust-Agder</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Troms</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Nord-Tr ndelag</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] S r-Tr ndelag</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of S r-Tr ndelag and Nord-Tr ndelag</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Vestfold</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of Vestfold</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] stfold</text>
+</context>
+<context>
+	<score>0.7109301</score>
+	<text>[ edit ] Market towns of stfold and Akershus</text>
+</context>
+<context>
+	<score>0.7088257</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7063386</score>
+	<text>[ edit ] Telemark</text>
+</context>
+<context>
+	<score>0.6442763</score>
+	<text>[ edit ] Sogn og Fjordane</text>
+</context>
+<context>
+	<score>0.60574234</score>
+	<text>[ edit ] Nord-Tr ndelag</text>
+</context>
+<context>
+	<score>0.5946264</score>
+	<text>[ edit ] Rogaland</text>
+</context>
+<context>
+	<score>0.5549065</score>
+	<text>[ edit ] Oslo</text>
+</context>
+<context>
+	<score>0.52313066</score>
+	<text>[ edit ] Oppland</text>
+</context>
+<context>
+	<score>0.519389</score>
+	<text>[ edit ] S r-Tr ndelag</text>
+</context>
+<context>
+	<score>0.4977099</score>
+	<text>These market towns were Bod , Hammerfest, Narvik, Troms , Vads and Vard .</text>
+</context>
+<context>
+	<score>0.4773733</score>
+	<text>[ edit ] Market towns of Nordland, Troms and Finnmark</text>
+</context>
+<context>
+	<score>0.46859282</score>
+	<text>[ edit ] Market towns of S r-Tr ndelag and Nord-Tr ndelag</text>
+</context>
+<context>
+	<score>0.46110404</score>
+	<text>[ edit ] Nordland</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Navn</th><th>parti</th><th>Comments/supleant representatives</th></tr><tr><td><a href="../../../../articles/s/v/e/Sverre_Offenberg_L%C3%B8berg_ace7.html" title="Sverre Offenberg Løberg">Sverre Offenberg Løberg</a></td><td><a href="../../../../articles/n/o/r/Norwegian_Labour_Party_0e11.html" title="Norwegian Labour Party">Norwegian Labour Party</a></td><td></td></tr><tr><td><a href="../../../../articles/c/a/r/Carl_August_Petersen_Wright_92c1.html" title="Carl August Petersen Wright">Carl August Petersen Wright</a></td><td><a href="../../../../articles/c/o/n/Conservative_Party_of_Norway_16ea.html" title="Conservative Party of Norway">Conservative Party</a></td><td></td></tr><tr><td><a href="../../../../articles/b/e/r/Bernhard_Berthelsen_0cf9.html" title="Bernhard Berthelsen">Bernhard Berthelsen</a></td><td><a href="../../../../articles/l/i/b/Liberal_Party_of_Norway_95e3.html" title="Liberal Party of Norway">Liberal Party</a></td><td></td></tr><tr><td><a href="../../../../articles/p/a/u/Paul_Tj%C3%B8stolsen_Sunde_6f6c.html" title="Paul Tjøstolsen Sunde">Paul Tjøstolsen Sunde</a></td><td><a href="../../../../articles/n/o/r/Norwegian_Labour_Party_0e11.html" title="Norwegian Labour Party">Norwegian Labour Party</a></td><td></td></tr><tr><td><a href="../../../../articles/k/a/r/Karl_Eugen_Hammerstedt_dd61.html" title="Karl Eugen Hammerstedt">Karl Eugen Hammerstedt</a></td><td><a href="../../../../articles/c/o/m/Communist_Party_of_Norway_b53d.html" title="Communist Party of Norway">Communist Party of Norway</a></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

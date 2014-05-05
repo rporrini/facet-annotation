@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r11/b/i/g/Big_Ten_Conference_77c8.html_6.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 1, 0.85714287 0 3, 0.84415585 1, 0.78571427 5, 0.78571427 0 5, 0.7792208 3, 0.7295918 1 5, 0.7235622 1 3, 0.67346936 3 5, 0.14285715 2, 0.14285715 0 2, 0.13265306 1 2, 0.12857144 4, 0.12857144 0 4, 0.12244899 2 3, 0.119387746 1 4, 0.11428572 0 6, 0.112244904 2 5, 0.11020408 3 4, 0.10612245 1 6, 0.10389611 6, 0.10102041 4 5, 0.09795919 3 6, 0.089795925 5 6, 0.018367348 2 4, 0.016326532 2 6, 0.014693879 4 6, " />
+<meta name="parentHTMLDoc" value="en/articles/b/i/g/Big_Ten_Conference_77c8.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Football stadium</th>]]></html>
+	<text>Football stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium capacity</th>]]></html>
+	<text>Stadium capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Basketball arena</th>]]></html>
+	<text>Basketball arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Arena capacity</th>]]></html>
+	<text>Arena capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Baseball stadium</th>]]></html>
+	<text>Baseball stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium capacity</th>]]></html>
+	<text>Stadium capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Memorial Stadium</td>]]></html>
+	<text>Memorial Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>69,249</td>]]></html>
+	<text>69,249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Assembly Hall</td>]]></html>
+	<text>Assembly Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,618</td>]]></html>
+	<text>16,618</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Illinois Field</td>]]></html>
+	<text>Illinois Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,000</td>]]></html>
+	<text>3,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Memorial Stadium</td>]]></html>
+	<text>Memorial Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52,180</td>]]></html>
+	<text>52,180</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Assembly Hall</td>]]></html>
+	<text>Assembly Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,456</td>]]></html>
+	<text>17,456</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sembower Field</td>]]></html>
+	<text>Sembower Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,250</td>]]></html>
+	<text>2,250</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kinnick Stadium</td>]]></html>
+	<text>Kinnick Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,585</td>]]></html>
+	<text>70,585</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carver-Hawkeye Arena</td>]]></html>
+	<text>Carver-Hawkeye Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,500</td>]]></html>
+	<text>15,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Duane Banks Field</td>]]></html>
+	<text>Duane Banks Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,000</td>]]></html>
+	<text>3,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan Stadium</td>]]></html>
+	<text>Michigan Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,501</td>]]></html>
+	<text>107,501</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Crisler Arena</td>]]></html>
+	<text>Crisler Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,751</td>]]></html>
+	<text>13,751</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ray Fisher Stadium</td>]]></html>
+	<text>Ray Fisher Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000</td>]]></html>
+	<text>4,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan State</td>]]></html>
+	<text>Michigan State</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spartan Stadium</td>]]></html>
+	<text>Spartan Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75,005</td>]]></html>
+	<text>75,005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Breslin Student Events Center</td>]]></html>
+	<text>Breslin Student Events Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,280</td>]]></html>
+	<text>16,280</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John F. Kobs Field / Oldsmobile Park</td>]]></html>
+	<text>John F. Kobs Field / Oldsmobile Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,000/11,000</td>]]></html>
+	<text>4,000/11,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hubert H. Humphrey Metrodome</td>]]></html>
+	<text>Hubert H. Humphrey Metrodome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64,172</td>]]></html>
+	<text>64,172</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Williams Arena</td>]]></html>
+	<text>Williams Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,321</td>]]></html>
+	<text>14,321</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Siebert Field</td>]]></html>
+	<text>Siebert Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,500</td>]]></html>
+	<text>1,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northwestern</td>]]></html>
+	<text>Northwestern</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ryan Field</td>]]></html>
+	<text>Ryan Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>49,256</td>]]></html>
+	<text>49,256</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Welsh-Ryan Arena</td>]]></html>
+	<text>Welsh-Ryan Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,117</td>]]></html>
+	<text>8,117</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rocky Miller Park</td>]]></html>
+	<text>Rocky Miller Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,000</td>]]></html>
+	<text>1,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio State</td>]]></html>
+	<text>Ohio State</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio Stadium</td>]]></html>
+	<text>Ohio Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,568</td>]]></html>
+	<text>101,568</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Value City Arena</td>]]></html>
+	<text>Value City Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,500</td>]]></html>
+	<text>19,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Davis Stadium</td>]]></html>
+	<text>Bill Davis Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,450</td>]]></html>
+	<text>4,450</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Penn State</td>]]></html>
+	<text>Penn State</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beaver Stadium</td>]]></html>
+	<text>Beaver Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,282</td>]]></html>
+	<text>107,282</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bryce Jordan Center</td>]]></html>
+	<text>Bryce Jordan Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,261</td>]]></html>
+	<text>15,261</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medlar Field at Lubrano Park</td>]]></html>
+	<text>Medlar Field at Lubrano Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,406</td>]]></html>
+	<text>5,406</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Purdue</td>]]></html>
+	<text>Purdue</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ross-Ade Stadium</td>]]></html>
+	<text>Ross-Ade Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62,500</td>]]></html>
+	<text>62,500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mackey Arena</td>]]></html>
+	<text>Mackey Arena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,123</td>]]></html>
+	<text>14,123</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lambert Field</td>]]></html>
+	<text>Lambert Field</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,100</td>]]></html>
+	<text>1,100</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Camp Randall Stadium</td>]]></html>
+	<text>Camp Randall Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80,321</td>]]></html>
+	<text>80,321</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kohl Center</td>]]></html>
+	<text>Kohl Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,190</td>]]></html>
+	<text>17,190</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No baseball team</td>]]></html>
+	<text>No baseball team</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A</td>]]></html>
+	<text>N/A</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Big Ten Conference - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Football stadium Stadium capacity Basketball arena Arena capacity Baseball stadium Stadium capacity</text>
+</context>
+<context>
+	<score>0.8806132</score>
+	<text>[ edit ] Conference facilities</text>
+</context>
+<context>
+	<score>0.79191893</score>
+	<text>Big Ten Conference</text>
+</context>
+<context>
+	<score>0.7836434</score>
+	<text>In the early days of the Big Ten, the Chicago - Michigan game was played on Thanksgiving , usually with conference championship implications and was considered one of the first major rivalries of the conference. Also in the early days of the conference, and at Knute Rockne &apos;s insistence, Northwestern and Notre Dame had a yearly contest, with the winner taking home a shillelagh , much like the winner of the USC -Notre Dame and Purdue-Notre Dame contests now receive. The Northwestern-Notre Dame shillelagh was largely forgotten by the early 1960&apos;s and is now solely an element of college football&apos;s storied past.</text>
+</context>
+<context>
+	<score>0.75227094</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Members</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Commissioners</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Football</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Men&apos;s basketball</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Women&apos;s basketball</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Rivalries</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] Conference facilities</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7161687</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71434313</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7060677</score>
+	<text>Wisconsin has a long-standing, in-state basketball rivalry with Marquette . The series has intensified as of late with both teams having made the Final Four in recent years. The schools also played an annual football game before Marquette abandoned its football program in 1961.</text>
+</context>
+<context>
+	<score>0.64400697</score>
+	<text>Illinois has a longstanding basketball rivalry with Missouri , with the two men&apos;s teams squaring off annually in the &quot; Braggin&apos; Rights &quot; game in St. Louis . This rivalry has been carried over into football as &quot;The Arch Rivalry&quot; with games played at the Edward Jones Dome in St. Louis in 2002 and 2003 and four games scheduled from 2007 to 2010. [5]</text>
+</context>
+<context>
+	<score>0.60547405</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5943584</score>
+	<text>Indiana has an out-of conference rivalry with Kentucky , but the rivalry has a much higher profile in basketball than in football.</text>
+</context>
+<context>
+	<score>0.5546396</score>
+	<text>Iowa has an in-state rivalry with Iowa State , with the winner getting the Cy-Hawk Trophy . Iowa also holds rivalries in basketball with Drake and Northern Iowa .</text>
+</context>
+<context>
+	<score>0.5228645</score>
+	<text>Penn State had a longstanding rivalry with Pittsburgh of the Big East , but the two schools have not met since 2000. Penn State also had long histories with independent Notre Dame ; West Virginia , Syracuse , and Rutgers of the Big East ; Maryland and Boston College of the ACC ; and Temple , of the Mid-American Conference (MAC) . Penn State also has strong intrastate rivalries with Patriot League universities Bucknell in men&apos;s basketball and Lehigh in wrestling. Most of these rivalries were cultivated while Penn State operated independent of conference affiliation; the constraints of playing a full conference schedule, especially in football, have reduced the number of meetings between Penn State and its non-Big Ten rivals.</text>
+</context>
+<context>
+	<score>0.51912296</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.49744448</score>
+	<text>Purdue, Michigan State and Michigan are among the Big Ten football teams that have rivalries with Notre Dame . After the University of Southern California (USC), the Spartans and Boilermakers share the winningest record against the Irish, with 26 wins apiece.</text>
+</context>
+<context>
+	<score>0.47710842</score>
+	<text>[ edit ] Extra-conference rivalries</text>
+</context>
+<context>
+	<score>0.46832818</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4608396</score>
+	<text>Indiana and Purdue have a heated rivalry in college basketball between the two schools with the most Big Ten basketball championships. Michigan and Michigan State have an in-state rivalry. Due to their recent successes and familiarity between their players and coaching staffs, Illinois and Michigan State have developed a basketball rivalry based more on competitive matches and mutual respect, rather than animosity, which could characterize Illinois&apos; rivalry with Indiana. These schools share a rivalry which has intensified at times, most recently due to Eric Gordon&apos;s de-committal from Illinois in order to attend and play for Indiana.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>School</th><th>Football stadium</th><th>Stadium capacity</th><th>Basketball arena</th><th>Arena capacity</th><th>Baseball stadium</th><th>Stadium capacity</th></tr><tr><td>Illinois</td><td><a href="../../../../articles/m/e/m/Memorial_Stadium_%28Champaign%29_85d1.html" title="Memorial Stadium (Champaign)">Memorial Stadium</a></td><td>69,249</td><td><a href="../../../../articles/a/s/s/Assembly_Hall_%28Champaign%29_e311.html" title="Assembly Hall (Champaign)">Assembly Hall</a></td><td>16,618</td><td><a href="../../../../articles/i/l/l/Illinois_Field_385a.html" title="Illinois Field">Illinois Field</a></td><td>3,000</td></tr><tr><td>Indiana</td><td><a href="../../../../articles/m/e/m/Memorial_Stadium%2C_Bloomington_9868.html" title="Memorial Stadium, Bloomington">Memorial Stadium</a></td><td>52,180</td><td><a href="../../../../articles/a/s/s/Assembly_Hall_%28Bloomington%29_1f2e.html" title="Assembly Hall (Bloomington)">Assembly Hall</a></td><td>17,456</td><td><a href="../../../../articles/s/e/m/Sembower_Field_6e55.html" title="Sembower Field">Sembower Field</a></td><td>2,250</td></tr><tr><td>Iowa</td><td><a href="../../../../articles/k/i/n/Kinnick_Stadium_5451.html" title="Kinnick Stadium">Kinnick Stadium</a></td><td>70,585</td><td><a href="../../../../articles/c/a/r/Carver-Hawkeye_Arena_badf.html" title="Carver-Hawkeye Arena">Carver-Hawkeye Arena</a></td><td>15,500</td><td><a href="../../../../articles/d/u/a/Duane_Banks_Field_8c2d.html" title="Duane Banks Field">Duane Banks Field</a></td><td>3,000</td></tr><tr><td>Michigan</td><td><a href="../../../../articles/m/i/c/Michigan_Stadium_0f88.html" title="Michigan Stadium">Michigan Stadium</a></td><td>107,501</td><td><a href="../../../../articles/c/r/i/Crisler_Arena_cd38.html" title="Crisler Arena">Crisler Arena</a></td><td>13,751</td><td><a href="../../../../articles/r/a/y/Ray_Fisher_Stadium_4dbb.html" title="Ray Fisher Stadium">Ray Fisher Stadium</a></td><td>4,000</td></tr><tr><td>Michigan State</td><td><a href="../../../../articles/s/p/a/Spartan_Stadium_%28East_Lansing%29_a616.html" title="Spartan Stadium (East Lansing)">Spartan Stadium</a></td><td>75,005</td><td><a href="../../../../articles/b/r/e/Breslin_Student_Events_Center_7d70.html" title="Breslin Student Events Center">Breslin Student Events Center</a></td><td>16,280</td><td><a href="../../../../articles/j/o/h/John_F._Kobs_Field_79ac.html" title="John F. Kobs Field">John F. Kobs Field</a>/<a href="../../../../articles/o/l/d/Oldsmobile_Park_90e4.html" title="Oldsmobile Park">Oldsmobile Park</a></td><td>4,000/11,000</td></tr><tr><td>Minnesota</td><td><a href="../../../../articles/h/u/b/Hubert_H._Humphrey_Metrodome_d019.html" title="Hubert H. Humphrey Metrodome">Hubert H. Humphrey Metrodome</a></td><td>64,172</td><td><a href="../../../../articles/w/i/l/Williams_Arena_3088.html" title="Williams Arena">Williams Arena</a></td><td>14,321</td><td><a href="../../../../articles/s/i/e/Siebert_Field_cbc2.html" title="Siebert Field">Siebert Field</a></td><td>1,500</td></tr><tr><td>Northwestern</td><td><a href="../../../../articles/r/y/a/Ryan_Field_%28stadium%29_a88a.html" title="Ryan Field (stadium)">Ryan Field</a></td><td>49,256</td><td><a href="../../../../articles/w/e/l/Welsh-Ryan_Arena_ae70.html" title="Welsh-Ryan Arena">Welsh-Ryan Arena</a></td><td>8,117</td><td><a href="../../../../articles/r/o/c/Rocky_Miller_Park_d6ef.html" title="Rocky Miller Park">Rocky Miller Park</a></td><td>1,000</td></tr><tr><td>Ohio State</td><td><a href="../../../../articles/o/h/i/Ohio_Stadium_1f84.html" title="Ohio Stadium">Ohio Stadium</a></td><td>101,568</td><td><a href="../../../../articles/j/e/r/Jerome_Schottenstein_Center_56f9.html" title="Jerome Schottenstein Center">Value City Arena</a></td><td>19,500</td><td><a href="../../../../articles/b/i/l/Bill_Davis_Stadium_48ae.html" title="Bill Davis Stadium">Bill Davis Stadium</a></td><td>4,450</td></tr><tr><td>Penn State</td><td><a href="../../../../articles/b/e/a/Beaver_Stadium_29e4.html" title="Beaver Stadium">Beaver Stadium</a></td><td>107,282</td><td><a href="../../../../articles/b/r/y/Bryce_Jordan_Center_6bea.html" title="Bryce Jordan Center">Bryce Jordan Center</a></td><td>15,261</td><td><a href="../../../../articles/m/e/d/Medlar_Field_at_Lubrano_Park_b4b3.html" title="Medlar Field at Lubrano Park">Medlar Field at Lubrano Park</a></td><td>5,406</td></tr><tr><td>Purdue</td><td><a href="../../../../articles/r/o/s/Ross-Ade_Stadium_81a4.html" title="Ross-Ade Stadium">Ross-Ade Stadium</a></td><td>62,500</td><td><a href="../../../../articles/m/a/c/Mackey_Arena_d368.html" title="Mackey Arena">Mackey Arena</a></td><td>14,123</td><td><a href="../../../../articles/l/a/m/Lambert_Field_%28Purdue%29_c2aa.html" title="Lambert Field (Purdue)">Lambert Field</a></td><td>1,100</td></tr><tr><td>Wisconsin</td><td><a href="../../../../articles/c/a/m/Camp_Randall_Stadium_db8a.html" title="Camp Randall Stadium">Camp Randall Stadium</a></td><td>80,321</td><td><a href="../../../../articles/k/o/h/Kohl_Center_cbf8.html" title="Kohl Center">Kohl Center</a></td><td>17,190</td><td>No baseball team</td><td>N/A</td></tr></table>]]>
+</htmlSnippet>
+</entity>

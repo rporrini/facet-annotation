@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r25/c/o/m/Comuni_of_the_Province_of_Trapani_2608.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/c/o/m/Comuni_of_the_Province_of_Trapani_2608.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>ISTAT Code</th>]]></html>
+	<text>ISTAT Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comune</th>]]></html>
+	<text>Comune</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (2005)</th>]]></html>
+	<text>Population (2005)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081001</td>]]></html>
+	<text>081001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alcamo</td>]]></html>
+	<text>Alcamo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,959</td>]]></html>
+	<text>44,959</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081002</td>]]></html>
+	<text>081002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buseto Palizzolo</td>]]></html>
+	<text>Buseto Palizzolo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,198</td>]]></html>
+	<text>3,198</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081003</td>]]></html>
+	<text>081003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calatafimi-Segesta</td>]]></html>
+	<text>Calatafimi-Segesta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,385</td>]]></html>
+	<text>7,385</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081004</td>]]></html>
+	<text>081004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campobello di Mazara</td>]]></html>
+	<text>Campobello di Mazara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,942</td>]]></html>
+	<text>10,942</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081005</td>]]></html>
+	<text>081005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Castellammare del Golfo</td>]]></html>
+	<text>Castellammare del Golfo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14,811</td>]]></html>
+	<text>14,811</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081006</td>]]></html>
+	<text>081006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Castelvetrano</td>]]></html>
+	<text>Castelvetrano</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,369</td>]]></html>
+	<text>30,369</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081007</td>]]></html>
+	<text>081007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Custonaci</td>]]></html>
+	<text>Custonaci</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,013</td>]]></html>
+	<text>5,013</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081008</td>]]></html>
+	<text>081008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erice</td>]]></html>
+	<text>Erice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29,169</td>]]></html>
+	<text>29,169</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081009</td>]]></html>
+	<text>081009</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Favignana</td>]]></html>
+	<text>Favignana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,297</td>]]></html>
+	<text>4,297</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081010</td>]]></html>
+	<text>081010</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gibellina</td>]]></html>
+	<text>Gibellina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,558</td>]]></html>
+	<text>4,558</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081011</td>]]></html>
+	<text>081011</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marsala</td>]]></html>
+	<text>Marsala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80,391</td>]]></html>
+	<text>80,391</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081012</td>]]></html>
+	<text>081012</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mazara del Vallo</td>]]></html>
+	<text>Mazara del Vallo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,424</td>]]></html>
+	<text>51,424</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081013</td>]]></html>
+	<text>081013</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paceco</td>]]></html>
+	<text>Paceco</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,110</td>]]></html>
+	<text>11,110</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081014</td>]]></html>
+	<text>081014</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pantelleria</td>]]></html>
+	<text>Pantelleria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,679</td>]]></html>
+	<text>7,679</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081015</td>]]></html>
+	<text>081015</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Partanna</td>]]></html>
+	<text>Partanna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,427</td>]]></html>
+	<text>11,427</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081016</td>]]></html>
+	<text>081016</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poggioreale</td>]]></html>
+	<text>Poggioreale</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,681</td>]]></html>
+	<text>1,681</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081017</td>]]></html>
+	<text>081017</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salaparuta</td>]]></html>
+	<text>Salaparuta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,769</td>]]></html>
+	<text>1,769</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081018</td>]]></html>
+	<text>081018</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salemi</td>]]></html>
+	<text>Salemi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,436</td>]]></html>
+	<text>11,436</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081019</td>]]></html>
+	<text>081019</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Ninfa</td>]]></html>
+	<text>Santa Ninfa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,265</td>]]></html>
+	<text>5,265</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081020</td>]]></html>
+	<text>081020</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Vito Lo Capo</td>]]></html>
+	<text>San Vito Lo Capo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,027</td>]]></html>
+	<text>4,027</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081021</td>]]></html>
+	<text>081021</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trapani</td>]]></html>
+	<text>Trapani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70,735</td>]]></html>
+	<text>70,735</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081022</td>]]></html>
+	<text>081022</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Valderice</td>]]></html>
+	<text>Valderice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,544</td>]]></html>
+	<text>11,544</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081023</td>]]></html>
+	<text>081023</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vita</td>]]></html>
+	<text>Vita</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,316</td>]]></html>
+	<text>2,316</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>081024</td>]]></html>
+	<text>081024</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Petrosino</td>]]></html>
+	<text>Petrosino</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,458</td>]]></html>
+	<text>7,458</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>432,963</td>]]></html>
+	<text>432,963</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Comuni of the Province of Trapani - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>ISTAT Code Comune Population (2005)</text>
+</context>
+<context>
+	<score>0.89752793</score>
+	<text>The following is a list of the 24 comuni of the Province of Trapani , Sicily , in Italy .</text>
+</context>
+<context>
+	<score>0.81934553</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.81934553</score>
+	<text>Comuni of the Province of Trapani</text>
+</context>
+<context>
+	<score>0.76893556</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.76059496</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.74161863</score>
+	<text>Comuni of the Province of Trapani</text>
+</context>
+<context>
+	<score>0.53533345</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th><a href="../../../../articles/i/s/t/Istituto_Nazionale_di_Statistica_bd30.html" title="Istituto Nazionale di Statistica">ISTAT</a> Code</th><th><i><a href="../../../../articles/c/o/m/Comune.html" title="Comune">Comune</a></i></th><th>Population<br />(2005)</th></tr><tr><td>081001</td><td><a href="../../../../articles/a/l/c/Alcamo.html" title="Alcamo">Alcamo</a></td><td align="right">44,959</td></tr><tr><td>081002</td><td><a href="../../../../articles/b/u/s/Buseto_Palizzolo_ce4a.html" title="Buseto Palizzolo">Buseto Palizzolo</a></td><td align="right">3,198</td></tr><tr><td>081003</td><td><a href="../../../../articles/c/a/l/Calatafimi-Segesta_6d7a.html" title="Calatafimi-Segesta">Calatafimi-Segesta</a></td><td align="right">7,385</td></tr><tr><td>081004</td><td><a href="../../../../articles/c/a/m/Campobello_di_Mazara_b012.html" title="Campobello di Mazara">Campobello di Mazara</a></td><td align="right">10,942</td></tr><tr><td>081005</td><td><a href="../../../../articles/c/a/s/Castellammare_del_Golfo_4062.html" title="Castellammare del Golfo">Castellammare del Golfo</a></td><td align="right">14,811</td></tr><tr><td>081006</td><td><a href="../../../../articles/c/a/s/Castelvetrano.html" title="Castelvetrano">Castelvetrano</a></td><td align="right">30,369</td></tr><tr><td>081007</td><td><a href="../../../../articles/c/u/s/Custonaci.html" title="Custonaci">Custonaci</a></td><td align="right">5,013</td></tr><tr><td>081008</td><td><a href="../../../../articles/e/r/i/Erice.html" title="Erice">Erice</a></td><td align="right">29,169</td></tr><tr><td>081009</td><td><a href="../../../../articles/f/a/v/Favignana.html" title="Favignana">Favignana</a></td><td align="right">4,297</td></tr><tr><td>081010</td><td><a href="../../../../articles/g/i/b/Gibellina.html" title="Gibellina">Gibellina</a></td><td align="right">4,558</td></tr><tr><td>081011</td><td><a href="../../../../articles/m/a/r/Marsala.html" title="Marsala">Marsala</a></td><td align="right">80,391</td></tr><tr><td>081012</td><td><a href="../../../../articles/m/a/z/Mazara_del_Vallo_b85a.html" title="Mazara del Vallo">Mazara del Vallo</a></td><td align="right">51,424</td></tr><tr><td>081013</td><td><a href="../../../../articles/p/a/c/Paceco.html" title="Paceco">Paceco</a></td><td align="right">11,110</td></tr><tr><td>081014</td><td><a href="../../../../articles/p/a/n/Pantelleria.html" title="Pantelleria">Pantelleria</a></td><td align="right">7,679</td></tr><tr><td>081015</td><td><a href="../../../../articles/p/a/r/Partanna.html" title="Partanna">Partanna</a></td><td align="right">11,427</td></tr><tr><td>081016</td><td><a href="../../../../articles/p/o/g/Poggioreale.html" title="Poggioreale">Poggioreale</a></td><td align="right">1,681</td></tr><tr><td>081017</td><td><a href="../../../../articles/s/a/l/Salaparuta.html" title="Salaparuta">Salaparuta</a></td><td align="right">1,769</td></tr><tr><td>081018</td><td><a href="../../../../articles/s/a/l/Salemi.html" title="Salemi">Salemi</a></td><td align="right">11,436</td></tr><tr><td>081019</td><td><a href="../../../../articles/s/a/n/Santa_Ninfa_179b.html" title="Santa Ninfa">Santa Ninfa</a></td><td align="right">5,265</td></tr><tr><td>081020</td><td><a href="../../../../articles/s/a/n/San_Vito_Lo_Capo_1bd5.html" title="San Vito Lo Capo">San Vito Lo Capo</a></td><td align="right">4,027</td></tr><tr><td>081021</td><td><a href="../../../../articles/t/r/a/Trapani.html" title="Trapani">Trapani</a></td><td align="right">70,735</td></tr><tr><td>081022</td><td><a href="../../../../articles/v/a/l/Valderice.html" title="Valderice">Valderice</a></td><td align="right">11,544</td></tr><tr><td>081023</td><td><a href="../../../../articles/v/i/t/Vita%2C_Italy_e19a.html" title="Vita, Italy">Vita</a></td><td align="right">2,316</td></tr><tr><td>081024</td><td><a href="../../../../articles/p/e/t/Petrosino.html" title="Petrosino">Petrosino</a></td><td align="right">7,458</td></tr><tr><td></td><td>Total</td><td align="right">432,963</td></tr></table>]]>
+</htmlSnippet>
+</entity>

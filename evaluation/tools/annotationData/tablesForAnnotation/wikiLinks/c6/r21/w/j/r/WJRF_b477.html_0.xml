@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r21/w/j/r/WJRF_b477.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.61111116 3, 0.5092593 3 4, 0.45833334 3 5, 0.13333334 1 2, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.10694445 0 3, 0.10158731 1, 0.097222224 0 4, 0.0875 0 5, 0.08465609 1 4, 0.07619049 1 5, 0.03968254 4, 0.035714287 5, 0.029761905 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/w/j/r/WJRF_b477.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K257CH</td>]]></html>
+	<text>K257CH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.3</td>]]></html>
+	<text>99.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Estherville, Iowa</td>]]></html>
+	<text>Estherville, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80 watts</td>]]></html>
+	<text>80 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K220HY</td>]]></html>
+	<text>K220HY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spencer, Iowa</td>]]></html>
+	<text>Spencer, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K210CG</td>]]></html>
+	<text>K210CG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.9</td>]]></html>
+	<text>89.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spirit Lake, Iowa</td>]]></html>
+	<text>Spirit Lake, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W215BR</td>]]></html>
+	<text>W215BR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ironwood, Michigan</td>]]></html>
+	<text>Ironwood, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K208EQ</td>]]></html>
+	<text>K208EQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89.5</td>]]></html>
+	<text>89.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alexandria, Minnesota</td>]]></html>
+	<text>Alexandria, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>230 watts</td>]]></html>
+	<text>230 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K212FH</td>]]></html>
+	<text>K212FH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.3</td>]]></html>
+	<text>90.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Balaton, Minnesota</td>]]></html>
+	<text>Balaton, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62 watts</td>]]></html>
+	<text>62 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K218DK</td>]]></html>
+	<text>K218DK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.5</td>]]></html>
+	<text>91.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bloomington, Minnesota</td>]]></html>
+	<text>Bloomington, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>216 watts</td>]]></html>
+	<text>216 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K216FS</td>]]></html>
+	<text>K216FS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.1</td>]]></html>
+	<text>91.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brainerd, Minnesota</td>]]></html>
+	<text>Brainerd, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>140 watts</td>]]></html>
+	<text>140 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K201HD</td>]]></html>
+	<text>K201HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clara City, Minnesota</td>]]></html>
+	<text>Clara City, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K293BA</td>]]></html>
+	<text>K293BA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.5</td>]]></html>
+	<text>106.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elko, Minnesota</td>]]></html>
+	<text>Elko, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>196 watts</td>]]></html>
+	<text>196 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K215ES</td>]]></html>
+	<text>K215ES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fairmont, Minnesota</td>]]></html>
+	<text>Fairmont, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K204DS</td>]]></html>
+	<text>K204DS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glencoe, Minnesota</td>]]></html>
+	<text>Glencoe, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>115 watts</td>]]></html>
+	<text>115 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K220BI</td>]]></html>
+	<text>K220BI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Marais, Minnesota</td>]]></html>
+	<text>Grand Marais, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34 watts</td>]]></html>
+	<text>34 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K215DU</td>]]></html>
+	<text>K215DU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hutchinson, Minnesota</td>]]></html>
+	<text>Hutchinson, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>230 watts</td>]]></html>
+	<text>230 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K277AT</td>]]></html>
+	<text>K277AT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.3</td>]]></html>
+	<text>103.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Litchfield, Minnesota</td>]]></html>
+	<text>Litchfield, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 watts</td>]]></html>
+	<text>3 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K263AL</td>]]></html>
+	<text>K263AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.5</td>]]></html>
+	<text>100.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madison, Minnesota</td>]]></html>
+	<text>Madison, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30 watts</td>]]></html>
+	<text>30 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K274AL</td>]]></html>
+	<text>K274AL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102.7</td>]]></html>
+	<text>102.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mankato, Minnesota</td>]]></html>
+	<text>Mankato, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W291AQ</td>]]></html>
+	<text>W291AQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106.1</td>]]></html>
+	<text>106.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Moose Lake, Minnesota</td>]]></html>
+	<text>Moose Lake, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55 watts</td>]]></html>
+	<text>55 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K270DZ</td>]]></html>
+	<text>K270DZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101.9</td>]]></html>
+	<text>101.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Ulm, Minnesota</td>]]></html>
+	<text>New Ulm, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K204FA</td>]]></html>
+	<text>K204FA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.7</td>]]></html>
+	<text>88.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nicollet, Minnesota</td>]]></html>
+	<text>Nicollet, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W220DO</td>]]></html>
+	<text>W220DO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Branch, Minnesota</td>]]></html>
+	<text>North Branch, Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38 watts</td>]]></html>
+	<text>38 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>WJRF - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>In addition to the main station, WJRF is relayed by an additional 34 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>WJRF</text>
+</context>
+<context>
+	<score>0.7897863</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.75752264</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7411709</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7411709</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7100071</score>
+	<text>Most programming on Refuge Radio is upbeat contemporary Christian music and Christian rock music targeted to youth and young adults.</text>
+</context>
+<context>
+	<score>0.6461837</score>
+	<text>WJRF (89.5 FM , &quot;The Refuge&quot;) is a regional Christian radio network based in Duluth, Minnesota . The network is made up of flagship station WJRF (89.5 FM) in Duluth, and several translators (low power rebroadcasters) in cities of Minnesota , Iowa , Wisconsin , South Dakota , and Michigan .</text>
+</context>
+<context>
+	<score>0.6121234</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.60655636</score>
+	<text>This article about a radio station in Minnesota is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.5712765</score>
+	<text>WJRF</text>
+</context>
+<context>
+	<score>0.51775265</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K257CH</b></td><td>99.3</td><td><a href="../../../../articles/e/s/t/Estherville%2C_Iowa_e3e6.html" title="Estherville, Iowa">Estherville, Iowa</a></td><td>80 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K257CH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K257CH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K257CH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K257CH" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K220HY</b></td><td>91.9</td><td><a href="../../../../articles/s/p/e/Spencer%2C_Iowa_6ccf.html" title="Spencer, Iowa">Spencer, Iowa</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K220HY" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K220HY" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220HY" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220HY" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K210CG</b></td><td>89.9</td><td><a href="../../../../articles/s/p/i/Spirit_Lake%2C_Iowa_e31f.html" title="Spirit Lake, Iowa">Spirit Lake, Iowa</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K210CG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K210CG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K210CG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K210CG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W215BR</b></td><td>90.9</td><td><a href="../../../../articles/i/r/o/Ironwood%2C_Michigan_a56b.html" title="Ironwood, Michigan">Ironwood, Michigan</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W215BR" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W215BR" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W215BR" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W215BR" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K208EQ</b></td><td>89.5</td><td><a href="../../../../articles/a/l/e/Alexandria%2C_Minnesota_d93a.html" title="Alexandria, Minnesota">Alexandria, Minnesota</a></td><td>230 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K208EQ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K208EQ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208EQ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K208EQ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K212FH</b></td><td>90.3</td><td><a href="../../../../articles/b/a/l/Balaton%2C_Minnesota_95eb.html" title="Balaton, Minnesota">Balaton, Minnesota</a></td><td>62 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K212FH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K212FH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212FH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K212FH" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K218DK</b></td><td>91.5</td><td><a href="../../../../articles/b/l/o/Bloomington%2C_Minnesota_2025.html" title="Bloomington, Minnesota">Bloomington, Minnesota</a></td><td>216 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K218DK" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K218DK" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K218DK" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K218DK" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K216FS</b></td><td>91.1</td><td><a href="../../../../articles/b/r/a/Brainerd%2C_Minnesota_86d6.html" title="Brainerd, Minnesota">Brainerd, Minnesota</a></td><td>140 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K216FS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K216FS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K216FS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K216FS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K201HD</b></td><td>88.1</td><td><a href="../../../../articles/c/l/a/Clara_City%2C_Minnesota_fc41.html" title="Clara City, Minnesota">Clara City, Minnesota</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K201HD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K201HD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K201HD" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K293BA</b></td><td>106.5</td><td><a href="../../../../articles/e/l/k/Elko%2C_Minnesota_5659.html" title="Elko, Minnesota">Elko, Minnesota</a></td><td>196 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K293BA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K293BA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K293BA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K293BA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K215ES</b></td><td>90.9</td><td><a href="../../../../articles/f/a/i/Fairmont%2C_Minnesota_289e.html" title="Fairmont, Minnesota">Fairmont, Minnesota</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K215ES" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K215ES" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215ES" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215ES" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K204DS</b></td><td>88.7</td><td><a href="../../../../articles/g/l/e/Glencoe%2C_Minnesota_97ad.html" title="Glencoe, Minnesota">Glencoe, Minnesota</a></td><td>115 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K204DS" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K204DS" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204DS" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204DS" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K220BI</b></td><td>91.9</td><td><a href="../../../../articles/g/r/a/Grand_Marais%2C_Minnesota_e257.html" title="Grand Marais, Minnesota">Grand Marais, Minnesota</a></td><td>34 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K220BI" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K220BI" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220BI" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K220BI" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K215DU</b></td><td>90.9</td><td><a href="../../../../articles/h/u/t/Hutchinson%2C_Minnesota_ec90.html" title="Hutchinson, Minnesota">Hutchinson, Minnesota</a></td><td>230 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K215DU" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K215DU" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215DU" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K215DU" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K277AT</b></td><td>103.3</td><td><a href="../../../../articles/l/i/t/Litchfield%2C_Minnesota_4ae3.html" title="Litchfield, Minnesota">Litchfield, Minnesota</a></td><td>3 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K277AT" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K277AT" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K277AT" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K277AT" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K263AL</b></td><td>100.5</td><td><a href="../../../../articles/m/a/d/Madison%2C_Minnesota_9c39.html" title="Madison, Minnesota">Madison, Minnesota</a></td><td>30 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K263AL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K263AL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K263AL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K263AL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K274AL</b></td><td>102.7</td><td><a href="../../../../articles/m/a/n/Mankato%2C_Minnesota_fc50.html" title="Mankato, Minnesota">Mankato, Minnesota</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K274AL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K274AL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K274AL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K274AL" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W291AQ</b></td><td>106.1</td><td><a href="../../../../articles/m/o/o/Moose_Lake%2C_Minnesota_af28.html" title="Moose Lake, Minnesota">Moose Lake, Minnesota</a></td><td>55 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W291AQ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W291AQ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W291AQ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W291AQ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K270DZ</b></td><td>101.9</td><td><a href="../../../../articles/n/e/w/New_Ulm%2C_Minnesota_f9e0.html" title="New Ulm, Minnesota">New Ulm, Minnesota</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K270DZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K270DZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K270DZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K270DZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K204FA</b></td><td>88.7</td><td><a href="../../../../articles/n/i/c/Nicollet%2C_Minnesota_eadf.html" title="Nicollet, Minnesota">Nicollet, Minnesota</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K204FA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K204FA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204FA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K204FA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W220DO</b></td><td>91.9</td><td><a href="../../../../articles/n/o/r/North_Branch%2C_Minnesota_f37e.html" title="North Branch, Minnesota">North Branch, Minnesota</a></td><td>38 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W220DO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W220DO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W220DO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W220DO" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

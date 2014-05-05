@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/a/m/e/American_films_of_2004.html_16.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 2, 0.8 0 2, 0.71999997 1 2, 0.7 0 3, 0.63 1 3, 0.56 3, 0.56 2 3, 0.060000002 0 4, 0.054 1 4, 0.048000004 2 4, 0.033600003 3 4, 0.024000002 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_films_of_2004.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cast</th>]]></html>
+	<text>Cast</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genre</th>]]></html>
+	<text>Genre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Raise Your Voice</td>]]></html>
+	<text>Raise Your Voice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sean McNamara</td>]]></html>
+	<text>Sean McNamara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hilary Duff</td>]]></html>
+	<text>Hilary Duff</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Raising Helen</td>]]></html>
+	<text>Raising Helen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Garry Marshall</td>]]></html>
+	<text>Garry Marshall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kate Hudson , Hayden Panettiere , John Corbett</td>]]></html>
+	<text>Kate Hudson , Hayden Panettiere , John Corbett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Romantic comedy</td>]]></html>
+	<text>Romantic comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Raptor Island</td>]]></html>
+	<text>Raptor Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stanley Isaacs</td>]]></html>
+	<text>Stanley Isaacs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lorenzo Lamas , Steve Bauer</td>]]></html>
+	<text>Lorenzo Lamas , Steve Bauer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Action , Sci-Fi</td>]]></html>
+	<text>Action , Sci-Fi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Television film</td>]]></html>
+	<text>Television film</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ray</td>]]></html>
+	<text>Ray</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taylor Hackford</td>]]></html>
+	<text>Taylor Hackford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jamie Foxx</td>]]></html>
+	<text>Jamie Foxx</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drama</td>]]></html>
+	<text>Drama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Riding the Bullet</td>]]></html>
+	<text>Riding the Bullet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mick Garris</td>]]></html>
+	<text>Mick Garris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jonathan Jackson , David Arquette , Cliff Robertson</td>]]></html>
+	<text>Jonathan Jackson , David Arquette , Cliff Robertson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Horror , Thriller</td>]]></html>
+	<text>Horror , Thriller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American films of 2004 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.8819444</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.81969696</score>
+	<text>American films of 2004</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.7536022</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.74212116</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.707399</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.6453384</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.6068055</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.5956899</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.5559711</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.524196</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.5204545</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.49877605</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.47844002</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.4621712</score>
+	<text>[ edit ] J</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="21%">Title</th><th width="16%">Director</th><th width="22%">Cast</th><th width="13%">Genre</th><th width="28%">Notes</th></tr><tr><td><i><a href="../../../../articles/r/a/i/Raise_Your_Voice_8179.html" title="Raise Your Voice">Raise Your Voice</a></i></td><td><a href="../../../../articles/s/e/a/Sean_McNamara_1814.html" title="Sean McNamara">Sean McNamara</a></td><td><a href="../../../../articles/h/i/l/Hilary_Duff_20dd.html" title="Hilary Duff">Hilary Duff</a></td><td><a href="../../../../articles/d/r/a/Drama_film.html" title="Drama film">Drama</a></td><td></td></tr><tr><td><i><a href="../../../../articles/r/a/i/Raising_Helen_e911.html" title="Raising Helen">Raising Helen</a></i></td><td><a href="../../../../articles/g/a/r/Garry_Marshall_9385.html" title="Garry Marshall">Garry Marshall</a></td><td><a href="../../../../articles/k/a/t/Kate_Hudson_718a.html" title="Kate Hudson">Kate Hudson</a>, <a href="../../../../articles/h/a/y/Hayden_Panettiere_1582.html" title="Hayden Panettiere">Hayden Panettiere</a>, <a href="../../../../articles/j/o/h/John_Corbett_2ef0.html" title="John Corbett">John Corbett</a></td><td><a href="../../../../articles/r/o/m/Romantic_comedy_film.html" title="Romantic comedy film">Romantic comedy</a></td><td></td></tr><tr><td><i><a href="../../../../articles/r/a/p/Raptor_Island_2f4e.html" title="Raptor Island">Raptor Island</a></i></td><td>Stanley Isaacs</td><td><a href="../../../../articles/l/o/r/Lorenzo_Lamas_c11d.html" title="Lorenzo Lamas">Lorenzo Lamas</a>, <a href="../../../../articles/s/t/e/Steve_Bauer_c56a.html" title="Steve Bauer">Steve Bauer</a></td><td><a href="../../../../articles/a/c/t/Action_film.html" title="Action film">Action</a>, <a href="../../../../articles/s/c/i/Science_fiction_film.html" title="Science fiction film">Sci-Fi</a></td><td><a href="../../../../articles/t/e/l/Television_film.html" class="mw-redirect" title="Television film">Television film</a></td></tr><tr><td><i><a href="../../../../articles/r/a/y/Ray_%28film%29.html" title="Ray (film)">Ray</a></i></td><td><a href="../../../../articles/t/a/y/Taylor_Hackford_cfa2.html" title="Taylor Hackford">Taylor Hackford</a></td><td><a href="../../../../articles/j/a/m/Jamie_Foxx_81da.html" title="Jamie Foxx">Jamie Foxx</a></td><td><a href="../../../../articles/d/r/a/Drama_film.html" title="Drama film">Drama</a></td><td></td></tr><tr><td><i><a href="../../../../articles/r/i/d/Riding_the_Bullet_%28film%29_4c6f.html" title="Riding the Bullet (film)">Riding the Bullet</a></i></td><td><a href="../../../../articles/m/i/c/Mick_Garris_fa28.html" title="Mick Garris">Mick Garris</a></td><td><a href="../../../../articles/j/o/n/Jonathan_Jackson_5170.html" title="Jonathan Jackson">Jonathan Jackson</a>, <a href="../../../../articles/d/a/v/David_Arquette_530e.html" title="David Arquette">David Arquette</a>, <a href="../../../../articles/c/l/i/Cliff_Robertson_87fc.html" title="Cliff Robertson">Cliff Robertson</a></td><td><a href="../../../../articles/h/o/r/Horror_film.html" title="Horror film">Horror</a>, <a href="../../../../articles/t/h/r/Thriller_film.html" class="mw-redirect" title="Thriller film">Thriller</a></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r5/c/y/f/Cyfra+.html_10.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9444444 1 2, 0.8888889 1 3, 0.8333333 1 4, 0.7777778 1 5, 0.7222222 1 6, 0.6666667 1 7, 0.6111111 1 8, 0.2888889 6, 0.27283952 2 6, 0.25679013 3 6, 0.24074073 4 6, 0.22469138 5 6, 0.1925926 6 7, 0.18888889 2, 0.17777778 3, 0.1765432 6 8, 0.16790123 2 3, 0.16666667 4, 0.1574074 2 4, 0.15555556 5, 0.14814815 3 4, 0.14691357 2 5, 0.13827161 3 5, 0.13333334 7, 0.12962963 4 5, 0.12592593 2 7, 0.12222222 8, 0.118518524 3 7, 0.1154321 2 8, 0.11111112 0, 0.11111112 0 1, 0.11111112 4 7, 0.108641975 3 8, 0.104938276 0 2, 0.103703715 5 7, 0.10185184 4 8, 0.09876544 0 3, 0.095061734 5 8, 0.0925926 0 4, 0.08641976 0 5, 0.08148148 7 8, 0.08024692 0 6, 0.07407408 0 7, 0.06790124 0 8, " />
+<meta name="parentHTMLDoc" value="en/articles/c/y/f/Cyfra+.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>EPG</th>]]></html>
+	<text>EPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel name</th>]]></html>
+	<text>Channel name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Broadcasting country</th>]]></html>
+	<text>Broadcasting country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Spoken language</th>]]></html>
+	<text>Spoken language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Subtitles language</th>]]></html>
+	<text>Subtitles language</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Free-to-air (FTA)</th>]]></html>
+	<text>Free-to-air (FTA)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>HD</th>]]></html>
+	<text>HD</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pay-per-view</th>]]></html>
+	<text>Pay-per-view</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>200</td>]]></html>
+	<text>200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ARD Das Erste</td>]]></html>
+	<text>ARD Das Erste</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>German</td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>201</td>]]></html>
+	<text>201</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZDF</td>]]></html>
+	<text>ZDF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>German</td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>203</td>]]></html>
+	<text>203</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Das Vierte</td>]]></html>
+	<text>Das Vierte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>German</td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>206</td>]]></html>
+	<text>206</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RTL 2</td>]]></html>
+	<text>RTL 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>German</td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>207</td>]]></html>
+	<text>207</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SFi</td>]]></html>
+	<text>SFi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>German</td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>none</td>]]></html>
+	<text>none</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>News</td>]]></html>
+	<text>News</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Cyfra+ - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>EPG Channel name Broadcasting country Spoken language Subtitles language Free-to-air (FTA) Type HD Pay-per-view</text>
+</context>
+<context>
+	<score>0.88159907</score>
+	<text>[ edit ] German FTA</text>
+</context>
+<context>
+	<score>0.7974671</score>
+	<text>Cyfra+</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>Info+ Extra Cyfra+ Gry</text>
+</context>
+<context>
+	<score>0.7511374</score>
+	<text>[ edit ] Dutch</text>
+</context>
+<context>
+	<score>0.72342324</score>
+	<text>[ edit ] Setbacks</text>
+</context>
+<context>
+	<score>0.72342324</score>
+	<text>[ edit ] Philips PVR</text>
+</context>
+<context>
+	<score>0.72342324</score>
+	<text>[ edit ] List of channels on Cyfra+</text>
+</context>
+<context>
+	<score>0.72342324</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7186102</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7041711</score>
+	<text>[ edit ] Audio/Interactive</text>
+</context>
+<context>
+	<score>0.6410855</score>
+	<text>[ edit ] French</text>
+</context>
+<context>
+	<score>0.60191625</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.59061706</score>
+	<text>[ edit ] News and Information</text>
+</context>
+<context>
+	<score>0.5502423</score>
+	<text>[ edit ] Lifestyle / Educational</text>
+</context>
+<context>
+	<score>0.51794255</score>
+	<text>[ edit ] Music</text>
+</context>
+<context>
+	<score>0.4921027</score>
+	<text>[ edit ] Documentary / Reality</text>
+</context>
+<context>
+	<score>0.47143084</score>
+	<text>[ edit ] Lifestyle</text>
+</context>
+<context>
+	<score>0.4625056</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.45489335</score>
+	<text>[ edit ] Children</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%" style="text-align:center; font-size: 90%"><tr><th>EPG</th><th>Channel name</th><th>Broadcasting country</th><th>Spoken language</th><th>Subtitles language</th><th><a href="../../../../articles/f/r/e/Free-to-air.html" title="Free-to-air">Free-to-air</a> (FTA)</th><th>Type</th><th><a href="../../../../articles/h/i/g/High-definition_television.html" title="High-definition television">HD</a></th><th><a href="../../../../articles/p/a/y/Pay-per-view.html" title="Pay-per-view">Pay-per-view</a></th></tr><tr><td>200</td><td><a href="../../../../articles/d/a/s/Das_Erste_4f7a.html" title="Das Erste">ARD Das Erste</a></td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/e/r/German_Language_e910.html" class="mw-redirect" title="German Language">German</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>General</td><td>No</td><td>No</td></tr><tr><td>201</td><td><a href="../../../../articles/z/d/f/ZDF_6bcf.html" title="ZDF">ZDF</a></td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/e/r/German_Language_e910.html" class="mw-redirect" title="German Language">German</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>General</td><td>No</td><td>No</td></tr><tr><td>203</td><td>Das Vierte</td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/e/r/German_Language_e910.html" class="mw-redirect" title="German Language">German</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>General</td><td>No</td><td>No</td></tr><tr><td>206</td><td><a href="../../../../articles/r/t/l/RTL_II_eefa.html" title="RTL II">RTL 2</a></td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/e/r/German_Language_e910.html" class="mw-redirect" title="German Language">German</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>General</td><td>No</td><td>No</td></tr><tr><td>207</td><td>SFi</td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/g/e/r/German_Language_e910.html" class="mw-redirect" title="German Language">German</a></td><td>none</td><td style="background:#90ff90; color:black;" class="table-yes">Yes</td><td>News</td><td>No</td><td>No</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san08-data2-repo/attrParsedPage/out_data_732/dir16/file102854_1_cols3_rows15.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 2, 0.8333333 0 2, 0.13333334 0 1, 0.124444455 1, 0.11111111 1 2, " />
+<meta name="url" value="http://www.nationsonline.org/oneworld/europe.htm" />
+<meta name="parentHTMLDoc" value="san08-data2-repo/attrParsedPage/out_data_732/file102854" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><b>Country</b></td>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b>Population</b></td>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b>Capital City</b></td>]]></html>
+	<text>Capital City</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Denmark</a></td>]]></html>
+	<text>*Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 400 000</td>]]></html>
+	<text>5 400 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Copenhagen</td>]]></html>
+	<text>Copenhagen</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Estonia</a></td>]]></html>
+	<text>*Estonia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 300 000</td>]]></html>
+	<text>1 300 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tallinn</td>]]></html>
+	<text>Tallinn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a /><a>Faroe Islands</a>(Denmark)</td>]]></html>
+	<text>Faroe Islands(Denmark)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43 000</td>]]></html>
+	<text>43 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tórshavn</td>]]></html>
+	<text>T&#243;rshavn</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Finland</a></td>]]></html>
+	<text>*Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 200 000</td>]]></html>
+	<text>5 200 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Helsinki</td>]]></html>
+	<text>Helsinki</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Greenland</a>(Denmark)</td>]]></html>
+	<text>Greenland(Denmark)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>56 854</td>]]></html>
+	<text>56 854</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nuuk (Godthab, Godthåb)</td>]]></html>
+	<text>Nuuk (Godthab, Godth&#229;b)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>+<a>Iceland</a></td>]]></html>
+	<text>+Iceland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>300 000</td>]]></html>
+	<text>300 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reykjavik</td>]]></html>
+	<text>Reykjavik</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Ireland</a></td>]]></html>
+	<text>*Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 100 000</td>]]></html>
+	<text>4 100 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dublin (City)</td>]]></html>
+	<text>Dublin (City)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Latvia</a></td>]]></html>
+	<text>*Latvia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 300 000</td>]]></html>
+	<text>2 300 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Riga</td>]]></html>
+	<text>Riga</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Lithuania</a></td>]]></html>
+	<text>*Lithuania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 400 000</td>]]></html>
+	<text>3 400 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vilnius</td>]]></html>
+	<text>Vilnius</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Northern Ireland</a>(UK)</td>]]></html>
+	<text>Northern Ireland(UK)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 690 000</td>]]></html>
+	<text>1 690 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belfast</td>]]></html>
+	<text>Belfast</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>+<a>Norway</a></td>]]></html>
+	<text>+Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 600 000</td>]]></html>
+	<text>4 600 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oslo</td>]]></html>
+	<text>Oslo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Scotland</a></td>]]></html>
+	<text>Scotland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 200 000</td>]]></html>
+	<text>5 200 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edinburgh</td>]]></html>
+	<text>Edinburgh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>Sweden</a></td>]]></html>
+	<text>*Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 000 000</td>]]></html>
+	<text>9 000 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stockholm</td>]]></html>
+	<text>Stockholm</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>*<a>United Kingdom</a></td>]]></html>
+	<text>*United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>59 700 000</td>]]></html>
+	<text>59 700 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><a>Wales</a>(UK)</td>]]></html>
+	<text>Wales(UK)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 750 000</td>]]></html>
+	<text>2 750 000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cardiff</td>]]></html>
+	<text>Cardiff</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Country Population Capital City</text>
+</context>
+<context>
+	<score>0.8181818</score>
+	<text>Northern Europe</text>
+</context>
+<context>
+	<score>0.6727273</score>
+	<text>Eastern Europe</text>
+</context>
+<context>
+	<score>0.6727273</score>
+	<text>Countries by Continents ___Countries of Europe</text>
+</context>
+<context>
+	<score>0.62566847</score>
+	<text>Southern Europe</text>
+</context>
+<context>
+	<score>0.55636364</score>
+	<text>States and Territories of Europe</text>
+</context>
+<context>
+	<score>0.46327275</score>
+	<text>Political map of Member States of the European Union and EFTA, with cities and capitals.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><img /></td><td><img /></td><td><img /></td></tr><tr><td><b>Country</b></td><td><b>Population</b></td><td><b>Capital City</b></td></tr><tr><td>*<a>Denmark</a></td><td>5 400 000</td><td>Copenhagen</td></tr><tr><td>*<a>Estonia</a></td><td>1 300 000</td><td>Tallinn</td></tr><tr><td><a /><a>Faroe Islands</a>(Denmark)</td><td>43 000</td><td>Tórshavn</td></tr><tr><td>*<a>Finland</a></td><td>5 200 000</td><td>Helsinki</td></tr><tr><td><a>Greenland</a>(Denmark)</td><td>56 854</td><td>Nuuk (Godthab, Godthåb)</td></tr><tr><td>+<a>Iceland</a></td><td>300 000</td><td>Reykjavik</td></tr><tr><td>*<a>Ireland</a></td><td>4 100 000</td><td>Dublin (City)</td></tr><tr><td>*<a>Latvia</a></td><td>2 300 000</td><td>Riga</td></tr><tr><td>*<a>Lithuania</a></td><td>3 400 000</td><td>Vilnius</td></tr><tr><td><a>Northern Ireland</a>(UK)</td><td>1 690 000</td><td>Belfast</td></tr><tr><td>+<a>Norway</a></td><td>4 600 000</td><td>Oslo</td></tr><tr><td><a>Scotland</a></td><td>5 200 000</td><td>Edinburgh</td></tr><tr><td>*<a>Sweden</a></td><td>9 000 000</td><td>Stockholm</td></tr><tr><td>*<a>United Kingdom</a></td><td>59 700 000</td><td>London</td></tr><tr><td><a>Wales</a>(UK)</td><td>2 750 000</td><td>Cardiff</td></tr></table>]]>
+</htmlSnippet>
+</entity>

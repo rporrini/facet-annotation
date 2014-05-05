@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r12/d/e/m/Democrats_66.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 0 2, 0.06666667 0 1, 0.04444445 1, 0.041666668 2, 0.008333334 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/e/m/Democrats_66.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province</th>]]></html>
+	<text>Province</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Votes (%)</th>]]></html>
+	<text>Votes (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Seats</th>]]></html>
+	<text>Seats</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utrecht</td>]]></html>
+	<text>Utrecht</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.0%</td>]]></html>
+	<text>4.0%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Holland</td>]]></html>
+	<text>North Holland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.8%</td>]]></html>
+	<text>3.8%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Holland</td>]]></html>
+	<text>South Holland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6%</td>]]></html>
+	<text>2.6%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Groningen</td>]]></html>
+	<text>Groningen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6%</td>]]></html>
+	<text>2.6%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gelderland</td>]]></html>
+	<text>Gelderland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.3%</td>]]></html>
+	<text>2.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Limburg</td>]]></html>
+	<text>Limburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.3%</td>]]></html>
+	<text>2.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Brabant</td>]]></html>
+	<text>North Brabant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1%</td>]]></html>
+	<text>2.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Flevoland</td>]]></html>
+	<text>Flevoland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1%</td>]]></html>
+	<text>2.1%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Drenthe</td>]]></html>
+	<text>Drenthe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.9%</td>]]></html>
+	<text>1.9%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Overijssel</td>]]></html>
+	<text>Overijssel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6%</td>]]></html>
+	<text>1.6%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Friesland</td>]]></html>
+	<text>Friesland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3%</td>]]></html>
+	<text>1.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zeeland</td>]]></html>
+	<text>Zeeland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3%</td>]]></html>
+	<text>1.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Democrats 66 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province Votes (%) Seats</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>In the figure below one can see the election results of the provincial elections of March 2007 per province. It shows the areas where D66 is strong, namely the urbanised provinces such as Utrecht and North Holland. The party is weaker in rural provinces like Friesland and Zeeland.</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>Democrats 66</text>
+</context>
+<context>
+	<score>0.78378594</score>
+	<text>Two of the twelve Queen&apos;s commissioners (of Flevoland and Utrecht ) are members of D66. The party cooperates in one provincial executive ( North Holland ). It has nine members of provincial legislatives .</text>
+</context>
+<context>
+	<score>0.75241333</score>
+	<text>[ edit ] Municipal government</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] Ideology and issues</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] Representation</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] Electorate</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] Organization</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] International Comparison</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7178652</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70621014</score>
+	<text>[ edit ] Provincial government</text>
+</context>
+<context>
+	<score>0.6441495</score>
+	<text>[ edit ] Municipal and Provincial Government</text>
+</context>
+<context>
+	<score>0.6056166</score>
+	<text>26 of the 414 mayors of the Netherlands are member of D66. The party cooperates in several local executives and has 30 aldermen . It cooperates in the Leiden local executive. It has 144 members of local legislatives and 16 members of burough legislatives . Fourteen of the burough councillors were elected in Amsterdam, and only two in Rotterdam.</text>
+</context>
+<context>
+	<score>0.5945011</score>
+	<text>The D66 delegation is part of the Alliance of Liberals and Democrats for Europe .</text>
+</context>
+<context>
+	<score>0.5547823</score>
+	<text>Sophie in &apos;t Veld , fractievoorzitter .</text>
+</context>
+<context>
+	<score>0.5230073</score>
+	<text>After the 2004 European Parliament elections the party has one representative in the European Parliament :</text>
+</context>
+<context>
+	<score>0.51926565</score>
+	<text>[ edit ] Electorate</text>
+</context>
+<context>
+	<score>0.4975872</score>
+	<text>[ edit ] Members of the European Parliament</text>
+</context>
+<context>
+	<score>0.47725117</score>
+	<text>Gerard Schouw, fractievoorzitter Hans Engels</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>D66 election posters.</text>
+</context>
+<context>
+	<score>0.46098235</score>
+	<text>After the 2007 Upper House elections the party has two representatives in the First Chamber of Parliament , the Dutch Upper House :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" border="1" cellspacing="0" cellpadding="5"><tr bgcolor="#CCCCCC"><th><b>Province</b></th><th><b>Votes (%)</b></th><th><b>Seats</b></th></tr><tr><td><a href="../../../../articles/u/t/r/Utrecht_%28province%29.html" title="Utrecht (province)">Utrecht</a></td><td>4.0%</td><td>2</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Holland_f179.html" title="North Holland">North Holland</a></td><td>3.8%</td><td>2</td></tr><tr><td><a href="../../../../articles/s/o/u/South_Holland_8dc5.html" title="South Holland">South Holland</a></td><td>2.6%</td><td>1</td></tr><tr><td><a href="../../../../articles/g/r/o/Groningen_%28province%29.html" title="Groningen (province)">Groningen</a></td><td>2.6%</td><td>1</td></tr><tr><td><a href="../../../../articles/g/e/l/Gelderland.html" title="Gelderland">Gelderland</a></td><td>2.3%</td><td>1</td></tr><tr><td><a href="../../../../articles/l/i/m/Limburg_%28Netherlands%29_0066.html" title="Limburg (Netherlands)">Limburg</a></td><td>2.3%</td><td>1</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Brabant_49b9.html" title="North Brabant">North Brabant</a></td><td>2.1%</td><td>1</td></tr><tr><td><a href="../../../../articles/f/l/e/Flevoland.html" title="Flevoland">Flevoland</a></td><td>2.1%</td><td>0</td></tr><tr><td><a href="../../../../articles/d/r/e/Drenthe.html" title="Drenthe">Drenthe</a></td><td>1.9%</td><td>0</td></tr><tr><td><a href="../../../../articles/o/v/e/Overijssel.html" title="Overijssel">Overijssel</a></td><td>1.6%</td><td>0</td></tr><tr><td><a href="../../../../articles/f/r/i/Friesland.html" title="Friesland">Friesland</a></td><td>1.3%</td><td>0</td></tr><tr><td><a href="../../../../articles/z/e/e/Zeeland.html" title="Zeeland">Zeeland</a></td><td>1.3%</td><td>0</td></tr></table>]]>
+</htmlSnippet>
+</entity>

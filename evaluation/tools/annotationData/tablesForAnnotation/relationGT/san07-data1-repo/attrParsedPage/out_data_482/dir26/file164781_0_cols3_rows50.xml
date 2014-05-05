@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san07-data1-repo/attrParsedPage/out_data_482/dir26/file164781_0_cols3_rows50.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="url" value="http://www.worldworx.tv/usa/dc/information/states.htm" />
+<meta name="parentHTMLDoc" value="san07-data1-repo/attrParsedPage/out_data_482/file164781" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>Name</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><b><font>STATE</font></b></td>]]></html>
+	<text>STATE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b><font>CAPITAL CITY</font></b></td>]]></html>
+	<text>CAPITAL CITY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><b><font>STATE NICKNAME</font></b></td>]]></html>
+	<text>STATE NICKNAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Alabama</font></td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Montgomery</font></td>]]></html>
+	<text>Montgomery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Camellia State</font></td>]]></html>
+	<text>Camellia State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Alaska</font></td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Juneau</font></td>]]></html>
+	<text>Juneau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>The Last Frontier</font></td>]]></html>
+	<text>The Last Frontier</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Arizona</font></td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Phoenix</font></td>]]></html>
+	<text>Phoenix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Grand Canyon State</font></td>]]></html>
+	<text>Grand Canyon State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Arkansas</font></td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Little Rock</font></td>]]></html>
+	<text>Little Rock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Natural State</font></td>]]></html>
+	<text>Natural State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>California</font></td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sacramento</font></td>]]></html>
+	<text>Sacramento</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Golden State</font></td>]]></html>
+	<text>Golden State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Colorado</font></td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Denver</font></td>]]></html>
+	<text>Denver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Centennial State</font></td>]]></html>
+	<text>Centennial State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Connecticut</font></td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hartford</font></td>]]></html>
+	<text>Hartford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Constitution State</font></td>]]></html>
+	<text>Constitution State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Delaware</font></td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Dover</font></td>]]></html>
+	<text>Dover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Diamond State</font></td>]]></html>
+	<text>Diamond State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Florida</font></td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Tallahassee</font></td>]]></html>
+	<text>Tallahassee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sunshine State</font></td>]]></html>
+	<text>Sunshine State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Georgia</font></td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Atlanta</font></td>]]></html>
+	<text>Atlanta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Peach State</font></td>]]></html>
+	<text>Peach State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Hawaii</font></td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Honolulu</font></td>]]></html>
+	<text>Honolulu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Aloha State</font></td>]]></html>
+	<text>Aloha State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Idaho</font></td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Boise</font></td>]]></html>
+	<text>Boise</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Spud State</font></td>]]></html>
+	<text>Spud State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Illinois</font></td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Springfield</font></td>]]></html>
+	<text>Springfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Prairie State</font></td>]]></html>
+	<text>Prairie State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Indiana</font></td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Indianapolis</font></td>]]></html>
+	<text>Indianapolis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hoosier State</font></td>]]></html>
+	<text>Hoosier State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Iowa</font></td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Des Moines</font></td>]]></html>
+	<text>Des Moines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Hawkeye State</font></td>]]></html>
+	<text>Hawkeye State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Kansas</font></td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Topeka</font></td>]]></html>
+	<text>Topeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sunflower State</font></td>]]></html>
+	<text>Sunflower State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Kentucky</font></td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Frankfort</font></td>]]></html>
+	<text>Frankfort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bluegrass State</font></td>]]></html>
+	<text>Bluegrass State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Louisiana</font></td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Baton Rouge</font></td>]]></html>
+	<text>Baton Rouge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Pelican State</font></td>]]></html>
+	<text>Pelican State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Maine</font></td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Augusta</font></td>]]></html>
+	<text>Augusta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Pine Tree State</font></td>]]></html>
+	<text>Pine Tree State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Maryland</font></td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Annapolis</font></td>]]></html>
+	<text>Annapolis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Old Line State</font></td>]]></html>
+	<text>Old Line State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Massachusetts</font></td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Boston</font></td>]]></html>
+	<text>Boston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bay State</font></td>]]></html>
+	<text>Bay State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Michigan</font></td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lansing</font></td>]]></html>
+	<text>Lansing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Great Lakes State</font></td>]]></html>
+	<text>Great Lakes State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Minnesota</font></td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>St Paul</font></td>]]></html>
+	<text>St Paul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Gopher State</font></td>]]></html>
+	<text>Gopher State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Mississippi</font></td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jackson</font></td>]]></html>
+	<text>Jackson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Magnolia State</font></td>]]></html>
+	<text>Magnolia State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Missouri</font></td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Jefferson City</font></td>]]></html>
+	<text>Jefferson City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Show Me State</font></td>]]></html>
+	<text>Show Me State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Montana</font></td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Helena</font></td>]]></html>
+	<text>Helena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Treasure State</font></td>]]></html>
+	<text>Treasure State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Nebraska</font></td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lincoln</font></td>]]></html>
+	<text>Lincoln</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Cornhusker State</font></td>]]></html>
+	<text>Cornhusker State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Nevada</font></td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Carson City</font></td>]]></html>
+	<text>Carson City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Silver State</font></td>]]></html>
+	<text>Silver State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>New Hampshire</font></td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Concord</font></td>]]></html>
+	<text>Concord</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Granite State</font></td>]]></html>
+	<text>Granite State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>New Jersey</font></td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Trenton</font></td>]]></html>
+	<text>Trenton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Garden State</font></td>]]></html>
+	<text>Garden State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>New Mexico</font></td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Santa Fe</font></td>]]></html>
+	<text>Santa Fe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Land Of Enchantment</font></td>]]></html>
+	<text>Land Of Enchantment</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>New York</font></td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Albany</font></td>]]></html>
+	<text>Albany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Empire State</font></td>]]></html>
+	<text>Empire State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>North Carolina</font></td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Raleigh</font></td>]]></html>
+	<text>Raleigh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Tar Heel State</font></td>]]></html>
+	<text>Tar Heel State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>North Dakota</font></td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Bismarck</font></td>]]></html>
+	<text>Bismarck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Roughrider State</font></td>]]></html>
+	<text>Roughrider State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Ohio</font></td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Columbus</font></td>]]></html>
+	<text>Columbus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Buckeye State</font></td>]]></html>
+	<text>Buckeye State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Oklahoma</font></td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Oklahoma City</font></td>]]></html>
+	<text>Oklahoma City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Sooner State</font></td>]]></html>
+	<text>Sooner State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Oregon</font></td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Salem</font></td>]]></html>
+	<text>Salem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Beaver State</font></td>]]></html>
+	<text>Beaver State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Pennsylvania</font></td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Harrisburg</font></td>]]></html>
+	<text>Harrisburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Quaker State</font></td>]]></html>
+	<text>Quaker State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Rhode Island</font></td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Providence</font></td>]]></html>
+	<text>Providence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Ocean State</font></td>]]></html>
+	<text>Ocean State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>South Carolina</font></td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Columbia</font></td>]]></html>
+	<text>Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Palmetto State</font></td>]]></html>
+	<text>Palmetto State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>South Dakota</font></td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Pierre</font></td>]]></html>
+	<text>Pierre</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mount Rushmore State</font></td>]]></html>
+	<text>Mount Rushmore State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Tennessee</font></td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Nashville</font></td>]]></html>
+	<text>Nashville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Volunteer State</font></td>]]></html>
+	<text>Volunteer State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Texas</font></td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Austin</font></td>]]></html>
+	<text>Austin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Lone Star State</font></td>]]></html>
+	<text>Lone Star State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Utah</font></td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Salt Lake City</font></td>]]></html>
+	<text>Salt Lake City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mormon State</font></td>]]></html>
+	<text>Mormon State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Vermont</font></td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Montpelier</font></td>]]></html>
+	<text>Montpelier</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Green Mountain State</font></td>]]></html>
+	<text>Green Mountain State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Virginia</font></td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Richmond</font></td>]]></html>
+	<text>Richmond</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>The Old Dominion State</font></td>]]></html>
+	<text>The Old Dominion State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Washington</font></td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Olympia</font></td>]]></html>
+	<text>Olympia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Chinook State</font></td>]]></html>
+	<text>Chinook State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>West Virginia</font></td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Charleston</font></td>]]></html>
+	<text>Charleston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Mountain State</font></td>]]></html>
+	<text>Mountain State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Wisconsin</font></td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Madison</font></td>]]></html>
+	<text>Madison</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Badger State</font></td>]]></html>
+	<text>Badger State</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font>Wyoming</font></td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Cheyenne</font></td>]]></html>
+	<text>Cheyenne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font>Cowboy State</font></td>]]></html>
+	<text>Cowboy State</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>STATE CAPITAL CITY STATE NICKNAME</text>
+</context>
+<context>
+	<score>0.8103237</score>
+	<text>Features: United States of America: Information: States</text>
+</context>
+<context>
+	<score>0.6585826</score>
+	<text>Worldworx Travel &gt; Features &gt; United States of America &gt; Information &gt; States</text>
+</context>
+<context>
+	<score>0.6094899</score>
+	<text>---- Information | United States of America | Features | Home ----</text>
+</context>
+<context>
+	<score>0.5371898</score>
+	<text>END</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><b><font>STATE</font></b></td><td><b><font>CAPITAL CITY</font></b></td><td><b><font>STATE NICKNAME</font></b></td></tr><tr><td><font>Alabama</font></td><td><font>Montgomery</font></td><td><font>Camellia State</font></td></tr><tr><td><font>Alaska</font></td><td><font>Juneau</font></td><td><font>The Last Frontier</font></td></tr><tr><td><font>Arizona</font></td><td><font>Phoenix</font></td><td><font>Grand Canyon State</font></td></tr><tr><td><font>Arkansas</font></td><td><font>Little Rock</font></td><td><font>Natural State</font></td></tr><tr><td><font>California</font></td><td><font>Sacramento</font></td><td><font>Golden State</font></td></tr><tr><td><font>Colorado</font></td><td><font>Denver</font></td><td><font>Centennial State</font></td></tr><tr><td><font>Connecticut</font></td><td><font>Hartford</font></td><td><font>Constitution State</font></td></tr><tr><td><font>Delaware</font></td><td><font>Dover</font></td><td><font>Diamond State</font></td></tr><tr><td><font>Florida</font></td><td><font>Tallahassee</font></td><td><font>Sunshine State</font></td></tr><tr><td><font>Georgia</font></td><td><font>Atlanta</font></td><td><font>Peach State</font></td></tr><tr><td><font>Hawaii</font></td><td><font>Honolulu</font></td><td><font>Aloha State</font></td></tr><tr><td><font>Idaho</font></td><td><font>Boise</font></td><td><font>Spud State</font></td></tr><tr><td><font>Illinois</font></td><td><font>Springfield</font></td><td><font>Prairie State</font></td></tr><tr><td><font>Indiana</font></td><td><font>Indianapolis</font></td><td><font>Hoosier State</font></td></tr><tr><td><font>Iowa</font></td><td><font>Des Moines</font></td><td><font>Hawkeye State</font></td></tr><tr><td><font>Kansas</font></td><td><font>Topeka</font></td><td><font>Sunflower State</font></td></tr><tr><td><font>Kentucky</font></td><td><font>Frankfort</font></td><td><font>Bluegrass State</font></td></tr><tr><td><font>Louisiana</font></td><td><font>Baton Rouge</font></td><td><font>Pelican State</font></td></tr><tr><td><font>Maine</font></td><td><font>Augusta</font></td><td><font>Pine Tree State</font></td></tr><tr><td><font>Maryland</font></td><td><font>Annapolis</font></td><td><font>Old Line State</font></td></tr><tr><td><font>Massachusetts</font></td><td><font>Boston</font></td><td><font>Bay State</font></td></tr><tr><td><font>Michigan</font></td><td><font>Lansing</font></td><td><font>Great Lakes State</font></td></tr><tr><td><font>Minnesota</font></td><td><font>St Paul</font></td><td><font>Gopher State</font></td></tr><tr><td><font>Mississippi</font></td><td><font>Jackson</font></td><td><font>Magnolia State</font></td></tr><tr><td><font>Missouri</font></td><td><font>Jefferson City</font></td><td><font>Show Me State</font></td></tr><tr><td><font>Montana</font></td><td><font>Helena</font></td><td><font>Treasure State</font></td></tr><tr><td><font>Nebraska</font></td><td><font>Lincoln</font></td><td><font>Cornhusker State</font></td></tr><tr><td><font>Nevada</font></td><td><font>Carson City</font></td><td><font>Silver State</font></td></tr><tr><td><font>New Hampshire</font></td><td><font>Concord</font></td><td><font>Granite State</font></td></tr><tr><td><font>New Jersey</font></td><td><font>Trenton</font></td><td><font>Garden State</font></td></tr><tr><td><font>New Mexico</font></td><td><font>Santa Fe</font></td><td><font>Land Of Enchantment</font></td></tr><tr><td><font>New York</font></td><td><font>Albany</font></td><td><font>Empire State</font></td></tr><tr><td><font>North Carolina</font></td><td><font>Raleigh</font></td><td><font>Tar Heel State</font></td></tr><tr><td><font>North Dakota</font></td><td><font>Bismarck</font></td><td><font>Roughrider State</font></td></tr><tr><td><font>Ohio</font></td><td><font>Columbus</font></td><td><font>Buckeye State</font></td></tr><tr><td><font>Oklahoma</font></td><td><font>Oklahoma City</font></td><td><font>Sooner State</font></td></tr><tr><td><font>Oregon</font></td><td><font>Salem</font></td><td><font>Beaver State</font></td></tr><tr><td><font>Pennsylvania</font></td><td><font>Harrisburg</font></td><td><font>Quaker State</font></td></tr><tr><td><font>Rhode Island</font></td><td><font>Providence</font></td><td><font>Ocean State</font></td></tr><tr><td><font>South Carolina</font></td><td><font>Columbia</font></td><td><font>Palmetto State</font></td></tr><tr><td><font>South Dakota</font></td><td><font>Pierre</font></td><td><font>Mount Rushmore State</font></td></tr><tr><td><font>Tennessee</font></td><td><font>Nashville</font></td><td><font>Volunteer State</font></td></tr><tr><td><font>Texas</font></td><td><font>Austin</font></td><td><font>Lone Star State</font></td></tr><tr><td><font>Utah</font></td><td><font>Salt Lake City</font></td><td><font>Mormon State</font></td></tr><tr><td><font>Vermont</font></td><td><font>Montpelier</font></td><td><font>Green Mountain State</font></td></tr><tr><td><font>Virginia</font></td><td><font>Richmond</font></td><td><font>The Old Dominion State</font></td></tr><tr><td><font>Washington</font></td><td><font>Olympia</font></td><td><font>Chinook State</font></td></tr><tr><td><font>West Virginia</font></td><td><font>Charleston</font></td><td><font>Mountain State</font></td></tr><tr><td><font>Wisconsin</font></td><td><font>Madison</font></td><td><font>Badger State</font></td></tr><tr><td><font>Wyoming</font></td><td><font>Cheyenne</font></td><td><font>Cowboy State</font></td></tr></table>]]>
+</htmlSnippet>
+</entity>

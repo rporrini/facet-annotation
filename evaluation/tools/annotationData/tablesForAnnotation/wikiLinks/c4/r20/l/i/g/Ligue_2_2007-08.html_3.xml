@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r20/l/i/g/Ligue_2_2007-08.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 0 2, 0.1425 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/g/Ligue_2_2007-08.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Avg. Attendance</th>]]></html>
+	<text>Avg. Attendance</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AC Ajaccio</td>]]></html>
+	<text>AC Ajaccio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade François Coty</td>]]></html>
+	<text>Stade Fran&#231;ois Coty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,000</td>]]></html>
+	<text>12,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,219</td>]]></html>
+	<text>2,219</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amiens SC</td>]]></html>
+	<text>Amiens SC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade de la Licorne</td>]]></html>
+	<text>Stade de la Licorne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,097</td>]]></html>
+	<text>12,097</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,942</td>]]></html>
+	<text>8,942</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Angers SCO</td>]]></html>
+	<text>Angers SCO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Jean Bouin</td>]]></html>
+	<text>Stade Jean Bouin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,000</td>]]></html>
+	<text>17,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,120</td>]]></html>
+	<text>6,120</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SC Bastia</td>]]></html>
+	<text>SC Bastia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Armand Cesari</td>]]></html>
+	<text>Stade Armand Cesari</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,000</td>]]></html>
+	<text>12,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,936</td>]]></html>
+	<text>2,936</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>US Boulogne</td>]]></html>
+	<text>US Boulogne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade de la Libération</td>]]></html>
+	<text>Stade de la Lib&#233;ration</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,300</td>]]></html>
+	<text>7,300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,950</td>]]></html>
+	<text>4,950</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stade Brest 29</td>]]></html>
+	<text>Stade Brest 29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Francis-Le Blé</td>]]></html>
+	<text>Stade Francis-Le Bl&#233;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,189</td>]]></html>
+	<text>10,189</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,389</td>]]></html>
+	<text>5,389</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LB Châteauroux</td>]]></html>
+	<text>LB Ch&#226;teauroux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Gaston Petit</td>]]></html>
+	<text>Stade Gaston Petit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17,173</td>]]></html>
+	<text>17,173</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,750</td>]]></html>
+	<text>5,750</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clermont Foot</td>]]></html>
+	<text>Clermont Foot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Gabriel Montpied</td>]]></html>
+	<text>Stade Gabriel Montpied</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,363</td>]]></html>
+	<text>10,363</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,225</td>]]></html>
+	<text>5,225</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dijon FCO</td>]]></html>
+	<text>Dijon FCO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Gaston Gérard</td>]]></html>
+	<text>Stade Gaston G&#233;rard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,900</td>]]></html>
+	<text>7,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,787</td>]]></html>
+	<text>4,787</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grenoble Foot 38</td>]]></html>
+	<text>Grenoble Foot 38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade des Alpes</td>]]></html>
+	<text>Stade des Alpes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,000</td>]]></html>
+	<text>20,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,430</td>]]></html>
+	<text>6,430</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>FC Gueugnon</td>]]></html>
+	<text>FC Gueugnon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Jean Laville</td>]]></html>
+	<text>Stade Jean Laville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,827</td>]]></html>
+	<text>13,827</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,880</td>]]></html>
+	<text>2,880</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>En Avant Guingamp</td>]]></html>
+	<text>En Avant Guingamp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade du Roudourou</td>]]></html>
+	<text>Stade du Roudourou</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,126</td>]]></html>
+	<text>18,126</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,549</td>]]></html>
+	<text>8,549</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Le Havre AC</td>]]></html>
+	<text>Le Havre AC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Jules Deschaseaux</td>]]></html>
+	<text>Stade Jules Deschaseaux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16,454</td>]]></html>
+	<text>16,454</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,781</td>]]></html>
+	<text>10,781</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>FC Libourne-Saint-Seurin</td>]]></html>
+	<text>FC Libourne-Saint-Seurin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Jean-Antoine Moueix</td>]]></html>
+	<text>Stade Jean-Antoine Moueix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,370</td>]]></html>
+	<text>2,370</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montpellier HSC</td>]]></html>
+	<text>Montpellier HSC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade de la Mosson</td>]]></html>
+	<text>Stade de la Mosson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,900</td>]]></html>
+	<text>32,900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,919</td>]]></html>
+	<text>6,919</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>FC Nantes</td>]]></html>
+	<text>FC Nantes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade de la Beaujoire</td>]]></html>
+	<text>Stade de la Beaujoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,285</td>]]></html>
+	<text>32,285</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24,258</td>]]></html>
+	<text>24,258</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chamois Niortais FC</td>]]></html>
+	<text>Chamois Niortais FC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade René Gaillard</td>]]></html>
+	<text>Stade Ren&#233; Gaillard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,988</td>]]></html>
+	<text>10,988</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,998</td>]]></html>
+	<text>4,998</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stade Reims</td>]]></html>
+	<text>Stade Reims</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Auguste Delaune</td>]]></html>
+	<text>Stade Auguste Delaune</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25,000</td>]]></html>
+	<text>25,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,537</td>]]></html>
+	<text>6,537</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CS Sedan Ardennes</td>]]></html>
+	<text>CS Sedan Ardennes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade Louis Dugauguez</td>]]></html>
+	<text>Stade Louis Dugauguez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,189</td>]]></html>
+	<text>23,189</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,073</td>]]></html>
+	<text>10,073</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Troyes AC</td>]]></html>
+	<text>Troyes AC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stade de l'Aube</td>]]></html>
+	<text>Stade de l&amp;apos;Aube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21,877</td>]]></html>
+	<text>21,877</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,769</td>]]></html>
+	<text>9,769</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Ligue 2 2007-08 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Stadium Capacity Avg. Attendance</text>
+</context>
+<context>
+	<score>0.8839855</score>
+	<text>Last updated February 10 , 2008</text>
+</context>
+<context>
+	<score>0.8292547</score>
+	<text>1. SC Bastia have been deducted one point by the Discipline Commission following an incident away to FC Libourne-Saint-Seurin on September 14 , 2007 .</text>
+</context>
+<context>
+	<score>0.7955447</score>
+	<text>Ligue 2 2007-08</text>
+</context>
+<context>
+	<score>0.78699327</score>
+	<text>[ edit ] Stadia</text>
+</context>
+<context>
+	<score>0.7556134</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] 20 participating teams</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] League Table</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] Top goalscorers</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] Managers</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] Stadia</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7231767</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7179508</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70939946</score>
+	<text>[ edit ] Managers</text>
+</context>
+<context>
+	<score>0.6473243</score>
+	<text>The top goalscorer was awarded to Le Havre AC &apos;s Guillaume Hoarau finishing with a stunning 28 goals averaging a goal per 118 minutes.</text>
+</context>
+<context>
+	<score>0.60878253</score>
+	<text>^ The Ligue 2 season</text>
+</context>
+<context>
+	<score>0.5976643</score>
+	<text>Last updated May 16 , 2008</text>
+</context>
+<context>
+	<score>0.5579363</score>
+	<text>[ edit ] Top goalscorers</text>
+</context>
+<context>
+	<score>0.5224114</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.49550205</score>
+	<text>Pld = Matches played; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; GD = Goal difference; Pts = Points</text>
+</context>
+<context>
+	<score>0.48038718</score>
+	<text>Last updated May 16 , 2008</text>
+</context>
+<context>
+	<score>0.46411458</score>
+	<text>[ edit ] League Table</text>
+</context>
+<context>
+	<score>0.45109648</score>
+	<text>[ edit ] 20 participating teams</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Team</th><th>Stadium</th><th>Capacity</th><th>Avg. Attendance</th></tr><tr><td>AC Ajaccio</td><td><a href="../../../../articles/s/t/a/Stade_Fran%C3%A7ois_Coty_855c.html" title="Stade François Coty">Stade François Coty</a></td><td align="center">12,000</td><td align="center">2,219</td></tr><tr><td>Amiens SC</td><td><a href="../../../../articles/s/t/a/Stade_de_la_Licorne_23c2.html" title="Stade de la Licorne">Stade de la Licorne</a></td><td align="center">12,097</td><td align="center">8,942</td></tr><tr><td>Angers SCO</td><td><a href="../../../../articles/j/e/a/Jean-Bouin_Stadium%2C_Angers_efeb.html" title="Jean-Bouin Stadium, Angers">Stade Jean Bouin</a></td><td align="center">17,000</td><td align="center">6,120</td></tr><tr><td>SC Bastia</td><td><a href="../../../../articles/s/t/a/Stade_Armand_Cesari_7dea.html" title="Stade Armand Cesari">Stade Armand Cesari</a></td><td align="center">12,000</td><td align="center">2,936</td></tr><tr><td>US Boulogne</td><td><a href="../../../../articles/s/t/a/Stade_de_la_Lib%C3%A9ration_b6da.html" title="Stade de la Libération">Stade de la Libération</a></td><td align="center">7,300</td><td align="center">4,950</td></tr><tr><td>Stade Brest 29</td><td><a href="../../../../articles/s/t/a/Stade_Francis-Le_Bl%C3%A9_8848.html" title="Stade Francis-Le Blé">Stade Francis-Le Blé</a></td><td align="center">10,189</td><td align="center">5,389</td></tr><tr><td>LB Châteauroux</td><td><a href="../../../../articles/s/t/a/Stade_Gaston_Petit_144e.html" title="Stade Gaston Petit">Stade Gaston Petit</a></td><td align="center">17,173</td><td align="center">5,750</td></tr><tr><td>Clermont Foot</td><td><a href="../../../../articles/s/t/a/Stade_Gabriel_Montpied_c902.html" title="Stade Gabriel Montpied">Stade Gabriel Montpied</a></td><td align="center">10,363</td><td align="center">5,225</td></tr><tr><td>Dijon FCO</td><td><a href="../../../../articles/s/t/a/Stade_Gaston_G%C3%A9rard_7d1c.html" title="Stade Gaston Gérard">Stade Gaston Gérard</a></td><td align="center">7,900</td><td align="center">4,787</td></tr><tr><td>Grenoble Foot 38</td><td><a href="../../../../articles/s/t/a/Stade_des_Alpes_20fd.html" title="Stade des Alpes">Stade des Alpes</a></td><td align="center">20,000</td><td align="center">6,430</td></tr><tr><td>FC Gueugnon</td><td><a href="../../../../articles/s/t/a/Stade_Jean_Laville_960c.html" title="Stade Jean Laville">Stade Jean Laville</a></td><td align="center">13,827</td><td align="center">2,880</td></tr><tr><td>En Avant Guingamp</td><td><a href="../../../../articles/s/t/a/Stade_du_Roudourou_b613.html" title="Stade du Roudourou">Stade du Roudourou</a></td><td align="center">18,126</td><td align="center">8,549</td></tr><tr><td>Le Havre AC</td><td><a href="../../../../articles/s/t/a/Stade_Jules_Deschaseaux_d279.html" title="Stade Jules Deschaseaux">Stade Jules Deschaseaux</a></td><td align="center">16,454</td><td align="center">10,781</td></tr><tr><td>FC Libourne-Saint-Seurin</td><td><a href="../../../../articles/s/t/a/Stade_Jean-Antoine_Moueix_2da1.html" title="Stade Jean-Antoine Moueix">Stade Jean-Antoine Moueix</a></td><td align="center">8,000</td><td align="center">2,370</td></tr><tr><td>Montpellier HSC</td><td><a href="../../../../articles/s/t/a/Stade_de_la_Mosson_0c97.html" title="Stade de la Mosson">Stade de la Mosson</a></td><td align="center">32,900</td><td align="center">6,919</td></tr><tr><td>FC Nantes</td><td><a href="../../../../articles/s/t/a/Stade_de_la_Beaujoire_396d.html" title="Stade de la Beaujoire">Stade de la Beaujoire</a></td><td align="center">32,285</td><td align="center">24,258</td></tr><tr><td>Chamois Niortais FC</td><td><a href="../../../../articles/s/t/a/Stade_Ren%C3%A9_Gaillard_e80c.html" title="Stade René Gaillard">Stade René Gaillard</a></td><td align="center">10,988</td><td align="center">4,998</td></tr><tr><td>Stade Reims</td><td><a href="../../../../articles/s/t/a/Stade_Auguste_Delaune_ff2c.html" title="Stade Auguste Delaune">Stade Auguste Delaune</a></td><td align="center">25,000</td><td align="center">6,537</td></tr><tr><td>CS Sedan Ardennes</td><td><a href="../../../../articles/s/t/a/Stade_Louis_Dugauguez_fa1b.html" title="Stade Louis Dugauguez">Stade Louis Dugauguez</a></td><td align="center">23,189</td><td align="center">10,073</td></tr><tr><td>Troyes AC</td><td><a href="../../../../articles/s/t/a/Stade_de_l%27Aube_76ad.html" title="Stade de l'Aube">Stade de l'Aube</a></td><td align="center">21,877</td><td align="center">9,769</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/s/p/r/Spread_of_the_printing_press.html_7.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.75 2, 0.15 0, 0.15 0 1, 0.13125001 0 2, 0.0625 1 3, 0.046875 2 3, 0.017857144 3, 0.009375 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/p/r/Spread_of_the_printing_press.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Printer</th>]]></html>
+	<text>Printer</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comment</th>]]></html>
+	<text>Comment</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1473 [18]</td>]]></html>
+	<text>1473 [18]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aalst</td>]]></html>
+	<text>Aalst</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dirk Martens</td>]]></html>
+	<text>Dirk Martens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1474</td>]]></html>
+	<text>1474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leuven</td>]]></html>
+	<text>Leuven</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Johann von Westphalen</td>]]></html>
+	<text>Johann von Westphalen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1475</td>]]></html>
+	<text>1475</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bruges</td>]]></html>
+	<text>Bruges</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colard Mansion</td>]]></html>
+	<text>Colard Mansion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Worked with, and (?) trained William Caxton , printing the first books in English ( Recuyell of the Historyes of Troye ) and also French, as well as the first book to use engravings for illustrations.</td>]]></html>
+	<text>Worked with, and (?) trained William Caxton , printing the first books in English ( Recuyell of the Historyes of Troye ) and also French, as well as the first book to use engravings for illustrations.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1476</td>]]></html>
+	<text>1476</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brussels</td>]]></html>
+	<text>Brussels</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1480</td>]]></html>
+	<text>1480</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oudenaarde</td>]]></html>
+	<text>Oudenaarde</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arend De Keysere</td>]]></html>
+	<text>Arend De Keysere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1482</td>]]></html>
+	<text>1482</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Antwerp</td>]]></html>
+	<text>Antwerp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Matt. Van der Goes</td>]]></html>
+	<text>Matt. Van der Goes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1483</td>]]></html>
+	<text>1483</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ghent</td>]]></html>
+	<text>Ghent</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arend De Keysere</td>]]></html>
+	<text>Arend De Keysere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Spread of the printing press - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Date City Printer Comment</text>
+</context>
+<context>
+	<score>0.8809219</score>
+	<text>[ edit ] Belgium</text>
+</context>
+<context>
+	<score>0.79696965</score>
+	<text>Spread of the printing press</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>In the 16th century, a total of 20 print shops were active in 30 different places in Hungary, as some of them were moving several times due to political instability.</text>
+</context>
+<context>
+	<score>0.7525797</score>
+	<text>[ edit ] Poland</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] Spread of the printing press</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] Dates by location</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72152793</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71939397</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70637643</score>
+	<text>[ edit ] Hungary</text>
+</context>
+<context>
+	<score>0.64431584</score>
+	<text>[ edit ] Spain</text>
+</context>
+<context>
+	<score>0.605783</score>
+	<text>In the 15th and 16th century printing presses were also established in Posen , Vilnius , Lemberg and Brest-Litowsk .</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>In 1481, printing was already done in 21 towns and cities.</text>
+</context>
+<context>
+	<score>0.55494857</score>
+	<text>[ edit ] The Netherlands</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Apart from the cities above, there was a small number of lesser towns which set up printing presses.</text>
+</context>
+<context>
+	<score>0.51943195</score>
+	<text>[ edit ] England</text>
+</context>
+<context>
+	<score>0.49775347</score>
+	<text>[ edit ] France</text>
+</context>
+<context>
+	<score>0.47741747</score>
+	<text>[ edit ] Switzerland</text>
+</context>
+<context>
+	<score>0.46863726</score>
+	<text>[ edit ] Denmark</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>During these two centuries a total of 2894 printers were active in Italy, with only 216 of them located in southern Italy. Ca. 60% of the Italian printing shops were situated in six cities (Venice, Rome, Milan, Naples, Bologna and Florence), with the concentration of printers in Venice being particularly high (ca. 30%).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th width="08%">Date</th><th width="12%">City</th><th width="24%">Printer</th><th width="56%">Comment</th></tr><tr><td>1473 <sup id="cite_ref-17" class="reference"><a href="#cite_note-17" title="">[18]</a></sup></td><td><a href="../../../../articles/a/a/l/Aalst%2C_Belgium_5138.html" title="Aalst, Belgium">Aalst</a></td><td><a href="../../../../articles/d/i/r/Dirk_Martens_%28Theoderich_Maertens%29_8c57.html" class="mw-redirect" title="Dirk Martens (Theoderich Maertens)">Dirk Martens</a></td></tr><tr><td>1474</td><td><a href="../../../../articles/l/e/u/Leuven.html" title="Leuven">Leuven</a></td><td>Johann von Westphalen</td><td></td></tr><tr><td>1475</td><td><a href="../../../../articles/b/r/u/Bruges.html" title="Bruges">Bruges</a></td><td><a href="../../../../articles/c/o/l/Colard_Mansion_7ccd.html" title="Colard Mansion">Colard Mansion</a></td><td>Worked with, and (?) trained <a href="../../../../articles/w/i/l/William_Caxton_89d3.html" title="William Caxton">William Caxton</a>, printing the first books in English (<i><a href="../../../../articles/r/e/c/Recuyell_of_the_Historyes_of_Troye_5ab2.html" title="Recuyell of the Historyes of Troye">Recuyell of the Historyes of Troye</a></i>) and also French, as well as the first book to use <a href="../../../../articles/e/n/g/Engraving.html" title="Engraving">engravings</a> for illustrations.</td></tr><tr><td>1476</td><td><a href="../../../../articles/b/r/u/Brussels.html" title="Brussels">Brussels</a></td><td></td><td></td></tr><tr><td>1480</td><td><a href="../../../../articles/o/u/d/Oudenaarde.html" title="Oudenaarde">Oudenaarde</a></td><td><a href="../../../../articles/a/r/e/Arend_De_Keysere_f6ae.html" title="Arend De Keysere">Arend De Keysere</a></td><td></td></tr><tr><td>1482</td><td><a href="../../../../articles/a/n/t/Antwerp.html" title="Antwerp">Antwerp</a></td><td>Matt. Van der Goes</td><td></td></tr><tr><td>1483</td><td><a href="../../../../articles/g/h/e/Ghent.html" title="Ghent">Ghent</a></td><td><a href="../../../../articles/a/r/e/Arend_De_Keysere_f6ae.html" title="Arend De Keysere">Arend De Keysere</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

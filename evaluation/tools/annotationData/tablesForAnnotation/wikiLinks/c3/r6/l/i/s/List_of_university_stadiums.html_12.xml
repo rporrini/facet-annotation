@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_university_stadiums.html_12.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 0 2, 0.11111112 1 2, 0.11111111 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_university_stadiums.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Tulsa</td>]]></html>
+	<text>University of Tulsa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Skelly Field at H.A. Chapman Stadium</td>]]></html>
+	<text>Skelly Field at H.A. Chapman Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,542</td>]]></html>
+	<text>35,542</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Houston</td>]]></html>
+	<text>University of Houston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Robertson Stadium</td>]]></html>
+	<text>Robertson Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,000</td>]]></html>
+	<text>32,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Tulane</td>]]></html>
+	<text>University of Tulane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisiana Superdome</td>]]></html>
+	<text>Louisiana Superdome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72,968</td>]]></html>
+	<text>72,968</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rice University</td>]]></html>
+	<text>Rice University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rice Stadium</td>]]></html>
+	<text>Rice Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47,000</td>]]></html>
+	<text>47,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>UTEP</td>]]></html>
+	<text>UTEP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sun Bowl Stadium</td>]]></html>
+	<text>Sun Bowl Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51,500</td>]]></html>
+	<text>51,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Southern Methodist University</td>]]></html>
+	<text>Southern Methodist University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gerald J. Ford Stadium</td>]]></html>
+	<text>Gerald J. Ford Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32,000</td>]]></html>
+	<text>32,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of university stadiums - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Stadium Capacity</text>
+</context>
+<context>
+	<score>0.88185185</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.79032296</score>
+	<text>List of university stadiums</text>
+</context>
+<context>
+	<score>0.7846932</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.7532595</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Big 12</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Big 10</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Pac10</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Sun Belt</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] WAC</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Independent</text>
+</context>
+<context>
+	<score>0.71589625</score>
+	<text>[ edit ] Complete List of NCAA Stadiums</text>
+</context>
+<context>
+	<score>0.71259606</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7069662</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.6447846</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.6061767</score>
+	<text>[ edit ] Sun Belt</text>
+</context>
+<context>
+	<score>0.59503937</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.5552432</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.5234062</score>
+	<text>[ edit ] Coastal</text>
+</context>
+<context>
+	<score>0.5196573</score>
+	<text>[ edit ] WAC</text>
+</context>
+<context>
+	<score>0.49793664</score>
+	<text>[ edit ] Atlantic</text>
+</context>
+<context>
+	<score>0.47756097</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.46876365</score>
+	<text>[ edit ] Independent</text>
+</context>
+<context>
+	<score>0.46126044</score>
+	<text>[ edit ] BigEast</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr bgcolor="#CCCCCC"><th>School</th><th>Stadium</th><th>Capacity</th></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Tulsa_620c.html" title="University of Tulsa">University of Tulsa</a></td><td><a href="../../../../articles/s/k/e/Skelly_Field_at_H.A._Chapman_Stadium_734e.html" title="Skelly Field at H.A. Chapman Stadium">Skelly Field at H.A. Chapman Stadium</a></td><td>35,542</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Houston_a03e.html" title="University of Houston">University of Houston</a></td><td><a href="../../../../articles/r/o/b/Robertson_Stadium_995b.html" title="Robertson Stadium">Robertson Stadium</a></td><td>32,000</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Tulane_f7be.html" class="mw-redirect" title="University of Tulane">University of Tulane</a></td><td><a href="../../../../articles/l/o/u/Louisiana_Superdome_a92e.html" title="Louisiana Superdome">Louisiana Superdome</a></td><td>72,968</td></tr><tr><td><a href="../../../../articles/r/i/c/Rice_University_8d06.html" title="Rice University">Rice University</a></td><td><a href="../../../../articles/r/i/c/Rice_Stadium_e665.html" title="Rice Stadium">Rice Stadium</a></td><td>47,000</td></tr><tr><td><a href="../../../../articles/u/t/e/UTEP_5fc2.html" class="mw-redirect" title="UTEP">UTEP</a></td><td><a href="../../../../articles/s/u/n/Sun_Bowl_Stadium_690a.html" title="Sun Bowl Stadium">Sun Bowl Stadium</a></td><td>51,500</td></tr><tr><td><a href="../../../../articles/s/o/u/Southern_Methodist_University_7ccb.html" title="Southern Methodist University">Southern Methodist University</a></td><td><a href="../../../../articles/g/e/r/Gerald_J._Ford_Stadium_6d38.html" title="Gerald J. Ford Stadium">Gerald J. Ford Stadium</a></td><td>32,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

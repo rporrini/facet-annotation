@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r7/m/e/d/Median_household_income_in_Australia_and_New_Zealand_d9cc.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 4, 0.51428574 4, 0.16000001 0 1, 0.14 2, 0.14 0 2, 0.126 2 4, 0.10285715 1 4, 0.06857143 1, 0.060000002 3, 0.060000002 0 3, 0.054 3 4, 0.022400001 1 2, 0.009600001 1 3, 0.008400001 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/e/d/Median_household_income_in_Australia_and_New_Zealand_d9cc.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th></th>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Period</th>]]></html>
+	<text>Period</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>2006 Median household income (PPP US$)</th>]]></html>
+	<text>2006 Median household income (PPP US$)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Real growth (%)</th>]]></html>
+	<text>Real growth (%)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Growth performance</th>]]></html>
+	<text>Growth performance</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-2006</td>]]></html>
+	<text>2000-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$48,200 [9]</td>]]></html>
+	<text>$48,200 [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 2.0 [4]</td>]]></html>
+	<text>- 2.0 [4]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Disappointing</td>]]></html>
+	<text>Disappointing</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sydney</td>]]></html>
+	<text>Sydney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-2006</td>]]></html>
+	<text>2001-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$42,559 [3]</td>]]></html>
+	<text>$42,559 [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+0.6 [5]</td>]]></html>
+	<text>+0.6 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Neutral</td>]]></html>
+	<text>Neutral</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Melbourne</td>]]></html>
+	<text>Melbourne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-2006</td>]]></html>
+	<text>2001-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$39,793 [3]</td>]]></html>
+	<text>$39,793 [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+4.7 [5]</td>]]></html>
+	<text>+4.7 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Satisfactory</td>]]></html>
+	<text>Satisfactory</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-2006</td>]]></html>
+	<text>2001-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$37,875 [3]</td>]]></html>
+	<text>$37,875 [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+13.2 [6] [7]</td>]]></html>
+	<text>+13.2 [6] [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Good</td>]]></html>
+	<text>Good</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brisbane</td>]]></html>
+	<text>Brisbane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-2006</td>]]></html>
+	<text>2001-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$40,973 [3]</td>]]></html>
+	<text>$40,973 [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+16.1 [5]</td>]]></html>
+	<text>+16.1 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Good</td>]]></html>
+	<text>Good</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Perth</td>]]></html>
+	<text>Perth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001-2006</td>]]></html>
+	<text>2001-2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$40,051 [3]</td>]]></html>
+	<text>$40,051 [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+16.2 [5]</td>]]></html>
+	<text>+16.2 [5]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Good</td>]]></html>
+	<text>Good</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000-2007</td>]]></html>
+	<text>2000-2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$38,623 [2]</td>]]></html>
+	<text>$38,623 [2]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+24.2 [8] [9]</td>]]></html>
+	<text>+24.2 [8] [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Good</td>]]></html>
+	<text>Good</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Median household income in Australia and New Zealand - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Period 2006 Median household income (PPP US$) Real growth (%) Growth performance</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>Table 3. Real growth in median household income (selected examples)</text>
+</context>
+<context>
+	<score>0.7897863</score>
+	<text>Median household income in Australia and New Zealand</text>
+</context>
+<context>
+	<score>0.78064734</score>
+	<text>. Sydney&apos;s 2001-2006 income growth (0.6%) has been criticized by the media [8] , but should be seen as a neutral result, rather than a bad result. A bad result would be a 10% decrease (see Figure 3). Melbourne has made steady progress with 4.7% growth. Growth rates were good in Brisbane, Perth and New Zealand.</text>
+</context>
+<context>
+	<score>0.7483837</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] Introduction</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] Median household income in 2006</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] Equally prosperous states</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] Income security</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] Household income growth since 2000</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7150335</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7100071</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6958417</score>
+	<text>In the period 2000-2006 American households were adversely affected by the recession. Since then incomes have recovered slightly and in 2006 were only 2% below the 2000 value</text>
+</context>
+<context>
+	<score>0.6370448</score>
+	<text>Achieving real (inflation adjusted) growth in household income is very difficult. US household incomes have grown only 15% over 26 years (1980-2006, Figure 1) and yet they rank amongst the most successful in the world. During the 1980-2006 period the US economy (GDP/C) grew by 67% [7] , so strong economic growth does not necessarily translate into strong growth in median household income.</text>
+</context>
+<context>
+	<score>0.5974174</score>
+	<text>Median household income Household income in the United States</text>
+</context>
+<context>
+	<score>0.5859861</score>
+	<text>[ edit ] Household income growth since 2000</text>
+</context>
+<context>
+	<score>0.5401127</score>
+	<text>Note: Japan&apos;s government is in debt to the Japanese citizens, so the debt is not as risky as it may appear. Though it still means that Japan would be vulnerable in a crisis.</text>
+</context>
+<context>
+	<score>0.5124616</score>
+	<text>Eventually trouble in the global economy will cause a recession in Australia and New Zealand. Fortunately the government is well positioned to deal with it. Australia and New Zealand have been reducing public debt levels for many years and now have minimal debt. This means that they can easily increase money supply through deficit spending. There is also a lot of scope to increase money supply by lowering interest rates.</text>
+</context>
+<context>
+	<score>0.5086137</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4863195</score>
+	<text>During the last recession many European governments ran deficits that were so large that they violated the deficit rules for Monetary Union (e.g. Italy, France, Germany). The US also protected its citizens with deficit spending and low interest rates. After the recession is over it is important to reduce the public debt [4] and normalize interest rates again.</text>
+</context>
+<context>
+	<score>0.46540588</score>
+	<text>Deficit spending (tax breaks and increased public spending) Lowering interest rates</text>
+</context>
+<context>
+	<score>0.45637625</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th></th><th>Period</th><th>2006 Median household income (PPP US$)</th><th>Real growth (%)</th><th>Growth performance</th></tr><tr><td><b><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></b></td><td>2000-2006</td><td>$48,200 <a href="http://en.wikipedia.org/wiki/Household_income_in_the_United_States" class="external autonumber" title="http://en.wikipedia.org/wiki/Household_income_in_the_United_States" rel="nofollow">[9]</a></td><td>- 2.0<sup id="cite_ref-Senate_joint_economic_committee_3-1" class="reference"><a href="#cite_note-Senate_joint_economic_committee-3" title="">[4]</a></sup></td><td>Disappointing</td></tr><tr><td><a href="../../../../articles/s/y/d/Sydney.html" title="Sydney">Sydney</a></td><td>2001-2006</td><td>$42,559<sup id="cite_ref-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats_2-1" class="reference"><a href="#cite_note-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats-2" title="">[3]</a></sup></td><td>+0.6<sup id="cite_ref-Census:_Prosperity_reshaping_the_nation_4-0" class="reference"><a href="#cite_note-Census:_Prosperity_reshaping_the_nation-4" title="">[5]</a></sup></td><td>Neutral</td></tr><tr><td><a href="../../../../articles/m/e/l/Melbourne.html" title="Melbourne">Melbourne</a></td><td>2001-2006</td><td>$39,793<sup id="cite_ref-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats_2-2" class="reference"><a href="#cite_note-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats-2" title="">[3]</a></sup></td><td>+4.7<sup id="cite_ref-Census:_Prosperity_reshaping_the_nation_4-1" class="reference"><a href="#cite_note-Census:_Prosperity_reshaping_the_nation-4" title="">[5]</a></sup></td><td>Satisfactory</td></tr><tr><td><b><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></b></td><td>2001-2006</td><td>$37,875<sup id="cite_ref-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats_2-3" class="reference"><a href="#cite_note-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats-2" title="">[3]</a></sup></td><td>+13.2<sup id="cite_ref-Census:_Qickstats_5-0" class="reference"><a href="#cite_note-Census:_Qickstats-5" title="">[6]</a></sup> <sup id="cite_ref-Australian_CPI_data_6-0" class="reference"><a href="#cite_note-Australian_CPI_data-6" title="">[7]</a></sup></td><td>Good</td></tr><tr><td><a href="../../../../articles/b/r/i/Brisbane.html" title="Brisbane">Brisbane</a></td><td>2001-2006</td><td>$40,973 <sup id="cite_ref-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats_2-4" class="reference"><a href="#cite_note-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats-2" title="">[3]</a></sup></td><td>+16.1<sup id="cite_ref-Census:_Prosperity_reshaping_the_nation_4-2" class="reference"><a href="#cite_note-Census:_Prosperity_reshaping_the_nation-4" title="">[5]</a></sup></td><td>Good</td></tr><tr><td><a href="../../../../articles/p/e/r/Perth%2C_Western_Australia_3c92.html" title="Perth, Western Australia">Perth</a></td><td>2001-2006</td><td>$40,051<sup id="cite_ref-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats_2-5" class="reference"><a href="#cite_note-Australian_Bureau_of_Statistcs.2C_2006_Census_Quickstats-2" title="">[3]</a></sup></td><td>+16.2<sup id="cite_ref-Census:_Prosperity_reshaping_the_nation_4-3" class="reference"><a href="#cite_note-Census:_Prosperity_reshaping_the_nation-4" title="">[5]</a></sup></td><td>Good</td></tr><tr><td><b><a href="../../../../articles/n/e/w/New_Zealand_2311.html" title="New Zealand">New Zealand</a></b></td><td>2000-2007</td><td>$38,623<sup id="cite_ref-2006_New_Zealand_income_survey_1-1" class="reference"><a href="#cite_note-2006_New_Zealand_income_survey-1" title="">[2]</a></sup></td><td>+24.2<sup id="cite_ref-New_Zealand_income_surveys_7-0" class="reference"><a href="#cite_note-New_Zealand_income_surveys-7" title="">[8]</a></sup><sup id="cite_ref-New_Zealand_consumer_price_index_8-0" class="reference"><a href="#cite_note-New_Zealand_consumer_price_index-8" title="">[9]</a></sup></td><td>Good</td></tr></table>]]>
+</htmlSnippet>
+</entity>

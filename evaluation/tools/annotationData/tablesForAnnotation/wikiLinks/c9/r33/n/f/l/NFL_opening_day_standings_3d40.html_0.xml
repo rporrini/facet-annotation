@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c9/r33/n/f/l/NFL_opening_day_standings_3d40.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9444444 0 7, 0.28619528 7, 0.17777778 0 1, 0.16666667 0 2, 0.1577254 1 7, 0.15555556 0 3, 0.14444445 0 4, 0.14309764 2 7, 0.13333334 0 5, 0.13228583 4 7, 0.12693603 4, 0.123905726 1, 0.12222222 0 6, 0.11111112 2, 0.1030303 5 7, 0.08458661 3 7, 0.08395062 6 7, 0.05555556 0 8, 0.04444445 5, 0.033333335 6, 0.031799477 7 8, 0.028731763 1 2, 0.02828283 3, 0.023569025 8, 0.02334456 2 4, 0.023344558 1 4, 0.022626264 1 3, 0.022267118 1 5, 0.021728395 1 6, 0.021548824 2 5, 0.021212123 2 3, 0.02110737 3 4, 0.019259261 4 5, 0.018518519 2 6, 0.017119342 4 6, 0.011941639 3 5, 0.0113580255 5 6, 0.010370371 3 6, 0.008679388 1 8, 0.0084175095 2 8, 0.0075383466 4 8, 0.0049382723 5 8, 0.0047138054 3 8, 0.0041152267 6 8, " />
+<meta name="parentHTMLDoc" value="en/articles/n/f/l/NFL_opening_day_standings_3d40.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Wins</th>]]></html>
+	<text>Wins</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Losses</th>]]></html>
+	<text>Losses</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ties</th>]]></html>
+	<text>Ties</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Win Pct.</th>]]></html>
+	<text>Win Pct.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Longest win streak</th>]]></html>
+	<text>Longest win streak</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Longest loss streak</th>]]></html>
+	<text>Longest loss streak</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Current streak</th>]]></html>
+	<text>Current streak</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jacksonville Jaguars</td>]]></html>
+	<text>Jacksonville Jaguars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.692</td>]]></html>
+	<text>.692</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dallas Cowboys</td>]]></html>
+	<text>Dallas Cowboys</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.667</td>]]></html>
+	<text>.667</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denver Broncos</td>]]></html>
+	<text>Denver Broncos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.625</td>]]></html>
+	<text>.625</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Diego Chargers</td>]]></html>
+	<text>San Diego Chargers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.583</td>]]></html>
+	<text>.583</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 2</td>]]></html>
+	<text>Won 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles Chargers ( 1960 )</td>]]></html>
+	<text>Los Angeles Chargers ( 1960 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota Vikings</td>]]></html>
+	<text>Minnesota Vikings</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.575</td>]]></html>
+	<text>.575</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 2</td>]]></html>
+	<text>Won 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami Dolphins</td>]]></html>
+	<text>Miami Dolphins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.548</td>]]></html>
+	<text>.548</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 2</td>]]></html>
+	<text>Lost 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York Giants</td>]]></html>
+	<text>New York Giants</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.547</td>]]></html>
+	<text>.547</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 2</td>]]></html>
+	<text>Lost 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chicago Bears</td>]]></html>
+	<text>Chicago Bears</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.547</td>]]></html>
+	<text>.547</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Louis Rams</td>]]></html>
+	<text>St. Louis Rams</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.543</td>]]></html>
+	<text>.543</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cleveland Rams ( 1937 – 1942 , 1944– 1945 ), Los Angeles Rams ( 1946 – 1995 )</td>]]></html>
+	<text>Cleveland Rams ( 1937 &#8211; 1942 , 1944&#8211; 1945 ), Los Angeles Rams ( 1946 &#8211; 1995 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Chiefs</td>]]></html>
+	<text>Kansas City Chiefs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.542</td>]]></html>
+	<text>.542</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 2</td>]]></html>
+	<text>Lost 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dallas Texans (1960– 1962 )</td>]]></html>
+	<text>Dallas Texans (1960&#8211; 1962 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlanta Falcons</td>]]></html>
+	<text>Atlanta Falcons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.524</td>]]></html>
+	<text>.524</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee Titans</td>]]></html>
+	<text>Tennessee Titans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.521</td>]]></html>
+	<text>.521</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Houston Oilers (1960–1996), Tennessee Oilers ( 1997 –1998)</td>]]></html>
+	<text>Houston Oilers (1960&#8211;1996), Tennessee Oilers ( 1997 &#8211;1998)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Green Bay Packers</td>]]></html>
+	<text>Green Bay Packers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.520</td>]]></html>
+	<text>.520</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Detroit Lions</td>]]></html>
+	<text>Detroit Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.520</td>]]></html>
+	<text>.520</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portsmouth Spartans ( 1933 )</td>]]></html>
+	<text>Portsmouth Spartans ( 1933 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Francisco 49ers</td>]]></html>
+	<text>San Francisco 49ers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.517</td>]]></html>
+	<text>.517</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indianapolis Colts</td>]]></html>
+	<text>Indianapolis Colts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.516</td>]]></html>
+	<text>.516</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 3</td>]]></html>
+	<text>Won 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baltimore Colts ( 1953 – 1983 )</td>]]></html>
+	<text>Baltimore Colts ( 1953 &#8211; 1983 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pittsburgh Steelers</td>]]></html>
+	<text>Pittsburgh Steelers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.507</td>]]></html>
+	<text>.507</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 5</td>]]></html>
+	<text>Won 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phil-Pitt ( 1943 ), Card-Pitt ( 1944 )</td>]]></html>
+	<text>Phil-Pitt ( 1943 ), Card-Pitt ( 1944 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oakland Raiders</td>]]></html>
+	<text>Oakland Raiders</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.500</td>]]></html>
+	<text>.500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 5</td>]]></html>
+	<text>Lost 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles Raiders ( 1982 – 1994 )</td>]]></html>
+	<text>Los Angeles Raiders ( 1982 &#8211; 1994 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New England Patriots</td>]]></html>
+	<text>New England Patriots</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.500</td>]]></html>
+	<text>.500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 4</td>]]></html>
+	<text>Won 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Houston Texans</td>]]></html>
+	<text>Houston Texans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.500</td>]]></html>
+	<text>.500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington Redskins</td>]]></html>
+	<text>Washington Redskins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.493</td>]]></html>
+	<text>.493</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boston Redskins (1933– 1936 )</td>]]></html>
+	<text>Boston Redskins (1933&#8211; 1936 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cleveland Browns</td>]]></html>
+	<text>Cleveland Browns</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.491</td>]]></html>
+	<text>.491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 3</td>]]></html>
+	<text>Lost 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Franchise inactive ( 1996 – 1998 )</td>]]></html>
+	<text>Franchise inactive ( 1996 &#8211; 1998 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cincinnati Bengals</td>]]></html>
+	<text>Cincinnati Bengals</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.475</td>]]></html>
+	<text>.475</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 3</td>]]></html>
+	<text>Won 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York Jets</td>]]></html>
+	<text>New York Jets</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.417</td>]]></html>
+	<text>.417</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Buccaneers</td>]]></html>
+	<text>Tampa Bay Buccaneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.406</td>]]></html>
+	<text>.406</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 2</td>]]></html>
+	<text>Lost 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York Titans (1960–1962)</td>]]></html>
+	<text>New York Titans (1960&#8211;1962)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buffalo Bills</td>]]></html>
+	<text>Buffalo Bills</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.396</td>]]></html>
+	<text>.396</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 2</td>]]></html>
+	<text>Lost 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Philadelphia Eagles</td>]]></html>
+	<text>Philadelphia Eagles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44</td>]]></html>
+	<text>44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.392</td>]]></html>
+	<text>.392</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phil-Pitt (1943)</td>]]></html>
+	<text>Phil-Pitt (1943)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Carolina Panthers</td>]]></html>
+	<text>Carolina Panthers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.385</td>]]></html>
+	<text>.385</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona Cardinals</td>]]></html>
+	<text>Arizona Cardinals</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45</td>]]></html>
+	<text>45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.378</td>]]></html>
+	<text>.378</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chicago Cardinals (1933– 1959 ), St. Louis Cardinals (1960– 1987 ), Phoenix Cardinals ( 1988 – 1993 )</td>]]></html>
+	<text>Chicago Cardinals (1933&#8211; 1959 ), St. Louis Cardinals (1960&#8211; 1987 ), Phoenix Cardinals ( 1988 &#8211; 1993 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Baltimore Ravens</td>]]></html>
+	<text>Baltimore Ravens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.333</td>]]></html>
+	<text>.333</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 2</td>]]></html>
+	<text>Won 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Orleans Saints</td>]]></html>
+	<text>New Orleans Saints</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.317</td>]]></html>
+	<text>.317</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 1</td>]]></html>
+	<text>Lost 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Seattle Seahawks</td>]]></html>
+	<text>Seattle Seahawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.281</td>]]></html>
+	<text>.281</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 1</td>]]></html>
+	<text>Won 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total of all teams' opening day games</td>]]></html>
+	<text>Total of all teams&amp;apos; opening day games</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>794</td>]]></html>
+	<text>794</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>775</td>]]></html>
+	<text>775</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>.497</td>]]></html>
+	<text>.497</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 (DAL)</td>]]></html>
+	<text>16 (DAL)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 (IND/NO)</td>]]></html>
+	<text>8 (IND/NO)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>NFL opening day standings - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Wins Losses Ties Win Pct. Longest win streak Longest loss streak Current streak Notes</text>
+</context>
+<context>
+	<score>0.88726896</score>
+	<text>[ edit ] Standings</text>
+</context>
+<context>
+	<score>0.7975659</score>
+	<text>NFL opening day standings</text>
+</context>
+<context>
+	<score>0.78552186</score>
+	<text>Standings are current as of the final day of the 2007 NFL season &apos;s opening weekend, September 10 , 2007 .</text>
+</context>
+<context>
+	<score>0.7526037</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7306209</score>
+	<text>[ edit ] Standings</text>
+</context>
+<context>
+	<score>0.7306209</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7306209</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7041242</score>
+	<text>The following are the standings of current National Football League teams&apos; games taking place on their opening days. The standings shown here date back to 1933 . Since 1933, there have been a total of 1,579 opening day games played.</text>
+</context>
+<context>
+	<score>0.6510501</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5989556</score>
+	<text>NFL opening day standings</text>
+</context>
+<context>
+	<score>0.59857494</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.45467257</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th style="background: #e3e3e3;" width="19%">Team</th><th style="background: #e3e3e3;" width="6%">Wins</th><th style="background: #e3e3e3;" width="6%">Losses</th><th style="background: #e3e3e3;" width="6%">Ties</th><th style="background: #e3e3e3;" width="8%">Win Pct.</th><th style="background: #e3e3e3;" width="9%">Longest win streak</th><th style="background: #e3e3e3;" width="9%">Longest loss streak</th><th style="background: #e3e3e3;" width="7%">Current streak</th><th style="background: #e3e3e3;" width="30%">Notes</th></tr><tr align="center"><td align="left"><a href="../../../../articles/j/a/c/Jacksonville_Jaguars_c078.html" title="Jacksonville Jaguars">Jacksonville Jaguars</a></td><td>9</td><td>4</td><td></td><td>.692</td><td>6</td><td>2</td><td>Lost 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/d/a/l/Dallas_Cowboys_c876.html" title="Dallas Cowboys">Dallas Cowboys</a></td><td>32</td><td>15</td><td>1</td><td>.667</td><td>16</td><td>5</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/d/e/n/Denver_Broncos_cd7b.html" title="Denver Broncos">Denver Broncos</a></td><td>30</td><td>17</td><td>1</td><td>.625</td><td>4</td><td>4</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/s/a/n/San_Diego_Chargers_92bd.html" title="San Diego Chargers">San Diego Chargers</a></td><td>28</td><td>20</td><td></td><td>.583</td><td>6</td><td>6</td><td>Won 2</td><td align="left"><small style="line-height:130%">Los Angeles Chargers (<a href="../../../../articles/a/m/e/American_Football_League_seasons_9816.html#1960_.5B1.5D" title="American Football League seasons">1960</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/m/i/n/Minnesota_Vikings_eec0.html" title="Minnesota Vikings">Minnesota Vikings</a></td><td>27</td><td>19</td><td>1</td><td>.575</td><td>5</td><td>3</td><td>Won 2</td></tr><tr align="center"><td align="left"><a href="../../../../articles/m/i/a/Miami_Dolphins_fba7.html" title="Miami Dolphins">Miami Dolphins</a></td><td>23</td><td>18</td><td>1</td><td>.548</td><td>11</td><td>5</td><td>Lost 2</td></tr><tr align="center"><td align="left"><a href="../../../../articles/n/e/w/New_York_Giants_d193.html" title="New York Giants">New York Giants</a></td><td>41</td><td>30</td><td>4</td><td>.547</td><td>4</td><td>3</td><td>Lost 2</td></tr><tr align="center"><td align="left"><a href="../../../../articles/c/h/i/Chicago_Bears_3f7c.html" title="Chicago Bears">Chicago Bears</a></td><td>41</td><td>33</td><td>1</td><td>.547</td><td>9</td><td>6</td><td>Lost 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/s/t/2E/St._Louis_Rams_0f39.html" title="St. Louis Rams">St. Louis Rams</a></td><td>38</td><td>32</td><td></td><td>.543</td><td>5</td><td>6</td><td>Lost 1</td><td align="left"><small style="line-height:130%">Cleveland Rams (<a href="../../../../articles/1/9/3/1937_NFL_season_c219.html" title="1937 NFL season">1937</a>–<a href="../../../../articles/1/9/4/1942_NFL_season_013a.html" title="1942 NFL season">1942</a>, 1944–<a href="../../../../articles/1/9/4/1945_NFL_season_94b9.html" title="1945 NFL season">1945</a>),<br />Los Angeles Rams (<a href="../../../../articles/1/9/4/1946_NFL_season_e36b.html" title="1946 NFL season">1946</a>–<a href="../../../../articles/1/9/9/1995_NFL_season_966e.html" title="1995 NFL season">1995</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/k/a/n/Kansas_City_Chiefs_89f3.html" title="Kansas City Chiefs">Kansas City Chiefs</a></td><td>26</td><td>22</td><td></td><td>.542</td><td>7</td><td>4</td><td>Lost 2</td><td align="left"><small style="line-height:130%">Dallas Texans (1960–<a href="../../../../articles/a/m/e/American_Football_League_seasons_9816.html#1962_.5B3.5D" title="American Football League seasons">1962</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/a/t/l/Atlanta_Falcons_01c3.html" title="Atlanta Falcons">Atlanta Falcons</a></td><td>22</td><td>20</td><td></td><td>.524</td><td>5</td><td>3</td><td>Lost 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/t/e/n/Tennessee_Titans_ab07.html" title="Tennessee Titans">Tennessee Titans</a></td><td>25</td><td>23</td><td></td><td>.521</td><td>4</td><td>3</td><td>Won 1</td><td align="left"><small style="line-height:130%">Houston Oilers (1960–1996),<br />Tennessee Oilers (<a href="../../../../articles/1/9/9/1997_NFL_season_dc0b.html" title="1997 NFL season">1997</a>–1998)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/g/r/e/Green_Bay_Packers_4077.html" title="Green Bay Packers">Green Bay Packers</a></td><td>39</td><td>33</td><td>3</td><td>.520</td><td>5</td><td>6</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/d/e/t/Detroit_Lions_6dd4.html" title="Detroit Lions">Detroit Lions</a></td><td>39</td><td>34</td><td>2</td><td>.520</td><td>7</td><td>4</td><td>Won 1</td><td align="left"><small style="line-height:130%">Portsmouth Spartans (<a href="../../../../articles/1/9/3/1933_NFL_season_0fff.html" title="1933 NFL season">1933</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/s/a/n/San_Francisco_49ers_43f8.html" title="San Francisco 49ers">San Francisco 49ers</a></td><td>30</td><td>27</td><td>1</td><td>.517</td><td>5</td><td>3</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/i/n/d/Indianapolis_Colts_aabe.html" title="Indianapolis Colts">Indianapolis Colts</a></td><td>33</td><td>30</td><td>1</td><td>.516</td><td>8</td><td>8</td><td>Won 3</td><td align="left"><small style="line-height:130%">Baltimore Colts (<a href="../../../../articles/1/9/5/1953_NFL_season_de3e.html" title="1953 NFL season">1953</a>–<a href="../../../../articles/1/9/8/1983_NFL_season_a23d.html" title="1983 NFL season">1983</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/p/i/t/Pittsburgh_Steelers_bedf.html" title="Pittsburgh Steelers">Pittsburgh Steelers</a></td><td>37</td><td>32</td><td>4</td><td>.507</td><td>5</td><td>3</td><td>Won 5</td><td align="left"><small style="line-height:130%"><a href="../../../../articles/s/t/e/Steagles.html" title="Steagles">Phil-Pitt</a> (<a href="../../../../articles/1/9/4/1943_NFL_season_71f0.html" title="1943 NFL season">1943</a>), <a href="../../../../articles/c/a/r/Card-Pitt_d9a8.html" title="Card-Pitt">Card-Pitt</a> (<a href="../../../../articles/1/9/4/1944_NFL_season_5987.html" title="1944 NFL season">1944</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/o/a/k/Oakland_Raiders_c8ad.html" title="Oakland Raiders">Oakland Raiders</a></td><td>24</td><td>24</td><td></td><td>.500</td><td>5</td><td>5</td><td>Lost 5</td><td align="left"><small style="line-height:130%">Los Angeles Raiders (<a href="../../../../articles/1/9/8/1982_NFL_season_d734.html" title="1982 NFL season">1982</a>–<a href="../../../../articles/1/9/9/1994_NFL_season_fd77.html" title="1994 NFL season">1994</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/n/e/w/New_England_Patriots_d9e3.html" title="New England Patriots">New England Patriots</a></td><td>24</td><td>24</td><td></td><td>.500</td><td>6</td><td>3</td><td>Won 4</td></tr><tr align="center"><td align="left"><a href="../../../../articles/h/o/u/Houston_Texans_c5f6.html" title="Houston Texans">Houston Texans</a></td><td>3</td><td>3</td><td></td><td>.500</td><td>2</td><td>3</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/w/a/s/Washington_Redskins_17e9.html" title="Washington Redskins">Washington Redskins</a></td><td>37</td><td>34</td><td>4</td><td>.493</td><td>6</td><td>5</td><td>Won 1</td><td align="left"><small style="line-height:130%">Boston Redskins (1933–<a href="../../../../articles/1/9/3/1936_NFL_season_5091.html" title="1936 NFL season">1936</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/c/l/e/Cleveland_Browns_d021.html" title="Cleveland Browns">Cleveland Browns</a></td><td>27</td><td>28</td><td></td><td>.491</td><td>5</td><td>5</td><td>Lost 3</td><td align="left"><small style="line-height:130%">Franchise inactive (<a href="../../../../articles/1/9/9/1996_NFL_season_2781.html" title="1996 NFL season">1996</a>–<a href="../../../../articles/1/9/9/1998_NFL_season_d39d.html" title="1998 NFL season">1998</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/c/i/n/Cincinnati_Bengals_5178.html" title="Cincinnati Bengals">Cincinnati Bengals</a></td><td>19</td><td>21</td><td></td><td>.475</td><td>4</td><td>4</td><td>Won 3</td></tr><tr align="center"><td align="left"><a href="../../../../articles/n/e/w/New_York_Jets_c84e.html" title="New York Jets">New York Jets</a></td><td>20</td><td>28</td><td></td><td>.417</td><td>3</td><td>5</td><td>Lost 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/t/a/m/Tampa_Bay_Buccaneers_437e.html" title="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a></td><td>13</td><td>19</td><td></td><td>.406</td><td>3</td><td>5</td><td>Lost 2</td><td align="left"><small style="line-height:130%">New York Titans (1960–1962)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/b/u/f/Buffalo_Bills_71a1.html" title="Buffalo Bills">Buffalo Bills</a></td><td>19</td><td>29</td><td></td><td>.396</td><td>6</td><td>5</td><td>Lost 2</td></tr><tr align="center"><td align="left"><a href="../../../../articles/p/h/i/Philadelphia_Eagles_04d3.html" title="Philadelphia Eagles">Philadelphia Eagles</a></td><td>29</td><td>44</td><td>1</td><td>.392</td><td>5</td><td>9</td><td>Lost 1</td><td align="left"><small style="line-height:130%">Phil-Pitt (1943)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/c/a/r/Carolina_Panthers_5726.html" title="Carolina Panthers">Carolina Panthers</a></td><td>5</td><td>8</td><td></td><td>.385</td><td>3</td><td>4</td><td>Won 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/a/r/i/Arizona_Cardinals_c8e5.html" title="Arizona Cardinals">Arizona Cardinals</a></td><td>28</td><td>45</td><td>1</td><td>.378</td><td>6</td><td>7</td><td>Lost 1</td><td align="left"><small style="line-height:130%">Chicago Cardinals (1933–<a href="../../../../articles/1/9/5/1959_NFL_season_e5fd.html" title="1959 NFL season">1959</a>),<br />St. Louis Cardinals (1960–<a href="../../../../articles/1/9/8/1987_NFL_season_e726.html" title="1987 NFL season">1987</a>),<br />Phoenix Cardinals (<a href="../../../../articles/1/9/8/1988_NFL_season_a292.html" title="1988 NFL season">1988</a>–<a href="../../../../articles/1/9/9/1993_NFL_season_6fae.html" title="1993 NFL season">1993</a>)</small></td></tr><tr align="center"><td align="left"><a href="../../../../articles/b/a/l/Baltimore_Ravens_9241.html" title="Baltimore Ravens">Baltimore Ravens</a></td><td>4</td><td>8</td><td></td><td>.333</td><td>2</td><td>4</td><td>Won 2</td></tr><tr align="center"><td align="left"><a href="../../../../articles/n/e/w/New_Orleans_Saints_b2f5.html" title="New Orleans Saints">New Orleans Saints</a></td><td>13</td><td>28</td><td></td><td>.317</td><td>2</td><td>6</td><td>Lost 1</td></tr><tr align="center"><td align="left"><a href="../../../../articles/s/e/a/Seattle_Seahawks_2af6.html" title="Seattle Seahawks">Seattle Seahawks</a></td><td>9</td><td>23</td><td></td><td>.281</td><td>3</td><td>8</td><td>Won 1</td></tr><tr align="center" style="background: #ffdead;"><td align="left"><b>Total of all teams' opening day games</b></td><td><b>794</b></td><td><b>775</b></td><td><b>28</b></td><td><b>.497</b></td><td><b>16<small style="line-height:130%">(DAL)</small></b></td><td><b>8 <small style="line-height:130%">(IND/NO)</small></b></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

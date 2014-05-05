@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/v/e/h/Vehicle_registration_plates_of_Lithuania_645b.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/v/e/h/Vehicle_registration_plates_of_Lithuania_645b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Example</th>]]></html>
+	<text>Example</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>A</td>]]></html>
+	<text>A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alytus County</td>]]></html>
+	<text>Alytus County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A A A 123</td>]]></html>
+	<text>A A A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>J</td>]]></html>
+	<text>J</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tauragė County (but code from first letter of Jurbarkas )</td>]]></html>
+	<text>Taurag&#279; County (but code from first letter of Jurbarkas )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A J A 123</td>]]></html>
+	<text>A J A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K</td>]]></html>
+	<text>K</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kaunas County</td>]]></html>
+	<text>Kaunas County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A K A 123</td>]]></html>
+	<text>A K A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>L</td>]]></html>
+	<text>L</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Klaipėda County</td>]]></html>
+	<text>Klaip&#279;da County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A L A 123</td>]]></html>
+	<text>A L A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>M</td>]]></html>
+	<text>M</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Marijampolė County</td>]]></html>
+	<text>Marijampol&#279; County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A M A 123</td>]]></html>
+	<text>A M A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>P</td>]]></html>
+	<text>P</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Panevėžys County</td>]]></html>
+	<text>Panev&#279;&#382;ys County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A P A 123</td>]]></html>
+	<text>A P A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>S</td>]]></html>
+	<text>S</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šiauliai County</td>]]></html>
+	<text>&#352;iauliai County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A S A 123</td>]]></html>
+	<text>A S A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>T</td>]]></html>
+	<text>T</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Telšiai County</td>]]></html>
+	<text>Tel&#353;iai County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A T A 123</td>]]></html>
+	<text>A T A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>U</td>]]></html>
+	<text>U</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utena County</td>]]></html>
+	<text>Utena County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A U A 123</td>]]></html>
+	<text>A U A 123</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>V</td>]]></html>
+	<text>V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vilnius County</td>]]></html>
+	<text>Vilnius County</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A V A 123</td>]]></html>
+	<text>A V A 123</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Vehicle registration plates of Lithuania - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Code County Example</text>
+</context>
+<context>
+	<score>0.8787878</score>
+	<text>V</text>
+</context>
+<context>
+	<score>0.7986531</score>
+	<text>Vehicle registration plates of Lithuania</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>U</text>
+</context>
+<context>
+	<score>0.7562731</score>
+	<text>[ edit ] Special types</text>
+</context>
+<context>
+	<score>0.72690487</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72690487</score>
+	<text>[ edit ] Car designations</text>
+</context>
+<context>
+	<score>0.72690487</score>
+	<text>[ edit ] Special types</text>
+</context>
+<context>
+	<score>0.72690487</score>
+	<text>[ edit ] The technical check sticker</text>
+</context>
+<context>
+	<score>0.72690487</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210774</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>T</text>
+</context>
+<context>
+	<score>0.64218175</score>
+	<text>J</text>
+</context>
+<context>
+	<score>0.6094763</score>
+	<text>[ edit ] Not Registred Cars</text>
+</context>
+<context>
+	<score>0.59253323</score>
+	<text>S</text>
+</context>
+<context>
+	<score>0.5528144</score>
+	<text>P</text>
+</context>
+<context>
+	<score>0.5210394</score>
+	<text>M</text>
+</context>
+<context>
+	<score>0.51729786</score>
+	<text>Not registered cars in Lithuanian are noted by red alphanumeric characters on white background.</text>
+</context>
+<context>
+	<score>0.4956194</score>
+	<text>L</text>
+</context>
+<context>
+	<score>0.47528335</score>
+	<text>K</text>
+</context>
+<context>
+	<score>0.47233066</score>
+	<text>[ edit ] Types</text>
+</context>
+<context>
+	<score>0.45901453</score>
+	<text>A</text>
+</context>
+<context>
+	<score>0.45182696</score>
+	<text>Currently car designations is not used, but used until 2004 .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Code</th><th>County</th><th>Example</th></tr><tr><td>A</td><td><a href="../../../../articles/a/l/y/Alytus_County_2fb6.html" title="Alytus County">Alytus County</a></td><td>A<b>A</b>A 123</td></tr><tr><td>J</td><td><a href="../../../../articles/t/a/u/Taurag%C4%97_County_5cdd.html" title="Tauragė County">Tauragė County</a> (but code from first letter of <a href="../../../../articles/j/u/r/Jurbarkas.html" title="Jurbarkas">Jurbarkas</a>)</td><td>A<b>J</b>A 123</td></tr><tr><td>K</td><td><a href="../../../../articles/k/a/u/Kaunas_County_6e1b.html" title="Kaunas County">Kaunas County</a></td><td>A<b>K</b>A 123</td></tr><tr><td>L</td><td><a href="../../../../articles/k/l/a/Klaip%C4%97da_County_2064.html" title="Klaipėda County">Klaipėda County</a></td><td>A<b>L</b>A 123</td></tr><tr><td>M</td><td><a href="../../../../articles/m/a/r/Marijampol%C4%97_County_9068.html" title="Marijampolė County">Marijampolė County</a></td><td>A<b>M</b>A 123</td></tr><tr><td>P</td><td><a href="../../../../articles/p/a/n/Panev%C4%97%C5%BEys_County_ed37.html" title="Panevėžys County">Panevėžys County</a></td><td>A<b>P</b>A 123</td></tr><tr><td>S</td><td><a href="../../../../articles/%C5%A1/i/a/%C5%A0iauliai_County_28c6.html" title="Šiauliai County">Šiauliai County</a></td><td>A<b>S</b>A 123</td></tr><tr><td>T</td><td><a href="../../../../articles/t/e/l/Tel%C5%A1iai_County_56f2.html" title="Telšiai County">Telšiai County</a></td><td>A<b>T</b>A 123</td></tr><tr><td>U</td><td><a href="../../../../articles/u/t/e/Utena_County_d162.html" title="Utena County">Utena County</a></td><td>A<b>U</b>A 123</td></tr><tr><td>V</td><td><a href="../../../../articles/v/i/l/Vilnius_County_117b.html" title="Vilnius County">Vilnius County</a></td><td>A<b>V</b>A 123</td></tr></table>]]>
+</htmlSnippet>
+</entity>

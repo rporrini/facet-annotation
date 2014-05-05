@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/s/t/e/Sten_Stensen_2a1f.html_1.xml" />
+<meta name="primaryKey" value="0.42857143 3, 0.15 1, 0.15 1 3, 0.125 0, 0.125 2, 0.125 0 3, 0.125 2 3, 0.026250003 1 2, 0.021875 0 2, 0.01875 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/s/t/e/Sten_Stensen_2a1f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Event</th>]]></html>
+	<text>Event</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>500 m</td>]]></html>
+	<text>500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.03</td>]]></html>
+	<text>39.03</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 March 1977</td>]]></html>
+	<text>19 March 1977</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,000 m</td>]]></html>
+	<text>1,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:23.44</td>]]></html>
+	<text>1:23.44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 January 1973</td>]]></html>
+	<text>7 January 1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kongsberg</td>]]></html>
+	<text>Kongsberg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,500 m</td>]]></html>
+	<text>1,500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:58.72</td>]]></html>
+	<text>1:58.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21 March 1976</td>]]></html>
+	<text>21 March 1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3,000 m</td>]]></html>
+	<text>3,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:13.6 </td>]]></html>
+	<text>4:13.6&#8194;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 December 1977</td>]]></html>
+	<text>17 December 1977</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hamar</td>]]></html>
+	<text>Hamar</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5,000 m</td>]]></html>
+	<text>5,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7:05.04</td>]]></html>
+	<text>7:05.04</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 March 1977</td>]]></html>
+	<text>19 March 1977</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10,000 m</td>]]></html>
+	<text>10,000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14:38.08</td>]]></html>
+	<text>14:38.08</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21 March 1976</td>]]></html>
+	<text>21 March 1976</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Big combination</td>]]></html>
+	<text>Big combination</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>165.316</td>]]></html>
+	<text>165.316</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 March 1977</td>]]></html>
+	<text>20 March 1977</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Medeo</td>]]></html>
+	<text>Medeo</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Sten Stensen - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Event Result Date Venue</text>
+</context>
+<context>
+	<score>0.8841533</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.79857343</score>
+	<text>Sten Stensen</text>
+</context>
+<context>
+	<score>0.78714514</score>
+	<text>Over the course of his career, Stensen skated two world records :</text>
+</context>
+<context>
+	<score>0.7557602</score>
+	<text>Stensen has an Adelskalender score of 165.011 points. His highest ranking on the Adelskalender was a fourth place.</text>
+</context>
+<context>
+	<score>0.7263804</score>
+	<text>[ edit ] Short biography</text>
+</context>
+<context>
+	<score>0.7263804</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.7263804</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.7263804</score>
+	<text>[ edit ] Personal records</text>
+</context>
+<context>
+	<score>0.7263804</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.720967</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7095387</score>
+	<text>[ edit ] World records</text>
+</context>
+<context>
+	<score>0.6420401</score>
+	<text>An overview of medals won by Stensen at important championships he participated in, listing the years in which he won each:</text>
+</context>
+<context>
+	<score>0.6089054</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5977853</score>
+	<text>[ edit ] Medals</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>After ending his speed skating career in 1978, Stensen became a Norwegian broadcasting commentator at speed skating events.</text>
+</context>
+<context>
+	<score>0.52626324</score>
+	<text>Stensen won gold on the 5,000 m at the 1976 Winter Olympics the next month, a race in which Piet Kleine won silver and the world record holder on that distance, Hans van Helden , won bronze. Still being the world record holder on the 10,000 m, Stensen was the favourite for that distance three days later, but he was beaten by Kleine in a close race. Again, Van Helden finished third.</text>
+</context>
+<context>
+	<score>0.5225201</score>
+	<text>Sten Stensen at SkateResults.com Personal records from The Skatebase</text>
+</context>
+<context>
+	<score>0.5008331</score>
+	<text>During the 1976 European Allround Championships in Oslo , Stensen (the defending European Champion), set a new world record on the 10,000 m, but he still lost his title to fellow Norwegian Kay Stenshjemmet by a tiny margin of only 0.005 points (equivalent to 0.10 seconds on the 10,000 m).</text>
+</context>
+<context>
+	<score>0.48048902</score>
+	<text>Together with Amund Sj brend , Kay Stenshjemmet , and Jan Egil Storholt , Sten Stensen was one of the legendary four S-es (which sounds like &quot;four aces&quot; in Norwegian ), four Norwegian top skaters in the 1970s and early 1980s. Stensen excelled at the longer distances, especially the 5,000 m and 10,000 m, and set two world records. He was World Allround Champion in 1974 and European Allround Champion in 1975. He also won Olympic gold on the 5,000 m in Innsbruck in 1976. For his accomplishments, he received the Oscar Mathisen Award in 1974 and 1976.</text>
+</context>
+<context>
+	<score>0.47170535</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46421376</score>
+	<text>[ edit ] Short biography</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Event</th><th>Result</th><th>Date</th><th>Venue</th></tr><tr align="right"><td>500 m</td><td>39.03</td><td><a href="../../../../articles/m/a/r/March_19.html" title="March 19">19 March</a> <a href="../../../../articles/1/9/7/1977.html" title="1977">1977</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr align="right"><td>1,000 m</td><td>1:23.44</td><td><a href="../../../../articles/j/a/n/January_7.html" title="January 7">7 January</a> <a href="../../../../articles/1/9/7/1973.html" title="1973">1973</a></td><td align="left"><a href="../../../../articles/k/o/n/Kongsberg.html" title="Kongsberg">Kongsberg</a></td></tr><tr align="right"><td>1,500 m</td><td>1:58.72</td><td><a href="../../../../articles/m/a/r/March_21.html" title="March 21">21 March</a> <a href="../../../../articles/1/9/7/1976.html" title="1976">1976</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr align="right"><td>3,000 m</td><td>4:13.6 </td><td><a href="../../../../articles/d/e/c/December_17.html" title="December 17">17 December</a> <a href="../../../../articles/1/9/7/1977.html" title="1977">1977</a></td><td align="left"><a href="../../../../articles/h/a/m/Hamar.html" title="Hamar">Hamar</a></td></tr><tr align="right"><td>5,000 m</td><td>7:05.04</td><td><a href="../../../../articles/m/a/r/March_19.html" title="March 19">19 March</a> <a href="../../../../articles/1/9/7/1977.html" title="1977">1977</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr align="right"><td>10,000 m</td><td>14:38.08</td><td><a href="../../../../articles/m/a/r/March_21.html" title="March 21">21 March</a> <a href="../../../../articles/1/9/7/1976.html" title="1976">1976</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr><tr align="right"><td><a href="../../../../articles/s/a/m/Samalog.html" title="Samalog">Big combination</a></td><td>165.316</td><td><a href="../../../../articles/m/a/r/March_20.html" title="March 20">20 March</a> <a href="../../../../articles/1/9/7/1977.html" title="1977">1977</a></td><td align="left"><a href="../../../../articles/m/e/d/Medeo.html" title="Medeo">Medeo</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

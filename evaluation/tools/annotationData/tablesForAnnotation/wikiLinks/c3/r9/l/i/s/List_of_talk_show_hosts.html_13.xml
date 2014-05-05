@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/l/i/s/List_of_talk_show_hosts.html_13.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, 0.2777778 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_talk_show_hosts.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Host</th>]]></html>
+	<text>Host</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Talk show(s) hosted</th>]]></html>
+	<text>Talk show(s) hosted</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jack Paar</td>]]></html>
+	<text>Jack Paar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Jack Paar Tonight Show</td>]]></html>
+	<text>The Jack Paar Tonight Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michael Parkinson</td>]]></html>
+	<text>Michael Parkinson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Parkinson</td>]]></html>
+	<text>Parkinson</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Glenn Parnel</td>]]></html>
+	<text>Glenn Parnel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Common Man Show</td>]]></html>
+	<text>The Common Man Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peter Pek</td>]]></html>
+	<text>Peter Pek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Malaysia</td>]]></html>
+	<text>Malaysia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brand Malaysia with Peter Pek</td>]]></html>
+	<text>Brand Malaysia with Peter Pek</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Regis Philbin</td>]]></html>
+	<text>Regis Philbin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Live with Regis and Kathie Lee , Live with Regis and Kelly</td>]]></html>
+	<text>Live with Regis and Kathie Lee , Live with Regis and Kelly</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ana Maria Polo</td>]]></html>
+	<text>Ana Maria Polo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Caso Cerrado</td>]]></html>
+	<text>Caso Cerrado</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maury Povich</td>]]></html>
+	<text>Maury Povich</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maury</td>]]></html>
+	<text>Maury</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dennis Prager</td>]]></html>
+	<text>Dennis Prager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Dennis Prager Show</td>]]></html>
+	<text>The Dennis Prager Show</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Laurie Puhn</td>]]></html>
+	<text>Laurie Puhn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>i on New York</td>]]></html>
+	<text>i on New York</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of talk show hosts - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.8810486</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.78764445</score>
+	<text>List of talk show hosts</text>
+</context>
+<context>
+	<score>0.78407836</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.7527057</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.7123297</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.60590804</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.5528119</score>
+	<text>Host Country Talk show(s) hosted</text>
+</context>
+<context>
+	<score>0.5232982</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.5195566</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.497878</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.47754186</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.4687616</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.46127295</score>
+	<text>[ edit ] K</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th width="150">Host</th><th width="150">Country</th><th width="400">Talk show(s) hosted</th></tr><tr><td><a href="../../../../articles/j/a/c/Jack_Paar_23ec.html" title="Jack Paar">Jack Paar</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i>The Jack Paar Tonight Show</i></td></tr><tr><td><a href="../../../../articles/m/i/c/Michael_Parkinson_dbbe.html" title="Michael Parkinson">Michael Parkinson</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td><i><a href="../../../../articles/p/a/r/Parkinson_%28TV_series%29_ff07.html" title="Parkinson (TV series)">Parkinson</a></i></td></tr><tr><td>Glenn Parnel</td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i>The Common Man Show</i></td></tr><tr><td><a href="../../../../articles/p/e/t/Peter_Pek_7708.html" title="Peter Pek">Peter Pek</a></td><td><a href="../../../../articles/m/a/l/Malaysia.html" title="Malaysia">Malaysia</a></td><td><i><a href="../../../../articles/b/r/a/Brand_Malaysia_with_Peter_Pek_33b4.html" title="Brand Malaysia with Peter Pek">Brand Malaysia with Peter Pek</a></i></td></tr><tr><td><a href="../../../../articles/r/e/g/Regis_Philbin_22e7.html" title="Regis Philbin">Regis Philbin</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/l/i/v/Live_with_Regis_and_Kathie_Lee_05a9.html" class="mw-redirect" title="Live with Regis and Kathie Lee">Live with Regis and Kathie Lee</a></i>, <i><a href="../../../../articles/l/i/v/Live_with_Regis_and_Kelly_c004.html" title="Live with Regis and Kelly">Live with Regis and Kelly</a></i></td></tr><tr><td><a href="../../../../articles/a/n/a/Ana_Maria_Polo_061d.html" class="mw-redirect" title="Ana Maria Polo">Ana Maria Polo</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/c/a/s/Caso_Cerrado_0e05.html" title="Caso Cerrado">Caso Cerrado</a></i></td></tr><tr><td><a href="../../../../articles/m/a/u/Maury_Povich_2f29.html" title="Maury Povich">Maury Povich</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i><a href="../../../../articles/m/a/u/Maury.html" title="Maury">Maury</a></i></td></tr><tr><td><a href="../../../../articles/d/e/n/Dennis_Prager_c8fe.html" title="Dennis Prager">Dennis Prager</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i>The Dennis Prager Show</i></td></tr><tr><td><a href="../../../../articles/l/a/u/Laurie_Puhn_f2af.html" title="Laurie Puhn">Laurie Puhn</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td><i>i on New York</i></td></tr></table>]]>
+</htmlSnippet>
+</entity>

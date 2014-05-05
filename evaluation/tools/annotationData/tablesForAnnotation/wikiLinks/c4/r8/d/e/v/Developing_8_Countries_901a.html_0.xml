@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r8/d/e/v/Developing_8_Countries_901a.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.875 3, 0.875 2 3, 0.15 1, 0.15 1 2, 0.13125001 1 3, 0.125 0, 0.125 0 2, 0.109375 0 3, 0.01875 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/d/e/v/Developing_8_Countries_901a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Place</th>]]></html>
+	<text>Place</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Turkey</td>]]></html>
+	<text>Turkey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Istanbul</td>]]></html>
+	<text>Istanbul</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1999</td>]]></html>
+	<text>1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bangladesh</td>]]></html>
+	<text>Bangladesh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dhaka</td>]]></html>
+	<text>Dhaka</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Egypt</td>]]></html>
+	<text>Egypt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cairo</td>]]></html>
+	<text>Cairo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Iran</td>]]></html>
+	<text>Iran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indonesia</td>]]></html>
+	<text>Indonesia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bali</td>]]></html>
+	<text>Bali</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Islamabad</td>]]></html>
+	<text>Islamabad</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2011</td>]]></html>
+	<text>2011</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Malaysia</td>]]></html>
+	<text>Malaysia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kuala Lumpur</td>]]></html>
+	<text>Kuala Lumpur</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2012</td>]]></html>
+	<text>2012</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nigeria</td>]]></html>
+	<text>Nigeria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abuja</td>]]></html>
+	<text>Abuja</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Recent D8 Summits</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Developing 8 Countries - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Number Date Country Place</text>
+</context>
+<context>
+	<score>0.8846099</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.79864365</score>
+	<text>Developing 8 Countries</text>
+</context>
+<context>
+	<score>0.7876356</score>
+	<text>Representatives of each of the eight developing countries except Bangladesh signed a Preferential Trade Agreement on May 14 , 2006 at the fifth D-8 Summit at Bali , Indonesia . The agreement is designed to gradually reduce tariffs on specific goods between member-states, with a supervisory committee overseeing the process. The purpose of the agreement is to reduce barriers to free trade between member states, as well as promote inter-state cooperation.</text>
+</context>
+<context>
+	<score>0.7504338</score>
+	<text>The Developing 8 is organized into three bodies: the Summit, the Council and the Commission. The Summit, which is convened every two years, has the highest level of authority, and is composed of the leaders of each member state. The Council is the principal decision making body and forum for consideration of issues relating to the D8, and is composed of foreign affairs ministers sent from each member state. The Commission has executive authority, and is composed of Commissioners appointed by each member state&apos;s government. Commissioners are responsible for promoting compliance of D8 directives in their respective nation. Finally, an executive director is appointed by D8 members to facilitate communication and to act in a supervisory capacity during each summit or lower-level assembly.</text>
+</context>
+<context>
+	<score>0.726892</score>
+	<text>[ edit ] Preferential trade agreement</text>
+</context>
+<context>
+	<score>0.726892</score>
+	<text>[ edit ] Structure</text>
+</context>
+<context>
+	<score>0.726892</score>
+	<text>[ edit ] Stature in international politics</text>
+</context>
+<context>
+	<score>0.726892</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.726892</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72106427</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7100562</score>
+	<text>[ edit ] Preferential trade agreement</text>
+</context>
+<context>
+	<score>0.6421649</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6094579</score>
+	<text>[ edit ] Stature in international politics</text>
+</context>
+<context>
+	<score>0.59251404</score>
+	<text>As stated by the D8 Facts and Figures Publication: &quot;The objectives of D-8 are to improve developing countries&apos; positions in the world economy, diversify and create new opportunities in trade relations, enhance participation in decision-making at the international level, and provide better standards of living.&quot; The main areas of cooperation include finance, banking, rural development, science and technology, humanitarian development, agriculture, energy, environment, and health.</text>
+</context>
+<context>
+	<score>0.5586211</score>
+	<text>The Developing 8 ( D-8 or Developing Eight ) are a group of developing countries that have formed an economic development alliance. Combined, the countries made up 13.5% of the global population in 1997 . It consists of Bangladesh , Egypt , Indonesia , Iran , Malaysia , Nigeria , Pakistan , and Turkey . The group was established after an announcement in Istanbul , Turkey on June 15, 1997. Membership is open to countries other than the current member-states, though no expansion is currently planned.</text>
+</context>
+<context>
+	<score>0.5231028</score>
+	<text>The Developing 8 does not have a large impact on the affairs of more influential international organizations such as the United Nations , NATO , or ASEAN . The purpose of the organization is to coordinate the efforts of each member state, and not necessarily to join together in order to increase each member&apos;s collective influence in global politics . Since each member is still able to act unilaterally without severe repercussions from any other member, the potential bargaining power of the organization is somewhat limited.</text>
+</context>
+<context>
+	<score>0.5210168</score>
+	<text>D8 member states</text>
+</context>
+<context>
+	<score>0.49559557</score>
+	<text>The official D-8 logo.</text>
+</context>
+<context>
+	<score>0.49209443</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47582483</score>
+	<text>Developing 8 Countries</text>
+</context>
+<context>
+	<score>0.47230574</score>
+	<text>[ edit ] References</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" style="float: right; margin-left: 1em;"><caption><i>Recent D8 Summits</i></caption><tr bgcolor="#ECECEC"><th>Number</th><th>Date</th><th>Country</th><th>Place</th></tr><tr><td>1</td><td><a href="../../../../articles/1/9/9/1998.html" title="1998">1998</a></td><td><a href="../../../../articles/t/u/r/Turkey.html" title="Turkey">Turkey</a></td><td><a href="../../../../articles/i/s/t/Istanbul.html" title="Istanbul">Istanbul</a></td></tr><tr><td>2</td><td><a href="../../../../articles/1/9/9/1999.html" title="1999">1999</a></td><td><a href="../../../../articles/b/a/n/Bangladesh.html" title="Bangladesh">Bangladesh</a></td><td><a href="../../../../articles/d/h/a/Dhaka.html" title="Dhaka">Dhaka</a></td></tr><tr><td>3</td><td><a href="../../../../articles/2/0/0/2001.html" title="2001">2001</a></td><td><a href="../../../../articles/e/g/y/Egypt.html" title="Egypt">Egypt</a></td><td><a href="../../../../articles/c/a/i/Cairo.html" title="Cairo">Cairo</a></td></tr><tr><td>4</td><td><a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td><a href="../../../../articles/i/r/a/Iran.html" title="Iran">Iran</a></td><td><a href="../../../../articles/t/e/h/Tehran.html" title="Tehran">Tehran</a></td></tr><tr><td>5</td><td><a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a></td><td><a href="../../../../articles/i/n/d/Indonesia.html" title="Indonesia">Indonesia</a></td><td><a href="../../../../articles/b/a/l/Bali.html" title="Bali">Bali</a></td></tr><tr><td>6</td><td><a href="../../../../articles/2/0/0/2008.html" title="2008">2008</a></td><td><a href="../../../../articles/p/a/k/Pakistan.html" title="Pakistan">Pakistan</a></td><td><a href="../../../../articles/i/s/l/Islamabad.html" title="Islamabad">Islamabad</a></td></tr><tr><td>7</td><td><a href="../../../../articles/2/0/1/2011.html" title="2011">2011</a></td><td><a href="../../../../articles/m/a/l/Malaysia.html" title="Malaysia">Malaysia</a></td><td><a href="../../../../articles/k/u/a/Kuala_Lumpur_b5d7.html" title="Kuala Lumpur">Kuala Lumpur</a></td></tr><tr><td>8</td><td><a href="../../../../articles/2/0/1/2012.html" title="2012">2012</a></td><td><a href="../../../../articles/n/i/g/Nigeria.html" title="Nigeria">Nigeria</a></td><td><a href="../../../../articles/a/b/u/Abuja.html" title="Abuja">Abuja</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

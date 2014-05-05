@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/v/i/d/VideoCrypt_8c7e.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1, 0.44444448 2, 0.3703704 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/v/i/d/VideoCrypt_8c7e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Broadcaster</th>]]></html>
+	<text>Broadcaster</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Market</th>]]></html>
+	<text>Market</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Medium</th>]]></html>
+	<text>Medium</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Sky Broadcasting</td>]]></html>
+	<text>British Sky Broadcasting</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom , Ireland</td>]]></html>
+	<text>United Kingdom , Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SES Astra satellites</td>]]></html>
+	<text>SES Astra satellites</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Adult Channel</td>]]></html>
+	<text>The Adult Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SES Astra satellite</td>]]></html>
+	<text>SES Astra satellite</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>JSTV</td>]]></html>
+	<text>JSTV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SES Astra satellite</td>]]></html>
+	<text>SES Astra satellite</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SKY Network Television</td>]]></html>
+	<text>SKY Network Television</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>terrestrial UHF</td>]]></html>
+	<text>terrestrial UHF</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sky Fiji</td>]]></html>
+	<text>Sky Fiji</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fiji</td>]]></html>
+	<text>Fiji</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>terrestrial VHF</td>]]></html>
+	<text>terrestrial VHF</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Filmnet</td>]]></html>
+	<text>Filmnet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SES Astra satellite</td>]]></html>
+	<text>SES Astra satellite</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>VideoCrypt - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Broadcaster Market Medium</text>
+</context>
+<context>
+	<score>0.8851008</score>
+	<text>[ edit ] Users</text>
+</context>
+<context>
+	<score>0.7986528</score>
+	<text>VideoCrypt</text>
+</context>
+<context>
+	<score>0.78181773</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.75675833</score>
+	<text>[ edit ] Versions</text>
+</context>
+<context>
+	<score>0.72739005</score>
+	<text>[ edit ] Users</text>
+</context>
+<context>
+	<score>0.72739005</score>
+	<text>[ edit ] Versions</text>
+</context>
+<context>
+	<score>0.72739005</score>
+	<text>[ edit ] Operating principle</text>
+</context>
+<context>
+	<score>0.72739005</score>
+	<text>[ edit ] Attacks</text>
+</context>
+<context>
+	<score>0.72739005</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7210769</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.710555</score>
+	<text>VideoCrypt is a cryptographic , smartcard -based conditional access television encryption system that scrambles analogue pay-TV signals. It was introduced in 1989 by News Datacom and was used initially by Sky TV and subsequently by several other broadcasters on the Astra satellites.</text>
+</context>
+<context>
+	<score>0.64849424</score>
+	<text>Example of a PAL video field scrambled by VideoCrypt I</text>
+</context>
+<context>
+	<score>0.60996133</score>
+	<text>Three variants of the VideoCrypt system were deployed in Europe: VideoCrypt I for the UK and Irish market and VideoCrypt II for continental Europe. The third variant, VideoCrypt-S was used on a short-lived BBC Select service. The VideoCrypt-S system differed from the typical VideoCrypt implementation as it used line shuffle scrambling.</text>
+</context>
+<context>
+	<score>0.6093676</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5696487</score>
+	<text>VideoCrypt</text>
+</context>
+<context>
+	<score>0.5236101</score>
+	<text>Sky NZ and Sky Fiji may use different versions of the VideoCrypt standard. Sky NZ used NICAM stereo for many years until abandoning it when the Sky DTH technology started replacing Sky UHF.</text>
+</context>
+<context>
+	<score>0.47281536</score>
+	<text>[ edit ] Operating principle</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Broadcaster</th><th>Market</th><th>Medium</th></tr><tr><td><a href="../../../../articles/b/r/i/British_Sky_Broadcasting_9a1d.html" title="British Sky Broadcasting">British Sky Broadcasting</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a>, <a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a></td><td><a href="../../../../articles/s/e/s/SES_Astra_a967.html" title="SES Astra">SES Astra</a> satellites</td></tr><tr><td>The Adult Channel</td><td><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td><td><a href="../../../../articles/s/e/s/SES_Astra_a967.html" title="SES Astra">SES Astra</a> satellite</td></tr><tr><td>JSTV</td><td><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td><td><a href="../../../../articles/s/e/s/SES_Astra_a967.html" title="SES Astra">SES Astra</a> satellite</td></tr><tr><td><a href="../../../../articles/s/k/y/SKY_Network_Television_bfc2.html" title="SKY Network Television">SKY Network Television</a></td><td><a href="../../../../articles/n/e/w/New_Zealand_2311.html" title="New Zealand">New Zealand</a></td><td>terrestrial <a href="../../../../articles/u/h/f/UHF_d3fc.html" class="mw-redirect" title="UHF">UHF</a></td></tr><tr><td><a href="../../../../articles/s/k/y/Sky_Fiji_35db.html" title="Sky Fiji">Sky Fiji</a></td><td><a href="../../../../articles/f/i/j/Fiji.html" title="Fiji">Fiji</a></td><td>terrestrial <a href="../../../../articles/v/h/f/VHF_08d2.html" class="mw-redirect" title="VHF">VHF</a></td></tr><tr><td><a href="../../../../articles/f/i/l/Filmnet.html" class="mw-redirect" title="Filmnet">Filmnet</a></td><td><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td><td><a href="../../../../articles/s/e/s/SES_Astra_a967.html" title="SES Astra">SES Astra</a> satellite</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r15/h/u/n/Huntington_Heroes_fe97.html_3.xml" />
+<meta name="primaryKey" value="0.875 1 2, 0.6 1, 0.15 0 1, 0.13000001 0, 0.125 3, 0.125 1 3, 0.116666675 2, 0.11375001 0 2, 0.109375 2 3, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/h/u/n/Huntington_Heroes_fe97.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponent</th>]]></html>
+	<text>Opponent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Home / Away</th>]]></html>
+	<text>Home / Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 11</td>]]></html>
+	<text>March 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Miami Valley Silverbacks</td>]]></html>
+	<text>Miami Valley Silverbacks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 62-13</td>]]></html>
+	<text>Won 62-13</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 17</td>]]></html>
+	<text>March 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Johnstown Riverhawks</td>]]></html>
+	<text>Johnstown Riverhawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 38-23</td>]]></html>
+	<text>Won 38-23</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 25</td>]]></html>
+	<text>March 25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erie Freeze</td>]]></html>
+	<text>Erie Freeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 38-46</td>]]></html>
+	<text>Lost 38-46</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 31</td>]]></html>
+	<text>March 31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Syracuse Soldiers</td>]]></html>
+	<text>Syracuse Soldiers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 38-13</td>]]></html>
+	<text>Won 38-13</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 7</td>]]></html>
+	<text>April 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erie Freeze</td>]]></html>
+	<text>Erie Freeze</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 55-33</td>]]></html>
+	<text>Won 55-33</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 15</td>]]></html>
+	<text>April 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reading Express</td>]]></html>
+	<text>Reading Express</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 39-54</td>]]></html>
+	<text>Lost 39-54</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 23</td>]]></html>
+	<text>April 23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Steubenville Stampede</td>]]></html>
+	<text>Steubenville Stampede</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 2-0*</td>]]></html>
+	<text>Won 2-0*</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 29</td>]]></html>
+	<text>April 29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Syracuse Soldiers</td>]]></html>
+	<text>Syracuse Soldiers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 50-29</td>]]></html>
+	<text>Won 50-29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May 6</td>]]></html>
+	<text>May 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canton Legends</td>]]></html>
+	<text>Canton Legends</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 41-54</td>]]></html>
+	<text>Lost 41-54</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May</td>]]></html>
+	<text>May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Miami Valley Silverbacks</td>]]></html>
+	<text>Miami Valley Silverbacks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 53-45</td>]]></html>
+	<text>Won 53-45</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May</td>]]></html>
+	<text>May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reading Express</td>]]></html>
+	<text>Reading Express</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 21-43</td>]]></html>
+	<text>Lost 21-43</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May</td>]]></html>
+	<text>May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canton Legends</td>]]></html>
+	<text>Canton Legends</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 49-75</td>]]></html>
+	<text>Lost 49-75</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June 3</td>]]></html>
+	<text>June 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Johnstown Riverhawks</td>]]></html>
+	<text>Johnstown Riverhawks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 43-15</td>]]></html>
+	<text>Won 43-15</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June 10</td>]]></html>
+	<text>June 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florence Phantoms</td>]]></html>
+	<text>Florence Phantoms</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 60-36</td>]]></html>
+	<text>Won 60-36</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June</td>]]></html>
+	<text>June</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reading Express (Playoffs)</td>]]></html>
+	<text>Reading Express (Playoffs)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 23-57</td>]]></html>
+	<text>Lost 23-57</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Huntington Heroes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Date Opponent Home / Away Result</text>
+</context>
+<context>
+	<score>0.8850956</score>
+	<text>[ edit ] 2006 Season Results</text>
+</context>
+<context>
+	<score>0.79443467</score>
+	<text>Huntington Heroes</text>
+</context>
+<context>
+	<score>0.7881213</score>
+	<text>[ edit ] 2007 Season Results</text>
+</context>
+<context>
+	<score>0.75674725</score>
+	<text>[ edit ] Heroes Honors</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] Mascot &amp; Colors</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] Heroes History</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] Season-By-Season</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] 2008 Season Schedule and Results</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] 2007 Season Results</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] 2006 Season Results</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] Heroes Honors</text>
+</context>
+<context>
+	<score>0.7231687</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168553</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71054184</score>
+	<text>[ edit ] 2008 Season Schedule and Results</text>
+</context>
+<context>
+	<score>0.6421649</score>
+	<text>* = Current Standing</text>
+</context>
+<context>
+	<score>0.6036301</score>
+	<text>Fred Ray - QB - 2006 AIFL Northern Conference ProStars First Team</text>
+</context>
+<context>
+	<score>0.59251404</score>
+	<text>Note: W = Wins, L = Losses, T = Ties</text>
+</context>
+<context>
+	<score>0.55910677</score>
+	<text>[ edit ] Season-By-Season</text>
+</context>
+<context>
+	<score>0.5210168</score>
+	<text>The Heroes announced a restructuring, naming Carlos Clayton the team&apos;s head coach. Ten remaining members of the team and several new players, including several former Heroes players from prior years, announced they continue for the rest of the season. Following three consecutive losses to division foe Fayetteville which then featured several Heroes players that played for Huntington just two weeks earlier as well as back-to-back losses to Erie, Clayton was replaced as head coach by Paul Blankenship.</text>
+</context>
+<context>
+	<score>0.5172751</score>
+	<text>James Martin - DL - 2006 AIFL Northern Conference ProStars First Team</text>
+</context>
+<context>
+	<score>0.49559557</score>
+	<text>On April 24th, 2008, Heroes players refused to board the bus and travel for a game the following day against the Florence Phantoms. Ultimately, eight players and three members of the coaching staff resigned. On April 25, a team hastily constructed of Florence-area players and members of the the Baltimore Mariners practice squad was put together by the AIFA and played as the Huntington Heroes, losing to the Phantoms 66-12.</text>
+</context>
+<context>
+	<score>0.4752586</score>
+	<text>Following the 2007 season, Coach Gary McPeek, who had led the team since its inception and compiled a 19-11 record, announced his intention to leave the team to join the coaching staff with the Lexington Horsemen in AF2. The Heroes turned to Coach Teddy Keaton from the 2007 AIFA champion Lakeland Thunderbolts to lead the team in 2008, bringing with him a professional indoor football coaching record of 50-7 plus six players from the former Lakeland team. Through the first six weeks of the 2008 season, the Huntington Heroes stood at the top of the Eastern Conference with a 5-1 record and led the conference in both scoring offense and scoring defense.</text>
+</context>
+<context>
+	<score>0.46647796</score>
+	<text>Shane Holsinger - WR - 2006 AIFL Northern Conference ProStars Second Team</text>
+</context>
+<context>
+	<score>0.45898902</score>
+	<text>The Heroes finished the 2007 season with a 10-4 regular season record, finishing 3rd in the Northern Conference, and qualifying for the AIFA playoffs. The Heroes made the return trip to Canton the following week, but could not match the intensity of the previous week, losing 76-43.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Date</th><th>Opponent</th><th><a href="../../../../articles/h/o/m/Home_team.html" class="mw-redirect" title="Home team">Home</a>/<a href="../../../../articles/h/o/m/Home_team.html" class="mw-redirect" title="Home team">Away</a></th><th>Result</th></tr><tr><td><a href="../../../../articles/m/a/r/March_11.html" title="March 11">March 11</a></td><td><a href="../../../../articles/m/i/a/Miami_Valley_Silverbacks_a760.html" title="Miami Valley Silverbacks">Miami Valley Silverbacks</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 62-13</td></tr><tr><td><a href="../../../../articles/m/a/r/March_17.html" title="March 17">March 17</a></td><td><a href="../../../../articles/j/o/h/Johnstown_Riverhawks_7bc1.html" title="Johnstown Riverhawks">Johnstown Riverhawks</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 38-23</td></tr><tr><td><a href="../../../../articles/m/a/r/March_25.html" title="March 25">March 25</a></td><td><a href="../../../../articles/e/r/i/Erie_Freeze_4a85.html" title="Erie Freeze">Erie Freeze</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/loss" class="extiw" title="wiktionary:loss">Lost</a> 38-46</td></tr><tr><td><a href="../../../../articles/m/a/r/March_31.html" title="March 31">March 31</a></td><td><a href="../../../../articles/s/y/r/Syracuse_Soldiers_7967.html" title="Syracuse Soldiers">Syracuse Soldiers</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 38-13</td></tr><tr><td><a href="../../../../articles/a/p/r/April_7.html" title="April 7">April 7</a></td><td><a href="../../../../articles/e/r/i/Erie_Freeze_4a85.html" title="Erie Freeze">Erie Freeze</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 55-33</td></tr><tr><td><a href="../../../../articles/a/p/r/April_15.html" title="April 15">April 15</a></td><td><a href="../../../../articles/r/e/a/Reading_Express_d748.html" title="Reading Express">Reading Express</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/loss" class="extiw" title="wiktionary:loss">Lost</a> 39-54</td></tr><tr><td><a href="../../../../articles/a/p/r/April_23.html" title="April 23">April 23</a></td><td><a href="../../../../articles/s/t/e/Steubenville_Stampede_665e.html" title="Steubenville Stampede">Steubenville Stampede</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 2-0*</td></tr><tr><td><a href="../../../../articles/a/p/r/April_29.html" title="April 29">April 29</a></td><td><a href="../../../../articles/s/y/r/Syracuse_Soldiers_7967.html" title="Syracuse Soldiers">Syracuse Soldiers</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 50-29</td></tr><tr><td><a href="../../../../articles/m/a/y/May_6.html" title="May 6">May 6</a></td><td><a href="../../../../articles/c/a/n/Canton_Legends_02c3.html" title="Canton Legends">Canton Legends</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/lost" class="extiw" title="wiktionary:lost">Lost</a> 41-54</td></tr><tr><td><a href="../../../../articles/m/a/y/May.html" title="May">May</a></td><td><a href="../../../../articles/m/i/a/Miami_Valley_Silverbacks_a760.html" title="Miami Valley Silverbacks">Miami Valley Silverbacks</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 53-45</td></tr><tr><td><a href="../../../../articles/m/a/y/May.html" title="May">May</a></td><td><a href="../../../../articles/r/e/a/Reading_Express_d748.html" title="Reading Express">Reading Express</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/lost" class="extiw" title="wiktionary:lost">Lost</a> 21-43</td></tr><tr><td><a href="../../../../articles/m/a/y/May.html" title="May">May</a></td><td><a href="../../../../articles/c/a/n/Canton_Legends_02c3.html" title="Canton Legends">Canton Legends</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/lost" class="extiw" title="wiktionary:lost">Lost</a> 49-75</td></tr><tr><td><a href="../../../../articles/j/u/n/June_3.html" title="June 3">June 3</a></td><td><a href="../../../../articles/j/o/h/Johnstown_Riverhawks_7bc1.html" title="Johnstown Riverhawks">Johnstown Riverhawks</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 43-15</td></tr><tr><td><a href="../../../../articles/j/u/n/June_10.html" title="June 10">June 10</a></td><td><a href="../../../../articles/f/l/o/Florence_Phantoms_a72e.html" title="Florence Phantoms">Florence Phantoms</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 60-36</td></tr><tr><td><a href="../../../../articles/j/u/n/June.html" title="June">June</a></td><td><a href="../../../../articles/r/e/a/Reading_Express_d748.html" title="Reading Express">Reading Express</a> (Playoffs)</td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/lost" class="extiw" title="wiktionary:lost">Lost</a> 23-57</td></tr></table>]]>
+</htmlSnippet>
+</entity>

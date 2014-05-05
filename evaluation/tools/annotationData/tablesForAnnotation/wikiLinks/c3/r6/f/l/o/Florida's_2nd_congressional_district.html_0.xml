@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/f/l/o/Florida&apos;s_2nd_congressional_district.html_0.xml" />
+<meta name="primaryKey" value="0.6944444 2, 0.6944444 1 2, 0.16666667 1, 0.13333334 0, 0.13333334 0 1, 0.11111111 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/f/l/o/Florida&apos;s_2nd_congressional_district.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Democratic</th>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Republican</th>]]></html>
+	<text>Republican</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A (unopposed)</td>]]></html>
+	<text>N/A (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bev Kilmer</td>]]></html>
+	<text>Bev Kilmer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tom McGurk</td>]]></html>
+	<text>Tom McGurk</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doug Dodd</td>]]></html>
+	<text>Doug Dodd</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>N/A (unopposed)</td>]]></html>
+	<text>N/A (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1996</td>]]></html>
+	<text>1996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Allen Boyd</td>]]></html>
+	<text>Allen Boyd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Sutton</td>]]></html>
+	<text>Bill Sutton</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Florida&apos;s 2nd congressional district - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Year Democratic Republican</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>The following chart shows historic election results. Bold type indicates victor. Italic type indicates incumbent.</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>Florida&apos;s 2nd congressional district</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>[ edit ] Election results</text>
+</context>
+<context>
+	<score>0.7589392</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7425874</score>
+	<text>[ edit ] Election results</text>
+</context>
+<context>
+	<score>0.7425874</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71142364</score>
+	<text>Florida&apos;s Second Congressional District is a U.S. congressional district in Florida which represents most of the eastern Florida panhandle along with much of the &quot;Big Bend&quot; area. Tallahassee , the state&apos;s capital, is the largest population center in the district. While the adjacent First District is among the most conservative districts in the state, the Second is more liberal and leans slightly less Republican in presidential elections. The residents of the Second District are currently represented by Democrat Allen Boyd . George W. Bush received 54% of the vote in this district in 2004.</text>
+</context>
+<context>
+	<score>0.66318214</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6121234</score>
+	<text>Florida&apos;s 2nd congressional district</text>
+</context>
+<context>
+	<score>0.5191692</score>
+	<text>This United States Congress -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.46693173</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Year</th><th>Democratic</th><th>Republican</th></tr><tr><td>2006</td><td><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><i>Allen Boyd</i></a></td><td>N/A (unopposed)</td></tr><tr><td>2004</td><td><i><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><b>Allen Boyd</b></a></i></td><td>Bev Kilmer</td></tr><tr><td>2002</td><td><i><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><b>Allen Boyd</b></a></i></td><td>Tom McGurk</td></tr><tr><td>2000</td><td><i><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><b>Allen Boyd</b></a></i></td><td>Doug Dodd</td></tr><tr><td>1998</td><td><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><i>Allen Boyd</i></a></td><td>N/A (unopposed)</td></tr><tr><td>1996</td><td><a href="../../../../articles/a/l/l/Allen_Boyd_8494.html" title="Allen Boyd"><b>Allen Boyd</b></a></td><td>Bill Sutton</td></tr></table>]]>
+</htmlSnippet>
+</entity>

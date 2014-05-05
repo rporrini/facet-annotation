@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/a/m/e/American_films_of_1986.html_14.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.080000006 0 2, 0.072 1 2, 0.07 0 3, 0.063 1 3, 0.060000002 0 4, 0.054 1 4, 0.028 3, 0.016 2, 0.012000001 4, 0.00224 2 3, 0.0016800001 3 4, 9.6000015E-4 2 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/m/e/American_films_of_1986.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cast</th>]]></html>
+	<text>Cast</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Genre</th>]]></html>
+	<text>Genre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Odd Jobs</td>]]></html>
+	<text>Odd Jobs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mark Story</td>]]></html>
+	<text>Mark Story</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Off Beat</td>]]></html>
+	<text>Off Beat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michael Dinner</td>]]></html>
+	<text>Michael Dinner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comedy</td>]]></html>
+	<text>Comedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>One Crazy Summer</td>]]></html>
+	<text>One Crazy Summer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Savage Steve Holland</td>]]></html>
+	<text>Savage Steve Holland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>One More Saturday Night</td>]]></html>
+	<text>One More Saturday Night</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dennis Klein</td>]]></html>
+	<text>Dennis Klein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Out of Bounds (1986 film)</td>]]></html>
+	<text>Out of Bounds (1986 film)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Tuggle</td>]]></html>
+	<text>Richard Tuggle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>American films of 1986 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.88231134</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.812121</score>
+	<text>American films of 1986</text>
+</context>
+<context>
+	<score>0.78534156</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.753969</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.73806876</score>
+	<text>[ edit ] Highest grossing films</text>
+</context>
+<context>
+	<score>0.7345452</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70776576</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.64570504</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.6071721</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.59605646</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.5563376</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.52456254</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.5172974</score>
+	<text>Title Director Cast Genre Notes</text>
+</context>
+<context>
+	<score>0.49914253</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.47880647</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.46253765</score>
+	<text>[ edit ] F</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="21%">Title</th><th width="16%">Director</th><th width="22%">Cast</th><th width="13%">Genre</th><th width="28%">Notes</th></tr><tr><td><i><a href="../../../../articles/o/d/d/Odd_Jobs_f86b.html" title="Odd Jobs">Odd Jobs</a></i></td><td>Mark Story</td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/o/f/f/Off_Beat_%28film%29_6d5c.html" title="Off Beat (film)">Off Beat</a></i></td><td><a href="../../../../articles/m/i/c/Michael_Dinner_fecd.html" title="Michael Dinner">Michael Dinner</a></td><td></td><td><a href="../../../../articles/c/o/m/Comedy_film.html" title="Comedy film">Comedy</a></td><td></td></tr><tr><td><i><a href="../../../../articles/o/n/e/One_Crazy_Summer_7fed.html" title="One Crazy Summer">One Crazy Summer</a></i></td><td><a href="../../../../articles/s/a/v/Savage_Steve_Holland_f172.html" title="Savage Steve Holland">Savage Steve Holland</a></td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/o/n/e/One_More_Saturday_Night_bb4b.html" title="One More Saturday Night">One More Saturday Night</a></i></td><td>Dennis Klein</td><td></td><td></td><td></td></tr><tr><td><i><a href="../../../../articles/o/u/t/Out_of_Bounds_%281986_film%29_13b5.html" title="Out of Bounds (1986 film)">Out of Bounds (1986 film)</a></i></td><td>Richard Tuggle</td><td></td><td></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

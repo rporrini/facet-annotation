@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r8/l/i/s/List_of_airports_in_the_United_States_a0e4.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_the_United_States_a0e4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>CITY</th>]]></html>
+	<text>CITY</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>FAA</th>]]></html>
+	<text>FAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT</th>]]></html>
+	<text>AIRPORT</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arlington / Washington, D.C.</td>]]></html>
+	<text>Arlington / Washington, D.C.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DCA</td>]]></html>
+	<text>DCA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KDCA</td>]]></html>
+	<text>KDCA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ronald Reagan Washington National Airport</td>]]></html>
+	<text>Ronald Reagan Washington National Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chantilly / Washington, D.C.</td>]]></html>
+	<text>Chantilly / Washington, D.C.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IAD</td>]]></html>
+	<text>IAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIAD</td>]]></html>
+	<text>KIAD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington Dulles International Airport</td>]]></html>
+	<text>Washington Dulles International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Charlottesville</td>]]></html>
+	<text>Charlottesville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CHO</td>]]></html>
+	<text>CHO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCHO</td>]]></html>
+	<text>KCHO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlottesville-Albemarle Airport</td>]]></html>
+	<text>Charlottesville-Albemarle Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lynchburg</td>]]></html>
+	<text>Lynchburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LYH</td>]]></html>
+	<text>LYH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KLYH</td>]]></html>
+	<text>KLYH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lynchburg Regional Airport (Preston Glenn Field)</td>]]></html>
+	<text>Lynchburg Regional Airport (Preston Glenn Field)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Newport News</td>]]></html>
+	<text>Newport News</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PHF</td>]]></html>
+	<text>PHF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KPHF</td>]]></html>
+	<text>KPHF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newport News/Williamsburg International Airport</td>]]></html>
+	<text>Newport News/Williamsburg International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norfolk</td>]]></html>
+	<text>Norfolk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ORF</td>]]></html>
+	<text>ORF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KORF</td>]]></html>
+	<text>KORF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norfolk International Airport</td>]]></html>
+	<text>Norfolk International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Richmond</td>]]></html>
+	<text>Richmond</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RIC</td>]]></html>
+	<text>RIC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KRIC</td>]]></html>
+	<text>KRIC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richmond International Airport</td>]]></html>
+	<text>Richmond International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Roanoke</td>]]></html>
+	<text>Roanoke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ROA</td>]]></html>
+	<text>ROA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KROA</td>]]></html>
+	<text>KROA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Roanoke Regional Airport (Woodrum Field)</td>]]></html>
+	<text>Roanoke Regional Airport (Woodrum Field)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>CITY FAA ICAO AIRPORT</text>
+</context>
+<context>
+	<score>0.88299334</score>
+	<text>For a complete list of public-use airports, see List of airports in Virginia .</text>
+</context>
+<context>
+	<score>0.7934674</score>
+	<text>List of airports in the United States</text>
+</context>
+<context>
+	<score>0.78602093</score>
+	<text>[ edit ] Virginia</text>
+</context>
+<context>
+	<score>0.7546476</score>
+	<text>[ edit ] Washington - West Virginia</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Alabama - Vermont</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Virginia</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Washington - West Virginia</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Wisconsin</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Wyoming</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Insular areas</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72009844</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7084431</score>
+	<text>[ edit ] Alabama - Vermont</text>
+</context>
+<context>
+	<score>0.6463807</score>
+	<text>Contents: Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming American Samoa Guam Northern Mariana Islands Puerto Rico U.S. Virgin Islands Notes See also References External links</text>
+</context>
+<context>
+	<score>0.6078468</score>
+	<text>[ edit ] Wisconsin</text>
+</context>
+<context>
+	<score>0.5967308</score>
+	<text>Descriptions of each column can be found below in the Notes section.</text>
+</context>
+<context>
+	<score>0.55701095</score>
+	<text>Each state name links to full list of airports for that state. Note: Delaware is the only U.S. state with no primary airports; see the list of airports in Delaware for other types of airports in that state.</text>
+</context>
+<context>
+	<score>0.52523506</score>
+	<text>Due to the large number of airports in the United States, this page only lists public use airports providing scheduled passenger services with over 10,000 passenger boardings per year (classified as primary airports by the Federal Aviation Administration ). Each state and territory also has its own page with a complete list of public-use airports.</text>
+</context>
+<context>
+	<score>0.5214934</score>
+	<text>For a complete list of public-use airports, see List of airports in Wisconsin .</text>
+</context>
+<context>
+	<score>0.49981433</score>
+	<text>This is a list of airports in the United States , grouped by state or territory and sorted by city .</text>
+</context>
+<context>
+	<score>0.48692417</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47069728</score>
+	<text>[ edit ] Wyoming</text>
+</context>
+<context>
+	<score>0.47065496</score>
+	<text>List of airports in the United States</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellpadding="0" cellspacing="5"><tr align="left" bgcolor="#ECECEC"><th>CITY</th><th>FAA&#160;&#160;</th><th>ICAO&#160;&#160;</th><th>AIRPORT</th></tr><tr valign="top"><td><a href="../../../../articles/a/r/l/Arlington%2C_Virginia_fc7c.html" class="mw-redirect" title="Arlington, Virginia">Arlington</a> / <a href="../../../../articles/w/a/s/Washington%2C_D.C._323f.html" title="Washington, D.C.">Washington, D.C.</a></td><td>DCA</td><td>KDCA</td><td><a href="../../../../articles/r/o/n/Ronald_Reagan_Washington_National_Airport_b7c3.html" title="Ronald Reagan Washington National Airport">Ronald Reagan Washington National Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/h/a/Chantilly%2C_Virginia_4ee1.html" title="Chantilly, Virginia">Chantilly</a> / <a href="../../../../articles/w/a/s/Washington%2C_D.C._323f.html" title="Washington, D.C.">Washington, D.C.</a></td><td>IAD</td><td>KIAD</td><td><a href="../../../../articles/w/a/s/Washington_Dulles_International_Airport_25a6.html" title="Washington Dulles International Airport">Washington Dulles International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/c/h/a/Charlottesville%2C_Virginia_400c.html" title="Charlottesville, Virginia">Charlottesville</a></td><td>CHO</td><td>KCHO</td><td><a href="../../../../articles/c/h/a/Charlottesville-Albemarle_Airport_9b99.html" title="Charlottesville-Albemarle Airport">Charlottesville-Albemarle Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/l/y/n/Lynchburg%2C_Virginia_91ed.html" title="Lynchburg, Virginia">Lynchburg</a></td><td>LYH</td><td>KLYH</td><td><a href="../../../../articles/l/y/n/Lynchburg_Regional_Airport_f366.html" title="Lynchburg Regional Airport">Lynchburg Regional Airport</a> (Preston Glenn Field)</td></tr><tr valign="top"><td><a href="../../../../articles/n/e/w/Newport_News%2C_Virginia_55a8.html" title="Newport News, Virginia">Newport News</a></td><td>PHF</td><td>KPHF</td><td><a href="../../../../articles/n/e/w/Newport_News_Williamsburg_International_Airport_6796.html" title="Newport News/Williamsburg International Airport">Newport News/Williamsburg International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/n/o/r/Norfolk%2C_Virginia_e3c8.html" title="Norfolk, Virginia">Norfolk</a></td><td>ORF</td><td>KORF</td><td><a href="../../../../articles/n/o/r/Norfolk_International_Airport_f449.html" title="Norfolk International Airport">Norfolk International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/r/i/c/Richmond%2C_Virginia_2b80.html" title="Richmond, Virginia">Richmond</a></td><td>RIC</td><td>KRIC</td><td><a href="../../../../articles/r/i/c/Richmond_International_Airport_9daf.html" title="Richmond International Airport">Richmond International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/r/o/a/Roanoke%2C_Virginia_dcee.html" title="Roanoke, Virginia">Roanoke</a></td><td>ROA</td><td>KROA</td><td><a href="../../../../articles/r/o/a/Roanoke_Regional_Airport_552a.html" title="Roanoke Regional Airport">Roanoke Regional Airport</a> (Woodrum Field)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

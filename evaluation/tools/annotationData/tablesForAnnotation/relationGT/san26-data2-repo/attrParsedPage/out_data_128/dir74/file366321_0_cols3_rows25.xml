@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san26-data2-repo/attrParsedPage/out_data_128/dir74/file366321_0_cols3_rows25.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 1, 0.6666667 0 2, 0.51111114 1 2, 0.37333333 2, " />
+<meta name="url" value="http://www.aqas.com.au/europe.htm" />
+<meta name="parentHTMLDoc" value="san26-data2-repo/attrParsedPage/out_data_128/file366321" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>Word</coltype>
+<coltype>Word</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<td><font><p><font><b><span>Country</span></b></font></p></font></td>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><b><span>Official Language</span></b></font></p></font></td>]]></html>
+	<text>Official Language</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><b><span>Additional Languages</span></b></font></p></font></td>]]></html>
+	<text>Additional Languages</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Austria</span></font></p></font></td>]]></html>
+	<text>Austria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>German</span></font></p></font></td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Belgium</span></font></p></font></td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>French</span></font></p></font></td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Dutch, German</span></font></p></font></td>]]></html>
+	<text>Dutch, German</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Britain</span></font></p></font></td>]]></html>
+	<text>Britain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>English</span></font></p></font></td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Cyprus</span></font></p></font></td>]]></html>
+	<text>Cyprus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Greek</span></font></p></font></td>]]></html>
+	<text>Greek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Turkish, English</font></p></font></td>]]></html>
+	<text>Turkish, English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Czech Republic</span></font></p></font></td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Czech</span></font></p></font></td>]]></html>
+	<text>Czech</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Denmark</span></font></p></font></td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Danish</span></font></p></font></td>]]></html>
+	<text>Danish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>English,</span>Faroese, Greenlandic</font></p></font></td>]]></html>
+	<text>English,Faroese, Greenlandic</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Estonia</span></font></p></font></td>]]></html>
+	<text>Estonia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Estonian</span></font></p></font></td>]]></html>
+	<text>Estonian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Russian, Ukrainian, Finnish</font></p></font></td>]]></html>
+	<text>Russian, Ukrainian, Finnish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Finland</span></font></p></font></td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Finnish</span></font></p></font></td>]]></html>
+	<text>Finnish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Swedish</span></font></p></font></td>]]></html>
+	<text>Swedish</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>France</span></font></p></font></td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>French</span></font></p></font></td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Germany</span></font></p></font></td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>German</span></font></p></font></td>]]></html>
+	<text>German</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Greece</span></font></p></font></td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Greek</span></font></p></font></td>]]></html>
+	<text>Greek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Hungary</span></font></p></font></td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Hungarian</span></font></p></font></td>]]></html>
+	<text>Hungarian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Ireland</span></font></p></font></td>]]></html>
+	<text>Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>English</span></font></p></font></td>]]></html>
+	<text>English</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Italy</span></font></p></font></td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Italian</span></font></p></font></td>]]></html>
+	<text>Italian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Latvia</span></font></p></font></td>]]></html>
+	<text>Latvia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Latvian</span></font></p></font></td>]]></html>
+	<text>Latvian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Lithuanian, Russian</font></p></font></td>]]></html>
+	<text>Lithuanian, Russian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Lithuania</span></font></p></font></td>]]></html>
+	<text>Lithuania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Lithuanian</span></font></p></font></td>]]></html>
+	<text>Lithuanian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Polish, Russian</font></p></font></td>]]></html>
+	<text>Polish, Russian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Luxembourg</span></font></p></font></td>]]></html>
+	<text>Luxembourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>French</span></font></p></font></td>]]></html>
+	<text>French</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>German</span></font></p></font></td>]]></html>
+	<text>German</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Malta</span></font></p></font></td>]]></html>
+	<text>Malta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Maltese</span></font></p></font></td>]]></html>
+	<text>Maltese</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>English</span></font></p></font></td>]]></html>
+	<text>English</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Netherlands</span></font></p></font></td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Dutch</span></font></p></font></td>]]></html>
+	<text>Dutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Frisian</span></font></p></font></td>]]></html>
+	<text>Frisian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Poland</span></font></p></font></td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Polish</span></font></p></font></td>]]></html>
+	<text>Polish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Portugal</span></font></p></font></td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Portuguese</font></p></font></td>]]></html>
+	<text>Portuguese</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Mirandese</font></p></font></td>]]></html>
+	<text>Mirandese</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Slovakia</span></font></p></font></td>]]></html>
+	<text>Slovakia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Slovakian</span></font></p></font></td>]]></html>
+	<text>Slovakian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Hungarian</span></font></p></font></td>]]></html>
+	<text>Hungarian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Slovenia</span></font></p></font></td>]]></html>
+	<text>Slovenia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Slovenian</font></p></font></td>]]></html>
+	<text>Slovenian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font>Serbo-Croatian</font></p></font></td>]]></html>
+	<text>Serbo-Croatian</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Spain</span></font></p></font></td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Spanish</span></font></p></font></td>]]></html>
+	<text>Spanish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Sweden</span></font></p></font></td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span>Swedish</span></font></p></font></td>]]></html>
+	<text>Swedish</text>
+</cell>
+<cell>
+	<html><![CDATA[<td><font><p><font><span></span></font></p></font></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Country Official Language Additional Languages</text>
+</context>
+<context>
+	<score>0.7699334</score>
+	<text>Member states: EU Member States as of 01.05.04</text>
+</context>
+<context>
+	<score>0.58588004</score>
+	<text>The date of foundation: 1st November, 1993.</text>
+</context>
+<context>
+	<score>0.52633345</score>
+	<text>EU Languages Danish, Dutch, English, Finnish, French, German, Greek, Italian, Portuguese, Spanish, Swedish, Czech, Estonian, Hungarian, Latvian, Lithuanian, Maltese, Polish, Slovakian and Slovene. Iceland, Liechtenstein, and Norway are EFTA countries Medical device design and manufacturing organizations need to ensure compliance to the related directives. One such directive is the Medical Device Directive or MDD. AQAS can provide assistance in this regards. [ Home ] [ About Us ] [ Search ] [ Site Map ]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><td><font><p><font><b><span>Country</span></b></font></p></font></td><td><font><p><font><b><span>Official Language</span></b></font></p></font></td><td><font><p><font><b><span>Additional Languages</span></b></font></p></font></td></tr><tr><td><font><p><font><span>Austria</span></font></p></font></td><td><font><p><font><span>German</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Belgium</span></font></p></font></td><td><font><p><font><span>French</span></font></p></font></td><td><font><p><font><span>Dutch, German</span></font></p></font></td></tr><tr><td><font><p><font><span>Britain</span></font></p></font></td><td><font><p><font><span>English</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Cyprus</span></font></p></font></td><td><font><p><font><span>Greek</span></font></p></font></td><td><font><p><font>Turkish, English</font></p></font></td></tr><tr><td><font><p><font><span>Czech Republic</span></font></p></font></td><td><font><p><font><span>Czech</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Denmark</span></font></p></font></td><td><font><p><font><span>Danish</span></font></p></font></td><td><font><p><font><span>English,</span>Faroese, Greenlandic</font></p></font></td></tr><tr><td><font><p><font><span>Estonia</span></font></p></font></td><td><font><p><font><span>Estonian</span></font></p></font></td><td><font><p><font>Russian, Ukrainian, Finnish</font></p></font></td></tr><tr><td><font><p><font><span>Finland</span></font></p></font></td><td><font><p><font><span>Finnish</span></font></p></font></td><td><font><p><font><span>Swedish</span></font></p></font></td></tr><tr><td><font><p><font><span>France</span></font></p></font></td><td><font><p><font><span>French</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Germany</span></font></p></font></td><td><font><p><font><span>German</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Greece</span></font></p></font></td><td><font><p><font><span>Greek</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Hungary</span></font></p></font></td><td><font><p><font><span>Hungarian</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Ireland</span></font></p></font></td><td><font><p><font><span>English</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Italy</span></font></p></font></td><td><font><p><font><span>Italian</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Latvia</span></font></p></font></td><td><font><p><font><span>Latvian</span></font></p></font></td><td><font><p><font>Lithuanian, Russian</font></p></font></td></tr><tr><td><font><p><font><span>Lithuania</span></font></p></font></td><td><font><p><font><span>Lithuanian</span></font></p></font></td><td><font><p><font>Polish, Russian</font></p></font></td></tr><tr><td><font><p><font><span>Luxembourg</span></font></p></font></td><td><font><p><font><span>French</span></font></p></font></td><td><font><p><font><span>German</span></font></p></font></td></tr><tr><td><font><p><font><span>Malta</span></font></p></font></td><td><font><p><font><span>Maltese</span></font></p></font></td><td><font><p><font><span>English</span></font></p></font></td></tr><tr><td><font><p><font><span>Netherlands</span></font></p></font></td><td><font><p><font><span>Dutch</span></font></p></font></td><td><font><p><font><span>Frisian</span></font></p></font></td></tr><tr><td><font><p><font><span>Poland</span></font></p></font></td><td><font><p><font><span>Polish</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Portugal</span></font></p></font></td><td><font><p><font>Portuguese</font></p></font></td><td><font><p><font>Mirandese</font></p></font></td></tr><tr><td><font><p><font><span>Slovakia</span></font></p></font></td><td><font><p><font><span>Slovakian</span></font></p></font></td><td><font><p><font><span>Hungarian</span></font></p></font></td></tr><tr><td><font><p><font><span>Slovenia</span></font></p></font></td><td><font><p><font>Slovenian</font></p></font></td><td><font><p><font>Serbo-Croatian</font></p></font></td></tr><tr><td><font><p><font><span>Spain</span></font></p></font></td><td><font><p><font><span>Spanish</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr><tr><td><font><p><font><span>Sweden</span></font></p></font></td><td><font><p><font><span>Swedish</span></font></p></font></td><td><font><p><font><span></span></font></p></font></td></tr></table>]]>
+</htmlSnippet>
+</entity>

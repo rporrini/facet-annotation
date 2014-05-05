@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r23/a/b/_/AB_Groupe_119c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 0 3, 0.3423913 1 2, 0.29347825 2, 0.26494566 2 3, 0.15217392 1, 0.11888587 1 3, 0.054347828 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/b/_/AB_Groupe_119c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Channel</th>]]></html>
+	<text>Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Category</th>]]></html>
+	<text>Category</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Information</th>]]></html>
+	<text>Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AB1</td>]]></html>
+	<text>AB1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Entertainment</td>]]></html>
+	<text>Entertainment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AB3</td>]]></html>
+	<text>AB3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AB4</td>]]></html>
+	<text>AB4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AB Moteurs</td>]]></html>
+	<text>AB Moteurs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sport</td>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Action</td>]]></html>
+	<text>Action</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movie channel</td>]]></html>
+	<text>Movie channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Animaux</td>]]></html>
+	<text>Animaux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chasse &amp; Pêche</td>]]></html>
+	<text>Chasse &amp;amp;amp; P&#234;che</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciné First</td>]]></html>
+	<text>Cin&#233; First</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movie channel</td>]]></html>
+	<text>Movie channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciné FX</td>]]></html>
+	<text>Cin&#233; FX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movie channel</td>]]></html>
+	<text>Movie channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciné Polar</td>]]></html>
+	<text>Cin&#233; Polar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movie channel</td>]]></html>
+	<text>Movie channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ciné Pop</td>]]></html>
+	<text>Cin&#233; Pop</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Movie channel</td>]]></html>
+	<text>Movie channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Encyclopedia</td>]]></html>
+	<text>Encyclopedia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Escales</td>]]></html>
+	<text>Escales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mangas</td>]]></html>
+	<text>Mangas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Children's channel</td>]]></html>
+	<text>Children&amp;apos;s channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Musique Classique</td>]]></html>
+	<text>Musique Classique</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Music channel</td>]]></html>
+	<text>Music channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NT1</td>]]></html>
+	<text>NT1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Entertainment</td>]]></html>
+	<text>Entertainment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>RTL 9</td>]]></html>
+	<text>RTL 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TMC Monte Carlo</td>]]></html>
+	<text>TMC Monte Carlo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monaco</td>]]></html>
+	<text>Monaco</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>General</td>]]></html>
+	<text>General</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Terranova</td>]]></html>
+	<text>Terranova</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Toute l’histoire</td>]]></html>
+	<text>Toute l&#8217;histoire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Documentary</td>]]></html>
+	<text>Documentary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Videoclick</td>]]></html>
+	<text>Videoclick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Video clips</td>]]></html>
+	<text>Video clips</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>XXL</td>]]></html>
+	<text>XXL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adult</td>]]></html>
+	<text>Adult</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pay-TV</td>]]></html>
+	<text>Pay-TV</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>'ZIK</td>]]></html>
+	<text>&amp;apos;ZIK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Music channel</td>]]></html>
+	<text>Music channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>AB Groupe - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Channel Country Category Information</text>
+</context>
+<context>
+	<score>0.88832986</score>
+	<text>[ edit ] Television</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>AB Groupe</text>
+</context>
+<context>
+	<score>0.7886058</score>
+	<text>It was founded in 1977 as a music production company, and in 1987 went into the world of television .</text>
+</context>
+<context>
+	<score>0.75634223</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7399905</score>
+	<text>[ edit ] Television</text>
+</context>
+<context>
+	<score>0.7399905</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.70882666</score>
+	<text>The AB Groupe is a French business group in the field of broadcasting.</text>
+</context>
+<context>
+	<score>0.66318214</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6121234</score>
+	<text>AB Groupe</text>
+</context>
+<context>
+	<score>0.6053759</score>
+	<text>AB Groupe BIS</text>
+</context>
+<context>
+	<score>0.51657224</score>
+	<text>This French television -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.46433476</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable"><tr><th style="background:#efefef;" align="left"><b>Channel</b></th><th style="background:#efefef;" align="left"><b>Country</b></th><th style="background:#efefef;" align="left"><b>Category</b></th><th style="background:#efefef;" align="left"><b>Information</b></th></tr><tr><td><a href="../../../../articles/a/b/1/AB1_1109.html" title="AB1">AB1</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Entertainment</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td><a href="../../../../articles/a/b/3/AB3_710a.html" title="AB3">AB3</a></td><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>General</td><td></td></tr><tr><td><a href="../../../../articles/a/b/4/AB4_c4d1.html" class="mw-redirect" title="AB4">AB4</a></td><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>General</td><td></td></tr><tr><td>AB Moteurs</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Sport</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Action</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Movie channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Animaux</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Documentary</td><td></td></tr><tr><td>Chasse &amp; Pêche</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Documentary</td><td></td></tr><tr><td>Ciné First</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Movie channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Ciné FX</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Movie channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Ciné Polar</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Movie channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Ciné Pop</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Movie channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Encyclopedia</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Documentary</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Escales</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Documentary</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Mangas</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Children's channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>Musique Classique</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Music channel</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td><a href="../../../../articles/n/t/1/NT1_%28television%29_6a07.html" title="NT1 (television)">NT1</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Entertainment</td><td></td></tr><tr><td>RTL 9</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>General</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td><a href="../../../../articles/t/m/c/TMC_Monte_Carlo_f04d.html" class="mw-redirect" title="TMC Monte Carlo">TMC Monte Carlo</a></td><td><a href="../../../../articles/m/o/n/Monaco.html" title="Monaco">Monaco</a></td><td>General</td><td></td></tr><tr><td>Terranova</td><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>Documentary</td><td></td></tr><tr><td>Toute l’histoire</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Documentary</td><td></td></tr><tr><td>Videoclick</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Video clips</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td><a href="../../../../articles/x/x/l/XXL_%28French_TV%29_8b2c.html" title="XXL (French TV)">XXL</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Adult</td><td><a href="../../../../articles/p/a/y/Pay-TV_2f90.html" class="mw-redirect" title="Pay-TV">Pay-TV</a></td></tr><tr><td>'ZIK</td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>Music channel</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

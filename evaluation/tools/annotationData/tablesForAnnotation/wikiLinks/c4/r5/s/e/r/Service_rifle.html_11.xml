@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/s/e/r/Service_rifle.html_11.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.52500004 1, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.120000005 2, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/e/r/Service_rifle.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Firearm</th>]]></html>
+	<text>Firearm</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Calibre</th>]]></html>
+	<text>Calibre</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Service</th>]]></html>
+	<text>Service</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berdan rifle</td>]]></html>
+	<text>Berdan rifle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bolt-action</td>]]></html>
+	<text>Bolt-action</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.75x58mm</td>]]></html>
+	<text>10.75x58mm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1869-1891</td>]]></html>
+	<text>1869-1891</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mosin-Nagant</td>]]></html>
+	<text>Mosin-Nagant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bolt-action</td>]]></html>
+	<text>Bolt-action</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.62x54R</td>]]></html>
+	<text>7.62x54R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1891-1963</td>]]></html>
+	<text>1891-1963</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SKS</td>]]></html>
+	<text>SKS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Semi-automatic</td>]]></html>
+	<text>Semi-automatic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.62x39mm</td>]]></html>
+	<text>7.62x39mm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1945-1989</td>]]></html>
+	<text>1945-1989</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AK-47</td>]]></html>
+	<text>AK-47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Selective fire</td>]]></html>
+	<text>Selective fire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.62x39mm</td>]]></html>
+	<text>7.62x39mm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1949-Present</td>]]></html>
+	<text>1949-Present</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>AK-74</td>]]></html>
+	<text>AK-74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Selective fire</td>]]></html>
+	<text>Selective fire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.45x39mm</td>]]></html>
+	<text>5.45x39mm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1974-Present</td>]]></html>
+	<text>1974-Present</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Service rifle - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Firearm Type Calibre Service</text>
+</context>
+<context>
+	<score>0.8827488</score>
+	<text>AK-47 assault rifle</text>
+</context>
+<context>
+	<score>0.80323803</score>
+	<text>Service rifle</text>
+</context>
+<context>
+	<score>0.78566796</score>
+	<text>[ edit ] Russia / Soviet Union</text>
+</context>
+<context>
+	<score>0.7542594</score>
+	<text>[ edit ] Spain</text>
+</context>
+<context>
+	<score>0.72967315</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72967315</score>
+	<text>[ edit ] Service rifles by nation</text>
+</context>
+<context>
+	<score>0.72967315</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7255735</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7039036</score>
+	<text>G3 rifle</text>
+</context>
+<context>
+	<score>0.6458716</score>
+	<text>[ edit ] Portugal</text>
+</context>
+<context>
+	<score>0.60729456</score>
+	<text>G36 rifle</text>
+</context>
+<context>
+	<score>0.59616625</score>
+	<text>A collection of Norwegian rifles from the Fram museum. Showing from the top:Krag-J rgensen (civilian M1894 with carved stock), Krag-Petersson, Jarmann M1884, Remington M1867</text>
+</context>
+<context>
+	<score>0.55640197</score>
+	<text>[ edit ] Norway</text>
+</context>
+<context>
+	<score>0.52459055</score>
+	<text>[ edit ] Mexico</text>
+</context>
+<context>
+	<score>0.52084464</score>
+	<text>[ edit ] Switzerland</text>
+</context>
+<context>
+	<score>0.4950417</score>
+	<text>Arisaka Type 38 rifle</text>
+</context>
+<context>
+	<score>0.47878206</score>
+	<text>[ edit ] Japan</text>
+</context>
+<context>
+	<score>0.46999177</score>
+	<text>[ edit ] United Kingdom / British Empire &amp; Commonwealth of Nations</text>
+</context>
+<context>
+	<score>0.4624946</score>
+	<text>[ edit ] Italy</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Firearm</th><th>Type</th><th>Calibre</th><th>Service</th></tr><tr><td><a href="../../../../articles/b/e/r/Berdan_rifle.html" title="Berdan rifle">Berdan rifle</a></td><td><a href="../../../../articles/b/o/l/Bolt-action.html" class="mw-redirect" title="Bolt-action">Bolt-action</a></td><td>10.75x58mm</td><td>1869-1891</td></tr><tr><td><a href="../../../../articles/m/o/s/Mosin-Nagant_d0e6.html" title="Mosin-Nagant">Mosin-Nagant</a></td><td>Bolt-action</td><td><a href="../../../../articles/7/2E/6/7.62x54R_24f8.html" class="mw-redirect" title="7.62x54R">7.62x54R</a></td><td>1891-1963</td></tr><tr><td><a href="../../../../articles/s/k/s/SKS_8e02.html" title="SKS">SKS</a></td><td><a href="../../../../articles/s/e/m/Semi-automatic_rifle.html" title="Semi-automatic rifle">Semi-automatic</a></td><td><a href="../../../../articles/7/2E/6/7.62x39.html" class="mw-redirect" title="7.62x39">7.62x39mm</a></td><td>1945-1989</td></tr><tr><td><a href="../../../../articles/a/k/-/AK-47_b9b4.html" title="AK-47">AK-47</a></td><td><a href="../../../../articles/s/e/l/Selective_fire.html" title="Selective fire">Selective fire</a></td><td>7.62x39mm</td><td>1949-Present</td></tr><tr><td><a href="../../../../articles/a/k/-/AK-74_d2ee.html" title="AK-74">AK-74</a></td><td>Selective fire</td><td><a href="../../../../articles/5/2E/4/5.45x39mm.html" title="5.45x39mm">5.45x39mm</a></td><td>1974-Present</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_cities_by_GDP_f402.html_7.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.7 2, 0.15 0, 0.15 0 1, 0.13125001 0 2, 0.0625 3, 0.0625 1 3, 0.0546875 2 3, 0.009375 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cities_by_GDP_f402.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GDP in $US BN</th>]]></html>
+	<text>GDP in $US BN</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Istanbul</td>]]></html>
+	<text>Istanbul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png Turkey</td>]]></html>
+	<text>../../../../images/shared/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png Turkey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 133</td>]]></html>
+	<text>$ 133</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tel Aviv</td>]]></html>
+	<text>Tel Aviv</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png Israel</td>]]></html>
+	<text>../../../../images/shared/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png Israel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 92</td>]]></html>
+	<text>$ 92</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tehran</td>]]></html>
+	<text>Tehran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png Iran</td>]]></html>
+	<text>../../../../images/shared/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png Iran</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 88</td>]]></html>
+	<text>$ 88</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Riyadh</td>]]></html>
+	<text>Riyadh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png Saudi Arabia</td>]]></html>
+	<text>../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png Saudi Arabia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 80</td>]]></html>
+	<text>$ 80</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jeddah</td>]]></html>
+	<text>Jeddah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png Saudi Arabia</td>]]></html>
+	<text>../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png Saudi Arabia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 55</td>]]></html>
+	<text>$ 55</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cities by GDP - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank City Country GDP in $US BN</text>
+</context>
+<context>
+	<score>0.8787713</score>
+	<text>Tel Aviv</text>
+</context>
+<context>
+	<score>0.79070216</score>
+	<text>List of cities by GDP</text>
+</context>
+<context>
+	<score>0.78599757</score>
+	<text>[ edit ] Richest in the Middle East</text>
+</context>
+<context>
+	<score>0.75462073</score>
+	<text>[ edit ] Richest in South America</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] List of the 100 Richest Cities in the World in 2005</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in North America</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in North America EXCEPT U.S. Cities</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in Western Europe</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in Eastern and Northern Europe</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in East Asia</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in Central and Southeast Asia</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in the Middle East</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in South America</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in Africa</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] Richest in Oceania</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7173251</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71311575</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042019</score>
+	<text>Singapore</text>
+</context>
+<context>
+	<score>0.6463421</score>
+	<text>[ edit ] Richest in Central and Southeast Asia</text>
+</context>
+<context>
+	<score>0.5924775</score>
+	<text>Tokyo</text>
+</context>
+<context>
+	<score>0.5569626</score>
+	<text>[ edit ] Richest in East Asia</text>
+</context>
+<context>
+	<score>0.52144116</score>
+	<text>[ edit ] Richest in Africa</text>
+</context>
+<context>
+	<score>0.52097386</score>
+	<text>Moscow</text>
+</context>
+<context>
+	<score>0.4997597</score>
+	<text>[ edit ] Richest in Eastern and Northern Europe</text>
+</context>
+<context>
+	<score>0.4752116</score>
+	<text>Paris</text>
+</context>
+<context>
+	<score>0.46643016</score>
+	<text>Cairo</text>
+</context>
+<context>
+	<score>0.46314985</score>
+	<text>[ edit ] Richest in Western Europe</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>City</th><th>Country</th><th>GDP in $US BN</th></tr><tr><td>1</td><td><a href="../../../../articles/i/s/t/Istanbul.html" title="Istanbul">Istanbul</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Turkey.svg_be10.html" class="image" title="Flag of Turkey"><img alt="Flag of Turkey" src="../../../../images/shared/thumb/b/b4/Flag_of_Turkey.svg/22px-Flag_of_Turkey.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/t/u/r/Turkey.html" title="Turkey">Turkey</a></td><td>$ 133</td></tr><tr><td>2</td><td><a href="../../../../articles/t/e/l/Tel_Aviv_6d0d.html" title="Tel Aviv">Tel Aviv</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Israel.svg_d6ae.html" class="image" title="Flag of Israel"><img alt="Flag of Israel" src="../../../../images/shared/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png" width="22" height="16" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/i/s/r/Israel.html" title="Israel">Israel</a></td><td>$ 92</td></tr><tr><td>3</td><td><a href="../../../../articles/t/e/h/Tehran.html" title="Tehran">Tehran</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Iran.svg_133f.html" class="image" title="Flag of Iran"><img alt="Flag of Iran" src="../../../../images/shared/thumb/c/ca/Flag_of_Iran.svg/22px-Flag_of_Iran.svg.png" width="22" height="13" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/i/r/a/Iran.html" title="Iran">Iran</a></td><td>$ 88</td></tr><tr><td>4</td><td><a href="../../../../articles/r/i/y/Riyadh.html" title="Riyadh">Riyadh</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Saudi_Arabia.svg_f071.html" class="image" title="Flag of Saudi Arabia"><img alt="Flag of Saudi Arabia" src="../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/s/a/u/Saudi_Arabia_53d2.html" title="Saudi Arabia">Saudi Arabia</a></td><td>$ 80</td></tr><tr><td>5</td><td><a href="../../../../articles/j/e/d/Jeddah.html" title="Jeddah">Jeddah</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Saudi_Arabia.svg_f071.html" class="image" title="Flag of Saudi Arabia"><img alt="Flag of Saudi Arabia" src="../../../../images/shared/thumb/0/0d/Flag_of_Saudi_Arabia.svg/22px-Flag_of_Saudi_Arabia.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/s/a/u/Saudi_Arabia_53d2.html" title="Saudi Arabia">Saudi Arabia</a></td><td>$ 55</td></tr></table>]]>
+</htmlSnippet>
+</entity>

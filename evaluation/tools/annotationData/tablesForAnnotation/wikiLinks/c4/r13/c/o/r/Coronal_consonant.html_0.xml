@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r13/c/o/r/Coronal_consonant.html_0.xml" />
+<meta name="primaryKey" value="0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.61538464 0, 0.0625 3, 0.0625 0 3, 0.0546875 1 3, 0.046875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/c/o/r/Coronal_consonant.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>IPA Symbol</th>]]></html>
+	<text>IPA Symbol</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name of the consonant</th>]]></html>
+	<text>Name of the consonant</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Example</th>]]></html>
+	<text>Example</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IPA</th>]]></html>
+	<text>IPA</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>z</td>]]></html>
+	<text>z</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced alveolar fricative</td>]]></html>
+	<text>Voiced alveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>z oo</td>]]></html>
+	<text>z oo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/zuː/</td>]]></html>
+	<text>/zu&#720;/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>s</td>]]></html>
+	<text>s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless alveolar fricative</td>]]></html>
+	<text>Voiceless alveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>s ea</td>]]></html>
+	<text>s ea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/siː/</td>]]></html>
+	<text>/si&#720;/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ð</td>]]></html>
+	<text>&#240;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced dental fricative</td>]]></html>
+	<text>Voiced dental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>th at</td>]]></html>
+	<text>th at</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/ðæt/</td>]]></html>
+	<text>/&#240;&#230;t/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>θ</td>]]></html>
+	<text>&#952;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless dental fricative</td>]]></html>
+	<text>Voiceless dental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>th ud</td>]]></html>
+	<text>th ud</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/θʌd/</td>]]></html>
+	<text>/&#952;&#652;d/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ʒ</td>]]></html>
+	<text>&#658;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced postalveolar fricative</td>]]></html>
+	<text>Voiced postalveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>vi s ion</td>]]></html>
+	<text>vi s ion</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/vɪʒən/</td>]]></html>
+	<text>/v&#618;&#658;&#601;n/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ʃ</td>]]></html>
+	<text>&#643;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless postalveolar fricative</td>]]></html>
+	<text>Voiceless postalveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>sh e</td>]]></html>
+	<text>sh e</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/ʃiː/</td>]]></html>
+	<text>/&#643;i&#720;/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>n</td>]]></html>
+	<text>n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar nasal</td>]]></html>
+	<text>Alveolar nasal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n ame</td>]]></html>
+	<text>n ame</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/neɪm/</td>]]></html>
+	<text>/ne&#618;m/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>d</td>]]></html>
+	<text>d</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced alveolar plosive</td>]]></html>
+	<text>Voiced alveolar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>d ay</td>]]></html>
+	<text>d ay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/deɪ/</td>]]></html>
+	<text>/de&#618;/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>t</td>]]></html>
+	<text>t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless alveolar plosive</td>]]></html>
+	<text>Voiceless alveolar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t ea</td>]]></html>
+	<text>t ea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/tiː/</td>]]></html>
+	<text>/ti&#720;/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɹ</td>]]></html>
+	<text>&#633;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar approximant</td>]]></html>
+	<text>Alveolar approximant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>r eef</td>]]></html>
+	<text>r eef</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/ɹiːf/</td>]]></html>
+	<text>/&#633;i&#720;f/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>l</td>]]></html>
+	<text>l</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lateral alveolar approximant</td>]]></html>
+	<text>Lateral alveolar approximant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>l ift</td>]]></html>
+	<text>l ift</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/lɪft/</td>]]></html>
+	<text>/l&#618;ft/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>r</td>]]></html>
+	<text>r</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar trill</td>]]></html>
+	<text>Alveolar trill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish pe rr o</td>]]></html>
+	<text>Spanish pe rr o</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/pero/</td>]]></html>
+	<text>/pero/</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɾ</td>]]></html>
+	<text>&#638;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar tap</td>]]></html>
+	<text>Alveolar tap</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish pe r o</td>]]></html>
+	<text>Spanish pe r o</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>/peɾo/</td>]]></html>
+	<text>/pe&#638;o/</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Coronal consonant - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>IPA Symbol Name of the consonant Example IPA</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>(The list below is missing linguolabial, alveolo-palatal and retroflex consonants)</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>Coronal consonant</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>Coronal places of articulation include the dental consonants at the upper teeth , the alveolar consonants at the upper gum (the alveolar ridge ), the various postalveolar consonants (domed palato-alveolar, laminal alveolo-palatal, and apical retroflex) just behind that, and the true retroflex consonants curled back against the hard palate .</text>
+</context>
+<context>
+	<score>0.7589392</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7503784</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71142364</score>
+	<text>Coronal consonants are articulated with the flexible front part of the tongue . Only the coronal consonants can be divided into apical (using the tongue tip), laminal (using the tongue blade), domed (with the tongue bunched up), or sub-apical (with the tongue curled back), as well as a few rarer orientations, because only the front of the tongue has such dexterity. Coronals also have another dimension, grooved, that is used to make sibilants in combination with the orientations above.</text>
+</context>
+<context>
+	<score>0.64760023</score>
+	<text>Please help improve this article by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+</context>
+<context>
+	<score>0.6079729</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5965415</score>
+	<text>This article does not cite any references or sources . (April 2008)</text>
+</context>
+<context>
+	<score>0.5790674</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5463898</score>
+	<text>Coronal consonant</text>
+</context>
+<context>
+	<score>0.45134982</score>
+	<text>Hidden categories:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" style="text-align:center"><tr><th width="54" height="54" style="background: gray; color: white">IPA<br />Symbol</th><th width="216" style="background: gray; color: white">Name of the consonant</th><th width="150" style="background: gray; color: white">Example</th><th width="138" style="background: gray; color: white">IPA</th></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">z</span></td><td><a href="../../../../articles/v/o/i/Voiced_alveolar_fricative.html" title="Voiced alveolar fricative">Voiced alveolar fricative</a></td><td><font color="#FF0000">z</font>oo</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/zuː/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></td><td><a href="../../../../articles/v/o/i/Voiceless_alveolar_fricative.html" title="Voiceless alveolar fricative">Voiceless alveolar fricative</a></td><td><font color="#FF0000">s</font>ea</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/siː/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ð</span></td><td><a href="../../../../articles/v/o/i/Voiced_dental_fricative.html" title="Voiced dental fricative">Voiced dental fricative</a></td><td><font color="#FF0000">th</font>at</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ðæt/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">θ</span></td><td><a href="../../../../articles/v/o/i/Voiceless_dental_fricative.html" title="Voiceless dental fricative">Voiceless dental fricative</a></td><td><font color="#FF0000">th</font>ud</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/θʌd/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʒ</span></td><td><a href="../../../../articles/v/o/i/Voiced_postalveolar_fricative.html" title="Voiced postalveolar fricative">Voiced postalveolar fricative</a></td><td>vi<font color="#FF0000">s</font>ion</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/vɪʒən/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʃ</span></td><td><a href="../../../../articles/v/o/i/Voiceless_postalveolar_fricative.html" title="Voiceless postalveolar fricative">Voiceless postalveolar fricative</a></td><td><font color="#FF0000">sh</font>e</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ʃiː/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">n</span></td><td><a href="../../../../articles/a/l/v/Alveolar_nasal.html" title="Alveolar nasal">Alveolar nasal</a></td><td><font color="#FF0000">n</font>ame</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/neɪm/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">d</span></td><td><a href="../../../../articles/v/o/i/Voiced_alveolar_plosive.html" title="Voiced alveolar plosive">Voiced alveolar plosive</a></td><td><font color="#FF0000">d</font>ay</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/deɪ/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></td><td><a href="../../../../articles/v/o/i/Voiceless_alveolar_plosive.html" title="Voiceless alveolar plosive">Voiceless alveolar plosive</a></td><td><font color="#FF0000">t</font>ea</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/tiː/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɹ</span></td><td><a href="../../../../articles/a/l/v/Alveolar_approximant.html" title="Alveolar approximant">Alveolar approximant</a></td><td><font color="#FF0000">r</font>eef</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/ɹiːf/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span></td><td><a href="../../../../articles/l/a/t/Lateral_alveolar_approximant.html" class="mw-redirect" title="Lateral alveolar approximant">Lateral alveolar approximant</a></td><td><font color="#FF0000">l</font>ift</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/lɪft/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">r</span></td><td><a href="../../../../articles/a/l/v/Alveolar_trill.html" title="Alveolar trill">Alveolar trill</a></td><td><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a> pe<font color="#FF0000">rr</font>o</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/pero/</span></td></tr><tr><td height="32"><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɾ</span></td><td><a href="../../../../articles/a/l/v/Alveolar_tap.html" title="Alveolar tap">Alveolar tap</a></td><td><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a> pe<font color="#FF0000">r</font>o</td><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">/peɾo/</span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

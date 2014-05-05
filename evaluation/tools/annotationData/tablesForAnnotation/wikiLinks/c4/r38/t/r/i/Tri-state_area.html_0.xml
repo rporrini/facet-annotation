@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r38/t/r/i/Tri-state_area.html_0.xml" />
+<meta name="primaryKey" value="0.75986844 0 1, 0.6513158 0 2, 0.57894737 0, 0.55263156 1, 0.5180921 1 2, 0.375 2, 0.049342107 0 3, 0.043174345 1 3, 0.03207237 2 3, 0.02138158 3, " />
+<meta name="parentHTMLDoc" value="en/articles/t/r/i/Tri-state_area.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State 1</th>]]></html>
+	<text>State 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 2</th>]]></html>
+	<text>State 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State 3</th>]]></html>
+	<text>State 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See Ark-La-Tex .</td>]]></html>
+	<text>See Ark-La-Tex .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 Mile Corner</td>]]></html>
+	<text>8 Mile Corner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Preston Monument</td>]]></html>
+	<text>Preston Monument</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See The Berkshires .</td>]]></html>
+	<text>See The Berkshires .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See Thompson, Connecticut .</td>]]></html>
+	<text>See Thompson, Connecticut .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See Mason-Dixon line .</td>]]></html>
+	<text>See Mason-Dixon line .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Located within Yellowstone National Park .</td>]]></html>
+	<text>Located within Yellowstone National Park .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tri-State Peak [2] Located within Cumberland Gap National Historical Park .</td>]]></html>
+	<text>Tri-State Peak [2] Located within Cumberland Gap National Historical Park .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington, D.C.</td>]]></html>
+	<text>Washington, D.C.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See Washington Metropolitan Area . There are 2 tripoints where these three holdings meet.</td>]]></html>
+	<text>See Washington Metropolitan Area . There are 2 tripoints where these three holdings meet.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Within Harpers Ferry National Historical Park</td>]]></html>
+	<text>Within Harpers Ferry National Historical Park</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>See Port Jervis, New York .</td>]]></html>
+	<text>See Port Jervis, New York .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Texomex Marker</td>]]></html>
+	<text>Texomex Marker</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tri-state area - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State 1 State 2 State 3 Notes</text>
+</context>
+<context>
+	<score>0.8787399</score>
+	<text>They are:</text>
+</context>
+<context>
+	<score>0.79688925</score>
+	<text>Tri-state area</text>
+</context>
+<context>
+	<score>0.7817317</score>
+	<text>Of the 62 points where three states join, there are 38 tripoints with markers on land in the United States.</text>
+</context>
+<context>
+	<score>0.7572366</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] Water Tripoints</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] Other Tripoints</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7261725</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7192828</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7110151</score>
+	<text>[ edit ] Land tripoints</text>
+</context>
+<context>
+	<score>0.6420401</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.60349196</score>
+	<text>There are another 24 places where the tripoint is under water:</text>
+</context>
+<context>
+	<score>0.59237194</score>
+	<text>The &quot;Joplin District&quot; Lead-Zinc Mining region of Oklahoma, Kansas and Missouri produced mineral specimens famous throughout the world as &quot;Tri-State&quot; minerals.</text>
+</context>
+<context>
+	<score>0.55952716</score>
+	<text>Other large metropolitan areas with a tri-state area include Cincinnati , Memphis , Philadelphia , and Washington, D.C.</text>
+</context>
+<context>
+	<score>0.5277396</score>
+	<text>The Tri-State Region around New York City is where New York , New Jersey , and Connecticut meet. There is no tripoint, however, as Connecticut does not touch New Jersey. Chicago&apos;s tri-state region includes Illinois , Indiana , and Wisconsin and is commonly referred to as Chicagoland . This tri-state region also does not have a tripoint since Indiana does not touch Wisconsin.</text>
+</context>
+<context>
+	<score>0.52399653</score>
+	<text>[ edit ] Regions with no Tripoint</text>
+</context>
+<context>
+	<score>0.5023095</score>
+	<text>There are a number of places in the 48 contiguous United States known as tri-state areas where three states or holdings meet at one point (a tripoint ), or in proximity to each other. The two most well-known are for the New York and Chicago metropolitan areas.</text>
+</context>
+<context>
+	<score>0.47507563</score>
+	<text>CT-RI-MA Tripoint Marker</text>
+</context>
+<context>
+	<score>0.46629193</score>
+	<text>The following tri-state areas are also notable, but have no tripoint:</text>
+</context>
+<context>
+	<score>0.46093768</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>NY-MA-CT Tripoint Marker</text>
+</context>
+<context>
+	<score>0.45052153</score>
+	<text>Tri-state area</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" width="70%"><tr><th width="15%">State 1</th><th width="15%">State 2</th><th width="15%">State 3</th><th width="55%">Notes</th></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td></tr><tr><td><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td></tr><tr><td><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td>See <a href="../../../../articles/a/r/k/Ark-La-Tex_1e01.html" title="Ark-La-Tex">Ark-La-Tex</a>.</td></tr><tr><td><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td><a href="../../../../articles/8/_/m/8_Mile_Corner_d3ac.html" title="8 Mile Corner">8 Mile Corner</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td><a href="../../../../articles/p/r/e/Preston_Monument_b86b.html" title="Preston Monument">Preston Monument</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td>See <a href="../../../../articles/t/h/e/The_Berkshires_1ab2.html" title="The Berkshires">The Berkshires</a>.</td></tr><tr><td><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td>See <a href="../../../../articles/t/h/o/Thompson%2C_Connecticut_2015.html" title="Thompson, Connecticut">Thompson, Connecticut</a>.</td></tr><tr><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>See <a href="../../../../articles/m/a/s/Mason-Dixon_line_7ed9.html" title="Mason-Dixon line">Mason-Dixon line</a>.</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td>Located within <a href="../../../../articles/y/e/l/Yellowstone_National_Park_578c.html" title="Yellowstone National Park">Yellowstone National Park</a>.</td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td></tr><tr><td><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td></tr><tr><td><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td></tr><tr><td><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td><a href="../../../../articles/t/r/i/Tri-State_Peak_26e8.html" title="Tri-State Peak">Tri-State Peak</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup> Located within <a href="../../../../articles/c/u/m/Cumberland_Gap_National_Historical_Park_5e77.html" title="Cumberland Gap National Historical Park">Cumberland Gap National Historical Park</a>.</td></tr><tr><td><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td><a href="../../../../articles/w/a/s/Washington%2C_D.C._323f.html" title="Washington, D.C.">Washington, D.C.</a></td><td>See <a href="../../../../articles/w/a/s/Washington_Metropolitan_Area_1e98.html" title="Washington Metropolitan Area">Washington Metropolitan Area</a>. There are 2 tripoints where these three holdings meet.</td></tr><tr><td><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td>Within <a href="../../../../articles/h/a/r/Harpers_Ferry_National_Historical_Park_b026.html" title="Harpers Ferry National Historical Park">Harpers Ferry National Historical Park</a></td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td></tr><tr><td><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td></tr><tr><td><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td></tr><tr><td><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td>See <a href="../../../../articles/p/o/r/Port_Jervis%2C_New_York_5a8b.html" title="Port Jervis, New York">Port Jervis, New York</a>.</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td><a href="../../../../articles/t/e/x/Texhomex.html" title="Texhomex">Texomex Marker</a></td></tr><tr><td><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td></tr><tr><td><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

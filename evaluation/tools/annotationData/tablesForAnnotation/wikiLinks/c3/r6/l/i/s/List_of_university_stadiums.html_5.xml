@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_university_stadiums.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_university_stadiums.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>School</th>]]></html>
+	<text>School</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Alabama</td>]]></html>
+	<text>University of Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bryant-Denny Stadium</td>]]></html>
+	<text>Bryant-Denny Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,138</td>]]></html>
+	<text>92,138</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Arkansas</td>]]></html>
+	<text>University of Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Donald W. Reynolds Razorback Stadium</td>]]></html>
+	<text>Donald W. Reynolds Razorback Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>76,000</td>]]></html>
+	<text>76,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Auburn University</td>]]></html>
+	<text>Auburn University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jordan-Hare Stadium</td>]]></html>
+	<text>Jordan-Hare Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>87,451</td>]]></html>
+	<text>87,451</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Mississippi</td>]]></html>
+	<text>University of Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vaught-Hemingway Stadium</td>]]></html>
+	<text>Vaught-Hemingway Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60,850</td>]]></html>
+	<text>60,850</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi State University</td>]]></html>
+	<text>Mississippi State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Davis Wade Stadium</td>]]></html>
+	<text>Davis Wade Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55,082</td>]]></html>
+	<text>55,082</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana State University</td>]]></html>
+	<text>Louisiana State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tiger Stadium</td>]]></html>
+	<text>Tiger Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,400</td>]]></html>
+	<text>92,400</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of university stadiums - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>School Stadium Capacity</text>
+</context>
+<context>
+	<score>0.88208055</score>
+	<text>[ edit ] West</text>
+</context>
+<context>
+	<score>0.7907288</score>
+	<text>List of university stadiums</text>
+</context>
+<context>
+	<score>0.7851099</score>
+	<text>[ edit ] East</text>
+</context>
+<context>
+	<score>0.7537371</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Big 12</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Big 10</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Pac10</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] BigEast</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Mid-America</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Conference USA</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Mountain West</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Sun Belt</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] WAC</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Independent</text>
+</context>
+<context>
+	<score>0.71644616</score>
+	<text>[ edit ] Complete List of NCAA Stadiums</text>
+</context>
+<context>
+	<score>0.7131523</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7075334</score>
+	<text>[ edit ] SEC</text>
+</context>
+<context>
+	<score>0.64547217</score>
+	<text>[ edit ] Pac10</text>
+</context>
+<context>
+	<score>0.60693896</score>
+	<text>[ edit ] ACC</text>
+</context>
+<context>
+	<score>0.59582317</score>
+	<text>[ edit ] Big 10</text>
+</context>
+<context>
+	<score>0.55610406</score>
+	<text>[ edit ] South</text>
+</context>
+<context>
+	<score>0.5243287</score>
+	<text>[ edit ] North</text>
+</context>
+<context>
+	<score>0.5205871</score>
+	<text>[ edit ] Atlantic</text>
+</context>
+<context>
+	<score>0.49890843</score>
+	<text>[ edit ] Big 12</text>
+</context>
+<context>
+	<score>0.47527838</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.46979192</score>
+	<text>[ edit ] Coastal</text>
+</context>
+<context>
+	<score>0.4590094</score>
+	<text>NCAA Bowl Division College Stadiums</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr bgcolor="#CCCCCC"><th>School</th><th>Stadium</th><th>Capacity</th></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Alabama_7e4c.html" title="University of Alabama">University of Alabama</a></td><td><a href="../../../../articles/b/r/y/Bryant-Denny_Stadium_4ae5.html" title="Bryant-Denny Stadium">Bryant-Denny Stadium</a></td><td>92,138</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Arkansas_116b.html" title="University of Arkansas">University of Arkansas</a></td><td><a href="../../../../articles/d/o/n/Donald_W._Reynolds_Razorback_Stadium_9a8c.html" title="Donald W. Reynolds Razorback Stadium">Donald W. Reynolds Razorback Stadium</a></td><td>76,000</td></tr><tr><td><a href="../../../../articles/a/u/b/Auburn_University_7d24.html" title="Auburn University">Auburn University</a></td><td><a href="../../../../articles/j/o/r/Jordan-Hare_Stadium_ba7a.html" title="Jordan-Hare Stadium">Jordan-Hare Stadium</a></td><td>87,451</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Mississippi_d3d6.html" title="University of Mississippi">University of Mississippi</a></td><td><a href="../../../../articles/v/a/u/Vaught-Hemingway_Stadium_78b4.html" title="Vaught-Hemingway Stadium">Vaught-Hemingway Stadium</a></td><td>60,850</td></tr><tr><td><a href="../../../../articles/m/i/s/Mississippi_State_University_d169.html" title="Mississippi State University">Mississippi State University</a></td><td><a href="../../../../articles/d/a/v/Davis_Wade_Stadium_2ac8.html" title="Davis Wade Stadium">Davis Wade Stadium</a></td><td>55,082</td></tr><tr><td><a href="../../../../articles/l/o/u/Louisiana_State_University_92ca.html" title="Louisiana State University">Louisiana State University</a></td><td><a href="../../../../articles/t/i/g/Tiger_Stadium_%28LSU%29_285c.html" title="Tiger Stadium (LSU)">Tiger Stadium</a></td><td>92,400</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/s/y/d/Sydney_Roosters_2007_7cf6.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 1, 0.75 0 2, 0.65625 1 2, 0.64285713 2, 0.0625 3, 0.0625 0 3, 0.0546875 1 3, 0.046875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/s/y/d/Sydney_Roosters_2007_7cf6.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Club Going To</th>]]></html>
+	<text>Club Going To</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Details</th>]]></html>
+	<text>Details</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Craig Wing</td>]]></html>
+	<text>Craig Wing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Sydney Rabbitohs</td>]]></html>
+	<text>South Sydney Rabbitohs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4-year contract, begins 2008</td>]]></html>
+	<text>4-year contract, begins 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[27]</td>]]></html>
+	<text>[27]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joel Monaghan</td>]]></html>
+	<text>Joel Monaghan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canberra Raiders</td>]]></html>
+	<text>Canberra Raiders</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-year contract, begins 2008</td>]]></html>
+	<text>3-year contract, begins 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[28]</td>]]></html>
+	<text>[28]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jamie Soward</td>]]></html>
+	<text>Jamie Soward</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St George-Illawarra Dragons</td>]]></html>
+	<text>St George-Illawarra Dragons</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-year contract, effective immediately</td>]]></html>
+	<text>2-year contract, effective immediately</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[29]</td>]]></html>
+	<text>[29]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Josh Lewis</td>]]></html>
+	<text>Josh Lewis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold Coast Titans</td>]]></html>
+	<text>Gold Coast Titans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3-year contract, effective immediately</td>]]></html>
+	<text>3-year contract, effective immediately</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[30]</td>]]></html>
+	<text>[30]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nigel Plum</td>]]></html>
+	<text>Nigel Plum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canberra Raiders</td>]]></html>
+	<text>Canberra Raiders</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-year contract, effective immediately</td>]]></html>
+	<text>2-year contract, effective immediately</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[31]</td>]]></html>
+	<text>[31]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chris Flannery</td>]]></html>
+	<text>Chris Flannery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St Helens RFC</td>]]></html>
+	<text>St Helens RFC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4-year contract, effective immediately</td>]]></html>
+	<text>4-year contract, effective immediately</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[32]</td>]]></html>
+	<text>[32]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heath L'Estrange</td>]]></html>
+	<text>Heath L&amp;apos;Estrange</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manly Sea Eagles</td>]]></html>
+	<text>Manly Sea Eagles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2-year Contract begins 2008</td>]]></html>
+	<text>2-year Contract begins 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[33]</td>]]></html>
+	<text>[33]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Sydney Roosters 2007 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Club Going To Details</text>
+</context>
+<context>
+	<score>0.8809524</score>
+	<text>[ edit ] Outgoing</text>
+</context>
+<context>
+	<score>0.79023564</score>
+	<text>Sydney Roosters 2007</text>
+</context>
+<context>
+	<score>0.7839827</score>
+	<text>[ edit ] Incoming</text>
+</context>
+<context>
+	<score>0.75261015</score>
+	<text>[ edit ] Representative Players</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Season summary</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] 2007 Season Ladder</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Results</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Notable events</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Wins</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Draws</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Players</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] 2007/2008 Player Movement</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Representative Players</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Staff</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] Trivia</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71482444</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71265996</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70640695</score>
+	<text>[ edit ] 2007/2008 Player Movement</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>The following is the Sydney Roosters squad named for the 2007 season. For Player Contracts see below in the external links section for details.</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>The following is a list of Sydney Rooster players who have played for Australia or New Zealand and other nations, New South Wales or Queensland and City or Country in representative levels of football during the 2007 calendar year. This is correct as of May 15, 2007</text>
+</context>
+<context>
+	<score>0.5946978</score>
+	<text>[ edit ] Players</text>
+</context>
+<context>
+	<score>0.554979</score>
+	<text>Round 21, Sydney Roosters 31 drew with the New Zealand Warriors at the Sydney Football Stadium</text>
+</context>
+<context>
+	<score>0.523204</score>
+	<text>[ edit ] Draws</text>
+</context>
+<context>
+	<score>0.5194624</score>
+	<text>[ edit ] International</text>
+</context>
+<context>
+	<score>0.49778396</score>
+	<text>[ edit ] Wins</text>
+</context>
+<context>
+	<score>0.47744796</score>
+	<text>[ edit ] Notable events</text>
+</context>
+<context>
+	<score>0.46117914</score>
+	<text>[ edit ] Results</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name</th><th>Club Going To</th><th>Details</th></tr><tr><td><a href="../../../../articles/c/r/a/Craig_Wing_932d.html" title="Craig Wing">Craig Wing</a></td><td><a href="../../../../articles/s/o/u/South_Sydney_Rabbitohs_ffd9.html" title="South Sydney Rabbitohs">South Sydney Rabbitohs</a></td><td>4-year contract, begins 2008</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2588" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2588" rel="nofollow">[27]</a></td></tr><tr><td><a href="../../../../articles/j/o/e/Joel_Monaghan_681e.html" title="Joel Monaghan">Joel Monaghan</a></td><td><a href="../../../../articles/c/a/n/Canberra_Raiders_face.html" title="Canberra Raiders">Canberra Raiders</a></td><td>3-year contract, begins 2008</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2694" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2694" rel="nofollow">[28]</a></td></tr><tr><td><a href="../../../../articles/j/a/m/Jamie_Soward_470b.html" title="Jamie Soward">Jamie Soward</a></td><td><a href="../../../../articles/s/t/_/St_George-Illawarra_Dragons_4713.html" class="mw-redirect" title="St George-Illawarra Dragons">St George-Illawarra Dragons</a></td><td>2-year contract, effective immediately</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2541" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2541" rel="nofollow">[29]</a></td></tr><tr><td><a href="../../../../articles/j/o/s/Josh_Lewis_e06e.html" title="Josh Lewis">Josh Lewis</a></td><td><a href="../../../../articles/g/o/l/Gold_Coast_Titans_5b15.html" title="Gold Coast Titans">Gold Coast Titans</a></td><td>3-year contract, effective immediately</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2506" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2506" rel="nofollow">[30]</a></td></tr><tr><td><a href="../../../../articles/n/i/g/Nigel_Plum_26b5.html" title="Nigel Plum">Nigel Plum</a></td><td><a href="../../../../articles/c/a/n/Canberra_Raiders_face.html" title="Canberra Raiders">Canberra Raiders</a></td><td>2-year contract, effective immediately</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2555" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2555" rel="nofollow">[31]</a></td></tr><tr><td><a href="../../../../articles/c/h/r/Chris_Flannery_a184.html" title="Chris Flannery">Chris Flannery</a></td><td><a href="../../../../articles/s/t/_/St_Helens_RFC_23c6.html" title="St Helens RFC">St Helens RFC</a></td><td>4-year contract, effective immediately</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2581" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2581" rel="nofollow">[32]</a></td></tr><tr><td><a href="../../../../articles/h/e/a/Heath_L%27Estrange_c02e.html" title="Heath L'Estrange">Heath L'Estrange</a></td><td><a href="../../../../articles/m/a/n/Manly_Sea_Eagles_05ea.html" class="mw-redirect" title="Manly Sea Eagles">Manly Sea Eagles</a></td><td>2-year Contract begins 2008</td><td><a href="http://www.sydneyroosters.com.au/news.php?ArticleID=2716" class="external autonumber" title="http://www.sydneyroosters.com.au/news.php?ArticleID=2716" rel="nofollow">[33]</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

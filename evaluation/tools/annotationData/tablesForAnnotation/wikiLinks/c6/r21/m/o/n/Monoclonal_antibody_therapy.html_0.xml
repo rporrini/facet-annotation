@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r21/m/o/n/Monoclonal_antibody_therapy.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 3, 0.7638889 1 3, 0.75 0 4, 0.6875 1 4, 0.6666667 0 5, 0.61111116 1 5, 0.5654762 3 4, 0.5555556 3 5, 0.53571427 4, 0.4761905 5, 0.4047619 4 5, 0.15873016 3, 0.11666667 0 2, 0.10694444 1 2, 0.0875 2 4, 0.07870371 2 3, 0.074074075 2 5, 0.061111115 2, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/n/Monoclonal_antibody_therapy.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Antibody</th>]]></html>
+	<text>Antibody</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Brand name</th>]]></html>
+	<text>Brand name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Approval date</th>]]></html>
+	<text>Approval date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Type</th>]]></html>
+	<text>Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Target</th>]]></html>
+	<text>Target</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Approved treatment(s)</th>]]></html>
+	<text>Approved treatment(s)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Abciximab</td>]]></html>
+	<text>Abciximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ReoPro</td>]]></html>
+	<text>ReoPro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>inhibition of glycoprotein IIb/IIIa</td>]]></html>
+	<text>inhibition of glycoprotein IIb/IIIa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cardiovascular disease</td>]]></html>
+	<text>Cardiovascular disease</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Adalimumab</td>]]></html>
+	<text>Adalimumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Humira</td>]]></html>
+	<text>Humira</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>human</td>]]></html>
+	<text>human</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>inhibition of TNF-a signalling</td>]]></html>
+	<text>inhibition of TNF-a signalling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases (mostly auto-immune disorders )</td>]]></html>
+	<text>Inflammatory diseases (mostly auto-immune disorders )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alemtuzumab</td>]]></html>
+	<text>Alemtuzumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campath</td>]]></html>
+	<text>Campath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001</td>]]></html>
+	<text>2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD52</td>]]></html>
+	<text>CD52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chronic lymphocytic leukemia</td>]]></html>
+	<text>Chronic lymphocytic leukemia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Basiliximab</td>]]></html>
+	<text>Basiliximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Simulect</td>]]></html>
+	<text>Simulect</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IL-2 receptor a</td>]]></html>
+	<text>IL-2 receptor a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Transplant rejection</td>]]></html>
+	<text>Transplant rejection</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bevacizumab</td>]]></html>
+	<text>Bevacizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Avastin</td>]]></html>
+	<text>Avastin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>vascular endothelial growth factor</td>]]></html>
+	<text>vascular endothelial growth factor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorectal cancer</td>]]></html>
+	<text>Colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cetuximab</td>]]></html>
+	<text>Cetuximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erbitux</td>]]></html>
+	<text>Erbitux</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>epidermal growth factor receptor</td>]]></html>
+	<text>epidermal growth factor receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorectal cancer</td>]]></html>
+	<text>Colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Daclizumab</td>]]></html>
+	<text>Daclizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zenapax</td>]]></html>
+	<text>Zenapax</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997</td>]]></html>
+	<text>1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IL-2 receptor a</td>]]></html>
+	<text>IL-2 receptor a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Transplant rejection</td>]]></html>
+	<text>Transplant rejection</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eculizumab</td>]]></html>
+	<text>Eculizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Soliris</td>]]></html>
+	<text>Soliris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2007</td>]]></html>
+	<text>2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>complement system protein C5</td>]]></html>
+	<text>complement system protein C5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases including paroxysmal nocturnal hemoglobinuria</td>]]></html>
+	<text>Inflammatory diseases including paroxysmal nocturnal hemoglobinuria</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Efalizumab</td>]]></html>
+	<text>Efalizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raptiva</td>]]></html>
+	<text>Raptiva</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD11a</td>]]></html>
+	<text>CD11a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases ( psoriasis )</td>]]></html>
+	<text>Inflammatory diseases ( psoriasis )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ibritumomab tiuxetan</td>]]></html>
+	<text>Ibritumomab tiuxetan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zevalin</td>]]></html>
+	<text>Zevalin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2002</td>]]></html>
+	<text>2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>murine</td>]]></html>
+	<text>murine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD20</td>]]></html>
+	<text>CD20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Non-Hodgkin lymphoma (with yttrium-90 or indium-111 )</td>]]></html>
+	<text>Non-Hodgkin lymphoma (with yttrium-90 or indium-111 )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Infliximab</td>]]></html>
+	<text>Infliximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Remicade</td>]]></html>
+	<text>Remicade</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>inhibition of TNF-a signalling</td>]]></html>
+	<text>inhibition of TNF-a signalling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases (mostly auto-immune disorders)</td>]]></html>
+	<text>Inflammatory diseases (mostly auto-immune disorders)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Muromonab-CD3</td>]]></html>
+	<text>Muromonab-CD3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Orthoclone OKT3</td>]]></html>
+	<text>Orthoclone OKT3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1986</td>]]></html>
+	<text>1986</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>murine</td>]]></html>
+	<text>murine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>T cell CD3 Receptor</td>]]></html>
+	<text>T cell CD3 Receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Transplant rejection</td>]]></html>
+	<text>Transplant rejection</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Natalizumab</td>]]></html>
+	<text>Natalizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tysabri</td>]]></html>
+	<text>Tysabri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>T cell VLA4 receptor</td>]]></html>
+	<text>T cell VLA4 receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases (mainly autoimmune -related multiple sclerosis therapy)</td>]]></html>
+	<text>Inflammatory diseases (mainly autoimmune -related multiple sclerosis therapy)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Omalizumab</td>]]></html>
+	<text>Omalizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xolair</td>]]></html>
+	<text>Xolair</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>immunoglobulin E (IgE)</td>]]></html>
+	<text>immunoglobulin E (IgE)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inflammatory diseases (mainly allergy -related asthma therapy)</td>]]></html>
+	<text>Inflammatory diseases (mainly allergy -related asthma therapy)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Palivizumab</td>]]></html>
+	<text>Palivizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Synagis</td>]]></html>
+	<text>Synagis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>an epitope of the F protein of RSV</td>]]></html>
+	<text>an epitope of the F protein of RSV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viral infection (especially Respiratory Syncytial Virus (RSV)</td>]]></html>
+	<text>Viral infection (especially Respiratory Syncytial Virus (RSV)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Panitumumab</td>]]></html>
+	<text>Panitumumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vectibix</td>]]></html>
+	<text>Vectibix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>human</td>]]></html>
+	<text>human</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>epidermal growth factor receptor</td>]]></html>
+	<text>epidermal growth factor receptor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorectal cancer</td>]]></html>
+	<text>Colorectal cancer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ranibizumab</td>]]></html>
+	<text>Ranibizumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lucentis</td>]]></html>
+	<text>Lucentis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>vascular endothelial growth factor</td>]]></html>
+	<text>vascular endothelial growth factor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Macular degeneration</td>]]></html>
+	<text>Macular degeneration</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gemtuzumab ozogamicin</td>]]></html>
+	<text>Gemtuzumab ozogamicin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mylotarg</td>]]></html>
+	<text>Mylotarg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2000</td>]]></html>
+	<text>2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD33</td>]]></html>
+	<text>CD33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Acute myelogenous leukemia (with calicheamicin )</td>]]></html>
+	<text>Acute myelogenous leukemia (with calicheamicin )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rituximab</td>]]></html>
+	<text>Rituximab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rituxan, Mabthera</td>]]></html>
+	<text>Rituxan, Mabthera</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1997</td>]]></html>
+	<text>1997</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>chimeric</td>]]></html>
+	<text>chimeric</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD20</td>]]></html>
+	<text>CD20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Non-Hodgkin lymphoma</td>]]></html>
+	<text>Non-Hodgkin lymphoma</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tositumomab</td>]]></html>
+	<text>Tositumomab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bexxar</td>]]></html>
+	<text>Bexxar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2003</td>]]></html>
+	<text>2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>murine</td>]]></html>
+	<text>murine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD20</td>]]></html>
+	<text>CD20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Non-Hodgkin lymphoma</td>]]></html>
+	<text>Non-Hodgkin lymphoma</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trastuzumab</td>]]></html>
+	<text>Trastuzumab</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Herceptin</td>]]></html>
+	<text>Herceptin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998</td>]]></html>
+	<text>1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>humanized</td>]]></html>
+	<text>humanized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ErbB2</td>]]></html>
+	<text>ErbB2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Breast cancer</td>]]></html>
+	<text>Breast cancer</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>FDA approved monoclonal antibodies [1]</text>
+</context>
+<context>
+	<score>0.99671435</score>
+	<text>Monoclonal antibody therapy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.99671435</score>
+	<text>Antibody Brand name Approval date Type Target Approved treatment(s)</text>
+</context>
+<context>
+	<score>0.8790876</score>
+	<text>Currently, twenty-one FDA-approved therapies exist, and hundreds of therapies are undergoing clinical trials . Most are concerned with immunological and oncological targets.</text>
+</context>
+<context>
+	<score>0.7916671</score>
+	<text>Monoclonal antibody therapy</text>
+</context>
+<context>
+	<score>0.78235775</score>
+	<text>The first FDA-approved therapeutic monoclonal antibody was a murine IgG2a CD3 specific transplant rejection drug, Muromonab (OKT-3), in 1986. This drug found use in solid organ transplant recipients who became steroid resistant.</text>
+</context>
+<context>
+	<score>0.75106275</score>
+	<text>[ edit ] Radioimmunotherapy</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] Structure and function of human and therapeutic antibodies</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] Origins of monoclonal antibody therapy</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] FDA approved therapeutic antibodies</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] Radioimmunotherapy</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] Antibody-directed enzyme prodrug therapy (ADEPT)</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] Drug and gene therapy: Immuno-liposomes</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7175688</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71428317</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7049738</score>
+	<text>[ edit ] FDA approved therapeutic antibodies</text>
+</context>
+<context>
+	<score>0.639781</score>
+	<text>Phage display libraries allow the transformation of murine antibodies in vitro into fully human antibodies.</text>
+</context>
+<context>
+	<score>0.60462904</score>
+	<text>Radioimmunotherapy involves the use of radioactively conjugated murine antibodies against cellular antigens. Most research currently involved their application to lymphomas , as these are highly radio-sensitive malignancies. To limit radiation exposure, murine antibodies were especially chosen, as their high immunogenicity promotes rapid clearance from the body. Tositumomab is an exemplar used for non-Hodgkins lymphoma.</text>
+</context>
+<context>
+	<score>0.5935409</score>
+	<text>Human monoclonal antibodies are produced using transgenic mice or phage display libraries. Human monoclonal antibodies are produced by transferring human immunoglobulin genes into the murine genome, after which the transgenic mouse is vaccinated against the desired antigen, leading to the production of monoclonal antibodies.</text>
+</context>
+<context>
+	<score>0.5539203</score>
+	<text>[ edit ] Human monoclonal antibodies</text>
+</context>
+<context>
+	<score>0.5222239</score>
+	<text>, using techniques such as chain-shuffling, randomization of complementarity determining regions and generation of antibody libraries with mutations within the variable regions by error-prone PCR , E-coli mutator strains, and site-specific mutagenesis .</text>
+</context>
+<context>
+	<score>0.51849157</score>
+	<text>[ edit ] Antibody-directed enzyme prodrug therapy (ADEPT)</text>
+</context>
+<context>
+	<score>0.4968667</score>
+	<text>Increases in antibody-antigen binding strength have been achieved by introducing mutations into the complementarity determining regions (CDR)</text>
+</context>
+<context>
+	<score>0.47658098</score>
+	<text>Humanised antibodies are produced by grafting murine hypervariable amino acid domains into human antibodies. This results in a molecule of approximately 95% human origin. However it has been shown in several studies that humanised antibodies bind antigen much more weakly than the parent murine monoclonal antibody, with reported decreases in affinity of up to several hundredfold.</text>
+</context>
+<context>
+	<score>0.4678225</score>
+	<text>ADEPT involves the application of cancer associated monoclonal antibodies which are linked to a drug-activating enzyme. Subsequent systemic administration of a non-toxic agent results in its conversion to a toxic drug, and resulting in a cytotoxic effect which can be targeted at malignant cells. The clinical success of ADEPT treatments has been limited to date.</text>
+</context>
+<context>
+	<score>0.4603524</score>
+	<text>This was initially achieved by the production of chimeric and humanized antibodies . Chimeric antibodies are composed of murine variable regions fused onto human constant regions. Human gene sequences, taken from the kappa light chain and the IgG1 heavy chain, results in antibodies that are approximately 65% human. This reduces immunogenicity, and thus increases serum half-life .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="margin: 1em auto 1em auto"><caption><b><a href="../../../../articles/f/o/o/Food_and_Drug_Administration_b75c.html" title="Food and Drug Administration">FDA</a> approved monoclonal antibodies</b><sup id="cite_ref-Waldmann_0-2" class="reference"><a href="#cite_note-Waldmann-0" title="">[1]</a></sup></caption><tr><th>Antibody</th><th>Brand name</th><th>Approval date</th><th>Type</th><th>Target</th><th>Approved treatment(s)</th></tr><tr><td><a href="../../../../articles/a/b/c/Abciximab.html" title="Abciximab">Abciximab</a></td><td>ReoPro</td><td>1994</td><td>chimeric</td><td>inhibition of <a href="../../../../articles/g/l/y/Glycoprotein.html" title="Glycoprotein">glycoprotein</a> IIb/IIIa</td><td><a href="../../../../articles/c/a/r/Cardiovascular_disease.html" title="Cardiovascular disease">Cardiovascular disease</a></td></tr><tr><td><a href="../../../../articles/a/d/a/Adalimumab.html" title="Adalimumab">Adalimumab</a></td><td>Humira</td><td>2002</td><td>human</td><td>inhibition of <a href="../../../../articles/t/u/m/Tumor_necrosis_factor-alpha.html" title="Tumor necrosis factor-alpha">TNF-a</a> signalling</td><td><a href="../../../../articles/i/n/f/Inflammatory_diseases.html" class="mw-redirect" title="Inflammatory diseases">Inflammatory diseases</a> (mostly <a href="../../../../articles/a/u/t/Auto-immune_disorders.html" class="mw-redirect" title="Auto-immune disorders">auto-immune disorders</a>)</td></tr><tr><td><a href="../../../../articles/a/l/e/Alemtuzumab.html" title="Alemtuzumab">Alemtuzumab</a></td><td>Campath</td><td>2001</td><td>humanized</td><td><a href="../../../../articles/c/d/5/CD52_a390.html" title="CD52">CD52</a></td><td><a href="../../../../articles/c/h/r/Chronic_lymphocytic_leukemia.html" title="Chronic lymphocytic leukemia">Chronic lymphocytic leukemia</a></td></tr><tr><td><a href="../../../../articles/b/a/s/Basiliximab.html" title="Basiliximab">Basiliximab</a></td><td>Simulect</td><td>1998</td><td>chimeric</td><td><a href="../../../../articles/i/l/-/IL-2_receptor_1c72.html" title="IL-2 receptor">IL-2 receptor</a> a</td><td><a href="../../../../articles/t/r/a/Transplant_rejection.html" title="Transplant rejection">Transplant rejection</a></td></tr><tr><td><a href="../../../../articles/b/e/v/Bevacizumab.html" title="Bevacizumab">Bevacizumab</a></td><td>Avastin</td><td>2004</td><td>humanized</td><td><a href="../../../../articles/v/a/s/Vascular_endothelial_growth_factor.html" title="Vascular endothelial growth factor">vascular endothelial growth factor</a></td><td><a href="../../../../articles/c/o/l/Colorectal_cancer.html" title="Colorectal cancer">Colorectal cancer</a></td></tr><tr><td><a href="../../../../articles/c/e/t/Cetuximab.html" title="Cetuximab">Cetuximab</a></td><td>Erbitux</td><td>2004</td><td>chimeric</td><td><a href="../../../../articles/e/p/i/Epidermal_growth_factor_receptor.html" title="Epidermal growth factor receptor">epidermal growth factor receptor</a></td><td>Colorectal cancer</td></tr><tr><td><a href="../../../../articles/d/a/c/Daclizumab.html" title="Daclizumab">Daclizumab</a></td><td>Zenapax</td><td>1997</td><td>humanized</td><td><a href="../../../../articles/i/l/-/IL-2_receptor_1c72.html" title="IL-2 receptor">IL-2 receptor</a> a</td><td>Transplant rejection</td></tr><tr><td><a href="../../../../articles/e/c/u/Eculizumab.html" title="Eculizumab">Eculizumab</a></td><td>Soliris</td><td>2007</td><td>humanized</td><td><a href="../../../../articles/c/o/m/Complement_system.html" title="Complement system">complement system</a> protein C5</td><td><a href="../../../../articles/i/n/f/Inflammatory_diseases.html" class="mw-redirect" title="Inflammatory diseases">Inflammatory diseases</a> including <a href="../../../../articles/p/a/r/Paroxysmal_nocturnal_hemoglobinuria.html" title="Paroxysmal nocturnal hemoglobinuria">paroxysmal nocturnal hemoglobinuria</a></td></tr><tr><td><a href="../../../../articles/e/f/a/Efalizumab.html" title="Efalizumab">Efalizumab</a></td><td>Raptiva</td><td>2002</td><td>humanized</td><td><a href="../../../../articles/c/d/1/CD11a_b6b5.html" title="CD11a">CD11a</a></td><td>Inflammatory diseases (<a href="../../../../articles/p/s/o/Psoriasis.html" title="Psoriasis">psoriasis</a>)</td></tr><tr><td><a href="../../../../articles/i/b/r/Ibritumomab_tiuxetan.html" title="Ibritumomab tiuxetan">Ibritumomab tiuxetan</a></td><td>Zevalin</td><td>2002</td><td>murine</td><td><a href="../../../../articles/c/d/2/CD20_7052.html" title="CD20">CD20</a></td><td><a href="../../../../articles/n/o/n/Non-Hodgkin_lymphoma_aa74.html" title="Non-Hodgkin lymphoma">Non-Hodgkin lymphoma</a> (with <a href="../../../../articles/y/t/t/Yttrium.html" title="Yttrium">yttrium-90</a> or <a href="../../../../articles/i/n/d/Indium.html" title="Indium">indium-111</a>)</td></tr><tr><td><a href="../../../../articles/i/n/f/Infliximab.html" title="Infliximab">Infliximab</a></td><td>Remicade</td><td>1998</td><td>chimeric</td><td>inhibition of TNF-a signalling</td><td>Inflammatory diseases (mostly auto-immune disorders)</td></tr><tr><td><a href="../../../../articles/m/u/r/Muromonab-CD3_9775.html" class="mw-redirect" title="Muromonab-CD3">Muromonab-CD3</a></td><td>Orthoclone OKT3</td><td>1986</td><td>murine</td><td><a href="../../../../articles/t/_/c/T_cell.html" title="T cell">T cell</a> <a href="../../../../articles/c/d/3/CD3_6b88.html" title="CD3">CD3</a> Receptor</td><td>Transplant rejection</td></tr><tr><td><a href="../../../../articles/n/a/t/Natalizumab.html" title="Natalizumab">Natalizumab</a></td><td>Tysabri</td><td>2006</td><td>humanized</td><td>T cell VLA4 receptor</td><td><a href="../../../../articles/i/n/f/Inflammatory_diseases.html" class="mw-redirect" title="Inflammatory diseases">Inflammatory diseases</a> (mainly <a href="../../../../articles/a/u/t/Autoimmune.html" class="mw-redirect" title="Autoimmune">autoimmune</a>-related <a href="../../../../articles/m/u/l/Multiple_sclerosis.html" title="Multiple sclerosis">multiple sclerosis</a> therapy)</td></tr><tr><td><a href="../../../../articles/o/m/a/Omalizumab.html" title="Omalizumab">Omalizumab</a></td><td>Xolair</td><td>2004</td><td>humanized</td><td><a href="../../../../articles/i/m/m/Immunoglobulin_E_8efa.html" title="Immunoglobulin E">immunoglobulin E</a> (IgE)</td><td>Inflammatory diseases (mainly <a href="../../../../articles/a/l/l/Allergy.html" title="Allergy">allergy</a>-related <a href="../../../../articles/a/s/t/Asthma.html" title="Asthma">asthma</a> therapy)</td></tr><tr><td><a href="../../../../articles/p/a/l/Palivizumab.html" title="Palivizumab">Palivizumab</a></td><td>Synagis</td><td>1998</td><td>humanized</td><td>an epitope of the F protein of RSV</td><td><a href="../../../../articles/v/i/r/Viral_infection.html" class="mw-redirect" title="Viral infection">Viral infection</a> (especially <a href="../../../../articles/r/e/s/Respiratory_Syncytial_Virus_908b.html" class="mw-redirect" title="Respiratory Syncytial Virus">Respiratory Syncytial Virus</a> (RSV)</td></tr><tr><td><a href="../../../../articles/p/a/n/Panitumumab.html" title="Panitumumab">Panitumumab</a></td><td>Vectibix</td><td>2006</td><td>human</td><td>epidermal growth factor receptor</td><td>Colorectal cancer</td></tr><tr><td><a href="../../../../articles/r/a/n/Ranibizumab.html" title="Ranibizumab">Ranibizumab</a></td><td>Lucentis</td><td>2006</td><td>humanized</td><td><a href="../../../../articles/v/a/s/Vascular_endothelial_growth_factor.html" title="Vascular endothelial growth factor">vascular endothelial growth factor</a></td><td><a href="../../../../articles/m/a/c/Macular_degeneration.html" title="Macular degeneration">Macular degeneration</a></td></tr><tr><td><a href="../../../../articles/g/e/m/Gemtuzumab_ozogamicin.html" title="Gemtuzumab ozogamicin">Gemtuzumab ozogamicin</a></td><td>Mylotarg</td><td>2000</td><td>humanized</td><td><a href="../../../../articles/c/d/3/CD33_7377.html" title="CD33">CD33</a></td><td><a href="../../../../articles/a/c/u/Acute_myelogenous_leukemia.html" class="mw-redirect" title="Acute myelogenous leukemia">Acute myelogenous leukemia</a> (with <a href="../../../../articles/c/a/l/Calicheamicin.html" title="Calicheamicin">calicheamicin</a>)</td></tr><tr><td><a href="../../../../articles/r/i/t/Rituximab.html" title="Rituximab">Rituximab</a></td><td>Rituxan, Mabthera</td><td>1997</td><td>chimeric</td><td><a href="../../../../articles/c/d/2/CD20_7052.html" title="CD20">CD20</a></td><td><a href="../../../../articles/n/o/n/Non-Hodgkin_lymphoma_aa74.html" title="Non-Hodgkin lymphoma">Non-Hodgkin lymphoma</a></td></tr><tr><td><a href="../../../../articles/t/o/s/Tositumomab.html" title="Tositumomab">Tositumomab</a></td><td>Bexxar</td><td>2003</td><td>murine</td><td><a href="../../../../articles/c/d/2/CD20_7052.html" title="CD20">CD20</a></td><td>Non-Hodgkin lymphoma</td></tr><tr><td><a href="../../../../articles/t/r/a/Trastuzumab.html" title="Trastuzumab">Trastuzumab</a></td><td>Herceptin</td><td>1998</td><td>humanized</td><td><a href="../../../../articles/e/r/b/ErbB2_443d.html" class="mw-redirect" title="ErbB2">ErbB2</a></td><td><a href="../../../../articles/b/r/e/Breast_cancer.html" title="Breast cancer">Breast cancer</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

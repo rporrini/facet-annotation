@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r10/f/i/l/Films_considered_the_greatest_ever.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 2, 0.875 1 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/f/i/l/Films_considered_the_greatest_ever.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Film</th>]]></html>
+	<text>Film</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Director</th>]]></html>
+	<text>Director</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Year</th>]]></html>
+	<text>Year</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Citizen Kane</td>]]></html>
+	<text>Citizen Kane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Orson Welles</td>]]></html>
+	<text>Orson Welles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1941</td>]]></html>
+	<text>1941</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vertigo</td>]]></html>
+	<text>Vertigo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alfred Hitchcock</td>]]></html>
+	<text>Alfred Hitchcock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1958</td>]]></html>
+	<text>1958</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>La Règle du jeu (The Rules of the Game)</td>]]></html>
+	<text>La R&#232;gle du jeu (The Rules of the Game)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jean Renoir</td>]]></html>
+	<text>Jean Renoir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1939</td>]]></html>
+	<text>1939</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2001: A Space Odyssey</td>]]></html>
+	<text>2001: A Space Odyssey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stanley Kubrick</td>]]></html>
+	<text>Stanley Kubrick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1968</td>]]></html>
+	<text>1968</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8½</td>]]></html>
+	<text>8&#189;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Federico Fellini</td>]]></html>
+	<text>Federico Fellini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963</td>]]></html>
+	<text>1963</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Godfather</td>]]></html>
+	<text>The Godfather</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Francis Ford Coppola</td>]]></html>
+	<text>Francis Ford Coppola</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1972</td>]]></html>
+	<text>1972</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Searchers</td>]]></html>
+	<text>The Searchers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Ford</td>]]></html>
+	<text>John Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1956</td>]]></html>
+	<text>1956</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>七人の侍 (Seven Samurai)</td>]]></html>
+	<text>&#19971;&#20154;&#12398;&#20365; (Seven Samurai)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Akira Kurosawa</td>]]></html>
+	<text>Akira Kurosawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1954</td>]]></html>
+	<text>1954</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>東京物語 (Tokyo Story)</td>]]></html>
+	<text>&#26481;&#20140;&#29289;&#35486; (Tokyo Story)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yasujiro Ozu</td>]]></html>
+	<text>Yasujiro Ozu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sunrise</td>]]></html>
+	<text>Sunrise</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F. W. Murnau</td>]]></html>
+	<text>F. W. Murnau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1927</td>]]></html>
+	<text>1927</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Films considered the greatest ever - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Film Director Year</text>
+</context>
+<context>
+	<score>0.88027334</score>
+	<text>Ladri di Biciclette (Bicycle Thieves or The Bicycle Thief) was voted top film in a Sight &amp; Sound magazine poll in 1952 . Other than Citizen Kane , Bicycle Thieves is the only film to ever top the Sight and Sound poll. Orson Welles &apos; Citizen Kane has been consistently voted number one in the Sight and Sound poll of film critics in each of the last five polls starting with the 1962 poll (the survey is carried out once every ten years). A separate poll of established film directors in the same magazine, held for the first time in 1992, also has placed Citizen Kane at the top. Influential critic Roger Ebert says that &quot;The Sight and Sound poll is generally considered the most authoritative of all &apos;best film&apos; lists&quot;. The film was selected as number one in a Village Voice critics&apos; poll, number one in a Time Out critics&apos; poll in 1995 and listed as the greatest American film ever by the American Film Institute in 1998 and 2007.</text>
+</context>
+<context>
+	<score>0.79559225</score>
+	<text>Films considered the greatest ever</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>. These were the films chosen as most artistically fulfilled:</text>
+</context>
+<context>
+	<score>0.7519311</score>
+	<text>[ edit ] In audience polls</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] In polls of critics and filmmakers</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] In audience polls</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] In particular genres or media</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] In particular countries</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.719502</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7180165</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7057279</score>
+	<text>The Brussels World s Fair , organized in 1958 , offered the occasion for the organization by thousands of critics and filmmakers from all over the world, of the first universal film poll in history.</text>
+</context>
+<context>
+	<score>0.6436672</score>
+	<text>[ edit ] In polls of critics and filmmakers</text>
+</context>
+<context>
+	<score>0.60513437</score>
+	<text>[ edit ] In particular genres or media</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>None of these citations should be viewed as scientific measures of the film-watching world. All the surveys are flawed in one way or another. They are often influenced by vote-stacking or they survey a population with skewed demographics. Internet-based surveys have a self-selecting audience of unknown participants. The methodology of some surveys may be questionable. Sometimes (like in the case of the American Film Institute) voters were asked to select films from a limited list of entries.</text>
+</context>
+<context>
+	<score>0.52252495</score>
+	<text>While there is no agreement upon the greatest film of all time, many publications and organizations have tried to determine the films considered the greatest ever . The films mentioned in this article have all been mentioned in a notable survey be it a critics&apos; poll or popular poll. Many of these sources focus on American films or were polls of English-speaking filmgoers, but those considered the greatest within their respective countries are also included here.</text>
+</context>
+<context>
+	<score>0.5187834</score>
+	<text>[ edit ] Action</text>
+</context>
+<context>
+	<score>0.4971049</score>
+	<text>Note: This article does not include films that had the highest box office receipts. For this information see: List of highest-grossing films .</text>
+</context>
+<context>
+	<score>0.48905757</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47278875</score>
+	<text>Films considered the greatest ever</text>
+</context>
+<context>
+	<score>0.4679887</score>
+	<text>Die Hard (1988) was voted greatest action movie of all time by both Entertainment Weekly and music channel MTV2 .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th style="background: #e3e3e3;">Rank</th><th style="background: #e3e3e3;">Film</th><th style="background: #e3e3e3;">Director</th><th style="background: #e3e3e3;">Year</th></tr><tr><td>1</td><td><i><a href="../../../../articles/c/i/t/Citizen_Kane_0ced.html" title="Citizen Kane">Citizen Kane</a></i></td><td><a href="../../../../articles/o/r/s/Orson_Welles_8fe7.html" title="Orson Welles">Orson Welles</a></td><td><a href="../../../../articles/1/9/4/1941.html" title="1941">1941</a></td></tr><tr><td>2</td><td><i><a href="../../../../articles/v/e/r/Vertigo_%28film%29.html" title="Vertigo (film)">Vertigo</a></i></td><td><a href="../../../../articles/a/l/f/Alfred_Hitchcock_0cee.html" title="Alfred Hitchcock">Alfred Hitchcock</a></td><td><a href="../../../../articles/1/9/5/1958.html" title="1958">1958</a></td></tr><tr><td>3</td><td><i><a href="../../../../articles/t/h/e/The_Rules_of_the_Game_cdf6.html" title="The Rules of the Game">La Règle du jeu (The Rules of the Game)</a></i></td><td><a href="../../../../articles/j/e/a/Jean_Renoir_74a4.html" title="Jean Renoir">Jean Renoir</a></td><td><a href="../../../../articles/1/9/3/1939.html" title="1939">1939</a></td></tr><tr><td>4</td><td><i><a href="../../../../articles/a/_/s/2001%7E_A_Space_Odyssey_%28film%29_dbd6.html" title="2001: A Space Odyssey (film)">2001: A Space Odyssey</a></i></td><td><a href="../../../../articles/s/t/a/Stanley_Kubrick_762f.html" title="Stanley Kubrick">Stanley Kubrick</a></td><td><a href="../../../../articles/1/9/6/1968.html" title="1968">1968</a></td></tr><tr><td>5</td><td><i><a href="../../../../articles/8/%C2%BD/_/8%C2%BD.html" title="8½">8½</a></i></td><td><a href="../../../../articles/f/e/d/Federico_Fellini_8bca.html" title="Federico Fellini">Federico Fellini</a></td><td><a href="../../../../articles/1/9/6/1963.html" title="1963">1963</a></td></tr><tr><td>6</td><td><i><a href="../../../../articles/t/h/e/The_Godfather_f51f.html" title="The Godfather">The Godfather</a></i></td><td><a href="../../../../articles/f/r/a/Francis_Ford_Coppola_16ad.html" title="Francis Ford Coppola">Francis Ford Coppola</a></td><td><a href="../../../../articles/1/9/7/1972.html" title="1972">1972</a></td></tr><tr><td>7</td><td><i><a href="../../../../articles/t/h/e/The_Searchers_%28film%29_86a8.html" title="The Searchers (film)">The Searchers</a></i></td><td><a href="../../../../articles/j/o/h/John_Ford_b3d3.html" title="John Ford">John Ford</a></td><td><a href="../../../../articles/1/9/5/1956.html" title="1956">1956</a></td></tr><tr><td>8</td><td><i><a href="../../../../articles/s/e/v/Seven_Samurai_5852.html" title="Seven Samurai">七人の侍 (Seven Samurai)</a></i></td><td><a href="../../../../articles/a/k/i/Akira_Kurosawa_899a.html" title="Akira Kurosawa">Akira Kurosawa</a></td><td><a href="../../../../articles/1/9/5/1954.html" title="1954">1954</a></td></tr><tr><td>9</td><td><i><a href="../../../../articles/t/o/k/Tokyo_Story_1da4.html" title="Tokyo Story">東京物語 (Tokyo Story)</a></i></td><td><a href="../../../../articles/y/a/s/Yasujiro_Ozu_b887.html" class="mw-redirect" title="Yasujiro Ozu">Yasujiro Ozu</a></td><td><a href="../../../../articles/1/9/5/1953.html" title="1953">1953</a></td></tr><tr><td>10</td><td><i><a href="../../../../articles/s/u/n/Sunrise_%28film%29.html" class="mw-redirect" title="Sunrise (film)">Sunrise</a></i></td><td><a href="../../../../articles/f/2E/_/F._W._Murnau_06d0.html" title="F. W. Murnau">F. W. Murnau</a></td><td><a href="../../../../articles/1/9/2/1927.html" title="1927">1927</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

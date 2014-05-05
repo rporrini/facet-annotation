@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r5/s/p/o/Sports_Illustrated_9f1c.html_5.xml" />
+<meta name="primaryKey" value="0.8333333 2, 0.8333333 0 2, 0.8 0, 0.13333334 1, 0.13333334 0 1, 0.11111111 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/s/p/o/Sports_Illustrated_9f1c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>President</th>]]></html>
+	<text>President</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>SI Cover Date</th>]]></html>
+	<text>SI Cover Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Special Notes</th>]]></html>
+	<text>Special Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John F. Kennedy</td>]]></html>
+	<text>John F. Kennedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 26, 1960</td>]]></html>
+	<text>December 26, 1960</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First Lady Jackie Kennedy also on cover and Kennedy was President-Elect at the time of the cover.</td>]]></html>
+	<text>First Lady Jackie Kennedy also on cover and Kennedy was President-Elect at the time of the cover.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gerald Ford</td>]]></html>
+	<text>Gerald Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 8, 1974</td>]]></html>
+	<text>July 8, 1974</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cover came one month before President Richard Nixon announced he would resign from the Presidency.</td>]]></html>
+	<text>Cover came one month before President Richard Nixon announced he would resign from the Presidency.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ronald Reagan</td>]]></html>
+	<text>Ronald Reagan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 26, 1984</td>]]></html>
+	<text>November 26, 1984</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>On cover with Georgetown Hoyas basketball coach John Thompson and Patrick Ewing</td>]]></html>
+	<text>On cover with Georgetown Hoyas basketball coach John Thompson and Patrick Ewing</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ronald Reagan</td>]]></html>
+	<text>Ronald Reagan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 16, 1987</td>]]></html>
+	<text>February 16, 1987</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>On cover with America's Cup champion Dennis Conner</td>]]></html>
+	<text>On cover with America&amp;apos;s Cup champion Dennis Conner</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bill Clinton</td>]]></html>
+	<text>Bill Clinton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 21, 1994</td>]]></html>
+	<text>March 21, 1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>On cover about the Arkansas college basketball team</td>]]></html>
+	<text>On cover about the Arkansas college basketball team</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Sports Illustrated - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>President SI Cover Date Special Notes</text>
+</context>
+<context>
+	<score>0.8787781</score>
+	<text>Presidents who have been featured on the cover</text>
+</context>
+<context>
+	<score>0.7934565</score>
+	<text>Sports Illustrated</text>
+</context>
+<context>
+	<score>0.78180057</score>
+	<text>Fathers and sons who have been featured on the cover</text>
+</context>
+<context>
+	<score>0.7504256</score>
+	<text>Tribute covers (In Memoriam)</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] Sportsman of the Year</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] Cover history</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] Writers</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] Spinoffs</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7193184</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71587455</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042186</score>
+	<text>Celebrities on the cover, 1954-2003</text>
+</context>
+<context>
+	<score>0.642153</score>
+	<text>Most covers by sport, 1954-2003</text>
+</context>
+<context>
+	<score>0.6070608</score>
+	<text>[ edit ] Writers</text>
+</context>
+<context>
+	<score>0.5925005</score>
+	<text>Most covers by team, 1954-May 2008</text>
+</context>
+<context>
+	<score>0.5527785</score>
+	<text>Most covers by athlete, 1954-2003</text>
+</context>
+<context>
+	<score>0.5244447</score>
+	<text>[ edit ] Cover history</text>
+</context>
+<context>
+	<score>0.52070284</score>
+	<text>[ edit ] Spinoffs</text>
+</context>
+<context>
+	<score>0.49902266</score>
+	<text>Brett Favre is Sports Illustrated&apos;s most recent Sportsman of the Year, for 2007. At age 38, Favre unexpectedly produced one of his most statistically successful seasons; the article also implied that Favre was being recognized for his career&apos;s body of work. Tiger Woods is the only athlete to win the award twice.</text>
+</context>
+<context>
+	<score>0.478685</score>
+	<text>Since its inception in 1954, Sports Illustrated magazine has annually presented the Sportsman of the Year award to &quot;the athlete or team whose performance that year most embodies the spirit of sportsmanship and achievement.&quot; Roger Bannister won the first ever Sportsman of the year award thanks to his record breaking time of 3:59.4 for a mile (the first ever time a mile had been run under four minutes).</text>
+</context>
+<context>
+	<score>0.46646026</score>
+	<text>Sports Illustrated has helped launched a number of related publishing ventures, including:</text>
+</context>
+<context>
+	<score>0.46241486</score>
+	<text>[ edit ] Sportsman of the Year</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>President</th><th>SI Cover Date</th><th>Special Notes</th></tr><tr><td><a href="../../../../articles/j/o/h/John_F._Kennedy_9798.html" title="John F. Kennedy">John F. Kennedy</a></td><td>December 26, 1960</td><td>First Lady <a href="../../../../articles/j/a/c/Jacqueline_Kennedy_Onassis_980e.html" title="Jacqueline Kennedy Onassis">Jackie Kennedy</a> also on cover and Kennedy was President-Elect at the time of the cover.</td></tr><tr><td><a href="../../../../articles/g/e/r/Gerald_Ford_de6d.html" title="Gerald Ford">Gerald Ford</a></td><td>July 8, 1974</td><td>Cover came one month before President <a href="../../../../articles/r/i/c/Richard_Nixon_9d26.html" title="Richard Nixon">Richard Nixon</a> announced he would resign from the Presidency.</td></tr><tr><td><a href="../../../../articles/r/o/n/Ronald_Reagan_9da1.html" title="Ronald Reagan">Ronald Reagan</a></td><td>November 26, 1984</td><td>On cover with <a href="../../../../articles/g/e/o/Georgetown_Hoyas_men%27s_basketball_998c.html" title="Georgetown Hoyas men's basketball">Georgetown Hoyas basketball</a> coach <a href="../../../../articles/j/o/h/John_Thompson_%28basketball%29_9f21.html" title="John Thompson (basketball)">John Thompson</a> and <a href="../../../../articles/p/a/t/Patrick_Ewing_3fa6.html" title="Patrick Ewing">Patrick Ewing</a></td></tr><tr><td><a href="../../../../articles/r/o/n/Ronald_Reagan_9da1.html" title="Ronald Reagan">Ronald Reagan</a></td><td>February 16, 1987</td><td>On cover with <a href="../../../../articles/a/m/e/America%27s_Cup_8b3b.html" title="America's Cup">America's Cup</a> champion <a href="../../../../articles/d/e/n/Dennis_Conner_2167.html" title="Dennis Conner">Dennis Conner</a></td></tr><tr><td><a href="../../../../articles/b/i/l/Bill_Clinton_75aa.html" title="Bill Clinton">Bill Clinton</a></td><td>March 21, 1994</td><td>On cover about the <a href="../../../../articles/a/r/k/Arkansas_Razorbacks_basketball_7421.html" class="mw-redirect" title="Arkansas Razorbacks basketball">Arkansas college basketball team</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

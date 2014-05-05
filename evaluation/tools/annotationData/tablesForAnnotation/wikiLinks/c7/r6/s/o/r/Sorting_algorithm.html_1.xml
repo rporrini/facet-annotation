@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r6/s/o/r/Sorting_algorithm.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 4, 0.85714287 0 5, 0.39795917 4 5, 0.30952382 4, 0.2857143 5, 0.07857143 0 1, 0.071428575 0 2, 0.06428572 0 3, 0.06079932 1 4, 0.05969388 3 4, 0.05952381 2, 0.05714286 0 6, 0.055272106 2 4, 0.05357143 3, 0.052380957 1, 0.05102041 2 5, 0.045918368 3 5, 0.044897966 1 5, 0.03537415 4 6, 0.032653064 5 6, 0.02857143 6, 0.0050510205 1 3, 0.004676871 1 2, 0.004591837 2 3, 0.0036734696 3 6, 0.0034013607 2 6, 0.0029931976 1 6, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/r/Sorting_algorithm.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Average</th>]]></html>
+	<text>Average</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Worst</th>]]></html>
+	<text>Worst</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Memory</th>]]></html>
+	<text>Memory</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stable</th>]]></html>
+	<text>Stable</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>n &lt;&lt; 2 k</th>]]></html>
+	<text>n &amp;amp;lt;&amp;amp;lt; 2 k</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pigeonhole sort</td>]]></html>
+	<text>Pigeonhole sort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n +2 k )</td>]]></html>
+	<text>O( n +2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n +2 k )</td>]]></html>
+	<text>O( n +2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O(2 k )</td>]]></html>
+	<text>O(2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bucket sort</td>]]></html>
+	<text>Bucket sort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k )</td>]]></html>
+	<text>O( n &#183; k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n ²· k )</td>]]></html>
+	<text>O( n &#178;&#183; k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k )</td>]]></html>
+	<text>O( n &#183; k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Assumes uniform distribution of elements from the domain in the array.</td>]]></html>
+	<text>Assumes uniform distribution of elements from the domain in the array.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Counting sort</td>]]></html>
+	<text>Counting sort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n +2 k )</td>]]></html>
+	<text>O( n +2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n +2 k )</td>]]></html>
+	<text>O( n +2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n +2 k )</td>]]></html>
+	<text>O( n +2 k )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>LSD Radix sort</td>]]></html>
+	<text>LSD Radix sort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k / s )</td>]]></html>
+	<text>O( n &#183; k / s )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k / s )</td>]]></html>
+	<text>O( n &#183; k / s )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n )</td>]]></html>
+	<text>O( n )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MSD Radix sort</td>]]></html>
+	<text>MSD Radix sort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k / s )</td>]]></html>
+	<text>O( n &#183; k / s )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n ·( k / s )·2 s )</td>]]></html>
+	<text>O( n &#183;( k / s )&#183;2 s )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O(( k / s )·2 s )</td>]]></html>
+	<text>O(( k / s )&#183;2 s )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spreadsort</td>]]></html>
+	<text>Spreadsort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n · k /log( n ))</td>]]></html>
+	<text>O( n &#183; k /log( n ))</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n ·( k - log( n )) .5 )</td>]]></html>
+	<text>O( n &#183;( k - log( n )) .5 )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O( n )</td>]]></html>
+	<text>O( n )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asymptotics are based on the assumption that n &lt;&lt; 2 k , but the algorithm does not require this.</td>]]></html>
+	<text>Asymptotics are based on the assumption that n &amp;amp;lt;&amp;amp;lt; 2 k , but the algorithm does not require this.</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Sorting algorithm - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Average Worst Memory Stable n &lt;&lt; 2 k Notes</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>, where &lt;&lt; means &quot;much less than.&quot;</text>
+</context>
+<context>
+	<score>0.7944444</score>
+	<text>Sorting algorithm</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>k</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>The following table describes some sorting algorithms that are impractical for real-life use due to extremely poor performance or a requirement for specialized hardware.</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] Classification</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] List of sorting algorithms</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] Summaries of popular sorting algorithms</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] Memory usage patterns and index sorting</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] Graphical representations</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] Notes and references</text>
+</context>
+<context>
+	<score>0.7195268</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168687</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70690054</score>
+	<text>The following table describes sorting algorithms that are not comparison sorts . As such, they are not limited by a O( n log n ) lower bound. Complexities below are in terms of n , the number of items to be sorted, k , the size of each key, and s , the chunk size used by the implementation. Many of them are based on the assumption that the key size is large enough that all entries have unique key values, and hence that n &lt;&lt; 2</text>
+</context>
+<context>
+	<score>0.64484</score>
+	<text>In this table, n is the number of records to be sorted. The columns &quot;Average&quot; and &quot;Worst&quot; give the time complexity in each case, under the assumption that the length of each key is constant, and that therefore all comparisons, swaps, and other needed operations can proceed in constant time. &quot;Memory&quot; denotes the amount of auxiliary storage needed beyond that used by the list itself, under the same assumption. These are all comparison sorts .</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Additionally, theoretical computer scientists have detailed other sorting algorithms that provide better than O(n log n) time complexity with additional constraints, including:</text>
+</context>
+<context>
+	<score>0.5951915</score>
+	<text>[ edit ] List of sorting algorithms</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>(3, 7) (3, 1) (4, 1) (4, 6) (after sorting by first component) (3, 1) (4, 1) (4, 6) (3, 7) (after sorting by second component, order by first component is disrupted)</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>On the other hand:</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>While theoretically interesting, to date these algorithms have seen little use in practice.</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>(4, 1) (3, 1) (4, 6) (3, 7) (after sorting by second component) (3, 1) (3, 7) (4, 1) (4, 6) (after sorting by first component)</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>(4, 1) (3, 7) (3, 1) (4, 6) (original)</text>
+</context>
+<context>
+	<score>0.4691614</score>
+	<text>[ edit ] Summaries of popular sorting algorithms</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Example: sorting pairs of numbers as above by first, then second component:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Name</th><th>Average</th><th>Worst</th><th>Memory</th><th>Stable</th><th><i>n</i> &lt;&lt; 2<sup><i>k</i></sup></th><th>Notes</th></tr><tr align="center"><td><a href="../../../../articles/p/i/g/Pigeonhole_sort.html" title="Pigeonhole sort">Pigeonhole sort</a></td><td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td><td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td><td>O(2<sup><i>k</i></sup>)</td><td style="background:#ddffdd">Yes</td><td>Yes</td><td></td></tr><tr align="center"><td><a href="../../../../articles/b/u/c/Bucket_sort.html" title="Bucket sort">Bucket sort</a></td><td style="background:#ddffdd">O(<i>n</i>·<i>k</i>)</td><td style="background:#ffdddd">O(<i>n</i>²·<i>k</i>)</td><td>O(<i>n</i>·<i>k</i>)</td><td style="background:#ddffdd">Yes</td><td>No</td><td>Assumes uniform distribution of elements from the domain in the array.</td></tr><tr align="center"><td><a href="../../../../articles/c/o/u/Counting_sort.html" title="Counting sort">Counting sort</a></td><td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td><td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td><td>O(<i>n</i>+2<sup><i>k</i></sup>)</td><td style="background:#ddffdd">Yes</td><td>Yes</td><td></td></tr><tr align="center"><td>LSD <a href="../../../../articles/r/a/d/Radix_sort.html" title="Radix sort">Radix sort</a></td><td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td><td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td><td>O(<i>n</i>)</td><td style="background:#ddffdd">Yes</td><td>No</td><td></td></tr><tr align="center"><td>MSD <a href="../../../../articles/r/a/d/Radix_sort.html" title="Radix sort">Radix sort</a></td><td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td><td style="background:#ddffdd">O(<i>n</i>·(<i>k</i>/<i>s</i>)·2<sup><i>s</i></sup>)</td><td>O((<i>k</i>/<i>s</i>)·2<sup><i>s</i></sup>)</td><td style="background:#ffdddd">No</td><td>No</td><td></td></tr><tr align="center"><td><a href="../../../../articles/s/p/r/Spreadsort.html" title="Spreadsort">Spreadsort</a></td><td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/log(<i>n</i>))</td><td style="background:#ddffdd">O(<i>n</i>·(<i>k</i> - log(<i>n</i>))<sup>.5</sup>)</td><td>O(<i>n</i>)</td><td style="background:#ffdddd">No</td><td>No</td><td>Asymptotics are based on the assumption that n &lt;&lt; 2<sup>k</sup>, but the algorithm does not require this.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

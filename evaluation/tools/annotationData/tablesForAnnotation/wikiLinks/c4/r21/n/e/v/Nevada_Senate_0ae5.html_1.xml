@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r21/n/e/v/Nevada_Senate_0ae5.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 0 3, 0.5654762 3, 0.5208333 1 3, 0.42410713 2 3, 0.34375003 1 2, 0.2857143 2, 0.083333336 1, " />
+<meta name="parentHTMLDoc" value="en/articles/n/e/v/Nevada_Senate_0ae5.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mark E. Amodei</td>]]></html>
+	<text>Mark E. Amodei</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carson City</td>]]></html>
+	<text>Carson City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Capital</td>]]></html>
+	<text>Capital</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mike McGinness</td>]]></html>
+	<text>Mike McGinness</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fallon</td>]]></html>
+	<text>Fallon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Central Nevada</td>]]></html>
+	<text>Central Nevada</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John Jay Lee</td>]]></html>
+	<text>John Jay Lee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Las Vegas</td>]]></html>
+	<text>North Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 1</td>]]></html>
+	<text>Clark 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maggie Carlton</td>]]></html>
+	<text>Maggie Carlton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 2</td>]]></html>
+	<text>Clark 2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Valerie Wiener</td>]]></html>
+	<text>Valerie Wiener</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 3</td>]]></html>
+	<text>Clark 3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Steven Horsford</td>]]></html>
+	<text>Steven Horsford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Las Vegas</td>]]></html>
+	<text>North Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 4</td>]]></html>
+	<text>Clark 4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joe Heck</td>]]></html>
+	<text>Joe Heck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henderson</td>]]></html>
+	<text>Henderson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 5</td>]]></html>
+	<text>Clark 5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joyce Woodhouse</td>]]></html>
+	<text>Joyce Woodhouse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henderson</td>]]></html>
+	<text>Henderson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 5</td>]]></html>
+	<text>Clark 5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bob Beers</td>]]></html>
+	<text>Bob Beers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 6</td>]]></html>
+	<text>Clark 6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Terry John Care</td>]]></html>
+	<text>Terry John Care</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 7</td>]]></html>
+	<text>Clark 7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dina Titus</td>]]></html>
+	<text>Dina Titus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 7</td>]]></html>
+	<text>Clark 7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barbara Cegavske</td>]]></html>
+	<text>Barbara Cegavske</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 8</td>]]></html>
+	<text>Clark 8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dennis Nolan</td>]]></html>
+	<text>Dennis Nolan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 9</td>]]></html>
+	<text>Clark 9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bob Coffin</td>]]></html>
+	<text>Bob Coffin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 10</td>]]></html>
+	<text>Clark 10</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michael Schneider</td>]]></html>
+	<text>Michael Schneider</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 11</td>]]></html>
+	<text>Clark 11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Warren Hardy</td>]]></html>
+	<text>Warren Hardy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clark 12</td>]]></html>
+	<text>Clark 12</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dean Rhoads</td>]]></html>
+	<text>Dean Rhoads</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tuscarora</td>]]></html>
+	<text>Tuscarora</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northern Nevada</td>]]></html>
+	<text>Northern Nevada</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bernice Mathews</td>]]></html>
+	<text>Bernice Mathews</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dem</td>]]></html>
+	<text>Dem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reno</td>]]></html>
+	<text>Reno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washoe 1</td>]]></html>
+	<text>Washoe 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maurice Washington</td>]]></html>
+	<text>Maurice Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sparks</td>]]></html>
+	<text>Sparks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washoe 2</td>]]></html>
+	<text>Washoe 2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>William Raggio</td>]]></html>
+	<text>William Raggio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reno</td>]]></html>
+	<text>Reno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washoe 3</td>]]></html>
+	<text>Washoe 3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Randolph Townsend</td>]]></html>
+	<text>Randolph Townsend</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rep</td>]]></html>
+	<text>Rep</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reno</td>]]></html>
+	<text>Reno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washoe 4</td>]]></html>
+	<text>Washoe 4</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Nevada Senate - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Party Location District</text>
+</context>
+<context>
+	<score>0.883546</score>
+	<text>[ edit ] Current members</text>
+</context>
+<context>
+	<score>0.7950983</score>
+	<text>Nevada Senate</text>
+</context>
+<context>
+	<score>0.7838219</score>
+	<text>[ edit ] Current Composition</text>
+</context>
+<context>
+	<score>0.7515583</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7235201</score>
+	<text>[ edit ] Leadership of the Senate</text>
+</context>
+<context>
+	<score>0.7235201</score>
+	<text>[ edit ] Current Composition</text>
+</context>
+<context>
+	<score>0.7235201</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7235201</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7153191</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70404273</score>
+	<text>[ edit ] Leadership information</text>
+</context>
+<context>
+	<score>0.64021933</score>
+	<text>The President of the Senate is Nevada Lieutenant Governor Brian Krolicki of the Republican Party . The President Pro Tempore is Mark E. Amodei of the Capital Senate District ( Carson City ). The Majority Leader is William J. Raggio of Washoe District 3 ( Reno ). The Minority Leader is Democrat Dina Titus of Clark District 7 ( Las Vegas ).</text>
+</context>
+<context>
+	<score>0.600592</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.5891607</score>
+	<text>The President of the Senate is the body&apos;s highest officer, although they only vote in the case of a tie. The Lieutenant Governor of Nevada serves as Senate President. In their absence, the President Pro Tempore presides and has the power to make commission and committee appointments. The President Pro Tempore is elected to the position by the majority party. The other partisan Senate leadership positions, such as the Majority and Minority leaders, are elected by their respective party caucuses to head their parties in the chamber.</text>
+</context>
+<context>
+	<score>0.54831374</score>
+	<text>[ edit ] Leadership of the Senate</text>
+</context>
+<context>
+	<score>0.5117883</score>
+	<text>Nevada Senate official government website Project Vote Smart - State Senate of Nevada</text>
+</context>
+<context>
+	<score>0.50743514</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.48949406</score>
+	<text>The Senate meets at the Nevada State Capitol in Carson City .</text>
+</context>
+<context>
+	<score>0.46858042</score>
+	<text>Like other upper houses of state and territorial legislatures and the federal U.S. Senate , the Senate can confirm or reject gubernatorial appointments to the state cabinet , commissions and boards.</text>
+</context>
+<context>
+	<score>0.45955083</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.45184955</score>
+	<text>The Nevada Senate is the upper house of the Nevada Legislature , the state legislature of U.S. state of Nevada . The Senate consists of 21 members from 19 districts, two of which are multimember. Each senator represented approximately 94,700 people as of the 2000 census , although 2006 Census Bureau estimates suggest an average population of 118,800 per senator. Senators serve four-year terms. Term limits , limiting senators to three 4-year terms (12 years), will take effect in 2010. Seven senators will be termed out in 2010 and six in 2012.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name</th><th>Party</th><th>Location</th><th>District</th></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/m/a/r/Mark_E._Amodei_5792.html" title="Mark E. Amodei">Mark E. Amodei</a></td><td>Rep</td><td><a href="../../../../articles/c/a/r/Carson_City_bfd4.html" class="mw-redirect" title="Carson City">Carson City</a></td><td>Capital</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/m/i/k/Mike_McGinness_6f8b.html" title="Mike McGinness">Mike McGinness</a></td><td>Rep</td><td><a href="../../../../articles/f/a/l/Fallon%2C_Nevada_d291.html" title="Fallon, Nevada">Fallon</a></td><td>Central Nevada</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/j/o/h/John_Jay_Lee_ecb5.html" title="John Jay Lee">John Jay Lee</a></td><td>Dem</td><td><a href="../../../../articles/n/o/r/North_Las_Vegas%2C_Nevada_9c20.html" title="North Las Vegas, Nevada">North Las Vegas</a></td><td>Clark 1</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/m/a/g/Maggie_Carlton_c3cb.html" title="Maggie Carlton">Maggie Carlton</a></td><td>Dem</td><td><a href="../../../../articles/l/a/s/Las_Vegas%2C_Nevada_aec8.html" title="Las Vegas, Nevada">Las Vegas</a></td><td>Clark 2</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/v/a/l/Valerie_Wiener_d185.html" title="Valerie Wiener">Valerie Wiener</a></td><td>Dem</td><td>Las Vegas</td><td>Clark 3</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/s/t/e/Steven_Horsford_cf07.html" title="Steven Horsford">Steven Horsford</a></td><td>Dem</td><td>North Las Vegas</td><td>Clark 4</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/j/o/e/Joe_Heck_091b.html" title="Joe Heck">Joe Heck</a></td><td>Rep</td><td><a href="../../../../articles/h/e/n/Henderson%2C_Nevada_98c0.html" title="Henderson, Nevada">Henderson</a></td><td>Clark 5</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/j/o/y/Joyce_Woodhouse_f43b.html" title="Joyce Woodhouse">Joyce Woodhouse</a></td><td>Dem</td><td>Henderson</td><td>Clark 5</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/r/o/b/Robert_T._Beers_7647.html" title="Robert T. Beers">Bob Beers</a></td><td>Rep</td><td>Las Vegas</td><td>Clark 6</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/t/e/r/Terry_John_Care_ed3f.html" title="Terry John Care">Terry John Care</a></td><td>Dem</td><td>Las Vegas</td><td>Clark 7</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/d/i/n/Dina_Titus_7b50.html" title="Dina Titus">Dina Titus</a></td><td>Dem</td><td>Las Vegas</td><td>Clark 7</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/b/a/r/Barbara_Cegavske_a678.html" title="Barbara Cegavske">Barbara Cegavske</a></td><td>Rep</td><td>Las Vegas</td><td>Clark 8</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/d/e/n/Dennis_Nolan_d8c0.html" title="Dennis Nolan">Dennis Nolan</a></td><td>Rep</td><td>Las Vegas</td><td>Clark 9</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/b/o/b/Bob_Coffin_b4fc.html" title="Bob Coffin">Bob Coffin</a></td><td>Dem</td><td>Las Vegas</td><td>Clark 10</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/m/i/c/Michael_Schneider_93d0.html" title="Michael Schneider">Michael Schneider</a></td><td>Dem</td><td>Las Vegas</td><td>Clark 11</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/w/a/r/Warren_Hardy_7d8c.html" title="Warren Hardy">Warren Hardy</a></td><td>Rep</td><td>Las Vegas</td><td>Clark 12</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/d/e/a/Dean_Rhoads_9dad.html" title="Dean Rhoads">Dean Rhoads</a></td><td>Rep</td><td><a href="../../../../articles/t/u/s/Tuscarora%2C_Nevada_70ba.html" title="Tuscarora, Nevada">Tuscarora</a></td><td>Northern Nevada</td></tr><tr style="background:#CCEEFF"><td><a href="../../../../articles/b/e/r/Bernice_Mathews_89d6.html" title="Bernice Mathews">Bernice Mathews</a></td><td>Dem</td><td><a href="../../../../articles/r/e/n/Reno%2C_Nevada_64f6.html" title="Reno, Nevada">Reno</a></td><td>Washoe 1</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/m/a/u/Maurice_Washington_3f08.html" title="Maurice Washington">Maurice Washington</a></td><td>Rep</td><td><a href="../../../../articles/s/p/a/Sparks%2C_Nevada_483c.html" title="Sparks, Nevada">Sparks</a></td><td>Washoe 2</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/w/i/l/William_Raggio_632d.html" title="William Raggio">William Raggio</a></td><td>Rep</td><td>Reno</td><td>Washoe 3</td></tr><tr style="background:#FFB6B6"><td><a href="../../../../articles/r/a/n/Randolph_Townsend_d653.html" title="Randolph Townsend">Randolph Townsend</a></td><td>Rep</td><td>Reno</td><td>Washoe 4</td></tr></table>]]>
+</htmlSnippet>
+</entity>

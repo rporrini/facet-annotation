@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r11/f/l/o/Florida.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, 0.45454547 3, 0.39772728 1, 0.3409091 2, 0.29829547 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/f/l/o/Florida.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jacksonville Jaguars</td>]]></html>
+	<text>Jacksonville Jaguars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League</td>]]></html>
+	<text>National Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacksonville Municipal Stadium</td>]]></html>
+	<text>Jacksonville Municipal Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami Dolphins</td>]]></html>
+	<text>Miami Dolphins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League</td>]]></html>
+	<text>National Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dolphin Stadium</td>]]></html>
+	<text>Dolphin Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Buccaneers</td>]]></html>
+	<text>Tampa Bay Buccaneers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Football</td>]]></html>
+	<text>Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League</td>]]></html>
+	<text>National Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raymond James Stadium</td>]]></html>
+	<text>Raymond James Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Miami Heat</td>]]></html>
+	<text>Miami Heat</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Basketball Association</td>]]></html>
+	<text>National Basketball Association</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American Airlines Arena</td>]]></html>
+	<text>American Airlines Arena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Orlando Magic</td>]]></html>
+	<text>Orlando Magic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Basketball Association</td>]]></html>
+	<text>National Basketball Association</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amway Arena</td>]]></html>
+	<text>Amway Arena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida Panthers</td>]]></html>
+	<text>Florida Panthers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice hockey</td>]]></html>
+	<text>Ice hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Hockey League</td>]]></html>
+	<text>National Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BankAtlantic Center</td>]]></html>
+	<text>BankAtlantic Center</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Lightning</td>]]></html>
+	<text>Tampa Bay Lightning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ice hockey</td>]]></html>
+	<text>Ice hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Hockey League</td>]]></html>
+	<text>National Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Pete Times Forum</td>]]></html>
+	<text>St. Pete Times Forum</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida Marlins</td>]]></html>
+	<text>Florida Marlins</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball</td>]]></html>
+	<text>Major League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dolphin Stadium</td>]]></html>
+	<text>Dolphin Stadium</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Rays</td>]]></html>
+	<text>Tampa Bay Rays</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baseball</td>]]></html>
+	<text>Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball</td>]]></html>
+	<text>Major League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tropicana Field</td>]]></html>
+	<text>Tropicana Field</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Orlando Predators</td>]]></html>
+	<text>Orlando Predators</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena football</td>]]></html>
+	<text>Arena football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football League</td>]]></html>
+	<text>Arena Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amway Arena</td>]]></html>
+	<text>Amway Arena</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampa Bay Storm</td>]]></html>
+	<text>Tampa Bay Storm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena football</td>]]></html>
+	<text>Arena football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football League</td>]]></html>
+	<text>Arena Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Pete Times Forum</td>]]></html>
+	<text>St. Pete Times Forum</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Florida - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Venue</text>
+</context>
+<context>
+	<score>0.87983274</score>
+	<text>Although Florida is the traditional home to Major League Baseball &apos;s spring training , and nearly 2/3 of all MLB teams still have a spring training presence in the state, Florida did not have a permanent major-league-level professional sports team until the American Football League added the Miami Dolphins in 1966. The state now has three NFL teams, two MLB teams, two NBA teams, and two NHL teams. With two of its most historically-important teams, Florida is one of the most important markets for the Arena Football League . Golf , tennis and auto racing are also popular. Florida also hosts a variety of minor league baseball , football , basketball , ice hockey , soccer and indoor football teams.</text>
+</context>
+<context>
+	<score>0.79073083</score>
+	<text>Florida</text>
+</context>
+<context>
+	<score>0.7828631</score>
+	<text>Dolphin Stadium in Miami Gardens , home of the Florida Marlins and the Miami Dolphins .</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Spring training</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>History</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Geography</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Demographics</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Racial and ancestral makeup</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Government</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Economy</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Education</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Transportation</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Sports</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>Sister states</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>See also</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>References</text>
+</context>
+<context>
+	<score>0.7131551</score>
+	<text>External links</text>
+</context>
+<context>
+	<score>0.7052874</score>
+	<text>The American Airlines Arena in Miami, home of the Miami Heat .</text>
+</context>
+<context>
+	<score>0.64322674</score>
+	<text>Sports See also: List of sports teams in Florida</text>
+</context>
+<context>
+	<score>0.6046939</score>
+	<text>Florida is the traditional home for Major League Baseball spring training, with teams informally organized into the &quot; Grapefruit League .&quot; As of 2004, Florida hosts the following major league teams for spring training:</text>
+</context>
+<context>
+	<score>0.5935782</score>
+	<text>Regional Airports which processed over one million passengers each in 2006 are Pensacola (1,620,198) and Sarasota-Bradenton (1,423,113). Sanford , which is primarily served by international charter airlines processed 1,649,565 passengers in 2006.</text>
+</context>
+<context>
+	<score>0.5538595</score>
+	<text>and Jacksonville International Airport (5,946,188).</text>
+</context>
+<context>
+	<score>0.5464995</score>
+	<text>f=&quot;../../../../articles/o/l/d/Image%7EOld_Florida_Capitol.jpg_7806.html&quot; title=&quot;Florida Capitol buildings (Old Capitol in foreground)&quot;&gt; Florida Capitol buildings (Old Capitol in foreground)</text>
+</context>
+<context>
+	<score>0.5220845</score>
+	<text>Secondary airports, with annual passenger traffic exceeding 5 million each in 2006, include Southwest Florida International Airport (Fort Myers) (7,643,217), Palm Beach International Airport (West Palm Beach) (7,014,237),</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>Daytona International Speedway</text>
+</context>
+<context>
+	<score>0.4966644</score>
+	<text>Major international airports in Florida which processed more than 15 million passengers each in 2006 are Orlando International Airport (34,128,048), Miami International Airport (32,533,974), Fort Lauderdale-Hollywood International Airport (21,369,577) and Tampa International Airport (18,867,541).</text>
+</context>
+<context>
+	<score>0.4763284</score>
+	<text>Airports See also: List of airports in Florida</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Auto-racing tracks</text>
+</context>
+<context>
+	<score>0.46005958</score>
+	<text>is served by two additional Amtrak trains (the Silver Star and the Silver Meteor ), which operate between New York City and Miami .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Club</th><th>Sport</th><th>League</th><th>Venue</th></tr><tr><td><a href="../../../../articles/j/a/c/Jacksonville_Jaguars_c078.html" title="Jacksonville Jaguars">Jacksonville Jaguars</a></td><td><a href="../../../../articles/f/o/o/Football_%28American%29_5580.html" class="mw-redirect" title="Football (American)">Football</a></td><td>National Football League</td><td><a href="../../../../articles/j/a/c/Jacksonville_Municipal_Stadium_83b7.html" title="Jacksonville Municipal Stadium">Jacksonville Municipal Stadium</a></td></tr><tr><td><a href="../../../../articles/m/i/a/Miami_Dolphins_fba7.html" title="Miami Dolphins">Miami Dolphins</a></td><td>Football</td><td>National Football League</td><td><a href="../../../../articles/d/o/l/Dolphin_Stadium_97dc.html" title="Dolphin Stadium">Dolphin Stadium</a></td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Buccaneers_437e.html" title="Tampa Bay Buccaneers">Tampa Bay Buccaneers</a></td><td>Football</td><td>National Football League</td><td><a href="../../../../articles/r/a/y/Raymond_James_Stadium_b192.html" title="Raymond James Stadium">Raymond James Stadium</a></td></tr><tr><td><a href="../../../../articles/m/i/a/Miami_Heat_9ca0.html" title="Miami Heat">Miami Heat</a></td><td><a href="../../../../articles/b/a/s/Basketball.html" title="Basketball">Basketball</a></td><td>National Basketball Association</td><td><a href="../../../../articles/a/m/e/American_Airlines_Arena_0353.html" title="American Airlines Arena">American Airlines Arena</a></td></tr><tr><td><a href="../../../../articles/o/r/l/Orlando_Magic_e259.html" title="Orlando Magic">Orlando Magic</a></td><td>Basketball</td><td>National Basketball Association</td><td><a href="../../../../articles/a/m/w/Amway_Arena_9c15.html" title="Amway Arena">Amway Arena</a></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida_Panthers_c0e9.html" title="Florida Panthers">Florida Panthers</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Ice hockey</a></td><td>National Hockey League</td><td><a href="../../../../articles/b/a/n/BankAtlantic_Center_6d3e.html" title="BankAtlantic Center">BankAtlantic Center</a></td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Lightning_f2fb.html" title="Tampa Bay Lightning">Tampa Bay Lightning</a></td><td>Ice hockey</td><td>National Hockey League</td><td><a href="../../../../articles/s/t/2E/St._Pete_Times_Forum_c6bf.html" title="St. Pete Times Forum">St. Pete Times Forum</a></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida_Marlins_0c4d.html" title="Florida Marlins">Florida Marlins</a></td><td><a href="../../../../articles/b/a/s/Baseball.html" title="Baseball">Baseball</a></td><td>Major League Baseball</td><td>Dolphin Stadium</td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Rays_032b.html" title="Tampa Bay Rays">Tampa Bay Rays</a></td><td>Baseball</td><td>Major League Baseball</td><td><a href="../../../../articles/t/r/o/Tropicana_Field_f12b.html" title="Tropicana Field">Tropicana Field</a></td></tr><tr><td><a href="../../../../articles/o/r/l/Orlando_Predators_5dc4.html" title="Orlando Predators">Orlando Predators</a></td><td><a href="../../../../articles/a/r/e/Arena_football.html" title="Arena football">Arena football</a></td><td>Arena Football League</td><td>Amway Arena</td></tr><tr><td><a href="../../../../articles/t/a/m/Tampa_Bay_Storm_5511.html" title="Tampa Bay Storm">Tampa Bay Storm</a></td><td>Arena football</td><td>Arena Football League</td><td>St. Pete Times Forum</td></tr></table>]]>
+</htmlSnippet>
+</entity>

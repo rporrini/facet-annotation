@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r11/d/u/t/Dutch_general_election,_2002.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.16666667 2, 0.16666667 0 2, 0.15277778 1 2, 0.15 3, 0.15 0 3, 0.1375 1 3, 0.13333334 0 4, 0.12222224 1 4, 0.12121213 4, 0.058333334 0 5, 0.05347222 1 5, 0.042424243 5, 0.025 2 3, 0.022222225 2 4, 0.020000001 3 4, 0.009722223 2 5, 0.00875 3 5, 0.007777778 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/d/u/t/Dutch_general_election,_2002.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Lijsttrekker</th>]]></html>
+	<text>Lijsttrekker</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Votes</th>]]></html>
+	<text>Votes</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>%</th>]]></html>
+	<text>%</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Seats</th>]]></html>
+	<text>Seats</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>difference</th>]]></html>
+	<text>difference</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Christen-Democratisch Appèl</td>]]></html>
+	<text>Christen-Democratisch App&#232;l</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jan Peter Balkenende</td>]]></html>
+	<text>Jan Peter Balkenende</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,653,723</td>]]></html>
+	<text>2,653,723</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.9</td>]]></html>
+	<text>27.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+ 14</td>]]></html>
+	<text>+ 14</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lijst Pim Fortuyn</td>]]></html>
+	<text>Lijst Pim Fortuyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pim Fortuyn</td>]]></html>
+	<text>Pim Fortuyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,614,801</td>]]></html>
+	<text>1,614,801</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.0</td>]]></html>
+	<text>17.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+ 26</td>]]></html>
+	<text>+ 26</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Volkspartij voor Vrijheid en Democratie</td>]]></html>
+	<text>Volkspartij voor Vrijheid en Democratie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hans Dijkstal</td>]]></html>
+	<text>Hans Dijkstal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,466,722</td>]]></html>
+	<text>1,466,722</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.4</td>]]></html>
+	<text>15.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 14</td>]]></html>
+	<text>- 14</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Partij van de Arbeid</td>]]></html>
+	<text>Partij van de Arbeid</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ad Melkert</td>]]></html>
+	<text>Ad Melkert</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,436,023</td>]]></html>
+	<text>1,436,023</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.1</td>]]></html>
+	<text>15.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23</td>]]></html>
+	<text>23</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 22</td>]]></html>
+	<text>- 22</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GroenLinks</td>]]></html>
+	<text>GroenLinks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paul Rosenmöller</td>]]></html>
+	<text>Paul Rosenm&#246;ller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>660,692</td>]]></html>
+	<text>660,692</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.0</td>]]></html>
+	<text>7.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 1</td>]]></html>
+	<text>- 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Socialistische Partij</td>]]></html>
+	<text>Socialistische Partij</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jan Marijnissen</td>]]></html>
+	<text>Jan Marijnissen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>560,447</td>]]></html>
+	<text>560,447</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.9</td>]]></html>
+	<text>5.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+ 4</td>]]></html>
+	<text>+ 4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Democraten 66</td>]]></html>
+	<text>Democraten 66</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thom de Graaf</td>]]></html>
+	<text>Thom de Graaf</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>484,317</td>]]></html>
+	<text>484,317</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.1</td>]]></html>
+	<text>5.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 7</td>]]></html>
+	<text>- 7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ChristenUnie</td>]]></html>
+	<text>ChristenUnie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kars Veling</td>]]></html>
+	<text>Kars Veling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>240,953</td>]]></html>
+	<text>240,953</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.5</td>]]></html>
+	<text>2.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 1</td>]]></html>
+	<text>- 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Staatkundig Gereformeerde Partij</td>]]></html>
+	<text>Staatkundig Gereformeerde Partij</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bas van der Vlies</td>]]></html>
+	<text>Bas van der Vlies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>163,562</td>]]></html>
+	<text>163,562</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.7</td>]]></html>
+	<text>1.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>- 1</td>]]></html>
+	<text>- 1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leefbaar Nederland</td>]]></html>
+	<text>Leefbaar Nederland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fred Teeven</td>]]></html>
+	<text>Fred Teeven</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>153,055</td>]]></html>
+	<text>153,055</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>+ 2</td>]]></html>
+	<text>+ 2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Total</td>]]></html>
+	<text>Total</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,501,152</td>]]></html>
+	<text>9,501,152</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.0</td>]]></html>
+	<text>100.0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150</td>]]></html>
+	<text>150</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Dutch general election, 2002 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Party Lijsttrekker Votes % Seats difference</text>
+</context>
+<context>
+	<score>0.8787845</score>
+	<text>Turnout: 79.1%</text>
+</context>
+<context>
+	<score>0.80075204</score>
+	<text>Dutch general election, 2002</text>
+</context>
+<context>
+	<score>0.78763974</score>
+	<text>[ edit ] National summary</text>
+</context>
+<context>
+	<score>0.75043875</score>
+	<text>Only parties that got seats in parliament are shown in the table above.</text>
+</context>
+<context>
+	<score>0.72900176</score>
+	<text>[ edit ] Result</text>
+</context>
+<context>
+	<score>0.72900176</score>
+	<text>[ edit ] National summary</text>
+</context>
+<context>
+	<score>0.72900176</score>
+	<text>[ edit ] Parties</text>
+</context>
+<context>
+	<score>0.72900176</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.72317415</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71006185</score>
+	<text>The election of May 15, 2002 was the beginning of a year of political chaos in the Netherlands as the leader of the LPF was assassinated before election. This resulted in internal fights in LPF, which eventually led to the fall of the first Balkenende cabinet (CDA-LPF-VVD), which was inaugurated on July 22 2002 and fell on October 16 2002. The CDA became coalition party after eight years in opposition ( 1994 -2002), which, however, became the shortest-ruling Dutch cabinet since the Second World War , lasting only 5 months.</text>
+</context>
+<context>
+	<score>0.6479996</score>
+	<text>Another party making its debut in the Tweede Kamer was Leefbaar Nederland .</text>
+</context>
+<context>
+	<score>0.60946554</score>
+	<text>[ edit ] Parties</text>
+</context>
+<context>
+	<score>0.5983497</score>
+	<text>The CDA was the surprising winner of the election, gaining 14 seats (from 29 to 43) and becoming the largest party in the Tweede Kamer . This success is owed to its new leader Jan Peter Balkenende , who would become prime minister , and to its neutral attitude in the debate with Fortuyn (it became a perfect alternative to both the government parties, which were utterly despised, and the LPF, which future was uncertain because of Fortuyn&apos;s death) who would have been demonized by the political Left .</text>
+</context>
+<context>
+	<score>0.55862975</score>
+	<text>The great losers of the election were PvdA , VVD and D66 , the coalition parties of the &apos;purple&apos; cabinets. Especially the PvdA under the technocratic leadership of Ad Melkert suffered a humiliating defeat.</text>
+</context>
+<context>
+	<score>0.52685386</score>
+	<text>[ edit ] Result</text>
+</context>
+<context>
+	<score>0.5231122</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.49560547</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.48109654</score>
+	<text>, not just in terms of the electoral results. It was completely focused on populist leader Pim Fortuyn , who was assassinated shortly before the elections. His party made a huge leap from nothing to 17% of the votes, making it the second biggest party. Fortuyn had especially attacked immigration policies and also questioned all forms of policies undertaken by the previous &apos;purple&apos; cabinets ( Paars ) of Wim Kok , which he blamed for everything from crime to waiting lists in health services.</text>
+</context>
+<context>
+	<score>0.4664884</score>
+	<text>Van Holsteyn, Joop J. M.; and Galen A. Irwin (April 2003). &quot;Never a dull moment: Pim Fortuyn and the Dutch parliamentary election of 2002&quot;. West European Politics 26 (2): 41-86.</text>
+</context>
+<context>
+	<score>0.46482727</score>
+	<text>[ citation needed ]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" border="1" cellspacing="0" cellpadding="5"><tr bgcolor="#CCCCCC"><th><b>Party</b></th><th><b><a href="../../../../articles/p/o/l/Politics_of_the_Netherlands_%28terminology%29_cce6.html#Lijsttrekker" title="Politics of the Netherlands (terminology)">Lijsttrekker</a></b></th><th><b>Votes</b></th><th><b>%</b></th><th><b>Seats</b></th><th><b>difference</b></th></tr><tr><td><a href="../../../../articles/c/h/r/Christen-Democratisch_App%C3%A8l_09be.html" class="mw-redirect" title="Christen-Democratisch Appèl">Christen-Democratisch Appèl</a></td><td><a href="../../../../articles/j/a/n/Jan_Peter_Balkenende_9f13.html" title="Jan Peter Balkenende">Jan Peter Balkenende</a></td><td>2,653,723</td><td>27.9</td><td>43</td><td>+ 14</td></tr><tr><td><a href="../../../../articles/l/i/j/Lijst_Pim_Fortuyn_2f8b.html" class="mw-redirect" title="Lijst Pim Fortuyn">Lijst Pim Fortuyn</a></td><td><a href="../../../../articles/p/i/m/Pim_Fortuyn_0d35.html" title="Pim Fortuyn">Pim Fortuyn</a></td><td>1,614,801</td><td>17.0</td><td>26</td><td>+ 26</td></tr><tr><td><a href="../../../../articles/v/o/l/Volkspartij_voor_Vrijheid_en_Democratie_9232.html" class="mw-redirect" title="Volkspartij voor Vrijheid en Democratie">Volkspartij voor Vrijheid en Democratie</a></td><td><a href="../../../../articles/h/a/n/Hans_Dijkstal_d386.html" title="Hans Dijkstal">Hans Dijkstal</a></td><td>1,466,722</td><td>15.4</td><td>24</td><td>- 14</td></tr><tr><td><a href="../../../../articles/p/a/r/Partij_van_de_Arbeid_010c.html" class="mw-redirect" title="Partij van de Arbeid">Partij van de Arbeid</a></td><td><a href="../../../../articles/a/d/_/Ad_Melkert_b3f1.html" title="Ad Melkert">Ad Melkert</a></td><td>1,436,023</td><td>15.1</td><td>23</td><td>- 22</td></tr><tr><td><a href="../../../../articles/g/r/o/GroenLinks_419a.html" class="mw-redirect" title="GroenLinks">GroenLinks</a></td><td><a href="../../../../articles/p/a/u/Paul_Rosenm%C3%B6ller_b80f.html" title="Paul Rosenmöller">Paul Rosenmöller</a></td><td>660,692</td><td>7.0</td><td>10</td><td>- 1</td></tr><tr><td><a href="../../../../articles/s/o/c/Socialistische_Partij_05df.html" title="Socialistische Partij">Socialistische Partij</a></td><td><a href="../../../../articles/j/a/n/Jan_Marijnissen_22d4.html" title="Jan Marijnissen">Jan Marijnissen</a></td><td>560,447</td><td>5.9</td><td>9</td><td>+ 4</td></tr><tr><td><a href="../../../../articles/d/e/m/Democraten_66.html" class="mw-redirect" title="Democraten 66">Democraten 66</a></td><td><a href="../../../../articles/t/h/o/Thom_de_Graaf_481c.html" title="Thom de Graaf">Thom de Graaf</a></td><td>484,317</td><td>5.1</td><td>7</td><td>- 7</td></tr><tr><td><a href="../../../../articles/c/h/r/ChristenUnie_24b1.html" class="mw-redirect" title="ChristenUnie">ChristenUnie</a></td><td><a href="../../../../articles/k/a/r/Kars_Veling_e742.html" title="Kars Veling">Kars Veling</a></td><td>240,953</td><td>2.5</td><td>4</td><td>- 1</td></tr><tr><td><a href="../../../../articles/s/t/a/Staatkundig_Gereformeerde_Partij_b51c.html" class="mw-redirect" title="Staatkundig Gereformeerde Partij">Staatkundig Gereformeerde Partij</a></td><td><a href="../../../../articles/b/a/s/Bas_van_der_Vlies_0064.html" title="Bas van der Vlies">Bas van der Vlies</a></td><td>163,562</td><td>1.7</td><td>2</td><td>- 1</td></tr><tr><td><a href="../../../../articles/l/e/e/Leefbaar_Nederland_bc36.html" class="mw-redirect" title="Leefbaar Nederland">Leefbaar Nederland</a></td><td><a href="../../../../articles/f/r/e/Fred_Teeven_1f98.html" title="Fred Teeven">Fred Teeven</a></td><td>153,055</td><td>1.6</td><td>2</td><td>+ 2</td></tr><tr><td><b>Total</b></td><td></td><td><b>9,501,152</b></td><td><b>100.0</b></td><td><b>150</b></td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

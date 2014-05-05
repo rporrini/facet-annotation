@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r19/p/r/e/Presidential_library.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 2, 0.9 1 2, 0.8 3, 0.8 1 3, 0.71999997 2 3, 0.7 1 4, 0.63 2 4, 0.56 3 4, 0.29473683 4, 0.120000005 0, 0.120000005 0 1, 0.108 0 2, 0.09600001 0 3, 0.084 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/p/r/e/Presidential_library.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>#</th>]]></html>
+	<text>#</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>President</th>]]></html>
+	<text>President</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Library name</th>]]></html>
+	<text>Library name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Operated By</th>]]></html>
+	<text>Operated By</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Quincy Adams</td>]]></html>
+	<text>John Quincy Adams</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stone Library at Adams National Historical Park</td>]]></html>
+	<text>Stone Library at Adams National Historical Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quincy, Massachusetts</td>]]></html>
+	<text>Quincy, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Park Service</td>]]></html>
+	<text>National Park Service</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abraham Lincoln</td>]]></html>
+	<text>Abraham Lincoln</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abraham Lincoln Presidential Library and Museum</td>]]></html>
+	<text>Abraham Lincoln Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Springfield, Illinois</td>]]></html>
+	<text>Springfield, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>State of Illinois</td>]]></html>
+	<text>State of Illinois</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rutherford Hayes</td>]]></html>
+	<text>Rutherford Hayes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rutherford B. Hayes Presidential Center</td>]]></html>
+	<text>Rutherford B. Hayes Presidential Center</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fremont, Ohio</td>]]></html>
+	<text>Fremont, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ohio Historical Society &amp; Hayes Presidential Center, Inc.</td>]]></html>
+	<text>Ohio Historical Society &amp;amp;amp; Hayes Presidential Center, Inc.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William McKinley</td>]]></html>
+	<text>William McKinley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William McKinley Presidential Library &amp; Museum</td>]]></html>
+	<text>William McKinley Presidential Library &amp;amp;amp; Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canton, Ohio</td>]]></html>
+	<text>Canton, Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William McKinley Presidential Library &amp; Museum (private nonprofit)</td>]]></html>
+	<text>William McKinley Presidential Library &amp;amp;amp; Museum (private nonprofit)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Woodrow Wilson</td>]]></html>
+	<text>Woodrow Wilson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Woodrow Wilson Presidential Library</td>]]></html>
+	<text>Woodrow Wilson Presidential Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Staunton, Virginia</td>]]></html>
+	<text>Staunton, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Woodrow Wilson Presidential Library Foundation</td>]]></html>
+	<text>Woodrow Wilson Presidential Library Foundation</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calvin Coolidge</td>]]></html>
+	<text>Calvin Coolidge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Calvin Coolidge Presidential Library and Museum</td>]]></html>
+	<text>Calvin Coolidge Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northampton, Massachusetts</td>]]></html>
+	<text>Northampton, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Forbes Library</td>]]></html>
+	<text>Forbes Library</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Herbert Hoover</td>]]></html>
+	<text>Herbert Hoover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Herbert Hoover Presidential Library and Museum</td>]]></html>
+	<text>Herbert Hoover Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Branch, Iowa</td>]]></html>
+	<text>West Branch, Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Franklin D. Roosevelt</td>]]></html>
+	<text>Franklin D. Roosevelt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Franklin D. Roosevelt Presidential Library and Museum</td>]]></html>
+	<text>Franklin D. Roosevelt Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hyde Park, New York</td>]]></html>
+	<text>Hyde Park, New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>33</td>]]></html>
+	<text>33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harry S. Truman</td>]]></html>
+	<text>Harry S. Truman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harry S. Truman Presidential Museum and Library</td>]]></html>
+	<text>Harry S. Truman Presidential Museum and Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Independence, Missouri</td>]]></html>
+	<text>Independence, Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dwight D. Eisenhower</td>]]></html>
+	<text>Dwight D. Eisenhower</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dwight D. Eisenhower Presidential Library</td>]]></html>
+	<text>Dwight D. Eisenhower Presidential Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Abilene, Kansas</td>]]></html>
+	<text>Abilene, Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>35</td>]]></html>
+	<text>35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John F. Kennedy</td>]]></html>
+	<text>John F. Kennedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John F. Kennedy Presidential Library &amp; Museum</td>]]></html>
+	<text>John F. Kennedy Presidential Library &amp;amp;amp; Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dorchester, Massachusetts</td>]]></html>
+	<text>Dorchester, Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyndon B. Johnson</td>]]></html>
+	<text>Lyndon B. Johnson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lyndon Baines Johnson Library and Museum</td>]]></html>
+	<text>Lyndon Baines Johnson Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Austin, Texas</td>]]></html>
+	<text>Austin, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Nixon</td>]]></html>
+	<text>Richard Nixon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Nixon Presidential Library and Museum</td>]]></html>
+	<text>Richard Nixon Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yorba Linda, California</td>]]></html>
+	<text>Yorba Linda, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA *</td>]]></html>
+	<text>NARA *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gerald R. Ford</td>]]></html>
+	<text>Gerald R. Ford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gerald R. Ford Museum ; Gerald R. Ford Presidential Library</td>]]></html>
+	<text>Gerald R. Ford Museum ; Gerald R. Ford Presidential Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Rapids, Michigan ; Ann Arbor, Michigan</td>]]></html>
+	<text>Grand Rapids, Michigan ; Ann Arbor, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jimmy Carter</td>]]></html>
+	<text>Jimmy Carter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jimmy Carter Library and Museum</td>]]></html>
+	<text>Jimmy Carter Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlanta, Georgia</td>]]></html>
+	<text>Atlanta, Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ronald Reagan</td>]]></html>
+	<text>Ronald Reagan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ronald Reagan Presidential Library</td>]]></html>
+	<text>Ronald Reagan Presidential Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Simi Valley, California</td>]]></html>
+	<text>Simi Valley, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George H. W. Bush</td>]]></html>
+	<text>George H. W. Bush</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George Bush Presidential Library &amp; Museum</td>]]></html>
+	<text>George Bush Presidential Library &amp;amp;amp; Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>College Station, Texas</td>]]></html>
+	<text>College Station, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>42</td>]]></html>
+	<text>42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill Clinton</td>]]></html>
+	<text>Bill Clinton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>William J. Clinton Presidential Library and Museum</td>]]></html>
+	<text>William J. Clinton Presidential Library and Museum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Rock, Arkansas</td>]]></html>
+	<text>Little Rock, Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NARA</td>]]></html>
+	<text>NARA</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George W. Bush</td>]]></html>
+	<text>George W. Bush</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George W. Bush Presidential Library</td>]]></html>
+	<text>George W. Bush Presidential Library</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dallas, Texas</td>]]></html>
+	<text>Dallas, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>George W. Bush Presidential Library Foundation</td>]]></html>
+	<text>George W. Bush Presidential Library Foundation</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Presidential library - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text># President Library name Location Operated By</text>
+</context>
+<context>
+	<score>0.8785516</score>
+	<text>This is a list of the presidential libraries.</text>
+</context>
+<context>
+	<score>0.79404384</score>
+	<text>Presidential library</text>
+</context>
+<context>
+	<score>0.7845557</score>
+	<text>[ edit ] List of presidential libraries</text>
+</context>
+<context>
+	<score>0.753122</score>
+	<text>* As mentioned above, the Richard Nixon Presidential Library and Museum was not originally part of the Presidential library system until July 11 , 2007 ; previously it was the Richard Nixon Library &amp; Birthplace.</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] Overview</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] Holdings</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] List of presidential libraries</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7194795</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7163168</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7068287</score>
+	<text>With the exception of John F. Kennedy , Lyndon B. Johnson and Jimmy Carter , every American president since Hoover is or has chosen to be buried at their presidential library. Kennedy is buried at Arlington National Cemetery ; Johnson is buried at his ranch in the hill country of Texas, west of Austin; Carter plans to be buried near his home in Plains, Georgia .</text>
+</context>
+<context>
+	<score>0.64464706</score>
+	<text>Other significant holdings include the personal papers and historical materials donated by individuals associated with the President. These individuals may include Cabinet officials , envoys to foreign governments, political party associates, and the President&apos;s family and personal friends. Several libraries have undertaken oral history programs that have produced tape-recorded memoirs. A third body of materials comprises the papers accumulated by the President prior to, and following, his Presidency. Such collections include documents relating to Roosevelt&apos;s tenure as Governor of New York and Dwight D. Eisenhower &apos;s long military career.</text>
+</context>
+<context>
+	<score>0.6060391</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5917391</score>
+	<text>The most important textual materials in each library are those created by the President and his staff in the course of performing the official duties. Libraries also house numerous objects including family heirlooms, items collected by the President and his family, campaign memorabilia, awards, and the many gifts given to the President by American citizens and foreign dignitaries. These gifts range in type from homemade items to valuable works of art. Curators in Presidential libraries and in other museums throughout the country draw upon these collections for historical exhibits.</text>
+</context>
+<context>
+	<score>0.55194294</score>
+	<text>The twelve Presidential Libraries maintain over 400 million pages of textual materials; nearly ten million photographs; over 15 million feet (5,000 km) of motion picture film; nearly 100,000 hours of disc, audiotape, and videotape recordings; and approximately half a million museum objects. These varied holdings make each library a valuable source of information and a center for research on the Presidency.</text>
+</context>
+<context>
+	<score>0.5232687</score>
+	<text>[ edit ] Holdings</text>
+</context>
+<context>
+	<score>0.49463642</score>
+	<text>The Presidential Libraries Act of 1986 also made significant changes to Presidential libraries, requiring private endowments linked to the size of the facility. NARA uses these endowments to offset a portion of the maintenance costs for the library.</text>
+</context>
+<context>
+	<score>0.47742346</score>
+	<text>The Presidential Records Act of 1978 established that the Presidential records that document the constitutional, statutory, and ceremonial duties of the President are the property of the United States Government. After the President leaves office, the Archivist of the United States assumes custody of the records. The Act allowed for the continuation of Presidential libraries as the repository for Presidential records.</text>
+</context>
+<context>
+	<score>0.46862614</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.46112293</score>
+	<text>Until 1978 , Presidents, scholars, and legal professionals held the view dating back to George Washington that the records created by the President or his staff while in office remained the personal property of the President and were his to take with him when he left office. The first Presidential libraries were built on this concept. NARA successfully persuaded Presidents to donate their historical materials to the federal government for housing in a Presidential library managed by NARA.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>#</th><th>President</th><th>Library name</th><th>Location</th><th>Operated By</th></tr><tr><td>6</td><td><a href="../../../../articles/j/o/h/John_Quincy_Adams_2c9a.html" title="John Quincy Adams">John Quincy Adams</a></td><td>Stone Library at <a href="../../../../articles/a/d/a/Adams_National_Historical_Park_a746.html" title="Adams National Historical Park">Adams National Historical Park</a></td><td><a href="../../../../articles/q/u/i/Quincy%2C_Massachusetts_6c46.html" title="Quincy, Massachusetts">Quincy, Massachusetts</a></td><td><a href="../../../../articles/n/a/t/National_Park_Service_2873.html" title="National Park Service">National Park Service</a></td></tr><tr><td>16</td><td><a href="../../../../articles/a/b/r/Abraham_Lincoln_11e8.html" title="Abraham Lincoln">Abraham Lincoln</a></td><td><a href="../../../../articles/a/b/r/Abraham_Lincoln_Presidential_Library_and_Museum_7874.html" title="Abraham Lincoln Presidential Library and Museum">Abraham Lincoln Presidential Library and Museum</a></td><td><a href="../../../../articles/s/p/r/Springfield%2C_Illinois_d173.html" title="Springfield, Illinois">Springfield, Illinois</a></td><td>State of <a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td></tr><tr><td>19</td><td><a href="../../../../articles/r/u/t/Rutherford_Hayes_5df4.html" class="mw-redirect" title="Rutherford Hayes">Rutherford Hayes</a></td><td><a href="../../../../articles/r/u/t/Rutherford_B._Hayes_Presidential_Center_787f.html" title="Rutherford B. Hayes Presidential Center">Rutherford B. Hayes Presidential Center</a></td><td><a href="../../../../articles/f/r/e/Fremont%2C_Ohio_c2bc.html" title="Fremont, Ohio">Fremont, Ohio</a></td><td>Ohio Historical Society &amp; Hayes Presidential Center, Inc.</td></tr><tr><td>25</td><td><a href="../../../../articles/w/i/l/William_McKinley_c296.html" title="William McKinley">William McKinley</a></td><td><a href="http://www.mckinleymuseum.org/" class="external text" title="http://www.mckinleymuseum.org/" rel="nofollow">William McKinley Presidential Library &amp; Museum</a></td><td><a href="../../../../articles/c/a/n/Canton%2C_Ohio_6d9b.html" title="Canton, Ohio">Canton, Ohio</a></td><td>William McKinley Presidential Library &amp; Museum (private nonprofit)</td></tr><tr><td>28</td><td><a href="../../../../articles/w/o/o/Woodrow_Wilson_eb76.html" title="Woodrow Wilson">Woodrow Wilson</a></td><td><a href="../../../../articles/w/o/o/Woodrow_Wilson_Presidential_Library_3de3.html" title="Woodrow Wilson Presidential Library">Woodrow Wilson Presidential Library</a></td><td><a href="../../../../articles/s/t/a/Staunton%2C_Virginia_142d.html" title="Staunton, Virginia">Staunton, Virginia</a></td><td>Woodrow Wilson Presidential Library Foundation</td></tr><tr><td>30</td><td><a href="../../../../articles/c/a/l/Calvin_Coolidge_91e2.html" title="Calvin Coolidge">Calvin Coolidge</a></td><td><a href="../../../../articles/c/a/l/Calvin_Coolidge_Presidential_Library_and_Museum_64ef.html" title="Calvin Coolidge Presidential Library and Museum">Calvin Coolidge Presidential Library and Museum</a></td><td><a href="../../../../articles/n/o/r/Northampton%2C_Massachusetts_b67c.html" title="Northampton, Massachusetts">Northampton, Massachusetts</a></td><td>Forbes Library</td></tr><tr><td>31</td><td><a href="../../../../articles/h/e/r/Herbert_Hoover_33d7.html" title="Herbert Hoover">Herbert Hoover</a></td><td><a href="../../../../articles/h/e/r/Herbert_Hoover_Presidential_Library_and_Museum_4d19.html" title="Herbert Hoover Presidential Library and Museum">Herbert Hoover Presidential Library and Museum</a></td><td><a href="../../../../articles/w/e/s/West_Branch%2C_Iowa_0a33.html" title="West Branch, Iowa">West Branch, Iowa</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>32</td><td><a href="../../../../articles/f/r/a/Franklin_D._Roosevelt_eea3.html" title="Franklin D. Roosevelt">Franklin D. Roosevelt</a></td><td><a href="../../../../articles/f/r/a/Franklin_D._Roosevelt_Presidential_Library_and_Museum_3a34.html" title="Franklin D. Roosevelt Presidential Library and Museum">Franklin D. Roosevelt Presidential Library and Museum</a></td><td><a href="../../../../articles/h/y/d/Hyde_Park%2C_New_York_cb74.html" title="Hyde Park, New York">Hyde Park, New York</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>33</td><td><a href="../../../../articles/h/a/r/Harry_S._Truman_d2df.html" title="Harry S. Truman">Harry S. Truman</a></td><td><a href="../../../../articles/h/a/r/Harry_S._Truman_Presidential_Library_and_Museum_3c94.html" title="Harry S. Truman Presidential Library and Museum">Harry S. Truman Presidential Museum and Library</a></td><td><a href="../../../../articles/i/n/d/Independence%2C_Missouri_37fd.html" title="Independence, Missouri">Independence, Missouri</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>34</td><td><a href="../../../../articles/d/w/i/Dwight_D._Eisenhower_449c.html" title="Dwight D. Eisenhower">Dwight D. Eisenhower</a></td><td><a href="../../../../articles/e/i/s/Eisenhower_Presidential_Center_7a4b.html" title="Eisenhower Presidential Center">Dwight D. Eisenhower Presidential Library</a></td><td><a href="../../../../articles/a/b/i/Abilene%2C_Kansas_9a61.html" title="Abilene, Kansas">Abilene, Kansas</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>35</td><td><a href="../../../../articles/j/o/h/John_F._Kennedy_9798.html" title="John F. Kennedy">John F. Kennedy</a></td><td><a href="../../../../articles/j/o/h/John_F._Kennedy_Library_5804.html" title="John F. Kennedy Library">John F. Kennedy Presidential Library &amp; Museum</a></td><td><a href="../../../../articles/d/o/r/Dorchester%2C_Massachusetts_3c01.html" title="Dorchester, Massachusetts">Dorchester, Massachusetts</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>36</td><td><a href="../../../../articles/l/y/n/Lyndon_B._Johnson_d5db.html" title="Lyndon B. Johnson">Lyndon B. Johnson</a></td><td><a href="../../../../articles/l/y/n/Lyndon_Baines_Johnson_Library_and_Museum_ab64.html" title="Lyndon Baines Johnson Library and Museum">Lyndon Baines Johnson Library and Museum</a></td><td><a href="../../../../articles/a/u/s/Austin%2C_Texas_6b79.html" title="Austin, Texas">Austin, Texas</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>37</td><td><a href="../../../../articles/r/i/c/Richard_Nixon_9d26.html" title="Richard Nixon">Richard Nixon</a></td><td><a href="../../../../articles/r/i/c/Richard_Nixon_Presidential_Library_and_Museum_1968.html" title="Richard Nixon Presidential Library and Museum">Richard Nixon Presidential Library and Museum</a></td><td><a href="../../../../articles/y/o/r/Yorba_Linda%2C_California_5650.html" title="Yorba Linda, California">Yorba Linda, California</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a>*</td></tr><tr><td>38</td><td><a href="../../../../articles/g/e/r/Gerald_R._Ford_8fe5.html" class="mw-redirect" title="Gerald R. Ford">Gerald R. Ford</a></td><td><a href="../../../../articles/g/e/r/Gerald_R._Ford_Museum_6af8.html" class="mw-redirect" title="Gerald R. Ford Museum">Gerald R. Ford Museum</a>; <a href="../../../../articles/g/e/r/Gerald_R._Ford_Presidential_Library_1070.html" title="Gerald R. Ford Presidential Library">Gerald R. Ford Presidential Library</a></td><td><a href="../../../../articles/g/r/a/Grand_Rapids%2C_Michigan_4f0d.html" title="Grand Rapids, Michigan">Grand Rapids, Michigan</a>; <a href="../../../../articles/a/n/n/Ann_Arbor%2C_Michigan_cad1.html" title="Ann Arbor, Michigan">Ann Arbor, Michigan</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>39</td><td><a href="../../../../articles/j/i/m/Jimmy_Carter_64a2.html" title="Jimmy Carter">Jimmy Carter</a></td><td><a href="../../../../articles/j/i/m/Jimmy_Carter_Library_and_Museum_b68e.html" title="Jimmy Carter Library and Museum">Jimmy Carter Library and Museum</a></td><td><a href="../../../../articles/a/t/l/Atlanta%2C_Georgia_4e3e.html" title="Atlanta, Georgia">Atlanta, Georgia</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>40</td><td><a href="../../../../articles/r/o/n/Ronald_Reagan_9da1.html" title="Ronald Reagan">Ronald Reagan</a></td><td><a href="../../../../articles/r/o/n/Ronald_Reagan_Presidential_Library_742f.html" title="Ronald Reagan Presidential Library">Ronald Reagan Presidential Library</a></td><td><a href="../../../../articles/s/i/m/Simi_Valley%2C_California_0092.html" title="Simi Valley, California">Simi Valley, California</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>41</td><td><a href="../../../../articles/g/e/o/George_H._W._Bush_6dcc.html" title="George H. W. Bush">George H. W. Bush</a></td><td><a href="../../../../articles/g/e/o/George_Bush_Presidential_Library_4a00.html" title="George Bush Presidential Library">George Bush Presidential Library &amp; Museum</a></td><td><a href="../../../../articles/c/o/l/College_Station%2C_Texas_c116.html" title="College Station, Texas">College Station, Texas</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>42</td><td><a href="../../../../articles/b/i/l/Bill_Clinton_75aa.html" title="Bill Clinton">Bill Clinton</a></td><td><a href="../../../../articles/w/i/l/William_J._Clinton_Presidential_Center_and_Park_ed0b.html" title="William J. Clinton Presidential Center and Park">William J. Clinton Presidential Library and Museum</a></td><td><a href="../../../../articles/l/i/t/Little_Rock%2C_Arkansas_8f37.html" title="Little Rock, Arkansas">Little Rock, Arkansas</a></td><td><a href="../../../../articles/n/a/r/NARA_3e35.html" class="mw-redirect" title="NARA">NARA</a></td></tr><tr><td>43</td><td><a href="../../../../articles/g/e/o/George_W._Bush_315d.html" title="George W. Bush">George W. Bush</a></td><td><a href="../../../../articles/g/e/o/George_W._Bush_Presidential_Library_b33a.html" title="George W. Bush Presidential Library">George W. Bush Presidential Library</a></td><td><a href="../../../../articles/d/a/l/Dallas%2C_Texas_2045.html" title="Dallas, Texas">Dallas, Texas</a></td><td>George W. Bush Presidential Library Foundation</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r5/w/u/f/WUFN_664b.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 3, 0.9166667 2 3, 0.8333333 2 4, 0.7638889 3 4, 0.75 2 5, 0.6875 3 5, 0.16666667 4, 0.15 5, 0.13333334 1, 0.13333334 1 2, 0.125 4 5, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.10000001 1 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/w/u/f/WUFN_664b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W223AM</td>]]></html>
+	<text>W223AM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92.5</td>]]></html>
+	<text>92.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bronson, Michigan</td>]]></html>
+	<text>Bronson, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>180 watts</td>]]></html>
+	<text>180 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W262BD</td>]]></html>
+	<text>W262BD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.3</td>]]></html>
+	<text>100.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dimondale, Michigan</td>]]></html>
+	<text>Dimondale, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 watts</td>]]></html>
+	<text>13 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W279AP</td>]]></html>
+	<text>W279AP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.7</td>]]></html>
+	<text>103.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ionia, Michigan</td>]]></html>
+	<text>Ionia, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 watts</td>]]></html>
+	<text>4 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W236AV</td>]]></html>
+	<text>W236AV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.1</td>]]></html>
+	<text>95.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kalamazoo, Michigan</td>]]></html>
+	<text>Kalamazoo, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36 watts</td>]]></html>
+	<text>36 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W237BY</td>]]></html>
+	<text>W237BY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.3</td>]]></html>
+	<text>95.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mason, Michigan</td>]]></html>
+	<text>Mason, Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 watts</td>]]></html>
+	<text>27 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>WUFN - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>In addition to the main station, WUFN is relayed by an additional 6 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.80520916</score>
+	<text>WUFN</text>
+</context>
+<context>
+	<score>0.78871155</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.75703627</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.7358835</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71038723</score>
+	<text>WUNN and WUFN were the first two stations in the Family Life Radio network that now includes 12 full-power stations in Michigan, Arizona, New Mexico, and Texas. Other Michigan stations are WUGN 99.7 MHz Midland, Michigan and WUFL 1030 kHz Detroit, Michigan.</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>After trying a Southern Gospel format on WUNN, it was decided to no longer provide separate programming and WUNN began simulcasting WUFN in 2006.</text>
+</context>
+<context>
+	<score>0.6088231</score>
+	<text>Michiguide.com - WUFN History Michiguide.com - WUNN History</text>
+</context>
+<context>
+	<score>0.5976003</score>
+	<text>Family Life Radio began looking into the possibility of adding an FM station in the Jackson area so they could get both better coverage in the area and provide programming during the night hours. Otis Meyer donated a piece of property to the station near Albion, Michigan next to the I-94 freeway. A station license was purchased from WALM-FM which then built a new WALM-FM (now WBXX ) on 104.9 in nearby Marshall, Michigan . Soon the tower of WUFN rose on the property and the station began operation in 1971 at 96.7 MHz from a trailer parked on the site. The trailer continued to be used until it was replaced by a Colonial style building in 1995. In December 2003 WUFN increased power from 1,500 watts to 3,200 watts. In 2005 a 36 watt translator began operating on 95.1 in Kalamazoo, Michigan .</text>
+</context>
+<context>
+	<score>0.5574982</score>
+	<text>As FM radio sales increased, Booth informed Family Life Radio they were planning to take back the programming of the station. Family Life Radio looked to Mason, Michigan, half-way between Lansing and Jackson for the location of its first station. WUNN was founded as a 1,000 watt daytime only AM station in the late 1960s.</text>
+</context>
+<context>
+	<score>0.52163893</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.5164179</score>
+	<text>Soon Warren and Char Bolthouse convinced Booth Broadcasting, the owners of WIBM, to allow them to program the station full-time. Since few people had FM radios in the mid-1960s, they agreed and Family Life Radio began programming the station from the studio in the middle of the Bolthouse basement. Listenership grew as churches in the Jackson area began to encourage their members to purchase an FM radio and tune into the broadcasts.</text>
+</context>
+<context>
+	<score>0.4997513</score>
+	<text>Family Life Radio began in 1966 with a half-hour Christian program aimed at teenagers airing on WIBM-FM (now WVIC ) on 94.1 in Jackson, Michigan . Warren and Char Bolthouse, founders of Family Life Radio, produced the program in a studio in the basement of their home on Jericho Road near the Kirby Road studio of WIBM. WIBM-FM had begun broadcasting in 1955, but was simulcasting WIBM-AM and had very few listeners.</text>
+</context>
+<context>
+	<score>0.47929075</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47921905</score>
+	<text>WUFN is an FM station in Albion, Michigan on 96.7 MHz and WUNN is an AM station on 1110 KHz in Mason, Michigan . Both are non-commercial , Christian stations owned by Family Life Radio.</text>
+</context>
+<context>
+	<score>0.47035408</score>
+	<text>Query the FCC&apos;s FM station database for WUFN Query the FCC&apos;s AM station database for WUNN</text>
+</context>
+<context>
+	<score>0.4661501</score>
+	<text>WUFN</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>W223AM</b></td><td>92.5</td><td><a href="../../../../articles/b/r/o/Bronson%2C_Michigan_1d1d.html" title="Bronson, Michigan">Bronson, Michigan</a></td><td>180 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W223AM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W223AM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W223AM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W223AM" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W262BD</b></td><td>100.3</td><td><a href="../../../../articles/d/i/m/Dimondale%2C_Michigan_2f28.html" title="Dimondale, Michigan">Dimondale, Michigan</a></td><td>13 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W262BD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W262BD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W262BD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W262BD" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W279AP</b></td><td>103.7</td><td><a href="../../../../articles/i/o/n/Ionia%2C_Michigan_cc75.html" title="Ionia, Michigan">Ionia, Michigan</a></td><td>4 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W279AP" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W279AP" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AP" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AP" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W236AV</b></td><td>95.1</td><td><a href="../../../../articles/k/a/l/Kalamazoo%2C_Michigan_df1e.html" title="Kalamazoo, Michigan">Kalamazoo, Michigan</a></td><td>36 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W236AV" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W236AV" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W236AV" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W236AV" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W237BY</b></td><td>95.3</td><td><a href="../../../../articles/m/a/s/Mason%2C_Michigan_dfef.html" title="Mason, Michigan">Mason, Michigan</a></td><td>27 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W237BY" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W237BY" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237BY" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237BY" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

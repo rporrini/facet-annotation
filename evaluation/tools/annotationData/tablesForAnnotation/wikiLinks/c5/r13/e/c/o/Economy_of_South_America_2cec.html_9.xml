@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r13/e/c/o/Economy_of_South_America_2cec.html_9.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 1, 0.9 0 1, 0.8 4, 0.8 0 4, 0.71999997 1 4, 0.14 2, 0.14 0 2, 0.126 1 2, 0.120000005 3, 0.120000005 0 3, 0.112 2 4, 0.108 1 3, 0.09600001 3 4, 0.016800001 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/c/o/Economy_of_South_America_2cec.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Currency</th>]]></html>
+	<text>Currency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1 Euro =</th>]]></html>
+	<text>1 Euro =</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1 USD =</th>]]></html>
+	<text>1 USD =</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Central bank</th>]]></html>
+	<text>Central bank</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Argentina</td>]]></html>
+	<text>Argentina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Argentine peso (ARS)</td>]]></html>
+	<text>Argentine peso (ARS)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.60307</td>]]></html>
+	<text>4.60307</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.13996</td>]]></html>
+	<text>3.13996</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central de la República Argentina [1]</td>]]></html>
+	<text>Banco Central de la Rep&#250;blica Argentina [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bolivia</td>]]></html>
+	<text>Bolivia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bolivian boliviano (BOB)</td>]]></html>
+	<text>Bolivian boliviano (BOB)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.0985</td>]]></html>
+	<text>11.0985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.57080</td>]]></html>
+	<text>7.57080</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central de Bolivia [2]</td>]]></html>
+	<text>Banco Central de Bolivia [2]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brazilian real (BRL)</td>]]></html>
+	<text>Brazilian real (BRL)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.58963</td>]]></html>
+	<text>2.58963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.76650</td>]]></html>
+	<text>1.76650</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central do Brasil [3]</td>]]></html>
+	<text>Banco Central do Brasil [3]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chile</td>]]></html>
+	<text>Chile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chilean peso (CLP)</td>]]></html>
+	<text>Chilean peso (CLP)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>701.020</td>]]></html>
+	<text>701.020</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>478.200</td>]]></html>
+	<text>478.200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central de Chile [4]</td>]]></html>
+	<text>Banco Central de Chile [4]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colombia</td>]]></html>
+	<text>Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colombian peso (COP)</td>]]></html>
+	<text>Colombian peso (COP)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,869.97</td>]]></html>
+	<text>2,869.97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,957.74</td>]]></html>
+	<text>1,957.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco de la República [5]</td>]]></html>
+	<text>Banco de la Rep&#250;blica [5]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ecuador</td>]]></html>
+	<text>Ecuador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S. dollar (USD)</td>]]></html>
+	<text>U.S. dollar (USD)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.46611</td>]]></html>
+	<text>1.46611</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Federal Reserve [6]</td>]]></html>
+	<text>Federal Reserve [6]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>French Guiana</td>]]></html>
+	<text>French Guiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Euro (EUR)</td>]]></html>
+	<text>Euro (EUR)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.682078</td>]]></html>
+	<text>0.682078</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>European Central Bank [7]</td>]]></html>
+	<text>European Central Bank [7]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guyana</td>]]></html>
+	<text>Guyana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guyanese dollar (GYD)</td>]]></html>
+	<text>Guyanese dollar (GYD)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>297.547</td>]]></html>
+	<text>297.547</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>202.950</td>]]></html>
+	<text>202.950</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bank of Guyana [8]</td>]]></html>
+	<text>Bank of Guyana [8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paraguay</td>]]></html>
+	<text>Paraguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paraguayan guaraní (PYG)</td>]]></html>
+	<text>Paraguayan guaran&#237; (PYG)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,802.74</td>]]></html>
+	<text>6,802.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,640.00</td>]]></html>
+	<text>4,640.00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central del Paraguay [9]</td>]]></html>
+	<text>Banco Central del Paraguay [9]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peru</td>]]></html>
+	<text>Peru</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Peruvian nuevo sol (PEN)</td>]]></html>
+	<text>Peruvian nuevo sol (PEN)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.26966</td>]]></html>
+	<text>4.26966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.72440</td>]]></html>
+	<text>2.72440</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central de Reserva del Perú [10]</td>]]></html>
+	<text>Banco Central de Reserva del Per&#250; [10]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Suriname</td>]]></html>
+	<text>Suriname</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Surinamese dollar (SRD)</td>]]></html>
+	<text>Surinamese dollar (SRD)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.10543</td>]]></html>
+	<text>4.10543</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.80000</td>]]></html>
+	<text>2.80000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Centrale Bank van Suriname [11]</td>]]></html>
+	<text>Centrale Bank van Suriname [11]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uruguay</td>]]></html>
+	<text>Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uruguayan peso (UYU)</td>]]></html>
+	<text>Uruguayan peso (UYU)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31.1529</td>]]></html>
+	<text>31.1529</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.2470</td>]]></html>
+	<text>21.2470</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central del Uruguay [12]</td>]]></html>
+	<text>Banco Central del Uruguay [12]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Venezuela</td>]]></html>
+	<text>Venezuela</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Venezuelan bolívar fuerte (VEF)</td>]]></html>
+	<text>Venezuelan bol&#237;var fuerte (VEF)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.14447</td>]]></html>
+	<text>3.14447</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.14460</td>]]></html>
+	<text>2.14460</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Banco Central de Venezuela [13]</td>]]></html>
+	<text>Banco Central de Venezuela [13]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Economy of South America - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Currency 1 Euro = 1 USD = Central bank</text>
+</context>
+<context>
+	<score>0.8820722</score>
+	<text>Below is a list of the currencies of South America , with exchange rates between each currency and both the euro and US dollars . It is planned to have a yet unnamed South American currency and central bank in Bras lia .</text>
+</context>
+<context>
+	<score>0.7944279</score>
+	<text>Economy of South America</text>
+</context>
+<context>
+	<score>0.78509474</score>
+	<text>[ edit ] Currency</text>
+</context>
+<context>
+	<score>0.7537196</score>
+	<text>Table correct as of January 16 , 2008 ; click price to obtain a current quote</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Economic development</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Regional variation</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Trade blocs</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Currency</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Economic sectors</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] Economy by country</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7201399</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71684587</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7075127</score>
+	<text>The biggest Trade Bloc in South America is Mercosur (or Mercosul in portuguese), comprising Argentina, Brazil, Paraguay, Uruguay and Venezuela. Associate states include Bolivia, Chile, Colombia, Ecuador and Peru. The second-biggest trade bloc is the Andean Community of Nations comprising Bolivia, Colombia, Ecuador, Peru, Venezuela and as of 2006 Chile. The Union of South American Nations is expected to merge both trade blocs.</text>
+</context>
+<context>
+	<score>0.6454471</score>
+	<text>[ edit ] Trade blocs</text>
+</context>
+<context>
+	<score>0.6069111</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.59579456</score>
+	<text>Brazil, Argentina, Colombia, Chile and Peru in this order, have the largest economies in South America, while Argentina, Brazil, Chile and Uruguay have the best Human Development Index of South America. Venezuela, in turn, has large oil reserves that have turned the nation into an important player in world trade.</text>
+</context>
+<context>
+	<score>0.5560726</score>
+	<text>[ edit ] Regional variation</text>
+</context>
+<context>
+	<score>0.5210009</score>
+	<text>Refers to what is owed by the combined public sector to both domestic and foreign creditors.</text>
+</context>
+<context>
+	<score>0.5205531</score>
+	<text>xe.com Universal Currency Converter provides latest figures.</text>
+</context>
+<context>
+	<score>0.4988729</score>
+	<text>[ edit ] Public debt (lowest to highest)</text>
+</context>
+<context>
+	<score>0.47853526</score>
+	<text>[ edit ] Annual inflation</text>
+</context>
+<context>
+	<score>0.46975434</score>
+	<text>[ edit ] Economic sectors</text>
+</context>
+<context>
+	<score>0.46226513</score>
+	<text>[ edit ] Poverty line (lowest to highest)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#EFEFEF"><th>Country</th><th><a href="../../../../articles/c/u/r/Currency.html" title="Currency">Currency</a></th><th>1 <a href="../../../../articles/e/u/r/Euro.html" title="Euro">Euro</a> =</th><th>1 <a href="../../../../articles/u/s/d/USD_3518.html" class="mw-redirect" title="USD">USD</a> =</th><th><a href="../../../../articles/c/e/n/Central_bank.html" title="Central bank">Central bank</a></th></tr><tr><td><a href="../../../../articles/a/r/g/Argentina.html" title="Argentina">Argentina</a></td><td><a href="../../../../articles/a/r/g/Argentine_peso.html" title="Argentine peso">Argentine peso</a> (ARS)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=ARS" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=ARS" rel="nofollow">4.60307</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=ARS" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=ARS" rel="nofollow">3.13996</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_de_la_Rep%C3%BAblica_Argentina_a583.html" class="mw-redirect" title="Banco Central de la República Argentina">Banco Central de la República Argentina</a> <a href="http://www.bcra.gov.ar/" class="external autonumber" title="http://www.bcra.gov.ar/" rel="nofollow">[1]</a></td></tr><tr><td><a href="../../../../articles/b/o/l/Bolivia.html" title="Bolivia">Bolivia</a></td><td><a href="../../../../articles/b/o/l/Bolivian_boliviano.html" title="Bolivian boliviano">Bolivian boliviano</a> (BOB)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=BOB" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=BOB" rel="nofollow">11.0985</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=BOB" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=BOB" rel="nofollow">7.57080</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_de_Bolivia_87f9.html" class="mw-redirect" title="Banco Central de Bolivia">Banco Central de Bolivia</a> <a href="http://www.bcb.gov.bo/" class="external autonumber" title="http://www.bcb.gov.bo/" rel="nofollow">[2]</a></td></tr><tr><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td><a href="../../../../articles/b/r/a/Brazilian_real.html" title="Brazilian real">Brazilian real</a> (BRL)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=BRL" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=BRL" rel="nofollow">2.58963</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=BRL" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=BRL" rel="nofollow">1.76650</a></td><td><a href="../../../../articles/b/r/a/Brazilian_Central_Bank_b285.html" class="mw-redirect" title="Brazilian Central Bank">Banco Central do Brasil</a> <a href="http://www.bcb.gov.br/" class="external autonumber" title="http://www.bcb.gov.br/" rel="nofollow">[3]</a></td></tr><tr><td><a href="../../../../articles/c/h/i/Chile.html" title="Chile">Chile</a></td><td><a href="../../../../articles/c/h/i/Chilean_peso.html" title="Chilean peso">Chilean peso</a> (CLP)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=CLP" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=CLP" rel="nofollow">701.020</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=CLP" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=CLP" rel="nofollow">478.200</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_de_Chile_4e8d.html" class="mw-redirect" title="Banco Central de Chile">Banco Central de Chile</a> <a href="http://www.bcentral.cl/eng/" class="external autonumber" title="http://www.bcentral.cl/eng/" rel="nofollow">[4]</a></td></tr><tr><td><a href="../../../../articles/c/o/l/Colombia.html" title="Colombia">Colombia</a></td><td><a href="../../../../articles/c/o/l/Colombian_peso.html" title="Colombian peso">Colombian peso</a> (COP)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=COP" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=COP" rel="nofollow">2,869.97</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=COP" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=COP" rel="nofollow">1,957.74</a></td><td><a href="../../../../articles/b/a/n/Banco_de_la_Rep%C3%BAblica_54eb.html" class="mw-redirect" title="Banco de la República">Banco de la República</a> <a href="http://www.banrep.gov.co/" class="external autonumber" title="http://www.banrep.gov.co/" rel="nofollow">[5]</a></td></tr><tr><td><a href="../../../../articles/e/c/u/Ecuador.html" title="Ecuador">Ecuador</a></td><td><a href="../../../../articles/u/n/i/United_States_dollar_db5c.html" title="United States dollar">U.S. dollar</a> (USD)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=USD" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=USD" rel="nofollow">1.46611</a></td><td>1</td><td><a href="../../../../articles/f/e/d/Federal_Reserve_599e.html" class="mw-redirect" title="Federal Reserve">Federal Reserve</a> <a href="http://www.federalreserve.gov/" class="external autonumber" title="http://www.federalreserve.gov/" rel="nofollow">[6]</a></td></tr><tr><td><a href="../../../../articles/f/r/e/French_Guiana_f759.html" title="French Guiana">French Guiana</a></td><td><a href="../../../../articles/e/u/r/Euro.html" title="Euro">Euro</a> (EUR)</td><td>1</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=EUR" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=EUR" rel="nofollow">0.682078</a></td><td><a href="../../../../articles/e/u/r/European_Central_Bank_0258.html" title="European Central Bank">European Central Bank</a> <a href="http://www.ecb.int/" class="external autonumber" title="http://www.ecb.int/" rel="nofollow">[7]</a></td></tr><tr><td><a href="../../../../articles/g/u/y/Guyana.html" title="Guyana">Guyana</a></td><td><a href="../../../../articles/g/u/y/Guyanese_dollar.html" title="Guyanese dollar">Guyanese dollar</a> (GYD)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=GYD" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=GYD" rel="nofollow">297.547</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=GYD" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=GYD" rel="nofollow">202.950</a></td><td><a href="../../../../articles/b/a/n/Bank_of_Guyana_585e.html" title="Bank of Guyana">Bank of Guyana</a> <a href="http://www.bankofguyana.org.gy/" class="external autonumber" title="http://www.bankofguyana.org.gy/" rel="nofollow">[8]</a></td></tr><tr><td><a href="../../../../articles/p/a/r/Paraguay.html" title="Paraguay">Paraguay</a></td><td><a href="../../../../articles/p/a/r/Paraguayan_guaran%C3%AD.html" title="Paraguayan guaraní">Paraguayan guaraní</a> (PYG)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=PYG" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=PYG" rel="nofollow">6,802.74</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=PYG" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=PYG" rel="nofollow">4,640.00</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_del_Paraguay_37f5.html" class="mw-redirect" title="Banco Central del Paraguay">Banco Central del Paraguay</a> <a href="http://www.bcp.gov.py/" class="external autonumber" title="http://www.bcp.gov.py/" rel="nofollow">[9]</a></td></tr><tr><td><a href="../../../../articles/p/e/r/Peru.html" title="Peru">Peru</a></td><td><a href="../../../../articles/p/e/r/Peruvian_nuevo_sol.html" title="Peruvian nuevo sol">Peruvian nuevo sol</a> (PEN)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=PEN" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=PEN" rel="nofollow">4.26966</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=PEN" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=PEN" rel="nofollow">2.72440</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_de_Reserva_del_Per%C3%BA_86bd.html" class="mw-redirect" title="Banco Central de Reserva del Perú">Banco Central de Reserva del Perú</a> <a href="http://www.bcrp.gob.pe/" class="external autonumber" title="http://www.bcrp.gob.pe/" rel="nofollow">[10]</a></td></tr><tr><td><a href="../../../../articles/s/u/r/Suriname.html" title="Suriname">Suriname</a></td><td><a href="../../../../articles/s/u/r/Surinamese_dollar.html" title="Surinamese dollar">Surinamese dollar</a> (SRD)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=SRD" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=SRD" rel="nofollow">4.10543</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=SRD" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=SRD" rel="nofollow">2.80000</a></td><td><a href="../../../../articles/c/e/n/Centrale_Bank_van_Suriname_3862.html" class="mw-redirect" title="Centrale Bank van Suriname">Centrale Bank van Suriname</a> <a href="http://www.cbvs.sr/" class="external autonumber" title="http://www.cbvs.sr/" rel="nofollow">[11]</a></td></tr><tr><td><a href="../../../../articles/u/r/u/Uruguay.html" title="Uruguay">Uruguay</a></td><td><a href="../../../../articles/u/r/u/Uruguayan_peso.html" title="Uruguayan peso">Uruguayan peso</a> (UYU)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=UYU" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=UYU" rel="nofollow">31.1529</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=UYU" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=UYU" rel="nofollow">21.2470</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_del_Uruguay_7556.html" class="mw-redirect" title="Banco Central del Uruguay">Banco Central del Uruguay</a> <a href="http://www.bcu.gub.uy/" class="external autonumber" title="http://www.bcu.gub.uy/" rel="nofollow">[12]</a></td></tr><tr><td><a href="../../../../articles/v/e/n/Venezuela.html" title="Venezuela">Venezuela</a></td><td><a href="../../../../articles/v/e/n/Venezuelan_bol%C3%ADvar.html" title="Venezuelan bolívar">Venezuelan bolívar fuerte</a> (VEF)</td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=VEF" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=EUR&amp;To=VEF" rel="nofollow">3.14447</a></td><td><a href="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=VEF" class="external text" title="http://www.xe.com/ucc/convert.cgi?Amount=1&amp;From=USD&amp;To=VEF" rel="nofollow">2.14460</a></td><td><a href="../../../../articles/b/a/n/Banco_Central_de_Venezuela_8de8.html" class="mw-redirect" title="Banco Central de Venezuela">Banco Central de Venezuela</a> <a href="http://www.bcv.org.ve/" class="external autonumber" title="http://www.bcv.org.ve/" rel="nofollow">[13]</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r5/b/u/s/Bus_lane.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 4, 0.85714287 0 4, 0.79591835 1 4, 0.78571427 6, 0.78571427 0 6, 0.7295918 1 6, 0.67346936 4 6, 0.14285715 2, 0.14285715 0 2, 0.13265306 1 2, 0.12857144 3, 0.12857144 0 3, 0.12244899 2 4, 0.119387746 1 3, 0.11428572 5, 0.11428572 0 5, 0.112244904 2 6, 0.110204086 3 4, 0.10612245 1 5, 0.10102041 3 6, 0.09795919 4 5, 0.089795925 5 6, 0.018367348 2 3, 0.016326532 2 5, 0.014693879 3 5, " />
+<meta name="parentHTMLDoc" value="en/articles/b/u/s/Bus_lane.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (million)</th>]]></html>
+	<text>Population (million)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Buses (#s)</th>]]></html>
+	<text>Buses (#s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1 bus per</th>]]></html>
+	<text>1 bus per</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Bus lanes (km)</th>]]></html>
+	<text>Bus lanes (km)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1 km bus lane per</th>]]></html>
+	<text>1 km bus lane per</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>São Paulo</td>]]></html>
+	<text>S&#227;o Paulo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brazil</td>]]></html>
+	<text>Brazil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.9</td>]]></html>
+	<text>10.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 14,900 [11]</td>]]></html>
+	<text>~ 14,900 [11]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 730 population</td>]]></html>
+	<text>~ 730 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>155 [12]</td>]]></html>
+	<text>155 [12]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96 buses</td>]]></html>
+	<text>96 buses</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>London</td>]]></html>
+	<text>London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UK</td>]]></html>
+	<text>UK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.5</td>]]></html>
+	<text>7.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 6,800</td>]]></html>
+	<text>~ 6,800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 1,100 population</td>]]></html>
+	<text>~ 1,100 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>240 [13]</td>]]></html>
+	<text>240 [13]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28 buses</td>]]></html>
+	<text>28 buses</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Santiago</td>]]></html>
+	<text>Santiago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chile</td>]]></html>
+	<text>Chile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.5</td>]]></html>
+	<text>6.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 4,600</td>]]></html>
+	<text>~ 4,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 1,400 population</td>]]></html>
+	<text>~ 1,400 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>200 [14]</td>]]></html>
+	<text>200 [14]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23 buses</td>]]></html>
+	<text>23 buses</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kunming</td>]]></html>
+	<text>Kunming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>China</td>]]></html>
+	<text>China</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.7</td>]]></html>
+	<text>5.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~</td>]]></html>
+	<text>~</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~</td>]]></html>
+	<text>~</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42 [15]</td>]]></html>
+	<text>42 [15]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Singapore</td>]]></html>
+	<text>Singapore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Singapore</td>]]></html>
+	<text>Singapore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.5</td>]]></html>
+	<text>4.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 3,775</td>]]></html>
+	<text>~ 3,775</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>~ 1,200 population</td>]]></html>
+	<text>~ 1,200 population</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>130 [16]</td>]]></html>
+	<text>130 [16]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 buses</td>]]></html>
+	<text>29 buses</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Bus lane - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Country Population (million) Buses (#s) 1 bus per Bus lanes (km) 1 km bus lane per</text>
+</context>
+<context>
+	<score>0.8785516</score>
+	<text>Some network lengths of bus lanes in major cities (please list areas of above 4 million population only, list sorted by population):</text>
+</context>
+<context>
+	<score>0.79657394</score>
+	<text>Bus lane</text>
+</context>
+<context>
+	<score>0.78538793</score>
+	<text>[ edit ] Major city networks</text>
+</context>
+<context>
+	<score>0.7539543</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] Function</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] Criticism</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] Major city networks</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.722842</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.718847</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70366603</score>
+	<text>They are also often used by vehicles not authorised, which reduces their capacity for the intended purpose.</text>
+</context>
+<context>
+	<score>0.6454794</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.6068714</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5957341</score>
+	<text>They can also become inefficient if weak traffic enforcement encourages illegal parking on them (for example in shopping areas). The bus then has to merge back into traffic, which may be totally stopped, causing substantial schedule delays.</text>
+</context>
+<context>
+	<score>0.55194294</score>
+	<text>or taken from existing lanes (thus reducing the capacity of the road for private vehicles). The latter is especially controversial with many road users when this is actually an ancillary reason (i.e. when local authorities want to explicitly combine improved public transport options with reducing or at least not improving convenience for motorists).</text>
+</context>
+<context>
+	<score>0.5203521</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.52010596</score>
+	<text>The installation of bus lanes requires additional space to either be constructed (increasing the impact of the road on the surrounding area, and possibly requiring private land)</text>
+</context>
+<context>
+	<score>0.49863142</score>
+	<text>[ edit ] Criticism</text>
+</context>
+<context>
+	<score>0.47825575</score>
+	<text>The El Monte Busway between El Monte and Downtown Los Angeles was the first busway in the USA, constructed in 1974.</text>
+</context>
+<context>
+	<score>0.46195522</score>
+	<text>By 1972, there were over 140 km of with-flow bus lanes located in 100 cities within OECD member countries, and the network was found to be growing substantially in the following decades.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>City</th><th>Country</th><th>Population (million)</th><th>Buses (#s)</th><th>1 bus per</th><th>Bus lanes (km)</th><th>1 km bus lane per</th></tr><tr><td><a href="../../../../articles/s/%C3%A3/o/S%C3%A3o_Paulo_23d2.html" title="São Paulo">São Paulo</a></td><td><a href="../../../../articles/b/r/a/Brazil.html" title="Brazil">Brazil</a></td><td>10.9</td><td>~ 14,900<sup id="cite_ref-10" class="reference"><a href="#cite_note-10" title="">[11]</a></sup></td><td>~ 730 population</td><td>155<sup id="cite_ref-11" class="reference"><a href="#cite_note-11" title="">[12]</a></sup></td><td>96 buses</td></tr><tr><td><a href="../../../../articles/l/o/n/London.html" title="London">London</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">UK</a></td><td>7.5</td><td>~ 6,800</td><td>~ 1,100 population</td><td>240<sup id="cite_ref-12" class="reference"><a href="#cite_note-12" title="">[13]</a></sup></td><td>28 buses</td></tr><tr><td><a href="../../../../articles/s/a/n/Santiago%2C_Chile_7b34.html" title="Santiago, Chile">Santiago</a></td><td><a href="../../../../articles/c/h/i/Chile.html" title="Chile">Chile</a></td><td>6.5</td><td>~ 4,600</td><td>~ 1,400 population</td><td>200 <sup id="cite_ref-13" class="reference"><a href="#cite_note-13" title="">[14]</a></sup></td><td>23 buses</td></tr><tr><td><a href="../../../../articles/k/u/n/Kunming.html" title="Kunming">Kunming</a></td><td><a href="../../../../articles/c/h/i/China.html" title="China">China</a></td><td>5.7</td><td>~</td><td>~</td><td>42<sup id="cite_ref-14" class="reference"><a href="#cite_note-14" title="">[15]</a></sup></td><td></td></tr><tr><td><a href="../../../../articles/s/i/n/Singapore.html" title="Singapore">Singapore</a></td><td><a href="../../../../articles/s/i/n/Singapore.html" title="Singapore">Singapore</a></td><td>4.5</td><td>~ 3,775</td><td>~ 1,200 population</td><td>130<sup id="cite_ref-15" class="reference"><a href="#cite_note-15" title="">[16]</a></sup></td><td>29 buses</td></tr></table>]]>
+</htmlSnippet>
+</entity>

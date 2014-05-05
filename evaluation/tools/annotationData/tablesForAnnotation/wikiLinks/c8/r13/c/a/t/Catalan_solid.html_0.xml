@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r13/c/a/t/Catalan_solid.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 1, 0.9375 0 1, 0.875 2, 0.875 0 2, 0.8203125 1 2, 0.8125 6, 0.8125 0 6, 0.76171875 1 6, 0.75 0 7, 0.7109375 2 6, 0.703125 1 7, 0.65625 2 7, 0.609375 6 7, 0.28846154 7, 0.1375 0 3, 0.12890625 1 3, 0.125 0 4, 0.120312504 2 3, 0.1171875 1 4, 0.112500004 0 5, 0.11171875 3 6, 0.109375 2 4, 0.10546875 1 5, 0.1015625 4 6, 0.0984375 2 5, 0.09615385 4, 0.091406256 5 6, 0.07932693 4 7, 0.071394235 3 7, 0.06346154 3, 0.060576927 5, 0.045432694 5 7, 0.01454327 3 4, 0.013088943 3 5, 0.011899039 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/c/a/t/Catalan_solid.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name(s)</th>]]></html>
+	<text>Name(s)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Picture</th>]]></html>
+	<text>Picture</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Dual (Archimedean solids)</th>]]></html>
+	<text>Dual (Archimedean solids)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Faces</th>]]></html>
+	<text>Faces</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Edges</th>]]></html>
+	<text>Edges</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Vertices</th>]]></html>
+	<text>Vertices</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Face polygon</th>]]></html>
+	<text>Face polygon</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Symmetry</th>]]></html>
+	<text>Symmetry</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>triakis tetrahedron</td>]]></html>
+	<text>triakis tetrahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/d/de/Triakistetrahedron.jpg/80px-Triakistetrahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/d/de/Triakistetrahedron.jpg/80px-Triakistetrahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated tetrahedron</td>]]></html>
+	<text>truncated tetrahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>isosceles triangle V3.6.6</td>]]></html>
+	<text>isosceles triangle V3.6.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>T d</td>]]></html>
+	<text>T d</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>rhombic dodecahedron</td>]]></html>
+	<text>rhombic dodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/b/ba/Rhombicdodecahedron.jpg/80px-Rhombicdodecahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/b/ba/Rhombicdodecahedron.jpg/80px-Rhombicdodecahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>cuboctahedron</td>]]></html>
+	<text>cuboctahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>rhombus V3.4.3.4</td>]]></html>
+	<text>rhombus V3.4.3.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O h</td>]]></html>
+	<text>O h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>triakis octahedron</td>]]></html>
+	<text>triakis octahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/a/a8/Triakisoctahedron.jpg/80px-Triakisoctahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/a/a8/Triakisoctahedron.jpg/80px-Triakisoctahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated cube</td>]]></html>
+	<text>truncated cube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>isosceles triangle V3.8.8</td>]]></html>
+	<text>isosceles triangle V3.8.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O h</td>]]></html>
+	<text>O h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>tetrakis hexahedron</td>]]></html>
+	<text>tetrakis hexahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/6/61/Tetrakishexahedron.jpg/80px-Tetrakishexahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/6/61/Tetrakishexahedron.jpg/80px-Tetrakishexahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated octahedron</td>]]></html>
+	<text>truncated octahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36</td>]]></html>
+	<text>36</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>isosceles triangle V4.6.6</td>]]></html>
+	<text>isosceles triangle V4.6.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O h</td>]]></html>
+	<text>O h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>deltoidal icositetrahedron</td>]]></html>
+	<text>deltoidal icositetrahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/1/1d/Deltoidalicositetrahedron.jpg/80px-Deltoidalicositetrahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/1/1d/Deltoidalicositetrahedron.jpg/80px-Deltoidalicositetrahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>rhombicuboctahedron</td>]]></html>
+	<text>rhombicuboctahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>kite V3.4.4.4</td>]]></html>
+	<text>kite V3.4.4.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O h</td>]]></html>
+	<text>O h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>disdyakis dodecahedron or hexakis octahedron</td>]]></html>
+	<text>disdyakis dodecahedron or hexakis octahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/1/10/Disdyakisdodecahedron.jpg/80px-Disdyakisdodecahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/1/10/Disdyakisdodecahedron.jpg/80px-Disdyakisdodecahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated cuboctahedron</td>]]></html>
+	<text>truncated cuboctahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48</td>]]></html>
+	<text>48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72</td>]]></html>
+	<text>72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26</td>]]></html>
+	<text>26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>scalene triangle V4.6.8</td>]]></html>
+	<text>scalene triangle V4.6.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O h</td>]]></html>
+	<text>O h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>pentagonal icositetrahedron</td>]]></html>
+	<text>pentagonal icositetrahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/c9/Pentagonalicositetrahedronccw.jpg/40px-Pentagonalicositetrahedronccw.jpg ../../../../images/shared/thumb/8/8b/Pentagonalicositetrahedroncw.jpg/40px-Pentagonalicositetrahedroncw.jpg ( Video )( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/c/c9/Pentagonalicositetrahedronccw.jpg/40px-Pentagonalicositetrahedronccw.jpg ../../../../images/shared/thumb/8/8b/Pentagonalicositetrahedroncw.jpg/40px-Pentagonalicositetrahedroncw.jpg ( Video )( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>snub cube</td>]]></html>
+	<text>snub cube</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>irregular pentagon V3.3.3.3.4</td>]]></html>
+	<text>irregular pentagon V3.3.3.3.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>O</td>]]></html>
+	<text>O</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>rhombic triacontahedron</td>]]></html>
+	<text>rhombic triacontahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/2/2c/Rhombictriacontahedron.svg/80px-Rhombictriacontahedron.svg.png ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/2/2c/Rhombictriacontahedron.svg/80px-Rhombictriacontahedron.svg.png ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>icosidodecahedron</td>]]></html>
+	<text>icosidodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30</td>]]></html>
+	<text>30</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>rhombus V3.5.3.5</td>]]></html>
+	<text>rhombus V3.5.3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I h</td>]]></html>
+	<text>I h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>triakis icosahedron</td>]]></html>
+	<text>triakis icosahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/d/dd/Triakisicosahedron.jpg/80px-Triakisicosahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/d/dd/Triakisicosahedron.jpg/80px-Triakisicosahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated dodecahedron</td>]]></html>
+	<text>truncated dodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90</td>]]></html>
+	<text>90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>isosceles triangle V3.10.10</td>]]></html>
+	<text>isosceles triangle V3.10.10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I h</td>]]></html>
+	<text>I h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>pentakis dodecahedron</td>]]></html>
+	<text>pentakis dodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/0/03/Pentakisdodecahedron.jpg/80px-Pentakisdodecahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/0/03/Pentakisdodecahedron.jpg/80px-Pentakisdodecahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated icosahedron</td>]]></html>
+	<text>truncated icosahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90</td>]]></html>
+	<text>90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32</td>]]></html>
+	<text>32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>isosceles triangle V5.6.6</td>]]></html>
+	<text>isosceles triangle V5.6.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I h</td>]]></html>
+	<text>I h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>deltoidal hexecontahedron</td>]]></html>
+	<text>deltoidal hexecontahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/e/ef/Deltoidalhexecontahedron.jpg/80px-Deltoidalhexecontahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/e/ef/Deltoidalhexecontahedron.jpg/80px-Deltoidalhexecontahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>rhombicosidodecahedron</td>]]></html>
+	<text>rhombicosidodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120</td>]]></html>
+	<text>120</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62</td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>kite V3.4.5.4</td>]]></html>
+	<text>kite V3.4.5.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I h</td>]]></html>
+	<text>I h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>disdyakis triacontahedron or hexakis icosahedron</td>]]></html>
+	<text>disdyakis triacontahedron or hexakis icosahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/e/e5/Disdyakistriacontahedron.jpg/80px-Disdyakistriacontahedron.jpg ( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/e/e5/Disdyakistriacontahedron.jpg/80px-Disdyakistriacontahedron.jpg ( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>truncated icosidodecahedron</td>]]></html>
+	<text>truncated icosidodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>120</td>]]></html>
+	<text>120</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>180</td>]]></html>
+	<text>180</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62</td>]]></html>
+	<text>62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>scalene triangle V4.6.10</td>]]></html>
+	<text>scalene triangle V4.6.10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I h</td>]]></html>
+	<text>I h</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>pentagonal hexecontahedron</td>]]></html>
+	<text>pentagonal hexecontahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/9/90/Pentagonalhexecontahedronccw.jpg/40px-Pentagonalhexecontahedronccw.jpg ../../../../images/shared/thumb/b/b6/Pentagonalhexecontahedroncw.jpg/40px-Pentagonalhexecontahedroncw.jpg ( Video )( Video )</td>]]></html>
+	<text>../../../../images/shared/thumb/9/90/Pentagonalhexecontahedronccw.jpg/40px-Pentagonalhexecontahedronccw.jpg ../../../../images/shared/thumb/b/b6/Pentagonalhexecontahedroncw.jpg/40px-Pentagonalhexecontahedroncw.jpg ( Video )( Video )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>snub dodecahedron</td>]]></html>
+	<text>snub dodecahedron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60</td>]]></html>
+	<text>60</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150</td>]]></html>
+	<text>150</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92</td>]]></html>
+	<text>92</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>irregular pentagon V3.3.3.3.5</td>]]></html>
+	<text>irregular pentagon V3.3.3.3.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>I</td>]]></html>
+	<text>I</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Catalan solid - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name(s) Picture Dual (Archimedean solids) Faces Edges Vertices Face polygon Symmetry</text>
+</context>
+<context>
+	<score>0.8889863</score>
+	<text>Just like their dual Archimedean partners there are two chiral Catalan solids: the pentagonal icositetrahedron and the pentagonal hexecontahedron . These each come in two enantiomorphs . Not counting the enantiomorphs there are a total of 13 Catalan solids.</text>
+</context>
+<context>
+	<score>0.80597997</score>
+	<text>Catalan solid</text>
+</context>
+<context>
+	<score>0.7914684</score>
+	<text>The Catalan solids are all convex. They are face-transitive but not vertex-transitive . This is because the dual Archimedean solids are vertex-transitive and not face-transitive . Note that unlike Platonic solids and Archimedean solids , the faces of Catalan solids are not regular polygons . However, the vertex figures of Catalan solids are regular, and they have constant dihedral angles . Additionally, two of the Catalan solids are edge-transitive : the rhombic dodecahedron and the rhombic triacontahedron . These are the duals of the two quasi-regular Archimedean solids.</text>
+</context>
+<context>
+	<score>0.7599185</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7388494</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7388494</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7388494</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71345407</score>
+	<text>In mathematics , a Catalan solid , or Archimedean dual , is a dual polyhedron to an Archimedean solid . The Catalan solids are named for the Belgian mathematician, Eug ne Catalan who first described them in 1865 .</text>
+</context>
+<context>
+	<score>0.6401589</score>
+	<text>A rhombic dodecahedron</text>
+</context>
+<context>
+	<score>0.61562496</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6122919</score>
+	<text>List of uniform tilings Shows dual uniform polygonal tilings similar to the Catalan solids Conway polyhedron notation A notational construction process</text>
+</context>
+<context>
+	<score>0.5756817</score>
+	<text>Catalan solid</text>
+</context>
+<context>
+	<score>0.5254527</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.46348712</score>
+	<text>Wikimedia Commons has media related to:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name(s)</th><th>Picture</th><th>Dual (Archimedean solids)</th><th>Faces</th><th>Edges</th><th>Vertices</th><th><a href="../../../../articles/f/a/c/Face_configuration.html" title="Face configuration">Face polygon</a></th><th><a href="../../../../articles/s/y/m/Symmetry_group.html" title="Symmetry group">Symmetry</a></th></tr><tr><td><a href="../../../../articles/t/r/i/Triakis_tetrahedron.html" title="Triakis tetrahedron">triakis tetrahedron</a></td><td><a href="../../../../articles/t/r/i/Image%7ETriakistetrahedron.jpg_8efb.html" class="image" title="Triakis tetrahedron"><img alt="Triakis tetrahedron" src="../../../../images/shared/thumb/d/de/Triakistetrahedron.jpg/80px-Triakistetrahedron.jpg" width="80" height="90" border="0" /></a><br /><small>(<a href="../../../../articles/t/r/i/Image%7ETriakistetrahedron.gif_bc49.html" title="Image:Triakistetrahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_tetrahedron.html" title="Truncated tetrahedron">truncated tetrahedron</a></td><td align="center">12</td><td align="center">18</td><td align="center">8</td><td align="center"><a href="../../../../articles/i/s/o/Isosceles_triangle.html" class="mw-redirect" title="Isosceles triangle">isosceles triangle</a><br />V3.6.6</td><td align="center">T<sub>d</sub></td></tr><tr><td><a href="../../../../articles/r/h/o/Rhombic_dodecahedron.html" title="Rhombic dodecahedron">rhombic dodecahedron</a></td><td><a href="../../../../articles/r/h/o/Image%7ERhombicdodecahedron.jpg_8c59.html" class="image" title="Rhombic dodecahedron"><img alt="Rhombic dodecahedron" src="../../../../images/shared/thumb/b/ba/Rhombicdodecahedron.jpg/80px-Rhombicdodecahedron.jpg" width="80" height="71" border="0" /></a><br /><small>(<a href="../../../../articles/r/h/o/Image%7ERhombicdodecahedron.gif_9cb4.html" title="Image:Rhombicdodecahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/c/u/b/Cuboctahedron.html" title="Cuboctahedron">cuboctahedron</a></td><td align="center">12</td><td align="center">24</td><td align="center">14</td><td align="center"><a href="../../../../articles/r/h/o/Rhombus.html" title="Rhombus">rhombus</a><br />V3.4.3.4</td><td align="center">O<sub>h</sub></td></tr><tr><td><a href="../../../../articles/t/r/i/Triakis_octahedron.html" title="Triakis octahedron">triakis octahedron</a></td><td><a href="../../../../articles/t/r/i/Image%7ETriakisoctahedron.jpg_ad43.html" class="image" title="Triakis octahedron"><img alt="Triakis octahedron" src="../../../../images/shared/thumb/a/a8/Triakisoctahedron.jpg/80px-Triakisoctahedron.jpg" width="80" height="88" border="0" /></a><br /><small>(<a href="../../../../articles/t/r/i/Image%7ETriakisoctahedron.gif_92f6.html" title="Image:Triakisoctahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_cube.html" title="Truncated cube">truncated cube</a></td><td align="center">24</td><td align="center">36</td><td align="center">14</td><td align="center"><a href="../../../../articles/i/s/o/Isosceles_triangle.html" class="mw-redirect" title="Isosceles triangle">isosceles triangle</a><br />V3.8.8</td><td align="center">O<sub>h</sub></td></tr><tr><td><a href="../../../../articles/t/e/t/Tetrakis_hexahedron.html" title="Tetrakis hexahedron">tetrakis hexahedron</a></td><td><a href="../../../../articles/t/e/t/Image%7ETetrakishexahedron.jpg_d76b.html" class="image" title="Tetrakis hexahedron"><img alt="Tetrakis hexahedron" src="../../../../images/shared/thumb/6/61/Tetrakishexahedron.jpg/80px-Tetrakishexahedron.jpg" width="80" height="77" border="0" /></a><br /><small>(<a href="../../../../articles/t/e/t/Image%7ETetrakishexahedron.gif_229e.html" title="Image:Tetrakishexahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_octahedron.html" title="Truncated octahedron">truncated octahedron</a></td><td align="center">24</td><td align="center">36</td><td align="center">14</td><td align="center"><a href="../../../../articles/i/s/o/Isosceles_triangle.html" class="mw-redirect" title="Isosceles triangle">isosceles triangle</a><br />V4.6.6</td><td align="center">O<sub>h</sub></td></tr><tr><td><a href="../../../../articles/d/e/l/Deltoidal_icositetrahedron.html" title="Deltoidal icositetrahedron">deltoidal icositetrahedron</a></td><td><a href="../../../../articles/d/e/l/Image%7EDeltoidalicositetrahedron.jpg_a89e.html" class="image" title="Deltoidal icositetrahedron"><img alt="Deltoidal icositetrahedron" src="../../../../images/shared/thumb/1/1d/Deltoidalicositetrahedron.jpg/80px-Deltoidalicositetrahedron.jpg" width="80" height="79" border="0" /></a><br /><small>(<a href="../../../../articles/d/e/l/Image%7EDeltoidalicositetrahedron.gif_2539.html" title="Image:Deltoidalicositetrahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/r/h/o/Rhombicuboctahedron.html" title="Rhombicuboctahedron">rhombicuboctahedron</a></td><td align="center">24</td><td align="center">48</td><td align="center">26</td><td align="center"><a href="../../../../articles/k/i/t/Kite_%28geometry%29.html" title="Kite (geometry)">kite</a><br />V3.4.4.4</td><td align="center">O<sub>h</sub></td></tr><tr><td><a href="../../../../articles/d/i/s/Disdyakis_dodecahedron.html" title="Disdyakis dodecahedron">disdyakis dodecahedron</a><br />or hexakis octahedron</td><td><a href="../../../../articles/d/i/s/Image%7EDisdyakisdodecahedron.jpg_30d0.html" class="image" title="Disdyakis dodecahedron"><img alt="Disdyakis dodecahedron" src="../../../../images/shared/thumb/1/10/Disdyakisdodecahedron.jpg/80px-Disdyakisdodecahedron.jpg" width="80" height="84" border="0" /></a><br /><small>(<a href="../../../../articles/d/i/s/Image%7EDisdyakisdodecahedron.gif_1a15.html" title="Image:Disdyakisdodecahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_cuboctahedron.html" title="Truncated cuboctahedron">truncated cuboctahedron</a></td><td align="center">48</td><td align="center">72</td><td align="center">26</td><td align="center"><a href="../../../../articles/s/c/a/Scalene_triangle.html" class="mw-redirect" title="Scalene triangle">scalene triangle</a><br />V4.6.8</td><td align="center">O<sub>h</sub></td></tr><tr><td><a href="../../../../articles/p/e/n/Pentagonal_icositetrahedron.html" title="Pentagonal icositetrahedron">pentagonal icositetrahedron</a></td><td><a href="../../../../articles/p/e/n/Image%7EPentagonalicositetrahedronccw.jpg_e0ac.html" class="image" title="Pentagonal icositetrahedron (Ccw)"><img alt="Pentagonal icositetrahedron (Ccw)" src="../../../../images/shared/thumb/c/c9/Pentagonalicositetrahedronccw.jpg/40px-Pentagonalicositetrahedronccw.jpg" width="40" height="39" border="0" /></a><a href="../../../../articles/p/e/n/Image%7EPentagonalicositetrahedroncw.jpg_2923.html" class="image" title="Pentagonal icositetrahedron (Cw)"><img alt="Pentagonal icositetrahedron (Cw)" src="../../../../images/shared/thumb/8/8b/Pentagonalicositetrahedroncw.jpg/40px-Pentagonalicositetrahedroncw.jpg" width="40" height="39" border="0" /></a><br /><small>(<a href="../../../../articles/p/e/n/Image%7EPentagonalicositetrahedronccw.gif_c84d.html" title="Image:Pentagonalicositetrahedronccw.gif">Video</a>)(<a href="../../../../articles/p/e/n/Image%7EPentagonalicositetrahedroncw.gif_a6a0.html" title="Image:Pentagonalicositetrahedroncw.gif">Video</a>)</small></td><td><a href="../../../../articles/s/n/u/Snub_cube.html" title="Snub cube">snub cube</a></td><td align="center">24</td><td align="center">60</td><td align="center">38</td><td align="center"><a href="../../../../articles/p/e/n/Pentagon.html" title="Pentagon">irregular pentagon</a><br />V3.3.3.3.4</td><td align="center">O</td></tr><tr><td><a href="../../../../articles/r/h/o/Rhombic_triacontahedron.html" title="Rhombic triacontahedron">rhombic triacontahedron</a></td><td><a href="../../../../articles/r/h/o/Image%7ERhombictriacontahedron.svg_6a3d.html" class="image" title="Rhombic triacontahedron"><img alt="Rhombic triacontahedron" src="../../../../images/shared/thumb/2/2c/Rhombictriacontahedron.svg/80px-Rhombictriacontahedron.svg.png" width="80" height="89" border="0" /></a><br /><small>(<a href="../../../../articles/r/h/o/Image%7ERhombictriacontahedron.gif_8733.html" title="Image:Rhombictriacontahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/i/c/o/Icosidodecahedron.html" title="Icosidodecahedron">icosidodecahedron</a></td><td align="center">30</td><td align="center">60</td><td align="center">32</td><td align="center"><a href="../../../../articles/r/h/o/Rhombus.html" title="Rhombus">rhombus</a><br />V3.5.3.5</td><td align="center">I<sub>h</sub></td></tr><tr><td><a href="../../../../articles/t/r/i/Triakis_icosahedron.html" title="Triakis icosahedron">triakis icosahedron</a></td><td><a href="../../../../articles/t/r/i/Image%7ETriakisicosahedron.jpg_1d98.html" class="image" title="Triakis icosahedron"><img alt="Triakis icosahedron" src="../../../../images/shared/thumb/d/dd/Triakisicosahedron.jpg/80px-Triakisicosahedron.jpg" width="80" height="83" border="0" /></a><br /><small>(<a href="../../../../articles/t/r/i/Image%7ETriakisicosahedron.gif_ce1d.html" title="Image:Triakisicosahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_dodecahedron.html" title="Truncated dodecahedron">truncated dodecahedron</a></td><td align="center">60</td><td align="center">90</td><td align="center">32</td><td align="center"><a href="../../../../articles/i/s/o/Isosceles_triangle.html" class="mw-redirect" title="Isosceles triangle">isosceles triangle</a><br />V3.10.10</td><td align="center">I<sub>h</sub></td></tr><tr><td><a href="../../../../articles/p/e/n/Pentakis_dodecahedron.html" title="Pentakis dodecahedron">pentakis dodecahedron</a></td><td><a href="../../../../articles/p/e/n/Image%7EPentakisdodecahedron.jpg_4fc2.html" class="image" title="Pentakis dodecahedron"><img alt="Pentakis dodecahedron" src="../../../../images/shared/thumb/0/03/Pentakisdodecahedron.jpg/80px-Pentakisdodecahedron.jpg" width="80" height="80" border="0" /></a><br /><small>(<a href="../../../../articles/p/e/n/Image%7EPentakisdodecahedron.gif_fa2e.html" title="Image:Pentakisdodecahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_icosahedron.html" title="Truncated icosahedron">truncated icosahedron</a></td><td align="center">60</td><td align="center">90</td><td align="center">32</td><td align="center"><a href="../../../../articles/i/s/o/Isosceles_triangle.html" class="mw-redirect" title="Isosceles triangle">isosceles triangle</a><br />V5.6.6</td><td align="center">I<sub>h</sub></td></tr><tr><td><a href="../../../../articles/d/e/l/Deltoidal_hexecontahedron.html" title="Deltoidal hexecontahedron">deltoidal hexecontahedron</a></td><td><a href="../../../../articles/d/e/l/Image%7EDeltoidalhexecontahedron.jpg_b8de.html" class="image" title="Deltoidal hexecontahedron"><img alt="Deltoidal hexecontahedron" src="../../../../images/shared/thumb/e/ef/Deltoidalhexecontahedron.jpg/80px-Deltoidalhexecontahedron.jpg" width="80" height="79" border="0" /></a><br /><small>(<a href="../../../../articles/d/e/l/Image%7EDeltoidalhexecontahedron.gif_6c9e.html" title="Image:Deltoidalhexecontahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/r/h/o/Rhombicosidodecahedron.html" title="Rhombicosidodecahedron">rhombicosidodecahedron</a></td><td align="center">60</td><td align="center">120</td><td align="center">62</td><td align="center"><a href="../../../../articles/k/i/t/Kite_%28geometry%29.html" title="Kite (geometry)">kite</a><br />V3.4.5.4</td><td align="center">I<sub>h</sub></td></tr><tr><td><a href="../../../../articles/d/i/s/Disdyakis_triacontahedron.html" title="Disdyakis triacontahedron">disdyakis triacontahedron</a><br />or hexakis icosahedron</td><td><a href="../../../../articles/d/i/s/Image%7EDisdyakistriacontahedron.jpg_6ba4.html" class="image" title="Disdyakis triacontahedron"><img alt="Disdyakis triacontahedron" src="../../../../images/shared/thumb/e/e5/Disdyakistriacontahedron.jpg/80px-Disdyakistriacontahedron.jpg" width="80" height="83" border="0" /></a><br /><small>(<a href="../../../../articles/d/i/s/Image%7EDisdyakistriacontahedron.gif_ddd0.html" title="Image:Disdyakistriacontahedron.gif">Video</a>)</small></td><td><a href="../../../../articles/t/r/u/Truncated_icosidodecahedron.html" title="Truncated icosidodecahedron">truncated icosidodecahedron</a></td><td align="center">120</td><td align="center">180</td><td align="center">62</td><td align="center"><a href="../../../../articles/s/c/a/Scalene_triangle.html" class="mw-redirect" title="Scalene triangle">scalene triangle</a><br />V4.6.10</td><td align="center">I<sub>h</sub></td></tr><tr><td><a href="../../../../articles/p/e/n/Pentagonal_hexecontahedron.html" title="Pentagonal hexecontahedron">pentagonal hexecontahedron</a></td><td><a href="../../../../articles/p/e/n/Image%7EPentagonalhexecontahedronccw.jpg_49b9.html" class="image" title="Pentagonal hexecontahedron (Ccw)"><img alt="Pentagonal hexecontahedron (Ccw)" src="../../../../images/shared/thumb/9/90/Pentagonalhexecontahedronccw.jpg/40px-Pentagonalhexecontahedronccw.jpg" width="40" height="41" border="0" /></a><a href="../../../../articles/p/e/n/Image%7EPentagonalhexecontahedroncw.jpg_f720.html" class="image" title="Pentagonal hexecontahedron (Cw)"><img alt="Pentagonal hexecontahedron (Cw)" src="../../../../images/shared/thumb/b/b6/Pentagonalhexecontahedroncw.jpg/40px-Pentagonalhexecontahedroncw.jpg" width="40" height="40" border="0" /></a><br /><small>(<a href="../../../../articles/p/e/n/Image%7EPentagonalhexecontahedronccw.gif_1e0c.html" title="Image:Pentagonalhexecontahedronccw.gif">Video</a>)(<a href="../../../../articles/p/e/n/Image%7EPentagonalhexecontahedroncw.gif_3b3c.html" title="Image:Pentagonalhexecontahedroncw.gif">Video</a>)</small></td><td><a href="../../../../articles/s/n/u/Snub_dodecahedron.html" title="Snub dodecahedron">snub dodecahedron</a></td><td align="center">60</td><td align="center">150</td><td align="center">92</td><td align="center"><a href="../../../../articles/p/e/n/Pentagon.html" title="Pentagon">irregular pentagon</a><br />V3.3.3.3.5</td><td align="center">I</td></tr></table>]]>
+</htmlSnippet>
+</entity>

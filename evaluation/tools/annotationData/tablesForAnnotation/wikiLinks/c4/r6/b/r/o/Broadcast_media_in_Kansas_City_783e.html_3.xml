@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/b/r/o/Broadcast_media_in_Kansas_City_783e.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 2, 0.65625 1 2, 0.625 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/b/r/o/Broadcast_media_in_Kansas_City_783e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Local Television</th>]]></html>
+	<text>Local Television</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Radio</th>]]></html>
+	<text>Radio</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Brigade</td>]]></html>
+	<text>Kansas City Brigade</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football League</td>]]></html>
+	<text>Arena Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Some national games on KMBC-TV/DT</td>]]></html>
+	<text>Some national games on KMBC-TV/DT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCXM-FM</td>]]></html>
+	<text>KCXM-FM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Chiefs</td>]]></html>
+	<text>Kansas City Chiefs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>National Football League</td>]]></html>
+	<text>National Football League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>When an NFC team visits KC, WDAF-TV/DT Sunday Night Games, KSHB-TV/DT Monday Night Games, KMBC-TV/DT (from ESPN) All other games, including pre-season and playoffs, KCTV-TV/DT</td>]]></html>
+	<text>When an NFC team visits KC, WDAF-TV/DT Sunday Night Games, KSHB-TV/DT Monday Night Games, KMBC-TV/DT (from ESPN) All other games, including pre-season and playoffs, KCTV-TV/DT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCFX-FM, WIBW-AM</td>]]></html>
+	<text>KCFX-FM, WIBW-AM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Explorers</td>]]></html>
+	<text>Kansas City Explorers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>World Team Tennis</td>]]></html>
+	<text>World Team Tennis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Royals</td>]]></html>
+	<text>Kansas City Royals</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball</td>]]></html>
+	<text>Major League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RSTN (KMCI, Metro Sports)</td>]]></html>
+	<text>RSTN (KMCI, Metro Sports)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCSP-AM, KMBZ-AM (Sundays), WIBW-AM</td>]]></html>
+	<text>KCSP-AM, KMBZ-AM (Sundays), WIBW-AM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City T-Bones</td>]]></html>
+	<text>Kansas City T-Bones</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Northern League Baseball</td>]]></html>
+	<text>Northern League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCWJ-AM KCSP-AM (Sundays)</td>]]></html>
+	<text>KCWJ-AM KCSP-AM (Sundays)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas City Wizards</td>]]></html>
+	<text>Kansas City Wizards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Soccer</td>]]></html>
+	<text>Major League Soccer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MetroSports when the game is not nationally televised</td>]]></html>
+	<text>MetroSports when the game is not nationally televised</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KDTD-AM 1340 (Spanish) KCZZ-AM 1480 (English)</td>]]></html>
+	<text>KDTD-AM 1340 (Spanish) KCZZ-AM 1480 (English)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Broadcast media in Kansas City - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team League Local Television Radio</text>
+</context>
+<context>
+	<score>0.8833568</score>
+	<text>Related Article: Kansas City Sports</text>
+</context>
+<context>
+	<score>0.7975149</score>
+	<text>Broadcast media in Kansas City</text>
+</context>
+<context>
+	<score>0.78583884</score>
+	<text>[ edit ] Sports Coverage</text>
+</context>
+<context>
+	<score>0.7490348</score>
+	<text>Time Warner Cable subscribers receive local sports programming from Metro Sports (Channel 30), which includes postgame coverage of Royals and Chiefs games, high school and college game coverage, and ESPN News.</text>
+</context>
+<context>
+	<score>0.72475475</score>
+	<text>[ edit ] Television</text>
+</context>
+<context>
+	<score>0.72475475</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.72475475</score>
+	<text>[ edit ] Sports Coverage</text>
+</context>
+<context>
+	<score>0.72475475</score>
+	<text>[ edit ] Notable personalities who worked in the market</text>
+</context>
+<context>
+	<score>0.72475475</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71950054</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7078246</score>
+	<text>[ edit ] AM Radio</text>
+</context>
+<context>
+	<score>0.64541304</score>
+	<text>KMAJ has a construction permit to construct a new tower in Shawnee. Upon completion, Majic 107.7 will broadcast from here instead of Topeka, Kansas , their current city of license.</text>
+</context>
+<context>
+	<score>0.6066624</score>
+	<text>[ edit ] Notable personalities who worked in the market</text>
+</context>
+<context>
+	<score>0.5902297</score>
+	<text>KUDL and KCKC switches to an all-holiday format during the months of November and December.</text>
+</context>
+<context>
+	<score>0.5555406</score>
+	<text>KMJK has applied to change their city of license to North Kansas City, Missouri .</text>
+</context>
+<context>
+	<score>0.5235859</score>
+	<text>[ edit ] FM Radio</text>
+</context>
+<context>
+	<score>0.5198232</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.49802217</score>
+	<text>Kansas City is the 30th largest radio market (as determined by Arbitron ). Several radio stations cover the Kansas City area, including:</text>
+</context>
+<context>
+	<score>0.4775712</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.46874136</score>
+	<text>Kansas City Radio and TV - Detailed histories of radio and television frequencies in Kansas City, St. Joseph , Lawrence , and Topeka</text>
+</context>
+<context>
+	<score>0.4612104</score>
+	<text>Local cable-only channels include Metro Sports , operated by Time Warner.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table cellspacing="0" cellpadding="4" border="1"><tr><th style="background:#ccffcc;"><b>Team</b></th><th style="background:#ccffcc;"><b>League</b></th><th style="background:#ccffcc;"><b>Local Television</b></th><th style="background:#ccffcc;"><b>Radio</b></th></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Brigade_fa94.html" title="Kansas City Brigade">Kansas City Brigade</a></td><td><a href="../../../../articles/a/r/e/Arena_Football_League_e313.html" title="Arena Football League">Arena Football League</a></td><td>Some national games on KMBC-TV/DT</td><td>KCXM-FM</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Chiefs_89f3.html" title="Kansas City Chiefs">Kansas City Chiefs</a></td><td><a href="../../../../articles/n/a/t/National_Football_League_dcce.html" title="National Football League">National Football League</a></td><td>When an <a href="../../../../articles/n/a/t/National_Football_Conference_d886.html" title="National Football Conference">NFC</a> team visits KC, WDAF-TV/DT<br /><p>Sunday Night Games, KSHB-TV/DT<br />Monday Night Games, KMBC-TV/DT (from ESPN)<br />All other games, including pre-season and playoffs, KCTV-TV/DT</p></td><td>KCFX-FM, WIBW-AM</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Explorers_f3f5.html" title="Kansas City Explorers">Kansas City Explorers</a></td><td><a href="../../../../articles/w/o/r/World_Team_Tennis_b65d.html" class="mw-redirect" title="World Team Tennis">World Team Tennis</a></td><td></td><td></td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Royals_78c3.html" title="Kansas City Royals">Kansas City Royals</a></td><td><a href="../../../../articles/m/a/j/Major_League_Baseball_9421.html" title="Major League Baseball">Major League Baseball</a></td><td>RSTN (KMCI, Metro Sports)</td><td>KCSP-AM, KMBZ-AM (Sundays), WIBW-AM</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_T-Bones_d228.html" title="Kansas City T-Bones">Kansas City T-Bones</a></td><td><a href="../../../../articles/n/o/r/Northern_League_%28baseball%29_df91.html" title="Northern League (baseball)">Northern League Baseball</a></td><td></td><td>KCWJ-AM<br />KCSP-AM (Sundays)</td></tr><tr><td><a href="../../../../articles/k/a/n/Kansas_City_Wizards_8fd9.html" title="Kansas City Wizards">Kansas City Wizards</a></td><td><a href="../../../../articles/m/a/j/Major_League_Soccer_7bb1.html" title="Major League Soccer">Major League Soccer</a></td><td>MetroSports when the game is not nationally televised</td><td>KDTD-AM 1340 (Spanish)<br />KCZZ-AM 1480 (English)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

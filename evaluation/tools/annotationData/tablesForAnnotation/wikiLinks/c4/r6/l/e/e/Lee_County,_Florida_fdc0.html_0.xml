@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r6/l/e/e/Lee_County,_Florida_fdc0.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.7291666 1, 0.625 2, 0.625 0 3, 0.546875 1 2, 0.546875 1 3, 0.46875 2 3, 0.3125 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/e/e/Lee_County,_Florida_fdc0.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Club</th>]]></html>
+	<text>Club</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Sport</th>]]></html>
+	<text>Sport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>League</th>]]></html>
+	<text>League</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida Everblades</td>]]></html>
+	<text>Florida Everblades</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hockey</td>]]></html>
+	<text>Hockey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>East Coast Hockey League</td>]]></html>
+	<text>East Coast Hockey League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germain Arena , Estero</td>]]></html>
+	<text>Germain Arena , Estero</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida Firecats</td>]]></html>
+	<text>Florida Firecats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football</td>]]></html>
+	<text>Arena Football</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arena Football-2</td>]]></html>
+	<text>Arena Football-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germain Arena , Estero</td>]]></html>
+	<text>Germain Arena , Estero</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida Flame *</td>]]></html>
+	<text>Florida Flame *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Basketball</td>]]></html>
+	<text>Basketball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NBA Development League</td>]]></html>
+	<text>NBA Development League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Germain Arena , Estero</td>]]></html>
+	<text>Germain Arena , Estero</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fort Myers Miracle</td>]]></html>
+	<text>Fort Myers Miracle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minor League Baseball</td>]]></html>
+	<text>Minor League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florida State League</td>]]></html>
+	<text>Florida State League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hammond Stadium , South Fort Myers</td>]]></html>
+	<text>Hammond Stadium , South Fort Myers</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boston Red Sox ( Spring training )</td>]]></html>
+	<text>Boston Red Sox ( Spring training )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball</td>]]></html>
+	<text>Major League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American League</td>]]></html>
+	<text>American League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Palms Park , Fort Myers</td>]]></html>
+	<text>City of Palms Park , Fort Myers</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota Twins ( Spring training )</td>]]></html>
+	<text>Minnesota Twins ( Spring training )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Major League Baseball</td>]]></html>
+	<text>Major League Baseball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American League</td>]]></html>
+	<text>American League</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hammond Stadium , South Fort Myers</td>]]></html>
+	<text>Hammond Stadium , South Fort Myers</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Lee County, Florida - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Club Sport League Venue</text>
+</context>
+<context>
+	<score>0.8804892</score>
+	<text>[ edit ] Professional sports</text>
+</context>
+<context>
+	<score>0.7912859</score>
+	<text>Lee County, Florida</text>
+</context>
+<context>
+	<score>0.78351855</score>
+	<text>2006-2007 U.S. rank: 64/210</text>
+</context>
+<context>
+	<score>0.75214565</score>
+	<text>It has been announced that the Florida Flame will not return for the 2007-2008 season.</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Law enforcement</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] School district</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Municipalities</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Islands</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Media</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] Professional sports</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7154118</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7137093</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423955</score>
+	<text>Number of TV homes: 479,130</text>
+</context>
+<context>
+	<score>0.6438808</score>
+	<text>Nielsen Media Research Designated Market Area (DMA): Ft. Myers - Naples . [6]</text>
+</context>
+<context>
+	<score>0.6053475</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5942318</score>
+	<text>[ edit ] Television</text>
+</context>
+<context>
+	<score>0.5545127</score>
+	<text>The metropolitan area is home to 32 radio stations .</text>
+</context>
+<context>
+	<score>0.52103484</score>
+	<text>With an Arbitron-assigned 783,100 listening area population, the metropolitan area ranks 62/299 for the fall of 2006.</text>
+</context>
+<context>
+	<score>0.5189957</score>
+	<text>^ Find a County . National Association of Counties. Retrieved on 2008 - 01-31 . ^ American FactFinder . United States Census Bureau . Retrieved on 2008 - 01-31 .</text>
+</context>
+<context>
+	<score>0.49731705</score>
+	<text>Arbitron Standard Radio Market: Ft Myers - Naples - Marco Island . [5]</text>
+</context>
+<context>
+	<score>0.47698084</score>
+	<text>[ edit ] Radio</text>
+</context>
+<context>
+	<score>0.4682005</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46071184</score>
+	<text>In addition, Breeze Newspapers ( Web site ), the Naples Daily News ( Web site ) (circulation 56,981) publishes a &quot;Bonita Daily News&quot; edition ( Web site ), which serves Bonita Springs in southern Lee County. The Daily News is owned by the Ohio-based E. W. Scripps Company .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Club</th><th>Sport</th><th>League</th><th>Venue</th></tr><tr><td><a href="../../../../articles/f/l/o/Florida_Everblades_313c.html" title="Florida Everblades">Florida Everblades</a></td><td><a href="../../../../articles/i/c/e/Ice_hockey.html" title="Ice hockey">Hockey</a></td><td><a href="../../../../articles/e/c/h/ECHL_1383.html" title="ECHL">East Coast Hockey League</a></td><td><a href="../../../../articles/g/e/r/Germain_Arena_60c5.html" title="Germain Arena">Germain Arena</a>, <a href="../../../../articles/e/s/t/Estero.html" class="mw-redirect" title="Estero">Estero</a></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida_Firecats_917f.html" title="Florida Firecats">Florida Firecats</a></td><td><a href="../../../../articles/a/r/e/Arena_Football_0cb2.html" class="mw-redirect" title="Arena Football">Arena Football</a></td><td><a href="../../../../articles/a/f/2/Af2.html" title="Af2">Arena Football-2</a></td><td><a href="../../../../articles/g/e/r/Germain_Arena_60c5.html" title="Germain Arena">Germain Arena</a>, <a href="../../../../articles/e/s/t/Estero.html" class="mw-redirect" title="Estero">Estero</a></td></tr><tr><td><a href="../../../../articles/f/l/o/Florida_Flame_45f9.html" title="Florida Flame">Florida Flame</a>*</td><td><a href="../../../../articles/b/a/s/Basketball.html" title="Basketball">Basketball</a></td><td><a href="../../../../articles/n/b/a/NBA_Development_League_572b.html" title="NBA Development League">NBA Development League</a></td><td><a href="../../../../articles/g/e/r/Germain_Arena_60c5.html" title="Germain Arena">Germain Arena</a>, <a href="../../../../articles/e/s/t/Estero.html" class="mw-redirect" title="Estero">Estero</a></td></tr><tr><td><a href="../../../../articles/f/o/r/Fort_Myers_Miracle_e616.html" title="Fort Myers Miracle">Fort Myers Miracle</a></td><td><a href="../../../../articles/m/i/n/Minor_League_Baseball_a0e6.html" class="mw-redirect" title="Minor League Baseball">Minor League Baseball</a></td><td><a href="../../../../articles/f/l/o/Florida_State_League_2307.html" title="Florida State League">Florida State League</a></td><td><a href="../../../../articles/h/a/m/Hammond_Stadium_445b.html" title="Hammond Stadium">Hammond Stadium</a>, <a href="../../../../articles/s/o/u/South_Fort_Myers_e332.html" class="mw-redirect" title="South Fort Myers">South Fort Myers</a></td></tr><tr><td><a href="../../../../articles/b/o/s/Boston_Red_Sox_8ec5.html" title="Boston Red Sox">Boston Red Sox</a> (<a href="../../../../articles/s/p/r/Spring_training.html" title="Spring training">Spring training</a>)</td><td><a href="../../../../articles/m/a/j/Major_League_Baseball_9421.html" title="Major League Baseball">Major League Baseball</a></td><td><a href="../../../../articles/a/m/e/American_League_6b8d.html" title="American League">American League</a></td><td><a href="../../../../articles/c/i/t/City_of_Palms_Park_2487.html" title="City of Palms Park">City of Palms Park</a>, <a href="../../../../articles/f/o/r/Fort_Myers%2C_Florida_b0e0.html" title="Fort Myers, Florida">Fort Myers</a></td></tr><tr><td><a href="../../../../articles/m/i/n/Minnesota_Twins_4085.html" title="Minnesota Twins">Minnesota Twins</a> (<a href="../../../../articles/s/p/r/Spring_training.html" title="Spring training">Spring training</a>)</td><td><a href="../../../../articles/m/a/j/Major_League_Baseball_9421.html" title="Major League Baseball">Major League Baseball</a></td><td><a href="../../../../articles/a/m/e/American_League_6b8d.html" title="American League">American League</a></td><td><a href="../../../../articles/h/a/m/Hammond_Stadium_445b.html" title="Hammond Stadium">Hammond Stadium</a>, <a href="../../../../articles/s/o/u/South_Fort_Myers_e332.html" class="mw-redirect" title="South Fort Myers">South Fort Myers</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_Canadian_students&apos;_associations_adc1.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.075 0 2, 0.065625004 1 2, 0.0625 0 3, 0.0546875 1 3, 0.030000001 2, 0.025 3, 0.0018750001 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_Canadian_students&apos;_associations_adc1.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Institution</th>]]></html>
+	<text>Institution</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Undergraduate</th>]]></html>
+	<text>Undergraduate</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Graduate</th>]]></html>
+	<text>Graduate</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Other</th>]]></html>
+	<text>Other</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Atlantic Baptist University</td>]]></html>
+	<text>Atlantic Baptist University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlantic Baptist University Student Association</td>]]></html>
+	<text>Atlantic Baptist University Student Association</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mount Allison University</td>]]></html>
+	<text>Mount Allison University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Students Administrative Council</td>]]></html>
+	<text>Students Administrative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Brunswick Community College</td>]]></html>
+	<text>New Brunswick Community College</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Student Representative Council</td>]]></html>
+	<text>Student Representative Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of New Brunswick</td>]]></html>
+	<text>University of New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UNB SU</td>]]></html>
+	<text>UNB SU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UNB GSA</td>]]></html>
+	<text>UNB GSA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UNBSJ Students’ Representative Council</td>]]></html>
+	<text>UNBSJ Students&#8217; Representative Council</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Thomas University</td>]]></html>
+	<text>St. Thomas University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STU Students' Union</td>]]></html>
+	<text>STU Students&amp;apos; Union</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of Canadian students&apos; associations - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Institution Undergraduate Graduate Other</text>
+</context>
+<context>
+	<score>0.8834766</score>
+	<text>[ edit ] New Brunswick</text>
+</context>
+<context>
+	<score>0.7912052</score>
+	<text>List of Canadian students&apos; associations</text>
+</context>
+<context>
+	<score>0.7864685</score>
+	<text>[ edit ] Newfoundland &amp; Labrador</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Alberta</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] British Columbia</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Manitoba</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Newfoundland &amp; Labrador</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] New Brunswick</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Nova Scotia</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Ontario</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Prince Edward Island</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Quebec</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] Saskatchewan</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] The Territories</text>
+</context>
+<context>
+	<score>0.71833545</score>
+	<text>[ edit ] National</text>
+</context>
+<context>
+	<score>0.7135987</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.708862</score>
+	<text>[ edit ] Manitoba</text>
+</context>
+<context>
+	<score>0.64677685</score>
+	<text>[ edit ] British Columbia Main article: List of British Columbia students&apos; associations</text>
+</context>
+<context>
+	<score>0.60822874</score>
+	<text>[ edit ] Nova Scotia</text>
+</context>
+<context>
+	<score>0.59710866</score>
+	<text>[ edit ] Alberta Main article: List of Alberta students&apos; associations</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52558655</score>
+	<text>This list is incomplete ; you can help by expanding it .</text>
+</context>
+<context>
+	<score>0.50015646</score>
+	<text>This is a list of students associations in Canada .</text>
+</context>
+<context>
+	<score>0.4845491</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47102866</score>
+	<text>[ edit ] Ontario Main article: List of Ontario students&apos; associations</text>
+</context>
+<context>
+	<score>0.46827382</score>
+	<text>List of Canadian students&apos; associations</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr bgcolor="#EFEFEF"><th>Institution</th><th>Undergraduate</th><th>Graduate</th><th>Other</th></tr><tr><td><a href="../../../../articles/a/t/l/Atlantic_Baptist_University_0482.html" title="Atlantic Baptist University">Atlantic Baptist University</a></td><td><a href="http://www.abu.nb.ca/future/fut_stu.html" class="external text" title="http://www.abu.nb.ca/future/fut_stu.html" rel="nofollow">Atlantic Baptist University Student Association</a></td></tr><tr><td><a href="../../../../articles/m/o/u/Mount_Allison_University_161a.html" title="Mount Allison University">Mount Allison University</a></td><td><a href="http://mtasac.ca/" class="external text" title="http://mtasac.ca/" rel="nofollow">Students Administrative Council</a></td></tr><tr><td><a href="../../../../articles/n/e/w/New_Brunswick_Community_College_52b4.html" title="New Brunswick Community College">New Brunswick Community College</a></td><td><a href="http://www.nbcc.ca/content.asp?id=74&amp;mid=2" class="external text" title="http://www.nbcc.ca/content.asp?id=74&amp;mid=2" rel="nofollow">Student Representative Council</a></td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_New_Brunswick_1406.html" title="University of New Brunswick">University of New Brunswick</a></td><td><a href="http://www.unbsu.ca/" class="external text" title="http://www.unbsu.ca/" rel="nofollow">UNB SU</a></td><td><a href="http://www.unbf.ca/gsa" class="external text" title="http://www.unbf.ca/gsa" rel="nofollow">UNB GSA</a></td><td><a href="http://www.unbsjrocks.com/" class="external text" title="http://www.unbsjrocks.com/" rel="nofollow">UNBSJ Students’ Representative Council</a></td></tr><tr><td><a href="../../../../articles/s/t/2E/St._Thomas_University_%28New_Brunswick%29_7ae4.html" title="St. Thomas University (New Brunswick)">St. Thomas University</a></td><td><a href="http://www.stusu.ca/" class="external text" title="http://www.stusu.ca/" rel="nofollow">STU Students' Union</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

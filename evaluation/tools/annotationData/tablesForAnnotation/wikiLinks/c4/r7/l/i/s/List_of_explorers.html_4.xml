@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/l/i/s/List_of_explorers.html_4.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 3, 0.75 0 3, 0.65625 1 3, 0.5 1, 0.125 0 2, 0.10714286 2, 0.09375 1 2, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_explorers.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Nationality</th>]]></html>
+	<text>Nationality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Century</th>]]></html>
+	<text>Century</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Main area/s explored</th>]]></html>
+	<text>Main area/s explored</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gil Eanes</td>]]></html>
+	<text>Gil Eanes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portuguese</td>]]></html>
+	<text>Portuguese</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15th</td>]]></html>
+	<text>15th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>northwest African coast</td>]]></html>
+	<text>northwest African coast</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Juan Sebastián Elcano</td>]]></html>
+	<text>Juan Sebasti&#225;n Elcano</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16th</td>]]></html>
+	<text>16th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>completed Ferdinand Magellan 's circumnavigation</td>]]></html>
+	<text>completed Ferdinand Magellan &amp;apos;s circumnavigation</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Francisco de Eliza</td>]]></html>
+	<text>Francisco de Eliza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18th</td>]]></html>
+	<text>18th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Strait of Juan de Fuca and Strait of Georgia</td>]]></html>
+	<text>Strait of Juan de Fuca and Strait of Georgia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Erik the Red</td>]]></html>
+	<text>Erik the Red</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viking</td>]]></html>
+	<text>Viking</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10th</td>]]></html>
+	<text>10th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greenland</td>]]></html>
+	<text>Greenland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leif Ericson</td>]]></html>
+	<text>Leif Ericson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Viking</td>]]></html>
+	<text>Viking</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 11th</td>]]></html>
+	<text>early 11th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vinland ( Newfoundland )</td>]]></html>
+	<text>Vinland ( Newfoundland )</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pedro Escobar</td>]]></html>
+	<text>Pedro Escobar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portuguese</td>]]></html>
+	<text>Portuguese</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15th</td>]]></html>
+	<text>15th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>São Tomé and Príncipe islands</td>]]></html>
+	<text>S&#227;o Tom&#233; and Pr&#237;ncipe islands</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>George Everest</td>]]></html>
+	<text>George Everest</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>British</td>]]></html>
+	<text>British</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19th</td>]]></html>
+	<text>19th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of explorers - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Nationality Century Main area/s explored</text>
+</context>
+<context>
+	<score>0.88108355</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.7868687</score>
+	<text>List of explorers</text>
+</context>
+<context>
+	<score>0.7841138</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.75274134</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] D</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] E</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] F</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] J</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] K</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] Q</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] T</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] U</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] V</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] W</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] Y</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] Z</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.71158856</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70653814</score>
+	<text>[ edit ] C</text>
+</context>
+<context>
+	<score>0.6444775</score>
+	<text>[ edit ] B</text>
+</context>
+<context>
+	<score>0.60594463</score>
+	<text>[ edit ] G</text>
+</context>
+<context>
+	<score>0.594829</score>
+	<text>[ edit ] A</text>
+</context>
+<context>
+	<score>0.5551102</score>
+	<text>Top 0 9 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.51959366</score>
+	<text>[ edit ] H</text>
+</context>
+<context>
+	<score>0.49791518</score>
+	<text>This list of explorers is sorted by surname. See also the links below .</text>
+</context>
+<context>
+	<score>0.48033398</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4687989</score>
+	<text>[ edit ] I</text>
+</context>
+<context>
+	<score>0.46406516</score>
+	<text>List of explorers</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center;"><tr><th width="250px">Name</th><th width="125px">Nationality</th><th width="100px">Century</th><th width="400px">Main area/s explored</th></tr><tr><td><a href="../../../../articles/g/i/l/Gil_Eanes_3f2e.html" title="Gil Eanes">Gil Eanes</a></td><td><a href="../../../../articles/p/o/r/Portuguese_people.html" title="Portuguese people">Portuguese</a></td><td>15th</td><td><a href="../../../../articles/n/o/r/Northwest_Africa_24a6.html" title="Northwest Africa">northwest African</a> coast</td></tr><tr><td><a href="../../../../articles/j/u/a/Juan_Sebasti%C3%A1n_Elcano_f6b9.html" title="Juan Sebastián Elcano">Juan Sebastián Elcano</a></td><td><a href="../../../../articles/s/p/a/Spanish_people.html" title="Spanish people">Spain</a></td><td>16th</td><td>completed <a href="../../../../articles/f/e/r/Ferdinand_Magellan_63f8.html" title="Ferdinand Magellan">Ferdinand Magellan</a>'s <a href="../../../../articles/c/i/r/Circumnavigation.html" title="Circumnavigation">circumnavigation</a></td></tr><tr><td><a href="../../../../articles/f/r/a/Francisco_de_Eliza_3639.html" title="Francisco de Eliza">Francisco de Eliza</a></td><td><a href="../../../../articles/s/p/a/Spanish_people.html" title="Spanish people">Spain</a></td><td>18th</td><td><a href="../../../../articles/s/t/r/Strait_of_Juan_de_Fuca_c832.html" title="Strait of Juan de Fuca">Strait of Juan de Fuca</a> and <a href="../../../../articles/s/t/r/Strait_of_Georgia_b2a8.html" title="Strait of Georgia">Strait of Georgia</a></td></tr><tr><td><a href="../../../../articles/e/r/i/Erik_the_Red_4065.html" title="Erik the Red">Erik the Red</a></td><td><a href="../../../../articles/v/i/k/Viking.html" title="Viking">Viking</a></td><td>10th</td><td><a href="../../../../articles/g/r/e/Greenland.html" title="Greenland">Greenland</a></td></tr><tr><td><a href="../../../../articles/l/e/i/Leif_Ericson_1e08.html" title="Leif Ericson">Leif Ericson</a></td><td>Viking</td><td>early&#160;11th</td><td><a href="../../../../articles/v/i/n/Vinland.html" title="Vinland">Vinland</a> (<a href="../../../../articles/n/e/w/Newfoundland_%28island%29.html" title="Newfoundland (island)">Newfoundland</a>)</td></tr><tr><td><a href="../../../../articles/p/e/d/Pedro_Escobar_efa5.html" title="Pedro Escobar">Pedro Escobar</a></td><td>Portuguese</td><td>15th</td><td><a href="../../../../articles/s/%C3%A3/o/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe_9219.html" title="São Tomé and Príncipe">São Tomé and Príncipe</a> islands</td></tr><tr><td><a href="../../../../articles/g/e/o/George_Everest_ff84.html" title="George Everest">George Everest</a></td><td><a href="../../../../articles/b/r/i/British_people.html" title="British people">British</a></td><td>19th</td><td><a href="../../../../articles/i/n/d/India.html" title="India">India</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

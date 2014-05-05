@@ -1,0 +1,918 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r55/b/o/u/Bourke_County,_New_South_Wales_17e4.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, 0.07575758 1, " />
+<meta name="parentHTMLDoc" value="en/articles/b/o/u/Bourke_County,_New_South_Wales_17e4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Parish</th>]]></html>
+	<text>Parish</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>LGA</th>]]></html>
+	<text>LGA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Coordinates</th>]]></html>
+	<text>Coordinates</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ardlethan</td>]]></html>
+	<text>Ardlethan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°12′54″S, 146°58′04″E</td>]]></html>
+	<text>34&#176;12&#8242;54&#8243;S, 146&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ariah</td>]]></html>
+	<text>Ariah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°17′54″S, 147°00′04″E</td>]]></html>
+	<text>34&#176;17&#8242;54&#8243;S, 147&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ashbridge</td>]]></html>
+	<text>Ashbridge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 146°56′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 146&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Beaconsfield</td>]]></html>
+	<text>Beaconsfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°26′54″S, 147°17′04″E</td>]]></html>
+	<text>34&#176;26&#8242;54&#8243;S, 147&#176;17&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berrembed</td>]]></html>
+	<text>Berrembed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narrandera Shire Council</td>]]></html>
+	<text>Narrandera Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°46′54″S, 146°47′04″E</td>]]></html>
+	<text>34&#176;46&#8242;54&#8243;S, 146&#176;47&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Berry Jerry</td>]]></html>
+	<text>Berry Jerry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 147°13′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 147&#176;13&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Boblegigbie</td>]]></html>
+	<text>Boblegigbie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°29′54″S, 146°51′04″E</td>]]></html>
+	<text>34&#176;29&#8242;54&#8243;S, 146&#176;51&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bourke</td>]]></html>
+	<text>Bourke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narrandera Shire Council</td>]]></html>
+	<text>Narrandera Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 146°49′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 146&#176;49&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brangalgan</td>]]></html>
+	<text>Brangalgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°33′54″S, 147°01′04″E</td>]]></html>
+	<text>34&#176;33&#8242;54&#8243;S, 147&#176;01&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Buddigower</td>]]></html>
+	<text>Buddigower</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°02′54″S, 146°59′04″E</td>]]></html>
+	<text>34&#176;02&#8242;54&#8243;S, 146&#176;59&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bungambil</td>]]></html>
+	<text>Bungambil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°20′54″S, 147°00′04″E</td>]]></html>
+	<text>34&#176;20&#8242;54&#8243;S, 147&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Clermiston</td>]]></html>
+	<text>Clermiston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33°59′54″S, 147°05′04″E</td>]]></html>
+	<text>33&#176;59&#8242;54&#8243;S, 147&#176;05&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Coolamon</td>]]></html>
+	<text>Coolamon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°50′54″S, 147°11′04″E</td>]]></html>
+	<text>34&#176;50&#8242;54&#8243;S, 147&#176;11&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cottee</td>]]></html>
+	<text>Cottee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°54′54″S, 147°08′04″E</td>]]></html>
+	<text>34&#176;54&#8242;54&#8243;S, 147&#176;08&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cowabbie</td>]]></html>
+	<text>Cowabbie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°34′54″S, 146°56′04″E</td>]]></html>
+	<text>34&#176;34&#8242;54&#8243;S, 146&#176;56&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Currawananna</td>]]></html>
+	<text>Currawananna</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°59′54″S, 147°07′04″E</td>]]></html>
+	<text>34&#176;59&#8242;54&#8243;S, 147&#176;07&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Davidson</td>]]></html>
+	<text>Davidson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°13′54″S, 147°07′04″E</td>]]></html>
+	<text>34&#176;13&#8242;54&#8243;S, 147&#176;07&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Derry</td>]]></html>
+	<text>Derry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°47′54″S, 147°01′04″E</td>]]></html>
+	<text>34&#176;47&#8242;54&#8243;S, 147&#176;01&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Devlin</td>]]></html>
+	<text>Devlin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°43′54″S, 147°01′04″E</td>]]></html>
+	<text>34&#176;43&#8242;54&#8243;S, 147&#176;01&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Drumston</td>]]></html>
+	<text>Drumston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33°57′54″S, 147°00′04″E</td>]]></html>
+	<text>33&#176;57&#8242;54&#8243;S, 147&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dulah</td>]]></html>
+	<text>Dulah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°39′54″S, 147°02′04″E</td>]]></html>
+	<text>34&#176;39&#8242;54&#8243;S, 147&#176;02&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elliott</td>]]></html>
+	<text>Elliott</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narrandera Shire Council</td>]]></html>
+	<text>Narrandera Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°45′54″S, 146°55′04″E</td>]]></html>
+	<text>34&#176;45&#8242;54&#8243;S, 146&#176;55&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ellon</td>]]></html>
+	<text>Ellon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°08′54″S, 146°58′04″E</td>]]></html>
+	<text>34&#176;08&#8242;54&#8243;S, 146&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fennel</td>]]></html>
+	<text>Fennel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narrandera Shire Council</td>]]></html>
+	<text>Narrandera Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°34′54″S, 146°50′04″E</td>]]></html>
+	<text>34&#176;34&#8242;54&#8243;S, 146&#176;50&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ganmain</td>]]></html>
+	<text>Ganmain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°55′54″S, 147°01′04″E</td>]]></html>
+	<text>34&#176;55&#8242;54&#8243;S, 147&#176;01&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hooke</td>]]></html>
+	<text>Hooke</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°51′54″S, 147°00′04″E</td>]]></html>
+	<text>34&#176;51&#8242;54&#8243;S, 147&#176;00&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ingalba</td>]]></html>
+	<text>Ingalba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°31′54″S, 147°23′04″E</td>]]></html>
+	<text>34&#176;31&#8242;54&#8243;S, 147&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jillett</td>]]></html>
+	<text>Jillett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°08′54″S, 146°53′04″E</td>]]></html>
+	<text>34&#176;08&#8242;54&#8243;S, 146&#176;53&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kildary</td>]]></html>
+	<text>Kildary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°08′54″S, 147°07′04″E</td>]]></html>
+	<text>34&#176;08&#8242;54&#8243;S, 147&#176;07&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kindra</td>]]></html>
+	<text>Kindra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°46′54″S, 147°12′04″E</td>]]></html>
+	<text>34&#176;46&#8242;54&#8243;S, 147&#176;12&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kinilibah</td>]]></html>
+	<text>Kinilibah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°48′54″S, 147°22′04″E</td>]]></html>
+	<text>34&#176;48&#8242;54&#8243;S, 147&#176;22&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kockibitoo</td>]]></html>
+	<text>Kockibitoo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°51′54″S, 146°58′04″E</td>]]></html>
+	<text>34&#176;51&#8242;54&#8243;S, 146&#176;58&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lachlan</td>]]></html>
+	<text>Lachlan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 147°23′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 147&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Langi-Kal-Kal</td>]]></html>
+	<text>Langi-Kal-Kal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°12′54″S, 147°14′04″E</td>]]></html>
+	<text>34&#176;12&#8242;54&#8243;S, 147&#176;14&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lupton</td>]]></html>
+	<text>Lupton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Narrandera Shire Council</td>]]></html>
+	<text>Narrandera Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°41′54″S, 146°48′04″E</td>]]></html>
+	<text>34&#176;41&#8242;54&#8243;S, 146&#176;48&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mandamah</td>]]></html>
+	<text>Mandamah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°17′54″S, 147°11′04″E</td>]]></html>
+	<text>34&#176;17&#8242;54&#8243;S, 147&#176;11&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marrar</td>]]></html>
+	<text>Marrar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°52′54″S, 147°18′04″E</td>]]></html>
+	<text>34&#176;52&#8242;54&#8243;S, 147&#176;18&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Matong</td>]]></html>
+	<text>Matong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°51′54″S, 146°54′04″E</td>]]></html>
+	<text>34&#176;51&#8242;54&#8243;S, 146&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Methul</td>]]></html>
+	<text>Methul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°34′54″S, 147°08′04″E</td>]]></html>
+	<text>34&#176;34&#8242;54&#8243;S, 147&#176;08&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mimosa</td>]]></html>
+	<text>Mimosa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°36′54″S, 147°25′04″E</td>]]></html>
+	<text>34&#176;36&#8242;54&#8243;S, 147&#176;25&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Murrulebale</td>]]></html>
+	<text>Murrulebale</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°45′54″S, 147°23′04″E</td>]]></html>
+	<text>34&#176;45&#8242;54&#8243;S, 147&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northcote</td>]]></html>
+	<text>Northcote</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°26′54″S, 147°23′04″E</td>]]></html>
+	<text>34&#176;26&#8242;54&#8243;S, 147&#176;23&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quandary</td>]]></html>
+	<text>Quandary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°20′54″S, 147°20′04″E</td>]]></html>
+	<text>34&#176;20&#8242;54&#8243;S, 147&#176;20&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ramsay</td>]]></html>
+	<text>Ramsay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°16′54″S, 146°53′04″E</td>]]></html>
+	<text>34&#176;16&#8242;54&#8243;S, 146&#176;53&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Robertson</td>]]></html>
+	<text>Robertson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°35′54″S, 147°17′04″E</td>]]></html>
+	<text>34&#176;35&#8242;54&#8243;S, 147&#176;17&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tara</td>]]></html>
+	<text>Tara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°28′54″S, 147°10′04″E</td>]]></html>
+	<text>34&#176;28&#8242;54&#8243;S, 147&#176;10&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tooyal</td>]]></html>
+	<text>Tooyal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°59′54″S, 147°15′04″E</td>]]></html>
+	<text>34&#176;59&#8242;54&#8243;S, 147&#176;15&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trickett</td>]]></html>
+	<text>Trickett</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°30′54″S, 147°17′04″E</td>]]></html>
+	<text>34&#176;30&#8242;54&#8243;S, 147&#176;17&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Walleroobie</td>]]></html>
+	<text>Walleroobie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°26′54″S, 146°53′04″E</td>]]></html>
+	<text>34&#176;26&#8242;54&#8243;S, 146&#176;53&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Warren</td>]]></html>
+	<text>Warren</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>City of Wagga Wagga</td>]]></html>
+	<text>City of Wagga Wagga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°54′54″S, 147°14′04″E</td>]]></html>
+	<text>34&#176;54&#8242;54&#8243;S, 147&#176;14&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Warri</td>]]></html>
+	<text>Warri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°20′54″S, 146°54′04″E</td>]]></html>
+	<text>34&#176;20&#8242;54&#8243;S, 146&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Willandra</td>]]></html>
+	<text>Willandra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°01′54″S, 146°55′04″E</td>]]></html>
+	<text>34&#176;01&#8242;54&#8243;S, 146&#176;55&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windeyer</td>]]></html>
+	<text>Windeyer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Temora Shire Council</td>]]></html>
+	<text>Temora Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°23′54″S, 147°10′04″E</td>]]></html>
+	<text>34&#176;23&#8242;54&#8243;S, 147&#176;10&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yarranjerry</td>]]></html>
+	<text>Yarranjerry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Coolamon Shire Council</td>]]></html>
+	<text>Coolamon Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°26′54″S, 146°59′04″E</td>]]></html>
+	<text>34&#176;26&#8242;54&#8243;S, 146&#176;59&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yithan</td>]]></html>
+	<text>Yithan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bland Shire Council</td>]]></html>
+	<text>Bland Shire Council</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34°11′54″S, 146°54′04″E</td>]]></html>
+	<text>34&#176;11&#8242;54&#8243;S, 146&#176;54&#8242;04&#8243;E</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Bourke County, New South Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Parish LGA Coordinates</text>
+</context>
+<context>
+	<score>0.8847392</score>
+	<text>A full list of parishes found within this county; their current LGA and mapping coordinates to the approximate centre of each location is as follows:</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>Bourke County, New South Wales</text>
+</context>
+<context>
+	<score>0.77935797</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.7452641</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] Parishes within this county</text>
+</context>
+<context>
+	<score>0.72798467</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.69505304</score>
+	<text>Bourke County was named in honour of Sir Richard Bourke Governor (1777-1855).</text>
+</context>
+<context>
+	<score>0.627609</score>
+	<text>Bourke County, New South Wales is one of the 141 Cadastral divisions of New South Wales . It contains the town of Ardlethan . The Murrumbidgee River is the southern boundary.</text>
+</context>
+<context>
+	<score>0.5901196</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.58573365</score>
+	<text>^ Geographical Names Board of NSW</text>
+</context>
+<context>
+	<score>0.54695547</score>
+	<text>Bourke County, New South Wales</text>
+</context>
+<context>
+	<score>0.49189216</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="text-align:center"><tr><th>Parish</th><th>LGA</th><th>Coordinates</th></tr><tr><td>Ardlethan</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_12_54_S_146_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_12_54_S_146_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°12′54″S,</span> <span style="white-space:nowrap">146°58′04″E</span></span></a></span></td></tr><tr><td>Ariah</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_17_54_S_147_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_17_54_S_147_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°17′54″S,</span> <span style="white-space:nowrap">147°00′04″E</span></span></a></span></td></tr><tr><td>Ashbridge</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_146_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_146_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">146°56′04″E</span></span></a></span></td></tr><tr><td>Beaconsfield</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_147_17_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_147_17_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°26′54″S,</span> <span style="white-space:nowrap">147°17′04″E</span></span></a></span></td></tr><tr><td>Berrembed</td><td><a href="../../../../articles/n/a/r/Narrandera_Shire_Council_7e14.html" title="Narrandera Shire Council">Narrandera Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_46_54_S_146_47_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_46_54_S_146_47_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°46′54″S,</span> <span style="white-space:nowrap">146°47′04″E</span></span></a></span></td></tr><tr><td>Berry Jerry</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_147_13_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_147_13_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">147°13′04″E</span></span></a></span></td></tr><tr><td>Boblegigbie</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_29_54_S_146_51_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_29_54_S_146_51_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°29′54″S,</span> <span style="white-space:nowrap">146°51′04″E</span></span></a></span></td></tr><tr><td>Bourke</td><td><a href="../../../../articles/n/a/r/Narrandera_Shire_Council_7e14.html" title="Narrandera Shire Council">Narrandera Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_146_49_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_146_49_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">146°49′04″E</span></span></a></span></td></tr><tr><td>Brangalgan</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_33_54_S_147_01_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_33_54_S_147_01_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°33′54″S,</span> <span style="white-space:nowrap">147°01′04″E</span></span></a></span></td></tr><tr><td>Buddigower</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_02_54_S_146_59_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_02_54_S_146_59_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°02′54″S,</span> <span style="white-space:nowrap">146°59′04″E</span></span></a></span></td></tr><tr><td>Bungambil</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_147_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_147_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°20′54″S,</span> <span style="white-space:nowrap">147°00′04″E</span></span></a></span></td></tr><tr><td>Clermiston</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=33_59_54_S_147_05_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=33_59_54_S_147_05_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">33°59′54″S,</span> <span style="white-space:nowrap">147°05′04″E</span></span></a></span></td></tr><tr><td>Coolamon</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_50_54_S_147_11_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_50_54_S_147_11_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°50′54″S,</span> <span style="white-space:nowrap">147°11′04″E</span></span></a></span></td></tr><tr><td>Cottee</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_54_54_S_147_08_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_54_54_S_147_08_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°54′54″S,</span> <span style="white-space:nowrap">147°08′04″E</span></span></a></span></td></tr><tr><td>Cowabbie</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_146_56_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_146_56_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°34′54″S,</span> <span style="white-space:nowrap">146°56′04″E</span></span></a></span></td></tr><tr><td>Currawananna</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_59_54_S_147_07_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_59_54_S_147_07_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°59′54″S,</span> <span style="white-space:nowrap">147°07′04″E</span></span></a></span></td></tr><tr><td>Davidson</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_13_54_S_147_07_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_13_54_S_147_07_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°13′54″S,</span> <span style="white-space:nowrap">147°07′04″E</span></span></a></span></td></tr><tr><td>Derry</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_47_54_S_147_01_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_47_54_S_147_01_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°47′54″S,</span> <span style="white-space:nowrap">147°01′04″E</span></span></a></span></td></tr><tr><td>Devlin</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_43_54_S_147_01_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_43_54_S_147_01_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°43′54″S,</span> <span style="white-space:nowrap">147°01′04″E</span></span></a></span></td></tr><tr><td>Drumston</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=33_57_54_S_147_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=33_57_54_S_147_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">33°57′54″S,</span> <span style="white-space:nowrap">147°00′04″E</span></span></a></span></td></tr><tr><td>Dulah</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_147_02_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_39_54_S_147_02_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°39′54″S,</span> <span style="white-space:nowrap">147°02′04″E</span></span></a></span></td></tr><tr><td>Elliott</td><td><a href="../../../../articles/n/a/r/Narrandera_Shire_Council_7e14.html" title="Narrandera Shire Council">Narrandera Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_45_54_S_146_55_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_45_54_S_146_55_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°45′54″S,</span> <span style="white-space:nowrap">146°55′04″E</span></span></a></span></td></tr><tr><td>Ellon</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_146_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_146_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°08′54″S,</span> <span style="white-space:nowrap">146°58′04″E</span></span></a></span></td></tr><tr><td>Fennel</td><td><a href="../../../../articles/n/a/r/Narrandera_Shire_Council_7e14.html" title="Narrandera Shire Council">Narrandera Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_146_50_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_146_50_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°34′54″S,</span> <span style="white-space:nowrap">146°50′04″E</span></span></a></span></td></tr><tr><td>Ganmain</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_55_54_S_147_01_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_55_54_S_147_01_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°55′54″S,</span> <span style="white-space:nowrap">147°01′04″E</span></span></a></span></td></tr><tr><td>Hooke</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_147_00_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_147_00_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°51′54″S,</span> <span style="white-space:nowrap">147°00′04″E</span></span></a></span></td></tr><tr><td>Ingalba</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_31_54_S_147_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_31_54_S_147_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°31′54″S,</span> <span style="white-space:nowrap">147°23′04″E</span></span></a></span></td></tr><tr><td>Jillett</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_146_53_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_146_53_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°08′54″S,</span> <span style="white-space:nowrap">146°53′04″E</span></span></a></span></td></tr><tr><td>Kildary</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_147_07_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_08_54_S_147_07_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°08′54″S,</span> <span style="white-space:nowrap">147°07′04″E</span></span></a></span></td></tr><tr><td>Kindra</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_46_54_S_147_12_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_46_54_S_147_12_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°46′54″S,</span> <span style="white-space:nowrap">147°12′04″E</span></span></a></span></td></tr><tr><td>Kinilibah</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_48_54_S_147_22_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_48_54_S_147_22_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°48′54″S,</span> <span style="white-space:nowrap">147°22′04″E</span></span></a></span></td></tr><tr><td>Kockibitoo</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_146_58_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_146_58_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°51′54″S,</span> <span style="white-space:nowrap">146°58′04″E</span></span></a></span></td></tr><tr><td>Lachlan</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_147_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_147_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">147°23′04″E</span></span></a></span></td></tr><tr><td>Langi-Kal-Kal</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_12_54_S_147_14_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_12_54_S_147_14_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°12′54″S,</span> <span style="white-space:nowrap">147°14′04″E</span></span></a></span></td></tr><tr><td>Lupton</td><td><a href="../../../../articles/n/a/r/Narrandera_Shire_Council_7e14.html" title="Narrandera Shire Council">Narrandera Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_146_48_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_41_54_S_146_48_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°41′54″S,</span> <span style="white-space:nowrap">146°48′04″E</span></span></a></span></td></tr><tr><td>Mandamah</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_17_54_S_147_11_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_17_54_S_147_11_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°17′54″S,</span> <span style="white-space:nowrap">147°11′04″E</span></span></a></span></td></tr><tr><td>Marrar</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_52_54_S_147_18_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_52_54_S_147_18_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°52′54″S,</span> <span style="white-space:nowrap">147°18′04″E</span></span></a></span></td></tr><tr><td>Matong</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_146_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_51_54_S_146_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°51′54″S,</span> <span style="white-space:nowrap">146°54′04″E</span></span></a></span></td></tr><tr><td>Methul</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_147_08_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_34_54_S_147_08_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°34′54″S,</span> <span style="white-space:nowrap">147°08′04″E</span></span></a></span></td></tr><tr><td>Mimosa</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_36_54_S_147_25_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_36_54_S_147_25_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°36′54″S,</span> <span style="white-space:nowrap">147°25′04″E</span></span></a></span></td></tr><tr><td>Murrulebale</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_45_54_S_147_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_45_54_S_147_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°45′54″S,</span> <span style="white-space:nowrap">147°23′04″E</span></span></a></span></td></tr><tr><td>Northcote</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_147_23_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_147_23_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°26′54″S,</span> <span style="white-space:nowrap">147°23′04″E</span></span></a></span></td></tr><tr><td>Quandary</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_147_20_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_147_20_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°20′54″S,</span> <span style="white-space:nowrap">147°20′04″E</span></span></a></span></td></tr><tr><td>Ramsay</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_16_54_S_146_53_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_16_54_S_146_53_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°16′54″S,</span> <span style="white-space:nowrap">146°53′04″E</span></span></a></span></td></tr><tr><td>Robertson</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_35_54_S_147_17_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_35_54_S_147_17_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°35′54″S,</span> <span style="white-space:nowrap">147°17′04″E</span></span></a></span></td></tr><tr><td>Tara</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_28_54_S_147_10_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_28_54_S_147_10_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°28′54″S,</span> <span style="white-space:nowrap">147°10′04″E</span></span></a></span></td></tr><tr><td>Tooyal</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_59_54_S_147_15_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_59_54_S_147_15_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°59′54″S,</span> <span style="white-space:nowrap">147°15′04″E</span></span></a></span></td></tr><tr><td>Trickett</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_30_54_S_147_17_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_30_54_S_147_17_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°30′54″S,</span> <span style="white-space:nowrap">147°17′04″E</span></span></a></span></td></tr><tr><td>Walleroobie</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_146_53_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_146_53_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°26′54″S,</span> <span style="white-space:nowrap">146°53′04″E</span></span></a></span></td></tr><tr><td>Warren</td><td><a href="../../../../articles/c/i/t/City_of_Wagga_Wagga_89e0.html" title="City of Wagga Wagga">City of Wagga Wagga</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_54_54_S_147_14_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_54_54_S_147_14_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°54′54″S,</span> <span style="white-space:nowrap">147°14′04″E</span></span></a></span></td></tr><tr><td>Warri</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_146_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_20_54_S_146_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°20′54″S,</span> <span style="white-space:nowrap">146°54′04″E</span></span></a></span></td></tr><tr><td>Willandra</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_01_54_S_146_55_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_01_54_S_146_55_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°01′54″S,</span> <span style="white-space:nowrap">146°55′04″E</span></span></a></span></td></tr><tr><td>Windeyer</td><td><a href="../../../../articles/t/e/m/Temora_Shire_Council_d994.html" title="Temora Shire Council">Temora Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_23_54_S_147_10_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_23_54_S_147_10_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°23′54″S,</span> <span style="white-space:nowrap">147°10′04″E</span></span></a></span></td></tr><tr><td>Yarranjerry</td><td><a href="../../../../articles/c/o/o/Coolamon_Shire_Council_2e3b.html" title="Coolamon Shire Council">Coolamon Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_146_59_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_26_54_S_146_59_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°26′54″S,</span> <span style="white-space:nowrap">146°59′04″E</span></span></a></span></td></tr><tr><td>Yithan</td><td><a href="../../../../articles/b/l/a/Bland_Shire_Council_1130.html" title="Bland Shire Council">Bland Shire Council</a></td><td><span class="plainlinksneverexpand"><a href="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_11_54_S_146_54_04_E_type:city" class="external text" title="http://toolserver.org/~magnus/geo/geohack.php?pagename=Bourke_County%2C_New_South_Wales&amp;params=34_11_54_S_146_54_04_E_type:city" rel="nofollow"><span title="Maps, aerial photos, and other data for this location"><span style="white-space:nowrap">34°11′54″S,</span> <span style="white-space:nowrap">146°54′04″E</span></span></a></span></td></tr></table>]]>
+</htmlSnippet>
+</entity>

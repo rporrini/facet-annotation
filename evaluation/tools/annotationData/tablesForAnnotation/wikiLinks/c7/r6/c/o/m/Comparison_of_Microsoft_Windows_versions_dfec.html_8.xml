@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r6/c/o/m/Comparison_of_Microsoft_Windows_versions_dfec.html_8.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9285714 0 1, 0.85714287 2, 0.85714287 0 2, 0.79591835 1 2, 0.7738095 1, 0.15714286 3, 0.15714286 0 3, 0.14591835 1 3, 0.13469388 2 3, 0.071428575 0 4, 0.06428572 0 5, 0.06122449 2 4, 0.05714286 0 6, 0.055272106 1 4, 0.05510204 2 5, 0.049744893 1 5, 0.048979595 2 6, 0.044217687 1 6, 0.03214286 5, 0.023809526 4, 0.019047622 6, 0.011224491 3 4, 0.010102041 3 5, 0.0089795925 3 6, 0.0022959185 4 5, 0.0020408165 4 6, 0.0018367348 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/c/o/m/Comparison_of_Microsoft_Windows_versions_dfec.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th></th>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<th>CPU</th>]]></html>
+	<text>CPU</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>RAM</th>]]></html>
+	<text>RAM</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Free disk space</th>]]></html>
+	<text>Free disk space</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Video adapter and monitor</th>]]></html>
+	<text>Video adapter and monitor</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Drivers</th>]]></html>
+	<text>Drivers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Devices</th>]]></html>
+	<text>Devices</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows NT Workstation 3.51</td>]]></html>
+	<text>Windows NT Workstation 3.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>386, 25 MHz</td>]]></html>
+	<text>386, 25 MHz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 MB</td>]]></html>
+	<text>8 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90 MB</td>]]></html>
+	<text>90 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows NT 4.0 Workstation</td>]]></html>
+	<text>Windows NT 4.0 Workstation</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>486, 33 MHz</td>]]></html>
+	<text>486, 33 MHz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 MB</td>]]></html>
+	<text>12 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>110 MB</td>]]></html>
+	<text>110 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows 2000 Professional</td>]]></html>
+	<text>Windows 2000 Professional</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pentium, 133 MHz</td>]]></html>
+	<text>Pentium, 133 MHz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>32 MB</td>]]></html>
+	<text>32 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>650 MB</td>]]></html>
+	<text>650 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows XP</td>]]></html>
+	<text>Windows XP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pentium MMX, 233 MHz/ 300 MHz or higher</td>]]></html>
+	<text>Pentium MMX, 233 MHz/ 300 MHz or higher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 MB / 128 MB RAM or higher</td>]]></html>
+	<text>64 MB / 128 MB RAM or higher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5 GB / 1.5 GB or higher</td>]]></html>
+	<text>1.5 GB / 1.5 GB or higher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Super VGA (800 x 600) or higher resolution</td>]]></html>
+	<text>Super VGA (800 x 600) or higher resolution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CD-ROM or DVD-ROM</td>]]></html>
+	<text>CD-ROM or DVD-ROM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Keyboard and mouse</td>]]></html>
+	<text>Keyboard and mouse</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows Fundamentals for Legacy PCs</td>]]></html>
+	<text>Windows Fundamentals for Legacy PCs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pentium, 133 MHz</td>]]></html>
+	<text>Pentium, 133 MHz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 MB</td>]]></html>
+	<text>64 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>500 MB</td>]]></html>
+	<text>500 MB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Windows Vista</td>]]></html>
+	<text>Windows Vista</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pentium III, 800 MHz</td>]]></html>
+	<text>Pentium III, 800 MHz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>512 MB/1 GB or higher recommended</td>]]></html>
+	<text>512 MB/1 GB or higher recommended</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 GB (may be installed with as few as 7GB)</td>]]></html>
+	<text>15 GB (may be installed with as few as 7GB)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Super VGA (800 x 600) or higher resolution</td>]]></html>
+	<text>Super VGA (800 x 600) or higher resolution</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DVD-ROM</td>]]></html>
+	<text>DVD-ROM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Comparison of Microsoft Windows versions - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>CPU RAM Free disk space Video adapter and monitor Drivers Devices</text>
+</context>
+<context>
+	<score>0.88194406</score>
+	<text>[ edit ] NT Kernel-based</text>
+</context>
+<context>
+	<score>0.7934725</score>
+	<text>Comparison of Microsoft Windows versions</text>
+</context>
+<context>
+	<score>0.784974</score>
+	<text>[ edit ] 9x Kernel-based</text>
+</context>
+<context>
+	<score>0.7536014</score>
+	<text>[ edit ] Security features</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] General information</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] Technical information</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] Supported file systems</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] Hardware requirements</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] Security features</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] Features</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71905303</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7158965</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042414</score>
+	<text>Minimum/recommended system requirements (for x86 processors)</text>
+</context>
+<context>
+	<score>0.6453372</score>
+	<text>[ edit ] Hardware requirements</text>
+</context>
+<context>
+	<score>0.6068042</score>
+	<text>[ edit ] NT Kernel-based</text>
+</context>
+<context>
+	<score>0.5956886</score>
+	<text>[ edit ] NT Kernel-based</text>
+</context>
+<context>
+	<score>0.55596966</score>
+	<text>[ edit ] DOS -based ( MS-DOS / 9x -based)</text>
+</context>
+<context>
+	<score>0.5241945</score>
+	<text>Various versions of Windows support various file systems , including: FAT16, FAT32 , HPFS , ISO 9660 , NTFS , or UDF .</text>
+</context>
+<context>
+	<score>0.5204529</score>
+	<text>[ edit ] Features</text>
+</context>
+<context>
+	<score>0.49877438</score>
+	<text>[ edit ] Supported file systems</text>
+</context>
+<context>
+	<score>0.4784383</score>
+	<text>[ edit ] NT Kernel-based</text>
+</context>
+<context>
+	<score>0.46965808</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.4621694</score>
+	<text>[ edit ] DOS -based ( MS-DOS / 9x -based)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="1" cellspacing="0" style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center; width: 100%;" class="wikitable sortable"><tr><th></th><th>CPU</th><th>RAM</th><th>Free disk space</th><th>Video adapter and monitor</th><th>Drivers</th><th>Devices</th></tr><tr><td><a href="../../../../articles/w/i/n/Windows_NT_3.51_a3f8.html" title="Windows NT 3.51">Windows NT Workstation 3.51</a></td><td>386, 25&#160;MHz</td><td>8 MB</td><td>90 MB</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/w/i/n/Windows_NT_4.0_1813.html" title="Windows NT 4.0">Windows NT 4.0 Workstation</a></td><td>486, 33&#160;MHz</td><td>12 MB</td><td>110 MB</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/w/i/n/Windows_2000.html" title="Windows 2000">Windows 2000 Professional</a></td><td>Pentium, 133&#160;MHz</td><td>32 MB</td><td>650 MB</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/w/i/n/Windows_XP_1c6b.html" title="Windows XP">Windows XP</a></td><td>Pentium MMX, 233&#160;MHz/ 300&#160;MHz or higher</td><td>64 MB / 128 MB RAM or higher</td><td>1.5 GB / 1.5 GB or higher</td><td>Super VGA (800 x 600) or higher resolution</td><td>CD-ROM or DVD-ROM</td><td><a href="../../../../articles/c/o/m/Computer_keyboard.html" class="mw-redirect" title="Computer keyboard">Keyboard</a> and <a href="../../../../articles/m/o/u/Mouse.html" title="Mouse">mouse</a></td></tr><tr><td><a href="../../../../articles/w/i/n/Windows_Fundamentals_for_Legacy_PCs_2613.html" title="Windows Fundamentals for Legacy PCs">Windows Fundamentals for Legacy PCs</a></td><td>Pentium, 133&#160;MHz</td><td>64 MB</td><td>500 MB</td><td></td><td></td><td></td></tr><tr><td><a href="../../../../articles/w/i/n/Windows_Vista_dc35.html" title="Windows Vista">Windows Vista</a></td><td>Pentium III, 800&#160;MHz</td><td>512 MB/1 GB or higher recommended</td><td>15 GB (may be installed with as few as 7GB)</td><td>Super VGA (800 x 600) or higher resolution</td><td>DVD-ROM</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/n/o/r/North_Cascades_720f.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 3, 0.52500004 3, 0.15 1, 0.15 0 1, 0.13125001 1 3, 0.125 2, 0.125 0 2, 0.109375 2 3, 0.01875 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/n/o/r/North_Cascades_720f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Mountain</th>]]></html>
+	<text>Mountain</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Height (ft)</th>]]></html>
+	<text>Height (ft)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Prominence (ft)</th>]]></html>
+	<text>Prominence (ft)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Parent mountain</th>]]></html>
+	<text>Parent mountain</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mount Baker</td>]]></html>
+	<text>Mount Baker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,778</td>]]></html>
+	<text>10,778</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,881</td>]]></html>
+	<text>8,881</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Rainier</td>]]></html>
+	<text>Mount Rainier</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Glacier Peak</td>]]></html>
+	<text>Glacier Peak</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,541</td>]]></html>
+	<text>10,541</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,501</td>]]></html>
+	<text>7,501</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Rainier</td>]]></html>
+	<text>Mount Rainier</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Round Mountain</td>]]></html>
+	<text>Round Mountain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,320</td>]]></html>
+	<text>5,320</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,780</td>]]></html>
+	<text>4,780</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Baker</td>]]></html>
+	<text>Mount Baker</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mount Spickard</td>]]></html>
+	<text>Mount Spickard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,979</td>]]></html>
+	<text>8,979</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,779</td>]]></html>
+	<text>4,779</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mount Baker</td>]]></html>
+	<text>Mount Baker</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Three Fingers</td>]]></html>
+	<text>Three Fingers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,850</td>]]></html>
+	<text>6,850</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,490</td>]]></html>
+	<text>4,490</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glacier Peak</td>]]></html>
+	<text>Glacier Peak</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>North Cascades - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Mountain Height (ft) Prominence (ft) Parent mountain</text>
+</context>
+<context>
+	<score>0.882368</score>
+	<text>The following peaks are notable for their topographic prominence :</text>
+</context>
+<context>
+	<score>0.7955447</score>
+	<text>North Cascades</text>
+</context>
+<context>
+	<score>0.7853757</score>
+	<text>(The above table uses a topographic prominence cutoff of 1000 feet, in order to list only highly independent peaks.)</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] Protected areas</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] Notable peaks</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.72155917</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7179508</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70417356</score>
+	<text>The following North Cascades peaks are notable for their height (absolute elevation):</text>
+</context>
+<context>
+	<score>0.64570683</score>
+	<text>[ edit ] Notable peaks</text>
+</context>
+<context>
+	<score>0.60355663</score>
+	<text>The following peaks are notable for their large, steep rise above local terrain. Peaks are listed in descending order by elevation.</text>
+</context>
+<context>
+	<score>0.59243846</score>
+	<text>In British Columbia, protected areas include</text>
+</context>
+<context>
+	<score>0.55631876</score>
+	<text>The North Cascades include various protected areas. Chief among the areas in Washington is North Cascades National Park , occupying much of the area between Mount Baker and the Cascade divide. Contiguous with the Park are Ross Lake National Recreation Area and Lake Chelan National Recreation Area . Designated wilderness areas in the range include:</text>
+</context>
+<context>
+	<score>0.52092797</score>
+	<text>Diablo Lake, Colonial Peak and Pyramid Peak, in the North Cascades</text>
+</context>
+<context>
+	<score>0.5207939</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.49911037</score>
+	<text>[ edit ] Protected areas</text>
+</context>
+<context>
+	<score>0.47876963</score>
+	<text>Early recreational use of the range included expeditions by the local climbing clubs, The Mountaineers and The Mazamas . However even these groups did not fully explore the inner reaches of the range and ascend the most difficult peaks until the 1930s and 1940s.</text>
+</context>
+<context>
+	<score>0.4699874</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.45888868</score>
+	<text>Early settlers also arrived in the foothills of the North Cascades in the latter half of the 1800s, and utilized the range in a limited way as a source of timber and grazing land. However the range is so rugged that this exploitation was less dramatic than in other more gentle landscapes.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; background:#f0f0f0;"><tr><th>Mountain</th><th>Height (ft)</th><th><a href="../../../../articles/t/o/p/Topographic_prominence.html" title="Topographic prominence">Prominence</a> (ft)</th><th>Parent mountain</th></tr><tr><td><a href="../../../../articles/m/o/u/Mount_Baker_2e86.html" title="Mount Baker">Mount Baker</a></td><td align="right">10,778</td><td align="right">8,881</td><td><a href="../../../../articles/m/o/u/Mount_Rainier_3cf0.html" title="Mount Rainier">Mount Rainier</a></td></tr><tr><td><a href="../../../../articles/g/l/a/Glacier_Peak_a75d.html" title="Glacier Peak">Glacier Peak</a></td><td align="right">10,541</td><td align="right">7,501</td><td><a href="../../../../articles/m/o/u/Mount_Rainier_3cf0.html" title="Mount Rainier">Mount Rainier</a></td></tr><tr><td><a href="../../../../articles/r/o/u/Round_Mountain_aa37.html" title="Round Mountain">Round Mountain</a></td><td align="right">5,320</td><td align="right">4,780</td><td><a href="../../../../articles/m/o/u/Mount_Baker_2e86.html" title="Mount Baker">Mount Baker</a></td></tr><tr><td>Mount Spickard</td><td align="right">8,979</td><td align="right">4,779</td><td><a href="../../../../articles/m/o/u/Mount_Baker_2e86.html" title="Mount Baker">Mount Baker</a></td></tr><tr><td><a href="../../../../articles/t/h/r/Three_Fingers_685b.html" title="Three Fingers">Three Fingers</a></td><td align="right">6,850</td><td align="right">4,490</td><td><a href="../../../../articles/g/l/a/Glacier_Peak_a75d.html" title="Glacier Peak">Glacier Peak</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

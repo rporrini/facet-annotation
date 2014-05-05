@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r10/l/i/s/List_of_gay_villages.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.41666666 1, 0.06666667 2, 0.06666667 0 2, 0.05555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_gay_villages.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name of village</th>]]></html>
+	<text>Name of village</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Reference</th>]]></html>
+	<text>Reference</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Le Village gai</td>]]></html>
+	<text>Le Village gai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montreal</td>]]></html>
+	<text>Montreal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[2]</td>]]></html>
+	<text>[2]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bank and Somerset</td>]]></html>
+	<text>Bank and Somerset</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ottawa</td>]]></html>
+	<text>Ottawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[3] [4]</td>]]></html>
+	<text>[3] [4]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Le Quartier gai</td>]]></html>
+	<text>Le Quartier gai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Quebec City</td>]]></html>
+	<text>Quebec City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[5]</td>]]></html>
+	<text>[5]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Church and Wellesley</td>]]></html>
+	<text>Church and Wellesley</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto</td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[6] [7]</td>]]></html>
+	<text>[6] [7]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Queen Street West</td>]]></html>
+	<text>Queen Street West</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto</td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[8]</td>]]></html>
+	<text>[8]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Parkdale</td>]]></html>
+	<text>Parkdale</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto</td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[9]</td>]]></html>
+	<text>[9]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cabbagetown</td>]]></html>
+	<text>Cabbagetown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto</td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[10]</td>]]></html>
+	<text>[10]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hanlan's Point Beach</td>]]></html>
+	<text>Hanlan&amp;apos;s Point Beach</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Toronto</td>]]></html>
+	<text>Toronto</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[11]</td>]]></html>
+	<text>[11]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Davie Village</td>]]></html>
+	<text>Davie Village</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver</td>]]></html>
+	<text>Vancouver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[12] [13] [14]</td>]]></html>
+	<text>[12] [13] [14]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Commercial Drive</td>]]></html>
+	<text>Commercial Drive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vancouver</td>]]></html>
+	<text>Vancouver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>[15]</td>]]></html>
+	<text>[15]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of gay villages - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name of village City Reference</text>
+</context>
+<context>
+	<score>0.88257533</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.78979194</score>
+	<text>List of gay villages</text>
+</context>
+<context>
+	<score>0.7856054</score>
+	<text>[ edit ] Brazil</text>
+</context>
+<context>
+	<score>0.75423276</score>
+	<text>[ edit ] France</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Australia</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Brazil</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] France</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Germany</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Japan</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Mexico</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] New Zealand</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] The Philippines</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Spain</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] United Kingdom</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] United States</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Other</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] Cities without gay villages</text>
+</context>
+<context>
+	<score>0.7160039</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71221596</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7080294</score>
+	<text>[ edit ] Australia</text>
+</context>
+<context>
+	<score>0.6421806</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.60743546</score>
+	<text>[ edit ] Germany</text>
+</context>
+<context>
+	<score>0.59631985</score>
+	<text>This is an incomplete list , which may never be able to satisfy certain standards for completeness. Revisions and sourced additions are welcome.</text>
+</context>
+<context>
+	<score>0.5566009</score>
+	<text>This is a list of gay villages , urban areas that unofficially form a social center for LGBT people.</text>
+</context>
+<context>
+	<score>0.52108425</score>
+	<text>[ edit ] Japan</text>
+</context>
+<context>
+	<score>0.52103794</score>
+	<text>The Gayborhood in Philadelphia</text>
+</context>
+<context>
+	<score>0.5035923</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4832562</score>
+	<text>List of gay villages</text>
+</context>
+<context>
+	<score>0.47028938</score>
+	<text>[ edit ] Mexico</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="width: 100%"><tr><th>Name of village</th><th>City</th><th>Reference</th></tr><tr><td><a href="../../../../articles/g/a/y/Gay_Village%2C_Montreal_474d.html" title="Gay Village, Montreal">Le Village gai</a></td><td><a href="../../../../articles/m/o/n/Montreal.html" title="Montreal">Montreal</a></td><td><sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup></td></tr><tr><td><a href="../../../../articles/b/a/n/Bank_Street_%28Ottawa%29_8f15.html" title="Bank Street (Ottawa)">Bank and Somerset</a></td><td><a href="../../../../articles/o/t/t/Ottawa.html" title="Ottawa">Ottawa</a></td><td><sup id="cite_ref-2" class="reference"><a href="#cite_note-2" title="">[3]</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3" title="">[4]</a></sup></td></tr><tr><td><a href="../../../../articles/g/a/y/Gay_Quarter_of_Quebec_City_d8ce.html" title="Gay Quarter of Quebec City">Le Quartier gai</a></td><td><a href="../../../../articles/q/u/e/Quebec_City_5f2c.html" title="Quebec City">Quebec City</a></td><td><sup id="cite_ref-4" class="reference"><a href="#cite_note-4" title="">[5]</a></sup></td></tr><tr><td><a href="../../../../articles/c/h/u/Church_and_Wellesley_b1cf.html" title="Church and Wellesley">Church and Wellesley</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a></td><td><sup id="cite_ref-5" class="reference"><a href="#cite_note-5" title="">[6]</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></td></tr><tr><td><a href="../../../../articles/q/u/e/Queen_Street_West_4516.html" title="Queen Street West">Queen Street West</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a></td><td><sup id="cite_ref-7" class="reference"><a href="#cite_note-7" title="">[8]</a></sup></td></tr><tr><td><a href="../../../../articles/p/a/r/Parkdale%2C_Toronto_d832.html" title="Parkdale, Toronto">Parkdale</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a></td><td><sup id="cite_ref-8" class="reference"><a href="#cite_note-8" title="">[9]</a></sup></td></tr><tr><td><a href="../../../../articles/c/a/b/Cabbagetown_%28Toronto%29_6bd4.html" class="mw-redirect" title="Cabbagetown (Toronto)">Cabbagetown</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a></td><td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9" title="">[10]</a></sup></td></tr><tr><td><a href="../../../../articles/h/a/n/Hanlan%27s_Point_Beach_be18.html" title="Hanlan's Point Beach">Hanlan's Point Beach</a></td><td><a href="../../../../articles/t/o/r/Toronto.html" title="Toronto">Toronto</a></td><td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10" title="">[11]</a></sup></td></tr><tr><td><a href="../../../../articles/d/a/v/Davie_Village_b4ce.html" title="Davie Village">Davie Village</a></td><td><a href="../../../../articles/v/a/n/Vancouver.html" title="Vancouver">Vancouver</a></td><td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11" title="">[12]</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12" title="">[13]</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13" title="">[14]</a></sup></td></tr><tr><td><a href="../../../../articles/c/o/m/Commercial_Drive_%28Vancouver%29_1426.html" class="mw-redirect" title="Commercial Drive (Vancouver)">Commercial Drive</a></td><td><a href="../../../../articles/v/a/n/Vancouver.html" title="Vancouver">Vancouver</a></td><td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14" title="">[15]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

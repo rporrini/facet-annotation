@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/l/i/s/List_of_birds_of_Thailand_4230.html_23.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.5555556 1 2, 0.4166667 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_birds_of_Thailand_4230.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Common name</th>]]></html>
+	<text>Common name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Binomial</th>]]></html>
+	<text>Binomial</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Black-tailed Gull</td>]]></html>
+	<text>Black-tailed Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus crassirostris</td>]]></html>
+	<text>Larus crassirostris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Very rare winter visitor</td>]]></html>
+	<text>Very rare winter visitor</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Common Gull</td>]]></html>
+	<text>Common Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus canus</td>]]></html>
+	<text>Larus canus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Accidental</td>]]></html>
+	<text>Accidental</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heuglin's Gull</td>]]></html>
+	<text>Heuglin&amp;apos;s Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus heuglini</td>]]></html>
+	<text>Larus heuglini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winter visitor</td>]]></html>
+	<text>Winter visitor</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Caspian Gull</td>]]></html>
+	<text>Caspian Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus cachinnans</td>]]></html>
+	<text>Larus cachinnans</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uncertain status</td>]]></html>
+	<text>Uncertain status</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Great Black-headed Gull</td>]]></html>
+	<text>Great Black-headed Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus ichthyaetus</td>]]></html>
+	<text>Larus ichthyaetus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Very rare winter visitor</td>]]></html>
+	<text>Very rare winter visitor</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brown-headed Gull</td>]]></html>
+	<text>Brown-headed Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus brunnicephalus</td>]]></html>
+	<text>Larus brunnicephalus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rare winter visitor</td>]]></html>
+	<text>Rare winter visitor</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Black-headed Gull</td>]]></html>
+	<text>Black-headed Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus ridibundus</td>]]></html>
+	<text>Larus ridibundus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winter visitor</td>]]></html>
+	<text>Winter visitor</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slender-billed Gull</td>]]></html>
+	<text>Slender-billed Gull</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Larus genei</td>]]></html>
+	<text>Larus genei</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Very rare winter visitor</td>]]></html>
+	<text>Very rare winter visitor</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of birds of Thailand - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Common name Binomial Status</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>uncommon winter visitor</text>
+</context>
+<context>
+	<score>0.7833487</score>
+	<text>List of birds of Thailand</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Heuglin&apos;s Gulls</text>
+</context>
+<context>
+	<score>0.75086534</score>
+	<text>[ edit ] Terns</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Grebes</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Shearwaters and petrels</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Storm-petrels</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Tropicbirds</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Pelicans</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Boobies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Cormorants</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Darters</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Frigatebirds</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Bitterns, herons and egrets</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Storks</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Ibises and spoonbills</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Ducks, geese and swans</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Osprey</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Eagles, kites and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Falcons</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Pheasants and partridges</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Buttonquails</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Cranes</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Rails, crakes, gallinules, and coots</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Finfoot</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Jacanas</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Painted snipe</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Crab Plover</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Avocets and stilts</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Thick-knees</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Pratincoles and coursers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Plovers and lapwings</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Sandpipers and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Skuas</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Gulls</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Terns</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Skimmers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Pigeons and doves</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Parrots</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Cuckoos</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Barn owls</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Typical owls</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Frogmouths</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Nightjars</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Swifts</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Treeswifts</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Trogons</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Kingfishers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Bee-eaters</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Typical rollers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Hoopoe</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Hornbills</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Barbets</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Honeyguides</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Woodpeckers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Broadbills</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Pittas</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Larks</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Swallows and martins</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Wagtails and pipits</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Cuckoo-shrikes and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Rail-babbler</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Bulbuls</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Leafbirds</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Ioras</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Dippers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Thrushes and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Cisticolas and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Old World warblers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Old World flycatchers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Fantails</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Monarch flycatchers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Whistlers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Babblers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Parrotbills</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Long-tailed tits</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Thornbills and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Tits</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Nuthatches</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Treecreepers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Penduline tits</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Sunbirds and spiderhunters</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Flowerpeckers</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] White-eyes</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Old World orioles</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Fairy-bluebirds</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Shrikes</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Helmetshrikes</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Drongos</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Woodswallows</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Crows and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Starlings</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Weavers and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Waxbills and allies</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Buntings</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Finches</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] Sparrows</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7061927</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.70466214</score>
+	<text>Laridae is a family of medium to large birds seabirds and includes gulls and kittiwakes . They are typically grey or white, often with black markings on the head or wings. They have stout, longish bills and webbed feet. There are 55 species worldwide of which eight occur in Thailand.</text>
+</context>
+<context>
+	<score>0.6426015</score>
+	<text>Order : Charadriiformes Family : Laridae</text>
+</context>
+<context>
+	<score>0.60406864</score>
+	<text>Order : Charadriiformes Family : Sternidae</text>
+</context>
+<context>
+	<score>0.592953</score>
+	<text>[ edit ] Gulls</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>The family Stercorariidae are, in general, medium to large birds, typically with grey or brown plumage, often with white markings on the wings. They nest on the ground in temperate and arctic regions and are long-distance migrants. There are seven species worldwide of which three occur in Thailand.</text>
+</context>
+<context>
+	<score>0.5214592</score>
+	<text>Order : Charadriiformes Family : Stercorariidae</text>
+</context>
+<context>
+	<score>0.51771766</score>
+	<text>Terns are a group of generally general medium to large sea-birds typically with grey or white plumage, often with black markings on the head. Most terns hunt fish by diving but some pick insects off the surface of fresh water. Terns are generally long-lived birds, with several species now known to live in excess of 25 to 30 years. There are 44 species worldwide of which 16 occur in Thailand.</text>
+</context>
+<context>
+	<score>0.49603918</score>
+	<text>[ edit ] Skuas</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>very common winter visitor</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Whiskered Tern</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Red-necked Stints</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table width="72%" class="wikitable"><tr><th width="24%">Common name</th><th width="24%">Binomial</th><th width="24%">Status</th></tr><tr><td><a href="../../../../articles/b/l/a/Black-tailed_Gull_9dec.html" title="Black-tailed Gull">Black-tailed Gull</a></td><td><i>Larus crassirostris</i></td><td>Very rare winter visitor</td></tr><tr><td><a href="../../../../articles/c/o/m/Common_Gull_c074.html" title="Common Gull">Common Gull</a></td><td><i>Larus canus</i></td><td>Accidental</td></tr><tr><td><a href="../../../../articles/h/e/u/Heuglin%27s_Gull_7d3b.html" title="Heuglin's Gull">Heuglin's Gull</a></td><td><i>Larus heuglini</i></td><td>Winter visitor</td></tr><tr><td><a href="../../../../articles/c/a/s/Caspian_Gull_506d.html" title="Caspian Gull">Caspian Gull</a></td><td><i>Larus cachinnans</i></td><td>Uncertain status</td></tr><tr><td><a href="../../../../articles/g/r/e/Great_Black-headed_Gull_1a92.html" title="Great Black-headed Gull">Great Black-headed Gull</a></td><td><i>Larus ichthyaetus</i></td><td>Very rare winter visitor</td></tr><tr><td><a href="../../../../articles/b/r/o/Brown-headed_Gull_43ea.html" title="Brown-headed Gull">Brown-headed Gull</a></td><td><i>Larus brunnicephalus</i></td><td>Rare winter visitor</td></tr><tr><td><a href="../../../../articles/b/l/a/Black-headed_Gull_d6d0.html" title="Black-headed Gull">Black-headed Gull</a></td><td><i>Larus ridibundus</i></td><td>Winter visitor</td></tr><tr><td><a href="../../../../articles/s/l/e/Slender-billed_Gull_6446.html" title="Slender-billed Gull">Slender-billed Gull</a></td><td><i>Larus genei</i></td><td>Very rare winter visitor</td></tr></table>]]>
+</htmlSnippet>
+</entity>

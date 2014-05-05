@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/e/c/o/Economy_of_the_Middle_East_f307.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.175 2, 0.175 1 2, 0.15 3, 0.15 1 3, 0.125 0, 0.125 0 1, 0.02625 2 3, 0.021875 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/e/c/o/Economy_of_the_Middle_East_f307.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GDP Per Capita</th>]]></html>
+	<text>GDP Per Capita</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GDP (PPP) Total ($US BN)</th>]]></html>
+	<text>GDP (PPP) Total ($US BN)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Arab Emirates</td>]]></html>
+	<text>United Arab Emirates</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 49,700</td>]]></html>
+	<text>$ 49,700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 129,500</td>]]></html>
+	<text>$ 129,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qatar</td>]]></html>
+	<text>Qatar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 29,800</td>]]></html>
+	<text>$ 29,800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 26,370</td>]]></html>
+	<text>$ 26,370</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Israel</td>]]></html>
+	<text>Israel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 26,800</td>]]></html>
+	<text>$ 26,800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 170,300</td>]]></html>
+	<text>$ 170,300</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bahrain</td>]]></html>
+	<text>Bahrain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 25,800</td>]]></html>
+	<text>$ 25,800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 18,020</td>]]></html>
+	<text>$ 18,020</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kuwait</td>]]></html>
+	<text>Kuwait</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 23,100</td>]]></html>
+	<text>$ 23,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 55,910</td>]]></html>
+	<text>$ 55,910</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oman</td>]]></html>
+	<text>Oman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 14,400</td>]]></html>
+	<text>$ 14,400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 44,530</td>]]></html>
+	<text>$ 44,530</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Saudi Arabia</td>]]></html>
+	<text>Saudi Arabia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 13,600</td>]]></html>
+	<text>$ 13,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 366,200</td>]]></html>
+	<text>$ 366,200</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Economy of the Middle East - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Country GDP Per Capita GDP (PPP) Total ($US BN)</text>
+</context>
+<context>
+	<score>0.89007944</score>
+	<text>List of The Middle Eastern Countries by GDP (PPP) Per Capita , and total GDP (PPP) , according to the CIA data of 2006.</text>
+</context>
+<context>
+	<score>0.8190988</score>
+	<text>Economy of the Middle East</text>
+</context>
+<context>
+	<score>0.7927879</score>
+	<text>The Economy of the Middle East is composed of the countries of Southwest Asia and Egypt, namely: Afghanistan , Armenia , Azerbaijan , Bahrain , Egypt , Georgia , Iran , Iraq , Israel , Jordan , Kuwait , Lebanon , Oman , Pakistan , Qatar , Saudi Arabia , Syria , Turkey , United Arab Emirates , and Yemen .</text>
+</context>
+<context>
+	<score>0.76131135</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7529593</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71495485</score>
+	<text>It has been suggested that The wealthiest countries in the Middle East be merged into this article or section. (Discuss)</text>
+</context>
+<context>
+	<score>0.64099467</score>
+	<text>This article or section needs to be updated. Please update the article to reflect recent events / newly available information, and remove this template when finished.</text>
+</context>
+<context>
+	<score>0.62918586</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5893353</score>
+	<text>Economy of the Middle East</text>
+</context>
+<context>
+	<score>0.52739006</score>
+	<text>This Middle East -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.47642687</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Country</th><th>GDP Per<br />Capita</th><th>GDP (PPP)<br />Total ($US BN)</th></tr><tr><td>1</td><td><a href="../../../../articles/u/n/i/United_Arab_Emirates_edab.html" title="United Arab Emirates">United Arab Emirates</a></td><td align="right">$ 49,700</td><td align="right">$ 129,500</td></tr><tr><td>2</td><td><a href="../../../../articles/q/a/t/Qatar.html" title="Qatar">Qatar</a></td><td align="right">$ 29,800</td><td align="right">$ 26,370</td></tr><tr><td>3</td><td><a href="../../../../articles/i/s/r/Israel.html" title="Israel">Israel</a></td><td align="right">$ 26,800</td><td align="right">$ 170,300</td></tr><tr><td>4</td><td><a href="../../../../articles/b/a/h/Bahrain.html" title="Bahrain">Bahrain</a></td><td align="right">$ 25,800</td><td align="right">$ 18,020</td></tr><tr><td>5</td><td><a href="../../../../articles/k/u/w/Kuwait.html" title="Kuwait">Kuwait</a></td><td align="right">$ 23,100</td><td align="right">$ 55,910</td></tr><tr><td>6</td><td><a href="../../../../articles/o/m/a/Oman.html" title="Oman">Oman</a></td><td align="right">$ 14,400</td><td align="right">$ 44,530</td></tr><tr><td>7</td><td><a href="../../../../articles/s/a/u/Saudi_Arabia_53d2.html" title="Saudi Arabia">Saudi Arabia</a></td><td align="right">$ 13,600</td><td align="right">$ 366,200</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/o/r/e/Oregon_University_System_8ef3.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.15 2, 0.15 0 2, 0.13125001 1 2, 0.125 3, 0.125 0 3, 0.109375 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/o/r/e/Oregon_University_System_8ef3.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Established</th>]]></html>
+	<text>Established</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Enrollment</th>]]></html>
+	<text>Enrollment</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eastern Oregon University</td>]]></html>
+	<text>Eastern Oregon University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>La Grande</td>]]></html>
+	<text>La Grande</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1929</td>]]></html>
+	<text>1929</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3433 3,433</td>]]></html>
+	<text>3433 3,433</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon Institute of Technology</td>]]></html>
+	<text>Oregon Institute of Technology</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Klamath Falls</td>]]></html>
+	<text>Klamath Falls</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1947</td>]]></html>
+	<text>1947</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3318 3,318</td>]]></html>
+	<text>3318 3,318</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon State University</td>]]></html>
+	<text>Oregon State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Corvallis</td>]]></html>
+	<text>Corvallis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1868</td>]]></html>
+	<text>1868</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20250 20,250</td>]]></html>
+	<text>20250 20,250</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portland State University</td>]]></html>
+	<text>Portland State University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portland</td>]]></html>
+	<text>Portland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1946</td>]]></html>
+	<text>1946</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24999 24,999</td>]]></html>
+	<text>24999 24,999</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Southern Oregon University</td>]]></html>
+	<text>Southern Oregon University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ashland</td>]]></html>
+	<text>Ashland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1926</td>]]></html>
+	<text>1926</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4836 4,836</td>]]></html>
+	<text>4836 4,836</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>University of Oregon</td>]]></html>
+	<text>University of Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eugene</td>]]></html>
+	<text>Eugene</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1876</td>]]></html>
+	<text>1876</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20376 20,376</td>]]></html>
+	<text>20376 20,376</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Western Oregon University</td>]]></html>
+	<text>Western Oregon University</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Monmouth</td>]]></html>
+	<text>Monmouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1856</td>]]></html>
+	<text>1856</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5037 5,037</td>]]></html>
+	<text>5037 5,037</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Oregon University System - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Location Established Enrollment</text>
+</context>
+<context>
+	<score>0.88924414</score>
+	<text>[ edit ] Constituent universities</text>
+</context>
+<context>
+	<score>0.81149787</score>
+	<text>Oregon University System</text>
+</context>
+<context>
+	<score>0.7919527</score>
+	<text>The Oregon University System (OUS) consists of seven public , four-year universities in the State of Oregon administered by the Chancellor of the OUS, who is appointed by the Oregon State Board of Higher Education . The current Chancellor is George Pernsteiner, formerly Vice Chancellor of Administrative Services at the University of California, Santa Barbara , Vice President of Finance and Administration at Portland State University and Associate Vice Chancellor at OUS. He was instated in this capacity in June of 2004.</text>
+</context>
+<context>
+	<score>0.7496177</score>
+	<text>OUS also has one affiliate institution:</text>
+</context>
+<context>
+	<score>0.7445231</score>
+	<text>[ edit ] Constituent universities</text>
+</context>
+<context>
+	<score>0.7445231</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71411955</score>
+	<text>&quot;OUS&quot; redirects here. For the Ohio University branch campus in Ironton, Ohio , see Ohio University Southern Campus .</text>
+</context>
+<context>
+	<score>0.67139816</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.621585</score>
+	<text>Oregon University System</text>
+</context>
+<context>
+	<score>0.5265548</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Name</th><th>Location</th><th>Established</th><th>Enrollment</th></tr><tr><td><a href="../../../../articles/e/a/s/Eastern_Oregon_University_6c9a.html" title="Eastern Oregon University">Eastern Oregon University</a></td><td><a href="../../../../articles/l/a/_/La_Grande%2C_Oregon_e385.html" title="La Grande, Oregon">La Grande</a></td><td>1929</td><td><span style="display:none">3433</span>3,433</td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon_Institute_of_Technology_940f.html" title="Oregon Institute of Technology">Oregon Institute of Technology</a></td><td><a href="../../../../articles/k/l/a/Klamath_Falls%2C_Oregon_e62c.html" title="Klamath Falls, Oregon">Klamath Falls</a></td><td>1947</td><td><span style="display:none">3318</span>3,318</td></tr><tr><td><a href="../../../../articles/o/r/e/Oregon_State_University_003e.html" title="Oregon State University">Oregon State University</a></td><td><a href="../../../../articles/c/o/r/Corvallis%2C_Oregon_1068.html" title="Corvallis, Oregon">Corvallis</a></td><td>1868</td><td><span style="display:none">20250</span>20,250</td></tr><tr><td><a href="../../../../articles/p/o/r/Portland_State_University_8898.html" title="Portland State University">Portland State University</a></td><td><a href="../../../../articles/p/o/r/Portland%2C_Oregon_1e41.html" title="Portland, Oregon">Portland</a></td><td>1946</td><td><span style="display:none">24999</span>24,999</td></tr><tr><td><a href="../../../../articles/s/o/u/Southern_Oregon_University_860f.html" title="Southern Oregon University">Southern Oregon University</a></td><td><a href="../../../../articles/a/s/h/Ashland%2C_Oregon_b674.html" title="Ashland, Oregon">Ashland</a></td><td>1926</td><td><span style="display:none">4836</span>4,836</td></tr><tr><td><a href="../../../../articles/u/n/i/University_of_Oregon_e9d2.html" title="University of Oregon">University of Oregon</a></td><td><a href="../../../../articles/e/u/g/Eugene%2C_Oregon_1214.html" title="Eugene, Oregon">Eugene</a></td><td>1876</td><td><span style="display:none">20376</span>20,376</td></tr><tr><td><a href="../../../../articles/w/e/s/Western_Oregon_University_b7ac.html" title="Western Oregon University">Western Oregon University</a></td><td><a href="../../../../articles/m/o/n/Monmouth%2C_Oregon_01b3.html" title="Monmouth, Oregon">Monmouth</a></td><td>1856</td><td><span style="display:none">5037</span>5,037</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san09-data3-repo/attrParsedPage/out_data_430/dir8/file40567_0_cols1_rows6.xml" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>Text</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td>Aston Martin DB - 5</td>]]></html>
+	<text>Aston Martin DB - 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Goldfinger"</td>]]></html>
+	<text>&amp;quot;Goldfinger&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aston Martin</td>]]></html>
+	<text>Aston Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Die Another Day"</td>]]></html>
+	<text>&amp;quot;Die Another Day&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jaguar XKR</td>]]></html>
+	<text>Jaguar XKR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Die Another Day"</td>]]></html>
+	<text>&amp;quot;Die Another Day&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mustang Mach 1</td>]]></html>
+	<text>Mustang Mach 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"Diamonds Are Forever"</td>]]></html>
+	<text>&amp;quot;Diamonds Are Forever&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chevrolet Corvette</td>]]></html>
+	<text>Chevrolet Corvette</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"A View To Kill"</td>]]></html>
+	<text>&amp;quot;A View To Kill&amp;quot;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lotus Esprit</td>]]></html>
+	<text>Lotus Esprit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>"The Spy Who Loved Me"</td>]]></html>
+	<text>&amp;quot;The Spy Who Loved Me&amp;quot;</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td>Aston Martin DB - 5</td>
+<td>&quot;Goldfinger&quot;</td>
+</tr><tr><td>Aston Martin</td>
+<td>&quot;Die Another Day&quot;</td>
+</tr><tr><td>Jaguar XKR</td>
+<td>&quot;Die Another Day&quot;</td>
+</tr><tr><td>Mustang Mach 1</td>
+<td>&quot;Diamonds Are Forever&quot;</td>
+</tr><tr><td>Chevrolet Corvette</td>
+<td>&quot;A View To Kill&quot;</td>
+</tr><tr><td>Lotus Esprit</td>
+<td>&quot;The Spy Who Loved Me&quot;</td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

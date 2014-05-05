@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san15-data3-repo/attrParsedPage/out_data_422/dir50/file273143_0_cols1_rows6.xml" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joseph - Louis Lagrange</td>]]></html>
+	<text>Joseph - Louis Lagrange</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Joseph JÃÂ©rÃÂ´me LefranÃÂ§ais de Lalande</td>]]></html>
+	<text>Joseph J&#195;&#131;&#194;&#169;r&#195;&#131;&#194;&#180;me Lefran&#195;&#131;&#194;&#167;ais de Lalande</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Astronomers</td>]]></html>
+	<text>Astronomers</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jean - Charles de Borda</td>]]></html>
+	<text>Jean - Charles de Borda</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jean - Nicolas Buache</td>]]></html>
+	<text>Jean - Nicolas Buache</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>geographer</td>]]></html>
+	<text>geographer</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NoÃÂ«l Simon CarochÃÂ©</td>]]></html>
+	<text>No&#195;&#131;&#194;&#171;l Simon Caroch&#195;&#131;&#194;&#169;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>manufacturer of telescopes</td>]]></html>
+	<text>manufacturer of telescopes</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td></td>
+<td>Joseph - Louis Lagrange</td>
+<td></td>
+</tr><tr><td></td>
+<td>Joseph JÃÂ©rÃÂ´me LefranÃÂ§ais de Lalande</td>
+<td>Astronomers</td>
+</tr><tr><td></td>
+<td>Jean - Charles de Borda</td>
+<td></td>
+</tr><tr><td></td>
+<td>Jean - Nicolas Buache</td>
+<td>geographer</td>
+</tr><tr><td></td>
+<td></td>
+<td></td>
+</tr><tr><td></td>
+<td>NoÃÂ«l Simon CarochÃÂ©</td>
+<td>manufacturer of telescopes</td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

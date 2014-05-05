@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r20/l/i/s/List_of_the_busiest_airports_in_Canada_e31e.html_2.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9 2, 0.9 1 2, 0.16000001 3, 0.16000001 1 3, 0.144 2 3, 0.14 0, 0.14 0 1, 0.126 0 2, 0.060000002 1 4, 0.057 4, 0.054 2 4, 0.022400001 0 3, 0.009600001 3 4, 0.008400001 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_the_busiest_airports_in_Canada_e31e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport</th>]]></html>
+	<text>Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Movements</th>]]></html>
+	<text>Movements</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Annual change</th>]]></html>
+	<text>Annual change</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort McMurray Airport</td>]]></html>
+	<text>Fort McMurray Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort McMurray , Alberta</td>]]></html>
+	<text>Fort McMurray , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68,924</td>]]></html>
+	<text>68,924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.1%</td>]]></html>
+	<text>9.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Bay/Jack Garland Airport</td>]]></html>
+	<text>North Bay/Jack Garland Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Bay , Ontario</td>]]></html>
+	<text>North Bay , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52,490</td>]]></html>
+	<text>52,490</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.0%</td>]]></html>
+	<text>6.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Victoria Airport Water Aerodrome</td>]]></html>
+	<text>Victoria Airport Water Aerodrome</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Victoria , British Columbia</td>]]></html>
+	<text>Victoria , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,271</td>]]></html>
+	<text>44,271</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.1%</td>]]></html>
+	<text>3.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red Deer Regional Airport</td>]]></html>
+	<text>Red Deer Regional Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Red Deer , Alberta</td>]]></html>
+	<text>Red Deer , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44,053</td>]]></html>
+	<text>44,053</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.7%</td>]]></html>
+	<text>2.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kamloops Airport</td>]]></html>
+	<text>Kamloops Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kamloops , British Columbia</td>]]></html>
+	<text>Kamloops , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,491</td>]]></html>
+	<text>40,491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-2.8%</td>]]></html>
+	<text>-2.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Catharines/Niagara District Airport</td>]]></html>
+	<text>St. Catharines/Niagara District Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Niagara-on-the-Lake , Ontario</td>]]></html>
+	<text>Niagara-on-the-Lake , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39,007</td>]]></html>
+	<text>39,007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.2%</td>]]></html>
+	<text>5.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grande Prairie Airport</td>]]></html>
+	<text>Grande Prairie Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Prairie , Alberta</td>]]></html>
+	<text>Grand Prairie , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38,847</td>]]></html>
+	<text>38,847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-17.8%</td>]]></html>
+	<text>-17.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campbell River Airport</td>]]></html>
+	<text>Campbell River Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campbell River , British Columbia</td>]]></html>
+	<text>Campbell River , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36,673</td>]]></html>
+	<text>36,673</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.8%</td>]]></html>
+	<text>9.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Penticton Regional Airport</td>]]></html>
+	<text>Penticton Regional Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Penticton , British Columbia</td>]]></html>
+	<text>Penticton , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,665</td>]]></html>
+	<text>34,665</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.5%</td>]]></html>
+	<text>0.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kingston/Norman Rogers Airport</td>]]></html>
+	<text>Kingston/Norman Rogers Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kingston , Ontario</td>]]></html>
+	<text>Kingston , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,139</td>]]></html>
+	<text>34,139</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.2%</td>]]></html>
+	<text>5.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greater Fredericton Airport</td>]]></html>
+	<text>Greater Fredericton Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fredericton , New Brunswick</td>]]></html>
+	<text>Fredericton , New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34,078</td>]]></html>
+	<text>34,078</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.5%</td>]]></html>
+	<text>37.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thompson Airport</td>]]></html>
+	<text>Thompson Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thompson , Manitoba</td>]]></html>
+	<text>Thompson , Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,955</td>]]></html>
+	<text>33,955</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.5%</td>]]></html>
+	<text>9.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nanaimo Airport</td>]]></html>
+	<text>Nanaimo Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nanaimo , British Columbia</td>]]></html>
+	<text>Nanaimo , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33,855</td>]]></html>
+	<text>33,855</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1%</td>]]></html>
+	<text>2.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sioux Lookout Airport</td>]]></html>
+	<text>Sioux Lookout Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sioux Lookout , Ontario</td>]]></html>
+	<text>Sioux Lookout , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,782</td>]]></html>
+	<text>31,782</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-2.0%</td>]]></html>
+	<text>-2.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Whitecourt Airport</td>]]></html>
+	<text>Whitecourt Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Whitecourt , Alberta</td>]]></html>
+	<text>Whitecourt , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,633</td>]]></html>
+	<text>31,633</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.4%</td>]]></html>
+	<text>17.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gatineau-Ottawa Executive Airport</td>]]></html>
+	<text>Gatineau-Ottawa Executive Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gatineau , Quebec</td>]]></html>
+	<text>Gatineau , Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31,225</td>]]></html>
+	<text>31,225</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.8%</td>]]></html>
+	<text>0.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lethbridge County Airport</td>]]></html>
+	<text>Lethbridge County Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lethbridge , Alberta</td>]]></html>
+	<text>Lethbridge , Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,358</td>]]></html>
+	<text>30,358</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-0.9%</td>]]></html>
+	<text>-0.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort St. John Airport</td>]]></html>
+	<text>Fort St. John Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fort St. John , British Columbia</td>]]></html>
+	<text>Fort St. John , British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28,779</td>]]></html>
+	<text>28,779</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-19.0%</td>]]></html>
+	<text>-19.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlottetown Airport</td>]]></html>
+	<text>Charlottetown Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlottetown , Prince Edward Island</td>]]></html>
+	<text>Charlottetown , Prince Edward Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27,121</td>]]></html>
+	<text>27,121</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>58.7%</td>]]></html>
+	<text>58.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Timmins Airport</td>]]></html>
+	<text>Timmins Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Timmins , Ontario</td>]]></html>
+	<text>Timmins , Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26,576</td>]]></html>
+	<text>26,576</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-2.3%</td>]]></html>
+	<text>-2.3%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of the busiest airports in Canada - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Airport Location Movements Annual change</text>
+</context>
+<context>
+	<score>0.88362944</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements (FSS) [1]</text>
+</context>
+<context>
+	<score>0.79688925</score>
+	<text>List of the busiest airports in Canada</text>
+</context>
+<context>
+	<score>0.7866213</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements (ATC) [1]</text>
+</context>
+<context>
+	<score>0.75523627</score>
+	<text>[ edit ] 2006</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] 2007</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] 2006</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] 2005</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72417235</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7192828</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7090148</score>
+	<text>[ edit ] Comparison of the 5 busiest airports by domestic, transborder and international passenger traffic</text>
+</context>
+<context>
+	<score>0.6469296</score>
+	<text>[ edit ] Comparison of 10 of Canada&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.6083815</score>
+	<text>[ edit ] Comparison of 10 of Canada&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.5972614</score>
+	<text>[ edit ] 2007</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5257394</score>
+	<text>busiest airport overall. Greater Moncton International Airport (61.0%), Charlottetown Airport (58.7%) and Gander International Airport (44.7%) posted the largest gains in terms of movements. At the same time Rouyn-Noranda Airport (-22.8%), Peace River Airport (-23.4%) and La Ronge (Barber Field) Airport (-24.2%) posted the biggest losses.</text>
+</context>
+<context>
+	<score>0.52199626</score>
+	<text>[ edit ] Comparison of the 5 busiest airports by domestic, transborder and international passenger traffic</text>
+</context>
+<context>
+	<score>0.4954197</score>
+	<text>rd</text>
+</context>
+<context>
+	<score>0.47996515</score>
+	<text>busiest airport in Canada and the busiest airport without a control tower . Vancouver Harbour Water Airport , the only water based airport in Canada to have a control tower, Vancouver Harbour Control Tower , with 63,713 movements is the 33</text>
+</context>
+<context>
+	<score>0.47118145</score>
+	<text>[ edit ] Canada&apos;s 20 busiest airports by aircraft movements [15]</text>
+</context>
+<context>
+	<score>0.45880038</score>
+	<text>st</text>
+</context>
+<context>
+	<score>0.45066968</score>
+	<text>Some airports of note are Fort McMurray Airport with 68,924 movements making it the 31</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Rank</th><th>Airport</th><th>Location</th><th>Movements</th><th>Annual<br />change</th></tr><tr><td>1</td><td><a href="../../../../articles/f/o/r/Fort_McMurray_Airport_b43e.html" title="Fort McMurray Airport">Fort McMurray Airport</a></td><td><a href="../../../../articles/f/o/r/Fort_McMurray_1ea0.html" title="Fort McMurray">Fort McMurray</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>68,924</td><td>9.1%</td></tr><tr><td>2</td><td><a href="../../../../articles/n/o/r/North_Bay_Jack_Garland_Airport_8eeb.html" title="North Bay/Jack Garland Airport">North Bay/Jack Garland Airport</a></td><td><a href="../../../../articles/n/o/r/North_Bay%2C_Ontario_5f6e.html" title="North Bay, Ontario">North Bay</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>52,490</td><td>6.0%</td></tr><tr><td>3</td><td><a href="../../../../articles/v/i/c/Victoria_Airport_Water_Aerodrome_584d.html" title="Victoria Airport Water Aerodrome">Victoria Airport Water Aerodrome</a></td><td><a href="../../../../articles/v/i/c/Victoria%2C_British_Columbia_4e57.html" title="Victoria, British Columbia">Victoria</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>44,271</td><td>3.1%</td></tr><tr><td>4</td><td><a href="../../../../articles/r/e/d/Red_Deer_Regional_Airport_387b.html" title="Red Deer Regional Airport">Red Deer Regional Airport</a></td><td><a href="../../../../articles/r/e/d/Red_Deer%2C_Alberta_5e5f.html" title="Red Deer, Alberta">Red Deer</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>44,053</td><td>2.7%</td></tr><tr><td>5</td><td><a href="../../../../articles/k/a/m/Kamloops_Airport_5c2d.html" title="Kamloops Airport">Kamloops Airport</a></td><td><a href="../../../../articles/k/a/m/Kamloops.html" title="Kamloops">Kamloops</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>40,491</td><td>-2.8%</td></tr><tr><td>6</td><td><a href="../../../../articles/s/t/2E/St._Catharines_Niagara_District_Airport_2154.html" title="St. Catharines/Niagara District Airport">St. Catharines/Niagara District Airport</a></td><td><a href="../../../../articles/n/i/a/Niagara-on-the-Lake%2C_Ontario_faf6.html" title="Niagara-on-the-Lake, Ontario">Niagara-on-the-Lake</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>39,007</td><td>5.2%</td></tr><tr><td>7</td><td><a href="../../../../articles/g/r/a/Grande_Prairie_Airport_2a7e.html" title="Grande Prairie Airport">Grande Prairie Airport</a></td><td><a href="../../../../articles/g/r/a/Grande_Prairie%2C_Alberta_4c15.html" title="Grande Prairie, Alberta">Grand Prairie</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>38,847</td><td>-17.8%</td></tr><tr><td>8</td><td><a href="../../../../articles/c/a/m/Campbell_River_Airport_bc5e.html" title="Campbell River Airport">Campbell River Airport</a></td><td><a href="../../../../articles/c/a/m/Campbell_River%2C_British_Columbia_0d90.html" title="Campbell River, British Columbia">Campbell River</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>36,673</td><td>9.8%</td></tr><tr><td>9</td><td><a href="../../../../articles/p/e/n/Penticton_Regional_Airport_cddd.html" title="Penticton Regional Airport">Penticton Regional Airport</a></td><td><a href="../../../../articles/p/e/n/Penticton.html" title="Penticton">Penticton</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>34,665</td><td>0.5%</td></tr><tr><td>10</td><td><a href="../../../../articles/k/i/n/Kingston_Norman_Rogers_Airport_e6a9.html" title="Kingston/Norman Rogers Airport">Kingston/Norman Rogers Airport</a></td><td><a href="../../../../articles/k/i/n/Kingston.html" title="Kingston">Kingston</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>34,139</td><td>5.2%</td></tr><tr><td>11</td><td><a href="../../../../articles/g/r/e/Greater_Fredericton_Airport_e8c5.html" title="Greater Fredericton Airport">Greater Fredericton Airport</a></td><td><a href="../../../../articles/f/r/e/Fredericton.html" title="Fredericton">Fredericton</a>, <a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td>34,078</td><td>37.5%</td></tr><tr><td>12</td><td><a href="../../../../articles/t/h/o/Thompson_Airport_086a.html" title="Thompson Airport">Thompson Airport</a></td><td><a href="../../../../articles/t/h/o/Thompson%2C_Manitoba_aad9.html" title="Thompson, Manitoba">Thompson</a>, <a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>33,955</td><td>9.5%</td></tr><tr><td>13</td><td><a href="../../../../articles/n/a/n/Nanaimo_Airport_eeaf.html" title="Nanaimo Airport">Nanaimo Airport</a></td><td><a href="../../../../articles/n/a/n/Nanaimo%2C_British_Columbia_f380.html" title="Nanaimo, British Columbia">Nanaimo</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>33,855</td><td>2.1%</td></tr><tr><td>14</td><td><a href="../../../../articles/s/i/o/Sioux_Lookout_Airport_e90e.html" title="Sioux Lookout Airport">Sioux Lookout Airport</a></td><td><a href="../../../../articles/s/i/o/Sioux_Lookout%2C_Ontario_d79c.html" title="Sioux Lookout, Ontario">Sioux Lookout</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>31,782</td><td>-2.0%</td></tr><tr><td>15</td><td><a href="../../../../articles/w/h/i/Whitecourt_Airport_4ebc.html" title="Whitecourt Airport">Whitecourt Airport</a></td><td><a href="../../../../articles/w/h/i/Whitecourt%2C_Alberta_76f6.html" title="Whitecourt, Alberta">Whitecourt</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>31,633</td><td>17.4%</td></tr><tr><td>16</td><td><a href="../../../../articles/g/a/t/Gatineau-Ottawa_Executive_Airport_5c38.html" title="Gatineau-Ottawa Executive Airport">Gatineau-Ottawa Executive Airport</a></td><td><a href="../../../../articles/g/a/t/Gatineau.html" title="Gatineau">Gatineau</a>, <a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>31,225</td><td>0.8%</td></tr><tr><td>17</td><td><a href="../../../../articles/l/e/t/Lethbridge_County_Airport_0f6e.html" title="Lethbridge County Airport">Lethbridge County Airport</a></td><td><a href="../../../../articles/l/e/t/Lethbridge.html" title="Lethbridge">Lethbridge</a>, <a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>30,358</td><td>-0.9%</td></tr><tr><td>18</td><td><a href="../../../../articles/f/o/r/Fort_St._John_Airport_1d56.html" title="Fort St. John Airport">Fort St. John Airport</a></td><td><a href="../../../../articles/f/o/r/Fort_St._John%2C_British_Columbia_fb64.html" title="Fort St. John, British Columbia">Fort St. John</a>, <a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>28,779</td><td>-19.0%</td></tr><tr><td>19</td><td><a href="../../../../articles/c/h/a/Charlottetown_Airport_32c9.html" title="Charlottetown Airport">Charlottetown Airport</a></td><td><a href="../../../../articles/c/h/a/Charlottetown.html" title="Charlottetown">Charlottetown</a>, <a href="../../../../articles/p/r/i/Prince_Edward_Island_24cf.html" title="Prince Edward Island">Prince Edward Island</a></td><td>27,121</td><td>58.7%</td></tr><tr><td>20</td><td><a href="../../../../articles/t/i/m/Timmins_Airport_e144.html" title="Timmins Airport">Timmins Airport</a></td><td><a href="../../../../articles/t/i/m/Timmins%2C_Ontario_e9fe.html" title="Timmins, Ontario">Timmins</a>, <a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>26,576</td><td>-2.3%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

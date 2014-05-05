@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r14/h/u/n/Huntington_Heroes_fe97.html_1.xml" />
+<meta name="primaryKey" value="0.8125 1 2, 0.5714286 1, 0.15 0, 0.15 0 1, 0.13125001 0 2, 0.125 2, 0.125 1 3, 0.10714286 3, 0.09375 2 3, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/h/u/n/Huntington_Heroes_fe97.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponent</th>]]></html>
+	<text>Opponent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Home / Away</th>]]></html>
+	<text>Home / Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Result</th>]]></html>
+	<text>Result</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 15</td>]]></html>
+	<text>March 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florida Stingrays</td>]]></html>
+	<text>Florida Stingrays</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 56-9</td>]]></html>
+	<text>Won 56-9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 21</td>]]></html>
+	<text>March 21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florence Phantoms</td>]]></html>
+	<text>Florence Phantoms</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 47-32</td>]]></html>
+	<text>Won 47-32</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>March 29</td>]]></html>
+	<text>March 29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carolina Speed</td>]]></html>
+	<text>Carolina Speed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 40-35</td>]]></html>
+	<text>Won 40-35</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 5</td>]]></html>
+	<text>April 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reading Express</td>]]></html>
+	<text>Reading Express</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 38-57</td>]]></html>
+	<text>Lost 38-57</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 11</td>]]></html>
+	<text>April 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erie RiverRats</td>]]></html>
+	<text>Erie RiverRats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 54-24</td>]]></html>
+	<text>Won 54-24</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 19</td>]]></html>
+	<text>April 19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canton Legends</td>]]></html>
+	<text>Canton Legends</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 49-6</td>]]></html>
+	<text>Won 49-6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>April 25</td>]]></html>
+	<text>April 25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Florence Phantoms</td>]]></html>
+	<text>Florence Phantoms</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 12-66</td>]]></html>
+	<text>Lost 12-66</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May 3</td>]]></html>
+	<text>May 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fayetteville Guard</td>]]></html>
+	<text>Fayetteville Guard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 26-34</td>]]></html>
+	<text>Lost 26-34</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May 9</td>]]></html>
+	<text>May 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erie RiverRats</td>]]></html>
+	<text>Erie RiverRats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 43-47</td>]]></html>
+	<text>Lost 43-47</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May 17</td>]]></html>
+	<text>May 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Erie RiverRats</td>]]></html>
+	<text>Erie RiverRats</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lost 31-52</td>]]></html>
+	<text>Lost 31-52</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>May 31</td>]]></html>
+	<text>May 31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reading Express</td>]]></html>
+	<text>Reading Express</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Home</td>]]></html>
+	<text>Home</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Won 50-41</td>]]></html>
+	<text>Won 50-41</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June 7</td>]]></html>
+	<text>June 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fayetteville Guard</td>]]></html>
+	<text>Fayetteville Guard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June 15</td>]]></html>
+	<text>June 15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbus Lions</td>]]></html>
+	<text>Columbus Lions</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>June 21</td>]]></html>
+	<text>June 21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canton Legends</td>]]></html>
+	<text>Canton Legends</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Away</td>]]></html>
+	<text>Away</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Huntington Heroes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Date Opponent Home / Away Result</text>
+</context>
+<context>
+	<score>0.8850992</score>
+	<text>[ edit ] 2008 Season Schedule and Results</text>
+</context>
+<context>
+	<score>0.7944411</score>
+	<text>Huntington Heroes</text>
+</context>
+<context>
+	<score>0.7818146</score>
+	<text>* = Current Standing</text>
+</context>
+<context>
+	<score>0.7567548</score>
+	<text>[ edit ] 2007 Season Results</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] Mascot &amp; Colors</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] Heroes History</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] Season-By-Season</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] 2008 Season Schedule and Results</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] 2007 Season Results</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] 2006 Season Results</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] Heroes Honors</text>
+</context>
+<context>
+	<score>0.7231773</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71686405</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423764</score>
+	<text>Note: W = Wins, L = Losses, T = Ties</text>
+</context>
+<context>
+	<score>0.6484892</score>
+	<text>[ edit ] Season-By-Season</text>
+</context>
+<context>
+	<score>0.60995567</score>
+	<text>[ edit ] 2006 Season Results</text>
+</context>
+<context>
+	<score>0.5925266</score>
+	<text>The Heroes announced a restructuring, naming Carlos Clayton the team&apos;s head coach. Ten remaining members of the team and several new players, including several former Heroes players from prior years, announced they continue for the rest of the season. Following three consecutive losses to division foe Fayetteville which then featured several Heroes players that played for Huntington just two weeks earlier as well as back-to-back losses to Erie, Clayton was replaced as head coach by Paul Blankenship.</text>
+</context>
+<context>
+	<score>0.5528072</score>
+	<text>On April 24th, 2008, Heroes players refused to board the bus and travel for a game the following day against the Florence Phantoms. Ultimately, eight players and three members of the coaching staff resigned. On April 25, a team hastily constructed of Florence-area players and members of the the Baltimore Mariners practice squad was put together by the AIFA and played as the Huntington Heroes, losing to the Phantoms 66-12.</text>
+</context>
+<context>
+	<score>0.52360326</score>
+	<text>[ edit ] Heroes Honors</text>
+</context>
+<context>
+	<score>0.5210316</score>
+	<text>Following the 2007 season, Coach Gary McPeek, who had led the team since its inception and compiled a 19-11 record, announced his intention to leave the team to join the coaching staff with the Lexington Horsemen in AF2. The Heroes turned to Coach Teddy Keaton from the 2007 AIFA champion Lakeland Thunderbolts to lead the team in 2008, bringing with him a professional indoor football coaching record of 50-7 plus six players from the former Lakeland team. Through the first six weeks of the 2008 season, the Huntington Heroes stood at the top of the Eastern Conference with a 5-1 record and led the conference in both scoring offense and scoring defense.</text>
+</context>
+<context>
+	<score>0.49561122</score>
+	<text>The Heroes finished the 2007 season with a 10-4 regular season record, finishing 3rd in the Northern Conference, and qualifying for the AIFA playoffs. The Heroes made the return trip to Canton the following week, but could not match the intensity of the previous week, losing 76-43.</text>
+</context>
+<context>
+	<score>0.47527486</score>
+	<text>The early 2007 season was marked by quarterback issues. Former Marshall QB Jimmy Skinner and Joey Conrad led the team to a slow 3-3 start as well as a loss to the Carolina Speed in the exhibition Charity Bowl. Heroes quarterback coach Dane Damron traded in the headset for a helmet and suited up as started as starting quarterback in the April 7th game against the Erie Freeze. The Heroes, led by Damron at QB, would win seven games in a row (franchise record) before falling by 2 at rival Canton in the final game of the regular season that would determine who had the home field advantage in the first round of the playoffs between the same two teams.</text>
+</context>
+<context>
+	<score>0.4664945</score>
+	<text>Fred Ray - QB - 2006 AIFL Northern Conference ProStars First Team</text>
+</context>
+<context>
+	<score>0.45900577</score>
+	<text>On July 28, 2006, the Heroes announced that they were joining the Augusta, Daytona Beach, Rome, and Raleigh to form the World Indoor Football League. However, on August 16, the Heroes announced they would be moving to the Big Sandy Superstore Arena and that they would be remaining in the AIFL. Before the start of the following season, the Heroes joined all other AIFL league teams in disbanding the AIFL and joining the AIFA.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Date</th><th>Opponent</th><th><a href="../../../../articles/h/o/m/Home_team.html" class="mw-redirect" title="Home team">Home</a>/<a href="../../../../articles/h/o/m/Home_team.html" class="mw-redirect" title="Home team">Away</a></th><th>Result</th></tr><tr><td><a href="../../../../articles/m/a/r/March_15.html" title="March 15">March 15</a></td><td><a href="../../../../articles/f/l/o/Florida_Stingrays_ff86.html" title="Florida Stingrays">Florida Stingrays</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 56-9</td></tr><tr><td><a href="../../../../articles/m/a/r/March_21.html" title="March 21">March 21</a></td><td><a href="../../../../articles/f/l/o/Florence_Phantoms_a72e.html" title="Florence Phantoms">Florence Phantoms</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 47-32</td></tr><tr><td><a href="../../../../articles/m/a/r/March_29.html" title="March 29">March 29</a></td><td><a href="../../../../articles/c/a/r/Carolina_Speed_03bf.html" title="Carolina Speed">Carolina Speed</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 40-35</td></tr><tr><td><a href="../../../../articles/a/p/r/April_5.html" title="April 5">April 5</a></td><td><a href="../../../../articles/r/e/a/Reading_Express_d748.html" title="Reading Express">Reading Express</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/loss" class="extiw" title="wiktionary:loss">Lost</a> 38-57</td></tr><tr><td><a href="../../../../articles/a/p/r/April_11.html" title="April 11">April 11</a></td><td><a href="../../../../articles/e/r/i/Erie_RiverRats_a97c.html" title="Erie RiverRats">Erie RiverRats</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 54-24</td></tr><tr><td><a href="../../../../articles/a/p/r/April_19.html" title="April 19">April 19</a></td><td><a href="../../../../articles/c/a/n/Canton_Legends_02c3.html" title="Canton Legends">Canton Legends</a></td><td>Home</td><td><a href="http://en.wiktionary.org/wiki/win" class="extiw" title="wiktionary:win">Won</a> 49-6</td></tr><tr><td><a href="../../../../articles/a/p/r/April_25.html" title="April 25">April 25</a></td><td><a href="../../../../articles/f/l/o/Florence_Phantoms_a72e.html" title="Florence Phantoms">Florence Phantoms</a></td><td>Away</td><td><a href="http://en.wiktionary.org/wiki/loss" class="extiw" title="wiktionary:loss">Lost</a> 12-66</td></tr><tr><td><a href="../../../../articles/m/a/y/May_3.html" title="May 3">May 3</a></td><td><a href="../../../../articles/f/a/y/Fayetteville_Guard_0ff4.html" title="Fayetteville Guard">Fayetteville Guard</a></td><td>Home</td><td>Lost 26-34</td></tr><tr><td><a href="../../../../articles/m/a/y/May_9.html" title="May 9">May 9</a></td><td><a href="../../../../articles/e/r/i/Erie_RiverRats_a97c.html" title="Erie RiverRats">Erie RiverRats</a></td><td>Away</td><td>Lost 43-47</td></tr><tr><td><a href="../../../../articles/m/a/y/May_17.html" title="May 17">May 17</a></td><td><a href="../../../../articles/e/r/i/Erie_RiverRats_a97c.html" title="Erie RiverRats">Erie RiverRats</a></td><td>Home</td><td>Lost 31-52</td></tr><tr><td><a href="../../../../articles/m/a/y/May_31.html" title="May 31">May 31</a></td><td><a href="../../../../articles/r/e/a/Reading_Express_d748.html" title="Reading Express">Reading Express</a></td><td>Home</td><td>Won 50-41</td></tr><tr><td><a href="../../../../articles/j/u/n/June_7.html" title="June 7">June 7</a></td><td><a href="../../../../articles/f/a/y/Fayetteville_Guard_0ff4.html" title="Fayetteville Guard">Fayetteville Guard</a></td><td>Away</td><td></td></tr><tr><td><a href="../../../../articles/j/u/n/June_15.html" title="June 15">June 15</a></td><td><a href="../../../../articles/c/o/l/Columbus_Lions_b91a.html" title="Columbus Lions">Columbus Lions</a></td><td>Away</td><td></td></tr><tr><td><a href="../../../../articles/j/u/n/June_21.html" title="June 21">June 21</a></td><td><a href="../../../../articles/c/a/n/Canton_Legends_02c3.html" title="Canton Legends">Canton Legends</a></td><td>Away</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

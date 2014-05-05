@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r5/l/i/s/List_of_trolleybus_systems_in_Italy_291f.html_9.xml" />
+<meta name="primaryKey" value="1.0 1, 0.17999999 2, 0.17999999 1 2, 0.16000001 3, 0.16000001 1 3, 0.07 0 1, 0.060000002 1 4, 0.0288 2 3, 0.024000002 4, 0.014 0, 0.0126 0 2, 0.0112000005 0 3, 0.0108 2 4, 0.009600001 3 4, 0.0016800001 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_trolleybus_systems_in_Italy_291f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name of System</th>]]></html>
+	<text>Name of System</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date (From)</th>]]></html>
+	<text>Date (From)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date (To)</th>]]></html>
+	<text>Date (To)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carrara</td>]]></html>
+	<text>Carrara</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 Jun 1955</td>]]></html>
+	<text>5 Jun 1955</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26 Dec 1985</td>]]></html>
+	<text>26 Dec 1985</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Firenze /Florence</td>]]></html>
+	<text>Firenze /Florence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 Nov 1937</td>]]></html>
+	<text>11 Nov 1937</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 Jul 1973</td>]]></html>
+	<text>1 Jul 1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>System included interurban line to Fiesole .</td>]]></html>
+	<text>System included interurban line to Fiesole .</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Livorno</td>]]></html>
+	<text>Livorno</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28 Oct 1934</td>]]></html>
+	<text>28 Oct 1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22 Oct 1973</td>]]></html>
+	<text>22 Oct 1973</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pisa</td>]]></html>
+	<text>Pisa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20 January |20 Jan] 1952</td>]]></html>
+	<text>20 January |20 Jan] 1952</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 Feb 1968</td>]]></html>
+	<text>29 Feb 1968</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Siena</td>]]></html>
+	<text>Siena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24 Mar 1907</td>]]></html>
+	<text>24 Mar 1907</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21 Oct 1917</td>]]></html>
+	<text>21 Oct 1917</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of trolleybus systems in Italy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name of System Location Date (From) Date (To) Notes</text>
+</context>
+<context>
+	<score>0.8820816</score>
+	<text>[ edit ] Toscana (Tuscany)</text>
+</context>
+<context>
+	<score>0.80707055</score>
+	<text>List of trolleybus systems in Italy</text>
+</context>
+<context>
+	<score>0.7851119</score>
+	<text>[ edit ] Puglia</text>
+</context>
+<context>
+	<score>0.7537393</score>
+	<text>[ edit ] Umbria</text>
+</context>
+<context>
+	<score>0.7327887</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7327887</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7294948</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70753604</score>
+	<text>[ edit ] Piemonte (Piedmont)</text>
+</context>
+<context>
+	<score>0.6454754</score>
+	<text>[ edit ] Marche</text>
+</context>
+<context>
+	<score>0.60364866</score>
+	<text>Name of System Location Date (From) Date (To) Notes</text>
+</context>
+<context>
+	<score>0.59582686</score>
+	<text>Edolo - Ponte di Legno</text>
+</context>
+<context>
+	<score>0.55281425</score>
+	<text>Name of System Location Date (From) Date (To) Notes</text>
+</context>
+<context>
+	<score>0.5210392</score>
+	<text>Military line:</text>
+</context>
+<context>
+	<score>0.49891296</score>
+	<text>Irisbus Filobus in Milano</text>
+</context>
+<context>
+	<score>0.47857693</score>
+	<text>[ edit ] Lombardia (Lombardy)</text>
+</context>
+<context>
+	<score>0.46979672</score>
+	<text>28 Oct 1943</text>
+</context>
+<context>
+	<score>0.46230808</score>
+	<text>( Savona : plans for new system to Vado Ligure were cancelled in 2006 .)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" width="100%"><tr><th width="15%">Name of System</th><th width="20%">Location</th><th width="15%">Date (From)</th><th width="15%">Date (To)</th><th width="35%">Notes</th></tr><tr><td>&#160;</td><td><a href="../../../../articles/c/a/r/Carrara.html" title="Carrara">Carrara</a></td><td><a href="../../../../articles/5/_/j/5_June_3fc6.html" class="mw-redirect" title="5 June">5 Jun</a> <a href="../../../../articles/1/9/5/1955.html" title="1955">1955</a></td><td><a href="../../../../articles/2/6/_/26_December_b5ff.html" class="mw-redirect" title="26 December">26 Dec</a> <a href="../../../../articles/1/9/8/1985.html" title="1985">1985</a></td><td>&#160;</td></tr><tr><td>&#160;</td><td><a href="../../../../articles/f/l/o/Florence.html" title="Florence">Firenze</a> /Florence</td><td><a href="../../../../articles/1/1/_/11_November_5e95.html" class="mw-redirect" title="11 November">11 Nov</a> <a href="../../../../articles/1/9/3/1937.html" title="1937">1937</a></td><td><a href="../../../../articles/1/_/j/1_July_053e.html" class="mw-redirect" title="1 July">1 Jul</a> <a href="../../../../articles/1/9/7/1973.html" title="1973">1973</a></td><td>System included interurban line to <a href="../../../../articles/f/i/e/Fiesole.html" title="Fiesole">Fiesole</a>.</td></tr><tr><td>&#160;</td><td><a href="../../../../articles/l/i/v/Livorno.html" title="Livorno">Livorno</a></td><td><a href="../../../../articles/2/8/_/28_October_4182.html" class="mw-redirect" title="28 October">28 Oct</a> <a href="../../../../articles/1/9/3/1934.html" title="1934">1934</a></td><td><a href="../../../../articles/2/2/_/22_October_1171.html" class="mw-redirect" title="22 October">22 Oct</a> <a href="../../../../articles/1/9/7/1973.html" title="1973">1973</a></td><td>&#160;</td></tr><tr><td>&#160;</td><td><a href="../../../../articles/p/i/s/Pisa.html" title="Pisa">Pisa</a></td><td><a href="../../../../articles/j/a/n/January_20.html" title="January 20">20 January</a>|20 Jan] <a href="../../../../articles/1/9/5/1952.html" title="1952">1952</a></td><td><a href="../../../../articles/2/9/_/29_February_e894.html" class="mw-redirect" title="29 February">29 Feb</a> <a href="../../../../articles/1/9/6/1968.html" title="1968">1968</a></td><td>&#160;</td></tr><tr><td>&#160;</td><td><a href="../../../../articles/s/i/e/Siena.html" title="Siena">Siena</a></td><td><a href="../../../../articles/2/4/_/24_March_c38b.html" class="mw-redirect" title="24 March">24 Mar</a> <a href="../../../../articles/1/9/0/1907.html" title="1907">1907</a></td><td><a href="../../../../articles/2/1/_/21_October_7fd9.html" class="mw-redirect" title="21 October">21 Oct</a> <a href="../../../../articles/1/9/1/1917.html" title="1917">1917</a></td><td>&#160;</td></tr></table>]]>
+</htmlSnippet>
+</entity>

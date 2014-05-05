@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san11-data4-repo/attrParsedPage/out_data_435/dir35/file154977_0_cols3_rows50.xml" />
+<meta name="isLeaf" value="true" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 0 2, 0.65333337 2, 0.5555556 1 2, " />
+<meta name="url" value="http://www.teachervision.fen.com/page/685.html" />
+<meta name="parentHTMLDoc" value="san11-data4-repo/attrParsedPage/out_data_435/file154977" />
+<meta name="isList" value="false" />
+
+<types>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+<coltype>ShortText</coltype>
+</types>
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital</th>]]></html>
+	<text>Capital</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Largest city</th>]]></html>
+	<text>Largest city</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montgomery</td>]]></html>
+	<text>Montgomery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Birmingham</td>]]></html>
+	<text>Birmingham</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Juneau</td>]]></html>
+	<text>Juneau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anchorage</td>]]></html>
+	<text>Anchorage</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phoenix</td>]]></html>
+	<text>Phoenix</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phoenix</td>]]></html>
+	<text>Phoenix</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Rock</td>]]></html>
+	<text>Little Rock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Little Rock</td>]]></html>
+	<text>Little Rock</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sacramento</td>]]></html>
+	<text>Sacramento</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles</td>]]></html>
+	<text>Los Angeles</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denver</td>]]></html>
+	<text>Denver</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denver</td>]]></html>
+	<text>Denver</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hartford</td>]]></html>
+	<text>Hartford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bridgeport</td>]]></html>
+	<text>Bridgeport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dover</td>]]></html>
+	<text>Dover</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilmington</td>]]></html>
+	<text>Wilmington</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tallahassee</td>]]></html>
+	<text>Tallahassee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacksonville</td>]]></html>
+	<text>Jacksonville</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlanta</td>]]></html>
+	<text>Atlanta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Atlanta</td>]]></html>
+	<text>Atlanta</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Honolulu</td>]]></html>
+	<text>Honolulu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Honolulu</td>]]></html>
+	<text>Honolulu</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boise</td>]]></html>
+	<text>Boise</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boise</td>]]></html>
+	<text>Boise</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Springfield</td>]]></html>
+	<text>Springfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chicago</td>]]></html>
+	<text>Chicago</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indianapolis</td>]]></html>
+	<text>Indianapolis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Indianapolis</td>]]></html>
+	<text>Indianapolis</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Des Moines</td>]]></html>
+	<text>Des Moines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Des Moines</td>]]></html>
+	<text>Des Moines</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Topeka</td>]]></html>
+	<text>Topeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wichita</td>]]></html>
+	<text>Wichita</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frankfort</td>]]></html>
+	<text>Frankfort</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Louisville</td>]]></html>
+	<text>Louisville</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baton Rouge</td>]]></html>
+	<text>Baton Rouge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Orleans</td>]]></html>
+	<text>New Orleans</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Augusta</td>]]></html>
+	<text>Augusta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portland</td>]]></html>
+	<text>Portland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Annapolis</td>]]></html>
+	<text>Annapolis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baltimore</td>]]></html>
+	<text>Baltimore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boston</td>]]></html>
+	<text>Boston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boston</td>]]></html>
+	<text>Boston</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lansing</td>]]></html>
+	<text>Lansing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Detroit</td>]]></html>
+	<text>Detroit</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>St. Paul</td>]]></html>
+	<text>St. Paul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Minneapolis</td>]]></html>
+	<text>Minneapolis</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jackson</td>]]></html>
+	<text>Jackson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jackson</td>]]></html>
+	<text>Jackson</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jefferson City</td>]]></html>
+	<text>Jefferson City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kansas City</td>]]></html>
+	<text>Kansas City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Helena</td>]]></html>
+	<text>Helena</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Billings</td>]]></html>
+	<text>Billings</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lincoln</td>]]></html>
+	<text>Lincoln</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Omaha</td>]]></html>
+	<text>Omaha</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carson City</td>]]></html>
+	<text>Carson City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Vegas</td>]]></html>
+	<text>Las Vegas</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Concord</td>]]></html>
+	<text>Concord</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester</td>]]></html>
+	<text>Manchester</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trenton</td>]]></html>
+	<text>Trenton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newark</td>]]></html>
+	<text>Newark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santa Fe</td>]]></html>
+	<text>Santa Fe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Albuquerque</td>]]></html>
+	<text>Albuquerque</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Albany</td>]]></html>
+	<text>Albany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New York City</td>]]></html>
+	<text>New York City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Raleigh</td>]]></html>
+	<text>Raleigh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charlotte</td>]]></html>
+	<text>Charlotte</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bismarck</td>]]></html>
+	<text>Bismarck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fargo</td>]]></html>
+	<text>Fargo</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbus</td>]]></html>
+	<text>Columbus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbus</td>]]></html>
+	<text>Columbus</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma City</td>]]></html>
+	<text>Oklahoma City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oklahoma City</td>]]></html>
+	<text>Oklahoma City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salem</td>]]></html>
+	<text>Salem</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Portland</td>]]></html>
+	<text>Portland</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harrisburg</td>]]></html>
+	<text>Harrisburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philadelphia</td>]]></html>
+	<text>Philadelphia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Providence</td>]]></html>
+	<text>Providence</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Providence</td>]]></html>
+	<text>Providence</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbia</td>]]></html>
+	<text>Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbia</td>]]></html>
+	<text>Columbia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pierre</td>]]></html>
+	<text>Pierre</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sioux Falls</td>]]></html>
+	<text>Sioux Falls</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nashville</td>]]></html>
+	<text>Nashville</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Memphis</td>]]></html>
+	<text>Memphis</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Austin</td>]]></html>
+	<text>Austin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Houston</td>]]></html>
+	<text>Houston</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salt Lake City</td>]]></html>
+	<text>Salt Lake City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salt Lake City</td>]]></html>
+	<text>Salt Lake City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Montpelier</td>]]></html>
+	<text>Montpelier</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Burlington</td>]]></html>
+	<text>Burlington</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richmond</td>]]></html>
+	<text>Richmond</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Virginia Beach</td>]]></html>
+	<text>Virginia Beach</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Olympia</td>]]></html>
+	<text>Olympia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seattle</td>]]></html>
+	<text>Seattle</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charleston</td>]]></html>
+	<text>Charleston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charleston</td>]]></html>
+	<text>Charleston</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madison</td>]]></html>
+	<text>Madison</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Milwaukee</td>]]></html>
+	<text>Milwaukee</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cheyenne</td>]]></html>
+	<text>Cheyenne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cheyenne</td>]]></html>
+	<text>Cheyenne</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>State Capital Largest city</text>
+</context>
+<context>
+	<score>0.81799805</score>
+	<text>State Capitals and Largest Cities for Each State</text>
+</context>
+<context>
+	<score>0.81799805</score>
+	<text>State Capitals and Largest Cities for Each State</text>
+</context>
+<context>
+	<score>0.62529016</score>
+	<text>Source: U.S. Bureau of the Census, 1990 figures.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr><th>State</th><th>Capital</th><th>Largest city</th></tr><tr><td>Alabama</td><td>Montgomery</td><td>Birmingham</td></tr><tr><td>Alaska</td><td>Juneau</td><td>Anchorage</td></tr><tr><td>Arizona</td><td>Phoenix</td><td>Phoenix</td></tr><tr><td>Arkansas</td><td>Little Rock</td><td>Little Rock</td></tr><tr><td>California</td><td>Sacramento</td><td>Los Angeles</td></tr><tr><td>Colorado</td><td>Denver</td><td>Denver</td></tr><tr><td>Connecticut</td><td>Hartford</td><td>Bridgeport</td></tr><tr><td>Delaware</td><td>Dover</td><td>Wilmington</td></tr><tr><td>Florida</td><td>Tallahassee</td><td>Jacksonville</td></tr><tr><td>Georgia</td><td>Atlanta</td><td>Atlanta</td></tr><tr><td>Hawaii</td><td>Honolulu</td><td>Honolulu</td></tr><tr><td>Idaho</td><td>Boise</td><td>Boise</td></tr><tr><td>Illinois</td><td>Springfield</td><td>Chicago</td></tr><tr><td>Indiana</td><td>Indianapolis</td><td>Indianapolis</td></tr><tr><td>Iowa</td><td>Des Moines</td><td>Des Moines</td></tr><tr><td>Kansas</td><td>Topeka</td><td>Wichita</td></tr><tr><td>Kentucky</td><td>Frankfort</td><td>Louisville</td></tr><tr><td>Louisiana</td><td>Baton Rouge</td><td>New Orleans</td></tr><tr><td>Maine</td><td>Augusta</td><td>Portland</td></tr><tr><td>Maryland</td><td>Annapolis</td><td>Baltimore</td></tr><tr><td>Massachusetts</td><td>Boston</td><td>Boston</td></tr><tr><td>Michigan</td><td>Lansing</td><td>Detroit</td></tr><tr><td>Minnesota</td><td>St. Paul</td><td>Minneapolis</td></tr><tr><td>Mississippi</td><td>Jackson</td><td>Jackson</td></tr><tr><td>Missouri</td><td>Jefferson City</td><td>Kansas City</td></tr><tr><td>Montana</td><td>Helena</td><td>Billings</td></tr><tr><td>Nebraska</td><td>Lincoln</td><td>Omaha</td></tr><tr><td>Nevada</td><td>Carson City</td><td>Las Vegas</td></tr><tr><td>New Hampshire</td><td>Concord</td><td>Manchester</td></tr><tr><td>New Jersey</td><td>Trenton</td><td>Newark</td></tr><tr><td>New Mexico</td><td>Santa Fe</td><td>Albuquerque</td></tr><tr><td>New York</td><td>Albany</td><td>New York City</td></tr><tr><td>North Carolina</td><td>Raleigh</td><td>Charlotte</td></tr><tr><td>North Dakota</td><td>Bismarck</td><td>Fargo</td></tr><tr><td>Ohio</td><td>Columbus</td><td>Columbus</td></tr><tr><td>Oklahoma</td><td>Oklahoma City</td><td>Oklahoma City</td></tr><tr><td>Oregon</td><td>Salem</td><td>Portland</td></tr><tr><td>Pennsylvania</td><td>Harrisburg</td><td>Philadelphia</td></tr><tr><td>Rhode Island</td><td>Providence</td><td>Providence</td></tr><tr><td>South Carolina</td><td>Columbia</td><td>Columbia</td></tr><tr><td>South Dakota</td><td>Pierre</td><td>Sioux Falls</td></tr><tr><td>Tennessee</td><td>Nashville</td><td>Memphis</td></tr><tr><td>Texas</td><td>Austin</td><td>Houston</td></tr><tr><td>Utah</td><td>Salt Lake City</td><td>Salt Lake City</td></tr><tr><td>Vermont</td><td>Montpelier</td><td>Burlington</td></tr><tr><td>Virginia</td><td>Richmond</td><td>Virginia Beach</td></tr><tr><td>Washington</td><td>Olympia</td><td>Seattle</td></tr><tr><td>West Virginia</td><td>Charleston</td><td>Charleston</td></tr><tr><td>Wisconsin</td><td>Madison</td><td>Milwaukee</td></tr><tr><td>Wyoming</td><td>Cheyenne</td><td>Cheyenne</td></tr></table>]]>
+</htmlSnippet>
+</entity>

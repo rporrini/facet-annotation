@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r11/a/c/a/Academy_Award_136f.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9285714 3, 0.9285714 1 3, 0.85714287 4, 0.85714287 1 4, 0.79591835 3 4, 0.78571427 5, 0.78571427 1 5, 0.7295918 3 5, 0.67346936 4 5, 0.14285715 2, 0.14285715 1 2, 0.13265306 2 3, 0.12857144 6, 0.12857144 1 6, 0.12244899 2 4, 0.119387746 3 6, 0.11428572 0, 0.11428572 0 1, 0.112244904 2 5, 0.11020408 4 6, 0.10612246 0 3, 0.10102041 5 6, 0.09795919 0 4, 0.089795925 0 5, 0.018367348 2 6, 0.016326532 0 2, 0.014693879 0 6, " />
+<meta name="parentHTMLDoc" value="en/articles/a/c/a/Academy_Award_136f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Number</th>]]></html>
+	<text>Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ceremony</th>]]></html>
+	<text>Ceremony</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Best Picture Winner</th>]]></html>
+	<text>Best Picture Winner</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Duration (not running time)</th>]]></html>
+	<text>Duration (not running time)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of Viewers</th>]]></html>
+	<text>Number of Viewers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rating</th>]]></html>
+	<text>Rating</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>70th Academy Awards</td>]]></html>
+	<text>70th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 23 , 1998</td>]]></html>
+	<text>March 23 , 1998</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Titanic</td>]]></html>
+	<text>Titanic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 45 minutes</td>]]></html>
+	<text>3 hours, 45 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>57.25 million</td>]]></html>
+	<text>57.25 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35.32</td>]]></html>
+	<text>35.32</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>71st Academy Awards</td>]]></html>
+	<text>71st Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 21 , 1999</td>]]></html>
+	<text>March 21 , 1999</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shakespeare in Love</td>]]></html>
+	<text>Shakespeare in Love</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 hours, 2 minutes</td>]]></html>
+	<text>4 hours, 2 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.63 million</td>]]></html>
+	<text>45.63 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.51</td>]]></html>
+	<text>28.51</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>72nd Academy Awards</td>]]></html>
+	<text>72nd Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 26 , 2000</td>]]></html>
+	<text>March 26 , 2000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American Beauty</td>]]></html>
+	<text>American Beauty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 hours, 4 minutes</td>]]></html>
+	<text>4 hours, 4 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>46.53 million</td>]]></html>
+	<text>46.53 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.64</td>]]></html>
+	<text>29.64</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>73rd Academy Awards</td>]]></html>
+	<text>73rd Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 25 , 2001</td>]]></html>
+	<text>March 25 , 2001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gladiator</td>]]></html>
+	<text>Gladiator</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 23 minutes</td>]]></html>
+	<text>3 hours, 23 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42.93 million</td>]]></html>
+	<text>42.93 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.86</td>]]></html>
+	<text>25.86</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74th Academy Awards</td>]]></html>
+	<text>74th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 24 , 2002</td>]]></html>
+	<text>March 24 , 2002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A Beautiful Mind</td>]]></html>
+	<text>A Beautiful Mind</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 hours, 23 minutes</td>]]></html>
+	<text>4 hours, 23 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40.54 million</td>]]></html>
+	<text>40.54 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.43</td>]]></html>
+	<text>25.43</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>75th Academy Awards</td>]]></html>
+	<text>75th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 23 , 2003</td>]]></html>
+	<text>March 23 , 2003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chicago</td>]]></html>
+	<text>Chicago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 30 minutes</td>]]></html>
+	<text>3 hours, 30 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.04 million</td>]]></html>
+	<text>33.04 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.58</td>]]></html>
+	<text>20.58</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>76th Academy Awards</td>]]></html>
+	<text>76th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 29 , 2004</td>]]></html>
+	<text>February 29 , 2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Lord of the Rings: The Return of the King</td>]]></html>
+	<text>The Lord of the Rings: The Return of the King</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 38 minutes</td>]]></html>
+	<text>3 hours, 38 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.56 million</td>]]></html>
+	<text>43.56 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.68</td>]]></html>
+	<text>26.68</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>77th Academy Awards</td>]]></html>
+	<text>77th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 27 , 2005</td>]]></html>
+	<text>February 27 , 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Million Dollar Baby</td>]]></html>
+	<text>Million Dollar Baby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 14 minutes</td>]]></html>
+	<text>3 hours, 14 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42.16 million</td>]]></html>
+	<text>42.16 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.29</td>]]></html>
+	<text>25.29</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>78th Academy Awards</td>]]></html>
+	<text>78th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 5 , 2006</td>]]></html>
+	<text>March 5 , 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Crash</td>]]></html>
+	<text>Crash</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 33 minutes</td>]]></html>
+	<text>3 hours, 33 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.94 million</td>]]></html>
+	<text>38.94 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.91</td>]]></html>
+	<text>22.91</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>79th Academy Awards</td>]]></html>
+	<text>79th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 25 , 2007</td>]]></html>
+	<text>February 25 , 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Departed</td>]]></html>
+	<text>The Departed</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 51 minutes</td>]]></html>
+	<text>3 hours, 51 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.92 million</td>]]></html>
+	<text>39.92 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23.65</td>]]></html>
+	<text>23.65</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80th Academy Awards</td>]]></html>
+	<text>80th Academy Awards</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>February 24 , 2008</td>]]></html>
+	<text>February 24 , 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No Country for Old Men</td>]]></html>
+	<text>No Country for Old Men</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 hours, 21 minutes</td>]]></html>
+	<text>3 hours, 21 minutes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31.76 million</td>]]></html>
+	<text>31.76 million</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.66</td>]]></html>
+	<text>18.66</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Academy Award - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Number Ceremony Date Best Picture Winner Duration (not running time) Number of Viewers Rating</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Academy Awards ceremonies and ratings</text>
+</context>
+<context>
+	<score>0.79128784</score>
+	<text>Academy Award</text>
+</context>
+<context>
+	<score>0.7834651</score>
+	<text>The Best Picture winner of that particular ceremony was another low-budget, independently financed film ( No Country for Old Men ), which generated US$64.3 million prior to the ceremony.</text>
+</context>
+<context>
+	<score>0.7520926</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Overview</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] The Oscar statuette</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] The Academy</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Nominations</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] The award ceremony</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Criticism</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Award categories</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7153591</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7137121</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70588934</score>
+	<text>More recently, the 80th Academy Awards telecast was watched by 31.76 million viewers on average with a 18.66% household rating, the lowest rated and least watched ceremony to date.</text>
+</context>
+<context>
+	<score>0.6438287</score>
+	<text>By contrast, ceremonies honoring films that have not performed well at the box office tend to show weaker ratings. The 78th Academy Awards which awarded low-budgeted, independent film Crash (with a pre-Oscar gross of US$53.4 million) generated an audience of 38.94 million with a household rating of 22.91%.</text>
+</context>
+<context>
+	<score>0.6052959</score>
+	<text>The 1st Academy Awards were presented at a banquet dinner at the Hotel Roosevelt in Hollywood . Subsequent banquet ceremonies in the 1930s and early 40s were held in Los Angeles at either The Ambassador Hotel or the Biltmore Hotel .</text>
+</context>
+<context>
+	<score>0.5941802</score>
+	<text>The most watched ceremony based on Nielsen ratings to date, however, was the 42nd Academy Awards (Best Picture, Midnight Cowboy ) which drew a 43.4% household rating on April 7, 1970.</text>
+</context>
+<context>
+	<score>0.5544615</score>
+	<text>The 76th Academy Awards ceremony in which The Lord of the Rings: The Return of the King (pre-telecast box office earnings of US$368 million) received 11 Awards including Best Picture drew 43.56 million viewers.</text>
+</context>
+<context>
+	<score>0.5226864</score>
+	<text>Historically, the &quot;Oscarcast&quot; pulled in a bigger haul when box-office hits were favored to win the Best Picture trophy. More than 57.25 million viewers tuned to the telecast in 1998 , the year of Titanic , which generated close to US$500 million at the box office pre-Oscars.</text>
+</context>
+<context>
+	<score>0.51894486</score>
+	<text>Grauman&apos;s Chinese Theater in Hollywood then hosted the awards from 1944 to 1946, followed by the Shrine Auditorium in Los Angeles from 1947 to 1948. The 21st Academy Awards in 1949 were held at the Academy Award Theater at the Academy&apos;s then-headquarters on Melrose Avenue in Hollywood.</text>
+</context>
+<context>
+	<score>0.49726638</score>
+	<text>Critics like Lisa De Moraes from the Washington Post , Tom O&apos;Neill from the Los Angeles Times , and Richard Corliss from TIME have pointed out that the ceremony telecast has an interesting history of unusual up-and-down ratings trend since Nielsen Ratings were measured for the ceremony since 1967 and audience size was recorded since 1974 .</text>
+</context>
+<context>
+	<score>0.47693038</score>
+	<text>[ edit ] Ratings</text>
+</context>
+<context>
+	<score>0.46815014</score>
+	<text>From 1950 to 1960, the awards were presented at Hollywood&apos;s Pantages Theater . The Oscars then moved to the Santa Monica Civic Auditorium in Santa Monica, California in 1961. By 1969, the Academy decided to move the ceremonies back to Los Angeles, this time at the Dorothy Chandler Pavilion in the Los Angeles Music Center . The Dorothy Chandler Pavilion hosted 19 consecutive Oscar ceremonies until 1988, when the Academy started to alternate between the Music Center and the Shrine Auditorium.</text>
+</context>
+<context>
+	<score>0.46066156</score>
+	<text>during the telecast of the 79th Academy Awards in 2007, Leonardo DiCaprio and former vice president Al Gore announced that ecologically intelligent practices had been integrated into the planning and execution of the Oscar presentation and several related events.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" style="text-align: center"><tr><th width="080"><b>Number</b></th><th width="180"><b>Ceremony</b></th><th width="150"><b>Date</b></th><th width="280"><b>Best Picture Winner</b></th><th width="180"><b>Duration (not running time)</b></th><th width="150"><b>Number of Viewers</b></th><th width="080"><b>Rating</b></th></tr><tr><td>1</td><td align="center"><a href="../../../../articles/7/0/t/70th_Academy_Awards_4548.html" title="70th Academy Awards">70th Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_23.html" title="March 23">March 23</a>, <a href="../../../../articles/1/9/9/1998.html" title="1998">1998</a></td><td align="center"><i><a href="../../../../articles/t/i/t/Titanic_%281997_film%29.html" title="Titanic (1997 film)">Titanic</a></i></td><td align="center">3 hours, 45 minutes</td><td align="center">57.25 million</td><td align="center">35.32</td></tr><tr><td>2</td><td align="center"><a href="../../../../articles/7/1/s/71st_Academy_Awards_6757.html" title="71st Academy Awards">71st Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_21.html" title="March 21">March 21</a>, <a href="../../../../articles/1/9/9/1999.html" title="1999">1999</a></td><td align="center"><i><a href="../../../../articles/s/h/a/Shakespeare_in_Love_3d87.html" title="Shakespeare in Love">Shakespeare in Love</a></i></td><td align="center">4 hours, 2 minutes</td><td align="center">45.63 million</td><td align="center">28.51</td></tr><tr><td>3</td><td align="center"><a href="../../../../articles/7/2/n/72nd_Academy_Awards_fa46.html" title="72nd Academy Awards">72nd Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_26.html" title="March 26">March 26</a>, <a href="../../../../articles/2/0/0/2000.html" title="2000">2000</a></td><td align="center"><i><a href="../../../../articles/a/m/e/American_Beauty_%28film%29_3a23.html" title="American Beauty (film)">American Beauty</a></i></td><td align="center">4 hours, 4 minutes</td><td align="center">46.53 million</td><td align="center">29.64</td></tr><tr><td>4</td><td align="center"><a href="../../../../articles/7/3/r/73rd_Academy_Awards_56e8.html" title="73rd Academy Awards">73rd Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_25.html" title="March 25">March 25</a>, <a href="../../../../articles/2/0/0/2001.html" title="2001">2001</a></td><td align="center"><i><a href="../../../../articles/g/l/a/Gladiator_%28film%29.html" class="mw-redirect" title="Gladiator (film)">Gladiator</a></i></td><td align="center">3 hours, 23 minutes</td><td align="center">42.93 million</td><td align="center">25.86</td></tr><tr><td>5</td><td align="center"><a href="../../../../articles/7/4/t/74th_Academy_Awards_d44f.html" title="74th Academy Awards">74th Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_24.html" title="March 24">March 24</a>, <a href="../../../../articles/2/0/0/2002.html" title="2002">2002</a></td><td align="center"><i><a href="../../../../articles/a/_/b/A_Beautiful_Mind_%28film%29_f91e.html" title="A Beautiful Mind (film)">A Beautiful Mind</a></i></td><td align="center">4 hours, 23 minutes</td><td align="center">40.54 million</td><td align="center">25.43</td></tr><tr><td>6</td><td align="center"><a href="../../../../articles/7/5/t/75th_Academy_Awards_ddc0.html" title="75th Academy Awards">75th Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_23.html" title="March 23">March 23</a>, <a href="../../../../articles/2/0/0/2003.html" title="2003">2003</a></td><td align="center"><i><a href="../../../../articles/c/h/i/Chicago_%282002_film%29.html" title="Chicago (2002 film)">Chicago</a></i></td><td align="center">3 hours, 30 minutes</td><td align="center">33.04 million</td><td align="center">20.58</td></tr><tr><td>7</td><td align="center"><a href="../../../../articles/7/6/t/76th_Academy_Awards_882f.html" title="76th Academy Awards">76th Academy Awards</a></td><td align="center"><a href="../../../../articles/f/e/b/February_29.html" title="February 29">February 29</a>, <a href="../../../../articles/2/0/0/2004.html" title="2004">2004</a></td><td align="center"><i><a href="../../../../articles/t/h/e/The_Lord_of_the_Rings%7E_The_Return_of_the_King_f3c0.html" title="The Lord of the Rings: The Return of the King">The Lord of the Rings: The Return of the King</a></i></td><td align="center">3 hours, 38 minutes</td><td align="center">43.56 million</td><td align="center">26.68</td></tr><tr><td>8</td><td align="center"><a href="../../../../articles/7/7/t/77th_Academy_Awards_2627.html" title="77th Academy Awards">77th Academy Awards</a></td><td align="center"><a href="../../../../articles/f/e/b/February_27.html" title="February 27">February 27</a>, <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td><td align="center"><i><a href="../../../../articles/m/i/l/Million_Dollar_Baby_1bb6.html" title="Million Dollar Baby">Million Dollar Baby</a></i></td><td align="center">3 hours, 14 minutes</td><td align="center">42.16 million</td><td align="center">25.29</td></tr><tr><td>9</td><td align="center"><a href="../../../../articles/7/8/t/78th_Academy_Awards_fbee.html" title="78th Academy Awards">78th Academy Awards</a></td><td align="center"><a href="../../../../articles/m/a/r/March_5.html" title="March 5">March 5</a>, <a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a></td><td align="center"><i><a href="../../../../articles/c/r/a/Crash_%282004_film%29.html" title="Crash (2004 film)">Crash</a></i></td><td align="center">3 hours, 33 minutes</td><td align="center">38.94 million</td><td align="center">22.91</td></tr><tr><td>10</td><td align="center"><a href="../../../../articles/7/9/t/79th_Academy_Awards_75a7.html" title="79th Academy Awards">79th Academy Awards</a></td><td align="center"><a href="../../../../articles/f/e/b/February_25.html" title="February 25">February 25</a>, <a href="../../../../articles/2/0/0/2007.html" title="2007">2007</a></td><td align="center"><i><a href="../../../../articles/t/h/e/The_Departed_1c5b.html" title="The Departed">The Departed</a></i></td><td align="center">3 hours, 51 minutes</td><td align="center">39.92 million</td><td align="center">23.65</td></tr><tr><td>11</td><td align="center"><a href="../../../../articles/8/0/t/80th_Academy_Awards_480b.html" title="80th Academy Awards">80th Academy Awards</a></td><td align="center"><a href="../../../../articles/f/e/b/February_24.html" title="February 24">February 24</a>, <a href="../../../../articles/2/0/0/2008.html" title="2008">2008</a></td><td align="center"><i><a href="../../../../articles/n/o/_/No_Country_for_Old_Men_%28film%29_c12d.html" title="No Country for Old Men (film)">No Country for Old Men</a></i></td><td align="center">3 hours, 21 minutes</td><td align="center">31.76 million</td><td align="center">18.66</td></tr></table>]]>
+</htmlSnippet>
+</entity>

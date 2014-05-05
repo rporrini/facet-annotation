@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r22/s/o/m/Somerset_coalfield.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.175 0 2, 0.16250001 0 3, 0.15 0 4, 0.1375 0 6, 0.1278409 1, 0.118181825 3, 0.11079546 1 3, 0.1 6, 0.099609375 1 6, 0.095454544 2, 0.08948864 1 2, 0.08948863 1 4, 0.08863636 4, 0.0625 0 5, 0.056250002 0 7, 0.029296875 1 5, 0.025852272 2 3, 0.022727273 5, 0.021328127 3 6, 0.021051137 3 4, 0.02078125 2 6, 0.01909091 2 4, 0.016875 4 6, 0.011985086 1 7, 0.009232955 3 5, 0.007954545 2 5, 0.007670455 7, 0.0068181823 4 5, 0.006647728 3 7, 0.006640625 5 6, 0.005976563 6 7, 0.005816761 2 7, 0.005752841 4 7, 0.0014382103 5 7, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/m/Somerset_coalfield.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Colliery</th>]]></html>
+	<text>Colliery</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Grid Ref [A]</th>]]></html>
+	<text>Grid Ref [A]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opened</th>]]></html>
+	<text>Opened</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Closed</th>]]></html>
+	<text>Closed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shaft diameter ft in (m) [6]</th>]]></html>
+	<text>Shaft diameter ft in (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Max shaft depth ft (m) [6]</th>]]></html>
+	<text>Max shaft depth ft (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amesbury</td>]]></html>
+	<text>Amesbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>High Littleton</td>]]></html>
+	<text>High Littleton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST656588</td>]]></html>
+	<text>ST656588</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1701</td>]]></html>
+	<text>before 1701</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>early 1800s</td>]]></html>
+	<text>early 1800s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>200 (61)</td>]]></html>
+	<text>200 (61)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brewers</td>]]></html>
+	<text>Brewers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1700</td>]]></html>
+	<text>before 1700</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102 (31)</td>]]></html>
+	<text>102 (31)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brittens Lower</td>]]></html>
+	<text>Brittens Lower</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST657564</td>]]></html>
+	<text>ST657564</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>by 1864</td>]]></html>
+	<text>by 1864</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brittens New</td>]]></html>
+	<text>Brittens New</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST657564</td>]]></html>
+	<text>ST657564</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>by 1864</td>]]></html>
+	<text>by 1864</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Brombel (or Brombells, possibly Allens Paddock)</td>]]></html>
+	<text>Brombel (or Brombells, possibly Allens Paddock)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1793</td>]]></html>
+	<text>before 1793</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Crossways</td>]]></html>
+	<text>Crossways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 (1.5)</td>]]></html>
+	<text>5 (1.5)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>144 (43.9)</td>]]></html>
+	<text>144 (43.9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Goosard (or Gooseward or Goosewardsham or Paulton Lower Engine)</td>]]></html>
+	<text>Goosard (or Gooseward or Goosewardsham or Paulton Lower Engine)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST655575</td>]]></html>
+	<text>ST655575</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1708</td>]]></html>
+	<text>1708</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hayeswood</td>]]></html>
+	<text>Hayeswood</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Timsbury</td>]]></html>
+	<text>Timsbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST657592</td>]]></html>
+	<text>ST657592</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1750</td>]]></html>
+	<text>1750</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1862</td>]]></html>
+	<text>1862</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 0 (1.8)</td>]]></html>
+	<text>6 0 (1.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>642 (195.7)</td>]]></html>
+	<text>642 (195.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Heighgrove (or Woody Heighgrove)</td>]]></html>
+	<text>Heighgrove (or Woody Heighgrove)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1753</td>]]></html>
+	<text>1753</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1819</td>]]></html>
+	<text>1819</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Littlebrook</td>]]></html>
+	<text>Littlebrook</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST651562</td>]]></html>
+	<text>ST651562</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c1850s</td>]]></html>
+	<text>c1850s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 0 (1.5)</td>]]></html>
+	<text>5 0 (1.5)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>215 (65.5)</td>]]></html>
+	<text>215 (65.5)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mearns</td>]]></html>
+	<text>Mearns</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>High Littleton</td>]]></html>
+	<text>High Littleton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST652588</td>]]></html>
+	<text>ST652588</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1783</td>]]></html>
+	<text>1783</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1824</td>]]></html>
+	<text>1824</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>279 (85)</td>]]></html>
+	<text>279 (85)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Grove (possibly also Priors)</td>]]></html>
+	<text>New Grove (possibly also Priors)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1792</td>]]></html>
+	<text>1792</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tyning</td>]]></html>
+	<text>Tyning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Timsbury</td>]]></html>
+	<text>Timsbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST659587</td>]]></html>
+	<text>ST659587</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1766</td>]]></html>
+	<text>1766</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Old &amp; New Pits</td>]]></html>
+	<text>Old &amp;amp;amp; New Pits</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Old Grove</td>]]></html>
+	<text>Old Grove</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST661579</td>]]></html>
+	<text>ST661579</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4185 (1373)</td>]]></html>
+	<text>4185 (1373)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paulton Bottom</td>]]></html>
+	<text>Paulton Bottom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60 (18.3)</td>]]></html>
+	<text>60 (18.3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paulton Engine</td>]]></html>
+	<text>Paulton Engine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>before 1750</td>]]></html>
+	<text>before 1750</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 0 (2.75)</td>]]></html>
+	<text>9 0 (2.75)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>609 (185.6)</td>]]></html>
+	<text>609 (185.6)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Next to Paulton Brass and Iron foundry</td>]]></html>
+	<text>Next to Paulton Brass and Iron foundry</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paulton Ham</td>]]></html>
+	<text>Paulton Ham</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c1830s</td>]]></html>
+	<text>c1830s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964</td>]]></html>
+	<text>1964</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 0 (1.83)</td>]]></html>
+	<text>6 0 (1.83)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>552 (168.2)</td>]]></html>
+	<text>552 (168.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paulton Hill</td>]]></html>
+	<text>Paulton Hill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1840</td>]]></html>
+	<text>1840</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1864</td>]]></html>
+	<text>1864</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>798 (243.2)</td>]]></html>
+	<text>798 (243.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Radford</td>]]></html>
+	<text>Radford</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST673577</td>]]></html>
+	<text>ST673577</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c1800</td>]]></html>
+	<text>c1800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1847</td>]]></html>
+	<text>1847</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 (1.8)</td>]]></html>
+	<text>6 (1.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1152 (351.1)</td>]]></html>
+	<text>1152 (351.1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salisbury</td>]]></html>
+	<text>Salisbury</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST658557</td>]]></html>
+	<text>ST658557</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1792</td>]]></html>
+	<text>1792</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1873</td>]]></html>
+	<text>1873</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6 (1.8)</td>]]></html>
+	<text>6 (1.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>150 (45.7)</td>]]></html>
+	<text>150 (45.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Simons Hill (also known as Simmons Hill)</td>]]></html>
+	<text>Simons Hill (also known as Simmons Hill)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST650566</td>]]></html>
+	<text>ST650566</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1811</td>]]></html>
+	<text>1811</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1844</td>]]></html>
+	<text>1844</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>672 (204.8)</td>]]></html>
+	<text>672 (204.8)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Withy Mills</td>]]></html>
+	<text>Withy Mills</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Paulton</td>]]></html>
+	<text>Paulton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST661577</td>]]></html>
+	<text>ST661577</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?1804</td>]]></html>
+	<text>?1804</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1877</td>]]></html>
+	<text>1877</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 6 (1.4)</td>]]></html>
+	<text>4 6 (1.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>804 (245)</td>]]></html>
+	<text>804 (245)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Somerset coalfield - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Colliery Location Grid Ref [A] Opened Closed Shaft diameter ft in (m) [6] Max shaft depth ft (m) [6] Notes</text>
+</context>
+<context>
+	<score>0.88043475</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.78813136</score>
+	<text>Somerset coalfield</text>
+</context>
+<context>
+	<score>0.7834651</score>
+	<text>The area has been designated as an area of special architectural or historic interest, the character or appearance of which it is desirable to preserve or enhance under section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990 .</text>
+</context>
+<context>
+	<score>0.7520926</score>
+	<text>[ edit ] Timsbury and Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Geology</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Pensford coal basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl of Warwick&apos;s Clutton Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Paulton basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Timsbury and Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] East of Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Farrington Gurney</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Norton Hill Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Nettlebridge Valley</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Output</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Decline and closure</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Area today</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.71055555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042424</score>
+	<text>The southern side of the basin served Brittens, Littleborrok, Paulton Ham, Paulton Hill, Simons Hill terminating at Salisbury Colliery. In addition the Paulton Foundry used this line. The entire line was disused by 1871 as were the collieries it served.</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>On the northern side of Paulton basin was the terminus for the tramroad which served Old Grove, Prior&apos;s, Tyning and Hayeswood pits, with a branch line to Amesbury and Mearns pits. Parts of this line were still in use in 1873, probably all carrying horse drawn wagons of coal.</text>
+</context>
+<context>
+	<score>0.6052959</score>
+	<text>The first of the collieries around Timsbury village was sunk in 1791 and known as Conygre (Conigre in some old spellings) and those at Camerton in 1781.</text>
+</context>
+<context>
+	<score>0.5941802</score>
+	<text>Paulton was the terminus of the northern branch of the Somerset Coal Canal and was a central point for at least 15 collieries around Paulton, Timsbury and High Littleton , which were connected to the canal by tramroads.</text>
+</context>
+<context>
+	<score>0.5544615</score>
+	<text>The slag heap in Paulton , referred to locally as &quot;The Batch&quot;.</text>
+</context>
+<context>
+	<score>0.5226864</score>
+	<text>[ edit ] Paulton basin</text>
+</context>
+<context>
+	<score>0.517298</score>
+	<text>There is very little landscape evidence remaining of the previous mining activities around Clutton, Temple Cloud, High Littleton and Timsbury. There are a few small batches at Clutton, east of Radford Hill and at Greyfields, High Littleton.</text>
+</context>
+<context>
+	<score>0.49726638</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.47693038</score>
+	<text>The Earl of Warwick &apos;s estates included sawmills , quarries , brickworks and collieries in addition to their agricultural holdings. These pits are around Clutton and High Littleton .</text>
+</context>
+<context>
+	<score>0.46815014</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.46066156</score>
+	<text>Coal mines were established in the villages of High Littleton and Hallatrow by 1633 because here the coal seams ran obliquely to the surface. The first deep mine was Mearns Coalworks which began in 1783. The Greyfield Coal Company did not start until 1833.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Colliery</th><th>Location</th><th>Grid Ref<span class="reference"><sup id="ref_Grid_referenceA"><a href="#endnote_Grid_referenceA" title="">[A]</a></sup></span></th><th>Opened</th><th>Closed</th><th>Shaft diameter<br />ft in (m)<sup id="cite_ref-down_5-9" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Max shaft depth<br />ft (m)<sup id="cite_ref-down_5-10" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Notes</th></tr><tr><td>Amesbury</td><td><a href="../../../../articles/h/i/g/High_Littleton_99f0.html" title="High Littleton">High Littleton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST656588_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST656588_region:GB_scale:25000" rel="nofollow">ST656588</a></td><td>before 1701</td><td>early 1800s</td><td>&#160;?</td><td>200 (61)</td><td></td></tr><tr><td>Brewers</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>before 1700</td><td>&#160;?</td><td>&#160;?</td><td>102 (31)</td><td></td></tr><tr><td>Brittens Lower</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657564_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657564_region:GB_scale:25000" rel="nofollow">ST657564</a></td><td>&#160;?</td><td>by 1864</td><td>&#160;?</td><td>&#160;?</td></tr><tr><td>Brittens New</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657564_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657564_region:GB_scale:25000" rel="nofollow">ST657564</a></td><td>&#160;?</td><td>by 1864</td><td>&#160;?</td><td>&#160;?</td><td></td></tr><tr><td>Brombel (or Brombells, possibly Allens Paddock)</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>before 1793</td><td>&#160;?</td><td>4 6 (1.4)</td><td>&#160;?</td><td></td></tr><tr><td>Crossways</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>&#160;?</td><td>&#160;?</td><td>5 (1.5)</td><td>144 (43.9)</td><td></td></tr><tr><td>Goosard (or Gooseward or Goosewardsham or Paulton Lower Engine)</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST655575_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST655575_region:GB_scale:25000" rel="nofollow">ST655575</a></td><td>1708</td><td>&#160;?</td><td>&#160;?</td><td>&#160;?</td><td></td></tr><tr><td>Hayeswood</td><td><a href="../../../../articles/t/i/m/Timsbury%2C_Somerset_fab8.html" title="Timsbury, Somerset">Timsbury</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657592_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST657592_region:GB_scale:25000" rel="nofollow">ST657592</a></td><td>1750</td><td>1862</td><td>6 0 (1.8)</td><td>642 (195.7)</td><td></td></tr><tr><td>Heighgrove (or Woody Heighgrove)</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>1753</td><td>1819</td><td>&#160;?</td><td>&#160;?</td><td></td></tr><tr><td>Littlebrook</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST651562_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST651562_region:GB_scale:25000" rel="nofollow">ST651562</a></td><td>&#160;?</td><td>c1850s</td><td>5 0 (1.5)</td><td>215 (65.5)</td><td></td></tr><tr><td>Mearns</td><td><a href="../../../../articles/h/i/g/High_Littleton_99f0.html" title="High Littleton">High Littleton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST652588_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST652588_region:GB_scale:25000" rel="nofollow">ST652588</a></td><td>1783</td><td>1824</td><td>4 6 (1.4)</td><td>279 (85)</td><td></td></tr><tr><td>New Grove (possibly also Priors)</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>1792</td><td>&#160;?</td><td>&#160;?</td><td>&#160;?</td><td></td></tr><tr><td>Tyning</td><td><a href="../../../../articles/t/i/m/Timsbury%2C_Somerset_fab8.html" title="Timsbury, Somerset">Timsbury</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST659587_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST659587_region:GB_scale:25000" rel="nofollow">ST659587</a></td><td>1766</td><td>&#160;?</td><td>&#160;?</td><td>&#160;?</td><td>Old &amp; New Pits</td></tr><tr><td>Old Grove</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST661579_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST661579_region:GB_scale:25000" rel="nofollow">ST661579</a></td><td>&#160;?</td><td>&#160;?</td><td>4 6 (1.4)</td><td>4185 (1373)</td><td></td></tr><tr><td>Paulton Bottom</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>&#160;?</td><td>&#160;?</td><td>4 6 (1.4)</td><td>60 (18.3)</td><td></td></tr><tr><td>Paulton Engine</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>before 1750</td><td>&#160;?</td><td>9 0 (2.75)</td><td>609 (185.6)</td><td>Next to Paulton Brass and Iron foundry</td></tr><tr><td>Paulton Ham</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>c1830s</td><td>1964</td><td>6 0 (1.83)</td><td>552 (168.2)</td><td></td></tr><tr><td>Paulton Hill</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>1840</td><td>1864</td><td>&#160;?</td><td>798 (243.2)</td><td></td></tr><tr><td>Radford</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST673577_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST673577_region:GB_scale:25000" rel="nofollow">ST673577</a></td><td>c1800</td><td>1847</td><td>6 (1.8)</td><td>1152 (351.1)</td><td></td></tr><tr><td>Salisbury</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST658557_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST658557_region:GB_scale:25000" rel="nofollow">ST658557</a></td><td>1792</td><td>1873</td><td>6 (1.8)</td><td>150 (45.7)</td></tr><tr><td>Simons Hill (also known as Simmons Hill)</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST650566_region:GB_scale:25000" rel="nofollow">ST650566</a></td><td>1811</td><td>1844</td><td>4 6 (1.4)</td><td>672 (204.8)</td></tr><tr><td>Withy Mills</td><td><a href="../../../../articles/p/a/u/Paulton.html" title="Paulton">Paulton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST661577_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST661577_region:GB_scale:25000" rel="nofollow">ST661577</a></td><td>&#160;?1804</td><td>1877</td><td>4 6 (1.4)</td><td>804 (245)</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

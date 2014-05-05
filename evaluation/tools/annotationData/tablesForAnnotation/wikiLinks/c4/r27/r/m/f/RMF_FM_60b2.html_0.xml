@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r27/r/m/f/RMF_FM_60b2.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.15 0 1, 0.1388889 1, 0.13125001 1 2, 0.125 0 3, 0.11574074 3, 0.109375 2 3, 0.01875 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/r/m/f/RMF_FM_60b2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Białogard</td>]]></html>
+	<text>Bia&#322;ogard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,4</td>]]></html>
+	<text>96,4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Łobez</td>]]></html>
+	<text>&#321;obez</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,3</td>]]></html>
+	<text>91,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Białystok</td>]]></html>
+	<text>Bia&#322;ystok</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,2</td>]]></html>
+	<text>100,2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Łódź</td>]]></html>
+	<text>&#321;&#243;d&#378;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,5</td>]]></html>
+	<text>93,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bielsko-Biała</td>]]></html>
+	<text>Bielsko-Bia&#322;a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,2</td>]]></html>
+	<text>89,2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Olsztyn</td>]]></html>
+	<text>Olsztyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95,3</td>]]></html>
+	<text>95,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bieszczady</td>]]></html>
+	<text>Bieszczady</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,1</td>]]></html>
+	<text>101,1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opole</td>]]></html>
+	<text>Opole</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95,3</td>]]></html>
+	<text>95,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bydgoszcz</td>]]></html>
+	<text>Bydgoszcz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,3</td>]]></html>
+	<text>93,3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ostrołęka</td>]]></html>
+	<text>Ostro&#322;&#281;ka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,5</td>]]></html>
+	<text>91,5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Częstochowa</td>]]></html>
+	<text>Cz&#281;stochowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105,9</td>]]></html>
+	<text>105,9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Piła</td>]]></html>
+	<text>Pi&#322;a</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,6</td>]]></html>
+	<text>96,6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elbląg</td>]]></html>
+	<text>Elbl&#261;g</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,6</td>]]></html>
+	<text>92,6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Płock</td>]]></html>
+	<text>P&#322;ock</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94,3</td>]]></html>
+	<text>94,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ełk</td>]]></html>
+	<text>E&#322;k</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106,5</td>]]></html>
+	<text>106,5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poznań</td>]]></html>
+	<text>Pozna&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94,6</td>]]></html>
+	<text>94,6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gdańsk</td>]]></html>
+	<text>Gda&#324;sk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98,4</td>]]></html>
+	<text>98,4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Przemyśl</td>]]></html>
+	<text>Przemy&#347;l</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103,4</td>]]></html>
+	<text>103,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Giżycko</td>]]></html>
+	<text>Gi&#380;ycko</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102,0</td>]]></html>
+	<text>102,0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rabka</td>]]></html>
+	<text>Rabka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>104,7</td>]]></html>
+	<text>104,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Gorzów Wielkopolski</td>]]></html>
+	<text>Gorz&#243;w Wielkopolski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,1</td>]]></html>
+	<text>96,1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rzeszów</td>]]></html>
+	<text>Rzesz&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,1</td>]]></html>
+	<text>100,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iława</td>]]></html>
+	<text>I&#322;awa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,4</td>]]></html>
+	<text>107,4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Siedlce</td>]]></html>
+	<text>Siedlce</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91,9</td>]]></html>
+	<text>91,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jelenia Góra</td>]]></html>
+	<text>Jelenia G&#243;ra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,8</td>]]></html>
+	<text>100,8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Słupsk</td>]]></html>
+	<text>S&#322;upsk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100,9</td>]]></html>
+	<text>100,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kalisz</td>]]></html>
+	<text>Kalisz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98,0</td>]]></html>
+	<text>98,0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Suwałki</td>]]></html>
+	<text>Suwa&#322;ki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95,1</td>]]></html>
+	<text>95,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Katowice</td>]]></html>
+	<text>Katowice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,0</td>]]></html>
+	<text>93,0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Szczawnica</td>]]></html>
+	<text>Szczawnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103,2</td>]]></html>
+	<text>103,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kielce</td>]]></html>
+	<text>Kielce</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88,2</td>]]></html>
+	<text>88,2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Szczecin</td>]]></html>
+	<text>Szczecin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106,7</td>]]></html>
+	<text>106,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kisielice</td>]]></html>
+	<text>Kisielice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,4</td>]]></html>
+	<text>107,4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Świnoujście</td>]]></html>
+	<text>&#346;winouj&#347;cie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,2</td>]]></html>
+	<text>101,2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kluczbork</td>]]></html>
+	<text>Kluczbork</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99,5</td>]]></html>
+	<text>99,5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tarnów</td>]]></html>
+	<text>Tarn&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95,4</td>]]></html>
+	<text>95,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kłodzko</td>]]></html>
+	<text>K&#322;odzko</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,6</td>]]></html>
+	<text>101,6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wałbrzych</td>]]></html>
+	<text>Wa&#322;brzych</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>102,9</td>]]></html>
+	<text>102,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Konin</td>]]></html>
+	<text>Konin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>98,9</td>]]></html>
+	<text>98,9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warszawa</td>]]></html>
+	<text>Warszawa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90,6 / 91,0</td>]]></html>
+	<text>90,6 / 91,0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Koszalin</td>]]></html>
+	<text>Koszalin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,3 / 104,9</td>]]></html>
+	<text>89,3 / 104,9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Włocławek</td>]]></html>
+	<text>W&#322;oc&#322;awek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94,3</td>]]></html>
+	<text>94,3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kraków</td>]]></html>
+	<text>Krak&#243;w</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,0</td>]]></html>
+	<text>96,0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Włoszczowa</td>]]></html>
+	<text>W&#322;oszczowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97,1</td>]]></html>
+	<text>97,1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Legnica</td>]]></html>
+	<text>Legnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96,1</td>]]></html>
+	<text>96,1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wrocław</td>]]></html>
+	<text>Wroc&#322;aw</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>92,9</td>]]></html>
+	<text>92,9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leżajsk</td>]]></html>
+	<text>Le&#380;ajsk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101,8</td>]]></html>
+	<text>101,8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zamość</td>]]></html>
+	<text>Zamo&#347;&#263;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107,7</td>]]></html>
+	<text>107,7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lębork</td>]]></html>
+	<text>L&#281;bork</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103,4</td>]]></html>
+	<text>103,4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zgorzelec</td>]]></html>
+	<text>Zgorzelec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,8</td>]]></html>
+	<text>93,8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lubań</td>]]></html>
+	<text>Luba&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>93,8</td>]]></html>
+	<text>93,8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zielona Góra</td>]]></html>
+	<text>Zielona G&#243;ra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106,4</td>]]></html>
+	<text>106,4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lublin</td>]]></html>
+	<text>Lublin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>89,3</td>]]></html>
+	<text>89,3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Żagań</td>]]></html>
+	<text>&#379;aga&#324;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94,8</td>]]></html>
+	<text>94,8</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>RMF FM - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>City Frequency City Frequency</text>
+</context>
+<context>
+	<score>0.88938576</score>
+	<text>[ edit ] Frequency UKF in Poland</text>
+</context>
+<context>
+	<score>0.8103083</score>
+	<text>RMF FM</text>
+</context>
+<context>
+	<score>0.7914804</score>
+	<text>RMF FM ( R adio M uzyka F akty FM , previously: R adio M a opolska F un) - a first commercial Polish station. RMF FM started broadcasting on 15 January 1990 in Cracow . RMF is the most popular radio in Poland. The current director is Kazimierz Gr dek. The radio is wholly owned by the German Bauer Verlagsgruppe .</text>
+</context>
+<context>
+	<score>0.75980514</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7437515</score>
+	<text>[ edit ] Frequency UKF in Poland</text>
+</context>
+<context>
+	<score>0.7437515</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7013886</score>
+	<text>Radio RMF FM. Mercedes &amp; Seat Cordoba in Poznan.</text>
+</context>
+<context>
+	<score>0.63872916</score>
+	<text>Radio RMF FM. Seat Ibiza in Poznan.</text>
+</context>
+<context>
+	<score>0.61159194</score>
+	<text>RMF FM on web Information about Radio RMF</text>
+</context>
+<context>
+	<score>0.5886016</score>
+	<text>Radio RMF FM. Kia Sportage in Poznan.</text>
+</context>
+<context>
+	<score>0.5484995</score>
+	<text>&quot;RMF FM&quot; redirects here. For other uses, see RMF FM (disambiguation).</text>
+</context>
+<context>
+	<score>0.54701334</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.52440774</score>
+	<text>This Poland -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.52134806</score>
+	<text>RMF FM</text>
+</context>
+<context>
+	<score>0.4731229</score>
+	<text>This article about a radio station in Europe is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table><tr bgcolor="#BBBBBB"><th align="center" valign="top">City</th><th align="center" valign="top">Frequency</th><th align="center" valign="top">City</th><th align="center" valign="top">Frequency</th></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/b/i/a/Bia%C5%82ogard.html" title="Białogard">Białogard</a></td><td align="center" valign="top">96,4</td><td align="left" valign="top"><a href="../../../../articles/%C5%82/o/b/%C5%81obez.html" title="Łobez">Łobez</a></td><td align="center" valign="top">91,3</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><b><a href="../../../../articles/b/i/a/Bia%C5%82ystok.html" title="Białystok">Białystok</a></b></td><td align="center" valign="top">100,2</td><td align="left" valign="top"><b><a href="../../../../articles/%C5%82/%C3%B3/d/%C5%81%C3%B3d%C5%BA.html" title="Łódź">Łódź</a></b></td><td align="center" valign="top">93,5</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/b/i/e/Bielsko-Bia%C5%82a_c9a3.html" title="Bielsko-Biała">Bielsko-Biała</a></td><td align="center" valign="top">89,2</td><td align="left" valign="top"><b><a href="../../../../articles/o/l/s/Olsztyn.html" title="Olsztyn">Olsztyn</a></b></td><td align="center" valign="top">95,3</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/b/i/e/Bieszczady.html" class="mw-redirect" title="Bieszczady">Bieszczady</a></td><td align="center" valign="top">101,1</td><td align="left" valign="top"><b><a href="../../../../articles/o/p/o/Opole.html" title="Opole">Opole</a></b></td><td align="center" valign="top">95,3</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><b><a href="../../../../articles/b/y/d/Bydgoszcz.html" title="Bydgoszcz">Bydgoszcz</a></b></td><td align="center" valign="top">93,3</td><td align="left" valign="top"><a href="../../../../articles/o/s/t/Ostro%C5%82%C4%99ka.html" title="Ostrołęka">Ostrołęka</a></td><td align="center" valign="top">91,5</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/c/z/%C4%99/Cz%C4%99stochowa.html" title="Częstochowa">Częstochowa</a></td><td align="center" valign="top">105,9</td><td align="left" valign="top"><a href="../../../../articles/p/i/%C5%82/Pi%C5%82a.html" title="Piła">Piła</a></td><td align="center" valign="top">96,6</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/e/l/b/Elbl%C4%85g.html" title="Elbląg">Elbląg</a></td><td align="center" valign="top">92,6</td><td align="left" valign="top"><a href="../../../../articles/p/%C5%82/o/P%C5%82ock.html" title="Płock">Płock</a></td><td align="center" valign="top">94,3</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/e/%C5%82/k/E%C5%82k.html" title="Ełk">Ełk</a></td><td align="center" valign="top">106,5</td><td align="left" valign="top"><b><a href="../../../../articles/p/o/z/Pozna%C5%84.html" title="Poznań">Poznań</a></b></td><td align="center" valign="top">94,6</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><b><a href="../../../../articles/g/d/a/Gda%C5%84sk.html" title="Gdańsk">Gdańsk</a></b></td><td align="center" valign="top">98,4</td><td align="left" valign="top"><a href="../../../../articles/p/r/z/Przemy%C5%9Bl.html" title="Przemyśl">Przemyśl</a></td><td align="center" valign="top">103,4</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/g/i/%C5%BC/Gi%C5%BCycko.html" title="Giżycko">Giżycko</a></td><td align="center" valign="top">102,0</td><td align="left" valign="top"><a href="../../../../articles/r/a/b/Rabka.html" class="mw-redirect" title="Rabka">Rabka</a></td><td align="center" valign="top">104,7</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><b><a href="../../../../articles/g/o/r/Gorz%C3%B3w_Wielkopolski_d622.html" title="Gorzów Wielkopolski">Gorzów Wielkopolski</a></b></td><td align="center" valign="top">96,1</td><td align="left" valign="top"><b><a href="../../../../articles/r/z/e/Rzesz%C3%B3w.html" title="Rzeszów">Rzeszów</a></b></td><td align="center" valign="top">100,1</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/i/%C5%82/a/I%C5%82awa.html" title="Iława">Iława</a></td><td align="center" valign="top">107,4</td><td align="left" valign="top"><a href="../../../../articles/s/i/e/Siedlce.html" title="Siedlce">Siedlce</a></td><td align="center" valign="top">91,9</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/j/e/l/Jelenia_G%C3%B3ra_5558.html" title="Jelenia Góra">Jelenia Góra</a></td><td align="center" valign="top">100,8</td><td align="left" valign="top"><a href="../../../../articles/s/%C5%82/u/S%C5%82upsk.html" title="Słupsk">Słupsk</a></td><td align="center" valign="top">100,9</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/k/a/l/Kalisz.html" title="Kalisz">Kalisz</a></td><td align="center" valign="top">98,0</td><td align="left" valign="top"><a href="../../../../articles/s/u/w/Suwa%C5%82ki.html" title="Suwałki">Suwałki</a></td><td align="center" valign="top">95,1</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><b><a href="../../../../articles/k/a/t/Katowice.html" title="Katowice">Katowice</a></b></td><td align="center" valign="top">93,0</td><td align="left" valign="top"><a href="../../../../articles/s/z/c/Szczawnica.html" title="Szczawnica">Szczawnica</a></td><td align="center" valign="top">103,2</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><b><a href="../../../../articles/k/i/e/Kielce.html" title="Kielce">Kielce</a></b></td><td align="center" valign="top">88,2</td><td align="left" valign="top"><b><a href="../../../../articles/s/z/c/Szczecin.html" title="Szczecin">Szczecin</a></b></td><td align="center" valign="top">106,7</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/k/i/s/Kisielice.html" title="Kisielice">Kisielice</a></td><td align="center" valign="top">107,4</td><td align="left" valign="top"><a href="../../../../articles/%C5%9B/w/i/%C5%9Awinouj%C5%9Bcie.html" title="Świnoujście">Świnoujście</a></td><td align="center" valign="top">101,2</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/k/l/u/Kluczbork.html" title="Kluczbork">Kluczbork</a></td><td align="center" valign="top">99,5</td><td align="left" valign="top"><a href="../../../../articles/t/a/r/Tarn%C3%B3w.html" title="Tarnów">Tarnów</a></td><td align="center" valign="top">95,4</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/k/%C5%82/o/K%C5%82odzko.html" title="Kłodzko">Kłodzko</a></td><td align="center" valign="top">101,6</td><td align="left" valign="top"><a href="../../../../articles/w/a/%C5%82/Wa%C5%82brzych.html" title="Wałbrzych">Wałbrzych</a></td><td align="center" valign="top">102,9</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/k/o/n/Konin.html" title="Konin">Konin</a></td><td align="center" valign="top">98,9</td><td align="left" valign="top"><b><a href="../../../../articles/w/a/r/Warszawa.html" class="mw-redirect" title="Warszawa">Warszawa</a></b></td><td align="center" valign="top">90,6 / 91,0</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/k/o/s/Koszalin.html" title="Koszalin">Koszalin</a></td><td align="center" valign="top">89,3 / 104,9</td><td align="left" valign="top"><a href="../../../../articles/w/%C5%82/o/W%C5%82oc%C5%82awek.html" title="Włocławek">Włocławek</a></td><td align="center" valign="top">94,3</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><b><a href="../../../../articles/k/r/a/Krak%C3%B3w.html" title="Kraków">Kraków</a></b></td><td align="center" valign="top">96,0</td><td align="left" valign="top"><a href="../../../../articles/w/%C5%82/o/W%C5%82oszczowa.html" title="Włoszczowa">Włoszczowa</a></td><td align="center" valign="top">97,1</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/l/e/g/Legnica.html" title="Legnica">Legnica</a></td><td align="center" valign="top">96,1</td><td align="left" valign="top"><b><a href="../../../../articles/w/r/o/Wroc%C5%82aw.html" title="Wrocław">Wrocław</a></b></td><td align="center" valign="top">92,9</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/l/e/%C5%BC/Le%C5%BCajsk.html" title="Leżajsk">Leżajsk</a></td><td align="center" valign="top">101,8</td><td align="left" valign="top"><a href="../../../../articles/z/a/m/Zamo%C5%9B%C4%87.html" title="Zamość">Zamość</a></td><td align="center" valign="top">107,7</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><a href="../../../../articles/l/%C4%99/b/L%C4%99bork.html" title="Lębork">Lębork</a></td><td align="center" valign="top">103,4</td><td align="left" valign="top"><a href="../../../../articles/z/g/o/Zgorzelec.html" title="Zgorzelec">Zgorzelec</a></td><td align="center" valign="top">93,8</td></tr><tr bgcolor="#DFDFDD"><td align="left" valign="top"><a href="../../../../articles/l/u/b/Luba%C5%84.html" title="Lubań">Lubań</a></td><td align="center" valign="top">93,8</td><td align="left" valign="top"><a href="../../../../articles/z/i/e/Zielona_G%C3%B3ra_5602.html" title="Zielona Góra">Zielona Góra</a></td><td align="center" valign="top">106,4</td></tr><tr bgcolor="#E0E8EE"><td align="left" valign="top"><b><a href="../../../../articles/l/u/b/Lublin.html" title="Lublin">Lublin</a></b></td><td align="center" valign="top">89,3</td><td align="left" valign="top"><a href="../../../../articles/%C5%BC/a/g/%C5%BBaga%C5%84.html" title="Żagań">Żagań</a></td><td align="center" valign="top">94,8</td></tr></table>]]>
+</htmlSnippet>
+</entity>

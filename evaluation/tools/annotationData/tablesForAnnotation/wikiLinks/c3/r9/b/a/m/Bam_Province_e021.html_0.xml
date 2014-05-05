@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/b/a/m/Bam_Province_e021.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.13333334 2, 0.13333334 0 2, 0.11111112 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/b/a/m/Bam_Province_e021.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Departments</th>]]></html>
+	<text>Departments</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capital city</th>]]></html>
+	<text>Capital city</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (Census 2006) [1]</th>]]></html>
+	<text>Population (Census 2006) [1]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bourzanga Department</td>]]></html>
+	<text>Bourzanga Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bourzanga</td>]]></html>
+	<text>Bourzanga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48,545</td>]]></html>
+	<text>48,545</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guibare Department</td>]]></html>
+	<text>Guibare Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guibare</td>]]></html>
+	<text>Guibare</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,830</td>]]></html>
+	<text>23,830</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kongoussi Department</td>]]></html>
+	<text>Kongoussi Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kongoussi</td>]]></html>
+	<text>Kongoussi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>68,807</td>]]></html>
+	<text>68,807</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nassere Department</td>]]></html>
+	<text>Nassere Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nassere</td>]]></html>
+	<text>Nassere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,507</td>]]></html>
+	<text>10,507</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rollo Department</td>]]></html>
+	<text>Rollo Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rollo</td>]]></html>
+	<text>Rollo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26,722</td>]]></html>
+	<text>26,722</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rouko Department</td>]]></html>
+	<text>Rouko Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rouko</td>]]></html>
+	<text>Rouko</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13,651</td>]]></html>
+	<text>13,651</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sabce Department</td>]]></html>
+	<text>Sabce Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sabce</td>]]></html>
+	<text>Sabce</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,668</td>]]></html>
+	<text>23,668</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tikare Department</td>]]></html>
+	<text>Tikare Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tikare</td>]]></html>
+	<text>Tikare</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37,702</td>]]></html>
+	<text>37,702</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zimtenga Department</td>]]></html>
+	<text>Zimtenga Department</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zimtenga</td>]]></html>
+	<text>Zimtenga</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23,660</td>]]></html>
+	<text>23,660</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>The Departments of Bam</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Bam Province - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Departments Capital city Population (Census 2006) [1]</text>
+</context>
+<context>
+	<score>0.8776183</score>
+	<text>Bam is divided into 9 departments:</text>
+</context>
+<context>
+	<score>0.80520916</score>
+	<text>Bam Province</text>
+</context>
+<context>
+	<score>0.7924609</score>
+	<text>Bam is one of the 45 provinces of Burkina Faso . It is in Centre-Nord Region and the capital of Bam is Kongoussi . In 2006 it had a population of 277092. It is a rural province with 252,509 of its residents living in the countryside; only 24,583 live in urban areas. There are 132,086 men living in Bam Province and 145,006 women.</text>
+</context>
+<context>
+	<score>0.76078576</score>
+	<text>[ edit ] Twin towns</text>
+</context>
+<context>
+	<score>0.73963284</score>
+	<text>[ edit ] Twin towns</text>
+</context>
+<context>
+	<score>0.73963284</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73963284</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72688484</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.66422534</score>
+	<text>Bam Province</text>
+</context>
+<context>
+	<score>0.61257255</score>
+	<text>Kongoussi is twinned with: Canteleu , Seine-Maritime , France [2] Landerneau , Finist re , France [3]</text>
+</context>
+<context>
+	<score>0.52538836</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.47410354</score>
+	<text>[ edit ] References</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><caption>The Departments of Bam</caption><tr><th bgcolor="#BBBBFF">Departments</th><th bgcolor="#BBBBFF">Capital city</th><th bgcolor="#BBBBFF">Population<br />(Census 2006)<sup id="cite_ref-c2006_0-1" class="reference"><a href="#cite_note-c2006-0" title="">[1]</a></sup></th></tr><tr><td><a href="../../../../articles/b/o/u/Bourzanga_Department_4bf1.html" title="Bourzanga Department">Bourzanga Department</a></td><td><a href="../../../../articles/b/o/u/Bourzanga.html" title="Bourzanga">Bourzanga</a></td><td>48,545</td></tr><tr><td><a href="../../../../articles/g/u/i/Guibare_Department_4dcb.html" title="Guibare Department">Guibare Department</a></td><td><a href="../../../../articles/g/u/i/Guibare.html" title="Guibare">Guibare</a></td><td>23,830</td></tr><tr><td><a href="../../../../articles/k/o/n/Kongoussi_Department_139e.html" title="Kongoussi Department">Kongoussi Department</a></td><td><a href="../../../../articles/k/o/n/Kongoussi.html" title="Kongoussi">Kongoussi</a></td><td>68,807</td></tr><tr><td><a href="../../../../articles/n/a/s/Nassere_Department_15de.html" title="Nassere Department">Nassere Department</a></td><td><a href="../../../../articles/n/a/s/Nassere.html" title="Nassere">Nassere</a></td><td>10,507</td></tr><tr><td><a href="../../../../articles/r/o/l/Rollo_Department_c6bb.html" title="Rollo Department">Rollo Department</a></td><td><a href="../../../../articles/r/o/l/Rollo%2C_Burkina_Faso_a220.html" title="Rollo, Burkina Faso">Rollo</a></td><td>26,722</td></tr><tr><td><a href="../../../../articles/r/o/u/Rouko_Department_ffd0.html" title="Rouko Department">Rouko Department</a></td><td><a href="../../../../articles/r/o/u/Rouko.html" title="Rouko">Rouko</a></td><td>13,651</td></tr><tr><td><a href="../../../../articles/s/a/b/Sabce_Department_bb47.html" title="Sabce Department">Sabce Department</a></td><td>Sabce</td><td>23,668</td></tr><tr><td><a href="../../../../articles/t/i/k/Tikare_Department_45cd.html" title="Tikare Department">Tikare Department</a></td><td><a href="../../../../articles/t/i/k/Tikare.html" title="Tikare">Tikare</a></td><td>37,702</td></tr><tr><td><a href="../../../../articles/z/i/m/Zimtenga_Department_d240.html" title="Zimtenga Department">Zimtenga Department</a></td><td>Zimtenga</td><td>23,660</td></tr></table>]]>
+</htmlSnippet>
+</entity>

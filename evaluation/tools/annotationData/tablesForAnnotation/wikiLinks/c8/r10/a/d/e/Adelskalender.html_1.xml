@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r10/a/d/e/Adelskalender.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9375 1 2, 0.46875 2, 0.175 3, 0.175 1 3, 0.1640625 2 3, 0.16250001 1 4, 0.15234375 2 4, 0.15 5, 0.15 1 5, 0.14625001 4, 0.140625 2 5, 0.1375 6, 0.1375 1 6, 0.12890625 2 6, 0.125 7, 0.125 1 7, 0.1171875 2 7, 0.112500004 0, 0.112500004 0 1, 0.10546876 0 2, 0.028437499 3 4, 0.02625 3 5, 0.024375001 4 5, 0.0240625 3 6, 0.022343753 4 6, 0.021875 3 7, 0.020625 5 6, 0.020312501 4 7, 0.019687502 0 3, 0.01875 5 7, 0.018281251 0 4, 0.0171875 6 7, 0.016875 0 5, 0.015468751 0 6, 0.014062501 0 7, " />
+<meta name="parentHTMLDoc" value="en/articles/a/d/e/Adelskalender.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Pos</th>]]></html>
+	<text>Pos</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>500 m</th>]]></html>
+	<text>500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1500 m</th>]]></html>
+	<text>1500 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>3000 m</th>]]></html>
+	<text>3000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>5000 m</th>]]></html>
+	<text>5000 m</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Samalog</th>]]></html>
+	<text>Samalog</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cindy Klassen</td>]]></html>
+	<text>Cindy Klassen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</td>]]></html>
+	<text>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.51</td>]]></html>
+	<text>37.51</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:51.79</td>]]></html>
+	<text>1:51.79</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:53.34</td>]]></html>
+	<text>3:53.34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:48.97</td>]]></html>
+	<text>6:48.97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>154.560</td>]]></html>
+	<text>154.560</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anni Friesinger</td>]]></html>
+	<text>Anni Friesinger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</td>]]></html>
+	<text>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.77</td>]]></html>
+	<text>37.77</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:53.09</td>]]></html>
+	<text>1:53.09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:58.52</td>]]></html>
+	<text>3:58.52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:58.39</td>]]></html>
+	<text>6:58.39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>157.058</td>]]></html>
+	<text>157.058</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Claudia Pechstein</td>]]></html>
+	<text>Claudia Pechstein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</td>]]></html>
+	<text>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.99</td>]]></html>
+	<text>38.99</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:54.31</td>]]></html>
+	<text>1:54.31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:57.35</td>]]></html>
+	<text>3:57.35</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:46.91</td>]]></html>
+	<text>6:46.91</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>157.342</td>]]></html>
+	<text>157.342</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ireen Wüst</td>]]></html>
+	<text>Ireen W&#252;st</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png Netherlands</td>]]></html>
+	<text>../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.44</td>]]></html>
+	<text>38.44</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:52.38</td>]]></html>
+	<text>1:52.38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:59.74</td>]]></html>
+	<text>3:59.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:57.87</td>]]></html>
+	<text>6:57.87</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>157.643</td>]]></html>
+	<text>157.643</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kristina Groves</td>]]></html>
+	<text>Kristina Groves</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</td>]]></html>
+	<text>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.75</td>]]></html>
+	<text>38.75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:53.18</td>]]></html>
+	<text>1:53.18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:58.62</td>]]></html>
+	<text>3:58.62</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:54.55</td>]]></html>
+	<text>6:54.55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>157.701</td>]]></html>
+	<text>157.701</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Martina Sáblíková</td>]]></html>
+	<text>Martina S&#225;bl&#237;kov&#225;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png Czech Republic</td>]]></html>
+	<text>../../../../images/shared/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40.58</td>]]></html>
+	<text>40.58</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:54.55</td>]]></html>
+	<text>1:54.55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:55.83</td>]]></html>
+	<text>3:55.83</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:45.61</td>]]></html>
+	<text>6:45.61</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>158.629</td>]]></html>
+	<text>158.629</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Daniela Anschutz-Thoms</td>]]></html>
+	<text>Daniela Anschutz-Thoms</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</td>]]></html>
+	<text>../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.38</td>]]></html>
+	<text>39.38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:55.29</td>]]></html>
+	<text>1:55.29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:58.59</td>]]></html>
+	<text>3:58.59</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6:56.15</td>]]></html>
+	<text>6:56.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>158.693</td>]]></html>
+	<text>158.693</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Renate Groenewold</td>]]></html>
+	<text>Renate Groenewold</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png Netherlands</td>]]></html>
+	<text>../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.48</td>]]></html>
+	<text>39.48</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:55.29</td>]]></html>
+	<text>1:55.29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3:55.98</td>]]></html>
+	<text>3:55.98</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7:01.21</td>]]></html>
+	<text>7:01.21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>159.361</td>]]></html>
+	<text>159.361</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maki Tabata</td>]]></html>
+	<text>Maki Tabata</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</td>]]></html>
+	<text>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.18</td>]]></html>
+	<text>39.18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:54.56</td>]]></html>
+	<text>1:54.56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:01.01</td>]]></html>
+	<text>4:01.01</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7:00.09</td>]]></html>
+	<text>7:00.09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>159.543</td>]]></html>
+	<text>159.543</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Christine Nesbitt</td>]]></html>
+	<text>Christine Nesbitt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</td>]]></html>
+	<text>../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png Canada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.41</td>]]></html>
+	<text>38.41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1:52.75</td>]]></html>
+	<text>1:52.75</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4:05.42</td>]]></html>
+	<text>4:05.42</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7:07.15</td>]]></html>
+	<text>7:07.15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>159.611</td>]]></html>
+	<text>159.611</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Adelskalender - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Pos Name Country 500 m 1500 m 3000 m 5000 m Samalog</text>
+</context>
+<context>
+	<score>0.8754325</score>
+	<text>This table is correct as of 2008 - 01-13 . Times in bold are the current world records at that distance. For comparison: the world record small combination (similar to the women&apos;s Adelskalender samalog, only for times in one weekend) is 154.580, by Cindy Klassen .</text>
+</context>
+<context>
+	<score>0.78118753</score>
+	<text>Adelskalender</text>
+</context>
+<context>
+	<score>0.7700512</score>
+	<text>[ edit ] Women</text>
+</context>
+<context>
+	<score>0.7359573</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7040416</score>
+	<text>[ edit ] Description</text>
+</context>
+<context>
+	<score>0.7040416</score>
+	<text>[ edit ] Example calculation</text>
+</context>
+<context>
+	<score>0.7040416</score>
+	<text>[ edit ] Caveats</text>
+</context>
+<context>
+	<score>0.7040416</score>
+	<text>[ edit ] Current Adelskalendern</text>
+</context>
+<context>
+	<score>0.7040416</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.6968826</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.68574625</score>
+	<text>This table is correct as of 2008 - 03-14 . Times in bold are the current world records at that distance. For comparison: the world record big combination (similar to the men&apos;s Adelskalender samalog, only for times in one weekend) is 145.742, by Shani Davis .</text>
+</context>
+<context>
+	<score>0.61830217</score>
+	<text>[ edit ] Men</text>
+</context>
+<context>
+	<score>0.57642686</score>
+	<text>Current rankings in the men&apos;s Adelskalender - maintained by Evert Stenlund Current rankings in the women&apos;s Adelskalender - maintained by Evert Stenlund</text>
+</context>
+<context>
+	<score>0.564347</score>
+	<text>[ edit ] Current Adelskalendern</text>
+</context>
+<context>
+	<score>0.5211829</score>
+	<text>Even comparison of concurrent skaters can be distorted by the opportunity skaters have to train and compete on fast rinks. For example, before the 1960s, skaters were dependent on long periods of frost, less common at more southerly latitudes. The effect of access to high altitude rings was especially notable from 1973 to 1986, when most world records were set at Medeo , a rink at 1,691 m in Kazakhstan , which was rarely accessible to non-Soviet skaters. In 1977-8, the Adelskalender top 10 was comprised almost entirely of times set at Medeo, and many skaters in the top 10 never performed well at international meets. Currently, the two fastest speed skating rinks are the high altitude covered rinks at Calgary and Salt Lake City , both in North America.</text>
+</context>
+<context>
+	<score>0.4866515</score>
+	<text>Among major technical developments were the introduction of artificial icerinks in about 1960, aerodynamics suits in 1975, covered and climate-controlled skating rinks in 1986, and the clap skate in 1996. Also, over time, more high altitude skating rinks have been built; the lower air pressure at higher altitude greatly benefits the skater&apos;s speed and world records generally are set at high altitude. This has led to people maintaining separate low-altitude rankings.</text>
+</context>
+<context>
+	<score>0.48258543</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4590265</score>
+	<text>Speed skating records have improved dramatically over the years due to a combination of larger participation, introduction of professionalism, and, especially, technical developments, distorting the comparison of the accomplishments of skaters over time. For comparison, the ranking leader on January 1, 1900 ( Jaap Eden ) had a score of 202.226, &quot;averaging&quot; 35.6 km/h . In 1925 Oscar Mathisen led with 192.860 (37.3 km/h), in 1950 ke Seyffarth led with 188.678 (38.2 km/h), in 1975 Ard Schenk led with 166.241 (43.3 km/h), and in 2000 Rintje Ritsma led with 150.720 (47.8 km/h).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Pos</th><th>Name</th><th>Country</th><th>500&#160;m</th><th>1500&#160;m</th><th>3000 m</th><th>5000 m</th><th><a href="../../../../articles/s/a/m/Samalog.html" title="Samalog">Samalog</a></th></tr><tr><td>1</td><td><a href="../../../../articles/c/i/n/Cindy_Klassen_a81d.html" title="Cindy Klassen">Cindy Klassen</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Canada.svg_0783.html" class="image" title="Flag of Canada"><img alt="Flag of Canada" src="../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png" width="22" height="11" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>37.51</td><td><b>1:51.79</b></td><td><b>3:53.34</b></td><td>6:48.97</td><td>154.560</td></tr><tr><td>2</td><td><a href="../../../../articles/a/n/n/Anni_Friesinger_d55c.html" title="Anni Friesinger">Anni Friesinger</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Germany.svg_8993.html" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>37.77</td><td>1:53.09</td><td>3:58.52</td><td>6:58.39</td><td>157.058</td></tr><tr><td>3</td><td><a href="../../../../articles/c/l/a/Claudia_Pechstein_4954.html" title="Claudia Pechstein">Claudia Pechstein</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Germany.svg_8993.html" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>38.99</td><td>1:54.31</td><td>3:57.35</td><td>6:46.91</td><td>157.342</td></tr><tr><td>4</td><td><a href="../../../../articles/i/r/e/Ireen_W%C3%BCst_e1ac.html" title="Ireen Wüst">Ireen Wüst</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_the_Netherlands.svg_7dec.html" class="image" title="Flag of the Netherlands"><img alt="Flag of the Netherlands" src="../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>38.44</td><td>1:52.38</td><td>3:59.74</td><td>6:57.87</td><td>157.643</td></tr><tr><td>5</td><td><a href="../../../../articles/k/r/i/Kristina_Groves_9f94.html" title="Kristina Groves">Kristina Groves</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Canada.svg_0783.html" class="image" title="Flag of Canada"><img alt="Flag of Canada" src="../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png" width="22" height="11" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>38.75</td><td>1:53.18</td><td>3:58.62</td><td>6:54.55</td><td>157.701</td></tr><tr><td>6</td><td><a href="../../../../articles/m/a/r/Martina_S%C3%A1bl%C3%ADkov%C3%A1_ddb6.html" title="Martina Sáblíková">Martina Sáblíková</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_the_Czech_Republic.svg_c483.html" class="image" title="Flag of the Czech Republic"><img alt="Flag of the Czech Republic" src="../../../../images/shared/thumb/c/cb/Flag_of_the_Czech_Republic.svg/22px-Flag_of_the_Czech_Republic.svg.png" width="22" height="15" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td>40.58</td><td>1:54.55</td><td>3:55.83</td><td><b>6:45.61</b></td><td>158.629</td></tr><tr><td>7</td><td><a href="../../../../articles/d/a/n/Daniela_Anschutz-Thoms_42c5.html" class="mw-redirect" title="Daniela Anschutz-Thoms">Daniela Anschutz-Thoms</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Germany.svg_8993.html" class="image" title="Flag of Germany"><img alt="Flag of Germany" src="../../../../images/shared/thumb/b/ba/Flag_of_Germany.svg/22px-Flag_of_Germany.svg.png" width="22" height="13" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>39.38</td><td>1:55.29</td><td>3:58.59</td><td>6:56.15</td><td>158.693</td></tr><tr><td>8</td><td><a href="../../../../articles/r/e/n/Renate_Groenewold_193d.html" title="Renate Groenewold">Renate Groenewold</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_the_Netherlands.svg_7dec.html" class="image" title="Flag of the Netherlands"><img alt="Flag of the Netherlands" src="../../../../images/shared/thumb/2/20/Flag_of_the_Netherlands.svg/22px-Flag_of_the_Netherlands.svg.png" width="22" height="15" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>39.48</td><td>1:55.29</td><td>3:55.98</td><td>7:01.21</td><td>159.361</td></tr><tr><td>9</td><td><a href="../../../../articles/m/a/k/Maki_Tabata_8c6f.html" title="Maki Tabata">Maki Tabata</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Japan.svg_6db6.html" class="image" title="Flag of Japan"><img alt="Flag of Japan" src="../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" width="22" height="15" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>39.18</td><td>1:54.56</td><td>4:01.01</td><td>7:00.09</td><td>159.543</td></tr><tr><td>10</td><td><a href="../../../../articles/c/h/r/Christine_Nesbitt_2c55.html" title="Christine Nesbitt">Christine Nesbitt</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Canada.svg_0783.html" class="image" title="Flag of Canada"><img alt="Flag of Canada" src="../../../../images/shared/thumb/c/cf/Flag_of_Canada.svg/22px-Flag_of_Canada.svg.png" width="22" height="11" border="0" class="thumbborder" /></a>&#160;</span><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a></td><td>38.41</td><td>1:52.75</td><td>4:05.42</td><td>7:07.15</td><td>159.611</td></tr></table>]]>
+</htmlSnippet>
+</entity>

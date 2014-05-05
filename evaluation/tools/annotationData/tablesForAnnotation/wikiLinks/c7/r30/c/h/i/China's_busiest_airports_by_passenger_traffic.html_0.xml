@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r30/c/h/i/China&apos;s_busiest_airports_by_passenger_traffic.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9285714 2, 0.9285714 1 2, 0.85714287 3, 0.85714287 1 3, 0.79591835 2 3, 0.15714286 4, 0.15714286 1 4, 0.14591835 2 4, 0.14285715 0, 0.14285715 0 1, 0.13469388 3 4, 0.13265306 0 2, 0.12244899 0 3, 0.06428572 1 5, 0.059693873 2 5, 0.05714286 1 6, 0.05510204 3 5, 0.05333334 6, 0.053061225 2 6, 0.048979595 3 6, 0.022448981 0 4, 0.012857144 5, 0.010102041 4 5, 0.009183674 0 5, 0.0089795925 4 6, 0.008163266 0 6, 0.0035510205 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/c/h/i/China&apos;s_busiest_airports_by_passenger_traffic.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport</th>]]></html>
+	<text>Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Code (IATA/ICAO)</th>]]></html>
+	<text>Code (IATA/ICAO)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Total passengers</th>]]></html>
+	<text>Total passengers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rank Change</th>]]></html>
+	<text>Rank Change</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% Change</th>]]></html>
+	<text>% Change</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1.</td>]]></html>
+	<text>1.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beijing Capital International Airport</td>]]></html>
+	<text>Beijing Capital International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chaoyang , Beijing</td>]]></html>
+	<text>Chaoyang , Beijing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PEK/ZBAA</td>]]></html>
+	<text>PEK/ZBAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53,611,747</td>]]></html>
+	<text>53,611,747</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 10.0%</td>]]></html>
+	<text>&#9650; 10.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2.</td>]]></html>
+	<text>2.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guangzhou Baiyun International Airport</td>]]></html>
+	<text>Guangzhou Baiyun International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Baiyun District , Guangzhou , Guangdong</td>]]></html>
+	<text>Baiyun District , Guangzhou , Guangdong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CAN/ZGGG</td>]]></html>
+	<text>CAN/ZGGG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30,958,467</td>]]></html>
+	<text>30,958,467</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 18.1%</td>]]></html>
+	<text>&#9650; 18.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.</td>]]></html>
+	<text>3.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shanghai Pudong International Airport</td>]]></html>
+	<text>Shanghai Pudong International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pudong District , Shanghai</td>]]></html>
+	<text>Pudong District , Shanghai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PVG/ZSPD</td>]]></html>
+	<text>PVG/ZSPD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28,920,432</td>]]></html>
+	<text>28,920,432</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 1</td>]]></html>
+	<text>&#9660; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 8.0%</td>]]></html>
+	<text>&#9650; 8.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4.</td>]]></html>
+	<text>4.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shanghai Hongqiao International Airport</td>]]></html>
+	<text>Shanghai Hongqiao International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Changning District , Shanghai</td>]]></html>
+	<text>Changning District , Shanghai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SHA/ZSSS</td>]]></html>
+	<text>SHA/ZSSS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22,632,962</td>]]></html>
+	<text>22,632,962</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 17.0%</td>]]></html>
+	<text>&#9650; 17.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5.</td>]]></html>
+	<text>5.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shenzhen Bao'an International Airport</td>]]></html>
+	<text>Shenzhen Bao&amp;apos;an International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bao'an District , Shenzhen , Guangdong</td>]]></html>
+	<text>Bao&amp;apos;an District , Shenzhen , Guangdong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SZX/ZGSZ</td>]]></html>
+	<text>SZX/ZGSZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20,619,164</td>]]></html>
+	<text>20,619,164</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 12.3%</td>]]></html>
+	<text>&#9650; 12.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6.</td>]]></html>
+	<text>6.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chengdu Shuangliu International Airport</td>]]></html>
+	<text>Chengdu Shuangliu International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shuangliu County , Chengdu , Sichuan</td>]]></html>
+	<text>Shuangliu County , Chengdu , Sichuan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CDG/ZUUU</td>]]></html>
+	<text>CDG/ZUUU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18,574,284</td>]]></html>
+	<text>18,574,284</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 14.1%</td>]]></html>
+	<text>&#9650; 14.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7.</td>]]></html>
+	<text>7.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kunming Wujiaba International Airport</td>]]></html>
+	<text>Kunming Wujiaba International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kunming , Yunnan</td>]]></html>
+	<text>Kunming , Yunnan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KMG/ZPPP</td>]]></html>
+	<text>KMG/ZPPP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15,725,791</td>]]></html>
+	<text>15,725,791</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 8.9%</td>]]></html>
+	<text>&#9650; 8.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8.</td>]]></html>
+	<text>8.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hangzhou Xiaoshan International Airport</td>]]></html>
+	<text>Hangzhou Xiaoshan International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xiaoshan District , Hangzhou , Zhejiang</td>]]></html>
+	<text>Xiaoshan District , Hangzhou , Zhejiang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HGH/ZSHC</td>]]></html>
+	<text>HGH/ZSHC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,729,983</td>]]></html>
+	<text>11,729,983</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 18.3%</td>]]></html>
+	<text>&#9650; 18.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9.</td>]]></html>
+	<text>9.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xi'an Xianyang International Airport</td>]]></html>
+	<text>Xi&amp;apos;an Xianyang International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xianyang , Shaanxi</td>]]></html>
+	<text>Xianyang , Shaanxi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XIY/ZLXY</td>]]></html>
+	<text>XIY/ZLXY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11,372,630</td>]]></html>
+	<text>11,372,630</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 21.4%</td>]]></html>
+	<text>&#9650; 21.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10.</td>]]></html>
+	<text>10.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chongqing Jiangbei International Airport</td>]]></html>
+	<text>Chongqing Jiangbei International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jiangbei District , Chongqing</td>]]></html>
+	<text>Jiangbei District , Chongqing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CKG/ZUCK</td>]]></html>
+	<text>CKG/ZUCK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,355,730</td>]]></html>
+	<text>10,355,730</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 28.6%</td>]]></html>
+	<text>&#9650; 28.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11.</td>]]></html>
+	<text>11.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xiamen Gaoqi International Airport</td>]]></html>
+	<text>Xiamen Gaoqi International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Xiamen , Fujian</td>]]></html>
+	<text>Xiamen , Fujian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XMN/ZSAM</td>]]></html>
+	<text>XMN/ZSAM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,684,662</td>]]></html>
+	<text>8,684,662</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 15.8%</td>]]></html>
+	<text>&#9650; 15.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12.</td>]]></html>
+	<text>12.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wuhan Tianhe International Airport</td>]]></html>
+	<text>Wuhan Tianhe International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wuhan , Hubei</td>]]></html>
+	<text>Wuhan , Hubei</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WUH/ZHHH</td>]]></html>
+	<text>WUH/ZHHH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,356,340</td>]]></html>
+	<text>8,356,340</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 5</td>]]></html>
+	<text>&#9650; 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 37.0%</td>]]></html>
+	<text>&#9650; 37.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13.</td>]]></html>
+	<text>13.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Changsha Huanghua International Airport</td>]]></html>
+	<text>Changsha Huanghua International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Changsha , Hunan</td>]]></html>
+	<text>Changsha , Hunan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CSX/ZGHA</td>]]></html>
+	<text>CSX/ZGHA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,069,989</td>]]></html>
+	<text>8,069,989</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 22.4%</td>]]></html>
+	<text>&#9650; 22.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14.</td>]]></html>
+	<text>14.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nanjing Lukou International Airport</td>]]></html>
+	<text>Nanjing Lukou International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Nanjing , Jiangsu</td>]]></html>
+	<text>Nanjing , Jiangsu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NKG/ZSNJ</td>]]></html>
+	<text>NKG/ZSNJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,037,189</td>]]></html>
+	<text>8,037,189</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 2</td>]]></html>
+	<text>&#9650; 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 28.2%</td>]]></html>
+	<text>&#9650; 28.2%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15.</td>]]></html>
+	<text>15.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qingdao Liuting International Airport</td>]]></html>
+	<text>Qingdao Liuting International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Qingdao , Shandong</td>]]></html>
+	<text>Qingdao , Shandong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TAO/ZSQD</td>]]></html>
+	<text>TAO/ZSQD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,867,982</td>]]></html>
+	<text>7,867,982</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 3</td>]]></html>
+	<text>&#9660; 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 15.9%</td>]]></html>
+	<text>&#9650; 15.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16.</td>]]></html>
+	<text>16.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dalian Zhoushuizi International Airport</td>]]></html>
+	<text>Dalian Zhoushuizi International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dalian , Liaoning</td>]]></html>
+	<text>Dalian , Liaoning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DLC/ZYTL</td>]]></html>
+	<text>DLC/ZYTL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,281,084</td>]]></html>
+	<text>7,281,084</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 1</td>]]></html>
+	<text>&#9660; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 14.6%</td>]]></html>
+	<text>&#9650; 14.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17.</td>]]></html>
+	<text>17.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Haikou Meilan International Airport</td>]]></html>
+	<text>Haikou Meilan International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Haikou , Hainan</td>]]></html>
+	<text>Haikou , Hainan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HAK/ZJHK</td>]]></html>
+	<text>HAK/ZJHK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,265,349</td>]]></html>
+	<text>7,265,349</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 4</td>]]></html>
+	<text>&#9660; 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 8.9%</td>]]></html>
+	<text>&#9650; 8.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18.</td>]]></html>
+	<text>18.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shenyang Taoxian International Airport</td>]]></html>
+	<text>Shenyang Taoxian International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shenyang , Liaoning</td>]]></html>
+	<text>Shenyang , Liaoning</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SHE/ZYTX</td>]]></html>
+	<text>SHE/ZYTX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,190,448</td>]]></html>
+	<text>6,190,448</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 15.8%</td>]]></html>
+	<text>&#9650; 15.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19.</td>]]></html>
+	<text>19.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ürümqi Diwopu International Airport</td>]]></html>
+	<text>&#220;r&#252;mqi Diwopu International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ürümqi , Xinjiang Uygur Autonomous Region</td>]]></html>
+	<text>&#220;r&#252;mqi , Xinjiang Uygur Autonomous Region</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>URC/ZWWW</td>]]></html>
+	<text>URC/ZWWW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,169,981</td>]]></html>
+	<text>6,169,981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▬</td>]]></html>
+	<text>&#9644;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 20.1%</td>]]></html>
+	<text>&#9650; 20.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20.</td>]]></html>
+	<text>20.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanya Phoenix International Airport</td>]]></html>
+	<text>Sanya Phoenix International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanya , Hainan</td>]]></html>
+	<text>Sanya , Hainan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SYX/ZJSY</td>]]></html>
+	<text>SYX/ZJSY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,311,622</td>]]></html>
+	<text>5,311,622</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 36.0%</td>]]></html>
+	<text>&#9650; 36.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21.</td>]]></html>
+	<text>21.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zhengzhou Xinzheng International Airport</td>]]></html>
+	<text>Zhengzhou Xinzheng International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zhengzhou , Henan</td>]]></html>
+	<text>Zhengzhou , Henan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CGO/ZHCC</td>]]></html>
+	<text>CGO/ZHCC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,002,102</td>]]></html>
+	<text>5,002,102</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 28.9%</td>]]></html>
+	<text>&#9650; 28.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22.</td>]]></html>
+	<text>22.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guilin Liangjiang International Airport</td>]]></html>
+	<text>Guilin Liangjiang International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guilin , Guangxi Zhuang Autonomous Region</td>]]></html>
+	<text>Guilin , Guangxi Zhuang Autonomous Region</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KWL/ZGKL</td>]]></html>
+	<text>KWL/ZGKL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,665,021</td>]]></html>
+	<text>4,665,021</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 2</td>]]></html>
+	<text>&#9660; 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 16.7%</td>]]></html>
+	<text>&#9650; 16.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>23.</td>]]></html>
+	<text>23.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harbin Taiping International Airport</td>]]></html>
+	<text>Harbin Taiping International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Harbin , Heilongjiang</td>]]></html>
+	<text>Harbin , Heilongjiang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HRB/ZYHB</td>]]></html>
+	<text>HRB/ZYHB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,432,645</td>]]></html>
+	<text>4,432,645</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 3</td>]]></html>
+	<text>&#9650; 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 21.7%</td>]]></html>
+	<text>&#9650; 21.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24.</td>]]></html>
+	<text>24.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jinan Yaoqiang Airport</td>]]></html>
+	<text>Jinan Yaoqiang Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jinan , Shandong</td>]]></html>
+	<text>Jinan , Shandong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TNA/ZSJN</td>]]></html>
+	<text>TNA/ZSJN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,363,483</td>]]></html>
+	<text>4,363,483</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 18.0%</td>]]></html>
+	<text>&#9650; 18.0%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25.</td>]]></html>
+	<text>25.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guiyang Longdongbao Airport</td>]]></html>
+	<text>Guiyang Longdongbao Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Guiyang , Guizhou</td>]]></html>
+	<text>Guiyang , Guizhou</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KWE/ZUGY</td>]]></html>
+	<text>KWE/ZUGY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,248,005</td>]]></html>
+	<text>4,248,005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 1</td>]]></html>
+	<text>&#9660; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 14.3%</td>]]></html>
+	<text>&#9650; 14.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>26.</td>]]></html>
+	<text>26.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fuzhou Changle International Airport</td>]]></html>
+	<text>Fuzhou Changle International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fuzhou , Fujian</td>]]></html>
+	<text>Fuzhou , Fujian</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FOC/ZSFZ</td>]]></html>
+	<text>FOC/ZSFZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,247,236</td>]]></html>
+	<text>4,247,236</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 3</td>]]></html>
+	<text>&#9660; 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 11.9%</td>]]></html>
+	<text>&#9650; 11.9%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27.</td>]]></html>
+	<text>27.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tianjin Binhai International Airport</td>]]></html>
+	<text>Tianjin Binhai International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dongli District, Tianjin</td>]]></html>
+	<text>Dongli District, Tianjin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TSN/ZBTJ</td>]]></html>
+	<text>TSN/ZBTJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,860,752</td>]]></html>
+	<text>3,860,752</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 3</td>]]></html>
+	<text>&#9650; 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 39.6%</td>]]></html>
+	<text>&#9650; 39.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28.</td>]]></html>
+	<text>28.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taiyuan Wusu Airport</td>]]></html>
+	<text>Taiyuan Wusu Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taiyuan , Shanxi</td>]]></html>
+	<text>Taiyuan , Shanxi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TYN/ZBYN</td>]]></html>
+	<text>TYN/ZBYN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,613,308</td>]]></html>
+	<text>3,613,308</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 1</td>]]></html>
+	<text>&#9650; 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 27.1%</td>]]></html>
+	<text>&#9650; 27.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29.</td>]]></html>
+	<text>29.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wenzhou Yongqiang Airport</td>]]></html>
+	<text>Wenzhou Yongqiang Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wenzhou , Zhejiang</td>]]></html>
+	<text>Wenzhou , Zhejiang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WNZ/ZSWZ</td>]]></html>
+	<text>WNZ/ZSWZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,587,940</td>]]></html>
+	<text>3,587,940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 2</td>]]></html>
+	<text>&#9660; 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 17.8%</td>]]></html>
+	<text>&#9650; 17.8%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>30.</td>]]></html>
+	<text>30.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ningbo Lishe International Airport</td>]]></html>
+	<text>Ningbo Lishe International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ningbo , Zhejiang</td>]]></html>
+	<text>Ningbo , Zhejiang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NGB/ZSNB</td>]]></html>
+	<text>NGB/ZSNB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,300,626</td>]]></html>
+	<text>3,300,626</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▼ 2</td>]]></html>
+	<text>&#9660; 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>▲ 11.0%</td>]]></html>
+	<text>&#9650; 11.0%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>China&apos;s busiest airports by passenger traffic - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Airport Location Code (IATA/ICAO) Total passengers Rank Change % Change</text>
+</context>
+<context>
+	<score>0.8860645</score>
+	<text>[ edit ] 2007 Final statistics</text>
+</context>
+<context>
+	<score>0.79094166</score>
+	<text>China&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.77106917</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.75139934</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7227923</score>
+	<text>[ edit ] 2007 Final statistics</text>
+</context>
+<context>
+	<score>0.7227923</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7227923</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7227923</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.709544</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7029199</score>
+	<text>). One passenger is described as someone who arrives in, departs from, or transfers through the airport on a given day. Airports in Hong Kong , Macau and Taiwan are excluded from the list.</text>
+</context>
+<context>
+	<score>0.6378018</score>
+	<text>The thirty China&apos;s busiest airports by passenger traffic are measured by number of total passengers (data provided by the Civil Aviation Administration of China</text>
+</context>
+<context>
+	<score>0.5973705</score>
+	<text>^ . Civil Aviation Administration of China ( 2008 - 03-06 ). Retrieved on 2008 - 06-01 .</text>
+</context>
+<context>
+	<score>0.59233147</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.55065584</score>
+	<text>China&apos;s busiest airports by passenger traffic</text>
+</context>
+<context>
+	<score>0.50676537</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.4534682</score>
+	<text>[ edit ] External links</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="font-size: 120%"><tr bgcolor="lightgrey"><th>Rank</th><th>Airport</th><th>Location</th><th>Code<br />(IATA/ICAO)</th><th>Total<br />passengers</th><th>Rank<br />Change</th><th>%<br />Change</th></tr><tr><td>1.</td><td><a href="../../../../articles/b/e/i/Beijing_Capital_International_Airport_6d08.html" title="Beijing Capital International Airport">Beijing Capital International Airport</a></td><td><a href="../../../../articles/c/h/a/Chaoyang_District%2C_Beijing_3ec8.html" title="Chaoyang District, Beijing">Chaoyang</a>, <a href="../../../../articles/b/e/i/Beijing.html" title="Beijing">Beijing</a></td><td>PEK/ZBAA</td><td>53,611,747</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>10.0%</td></tr><tr><td>2.</td><td><a href="../../../../articles/g/u/a/Guangzhou_Baiyun_International_Airport_7845.html" title="Guangzhou Baiyun International Airport">Guangzhou Baiyun International Airport</a></td><td><a href="../../../../articles/b/a/i/Baiyun_District_c26e.html" class="mw-redirect" title="Baiyun District">Baiyun District</a>, <a href="../../../../articles/g/u/a/Guangzhou.html" title="Guangzhou">Guangzhou</a>, <a href="../../../../articles/g/u/a/Guangdong.html" title="Guangdong">Guangdong</a></td><td>CAN/ZGGG</td><td>30,958,467</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>18.1%</td></tr><tr><td>3.</td><td><a href="../../../../articles/s/h/a/Shanghai_Pudong_International_Airport_8c60.html" title="Shanghai Pudong International Airport">Shanghai Pudong International Airport</a></td><td><a href="../../../../articles/p/u/d/Pudong_District_dc43.html" class="mw-redirect" title="Pudong District">Pudong District</a>, <a href="../../../../articles/s/h/a/Shanghai.html" title="Shanghai">Shanghai</a></td><td>PVG/ZSPD</td><td>28,920,432</td><td><span style="color: red; font-size: larger;">▼</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>8.0%</td></tr><tr><td>4.</td><td><a href="../../../../articles/s/h/a/Shanghai_Hongqiao_International_Airport_7800.html" title="Shanghai Hongqiao International Airport">Shanghai Hongqiao International Airport</a></td><td><a href="../../../../articles/c/h/a/Changning_District_23f1.html" title="Changning District">Changning District</a>, <a href="../../../../articles/s/h/a/Shanghai.html" title="Shanghai">Shanghai</a></td><td>SHA/ZSSS</td><td>22,632,962</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>17.0%</td></tr><tr><td>5.</td><td><a href="../../../../articles/s/h/e/Shenzhen_Bao%27an_International_Airport_be75.html" title="Shenzhen Bao'an International Airport">Shenzhen Bao'an International Airport</a></td><td><a href="../../../../articles/b/a/o/Bao%27an_District_c577.html" title="Bao'an District">Bao'an District</a>, <a href="../../../../articles/s/h/e/Shenzhen.html" title="Shenzhen">Shenzhen</a>, <a href="../../../../articles/g/u/a/Guangdong.html" title="Guangdong">Guangdong</a></td><td>SZX/ZGSZ</td><td>20,619,164</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>12.3%</td></tr><tr><td>6.</td><td><a href="../../../../articles/c/h/e/Chengdu_Shuangliu_International_Airport_3672.html" title="Chengdu Shuangliu International Airport">Chengdu Shuangliu International Airport</a></td><td><a href="../../../../articles/s/h/u/Shuangliu_County_e1db.html" title="Shuangliu County">Shuangliu County</a>, <a href="../../../../articles/c/h/e/Chengdu.html" title="Chengdu">Chengdu</a>, <a href="../../../../articles/s/i/c/Sichuan.html" title="Sichuan">Sichuan</a></td><td>CDG/ZUUU</td><td>18,574,284</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>14.1%</td></tr><tr><td>7.</td><td><a href="../../../../articles/k/u/n/Kunming_Wujiaba_International_Airport_0e87.html" title="Kunming Wujiaba International Airport">Kunming Wujiaba International Airport</a></td><td><a href="../../../../articles/k/u/n/Kunming.html" title="Kunming">Kunming</a>, <a href="../../../../articles/y/u/n/Yunnan.html" title="Yunnan">Yunnan</a></td><td>KMG/ZPPP</td><td>15,725,791</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>8.9%</td></tr><tr><td>8.</td><td><a href="../../../../articles/h/a/n/Hangzhou_Xiaoshan_International_Airport_08d1.html" title="Hangzhou Xiaoshan International Airport">Hangzhou Xiaoshan International Airport</a></td><td><a href="../../../../articles/x/i/a/Xiaoshan_District_5872.html" title="Xiaoshan District">Xiaoshan District</a>, <a href="../../../../articles/h/a/n/Hangzhou.html" title="Hangzhou">Hangzhou</a>, <a href="../../../../articles/z/h/e/Zhejiang.html" title="Zhejiang">Zhejiang</a></td><td>HGH/ZSHC</td><td>11,729,983</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>18.3%</td></tr><tr><td>9.</td><td><a href="../../../../articles/x/i/27/Xi%27an_Xianyang_International_Airport_14e5.html" title="Xi'an Xianyang International Airport">Xi'an Xianyang International Airport</a></td><td><a href="../../../../articles/x/i/a/Xianyang.html" title="Xianyang">Xianyang</a>, <a href="../../../../articles/s/h/a/Shaanxi.html" title="Shaanxi">Shaanxi</a></td><td>XIY/ZLXY</td><td>11,372,630</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>21.4%</td></tr><tr><td>10.</td><td><a href="../../../../articles/c/h/o/Chongqing_Jiangbei_International_Airport_994b.html" title="Chongqing Jiangbei International Airport">Chongqing Jiangbei International Airport</a></td><td><a href="../../../../articles/j/i/a/Jiangbei_District_83ec.html" title="Jiangbei District">Jiangbei District</a>, <a href="../../../../articles/c/h/o/Chongqing.html" title="Chongqing">Chongqing</a></td><td>CKG/ZUCK</td><td>10,355,730</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>28.6%</td></tr><tr><td>11.</td><td><a href="../../../../articles/x/i/a/Xiamen_Gaoqi_International_Airport_d328.html" title="Xiamen Gaoqi International Airport">Xiamen Gaoqi International Airport</a></td><td><a href="../../../../articles/x/i/a/Xiamen.html" title="Xiamen">Xiamen</a>, <a href="../../../../articles/f/u/j/Fujian.html" title="Fujian">Fujian</a></td><td>XMN/ZSAM</td><td>8,684,662</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>15.8%</td></tr><tr><td>12.</td><td><a href="../../../../articles/w/u/h/Wuhan_Tianhe_International_Airport_ddb9.html" title="Wuhan Tianhe International Airport">Wuhan Tianhe International Airport</a></td><td><a href="../../../../articles/w/u/h/Wuhan.html" title="Wuhan">Wuhan</a>, <a href="../../../../articles/h/u/b/Hubei.html" title="Hubei">Hubei</a></td><td>WUH/ZHHH</td><td>8,356,340</td><td><span style="color: #0c0; font-size: larger;">▲</span>5</td><td><span style="color: #0c0; font-size: larger;">▲</span>37.0%</td></tr><tr><td>13.</td><td><a href="../../../../articles/c/h/a/Changsha_Huanghua_International_Airport_7a68.html" title="Changsha Huanghua International Airport">Changsha Huanghua International Airport</a></td><td><a href="../../../../articles/c/h/a/Changsha.html" title="Changsha">Changsha</a>, <a href="../../../../articles/h/u/n/Hunan.html" title="Hunan">Hunan</a></td><td>CSX/ZGHA</td><td>8,069,989</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>22.4%</td></tr><tr><td>14.</td><td><a href="../../../../articles/n/a/n/Nanjing_Lukou_International_Airport_80af.html" title="Nanjing Lukou International Airport">Nanjing Lukou International Airport</a></td><td><a href="../../../../articles/n/a/n/Nanjing.html" title="Nanjing">Nanjing</a>, <a href="../../../../articles/j/i/a/Jiangsu.html" title="Jiangsu">Jiangsu</a></td><td>NKG/ZSNJ</td><td>8,037,189</td><td><span style="color: #0c0; font-size: larger;">▲</span>2</td><td><span style="color: #0c0; font-size: larger;">▲</span>28.2%</td></tr><tr><td>15.</td><td><a href="../../../../articles/q/i/n/Qingdao_Liuting_International_Airport_d17f.html" title="Qingdao Liuting International Airport">Qingdao Liuting International Airport</a></td><td><a href="../../../../articles/q/i/n/Qingdao.html" title="Qingdao">Qingdao</a>, <a href="../../../../articles/s/h/a/Shandong.html" title="Shandong">Shandong</a></td><td>TAO/ZSQD</td><td>7,867,982</td><td><span style="color: red; font-size: larger;">▼</span>3</td><td><span style="color: #0c0; font-size: larger;">▲</span>15.9%</td></tr><tr><td>16.</td><td><a href="../../../../articles/d/a/l/Dalian_Zhoushuizi_International_Airport_d6bb.html" title="Dalian Zhoushuizi International Airport">Dalian Zhoushuizi International Airport</a></td><td><a href="../../../../articles/d/a/l/Dalian.html" title="Dalian">Dalian</a>, <a href="../../../../articles/l/i/a/Liaoning.html" title="Liaoning">Liaoning</a></td><td>DLC/ZYTL</td><td>7,281,084</td><td><span style="color: red; font-size: larger;">▼</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>14.6%</td></tr><tr><td>17.</td><td><a href="../../../../articles/h/a/i/Haikou_Meilan_International_Airport_1930.html" title="Haikou Meilan International Airport">Haikou Meilan International Airport</a></td><td><a href="../../../../articles/h/a/i/Haikou.html" title="Haikou">Haikou</a>, <a href="../../../../articles/h/a/i/Hainan.html" title="Hainan">Hainan</a></td><td>HAK/ZJHK</td><td>7,265,349</td><td><span style="color: red; font-size: larger;">▼</span>4</td><td><span style="color: #0c0; font-size: larger;">▲</span>8.9%</td></tr><tr><td>18.</td><td><a href="../../../../articles/s/h/e/Shenyang_Taoxian_International_Airport_01b6.html" title="Shenyang Taoxian International Airport">Shenyang Taoxian International Airport</a></td><td><a href="../../../../articles/s/h/e/Shenyang.html" title="Shenyang">Shenyang</a>, <a href="../../../../articles/l/i/a/Liaoning.html" title="Liaoning">Liaoning</a></td><td>SHE/ZYTX</td><td>6,190,448</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>15.8%</td></tr><tr><td>19.</td><td><a href="../../../../articles/%C3%BC/r/%C3%BC/%C3%9Cr%C3%BCmqi_Diwopu_International_Airport_05ca.html" title="Ürümqi Diwopu International Airport">Ürümqi Diwopu International Airport</a></td><td><a href="../../../../articles/%C3%BC/r/%C3%BC/%C3%9Cr%C3%BCmqi.html" title="Ürümqi">Ürümqi</a>, <a href="../../../../articles/x/i/n/Xinjiang_Uygur_Autonomous_Region_166a.html" class="mw-redirect" title="Xinjiang Uygur Autonomous Region">Xinjiang Uygur Autonomous Region</a></td><td>URC/ZWWW</td><td>6,169,981</td><td><span style="color: #0AF;">▬</span></td><td><span style="color: #0c0; font-size: larger;">▲</span>20.1%</td></tr><tr><td>20.</td><td><a href="../../../../articles/s/a/n/Sanya_Phoenix_International_Airport_8be4.html" title="Sanya Phoenix International Airport">Sanya Phoenix International Airport</a></td><td><a href="../../../../articles/s/a/n/Sanya.html" title="Sanya">Sanya</a>, <a href="../../../../articles/h/a/i/Hainan.html" title="Hainan">Hainan</a></td><td>SYX/ZJSY</td><td>5,311,622</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>36.0%</td></tr><tr><td>21.</td><td><a href="../../../../articles/z/h/e/Zhengzhou_Xinzheng_International_Airport_174d.html" title="Zhengzhou Xinzheng International Airport">Zhengzhou Xinzheng International Airport</a></td><td><a href="../../../../articles/z/h/e/Zhengzhou.html" title="Zhengzhou">Zhengzhou</a>, <a href="../../../../articles/h/e/n/Henan.html" title="Henan">Henan</a></td><td>CGO/ZHCC</td><td>5,002,102</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>28.9%</td></tr><tr><td>22.</td><td><a href="../../../../articles/g/u/i/Guilin_Liangjiang_International_Airport_e407.html" title="Guilin Liangjiang International Airport">Guilin Liangjiang International Airport</a></td><td><a href="../../../../articles/g/u/i/Guilin.html" title="Guilin">Guilin</a>, <a href="../../../../articles/g/u/a/Guangxi_Zhuang_Autonomous_Region_4e81.html" class="mw-redirect" title="Guangxi Zhuang Autonomous Region">Guangxi Zhuang Autonomous Region</a></td><td>KWL/ZGKL</td><td>4,665,021</td><td><span style="color: red; font-size: larger;">▼</span>2</td><td><span style="color: #0c0; font-size: larger;">▲</span>16.7%</td></tr><tr><td>23.</td><td><a href="../../../../articles/h/a/r/Harbin_Taiping_International_Airport_9bbb.html" title="Harbin Taiping International Airport">Harbin Taiping International Airport</a></td><td><a href="../../../../articles/h/a/r/Harbin.html" title="Harbin">Harbin</a>, <a href="../../../../articles/h/e/i/Heilongjiang.html" title="Heilongjiang">Heilongjiang</a></td><td>HRB/ZYHB</td><td>4,432,645</td><td><span style="color: #0c0; font-size: larger;">▲</span>3</td><td><span style="color: #0c0; font-size: larger;">▲</span>21.7%</td></tr><tr><td>24.</td><td><a href="../../../../articles/j/i/n/Jinan_Yaoqiang_Airport_c091.html" title="Jinan Yaoqiang Airport">Jinan Yaoqiang Airport</a></td><td><a href="../../../../articles/j/i/n/Jinan.html" title="Jinan">Jinan</a>, <a href="../../../../articles/s/h/a/Shandong.html" title="Shandong">Shandong</a></td><td>TNA/ZSJN</td><td>4,363,483</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>18.0%</td></tr><tr><td>25.</td><td><a href="../../../../articles/g/u/i/Guiyang_Longdongbao_Airport_7077.html" title="Guiyang Longdongbao Airport">Guiyang Longdongbao Airport</a></td><td><a href="../../../../articles/g/u/i/Guiyang.html" title="Guiyang">Guiyang</a>, <a href="../../../../articles/g/u/i/Guizhou.html" title="Guizhou">Guizhou</a></td><td>KWE/ZUGY</td><td>4,248,005</td><td><span style="color: red; font-size: larger;">▼</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>14.3%</td></tr><tr><td>26.</td><td><a href="../../../../articles/f/u/z/Fuzhou_Changle_International_Airport_4803.html" title="Fuzhou Changle International Airport">Fuzhou Changle International Airport</a></td><td><a href="../../../../articles/f/u/z/Fuzhou.html" title="Fuzhou">Fuzhou</a>, <a href="../../../../articles/f/u/j/Fujian.html" title="Fujian">Fujian</a></td><td>FOC/ZSFZ</td><td>4,247,236</td><td><span style="color: red; font-size: larger;">▼</span>3</td><td><span style="color: #0c0; font-size: larger;">▲</span>11.9%</td></tr><tr><td>27.</td><td><a href="../../../../articles/t/i/a/Tianjin_Binhai_International_Airport_3e7c.html" title="Tianjin Binhai International Airport">Tianjin Binhai International Airport</a></td><td>Dongli District, <a href="../../../../articles/t/i/a/Tianjin.html" title="Tianjin">Tianjin</a></td><td>TSN/ZBTJ</td><td>3,860,752</td><td><span style="color: #0c0; font-size: larger;">▲</span>3</td><td><span style="color: #0c0; font-size: larger;">▲</span>39.6%</td></tr><tr><td>28.</td><td><a href="../../../../articles/t/a/i/Taiyuan_Wusu_Airport_cd0c.html" title="Taiyuan Wusu Airport">Taiyuan Wusu Airport</a></td><td><a href="../../../../articles/t/a/i/Taiyuan.html" title="Taiyuan">Taiyuan</a>, <a href="../../../../articles/s/h/a/Shanxi.html" title="Shanxi">Shanxi</a></td><td>TYN/ZBYN</td><td>3,613,308</td><td><span style="color: #0c0; font-size: larger;">▲</span>1</td><td><span style="color: #0c0; font-size: larger;">▲</span>27.1%</td></tr><tr><td>29.</td><td><a href="../../../../articles/w/e/n/Wenzhou_Yongqiang_Airport_b3fc.html" title="Wenzhou Yongqiang Airport">Wenzhou Yongqiang Airport</a></td><td><a href="../../../../articles/w/e/n/Wenzhou.html" title="Wenzhou">Wenzhou</a>, <a href="../../../../articles/z/h/e/Zhejiang.html" title="Zhejiang">Zhejiang</a></td><td>WNZ/ZSWZ</td><td>3,587,940</td><td><span style="color: red; font-size: larger;">▼</span>2</td><td><span style="color: #0c0; font-size: larger;">▲</span>17.8%</td></tr><tr><td>30.</td><td><a href="../../../../articles/n/i/n/Ningbo_Lishe_International_Airport_97a4.html" title="Ningbo Lishe International Airport">Ningbo Lishe International Airport</a></td><td><a href="../../../../articles/n/i/n/Ningbo.html" title="Ningbo">Ningbo</a>, <a href="../../../../articles/z/h/e/Zhejiang.html" title="Zhejiang">Zhejiang</a></td><td>NGB/ZSNB</td><td>3,300,626</td><td><span style="color: red; font-size: larger;">▼</span>2</td><td><span style="color: #0c0; font-size: larger;">▲</span>11.0%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

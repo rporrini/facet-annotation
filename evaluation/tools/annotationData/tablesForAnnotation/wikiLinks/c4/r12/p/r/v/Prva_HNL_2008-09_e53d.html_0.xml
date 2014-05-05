@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r12/p/r/v/Prva_HNL_2008-09_e53d.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.7291666 1, 0.6015625 1 2, 0.5625 2, 0.125 0 3, 0.10026042 1 3, 0.072916664 3, 0.0703125 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/p/r/v/Prva_HNL_2008-09_e53d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cibalia</td>]]></html>
+	<text>Cibalia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vinkovci</td>]]></html>
+	<text>Vinkovci</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gradski vrt , Osijek</td>]]></html>
+	<text>Gradski vrt , Osijek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,500</td>]]></html>
+	<text>19,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Croatia Sesvete</td>]]></html>
+	<text>Croatia Sesvete</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zagreb</td>]]></html>
+	<text>Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kamen Ingrad Stadium , Velika</td>]]></html>
+	<text>Kamen Ingrad Stadium , Velika</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dinamo Zagreb</td>]]></html>
+	<text>Dinamo Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zagreb</td>]]></html>
+	<text>Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maksimir , Zagreb</td>]]></html>
+	<text>Maksimir , Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,000</td>]]></html>
+	<text>40,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hajduk Split</td>]]></html>
+	<text>Hajduk Split</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Split</td>]]></html>
+	<text>Split</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Poljud , Split</td>]]></html>
+	<text>Poljud , Split</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35,000</td>]]></html>
+	<text>35,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Inter Zaprešić</td>]]></html>
+	<text>Inter Zapre&#353;i&#263;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zaprešić</td>]]></html>
+	<text>Zapre&#353;i&#263;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stadion Intera , Zaprešić</td>]]></html>
+	<text>Stadion Intera , Zapre&#353;i&#263;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Osijek</td>]]></html>
+	<text>Osijek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Osijek</td>]]></html>
+	<text>Osijek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gradski vrt , Osijek</td>]]></html>
+	<text>Gradski vrt , Osijek</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19,500</td>]]></html>
+	<text>19,500</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rijeka</td>]]></html>
+	<text>Rijeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rijeka</td>]]></html>
+	<text>Rijeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kantrida , Rijeka</td>]]></html>
+	<text>Kantrida , Rijeka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12,000</td>]]></html>
+	<text>12,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slaven Belupo</td>]]></html>
+	<text>Slaven Belupo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Koprivnica</td>]]></html>
+	<text>Koprivnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gradski Stadion , Koprivnica</td>]]></html>
+	<text>Gradski Stadion , Koprivnica</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,000</td>]]></html>
+	<text>5,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Šibenik</td>]]></html>
+	<text>&#352;ibenik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šibenik</td>]]></html>
+	<text>&#352;ibenik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šubićevac , Šibenik</td>]]></html>
+	<text>&#352;ubi&#263;evac , &#352;ibenik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Varteks</td>]]></html>
+	<text>Varteks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Varaždin</td>]]></html>
+	<text>Vara&#382;din</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stadion Varteksa , Varaždin</td>]]></html>
+	<text>Stadion Varteksa , Vara&#382;din</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,000</td>]]></html>
+	<text>10,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zadar</td>]]></html>
+	<text>Zadar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zadar</td>]]></html>
+	<text>Zadar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Šubićevac , Šibenik</td>]]></html>
+	<text>&#352;ubi&#263;evac , &#352;ibenik</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,000</td>]]></html>
+	<text>8,000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>NK Zagreb</td>]]></html>
+	<text>NK Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Zagreb</td>]]></html>
+	<text>Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maksimir , Zagreb</td>]]></html>
+	<text>Maksimir , Zagreb</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40,000</td>]]></html>
+	<text>40,000</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Prva HNL 2008-09 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team City Stadium Capacity</text>
+</context>
+<context>
+	<score>0.88288283</score>
+	<text>[ edit ] Teams and venues</text>
+</context>
+<context>
+	<score>0.79444414</score>
+	<text>Prva HNL 2008-09</text>
+</context>
+<context>
+	<score>0.78591293</score>
+	<text>After the tragic death of Hrvoje usti during a game played at Zadar&apos;s Stanovi Stadium in March 2008, it was decided that the stadiums for the 2008-09 season would have to pass a closer inspection to be deemed fit for first-league football. Since only 9 stadiums managed to meet the requirements and obtain first-league license from the Croatian Football Federation , it was announced in May 2008 that some of the teams would have to share stadiums in order to play their Prva HNL games.</text>
+</context>
+<context>
+	<score>0.7545403</score>
+	<text>[ edit ] League table</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] Promotion and Relegation</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] League table</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] Managerial changes</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] Fixtures</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] European competitions</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72096336</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71686834</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70833707</score>
+	<text>[ edit ] Venues</text>
+</context>
+<context>
+	<score>0.64627635</score>
+	<text>Me imurje was relegated automatically to the Druga HNL as they finished last in the previous season, while Croatia Sesvete was automatically promoted from Druga HNL after winning the 2007-08 Druga HNL title. In the two-legged playoff between Inter Zapre i and Hrvatski Dragovoljac , the former secured their Prva HNL status by beating Hrvatski Dragovoljac with 2:0 on aggregate (2:0, 0:0) on 21 May 2008 .</text>
+</context>
+<context>
+	<score>0.6036485</score>
+	<text>P = Matches played; W = Matches won; D = Matches drawn; L = Matches lost; F = Goals for; A = Goals against; GD = Goal difference; Pts = Points</text>
+</context>
+<context>
+	<score>0.5966279</score>
+	<text>[ edit ] Promotion and Relegation</text>
+</context>
+<context>
+	<score>0.552814</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52513397</score>
+	<text>The 2008-09 Prva HNL season will be the 18th since its establishment. Dinamo Zagreb are the defending Prva HNL champions, having won their 10th championship title the previous season. A total of 12 teams will contest the league, 11 of which took part in the 2007-08 season . The format will stay the same (12 clubs playing against each other three times, making it a total of 33 rounds) and the season is scheduled to start on 27 July 2008 .</text>
+</context>
+<context>
+	<score>0.5213924</score>
+	<text>[ edit ] Managerial changes</text>
+</context>
+<context>
+	<score>0.50824517</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.48790914</score>
+	<text>Prva HNL 2008-09</text>
+</context>
+<context>
+	<score>0.47059765</score>
+	<text>[ edit ] Fixtures</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Team</th><th>City</th><th>Stadium</th><th>Capacity</th></tr><tr><td align="center"><a href="../../../../articles/h/n/k/HNK_Cibalia_8044.html" title="HNK Cibalia">Cibalia</a></td><td align="center"><a href="../../../../articles/v/i/n/Vinkovci.html" title="Vinkovci">Vinkovci</a></td><td align="center"><a href="../../../../articles/g/r/a/Gradski_vrt.html" title="Gradski vrt">Gradski vrt</a>, <a href="../../../../articles/o/s/i/Osijek.html" title="Osijek">Osijek</a></td><td align="center">19,500</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Croatia_Sesvete_ff63.html" title="NK Croatia Sesvete">Croatia Sesvete</a></td><td align="center"><a href="../../../../articles/z/a/g/Zagreb.html" title="Zagreb">Zagreb</a></td><td align="center"><a href="../../../../articles/k/a/m/Kamen_Ingrad_Stadium_8c78.html" title="Kamen Ingrad Stadium">Kamen Ingrad Stadium</a>, <a href="../../../../articles/v/e/l/Velika%2C_Croatia_59c3.html" title="Velika, Croatia">Velika</a></td><td align="center">10,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Dinamo_Zagreb_d599.html" title="NK Dinamo Zagreb">Dinamo Zagreb</a></td><td align="center"><a href="../../../../articles/z/a/g/Zagreb.html" title="Zagreb">Zagreb</a></td><td align="center"><a href="../../../../articles/m/a/k/Maksimir_Stadium_9820.html" title="Maksimir Stadium">Maksimir</a>, <a href="../../../../articles/z/a/g/Zagreb.html" title="Zagreb">Zagreb</a></td><td align="center">40,000</td></tr><tr><td align="center"><a href="../../../../articles/h/a/j/Hajduk_Split_699d.html" class="mw-redirect" title="Hajduk Split">Hajduk Split</a></td><td align="center"><a href="../../../../articles/s/p/l/Split.html" title="Split">Split</a></td><td align="center"><a href="../../../../articles/g/r/a/Gradski_stadion_u_Poljudu_8816.html" title="Gradski stadion u Poljudu">Poljud</a>, <a href="../../../../articles/s/p/l/Split.html" title="Split">Split</a></td><td align="center">35,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Inter_Zapre%C5%A1i%C4%87_88cb.html" title="NK Inter Zaprešić">Inter Zaprešić</a></td><td align="center"><a href="../../../../articles/z/a/p/Zapre%C5%A1i%C4%87.html" title="Zaprešić">Zaprešić</a></td><td align="center"><a href="../../../../articles/s/t/a/Stadion_Intera_4f90.html" title="Stadion Intera">Stadion Intera</a>, <a href="../../../../articles/z/a/p/Zapre%C5%A1i%C4%87.html" title="Zaprešić">Zaprešić</a></td><td align="center">10,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Osijek_caf3.html" title="NK Osijek">Osijek</a></td><td align="center"><a href="../../../../articles/o/s/i/Osijek.html" title="Osijek">Osijek</a></td><td align="center"><a href="../../../../articles/g/r/a/Gradski_vrt.html" title="Gradski vrt">Gradski vrt</a>, <a href="../../../../articles/o/s/i/Osijek.html" title="Osijek">Osijek</a></td><td align="center">19,500</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Rijeka_50d0.html" title="NK Rijeka">Rijeka</a></td><td align="center"><a href="../../../../articles/r/i/j/Rijeka.html" title="Rijeka">Rijeka</a></td><td align="center"><a href="../../../../articles/k/a/n/Kantrida_Stadium_81f7.html" title="Kantrida Stadium">Kantrida</a>, <a href="../../../../articles/r/i/j/Rijeka.html" title="Rijeka">Rijeka</a></td><td align="center">12,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Slaven_Belupo_3600.html" title="NK Slaven Belupo">Slaven Belupo</a></td><td align="center"><a href="../../../../articles/k/o/p/Koprivnica.html" title="Koprivnica">Koprivnica</a></td><td align="center"><a href="../../../../articles/g/r/a/Gradski_Stadion_u_Koprivnici_b4c0.html" title="Gradski Stadion u Koprivnici">Gradski Stadion</a>, <a href="../../../../articles/k/o/p/Koprivnica.html" title="Koprivnica">Koprivnica</a></td><td align="center">5,000</td></tr><tr><td align="center"><a href="../../../../articles/h/n/k/HNK_%C5%A0ibenik_fc81.html" title="HNK Šibenik">Šibenik</a></td><td align="center"><a href="../../../../articles/%C5%A1/i/b/%C5%A0ibenik.html" title="Šibenik">Šibenik</a></td><td align="center"><a href="../../../../articles/s/t/a/Stadion_%C5%A0ubi%C4%87evac_4a26.html" title="Stadion Šubićevac">Šubićevac</a>, <a href="../../../../articles/%C5%A1/i/b/%C5%A0ibenik.html" title="Šibenik">Šibenik</a></td><td align="center">8,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Varteks_a753.html" title="NK Varteks">Varteks</a></td><td align="center"><a href="../../../../articles/v/a/r/Vara%C5%BEdin.html" title="Varaždin">Varaždin</a></td><td align="center"><a href="../../../../articles/s/t/a/Stadion_Varteksa_93d2.html" title="Stadion Varteksa">Stadion Varteksa</a>, <a href="../../../../articles/v/a/r/Vara%C5%BEdin.html" title="Varaždin">Varaždin</a></td><td align="center">10,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Zadar_0a01.html" title="NK Zadar">Zadar</a></td><td align="center"><a href="../../../../articles/z/a/d/Zadar.html" title="Zadar">Zadar</a></td><td align="center"><a href="../../../../articles/s/t/a/Stadion_%C5%A0ubi%C4%87evac_4a26.html" title="Stadion Šubićevac">Šubićevac</a>, <a href="../../../../articles/%C5%A1/i/b/%C5%A0ibenik.html" title="Šibenik">Šibenik</a></td><td align="center">8,000</td></tr><tr><td align="center"><a href="../../../../articles/n/k/_/NK_Zagreb_9454.html" title="NK Zagreb">NK Zagreb</a></td><td align="center"><a href="../../../../articles/z/a/g/Zagreb.html" title="Zagreb">Zagreb</a></td><td align="center"><a href="../../../../articles/m/a/k/Maksimir_Stadium_9820.html" title="Maksimir Stadium">Maksimir</a>, <a href="../../../../articles/z/a/g/Zagreb.html" title="Zagreb">Zagreb</a></td><td align="center">40,000</td></tr></table>]]>
+</htmlSnippet>
+</entity>

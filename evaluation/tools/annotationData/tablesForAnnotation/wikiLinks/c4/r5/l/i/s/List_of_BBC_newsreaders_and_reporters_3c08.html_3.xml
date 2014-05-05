@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_BBC_newsreaders_and_reporters_3c08.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.625 0 3, 0.3 2, 0.28125 2 3, 0.26250002 1 2, 0.25 3, 0.21875 1 3, 0.175 1, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_BBC_newsreaders_and_reporters_3c08.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Presenter</th>]]></html>
+	<text>Presenter</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Channel/Programme</th>]]></html>
+	<text>Channel/Programme</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Regular Hours</th>]]></html>
+	<text>Regular Hours</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Relief Shifts/Notes</th>]]></html>
+	<text>Relief Shifts/Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Karin Giannone</td>]]></html>
+	<text>Karin Giannone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel</td>]]></html>
+	<text>BBC News Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overnight</td>]]></html>
+	<text>Overnight</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel Weekday and Weekend Relief, BBC World News Relief</td>]]></html>
+	<text>BBC News Channel Weekday and Weekend Relief, BBC World News Relief</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alastair Yates</td>]]></html>
+	<text>Alastair Yates</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel</td>]]></html>
+	<text>BBC News Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overnight</td>]]></html>
+	<text>Overnight</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Martine Croxall</td>]]></html>
+	<text>Martine Croxall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel</td>]]></html>
+	<text>BBC News Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overnight</td>]]></html>
+	<text>Overnight</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel Weekday and Weekend Relief, BBC World News Relief</td>]]></html>
+	<text>BBC News Channel Weekday and Weekend Relief, BBC World News Relief</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Deborah Mackenzie</td>]]></html>
+	<text>Deborah Mackenzie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel</td>]]></html>
+	<text>BBC News Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overnight</td>]]></html>
+	<text>Overnight</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>James Dagwell</td>]]></html>
+	<text>James Dagwell</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BBC News Channel</td>]]></html>
+	<text>BBC News Channel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Overnight relief</td>]]></html>
+	<text>Overnight relief</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of BBC newsreaders and reporters - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Presenter Channel/Programme Regular Hours Relief Shifts/Notes</text>
+</context>
+<context>
+	<score>0.8819444</score>
+	<text>All these presenters also appear on BBC World News and BBC One as BBC News Channel simulcasts with them overnight.</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>List of BBC newsreaders and reporters</text>
+</context>
+<context>
+	<score>0.7849747</score>
+	<text>[ edit ] Overnight Presenters</text>
+</context>
+<context>
+	<score>0.7536022</score>
+	<text>[ edit ] Other relief presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] BBC News Presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] Other relief presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] BBC reporters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] Sports Presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] BBC Weather Forecasters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] Business Presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] Special Programme Presenters</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.719054</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.707399</score>
+	<text>[ edit ] Weekend Presenters</text>
+</context>
+<context>
+	<score>0.6453384</score>
+	<text>[ edit ] Daytime Presenters</text>
+</context>
+<context>
+	<score>0.6068055</score>
+	<text>[ edit ] BBC reporters</text>
+</context>
+<context>
+	<score>0.5956899</score>
+	<text>[ edit ] BBC Breakfast Presenters</text>
+</context>
+<context>
+	<score>0.5559711</score>
+	<text>[ edit ] BBC News Presenters</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5204545</score>
+	<text>[ edit ] Foreign correspondents</text>
+</context>
+<context>
+	<score>0.49877605</score>
+	<text>BBC News employs many presenters and correspondents who appear on the main BBC One bulletins and on the rolling news channels BBC World News and the BBC News Channel . The BBC has over 200 correspondents based both in the United Kingdom and abroad.</text>
+</context>
+<context>
+	<score>0.48693845</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4706697</score>
+	<text>List of BBC newsreaders and reporters</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>World Affairs</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Presenter</th><th>Channel/Programme</th><th>Regular Hours</th><th>Relief Shifts/Notes</th></tr><tr><td><a href="../../../../articles/k/a/r/Karin_Giannone_f59a.html" title="Karin Giannone">Karin Giannone</a></td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a></td><td>Overnight</td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a> Weekday and Weekend Relief, <a href="../../../../articles/b/b/c/BBC_World_News_6e9a.html" title="BBC World News">BBC World News</a> Relief</td></tr><tr><td><a href="../../../../articles/a/l/a/Alastair_Yates_052e.html" title="Alastair Yates">Alastair Yates</a></td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a></td><td>Overnight</td><td></td></tr><tr><td><a href="../../../../articles/m/a/r/Martine_Croxall_08c3.html" title="Martine Croxall">Martine Croxall</a></td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a></td><td>Overnight</td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a> Weekday and Weekend Relief, <a href="../../../../articles/b/b/c/BBC_World_News_6e9a.html" title="BBC World News">BBC World News</a> Relief</td></tr><tr><td><a href="../../../../articles/d/e/b/Deborah_Mackenzie_cf8b.html" title="Deborah Mackenzie">Deborah Mackenzie</a></td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a></td><td>Overnight</td><td></td></tr><tr><td><a href="../../../../articles/j/a/m/James_Dagwell_efba.html" title="James Dagwell">James Dagwell</a></td><td><a href="../../../../articles/b/b/c/BBC_News_Channel_008e.html" class="mw-redirect" title="BBC News Channel">BBC News Channel</a></td><td>Overnight relief</td><td></td></tr></table>]]>
+</htmlSnippet>
+</entity>

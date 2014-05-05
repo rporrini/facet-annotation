@@ -1,0 +1,53 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="3">
+<anno name="wordnet_entity_100001740" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="2">
+<anno name="wordnet_abstraction_100002137" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>American_Association_of_Independent_Professional_Baseball</entity>
+<entity>Cohen_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>USL_Premier_Development_League</entity>
+<entity>Patriot_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>National_Premier_Soccer_League</entity>
+<entity>Canutillo_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Western_States_Hockey_League</entity>
+<entity>El_Paso_County_Coliseum</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Far_West_Football_League</entity>
+<entity>Sun_Bowl_Stadium</entity>
+</row>
+<row>
+<entity></entity>
+<entity></entity>
+<entity>Conference_USA</entity>
+<entity>University_of_Texas_at_El_Paso</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

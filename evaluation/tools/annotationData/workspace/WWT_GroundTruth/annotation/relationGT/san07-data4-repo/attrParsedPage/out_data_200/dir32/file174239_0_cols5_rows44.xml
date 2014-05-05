@@ -1,0 +1,21 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="1">
+<anno name="wordnet_country_108544813" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wordnet_city_108524735" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<relationshipAnnotations>
+<relAnnos col1="0" col2="1">
+<rel>hasCapital</rel>
+</relAnnos>
+</relationshipAnnotations>
+
+</tableAnnotations>
+

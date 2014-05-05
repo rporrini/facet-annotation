@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r53/l/o/t/Lotteries_in_the_United_States_e26c.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.13333334 0 2, 0.03144654 1, 0.020125788 2, 0.01677149 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/o/t/Lotteries_in_the_United_States_e26c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Lottery?</th>]]></html>
+	<text>Lottery?</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of Interstate Games</th>]]></html>
+	<text>Number of Interstate Games</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alabama</td>]]></html>
+	<text>Alabama</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alaska</td>]]></html>
+	<text>Alaska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arizona</td>]]></html>
+	<text>Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arkansas</td>]]></html>
+	<text>Arkansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Connecticut</td>]]></html>
+	<text>Connecticut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Delaware</td>]]></html>
+	<text>Delaware</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>District of Columbia</td>]]></html>
+	<text>District of Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Florida</td>]]></html>
+	<text>Florida</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hawaii</td>]]></html>
+	<text>Hawaii</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Idaho</td>]]></html>
+	<text>Idaho</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Illinois</td>]]></html>
+	<text>Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1*</td>]]></html>
+	<text>1*</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Indiana</td>]]></html>
+	<text>Indiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iowa</td>]]></html>
+	<text>Iowa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3*</td>]]></html>
+	<text>3*</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kansas</td>]]></html>
+	<text>Kansas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kentucky</td>]]></html>
+	<text>Kentucky</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Louisiana</td>]]></html>
+	<text>Louisiana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maine</td>]]></html>
+	<text>Maine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Maryland</td>]]></html>
+	<text>Maryland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Massachusetts</td>]]></html>
+	<text>Massachusetts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Michigan</td>]]></html>
+	<text>Michigan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Minnesota</td>]]></html>
+	<text>Minnesota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mississippi</td>]]></html>
+	<text>Mississippi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Missouri</td>]]></html>
+	<text>Missouri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montana</td>]]></html>
+	<text>Montana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nebraska</td>]]></html>
+	<text>Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nevada</td>]]></html>
+	<text>Nevada</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Hampshire</td>]]></html>
+	<text>New Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Jersey</td>]]></html>
+	<text>New Jersey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Mexico</td>]]></html>
+	<text>New Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New York</td>]]></html>
+	<text>New York</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Carolina</td>]]></html>
+	<text>North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Dakota</td>]]></html>
+	<text>North Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ohio</td>]]></html>
+	<text>Ohio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oklahoma</td>]]></html>
+	<text>Oklahoma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oregon</td>]]></html>
+	<text>Oregon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pennsylvania</td>]]></html>
+	<text>Pennsylvania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Puerto Rico</td>]]></html>
+	<text>Puerto Rico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rhode Island</td>]]></html>
+	<text>Rhode Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Carolina</td>]]></html>
+	<text>South Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Dakota</td>]]></html>
+	<text>South Dakota</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tennessee</td>]]></html>
+	<text>Tennessee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Texas</td>]]></html>
+	<text>Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vermont</td>]]></html>
+	<text>Vermont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virgin Islands</td>]]></html>
+	<text>Virgin Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Virginia</td>]]></html>
+	<text>Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>West Virginia</td>]]></html>
+	<text>West Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wisconsin</td>]]></html>
+	<text>Wisconsin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yes</td>]]></html>
+	<text>Yes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wyoming</td>]]></html>
+	<text>Wyoming</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No</td>]]></html>
+	<text>No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>–</td>]]></html>
+	<text>&#8211;</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Lotteries in the United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>State Lottery? Number of Interstate Games</text>
+</context>
+<context>
+	<score>0.87878776</score>
+	<text>Map showing the states that have a state lottery (colored: blue)</text>
+</context>
+<context>
+	<score>0.79865307</score>
+	<text>Lotteries in the United States</text>
+</context>
+<context>
+	<score>0.7868685</score>
+	<text>[ edit ] Chart</text>
+</context>
+<context>
+	<score>0.75549597</score>
+	<text>NOTE : Illinois draws pick-3 and pick-4 numbers that are also used to determine winners for the pick-3 and pick-4 games played in neighboring Iowa .</text>
+</context>
+<context>
+	<score>0.7261278</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7261278</score>
+	<text>[ edit ] Chart</text>
+</context>
+<context>
+	<score>0.7261278</score>
+	<text>[ edit ] States and associated Interstate Lotteries</text>
+</context>
+<context>
+	<score>0.7261278</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7261278</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72107726</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7042423</score>
+	<text>Presently, many lotteries in the US donate large portions of their proceeds to the public education system. However, these funds frequently replace instead of supplement conventional funding, resulting in no additional money for education.</text>
+</context>
+<context>
+	<score>0.6472321</score>
+	<text>With the advent of the Internet it became possible for people to play lottery-style games on-line, many times for free (the cost of the ticket being supplemented by merely seeing, say, a pop-up ad). Two of the many websites which offer free games (after registration) include iwinweekly.com and the larger iWon.com, which is a wholly-owned subsidiary of IAC Search &amp; Media. GTech Corporation, in the United States, administers 70% of the worldwide online and instant lottery business, according to its website. With online gaming rules generally prohibitive, &quot;lottery&quot; games face less scrutiny. This is leading to the increase in web sites offering lottery ticket purchasing services, charging premiums on base lottery prices. The legality of such services falls into question across many jurisdictions, especially throughout the United States, as the gambling laws related to lottery play generally have not kept pace with the spread of technology.</text>
+</context>
+<context>
+	<score>0.6086992</score>
+	<text>The above list includes the Midwest Millions instant scratch game available in Iowa and Kansas .</text>
+</context>
+<context>
+	<score>0.59758353</score>
+	<text>Other interstate lotteries include: Cashola , Hot Lotto , and Wild Card 2 , three of MUSL&apos;s other games.</text>
+</context>
+<context>
+	<score>0.55281425</score>
+	<text>Instant lottery tickets, also known as scratch cards, were introduced in the 1970s and have since become a major source of state lottery revenue. Some states have introduced keno and video lottery terminals (slot machines in all but name).</text>
+</context>
+<context>
+	<score>0.5260897</score>
+	<text>The first modern interstate lottery in the U.S. was formed in 1985 and linked three of the New England states. In 1988, the Multi-State Lottery Association (MUSL) was formed with Oregon, Iowa , Kansas , Rhode Island , West Virginia , Missouri , and the District of Columbia as its charter members; it is best known for its &quot;Powerball&quot; drawing, which is designed to build up very large jackpots. Another interstate lottery, The Big Game (now called Mega Millions ), was formed in 1996 by the states of Georgia, Illinois , Massachusetts, Maryland , Michigan , and Virginia as its charter members. These states were joined by New Jersey (1999), New York and Ohio (May 2002), Washington (September 2002), Texas (2003), and California (2005) for a total of 12 members. [4]</text>
+</context>
+<context>
+	<score>0.52234817</score>
+	<text>[ edit ] States and associated Interstate Lotteries</text>
+</context>
+<context>
+	<score>0.50066966</score>
+	<text>Before the advent of state-sponsored lotteries, many illegal lotteries thrived; for example, see Numbers game and Peter H. Matthews . The first modern state lottery in the U.S. was established in the state of New Hampshire in 1964; today, lotteries are established in 42 states, the District of Columbia , and the Virgin Islands.</text>
+</context>
+<context>
+	<score>0.48033363</score>
+	<text>Private lotteries were legal in the United States in the early 1800s.[1] In fact, a number of US patents were granted on new types of lottery . In today&apos;s vernacular, these would be considered business method patents.</text>
+</context>
+<context>
+	<score>0.46650288</score>
+	<text>Interstate lotteries are also referred to as multistate lotteries or multistate games. Of the 42 states that have lotteries, only Florida is not a member of a multistate game, even though state statute 24.105(18)</text>
+</context>
+<context>
+	<score>0.4640648</score>
+	<text>[ edit ] History</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>State</th><th>Lottery?</th><th>Number of<br />Interstate<br />Games</th></tr><tr><td align="center"><a href="../../../../articles/a/l/a/Alabama.html" title="Alabama">Alabama</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/a/l/a/Alaska.html" title="Alaska">Alaska</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/a/r/i/Arizona.html" title="Arizona">Arizona</a></td><td align="center"><a href="../../../../articles/a/r/i/Arizona_Lottery_30ee.html" title="Arizona Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/a/r/k/Arkansas.html" title="Arkansas">Arkansas</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td align="center"><a href="../../../../articles/c/a/l/California_Lottery_8552.html" class="mw-redirect" title="California Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td align="center"><a href="../../../../articles/c/o/l/Colorado_Lottery_bd29.html" title="Colorado Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/c/o/n/Connecticut.html" title="Connecticut">Connecticut</a></td><td align="center"><a href="../../../../articles/c/o/n/Connecticut_Lottery_aa92.html" title="Connecticut Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/d/e/l/Delaware.html" title="Delaware">Delaware</a></td><td align="center"><a href="../../../../articles/d/e/l/Delaware_Lottery_be3f.html" title="Delaware Lottery">Yes</a></td><td align="center">3</td></tr><tr><td align="center"><a href="../../../../articles/d/i/s/District_of_Columbia_9454.html" class="mw-redirect" title="District of Columbia">District of Columbia</a></td><td align="center"><a href="../../../../articles/d/2E/c/D.C._Lottery_5ffa.html" title="D.C. Lottery">Yes</a></td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/f/l/o/Florida.html" title="Florida">Florida</a></td><td align="center"><a href="../../../../articles/f/l/o/Florida_Lottery_15e9.html" title="Florida Lottery">Yes</a></td><td align="center">0</td></tr><tr><td align="center"><a href="../../../../articles/g/e/o/Georgia_%28U.S._state%29_7f30.html" title="Georgia (U.S. state)">Georgia</a></td><td align="center">Yes</td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/h/a/w/Hawaii.html" title="Hawaii">Hawaii</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/i/d/a/Idaho.html" title="Idaho">Idaho</a></td><td align="center"><a href="../../../../articles/i/d/a/Idaho_Lottery_f301.html" title="Idaho Lottery">Yes</a></td><td align="center">3</td></tr><tr><td align="center"><a href="../../../../articles/i/l/l/Illinois.html" title="Illinois">Illinois</a></td><td align="center"><a href="../../../../articles/i/l/l/Illinois_State_Lottery_37d3.html" title="Illinois State Lottery">Yes</a></td><td align="center">1*</td></tr><tr><td align="center"><a href="../../../../articles/i/n/d/Indiana.html" title="Indiana">Indiana</a></td><td align="center"><a href="../../../../articles/h/o/o/Hoosier_Lottery_08af.html" title="Hoosier Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/i/o/w/Iowa.html" title="Iowa">Iowa</a></td><td align="center"><a href="../../../../articles/i/o/w/Iowa_Lottery_f1be.html" title="Iowa Lottery">Yes</a></td><td align="center">3*</td></tr><tr><td align="center"><a href="../../../../articles/k/a/n/Kansas.html" title="Kansas">Kansas</a></td><td align="center"><a href="../../../../articles/k/a/n/Kansas_Lottery_b4c6.html" title="Kansas Lottery">Yes</a></td><td align="center">4</td></tr><tr><td align="center"><a href="../../../../articles/k/e/n/Kentucky.html" title="Kentucky">Kentucky</a></td><td align="center">Yes</td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/l/o/u/Louisiana.html" title="Louisiana">Louisiana</a></td><td align="center"><a href="../../../../articles/l/o/u/Louisiana_Lottery_%28modern%29_7e05.html" title="Louisiana Lottery (modern)">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/m/a/i/Maine.html" title="Maine">Maine</a></td><td align="center"><a href="../../../../articles/m/a/i/Maine_Lottery_9ee1.html" title="Maine Lottery">Yes</a></td><td align="center">5</td></tr><tr><td align="center"><a href="../../../../articles/m/a/r/Maryland.html" title="Maryland">Maryland</a></td><td align="center"><a href="../../../../articles/m/a/r/Maryland_Lottery_c3c8.html" title="Maryland Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/m/a/s/Massachusetts.html" title="Massachusetts">Massachusetts</a></td><td align="center">Yes</td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/m/i/c/Michigan.html" title="Michigan">Michigan</a></td><td align="center"><a href="../../../../articles/m/i/c/Michigan_Lottery_163f.html" title="Michigan Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/m/i/n/Minnesota.html" title="Minnesota">Minnesota</a></td><td align="center"><a href="../../../../articles/m/i/n/Minnesota_State_Lottery_fbc7.html" title="Minnesota State Lottery">Yes</a></td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/m/i/s/Mississippi.html" title="Mississippi">Mississippi</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/m/i/s/Missouri.html" title="Missouri">Missouri</a></td><td align="center"><a href="../../../../articles/m/i/s/Missouri_Lottery_ab88.html" title="Missouri Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/m/o/n/Montana.html" title="Montana">Montana</a></td><td align="center"><a href="../../../../articles/m/o/n/Montana_Lottery_5f46.html" title="Montana Lottery">Yes</a></td><td align="center">3</td></tr><tr><td align="center"><a href="../../../../articles/n/e/b/Nebraska.html" title="Nebraska">Nebraska</a></td><td align="center">Yes</td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/n/e/v/Nevada.html" title="Nevada">Nevada</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/n/e/w/New_Hampshire_86db.html" title="New Hampshire">New Hampshire</a></td><td align="center"><a href="../../../../articles/n/e/w/New_Hampshire_Lottery_36f9.html" title="New Hampshire Lottery">Yes</a></td><td align="center">6</td></tr><tr><td align="center"><a href="../../../../articles/n/e/w/New_Jersey_5ac9.html" title="New Jersey">New Jersey</a></td><td align="center"><a href="../../../../articles/n/e/w/New_Jersey_Lottery_e194.html" title="New Jersey Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/n/e/w/New_Mexico_2a18.html" title="New Mexico">New Mexico</a></td><td align="center"><a href="../../../../articles/n/e/w/New_Mexico_Lottery_956c.html" title="New Mexico Lottery">Yes</a></td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/n/e/w/New_York_3da4.html" title="New York">New York</a></td><td align="center">Yes</td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/n/o/r/North_Carolina_5c52.html" title="North Carolina">North Carolina</a></td><td align="center"><a href="../../../../articles/n/o/r/North_Carolina_Education_Lottery_3c65.html" title="North Carolina Education Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/n/o/r/North_Dakota_3971.html" title="North Dakota">North Dakota</a></td><td align="center"><a href="../../../../articles/n/o/r/North_Dakota_Lottery_8e02.html" title="North Dakota Lottery">Yes</a></td><td align="center">4</td></tr><tr><td align="center"><a href="../../../../articles/o/h/i/Ohio.html" title="Ohio">Ohio</a></td><td align="center"><a href="../../../../articles/o/h/i/Ohio_Lottery_263a.html" title="Ohio Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/o/k/l/Oklahoma.html" title="Oklahoma">Oklahoma</a></td><td align="center"><a href="../../../../articles/o/k/l/Oklahoma_Lottery_4e99.html" title="Oklahoma Lottery">Yes</a></td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/o/r/e/Oregon.html" title="Oregon">Oregon</a></td><td align="center"><a href="../../../../articles/o/r/e/Oregon_Lottery_37d3.html" title="Oregon Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/p/e/n/Pennsylvania.html" title="Pennsylvania">Pennsylvania</a></td><td align="center"><a href="../../../../articles/p/e/n/Pennsylvania_Lottery_d2b4.html" title="Pennsylvania Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/p/u/e/Puerto_Rico_f6b0.html" title="Puerto Rico">Puerto Rico</a></td><td align="center">Yes</td><td align="center">0</td></tr><tr><td align="center"><a href="../../../../articles/r/h/o/Rhode_Island_988e.html" title="Rhode Island">Rhode Island</a></td><td align="center"><a href="../../../../articles/r/h/o/Rhode_Island_Lottery_7220.html" title="Rhode Island Lottery">Yes</a></td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/s/o/u/South_Carolina_aeeb.html" title="South Carolina">South Carolina</a></td><td align="center"><a href="../../../../articles/s/o/u/South_Carolina_Education_Lottery_3072.html" title="South Carolina Education Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/s/o/u/South_Dakota_9b0f.html" title="South Dakota">South Dakota</a></td><td align="center"><a href="../../../../articles/s/o/u/South_Dakota_Lottery_9ce7.html" title="South Dakota Lottery">Yes</a></td><td align="center">3</td></tr><tr><td align="center"><a href="../../../../articles/t/e/n/Tennessee.html" title="Tennessee">Tennessee</a></td><td align="center"><a href="../../../../articles/t/e/n/Tennessee_Lottery_a9ed.html" title="Tennessee Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/t/e/x/Texas.html" title="Texas">Texas</a></td><td align="center"><a href="../../../../articles/l/o/t/Lotto_Texas_1ea5.html" title="Lotto Texas">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td align="center">No</td><td align="center">–</td></tr><tr><td align="center"><a href="../../../../articles/v/e/r/Vermont.html" title="Vermont">Vermont</a></td><td align="center">Yes</td><td align="center">5</td></tr><tr><td align="center"><a href="../../../../articles/v/i/r/Virgin_Islands_Lottery_%28US%29_a8ae.html" title="Virgin Islands Lottery (US)">Virgin Islands</a></td><td align="center">Yes</td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/v/i/r/Virginia.html" title="Virginia">Virginia</a></td><td align="center">Yes</td><td align="center">2</td></tr><tr><td align="center"><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td align="center"><a href="../../../../articles/w/a/s/Washington%27s_Lottery_faa7.html" title="Washington's Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/w/e/s/West_Virginia_4016.html" title="West Virginia">West Virginia</a></td><td align="center"><a href="../../../../articles/w/e/s/West_Virginia_Lottery_6787.html" title="West Virginia Lottery">Yes</a></td><td align="center">3</td></tr><tr><td align="center"><a href="../../../../articles/w/i/s/Wisconsin.html" title="Wisconsin">Wisconsin</a></td><td align="center"><a href="../../../../articles/w/i/s/Wisconsin_Lottery_f314.html" title="Wisconsin Lottery">Yes</a></td><td align="center">1</td></tr><tr><td align="center"><a href="../../../../articles/w/y/o/Wyoming.html" title="Wyoming">Wyoming</a></td><td align="center">No</td><td align="center">–</td></tr></table>]]>
+</htmlSnippet>
+</entity>

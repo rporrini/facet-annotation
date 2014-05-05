@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/w/e/s/Western_United_States_afd6.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.7 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/w/e/s/Western_United_States_afd6.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank (US)</th>]]></html>
+	<text>Rank (US)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>CSA</th>]]></html>
+	<text>CSA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>State</th>]]></html>
+	<text>State</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (million)</th>]]></html>
+	<text>Population (million)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles–Long Beach–Riverside</td>]]></html>
+	<text>Los Angeles&#8211;Long Beach&#8211;Riverside</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.6</td>]]></html>
+	<text>17.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Jose–San Francisco–Oakland (San Francisco Bay Area)</td>]]></html>
+	<text>San Jose&#8211;San Francisco&#8211;Oakland (San Francisco Bay Area)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.2</td>]]></html>
+	<text>7.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seattle–Tacoma–Olympia (Puget Sound Region)</td>]]></html>
+	<text>Seattle&#8211;Tacoma&#8211;Olympia (Puget Sound Region)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Washington</td>]]></html>
+	<text>Washington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.8</td>]]></html>
+	<text>3.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Denver–Aurora–Boulder</td>]]></html>
+	<text>Denver&#8211;Aurora&#8211;Boulder</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Colorado</td>]]></html>
+	<text>Colorado</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.9</td>]]></html>
+	<text>2.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salt Lake City-Ogden-Clearfield</td>]]></html>
+	<text>Salt Lake City-Ogden-Clearfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Utah</td>]]></html>
+	<text>Utah</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6</td>]]></html>
+	<text>1.6</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Western United States - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank (US) CSA State Population (million)</text>
+</context>
+<context>
+	<score>0.8800401</score>
+	<text>[ edit ] Combined Statistical Areas</text>
+</context>
+<context>
+	<score>0.7926406</score>
+	<text>Western United States</text>
+</context>
+<context>
+	<score>0.7830704</score>
+	<text>[ edit ] Major population centers</text>
+</context>
+<context>
+	<score>0.75169784</score>
+	<text>[ edit ] Metropolitan Statistical Areas</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Geography</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Demographics</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Natural geography</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] History and culture</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Major population centers</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Politics</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] Further reading</text>
+</context>
+<context>
+	<score>0.7163171</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71506494</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7054946</score>
+	<text>In recent decades, Western cities&apos; reputation for diversity and tolerance has been marred by segregation , along with accusations of racial profiling and police brutality towards minorities, sometimes leading to racially based riots. Nevertheless, perhaps because so many westerners have moved there from other regions to make a new start, as a rule interpersonal relations remain marked by a tolerant and individualistic &quot;live and let live&quot; attitude. The western economy is varied. California, for example, features both agriculture and high-technology manufacturing as major sectors in its economy.</text>
+</context>
+<context>
+	<score>0.6434339</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.60490113</score>
+	<text>The city of El Paso, Texas , although belonging to a state considered part of the Southern United States , is more considered part of the Western United States.</text>
+</context>
+<context>
+	<score>0.5937855</score>
+	<text>. The advent of the automobile enabled the average American to tour the West. Western businessmen promoted U.S. Route 66 as a means to bring tourism and industry to the West. In the 1950s, representatives from all the western states built the Cowboy Hall of Fame and Western Heritage Center to showcase western culture and greet travelers from the East. During the latter half of the twentieth century, several transcontinental interstate highways crossed the West bringing more trade and tourists from the East. In the news, reports spoke of oil boom towns in Texas and Oklahoma rivaling the old mining camps for their lawlessness, of the Dust Bowl forcing children of the original homesteaders even further west. The movies replaced the dime novel as the chief entertainment source featuring western fiction</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>By 1890, the frontier was gone</text>
+</context>
+<context>
+	<score>0.5222917</score>
+	<text>[ edit ] The twentieth century Main article: 20th century</text>
+</context>
+<context>
+	<score>0.51855016</score>
+	<text>[ edit ] Politics Further information: Coastal California and Left Coast</text>
+</context>
+<context>
+	<score>0.4968717</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>, as communities were created whose residents shared no prior connection or common set of ideals and allegiances. The open land of the region allowed residents to live at a much greater distance from neighbors than had been possible in eastern cities, and an ethic of tolerance for the different values and goals of other residents developed. California&apos;s state constitutions (in both 1849 and 1879) were largely drafted by groups which sought a strong emphasis on individual property rights and personal freedom, arguably at the expense of ideals tending toward civic community</text>
+</context>
+<context>
+	<score>0.46775544</score>
+	<text>US States that allowed legal use of medicinal marijuana before Gonzales v. Raich (2005)</text>
+</context>
+<context>
+	<score>0.46026686</score>
+	<text>[ citation needed ]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align:center"><tr><th>Rank<br />(US)</th><th align="center">CSA</th><th>State</th><th>Population<br />(million)</th></tr><tr><td>2</td><td><a href="../../../../articles/g/r/e/Greater_Los_Angeles_Area_7f00.html" title="Greater Los Angeles Area">Los Angeles–Long Beach–Riverside</a></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>17.6</td></tr><tr><td>6</td><td><a href="../../../../articles/s/a/n/San_Francisco_Bay_Area_b47d.html" title="San Francisco Bay Area">San Jose–San Francisco–Oakland<br />(San Francisco Bay Area)</a></td><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a></td><td>7.2</td></tr><tr><td>12</td><td><a href="../../../../articles/s/e/a/Seattle_metropolitan_area.html" title="Seattle metropolitan area">Seattle–Tacoma–Olympia<br />(Puget Sound Region)</a></td><td><a href="../../../../articles/w/a/s/Washington.html" title="Washington">Washington</a></td><td>3.8</td></tr><tr><td>14</td><td><a href="../../../../articles/d/e/n/Denver-Aurora-Boulder_Combined_Statistical_Area_1994.html" title="Denver-Aurora-Boulder Combined Statistical Area">Denver–Aurora–Boulder</a></td><td><a href="../../../../articles/c/o/l/Colorado.html" title="Colorado">Colorado</a></td><td>2.9</td></tr><tr><td>34</td><td><a href="../../../../articles/w/a/s/Wasatch_Front_8bed.html" title="Wasatch Front">Salt Lake City-Ogden-Clearfield</a></td><td><a href="../../../../articles/u/t/a/Utah.html" title="Utah">Utah</a></td><td>1.6</td></tr></table>]]>
+</htmlSnippet>
+</entity>

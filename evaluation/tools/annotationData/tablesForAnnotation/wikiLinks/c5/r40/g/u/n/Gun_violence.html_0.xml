@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r40/g/u/n/Gun_violence.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.17999999 1, 0.17999999 0 1, 0.16000001 2, 0.16000001 0 2, 0.14 0 3, 0.133 3, 0.120000005 0 4, 0.117000006 4, 0.0288 1 2, 0.025199998 1 3, 0.022400001 2 3, 0.0216 1 4, 0.019200003 2 4, 0.016800001 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/g/u/n/Gun_violence.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Non-firearm homicide rate per 100,000 pop.</th>]]></html>
+	<text>Non-firearm homicide rate per 100,000 pop.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Firearm homicide rate per 100,000 pop.</th>]]></html>
+	<text>Firearm homicide rate per 100,000 pop.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% homicides with firearms</th>]]></html>
+	<text>% homicides with firearms</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Overall homicide rate per 100,000 pop.</th>]]></html>
+	<text>Overall homicide rate per 100,000 pop.</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.26</td>]]></html>
+	<text>1.26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.31</td>]]></html>
+	<text>0.31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.3435</td>]]></html>
+	<text>16.3435</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.57</td>]]></html>
+	<text>1.57</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Azerbaijan</td>]]></html>
+	<text>Azerbaijan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.8078</td>]]></html>
+	<text>2.8078</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.2236</td>]]></html>
+	<text>0.2236</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.3770</td>]]></html>
+	<text>7.3770</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.0314</td>]]></html>
+	<text>3.0314</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barbados</td>]]></html>
+	<text>Barbados</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.4906</td>]]></html>
+	<text>7.4906</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.9963</td>]]></html>
+	<text>2.9963</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.5714</td>]]></html>
+	<text>28.5714</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.4869</td>]]></html>
+	<text>10.4869</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belarus</td>]]></html>
+	<text>Belarus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.1300</td>]]></html>
+	<text>10.1300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.3100</td>]]></html>
+	<text>3.3100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24.6280</td>]]></html>
+	<text>24.6280</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.4400</td>]]></html>
+	<text>13.4400</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bulgaria</td>]]></html>
+	<text>Bulgaria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.0652</td>]]></html>
+	<text>4.0652</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.7714</td>]]></html>
+	<text>0.7714</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.9494</td>]]></html>
+	<text>15.9494</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.8366</td>]]></html>
+	<text>4.8366</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Canada [6]</td>]]></html>
+	<text>Canada [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.04</td>]]></html>
+	<text>1.04</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.54</td>]]></html>
+	<text>0.54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.58</td>]]></html>
+	<text>1.58</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Chile</td>]]></html>
+	<text>Chile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5461</td>]]></html>
+	<text>1.5461</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1776</td>]]></html>
+	<text>0.1776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.3053</td>]]></html>
+	<text>10.3053</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.7237</td>]]></html>
+	<text>1.7237</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Colombia</td>]]></html>
+	<text>Colombia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.7400</td>]]></html>
+	<text>62.7400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51.7683</td>]]></html>
+	<text>51.7683</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.2092</td>]]></html>
+	<text>45.2092</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>114.5083</td>]]></html>
+	<text>114.5083</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Costa Rica [6]</td>]]></html>
+	<text>Costa Rica [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.57</td>]]></html>
+	<text>6.57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.38</td>]]></html>
+	<text>3.38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>34</td>]]></html>
+	<text>34</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.95</td>]]></html>
+	<text>9.95</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czech Republic</td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.69</td>]]></html>
+	<text>1.69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.07</td>]]></html>
+	<text>2.07</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55</td>]]></html>
+	<text>55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.76</td>]]></html>
+	<text>3.76</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.09</td>]]></html>
+	<text>1.09</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.26</td>]]></html>
+	<text>0.26</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.35</td>]]></html>
+	<text>1.35</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>England &amp; Wales [6]</td>]]></html>
+	<text>England &amp;amp;amp; Wales [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.33</td>]]></html>
+	<text>1.33</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.12</td>]]></html>
+	<text>0.12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.57</td>]]></html>
+	<text>1.57</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Estonia</td>]]></html>
+	<text>Estonia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.4456</td>]]></html>
+	<text>10.4456</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.5340</td>]]></html>
+	<text>1.5340</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.8049</td>]]></html>
+	<text>12.8049</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.9795</td>]]></html>
+	<text>11.9795</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Finland [7]</td>]]></html>
+	<text>Finland [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.19</td>]]></html>
+	<text>2.19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.43</td>]]></html>
+	<text>0.43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.62</td>]]></html>
+	<text>2.62</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.1679</td>]]></html>
+	<text>1.1679</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.4672</td>]]></html>
+	<text>0.4672</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28.5714</td>]]></html>
+	<text>28.5714</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.6350</td>]]></html>
+	<text>1.6350</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Guatemala</td>]]></html>
+	<text>Guatemala</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.4737</td>]]></html>
+	<text>25.4737</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.5000</td>]]></html>
+	<text>18.5000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42.0706</td>]]></html>
+	<text>42.0706</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43.9737</td>]]></html>
+	<text>43.9737</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hungary</td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.0500</td>]]></html>
+	<text>2.0500</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.4400</td>]]></html>
+	<text>0.4400</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.6707</td>]]></html>
+	<text>17.6707</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4900</td>]]></html>
+	<text>2.4900</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>India [6]</td>]]></html>
+	<text>India [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.72</td>]]></html>
+	<text>3.72</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.93</td>]]></html>
+	<text>0.93</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.65</td>]]></html>
+	<text>4.65</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ireland [6]</td>]]></html>
+	<text>Ireland [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.01</td>]]></html>
+	<text>1.01</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.32</td>]]></html>
+	<text>0.32</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.33</td>]]></html>
+	<text>1.33</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Latvia</td>]]></html>
+	<text>Latvia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.0337</td>]]></html>
+	<text>10.0337</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2648</td>]]></html>
+	<text>1.2648</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.1940</td>]]></html>
+	<text>11.1940</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.2985</td>]]></html>
+	<text>11.2985</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lithuania</td>]]></html>
+	<text>Lithuania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.0135</td>]]></html>
+	<text>10.0135</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.2463</td>]]></html>
+	<text>2.2463</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.3223</td>]]></html>
+	<text>18.3223</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.2598</td>]]></html>
+	<text>12.2598</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Macedonia , FYR</td>]]></html>
+	<text>Macedonia , FYR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.3141</td>]]></html>
+	<text>2.3141</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2802</td>]]></html>
+	<text>1.2802</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35.6164</td>]]></html>
+	<text>35.6164</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.5943</td>]]></html>
+	<text>3.5943</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Mexico</td>]]></html>
+	<text>Mexico</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14.1112</td>]]></html>
+	<text>14.1112</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.6622</td>]]></html>
+	<text>3.6622</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20.6051</td>]]></html>
+	<text>20.6051</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.7735</td>]]></html>
+	<text>17.7735</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moldova , Republic of</td>]]></html>
+	<text>Moldova , Republic of</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.1270</td>]]></html>
+	<text>8.1270</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.4671</td>]]></html>
+	<text>0.4671</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.4348</td>]]></html>
+	<text>5.4348</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.5941</td>]]></html>
+	<text>8.5941</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.1747</td>]]></html>
+	<text>1.1747</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.1827</td>]]></html>
+	<text>0.1827</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.4615</td>]]></html>
+	<text>13.4615</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3574</td>]]></html>
+	<text>1.3574</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Paraguay</td>]]></html>
+	<text>Paraguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.0451</td>]]></html>
+	<text>12.0451</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.3508</td>]]></html>
+	<text>7.3508</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.8987</td>]]></html>
+	<text>37.8987</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19.3959</td>]]></html>
+	<text>19.3959</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.6072</td>]]></html>
+	<text>5.6072</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.4289</td>]]></html>
+	<text>0.4289</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.1062</td>]]></html>
+	<text>7.1062</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.0362</td>]]></html>
+	<text>6.0362</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portugal</td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4788</td>]]></html>
+	<text>2.4788</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.8488</td>]]></html>
+	<text>0.8488</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.3776</td>]]></html>
+	<text>25.3776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.3100</td>]]></html>
+	<text>3.3100</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Qatar [6]</td>]]></html>
+	<text>Qatar [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.53</td>]]></html>
+	<text>0.53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.18</td>]]></html>
+	<text>0.18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.71</td>]]></html>
+	<text>0.71</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Singapore</td>]]></html>
+	<text>Singapore</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.9209</td>]]></html>
+	<text>0.9209</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.0249</td>]]></html>
+	<text>0.0249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6316</td>]]></html>
+	<text>2.6316</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.9457</td>]]></html>
+	<text>0.9457</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovakia</td>]]></html>
+	<text>Slovakia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.6473</td>]]></html>
+	<text>2.6473</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1659</td>]]></html>
+	<text>2.1659</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.0000</td>]]></html>
+	<text>45.0000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.8132</td>]]></html>
+	<text>4.8132</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovenia</td>]]></html>
+	<text>Slovenia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.8109</td>]]></html>
+	<text>1.8109</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.6036</td>]]></html>
+	<text>0.6036</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.0000</td>]]></html>
+	<text>25.0000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4145</td>]]></html>
+	<text>2.4145</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>51.3901</td>]]></html>
+	<text>51.3901</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>74.5748</td>]]></html>
+	<text>74.5748</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>59.2028</td>]]></html>
+	<text>59.2028</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125.9650</td>]]></html>
+	<text>125.9650</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.2506</td>]]></html>
+	<text>1.2506</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.2456</td>]]></html>
+	<text>0.2456</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.4129</td>]]></html>
+	<text>16.4129</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.4962</td>]]></html>
+	<text>1.4962</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.96</td>]]></html>
+	<text>0.96</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.56</td>]]></html>
+	<text>0.56</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37</td>]]></html>
+	<text>37</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.52</td>]]></html>
+	<text>1.52</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thailand</td>]]></html>
+	<text>Thailand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.4679</td>]]></html>
+	<text>8.4679</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.0016</td>]]></html>
+	<text>33.0016</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>79.5805</td>]]></html>
+	<text>79.5805</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41.4695</td>]]></html>
+	<text>41.4695</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ukraine</td>]]></html>
+	<text>Ukraine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.9253</td>]]></html>
+	<text>8.9253</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.3495</td>]]></html>
+	<text>0.3495</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.7682</td>]]></html>
+	<text>3.7682</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.2747</td>]]></html>
+	<text>9.2747</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United States [6]</td>]]></html>
+	<text>United States [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.55</td>]]></html>
+	<text>4.55</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.97</td>]]></html>
+	<text>2.97</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39</td>]]></html>
+	<text>39</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.52</td>]]></html>
+	<text>7.52</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uruguay</td>]]></html>
+	<text>Uruguay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.6149</td>]]></html>
+	<text>4.6149</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.5172</td>]]></html>
+	<text>2.5172</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35.2941</td>]]></html>
+	<text>35.2941</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.1321</td>]]></html>
+	<text>7.1321</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zimbabwe</td>]]></html>
+	<text>Zimbabwe</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.2381</td>]]></html>
+	<text>7.2381</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.7460</td>]]></html>
+	<text>4.7460</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39.6026</td>]]></html>
+	<text>39.6026</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.9841</td>]]></html>
+	<text>11.9841</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Gun violence - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Non-firearm homicide rate per 100,000 pop. Firearm homicide rate per 100,000 pop. % homicides with firearms Overall homicide rate per 100,000 pop.</text>
+</context>
+<context>
+	<score>0.8853426</score>
+	<text>Source: United Nations Office on Drugs and Crime , 2000</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>Gun violence</text>
+</context>
+<context>
+	<score>0.77821493</score>
+	<text>Intentional Homicides (non-firearm and firearm homicides) by country</text>
+</context>
+<context>
+	<score>0.7548808</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73358417</score>
+	<text>[ edit ] Homicides by country</text>
+</context>
+<context>
+	<score>0.73358417</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73358417</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.70791453</score>
+	<text>including justifiable homicide and criminal homicide.</text>
+</context>
+<context>
+	<score>0.644829</score>
+	<text>The homicide statistics listed below are for &quot;intentional homicide &quot;, which is &quot;death deliberately inflicted on a person by another person&quot;,</text>
+</context>
+<context>
+	<score>0.6056597</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.59436053</score>
+	<text>[ edit ] Homicides by country</text>
+</context>
+<context>
+	<score>0.5454293</score>
+	<text>The United States has the highest rates among developed countries, which some account to the loose firearm laws in the U.S. compared to other developed countries</text>
+</context>
+<context>
+	<score>0.521686</score>
+	<text>Levels of gun violence are low in Singapore , Chile , New Zealand , and many other countries.</text>
+</context>
+<context>
+	<score>0.5178827</score>
+	<text>This crime -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+<context>
+	<score>0.4958462</score>
+	<text>Levels of gun violence vary greatly across the world , with very high rates in South Africa and Colombia , as well as high levels in Thailand , Guatemala , and some other developing countries .</text>
+</context>
+<context>
+	<score>0.47517434</score>
+	<text>Gun violence encompasses intentional crime characterized as homicide (although not all homicide is automatically a crime) and assault with a deadly weapon , as well as unintentional injury and death resulting from the misuse of firearms, particularly by children and adolescents .</text>
+</context>
+<context>
+	<score>0.46624908</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46251985</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45863685</score>
+	<text>Gun violence is the broadly defined category of violence and crime committed with the use of a firearm ; it does not include the safe lawful use of firearms for sport, hunting, target practice, law enforcement, or self-defense.</text>
+</context>
+<context>
+	<score>0.4519359</score>
+	<text>Gun violence</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="prettytable sortable" style="width:100%;"><tr><th style="width:32%;text-align:center;">Country</th><th style="width:17%;text-align:center;">Non-firearm homicide rate<br />per 100,000 pop.</th><th style="width:17%;text-align:center;">Firearm homicide rate<br />per 100,000 pop.</th><th style="width:17%;text-align:center;">% homicides with firearms</th><th style="width:17%;text-align:center;">Overall homicide rate<br />per 100,000 pop.</th></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td>1.26</td><td>0.31</td><td>16.3435</td><td>1.57</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/a/z/e/Azerbaijan.html" title="Azerbaijan">Azerbaijan</a></td><td>2.8078</td><td>0.2236</td><td>7.3770</td><td>3.0314</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/b/a/r/Barbados.html" title="Barbados">Barbados</a></td><td>7.4906</td><td>2.9963</td><td>28.5714</td><td>10.4869</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/b/e/l/Belarus.html" title="Belarus">Belarus</a></td><td>10.1300</td><td>3.3100</td><td>24.6280</td><td>13.4400</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/b/u/l/Bulgaria.html" title="Bulgaria">Bulgaria</a></td><td>4.0652</td><td>0.7714</td><td>15.9494</td><td>4.8366</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/c/a/n/Canada.html" title="Canada">Canada</a><sup id="cite_ref-1999_stats_5-0" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>1.04</td><td>0.54</td><td>25</td><td>1.58</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/c/h/i/Chile.html" title="Chile">Chile</a></td><td>1.5461</td><td>0.1776</td><td>10.3053</td><td>1.7237</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/c/o/l/Colombia.html" title="Colombia">Colombia</a></td><td>62.7400</td><td>51.7683</td><td>45.2092</td><td>114.5083</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/c/o/s/Costa_Rica_e226.html" title="Costa Rica">Costa Rica</a><sup id="cite_ref-1999_stats_5-1" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>6.57</td><td>3.38</td><td>34</td><td>9.95</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td>1.69</td><td>2.07</td><td>55</td><td>3.76</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>1.09</td><td>0.26</td><td>19</td><td>1.35</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/e/n/g/England.html" title="England">England</a> &amp; <a href="../../../../articles/w/a/l/Wales.html" title="Wales">Wales</a><sup id="cite_ref-1999_stats_5-2" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>1.33</td><td>0.12</td><td>8</td><td>1.57</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/e/s/t/Estonia.html" title="Estonia">Estonia</a></td><td>10.4456</td><td>1.5340</td><td>12.8049</td><td>11.9795</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a><sup id="cite_ref-1998_stats_6-0" class="reference"><a href="#cite_note-1998_stats-6" title="">[7]</a></sup></td><td>2.19</td><td>0.43</td><td>16</td><td>2.62</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>1.1679</td><td>0.4672</td><td>28.5714</td><td>1.6350</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/g/u/a/Guatemala.html" title="Guatemala">Guatemala</a></td><td>25.4737</td><td>18.5000</td><td>42.0706</td><td>43.9737</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/h/u/n/Hungary.html" title="Hungary">Hungary</a></td><td>2.0500</td><td>0.4400</td><td>17.6707</td><td>2.4900</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/i/n/d/India.html" title="India">India</a><sup id="cite_ref-1999_stats_5-3" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>3.72</td><td>0.93</td><td>20</td><td>4.65</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a><sup id="cite_ref-1999_stats_5-4" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>1.01</td><td>0.32</td><td>24</td><td>1.33</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/l/a/t/Latvia.html" title="Latvia">Latvia</a></td><td>10.0337</td><td>1.2648</td><td>11.1940</td><td>11.2985</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/l/i/t/Lithuania.html" title="Lithuania">Lithuania</a></td><td>10.0135</td><td>2.2463</td><td>18.3223</td><td>12.2598</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/r/e/p/Republic_of_Macedonia_2bfd.html" title="Republic of Macedonia">Macedonia</a>, FYR</td><td>2.3141</td><td>1.2802</td><td>35.6164</td><td>3.5943</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/m/e/x/Mexico.html" title="Mexico">Mexico</a></td><td>14.1112</td><td>3.6622</td><td>20.6051</td><td>17.7735</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/m/o/l/Moldova.html" title="Moldova">Moldova</a>, Republic of</td><td>8.1270</td><td>0.4671</td><td>5.4348</td><td>8.5941</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/n/e/w/New_Zealand_2311.html" title="New Zealand">New Zealand</a></td><td>1.1747</td><td>0.1827</td><td>13.4615</td><td>1.3574</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/p/a/r/Paraguay.html" title="Paraguay">Paraguay</a></td><td>12.0451</td><td>7.3508</td><td>37.8987</td><td>19.3959</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td>5.6072</td><td>0.4289</td><td>7.1062</td><td>6.0362</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td><td>2.4788</td><td>0.8488</td><td>25.3776</td><td>3.3100</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/q/a/t/Qatar.html" title="Qatar">Qatar</a><sup id="cite_ref-1999_stats_5-5" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>0.53</td><td>0.18</td><td>25</td><td>0.71</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/i/n/Singapore.html" title="Singapore">Singapore</a></td><td>0.9209</td><td>0.0249</td><td>2.6316</td><td>0.9457</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/l/o/Slovakia.html" title="Slovakia">Slovakia</a></td><td>2.6473</td><td>2.1659</td><td>45.0000</td><td>4.8132</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/l/o/Slovenia.html" title="Slovenia">Slovenia</a></td><td>1.8109</td><td>0.6036</td><td>25.0000</td><td>2.4145</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/o/u/South_Africa_1287.html" title="South Africa">South Africa</a></td><td>51.3901</td><td>74.5748</td><td>59.2028</td><td>125.9650</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>1.2506</td><td>0.2456</td><td>16.4129</td><td>1.4962</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>0.96</td><td>0.56</td><td>37</td><td>1.52</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/t/h/a/Thailand.html" title="Thailand">Thailand</a></td><td>8.4679</td><td>33.0016</td><td>79.5805</td><td>41.4695</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/u/k/r/Ukraine.html" title="Ukraine">Ukraine</a></td><td>8.9253</td><td>0.3495</td><td>3.7682</td><td>9.2747</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a><sup id="cite_ref-1999_stats_5-6" class="reference"><a href="#cite_note-1999_stats-5" title="">[6]</a></sup></td><td>4.55</td><td>2.97</td><td>39</td><td>7.52</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/u/r/u/Uruguay.html" title="Uruguay">Uruguay</a></td><td>4.6149</td><td>2.5172</td><td>35.2941</td><td>7.1321</td></tr><tr style="font-weight:normal;"><td><a href="../../../../articles/z/i/m/Zimbabwe.html" title="Zimbabwe">Zimbabwe</a></td><td>7.2381</td><td>4.7460</td><td>39.6026</td><td>11.9841</td></tr></table>]]>
+</htmlSnippet>
+</entity>

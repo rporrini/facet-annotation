@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="san15-data3-repo/attrParsedPage/out_data_422/dir58/file315351_0_cols1_rows14.xml" />
+
+<types>
+<coltype>Text</coltype>
+<coltype>Number</coltype>
+</types>
+</tableAttributes>
+<content>
+<row>
+<cell>
+	<html><![CDATA[<td>Casino Royale</td>]]></html>
+	<text>Casino Royale</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1953</td>]]></html>
+	<text>1953</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Live And Let Die</td>]]></html>
+	<text>Live And Let Die</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1954</td>]]></html>
+	<text>1954</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Moonraker</td>]]></html>
+	<text>Moonraker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1955</td>]]></html>
+	<text>1955</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Diamonds Are Forever</td>]]></html>
+	<text>Diamonds Are Forever</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1956</td>]]></html>
+	<text>1956</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>From Russia With Love</td>]]></html>
+	<text>From Russia With Love</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1957</td>]]></html>
+	<text>1957</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Doctor No</td>]]></html>
+	<text>Doctor No</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1958</td>]]></html>
+	<text>1958</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Goldfinger</td>]]></html>
+	<text>Goldfinger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1959</td>]]></html>
+	<text>1959</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>For Your Eyes Only</td>]]></html>
+	<text>For Your Eyes Only</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Thunderball</td>]]></html>
+	<text>Thunderball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1961</td>]]></html>
+	<text>1961</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Spy Who Loved Me</td>]]></html>
+	<text>The Spy Who Loved Me</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1962</td>]]></html>
+	<text>1962</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>On Her Majesty's Secret Service</td>]]></html>
+	<text>On Her Majesty&amp;apos;s Secret Service</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1963</td>]]></html>
+	<text>1963</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>You Only Live Twice</td>]]></html>
+	<text>You Only Live Twice</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1964</td>]]></html>
+	<text>1964</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>The Man With The Golden Gun</td>]]></html>
+	<text>The Man With The Golden Gun</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1965</td>]]></html>
+	<text>1965</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+</tableContext>
+</logicalTable>
+<htmlSnippet>
+<![CDATA[
+<table border="1"><tr><td>Casino Royale</td>
+<td>1953</td>
+</tr><tr><td>Live And Let Die</td>
+<td>1954</td>
+</tr><tr><td>Moonraker</td>
+<td>1955</td>
+</tr><tr><td>Diamonds Are Forever</td>
+<td>1956</td>
+</tr><tr><td>From Russia With Love</td>
+<td>1957</td>
+</tr><tr><td>Doctor No</td>
+<td>1958</td>
+</tr><tr><td>Goldfinger</td>
+<td>1959</td>
+</tr><tr><td>For Your Eyes Only</td>
+<td></td>
+</tr><tr><td>Thunderball</td>
+<td>1961</td>
+</tr><tr><td>The Spy Who Loved Me</td>
+<td>1962</td>
+</tr><tr><td>On Her Majesty&apos;s Secret Service</td>
+<td>1963</td>
+</tr><tr><td>You Only Live Twice</td>
+<td>1964</td>
+</tr><tr><td>The Man With The Golden Gun</td>
+<td>1965</td>
+</tr><tr><td></td>
+<td></td>
+</tr></table>]]>
+</htmlSnippet>
+</entity>

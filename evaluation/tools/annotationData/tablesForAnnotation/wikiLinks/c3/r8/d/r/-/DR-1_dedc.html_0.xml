@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r8/d/r/-/DR-1_dedc.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.7291666 1, 0.13333334 0 2, 0.11111112 1 2, 0.10000001 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/r/-/DR-1_dedc.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Cities</th>]]></html>
+	<text>Cities</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Major intersections</th>]]></html>
+	<text>Major intersections</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance from Santo Domingo</th>]]></html>
+	<text>Distance from Santo Domingo</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Santo Domingo</td>]]></html>
+	<text>Santo Domingo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-4 , DR-3</td>]]></html>
+	<text>DR-4 , DR-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 km, begins here</td>]]></html>
+	<text>0 km, begins here</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Villa Altagracia</td>]]></html>
+	<text>Villa Altagracia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Piedra Blanca</td>]]></html>
+	<text>Piedra Blanca</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-Route 17</td>]]></html>
+	<text>DR-Route 17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bonao</td>]]></html>
+	<text>Bonao</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>85 km</td>]]></html>
+	<text>85 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Concepción de la Vega</td>]]></html>
+	<text>Concepci&#243;n de la Vega</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-Route 21</td>]]></html>
+	<text>DR-Route 21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125 km</td>]]></html>
+	<text>125 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Santiago de los Caballeros</td>]]></html>
+	<text>Santiago de los Caballeros</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-Route 25, DR-Route 14</td>]]></html>
+	<text>DR-Route 25, DR-Route 14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>155 km</td>]]></html>
+	<text>155 km</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Villa Bisonó</td>]]></html>
+	<text>Villa Bison&#243;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-5</td>]]></html>
+	<text>DR-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>--</td>]]></html>
+	<text>--</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Fernando de Monte Cristi</td>]]></html>
+	<text>San Fernando de Monte Cristi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DR-Route 45</td>]]></html>
+	<text>DR-Route 45</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>270 km, ends here</td>]]></html>
+	<text>270 km, ends here</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>DR-1 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Cities Major intersections Distance from Santo Domingo</text>
+</context>
+<context>
+	<score>0.8841202</score>
+	<text>After the interruption In Santiagos de los Caballeros, the highway is re-named again for a third time as Autopista Joaquin Balaguer in honor of the Dominican president. In this last part of the highway until Monte Cristi, the quality is much more poorer than the average of the other national highways due informal exits and improvised intersections. The highway end in San Fernando de Monte Cristi close to the northern tip of the Dominican-Haitian Border. The highway connects to DR-5 in the North coast to provide access to Puerto Plata and Sosua, important tourism poinrs of the island.</text>
+</context>
+<context>
+	<score>0.80901843</score>
+	<text>DR-1</text>
+</context>
+<context>
+	<score>0.7855491</score>
+	<text>[ edit ] Autopista Joaquin Balaguer</text>
+</context>
+<context>
+	<score>0.7536584</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73749566</score>
+	<text>[ edit ] Overview</text>
+</context>
+<context>
+	<score>0.7301615</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70669216</score>
+	<text>DR-1 close to DR-5 in the Northwest of the Republic.</text>
+</context>
+<context>
+	<score>0.6436066</score>
+	<text>After exiting the D.N the current expreso becomes Autopista Juan Pablo Duarte which is slow and congested due to improvised exits and the current volume of cars entering the city. This has led to plans for either tunnels or Viaducts as a way to relieve traffic. Exiting the Municipal area of [[Los Alcarizos] the highways becomes two lane and an important connection to the Northwestern cities of the Country.</text>
+</context>
+<context>
+	<score>0.5931382</score>
+	<text>[ edit ] Autopista Juan Pablo Duarte</text>
+</context>
+<context>
+	<score>0.55276346</score>
+	<text>The Corridor does not cross the Ozama River, because it begins after that but is connected to Santo Domingo Este by the Avenue Quinto Centenario/San Vicente de Paul.</text>
+</context>
+<context>
+	<score>0.52046365</score>
+	<text>The Expreso John F Kennedy is an urban express corridor parallel to the Expreso 27 de Febrero (See DR-3 ) crossing Most of Downtown Santo Domingo and almost the whole D.N . In this area, unlike its parallel Expreso, it is not composed of Tunnels but instead only by long express viaducts and at ground a 3 lane local service road. The Beginning of this corridor is marked at the western end of the Avenida Quinto Centenario. This Expreso was finished in the year of 1998-9 to relieve intense congestion in the growing city of Santo Domingo. The Expreso intercepts the three main North-south avenues of the D.N, the Wiston Churchill, Lincoln, and Maximo Gomez.</text>
+</context>
+<context>
+	<score>0.5166603</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.4946238</score>
+	<text>[ edit ] Expreso John F Kennedy</text>
+</context>
+<context>
+	<score>0.47395194</score>
+	<text>From it Southern Terminus In the D.N ( Santo Domingo ) to its Northern terminus in Monte Cristi in the Dominican-Haitian Border, the Highway changes names and quality differs.</text>
+</context>
+<context>
+	<score>0.45741448</score>
+	<text>[ edit ] Overview</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Cities</th><th>Major intersections</th><th>Distance from Santo Domingo</th></tr><tr><td><a href="../../../../articles/s/a/n/Santo_Domingo_2539.html" title="Santo Domingo">Santo Domingo</a></td><td><a href="../../../../articles/d/r/-/DR-4_926b.html" title="DR-4">DR-4</a>, <a href="../../../../articles/d/r/-/DR-3_28f9.html" title="DR-3">DR-3</a></td><td>0 km, begins here</td></tr><tr><td><a href="../../../../articles/v/i/l/Villa_Altagracia_f779.html" title="Villa Altagracia">Villa Altagracia</a></td><td>--</td><td>--</td></tr><tr><td><a href="../../../../articles/p/i/e/Piedra_Blanca_9071.html" title="Piedra Blanca">Piedra Blanca</a></td><td>DR-Route 17</td><td>--</td></tr><tr><td><a href="../../../../articles/b/o/n/Bonao.html" title="Bonao">Bonao</a></td><td>--</td><td>85 km</td></tr><tr><td><a href="../../../../articles/c/o/n/Concepci%C3%B3n_de_la_Vega_1382.html" title="Concepción de la Vega">Concepción de la Vega</a></td><td>DR-Route 21</td><td>125 km</td></tr><tr><td><a href="../../../../articles/s/a/n/Santiago_de_los_Caballeros_ecd6.html" title="Santiago de los Caballeros">Santiago de los Caballeros</a></td><td>DR-Route 25, DR-Route 14</td><td>155 km</td></tr><tr><td><a href="../../../../articles/v/i/l/Villa_Bison%C3%B3_10f5.html" title="Villa Bisonó">Villa Bisonó</a></td><td><a href="../../../../articles/d/r/-/DR-5_f02b.html" title="DR-5">DR-5</a></td><td>--</td></tr><tr><td><a href="../../../../articles/s/a/n/San_Fernando_de_Monte_Cristi_eed0.html" title="San Fernando de Monte Cristi">San Fernando de Monte Cristi</a></td><td>DR-Route 45</td><td>270 km, ends here</td></tr></table>]]>
+</htmlSnippet>
+</entity>

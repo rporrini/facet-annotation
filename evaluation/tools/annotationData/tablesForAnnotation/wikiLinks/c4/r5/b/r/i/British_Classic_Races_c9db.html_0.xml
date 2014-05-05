@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/b/r/i/British_Classic_Races_c9db.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 0 2, 0.7 1, 0.625 0 3, 0.52500004 1 2, 0.45000002 2, 0.4375 1 3, 0.375 3, 0.28125 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/b/r/i/British_Classic_Races_c9db.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Race</th>]]></html>
+	<text>Race</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Distance</th>]]></html>
+	<text>Distance</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Course</th>]]></html>
+	<text>Course</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2,000 Guineas Stakes</td>]]></html>
+	<text>2,000 Guineas Stakes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Late April / early May</td>]]></html>
+	<text>Late April / early May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 mile</td>]]></html>
+	<text>1 mile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newmarket</td>]]></html>
+	<text>Newmarket</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1,000 Guineas Stakes</td>]]></html>
+	<text>1,000 Guineas Stakes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Late April / early May</td>]]></html>
+	<text>Late April / early May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 mile</td>]]></html>
+	<text>1 mile</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Newmarket</td>]]></html>
+	<text>Newmarket</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Epsom Oaks</td>]]></html>
+	<text>Epsom Oaks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Early June</td>]]></html>
+	<text>Early June</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 mile 4 furlongs 10 yards (9.1 m)</td>]]></html>
+	<text>1 mile 4 furlongs 10 yards (9.1 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epsom Downs</td>]]></html>
+	<text>Epsom Downs</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Epsom Derby</td>]]></html>
+	<text>Epsom Derby</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First Saturday in June</td>]]></html>
+	<text>First Saturday in June</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 mile 4 furlongs 10 yards (9.1 m)</td>]]></html>
+	<text>1 mile 4 furlongs 10 yards (9.1 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Epsom Downs</td>]]></html>
+	<text>Epsom Downs</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>St. Leger Stakes</td>]]></html>
+	<text>St. Leger Stakes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September</td>]]></html>
+	<text>September</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 mile 6 furlongs 132 yards (121 m)</td>]]></html>
+	<text>1 mile 6 furlongs 132 yards (121 m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Doncaster</td>]]></html>
+	<text>Doncaster</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>British Classic Races - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Race Date Distance Course</text>
+</context>
+<context>
+	<score>0.8903664</score>
+	<text>In horse racing in Great Britain , The Classics are a series of horse races run over the flat (i.e. without jumps). Each classic is run once each year and is restricted to horses that are three years old. The five races are:</text>
+</context>
+<context>
+	<score>0.8103083</score>
+	<text>British Classic Races</text>
+</context>
+<context>
+	<score>0.7924609</score>
+	<text>For other meanings, see Classics (disambiguation) .</text>
+</context>
+<context>
+	<score>0.76078576</score>
+	<text>The 1,000 Guineas and the Oaks are restricted to fillies . The other three races are open to both fillies and colts.</text>
+</context>
+<context>
+	<score>0.7447322</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7447322</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7319841</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6693246</score>
+	<text>British Classic Races</text>
+</context>
+<context>
+	<score>0.61257255</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.47410354</score>
+	<text>[ edit ] See also</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Race</th><th>Date</th><th>Distance</th><th>Course</th></tr><tr><td><a href="../../../../articles/2/%2C/0/2%2C000_Guineas_Stakes_d4e6.html" title="2,000 Guineas Stakes">2,000 Guineas Stakes</a></td><td>Late April / early May</td><td>1 mile</td><td><a href="../../../../articles/n/e/w/Newmarket_Racecourse_a9ef.html" title="Newmarket Racecourse">Newmarket</a></td></tr><tr><td><a href="../../../../articles/1/%2C/0/1%2C000_Guineas_Stakes_e58c.html" title="1,000 Guineas Stakes">1,000 Guineas Stakes</a></td><td>Late April / early May</td><td>1 mile</td><td><a href="../../../../articles/n/e/w/Newmarket_Racecourse_a9ef.html" title="Newmarket Racecourse">Newmarket</a></td></tr><tr><td><a href="../../../../articles/e/p/s/Epsom_Oaks_6907.html" title="Epsom Oaks">Epsom Oaks</a></td><td>Early June</td><td>1 mile 4 <a href="../../../../articles/f/u/r/Furlong.html" title="Furlong">furlongs</a> 10&#160;yards (9.1&#160;m)</td><td><a href="../../../../articles/e/p/s/Epsom_Downs_Racecourse_54a4.html" title="Epsom Downs Racecourse">Epsom Downs</a></td></tr><tr><td><a href="../../../../articles/e/p/s/Epsom_Derby_8317.html" title="Epsom Derby">Epsom Derby</a></td><td>First Saturday in June</td><td>1 mile 4 <a href="../../../../articles/f/u/r/Furlong.html" title="Furlong">furlongs</a> 10&#160;yards (9.1&#160;m)</td><td><a href="../../../../articles/e/p/s/Epsom_Downs_Racecourse_54a4.html" title="Epsom Downs Racecourse">Epsom Downs</a></td></tr><tr><td><a href="../../../../articles/s/t/2E/St._Leger_Stakes_0c71.html" title="St. Leger Stakes">St. Leger Stakes</a></td><td>September</td><td>1 mile 6 <a href="../../../../articles/f/u/r/Furlong.html" title="Furlong">furlongs</a> 132&#160;yards (121&#160;m)</td><td><a href="../../../../articles/d/o/n/Doncaster_Racecourse_1bfc.html" title="Doncaster Racecourse">Doncaster</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

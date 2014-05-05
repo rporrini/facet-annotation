@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r5/s/o/m/Somerset_coalfield.html_5.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.875 7, 0.875 0 7, 0.8203125 1 7, 0.375 1, 0.16250001 0 2, 0.15 3, 0.15 0 3, 0.1421875 2 7, 0.140625 1 3, 0.1375 0 4, 0.13125001 3 7, 0.125 0 6, 0.120312504 4 7, 0.11000001 4, 0.109375 6 7, 0.103125 1 4, 0.1 6, 0.09750001 2, 0.09375 1 6, 0.091406256 1 2, 0.056250002 0 5, 0.04921875 5 7, 0.045 5, 0.0421875 1 5, 0.024375001 2 3, 0.020625 3 4, 0.020312501 2 6, 0.01875 3 6, 0.017875003 2 4, 0.0171875 4 6, 0.009140626 2 5, 0.0084375 3 5, 0.0077343755 4 5, 0.005625 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/s/o/m/Somerset_coalfield.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Colliery</th>]]></html>
+	<text>Colliery</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Grid Ref [A]</th>]]></html>
+	<text>Grid Ref [A]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opened</th>]]></html>
+	<text>Opened</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Closed</th>]]></html>
+	<text>Closed</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Shaft diameter ft in (m) [6]</th>]]></html>
+	<text>Shaft diameter ft in (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Max shaft depth ft (m) [6]</th>]]></html>
+	<text>Max shaft depth ft (m) [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Notes</th>]]></html>
+	<text>Notes</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Church Field (also known as Farrington of Ruett Slant)</td>]]></html>
+	<text>Church Field (also known as Farrington of Ruett Slant)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Farrington Gurney</td>]]></html>
+	<text>Farrington Gurney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST636559</td>]]></html>
+	<text>ST636559</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1921</td>]]></html>
+	<text>1921</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Drift Mine transferred to Marsh Lane</td>]]></html>
+	<text>Drift Mine transferred to Marsh Lane</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Farrington</td>]]></html>
+	<text>Farrington</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Farrington Gurney</td>]]></html>
+	<text>Farrington Gurney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST636559</td>]]></html>
+	<text>ST636559</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1782</td>]]></html>
+	<text>1782</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923 [8]</td>]]></html>
+	<text>1923 [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 (2.7)</td>]]></html>
+	<text>9 (2.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>588 (179.2)</td>]]></html>
+	<text>588 (179.2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Marsh Lane</td>]]></html>
+	<text>Marsh Lane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Farrington Gurney</td>]]></html>
+	<text>Farrington Gurney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST636551</td>]]></html>
+	<text>ST636551</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1924</td>]]></html>
+	<text>1924</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1955</td>]]></html>
+	<text>1955</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>?</td>]]></html>
+	<text>?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>visited by the Prince of Wales on 7th July 1934</td>]]></html>
+	<text>visited by the Prince of Wales on 7th July 1934</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Old Mills</td>]]></html>
+	<text>Old Mills</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Midsomer Norton</td>]]></html>
+	<text>Midsomer Norton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST649549</td>]]></html>
+	<text>ST649549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1860</td>]]></html>
+	<text>1860</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966</td>]]></html>
+	<text>1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11 (3.4)</td>]]></html>
+	<text>11 (3.4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1098 (334.7)</td>]]></html>
+	<text>1098 (334.7)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Merged with Springfield</td>]]></html>
+	<text>Merged with Springfield</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Springfield</td>]]></html>
+	<text>Springfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Midsomer Norton</td>]]></html>
+	<text>Midsomer Norton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ST649549</td>]]></html>
+	<text>ST649549</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1872</td>]]></html>
+	<text>1872</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966</td>]]></html>
+	<text>1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 6 (2.9)</td>]]></html>
+	<text>9 6 (2.9)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>965 (294.1)</td>]]></html>
+	<text>965 (294.1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Merged with Old Mills. Owned by W Evans and Co. [10]</td>]]></html>
+	<text>Merged with Old Mills. Owned by W Evans and Co. [10]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Somerset coalfield - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Colliery Location Grid Ref [A] Opened Closed Shaft diameter ft in (m) [6] Max shaft depth ft (m) [6] Notes</text>
+</context>
+<context>
+	<score>0.88043475</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.78813136</score>
+	<text>Somerset coalfield</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>The main geological feature in this area south of Hallatrow consists of Supra-Pennant Measures which includes the upper coal measures and outcrops of sandstone. The relics of the industrial past are very evident within the area, including the widely visible and distinct conical shape of the Old Mills batch with its generally unvegetated surface. The three disused collieries in the area have subsequently been developed for light industry, a depot and a superstore.</text>
+</context>
+<context>
+	<score>0.7520926</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Geology</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Pensford coal basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl of Warwick&apos;s Clutton Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Paulton basin</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Timsbury and Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] East of Camerton</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Farrington Gurney</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] The Duchy Mines</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Writhlington Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Norton Hill Collieries</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Nettlebridge Valley</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Transportation</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Output</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Decline and closure</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Area today</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.7122025</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.71055555</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70588934</score>
+	<text>Mining in the area around Farrington Gurney has been undertaken since approximately 1780, with several pits at that time all being called Farrington Colliery.</text>
+</context>
+<context>
+	<score>0.6438287</score>
+	<text>[ edit ] Farrington Gurney</text>
+</context>
+<context>
+	<score>0.6052959</score>
+	<text>The Duchy of Cornwall owned most of the mineral rights around Midsomer Norton and various small pits opened around 1750 to exploit these.</text>
+</context>
+<context>
+	<score>0.5941802</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.5544615</score>
+	<text>The dominant features of the Cam and Wellow Brooks are the remnants of the coal mining industry from the 18th-20th centuries. In both valleys there are frequent shafts and batches together with the remains of the railway and tram lines that connected the mines to the Avon Valley. Remains of the Somersetshire Coal Canal are also significant reminders of this coal mining history in this area.</text>
+</context>
+<context>
+	<score>0.5226864</score>
+	<text>In this area the coal is buried beneath newer strata , which meant that mining in the area was difficult.</text>
+</context>
+<context>
+	<score>0.51894486</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.49726638</score>
+	<text>[ edit ] East of Camerton</text>
+</context>
+<context>
+	<score>0.47693038</score>
+	<text>[ edit ] The pits</text>
+</context>
+<context>
+	<score>0.46815014</score>
+	<text>[ edit ] Earl Waldegrave&apos;s Radstock Collieries</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>There is very little landscape evidence remaining of the previous mining activities around Clutton, Temple Cloud, High Littleton and Timsbury. There are a few small batches at Clutton, east of Radford Hill and at Greyfields, High Littleton.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Colliery</th><th>Location</th><th>Grid Ref<span class="reference"><sup id="ref_Grid_referenceA"><a href="#endnote_Grid_referenceA" title="">[A]</a></sup></span></th><th>Opened</th><th>Closed</th><th>Shaft diameter<br />ft in (m)<sup id="cite_ref-down_5-16" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Max shaft depth<br />ft (m)<sup id="cite_ref-down_5-17" class="reference"><a href="#cite_note-down-5" title="">[6]</a></sup></th><th>Notes</th></tr><tr><td>Church Field (also known as Farrington of Ruett Slant)</td><td><a href="../../../../articles/f/a/r/Farrington_Gurney_31c3.html" title="Farrington Gurney">Farrington Gurney</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636559_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636559_region:GB_scale:25000" rel="nofollow">ST636559</a></td><td>1921</td><td>1923</td><td>&#160;?</td><td>&#160;?</td><td><a href="../../../../articles/d/r/i/Drift_mining.html" title="Drift mining">Drift Mine</a> transferred to Marsh Lane</td></tr><tr><td>Farrington</td><td><a href="../../../../articles/f/a/r/Farrington_Gurney_31c3.html" title="Farrington Gurney">Farrington Gurney</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636559_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636559_region:GB_scale:25000" rel="nofollow">ST636559</a></td><td>1782</td><td>1923<sup id="cite_ref-date_7-5" class="reference"><a href="#cite_note-date-7" title="">[8]</a></sup></td><td>9 (2.7)</td><td>588 (179.2)</td><td></td></tr><tr><td>Marsh Lane</td><td><a href="../../../../articles/f/a/r/Farrington_Gurney_31c3.html" title="Farrington Gurney">Farrington Gurney</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636551_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST636551_region:GB_scale:25000" rel="nofollow">ST636551</a></td><td>1924</td><td>1955</td><td>&#160;?</td><td>&#160;?</td><td>visited by the <a href="../../../../articles/p/r/i/Prince_of_Wales_d14a.html" title="Prince of Wales">Prince of Wales</a> on 7th July 1934</td></tr><tr><td>Old Mills</td><td><a href="../../../../articles/m/i/d/Midsomer_Norton_74e1.html" title="Midsomer Norton">Midsomer Norton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST649549_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST649549_region:GB_scale:25000" rel="nofollow">ST649549</a></td><td>1860</td><td>1966</td><td>11 (3.4)</td><td>1098 (334.7)</td><td>Merged with Springfield</td></tr><tr><td>Springfield</td><td><a href="../../../../articles/m/i/d/Midsomer_Norton_74e1.html" title="Midsomer Norton">Midsomer Norton</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST649549_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?ST649549_region:GB_scale:25000" rel="nofollow">ST649549</a></td><td>1872</td><td>1966</td><td>9 6 (2.9)</td><td>965 (294.1)</td><td>Merged with Old Mills. Owned by W Evans and Co. <sup id="cite_ref-cmrc_9-7" class="reference"><a href="#cite_note-cmrc-9" title="">[10]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

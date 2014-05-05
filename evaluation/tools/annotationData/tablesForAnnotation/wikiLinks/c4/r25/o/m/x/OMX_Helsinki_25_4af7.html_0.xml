@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r25/o/m/x/OMX_Helsinki_25_4af7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.595 1, 0.125 0 3, 0.115 3, 0.109375 1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/o/m/x/OMX_Helsinki_25_4af7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Company</th>]]></html>
+	<text>Company</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GICS Sector</th>]]></html>
+	<text>GICS Sector</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Ticker symbol</th>]]></html>
+	<text>Ticker symbol</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Index weighting (%) [1]</th>]]></html>
+	<text>Index weighting (%) [1]</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Amer Sports</td>]]></html>
+	<text>Amer Sports</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>leisure products</td>]]></html>
+	<text>leisure products</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>AMEAS</td>]]></html>
+	<text>AMEAS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0.93</td>]]></html>
+	<text>0.93</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cargotec</td>]]></html>
+	<text>Cargotec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial machinery</td>]]></html>
+	<text>industrial machinery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CGCBV</td>]]></html>
+	<text>CGCBV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.38</td>]]></html>
+	<text>1.38</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elisa</td>]]></html>
+	<text>Elisa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>integrated telecommunication services</td>]]></html>
+	<text>integrated telecommunication services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ELI1V</td>]]></html>
+	<text>ELI1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.27</td>]]></html>
+	<text>3.27</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fortum</td>]]></html>
+	<text>Fortum</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>electric utilities</td>]]></html>
+	<text>electric utilities</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FUM1V</td>]]></html>
+	<text>FUM1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.00</td>]]></html>
+	<text>10.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kesko</td>]]></html>
+	<text>Kesko</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>food retail</td>]]></html>
+	<text>food retail</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KESBV</td>]]></html>
+	<text>KESBV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.74</td>]]></html>
+	<text>2.74</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KONE</td>]]></html>
+	<text>KONE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial machinery</td>]]></html>
+	<text>industrial machinery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KNEBV</td>]]></html>
+	<text>KNEBV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.27</td>]]></html>
+	<text>5.27</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Konecranes</td>]]></html>
+	<text>Konecranes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial machinery</td>]]></html>
+	<text>industrial machinery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KCR1V</td>]]></html>
+	<text>KCR1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.52</td>]]></html>
+	<text>1.52</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Metso</td>]]></html>
+	<text>Metso</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial machinery</td>]]></html>
+	<text>industrial machinery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MEO1V</td>]]></html>
+	<text>MEO1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.79</td>]]></html>
+	<text>4.79</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Neste Oil</td>]]></html>
+	<text>Neste Oil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>oil and gas refining and marketing</td>]]></html>
+	<text>oil and gas refining and marketing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NES1V</td>]]></html>
+	<text>NES1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.34</td>]]></html>
+	<text>3.34</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nokia</td>]]></html>
+	<text>Nokia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>communications equipment</td>]]></html>
+	<text>communications equipment</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NOK1V</td>]]></html>
+	<text>NOK1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.00</td>]]></html>
+	<text>10.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nokian Tyres</td>]]></html>
+	<text>Nokian Tyres</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>tyres and rubber</td>]]></html>
+	<text>tyres and rubber</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NRE1V</td>]]></html>
+	<text>NRE1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.42</td>]]></html>
+	<text>3.42</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nordea AB</td>]]></html>
+	<text>Nordea AB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>diversified banks</td>]]></html>
+	<text>diversified banks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NDA1V</td>]]></html>
+	<text>NDA1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.52</td>]]></html>
+	<text>3.52</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Outokumpu</td>]]></html>
+	<text>Outokumpu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>steel</td>]]></html>
+	<text>steel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OUT1V</td>]]></html>
+	<text>OUT1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.21</td>]]></html>
+	<text>3.21</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Outotec</td>]]></html>
+	<text>Outotec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>construction and engineering</td>]]></html>
+	<text>construction and engineering</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OTE1V</td>]]></html>
+	<text>OTE1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.69</td>]]></html>
+	<text>1.69</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pohjola Bank</td>]]></html>
+	<text>Pohjola Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>other diversified financial services</td>]]></html>
+	<text>other diversified financial services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>POH1S</td>]]></html>
+	<text>POH1S</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.73</td>]]></html>
+	<text>1.73</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rautaruukki</td>]]></html>
+	<text>Rautaruukki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>steel</td>]]></html>
+	<text>steel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RTRKS</td>]]></html>
+	<text>RTRKS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.81</td>]]></html>
+	<text>2.81</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sampo</td>]]></html>
+	<text>Sampo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>multi-line insurance</td>]]></html>
+	<text>multi-line insurance</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SAMAS</td>]]></html>
+	<text>SAMAS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10.00</td>]]></html>
+	<text>10.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>SanomaWSOY</td>]]></html>
+	<text>SanomaWSOY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>publishing</td>]]></html>
+	<text>publishing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SWS1V</td>]]></html>
+	<text>SWS1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.20</td>]]></html>
+	<text>2.20</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stora Enso</td>]]></html>
+	<text>Stora Enso</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>paper products</td>]]></html>
+	<text>paper products</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>STERV</td>]]></html>
+	<text>STERV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.40</td>]]></html>
+	<text>6.40</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TeliaSonera AB</td>]]></html>
+	<text>TeliaSonera AB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>integrated telecommunication services</td>]]></html>
+	<text>integrated telecommunication services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TLS1V</td>]]></html>
+	<text>TLS1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.31</td>]]></html>
+	<text>6.31</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>TietoEnator</td>]]></html>
+	<text>TietoEnator</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IT consulting &amp; other services</td>]]></html>
+	<text>IT consulting &amp;amp;amp; other services</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TIE1V</td>]]></html>
+	<text>TIE1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.08</td>]]></html>
+	<text>1.08</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>UPM</td>]]></html>
+	<text>UPM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>paper products</td>]]></html>
+	<text>paper products</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UPM1V</td>]]></html>
+	<text>UPM1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.78</td>]]></html>
+	<text>7.78</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Uponor</td>]]></html>
+	<text>Uponor</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>building products</td>]]></html>
+	<text>building products</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>UNR1V</td>]]></html>
+	<text>UNR1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.13</td>]]></html>
+	<text>1.13</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wärtsilä</td>]]></html>
+	<text>W&#228;rtsil&#228;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>industrial machinery</td>]]></html>
+	<text>industrial machinery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WRTBV</td>]]></html>
+	<text>WRTBV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.44</td>]]></html>
+	<text>3.44</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>YIT</td>]]></html>
+	<text>YIT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>construction and engineering</td>]]></html>
+	<text>construction and engineering</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>YTY1V</td>]]></html>
+	<text>YTY1V</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.06</td>]]></html>
+	<text>2.06</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>OMX Helsinki 25 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Company GICS Sector Ticker symbol Index weighting (%) [1]</text>
+</context>
+<context>
+	<score>0.88612217</score>
+	<text>At present (reshuffle of 1 February , 2008), the following 25 companies make up the index:</text>
+</context>
+<context>
+	<score>0.7996312</score>
+	<text>OMX Helsinki 25</text>
+</context>
+<context>
+	<score>0.7886043</score>
+	<text>Stora Enso paper mill in Oulu .</text>
+</context>
+<context>
+	<score>0.7570544</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.72963643</score>
+	<text>[ edit ] Components</text>
+</context>
+<context>
+	<score>0.72963643</score>
+	<text>[ edit ] Footnotes</text>
+</context>
+<context>
+	<score>0.72963643</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72963643</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.72161686</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71058995</score>
+	<text>A Nokia N93 phone.</text>
+</context>
+<context>
+	<score>0.64817846</score>
+	<text>Fortum headquarters in Espoo .</text>
+</context>
+<context>
+	<score>0.60942775</score>
+	<text>^ At last index reclassification on 1 February 2008 . Source: Latest index reviews , OMX Group .</text>
+</context>
+<context>
+	<score>0.5982493</score>
+	<text>[ edit ] Components</text>
+</context>
+<context>
+	<score>0.55028635</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.5263513</score>
+	<text>OMX Helsinki 25 ( OMXH25 , formerly HEX25 ) is a stock market index for Helsinki Stock Exchange . It is a market value weighted index that consists of the 25 most-traded stock classes. Maximum weight for a single stock is limited to 10%. This is mainly to limit Nokia&apos;s weight in the index.</text>
+</context>
+<context>
+	<score>0.52258855</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.5118145</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.49136347</score>
+	<text>OMX Helsinki 25</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align: center; font-size: 90%;" cellpadding="2" cellspacing="2"><tr><th>Company</th><th><a href="../../../../articles/g/l/o/Global_Industry_Classification_Standard_957a.html" title="Global Industry Classification Standard">GICS</a> Sector</th><th>Ticker symbol</th><th>Index weighting (%)<sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></th></tr><tr><td><a href="../../../../articles/a/m/e/Amer_Sports_0e09.html" title="Amer Sports">Amer Sports</a></td><td>leisure products</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24235" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24235" rel="nofollow">AMEAS</a></td><td>0.93</td></tr><tr><td><a href="../../../../articles/c/a/r/Cargotec.html" title="Cargotec">Cargotec</a></td><td>industrial machinery</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29983" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29983" rel="nofollow">CGCBV</a></td><td>1.38</td></tr><tr><td><a href="../../../../articles/e/l/i/Elisa_Oyj_2fe8.html" title="Elisa Oyj">Elisa</a></td><td>integrated telecommunication services</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24254" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24254" rel="nofollow">ELI1V</a></td><td>3.27</td></tr><tr><td><a href="../../../../articles/f/o/r/Fortum.html" title="Fortum">Fortum</a></td><td>electric utilities</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24271" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24271" rel="nofollow">FUM1V</a></td><td>10.00</td></tr><tr><td><a href="../../../../articles/k/e/s/Kesko.html" title="Kesko">Kesko</a></td><td>food retail</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24288" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24288" rel="nofollow">KESBV</a></td><td>2.74</td></tr><tr><td><a href="../../../../articles/k/o/n/KONE_fc4d.html" title="KONE">KONE</a></td><td>industrial machinery</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29981" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29981" rel="nofollow">KNEBV</a></td><td>5.27</td></tr><tr><td><a href="../../../../articles/k/o/n/Konecranes.html" title="Konecranes">Konecranes</a></td><td>industrial machinery</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24284" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24284" rel="nofollow">KCR1V</a></td><td>1.52</td></tr><tr><td><a href="../../../../articles/m/e/t/Metso.html" title="Metso">Metso</a></td><td>industrial machinery</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24302" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24302" rel="nofollow">MEO1V</a></td><td>4.79</td></tr><tr><td><a href="../../../../articles/n/e/s/Neste_Oil_ff2b.html" title="Neste Oil">Neste Oil</a></td><td>oil and gas refining and marketing</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29375" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX29375" rel="nofollow">NES1V</a></td><td>3.34</td></tr><tr><td><a href="../../../../articles/n/o/k/Nokia.html" title="Nokia">Nokia</a></td><td>communications equipment</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24311" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24311" rel="nofollow">NOK1V</a></td><td>10.00</td></tr><tr><td><a href="../../../../articles/n/o/k/Nokian_Tyres_abc9.html" title="Nokian Tyres">Nokian Tyres</a></td><td>tyres and rubber</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24312" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24312" rel="nofollow">NRE1V</a></td><td>3.42</td></tr><tr><td><a href="../../../../articles/n/o/r/Nordea.html" title="Nordea">Nordea AB</a></td><td>diversified banks</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24308" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24308" rel="nofollow">NDA1V</a></td><td>3.52</td></tr><tr><td><a href="../../../../articles/o/u/t/Outokumpu.html" title="Outokumpu">Outokumpu</a></td><td>steel</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24321" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24321" rel="nofollow">OUT1V</a></td><td>3.21</td></tr><tr><td><a href="../../../../articles/o/u/t/Outotec.html" title="Outotec">Outotec</a></td><td>construction and engineering</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX36695" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX36695" rel="nofollow">OTE1V</a></td><td>1.69</td></tr><tr><td><a href="../../../../articles/p/o/h/Pohjola_Bank_5806.html" class="mw-redirect" title="Pohjola Bank">Pohjola Bank</a></td><td>other diversified financial services</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24316" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24316" rel="nofollow">POH1S</a></td><td>1.73</td></tr><tr><td><a href="../../../../articles/r/a/u/Rautaruukki.html" title="Rautaruukki">Rautaruukki</a></td><td>steel</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24342" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24342" rel="nofollow">RTRKS</a></td><td>2.81</td></tr><tr><td><a href="../../../../articles/s/a/m/Sampo_Group_e5a9.html" title="Sampo Group">Sampo</a></td><td>multi-line insurance</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24346" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24346" rel="nofollow">SAMAS</a></td><td>10.00</td></tr><tr><td><a href="../../../../articles/s/a/n/SanomaWSOY_b1e3.html" title="SanomaWSOY">SanomaWSOY</a></td><td>publishing</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24366" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24366" rel="nofollow">SWS1V</a></td><td>2.20</td></tr><tr><td><a href="../../../../articles/s/t/o/Stora_Enso_5f29.html" title="Stora Enso">Stora Enso</a></td><td>paper products</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24360" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24360" rel="nofollow">STERV</a></td><td>6.40</td></tr><tr><td><a href="../../../../articles/t/e/l/TeliaSonera_de6b.html" title="TeliaSonera">TeliaSonera AB</a></td><td>integrated telecommunication services</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24381" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24381" rel="nofollow">TLS1V</a></td><td>6.31</td></tr><tr><td><a href="../../../../articles/t/i/e/TietoEnator_bb9d.html" title="TietoEnator">TietoEnator</a></td><td>IT consulting &amp; other services</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24376" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24376" rel="nofollow">TIE1V</a></td><td>1.08</td></tr><tr><td><a href="../../../../articles/u/p/m/UPM_%28company%29_23e2.html" title="UPM (company)">UPM</a></td><td>paper products</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24386" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24386" rel="nofollow">UPM1V</a></td><td>7.78</td></tr><tr><td><a href="../../../../articles/u/p/o/Uponor.html" title="Uponor">Uponor</a></td><td>building products</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24385" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24385" rel="nofollow">UNR1V</a></td><td>1.13</td></tr><tr><td><a href="../../../../articles/w/%C3%A4/r/W%C3%A4rtsil%C3%A4.html" title="Wärtsilä">Wärtsilä</a></td><td>industrial machinery</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24394" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24394" rel="nofollow">WRTBV</a></td><td>3.44</td></tr><tr><td><a href="../../../../articles/y/i/t/YIT_1e72.html" title="YIT">YIT</a></td><td>construction and engineering</td><td><a href="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24397" class="external text" title="http://www.omxnordicexchange.com/priceinformation/microsite/Shareinformation/?InstrumentId=HEX24397" rel="nofollow">YTY1V</a></td><td>2.06</td></tr></table>]]>
+</htmlSnippet>
+</entity>

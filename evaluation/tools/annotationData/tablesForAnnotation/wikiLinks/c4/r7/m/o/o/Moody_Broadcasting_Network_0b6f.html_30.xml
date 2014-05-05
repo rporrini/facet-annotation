@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/m/o/o/Moody_Broadcasting_Network_0b6f.html_30.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 2, 0.75 2, 0.75 0 3, 0.5625 2 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.107142866 3, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/m/o/o/Moody_Broadcasting_Network_0b6f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KTLX</td>]]></html>
+	<text>KTLX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>91.9</td>]]></html>
+	<text>91.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Columbus, Nebraska</td>]]></html>
+	<text>Columbus, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KROA</td>]]></html>
+	<text>KROA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.7</td>]]></html>
+	<text>95.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grand Island, Nebraska</td>]]></html>
+	<text>Grand Island, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KPNO</td>]]></html>
+	<text>KPNO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>90.9</td>]]></html>
+	<text>90.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Norfolk, Nebraska</td>]]></html>
+	<text>Norfolk, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KJLT</td>]]></html>
+	<text>KJLT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>970</td>]]></html>
+	<text>970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Platte, Nebraska</td>]]></html>
+	<text>North Platte, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KJLT-FM</td>]]></html>
+	<text>KJLT-FM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>94.9</td>]]></html>
+	<text>94.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Platte, Nebraska</td>]]></html>
+	<text>North Platte, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KCRO</td>]]></html>
+	<text>KCRO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>660</td>]]></html>
+	<text>660</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Omaha, Nebraska</td>]]></html>
+	<text>Omaha, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>KGRD</td>]]></html>
+	<text>KGRD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.3</td>]]></html>
+	<text>105.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Orchard, Nebraska</td>]]></html>
+	<text>Orchard, Nebraska</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Moody Broadcasting Network - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Additional Information</text>
+</context>
+<context>
+	<score>0.880117</score>
+	<text>[ edit ] Nebraska</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Moody Broadcasting Network</text>
+</context>
+<context>
+	<score>0.7831472</score>
+	<text>[ edit ] Montana</text>
+</context>
+<context>
+	<score>0.75177467</score>
+	<text>[ edit ] New Hampshire</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Owned &amp; Operated Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] Affiliate Stations</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72240657</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055715</score>
+	<text>[ edit ] Missouri</text>
+</context>
+<context>
+	<score>0.6435109</score>
+	<text>[ edit ] Mississippi</text>
+</context>
+<context>
+	<score>0.604978</score>
+	<text>[ edit ] New Jersey</text>
+</context>
+<context>
+	<score>0.5938624</score>
+	<text>[ edit ] Minnesota</text>
+</context>
+<context>
+	<score>0.5541436</score>
+	<text>[ edit ] Michigan</text>
+</context>
+<context>
+	<score>0.5223686</score>
+	<text>[ edit ] Maryland</text>
+</context>
+<context>
+	<score>0.51862705</score>
+	<text>Callsign Frequency City of license Additional Information</text>
+</context>
+<context>
+	<score>0.49694857</score>
+	<text>[ edit ] Maine</text>
+</context>
+<context>
+	<score>0.47661254</score>
+	<text>[ edit ] Louisiana</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>WCHR</text>
+</context>
+<context>
+	<score>0.46034372</score>
+	<text>[ edit ] Kentucky</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>KTLX</b></td><td>91.9</td><td><a href="../../../../articles/c/o/l/Columbus%2C_Nebraska_af4f.html" title="Columbus, Nebraska">Columbus, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KTLX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KTLX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KTLX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KTLX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KROA</b></td><td>95.7</td><td><a href="../../../../articles/g/r/a/Grand_Island%2C_Nebraska_3a59.html" title="Grand Island, Nebraska">Grand Island, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KROA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KROA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KROA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KROA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KPNO</b></td><td>90.9</td><td><a href="../../../../articles/n/o/r/Norfolk%2C_Nebraska_cf17.html" title="Norfolk, Nebraska">Norfolk, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KPNO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KPNO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KPNO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KPNO" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KJLT</b></td><td>970</td><td><a href="../../../../articles/n/o/r/North_Platte%2C_Nebraska_a602.html" title="North Platte, Nebraska">North Platte, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KJLT" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KJLT" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJLT" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJLT" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KJLT-FM</b></td><td>94.9</td><td><a href="../../../../articles/n/o/r/North_Platte%2C_Nebraska_a602.html" title="North Platte, Nebraska">North Platte, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KJLT-FM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KJLT-FM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJLT-FM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KJLT-FM" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KCRO</b></td><td>660</td><td><a href="../../../../articles/o/m/a/Omaha%2C_Nebraska_e00c.html" title="Omaha, Nebraska">Omaha, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KCRO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KCRO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KCRO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KCRO" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>KGRD</b></td><td>105.3</td><td><a href="../../../../articles/o/r/c/Orchard%2C_Nebraska_8725.html" title="Orchard, Nebraska">Orchard, Nebraska</a></td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=KGRD" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=KGRD" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGRD" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=KGRD" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

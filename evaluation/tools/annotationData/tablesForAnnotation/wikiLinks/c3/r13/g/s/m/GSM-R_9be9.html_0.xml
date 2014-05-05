@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r13/g/s/m/GSM-R_9be9.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/g/s/m/GSM-R_9be9.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country:</th>]]></html>
+	<text>Country:</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Network operator:</th>]]></html>
+	<text>Network operator:</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Railway operator(s):</th>]]></html>
+	<text>Railway operator(s):</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DB Netz</td>]]></html>
+	<text>DB Netz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DBAG</td>]]></html>
+	<text>DBAG</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Infrabel</td>]]></html>
+	<text>Infrabel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NMBS/SNCB</td>]]></html>
+	<text>NMBS/SNCB</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ADIF</td>]]></html>
+	<text>ADIF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RENFE</td>]]></html>
+	<text>RENFE</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Finland</td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RHK</td>]]></html>
+	<text>RHK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>VR</td>]]></html>
+	<text>VR</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RFF</td>]]></html>
+	<text>RFF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SNCF</td>]]></html>
+	<text>SNCF</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Great Britain</td>]]></html>
+	<text>Great Britain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Network Rail Limited</td>]]></html>
+	<text>Network Rail Limited</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>List of the Passenger operators</td>]]></html>
+	<text>List of the Passenger operators</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>IR</td>]]></html>
+	<text>IR</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RFI</td>]]></html>
+	<text>RFI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TI</td>]]></html>
+	<text>TI</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norway</td>]]></html>
+	<text>Norway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JBV</td>]]></html>
+	<text>JBV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NSB</td>]]></html>
+	<text>NSB</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NS Railinfratrust</td>]]></html>
+	<text>NS Railinfratrust</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NS</td>]]></html>
+	<text>NS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BV</td>]]></html>
+	<text>BV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SJ</td>]]></html>
+	<text>SJ</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Siemens together with SBB Telecom</td>]]></html>
+	<text>Siemens together with SBB Telecom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SBB/CFF/FFS</td>]]></html>
+	<text>SBB/CFF/FFS</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czech Republic</td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Czech Railways</td>]]></html>
+	<text>Czech Railways</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ČD</td>]]></html>
+	<text>&#268;D</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Contract Awarded / Currently Implementing:</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>GSM-R - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country: Network operator: Railway operator(s):</text>
+</context>
+<context>
+	<score>0.8787713</score>
+	<text>Different groups make up the GSM-R market:</text>
+</context>
+<context>
+	<score>0.79556423</score>
+	<text>GSM-R</text>
+</context>
+<context>
+	<score>0.784401</score>
+	<text>[ edit ] GSM-R market groups</text>
+</context>
+<context>
+	<score>0.7504114</score>
+	<text>A1hy.html&quot; title=&quot; esk dr hy&quot;&gt; D</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] GSM-R technology</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] GSM-R uses</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] GSM-R features</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] GSM-R market</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72059053</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7179779</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7068146</score>
+	<text>[ edit ] GSM-R market</text>
+</context>
+<context>
+	<score>0.6447454</score>
+	<text>[ edit ] Direct mode Direct mode is the walkie-talkie mode (mobiles station talking to each other without the network) and has been proposed in Eirene, however it has never been in application since being based on analogue radio. Sagem claims to have developed a GSM direct mode, not currently recognised in the GSM-R specification, and has no frequency allocation.</text>
+</context>
+<context>
+	<score>0.6062073</score>
+	<text>Planning phase / Contracting: Country: Network operator: Railway operator(s): Austria GYSEV BB Croatia (Pilot site) - H Slovakia (Pilote site) - SR</text>
+</context>
+<context>
+	<score>0.5950902</score>
+	<text>[ edit ] Shunting mode Shunting mode is the term used to describe the application that will regulate and control user access to shunting communications. A Link Assurance Signal (LAS) is provided in order to give reassurance to the driver that the radio link is working.</text>
+</context>
+<context>
+	<score>0.555366</score>
+	<text>[ edit ] End Call Confirmation End Call Confirmation feature is only available for highest priority (Priority level 0) group calls (VGCS) and broadcast calls (VBS) (see eMLPP). It consists of an end call report which sent by all MSs (mobile stations) which joined the high priority call (initiator included). This report informs about: Call type Call duration MS Identity End call cause Normal, ended by user, MS power off by user, power off due to low battery, ) If the report can&apos;t be sent (MS power off by user or power off due to low battery), the MS will try again (several times if needed) to send the report at the next power on.</text>
+</context>
+<context>
+	<score>0.5235866</score>
+	<text>[ edit ] Functional number management Functional numbering Allows to call an MS by its function: driver of the train xxx , It uses: USSD and Follow Me UUS1 (for number display) Location dependent addressing Improves the functional numbering Allows to call the nearer MS linked to a function: nearer driver, nearer controller,</text>
+</context>
+<context>
+	<score>0.5198445</score>
+	<text>Feasibility phase: Country: Network operator: Railway operator(s): China CR KNR Denmark Banedanmark DSB Hungary VPE M V Republic of Ireland CI I Northern Ireland - NIR Luxembourg - CFL Poland - PKP S.A. Russia - R D Slovenia AZP S USA US-DOT Amtrak Australia RailCorp RailCorp Source : UIC (23th of may 2006) [3] The network operators The companies Nokia Siemens Networks , Huawei , and Nortel are the main suppliers of the GSM-R infrastructure. Dispatch and Control Centre Solutions Siemens Transportation Systems , NEC Portugal , Frequentis and Wenzel Elektronik The terminal manufacturers Handset manufacturer Sagem ( SAFRAN group) is the main GSM-R handset supplier, followed by Selex Communications , Triorail and Huawei . Cab radio manufacturer Selex Communications , Siemens Transportation Systems , NEC Portugal , Alstom , Center Systems, Nortel and Hoermann are the main suppliers. Funkwerk (formerly Kapsch) and Sagem mainly provide the GSM-R core of these cab radios.</text>
+</context>
+<context>
+	<score>0.49816304</score>
+	<text>[ edit ] Eirene features</text>
+</context>
+<context>
+	<score>0.47782424</score>
+	<text>[ edit ] Multi-Level Precedence and Pre-emption Service (eMLPP) This defines the user s priority. The different priority levels are: A and B: Highest priority levels (reserved to Network messages) 0: Highest priority levels for ASCI and normal calls (mainly used for REC calls) 1: Lower priority than level 0 2: Lower priority than level 1 3: Lower priority than level 2 4: Lowest priority level (default priority, assigned to Point-to-Point calls) An Auto-Answering feature with a timer is also available for calls with priority 0, 1 and 2.</text>
+</context>
+<context>
+	<score>0.46904284</score>
+	<text>[ edit ] Railways using GSM-R</text>
+</context>
+<context>
+	<score>0.46155325</score>
+	<text>[ edit ] REC (Railway Emergency Call) REC is a group call, or VGCS, dedicated to urgency. It is a higher priority call (REC priority is level 0 see below : eMLPP)</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" class="pBody"><caption><b>Contract Awarded / Currently Implementing:</b></caption><tr bgcolor="#90FF80"><th width="120">Country:</th><th width="120">Network operator:</th><th width="120">Railway operator(s):</th></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/d/b/_/DB_Netz_3114.html" title="DB Netz">DB Netz</a></td><td><a href="../../../../articles/d/e/u/Deutsche_Bahn_a9e7.html" title="Deutsche Bahn">DBAG</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td><a href="../../../../articles/i/n/f/Infrabel.html" title="Infrabel">Infrabel</a></td><td><a href="../../../../articles/n/a/t/National_Railway_Company_of_Belgium_d017.html" title="National Railway Company of Belgium">NMBS/SNCB</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>ADIF</td><td><a href="../../../../articles/r/e/d/Red_Nacional_de_los_Ferrocarriles_Espa%C3%B1oles_6631.html" class="mw-redirect" title="Red Nacional de los Ferrocarriles Españoles">RENFE</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a></td><td><a href="../../../../articles/f/i/n/Finnish_Rail_Administration_73c6.html" title="Finnish Rail Administration">RHK</a></td><td><a href="../../../../articles/v/r/_/VR_Group_f6c8.html" title="VR Group">VR</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td><a href="../../../../articles/r/%C3%A9/s/R%C3%A9seau_Ferr%C3%A9_de_France_8197.html" title="Réseau Ferré de France">RFF</a></td><td><a href="../../../../articles/s/n/c/SNCF_28d3.html" title="SNCF">SNCF</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/g/r/e/Great_Britain_b139.html" title="Great Britain">Great Britain</a></td><td><a href="../../../../articles/n/e/t/Network_Rail_3734.html" title="Network Rail">Network Rail Limited</a></td><td><a href="../../../../articles/l/i/s/List_of_companies_operating_trains_in_the_United_Kingdom_d505.html#Current_passenger_operators" title="List of companies operating trains in the United Kingdom">List of the Passenger operators</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/i/n/d/India.html" title="India">India</a></td><td>-</td><td><a href="../../../../articles/i/n/d/Indian_Railways_05c3.html" title="Indian Railways">IR</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td><a href="../../../../articles/r/e/t/Rete_Ferroviaria_Italiana_7355.html" title="Rete Ferroviaria Italiana">RFI</a></td><td><a href="../../../../articles/t/r/e/Trenitalia.html" title="Trenitalia">TI</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/n/o/r/Norway.html" title="Norway">Norway</a></td><td><a href="../../../../articles/j/e/r/Jernbaneverket.html" title="Jernbaneverket">JBV</a></td><td><a href="../../../../articles/n/o/r/Norges_Statsbaner_c117.html" title="Norges Statsbaner">NSB</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td><a href="../../../../articles/n/s/_/NS_Railinfratrust_dad7.html" title="NS Railinfratrust">NS Railinfratrust</a></td><td><a href="../../../../articles/n/e/d/Nederlandse_Spoorwegen_9425.html" title="Nederlandse Spoorwegen">NS</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td><a href="../../../../articles/b/a/n/Banverket.html" title="Banverket">BV</a></td><td><a href="../../../../articles/s/t/a/Statens_J%C3%A4rnv%C3%A4gar_152b.html" title="Statens Järnvägar">SJ</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>Siemens together with SBB Telecom</td><td><a href="../../../../articles/s/w/i/Swiss_Federal_Railways_cbc5.html" class="mw-redirect" title="Swiss Federal Railways">SBB/CFF/FFS</a></td></tr><tr bgcolor="#90FF80"><td><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td><a href="../../../../articles/c/z/e/Czech_Railways_357f.html" class="mw-redirect" title="Czech Railways">Czech Railways</a></td><td><a href="../../../../articles/%C4%8D/e/s/%C4%8Cesk%C3%A9_dr%C3%A1hy.html" title="České dráhy">ČD</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

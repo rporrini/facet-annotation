@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r10/w/k/v/WKVE_0f11.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.73333335 3, 0.6111111 3 4, 0.55 3 5, 0.13333334 1 2, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.10694445 0 3, 0.097222224 0 4, 0.093333334 1, 0.0875 0 5, 0.083333336 4, 0.07777778 1 4, 0.075 5, 0.07000001 1 5, 0.0625 4 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/w/k/v/WKVE_0f11.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W288BU</td>]]></html>
+	<text>W288BU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.5</td>]]></html>
+	<text>105.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Durham, North Carolina</td>]]></html>
+	<text>Durham, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 watts</td>]]></html>
+	<text>9 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W249BZ</td>]]></html>
+	<text>W249BZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>97.7</td>]]></html>
+	<text>97.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Greensboro, North Carolina</td>]]></html>
+	<text>Greensboro, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18 watts</td>]]></html>
+	<text>18 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W260BG</td>]]></html>
+	<text>W260BG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.9</td>]]></html>
+	<text>99.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>High Point, North Carolina</td>]]></html>
+	<text>High Point, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 watts</td>]]></html>
+	<text>14 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W201DF</td>]]></html>
+	<text>W201DF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Rocky Mount, North Carolina</td>]]></html>
+	<text>Rocky Mount, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 watts</td>]]></html>
+	<text>3 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W270AW</td>]]></html>
+	<text>W270AW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>101.9</td>]]></html>
+	<text>101.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanford, North Carolina</td>]]></html>
+	<text>Sanford, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W288BQ</td>]]></html>
+	<text>W288BQ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.5</td>]]></html>
+	<text>105.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wake Forest, North Carolina</td>]]></html>
+	<text>Wake Forest, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 watts</td>]]></html>
+	<text>13 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W288BP</td>]]></html>
+	<text>W288BP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.5</td>]]></html>
+	<text>105.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilson, North Carolina</td>]]></html>
+	<text>Wilson, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38 watts</td>]]></html>
+	<text>38 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W260BK</td>]]></html>
+	<text>W260BK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>99.9</td>]]></html>
+	<text>99.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Winston-Salem, North Carolina</td>]]></html>
+	<text>Winston-Salem, North Carolina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13 watts</td>]]></html>
+	<text>13 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W279AO</td>]]></html>
+	<text>W279AO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.7</td>]]></html>
+	<text>103.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Danville, Virginia</td>]]></html>
+	<text>Danville, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>W237CL</td>]]></html>
+	<text>W237CL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>95.3</td>]]></html>
+	<text>95.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lynchburg, Virginia</td>]]></html>
+	<text>Lynchburg, Virginia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10 watts</td>]]></html>
+	<text>10 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>WKVE - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>In addition to the main station, WKVE is relayed by an additional 10 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>WKVE</text>
+</context>
+<context>
+	<score>0.79120284</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7589392</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7425874</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7425874</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.6958417</score>
+	<text>Southern Entertainment Corporation signed on WPXX as a 6,000-watt class A FM in early 1996 from nearby Danville, Virginia, as contemporary hits &quot;Danville Pixx 106.7&quot;. Studios were located on Northmont Boulevard, just off North Main Street with a tower site west of Danville. On July 1st, 1998, WPXX flipped to a satellite-delivered oldies format as &quot;Pixx Pure Gold 106.7&quot;. After several offers from companies looking to move this valuable frequency to the bigger surrounding markets, K-Love parent company Educational Media Foundation bought WPXX in 2000, taking the station non-commercial as WKVE with the network&apos;s contemporary Christian format. Several months later, the newly minted WKVE upgraded to a class &quot;C2&quot; with 50,000 watts, adding Durham, Raleigh, Chapel Hill, Burlington and Greensboro to their coverage area from a new tower site near Yanceyville, in Caswell County.</text>
+</context>
+<context>
+	<score>0.64760023</score>
+	<text>WKVE (106.7 FM ) is a radio station broadcasting a Contemporary Christian format. Licensed to Semora, North Carolina , USA, it serves the Semora, North Carolina area. The station is currently owned by Educational Media Foundation .</text>
+</context>
+<context>
+	<score>0.6121234</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6079729</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.5712765</score>
+	<text>WKVE</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>W288BU</b></td><td>105.5</td><td><a href="../../../../articles/d/u/r/Durham%2C_North_Carolina_32ae.html" title="Durham, North Carolina">Durham, North Carolina</a></td><td>9 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W288BU" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W288BU" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BU" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BU" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W249BZ</b></td><td>97.7</td><td><a href="../../../../articles/g/r/e/Greensboro%2C_North_Carolina_6072.html" title="Greensboro, North Carolina">Greensboro, North Carolina</a></td><td>18 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W249BZ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W249BZ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W249BZ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W249BZ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W260BG</b></td><td>99.9</td><td><a href="../../../../articles/h/i/g/High_Point%2C_North_Carolina_1d59.html" title="High Point, North Carolina">High Point, North Carolina</a></td><td>14 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W260BG" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W260BG" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W260BG" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W260BG" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W201DF</b></td><td>88.1</td><td><a href="../../../../articles/r/o/c/Rocky_Mount%2C_North_Carolina_6381.html" title="Rocky Mount, North Carolina">Rocky Mount, North Carolina</a></td><td>3 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W201DF" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W201DF" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201DF" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W201DF" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W270AW</b></td><td>101.9</td><td><a href="../../../../articles/s/a/n/Sanford%2C_North_Carolina_55cf.html" title="Sanford, North Carolina">Sanford, North Carolina</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W270AW" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W270AW" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W270AW" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W270AW" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W288BQ</b></td><td>105.5</td><td><a href="../../../../articles/w/a/k/Wake_Forest%2C_North_Carolina_e937.html" title="Wake Forest, North Carolina">Wake Forest, North Carolina</a></td><td>13 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W288BQ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W288BQ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BQ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BQ" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W288BP</b></td><td>105.5</td><td><a href="../../../../articles/w/i/l/Wilson%2C_North_Carolina_757f.html" title="Wilson, North Carolina">Wilson, North Carolina</a></td><td>38 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W288BP" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W288BP" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BP" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W288BP" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W260BK</b></td><td>99.9</td><td><a href="../../../../articles/w/i/n/Winston-Salem%2C_North_Carolina_ae0f.html" title="Winston-Salem, North Carolina">Winston-Salem, North Carolina</a></td><td>13 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W260BK" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W260BK" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W260BK" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W260BK" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W279AO</b></td><td>103.7</td><td><a href="../../../../articles/d/a/n/Danville%2C_Virginia_d52f.html" title="Danville, Virginia">Danville, Virginia</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W279AO" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W279AO" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AO" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W279AO" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>W237CL</b></td><td>95.3</td><td><a href="../../../../articles/l/y/n/Lynchburg%2C_Virginia_91ed.html" title="Lynchburg, Virginia">Lynchburg, Virginia</a></td><td>10 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=W237CL" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=W237CL" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237CL" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=W237CL" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

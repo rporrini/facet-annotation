@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r13/m/u/n/Municipal_elections_in_Canada_3c3d.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 0 2, 0.73846155 2, 0.66461533 1 2, 0.41538462 1, 0.14 0 3, 0.120000005 0 4, 0.112 2 3, 0.10661539 1 3, 0.088615395 2 4, 0.083076924 1 4, 0.053846154 3, 0.03692308 4, 0.010338463 3 4, " />
+<meta name="parentHTMLDoc" value="en/articles/m/u/n/Municipal_elections_in_Canada_3c3d.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Province or Territory</th>]]></html>
+	<text>Province or Territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Occurrence</th>]]></html>
+	<text>Occurrence</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Last elections</th>]]></html>
+	<text>Last elections</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Next elections</th>]]></html>
+	<text>Next elections</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Alberta</td>]]></html>
+	<text>Alberta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 years</td>]]></html>
+	<text>3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Monday in October</td>]]></html>
+	<text>3rd Monday in October</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2007</td>]]></html>
+	<text>2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2010</td>]]></html>
+	<text>2010</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>British Columbia</td>]]></html>
+	<text>British Columbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 years</td>]]></html>
+	<text>3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Saturday in November</td>]]></html>
+	<text>3rd Saturday in November</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Manitoba</td>]]></html>
+	<text>Manitoba</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4th Wednesday in October</td>]]></html>
+	<text>4th Wednesday in October</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2010</td>]]></html>
+	<text>2010</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>New Brunswick</td>]]></html>
+	<text>New Brunswick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years (3 years prior to 2004)</td>]]></html>
+	<text>4 years (3 years prior to 2004)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2nd Monday in May</td>]]></html>
+	<text>2nd Monday in May</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Newfoundland and Labrador</td>]]></html>
+	<text>Newfoundland and Labrador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>last Tuesday in September</td>]]></html>
+	<text>last Tuesday in September</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2009</td>]]></html>
+	<text>2009</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Northwest Territories</td>]]></html>
+	<text>Northwest Territories</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 or 3 years</td>]]></html>
+	<text>2 or 3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Monday in October (taxed communities) 2nd Monday in December (hamlets)</td>]]></html>
+	<text>3rd Monday in October (taxed communities) 2nd Monday in December (hamlets)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nova Scotia</td>]]></html>
+	<text>Nova Scotia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Saturday in October</td>]]></html>
+	<text>3rd Saturday in October</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2004</td>]]></html>
+	<text>2004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2008</td>]]></html>
+	<text>2008</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nunavut</td>]]></html>
+	<text>Nunavut</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 or 3 years</td>]]></html>
+	<text>2 or 3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Monday in October (taxed communities) 2nd Monday in December (hamlets)</td>]]></html>
+	<text>3rd Monday in October (taxed communities) 2nd Monday in December (hamlets)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>-</td>]]></html>
+	<text>-</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ontario</td>]]></html>
+	<text>Ontario</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years (3 years prior to 2006)</td>]]></html>
+	<text>4 years (3 years prior to 2006)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2nd Monday in November</td>]]></html>
+	<text>2nd Monday in November</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2010</td>]]></html>
+	<text>2010</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Prince Edward Island</td>]]></html>
+	<text>Prince Edward Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st Monday in November</td>]]></html>
+	<text>1st Monday in November</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2010</td>]]></html>
+	<text>2010</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Quebec</td>]]></html>
+	<text>Quebec</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 years</td>]]></html>
+	<text>4 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1st Sunday in November</td>]]></html>
+	<text>1st Sunday in November</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2005</td>]]></html>
+	<text>2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2009</td>]]></html>
+	<text>2009</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Saskatchewan</td>]]></html>
+	<text>Saskatchewan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 years (rural) 3 years (urban)</td>]]></html>
+	<text>2 years (rural) 3 years (urban)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Wednesday in October (rural) 4th Wednesday in October (urban)</td>]]></html>
+	<text>3rd Wednesday in October (rural) 4th Wednesday in October (urban)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006 *</td>]]></html>
+	<text>2006 *</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2009*</td>]]></html>
+	<text>2009*</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yukon</td>]]></html>
+	<text>Yukon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 years</td>]]></html>
+	<text>3 years</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3rd Thursday in October</td>]]></html>
+	<text>3rd Thursday in October</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2006</td>]]></html>
+	<text>2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2009</td>]]></html>
+	<text>2009</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Municipal elections in Canada - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Province or Territory Occurrence Date Last elections Next elections</text>
+</context>
+<context>
+	<score>0.88897496</score>
+	<text>[ edit ] Municipal election chart by province and territory</text>
+</context>
+<context>
+	<score>0.7913897</score>
+	<text>Municipal elections in Canada</text>
+</context>
+<context>
+	<score>0.7767812</score>
+	<text>Voting may be done with paper ballots that are hand-counted, or by various forms of electronic voting .</text>
+</context>
+<context>
+	<score>0.7308519</score>
+	<text>[ edit ] Municipal election chart by province and territory</text>
+</context>
+<context>
+	<score>0.71126604</score>
+	<text>*urban municipalities only.</text>
+</context>
+<context>
+	<score>0.68702614</score>
+	<text>Municipal elections in Canada according to the Canadian Constitution are the jurisdiction of the various provinces and territories . Therefore, they occur on different dates, depending on which province they are in. However, usually municipalities in the same province will have their elections on the same day. Unlike most provinces, territories, and the House of Commons, most municipalities have their elections on some sort of a fixed date. Each province has its own nomenclature for municipalities and some have local elections for unincorporated areas which are not technically municipalities. These entities can be called cities, towns, villages, townships, hamlets, parishes and, simply, municipalities, county municipalities, regional county municipalities, municipal districts, regional districts, counties, regional municipalities, specialized municipalities, district municipalities or rural municipalities. Many of these may be used by Statistics Canada as the basis for census divisions or census subdivisions . Municipal elections usually elect a mayor (or reeve) at large, city councillors (or aldermen), and school trustees. Most councils are non-partisan, however some municipalities (such as Montreal , Quebec City , Longueuil, Quebec , Vancouver , Surrey, British Columbia and Victoria, British Columbia ) do have local political parties. However, these are very municipal in nature, and are rarely affiliated with any provincial or federal parties.</text>
+</context>
+<context>
+	<score>0.6298307</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.57238746</score>
+	<text>Municipal elections in Canada</text>
+</context>
+<context>
+	<score>0.57063967</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="3" cellspacing="0" class="wikitable"><tr><th bgcolor="#DDDDFF" width="35%">Province or Territory</th><th bgcolor="#DDDDFF" width="15%">Occurrence</th><th bgcolor="#DDDDFF" width="35%">Date</th><th bgcolor="#DDDDFF" width="7.5%">Last elections</th><th bgcolor="#DDDDFF" width="7.5%">Next elections</th></tr><tr><td><a href="../../../../articles/a/l/b/Alberta.html" title="Alberta">Alberta</a></td><td>3 years</td><td>3rd Monday in October</td><td><a href="../../../../articles/a/l/b/Alberta_municipal_elections%2C_2007.html" title="Alberta municipal elections, 2007">2007</a></td><td>2010</td></tr><tr><td><a href="../../../../articles/b/r/i/British_Columbia_90ec.html" title="British Columbia">British Columbia</a></td><td>3 years</td><td>3rd Saturday in November</td><td><a href="../../../../articles/b/r/i/British_Columbia_municipal_elections%2C_2005_60ed.html" title="British Columbia municipal elections, 2005">2005</a></td><td>2008</td></tr><tr><td><a href="../../../../articles/m/a/n/Manitoba.html" title="Manitoba">Manitoba</a></td><td>4 years</td><td>4th Wednesday in October</td><td><a href="../../../../articles/m/a/n/Manitoba_municipal_elections%2C_2006.html" title="Manitoba municipal elections, 2006">2006</a></td><td>2010</td></tr><tr><td><a href="../../../../articles/n/e/w/New_Brunswick_a9a1.html" title="New Brunswick">New Brunswick</a></td><td>4 years (3 years prior to 2004)</td><td>2nd Monday in May</td><td><a href="../../../../articles/n/e/w/New_Brunswick_municipal_elections%2C_2004_ac58.html" title="New Brunswick municipal elections, 2004">2004</a></td><td><a href="../../../../articles/n/e/w/New_Brunswick_municipal_elections%2C_2008_e608.html" title="New Brunswick municipal elections, 2008">2008</a></td></tr><tr><td><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_4e85.html" title="Newfoundland and Labrador">Newfoundland and Labrador</a></td><td>4 years</td><td>last Tuesday in September</td><td><a href="../../../../articles/n/e/w/Newfoundland_and_Labrador_municipal_elections%2C_2005_fe99.html" title="Newfoundland and Labrador municipal elections, 2005">2005</a></td><td>2009</td></tr><tr><td><a href="../../../../articles/n/o/r/Northwest_Territories_ca27.html" title="Northwest Territories">Northwest Territories</a></td><td>2 or 3 years</td><td>3rd Monday in October (taxed communities)<br />2nd Monday in December (hamlets)</td><td>2006</td><td>-</td></tr><tr><td><a href="../../../../articles/n/o/v/Nova_Scotia_7d1d.html" title="Nova Scotia">Nova Scotia</a></td><td>4 years</td><td>3rd Saturday in October</td><td>2004</td><td>2008</td></tr><tr><td><a href="../../../../articles/n/u/n/Nunavut.html" title="Nunavut">Nunavut</a></td><td>2 or 3 years</td><td>3rd Monday in October (taxed communities)<br />2nd Monday in December (hamlets)</td><td>-</td><td>-</td></tr><tr><td><a href="../../../../articles/o/n/t/Ontario.html" title="Ontario">Ontario</a></td><td>4 years (3 years prior to 2006)</td><td>2nd Monday in November</td><td><a href="../../../../articles/o/n/t/Ontario_municipal_elections%2C_2006.html" title="Ontario municipal elections, 2006">2006</a></td><td>2010</td></tr><tr><td><a href="../../../../articles/p/r/i/Prince_Edward_Island_24cf.html" title="Prince Edward Island">Prince Edward Island</a></td><td>4 years</td><td>1st Monday in November</td><td>2006</td><td>2010</td></tr><tr><td><a href="../../../../articles/q/u/e/Quebec.html" title="Quebec">Quebec</a></td><td>4 years</td><td>1st Sunday in November</td><td><a href="../../../../articles/q/u/e/Quebec_municipal_elections%2C_2005.html" title="Quebec municipal elections, 2005">2005</a></td><td>2009</td></tr><tr><td><a href="../../../../articles/s/a/s/Saskatchewan.html" title="Saskatchewan">Saskatchewan</a></td><td>2 years (rural)<br />3 years (urban)</td><td>3rd Wednesday in October (rural)<br />4th Wednesday in October (urban)</td><td><a href="../../../../articles/s/a/s/Saskatchewan_municipal_elections%2C_2006.html" title="Saskatchewan municipal elections, 2006">2006</a>*</td><td>2009*</td></tr><tr><td><a href="../../../../articles/y/u/k/Yukon.html" title="Yukon">Yukon</a></td><td>3 years</td><td>3rd Thursday in October</td><td>2006</td><td>2009</td></tr></table>]]>
+</htmlSnippet>
+</entity>

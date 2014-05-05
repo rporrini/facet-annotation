@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c5/r18/l/i/s/List_of_lakes_in_Wales_16d2.html_3.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9 0 1, 0.8 0 4, 0.4 1 4, 0.26666668 4, 0.25 1, 0.14 2, 0.14 0 2, 0.126 1 2, 0.112 2 4, 0.060000002 0 3, 0.018666668 3 4, 0.018000001 1 3, 0.008400001 2 3, 0.006666667 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_lakes_in_Wales_16d2.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Lake name</th>]]></html>
+	<text>Lake name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Catchment</th>]]></html>
+	<text>Catchment</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Grid ref.</th>]]></html>
+	<text>Grid ref.</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (acres)</th>]]></html>
+	<text>Area (acres)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status/Use</th>]]></html>
+	<text>Status/Use</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Berwyn</td>]]></html>
+	<text>Llyn Berwyn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN743569</td>]]></html>
+	<text>SN743569</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40</td>]]></html>
+	<text>40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Craigpistyll</td>]]></html>
+	<text>Llyn Craigpistyll</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Dyfi</td>]]></html>
+	<text>River Dyfi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN722858</td>]]></html>
+	<text>SN722858</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dinas Reservoir</td>]]></html>
+	<text>Dinas Reservoir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Rheidol</td>]]></html>
+	<text>River Rheidol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SH000000</td>]]></html>
+	<text>SH000000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hydrolecticity</td>]]></html>
+	<text>Hydrolecticity</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Du</td>]]></html>
+	<text>Llyn Du</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Severn</td>]]></html>
+	<text>River Severn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN800698</td>]]></html>
+	<text>SN800698</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Egnant</td>]]></html>
+	<text>Llyn Egnant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN792674</td>]]></html>
+	<text>SN792674</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Water supply</td>]]></html>
+	<text>Water supply</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Falcondale Lake</td>]]></html>
+	<text>Falcondale Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN563491</td>]]></html>
+	<text>SN563491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Amenity</td>]]></html>
+	<text>Amenity</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Frongoch</td>]]></html>
+	<text>Llyn Frongoch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Ystwyth</td>]]></html>
+	<text>River Ystwyth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN721752</td>]]></html>
+	<text>SN721752</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lead mining ?/ Natural</td>]]></html>
+	<text>Lead mining ?/ Natural</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Fyrddon Fach</td>]]></html>
+	<text>Llyn Fyrddon Fach</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Severn</td>]]></html>
+	<text>River Severn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN796701</td>]]></html>
+	<text>SN796701</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Fyrddon Fawr</td>]]></html>
+	<text>Llyn Fyrddon Fawr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Severn</td>]]></html>
+	<text>River Severn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN800708</td>]]></html>
+	<text>SN800708</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Glandwgan</td>]]></html>
+	<text>Llyn Glandwgan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Ystwyth</td>]]></html>
+	<text>River Ystwyth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN707752</td>]]></html>
+	<text>SN707752</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Glanmerin Lake</td>]]></html>
+	<text>Glanmerin Lake</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Dyfi</td>]]></html>
+	<text>River Dyfi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN755990</td>]]></html>
+	<text>SN755990</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn y Gorlan</td>]]></html>
+	<text>Llyn y Gorlan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN786670</td>]]></html>
+	<text>SN786670</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Water supply</td>]]></html>
+	<text>Water supply</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Gwngi</td>]]></html>
+	<text>Llyn Gwngi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Severn</td>]]></html>
+	<text>River Severn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN839729</td>]]></html>
+	<text>SN839729</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Hir</td>]]></html>
+	<text>Llyn Hir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN789676</td>]]></html>
+	<text>SN789676</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Water supply</td>]]></html>
+	<text>Water supply</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Nant y Moch Reservoir</td>]]></html>
+	<text>Nant y Moch Reservoir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Rheidol</td>]]></html>
+	<text>River Rheidol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN870636</td>]]></html>
+	<text>SN870636</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hydroelecticity</td>]]></html>
+	<text>Hydroelecticity</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Rhosrhydd</td>]]></html>
+	<text>Llyn Rhosrhydd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Ystwyth</td>]]></html>
+	<text>River Ystwyth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN705759</td>]]></html>
+	<text>SN705759</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Syfydrin</td>]]></html>
+	<text>Llyn Syfydrin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Rheidol</td>]]></html>
+	<text>River Rheidol</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN723848</td>]]></html>
+	<text>SN723848</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Natural lake</td>]]></html>
+	<text>Natural lake</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Llyn Teifi</td>]]></html>
+	<text>Llyn Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>River Teifi</td>]]></html>
+	<text>River Teifi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SN781675</td>]]></html>
+	<text>SN781675</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Water supply</td>]]></html>
+	<text>Water supply</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of lakes in Wales - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Lake name Catchment Grid ref. Area (acres) Status/Use</text>
+</context>
+<context>
+	<score>0.88324416</score>
+	<text>[ edit ] Ceredigion</text>
+</context>
+<context>
+	<score>0.80707073</score>
+	<text>List of lakes in Wales</text>
+</context>
+<context>
+	<score>0.7862745</score>
+	<text>[ edit ] Carmarthenshire</text>
+</context>
+<context>
+	<score>0.754902</score>
+	<text>[ edit ] Conwy</text>
+</context>
+<context>
+	<score>0.73395133</score>
+	<text>[ edit ] By area</text>
+</context>
+<context>
+	<score>0.73395133</score>
+	<text>[ edit ] By unitary authority</text>
+</context>
+<context>
+	<score>0.729495</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7086988</score>
+	<text>[ edit ] Cardiff</text>
+</context>
+<context>
+	<score>0.64663815</score>
+	<text>[ edit ] Anglesey</text>
+</context>
+<context>
+	<score>0.60810524</score>
+	<text>[ edit ] Denbighshire</text>
+</context>
+<context>
+	<score>0.59698963</score>
+	<text>This list of Welsh lakes ordered by unitary authority includes lakes with a surface area of greater than 5 acres (2 hectares ), but excludes those lakes and ponds created as part of an active industrial site (i.e, works ponds) and also excludes service reservoirs used to store drinking water as part of the water supply system. Grid references identify the approximate centre of the lake or the dam in the case of artificial reservoirs. For some lakes, the unitary authority boundary passes through a lake. In these case the lake is represented in the list for each appropriate authority. Known occurrences include Llyn Brenig , Pontsticill reservoir, Llwynon reservoir, Cantref Reservoir and Dol y Gaer reservoir. All occurrences are marked with an asterisk (*).</text>
+</context>
+<context>
+	<score>0.5572708</score>
+	<text>[ edit ] By unitary authority</text>
+</context>
+<context>
+	<score>0.52175426</score>
+	<text>[ edit ] Flintshire</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>In terms of surface area, the eight largest lakes in Wales are</text>
+</context>
+<context>
+	<score>0.5000758</score>
+	<text>[ edit ] By area</text>
+</context>
+<context>
+	<score>0.47973981</score>
+	<text>1 By area 2 By unitary authority 2.1 Anglesey 2.2 Cardiff 2.3 Carmarthenshire 2.4 Ceredigion 2.5 Conwy 2.6 Denbighshire 2.7 Flintshire 2.8 Gwynedd 2.9 Merthyr Tydfil 2.10 Monmouthshire 2.11 Neath Port Talbot 2.12 Pembrokeshire 2.13 Powys 2.14 Rhondda Cynon Taff 2.15 Swansea 2.16 Vale of Glamorgan 2.17 Wrexham</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Lake name Catchment Grid ref. Area (acres) Status/Use</text>
+</context>
+<context>
+	<score>0.46084008</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.45251045</score>
+	<text>List of lakes in Wales</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; background:#f0f0f0;"><tr><th width="30%">Lake name</th><th width="20%">Catchment</th><th width="10%">Grid ref.</th><th width="10%">Area (acres)</th><th width="30%">Status/Use</th></tr><tr><td>Llyn Berwyn</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN743569_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN743569_region:GB_scale:25000" rel="nofollow">SN743569</a></td><td>40</td><td>Natural lake</td></tr><tr><td>Llyn Craigpistyll</td><td><a href="../../../../articles/r/i/v/River_Dyfi_bb28.html" title="River Dyfi">River Dyfi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN722858_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN722858_region:GB_scale:25000" rel="nofollow">SN722858</a></td><td></td><td>Natural lake</td></tr><tr><td>Dinas Reservoir</td><td><a href="../../../../articles/r/i/v/River_Rheidol_bb0c.html" title="River Rheidol">River Rheidol</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SH000000_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SH000000_region:GB_scale:25000" rel="nofollow">SH000000</a></td><td></td><td>Hydrolecticity</td></tr><tr><td>Llyn Du</td><td><a href="../../../../articles/r/i/v/River_Severn_0fa3.html" title="River Severn">River Severn</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN800698_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN800698_region:GB_scale:25000" rel="nofollow">SN800698</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Egnant</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN792674_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN792674_region:GB_scale:25000" rel="nofollow">SN792674</a></td><td></td><td>Water supply</td></tr><tr><td>Falcondale Lake</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN563491_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN563491_region:GB_scale:25000" rel="nofollow">SN563491</a></td><td></td><td>Amenity</td></tr><tr><td>Llyn Frongoch</td><td><a href="../../../../articles/r/i/v/River_Ystwyth_3ee9.html" title="River Ystwyth">River Ystwyth</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN721752_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN721752_region:GB_scale:25000" rel="nofollow">SN721752</a></td><td></td><td>Lead mining&#160;?/ Natural</td></tr><tr><td>Llyn Fyrddon Fach</td><td><a href="../../../../articles/r/i/v/River_Severn_0fa3.html" title="River Severn">River Severn</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN796701_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN796701_region:GB_scale:25000" rel="nofollow">SN796701</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Fyrddon Fawr</td><td><a href="../../../../articles/r/i/v/River_Severn_0fa3.html" title="River Severn">River Severn</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN800708_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN800708_region:GB_scale:25000" rel="nofollow">SN800708</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Glandwgan</td><td><a href="../../../../articles/r/i/v/River_Ystwyth_3ee9.html" title="River Ystwyth">River Ystwyth</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN707752_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN707752_region:GB_scale:25000" rel="nofollow">SN707752</a></td><td></td><td>Natural lake</td></tr><tr><td>Glanmerin Lake</td><td><a href="../../../../articles/r/i/v/River_Dyfi_bb28.html" title="River Dyfi">River Dyfi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN755990_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN755990_region:GB_scale:25000" rel="nofollow">SN755990</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn y Gorlan</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN786670_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN786670_region:GB_scale:25000" rel="nofollow">SN786670</a></td><td></td><td>Water supply</td></tr><tr><td>Llyn Gwngi</td><td><a href="../../../../articles/r/i/v/River_Severn_0fa3.html" title="River Severn">River Severn</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN839729_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN839729_region:GB_scale:25000" rel="nofollow">SN839729</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Hir</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN789676_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN789676_region:GB_scale:25000" rel="nofollow">SN789676</a></td><td></td><td>Water supply</td></tr><tr><td>Nant y Moch Reservoir</td><td><a href="../../../../articles/r/i/v/River_Rheidol_bb0c.html" title="River Rheidol">River Rheidol</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN870636_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN870636_region:GB_scale:25000" rel="nofollow">SN870636</a></td><td></td><td>Hydroelecticity</td></tr><tr><td>Llyn Rhosrhydd</td><td><a href="../../../../articles/r/i/v/River_Ystwyth_3ee9.html" title="River Ystwyth">River Ystwyth</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN705759_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN705759_region:GB_scale:25000" rel="nofollow">SN705759</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Syfydrin</td><td><a href="../../../../articles/r/i/v/River_Rheidol_bb0c.html" title="River Rheidol">River Rheidol</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN723848_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN723848_region:GB_scale:25000" rel="nofollow">SN723848</a></td><td></td><td>Natural lake</td></tr><tr><td>Llyn Teifi</td><td><a href="../../../../articles/r/i/v/River_Teifi_ddd5.html" title="River Teifi">River Teifi</a></td><td><a href="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN781675_region:GB_scale:25000" class="external text" title="http://www.rhaworth.myby.co.uk/oscoor_a.htm?SN781675_region:GB_scale:25000" rel="nofollow">SN781675</a></td><td></td><td>Water supply</td></tr></table>]]>
+</htmlSnippet>
+</entity>

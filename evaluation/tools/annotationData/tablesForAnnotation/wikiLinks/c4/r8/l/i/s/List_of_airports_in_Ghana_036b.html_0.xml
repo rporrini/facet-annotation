@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r8/l/i/s/List_of_airports_in_Ghana_036b.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.5625 2, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_Ghana_036b.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>LOCATION</th>]]></html>
+	<text>LOCATION</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT NAME</th>]]></html>
+	<text>AIRPORT NAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Accra</td>]]></html>
+	<text>Accra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGAA</td>]]></html>
+	<text>DGAA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ACC</td>]]></html>
+	<text>ACC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kotoka International Airport</td>]]></html>
+	<text>Kotoka International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kumasi</td>]]></html>
+	<text>Kumasi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGSI</td>]]></html>
+	<text>DGSI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KMS</td>]]></html>
+	<text>KMS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kumasi Airport</td>]]></html>
+	<text>Kumasi Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Navrongo</td>]]></html>
+	<text>Navrongo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGLN</td>]]></html>
+	<text>DGLN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Navrongo Airport</td>]]></html>
+	<text>Navrongo Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sekondi-Takoradi</td>]]></html>
+	<text>Sekondi-Takoradi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGTK</td>]]></html>
+	<text>DGTK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TKD</td>]]></html>
+	<text>TKD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Takoradi Airport</td>]]></html>
+	<text>Takoradi Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sunyani</td>]]></html>
+	<text>Sunyani</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGSN</td>]]></html>
+	<text>DGSN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NYI</td>]]></html>
+	<text>NYI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sunyani Airport</td>]]></html>
+	<text>Sunyani Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tamale</td>]]></html>
+	<text>Tamale</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGLE</td>]]></html>
+	<text>DGLE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TML</td>]]></html>
+	<text>TML</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tamale Airport</td>]]></html>
+	<text>Tamale Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wa</td>]]></html>
+	<text>Wa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGLW</td>]]></html>
+	<text>DGLW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wa Airport</td>]]></html>
+	<text>Wa Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Yendi</td>]]></html>
+	<text>Yendi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DGLY</td>]]></html>
+	<text>DGLY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Yendi Airport</td>]]></html>
+	<text>Yendi Airport</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in Ghana - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>LOCATION ICAO IATA AIRPORT NAME</text>
+</context>
+<context>
+	<score>0.8876852</score>
+	<text>[ edit ] List</text>
+</context>
+<context>
+	<score>0.8007303</score>
+	<text>List of airports in Ghana</text>
+</context>
+<context>
+	<score>0.7817883</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7593253</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73205775</score>
+	<text>[ edit ] List</text>
+</context>
+<context>
+	<score>0.73205775</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.73205775</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73205775</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7231439</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.71311575</score>
+	<text>List of airports in Ghana , sorted by location.</text>
+</context>
+<context>
+	<score>0.6610748</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61250854</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.6114195</score>
+	<text>List of airports in Ghana</text>
+</context>
+<context>
+	<score>0.5261457</score>
+	<text>ICAO Location Indicators by State ( PDF ). International Civil Aviation Organization ( 2006 - 01-12 ).</text>
+</context>
+<context>
+	<score>0.47534403</score>
+	<text>UN Location Codes: Ghana [includes IATA codes]. UN/LOCODE 2006-2 . UNECE ( 2007 - 04-30 ).</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr valign="baseline"><th>LOCATION</th><th><a href="../../../../articles/i/c/a/ICAO_airport_code_cd3b.html" class="mw-redirect" title="ICAO airport code">ICAO</a></th><th><a href="../../../../articles/i/a/t/IATA_airport_code_3507.html" class="mw-redirect" title="IATA airport code">IATA</a></th><th>AIRPORT&#160;NAME</th></tr><tr valign="top"><td><a href="../../../../articles/a/c/c/Accra.html" title="Accra">Accra</a></td><td>DGAA</td><td>ACC</td><td><a href="../../../../articles/k/o/t/Kotoka_International_Airport_85cd.html" title="Kotoka International Airport">Kotoka International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/k/u/m/Kumasi.html" title="Kumasi">Kumasi</a></td><td>DGSI</td><td>KMS</td><td><a href="../../../../articles/k/u/m/Kumasi_Airport_d48b.html" title="Kumasi Airport">Kumasi Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/n/a/v/Navrongo.html" title="Navrongo">Navrongo</a></td><td>DGLN</td><td>&#160;</td><td>Navrongo Airport</td></tr><tr valign="top"><td><a href="../../../../articles/s/e/k/Sekondi-Takoradi_3f64.html" title="Sekondi-Takoradi">Sekondi-Takoradi</a></td><td>DGTK</td><td>TKD</td><td><a href="../../../../articles/t/a/k/Takoradi_Airport_874a.html" title="Takoradi Airport">Takoradi Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/s/u/n/Sunyani.html" title="Sunyani">Sunyani</a></td><td>DGSN</td><td>NYI</td><td>Sunyani Airport</td></tr><tr valign="top"><td><a href="../../../../articles/t/a/m/Tamale%2C_Ghana_1c54.html" title="Tamale, Ghana">Tamale</a></td><td>DGLE</td><td>TML</td><td><a href="../../../../articles/t/a/m/Tamale_Airport_6b2a.html" title="Tamale Airport">Tamale Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/w/a/%2C/Wa%2C_Ghana_2f7c.html" title="Wa, Ghana">Wa</a></td><td>DGLW</td><td>&#160;</td><td>Wa Airport</td></tr><tr valign="top"><td><a href="../../../../articles/y/e/n/Yendi.html" title="Yendi">Yendi</a></td><td>DGLY</td><td>&#160;</td><td>Yendi Airport</td></tr></table>]]>
+</htmlSnippet>
+</entity>

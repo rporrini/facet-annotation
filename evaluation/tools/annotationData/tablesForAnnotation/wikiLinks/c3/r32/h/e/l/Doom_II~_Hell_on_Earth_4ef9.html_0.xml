@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r32/h/e/l/Doom_II~_Hell_on_Earth_4ef9.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 0 1, 0.6666667 0 2, 0.4513889 1 2, 0.375 2, 0.15625 1, " />
+<meta name="parentHTMLDoc" value="en/articles/h/e/l/Doom_II~_Hell_on_Earth_4ef9.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Level design</th>]]></html>
+	<text>Level design</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Music</th>]]></html>
+	<text>Music</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP01: Entryway</td>]]></html>
+	<text>MAP01: Entryway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running from Evil</td>]]></html>
+	<text>Running from Evil</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP02: Underhalls</td>]]></html>
+	<text>MAP02: Underhalls</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Healer Stalks</td>]]></html>
+	<text>The Healer Stalks</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP03: The Gauntlet</td>]]></html>
+	<text>MAP03: The Gauntlet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Countdown to Death</td>]]></html>
+	<text>Countdown to Death</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP04: The Focus</td>]]></html>
+	<text>MAP04: The Focus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Between Levels *</td>]]></html>
+	<text>Between Levels *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP05: The Waste Tunnels</td>]]></html>
+	<text>MAP05: The Waste Tunnels</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DOOM</td>]]></html>
+	<text>DOOM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP06: The Crusher</td>]]></html>
+	<text>MAP06: The Crusher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In the Dark</td>]]></html>
+	<text>In the Dark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP07: Dead Simple</td>]]></html>
+	<text>MAP07: Dead Simple</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee / Sandy Petersen</td>]]></html>
+	<text>American McGee / Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shawn's got the Shotgun</td>]]></html>
+	<text>Shawn&amp;apos;s got the Shotgun</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP08: Tricks and Traps</td>]]></html>
+	<text>MAP08: Tricks and Traps</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Dave D. Taylor Blues</td>]]></html>
+	<text>The Dave D. Taylor Blues</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP09: The Pit</td>]]></html>
+	<text>MAP09: The Pit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Into Sandy's City *</td>]]></html>
+	<text>Into Sandy&amp;apos;s City *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP10: Refueling Base</td>]]></html>
+	<text>MAP10: Refueling Base</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen / Tom Hall</td>]]></html>
+	<text>Sandy Petersen / Tom Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Demon's Dead</td>]]></html>
+	<text>The Demon&amp;apos;s Dead</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP11: Circle of Death/The 'O' of Destruction</td>]]></html>
+	<text>MAP11: Circle of Death/The &amp;apos;O&amp;apos; of Destruction</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Healer Stalks</td>]]></html>
+	<text>The Healer Stalks</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP12: The Factory</td>]]></html>
+	<text>MAP12: The Factory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In the Dark</td>]]></html>
+	<text>In the Dark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP13: Downtown</td>]]></html>
+	<text>MAP13: Downtown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DOOM</td>]]></html>
+	<text>DOOM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP14: The Inmost Dens</td>]]></html>
+	<text>MAP14: The Inmost Dens</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Dave D. Taylor Blues</td>]]></html>
+	<text>The Dave D. Taylor Blues</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP15: Industrial Zone</td>]]></html>
+	<text>MAP15: Industrial Zone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running from Evil</td>]]></html>
+	<text>Running from Evil</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP16: Suburbs</td>]]></html>
+	<text>MAP16: Suburbs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Demon's Dead</td>]]></html>
+	<text>The Demon&amp;apos;s Dead</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP17: Tenements</td>]]></html>
+	<text>MAP17: Tenements</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Healer Stalks</td>]]></html>
+	<text>The Healer Stalks</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP18: The Courtyard</td>]]></html>
+	<text>MAP18: The Courtyard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waiting for Romero to Play</td>]]></html>
+	<text>Waiting for Romero to Play</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP19: The Citadel</td>]]></html>
+	<text>MAP19: The Citadel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shawn's got the Shotgun</td>]]></html>
+	<text>Shawn&amp;apos;s got the Shotgun</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP20: Gotcha!</td>]]></html>
+	<text>MAP20: Gotcha!</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Message for the Archvile</td>]]></html>
+	<text>Message for the Archvile</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP21: Nirvana</td>]]></html>
+	<text>MAP21: Nirvana</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Countdown to Death</td>]]></html>
+	<text>Countdown to Death</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP22: The Catacombs</td>]]></html>
+	<text>MAP22: The Catacombs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>American McGee</td>]]></html>
+	<text>American McGee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Dave D. Taylor Blues</td>]]></html>
+	<text>The Dave D. Taylor Blues</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP23: Barrels o' Fun</td>]]></html>
+	<text>MAP23: Barrels o&amp;apos; Fun</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bye Bye American Pie *</td>]]></html>
+	<text>Bye Bye American Pie *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP24: The Chasm</td>]]></html>
+	<text>MAP24: The Chasm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>In the Dark</td>]]></html>
+	<text>In the Dark</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP25: Bloodfalls</td>]]></html>
+	<text>MAP25: Bloodfalls</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shawn Green</td>]]></html>
+	<text>Shawn Green</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adrian's Asleep *</td>]]></html>
+	<text>Adrian&amp;apos;s Asleep *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP26: The Abandoned Mines</td>]]></html>
+	<text>MAP26: The Abandoned Mines</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Message for the Archvile</td>]]></html>
+	<text>Message for the Archvile</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP27: Monster Condo</td>]]></html>
+	<text>MAP27: Monster Condo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Waiting for Romero to Play</td>]]></html>
+	<text>Waiting for Romero to Play</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP28: The Spirit World</td>]]></html>
+	<text>MAP28: The Spirit World</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Getting Too Tense *</td>]]></html>
+	<text>Getting Too Tense *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP29: The Living End</td>]]></html>
+	<text>MAP29: The Living End</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Romero</td>]]></html>
+	<text>John Romero</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shawn's got the Shotgun</td>]]></html>
+	<text>Shawn&amp;apos;s got the Shotgun</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP30: Icon of Sin</td>]]></html>
+	<text>MAP30: Icon of Sin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Opening to Hell *</td>]]></html>
+	<text>Opening to Hell *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP31: Wolfenstein</td>]]></html>
+	<text>MAP31: Wolfenstein</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Evil Incarnate *</td>]]></html>
+	<text>Evil Incarnate *</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>MAP32: Grosse</td>]]></html>
+	<text>MAP32: Grosse</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sandy Petersen</td>]]></html>
+	<text>Sandy Petersen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Ultimate Conquest *</td>]]></html>
+	<text>The Ultimate Conquest *</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Doom II: Hell on Earth - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Level design Music</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>A * denotes a non-redundant track</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Doom II: Hell on Earth</text>
+</context>
+<context>
+	<score>0.78511196</score>
+	<text>[ edit ] Levels</text>
+</context>
+<context>
+	<score>0.7537395</score>
+	<text>[ edit ] MAP30: Icon of Sin</text>
+</context>
+<context>
+	<score>0.7243713</score>
+	<text>[ edit ] Story</text>
+</context>
+<context>
+	<score>0.7243713</score>
+	<text>[ edit ] Gameplay developments</text>
+</context>
+<context>
+	<score>0.7243713</score>
+	<text>[ edit ] Levels</text>
+</context>
+<context>
+	<score>0.7243713</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7243713</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7075363</score>
+	<text>Elements from the game would be used in Final Doom .</text>
+</context>
+<context>
+	<score>0.6421818</score>
+	<text>In general, Doom II was well-received and went on to sell 2 million copies, making it the highest-selling id Software game to date.</text>
+</context>
+<context>
+	<score>0.60364896</score>
+	<text>Level 30 is the game&apos;s final challenge along the normal sequence of levels. The player must properly time firing rockets into the boss&apos;s exposed brain to win. Upon noticing the player, the final boss says the following phrase backwards: &quot;To win the game you must kill me, John Romero.&quot; Though only accessible via cheat codes, behind the exposed brain of the boss is an image of John Romero&apos;s head impaled on a stick. The level&apos;s song is made so that if played that backwards, it sounds very similar as it does forwards.</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>The level design, much like in Doom , was supposed to mimic the areas the player was going into. Now that the game was taking place on Earth, a real-world look was attempted, with some levels taking place in certain kinds of military installations, and others taking place in residential areas. Eventually level designs no longer attempt to appear realistic, but by then the player has left the normal non-warped Earth. (After level 21, the skies are crimson red with mountains, unlike previous levels which had apartment buildings.)</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>A small change in gameplay was instituted. Instead of the player playing through three related episodes, gameplay takes place over one giant episode, albeit there are interludes for when the story develops. Instead of watching the player&apos;s progress on a map (as in the original episodes of Doom ), the screens between each level simply show a background. It also meant that the player would not have to start over with a pistol every eight or nine levels (as was the case in Doom , since each episode consisted of nine levels, including bonus levels).</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>There was also one new item created: the Megasphere, a tan sphere that could give the player 200% armor and health.</text>
+</context>
+<context>
+	<score>0.52059174</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.4989133</score>
+	<text>The only new weapon addition was the double-barreled shotgun , which could fire out 20 pellets instead of the regular shotgun&apos;s seven, making it very useful in dispatching Demons, Cacodemons, and any form of medium-sized monster.</text>
+</context>
+<context>
+	<score>0.47857726</score>
+	<text>The SS trooper from Wolfenstein 3D appears in the two secret levels, which are throwbacks in design (and music) to the Wolfenstein 3D and Spear of Destiny games. Also, a hanged Commander Keen figure makes a cameo in the second secret level.</text>
+</context>
+<context>
+	<score>0.46979707</score>
+	<text>[ edit ] MAP31: Wolfenstein</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>In this screenshot from Doom II: Hell on Earth , the player has just fired the double-barrelled shotgun, killing a chaingun-equipped zombie.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellpadding="4" align="center" cellspacing="0" style="background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;"><tr bgcolor="#E9DFD7"><th>Name</th><th>Level design</th><th>Music</th></tr><tr><td>MAP01: Entryway</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>Running from Evil</i></td></tr><tr><td>MAP02: Underhalls</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>The Healer Stalks</i></td></tr><tr><td>MAP03: The Gauntlet</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>Countdown to Death</i></td></tr><tr><td>MAP04: The Focus</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>Between Levels</i>*</td></tr><tr><td>MAP05: The Waste Tunnels</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>DOOM</i></td></tr><tr><td>MAP06: The Crusher</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>In the Dark</i></td></tr><tr><td>MAP07: Dead Simple</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a>/<a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Shawn's got the Shotgun</i></td></tr><tr><td>MAP08: Tricks and Traps</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>The Dave D. Taylor Blues</i></td></tr><tr><td>MAP09: The Pit</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Into Sandy's City</i>*</td></tr><tr><td>MAP10: Refueling Base</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a>/<a href="../../../../articles/t/o/m/Tom_Hall_421e.html" title="Tom Hall">Tom Hall</a></td><td><i>The Demon's Dead</i></td></tr><tr><td>MAP11: Circle of Death/The 'O' of Destruction</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>The Healer Stalks</i></td></tr><tr><td>MAP12: The Factory</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>In the Dark</i></td></tr><tr><td>MAP13: Downtown</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>DOOM</i></td></tr><tr><td>MAP14: The Inmost Dens</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>The Dave D. Taylor Blues</i></td></tr><tr><td>MAP15: Industrial Zone</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>Running from Evil</i></td></tr><tr><td>MAP16: Suburbs</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>The Demon's Dead</i></td></tr><tr><td>MAP17: Tenements</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>The Healer Stalks</i></td></tr><tr><td>MAP18: The Courtyard</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Waiting for Romero to Play</i></td></tr><tr><td>MAP19: The Citadel</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Shawn's got the Shotgun</i></td></tr><tr><td>MAP20: Gotcha!</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>Message for the Archvile</i></td></tr><tr><td>MAP21: Nirvana</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Countdown to Death</i></td></tr><tr><td>MAP22: The Catacombs</td><td><a href="../../../../articles/a/m/e/American_McGee_be70.html" title="American McGee">American McGee</a></td><td><i>The Dave D. Taylor Blues</i></td></tr><tr><td>MAP23: Barrels o' Fun</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Bye Bye American Pie</i>*</td></tr><tr><td>MAP24: The Chasm</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>In the Dark</i></td></tr><tr><td>MAP25: Bloodfalls</td><td><a href="../../../../articles/s/h/a/Shawn_Green_%28game_designer%29_5064.html" title="Shawn Green (game designer)">Shawn Green</a></td><td><i>Adrian's Asleep</i>*</td></tr><tr><td>MAP26: The Abandoned Mines</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>Message for the Archvile</i></td></tr><tr><td>MAP27: Monster Condo</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Waiting for Romero to Play</i></td></tr><tr><td>MAP28: The Spirit World</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Getting Too Tense</i>*</td></tr><tr><td>MAP29: The Living End</td><td><a href="../../../../articles/j/o/h/John_Romero_710b.html" title="John Romero">John Romero</a></td><td><i>Shawn's got the Shotgun</i></td></tr><tr><td>MAP30: Icon of Sin</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Opening to Hell</i>*</td></tr><tr><td>MAP31: Wolfenstein</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>Evil Incarnate</i>*</td></tr><tr><td>MAP32: Grosse</td><td><a href="../../../../articles/s/a/n/Sandy_Petersen_bd93.html" title="Sandy Petersen">Sandy Petersen</a></td><td><i>The Ultimate Conquest</i>*</td></tr></table>]]>
+</htmlSnippet>
+</entity>

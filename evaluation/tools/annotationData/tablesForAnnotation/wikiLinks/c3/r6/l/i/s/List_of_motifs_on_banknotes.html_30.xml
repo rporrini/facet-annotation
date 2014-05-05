@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r6/l/i/s/List_of_motifs_on_banknotes.html_30.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_motifs_on_banknotes.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Denomination</th>]]></html>
+	<text>Denomination</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Obverse</th>]]></html>
+	<text>Obverse</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Reverse</th>]]></html>
+	<text>Reverse</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 10</td>]]></html>
+	<text>CHF 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Le Corbusier</td>]]></html>
+	<text>Le Corbusier</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Le Corbusier’s buildings in Chandigarh</td>]]></html>
+	<text>Le Corbusier&#8217;s buildings in Chandigarh</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 20</td>]]></html>
+	<text>CHF 20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arthur Honegger</td>]]></html>
+	<text>Arthur Honegger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Elements from Honegger's Pacific 231</td>]]></html>
+	<text>Elements from Honegger&amp;apos;s Pacific 231</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 50</td>]]></html>
+	<text>CHF 50</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sophie Taeuber-Arp</td>]]></html>
+	<text>Sophie Taeuber-Arp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taeuber-Arp's Dada Head</td>]]></html>
+	<text>Taeuber-Arp&amp;apos;s Dada Head</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 100</td>]]></html>
+	<text>CHF 100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alberto Giacometti</td>]]></html>
+	<text>Alberto Giacometti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Giacometti's Man Walking</td>]]></html>
+	<text>Giacometti&amp;apos;s Man Walking</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 200</td>]]></html>
+	<text>CHF 200</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles Ferdinand Ramuz</td>]]></html>
+	<text>Charles Ferdinand Ramuz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Swiss mountains and Lavaux area</td>]]></html>
+	<text>Swiss mountains and Lavaux area</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>CHF 1000</td>]]></html>
+	<text>CHF 1000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jacob Burckhardt</td>]]></html>
+	<text>Jacob Burckhardt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Detail from the Palazzo Strozzi</td>]]></html>
+	<text>Detail from the Palazzo Strozzi</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of motifs on banknotes - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Denomination Obverse Reverse</text>
+</context>
+<context>
+	<score>0.88007194</score>
+	<text>The official currency of Switzerland is the Swiss franc ( CHF ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.7857032</score>
+	<text>List of motifs on banknotes</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Obverse of a 1000 Swiss franc banknote</text>
+</context>
+<context>
+	<score>0.75172967</score>
+	<text>[ edit ] Turkey</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Argentina</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Australia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Brazil</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Canada</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Colombia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Croatia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Denmark</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Egypt</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Estonia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Euro area</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Hungary</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Iceland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] India</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Japan</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Jersey</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Lithuania</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] New Zealand</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Norway</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Pakistan</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Paraguay</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Peru</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Philippines</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Poland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Romania</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Russia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Serbia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Slovakia</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] South Africa</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Sweden</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Switzerland</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Turkey</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] Ukraine</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] The United Kingdom</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] United States</text>
+</context>
+<context>
+	<score>0.70941144</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.70812744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055265</score>
+	<text>[ edit ] Switzerland</text>
+</context>
+<context>
+	<score>0.6434658</score>
+	<text>The official currency of Sweden is the Swedish krona ( SEK ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.60493296</score>
+	<text>The official currency of Turkey is the New Turkish lira ( TRY ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.59381735</score>
+	<text>[ edit ] Sweden</text>
+</context>
+<context>
+	<score>0.5540986</score>
+	<text>The official currency of South Africa is the South African rand ( ZAR ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.52232355</score>
+	<text>[ edit ] South Africa</text>
+</context>
+<context>
+	<score>0.518582</score>
+	<text>[ edit ] Ukraine</text>
+</context>
+<context>
+	<score>0.4969035</score>
+	<text>The official currency of Slovakia is the Slovak crown ( SKK ). The motifs used are:</text>
+</context>
+<context>
+	<score>0.4765675</score>
+	<text>[ edit ] Slovakia</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Obverse of a 20 Ukrainian hryvnia banknote</text>
+</context>
+<context>
+	<score>0.4602987</score>
+	<text>The official currency of Serbia is the Serbian dinar ( RSD ). The motifs used are:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>Denomination</th><th>Obverse</th><th>Reverse</th></tr><tr><td><b>CHF 10</b></td><td><a href="../../../../articles/l/e/_/Le_Corbusier_5fc7.html" title="Le Corbusier">Le Corbusier</a></td><td>Le Corbusier’s buildings in <a href="../../../../articles/c/h/a/Chandigarh.html" title="Chandigarh">Chandigarh</a></td></tr><tr><td><b>CHF 20</b></td><td><a href="../../../../articles/a/r/t/Arthur_Honegger_f4bb.html" title="Arthur Honegger">Arthur Honegger</a></td><td>Elements from Honegger's <i><a href="../../../../articles/p/a/c/Pacific_231.html" title="Pacific 231">Pacific 231</a></i></td></tr><tr><td><b>CHF 50</b></td><td><a href="../../../../articles/s/o/p/Sophie_Taeuber-Arp_b5cf.html" title="Sophie Taeuber-Arp">Sophie Taeuber-Arp</a></td><td>Taeuber-Arp's <i>Dada Head</i></td></tr><tr><td><b>CHF 100</b></td><td><a href="../../../../articles/a/l/b/Alberto_Giacometti_5748.html" title="Alberto Giacometti">Alberto Giacometti</a></td><td>Giacometti's <i>Man Walking</i></td></tr><tr><td><b>CHF 200</b></td><td><a href="../../../../articles/c/h/a/Charles_Ferdinand_Ramuz_c603.html" title="Charles Ferdinand Ramuz">Charles Ferdinand Ramuz</a></td><td>Swiss mountains and <a href="../../../../articles/l/a/v/Lavaux.html" title="Lavaux">Lavaux</a> area</td></tr><tr><td><b>CHF 1000</b></td><td><a href="../../../../articles/j/a/c/Jacob_Burckhardt_48d5.html" title="Jacob Burckhardt">Jacob Burckhardt</a></td><td>Detail from the <a href="../../../../articles/p/a/l/Palazzo_Strozzi_e309.html" title="Palazzo Strozzi">Palazzo Strozzi</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

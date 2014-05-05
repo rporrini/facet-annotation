@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/d/e/m/Demographics_of_the_Swiss_Federal_Council_130f.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.16666667 2, 0.16666667 1 2, 0.13333334 0, 0.13333334 0 1, 0.022222223 0 2, " />
+<meta name="parentHTMLDoc" value="en/articles/d/e/m/Demographics_of_the_Swiss_Federal_Council_130f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Years</th>]]></html>
+	<text>Years</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Term</th>]]></html>
+	<text>Term</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Karl Schenk</td>]]></html>
+	<text>Karl Schenk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1863–1895</td>]]></html>
+	<text>1863&#8211;1895</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>29</td>]]></html>
+	<text>29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adolf Deucher</td>]]></html>
+	<text>Adolf Deucher</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1883–1912</td>]]></html>
+	<text>1883&#8211;1912</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>28</td>]]></html>
+	<text>28</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Giuseppe Motta</td>]]></html>
+	<text>Giuseppe Motta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1911–1940</td>]]></html>
+	<text>1911&#8211;1940</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wilhelm Matthias Naeff</td>]]></html>
+	<text>Wilhelm Matthias Naeff</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1848–1875</td>]]></html>
+	<text>1848&#8211;1875</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Emil Welti</td>]]></html>
+	<text>Emil Welti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1866–1891</td>]]></html>
+	<text>1866&#8211;1891</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philipp Etter</td>]]></html>
+	<text>Philipp Etter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1934–1959</td>]]></html>
+	<text>1934&#8211;1959</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eduard Müller</td>]]></html>
+	<text>Eduard M&#252;ller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1895–1919</td>]]></html>
+	<text>1895&#8211;1919</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edmund Schulthess</td>]]></html>
+	<text>Edmund Schulthess</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912–1935</td>]]></html>
+	<text>1912&#8211;1935</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melchior Josef Martin Knüsel</td>]]></html>
+	<text>Melchior Josef Martin Kn&#252;sel</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1855–1875</td>]]></html>
+	<text>1855&#8211;1875</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Longest Time in Office</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Demographics of the Swiss Federal Council - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Years Name Term</text>
+</context>
+<context>
+	<score>0.8787399</score>
+	<text>The following tables do not include councilors currently in office.</text>
+</context>
+<context>
+	<score>0.79688925</score>
+	<text>Demographics of the Swiss Federal Council</text>
+</context>
+<context>
+	<score>0.78678423</score>
+	<text>Shortest time: Perrier died just 14 months after his election.</text>
+</context>
+<context>
+	<score>0.75539935</score>
+	<text>[ edit ] Age (oldest and youngest)</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] Parties</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] Time in office</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] Age (oldest and youngest)</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] Lifespan</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72433525</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7192828</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70917785</score>
+	<text>Longest time: Schenk died in his 32nd year in office.</text>
+</context>
+<context>
+	<score>0.6470926</score>
+	<text>[ edit ] Time in office</text>
+</context>
+<context>
+	<score>0.6085444</score>
+	<text>The Oldest: Ador was elected at age 72</text>
+</context>
+<context>
+	<score>0.59742445</score>
+	<text>[ edit ] Parties</text>
+</context>
+<context>
+	<score>0.5526374</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.52590233</score>
+	<text>Once elected for a four-year-term, Federal Councillors can neither be voted out of office by a motion of no confidence nor can they be impeached . Reelection is possible for an indefinite number of terms, and it has historically been extremely rare for Parliament not to reelect a sitting Councillor and this has only happened four times. In practice, therefore, Councillors serve until they decide to resign and retire to private life, usually after three to five terms of office.</text>
+</context>
+<context>
+	<score>0.5221593</score>
+	<text>The Youngest: Numa Droz was 31 years old at his election</text>
+</context>
+<context>
+	<score>0.50047225</score>
+	<text>) is the seven-member executive council which constitutes the government as well as the head of state of Switzerland . Each of the seven Federal Councillors heads a department of the Swiss federal government . The members of the Federal Council are elected for a term of four years by both chambers of the federal parliament sitting together as the Federal Assembly . Each Councillor is elected individually by secret ballot by an absolute majority of votes. Since 1848, the seven Councellors have never been replaced simultaneously, thus guaranteeing a continuity of the government.</text>
+</context>
+<context>
+	<score>0.47507563</score>
+	<text>Cussegl federal svizzer</text>
+</context>
+<context>
+	<score>0.47134444</score>
+	<text>[ edit ] Lifespan</text>
+</context>
+<context>
+	<score>0.46385288</score>
+	<text>, Romansh :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><caption>Longest Time in Office</caption><tr><th>Years</th><th>Name</th><th>Term</th></tr><tr><td>31</td><td><a href="../../../../articles/k/a/r/Karl_Schenk_7f1a.html" title="Karl Schenk">Karl Schenk</a></td><td>1863–1895</td></tr><tr><td>29</td><td><a href="../../../../articles/a/d/o/Adolf_Deucher_3a59.html" title="Adolf Deucher">Adolf Deucher</a></td><td>1883–1912</td></tr><tr><td>28</td><td><a href="../../../../articles/g/i/u/Giuseppe_Motta_2072.html" title="Giuseppe Motta">Giuseppe Motta</a></td><td>1911–1940</td></tr><tr><td>27</td><td><a href="../../../../articles/w/i/l/Wilhelm_Matthias_Naeff_d9bc.html" title="Wilhelm Matthias Naeff">Wilhelm Matthias Naeff</a></td><td>1848–1875</td></tr><tr><td>25</td><td><a href="../../../../articles/e/m/i/Emil_Welti_4642.html" title="Emil Welti">Emil Welti</a></td><td>1866–1891</td></tr><tr><td></td><td><a href="../../../../articles/p/h/i/Philipp_Etter_629d.html" title="Philipp Etter">Philipp Etter</a></td><td>1934–1959</td></tr><tr><td>24</td><td><a href="../../../../articles/e/d/u/Eduard_M%C3%BCller_77d7.html" title="Eduard Müller">Eduard Müller</a></td><td>1895–1919</td></tr><tr><td>22</td><td><a href="../../../../articles/e/d/m/Edmund_Schulthess_6ac1.html" title="Edmund Schulthess">Edmund Schulthess</a></td><td>1912–1935</td></tr><tr><td>20</td><td><a href="../../../../articles/m/e/l/Melchior_Josef_Martin_Kn%C3%BCsel_8b35.html" title="Melchior Josef Martin Knüsel">Melchior Josef Martin Knüsel</a></td><td>1855–1875</td></tr></table>]]>
+</htmlSnippet>
+</entity>

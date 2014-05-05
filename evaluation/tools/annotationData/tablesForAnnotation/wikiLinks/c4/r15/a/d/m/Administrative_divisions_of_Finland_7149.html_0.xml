@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r15/a/d/m/Administrative_divisions_of_Finland_7149.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 1, 0.175 0 1, 0.15 2, 0.15 0 2, 0.125 3, 0.125 0 3, 0.02625 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/d/m/Administrative_divisions_of_Finland_7149.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population</th>]]></html>
+	<text>Population</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Land area</th>]]></html>
+	<text>Land area</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Density</th>]]></html>
+	<text>Density</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Helsinki</td>]]></html>
+	<text>Helsinki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000564474.000000 564,474</td>]]></html>
+	<text>&amp;amp;amp;0000000000564474.000000 564,474</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000184.470000 184.47</td>]]></html>
+	<text>&amp;amp;amp;0000000000000184.470000 184.47</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000003061.000000 3,061.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000003061.000000 3,061.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Espoo</td>]]></html>
+	<text>Espoo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000235100.000000 235,100</td>]]></html>
+	<text>&amp;amp;amp;0000000000235100.000000 235,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000312.000000 312.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000312.000000 312.00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000751.6.0E+5 751.60</td>]]></html>
+	<text>&amp;amp;amp;0000000000000751.6.0E+5 751.60</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tampere</td>]]></html>
+	<text>Tampere</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000206171.000000 206,171</td>]]></html>
+	<text>&amp;amp;amp;0000000000206171.000000 206,171</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000523.4.0E+5 523.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000000523.4.0E+5 523.40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000393.9.0E+5 393.90</td>]]></html>
+	<text>&amp;amp;amp;0000000000000393.9.0E+5 393.90</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vantaa</td>]]></html>
+	<text>Vantaa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000189442.000000 189,442</td>]]></html>
+	<text>&amp;amp;amp;0000000000189442.000000 189,442</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000240.540000 240.54</td>]]></html>
+	<text>&amp;amp;amp;0000000000000240.540000 240.54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000780.4.0E+5 780.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000000780.4.0E+5 780.40</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Turku</td>]]></html>
+	<text>Turku</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000177502.000000 177,502</td>]]></html>
+	<text>&amp;amp;amp;0000000000177502.000000 177,502</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000243.4.0E+5 243.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000000243.4.0E+5 243.40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000720.5.0E+5 720.50</td>]]></html>
+	<text>&amp;amp;amp;0000000000000720.5.0E+5 720.50</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oulu</td>]]></html>
+	<text>Oulu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000130049.000000 130,049</td>]]></html>
+	<text>&amp;amp;amp;0000000000130049.000000 130,049</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000369.430000 369.43</td>]]></html>
+	<text>&amp;amp;amp;0000000000000369.430000 369.43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000351.4.0E+5 351.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000000351.4.0E+5 351.40</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lahti</td>]]></html>
+	<text>Lahti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000098773.000000 98,773</td>]]></html>
+	<text>&amp;amp;amp;0000000000098773.000000 98,773</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000134.950000 134.95</td>]]></html>
+	<text>&amp;amp;amp;0000000000000134.950000 134.95</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000730.1.0E+5 730.10</td>]]></html>
+	<text>&amp;amp;amp;0000000000000730.1.0E+5 730.10</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kuopio</td>]]></html>
+	<text>Kuopio</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000091026.000000 91,026</td>]]></html>
+	<text>&amp;amp;amp;0000000000091026.000000 91,026</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000001127.4.0E+5 1,127.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000001127.4.0E+5 1,127.40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000081.000000 81.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000081.000000 81.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Jyväskylä</td>]]></html>
+	<text>Jyv&#228;skyl&#228;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000084482.000000 84,482</td>]]></html>
+	<text>&amp;amp;amp;0000000000084482.000000 84,482</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000105.9.0E+5 105.90</td>]]></html>
+	<text>&amp;amp;amp;0000000000000105.9.0E+5 105.90</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000789.000000 789.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000789.000000 789.00</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pori</td>]]></html>
+	<text>Pori</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000076211.000000 76,211</td>]]></html>
+	<text>&amp;amp;amp;0000000000076211.000000 76,211</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000503.170000 503.17</td>]]></html>
+	<text>&amp;amp;amp;0000000000000503.170000 503.17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000150.830000 150.83</td>]]></html>
+	<text>&amp;amp;amp;0000000000000150.830000 150.83</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lappeenranta</td>]]></html>
+	<text>Lappeenranta</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000059077.000000 59,077</td>]]></html>
+	<text>&amp;amp;amp;0000000000059077.000000 59,077</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000758.000000 758.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000758.000000 758.00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000077.7.0E+5 77.70</td>]]></html>
+	<text>&amp;amp;amp;0000000000000077.7.0E+5 77.70</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rovaniemi</td>]]></html>
+	<text>Rovaniemi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000058100.000000 58,100</td>]]></html>
+	<text>&amp;amp;amp;0000000000058100.000000 58,100</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000007600.730000 7,600.73</td>]]></html>
+	<text>&amp;amp;amp;0000000000007600.730000 7,600.73</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000007.6.0E+5 7.60</td>]]></html>
+	<text>&amp;amp;amp;0000000000000007.6.0E+5 7.60</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Joensuu</td>]]></html>
+	<text>Joensuu</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000057879.000000 57,879</td>]]></html>
+	<text>&amp;amp;amp;0000000000057879.000000 57,879</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000001173.4.0E+5 1,173.40</td>]]></html>
+	<text>&amp;amp;amp;0000000000001173.4.0E+5 1,173.40</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000049.1.0E+5 49.10</td>]]></html>
+	<text>&amp;amp;amp;0000000000000049.1.0E+5 49.10</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Vaasa</td>]]></html>
+	<text>Vaasa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000057266.000000 57,266</td>]]></html>
+	<text>&amp;amp;amp;0000000000057266.000000 57,266</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000183.000000 183.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000183.000000 183.00</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000311.2.0E+5 311.20</td>]]></html>
+	<text>&amp;amp;amp;0000000000000311.2.0E+5 311.20</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kotka</td>]]></html>
+	<text>Kotka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000054860.000000 54,860</td>]]></html>
+	<text>&amp;amp;amp;0000000000054860.000000 54,860</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000270.740000 270.74</td>]]></html>
+	<text>&amp;amp;amp;0000000000000270.740000 270.74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>&amp;0000000000000203.000000 203.00</td>]]></html>
+	<text>&amp;amp;amp;0000000000000203.000000 203.00</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Administrative divisions of Finland - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Municipality Population Land area Density</text>
+</context>
+<context>
+	<score>0.8858459</score>
+	<text>In the following chart, the number of inhabitants includes those living in the entire municipality ( kunta/kommun ), not just in the built-up area. The land area is given in km , and the density in inhabitants per km (land area). The figures are as of January 1, 2007. Notice that the capital region comprising Helsinki , Vantaa , Espoo and Kauniainen (see Greater Helsinki ) forms a continuous conurbation of one million people. However, common administration is limited to voluntary cooperation of all municipalities, e.g. in Helsinki Metropolitan Area Council .</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>Administrative divisions of Finland</text>
+</context>
+<context>
+	<score>0.7872748</score>
+	<text>In addition to municipalities, there are complex other arrangements. Municipalities co-operate in seventy-four sub-regions and twenty regions . These are governed by the member municipalities. The land region has a permanent, democratically elected regional council, as a part of the autonomy. In the Kainuu region, there is a pilot project underway, with regional elections. Sami people have a semi-autonomous Sami Domicile Area in Lapland for issues on language and culture.</text>
+</context>
+<context>
+	<score>0.75538415</score>
+	<text>Further information: List of Finnish municipalities , List of Finnish municipalities by population , List of Finnish municipalities by area , and Former municipalities of Finland</text>
+</context>
+<context>
+	<score>0.73408747</score>
+	<text>[ edit ] Description</text>
+</context>
+<context>
+	<score>0.73408747</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73408747</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.69935805</score>
+	<text>Municipalities (which may also call themselves towns or cities) account for half of public spending. Spending is financed by municipal income tax, state subsidies, and other revenue. As of 2008, there were 415 municipalies and most were under 5000 residents. For comparison, Denmark has set a minimum size of 30,000 residents. In Finland, state has started the Municipality and Service Structure Reform Program to reform the complex and expensive municipal system, but initiatives have encountered much opposition from local bureaucrats and interest groups. People often identify with their municipality.</text>
+</context>
+<context>
+	<score>0.6362725</score>
+	<text>Black borders refer to municipalities, red to regions.</text>
+</context>
+<context>
+	<score>0.6061631</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.5948639</score>
+	<text>Municipalities and regions map of Finland (2007).</text>
+</context>
+<context>
+	<score>0.55448914</score>
+	<text>Police, prosecutors, and other state services operate under the administration of the province, which is again divided to admistratively insignificant districts. After 1997 reforms the provinces have been Southern Finland , Western Finland , Eastern Finland , Oulu , Lapland , land . The province of land Islands is autonomous .</text>
+</context>
+<context>
+	<score>0.5221894</score>
+	<text>The state organisation is divided into six administrative provinces (l ni, pl. l nit) , though they have little significance.</text>
+</context>
+<context>
+	<score>0.518386</score>
+	<text>^ Local Governance in Industrial Countries - ISBN: 082136328X</text>
+</context>
+<context>
+	<score>0.49634954</score>
+	<text>[ edit ] Description</text>
+</context>
+<context>
+	<score>0.47574985</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.47567767</score>
+	<text>As of 1 January 2005 , Finland is divided into:</text>
+</context>
+<context>
+	<score>0.4667524</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.46251985</score>
+	<text>Administrative divisions of Finland</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="text-align:right;"><tr><th>Municipality</th><th>Population</th><th>Land area</th><th>Density</th></tr><tr><td align="left"><b><a href="../../../../articles/h/e/l/Helsinki.html" title="Helsinki">Helsinki</a></b></td><td><b><span style="display:none">&amp;0000000000564474.000000</span>564,474</b></td><td><span style="display:none">&amp;0000000000000184.470000</span>184.47</td><td><span style="display:none">&amp;0000000000003061.000000</span>3,061.00</td></tr><tr><td align="left"><b><a href="../../../../articles/e/s/p/Espoo.html" title="Espoo">Espoo</a></b></td><td><b><span style="display:none">&amp;0000000000235100.000000</span>235,100</b></td><td><span style="display:none">&amp;0000000000000312.000000</span>312.00</td><td><span style="display:none">&amp;0000000000000751.6.0E+5</span>751.60</td></tr><tr><td align="left"><b><a href="../../../../articles/t/a/m/Tampere.html" title="Tampere">Tampere</a></b></td><td><b><span style="display:none">&amp;0000000000206171.000000</span>206,171</b></td><td><span style="display:none">&amp;0000000000000523.4.0E+5</span>523.40</td><td><span style="display:none">&amp;0000000000000393.9.0E+5</span>393.90</td></tr><tr><td align="left"><b><a href="../../../../articles/v/a/n/Vantaa.html" title="Vantaa">Vantaa</a></b></td><td><b><span style="display:none">&amp;0000000000189442.000000</span>189,442</b></td><td><span style="display:none">&amp;0000000000000240.540000</span>240.54</td><td><span style="display:none">&amp;0000000000000780.4.0E+5</span>780.40</td></tr><tr><td align="left"><b><a href="../../../../articles/t/u/r/Turku.html" title="Turku">Turku</a></b></td><td><b><span style="display:none">&amp;0000000000177502.000000</span>177,502</b></td><td><span style="display:none">&amp;0000000000000243.4.0E+5</span>243.40</td><td><span style="display:none">&amp;0000000000000720.5.0E+5</span>720.50</td></tr><tr><td align="left"><b><a href="../../../../articles/o/u/l/Oulu.html" title="Oulu">Oulu</a></b></td><td><b><span style="display:none">&amp;0000000000130049.000000</span>130,049</b></td><td><span style="display:none">&amp;0000000000000369.430000</span>369.43</td><td><span style="display:none">&amp;0000000000000351.4.0E+5</span>351.40</td></tr><tr><td align="left"><b><a href="../../../../articles/l/a/h/Lahti.html" title="Lahti">Lahti</a></b></td><td><b><span style="display:none">&amp;0000000000098773.000000</span>98,773</b></td><td><span style="display:none">&amp;0000000000000134.950000</span>134.95</td><td><span style="display:none">&amp;0000000000000730.1.0E+5</span>730.10</td></tr><tr><td align="left"><b><a href="../../../../articles/k/u/o/Kuopio.html" title="Kuopio">Kuopio</a></b></td><td><b><span style="display:none">&amp;0000000000091026.000000</span>91,026</b></td><td><span style="display:none">&amp;0000000000001127.4.0E+5</span>1,127.40</td><td><span style="display:none">&amp;0000000000000081.000000</span>81.00</td></tr><tr><td align="left"><b><a href="../../../../articles/j/y/v/Jyv%C3%A4skyl%C3%A4.html" title="Jyväskylä">Jyväskylä</a></b></td><td><b><span style="display:none">&amp;0000000000084482.000000</span>84,482</b></td><td><span style="display:none">&amp;0000000000000105.9.0E+5</span>105.90</td><td><span style="display:none">&amp;0000000000000789.000000</span>789.00</td></tr><tr><td align="left"><b><a href="../../../../articles/p/o/r/Pori.html" title="Pori">Pori</a></b></td><td><b><span style="display:none">&amp;0000000000076211.000000</span>76,211</b></td><td><span style="display:none">&amp;0000000000000503.170000</span>503.17</td><td><span style="display:none">&amp;0000000000000150.830000</span>150.83</td></tr><tr><td align="left"><b><a href="../../../../articles/l/a/p/Lappeenranta.html" title="Lappeenranta">Lappeenranta</a></b></td><td><b><span style="display:none">&amp;0000000000059077.000000</span>59,077</b></td><td><span style="display:none">&amp;0000000000000758.000000</span>758.00</td><td><span style="display:none">&amp;0000000000000077.7.0E+5</span>77.70</td></tr><tr><td align="left"><b><a href="../../../../articles/r/o/v/Rovaniemi.html" title="Rovaniemi">Rovaniemi</a></b></td><td><b><span style="display:none">&amp;0000000000058100.000000</span>58,100</b></td><td><span style="display:none">&amp;0000000000007600.730000</span>7,600.73</td><td><span style="display:none">&amp;0000000000000007.6.0E+5</span>7.60</td></tr><tr><td align="left"><b><a href="../../../../articles/j/o/e/Joensuu.html" title="Joensuu">Joensuu</a></b></td><td><b><span style="display:none">&amp;0000000000057879.000000</span>57,879</b></td><td><span style="display:none">&amp;0000000000001173.4.0E+5</span>1,173.40</td><td><span style="display:none">&amp;0000000000000049.1.0E+5</span>49.10</td></tr><tr><td align="left"><b><a href="../../../../articles/v/a/a/Vaasa.html" title="Vaasa">Vaasa</a></b></td><td><b><span style="display:none">&amp;0000000000057266.000000</span>57,266</b></td><td><span style="display:none">&amp;0000000000000183.000000</span>183.00</td><td><span style="display:none">&amp;0000000000000311.2.0E+5</span>311.20</td></tr><tr><td align="left"><b><a href="../../../../articles/k/o/t/Kotka.html" title="Kotka">Kotka</a></b></td><td><b><span style="display:none">&amp;0000000000054860.000000</span>54,860</b></td><td><span style="display:none">&amp;0000000000000270.740000</span>270.74</td><td><span style="display:none">&amp;0000000000000203.000000</span>203.00</td></tr></table>]]>
+</htmlSnippet>
+</entity>

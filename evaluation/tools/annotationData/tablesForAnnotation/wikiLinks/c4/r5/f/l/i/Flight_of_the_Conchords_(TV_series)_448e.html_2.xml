@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/f/l/i/Flight_of_the_Conchords_(TV_series)_448e.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.125 0 3, 0.109375 1 3, 0.1 3, 0.09375 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/f/l/i/Flight_of_the_Conchords_(TV_series)_448e.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Played by</th>]]></html>
+	<text>Played by</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Description</th>]]></html>
+	<text>Description</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Episode</th>]]></html>
+	<text>Episode</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sinjay</td>]]></html>
+	<text>Sinjay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aziz Ansari</td>]]></html>
+	<text>Aziz Ansari</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A fruit vendor who discriminates against Bret and Jemaine because he believes they are from Australia.</td>]]></html>
+	<text>A fruit vendor who discriminates against Bret and Jemaine because he believes they are from Australia.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107</td>]]></html>
+	<text>107</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greeting Card Company Manager</td>]]></html>
+	<text>Greeting Card Company Manager</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Kellogg Hodgman</td>]]></html>
+	<text>John Kellogg Hodgman</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The manager of the greeting card company with which the Conchords sign a recording contract.</td>]]></html>
+	<text>The manager of the greeting card company with which the Conchords sign a recording contract.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>106</td>]]></html>
+	<text>106</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Demetri</td>]]></html>
+	<text>Demetri</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Demetri Martin</td>]]></html>
+	<text>Demetri Martin</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A keytar player who joins the Conchords after Bret leaves the band. In the end, he joins Todd, the bongo player, and they become famous after forming "The Crazy Dogggz" with the song "The Doggy Bounce"</td>]]></html>
+	<text>A keytar player who joins the Conchords after Bret leaves the band. In the end, he joins Todd, the bongo player, and they become famous after forming &amp;quot;The Crazy Dogggz&amp;quot; with the song &amp;quot;The Doggy Bounce&amp;quot;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112</td>]]></html>
+	<text>112</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Todd</td>]]></html>
+	<text>Todd</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Todd Barry</td>]]></html>
+	<text>Todd Barry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A bongo player who joins Bret and Jemaine as "The Third Conchord". He convinces Jemaine to kick Bret out of the band, but in the end joins Demetri (a keytar player who formed a band with Bret) and becomes famous after forming "The Crazy Dogggz" with the song "The Doggy Bounce".</td>]]></html>
+	<text>A bongo player who joins Bret and Jemaine as &amp;quot;The Third Conchord&amp;quot;. He convinces Jemaine to kick Bret out of the band, but in the end joins Demetri (a keytar player who formed a band with Bret) and becomes famous after forming &amp;quot;The Crazy Dogggz&amp;quot; with the song &amp;quot;The Doggy Bounce&amp;quot;.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>112</td>]]></html>
+	<text>112</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ben</td>]]></html>
+	<text>Ben</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Will Forte</td>]]></html>
+	<text>Will Forte</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>An actor the band hires to speak with Murray about a record deal rejection.</td>]]></html>
+	<text>An actor the band hires to speak with Murray about a record deal rejection.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>111</td>]]></html>
+	<text>111</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Flight of the Conchords (TV series) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Played by Description Episode</text>
+</context>
+<context>
+	<score>0.8807304</score>
+	<text>[ edit ] Other guest stars</text>
+</context>
+<context>
+	<score>0.7919192</score>
+	<text>Flight of the Conchords (TV series)</text>
+</context>
+<context>
+	<score>0.7837606</score>
+	<text>[ edit ] Recurring guest stars</text>
+</context>
+<context>
+	<score>0.7523881</score>
+	<text>[ edit ] Cameo appearances</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Plot</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Cast</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Critical reaction</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Episodes</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Songs</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Second season</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Filming locations</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] Recurring themes and running jokes</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] International broadcasters</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71628594</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143434</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7061849</score>
+	<text>[ edit ] Main cast</text>
+</context>
+<context>
+	<score>0.64412427</score>
+	<text>[ edit ] Cast</text>
+</context>
+<context>
+	<score>0.6055914</score>
+	<text>Several famous people have made a fleeting cameo appearance in various episodes.</text>
+</context>
+<context>
+	<score>0.59253335</score>
+	<text>The enthusiastic manner in which the characters express themselves through song is in stark contrast to the very low-key, monotone manner in which the characters express themselves throughout the rest of the show. Thus, when the characters cannot verbalize their feelings, the songs serve as inner monologues and explain the thoughts and feelings they are unable to communicate to others.</text>
+</context>
+<context>
+	<score>0.55475706</score>
+	<text>Jemaine or Bret break into song periodically throughout each episode. The songs are built into the narrative structure of the show in several different ways. Some songs form part of the actual plot of the show. In these instances, Bret or Jemaine sings to another character. Other songs serve as the internal monologue of one of the two. Typically, at least once per show, a song is shot in the form of a music video. Some songs use a combination of the styles. For example, in the first episode, &quot; Sally &quot;, the song &quot;Most Beautiful Girl in the Room&quot; is a mix of Jemaine&apos;s inner thoughts, which are inaudible to those around him, and his spoken invitations to Sally to get a kebab and to go back to his place, while the music video for &quot;Business Time&quot; (from &quot; Sally Returns &quot;) depicts a daydream that Jemaine is having.</text>
+</context>
+<context>
+	<score>0.522982</score>
+	<text>Most episodes revolve around the five main cast members. The antagonists outside of this small group are usually either their girlfriends or Australians (see &quot; Bret Gives Up the Dream &quot;, &quot; Sally Returns &quot;).</text>
+</context>
+<context>
+	<score>0.51924044</score>
+	<text>[ edit ] Critical reaction</text>
+</context>
+<context>
+	<score>0.497562</score>
+	<text>The series revolves around the day-to-day lives and loves of two musicians, Jemaine and Bret ( Jemaine Clement and Bret McKenzie , playing fictionalised versions of themselves), who have uprooted themselves from their native New Zealand to try to make it big as a novelty folk duo in New York City . The two have frequent appointments with their band manager, Murray ( Rhys Darby ), a Deputy Cultural Attach at the New Zealand consulate, who is overly officious and ineffectual. Jemaine and Bret constantly fend off the amorous attentions of Mel ( Kristen Schaal ), a married woman who is their sole fan and stalker . Their friend Dave ( Arj Barker ) works at a pawn shop and gives them advice on dealing with American women and culture. Other recurring characters include their landlord, Eugene (played by Eugene Mirman ), Bret&apos;s short-term girlfriend Coco ( Sutton Foster ) and Jemaine and Bret&apos;s ex-girlfriend Sally ( Rachel Blanchard ).</text>
+</context>
+<context>
+	<score>0.47722596</score>
+	<text>[ edit ] Plot</text>
+</context>
+<context>
+	<score>0.46844575</score>
+	<text>The show has received a generally positive reaction from critics. The best reviews were from the Detroit Free Press , whose critic described it as &quot;TV&apos;s most original and irresistible new comic concoction&quot;</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>Contents</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th><b>Name</b></th><th><b>Played by</b></th><th><b>Description</b></th><th>Episode</th></tr><tr><td>Sinjay</td><td><a href="../../../../articles/a/z/i/Aziz_Ansari_df5e.html" title="Aziz Ansari">Aziz Ansari</a></td><td>A fruit vendor who discriminates against Bret and Jemaine because he believes they are from Australia.</td><td>107</td></tr><tr><td>Greeting Card Company Manager</td><td><a href="../../../../articles/j/o/h/John_Hodgman_e95e.html" title="John Hodgman">John Kellogg Hodgman</a></td><td>The manager of the greeting card company with which the Conchords sign a recording contract.</td><td>106</td></tr><tr><td>Demetri</td><td><a href="../../../../articles/d/e/m/Demetri_Martin_1703.html" title="Demetri Martin">Demetri Martin</a></td><td>A keytar player who joins the Conchords after Bret leaves the band. In the end, he joins Todd, the bongo player, and they become famous after forming "The Crazy Dogggz" with the song "The Doggy Bounce"</td><td>112</td></tr><tr><td>Todd</td><td><a href="../../../../articles/t/o/d/Todd_Barry_2778.html" title="Todd Barry">Todd Barry</a></td><td>A bongo player who joins Bret and Jemaine as "The Third Conchord". He convinces Jemaine to kick Bret out of the band, but in the end joins Demetri (a keytar player who formed a band with Bret) and becomes famous after forming "The Crazy Dogggz" with the song "The Doggy Bounce".</td><td>112</td></tr><tr><td>Ben</td><td><a href="../../../../articles/w/i/l/Will_Forte_1594.html" title="Will Forte">Will Forte</a></td><td>An actor the band hires to speak with Murray about a record deal rejection.</td><td>111</td></tr></table>]]>
+</htmlSnippet>
+</entity>

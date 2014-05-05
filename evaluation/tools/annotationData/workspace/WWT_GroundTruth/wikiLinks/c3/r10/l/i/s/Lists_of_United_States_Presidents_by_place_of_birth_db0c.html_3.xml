@@ -1,0 +1,71 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="2">
+<anno name="wikicategory_States_of_the_United_States" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wikicategory_States_of_the_United_States" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="0">
+<anno name="wikicategory_Presidents_of_the_United_States" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity>Andrew_Jackson</entity>
+<entity>South_Carolina</entity>
+<entity>Tennessee</entity>
+</row>
+<row>
+<entity>Benjamin_Harrison</entity>
+<entity>Ohio</entity>
+<entity>Indiana</entity>
+</row>
+<row>
+<entity>William_Henry_Harrison</entity>
+<entity>Virginia</entity>
+<entity>Ohio</entity>
+</row>
+<row>
+<entity>James_K._Polk</entity>
+<entity>North_Carolina</entity>
+<entity>Tennessee</entity>
+</row>
+<row>
+<entity>Zachary_Taylor</entity>
+<entity>Virginia</entity>
+<entity>Louisiana</entity>
+</row>
+<row>
+<entity>Abraham_Lincoln</entity>
+<entity>Kentucky</entity>
+<entity>Illinois</entity>
+</row>
+<row>
+<entity>Andrew_Johnson</entity>
+<entity>North_Carolina</entity>
+<entity>Tennessee</entity>
+</row>
+<row>
+<entity></entity>
+<entity>Ohio</entity>
+<entity>Illinois</entity>
+</row>
+<row>
+<entity>Chester_A._Arthur</entity>
+<entity>Vermont</entity>
+<entity>New_York</entity>
+</row>
+<row>
+<entity>Grover_Cleveland</entity>
+<entity>New_Jersey</entity>
+<entity>New_York</entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

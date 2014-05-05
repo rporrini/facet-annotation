@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/f/b/o/FBOP_Corporation_0ed7.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.8333333 1, 0.8333333 0 1, 0.6666667 2, 0.6666667 0 2, 0.5555556 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/f/b/o/FBOP_Corporation_0ed7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Market</th>]]></html>
+	<text>Market</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Asset size</th>]]></html>
+	<text>Asset size</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cal National Bank</td>]]></html>
+	<text>Cal National Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Los Angeles</td>]]></html>
+	<text>Los Angeles</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$5.6 billion [1]</td>]]></html>
+	<text>$5.6 billion [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Park National Bank</td>]]></html>
+	<text>Park National Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Chicago</td>]]></html>
+	<text>Chicago</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.8 billion [1]</td>]]></html>
+	<text>3.8 billion [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>San Diego National Bank</td>]]></html>
+	<text>San Diego National Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Diego, California</td>]]></html>
+	<text>San Diego, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.4 billion [1]</td>]]></html>
+	<text>2.4 billion [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pacific National Bank</td>]]></html>
+	<text>Pacific National Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Francisco, California</td>]]></html>
+	<text>San Francisco, California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3 billion [1]</td>]]></html>
+	<text>1.3 billion [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Houston Bank</td>]]></html>
+	<text>North Houston Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Houston, Texas</td>]]></html>
+	<text>Houston, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>326 million [1]</td>]]></html>
+	<text>326 million [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Madisonville State Bank</td>]]></html>
+	<text>Madisonville State Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Madisonville, Texas</td>]]></html>
+	<text>Madisonville, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>183 million [1]</td>]]></html>
+	<text>183 million [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bank USA</td>]]></html>
+	<text>Bank USA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Phoenix, Arizona</td>]]></html>
+	<text>Phoenix, Arizona</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>138 million [1]</td>]]></html>
+	<text>138 million [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Community Bank of Lemont</td>]]></html>
+	<text>Community Bank of Lemont</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lemont, Illinois</td>]]></html>
+	<text>Lemont, Illinois</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>96 million [1]</td>]]></html>
+	<text>96 million [1]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Citizens National Bank</td>]]></html>
+	<text>Citizens National Bank</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Teague, Texas</td>]]></html>
+	<text>Teague, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>64 million [1]</td>]]></html>
+	<text>64 million [1]</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>FBOP Corporation - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Market Asset size</text>
+</context>
+<context>
+	<score>0.8873279</score>
+	<text>[ edit ] Subsidiaries</text>
+</context>
+<context>
+	<score>0.8064306</score>
+	<text>FBOP Corporation</text>
+</context>
+<context>
+	<score>0.7900365</score>
+	<text>FBOP operates banks in Illinois , California , Texas and Arizona .</text>
+</context>
+<context>
+	<score>0.75855994</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] Subsidiaries</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7375397</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71220344</score>
+	<text>The holding company began as First Bank of Oak Park, and started acquiring other banks in 1990. In 2006, First Bank of Oak Park merged with four other co-owned banks in Illinois to create Park National Bank.</text>
+</context>
+<context>
+	<score>0.64099467</score>
+	<text>The company has over 4064 employees.</text>
+</context>
+<context>
+	<score>0.6112761</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.60012364</score>
+	<text>FBOP Corporation is a bank holding company based in Oak Park , Illinois . As of the end of 2007, it had $14.9 billion in assets and was the 49th largest bank holding company in the United States.</text>
+</context>
+<context>
+	<score>0.57666713</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5447867</score>
+	<text>FBOP Corporation</text>
+</context>
+<context>
+	<score>0.47367543</score>
+	<text>This United States bank -related article is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Name</th><th>Market</th><th>Asset size</th></tr><tr><td><a href="../../../../articles/c/a/l/Cal_National_Bank_9a43.html" title="Cal National Bank">Cal National Bank</a></td><td><a href="../../../../articles/l/o/s/Los_Angeles%2C_California_b493.html" title="Los Angeles, California">Los Angeles</a></td><td>$5.6 billion<sup id="cite_ref-iBank_0-3" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Park National Bank</td><td><a href="../../../../articles/c/h/i/Chicago.html" title="Chicago">Chicago</a></td><td>3.8 billion<sup id="cite_ref-iBank_0-4" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>San Diego National Bank</td><td><a href="../../../../articles/s/a/n/San_Diego%2C_California_4c0a.html" title="San Diego, California">San Diego, California</a></td><td>2.4 billion<sup id="cite_ref-iBank_0-5" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Pacific National Bank</td><td><a href="../../../../articles/s/a/n/San_Francisco%2C_California_b6e2.html" title="San Francisco, California">San Francisco, California</a></td><td>1.3 billion<sup id="cite_ref-iBank_0-6" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>North Houston Bank</td><td><a href="../../../../articles/h/o/u/Houston%2C_Texas_c0fa.html" title="Houston, Texas">Houston, Texas</a></td><td>326 million<sup id="cite_ref-iBank_0-7" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Madisonville State Bank</td><td><a href="../../../../articles/m/a/d/Madisonville%2C_Texas_481d.html" title="Madisonville, Texas">Madisonville, Texas</a></td><td>183 million<sup id="cite_ref-iBank_0-8" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Bank USA</td><td><a href="../../../../articles/p/h/o/Phoenix%2C_Arizona_97f7.html" title="Phoenix, Arizona">Phoenix, Arizona</a></td><td>138 million<sup id="cite_ref-iBank_0-9" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Community Bank of Lemont</td><td><a href="../../../../articles/l/e/m/Lemont%2C_Illinois_f925.html" title="Lemont, Illinois">Lemont, Illinois</a></td><td>96 million<sup id="cite_ref-iBank_0-10" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr><tr><td>Citizens National Bank</td><td><a href="../../../../articles/t/e/a/Teague%2C_Texas_83a1.html" title="Teague, Texas">Teague, Texas</a></td><td>64 million<sup id="cite_ref-iBank_0-11" class="reference"><a href="#cite_note-iBank-0" title="">[1]</a></sup></td></tr></table>]]>
+</htmlSnippet>
+</entity>

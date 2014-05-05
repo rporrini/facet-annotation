@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r7/l/i/s/List_of_airports_in_the_Turks_and_Caicos_Islands_d01f.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 1, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_the_Turks_and_Caicos_Islands_d01f.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>LOCATION</th>]]></html>
+	<text>LOCATION</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>AIRPORT NAME</th>]]></html>
+	<text>AIRPORT NAME</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Grand Turk Island</td>]]></html>
+	<text>Grand Turk Island</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBGT</td>]]></html>
+	<text>MBGT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GDT</td>]]></html>
+	<text>GDT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JAGS McCartney International Airport (Grand Turk Int'l)</td>]]></html>
+	<text>JAGS McCartney International Airport (Grand Turk Int&amp;apos;l)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Middle Caicos</td>]]></html>
+	<text>Middle Caicos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBMC</td>]]></html>
+	<text>MBMC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MDS</td>]]></html>
+	<text>MDS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Middle Caicos Airport</td>]]></html>
+	<text>Middle Caicos Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Caicos</td>]]></html>
+	<text>North Caicos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBNC</td>]]></html>
+	<text>MBNC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NCA</td>]]></html>
+	<text>NCA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Caicos Airport</td>]]></html>
+	<text>North Caicos Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pine Cay</td>]]></html>
+	<text>Pine Cay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBPI</td>]]></html>
+	<text>MBPI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PIC</td>]]></html>
+	<text>PIC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pine Cay Airport</td>]]></html>
+	<text>Pine Cay Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Providenciales</td>]]></html>
+	<text>Providenciales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBPV</td>]]></html>
+	<text>MBPV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PLS</td>]]></html>
+	<text>PLS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Providenciales International Airport</td>]]></html>
+	<text>Providenciales International Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Salt Cay</td>]]></html>
+	<text>Salt Cay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBSY</td>]]></html>
+	<text>MBSY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SLX</td>]]></html>
+	<text>SLX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Salt Cay Airport</td>]]></html>
+	<text>Salt Cay Airport</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>South Caicos</td>]]></html>
+	<text>South Caicos</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MBSC</td>]]></html>
+	<text>MBSC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XSC</td>]]></html>
+	<text>XSC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Caicos Airport</td>]]></html>
+	<text>South Caicos Airport</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in the Turks and Caicos Islands - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>LOCATION ICAO IATA AIRPORT NAME</text>
+</context>
+<context>
+	<score>0.8926582</score>
+	<text>For a list sorted by airport name, see Category: Airports in the Turks and Caicos Islands For a list sorted by ICAO code, see List of airports by ICAO code: MB</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>List of airports in the Turks and Caicos Islands</text>
+</context>
+<context>
+	<score>0.7929342</score>
+	<text>List of airports in the Turks and Caicos Islands , sorted by location</text>
+</context>
+<context>
+	<score>0.76067054</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7521097</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7347964</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.67097306</score>
+	<text>List of airports in the Turks and Caicos Islands</text>
+</context>
+<context>
+	<score>0.6097042</score>
+	<text>Turks and Caicos Islands Government: Civil Aviation Turks and Caicos Tourist Board: Travel Information</text>
+</context>
+<context>
+	<score>0.52090055</score>
+	<text>Lists of airports in the Turks and Caicos Islands: Aircraft Charter World The Airport Guide World Aero Data A-Z World Airports FallingRain.com</text>
+</context>
+<context>
+	<score>0.46866304</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="0" cellpadding="2" cellspacing="3"><tr valign="top" align="left"><th>LOCATION</th><th><a href="../../../../articles/i/c/a/ICAO_airport_code_cd3b.html" class="mw-redirect" title="ICAO airport code">ICAO</a>&#160;&#160;</th><th><a href="../../../../articles/i/a/t/IATA_airport_code_3507.html" class="mw-redirect" title="IATA airport code">IATA</a>&#160;&#160;</th><th>AIRPORT NAME</th></tr><tr valign="top"><td><a href="../../../../articles/g/r/a/Grand_Turk_Island_1000.html" title="Grand Turk Island">Grand Turk Island</a></td><td>MBGT</td><td>GDT</td><td><a href="../../../../articles/j/a/g/JAGS_McCartney_International_Airport_d4ad.html" title="JAGS McCartney International Airport">JAGS McCartney International Airport</a> (Grand Turk Int'l)</td></tr><tr valign="top"><td><a href="../../../../articles/m/i/d/Middle_Caicos_fa66.html" title="Middle Caicos">Middle Caicos</a></td><td>MBMC</td><td>MDS</td><td>Middle Caicos Airport</td></tr><tr valign="top"><td><a href="../../../../articles/n/o/r/North_Caicos_8c24.html" title="North Caicos">North Caicos</a></td><td>MBNC</td><td>NCA</td><td>North Caicos Airport</td></tr><tr valign="top"><td><a href="../../../../articles/p/i/n/Pine_Cay_73d7.html" title="Pine Cay">Pine Cay</a></td><td>MBPI</td><td>PIC</td><td>Pine Cay Airport</td></tr><tr valign="top"><td><a href="../../../../articles/p/r/o/Providenciales.html" title="Providenciales">Providenciales</a></td><td>MBPV</td><td>PLS</td><td><a href="../../../../articles/p/r/o/Providenciales_International_Airport_6da0.html" title="Providenciales International Airport">Providenciales International Airport</a></td></tr><tr valign="top"><td><a href="../../../../articles/s/a/l/Salt_Cay%2C_Turks_Islands_4588.html" title="Salt Cay, Turks Islands">Salt Cay</a></td><td>MBSY</td><td>SLX</td><td>Salt Cay Airport</td></tr><tr valign="top"><td><a href="../../../../articles/s/o/u/South_Caicos_ee23.html" title="South Caicos">South Caicos</a></td><td>MBSC</td><td>XSC</td><td>South Caicos Airport</td></tr></table>]]>
+</htmlSnippet>
+</entity>

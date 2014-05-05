@@ -1,0 +1,70 @@
+<tableAnnotations>
+
+<columnAnnotations>
+<colAnnos col="3">
+<anno name="wordnet_airline_102690081" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="2">
+<anno name="wordnet_airline_102690081" value="1.0"> </anno>
+</colAnnos>
+
+<colAnnos col="1">
+<anno name="wordnet_airline_102690081" value="1.0"> </anno>
+</colAnnos>
+
+</columnAnnotations>
+
+<cellAnnotatoons>
+<row>
+<entity></entity>
+<entity>Emirates_Airline</entity>
+<entity>Singapore_Airlines</entity>
+<entity>Cathay_Pacific</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>Emirates_Airline</entity>
+<entity>Cathay_Pacific</entity>
+<entity>Singapore_Airlines</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>Cathay_Pacific</entity>
+<entity>Emirates_Airline</entity>
+<entity>Singapore_Airlines</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>Singapore_Airlines</entity>
+<entity>Emirates_Airline</entity>
+<entity>Cathay_Pacific</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>Cathay_Pacific</entity>
+<entity>Qantas</entity>
+<entity>Emirates_Airline</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>British_Airways</entity>
+<entity>Qantas</entity>
+<entity>Cathay_Pacific</entity>
+<entity></entity>
+</row>
+<row>
+<entity></entity>
+<entity>Singapore_Airlines</entity>
+<entity>Thai_Airways_International</entity>
+<entity>Cathay_Pacific</entity>
+<entity></entity>
+</row>
+</cellAnnotatoons>
+
+</tableAnnotations>

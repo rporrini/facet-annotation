@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/w/i/k/Wikimania.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 2, 0.875 0 2, 0.75 3, 0.75 0 3, 0.65625 2 3, 0.125 1, 0.125 0 1, 0.109375 1 2, 0.09375 1 3, " />
+<meta name="parentHTMLDoc" value="en/articles/w/i/k/Wikimania.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Conference</th>]]></html>
+	<text>Conference</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Date</th>]]></html>
+	<text>Date</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Place</th>]]></html>
+	<text>Place</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Continent</th>]]></html>
+	<text>Continent</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wikimania 2005</td>]]></html>
+	<text>Wikimania 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 August – 7 August 2005</td>]]></html>
+	<text>5 August &#8211; 7 August 2005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Frankfurt , Germany</td>]]></html>
+	<text>Frankfurt , Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Europe</td>]]></html>
+	<text>Europe</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wikimania 2006</td>]]></html>
+	<text>Wikimania 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 August – 6 August 2006</td>]]></html>
+	<text>4 August &#8211; 6 August 2006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cambridge, Massachusetts , US</td>]]></html>
+	<text>Cambridge, Massachusetts , US</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North America</td>]]></html>
+	<text>North America</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wikimania 2007</td>]]></html>
+	<text>Wikimania 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 August – 5 August 2007</td>]]></html>
+	<text>3 August &#8211; 5 August 2007</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Taipei , Taiwan</td>]]></html>
+	<text>Taipei , Taiwan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asia</td>]]></html>
+	<text>Asia</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wikimania 2008</td>]]></html>
+	<text>Wikimania 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17 July – 19 July 2008</td>]]></html>
+	<text>17 July &#8211; 19 July 2008</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alexandria , Egypt</td>]]></html>
+	<text>Alexandria , Egypt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Africa</td>]]></html>
+	<text>Africa</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wikimania 2009</td>]]></html>
+	<text>Wikimania 2009</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>August 2009</td>]]></html>
+	<text>August 2009</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Buenos Aires , Argentina</td>]]></html>
+	<text>Buenos Aires , Argentina</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South America</td>]]></html>
+	<text>South America</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Wikimania conferences</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Wikimania - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Conference Date Place Continent</text>
+</context>
+<context>
+	<score>0.88257575</score>
+	<text>[ edit ] Overview</text>
+</context>
+<context>
+	<score>0.7944444</score>
+	<text>Wikimania</text>
+</context>
+<context>
+	<score>0.78181815</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7542336</score>
+	<text>[ edit ] Wikimania 2005</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Overview</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Wikimania 2005</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Wikimania 2006</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Wikimania 2007</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Wikimania 2008</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Wikimania 2009</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] Notes and references</text>
+</context>
+<context>
+	<score>0.7206566</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7168687</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70803034</score>
+	<text>The Wikimedia International Conference , commonly referred to as Wikimania , is a conference for users of the wiki projects operated by the Wikimedia Foundation . The first conference was held in Frankfurt , Germany , August 4 8, 2005; the second ran August 4 6, 2006, in Cambridge, Massachusetts , USA ; and the third conference was held August 3 8, 2007, in Taipei , Taiwan . Next Wikimania is planned to be held in Alexandria , Egypt from 17-19 July, 2008. Topics of presentations and discussions include Wikimedia Foundation projects, other wikis, open source software, and free content.</text>
+</context>
+<context>
+	<score>0.6548081</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.6074368</score>
+	<text>Global Voices Panel at the 2005 conference. Shown are Hossein Derakhshan , Ting Chen, Isam Bayazidi, and Milton Ainehuranga.</text>
+</context>
+<context>
+	<score>0.6051596</score>
+	<text>Wikimania</text>
+</context>
+<context>
+	<score>0.5210858</score>
+	<text>The first Wikimania conference was held in the Haus der Jugend at Frankfurt , Germany , 2005 - 08-04 2005 - 08-08 .</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>The week of the conference included four &quot;Hacking Days&quot;, from August 1 4, when some 25 developers gathered to work on code and discuss the technical aspects of MediaWiki and of running the Wikimedia projects. The main days of the conference, despite its billing as being &quot;August 4 8&quot;, were Friday to Sunday of that week, August 5 7. Presentation sessions were scheduled all day during those three days.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><caption>Wikimania conferences</caption><tr><th>Conference</th><th>Date</th><th>Place</th><th>Continent</th></tr><tr><td><a href="http://wikimania2005.wikimedia.org" class="external text" title="http://wikimania2005.wikimedia.org" rel="nofollow">Wikimania 2005</a></td><td><a href="../../../../articles/a/u/g/August_5.html" title="August 5">5 August</a> – <a href="../../../../articles/a/u/g/August_7.html" title="August 7">7 August</a> <a href="../../../../articles/2/0/0/2005.html" title="2005">2005</a></td><td><a href="../../../../articles/f/r/a/Frankfurt.html" title="Frankfurt">Frankfurt</a>, <a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td><a href="../../../../articles/e/u/r/Europe.html" title="Europe">Europe</a></td></tr><tr><td><a href="http://wikimania2006.wikimedia.org" class="external text" title="http://wikimania2006.wikimedia.org" rel="nofollow">Wikimania 2006</a></td><td><a href="../../../../articles/a/u/g/August_4.html" title="August 4">4 August</a> – <a href="../../../../articles/a/u/g/August_6.html" title="August 6">6 August</a> <a href="../../../../articles/2/0/0/2006.html" title="2006">2006</a></td><td><a href="../../../../articles/c/a/m/Cambridge%2C_Massachusetts_da41.html" title="Cambridge, Massachusetts">Cambridge, Massachusetts</a>, <a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">US</a></td><td><a href="../../../../articles/n/o/r/North_America_e7c4.html" title="North America">North America</a></td></tr><tr><td><a href="http://wikimania2007.wikimedia.org" class="external text" title="http://wikimania2007.wikimedia.org" rel="nofollow">Wikimania 2007</a></td><td><a href="../../../../articles/a/u/g/August_3.html" title="August 3">3 August</a> – <a href="../../../../articles/a/u/g/August_5.html" title="August 5">5 August</a> <a href="../../../../articles/2/0/0/2007.html" title="2007">2007</a></td><td><a href="../../../../articles/t/a/i/Taipei.html" title="Taipei">Taipei</a>, <a href="../../../../articles/r/e/p/Republic_of_China_4cac.html" title="Republic of China">Taiwan</a></td><td><a href="../../../../articles/a/s/i/Asia.html" title="Asia">Asia</a></td></tr><tr><td><a href="http://wikimania2008.wikimedia.org" class="external text" title="http://wikimania2008.wikimedia.org" rel="nofollow">Wikimania 2008</a></td><td><a href="../../../../articles/j/u/l/July_17.html" title="July 17">17 July</a> – <a href="../../../../articles/j/u/l/July_19.html" title="July 19">19 July</a> <a href="../../../../articles/2/0/0/2008.html" title="2008">2008</a></td><td><a href="../../../../articles/a/l/e/Alexandria.html" title="Alexandria">Alexandria</a>, <a href="../../../../articles/e/g/y/Egypt.html" title="Egypt">Egypt</a></td><td><a href="../../../../articles/a/f/r/Africa.html" title="Africa">Africa</a></td></tr><tr><td><a href="http://wikimania2009.wikimedia.org" class="external text" title="http://wikimania2009.wikimedia.org" rel="nofollow">Wikimania 2009</a></td><td><a href="../../../../articles/a/u/g/August.html" title="August">August</a> <a href="../../../../articles/2/0/0/2009.html" title="2009">2009</a></td><td><a href="../../../../articles/b/u/e/Buenos_Aires_8e35.html" title="Buenos Aires">Buenos Aires</a>, <a href="../../../../articles/a/r/g/Argentina.html" title="Argentina">Argentina</a></td><td><a href="../../../../articles/s/o/u/South_America_9663.html" title="South America">South America</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

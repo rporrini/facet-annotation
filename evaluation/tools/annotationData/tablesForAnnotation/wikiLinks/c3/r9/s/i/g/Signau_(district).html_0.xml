@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c3/r9/s/i/g/Signau_(district).html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.16666667 1, 0.16666667 0 1, 0.13333334 2, 0.13333334 0 2, 0.022222225 1 2, " />
+<meta name="parentHTMLDoc" value="en/articles/s/i/g/Signau_(district).html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Municipality</th>]]></html>
+	<text>Municipality</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Population (01.01.2005)</th>]]></html>
+	<text>Population (01.01.2005)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Area (km²)</th>]]></html>
+	<text>Area (km&#178;)</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eggiwil</td>]]></html>
+	<text>Eggiwil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,521</td>]]></html>
+	<text>2,521</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60.3</td>]]></html>
+	<text>60.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Langnau im Emmental</td>]]></html>
+	<text>Langnau im Emmental</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,699</td>]]></html>
+	<text>8,699</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48.5</td>]]></html>
+	<text>48.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lauperswil</td>]]></html>
+	<text>Lauperswil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,659</td>]]></html>
+	<text>2,659</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.1</td>]]></html>
+	<text>21.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Röthenbach im Emmental</td>]]></html>
+	<text>R&#246;thenbach im Emmental</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,311</td>]]></html>
+	<text>1,311</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36.8</td>]]></html>
+	<text>36.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Rüderswil</td>]]></html>
+	<text>R&#252;derswil</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,291</td>]]></html>
+	<text>2,291</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.2</td>]]></html>
+	<text>17.2</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Schangnau</td>]]></html>
+	<text>Schangnau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>932</td>]]></html>
+	<text>932</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36.5</td>]]></html>
+	<text>36.5</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Signau</td>]]></html>
+	<text>Signau</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,741</td>]]></html>
+	<text>2,741</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22.1</td>]]></html>
+	<text>22.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trub</td>]]></html>
+	<text>Trub</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,468</td>]]></html>
+	<text>1,468</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>62.0</td>]]></html>
+	<text>62.0</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Trubschachen</td>]]></html>
+	<text>Trubschachen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,543</td>]]></html>
+	<text>1,543</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.6</td>]]></html>
+	<text>15.6</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Signau (district) - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Municipality Population (01.01.2005) Area (km )</text>
+</context>
+<context>
+	<score>0.87534505</score>
+	<text>Municipalities of Signau</text>
+</context>
+<context>
+	<score>0.8145757</score>
+	<text>Signau (district)</text>
+</context>
+<context>
+	<score>0.77562094</score>
+	<text>Administrative district Signau</text>
+</context>
+<context>
+	<score>0.7628346</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7542738</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7153191</score>
+	<text>The administrative district of Signau in the Swiss canton of Bern with its seat Signau includes nine municipalities in an area of 320 km :</text>
+</context>
+<context>
+	<score>0.67097306</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.61991435</score>
+	<text>Signau (district)</text>
+</context>
+<context>
+	<score>0.5230647</score>
+	<text>This article is based on a translation of an article from the German Wikipedia .</text>
+</context>
+<context>
+	<score>0.4708272</score>
+	<text>Categories :</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Municipality</th><th>Population (01.01.2005)</th><th>Area (km²)</th></tr><tr><td><a href="../../../../articles/e/g/g/Eggiwil.html" title="Eggiwil">Eggiwil</a></td><td align="center">2,521</td><td align="center">60.3</td></tr><tr><td><a href="../../../../articles/l/a/n/Langnau_im_Emmental_e9af.html" title="Langnau im Emmental">Langnau im Emmental</a></td><td align="center">8,699</td><td align="center">48.5</td></tr><tr><td><a href="../../../../articles/l/a/u/Lauperswil.html" title="Lauperswil">Lauperswil</a></td><td align="center">2,659</td><td align="center">21.1</td></tr><tr><td><a href="../../../../articles/r/%C3%B6/t/R%C3%B6thenbach_im_Emmental_7341.html" title="Röthenbach im Emmental">Röthenbach im Emmental</a></td><td align="center">1,311</td><td align="center">36.8</td></tr><tr><td><a href="../../../../articles/r/%C3%BC/d/R%C3%BCderswil.html" title="Rüderswil">Rüderswil</a></td><td align="center">2,291</td><td align="center">17.2</td></tr><tr><td><a href="../../../../articles/s/c/h/Schangnau.html" title="Schangnau">Schangnau</a></td><td align="center">932</td><td align="center">36.5</td></tr><tr><td><a href="../../../../articles/s/i/g/Signau.html" title="Signau">Signau</a></td><td align="center">2,741</td><td align="center">22.1</td></tr><tr><td><a href="../../../../articles/t/r/u/Trub.html" title="Trub">Trub</a></td><td align="center">1,468</td><td align="center">62.0</td></tr><tr><td><a href="../../../../articles/t/r/u/Trubschachen.html" title="Trubschachen">Trubschachen</a></td><td align="center">1,543</td><td align="center">15.6</td></tr></table>]]>
+</htmlSnippet>
+</entity>

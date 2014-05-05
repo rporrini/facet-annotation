@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/h/i/g/Highways_and_Routes_in_the_Dominican_Republic_5b2a.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.875 0 1, 0.75 2, 0.75 0 2, 0.65625 1 2, 0.625 0 3, 0.546875 1 3, 0.52500004 1, 0.5 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/h/i/g/Highways_and_Routes_in_the_Dominican_Republic_5b2a.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Highway</th>]]></html>
+	<text>Highway</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>From</th>]]></html>
+	<text>From</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>To</th>]]></html>
+	<text>To</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Known As</th>]]></html>
+	<text>Known As</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DR-1</td>]]></html>
+	<text>DR-1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santo Domingo</td>]]></html>
+	<text>Santo Domingo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Fernando de Monte Cristi</td>]]></html>
+	<text>San Fernando de Monte Cristi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autopista Duarte</td>]]></html>
+	<text>Autopista Duarte</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DR-2</td>]]></html>
+	<text>DR-2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santo Domingo</td>]]></html>
+	<text>Santo Domingo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Comendador</td>]]></html>
+	<text>Comendador</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Carretera Sanchez</td>]]></html>
+	<text>Carretera Sanchez</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DR-3</td>]]></html>
+	<text>DR-3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Santo Domingo</td>]]></html>
+	<text>Santo Domingo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Rafael del Yuma</td>]]></html>
+	<text>San Rafael del Yuma</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Autopista del Este</td>]]></html>
+	<text>Autopista del Este</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DR-4</td>]]></html>
+	<text>DR-4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Pedro de Macoris</td>]]></html>
+	<text>San Pedro de Macoris</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Higuey</td>]]></html>
+	<text>Higuey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>DR-5</td>]]></html>
+	<text>DR-5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Las Galeras</td>]]></html>
+	<text>Las Galeras</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Villa Visonó</td>]]></html>
+	<text>Villa Vison&#243;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Highways and Routes in the Dominican Republic - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Highway From To Known As</text>
+</context>
+<context>
+	<score>0.88826066</score>
+	<text>The Dominican republic is a Middle-Income Developing country. In the last 10 years the governments has Constructed and renovated many new highways connecting the Interior of the nation to the Capital Santo Domingo. Bridges like the Mauricio B ez. tunnels in Santo Domingo , and numerous overpath/viaducts have been constructed throughout the nation to increase the quality of the nations transportation infrastructure. The Nation currently has five classified nationals highways. DR-1 , DR-2 , DR-3 being the most important connecting the country to the Northwest, west, and east.</text>
+</context>
+<context>
+	<score>0.7996312</score>
+	<text>Highways and Routes in the Dominican Republic</text>
+</context>
+<context>
+	<score>0.7907428</score>
+	<text>[ edit ] Highways</text>
+</context>
+<context>
+	<score>0.75919294</score>
+	<text>[ edit ] Routes</text>
+</context>
+<context>
+	<score>0.731775</score>
+	<text>[ edit ] Highways</text>
+</context>
+<context>
+	<score>0.731775</score>
+	<text>[ edit ] Routes</text>
+</context>
+<context>
+	<score>0.731775</score>
+	<text>[ edit ] Other Highways</text>
+</context>
+<context>
+	<score>0.731775</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.72161686</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70257044</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.6401589</score>
+	<text>There are various Highways and Routes in the Dominican Republic . They are listed here.</text>
+</context>
+<context>
+	<score>0.6115663</score>
+	<text>Like any developing nation, the Dominican Republic suffers from a lack of good paved routes to connect smaller towns and less populated areas. Some of them are in bad condition or are completely unpaved. Major town routes however are in good condition.</text>
+</context>
+<context>
+	<score>0.6092762</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.56933284</score>
+	<text>Highways and Routes in the Dominican Republic</text>
+</context>
+<context>
+	<score>0.5247271</score>
+	<text>[ edit ] Other Highways</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Highway</th><th>From</th><th>To</th><th>Known As</th></tr><tr><td><a href="../../../../articles/d/r/-/DR-1_dedc.html" title="DR-1">DR-1</a></td><td><a href="../../../../articles/s/a/n/Santo_Domingo_2539.html" title="Santo Domingo">Santo Domingo</a></td><td><a href="../../../../articles/s/a/n/San_Fernando_de_Monte_Cristi_eed0.html" title="San Fernando de Monte Cristi">San Fernando de Monte Cristi</a></td><td><a href="../../../../articles/a/u/t/Autopista_Duarte_6870.html" class="mw-redirect" title="Autopista Duarte">Autopista Duarte</a></td></tr><tr><td><a href="../../../../articles/d/r/-/DR-2_49fa.html" title="DR-2">DR-2</a></td><td><a href="../../../../articles/s/a/n/Santo_Domingo_2539.html" title="Santo Domingo">Santo Domingo</a></td><td><a href="../../../../articles/c/o/m/Comendador.html" title="Comendador">Comendador</a></td><td><a href="../../../../articles/c/a/r/Carretera_Sanchez_31ac.html" class="mw-redirect" title="Carretera Sanchez">Carretera Sanchez</a></td></tr><tr><td><a href="../../../../articles/d/r/-/DR-3_28f9.html" title="DR-3">DR-3</a></td><td><a href="../../../../articles/s/a/n/Santo_Domingo_2539.html" title="Santo Domingo">Santo Domingo</a></td><td><a href="../../../../articles/s/a/n/San_Rafael_del_Yuma_a0bb.html" title="San Rafael del Yuma">San Rafael del Yuma</a></td><td><a href="../../../../articles/a/u/t/Autopista_del_Este_c0d7.html" class="mw-redirect" title="Autopista del Este">Autopista del Este</a></td></tr><tr><td><a href="../../../../articles/d/r/-/DR-4_926b.html" title="DR-4">DR-4</a></td><td><a href="../../../../articles/s/a/n/San_Pedro_de_Macoris_d76e.html" class="mw-redirect" title="San Pedro de Macoris">San Pedro de Macoris</a></td><td><a href="../../../../articles/s/a/l/Salvale%C3%B3n_de_Hig%C3%BCey_577b.html" title="Salvaleón de Higüey">Higuey</a></td></tr><tr><td><a href="../../../../articles/d/r/-/DR-5_f02b.html" title="DR-5">DR-5</a></td><td>Las Galeras</td><td><a href="../../../../articles/v/i/l/Villa_Vison%C3%B3_8742.html" class="mw-redirect" title="Villa Visonó">Villa Visonó</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

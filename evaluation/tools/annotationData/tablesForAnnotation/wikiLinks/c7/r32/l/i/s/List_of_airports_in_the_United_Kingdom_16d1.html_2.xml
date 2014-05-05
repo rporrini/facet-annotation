@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r32/l/i/s/List_of_airports_in_the_United_Kingdom_16d1.html_2.xml" />
+<meta name="primaryKey" value="0.9375 0, 0.9285714 1, 0.9285714 0 1, 0.85714287 0 2, 0.83035713 2, 0.79591835 1 2, 0.78571427 3, 0.78571427 0 3, 0.7295918 1 3, 0.67346936 2 3, 0.66964287 0 4, 0.6632653 1 4, 0.62276787 0 6, 0.5969387 1 6, 0.59311223 2 4, 0.5612245 3 4, 0.533801 2 6, 0.50510204 3 6, 0.140625 6, 0.11479592 4 6, 0.11428572 0 5, 0.10612245 1 5, 0.10000001 5, 0.09795919 2 5, 0.089795925 3 5, 0.071428575 4 5, 0.06696428 4, 0.06658164 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_airports_in_the_United_Kingdom_16d1.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Town</th>]]></html>
+	<text>Town</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>ICAO</th>]]></html>
+	<text>ICAO</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>IATA</th>]]></html>
+	<text>IATA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport name</th>]]></html>
+	<text>Airport name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Usage</th>]]></html>
+	<text>Usage</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rwy. (ft)</th>]]></html>
+	<text>Rwy. (ft)</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Runway surface</th>]]></html>
+	<text>Runway surface</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aberdeen</td>]]></html>
+	<text>Aberdeen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPD</td>]]></html>
+	<text>EGPD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ABZ</td>]]></html>
+	<text>ABZ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Aberdeen Airport</td>]]></html>
+	<text>Aberdeen Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,001</td>]]></html>
+	<text>6,001</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Aikerness</td>]]></html>
+	<text>Aikerness</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEW</td>]]></html>
+	<text>EGEW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WRY</td>]]></html>
+	<text>WRY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Westray Airport</td>]]></html>
+	<text>Westray Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,532</td>]]></html>
+	<text>1,532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gravel</td>]]></html>
+	<text>Gravel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Balemartine</td>]]></html>
+	<text>Balemartine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPU</td>]]></html>
+	<text>EGPU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TRE</td>]]></html>
+	<text>TRE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tiree Airport</td>]]></html>
+	<text>Tiree Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,829</td>]]></html>
+	<text>4,829</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Benbecula</td>]]></html>
+	<text>Benbecula</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPL</td>]]></html>
+	<text>EGPL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BEB</td>]]></html>
+	<text>BEB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Benbecula Airport</td>]]></html>
+	<text>Benbecula Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,023</td>]]></html>
+	<text>6,023</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Barra</td>]]></html>
+	<text>Barra</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPR</td>]]></html>
+	<text>EGPR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BRR</td>]]></html>
+	<text>BRR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Barra Airport</td>]]></html>
+	<text>Barra Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,776</td>]]></html>
+	<text>2,776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sand</td>]]></html>
+	<text>Sand</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Campbeltown</td>]]></html>
+	<text>Campbeltown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEC</td>]]></html>
+	<text>EGEC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CAL</td>]]></html>
+	<text>CAL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Campbeltown Airport ( RAF Machrihanish )</td>]]></html>
+	<text>Campbeltown Airport ( RAF Machrihanish )</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10,003</td>]]></html>
+	<text>10,003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cumbernauld</td>]]></html>
+	<text>Cumbernauld</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPG</td>]]></html>
+	<text>EGPG</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cumbernauld Airport</td>]]></html>
+	<text>Cumbernauld Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,690</td>]]></html>
+	<text>2,690</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dundee</td>]]></html>
+	<text>Dundee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPN</td>]]></html>
+	<text>EGPN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DND</td>]]></html>
+	<text>DND</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dundee Airport</td>]]></html>
+	<text>Dundee Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,593</td>]]></html>
+	<text>4,593</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Eday</td>]]></html>
+	<text>Eday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGED</td>]]></html>
+	<text>EGED</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EOI</td>]]></html>
+	<text>EOI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Eday Airport</td>]]></html>
+	<text>Eday Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,532</td>]]></html>
+	<text>1,532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graded hardcore</td>]]></html>
+	<text>Graded hardcore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Edinburgh</td>]]></html>
+	<text>Edinburgh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPH</td>]]></html>
+	<text>EGPH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EDI</td>]]></html>
+	<text>EDI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Edinburgh Airport</td>]]></html>
+	<text>Edinburgh Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,399</td>]]></html>
+	<text>8,399</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fair Isle</td>]]></html>
+	<text>Fair Isle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEF</td>]]></html>
+	<text>EGEF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FIE</td>]]></html>
+	<text>FIE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fair Isle Airport</td>]]></html>
+	<text>Fair Isle Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,594</td>]]></html>
+	<text>1,594</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gravel</td>]]></html>
+	<text>Gravel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Fife</td>]]></html>
+	<text>Fife</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPJ</td>]]></html>
+	<text>EGPJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fife Airport</td>]]></html>
+	<text>Fife Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,297</td>]]></html>
+	<text>2,297</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Glasgow</td>]]></html>
+	<text>Glasgow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPF</td>]]></html>
+	<text>EGPF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GLA</td>]]></html>
+	<text>GLA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glasgow International Airport</td>]]></html>
+	<text>Glasgow International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,720</td>]]></html>
+	<text>8,720</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grooved asphalt</td>]]></html>
+	<text>Grooved asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Glasgow</td>]]></html>
+	<text>Glasgow</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPK</td>]]></html>
+	<text>EGPK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PIK</td>]]></html>
+	<text>PIK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Glasgow Prestwick International Airport</td>]]></html>
+	<text>Glasgow Prestwick International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,799</td>]]></html>
+	<text>9,799</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Concrete /Asphalt</td>]]></html>
+	<text>Concrete /Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Inverness</td>]]></html>
+	<text>Inverness</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPE</td>]]></html>
+	<text>EGPE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>INV</td>]]></html>
+	<text>INV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Inverness Airport</td>]]></html>
+	<text>Inverness Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,191</td>]]></html>
+	<text>6,191</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Grooved asphalt</td>]]></html>
+	<text>Grooved asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Islay</td>]]></html>
+	<text>Islay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPI</td>]]></html>
+	<text>EGPI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ILY</td>]]></html>
+	<text>ILY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Islay Airport</td>]]></html>
+	<text>Islay Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,068</td>]]></html>
+	<text>5,068</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kinloss</td>]]></html>
+	<text>Kinloss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGQK</td>]]></html>
+	<text>EGQK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FSS</td>]]></html>
+	<text>FSS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RAF Kinloss</td>]]></html>
+	<text>RAF Kinloss</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,582</td>]]></html>
+	<text>7,582</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Kirkwall</td>]]></html>
+	<text>Kirkwall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPA</td>]]></html>
+	<text>EGPA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KOI</td>]]></html>
+	<text>KOI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kirkwall Airport</td>]]></html>
+	<text>Kirkwall Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,685</td>]]></html>
+	<text>4,685</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lerwick</td>]]></html>
+	<text>Lerwick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPM</td>]]></html>
+	<text>EGPM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SCS</td>]]></html>
+	<text>SCS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Scatsta Airport</td>]]></html>
+	<text>Scatsta Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,462</td>]]></html>
+	<text>4,462</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lerwick</td>]]></html>
+	<text>Lerwick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGET</td>]]></html>
+	<text>EGET</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LWK</td>]]></html>
+	<text>LWK</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tingwall Airport</td>]]></html>
+	<text>Tingwall Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,507</td>]]></html>
+	<text>2,507</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Leuchars</td>]]></html>
+	<text>Leuchars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGQL</td>]]></html>
+	<text>EGQL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ADX</td>]]></html>
+	<text>ADX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RAF Leuchars</td>]]></html>
+	<text>RAF Leuchars</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8,491</td>]]></html>
+	<text>8,491</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lossiemouth</td>]]></html>
+	<text>Lossiemouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGQS</td>]]></html>
+	<text>EGQS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LMO</td>]]></html>
+	<text>LMO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RAF Lossiemouth</td>]]></html>
+	<text>RAF Lossiemouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Military</td>]]></html>
+	<text>Military</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9,019</td>]]></html>
+	<text>9,019</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>North Ronaldsay</td>]]></html>
+	<text>North Ronaldsay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEN</td>]]></html>
+	<text>EGEN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NRL</td>]]></html>
+	<text>NRL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>North Ronaldsay Airport</td>]]></html>
+	<text>North Ronaldsay Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,532</td>]]></html>
+	<text>1,532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graded hardcore</td>]]></html>
+	<text>Graded hardcore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Oban</td>]]></html>
+	<text>Oban</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEO</td>]]></html>
+	<text>EGEO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OBN</td>]]></html>
+	<text>OBN</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Oban Airport</td>]]></html>
+	<text>Oban Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,068</td>]]></html>
+	<text>4,068</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Papa Westray</td>]]></html>
+	<text>Papa Westray</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEP</td>]]></html>
+	<text>EGEP</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PPW</td>]]></html>
+	<text>PPW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Papa Westray Airport</td>]]></html>
+	<text>Papa Westray Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,532</td>]]></html>
+	<text>1,532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graded hardcore</td>]]></html>
+	<text>Graded hardcore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Perth</td>]]></html>
+	<text>Perth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPT</td>]]></html>
+	<text>EGPT</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PSL</td>]]></html>
+	<text>PSL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth Airport</td>]]></html>
+	<text>Perth Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,799</td>]]></html>
+	<text>2,799</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sanday</td>]]></html>
+	<text>Sanday</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGES</td>]]></html>
+	<text>EGES</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NDY</td>]]></html>
+	<text>NDY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanday Airport</td>]]></html>
+	<text>Sanday Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,532</td>]]></html>
+	<text>1,532</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graded hardcore</td>]]></html>
+	<text>Graded hardcore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Shetland Islands</td>]]></html>
+	<text>Shetland Islands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPB</td>]]></html>
+	<text>EGPB</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>LSI</td>]]></html>
+	<text>LSI</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sumburgh Airport</td>]]></html>
+	<text>Sumburgh Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4,678</td>]]></html>
+	<text>4,678</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stornoway</td>]]></html>
+	<text>Stornoway</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPO</td>]]></html>
+	<text>EGPO</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SYY</td>]]></html>
+	<text>SYY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stornoway Airport</td>]]></html>
+	<text>Stornoway Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7,218</td>]]></html>
+	<text>7,218</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stronsay</td>]]></html>
+	<text>Stronsay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGER</td>]]></html>
+	<text>EGER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SOY</td>]]></html>
+	<text>SOY</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stronsay Airport</td>]]></html>
+	<text>Stronsay Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,690</td>]]></html>
+	<text>1,690</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graded hardcore</td>]]></html>
+	<text>Graded hardcore</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Wick</td>]]></html>
+	<text>Wick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGPC</td>]]></html>
+	<text>EGPC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WIC</td>]]></html>
+	<text>WIC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wick Airport</td>]]></html>
+	<text>Wick Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Public</td>]]></html>
+	<text>Public</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,988</td>]]></html>
+	<text>5,988</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Asphalt</td>]]></html>
+	<text>Asphalt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Whalsay</td>]]></html>
+	<text>Whalsay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EGEH</td>]]></html>
+	<text>EGEH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WHS</td>]]></html>
+	<text>WHS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Whalsay Airport [16]</td>]]></html>
+	<text>Whalsay Airport [16]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+<cell>
+	<html><![CDATA[<td></td>]]></html>
+	<text></text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of airports in the United Kingdom - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Town ICAO IATA Airport name Usage Rwy. (ft) Runway surface</text>
+</context>
+<context>
+	<score>0.88460606</score>
+	<text>[ edit ] Airports in Scotland</text>
+</context>
+<context>
+	<score>0.7944279</score>
+	<text>List of airports in the United Kingdom</text>
+</context>
+<context>
+	<score>0.78762853</score>
+	<text>[ edit ] Airports in Northern Ireland</text>
+</context>
+<context>
+	<score>0.7562535</score>
+	<text>[ edit ] Airports in Wales</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] Airports in England</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] Airports in Northern Ireland</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] Airports in Scotland</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] Airports in Wales</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] Airports in British Crown dependencies</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7226739</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71684587</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7100466</score>
+	<text>[ edit ] Airports in England</text>
+</context>
+<context>
+	<score>0.642153</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.609445</score>
+	<text>[ edit ] Airports in British Crown dependencies</text>
+</context>
+<context>
+	<score>0.5925005</score>
+	<text>Runway information is for the longest runway when more than one is available.</text>
+</context>
+<context>
+	<score>0.5527785</score>
+	<text>Airport names in bold have scheduled commercial airline service(s).</text>
+</context>
+<context>
+	<score>0.5268289</score>
+	<text>Airport names in italics are listed in the UK Aeronautical Information Publication .</text>
+</context>
+<context>
+	<score>0.523087</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.50140685</score>
+	<text>Only airports in the United Kingdom (and its Crown Dependencies) begin with ICAO code &quot;EG&quot;. However, RAF Mount Pleasant located in the Falkland Islands also uses the &quot;EG&quot; code &quot;EGYP&quot;.</text>
+</context>
+<context>
+	<score>0.48106915</score>
+	<text>List of airports in the United Kingdom is an annotated list of all active airports , airfields and aerodromes in the UK . They are sorted by the name of the community served.</text>
+</context>
+<context>
+	<score>0.47228825</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.47159833</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.45858222</score>
+	<text>List of airports in the United Kingdom</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Town</th><th>ICAO</th><th>IATA</th><th>Airport name</th><th>Usage</th><th>Rwy. (ft)</th><th>Runway surface</th></tr><tr><td><a href="../../../../articles/a/b/e/Aberdeen.html" title="Aberdeen">Aberdeen</a></td><td>EGPD</td><td>ABZ</td><td><i><b><a href="../../../../articles/a/b/e/Aberdeen_Airport_640c.html" title="Aberdeen Airport">Aberdeen Airport</a></b></i></td><td>Public</td><td>6,001</td><td><a href="../../../../articles/a/s/p/Asphalt.html" title="Asphalt">Asphalt</a></td></tr><tr><td>Aikerness</td><td>EGEW</td><td>WRY</td><td><i><b><a href="../../../../articles/w/e/s/Westray_Airport_9158.html" title="Westray Airport">Westray Airport</a></b></i></td><td>Public</td><td>1,532</td><td><a href="../../../../articles/g/r/a/Gravel.html" title="Gravel">Gravel</a></td></tr><tr><td>Balemartine</td><td>EGPU</td><td>TRE</td><td><i><b><a href="../../../../articles/t/i/r/Tiree_Airport_42c4.html" title="Tiree Airport">Tiree Airport</a></b></i></td><td>Public</td><td>4,829</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/b/e/n/Benbecula.html" title="Benbecula">Benbecula</a></td><td>EGPL</td><td>BEB</td><td><i><b><a href="../../../../articles/b/e/n/Benbecula_Airport_b760.html" title="Benbecula Airport">Benbecula Airport</a></b></i></td><td>Public</td><td>6,023</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/b/a/r/Barra.html" title="Barra">Barra</a></td><td>EGPR</td><td>BRR</td><td><i><b><a href="../../../../articles/b/a/r/Barra_Airport_%28Scotland%29_3074.html" title="Barra Airport (Scotland)">Barra Airport</a></b></i></td><td>Public</td><td>2,776</td><td><a href="../../../../articles/s/a/n/Sand.html" title="Sand">Sand</a></td></tr><tr><td><a href="../../../../articles/c/a/m/Campbeltown.html" title="Campbeltown">Campbeltown</a></td><td>EGEC</td><td>CAL</td><td><i><b><a href="../../../../articles/c/a/m/Campbeltown_Airport_affb.html" title="Campbeltown Airport">Campbeltown Airport</a></b></i> <i>(<a href="../../../../articles/r/a/f/RAF_Machrihanish_26e6.html" title="RAF Machrihanish">RAF Machrihanish</a></i>)</td><td>Public</td><td>10,003</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/c/u/m/Cumbernauld.html" title="Cumbernauld">Cumbernauld</a></td><td>EGPG</td><td>&#160;</td><td><i><a href="../../../../articles/c/u/m/Cumbernauld_Airport_fbdc.html" title="Cumbernauld Airport">Cumbernauld Airport</a></i></td><td>Public</td><td>2,690</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/d/u/n/Dundee.html" title="Dundee">Dundee</a></td><td>EGPN</td><td>DND</td><td><i><b><a href="../../../../articles/d/u/n/Dundee_Airport_7165.html" title="Dundee Airport">Dundee Airport</a></b></i></td><td>Public</td><td>4,593</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/e/d/a/Eday.html" title="Eday">Eday</a></td><td>EGED</td><td>EOI</td><td><i><b><a href="../../../../articles/e/d/a/Eday_Airport_0cbb.html" title="Eday Airport">Eday Airport</a></b></i></td><td>Public</td><td>1,532</td><td>Graded hardcore</td></tr><tr><td><a href="../../../../articles/e/d/i/Edinburgh.html" title="Edinburgh">Edinburgh</a></td><td>EGPH</td><td>EDI</td><td><i><b><a href="../../../../articles/e/d/i/Edinburgh_Airport_f81e.html" title="Edinburgh Airport">Edinburgh Airport</a></b></i></td><td>Public</td><td>8,399</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/f/a/i/Fair_Isle_87b9.html" title="Fair Isle">Fair Isle</a></td><td>EGEF</td><td>FIE</td><td><i><b><a href="../../../../articles/f/a/i/Fair_Isle_Airport_a8f1.html" title="Fair Isle Airport">Fair Isle Airport</a></b></i></td><td>Public</td><td>1,594</td><td>Gravel</td></tr><tr><td><a href="../../../../articles/f/i/f/Fife.html" title="Fife">Fife</a></td><td>EGPJ</td><td>&#160;</td><td><i><a href="../../../../articles/f/i/f/Fife_Airport_a2ed.html" title="Fife Airport">Fife Airport</a></i></td><td>Public</td><td>2,297</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/g/l/a/Glasgow.html" title="Glasgow">Glasgow</a></td><td>EGPF</td><td>GLA</td><td><i><b><a href="../../../../articles/g/l/a/Glasgow_International_Airport_4299.html" title="Glasgow International Airport">Glasgow International Airport</a></b></i></td><td>Public</td><td>8,720</td><td>Grooved asphalt</td></tr><tr><td><a href="../../../../articles/g/l/a/Glasgow.html" title="Glasgow">Glasgow</a></td><td>EGPK</td><td>PIK</td><td><i><b><a href="../../../../articles/g/l/a/Glasgow_Prestwick_International_Airport_e384.html" class="mw-redirect" title="Glasgow Prestwick International Airport">Glasgow Prestwick International Airport</a></b></i></td><td>Public</td><td>9,799</td><td><a href="../../../../articles/c/o/n/Concrete.html" title="Concrete">Concrete</a>/Asphalt</td></tr><tr><td><a href="../../../../articles/i/n/v/Inverness.html" title="Inverness">Inverness</a></td><td>EGPE</td><td>INV</td><td><i><b><a href="../../../../articles/i/n/v/Inverness_Airport_216e.html" title="Inverness Airport">Inverness Airport</a></b></i></td><td>Public</td><td>6,191</td><td>Grooved asphalt</td></tr><tr><td><a href="../../../../articles/i/s/l/Islay.html" title="Islay">Islay</a></td><td>EGPI</td><td>ILY</td><td><i><a href="../../../../articles/i/s/l/Islay_Airport_1494.html" title="Islay Airport">Islay Airport</a></i></td><td>Public</td><td>5,068</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/k/i/n/Kinloss.html" title="Kinloss">Kinloss</a></td><td>EGQK</td><td>FSS</td><td><a href="../../../../articles/r/a/f/RAF_Kinloss_b4a9.html" title="RAF Kinloss">RAF Kinloss</a></td><td>Military</td><td>7,582</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/k/i/r/Kirkwall.html" title="Kirkwall">Kirkwall</a></td><td>EGPA</td><td>KOI</td><td><i><b><a href="../../../../articles/k/i/r/Kirkwall_Airport_f7d4.html" title="Kirkwall Airport">Kirkwall Airport</a></b></i></td><td>Public</td><td>4,685</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/l/e/r/Lerwick.html" title="Lerwick">Lerwick</a></td><td>EGPM</td><td>SCS</td><td><i><a href="../../../../articles/s/c/a/Scatsta_Airport_44de.html" title="Scatsta Airport">Scatsta Airport</a></i></td><td>Public</td><td>4,462</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/l/e/r/Lerwick.html" title="Lerwick">Lerwick</a></td><td>EGET</td><td>LWK</td><td><i><a href="../../../../articles/t/i/n/Tingwall_Airport_ca21.html" title="Tingwall Airport">Tingwall Airport</a></i></td><td>Public</td><td>2,507</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/l/e/u/Leuchars.html" title="Leuchars">Leuchars</a></td><td>EGQL</td><td>ADX</td><td><a href="../../../../articles/r/a/f/RAF_Leuchars_c8f1.html" title="RAF Leuchars">RAF Leuchars</a></td><td>Military</td><td>8,491</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/l/o/s/Lossiemouth.html" title="Lossiemouth">Lossiemouth</a></td><td>EGQS</td><td>LMO</td><td><a href="../../../../articles/r/a/f/RAF_Lossiemouth_2bf8.html" title="RAF Lossiemouth">RAF Lossiemouth</a></td><td>Military</td><td>9,019</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/n/o/r/North_Ronaldsay_d09d.html" title="North Ronaldsay">North Ronaldsay</a></td><td>EGEN</td><td>NRL</td><td><i><b><a href="../../../../articles/n/o/r/North_Ronaldsay_Airport_f733.html" title="North Ronaldsay Airport">North Ronaldsay Airport</a></b></i></td><td>Public</td><td>1,532</td><td>Graded hardcore</td></tr><tr><td><a href="../../../../articles/o/b/a/Oban.html" title="Oban">Oban</a></td><td>EGEO</td><td>OBN</td><td><a href="../../../../articles/o/b/a/Oban_Airport_2261.html" title="Oban Airport">Oban Airport</a></td><td>Public</td><td>4,068</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/p/a/p/Papa_Westray_7625.html" title="Papa Westray">Papa Westray</a></td><td>EGEP</td><td>PPW</td><td><i><b><a href="../../../../articles/p/a/p/Papa_Westray_Airport_20e1.html" title="Papa Westray Airport">Papa Westray Airport</a></b></i></td><td>Public</td><td>1,532</td><td>Graded hardcore</td></tr><tr><td><a href="../../../../articles/p/e/r/Perth%2C_Scotland_2b8a.html" title="Perth, Scotland">Perth</a></td><td>EGPT</td><td>PSL</td><td><i><a href="../../../../articles/p/e/r/Perth_Airport_%28Scotland%29_03ac.html" title="Perth Airport (Scotland)">Perth Airport</a></i></td><td>Public</td><td>2,799</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/s/a/n/Sanday%2C_Orkney_4e31.html" title="Sanday, Orkney">Sanday</a></td><td>EGES</td><td>NDY</td><td><i><b><a href="../../../../articles/s/a/n/Sanday_Airport_593c.html" title="Sanday Airport">Sanday Airport</a></b></i></td><td>Public</td><td>1,532</td><td>Graded hardcore</td></tr><tr><td><a href="../../../../articles/s/h/e/Shetland_Islands_3fe5.html" class="mw-redirect" title="Shetland Islands">Shetland Islands</a></td><td>EGPB</td><td>LSI</td><td><i><b><a href="../../../../articles/s/u/m/Sumburgh_Airport_83f4.html" title="Sumburgh Airport">Sumburgh Airport</a></b></i></td><td>Public</td><td>4,678</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/s/t/o/Stornoway.html" title="Stornoway">Stornoway</a></td><td>EGPO</td><td>SYY</td><td><i><b><a href="../../../../articles/s/t/o/Stornoway_Airport_9ec5.html" title="Stornoway Airport">Stornoway Airport</a></b></i></td><td>Public</td><td>7,218</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/s/t/r/Stronsay.html" title="Stronsay">Stronsay</a></td><td>EGER</td><td>SOY</td><td><i><b><a href="../../../../articles/s/t/r/Stronsay_Airport_48a8.html" title="Stronsay Airport">Stronsay Airport</a></b></i></td><td>Public</td><td>1,690</td><td>Graded hardcore</td></tr><tr><td><a href="../../../../articles/w/i/c/Wick%2C_Highland_c35b.html" title="Wick, Highland">Wick</a></td><td>EGPC</td><td>WIC</td><td><i><b><a href="../../../../articles/w/i/c/Wick_Airport_4562.html" title="Wick Airport">Wick Airport</a></b></i></td><td>Public</td><td>5,988</td><td>Asphalt</td></tr><tr><td><a href="../../../../articles/w/h/a/Whalsay.html" title="Whalsay">Whalsay</a></td><td>EGEH</td><td>WHS</td><td>Whalsay Airport <a href="http://www.ivao.aero/db/ss/airport.asp?Id=EGEH" class="external autonumber" title="http://www.ivao.aero/db/ss/airport.asp?Id=EGEH" rel="nofollow">[16]</a></td><td>&#160;</td><td>&#160;</td><td>&#160;</td></tr></table>]]>
+</htmlSnippet>
+</entity>

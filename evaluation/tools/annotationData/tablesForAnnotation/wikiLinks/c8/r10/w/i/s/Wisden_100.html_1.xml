@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r10/w/i/s/Wisden_100.html_1.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9375 1 3, 0.875 1 4, 0.8125 5, 0.8125 1 5, 0.76171875 3 5, 0.7109375 4 5, 0.57421875 3 4, 0.46875 3, 0.4375 4, 0.15 1 2, 0.1375 1 6, 0.135 2, 0.12890625 3 6, 0.12656249 2 3, 0.125 7, 0.125 1 7, 0.12375 6, 0.121875 2 5, 0.120312504 4 6, 0.11812501 2 4, 0.1171875 3 7, 0.112500004 0, 0.112500004 0 1, 0.11171875 5 6, 0.109375 4 7, 0.10546876 0 3, 0.1015625 5 7, 0.0984375 0 4, 0.091406256 0 5, 0.020625 2 6, 0.01875 2 7, 0.0171875 6 7, 0.016875 0 2, 0.015468751 0 6, 0.014062501 0 7, " />
+<meta name="parentHTMLDoc" value="en/articles/w/i/s/Wisden_100.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Bowler</th>]]></html>
+	<text>Bowler</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Figures</th>]]></html>
+	<text>Figures</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>For</th>]]></html>
+	<text>For</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Against</th>]]></html>
+	<text>Against</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Venue</th>]]></html>
+	<text>Venue</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Season</th>]]></html>
+	<text>Season</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rating</th>]]></html>
+	<text>Rating</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hugh Tayfield</td>]]></html>
+	<text>Hugh Tayfield</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9/113</td>]]></html>
+	<text>9/113</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Johannesburg</td>]]></html>
+	<text>Johannesburg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1956-57</td>]]></html>
+	<text>1956-57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>253.9</td>]]></html>
+	<text>253.9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Anil Kumble</td>]]></html>
+	<text>Anil Kumble</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10/74</td>]]></html>
+	<text>10/74</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>India</td>]]></html>
+	<text>India</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pakistan</td>]]></html>
+	<text>Pakistan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Delhi</td>]]></html>
+	<text>Delhi</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1998-99</td>]]></html>
+	<text>1998-99</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>248.6</td>]]></html>
+	<text>248.6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jim Laker</td>]]></html>
+	<text>Jim Laker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10/53</td>]]></html>
+	<text>10/53</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Manchester</td>]]></html>
+	<text>Manchester</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1956</td>]]></html>
+	<text>1956</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>241.7</td>]]></html>
+	<text>241.7</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jack White</td>]]></html>
+	<text>Jack White</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8/126</td>]]></html>
+	<text>8/126</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adelaide</td>]]></html>
+	<text>Adelaide</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1928-29</td>]]></html>
+	<text>1928-29</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>238.8</td>]]></html>
+	<text>238.8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Richard Hadlee</td>]]></html>
+	<text>Richard Hadlee</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9/52</td>]]></html>
+	<text>9/52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>New Zealand</td>]]></html>
+	<text>New Zealand</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brisbane</td>]]></html>
+	<text>Brisbane</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1985-86</td>]]></html>
+	<text>1985-86</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>237.1</td>]]></html>
+	<text>237.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Devon Malcolm</td>]]></html>
+	<text>Devon Malcolm</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9/57</td>]]></html>
+	<text>9/57</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>South Africa</td>]]></html>
+	<text>South Africa</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Oval, London</td>]]></html>
+	<text>The Oval, London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1994</td>]]></html>
+	<text>1994</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>234.4</td>]]></html>
+	<text>234.4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bob Willis</td>]]></html>
+	<text>Bob Willis</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8/43</td>]]></html>
+	<text>8/43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Leeds</td>]]></html>
+	<text>Leeds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1981</td>]]></html>
+	<text>1981</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>226.1</td>]]></html>
+	<text>226.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hedley Verity</td>]]></html>
+	<text>Hedley Verity</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8/43</td>]]></html>
+	<text>8/43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lord's, London</td>]]></html>
+	<text>Lord&amp;apos;s, London</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1934</td>]]></html>
+	<text>1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>225.1</td>]]></html>
+	<text>225.1</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bill O'Reilly</td>]]></html>
+	<text>Bill O&amp;apos;Reilly</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7/54</td>]]></html>
+	<text>7/54</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>England</td>]]></html>
+	<text>England</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Trent Bridge</td>]]></html>
+	<text>Trent Bridge</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1934</td>]]></html>
+	<text>1934</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>224.3</td>]]></html>
+	<text>224.3</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Graham McKenzie</td>]]></html>
+	<text>Graham McKenzie</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8/71</td>]]></html>
+	<text>8/71</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>West Indies</td>]]></html>
+	<text>West Indies</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne</td>]]></html>
+	<text>Melbourne</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1968-69</td>]]></html>
+	<text>1968-69</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>224.1</td>]]></html>
+	<text>224.1</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Wisden 100 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Bowler Figures For Against Venue Season Rating</text>
+</context>
+<context>
+	<score>0.8820817</score>
+	<text>[ edit ] Top 10 Bowling performances</text>
+</context>
+<context>
+	<score>0.79696965</score>
+	<text>Wisden 100</text>
+</context>
+<context>
+	<score>0.78511196</score>
+	<text>For the full list, see Top 100 Batsmen (Test) at Rediff.com .</text>
+</context>
+<context>
+	<score>0.7537395</score>
+	<text>For the full list, see Top 100 Bowlers (Test) at Rediff.com .</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] Test cricket</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] ODI cricket</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] All-time lists</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] Other lists</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7226878</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71939397</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7075363</score>
+	<text>[ edit ] Top 10 Batting performances</text>
+</context>
+<context>
+	<score>0.6454756</score>
+	<text>The top-rated bowling performance was Hugh Tayfield &apos;s 9/113 for South Africa against England at Johannesburg in the 1956-57 series. Curtly Ambrose and Harbhajan Singh each had 4 performances in the top 100, more than any other bowler.</text>
+</context>
+<context>
+	<score>0.6069428</score>
+	<text>[ edit ] Controversy</text>
+</context>
+<context>
+	<score>0.5958271</score>
+	<text>The top-rated batting performance was Donald Bradman &apos;s 270 for Australia against England at Melbourne in the 1936-37 Ashes series. 5 of Bradman&apos;s innings appeared in the top 100, more than any other batsman.</text>
+</context>
+<context>
+	<score>0.55610836</score>
+	<text>The Wisden 100 list for Test cricket was released on 26 July 2001 .</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Harbhajan, pictured here bowling in the nets, was one of only two players to have four bowling performances in the top 100.</text>
+</context>
+<context>
+	<score>0.52059174</score>
+	<text>Despite his highly impressive career record, not one of Sachin Tendulkar &apos;s innings appeared in the top 100 batting performances. His omission was strongly criticised by fans and many sections of the media in India.</text>
+</context>
+<context>
+	<score>0.4989133</score>
+	<text>[ edit ] Test cricket</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.46650323</score>
+	<text>Wisden defended the list stating that performances which majorly contributed to victories received a much larger weighting than those in which the match was drawn or lost. Tendulkar&apos;s most important innings had usually come in draws and defeats which received a lower weighting.</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>The maximum possible rating was 300.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Bowler</th><th>Figures</th><th>For</th><th>Against</th><th>Venue</th><th>Season</th><th>Rating</th></tr><tr><td>1</td><td><a href="../../../../articles/h/u/g/Hugh_Tayfield_eb56.html" title="Hugh Tayfield">Hugh Tayfield</a></td><td>9/113</td><td><a href="../../../../articles/s/o/u/South_African_cricket_team_2ad2.html" class="mw-redirect" title="South African cricket team">South Africa</a></td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/w/a/n/Wanderers_Stadium_809c.html" title="Wanderers Stadium">Johannesburg</a></td><td>1956-57</td><td>253.9</td></tr><tr><td>2</td><td><a href="../../../../articles/a/n/i/Anil_Kumble_6195.html" title="Anil Kumble">Anil Kumble</a></td><td>10/74</td><td><a href="../../../../articles/i/n/d/Indian_cricket_team.html" class="mw-redirect" title="Indian cricket team">India</a></td><td><a href="../../../../articles/p/a/k/Pakistani_cricket_team.html" class="mw-redirect" title="Pakistani cricket team">Pakistan</a></td><td><a href="../../../../articles/f/e/r/Feroz_Shah_Kotla_a597.html" title="Feroz Shah Kotla">Delhi</a></td><td>1998-99</td><td>248.6</td></tr><tr><td>3</td><td><a href="../../../../articles/j/i/m/Jim_Laker_3659.html" title="Jim Laker">Jim Laker</a></td><td>10/53</td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/o/l/d/Old_Trafford_%28cricket_ground%29_0458.html" class="mw-redirect" title="Old Trafford (cricket ground)">Manchester</a></td><td>1956</td><td>241.7</td></tr><tr><td>4</td><td><a href="../../../../articles/j/a/c/Jack_White_%28cricketer%29_eae7.html" title="Jack White (cricketer)">Jack White</a></td><td>8/126</td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/a/d/e/Adelaide_Oval_4c84.html" title="Adelaide Oval">Adelaide</a></td><td>1928-29</td><td>238.8</td></tr><tr><td>5</td><td><a href="../../../../articles/r/i/c/Richard_Hadlee_69b6.html" title="Richard Hadlee">Richard Hadlee</a></td><td>9/52</td><td><a href="../../../../articles/n/e/w/New_Zealand_cricket_team_b7ed.html" class="mw-redirect" title="New Zealand cricket team">New Zealand</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/b/r/i/Brisbane_Cricket_Ground_dd74.html" class="mw-redirect" title="Brisbane Cricket Ground">Brisbane</a></td><td>1985-86</td><td>237.1</td></tr><tr><td>6</td><td><a href="../../../../articles/d/e/v/Devon_Malcolm_b0d4.html" title="Devon Malcolm">Devon Malcolm</a></td><td>9/57</td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/s/o/u/South_African_cricket_team_2ad2.html" class="mw-redirect" title="South African cricket team">South Africa</a></td><td><a href="../../../../articles/t/h/e/The_Oval_7c8c.html" title="The Oval">The Oval, London</a></td><td>1994</td><td>234.4</td></tr><tr><td>7</td><td><a href="../../../../articles/b/o/b/Bob_Willis_c719.html" title="Bob Willis">Bob Willis</a></td><td>8/43</td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/h/e/a/Headingley_Stadium_11cd.html" title="Headingley Stadium">Leeds</a></td><td>1981</td><td>226.1</td></tr><tr><td>8</td><td><a href="../../../../articles/h/e/d/Hedley_Verity_b991.html" title="Hedley Verity">Hedley Verity</a></td><td>8/43</td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/l/o/r/Lord%27s_Cricket_Ground_3c18.html" title="Lord's Cricket Ground">Lord's, London</a></td><td>1934</td><td>225.1</td></tr><tr><td>9</td><td><a href="../../../../articles/b/i/l/Bill_O%27Reilly_%28cricketer%29_8189.html" title="Bill O'Reilly (cricketer)">Bill O'Reilly</a></td><td>7/54</td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/e/n/g/England_cricket_team.html" title="England cricket team">England</a></td><td><a href="../../../../articles/t/r/e/Trent_Bridge_44c8.html" title="Trent Bridge">Trent Bridge</a></td><td>1934</td><td>224.3</td></tr><tr><td>10</td><td><a href="../../../../articles/g/r/a/Graham_McKenzie_3713.html" title="Graham McKenzie">Graham McKenzie</a></td><td>8/71</td><td><a href="../../../../articles/a/u/s/Australian_cricket_team.html" class="mw-redirect" title="Australian cricket team">Australia</a></td><td><a href="../../../../articles/w/e/s/West_Indian_cricket_team_6ec3.html" class="mw-redirect" title="West Indian cricket team">West Indies</a></td><td><a href="../../../../articles/m/e/l/Melbourne_Cricket_Ground_93ce.html" title="Melbourne Cricket Ground">Melbourne</a></td><td>1968-69</td><td>224.1</td></tr></table>]]>
+</htmlSnippet>
+</entity>

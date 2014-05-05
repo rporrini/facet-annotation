@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r37/t/a/x/Tax_rates_of_Europe_bcdf.html_0.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 0 1, 0.15 0 2, 0.125 0 3, 0.12162162 2, 0.11351351 1, 0.07094595 3, 0.02554054 1 2, 0.021283783 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/t/a/x/Tax_rates_of_Europe_bcdf.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Corporate tax</th>]]></html>
+	<text>Corporate tax</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Personal Income tax</th>]]></html>
+	<text>Personal Income tax</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>VAT</th>]]></html>
+	<text>VAT</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Austria</td>]]></html>
+	<text>Austria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%</td>]]></html>
+	<text>25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50%</td>]]></html>
+	<text>50%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20% GST</td>]]></html>
+	<text>20% GST</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belarus</td>]]></html>
+	<text>Belarus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24%</td>]]></html>
+	<text>24%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30%</td>]]></html>
+	<text>30%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.99%</td>]]></html>
+	<text>33.99%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50%</td>]]></html>
+	<text>50%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21%</td>]]></html>
+	<text>21%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bosnia and Herzegovina [1]</td>]]></html>
+	<text>Bosnia and Herzegovina [1]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30% (10% in Srpska)</td>]]></html>
+	<text>30% (10% in Srpska)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5% Federal + 0%-15% per location</td>]]></html>
+	<text>5% Federal + 0%-15% per location</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17%</td>]]></html>
+	<text>17%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Bulgaria [2]</td>]]></html>
+	<text>Bulgaria [2]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10%</td>]]></html>
+	<text>10%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10%</td>]]></html>
+	<text>10%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Croatia</td>]]></html>
+	<text>Croatia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45%</td>]]></html>
+	<text>45%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22%</td>]]></html>
+	<text>22%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Cyprus</td>]]></html>
+	<text>Cyprus</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10%</td>]]></html>
+	<text>10%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30%</td>]]></html>
+	<text>30%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15%</td>]]></html>
+	<text>15%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czech Republic</td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24%</td>]]></html>
+	<text>24%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0%-32%</td>]]></html>
+	<text>0%-32%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19% (5% on selected goods and services)</td>]]></html>
+	<text>19% (5% on selected goods and services)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%</td>]]></html>
+	<text>25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>48%</td>]]></html>
+	<text>48%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25% (VAT free on airplanes)</td>]]></html>
+	<text>25% (VAT free on airplanes)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Estonia</td>]]></html>
+	<text>Estonia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22%</td>]]></html>
+	<text>22%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22%</td>]]></html>
+	<text>22%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Finland</td>]]></html>
+	<text>Finland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26%</td>]]></html>
+	<text>26%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>53%</td>]]></html>
+	<text>53%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22%</td>]]></html>
+	<text>22%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>33.33%</td>]]></html>
+	<text>33.33%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40%</td>]]></html>
+	<text>40%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2.1% (drugs, newspapers, theatres), 5.5% (raw food, books), 19.60%</td>]]></html>
+	<text>2.1% (drugs, newspapers, theatres), 5.5% (raw food, books), 19.60%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15% (federal)</td>]]></html>
+	<text>15% (federal)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15 % (initial tax rate) to 45% (top tax rate)</td>]]></html>
+	<text>15 % (initial tax rate) to 45% (top tax rate)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19% (7% on selected goods and services)</td>]]></html>
+	<text>19% (7% on selected goods and services)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Georgia</td>]]></html>
+	<text>Georgia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12%</td>]]></html>
+	<text>12%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greece</td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29%</td>]]></html>
+	<text>29%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40%</td>]]></html>
+	<text>40%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hungary</td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16%</td>]]></html>
+	<text>16%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36%</td>]]></html>
+	<text>36%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Iceland</td>]]></html>
+	<text>Iceland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26%</td>]]></html>
+	<text>26%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.58%</td>]]></html>
+	<text>45.58%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24.5%</td>]]></html>
+	<text>24.5%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ireland</td>]]></html>
+	<text>Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.50%</td>]]></html>
+	<text>12.50%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20% (basic), 41% (above €35,400)</td>]]></html>
+	<text>20% (basic), 41% (above &#8364;35,400)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21%</td>]]></html>
+	<text>21%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>37.25%</td>]]></html>
+	<text>37.25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45%</td>]]></html>
+	<text>45%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Latvia</td>]]></html>
+	<text>Latvia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15%</td>]]></html>
+	<text>15%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%</td>]]></html>
+	<text>25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18% (10% and 5 % for certain goods and services)</td>]]></html>
+	<text>18% (10% and 5 % for certain goods and services)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Lithuania</td>]]></html>
+	<text>Lithuania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15%</td>]]></html>
+	<text>15%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35%</td>]]></html>
+	<text>35%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Luxembourg</td>]]></html>
+	<text>Luxembourg</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29.63%</td>]]></html>
+	<text>29.63%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38.95%</td>]]></html>
+	<text>38.95%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15%</td>]]></html>
+	<text>15%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montenegro</td>]]></html>
+	<text>Montenegro</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9% [3]</td>]]></html>
+	<text>9% [3]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15% [4]</td>]]></html>
+	<text>15% [4]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17% (7% for certain goods and services)</td>]]></html>
+	<text>17% (7% for certain goods and services)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25.5%</td>]]></html>
+	<text>25.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>52%</td>]]></html>
+	<text>52%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19% (6% for certain goods)</td>]]></html>
+	<text>19% (6% for certain goods)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Norway [5] [6]</td>]]></html>
+	<text>Norway [5] [6]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28%</td>]]></html>
+	<text>28%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>54.3%</td>]]></html>
+	<text>54.3%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%(foodstuffs 13%)</td>]]></html>
+	<text>25%(foodstuffs 13%)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40%</td>]]></html>
+	<text>40%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22%</td>]]></html>
+	<text>22%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portugal</td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27.50%</td>]]></html>
+	<text>27.50%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42%</td>]]></html>
+	<text>42%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21%</td>]]></html>
+	<text>21%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Romania</td>]]></html>
+	<text>Romania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16%</td>]]></html>
+	<text>16%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16%</td>]]></html>
+	<text>16%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Russia</td>]]></html>
+	<text>Russia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24%</td>]]></html>
+	<text>24%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13%</td>]]></html>
+	<text>13%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Serbia</td>]]></html>
+	<text>Serbia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10%</td>]]></html>
+	<text>10%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14%</td>]]></html>
+	<text>14%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovakia</td>]]></html>
+	<text>Slovakia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19%</td>]]></html>
+	<text>19%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Slovenia [7]</td>]]></html>
+	<text>Slovenia [7]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%</td>]]></html>
+	<text>25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>50%</td>]]></html>
+	<text>50%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35%</td>]]></html>
+	<text>35%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45%</td>]]></html>
+	<text>45%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16%</td>]]></html>
+	<text>16%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>28%</td>]]></html>
+	<text>28%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55%</td>]]></html>
+	<text>55%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25% (12%/6% for certain goods and services)</td>]]></html>
+	<text>25% (12%/6% for certain goods and services)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25%</td>]]></html>
+	<text>25%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45.5%</td>]]></html>
+	<text>45.5%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.6%</td>]]></html>
+	<text>7.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ukraine</td>]]></html>
+	<text>Ukraine</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30%</td>]]></html>
+	<text>30%</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15% [8]</td>]]></html>
+	<text>15% [8]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20%</td>]]></html>
+	<text>20%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom [9]</td>]]></html>
+	<text>United Kingdom [9]</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19% (basic), 30% (above £1.5m)</td>]]></html>
+	<text>19% (basic), 30% (above &#163;1.5m)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22% (basic), 40% (above £34,600)</td>]]></html>
+	<text>22% (basic), 40% (above &#163;34,600)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.5% (some items at 5%)</td>]]></html>
+	<text>17.5% (some items at 5%)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tax rates of Europe - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Corporate tax Personal Income tax VAT</text>
+</context>
+<context>
+	<score>0.88623345</score>
+	<text>Please help improve this article by adding citations to reliable sources . Unverifiable material may be challenged and removed.</text>
+</context>
+<context>
+	<score>0.80323803</score>
+	<text>Tax rates of Europe</text>
+</context>
+<context>
+	<score>0.7891527</score>
+	<text>This article does not cite any references or sources . (July 2007)</text>
+</context>
+<context>
+	<score>0.7577442</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7331579</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7331579</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.7331579</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7331579</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71148807</score>
+	<text>Please see the relevant discussion on the talk page . (March 2008)</text>
+</context>
+<context>
+	<score>0.6493563</score>
+	<text>The factual accuracy of this article is disputed .</text>
+</context>
+<context>
+	<score>0.61077935</score>
+	<text>[ edit ] Sources</text>
+</context>
+<context>
+	<score>0.5920665</score>
+	<text>The quoted income tax rate is, except where noted, the top rate of tax: Most jurisdictions have lower rate of taxes for low levels of income. Some countries also have lower rates of corporation tax for smaller companies.</text>
+</context>
+<context>
+	<score>0.5598867</score>
+	<text>This is a list of tax rates around Europe. It is focused on three types of taxes: corporate and individual taxes and value added taxes (VAT). It is not intended to represent the true tax burden to either the corporation or the individual in the listed country.</text>
+</context>
+<context>
+	<score>0.54216063</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.5167115</score>
+	<text>Tax rates of Europe</text>
+</context>
+<context>
+	<score>0.47347653</score>
+	<text>[ edit ] See also</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable"><tr><th>Country</th><th><a href="../../../../articles/c/o/r/Corporate_tax.html" title="Corporate tax">Corporate tax</a></th><th><a href="../../../../articles/i/n/c/Income_tax.html" title="Income tax">Personal Income tax</a></th><th><a href="../../../../articles/v/a/l/Value_added_tax.html" title="Value added tax">VAT</a></th></tr><tr><td><a href="../../../../articles/a/u/s/Austria.html" title="Austria">Austria</a></td><td>25%</td><td>50%</td><td>20% GST</td></tr><tr><td><a href="../../../../articles/b/e/l/Belarus.html" title="Belarus">Belarus</a></td><td>24%</td><td>30%</td><td>18%</td></tr><tr><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>33.99%</td><td>50%</td><td>21%</td></tr><tr><td><a href="../../../../articles/b/o/s/Bosnia_and_Herzegovina_c758.html" title="Bosnia and Herzegovina">Bosnia and Herzegovina</a><sup id="cite_ref-0" class="reference"><a href="#cite_note-0" title="">[1]</a></sup></td><td>30% (10% in Srpska)</td><td>5% Federal + 0%-15% per location</td><td>17%</td></tr><tr><td><a href="../../../../articles/b/u/l/Bulgaria.html" title="Bulgaria">Bulgaria</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1" title="">[2]</a></sup></td><td>10%</td><td>10%</td><td>20%</td></tr><tr><td><a href="../../../../articles/c/r/o/Croatia.html" title="Croatia">Croatia</a></td><td>20%</td><td>45%</td><td>22%</td></tr><tr><td><a href="../../../../articles/c/y/p/Cyprus.html" title="Cyprus">Cyprus</a></td><td>10%</td><td>30%</td><td>15%</td></tr><tr><td><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td>24%</td><td>0%-32%</td><td>19% (5% on selected goods and services)</td></tr><tr><td><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>25%</td><td>48%</td><td>25% (VAT free on airplanes)</td></tr><tr><td><a href="../../../../articles/e/s/t/Estonia.html" title="Estonia">Estonia</a></td><td>22%</td><td>22%</td><td>18%</td></tr><tr><td><a href="../../../../articles/f/i/n/Finland.html" title="Finland">Finland</a></td><td>26%</td><td>53%</td><td>22%</td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>33.33%</td><td>40%</td><td>2.1% (drugs, newspapers, theatres), 5.5% (raw food, books), 19.60%</td></tr><tr><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>15% (federal)</td><td>15&#160;% (initial tax rate) to 45% (top tax rate)</td><td>19% (7% on selected goods and services)</td></tr><tr><td><a href="../../../../articles/g/e/o/Georgia_%28country%29.html" title="Georgia (country)">Georgia</a></td><td>20%</td><td>12%</td><td>18%</td></tr><tr><td><a href="../../../../articles/g/r/e/Greece.html" title="Greece">Greece</a></td><td>29%</td><td>40%</td><td>19%</td></tr><tr><td><a href="../../../../articles/h/u/n/Hungary.html" title="Hungary">Hungary</a></td><td>16%</td><td>36%</td><td>20%</td></tr><tr><td><a href="../../../../articles/i/c/e/Iceland.html" title="Iceland">Iceland</a></td><td>26%</td><td>45.58%</td><td>24.5%</td></tr><tr><td><a href="../../../../articles/r/e/p/Republic_of_Ireland_10e7.html" title="Republic of Ireland">Ireland</a></td><td>12.50%</td><td>20% (basic), 41% (above €35,400)</td><td>21%</td></tr><tr><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>37.25%</td><td>45%</td><td>20%</td></tr><tr><td><a href="../../../../articles/l/a/t/Latvia.html" title="Latvia">Latvia</a></td><td>15%</td><td>25%</td><td>18% (10% and 5&#160;% for certain goods and services)</td></tr><tr><td><a href="../../../../articles/l/i/t/Lithuania.html" title="Lithuania">Lithuania</a></td><td>15%</td><td>35%</td><td>18%</td></tr><tr><td><a href="../../../../articles/l/u/x/Luxembourg.html" title="Luxembourg">Luxembourg</a></td><td>29.63%</td><td>38.95%</td><td>15%</td></tr><tr><td><a href="../../../../articles/m/o/n/Montenegro.html" title="Montenegro">Montenegro</a></td><td>9%<sup id="cite_ref-2" class="reference"><a href="#cite_note-2" title="">[3]</a></sup></td><td>15%<sup id="cite_ref-3" class="reference"><a href="#cite_note-3" title="">[4]</a></sup></td><td>17% (7% for certain goods and services)</td></tr><tr><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>25.5%</td><td>52%</td><td>19% (6% for certain goods)</td></tr><tr><td><a href="../../../../articles/n/o/r/Norway.html" title="Norway">Norway</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4" title="">[5]</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5" title="">[6]</a></sup></td><td>28%</td><td>54.3%</td><td>25%(foodstuffs 13%)</td></tr><tr><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td>19%</td><td>40%</td><td>22%</td></tr><tr><td><a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td><td>27.50%</td><td>42%</td><td>21%</td></tr><tr><td><a href="../../../../articles/r/o/m/Romania.html" title="Romania">Romania</a></td><td>16%</td><td>16%</td><td>19%</td></tr><tr><td><a href="../../../../articles/r/u/s/Russia.html" title="Russia">Russia</a></td><td>24%</td><td>13%</td><td>18%</td></tr><tr><td><a href="../../../../articles/s/e/r/Serbia.html" title="Serbia">Serbia</a></td><td>10%</td><td>14%</td><td>18%</td></tr><tr><td><a href="../../../../articles/s/l/o/Slovakia.html" title="Slovakia">Slovakia</a></td><td>19%</td><td>19%</td><td>19%</td></tr><tr><td><a href="../../../../articles/s/l/o/Slovenia.html" title="Slovenia">Slovenia</a> <sup id="cite_ref-6" class="reference"><a href="#cite_note-6" title="">[7]</a></sup></td><td>25%</td><td>50%</td><td>20%</td></tr><tr><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>35%</td><td>45%</td><td>16%</td></tr><tr><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>28%</td><td>55%</td><td>25% (12%/6% for certain goods and services)</td></tr><tr><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>25%</td><td>45.5%</td><td>7.6%</td></tr><tr><td><a href="../../../../articles/u/k/r/Ukraine.html" title="Ukraine">Ukraine</a></td><td>30%</td><td>15% <sup id="cite_ref-7" class="reference"><a href="#cite_note-7" title="">[8]</a></sup></td><td>20%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a> <sup id="cite_ref-8" class="reference"><a href="#cite_note-8" title="">[9]</a></sup></td><td>19% (basic), 30% (above £1.5m)</td><td>22% (basic), 40% (above £34,600)</td><td>17.5% (some items at 5%)</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r5/l/i/s/List_of_cities_by_GDP_f402.html_5.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 1 2, 0.7 2, 0.15 3, 0.15 1 3, 0.13125001 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.01875 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_cities_by_GDP_f402.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City</th>]]></html>
+	<text>City</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>GDP in $US BN</th>]]></html>
+	<text>GDP in $US BN</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Tokyo</td>]]></html>
+	<text>Tokyo</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</td>]]></html>
+	<text>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 1191</td>]]></html>
+	<text>$ 1191</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Osaka</td>]]></html>
+	<text>Osaka</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</td>]]></html>
+	<text>../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png Japan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 341</td>]]></html>
+	<text>$ 341</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hong Kong</td>]]></html>
+	<text>Hong Kong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png Hong Kong</td>]]></html>
+	<text>../../../../images/shared/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png Hong Kong</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 244</td>]]></html>
+	<text>$ 244</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seoul</td>]]></html>
+	<text>Seoul</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png South Korea</td>]]></html>
+	<text>../../../../images/shared/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png South Korea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 218</td>]]></html>
+	<text>$ 218</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shanghai</td>]]></html>
+	<text>Shanghai</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>../../../../images/shared/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/22px-Flag_of_the_People's_Republic_of_China.svg.png PRC</td>]]></html>
+	<text>../../../../images/shared/thumb/f/fa/Flag_of_the_People&amp;apos;s_Republic_of_China.svg/22px-Flag_of_the_People&amp;apos;s_Republic_of_China.svg.png PRC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>$ 139</td>]]></html>
+	<text>$ 139</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of cities by GDP - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank City Country GDP in $US BN</text>
+</context>
+<context>
+	<score>0.87878585</score>
+	<text>Tokyo</text>
+</context>
+<context>
+	<score>0.7907274</score>
+	<text>List of cities by GDP</text>
+</context>
+<context>
+	<score>0.7860234</score>
+	<text>[ edit ] Richest in East Asia</text>
+</context>
+<context>
+	<score>0.7546504</score>
+	<text>[ edit ] Richest in Central and Southeast Asia</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] List of the 100 Richest Cities in the World in 2005</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in North America</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in North America EXCEPT U.S. Cities</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in Western Europe</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in Eastern and Northern Europe</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in East Asia</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in Central and Southeast Asia</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in the Middle East</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in South America</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in Africa</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] Richest in Oceania</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71735924</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71315044</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70423764</score>
+	<text>Moscow</text>
+</context>
+<context>
+	<score>0.6463848</score>
+	<text>[ edit ] Richest in Eastern and Northern Europe</text>
+</context>
+<context>
+	<score>0.60364246</score>
+	<text>Singapore</text>
+</context>
+<context>
+	<score>0.5925266</score>
+	<text>Paris</text>
+</context>
+<context>
+	<score>0.557016</score>
+	<text>[ edit ] Richest in Western Europe</text>
+</context>
+<context>
+	<score>0.52149886</score>
+	<text>[ edit ] Richest in the Middle East</text>
+</context>
+<context>
+	<score>0.5210316</score>
+	<text>Toronto</text>
+</context>
+<context>
+	<score>0.49982002</score>
+	<text>[ edit ] Richest in North America EXCEPT U.S. Cities</text>
+</context>
+<context>
+	<score>0.47527486</score>
+	<text>New York City</text>
+</context>
+<context>
+	<score>0.4664945</score>
+	<text>Tel Aviv</text>
+</context>
+<context>
+	<score>0.46321458</score>
+	<text>[ edit ] Richest in North America</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>City</th><th>Country</th><th>GDP in $US BN</th></tr><tr><td>1</td><td><a href="../../../../articles/t/o/k/Tokyo.html" title="Tokyo">Tokyo</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Japan.svg_6db6.html" class="image" title="Flag of Japan"><img alt="Flag of Japan" src="../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>$ 1191</td></tr><tr><td>2</td><td><a href="../../../../articles/o/s/a/Osaka.html" title="Osaka">Osaka</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Japan.svg_6db6.html" class="image" title="Flag of Japan"><img alt="Flag of Japan" src="../../../../images/shared/thumb/9/9e/Flag_of_Japan.svg/22px-Flag_of_Japan.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/j/a/p/Japan.html" title="Japan">Japan</a></td><td>$ 341</td></tr><tr><td>3</td><td><a href="../../../../articles/h/o/n/Hong_Kong_6282.html" title="Hong Kong">Hong Kong</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_Hong_Kong.svg_a750.html" class="image" title="Flag of Hong Kong"><img alt="Flag of Hong Kong" src="../../../../images/shared/thumb/5/5b/Flag_of_Hong_Kong.svg/22px-Flag_of_Hong_Kong.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/h/o/n/Hong_Kong_6282.html" title="Hong Kong">Hong Kong</a></td><td>$ 244</td></tr><tr><td>4</td><td><a href="../../../../articles/s/e/o/Seoul.html" title="Seoul">Seoul</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_South_Korea.svg_76c3.html" class="image" title="Flag of South Korea"><img alt="Flag of South Korea" src="../../../../images/shared/thumb/0/09/Flag_of_South_Korea.svg/22px-Flag_of_South_Korea.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/s/o/u/South_Korea_aa29.html" title="South Korea">South Korea</a></td><td>$ 218</td></tr><tr><td>5</td><td><a href="../../../../articles/s/h/a/Shanghai.html" title="Shanghai">Shanghai</a></td><td><span class="flagicon"><a href="../../../../articles/f/l/a/Image%7EFlag_of_the_People%27s_Republic_of_China.svg_d2b8.html" class="image" title="Flag of the People's Republic of China"><img alt="Flag of the People's Republic of China" src="../../../../images/shared/thumb/f/fa/Flag_of_the_People's_Republic_of_China.svg/22px-Flag_of_the_People's_Republic_of_China.svg.png" width="22" height="15" border="0" class="thumbborder" /></a></span> <a href="../../../../articles/p/e/o/People%27s_Republic_of_China_82bf.html" title="People's Republic of China">PRC</a></td><td>$ 139</td></tr></table>]]>
+</htmlSnippet>
+</entity>

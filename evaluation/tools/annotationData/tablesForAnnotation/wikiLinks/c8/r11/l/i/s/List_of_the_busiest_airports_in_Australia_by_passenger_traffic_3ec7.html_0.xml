@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r11/l/i/s/List_of_the_busiest_airports_in_Australia_by_passenger_traffic_3ec7.html_0.xml" />
+<meta name="primaryKey" value="1.0 1, 0.9375 2, 0.9375 1 2, 0.875 3, 0.875 1 3, 0.8203125 2 3, 0.16250001 1 4, 0.15234375 2 4, 0.15 5, 0.15 1 5, 0.14772728 4, 0.1421875 3 4, 0.140625 2 5, 0.1375 6, 0.1375 1 6, 0.13125001 3 5, 0.12890625 2 6, 0.125 1 7, 0.120312504 3 6, 0.1171875 2 7, 0.11363637 7, 0.109375 3 7, 0.056250002 0, 0.056250002 0 1, 0.05273438 0 2, 0.04921875 0 3, 0.024375001 4 5, 0.022343753 4 6, 0.020625 5 6, 0.020312501 4 7, 0.01875 5 7, 0.0171875 6 7, 0.009140626 0 4, 0.0084375 0 5, 0.0077343755 0 6, 0.0070312503 0 7, " />
+<meta name="parentHTMLDoc" value="en/articles/l/i/s/List_of_the_busiest_airports_in_Australia_by_passenger_traffic_3ec7.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Airport</th>]]></html>
+	<text>Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Location</th>]]></html>
+	<text>Location</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1990-91 Passengers</th>]]></html>
+	<text>1990-91 Passengers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>1995-96 Passengers</th>]]></html>
+	<text>1995-96 Passengers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>2000-01 Passengers</th>]]></html>
+	<text>2000-01 Passengers</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>2005-06 Passengers</th>]]></html>
+	<text>2005-06 Passengers</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1.</td>]]></html>
+	<text>1.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney Airport</td>]]></html>
+	<text>Sydney Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sydney , New South Wales</td>]]></html>
+	<text>Sydney , New South Wales</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SYD</td>]]></html>
+	<text>SYD</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 361</td>]]></html>
+	<text>12 361</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19 878</td>]]></html>
+	<text>19 878</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25 814</td>]]></html>
+	<text>25 814</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>29 004</td>]]></html>
+	<text>29 004</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2.</td>]]></html>
+	<text>2.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne Airport</td>]]></html>
+	<text>Melbourne Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Melbourne , Victoria</td>]]></html>
+	<text>Melbourne , Victoria</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MEL</td>]]></html>
+	<text>MEL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 346</td>]]></html>
+	<text>8 346</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 972</td>]]></html>
+	<text>12 972</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 881</td>]]></html>
+	<text>16 881</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21 044</td>]]></html>
+	<text>21 044</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3.</td>]]></html>
+	<text>3.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brisbane Airport</td>]]></html>
+	<text>Brisbane Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Brisbane , Queensland</td>]]></html>
+	<text>Brisbane , Queensland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>BNE</td>]]></html>
+	<text>BNE</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 246</td>]]></html>
+	<text>5 246</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9 236</td>]]></html>
+	<text>9 236</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 467</td>]]></html>
+	<text>12 467</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16 016</td>]]></html>
+	<text>16 016</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4.</td>]]></html>
+	<text>4.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth Airport</td>]]></html>
+	<text>Perth Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Perth , Western Australia</td>]]></html>
+	<text>Perth , Western Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PER</td>]]></html>
+	<text>PER</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 508</td>]]></html>
+	<text>2 508</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 145</td>]]></html>
+	<text>4 145</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 162</td>]]></html>
+	<text>5 162</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 005</td>]]></html>
+	<text>7 005</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5.</td>]]></html>
+	<text>5.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adelaide Airport</td>]]></html>
+	<text>Adelaide Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Adelaide , South Australia</td>]]></html>
+	<text>Adelaide , South Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ADL</td>]]></html>
+	<text>ADL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 461</td>]]></html>
+	<text>2 461</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 743</td>]]></html>
+	<text>3 743</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4 443</td>]]></html>
+	<text>4 443</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5 767</td>]]></html>
+	<text>5 767</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6.</td>]]></html>
+	<text>6.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cairns International Airport</td>]]></html>
+	<text>Cairns International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cairns , Queensland</td>]]></html>
+	<text>Cairns , Queensland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CNS</td>]]></html>
+	<text>CNS</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 288</td>]]></html>
+	<text>1 288</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 595</td>]]></html>
+	<text>2 595</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 891</td>]]></html>
+	<text>2 891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 731</td>]]></html>
+	<text>3 731</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7.</td>]]></html>
+	<text>7.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold Coast Airport</td>]]></html>
+	<text>Gold Coast Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gold Coast , Queensland</td>]]></html>
+	<text>Gold Coast , Queensland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>OOL</td>]]></html>
+	<text>OOL</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 124</td>]]></html>
+	<text>1 124</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 044</td>]]></html>
+	<text>2 044</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 948</td>]]></html>
+	<text>1 948</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 515</td>]]></html>
+	<text>3 515</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8.</td>]]></html>
+	<text>8.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canberra International Airport</td>]]></html>
+	<text>Canberra International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Canberra , Australian Capital Territory</td>]]></html>
+	<text>Canberra , Australian Capital Territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>CBR</td>]]></html>
+	<text>CBR</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 124</td>]]></html>
+	<text>1 124</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 750</td>]]></html>
+	<text>1 750</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 108</td>]]></html>
+	<text>2 108</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 550</td>]]></html>
+	<text>2 550</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9.</td>]]></html>
+	<text>9.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hobart International Airport</td>]]></html>
+	<text>Hobart International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hobart , Tasmania</td>]]></html>
+	<text>Hobart , Tasmania</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HBA</td>]]></html>
+	<text>HBA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>590</td>]]></html>
+	<text>590</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>850</td>]]></html>
+	<text>850</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>974</td>]]></html>
+	<text>974</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 606</td>]]></html>
+	<text>1 606</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10.</td>]]></html>
+	<text>10.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Darwin International Airport</td>]]></html>
+	<text>Darwin International Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Darwin , Northern Territory</td>]]></html>
+	<text>Darwin , Northern Territory</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DRW</td>]]></html>
+	<text>DRW</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>496</td>]]></html>
+	<text>496</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>932</td>]]></html>
+	<text>932</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 078</td>]]></html>
+	<text>1 078</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 219</td>]]></html>
+	<text>1 219</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11.</td>]]></html>
+	<text>11.</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Townsville Airport</td>]]></html>
+	<text>Townsville Airport</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Townsville , Queensland</td>]]></html>
+	<text>Townsville , Queensland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>TSV</td>]]></html>
+	<text>TSV</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>542</td>]]></html>
+	<text>542</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>662</td>]]></html>
+	<text>662</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>811</td>]]></html>
+	<text>811</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1 219</td>]]></html>
+	<text>1 219</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>List of the busiest airports in Australia by passenger traffic - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Rank Airport Location Code 1990-91 Passengers 1995-96 Passengers 2000-01 Passengers 2005-06 Passengers</text>
+</context>
+<context>
+	<score>0.8926582</score>
+	<text>[ edit ] Australia&apos;s Busiest Airports</text>
+</context>
+<context>
+	<score>0.8067847</score>
+	<text>List of the busiest airports in Australia by passenger traffic</text>
+</context>
+<context>
+	<score>0.77562094</score>
+	<text>This is a list of the busiest airports in Australia by passenger traffic compiled by the Bureau of Infrastructure, Transport and Regional Economics. All passenger numbers are listed in thousands.</text>
+</context>
+<context>
+	<score>0.76067054</score>
+	<text>Note: Avalon Airport has not been included in this table, however traffic at Avalon is expected to be at approximately 1.4 million per annum</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] Australia&apos;s Busiest Airports</text>
+</context>
+<context>
+	<score>0.7443187</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72700554</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.66318214</score>
+	<text>List of the busiest airports in Australia by passenger traffic</text>
+</context>
+<context>
+	<score>0.6097042</score>
+	<text>placing it at the 10th position after Hobart International Airport .</text>
+</context>
+<context>
+	<score>0.52090055</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.46866304</score>
+	<text>^ http://www.bitre.gov.au/publications/30/Files/BITRE_Yearbook.pdf ^ Avalon Airport to get air traffic control for passenger services | The Australian</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Rank</th><th>Airport</th><th>Location</th><th>Code</th><th>1990-91<br />Passengers</th><th>1995-96<br />Passengers</th><th>2000-01<br />Passengers</th><th>2005-06<br />Passengers</th></tr><tr><td>1.</td><td><a href="../../../../articles/s/y/d/Sydney_Airport_05b8.html" title="Sydney Airport">Sydney Airport</a></td><td><a href="../../../../articles/s/y/d/Sydney.html" title="Sydney">Sydney</a>, <a href="../../../../articles/n/e/w/New_South_Wales_238d.html" title="New South Wales">New South Wales</a></td><td>SYD</td><td>12 361</td><td>19 878</td><td>25 814</td><td>29 004</td></tr><tr><td>2.</td><td><a href="../../../../articles/m/e/l/Melbourne_Airport_c9ee.html" title="Melbourne Airport">Melbourne Airport</a></td><td><a href="../../../../articles/m/e/l/Melbourne.html" title="Melbourne">Melbourne</a>, <a href="../../../../articles/v/i/c/Victoria_%28Australia%29_71e6.html" title="Victoria (Australia)">Victoria</a></td><td>MEL</td><td>8 346</td><td>12 972</td><td>16 881</td><td>21 044</td></tr><tr><td>3.</td><td><a href="../../../../articles/b/r/i/Brisbane_Airport_b50b.html" title="Brisbane Airport">Brisbane Airport</a></td><td><a href="../../../../articles/b/r/i/Brisbane.html" title="Brisbane">Brisbane</a>, <a href="../../../../articles/q/u/e/Queensland.html" title="Queensland">Queensland</a></td><td>BNE</td><td>5 246</td><td>9 236</td><td>12 467</td><td>16 016</td></tr><tr><td>4.</td><td><a href="../../../../articles/p/e/r/Perth_Airport_301c.html" title="Perth Airport">Perth Airport</a></td><td><a href="../../../../articles/p/e/r/Perth.html" title="Perth">Perth</a>, <a href="../../../../articles/w/e/s/Western_Australia_84d0.html" title="Western Australia">Western Australia</a></td><td>PER</td><td>2 508</td><td>4 145</td><td>5 162</td><td>7 005</td></tr><tr><td>5.</td><td><a href="../../../../articles/a/d/e/Adelaide_Airport_7cf1.html" title="Adelaide Airport">Adelaide Airport</a></td><td><a href="../../../../articles/a/d/e/Adelaide.html" title="Adelaide">Adelaide</a>, <a href="../../../../articles/s/o/u/South_Australia_b9ad.html" title="South Australia">South Australia</a></td><td>ADL</td><td>2 461</td><td>3 743</td><td>4 443</td><td>5 767</td></tr><tr><td>6.</td><td><a href="../../../../articles/c/a/i/Cairns_International_Airport_4bd9.html" title="Cairns International Airport">Cairns International Airport</a></td><td><a href="../../../../articles/c/a/i/Cairns.html" class="mw-redirect" title="Cairns">Cairns</a>, <a href="../../../../articles/q/u/e/Queensland.html" title="Queensland">Queensland</a></td><td>CNS</td><td>1 288</td><td>2 595</td><td>2 891</td><td>3 731</td></tr><tr><td>7.</td><td><a href="../../../../articles/g/o/l/Gold_Coast_Airport_3649.html" title="Gold Coast Airport">Gold Coast Airport</a></td><td><a href="../../../../articles/g/o/l/Gold_Coast_1c1a.html" title="Gold Coast">Gold Coast</a>, <a href="../../../../articles/q/u/e/Queensland.html" title="Queensland">Queensland</a></td><td>OOL</td><td>1 124</td><td>2 044</td><td>1 948</td><td>3 515</td></tr><tr><td>8.</td><td><a href="../../../../articles/c/a/n/Canberra_International_Airport_22e6.html" title="Canberra International Airport">Canberra International Airport</a></td><td><a href="../../../../articles/c/a/n/Canberra.html" title="Canberra">Canberra</a>, <a href="../../../../articles/a/u/s/Australian_Capital_Territory_7188.html" title="Australian Capital Territory">Australian Capital Territory</a></td><td>CBR</td><td>1 124</td><td>1 750</td><td>2 108</td><td>2 550</td></tr><tr><td>9.</td><td><a href="../../../../articles/h/o/b/Hobart_International_Airport_10f0.html" title="Hobart International Airport">Hobart International Airport</a></td><td><a href="../../../../articles/h/o/b/Hobart.html" title="Hobart">Hobart</a>, <a href="../../../../articles/t/a/s/Tasmania.html" title="Tasmania">Tasmania</a></td><td>HBA</td><td>590</td><td>850</td><td>974</td><td>1 606</td></tr><tr><td>10.</td><td><a href="../../../../articles/d/a/r/Darwin_International_Airport_2f07.html" title="Darwin International Airport">Darwin International Airport</a></td><td><a href="../../../../articles/d/a/r/Darwin.html" title="Darwin">Darwin</a>, <a href="../../../../articles/n/o/r/Northern_Territory_b19a.html" title="Northern Territory">Northern Territory</a></td><td>DRW</td><td>496</td><td>932</td><td>1 078</td><td>1 219</td></tr><tr><td>11.</td><td><a href="../../../../articles/t/o/w/Townsville_Airport_e529.html" title="Townsville Airport">Townsville Airport</a></td><td><a href="../../../../articles/t/o/w/Townsville.html" class="mw-redirect" title="Townsville">Townsville</a>, <a href="../../../../articles/q/u/e/Queensland.html" title="Queensland">Queensland</a></td><td>TSV</td><td>542</td><td>662</td><td>811</td><td>1 219</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r6/k/h/c/KHCB-FM_45a4.html_0.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9166667 2 3, 0.8333333 2 4, 0.75 2 5, 0.61111116 3, 0.5092593 3 4, 0.45833334 3 5, 0.1388889 4, 0.13333334 1, 0.13333334 1 2, 0.125 5, 0.12222223 1 3, 0.11666667 0, 0.11666667 0 2, 0.11111111 1 4, 0.10694445 0 3, 0.10416667 4 5, 0.10000001 1 5, 0.097222224 0 4, 0.0875 0 5, 0.015555556 0 1, " />
+<meta name="parentHTMLDoc" value="en/articles/k/h/c/KHCB-FM_45a4.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Callsign</th>]]></html>
+	<text>Callsign</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Frequency</th>]]></html>
+	<text>Frequency</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>City of license</th>]]></html>
+	<text>City of license</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Power</th>]]></html>
+	<text>Power</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Class</th>]]></html>
+	<text>Class</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Additional Information</th>]]></html>
+	<text>Additional Information</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K287AM</td>]]></html>
+	<text>K287AM</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>105.3</td>]]></html>
+	<text>105.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beaumont, Texas</td>]]></html>
+	<text>Beaumont, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K265DH</td>]]></html>
+	<text>K265DH</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>100.9</td>]]></html>
+	<text>100.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bryan, Texas</td>]]></html>
+	<text>Bryan, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K278AU</td>]]></html>
+	<text>K278AU</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>103.5</td>]]></html>
+	<text>103.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>College Station, Texas</td>]]></html>
+	<text>College Station, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40 watts</td>]]></html>
+	<text>40 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K202EA</td>]]></html>
+	<text>K202EA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.3</td>]]></html>
+	<text>88.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lockhart, Texas</td>]]></html>
+	<text>Lockhart, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>250 watts</td>]]></html>
+	<text>250 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K203CX</td>]]></html>
+	<text>K203CX</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>88.1</td>]]></html>
+	<text>88.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>San Marcos, Texas</td>]]></html>
+	<text>San Marcos, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 watts</td>]]></html>
+	<text>8 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>K296FJ</td>]]></html>
+	<text>K296FJ</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>107.1</td>]]></html>
+	<text>107.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Vidor, Texas</td>]]></html>
+	<text>Vidor, Texas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30 watts</td>]]></html>
+	<text>30 watts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>D</td>]]></html>
+	<text>D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>FCC Radio Locator</td>]]></html>
+	<text>FCC Radio Locator</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>KHCB-FM - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Callsign Frequency City of license Power Class Additional Information</text>
+</context>
+<context>
+	<score>0.87678605</score>
+	<text>In addition to the main station, KHCB-FM is relayed by an additional 6 translators to widen it&apos;s broadcast area.</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>KHCB-FM</text>
+</context>
+<context>
+	<score>0.79006237</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.7581718</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73687506</score>
+	<text>[ edit ] Translators</text>
+</context>
+<context>
+	<score>0.73687506</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.73687506</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.71120554</score>
+	<text>KHCB-FM (105.7 FM ) is a radio station broadcasting a Christian radio format. Licensed to Houston, Texas , USA, the station serves the Houston area. The station is currently owned by Houston Christian Broadcasters, Inc..</text>
+</context>
+<context>
+	<score>0.6481199</score>
+	<text>For the AM radio station in Galveston, Texas , United States, see KHCB (AM) .</text>
+</context>
+<context>
+	<score>0.61147356</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.60895073</score>
+	<text>^ KHCB-FM Facility Record . United States Federal Communications Commission , audio division .</text>
+</context>
+<context>
+	<score>0.57109886</score>
+	<text>KHCB-FM</text>
+</context>
+<context>
+	<score>0.5211736</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.46954006</score>
+	<text>This article about a radio station in Texas is a stub . You can help Wikipedia by expanding it .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="toccolours" border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse"><tr><th><b><a href="../../../../articles/c/a/l/Callsign.html" class="mw-redirect" title="Callsign">Callsign</a></b></th><th><b><a href="../../../../articles/f/r/e/Frequency.html" title="Frequency">Frequency</a></b></th><th><b><a href="../../../../articles/c/i/t/City_of_license.html" title="City of license">City of license</a></b></th><th><b><a href="../../../../articles/n/o/m/Nominal_power.html" title="Nominal power">Power</a></b></th><th><b><a href="../../../../articles/l/i/s/List_of_North_American_broadcast_station_classes_6cdc.html" title="List of North American broadcast station classes">Class</a></b></th><th><b>Additional Information</b></th></tr><tr><td><b>K287AM</b></td><td>105.3</td><td><a href="../../../../articles/b/e/a/Beaumont%2C_Texas_7800.html" title="Beaumont, Texas">Beaumont, Texas</a></td><td>250 <a href="../../../../articles/w/a/t/Watt.html" title="Watt">watts</a></td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K287AM" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K287AM" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K287AM" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K287AM" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K265DH</b></td><td>100.9</td><td><a href="../../../../articles/b/r/y/Bryan%2C_Texas_7640.html" title="Bryan, Texas">Bryan, Texas</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K265DH" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K265DH" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K265DH" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K265DH" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K278AU</b></td><td>103.5</td><td><a href="../../../../articles/c/o/l/College_Station%2C_Texas_c116.html" title="College Station, Texas">College Station, Texas</a></td><td>40 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K278AU" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K278AU" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K278AU" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K278AU" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K202EA</b></td><td>88.3</td><td><a href="../../../../articles/l/o/c/Lockhart%2C_Texas_ae7a.html" title="Lockhart, Texas">Lockhart, Texas</a></td><td>250 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K202EA" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K202EA" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202EA" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K202EA" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K203CX</b></td><td>88.1</td><td><a href="../../../../articles/s/a/n/San_Marcos%2C_Texas_9b93.html" title="San Marcos, Texas">San Marcos, Texas</a></td><td>8 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K203CX" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K203CX" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K203CX" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K203CX" rel="nofollow">Radio Locator</a></td></tr><tr><td><b>K296FJ</b></td><td>107.1</td><td><a href="../../../../articles/v/i/d/Vidor%2C_Texas_2a01.html" title="Vidor, Texas">Vidor, Texas</a></td><td>30 watts</td><td>D</td><td><a href="http://www.fcc.gov/fcc-bin/fmq?call=K296FJ" class="external text" title="http://www.fcc.gov/fcc-bin/fmq?call=K296FJ" rel="nofollow">FCC</a> <a href="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K296FJ" class="external text" title="http://www.radio-locator.com/cgi-bin/finder?sr=Y&amp;call=K296FJ" rel="nofollow">Radio Locator</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

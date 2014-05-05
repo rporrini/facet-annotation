@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r8/u/n/i/United_Kingdom_local_elections,_1976_da1c.html_15.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9375 0 1, 0.875 0 7, 0.8203125 1 7, 0.703125 1, 0.4375 7, 0.16250001 2, 0.16250001 0 2, 0.15234375 1 2, 0.15 3, 0.15 0 3, 0.1421875 2 7, 0.140625 1 3, 0.1375 0 4, 0.13125001 3 7, 0.12890625 1 4, 0.125 0 5, 0.1171875 1 5, 0.112500004 0 6, 0.10527344 4 7, 0.092285156 1 6, 0.08613282 6 7, 0.0859375 4, 0.08203125 5 7, 0.078125 5, 0.056250002 6, 0.024375001 2 3, 0.022343753 2 4, 0.020625 3 4, 0.020312501 2 5, 0.01875 3 5, 0.018281251 2 6, 0.016875 3 6, 0.015039063 4 5, 0.011601564 4 6, 0.010546875 5 6, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_Kingdom_local_elections,_1976_da1c.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>County</th>]]></html>
+	<text>County</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Conservative</th>]]></html>
+	<text>Conservative</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Labour</th>]]></html>
+	<text>Labour</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Liberal</th>]]></html>
+	<text>Liberal</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Independent</th>]]></html>
+	<text>Independent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Other</th>]]></html>
+	<text>Other</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Control</th>]]></html>
+	<text>Control</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pendle</td>]]></html>
+	<text>Pendle</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lancashire</td>]]></html>
+	<text>Lancashire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27</td>]]></html>
+	<text>27</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative gain from NOC</td>]]></html>
+	<text>Conservative gain from NOC</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Penwith</td>]]></html>
+	<text>Penwith</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cornwall</td>]]></html>
+	<text>Cornwall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Independent hold</td>]]></html>
+	<text>Independent hold</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peterborough †</td>]]></html>
+	<text>Peterborough &#8224;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cambridgeshire</td>]]></html>
+	<text>Cambridgeshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>25</td>]]></html>
+	<text>25</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>22</td>]]></html>
+	<text>22</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative gain from Labour</td>]]></html>
+	<text>Conservative gain from Labour</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Plymouth</td>]]></html>
+	<text>Plymouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Devon</td>]]></html>
+	<text>Devon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39 (+2)</td>]]></html>
+	<text>39 (+2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27 (-2)</td>]]></html>
+	<text>27 (-2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative hold</td>]]></html>
+	<text>Conservative hold</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poole</td>]]></html>
+	<text>Poole</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dorset</td>]]></html>
+	<text>Dorset</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26 (+4)</td>]]></html>
+	<text>26 (+4)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2 (-1)</td>]]></html>
+	<text>2 (-1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8 (-1)</td>]]></html>
+	<text>8 (-1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ratepayers 0 (-2)</td>]]></html>
+	<text>Ratepayers 0 (-2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative hold</td>]]></html>
+	<text>Conservative hold</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portsmouth</td>]]></html>
+	<text>Portsmouth</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hampshire</td>]]></html>
+	<text>Hampshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>31</td>]]></html>
+	<text>31</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>14 (+1)</td>]]></html>
+	<text>14 (+1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 (-1)</td>]]></html>
+	<text>0 (-1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3 (+1)</td>]]></html>
+	<text>3 (+1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Independent Conservative 0 (-1)</td>]]></html>
+	<text>Independent Conservative 0 (-1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative hold</td>]]></html>
+	<text>Conservative hold</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Preston</td>]]></html>
+	<text>Preston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lancashire †</td>]]></html>
+	<text>Lancashire &#8224;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>43</td>]]></html>
+	<text>43</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Conservative gain from Labour</td>]]></html>
+	<text>Conservative gain from Labour</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Purbeck</td>]]></html>
+	<text>Purbeck</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dorset</td>]]></html>
+	<text>Dorset</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7 (+2)</td>]]></html>
+	<text>7 (+2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0 (-3)</td>]]></html>
+	<text>0 (-3)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>0</td>]]></html>
+	<text>0</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12 (-1)</td>]]></html>
+	<text>12 (-1)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ratepayers 2 (+2)</td>]]></html>
+	<text>Ratepayers 2 (+2)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Independent hold</td>]]></html>
+	<text>Independent hold</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United Kingdom local elections, 1976 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District County Conservative Labour Liberal Independent Other Control</text>
+</context>
+<context>
+	<score>0.88239527</score>
+	<text>[ edit ] P</text>
+</context>
+<context>
+	<score>0.8070706</score>
+	<text>United Kingdom local elections, 1976</text>
+</context>
+<context>
+	<score>0.7818181</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.7331024</score>
+	<text>[ edit ] The Results</text>
+</context>
+<context>
+	<score>0.7331024</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.72949487</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70784986</score>
+	<text>[ edit ] O</text>
+</context>
+<context>
+	<score>0.6457892</score>
+	<text>[ edit ] N</text>
+</context>
+<context>
+	<score>0.6072563</score>
+	<text>[ edit ] R</text>
+</context>
+<context>
+	<score>0.5925332</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.5564219</score>
+	<text>[ edit ] M</text>
+</context>
+<context>
+	<score>0.5210393</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.5172978</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.4992268</score>
+	<text>[ edit ] L</text>
+</context>
+<context>
+	<score>0.4752833</score>
+	<text>New ward boundaries</text>
+</context>
+<context>
+	<score>0.47011057</score>
+	<text>[ edit ] S</text>
+</context>
+<context>
+	<score>0.46262196</score>
+	<text>[ edit ] K</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>District</th><th>County</th><th>Conservative</th><th>Labour</th><th>Liberal</th><th>Independent</th><th>Other</th><th>Control</th></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/e/n/Pendle.html" title="Pendle">Pendle</a></td><td>Lancashire</td><td>27</td><td>17</td><td>6</td><td>1</td><td>0</td><td>Conservative gain from NOC</td></tr><tr><td><a href="../../../../articles/p/e/n/Penwith.html" title="Penwith">Penwith</a></td><td>Cornwall</td><td>0</td><td>1</td><td>1</td><td>38</td><td>0</td><td>Independent hold</td></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/e/t/Peterborough.html" title="Peterborough">Peterborough</a>†</td><td>Cambridgeshire</td><td>25</td><td>22</td><td>1</td><td>0</td><td>0</td><td>Conservative gain from Labour</td></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/l/y/Plymouth.html" title="Plymouth">Plymouth</a></td><td>Devon</td><td>39 (+2)</td><td>27 (-2)</td><td>0</td><td>0</td><td>0</td><td>Conservative hold</td></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/o/o/Poole.html" title="Poole">Poole</a></td><td>Dorset</td><td>26 (+4)</td><td>2 (-1)</td><td>8 (-1)</td><td>0</td><td>Ratepayers 0 (-2)</td><td>Conservative hold</td></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/o/r/Portsmouth.html" title="Portsmouth">Portsmouth</a></td><td>Hampshire</td><td>31</td><td>14 (+1)</td><td>0 (-1)</td><td>3 (+1)</td><td>Independent Conservative 0 (-1)</td><td>Conservative hold</td></tr><tr bgcolor="#5B76FF"><td><a href="../../../../articles/p/r/e/Preston.html" title="Preston">Preston</a></td><td>Lancashire †</td><td>43</td><td>13</td><td>1</td><td>0</td><td>0</td><td>Conservative gain from Labour</td></tr><tr><td><a href="../../../../articles/p/u/r/Purbeck_%28district%29.html" title="Purbeck (district)">Purbeck</a></td><td>Dorset</td><td>7 (+2)</td><td>0 (-3)</td><td>0</td><td>12 (-1)</td><td>Ratepayers 2 (+2)</td><td>Independent hold</td></tr></table>]]>
+</htmlSnippet>
+</entity>

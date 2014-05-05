@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c7/r7/t/e/n/Tennis_statistics.html_5.xml" />
+<meta name="primaryKey" value="1.0 2, 0.9285714 2 3, 0.85714287 2 6, 0.53061223 3, 0.4548105 3 6, 0.36734694 6, 0.15714286 1 2, 0.14285715 4, 0.14285715 2 4, 0.13265306 3 4, 0.12857144 5, 0.12857144 2 5, 0.1250729 1 3, 0.12244899 4 6, 0.119387746 3 5, 0.11545191 1 6, 0.11428572 0, 0.11428572 0 2, 0.112244904 1, 0.110204086 5 6, 0.10612246 0 3, 0.09795919 0 6, 0.022448981 1 4, 0.020204082 1 5, 0.018367348 4 5, 0.017959185 0 1, 0.016326532 0 4, 0.014693879 0 5, " />
+<meta name="parentHTMLDoc" value="en/articles/t/e/n/Tennis_statistics.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Years led</th>]]></html>
+	<text>Years led</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of years led</th>]]></html>
+	<text>Number of years led</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of titles for lead</th>]]></html>
+	<text>Number of titles for lead</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Number of career titles</th>]]></html>
+	<text>Number of career titles</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Tournament at which lead began</th>]]></html>
+	<text>Tournament at which lead began</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1884-1891</td>]]></html>
+	<text>1884-1891</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Maud Watson</td>]]></html>
+	<text>Maud Watson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wimbledon</td>]]></html>
+	<text>Wimbledon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1891-1900</td>]]></html>
+	<text>1891-1900</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lottie Dod</td>]]></html>
+	<text>Lottie Dod</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wimbledon</td>]]></html>
+	<text>Wimbledon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1900-1914</td>]]></html>
+	<text>1900-1914</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Blanche Bingley Hillyard</td>]]></html>
+	<text>Blanche Bingley Hillyard</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wimbledon</td>]]></html>
+	<text>Wimbledon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1914-1923</td>]]></html>
+	<text>1914-1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dorothea Douglass</td>]]></html>
+	<text>Dorothea Douglass</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wimbledon</td>]]></html>
+	<text>Wimbledon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1923-1930</td>]]></html>
+	<text>1923-1930</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Suzanne Lenglen</td>]]></html>
+	<text>Suzanne Lenglen</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>World Hard Court Championships</td>]]></html>
+	<text>World Hard Court Championships</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1930-1970</td>]]></html>
+	<text>1930-1970</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>41</td>]]></html>
+	<text>41</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Helen Wills Moody</td>]]></html>
+	<text>Helen Wills Moody</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>United States</td>]]></html>
+	<text>United States</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Wimbledon</td>]]></html>
+	<text>Wimbledon</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1970-current</td>]]></html>
+	<text>1970-current</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>38</td>]]></html>
+	<text>38</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Margaret Smith Court</td>]]></html>
+	<text>Margaret Smith Court</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Australia</td>]]></html>
+	<text>Australia</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>24</td>]]></html>
+	<text>24</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>U.S Open</td>]]></html>
+	<text>U.S Open</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Tennis statistics - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Years led Number of years led Name Country Number of titles for lead Number of career titles Tournament at which lead began</text>
+</context>
+<context>
+	<score>0.880117</score>
+	<text>[ edit ] Women</text>
+</context>
+<context>
+	<score>0.79347324</score>
+	<text>Tennis statistics</text>
+</context>
+<context>
+	<score>0.7831472</score>
+	<text>[ edit ] Men</text>
+</context>
+<context>
+	<score>0.75177467</score>
+	<text>[ edit ] Most Grand Slam singles titles (open era)</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Grand Slam tournaments</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Most titles at a particular tournament during the open era</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Most year ending tournament championships (at least 2)</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Olympic gold medalists in singles (outdoors)</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Winners of Davis Cup and Fed Cup (at least 2 wins)</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Longest match winning streaks during the open era (all surfaces)</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Open era records</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] Notes</text>
+</context>
+<context>
+	<score>0.7172265</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71589744</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7055715</score>
+	<text>[ edit ] Chronological list of Grand Slam singles titles leaders</text>
+</context>
+<context>
+	<score>0.6435109</score>
+	<text>1 Grand Slam singles title: Maud Barger-Wallach , Sue Barker , Dora Boothby , Kornelia Bouman , Kim Clijsters , Francoise Durr , Mima Jausovec , Barbara Jordan , Svetlana Kuznetsova , Nelly Landry , Ethel Larcombe , Anita Lizana , Iva Majoli , Conchita Martinez , Anastasia Myskina , Jana Novotn , Chris O&apos;Neil , Kerry Melville Reid , Muriel Robb , Virginia Ruzici , Gabriela Sabatini , Christine Truman Janes &amp; Ana Ivanovic</text>
+</context>
+<context>
+	<score>0.604978</score>
+	<text>The following tables list the persons who have won at least one Grand Slam singles title during his or her career since the beginning of the open era .</text>
+</context>
+<context>
+	<score>0.5938624</score>
+	<text>[ edit ] Women</text>
+</context>
+<context>
+	<score>0.5541436</score>
+	<text>1 Grand Slam singles title: Fred Alexander , Wilmer Allison , Malcolm Anderson , Jozsef Asboth , Marcel Bernard, William Bowrey , Pat Cash , Michael Chang , William Clothier , Albert Costa , Sven Davidson , John Doeg , Novak okovi , Mark Edmondson , Bob Falkenburg , Juan Carlos Ferrero , Gast n Gaudio , Rhys Gemmell , Vitas Gerulaitis , Andres Gimeno , Andres Gomez , Spencer Gore , John Gregory , Frank Hadow , William Hamilton , John Hartley , John Hawkes , Henner Henkel , Fred Hovey , Joseph Hunt , Goran Ivani evi , Thomas Johansson , Arthur Larsen , Algernon Kingscote , Richard Krajicek , Petr Korda , Herbert Lawford , Francis Lowe, Harold Mahoney , Vivian McGrath , Ken McGregor , Chuck McKinley , Edgar Moon , Carlos Moy , Thomas Muster , Yannick Noah , Arthur O&apos;Hara Wood, Manuel Orantes , Rafael Osuna , Dinny Pails , Adriano Panatta , James Parke , Ernie Parker , Yvon Petra , Ernest Renshaw , Horace Rice , Tony Roche , Andy Roddick , Michael Stich , Roscoe Tanner , Brian Teacher , Holcombe Ward , Sidney Wood , Beals Wright</text>
+</context>
+<context>
+	<score>0.5223686</score>
+	<text>[ edit ] Men</text>
+</context>
+<context>
+	<score>0.51862705</score>
+	<text>[ edit ] Men</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>In the following tables:</text>
+</context>
+<context>
+	<score>0.47661254</score>
+	<text>[ edit ] Most Grand Slam singles titles (all time)</text>
+</context>
+<context>
+	<score>0.4678323</score>
+	<text>5 Grand Slam singles titles: Rod Laver , John Newcombe</text>
+</context>
+<context>
+	<score>0.45901465</score>
+	<text>In the following tables:</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" style="font-size:90%"><tr bgcolor="#ECECEC"><th>Years led</th><th>Number of<br />years led</th><th>Name</th><th>Country</th><th>Number of titles<br />for lead</th><th>Number of<br />career titles</th><th>Tournament at which<br />lead began</th></tr><tr><td>1884-1891</td><td>8</td><td><a href="../../../../articles/m/a/u/Maud_Watson_39a5.html" title="Maud Watson">Maud Watson</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>1</td><td>2</td><td>Wimbledon</td></tr><tr><td>1891-1900</td><td>10</td><td><a href="../../../../articles/l/o/t/Lottie_Dod_7afc.html" title="Lottie Dod">Lottie Dod</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>3</td><td>5</td><td>Wimbledon</td></tr><tr><td>1900-1914</td><td>15</td><td><a href="../../../../articles/b/l/a/Blanche_Bingley_Hillyard_da72.html" class="mw-redirect" title="Blanche Bingley Hillyard">Blanche Bingley Hillyard</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>6</td><td>6</td><td>Wimbledon</td></tr><tr><td>1914-1923</td><td>10</td><td><a href="../../../../articles/d/o/r/Dorothea_Douglass_c609.html" class="mw-redirect" title="Dorothea Douglass">Dorothea Douglass</a></td><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>7</td><td>7</td><td>Wimbledon</td></tr><tr><td>1923-1930</td><td>8</td><td><a href="../../../../articles/s/u/z/Suzanne_Lenglen_03ee.html" title="Suzanne Lenglen">Suzanne Lenglen</a></td><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>8</td><td>12</td><td>World Hard Court Championships</td></tr><tr><td>1930-1970</td><td>41</td><td><a href="../../../../articles/h/e/l/Helen_Wills_Moody_a224.html" title="Helen Wills Moody">Helen Wills Moody</a></td><td><a href="../../../../articles/u/n/i/United_States_09d4.html" title="United States">United States</a></td><td>13</td><td>19</td><td>Wimbledon</td></tr><tr><td>1970-current</td><td>38</td><td><a href="../../../../articles/m/a/r/Margaret_Smith_Court_7690.html" class="mw-redirect" title="Margaret Smith Court">Margaret Smith Court</a></td><td><a href="../../../../articles/a/u/s/Australia.html" title="Australia">Australia</a></td><td>20</td><td>24</td><td>U.S Open</td></tr></table>]]>
+</htmlSnippet>
+</entity>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r11/u/n/i/United_States_House_of_Representatives_elections,_1924_ce17.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.8333333 0 2, 0.7638889 1 2, 0.75 0 4, 0.6875 1 4, 0.6666667 5, 0.6666667 0 5, 0.61111116 1 5, 0.5555556 2 5, 0.5 4 5, 0.22727273 2 4, 0.20454547 4, 0.15151516 2, 0.11666667 0 3, 0.10694444 1 3, 0.084848486 3, 0.07777778 3 5, 0.07159091 3 4, 0.07070707 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/i/United_States_House_of_Representatives_elections,_1924_ce17.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>District</th>]]></html>
+	<text>District</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Incumbent</th>]]></html>
+	<text>Incumbent</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Party</th>]]></html>
+	<text>Party</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Elected</th>]]></html>
+	<text>Elected</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Status</th>]]></html>
+	<text>Status</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Opponent</th>]]></html>
+	<text>Opponent</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 1</td>]]></html>
+	<text>California 1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clarence F. Lea</td>]]></html>
+	<text>Clarence F. Lea</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1916</td>]]></html>
+	<text>1916</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Clarence F. Lea (D) (unopposed)</td>]]></html>
+	<text>Clarence F. Lea (D) (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 2</td>]]></html>
+	<text>California 2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John E. Raker</td>]]></html>
+	<text>John E. Raker</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Democratic</td>]]></html>
+	<text>Democratic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1910</td>]]></html>
+	<text>1910</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John E. Raker (D) (unopposed)</td>]]></html>
+	<text>John E. Raker (D) (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 3</td>]]></html>
+	<text>California 3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles F. Curry</td>]]></html>
+	<text>Charles F. Curry</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1912</td>]]></html>
+	<text>1912</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Charles F. Curry (R) 80.7% James H. Barkley (S) 19.3%</td>]]></html>
+	<text>Charles F. Curry (R) 80.7% James H. Barkley (S) 19.3%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 4</td>]]></html>
+	<text>California 4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Julius Kahn</td>]]></html>
+	<text>Julius Kahn</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1898</td>]]></html>
+	<text>1898</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Julius Kahn (R) 81% William McDevitt (S) 19%</td>]]></html>
+	<text>Julius Kahn (R) 81% William McDevitt (S) 19%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 5</td>]]></html>
+	<text>California 5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Mae Nolan</td>]]></html>
+	<text>Mae Nolan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1922</td>]]></html>
+	<text>1922</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Retiring</td>]]></html>
+	<text>Retiring</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lawrence J. Flaherty (R) 72.6% Isabel C. King (S) 27.4%</td>]]></html>
+	<text>Lawrence J. Flaherty (R) 72.6% Isabel C. King (S) 27.4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 6</td>]]></html>
+	<text>California 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>James H. MacLafferty</td>]]></html>
+	<text>James H. MacLafferty</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1922</td>]]></html>
+	<text>1922</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Defeated in primary</td>]]></html>
+	<text>Defeated in primary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Albert E. Carter (R) 57.5% John L. Davie (I) 35.9% Herbert L. Coggins (S) 7.6%</td>]]></html>
+	<text>Albert E. Carter (R) 57.5% John L. Davie (I) 35.9% Herbert L. Coggins (S) 7.6%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 7</td>]]></html>
+	<text>California 7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry E. Barbour</td>]]></html>
+	<text>Henry E. Barbour</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1918</td>]]></html>
+	<text>1918</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Henry E. Barbour (R) (unopposed)</td>]]></html>
+	<text>Henry E. Barbour (R) (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 8</td>]]></html>
+	<text>California 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arthur M. Free</td>]]></html>
+	<text>Arthur M. Free</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Arthur M. Free (R) (unopposed)</td>]]></html>
+	<text>Arthur M. Free (R) (unopposed)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 9</td>]]></html>
+	<text>California 9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walter F. Lineberger</td>]]></html>
+	<text>Walter F. Lineberger</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Walter F. Lineberger (R) 63.9% Charles H. Randall (D- Proh. ) 36.1%</td>]]></html>
+	<text>Walter F. Lineberger (R) 63.9% Charles H. Randall (D- Proh. ) 36.1%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 10</td>]]></html>
+	<text>California 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John D. Fredericks</td>]]></html>
+	<text>John D. Fredericks</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1923</td>]]></html>
+	<text>1923</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John D. Fredericks (R) 62.3% Robert W. Richardson (D) 37.7%</td>]]></html>
+	<text>John D. Fredericks (R) 62.3% Robert W. Richardson (D) 37.7%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>California 11</td>]]></html>
+	<text>California 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philip D. Swing</td>]]></html>
+	<text>Philip D. Swing</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Republican</td>]]></html>
+	<text>Republican</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1920</td>]]></html>
+	<text>1920</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Running</td>]]></html>
+	<text>Running</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Philip D. Swing (R) (unopposed)</td>]]></html>
+	<text>Philip D. Swing (R) (unopposed)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>United States House of Representatives elections, 1924 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>District Incumbent Party Elected Status Opponent</text>
+</context>
+<context>
+	<score>0.88962084</score>
+	<text>[ edit ] California</text>
+</context>
+<context>
+	<score>0.80388445</score>
+	<text>United States House of Representatives elections, 1924</text>
+</context>
+<context>
+	<score>0.7910497</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.759159</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] Overall results</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] California</text>
+</context>
+<context>
+	<score>0.7378624</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.7121928</score>
+	<text>Coolidge&apos;s popularity helped his Republican Party to gain a net 22 seats from the opposition Democratic Party , cementing their majority. The burgeoning economy and Republican pro-business policies caused the party to gain popularity. The populist Farmer-Labor Party also gained a seat in Minnesota.</text>
+</context>
+<context>
+	<score>0.6491072</score>
+	<text>The U.S. House election, 1924 was an election for the United States House of Representatives in 1924 which coincided with the election of President Calvin Coolidge , who had replaced Warren Harding following his death.</text>
+</context>
+<context>
+	<score>0.61147356</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.59710324</score>
+	<text>Preceded by</text>
+</context>
+<context>
+	<score>0.57109886</score>
+	<text>United States House of Representatives elections, 1924</text>
+</context>
+<context>
+	<score>0.45769256</score>
+	<text>Succeeded by</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr bgcolor="#CCCCCC"><th>District</th><th>Incumbent</th><th>Party</th><th>Elected</th><th>Status</th><th>Opponent</th></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 1</td><td><a href="../../../../articles/c/l/a/Clarence_F._Lea_725c.html" title="Clarence F. Lea">Clarence F. Lea</a></td><td>Democratic</td><td><center>1916</center></td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/c/l/a/Clarence_F._Lea_725c.html" title="Clarence F. Lea">Clarence F. Lea</a> (D) (unopposed)</b></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 2</td><td><a href="../../../../articles/j/o/h/John_E._Raker_db10.html" title="John E. Raker">John E. Raker</a></td><td>Democratic</td><td><center>1910</center></td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/j/o/h/John_E._Raker_db10.html" title="John E. Raker">John E. Raker</a> (D) (unopposed)</b></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 3</td><td><a href="../../../../articles/c/h/a/Charles_F._Curry_4d1a.html" title="Charles F. Curry">Charles F. Curry</a></td><td>Republican</td><td><center>1912</center></td><td>Running</td><td><b><a href="../../../../articles/c/h/a/Charles_F._Curry_4d1a.html" title="Charles F. Curry">Charles F. Curry</a> (R) 80.7%</b><br />James H. Barkley (S) 19.3%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 4</td><td><a href="../../../../articles/j/u/l/Julius_Kahn_681c.html" title="Julius Kahn">Julius Kahn</a></td><td>Republican</td><td><center>1898</center></td><td>Running</td><td><b><a href="../../../../articles/j/u/l/Julius_Kahn_681c.html" title="Julius Kahn">Julius Kahn</a> (R) 81%</b><br />William McDevitt (S) 19%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 5</td><td bgcolor="lightgrey"><a href="../../../../articles/m/a/e/Mae_Nolan_3aa0.html" title="Mae Nolan">Mae Nolan</a></td><td>Republican</td><td><center>1922</center></td><td>Retiring</td><td><b><a href="../../../../articles/l/a/w/Lawrence_J._Flaherty_b497.html" title="Lawrence J. Flaherty">Lawrence J. Flaherty</a> (R) 72.6%</b><br />Isabel C. King (S) 27.4%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 6</td><td bgcolor="lightgrey"><a href="../../../../articles/j/a/m/James_H._MacLafferty_3858.html" title="James H. MacLafferty">James H. MacLafferty</a></td><td>Republican</td><td><center>1922</center></td><td>Defeated in primary</td><td><b><a href="../../../../articles/a/l/b/Albert_E._Carter_c7df.html" title="Albert E. Carter">Albert E. Carter</a> (R) 57.5%</b><br />John L. Davie (I) 35.9%<br />Herbert L. Coggins (S) 7.6%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 7</td><td><a href="../../../../articles/h/e/n/Henry_E._Barbour_af34.html" title="Henry E. Barbour">Henry E. Barbour</a></td><td>Republican</td><td><center>1918</center></td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/h/e/n/Henry_E._Barbour_af34.html" title="Henry E. Barbour">Henry E. Barbour</a> (R) (unopposed)</b></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 8</td><td><a href="../../../../articles/a/r/t/Arthur_M._Free_3bdc.html" title="Arthur M. Free">Arthur M. Free</a></td><td>Republican</td><td><center>1920</center></td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/a/r/t/Arthur_M._Free_3bdc.html" title="Arthur M. Free">Arthur M. Free</a> (R) (unopposed)</b></td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 9</td><td><a href="../../../../articles/w/a/l/Walter_F._Lineberger_7cd3.html" title="Walter F. Lineberger">Walter F. Lineberger</a></td><td>Republican</td><td><center>1920</center></td><td>Running</td><td><b><a href="../../../../articles/w/a/l/Walter_F._Lineberger_7cd3.html" title="Walter F. Lineberger">Walter F. Lineberger</a> (R) 63.9%</b><br />Charles H. Randall (D-<a href="../../../../articles/p/r/o/Prohibition_Party_4e20.html" title="Prohibition Party">Proh.</a>) 36.1%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 10</td><td><a href="../../../../articles/j/o/h/John_D._Fredericks_47fe.html" title="John D. Fredericks">John D. Fredericks</a></td><td>Republican</td><td><center>1923</center></td><td>Running</td><td><b><a href="../../../../articles/j/o/h/John_D._Fredericks_47fe.html" title="John D. Fredericks">John D. Fredericks</a> (R) 62.3%</b><br />Robert W. Richardson (D) 37.7%</td></tr><tr><td><a href="../../../../articles/c/a/l/California.html" title="California">California</a> 11</td><td><a href="../../../../articles/p/h/i/Phil_Swing_b230.html" title="Phil Swing">Philip D. Swing</a></td><td>Republican</td><td><center>1920</center></td><td>Running</td><td bgcolor="lightgrey"><b><a href="../../../../articles/p/h/i/Phil_Swing_b230.html" title="Phil Swing">Philip D. Swing</a> (R) (unopposed)</b></td></tr></table>]]>
+</htmlSnippet>
+</entity>

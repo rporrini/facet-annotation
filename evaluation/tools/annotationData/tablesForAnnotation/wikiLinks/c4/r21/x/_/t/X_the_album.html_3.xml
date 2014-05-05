@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r21/x/_/t/X_the_album.html_3.xml" />
+<meta name="primaryKey" value="1.0 1, 0.875 2, 0.875 1 2, 0.75 3, 0.75 1 3, 0.65625 2 3, 0.125 0, 0.125 0 1, 0.109375 0 2, 0.09375 0 3, " />
+<meta name="parentHTMLDoc" value="en/articles/x/_/t/X_the_album.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Track Number</th>]]></html>
+	<text>Track Number</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Title</th>]]></html>
+	<text>Title</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Artist</th>]]></html>
+	<text>Artist</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Original Album</th>]]></html>
+	<text>Original Album</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>1</td>]]></html>
+	<text>1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>More than Useless</td>]]></html>
+	<text>More than Useless</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Relient K</td>]]></html>
+	<text>Relient K</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MMHMM</td>]]></html>
+	<text>MMHMM</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>2</td>]]></html>
+	<text>2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hypnotized</td>]]></html>
+	<text>Hypnotized</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Pillar</td>]]></html>
+	<text>Pillar</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Where Do We Go From Here</td>]]></html>
+	<text>Where Do We Go From Here</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>3</td>]]></html>
+	<text>3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gone</td>]]></html>
+	<text>Gone</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>tobyMac</td>]]></html>
+	<text>tobyMac</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Welcome to Diverse City</td>]]></html>
+	<text>Welcome to Diverse City</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>4</td>]]></html>
+	<text>4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Break Me</td>]]></html>
+	<text>Break Me</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seventh Day Slumber</td>]]></html>
+	<text>Seventh Day Slumber</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Once Upon A Shattered Life</td>]]></html>
+	<text>Once Upon A Shattered Life</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>5</td>]]></html>
+	<text>5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Exit Calypsan</td>]]></html>
+	<text>Exit Calypsan</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Falling Up</td>]]></html>
+	<text>Falling Up</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dawn Escapes</td>]]></html>
+	<text>Dawn Escapes</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>6</td>]]></html>
+	<text>6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Everyone Like Me</td>]]></html>
+	<text>Everyone Like Me</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Thousand Foot Krutch</td>]]></html>
+	<text>Thousand Foot Krutch</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Set It Off (Remastered)</td>]]></html>
+	<text>Set It Off (Remastered)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>7</td>]]></html>
+	<text>7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lay Down My Pride</td>]]></html>
+	<text>Lay Down My Pride</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Jeremy Camp</td>]]></html>
+	<text>Jeremy Camp</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Restored</td>]]></html>
+	<text>Restored</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>8</td>]]></html>
+	<text>8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Everything About You</td>]]></html>
+	<text>Everything About You</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sanctus Real</td>]]></html>
+	<text>Sanctus Real</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Fight the Tide</td>]]></html>
+	<text>Fight the Tide</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>9</td>]]></html>
+	<text>9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>It's Like Me</td>]]></html>
+	<text>It&amp;apos;s Like Me</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kutless</td>]]></html>
+	<text>Kutless</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sea of Faces</td>]]></html>
+	<text>Sea of Faces</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>10</td>]]></html>
+	<text>10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Are You Real</td>]]></html>
+	<text>Are You Real</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KJ-52</td>]]></html>
+	<text>KJ-52</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Behind the Musik (A Boy Named Jonah)</td>]]></html>
+	<text>Behind the Musik (A Boy Named Jonah)</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>11</td>]]></html>
+	<text>11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Reinventing Your Exit</td>]]></html>
+	<text>Reinventing Your Exit</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Underoath</td>]]></html>
+	<text>Underoath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>They're Only Chasing Safety</td>]]></html>
+	<text>They&amp;apos;re Only Chasing Safety</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>12</td>]]></html>
+	<text>12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Detainer</td>]]></html>
+	<text>Detainer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Day of Fire</td>]]></html>
+	<text>Day of Fire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Day of Fire</td>]]></html>
+	<text>Day of Fire</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>13</td>]]></html>
+	<text>13</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Open Wounds</td>]]></html>
+	<text>Open Wounds</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Skillet</td>]]></html>
+	<text>Skillet</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Collide</td>]]></html>
+	<text>Collide</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>14</td>]]></html>
+	<text>14</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Out of Control</td>]]></html>
+	<text>Out of Control</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>John Reuben</td>]]></html>
+	<text>John Reuben</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Boy vs. The Cynic</td>]]></html>
+	<text>The Boy vs. The Cynic</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>15</td>]]></html>
+	<text>15</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>California</td>]]></html>
+	<text>California</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawk Nelson</td>]]></html>
+	<text>Hawk Nelson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Letters to the President</td>]]></html>
+	<text>Letters to the President</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>16</td>]]></html>
+	<text>16</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bowling Ball</td>]]></html>
+	<text>Bowling Ball</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Superchick</td>]]></html>
+	<text>Superchick</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Beauty from Pain</td>]]></html>
+	<text>Beauty from Pain</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>17</td>]]></html>
+	<text>17</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sooner or Later</td>]]></html>
+	<text>Sooner or Later</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Switchfoot</td>]]></html>
+	<text>Switchfoot</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>The Early Years 1997-2000</td>]]></html>
+	<text>The Early Years 1997-2000</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>18</td>]]></html>
+	<text>18</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Even When</td>]]></html>
+	<text>Even When</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Seven Places</td>]]></html>
+	<text>Seven Places</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hear Us Say Jesus</td>]]></html>
+	<text>Hear Us Say Jesus</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>19</td>]]></html>
+	<text>19</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Let This One Stay</td>]]></html>
+	<text>Let This One Stay</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Dizmas</td>]]></html>
+	<text>Dizmas</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>On A Search In America</td>]]></html>
+	<text>On A Search In America</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>20</td>]]></html>
+	<text>20</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Apparitions of Melody</td>]]></html>
+	<text>Apparitions of Melody</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Kids in the Way</td>]]></html>
+	<text>Kids in the Way</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Apparitions of Melody</td>]]></html>
+	<text>Apparitions of Melody</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>21</td>]]></html>
+	<text>21</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Serial Sleepers</td>]]></html>
+	<text>Serial Sleepers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>House of Heroes</td>]]></html>
+	<text>House of Heroes</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>House of Heroes</td>]]></html>
+	<text>House of Heroes</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>X the album - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Track Number Title Artist Original Album</text>
+</context>
+<context>
+	<score>0.88484657</score>
+	<text>[ edit ] X 2005</text>
+</context>
+<context>
+	<score>0.80345994</score>
+	<text>X the album</text>
+</context>
+<context>
+	<score>0.7818146</score>
+	<text>X 2004</text>
+</context>
+<context>
+	<score>0.7565023</score>
+	<text>[ edit ] X 2006</text>
+</context>
+<context>
+	<score>0.7319436</score>
+	<text>[ edit ] Rock Compilations</text>
+</context>
+<context>
+	<score>0.7319436</score>
+	<text>[ edit ] DVDs</text>
+</context>
+<context>
+	<score>0.7319436</score>
+	<text>[ edit ] X Worship</text>
+</context>
+<context>
+	<score>0.7258829</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7102983</score>
+	<text>[ edit ] X 2004</text>
+</context>
+<context>
+	<score>0.64823663</score>
+	<text>[ edit ] Disc 2</text>
+</context>
+<context>
+	<score>0.6097031</score>
+	<text>[ edit ] X 2007</text>
+</context>
+<context>
+	<score>0.59858733</score>
+	<text>[ edit ] Disc 1</text>
+</context>
+<context>
+	<score>0.5588679</score>
+	<text>[ edit ] X 2003</text>
+</context>
+<context>
+	<score>0.5233507</score>
+	<text>[ edit ] X 2008</text>
+</context>
+<context>
+	<score>0.5210316</score>
+	<text>The rock compilations promote general Christian rock and have a little variety into metal, hip-hop, and rap.</text>
+</context>
+<context>
+	<score>0.5016719</score>
+	<text>[ edit ] Rock Compilations</text>
+</context>
+<context>
+	<score>0.47527486</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.4725552</score>
+	<text>[ edit ] DVDs</text>
+</context>
+<context>
+	<score>0.46763587</score>
+	<text>From Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>0.4650665</score>
+	<text>The X series is a collection of compilation albums and compilation DVDs released by Tooth and Nail Records promoting Christian music , specifically from Tooth and Nail Records and BEC Records .</text>
+</context>
+<context>
+	<score>0.45722368</score>
+	<text>X the album</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable" cellspacing="0" cellpadding="2" width="550" align="center"><tr><th align="center" valign="top">Track Number</th><th align="center" valign="top">Title</th><th align="center" valign="top">Artist</th><th align="center" valign="top">Original Album</th></tr><tr><td align="left" valign="top">1</td><td align="left" valign="top">More than Useless</td><td align="left" valign="top"><a href="../../../../articles/r/e/l/Relient_K_3ad5.html" title="Relient K">Relient K</a></td><td align="left" valign="top"><a href="../../../../articles/m/m/h/MMHMM_31ee.html" class="mw-redirect" title="MMHMM">MMHMM</a></td></tr><tr><td align="left" valign="top">2</td><td align="left" valign="top">Hypnotized</td><td align="left" valign="top"><a href="../../../../articles/p/i/l/Pillar_%28band%29.html" title="Pillar (band)">Pillar</a></td><td align="left" valign="top"><a href="../../../../articles/w/h/e/Where_Do_We_Go_From_Here_7892.html" class="mw-redirect" title="Where Do We Go From Here">Where Do We Go From Here</a></td></tr><tr><td align="left" valign="top">3</td><td align="left" valign="top">Gone</td><td align="left" valign="top"><a href="../../../../articles/t/o/b/TobyMac_a272.html" title="TobyMac">tobyMac</a></td><td align="left" valign="top"><a href="../../../../articles/w/e/l/Welcome_to_Diverse_City_3af6.html" class="mw-redirect" title="Welcome to Diverse City">Welcome to Diverse City</a></td></tr><tr><td align="left" valign="top">4</td><td align="left" valign="top">Break Me</td><td align="left" valign="top"><a href="../../../../articles/s/e/v/Seventh_Day_Slumber_d109.html" title="Seventh Day Slumber">Seventh Day Slumber</a></td><td align="left" valign="top">Once Upon A Shattered Life</td></tr><tr><td align="left" valign="top">5</td><td align="left" valign="top">Exit Calypsan</td><td align="left" valign="top"><a href="../../../../articles/f/a/l/Falling_Up_8dcf.html" title="Falling Up">Falling Up</a></td><td align="left" valign="top"><a href="../../../../articles/d/a/w/Dawn_Escapes_f6c5.html" title="Dawn Escapes">Dawn Escapes</a></td></tr><tr><td align="left" valign="top">6</td><td align="left" valign="top">Everyone Like Me</td><td align="left" valign="top"><a href="../../../../articles/t/h/o/Thousand_Foot_Krutch_855a.html" title="Thousand Foot Krutch">Thousand Foot Krutch</a></td><td align="left" valign="top"><a href="../../../../articles/s/e/t/Set_It_Off_%28album%29_b7fd.html" title="Set It Off (album)">Set It Off (Remastered)</a></td></tr><tr><td align="left" valign="top">7</td><td align="left" valign="top">Lay Down My Pride</td><td align="left" valign="top"><a href="../../../../articles/j/e/r/Jeremy_Camp_e0c7.html" title="Jeremy Camp">Jeremy Camp</a></td><td align="left" valign="top"><a href="../../../../articles/r/e/s/Restored.html" title="Restored">Restored</a></td></tr><tr><td align="left" valign="top">8</td><td align="left" valign="top">Everything About You</td><td align="left" valign="top"><a href="../../../../articles/s/a/n/Sanctus_Real_e861.html" title="Sanctus Real">Sanctus Real</a></td><td align="left" valign="top"><a href="../../../../articles/f/i/g/Fight_the_Tide_c243.html" title="Fight the Tide">Fight the Tide</a></td></tr><tr><td align="left" valign="top">9</td><td align="left" valign="top">It's Like Me</td><td align="left" valign="top"><a href="../../../../articles/k/u/t/Kutless.html" title="Kutless">Kutless</a></td><td align="left" valign="top"><a href="../../../../articles/s/e/a/Sea_of_Faces_653a.html" title="Sea of Faces">Sea of Faces</a></td></tr><tr><td align="left" valign="top">10</td><td align="left" valign="top">Are You Real</td><td align="left" valign="top"><a href="../../../../articles/k/j/-/KJ-52_a1fe.html" title="KJ-52">KJ-52</a></td><td align="left" valign="top"><a href="../../../../articles/b/e/h/Behind_the_Musik_%28A_Boy_Named_Jonah%29_8aef.html" title="Behind the Musik (A Boy Named Jonah)">Behind the Musik (A Boy Named Jonah)</a></td></tr><tr><td align="left" valign="top">11</td><td align="left" valign="top">Reinventing Your Exit</td><td align="left" valign="top"><a href="../../../../articles/u/n/d/Underoath.html" title="Underoath">Underoath</a></td><td align="left" valign="top"><a href="../../../../articles/t/h/e/They%27re_Only_Chasing_Safety_0e48.html" title="They're Only Chasing Safety">They're Only Chasing Safety</a></td></tr><tr><td align="left" valign="top">12</td><td align="left" valign="top">Detainer</td><td align="left" valign="top"><a href="../../../../articles/d/a/y/Day_of_Fire_0c49.html" title="Day of Fire">Day of Fire</a></td><td align="left" valign="top"><a href="../../../../articles/d/a/y/Day_of_Fire_%28album%29_05e1.html" title="Day of Fire (album)">Day of Fire</a></td></tr><tr><td align="left" valign="top">13</td><td align="left" valign="top">Open Wounds</td><td align="left" valign="top"><a href="../../../../articles/s/k/i/Skillet_%28band%29.html" title="Skillet (band)">Skillet</a></td><td align="left" valign="top"><a href="../../../../articles/c/o/l/Collide_%28album%29.html" title="Collide (album)">Collide</a></td></tr><tr><td align="left" valign="top">14</td><td align="left" valign="top">Out of Control</td><td align="left" valign="top"><a href="../../../../articles/j/o/h/John_Reuben_5bb7.html" title="John Reuben">John Reuben</a></td><td align="left" valign="top"><a href="../../../../articles/t/h/e/The_Boy_vs._The_Cynic_31e2.html" title="The Boy vs. The Cynic">The Boy vs. The Cynic</a></td></tr><tr><td align="left" valign="top">15</td><td align="left" valign="top">California</td><td align="left" valign="top"><a href="../../../../articles/h/a/w/Hawk_Nelson_f132.html" title="Hawk Nelson">Hawk Nelson</a></td><td align="left" valign="top"><a href="../../../../articles/l/e/t/Letters_to_the_President_4e95.html" title="Letters to the President">Letters to the President</a></td></tr><tr><td align="left" valign="top">16</td><td align="left" valign="top">Bowling Ball</td><td align="left" valign="top"><a href="../../../../articles/s/u/p/Superchick.html" title="Superchick">Superchick</a></td><td align="left" valign="top"><a href="../../../../articles/b/e/a/Beauty_from_Pain_a8a5.html" title="Beauty from Pain">Beauty from Pain</a></td></tr><tr><td align="left" valign="top">17</td><td align="left" valign="top">Sooner or Later</td><td align="left" valign="top"><a href="../../../../articles/s/w/i/Switchfoot.html" title="Switchfoot">Switchfoot</a></td><td align="left" valign="top">The Early Years 1997-2000</td></tr><tr><td align="left" valign="top">18</td><td align="left" valign="top">Even When</td><td align="left" valign="top"><a href="../../../../articles/s/e/v/Seven_Places_7c50.html" title="Seven Places">Seven Places</a></td><td align="left" valign="top"><a href="../../../../articles/h/e/a/Hear_Us_Say_Jesus_9ca8.html" title="Hear Us Say Jesus">Hear Us Say Jesus</a></td></tr><tr><td align="left" valign="top">19</td><td align="left" valign="top">Let This One Stay</td><td align="left" valign="top"><a href="../../../../articles/d/i/z/Dizmas.html" title="Dizmas">Dizmas</a></td><td align="left" valign="top"><a href="../../../../articles/o/n/_/On_A_Search_In_America_20f6.html" class="mw-redirect" title="On A Search In America">On A Search In America</a></td></tr><tr><td align="left" valign="top">20</td><td align="left" valign="top">Apparitions of Melody</td><td align="left" valign="top"><a href="../../../../articles/k/i/d/Kids_in_the_Way_2f17.html" title="Kids in the Way">Kids in the Way</a></td><td align="left" valign="top"><a href="../../../../articles/a/p/p/Apparitions_of_Melody_713d.html" title="Apparitions of Melody">Apparitions of Melody</a></td></tr><tr><td align="left" valign="top">21</td><td align="left" valign="top">Serial Sleepers</td><td align="left" valign="top"><a href="../../../../articles/h/o/u/House_of_Heroes_72f7.html" title="House of Heroes">House of Heroes</a></td><td align="left" valign="top"><a href="../../../../articles/h/o/u/House_of_Heroes_%28album%29_e3f5.html" title="House of Heroes (album)">House of Heroes</a></td></tr></table>]]>
+</htmlSnippet>
+</entity>

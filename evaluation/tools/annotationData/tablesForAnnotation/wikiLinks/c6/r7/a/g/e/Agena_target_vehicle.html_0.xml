@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r7/a/g/e/Agena_target_vehicle.html_0.xml" />
+<meta name="primaryKey" value="0.9166667 5, 0.9166667 1 5, 0.85714287 1, 0.16666667 3, 0.16666667 1 3, 0.15277779 3 5, 0.15 2, 0.15 1 2, 0.1375 2 5, 0.13333334 4, 0.13333334 1 4, 0.12222223 4 5, 0.11666667 0, 0.11666667 0 1, 0.10694445 0 5, 0.025 2 3, 0.022222225 3 4, 0.020000001 2 4, 0.019444445 0 3, 0.0175 0 2, 0.015555556 0 4, " />
+<meta name="parentHTMLDoc" value="en/articles/a/g/e/Agena_target_vehicle.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Agena</th>]]></html>
+	<text>Agena</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Gemini mission</th>]]></html>
+	<text>Gemini mission</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Launched</th>]]></html>
+	<text>Launched</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Reentered</th>]]></html>
+	<text>Reentered</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>NSSDC ID</th>]]></html>
+	<text>NSSDC ID</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Comments</th>]]></html>
+	<text>Comments</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5002</td>]]></html>
+	<text>GATV-5002</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 6</td>]]></html>
+	<text>Gemini 6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 25 , 1965 15:00:04 UTC</td>]]></html>
+	<text>October 25 , 1965 15:00:04 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>October 25 , 1965 15:06:20 UTC</td>]]></html>
+	<text>October 25 , 1965 15:06:20 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GEM6T</td>]]></html>
+	<text>GEM6T</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Exploded during launch. 3,261-kg</td>]]></html>
+	<text>Exploded during launch. 3,261-kg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5003</td>]]></html>
+	<text>GATV-5003</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 8</td>]]></html>
+	<text>Gemini 8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>March 16 , 1966 15:00:03 UTC</td>]]></html>
+	<text>March 16 , 1966 15:00:03 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 15 , 1967</td>]]></html>
+	<text>September 15 , 1967</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966-019A</td>]]></html>
+	<text>1966-019A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First docking. 3,175-kg. Gemini 10 later rendezvoused with Agena 8</td>]]></html>
+	<text>First docking. 3,175-kg. Gemini 10 later rendezvoused with Agena 8</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5004</td>]]></html>
+	<text>GATV-5004</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 9A</td>]]></html>
+	<text>Gemini 9A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 17 , 1966 15:12:00 UTC</td>]]></html>
+	<text>May 17 , 1966 15:12:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>May 17 , 1966 15:19:00 UTC</td>]]></html>
+	<text>May 17 , 1966 15:19:00 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>GEM9TA</td>]]></html>
+	<text>GEM9TA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Failed to orbit. 3,252-kg</td>]]></html>
+	<text>Failed to orbit. 3,252-kg</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ATDA #02186</td>]]></html>
+	<text>ATDA #02186</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 9A</td>]]></html>
+	<text>Gemini 9A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 1 , 1966 15:00:02 UTC</td>]]></html>
+	<text>June 1 , 1966 15:00:02 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>June 11 , 1966</td>]]></html>
+	<text>June 11 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966-046A</td>]]></html>
+	<text>1966-046A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Shroud did not separate. 794 kg. Built from docking portion of Agena Target Vehicle and Gemini reentry thruster section.</td>]]></html>
+	<text>Shroud did not separate. 794 kg. Built from docking portion of Agena Target Vehicle and Gemini reentry thruster section.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5005</td>]]></html>
+	<text>GATV-5005</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 10</td>]]></html>
+	<text>Gemini 10</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>July 18 , 1966 20:39:46 UTC</td>]]></html>
+	<text>July 18 , 1966 20:39:46 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 29 , 1966</td>]]></html>
+	<text>December 29 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966-065A</td>]]></html>
+	<text>1966-065A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boosted Gemini 10 to a 763-km apogee. 3,175-kg.</td>]]></html>
+	<text>Boosted Gemini 10 to a 763-km apogee. 3,175-kg.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5006</td>]]></html>
+	<text>GATV-5006</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 11</td>]]></html>
+	<text>Gemini 11</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>September 12 , 1966 13:05:01 UTC</td>]]></html>
+	<text>September 12 , 1966 13:05:01 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 30 , 1966</td>]]></html>
+	<text>December 30 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966-080A</td>]]></html>
+	<text>1966-080A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Boosted Gemini 11 to a record 1,374-km apogee. 3,175-kg. First demonstration of artificial gravity created in a microgravity environment.</td>]]></html>
+	<text>Boosted Gemini 11 to a record 1,374-km apogee. 3,175-kg. First demonstration of artificial gravity created in a microgravity environment.</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>GATV-5001A</td>]]></html>
+	<text>GATV-5001A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gemini 12</td>]]></html>
+	<text>Gemini 12</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>November 11 , 1966 19:07:58 UTC</td>]]></html>
+	<text>November 11 , 1966 19:07:58 UTC</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>December 23 , 1966</td>]]></html>
+	<text>December 23 , 1966</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1966-103A</td>]]></html>
+	<text>1966-103A</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>No apogee boost due to a defective main Agena engine. 3,175-kg. Tether experiment.</td>]]></html>
+	<text>No apogee boost due to a defective main Agena engine. 3,175-kg. Tether experiment.</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Agena target vehicle - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Agena Gemini mission Launched Reentered NSSDC ID Comments</text>
+</context>
+<context>
+	<score>0.88199496</score>
+	<text>[ edit ] Agena target vehicle flight statistics</text>
+</context>
+<context>
+	<score>0.79582375</score>
+	<text>Agena target vehicle</text>
+</context>
+<context>
+	<score>0.7628922</score>
+	<text>After the Gemini capsule separated for the last time, the Agena remained in orbit for a short time and was used to verify the command system.</text>
+</context>
+<context>
+	<score>0.74251974</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7252404</score>
+	<text>[ edit ] Agena target vehicle flight statistics</text>
+</context>
+<context>
+	<score>0.7252404</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.67858714</score>
+	<text>The Gemini astronauts would then fly in a stabilized mode and perform a number of experiments:</text>
+</context>
+<context>
+	<score>0.6248647</score>
+	<text>The McDonnell Gemini spacecraft would then launch (as close as 90 minutes) from Launch Complex 19 (both countdowns would proceed in parallel and required close synchronization) and, toward the end of the program, would dock with the Agena within the first orbit after launch.</text>
+</context>
+<context>
+	<score>0.5829893</score>
+	<text>Gemini 6/Agena target vehicle 5002 systems test evaluation (PDF) December 1965 Gemini 8 Docks with Agena Video</text>
+</context>
+<context>
+	<score>0.5709095</score>
+	<text>Each ATV consisted of an Agena spacecraft built by Lockheed and a docking adapter built by McDonnell . The Agena was launched from Cape Canaveral Air Force Station Launch Complex 14 on top of an Atlas booster built by the Convair division of General Dynamics . The Agena first burn would occur shortly after shroud jettison and separation from the Atlas over the Atlantic Ocean . Over Ascension Island , a second burn would boost the Agena into a low circular orbit.</text>
+</context>
+<context>
+	<score>0.5277453</score>
+	<text>The Agena target vehicle (ATV) was a spacecraft used by NASA to develop and practice orbital space rendezvous and docking techniques in preparation for the Apollo program lunar missions.</text>
+</context>
+<context>
+	<score>0.49321398</score>
+	<text>The ATDA in orbit as seen from Gemini 9A .</text>
+</context>
+<context>
+	<score>0.48914787</score>
+	<text>Categories :</text>
+</context>
+<context>
+	<score>0.46558893</score>
+	<text>An Atlas launch vehicle launches GATV-5006 into orbit for the Gemini 11 mission.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th align="left">Agena</th><th align="left">Gemini mission</th><th align="right">Launched</th><th align="right">Reentered</th><th align="left">NSSDC ID</th><th align="left">Comments</th></tr><tr><td align="left">GATV-5002</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_6A_4fd4.html" title="Gemini 6A">Gemini 6</a></td><td align="right"><a href="../../../../articles/o/c/t/October_25.html" title="October 25">October 25</a>, <a href="../../../../articles/1/9/6/1965.html" title="1965">1965</a><br />15:00:04 UTC</td><td align="right"><a href="../../../../articles/o/c/t/October_25.html" title="October 25">October 25</a>, <a href="../../../../articles/1/9/6/1965.html" title="1965">1965</a><br />15:06:20 UTC</td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=GEM6T" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=GEM6T" rel="nofollow">GEM6T</a></td><td align="left">Exploded during launch. 3,261-kg</td></tr><tr><td align="left">GATV-5003</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_8.html" title="Gemini 8">Gemini 8</a></td><td align="right"><a href="../../../../articles/m/a/r/March_16.html" title="March 16">March 16</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />15:00:03 UTC</td><td align="right"><a href="../../../../articles/s/e/p/September_15.html" title="September 15">September 15</a>, <a href="../../../../articles/1/9/6/1967.html" title="1967">1967</a></td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-019A" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-019A" rel="nofollow">1966-019A</a></td><td align="left">First docking. 3,175-kg. Gemini 10 later<br />rendezvoused with Agena 8</td></tr><tr><td align="left">GATV-5004</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_9A_a00e.html" title="Gemini 9A">Gemini 9A</a></td><td align="right"><a href="../../../../articles/m/a/y/May_17.html" title="May 17">May 17</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />15:12:00 UTC</td><td align="right"><a href="../../../../articles/m/a/y/May_17.html" title="May 17">May 17</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />15:19:00 UTC</td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=GEM9TA" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=GEM9TA" rel="nofollow">GEM9TA</a></td><td align="left">Failed to orbit. 3,252-kg</td></tr><tr><td align="left">ATDA #02186</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_9A_a00e.html" title="Gemini 9A">Gemini 9A</a></td><td align="right"><a href="../../../../articles/j/u/n/June_1.html" title="June 1">June 1</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />15:00:02 UTC</td><td align="right"><a href="../../../../articles/j/u/n/June_11.html" title="June 11">June 11</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-046A" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-046A" rel="nofollow">1966-046A</a></td><td align="left">Shroud did not separate. 794 kg. Built from<br />docking portion of Agena Target Vehicle and<br />Gemini reentry thruster section.</td></tr><tr><td align="left">GATV-5005</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_10.html" title="Gemini 10">Gemini 10</a></td><td align="right"><a href="../../../../articles/j/u/l/July_18.html" title="July 18">July 18</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />20:39:46 UTC</td><td align="right"><a href="../../../../articles/d/e/c/December_29.html" title="December 29">December 29</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-065A" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-065A" rel="nofollow">1966-065A</a></td><td align="left">Boosted Gemini 10 to a 763-km apogee. 3,175-kg.</td></tr><tr><td align="left">GATV-5006</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_11.html" title="Gemini 11">Gemini 11</a></td><td align="right"><a href="../../../../articles/s/e/p/September_12.html" title="September 12">September 12</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />13:05:01 UTC</td><td align="right"><a href="../../../../articles/d/e/c/December_30.html" title="December 30">December 30</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-080A" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-080A" rel="nofollow">1966-080A</a></td><td align="left">Boosted Gemini 11 to a record 1,374-km apogee.<br />3,175-kg. First demonstration of artificial gravity created in a microgravity environment.</td></tr><tr><td align="left">GATV-5001A</td><td align="left"><a href="../../../../articles/g/e/m/Gemini_12.html" title="Gemini 12">Gemini 12</a></td><td align="right"><a href="../../../../articles/n/o/v/November_11.html" title="November 11">November 11</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a><br />19:07:58 UTC</td><td align="right"><a href="../../../../articles/d/e/c/December_23.html" title="December 23">December 23</a>, <a href="../../../../articles/1/9/6/1966.html" title="1966">1966</a></td><td align="right"><a href="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-103A" class="external text" title="http://nssdc.gsfc.nasa.gov/database/MasterCatalog?sc=1966-103A" rel="nofollow">1966-103A</a></td><td align="left">No apogee boost due to a defective main<br />Agena engine. 3,175-kg. Tether experiment.</td></tr></table>]]>
+</htmlSnippet>
+</entity>

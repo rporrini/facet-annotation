@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r29/a/l/b/Albanian_language.html_3.xml" />
+<meta name="primaryKey" value="0.875 1, 0.875 0 1, 0.75 2, 0.7241379 0 2, 0.6896552 0, 0.65625 1 2, 0.625 3, 0.625 0 3, 0.546875 1 3, 0.46875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/a/l/b/Albanian_language.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>IPA</th>]]></html>
+	<text>IPA</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Description</th>]]></html>
+	<text>Description</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Written as</th>]]></html>
+	<text>Written as</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Pronounced as in</th>]]></html>
+	<text>Pronounced as in</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>p</td>]]></html>
+	<text>p</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless bilabial plosive</td>]]></html>
+	<text>Voiceless bilabial plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>p</td>]]></html>
+	<text>p</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>p en</td>]]></html>
+	<text>p en</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>b</td>]]></html>
+	<text>b</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced bilabial plosive</td>]]></html>
+	<text>Voiced bilabial plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>b</td>]]></html>
+	<text>b</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>b at</td>]]></html>
+	<text>b at</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>t</td>]]></html>
+	<text>t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless alveolar plosive</td>]]></html>
+	<text>Voiceless alveolar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t</td>]]></html>
+	<text>t</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>t an</td>]]></html>
+	<text>t an</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>d</td>]]></html>
+	<text>d</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced alveolar plosive</td>]]></html>
+	<text>Voiced alveolar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>d</td>]]></html>
+	<text>d</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>d ebt</td>]]></html>
+	<text>d ebt</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>c</td>]]></html>
+	<text>c</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless palatal plosive</td>]]></html>
+	<text>Voiceless palatal plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>q</td>]]></html>
+	<text>q</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>similar to ge t y ou</td>]]></html>
+	<text>similar to ge t y ou</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɟ</td>]]></html>
+	<text>&#607;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced palatal plosive</td>]]></html>
+	<text>Voiced palatal plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>gj</td>]]></html>
+	<text>gj</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>similar to tol d y ou</td>]]></html>
+	<text>similar to tol d y ou</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>k</td>]]></html>
+	<text>k</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless velar plosive</td>]]></html>
+	<text>Voiceless velar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>k</td>]]></html>
+	<text>k</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c ar</td>]]></html>
+	<text>c ar</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>g</td>]]></html>
+	<text>g</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced velar plosive</td>]]></html>
+	<text>Voiced velar plosive</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>g</td>]]></html>
+	<text>g</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>g o</td>]]></html>
+	<text>g o</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ts</td>]]></html>
+	<text>ts</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless alveolar affricate</td>]]></html>
+	<text>Voiceless alveolar affricate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>c</td>]]></html>
+	<text>c</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ha ts</td>]]></html>
+	<text>ha ts</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>dz</td>]]></html>
+	<text>dz</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced alveolar affricate</td>]]></html>
+	<text>Voiced alveolar affricate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>x</td>]]></html>
+	<text>x</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>goo ds</td>]]></html>
+	<text>goo ds</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>tʃ</td>]]></html>
+	<text>t&#643;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless postalveolar affricate</td>]]></html>
+	<text>Voiceless postalveolar affricate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ç</td>]]></html>
+	<text>&#231;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ch in</td>]]></html>
+	<text>ch in</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>dʒ</td>]]></html>
+	<text>d&#658;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced postalveolar affricate</td>]]></html>
+	<text>Voiced postalveolar affricate</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>xh</td>]]></html>
+	<text>xh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>j et</td>]]></html>
+	<text>j et</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>θ</td>]]></html>
+	<text>&#952;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless dental fricative</td>]]></html>
+	<text>Voiceless dental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>th</td>]]></html>
+	<text>th</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>th in</td>]]></html>
+	<text>th in</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ð</td>]]></html>
+	<text>&#240;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced dental fricative</td>]]></html>
+	<text>Voiced dental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>dh</td>]]></html>
+	<text>dh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>th en</td>]]></html>
+	<text>th en</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>f</td>]]></html>
+	<text>f</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless labiodental fricative</td>]]></html>
+	<text>Voiceless labiodental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>f</td>]]></html>
+	<text>f</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>f ar</td>]]></html>
+	<text>f ar</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>v</td>]]></html>
+	<text>v</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced labiodental fricative</td>]]></html>
+	<text>Voiced labiodental fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>v</td>]]></html>
+	<text>v</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>v an</td>]]></html>
+	<text>v an</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>s</td>]]></html>
+	<text>s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless alveolar fricative</td>]]></html>
+	<text>Voiceless alveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>s</td>]]></html>
+	<text>s</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>s on</td>]]></html>
+	<text>s on</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>z</td>]]></html>
+	<text>z</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced alveolar fricative</td>]]></html>
+	<text>Voiced alveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>z</td>]]></html>
+	<text>z</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>z ip</td>]]></html>
+	<text>z ip</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ʃ</td>]]></html>
+	<text>&#643;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless postalveolar fricative</td>]]></html>
+	<text>Voiceless postalveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>sh</td>]]></html>
+	<text>sh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>sh ow</td>]]></html>
+	<text>sh ow</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ʒ</td>]]></html>
+	<text>&#658;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiced postalveolar fricative</td>]]></html>
+	<text>Voiced postalveolar fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>zh</td>]]></html>
+	<text>zh</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>vi s ion</td>]]></html>
+	<text>vi s ion</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>h</td>]]></html>
+	<text>h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Voiceless glottal fricative</td>]]></html>
+	<text>Voiceless glottal fricative</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>h</td>]]></html>
+	<text>h</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>h at</td>]]></html>
+	<text>h at</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>m</td>]]></html>
+	<text>m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bilabial nasal</td>]]></html>
+	<text>Bilabial nasal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>m</td>]]></html>
+	<text>m</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>m an</td>]]></html>
+	<text>m an</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>n</td>]]></html>
+	<text>n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar nasal</td>]]></html>
+	<text>Alveolar nasal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n</td>]]></html>
+	<text>n</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>n ot</td>]]></html>
+	<text>n ot</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɲ</td>]]></html>
+	<text>&#626;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palatal nasal</td>]]></html>
+	<text>Palatal nasal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>nj</td>]]></html>
+	<text>nj</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish se ñ or</td>]]></html>
+	<text>Spanish se &#241; or</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>j</td>]]></html>
+	<text>j</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Palatal approximant</td>]]></html>
+	<text>Palatal approximant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>j</td>]]></html>
+	<text>j</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>y es</td>]]></html>
+	<text>y es</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>l</td>]]></html>
+	<text>l</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar lateral approximant</td>]]></html>
+	<text>Alveolar lateral approximant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>l</td>]]></html>
+	<text>l</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>l ean</td>]]></html>
+	<text>l ean</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɫ</td>]]></html>
+	<text>&#619;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Velarized alveolar lateral approximant</td>]]></html>
+	<text>Velarized alveolar lateral approximant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ll</td>]]></html>
+	<text>ll</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ba ll</td>]]></html>
+	<text>ba ll</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>r</td>]]></html>
+	<text>r</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar trill</td>]]></html>
+	<text>Alveolar trill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>rr</td>]]></html>
+	<text>rr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish hie rr o</td>]]></html>
+	<text>Spanish hie rr o</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>ɾ</td>]]></html>
+	<text>&#638;</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Alveolar tap</td>]]></html>
+	<text>Alveolar tap</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>r</td>]]></html>
+	<text>r</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Spanish a r o</td>]]></html>
+	<text>Spanish a r o</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Albanian language - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>IPA Description Written as Pronounced as in</text>
+</context>
+<context>
+	<score>0.8806356</score>
+	<text>[ edit ] Consonants</text>
+</context>
+<context>
+	<score>0.7919192</score>
+	<text>Albanian language</text>
+</context>
+<context>
+	<score>0.7836659</score>
+	<text>Standard Albanian has 7 vowels and 29 consonants . Gheg uses long and nasal vowels which are absent in Tosk . Another peculiarity is the mid-central vowel &quot; &quot; reduced at the end of the word. The stress is fixed mainly on the penultimate syllable.</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>Notes:</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Classification</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Geographic distribution</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Sounds</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Grammar</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Vocabulary</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Writing system</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] History</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] See also</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] Bibliography</text>
+</context>
+<context>
+	<score>0.71619123</score>
+	<text>[ edit ] External links</text>
+</context>
+<context>
+	<score>0.7143434</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.7060902</score>
+	<text>[ edit ] Sounds</text>
+</context>
+<context>
+	<score>0.64402956</score>
+	<text>( ) denotes nasal vowels , which are a common feature of Gheg.</text>
+</context>
+<context>
+	<score>0.6054967</score>
+	<text>[ edit ] Vowels</text>
+</context>
+<context>
+	<score>0.5943811</score>
+	<text>[ edit ] Notable phonological and lexicological differences between Tosk and Gheg</text>
+</context>
+<context>
+	<score>0.55281454</score>
+	<text>Subdialects may vary based on:</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>Gheg and Tosk differ mainly by:</text>
+</context>
+<context>
+	<score>0.5191457</score>
+	<text>[ edit ] Grammar</text>
+</context>
+<context>
+	<score>0.49746725</score>
+	<text>[ citation needed ]</text>
+</context>
+<context>
+	<score>0.47528347</score>
+	<text>Gheg is spoken in Northern Albania, Macedonia, Kosovo, and in parts of Montenegro. Each area of Northern Albania has its own sub-dialect: Tiran , Durr s, Elbasan and Kavaja; Kruja and La i; Mati, Dibra and Mirdita; Lezh , Shkod r, Kraj , Ulqin; etc. Mal sia e Madhe, Rugova, and villages scattered alongside the Adriatic Coast form the northmost sub-dialect of Albania today. There are many other sub-dialects in the region of Kosovo and in parts of southern Montenegro, and in Republic of Macedonia. The sub-dialects of Malsia e Madhe and Dukagjini near Shkodra are being lost because the younger generations prefer to speak the sub-dialect of Shkodra.</text>
+</context>
+<context>
+	<score>0.46835098</score>
+	<text>Albanian nouns are inflected by gender ( masculine , feminine and neuter ) and number ( singular and plural ). There are 5 declensions with 6 cases ( nominative , accusative , genitive , dative , ablative and vocative ), although the vocative only occurs with a limited number of words. The cases apply to both definite and indefinite nouns and there are numerous cases of syncretism . The equivalent of a genitive is formed by using the prepositions i/e/t /s with the dative.</text>
+</context>
+<context>
+	<score>0.4608624</score>
+	<text>The Shkumbin river is roughly the dividing line, with Gheg spoken north of the Shkumbin and Tosk south of it. The Gheg literary language has been documented since 1462. Until the Communists took power in Albania, the standard was based on Gheg. Although the literary versions of Tosk and Gheg are mutually intelligible, many of the regional dialects are not. Tosk is divided into many sub-dialects. The main groups are Northern Tosk (Berat, Pojan, Vlor , Struga) and Lab risht ( Lab ria ). In Greece, the am and the Arvanites speak different Tosk sub-dialects. The sub-dialect of the Arvanites is only partially intelligible with other Tosk sub-dialects, such that it can be regarded as a separate language, Arvanitika . A distinct Tosk sub-dialect has been preserved in the Albanian-founded village of Mandritsa in southern Bulgaria . Tosk sub-dialects related to Arvanitika and called Arb risht are spoken by the Arb resh , descendants of 15th and 16th century immigrants in southeastern Italy, in small communities in the regions of Sicily, Calabria , Basilicata , Campania , Molise , Abruzzi , and Puglia . Tosk sub-dialects are spoken by most members of the large Albanian immigrant communities of Ukraine, Turkey, Egypt, and the United States.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table border="1" cellspacing="0" cellpadding="4" class="wikitable"><tr><th><a href="../../../../articles/i/p/a/Help%7EIPA_9abd.html" title="Help:IPA">IPA</a></th><th>Description</th><th>Written as</th><th>Pronounced as in</th></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">p</span></td><td><a href="../../../../articles/v/o/i/Voiceless_bilabial_plosive.html" title="Voiceless bilabial plosive">Voiceless bilabial plosive</a></td><td>p</td><td><span style="color:#700000; font-weight:bold">p</span>en</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">b</span></td><td><a href="../../../../articles/v/o/i/Voiced_bilabial_plosive.html" title="Voiced bilabial plosive">Voiced bilabial plosive</a></td><td>b</td><td><span style="color:#700000; font-weight:bold">b</span>at</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">t</span></td><td><a href="../../../../articles/v/o/i/Voiceless_alveolar_plosive.html" title="Voiceless alveolar plosive">Voiceless alveolar plosive</a></td><td>t</td><td><span style="color:#700000; font-weight:bold">t</span>an</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">d</span></td><td><a href="../../../../articles/v/o/i/Voiced_alveolar_plosive.html" title="Voiced alveolar plosive">Voiced alveolar plosive</a></td><td>d</td><td><span style="color:#700000; font-weight:bold">d</span>ebt</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">c</span></td><td><a href="../../../../articles/v/o/i/Voiceless_palatal_plosive.html" title="Voiceless palatal plosive">Voiceless palatal plosive</a></td><td>q</td><td>similar to ge<span style="color:#700000; font-weight:bold">t</span> <span style="color:#700000; font-weight:bold">y</span>ou</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɟ</span></td><td><a href="../../../../articles/v/o/i/Voiced_palatal_plosive.html" title="Voiced palatal plosive">Voiced palatal plosive</a></td><td>gj</td><td>similar to tol<span style="color:#700000; font-weight:bold">d</span> <span style="color:#700000; font-weight:bold">y</span>ou</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">k</span></td><td><a href="../../../../articles/v/o/i/Voiceless_velar_plosive.html" title="Voiceless velar plosive">Voiceless velar plosive</a></td><td>k</td><td><span style="color:#700000; font-weight:bold">c</span>ar</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">g</span></td><td><a href="../../../../articles/v/o/i/Voiced_velar_plosive.html" title="Voiced velar plosive">Voiced velar plosive</a></td><td>g</td><td><span style="color:#700000; font-weight:bold">g</span>o</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ts</span></td><td><a href="../../../../articles/v/o/i/Voiceless_alveolar_affricate.html" title="Voiceless alveolar affricate">Voiceless alveolar affricate</a></td><td>c</td><td>ha<span style="color:#700000; font-weight:bold">ts</span></td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">dz</span></td><td><a href="../../../../articles/v/o/i/Voiced_alveolar_affricate.html" title="Voiced alveolar affricate">Voiced alveolar affricate</a></td><td>x</td><td>goo<span style="color:#700000; font-weight:bold">ds</span></td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">tʃ</span></td><td><a href="../../../../articles/v/o/i/Voiceless_postalveolar_affricate.html" title="Voiceless postalveolar affricate">Voiceless postalveolar affricate</a></td><td>ç</td><td><span style="color:#700000; font-weight:bold">ch</span>in</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">dʒ</span></td><td><a href="../../../../articles/v/o/i/Voiced_postalveolar_affricate.html" title="Voiced postalveolar affricate">Voiced postalveolar affricate</a></td><td>xh</td><td><span style="color:#700000; font-weight:bold">j</span>et</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">θ</span></td><td><a href="../../../../articles/v/o/i/Voiceless_dental_fricative.html" title="Voiceless dental fricative">Voiceless dental fricative</a></td><td>th</td><td><span style="color:#700000; font-weight:bold">th</span>in</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ð</span></td><td><a href="../../../../articles/v/o/i/Voiced_dental_fricative.html" title="Voiced dental fricative">Voiced dental fricative</a></td><td>dh</td><td><span style="color:#700000; font-weight:bold">th</span>en</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">f</span></td><td><a href="../../../../articles/v/o/i/Voiceless_labiodental_fricative.html" title="Voiceless labiodental fricative">Voiceless labiodental fricative</a></td><td>f</td><td><span style="color:#700000; font-weight:bold">f</span>ar</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">v</span></td><td><a href="../../../../articles/v/o/i/Voiced_labiodental_fricative.html" title="Voiced labiodental fricative">Voiced labiodental fricative</a></td><td>v</td><td><span style="color:#700000; font-weight:bold">v</span>an</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">s</span></td><td><a href="../../../../articles/v/o/i/Voiceless_alveolar_fricative.html" title="Voiceless alveolar fricative">Voiceless alveolar fricative</a></td><td>s</td><td><span style="color:#700000; font-weight:bold">s</span>on</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">z</span></td><td><a href="../../../../articles/v/o/i/Voiced_alveolar_fricative.html" title="Voiced alveolar fricative">Voiced alveolar fricative</a></td><td>z</td><td><span style="color:#700000; font-weight:bold">z</span>ip</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʃ</span></td><td><a href="../../../../articles/v/o/i/Voiceless_postalveolar_fricative.html" title="Voiceless postalveolar fricative">Voiceless postalveolar fricative</a></td><td>sh</td><td><span style="color:#700000; font-weight:bold">sh</span>ow</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ʒ</span></td><td><a href="../../../../articles/v/o/i/Voiced_postalveolar_fricative.html" title="Voiced postalveolar fricative">Voiced postalveolar fricative</a></td><td>zh</td><td>vi<span style="color:#700000; font-weight:bold">s</span>ion</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">h</span></td><td><a href="../../../../articles/v/o/i/Voiceless_glottal_fricative.html" title="Voiceless glottal fricative">Voiceless glottal fricative</a></td><td>h</td><td><span style="color:#700000; font-weight:bold">h</span>at</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">m</span></td><td><a href="../../../../articles/b/i/l/Bilabial_nasal.html" title="Bilabial nasal">Bilabial nasal</a></td><td>m</td><td><span style="color:#700000; font-weight:bold">m</span>an</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">n</span></td><td><a href="../../../../articles/a/l/v/Alveolar_nasal.html" title="Alveolar nasal">Alveolar nasal</a></td><td>n</td><td><span style="color:#700000; font-weight:bold">n</span>ot</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɲ</span></td><td><a href="../../../../articles/p/a/l/Palatal_nasal.html" title="Palatal nasal">Palatal nasal</a></td><td>nj</td><td><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a> se<span style="color:#700000; font-weight:bold">ñ</span>or</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">j</span></td><td><a href="../../../../articles/p/a/l/Palatal_approximant.html" title="Palatal approximant">Palatal approximant</a></td><td>j</td><td><span style="color:#700000; font-weight:bold">y</span>es</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">l</span></td><td><a href="../../../../articles/a/l/v/Alveolar_lateral_approximant.html" title="Alveolar lateral approximant">Alveolar lateral approximant</a></td><td>l</td><td><span style="color:#700000; font-weight:bold">l</span>ean</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɫ</span></td><td><a href="../../../../articles/v/e/l/Velarized_alveolar_lateral_approximant.html" title="Velarized alveolar lateral approximant">Velarized alveolar lateral approximant</a></td><td>ll</td><td>ba<span style="color:#700000; font-weight:bold">ll</span></td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">r</span></td><td><a href="../../../../articles/a/l/v/Alveolar_trill.html" title="Alveolar trill">Alveolar trill</a></td><td>rr</td><td><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a> hie<span style="color:#700000; font-weight:bold">rr</span>o</td></tr><tr><td><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA">ɾ</span></td><td><a href="../../../../articles/a/l/v/Alveolar_tap.html" title="Alveolar tap">Alveolar tap</a></td><td>r</td><td><a href="../../../../articles/s/p/a/Spanish_language.html" title="Spanish language">Spanish</a> a<span style="color:#700000; font-weight:bold">r</span>o</td></tr></table>]]>
+</htmlSnippet>
+</entity>

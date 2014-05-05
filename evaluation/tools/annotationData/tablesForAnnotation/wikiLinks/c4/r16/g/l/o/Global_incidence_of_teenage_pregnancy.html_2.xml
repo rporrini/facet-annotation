@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c4/r16/g/l/o/Global_incidence_of_teenage_pregnancy.html_2.xml" />
+<meta name="primaryKey" value="1.0 0, 0.175 0 1, 0.1640625 1, 0.15 0 2, 0.125 3, 0.125 0 3, 0.121875 2, 0.024609374 1 2, 0.021875 1 3, 0.01875 2 3, " />
+<meta name="parentHTMLDoc" value="en/articles/g/l/o/Global_incidence_of_teenage_pregnancy.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Country</th>]]></html>
+	<text>Country</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Birth rate*</th>]]></html>
+	<text>Birth rate*</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Abortion rate*</th>]]></html>
+	<text>Abortion rate*</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>% married teenage mothers</th>]]></html>
+	<text>% married teenage mothers</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Switzerland</td>]]></html>
+	<text>Switzerland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.5</td>]]></html>
+	<text>5.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(not available)</td>]]></html>
+	<text>(not available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>61%</td>]]></html>
+	<text>61%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Netherlands</td>]]></html>
+	<text>Netherlands</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.2</td>]]></html>
+	<text>6.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3.9</td>]]></html>
+	<text>3.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>35%</td>]]></html>
+	<text>35%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Sweden</td>]]></html>
+	<text>Sweden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.5</td>]]></html>
+	<text>6.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>17.7</td>]]></html>
+	<text>17.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18%</td>]]></html>
+	<text>18%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Italy</td>]]></html>
+	<text>Italy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.6</td>]]></html>
+	<text>6.6</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6.7</td>]]></html>
+	<text>6.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>55%</td>]]></html>
+	<text>55%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Spain</td>]]></html>
+	<text>Spain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>7.9</td>]]></html>
+	<text>7.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4.9</td>]]></html>
+	<text>4.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>40%</td>]]></html>
+	<text>40%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Denmark</td>]]></html>
+	<text>Denmark</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>8.1</td>]]></html>
+	<text>8.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15.4</td>]]></html>
+	<text>15.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>23%</td>]]></html>
+	<text>23%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>France</td>]]></html>
+	<text>France</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.3</td>]]></html>
+	<text>9.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.2</td>]]></html>
+	<text>13.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>15%</td>]]></html>
+	<text>15%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Belgium</td>]]></html>
+	<text>Belgium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>9.9</td>]]></html>
+	<text>9.9</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.2</td>]]></html>
+	<text>5.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42%</td>]]></html>
+	<text>42%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Greece</td>]]></html>
+	<text>Greece</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>11.8</td>]]></html>
+	<text>11.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1.3</td>]]></html>
+	<text>1.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>80%</td>]]></html>
+	<text>80%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Germany</td>]]></html>
+	<text>Germany</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>13.1</td>]]></html>
+	<text>13.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5.3</td>]]></html>
+	<text>5.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>39%</td>]]></html>
+	<text>39%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czech Republic</td>]]></html>
+	<text>Czech Republic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>16.4</td>]]></html>
+	<text>16.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>12.4</td>]]></html>
+	<text>12.4</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>47%</td>]]></html>
+	<text>47%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ireland</td>]]></html>
+	<text>Ireland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.7</td>]]></html>
+	<text>18.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(not available)</td>]]></html>
+	<text>(not available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>4%</td>]]></html>
+	<text>4%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Poland</td>]]></html>
+	<text>Poland</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>18.7</td>]]></html>
+	<text>18.7</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(not available)</td>]]></html>
+	<text>(not available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>60%</td>]]></html>
+	<text>60%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Portugal</td>]]></html>
+	<text>Portugal</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.1</td>]]></html>
+	<text>21.1</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>(not available)</td>]]></html>
+	<text>(not available)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>45%</td>]]></html>
+	<text>45%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hungary</td>]]></html>
+	<text>Hungary</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>26.5</td>]]></html>
+	<text>26.5</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30.2</td>]]></html>
+	<text>30.2</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>36%</td>]]></html>
+	<text>36%</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>United Kingdom</td>]]></html>
+	<text>United Kingdom</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>30.8</td>]]></html>
+	<text>30.8</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>21.3</td>]]></html>
+	<text>21.3</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>10%</td>]]></html>
+	<text>10%</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Global incidence of teenage pregnancy - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Country Birth rate* Abortion rate* % married teenage mothers</text>
+</context>
+<context>
+	<score>0.87878793</score>
+	<text>Teenage birth and abortion rates in European countries (1998):</text>
+</context>
+<context>
+	<score>0.7986532</score>
+	<text>Global incidence of teenage pregnancy</text>
+</context>
+<context>
+	<score>0.78526163</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.7504456</score>
+	<text>* per 1000 women aged 15-19</text>
+</context>
+<context>
+	<score>0.724521</score>
+	<text>[ edit ] Africa</text>
+</context>
+<context>
+	<score>0.724521</score>
+	<text>[ edit ] Asia</text>
+</context>
+<context>
+	<score>0.724521</score>
+	<text>[ edit ] Europe</text>
+</context>
+<context>
+	<score>0.724521</score>
+	<text>[ edit ] North America</text>
+</context>
+<context>
+	<score>0.724521</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7210775</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70768595</score>
+	<text>According to the World Health Organization , in several Asian countries including Bangladesh and Indonesia, a large proportion (26-37%) of deaths among female adolescents can be attributed to maternal causes .</text>
+</context>
+<context>
+	<score>0.6456253</score>
+	<text>Surveys from Thailand have found that a significant minority of unmarried adolescents are sexually active . Although premarital sex is considered normal behavior for males, particularly with prostitutes , it is not always regarded as such for females. Most Thai youth reported that their first sexual experience, whether within or outside of marriage, was without contraception. The adolescent fertility rate in Thailand is relatively high at 60 per 1000. 25% of women admitted to hospitals in Thailand for complications of induced abortion are students . The Thai government has undertaken measures to inform the nation&apos;s youth about the prevention of sexually transmitted diseases and unplanned pregnancy .</text>
+</context>
+<context>
+	<score>0.60709244</score>
+	<text>The overall trend in Europe since 1970 has been a decreasing total fertility rate , an increase in the age at which women experience their first birth, and a decrease in the number of births among teenagers. However, in the past, teenage mothers in Europe tended to be married , and therefore were less likely to be perceived as a social issue . Some countries, such as Greece and Poland , retain a traditional model of births to married mothers in their late teens.</text>
+</context>
+<context>
+	<score>0.5959768</score>
+	<text>Other parts of Asia have shown a trend towards increasing age at marriage for both sexes . In South Korea and Singapore , marriage before age 20 has all but disappeared, and, although the occurrence of sexual intercourse before marriage has risen, rates of adolescent childbearing are low at 4 to 8 per 1000. The rate of early marriage and pregnancy has decreased sharply in Indonesia and Malaysia ; however, it remains high in comparison to the rest of Asia .</text>
+</context>
+<context>
+	<score>0.5562581</score>
+	<text>In the Indian subcontinent , premarital sex is uncommon, but early marriage sometimes means adolescent pregnancy. The rate of early marriage is higher in rural regions than it is in urbanized areas. Fertility rates in South Asia range from 71 to 119 births per 1000 women aged 15-19. 30% of all Indian induced abortions are performed on women who are under 20.</text>
+</context>
+<context>
+	<score>0.5210395</score>
+	<text>* per 1000 women aged 15-19</text>
+</context>
+<context>
+	<score>0.52074146</score>
+	<text>The rates of teenage pregnancy may vary widely within a country. For instance, in the United Kingdom , the rate of adolescent pregnancy in 2002 was as high as 100.4 per 1000 among young women living in the London Borough of Lambeth , and as low as 20.2 per 1000 among residents in the Midlands local authority area of Rutland . In Italy , the teenage birth rate in central regions is only 3.3 per 1,000, but, in the Mezzogiorno it is 10.0 per 1000.</text>
+</context>
+<context>
+	<score>0.4956195</score>
+	<text>Teenage birth rates in Asian countries (2002):</text>
+</context>
+<context>
+	<score>0.47872698</score>
+	<text>[ edit ] Asia</text>
+</context>
+<context>
+	<score>0.46994677</score>
+	<text>Teenage birth is often associated with alcohol and drugs. Across 13 nations in the European Union , women who gave birth as teenagers are twice as likely to be living in poverty , in comparison to those who wait until they are over 20.</text>
+</context>
+<context>
+	<score>0.46245816</score>
+	<text>A Save the Children report identified 10 countries where motherhood carried the most risks for young women and their babies . Of these, 9 were in sub-Saharan Africa, and Niger, Liberia , and Mali were the nations where girls were the most at-risk. In the 10 highest-risk nations, more than one in six teenage girls between the ages of 15 to 19 gave birth annually, and nearly one in seven babies born to these teenagers died before the age of one year .</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable"><tr><th>Country</th><th>Birth rate*</th><th>Abortion rate*</th><th>% married teenage mothers</th></tr><tr><td><a href="../../../../articles/s/w/i/Switzerland.html" title="Switzerland">Switzerland</a></td><td>5.5</td><td>(not available)</td><td>61%</td></tr><tr><td><a href="../../../../articles/n/e/t/Netherlands.html" title="Netherlands">Netherlands</a></td><td>6.2</td><td>3.9</td><td>35%</td></tr><tr><td><a href="../../../../articles/s/w/e/Sweden.html" title="Sweden">Sweden</a></td><td>6.5</td><td>17.7</td><td>18%</td></tr><tr><td><a href="../../../../articles/i/t/a/Italy.html" title="Italy">Italy</a></td><td>6.6</td><td>6.7</td><td>55%</td></tr><tr><td><a href="../../../../articles/s/p/a/Spain.html" title="Spain">Spain</a></td><td>7.9</td><td>4.9</td><td>40%</td></tr><tr><td><a href="../../../../articles/d/e/n/Denmark.html" title="Denmark">Denmark</a></td><td>8.1</td><td>15.4</td><td>23%</td></tr><tr><td><a href="../../../../articles/f/r/a/France.html" title="France">France</a></td><td>9.3</td><td>13.2</td><td>15%</td></tr><tr><td><a href="../../../../articles/b/e/l/Belgium.html" title="Belgium">Belgium</a></td><td>9.9</td><td>5.2</td><td>42%</td></tr><tr><td><a href="../../../../articles/g/r/e/Greece.html" title="Greece">Greece</a></td><td>11.8</td><td>1.3</td><td>80%</td></tr><tr><td><a href="../../../../articles/g/e/r/Germany.html" title="Germany">Germany</a></td><td>13.1</td><td>5.3</td><td>39%</td></tr><tr><td><a href="../../../../articles/c/z/e/Czech_Republic_12a4.html" title="Czech Republic">Czech Republic</a></td><td>16.4</td><td>12.4</td><td>47%</td></tr><tr><td><a href="../../../../articles/i/r/e/Ireland.html" title="Ireland">Ireland</a></td><td>18.7</td><td>(not available)</td><td>4%</td></tr><tr><td><a href="../../../../articles/p/o/l/Poland.html" title="Poland">Poland</a></td><td>18.7</td><td>(not available)</td><td>60%</td></tr><tr><td><a href="../../../../articles/p/o/r/Portugal.html" title="Portugal">Portugal</a></td><td>21.1</td><td>(not available)</td><td>45%</td></tr><tr><td><a href="../../../../articles/h/u/n/Hungary.html" title="Hungary">Hungary</a></td><td>26.5</td><td>30.2</td><td>36%</td></tr><tr><td><a href="../../../../articles/u/n/i/United_Kingdom_5ad7.html" title="United Kingdom">United Kingdom</a></td><td>30.8</td><td>21.3</td><td>10%</td></tr></table>]]>
+</htmlSnippet>
+</entity>

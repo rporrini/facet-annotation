@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c6/r10/s/c/o/Scottish_Third_Division_2007-08_b196.html_1.xml" />
+<meta name="primaryKey" value="1.0 0, 0.9166667 1, 0.9166667 0 1, 0.16666667 2, 0.16666667 0 2, 0.15277778 1 2, 0.15 3, 0.15 0 3, 0.1375 1 3, 0.13333334 4, 0.13333334 0 4, 0.12222224 1 4, 0.11666667 5, 0.11666667 0 5, 0.10694444 1 5, 0.025 2 3, 0.022222225 2 4, 0.020000001 3 4, 0.019444445 2 5, 0.0175 3 5, 0.015555556 4 5, " />
+<meta name="parentHTMLDoc" value="en/articles/s/c/o/Scottish_Third_Division_2007-08_b196.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Team</th>]]></html>
+	<text>Team</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Stadium</th>]]></html>
+	<text>Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Capacity</th>]]></html>
+	<text>Capacity</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Highest</th>]]></html>
+	<text>Highest</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Lowest</th>]]></html>
+	<text>Lowest</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Average</th>]]></html>
+	<text>Average</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Fife</td>]]></html>
+	<text>East Fife</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Bayview Stadium</td>]]></html>
+	<text>Bayview Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,000</td>]]></html>
+	<text>2,000</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,300</td>]]></html>
+	<text>1,300</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>540</td>]]></html>
+	<text>540</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>769</td>]]></html>
+	<text>769</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Arbroath</td>]]></html>
+	<text>Arbroath</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Gayfield Park</td>]]></html>
+	<text>Gayfield Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>6,488</td>]]></html>
+	<text>6,488</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>959</td>]]></html>
+	<text>959</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>421</td>]]></html>
+	<text>421</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>611</td>]]></html>
+	<text>611</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Montrose</td>]]></html>
+	<text>Montrose</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Links Park</td>]]></html>
+	<text>Links Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,292</td>]]></html>
+	<text>3,292</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,470</td>]]></html>
+	<text>1,470</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>321</td>]]></html>
+	<text>321</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>597</td>]]></html>
+	<text>597</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dumbarton</td>]]></html>
+	<text>Dumbarton</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Strathclyde Homes Stadium</td>]]></html>
+	<text>Strathclyde Homes Stadium</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>2,025</td>]]></html>
+	<text>2,025</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>907</td>]]></html>
+	<text>907</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>258</td>]]></html>
+	<text>258</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>559</td>]]></html>
+	<text>559</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Elgin City</td>]]></html>
+	<text>Elgin City</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Borough Briggs</td>]]></html>
+	<text>Borough Briggs</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,927</td>]]></html>
+	<text>3,927</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>624</td>]]></html>
+	<text>624</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>301</td>]]></html>
+	<text>301</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>471</td>]]></html>
+	<text>471</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stenhousemuir</td>]]></html>
+	<text>Stenhousemuir</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Ochilview Park</td>]]></html>
+	<text>Ochilview Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>3,776</td>]]></html>
+	<text>3,776</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>755</td>]]></html>
+	<text>755</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>212</td>]]></html>
+	<text>212</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>414</td>]]></html>
+	<text>414</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Forfar Athletic</td>]]></html>
+	<text>Forfar Athletic</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Station Park</td>]]></html>
+	<text>Station Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,177</td>]]></html>
+	<text>5,177</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>615</td>]]></html>
+	<text>615</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>270</td>]]></html>
+	<text>270</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>410</td>]]></html>
+	<text>410</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>East Stirlingshire</td>]]></html>
+	<text>East Stirlingshire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Firs Park</td>]]></html>
+	<text>Firs Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,800</td>]]></html>
+	<text>1,800</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>791</td>]]></html>
+	<text>791</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>235</td>]]></html>
+	<text>235</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>377</td>]]></html>
+	<text>377</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Albion Rovers</td>]]></html>
+	<text>Albion Rovers</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Cliftonhill</td>]]></html>
+	<text>Cliftonhill</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>1,249</td>]]></html>
+	<text>1,249</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>512</td>]]></html>
+	<text>512</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>186</td>]]></html>
+	<text>186</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>307</td>]]></html>
+	<text>307</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stranraer</td>]]></html>
+	<text>Stranraer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stair Park</td>]]></html>
+	<text>Stair Park</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5,600</td>]]></html>
+	<text>5,600</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>487</td>]]></html>
+	<text>487</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>117</td>]]></html>
+	<text>117</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>255</td>]]></html>
+	<text>255</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Scottish Third Division 2007-08 - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Team Stadium Capacity Highest Lowest Average</text>
+</context>
+<context>
+	<score>0.8820934</score>
+	<text>[ edit ] Attendances</text>
+</context>
+<context>
+	<score>0.7927879</score>
+	<text>Scottish Third Division 2007-08</text>
+</context>
+<context>
+	<score>0.784802</score>
+	<text>Last updated: 27 April Source: BBC Sport 1 The home team is listed in the left-hand column. Colours : Blue = home team win; White = draw; Red = away team win.</text>
+</context>
+<context>
+	<score>0.75332546</score>
+	<text>Source: The League Insider</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Promotion and Relegation from 2006 07</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Events</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Table</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Results</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Attendances</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Managerial changes</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Monthly awards</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] Second Division play-offs</text>
+</context>
+<context>
+	<score>0.7186626</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.71495485</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70696896</score>
+	<text>[ edit ] Second half of season</text>
+</context>
+<context>
+	<score>0.6447024</score>
+	<text>Source: BBC Sport 1 The home team is listed in the left-hand column. Colours : Blue = home team win; White = draw; Red = away team win.</text>
+</context>
+<context>
+	<score>0.60604167</score>
+	<text>[ edit ] Managerial changes See also: 2007-08 in Scottish football#Mangerial changes</text>
+</context>
+<context>
+	<score>0.59488916</score>
+	<text>[ edit ] First half of season</text>
+</context>
+<context>
+	<score>0.5513308</score>
+	<text>Teams play each other four times in this league. In the first half of the season each team plays every other team twice (home and away) and then do the same in the second half of the season.</text>
+</context>
+<context>
+	<score>0.52315813</score>
+	<text>[ edit ] Results</text>
+</context>
+<context>
+	<score>0.5194042</score>
+	<text>[ edit ] Monthly awards Main article: Scottish Football League monthly awards See also: 2007-08 in Scottish football#Monthly awards</text>
+</context>
+<context>
+	<score>0.49765378</score>
+	<text>Source: BBC Sport Rules for classification: 1 st points; 2 nd goal difference; 3 rd goals scored. Second Division Play-offs: The 9th placed team were entered into a play-off with the Third Division&apos;s 2nd, 3rd and 4th placed teams. The winning team were awarded a place in the 2008-09 Second Division, Cowdenbeath were relegated and Arbroath were promoted. With Gretna being relegated to the Third Division, Stranraer were also promoted. Relegation: Had East Stirlingshire finished bottom of the table for what would have been a fifth consecutive time, they would have lost their Scottish Football League status, they finished second bottom. Stranraer: won promotion to Second Division after Gretna were relegated to the Third Division. P = Position; Pld = Matches played; W = Matches won; D = Matches drawn; L = Matches lost; GF = Goals for; GA = Goals against; GD = Goal difference; Pts = Points; (C) = Champion; (R) = Relegated; (P) = Promoted.</text>
+</context>
+<context>
+	<score>0.4772503</score>
+	<text>[ edit ] Table</text>
+</context>
+<context>
+	<score>0.46844092</score>
+	<text>[ edit ] Second Division play-offs Main article: Scottish Second Division 2007-08#Second Division play-offs</text>
+</context>
+<context>
+	<score>0.4609275</score>
+	<text>May 29 : Second Division play-off runners-up Stranraer are promoted to the Second Division following Gretna &apos;s demotion to the Third Division. [4]</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="sortable wikitable" style="text-align: center;"><tr><th class="unsortable">Team</th><th class="unsortable">Stadium</th><th>Capacity</th><th>Highest</th><th>Lowest</th><th>Average</th></tr><tr><td align="left">East Fife</td><td align="left"><a href="../../../../articles/b/a/y/Bayview_Stadium_1a29.html" title="Bayview Stadium">Bayview Stadium</a></td><td>2,000</td><td>1,300</td><td>540</td><td>769</td></tr><tr bgcolor="#EFEFEF"><td align="left">Arbroath</td><td align="left"><a href="../../../../articles/g/a/y/Gayfield_Park_3cc1.html" title="Gayfield Park">Gayfield Park</a></td><td>6,488</td><td>959</td><td>421</td><td>611</td></tr><tr><td align="left">Montrose</td><td align="left"><a href="../../../../articles/l/i/n/Links_Park_3582.html" title="Links Park">Links Park</a></td><td>3,292</td><td>1,470</td><td>321</td><td>597</td></tr><tr bgcolor="#EFEFEF"><td align="left">Dumbarton</td><td align="left"><a href="../../../../articles/s/t/r/Strathclyde_Homes_Stadium_1a4d.html" title="Strathclyde Homes Stadium">Strathclyde Homes Stadium</a></td><td>2,025</td><td>907</td><td>258</td><td>559</td></tr><tr><td align="left">Elgin City</td><td align="left"><a href="../../../../articles/b/o/r/Borough_Briggs_9748.html" title="Borough Briggs">Borough Briggs</a></td><td>3,927</td><td>624</td><td>301</td><td>471</td></tr><tr bgcolor="#EFEFEF"><td align="left">Stenhousemuir</td><td align="left"><a href="../../../../articles/o/c/h/Ochilview_Park_7cda.html" title="Ochilview Park">Ochilview Park</a></td><td>3,776</td><td>755</td><td>212</td><td>414</td></tr><tr><td align="left">Forfar Athletic</td><td align="left"><a href="../../../../articles/s/t/a/Station_Park%2C_Forfar_e900.html" title="Station Park, Forfar">Station Park</a></td><td>5,177</td><td>615</td><td>270</td><td>410</td></tr><tr bgcolor="#EFEFEF"><td align="left">East Stirlingshire</td><td align="left"><a href="../../../../articles/f/i/r/Firs_Park_dcb5.html" title="Firs Park">Firs Park</a></td><td>1,800</td><td>791</td><td>235</td><td>377</td></tr><tr><td align="left">Albion Rovers</td><td align="left"><a href="../../../../articles/c/l/i/Cliftonhill.html" title="Cliftonhill">Cliftonhill</a></td><td>1,249</td><td>512</td><td>186</td><td>307</td></tr><tr bgcolor="#EFEFEF"><td align="left">Stranraer</td><td align="left"><a href="../../../../articles/s/t/a/Stair_Park_8cfd.html" title="Stair Park">Stair Park</a></td><td>5,600</td><td>487</td><td>117</td><td>255</td></tr></table>]]>
+</htmlSnippet>
+</entity>

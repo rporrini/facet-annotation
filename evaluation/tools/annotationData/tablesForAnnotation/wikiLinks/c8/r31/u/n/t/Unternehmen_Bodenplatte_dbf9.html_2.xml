@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///tmp/tableDisplay.xsl"?>
+<entity>
+<logicalTable>
+<tableAttributes>
+<meta name="key" value="c8/r31/u/n/t/Unternehmen_Bodenplatte_dbf9.html_2.xml" />
+<meta name="primaryKey" value="0.9677419 0, 0.90725803 0 1, 0.875 0 2, 0.7862903 0 3, 0.7409274 1 2, 0.7258064 0 5, 0.6875 0 6, 0.60483867 0 7, 0.58971775 1 5, 0.5292339 2 5, 0.51033264 1 7, 0.47983873 2, 0.45967743 5, 0.44632056 2 6, 0.43245965 3 5, 0.40574598 2 7, 0.38986897 2 3, 0.37424394 1 6, 0.36857358 1 3, 0.3659274 5 6, 0.3629032 7, 0.3629032 5 7, 0.33266127 1, 0.31880042 6 7, 0.29485887 3 7, 0.21622983 3 6, 0.18346773 3, 0.10887097 0 4, 0.092086695 2 4, 0.09185988 1 4, 0.088709675 6, 0.083467744 4, 0.0766633 3 4, 0.06260081 4 5, 0.062373996 4 6, 0.06123992 4 7, " />
+<meta name="parentHTMLDoc" value="en/articles/u/n/t/Unternehmen_Bodenplatte_dbf9.html" />
+<meta name="isList" value="false" />
+</tableAttributes>
+<content>
+<header>
+<cell>
+	<html><![CDATA[<th>Name</th>]]></html>
+	<text>Name</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Rank</th>]]></html>
+	<text>Rank</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Unit</th>]]></html>
+	<text>Unit</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Aircraft Type</th>]]></html>
+	<text>Aircraft Type</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Serial</th>]]></html>
+	<text>Serial</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Code</th>]]></html>
+	<text>Code</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Fate</th>]]></html>
+	<text>Fate</text>
+</cell>
+<cell>
+	<html><![CDATA[<th>Cause</th>]]></html>
+	<text>Cause</text>
+</cell>
+</header>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Howard P. Gibboms</td>]]></html>
+	<text>Howard P. Gibboms</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>168 Squadron RAF</td>]]></html>
+	<text>168 Squadron RAF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MN486</td>]]></html>
+	<text>MN486</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>QC-D</td>]]></html>
+	<text>QC-D</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 3 Fw 190s</td>]]></html>
+	<text>shot down by JG 3 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Don Webber</td>]]></html>
+	<text>Don Webber</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>183 Squadron RCAF</td>]]></html>
+	<text>183 Squadron RCAF</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>EK497</td>]]></html>
+	<text>EK497</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HF-?</td>]]></html>
+	<text>HF-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down in error by 352nd P-51</td>]]></html>
+	<text>shot down in error by 352nd P-51</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Waclaw Chojnacki</td>]]></html>
+	<text>Waclaw Chojnacki</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>308 Squadron (Polish)</td>]]></html>
+	<text>308 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MJ281</td>]]></html>
+	<text>MJ281</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZF-P</td>]]></html>
+	<text>ZF-P</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 1 Fw 190s</td>]]></html>
+	<text>shot down by JG 1 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stanislaw Bednarczyk</td>]]></html>
+	<text>Stanislaw Bednarczyk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warrant Officer</td>]]></html>
+	<text>Warrant Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>308 Squadron (Polish)</td>]]></html>
+	<text>308 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK756</td>]]></html>
+	<text>MK756</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZF-?</td>]]></html>
+	<text>ZF-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 1 Fw 190s</td>]]></html>
+	<text>shot down by JG 1 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Josef Stanowski</td>]]></html>
+	<text>Josef Stanowski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Sergeant</td>]]></html>
+	<text>Flight Sergeant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>308 Squadron (Polish)</td>]]></html>
+	<text>308 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK888</td>]]></html>
+	<text>MK888</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZF-?</td>]]></html>
+	<text>ZF-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ran out of fuel</td>]]></html>
+	<text>ran out of fuel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tadeusz Szlenkier</td>]]></html>
+	<text>Tadeusz Szlenkier</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>308 Squadron (Polish)</td>]]></html>
+	<text>308 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK888</td>]]></html>
+	<text>MK888</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZF-?</td>]]></html>
+	<text>ZF-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ran out of fuel</td>]]></html>
+	<text>ran out of fuel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Stanislaw Breyner</td>]]></html>
+	<text>Stanislaw Breyner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sergeant</td>]]></html>
+	<text>Sergeant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>308 Squadron (Polish)</td>]]></html>
+	<text>308 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK346</td>]]></html>
+	<text>MK346</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZF-K</td>]]></html>
+	<text>ZF-K</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ran out of fuel</td>]]></html>
+	<text>ran out of fuel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Tadeusz Powierza</td>]]></html>
+	<text>Tadeusz Powierza</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sergeant</td>]]></html>
+	<text>Sergeant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>317 Squadron (Polish)</td>]]></html>
+	<text>317 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK190</td>]]></html>
+	<text>MK190</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ZH-P</td>]]></html>
+	<text>ZH-P</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 1 Fw 190s</td>]]></html>
+	<text>shot down by JG 1 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Zenobeusz Wdowczynski</td>]]></html>
+	<text>Zenobeusz Wdowczynski</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Warrant Officer</td>]]></html>
+	<text>Warrant Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>317 Squadron (Polish)</td>]]></html>
+	<text>317 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MJ883</td>]]></html>
+	<text>MJ883</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JH-R</td>]]></html>
+	<text>JH-R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>ran out of fuel</td>]]></html>
+	<text>ran out of fuel</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Czeslaw Mroczyk</td>]]></html>
+	<text>Czeslaw Mroczyk</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>317 Squadron (Polish)</td>]]></html>
+	<text>317 Squadron (Polish)</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK948</td>]]></html>
+	<text>MK948</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>JH-Y</td>]]></html>
+	<text>JH-Y</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 1 Fw 190s</td>]]></html>
+	<text>shot down by JG 1 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>L Rose</td>]]></html>
+	<text>L Rose</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Sergeant</td>]]></html>
+	<text>Sergeant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>329 Squadron</td>]]></html>
+	<text>329 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NH541</td>]]></html>
+	<text>NH541</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5A-?</td>]]></html>
+	<text>5A-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Uninjured</td>]]></html>
+	<text>Uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>engine trouble</td>]]></html>
+	<text>engine trouble</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>David Harling</td>]]></html>
+	<text>David Harling</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>416 Squadron</td>]]></html>
+	<text>416 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>SM304</td>]]></html>
+	<text>SM304</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>DN-?</td>]]></html>
+	<text>DN-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 26 Fw 190D-9</td>]]></html>
+	<text>shot down by JG 26 Fw 190D-9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Peter Wilson</td>]]></html>
+	<text>Peter Wilson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>438 Squadron</td>]]></html>
+	<text>438 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PD556</td>]]></html>
+	<text>PD556</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F3-Q</td>]]></html>
+	<text>F3-Q</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 3 Fw 190D-9</td>]]></html>
+	<text>shot down by JG 3 Fw 190D-9</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Ross Keller</td>]]></html>
+	<text>Ross Keller</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>438 Squadron</td>]]></html>
+	<text>438 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>PD503</td>]]></html>
+	<text>PD503</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>F3-R</td>]]></html>
+	<text>F3-R</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>strafed and killed during take-off JG 3 Fw 190s</td>]]></html>
+	<text>strafed and killed during take-off JG 3 Fw 190s</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Hugh Fraser</td>]]></html>
+	<text>Hugh Fraser</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>439 Squadron</td>]]></html>
+	<text>439 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>RB281</td>]]></html>
+	<text>RB281</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5V-X</td>]]></html>
+	<text>5V-X</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>damaged by JG 6 Bf 109. Wheels up landing at Volkel airfield [22]</td>]]></html>
+	<text>damaged by JG 6 Bf 109. Wheels up landing at Volkel airfield [22]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Samuel Angelini</td>]]></html>
+	<text>Samuel Angelini</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>439 Squadron</td>]]></html>
+	<text>439 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Hawker Typhoon</td>]]></html>
+	<text>Hawker Typhoon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MN589</td>]]></html>
+	<text>MN589</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>5V-?</td>]]></html>
+	<text>5V-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 6 [23]</td>]]></html>
+	<text>shot down by JG 6 [23]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Len Wilson</td>]]></html>
+	<text>Len Wilson</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>442 Squadron</td>]]></html>
+	<text>442 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>NH369</td>]]></html>
+	<text>NH369</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Y2-F</td>]]></html>
+	<text>Y2-F</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 6</td>]]></html>
+	<text>shot down by JG 6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Don Gordon</td>]]></html>
+	<text>Don Gordon</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Lieutenant</td>]]></html>
+	<text>Flight Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>442 Squadron</td>]]></html>
+	<text>442 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MH728</td>]]></html>
+	<text>MH728</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Y2-?</td>]]></html>
+	<text>Y2-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>WIA</td>]]></html>
+	<text>WIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 6</td>]]></html>
+	<text>shot down by JG 6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Donald Brigden</td>]]></html>
+	<text>Donald Brigden</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flying Officer</td>]]></html>
+	<text>Flying Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>442 Squadron</td>]]></html>
+	<text>442 Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Supermarine Spitfire</td>]]></html>
+	<text>Supermarine Spitfire</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>MK420</td>]]></html>
+	<text>MK420</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Y2-?</td>]]></html>
+	<text>Y2-?</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG 6</td>]]></html>
+	<text>shot down by JG 6</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>William Whisner</td>]]></html>
+	<text>William Whisner</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Captain</td>]]></html>
+	<text>Captain</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>487 Fighter Squadron, 352 Fighter Group</td>]]></html>
+	<text>487 Fighter Squadron, 352 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-51 Mustang</td>]]></html>
+	<text>P-51 Mustang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44-14237</td>]]></html>
+	<text>44-14237</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HO-W</td>]]></html>
+	<text>HO-W</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>fighter crippled by JG 11 - made "wheels down" landing [24] [25]</td>]]></html>
+	<text>fighter crippled by JG 11 - made &amp;quot;wheels down&amp;quot; landing [24] [25]</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dean Huston</td>]]></html>
+	<text>Dean Huston</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First Lieutenant</td>]]></html>
+	<text>First Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>487 Fighter Squadron, 352 Fighter Group</td>]]></html>
+	<text>487 Fighter Squadron, 352 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-51 Mustang</td>]]></html>
+	<text>P-51 Mustang</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>44-14801</td>]]></html>
+	<text>44-14801</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>HO-L</td>]]></html>
+	<text>HO-L</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>minor damage</td>]]></html>
+	<text>minor damage</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>James Hall</td>]]></html>
+	<text>James Hall</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second Lieutenant</td>]]></html>
+	<text>Second Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>366 Fighter Group</td>]]></html>
+	<text>366 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53 Bf 109</td>]]></html>
+	<text>shot down by JG53 Bf 109</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Dofel Brunetti</td>]]></html>
+	<text>Dofel Brunetti</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second Lieutenant</td>]]></html>
+	<text>Second Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>366 Fighter Group</td>]]></html>
+	<text>366 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42-28565</td>]]></html>
+	<text>42-28565</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53 Bf 109</td>]]></html>
+	<text>shot down by JG53 Bf 109</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>William Schubert</td>]]></html>
+	<text>William Schubert</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First Lieutenant</td>]]></html>
+	<text>First Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>367/358 Fighter Group</td>]]></html>
+	<text>367/358 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53 Bf 109</td>]]></html>
+	<text>shot down by JG53 Bf 109</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>David Johnson Jr</td>]]></html>
+	<text>David Johnson Jr</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Flight Officer</td>]]></html>
+	<text>Flight Officer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>366 Fighter Group</td>]]></html>
+	<text>366 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>42-76176</td>]]></html>
+	<text>42-76176</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG11</td>]]></html>
+	<text>shot down by JG11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John Feeney</td>]]></html>
+	<text>John Feeney</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>First Lieutenant</td>]]></html>
+	<text>First Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>366 Fighter Group</td>]]></html>
+	<text>366 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG11</td>]]></html>
+	<text>shot down by JG11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>John Kennedy</td>]]></html>
+	<text>John Kennedy</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Second Lieutenant</td>]]></html>
+	<text>Second Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>390 Fighter Group</td>]]></html>
+	<text>390 Fighter Group</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>P-47 Thunderbolt</td>]]></html>
+	<text>P-47 Thunderbolt</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG11</td>]]></html>
+	<text>shot down by JG11</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>D.K Neil Other crew: Crew Sgt. Owen Stafford WIA; William Fletcher KIA</td>]]></html>
+	<text>D.K Neil Other crew: Crew Sgt. Owen Stafford WIA; William Fletcher KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Lieutenant</td>]]></html>
+	<text>Lieutenant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>125 Liaison Squadron</td>]]></html>
+	<text>125 Liaison Squadron</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Stinson Vigilant</td>]]></html>
+	<text>Stinson Vigilant</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG4</td>]]></html>
+	<text>shot down by JG4</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pilot and Observer</td>]]></html>
+	<text>Pilot and Observer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>27th Field Artillery</td>]]></html>
+	<text>27th Field Artillery</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Artillery Spotter</td>]]></html>
+	<text>Artillery Spotter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>both KIA</td>]]></html>
+	<text>both KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53</td>]]></html>
+	<text>shot down by JG53</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>Pilot and Observer</td>]]></html>
+	<text>Pilot and Observer</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>XX. Art Corps</td>]]></html>
+	<text>XX. Art Corps</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Artillery Spotter</td>]]></html>
+	<text>Artillery Spotter</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>KIA</td>]]></html>
+	<text>KIA</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53</td>]]></html>
+	<text>shot down by JG53</text>
+</cell>
+</row>
+
+<row>
+<cell>
+	<html><![CDATA[<td>? Harvey</td>]]></html>
+	<text>? Harvey</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>A.D.L.S Flight</td>]]></html>
+	<text>A.D.L.S Flight</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>Auster</td>]]></html>
+	<text>Auster</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>unknown</td>]]></html>
+	<text>unknown</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>uninjured</td>]]></html>
+	<text>uninjured</text>
+</cell>
+<cell>
+	<html><![CDATA[<td>shot down by JG53 (bailed out)</td>]]></html>
+	<text>shot down by JG53 (bailed out)</text>
+</cell>
+</row>
+
+</content>
+<tableContext>
+<context>
+	<score>1.0</score>
+	<text>Unternehmen Bodenplatte - Wikipedia, the free encyclopedia</text>
+</context>
+<context>
+	<score>1.0</score>
+	<text>Name Rank Unit Aircraft Type Serial Code Fate Cause</text>
+</context>
+<context>
+	<score>0.8787878</score>
+	<text>Allied aerial casualties directly related to Bodenplatte</text>
+</context>
+<context>
+	<score>0.79696965</score>
+	<text>Unternehmen Bodenplatte</text>
+</context>
+<context>
+	<score>0.78534174</score>
+	<text>[ edit ] Total Allied Aerial Losses</text>
+</context>
+<context>
+	<score>0.7539692</score>
+	<text>[ edit ] Total German Losses</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] Bodenplatte</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] Total Allied Aerial Losses</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] Total German Losses</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] Galland&apos;s alternative - the &quot;Big Blow&quot;</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] Operation Hermann</text>
+</context>
+<context>
+	<score>0.72291756</score>
+	<text>[ edit ] References</text>
+</context>
+<context>
+	<score>0.7193939</score>
+	<text>Contents</text>
+</context>
+<context>
+	<score>0.70424247</score>
+	<text>According to JG 11 records the following were lost</text>
+</context>
+<context>
+	<score>0.6457054</score>
+	<text>Of the German pilots killed that day was G nther Specht , a 34 victory ace. Pilot Officer Dave Johnson had claimed he destroyed a Bf 109 over Y-29 and that the Messerschmitt had &quot;belly landed&quot; not far from the field. After being shot down himself, Johnson then drove over to the wreck. The Bf 109 was still intact, but the pilot was dead. Johnson claimed that the dead pilot&apos;s Identification Card named him as a Lieutenant Colonel ( Oberst ) Specht. The claim has been disproven by German records that indicate Specht flew Focke-Wulf Fw 190 Wknr. 205033, and that he was ranked as a Major. Johnson&apos;s actual victim that day was Oberleutnant August Engel</text>
+</context>
+<context>
+	<score>0.6036489</score>
+	<text>German casualties related directly to Bodenplatte</text>
+</context>
+<context>
+	<score>0.5925333</score>
+	<text>The 366th was credited with eight kills, and anti-aircraft guns with seven more, though some double-counting is likely. Luftwaffe records indicate JG 11 lost 28 fighters. Four German pilots (two were wounded) made it back to German-held territory, while four were captured, the remaining twenty were killed</text>
+</context>
+<context>
+	<score>0.5528145</score>
+	<text>The unit was awarded the Distinguished Unit Citation, the only one awarded to a fighter group in Northern Europe.</text>
+</context>
+<context>
+	<score>0.5245631</score>
+	<text>, two of the pilots were uninjured, the third, 2./Lt Brunetti, was killed by a Bf 109</text>
+</context>
+<context>
+	<score>0.5208215</score>
+	<text>[ edit ] Jagdgeschwader 27</text>
+</context>
+<context>
+	<score>0.49914306</score>
+	<text>One notable failed attack was on the airstrip at Asch. The leader of the 487th squadron, 352nd Fighter Group , Lt. Colonel John Meyer, anticipated German activity and had a flight of twelve P-51s about to take off on a combat patrol when the attack began. They took off under fire, and with the help of eight P-47s of the 366th (already in the air), the 487th shot down 23 German fighters out of 61 attackers. Several pilots made &apos; Ace &apos; status that day; two had four confirmed kills apiece. No P-51s were lost, two were damaged, and one P-51 was damaged on the ground. The 336th Fighter Group lost 3 P-47s shot down</text>
+</context>
+<context>
+	<score>0.47880703</score>
+	<text>[ edit ] Y-29</text>
+</context>
+<context>
+	<score>0.4665032</score>
+	<text>JG 27s losses on 1 January 1945 numbered 18 pilots overall. However only 15 pilots of this unit were lost as a direct result of Bodenplatte</text>
+</context>
+<context>
+	<score>0.4625382</score>
+	<text>A Focke-Wulf Fw 190 D-9 of 10./JG54 ( Leutnant Theo Nibel), downed by a partridge which flew into the radiator near Brussels on January 1st 1945.</text>
+</context>
+</tableContext>
+</logicalTable>
+<headerSynset>
+</headerSynset>
+<htmlSnippet>
+<![CDATA[
+<table class="wikitable sortable" style="font-size: 9pt; text-align:center"><tr><th>Name</th><th>Rank</th><th>Unit</th><th>Aircraft Type</th><th>Serial</th><th>Code</th><th>Fate</th><th>Cause</th></tr><tr><td>Howard P. Gibboms</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>168 Squadron RAF</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>MN486</td><td>QC-D</td><td>KIA</td><td>shot down by <i>JG 3</i> Fw 190s</td></tr><tr><td>Don Webber</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>183 Squadron RCAF</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>EK497</td><td>HF-?</td><td>KIA</td><td>shot down in error by 352nd P-51</td></tr><tr><td>Waclaw Chojnacki</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>308 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MJ281</td><td>ZF-P</td><td>KIA</td><td>shot down by <i>JG 1</i> Fw 190s</td></tr><tr><td>Stanislaw Bednarczyk</td><td><a href="../../../../articles/w/a/r/Warrant_Officer_34e0.html" title="Warrant Officer">Warrant Officer</a></td><td>308 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK756</td><td>ZF-?</td><td>Uninjured</td><td>shot down by <i>JG 1</i> Fw 190s</td></tr><tr><td>Josef Stanowski</td><td><a href="../../../../articles/f/l/i/Flight_Sergeant_49e5.html" title="Flight Sergeant">Flight Sergeant</a></td><td>308 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK888</td><td>ZF-?</td><td>Uninjured</td><td>ran out of fuel</td></tr><tr><td>Tadeusz Szlenkier</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>308 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK888</td><td>ZF-?</td><td>Uninjured</td><td>ran out of fuel</td></tr><tr><td>Stanislaw Breyner</td><td><a href="../../../../articles/s/e/r/Sergeant.html" title="Sergeant">Sergeant</a></td><td>308 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK346</td><td>ZF-K</td><td>Uninjured</td><td>ran out of fuel</td></tr><tr><td>Tadeusz Powierza</td><td><a href="../../../../articles/s/e/r/Sergeant.html" title="Sergeant">Sergeant</a></td><td>317 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK190</td><td>ZH-P</td><td>KIA</td><td>shot down by <i>JG 1</i> Fw 190s</td></tr><tr><td>Zenobeusz Wdowczynski</td><td><a href="../../../../articles/w/a/r/Warrant_Officer_34e0.html" title="Warrant Officer">Warrant Officer</a></td><td>317 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MJ883</td><td>JH-R</td><td>Uninjured</td><td>ran out of fuel</td></tr><tr><td>Czeslaw Mroczyk</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>317 Squadron (Polish)</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK948</td><td>JH-Y</td><td>Uninjured</td><td>shot down by <i>JG 1</i> Fw 190s</td></tr><tr><td>L Rose</td><td><a href="../../../../articles/s/e/r/Sergeant.html" title="Sergeant">Sergeant</a></td><td>329 Squadron</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>NH541</td><td>5A-?</td><td>Uninjured</td><td>engine trouble</td></tr><tr><td>David Harling</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>416 Squadron</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>SM304</td><td>DN-?</td><td>KIA</td><td>shot down by <i>JG 26</i> Fw 190D-9</td></tr><tr><td>Peter Wilson</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>438 Squadron</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>PD556</td><td>F3-Q</td><td>KIA</td><td>shot down by <i>JG 3</i> Fw 190D-9</td></tr><tr><td>Ross Keller</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>438 Squadron</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>PD503</td><td>F3-R</td><td>KIA</td><td>strafed and killed during take-off <i>JG 3</i> Fw 190s</td></tr><tr><td>Hugh Fraser</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>439 Squadron</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>RB281</td><td>5V-X</td><td>uninjured</td><td>damaged by <i>JG 6</i> Bf 109. Wheels up landing at Volkel airfield<sup id="cite_ref-21" class="reference"><a href="#cite_note-21" title="">[22]</a></sup></td></tr><tr><td>Samuel Angelini</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>439 Squadron</td><td><a href="../../../../articles/h/a/w/Hawker_Typhoon_adc7.html" title="Hawker Typhoon">Hawker Typhoon</a></td><td>MN589</td><td>5V-?</td><td>KIA</td><td>shot down by <i>JG 6</i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22" title="">[23]</a></sup></td></tr><tr><td>Len Wilson</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>442 Squadron</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>NH369</td><td>Y2-F</td><td>uninjured</td><td>shot down by <i>JG 6</i></td></tr><tr><td>Don Gordon</td><td><a href="../../../../articles/f/l/i/Flight_Lieutenant_db7d.html" title="Flight Lieutenant">Flight Lieutenant</a></td><td>442 Squadron</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MH728</td><td>Y2-?</td><td>WIA</td><td>shot down by <i>JG 6</i></td></tr><tr><td>Donald Brigden</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flying Officer</a></td><td>442 Squadron</td><td><a href="../../../../articles/s/u/p/Supermarine_Spitfire_30cc.html" title="Supermarine Spitfire">Supermarine Spitfire</a></td><td>MK420</td><td>Y2-?</td><td>KIA</td><td>shot down by <i>JG 6</i></td></tr><tr><td>William Whisner</td><td><a href="../../../../articles/c/a/p/Captain.html" title="Captain">Captain</a></td><td>487 Fighter Squadron, 352 Fighter Group</td><td><a href="../../../../articles/p/-/5/P-51_Mustang_6b8f.html" title="P-51 Mustang">P-51 Mustang</a></td><td>44-14237</td><td>HO-W</td><td>uninjured</td><td>fighter crippled by <i>JG 11</i> - made "wheels down" landing<sup id="cite_ref-23" class="reference"><a href="#cite_note-23" title="">[24]</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24" title="">[25]</a></sup></td></tr><tr><td>Dean Huston</td><td><a href="../../../../articles/f/i/r/First_Lieutenant_57be.html" title="First Lieutenant">First Lieutenant</a></td><td>487 Fighter Squadron, 352 Fighter Group</td><td><a href="../../../../articles/p/-/5/P-51_Mustang_6b8f.html" title="P-51 Mustang">P-51 Mustang</a></td><td>44-14801</td><td>HO-L</td><td>uninjured</td><td>minor damage</td></tr><tr><td>James Hall</td><td><a href="../../../../articles/s/e/c/Second_Lieutenant_6233.html" title="Second Lieutenant">Second Lieutenant</a></td><td>366 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG53</i> Bf 109</td></tr><tr><td>Dofel Brunetti</td><td><a href="../../../../articles/s/e/c/Second_Lieutenant_6233.html" title="Second Lieutenant">Second Lieutenant</a></td><td>366 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>42-28565</td><td>unknown</td><td>KIA</td><td>shot down by <i>JG53</i> Bf 109</td></tr><tr><td>William Schubert</td><td><a href="../../../../articles/f/i/r/First_Lieutenant_57be.html" title="First Lieutenant">First Lieutenant</a></td><td>367/358 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG53</i> Bf 109</td></tr><tr><td>David Johnson Jr</td><td><a href="../../../../articles/f/l/i/Flight_Officer_487d.html" class="mw-redirect" title="Flight Officer">Flight Officer</a></td><td>366 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>42-76176</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG11</i></td></tr><tr><td>John Feeney</td><td><a href="../../../../articles/f/i/r/First_Lieutenant_57be.html" title="First Lieutenant">First Lieutenant</a></td><td>366 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG11</i></td></tr><tr><td>John Kennedy</td><td><a href="../../../../articles/s/e/c/Second_Lieutenant_6233.html" title="Second Lieutenant">Second Lieutenant</a></td><td>390 Fighter Group</td><td><a href="../../../../articles/p/-/4/P-47_Thunderbolt_91a0.html" title="P-47 Thunderbolt">P-47 Thunderbolt</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG11</i></td></tr><tr><td>D.K Neil<br />Other crew: Crew Sgt. Owen Stafford WIA; William Fletcher KIA</td><td><a href="../../../../articles/l/i/e/Lieutenant.html" title="Lieutenant">Lieutenant</a></td><td>125 Liaison Squadron</td><td><a href="../../../../articles/s/t/i/Stinson_Vigilant_fa58.html" title="Stinson Vigilant">Stinson Vigilant</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG4</i></td></tr><tr><td>Pilot and Observer</td><td>unknown</td><td>27th Field Artillery</td><td>Artillery Spotter</td><td>unknown</td><td>unknown</td><td>both KIA</td><td>shot down by <i>JG53</i></td></tr><tr><td>Pilot and Observer</td><td>unknown</td><td>XX. Art Corps</td><td>Artillery Spotter</td><td>unknown</td><td>unknown</td><td>KIA</td><td>shot down by <i>JG53</i></td></tr><tr><td>? Harvey</td><td>unknown</td><td>A.D.L.S Flight</td><td><a href="../../../../articles/a/u/s/Auster.html" title="Auster">Auster</a></td><td>unknown</td><td>unknown</td><td>uninjured</td><td>shot down by <i>JG53</i> (bailed out)<p><br /></p></td></tr></table>]]>
+</htmlSnippet>
+</entity>
