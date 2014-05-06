@@ -34,6 +34,7 @@ Dalla root del repository:
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti.
 
 Parametri:
+
 * ALGORITHM: majority, ml-frequency, ml-jaccard, ml-tfidf
 * METRIC-NAME: qualitative, questionnaire, trec
 * CONTEXT: with-context, without-context
