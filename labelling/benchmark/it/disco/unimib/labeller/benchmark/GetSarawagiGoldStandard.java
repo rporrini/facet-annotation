@@ -18,9 +18,12 @@ import org.w3c.dom.NodeList;
 public class GetSarawagiGoldStandard {
 
 	public static void main(String[] args) throws Exception {
+		String targetDirectory = args[0];		
+		String goldStandardPath = args[1];
+		
 		DocumentBuilderFactory documentFactory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder builder = documentFactory.newDocumentBuilder(); 
-		HashSet<File> labelFiles = getLabelFiles();
+		HashSet<File> labelFiles = getLabelFiles(goldStandardPath);
 		int duplicated = 1;
 		for(File labelFile : labelFiles){
 			Document labelsDocument = builder.parse(new File(labelFile.getPath()));
@@ -55,9 +58,9 @@ public class GetSarawagiGoldStandard {
 					NodeList rowcells = row.getElementsByTagName("cell");
 					groupContent.add(getCellValue(cell2, rowcells));
 				}
-				File group = new File("../evaluation/gold-standard-sarawagi/sarawagi_" + context + "_" + label + "_link");
+				File group = new File(targetDirectory + "/sarawagi_" + context + "_" + label + "_link");
 				if(group.exists()){
-					group = new File("../evaluation/gold-standard-sarawagi/sarawagi_" + context + "_" + label + "_link" + duplicated);
+					group = new File(targetDirectory + "sarawagi_" + context + "_" + label + "_link" + duplicated);
 					duplicated++;
 				}
 				FileUtils.write(group, "#" + getTableFile(labelFile).getPath().replace("../", "") + "\n", true);
@@ -78,8 +81,8 @@ public class GetSarawagiGoldStandard {
 		return cellValue;
 	}
 
-	private static HashSet<File> getLabelFiles() throws IOException {
-		Collection<File> listFiles = FileUtils.listFiles(new File("../evaluation/tools/annotationData/workspace/WWT_GroundTruth/annotation"), new String[]{"xml"}, true);
+	private static HashSet<File> getLabelFiles(String goldStandardPath) throws IOException {
+		Collection<File> listFiles = FileUtils.listFiles(new File(goldStandardPath + "workspace/WWT_GroundTruth/annotation"), new String[]{"xml"}, true);
 		HashSet<File> labelFiles = new HashSet<File>();
 		for(File file : listFiles){
 			List<String> lines = FileUtils.readLines(file);
