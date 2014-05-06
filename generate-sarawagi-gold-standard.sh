@@ -12,6 +12,6 @@ cd ..
 rm -rf $root/evaluation/gold-standard-sarawagi-enhanced
 mkdir -p $root/evaluation/gold-standard-sarawagi-enhanced
 cd $root/evaluation
-for file in gold-standard-sarawagi/*; do sed -e '/^#/b; s/) /\n/; s/&amp;apos;/'\''/g; s/&amp;amp;/\n/g; s/&apos;/'\''/g; /^-/d' "$file" | cut -d'(' -f1 | grep -v '^$' | sed 's/#/123456789/g' | sort | uniq | sed 's/123456789/#/g' > "gold-standard-sarawagi-enhanced/${file##*/}"; done;
+for file in gold-standard-sarawagi/*; do sed -e '/^#/b; s/) /\n/; s/&amp;apos;/'\''/g; s/&amp;amp;/\n/g; s/&apos;/'\''/g; s/&quot; //g; s/&quot;//g; /^-/d; /(.*/d' "$file" | grep -v '^$' | sed 's/#/123456789/g' | sort | uniq | sed 's/123456789/#/g' > "gold-standard-sarawagi-enhanced/${file##*/}"; done;
 rm -r ../evaluation/gold-standard-sarawagi
 

@@ -48,6 +48,6 @@ public class GetGoldStandardValues {
 	}
 	
 	private static GoldStandardGroup[] goldStandard() {
-		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standard-enhanced"))).getGroups();
+		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standard-sarawagi-enhanced"))).getGroups();
 	}
 }
