@@ -5,6 +5,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 
@@ -73,5 +74,17 @@ public class GoldStandardGroupTest {
 		GoldStandardGroup group = new GoldStandardGroup(connector);
 		
 		assertThat(group.elements(), hasSize(2));
+	}
+	
+	@Test
+	public void shouldSkipLinesWithHash() throws Exception {
+		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+																			.withLine("first line")
+																			.withLine("#second line")
+																			.withLine("third line");
+		
+		GoldStandardGroup group = new GoldStandardGroup(connector);
+		
+		assertThat(group.elements(), not(hasItem("#second line")));
 	}
 }

@@ -16,7 +16,7 @@ public class GoldStandardGroup {
 	}
 
 	public List<String> elements() throws Exception {
-		return nonEmpty(connector.lines());
+		return nonEmptyAndWithNoHash(connector.lines());
 	}
 
 	public String provider() {
@@ -50,10 +50,10 @@ public class GoldStandardGroup {
 		return StringUtils.split(connector.name(), "_");
 	}
 	
-	private List<String> nonEmpty(List<String> lines) {
+	private List<String> nonEmptyAndWithNoHash(List<String> lines) {
 		List<String> result = new ArrayList<String>();
 		for(String line : lines){
-			if(!line.trim().isEmpty()) result.add(line);
+			if(!line.trim().isEmpty() && line.charAt(0) != '#') result.add(line);
 		}
 		return result;
 	}
