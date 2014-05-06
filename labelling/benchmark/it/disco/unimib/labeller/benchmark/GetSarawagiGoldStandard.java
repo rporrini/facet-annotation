@@ -55,12 +55,12 @@ public class GetSarawagiGoldStandard {
 					NodeList rowcells = row.getElementsByTagName("cell");
 					groupContent.add(getCellValue(cell2, rowcells));
 				}
-				File group = new File("../evaluation/sarawagi-gold-standard/sarawagi_" + context + "_" + label + "_link");
+				File group = new File("../evaluation/gold-standard-sarawagi/sarawagi_" + context + "_" + label + "_link");
 				if(group.exists()){
-					group = new File("../evaluation/sarawagi-gold-standard/sarawagi_" + context + "_" + label + "_link" + duplicated);
+					group = new File("../evaluation/gold-standard-sarawagi/sarawagi_" + context + "_" + label + "_link" + duplicated);
 					duplicated++;
 				}
-				FileUtils.write(group, "#" + getTableFile(labelFile).getPath().replace("..", "") + "\n", true);
+				FileUtils.write(group, "#" + getTableFile(labelFile).getPath().replace("../", "") + "\n", true);
 				for(String line : groupContent){
 					FileUtils.write(group, line + "\n", true);
 				}
