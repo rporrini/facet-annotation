@@ -40,4 +40,14 @@ Parametri:
 * CONTEXT: with-context, without-context
 * MAJORITY-K: rapporto di accettazione di un predicato per majority vote (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
+## Calcolo delle metriche via trec_eval
+Dalla root del repository:
+
+* ```./evaluate-results.sh GOLD-STANDARD RESULTS-FILE```
+
+Parametri:
+
+* GOLD-STANDARD: file formato trec del gold standard (si trova nella cartella ```evaluation/results```)
+* RESULTS-FILE: file formato trec dei risultati degli algoritmi (vedi sopra)
+
 
