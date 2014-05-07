@@ -20,6 +20,8 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]));
 		Distribution distribution = new Distribution(values);
 		
+		log(distribution);
+		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		NormalizedPrior prior = new NormalizedPrior(distribution, unnormalizedPrior);
 		
@@ -33,5 +35,17 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		}
 		Collections.sort(results);
 		return results;
+	}
+
+	private void log(Distribution distribution) {
+		Events events = new Events();
+		events.debug("Got " + distribution.predicates().size() + " predicates over " + distribution.values().size() + " values");
+		for(String predicate : distribution.predicates()){
+			double score = 0.0;
+			for(String value : distribution.values()){
+				score+=distribution.scoreOf(predicate, value);
+			}
+			events.debug(predicate + " " + score);
+		}
 	}
 }
