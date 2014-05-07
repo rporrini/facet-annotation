@@ -13,9 +13,10 @@ public class Try {
 		String file = "allstartnba_basketball players_draft year_players-by-draft-pick.htm";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard-enhanced/" + file)));
 		
-		RankingStrategy ranking = new RankByFrequency();//new RankInspection(new RankByFrequency());
+		//RankingStrategy ranking = new RankByFrequency();//new RankInspection(new RankByFrequency());
+		CountPredicates score = new CountPredicates();
 		FullTextQuery query = new MandatoryContext();//new SpecificNamespace("http://dbpedia.org/ontology/", new MandatoryContext());
-		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotation(ranking, query).getAlgorithm();
+		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query).getAlgorithm();
 		
 		System.out.println(group.context());
 		
