@@ -4,7 +4,7 @@ import java.util.List;
 
 public interface Score {
 
-	public void accumulate(String label, String context);
+	public void accumulate(String label, String context, String targetContext);
 
 	public List<AnnotationResult> toResults();
 

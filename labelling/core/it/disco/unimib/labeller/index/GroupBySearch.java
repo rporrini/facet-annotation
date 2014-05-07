@@ -2,6 +2,8 @@ package it.disco.unimib.labeller.index;
 
 import it.disco.unimib.labeller.labelling.Events;
 
+import java.io.IOException;
+import java.io.StringReader;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -10,9 +12,11 @@ import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
+import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.search.IndexSearcher;
@@ -20,6 +24,7 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
+
 
 public class GroupBySearch implements Index{
 
@@ -42,15 +47,28 @@ public class GroupBySearch implements Index{
 										  namespace(), 
 										  analyzer()),
 						  100000);
+		
+		String stemmedContext = stem(context);
 		new Events().debug("Got " + results.totalHits + " predicates.");
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{label(), context()}));
 			Document document = searcher.doc(result.doc, fields);
-			score.accumulate(document.getValues(label())[0], StringUtils.join(document.getValues(context()), " "));
+			score.accumulate(document.getValues(label())[0], stem(StringUtils.join(document.getValues(context()), " ")), stemmedContext);
 		}
 		List<AnnotationResult> annotations = score.toResults();
 		score.clear();
 		return annotations;
+	}
+
+	private String stem(String context) throws IOException {
+		String stemmedContext = "";
+		TokenStream stream = analyzer().tokenStream("any", new StringReader(context));
+		CharTermAttribute termAtt = stream.addAttribute(CharTermAttribute.class);
+		stream.reset();
+		while(stream.incrementToken()) {
+            stemmedContext = stemmedContext + " " + termAtt.toString();
+        }
+		return stemmedContext.trim();
 	}
 	
 	private Analyzer analyzer() {

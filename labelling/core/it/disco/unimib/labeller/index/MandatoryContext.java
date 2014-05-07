@@ -19,7 +19,7 @@ public class MandatoryContext implements FullTextQuery{
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
 		query.clauses().add(new BooleanClause(standardQueryParser.parse(escape, literalField), Occur.MUST));
-		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
+		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
 		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), contextField), Occur.MUST));
 		return query;
 	}
