@@ -68,10 +68,11 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 
 	private void logOccurrenciesByValue(HashMap<String, List<AnnotationResult>> values) {
 		Events events = new Events();
-		events.debug("Value|Predicates|Score");
+		events.debug("Value (Number of predicates)|Predicates|Score");
 		for(String value : values.keySet()){
+			events.debug(value + " (" + values.get(value).size() + ")||");
 			for(AnnotationResult result : values.get(value)){
-				events.debug(value + "|" + result.label() + "|" + result.score());
+				events.debug("|" + result.label() + "|" + result.score());
 			}
 		}
 	}
