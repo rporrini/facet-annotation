@@ -5,6 +5,7 @@ import it.disco.unimib.labeller.index.AnnotationResult;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 
 public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
@@ -20,6 +21,8 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]));
 		Distribution distribution = new Distribution(values);
 		
+		logOccurrenciesByValue(values);
+		logOccurrenciesByPredicate(values);
 		log(distribution);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
@@ -37,6 +40,42 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		return results;
 	}
 
+	private void logOccurrenciesByPredicate(HashMap<String, List<AnnotationResult>> values) {
+		Events events = new Events();
+		HashSet<String> predicates = new HashSet<String>();
+		events.debug("Predicate|Values|Number of values|Average score");
+		for(String value : values.keySet()){
+			for(AnnotationResult predicate : values.get(value)){
+				predicates.add(predicate.label());
+			}
+		}
+		for(String predicate : predicates){
+			String log = predicate + "|";
+			int count = 0;
+			double sum = 0;
+			for(String value : values.keySet()){
+				for(AnnotationResult result : values.get(value)){
+					if(predicate.equals(result.label())){
+						log += value + "; ";
+						sum += result.score();
+						count++;
+					}
+				}
+			}
+			events.debug(log + "|" + count + "|" + sum/count);
+		}
+	}
+
+	private void logOccurrenciesByValue(HashMap<String, List<AnnotationResult>> values) {
+		Events events = new Events();
+		events.debug("Value|Predicates|Score");
+		for(String value : values.keySet()){
+			for(AnnotationResult result : values.get(value)){
+				events.debug(value + "|" + result.label() + "|" + result.score());
+			}
+		}
+	}
+	
 	private void log(Distribution distribution) {
 		Events events = new Events();
 		events.debug("Got " + distribution.predicates().size() + " predicates over " + distribution.values().size() + " values");
