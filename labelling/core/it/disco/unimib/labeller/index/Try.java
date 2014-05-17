@@ -12,6 +12,7 @@ import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 public class Try {
 
 	public static void main(String[] args) throws Exception {
+		//String file = "allstartnba_basketball players_draft year_players-by-draft-pick.htm"
 		String file = "wikipedia_movies_producer_AFI's_100_Years...100_Movies_(10th_Anniversary_Edition)";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard-enhanced/" + file)));
 		
