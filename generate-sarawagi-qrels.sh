@@ -7,3 +7,5 @@ cd $root
 ./build.sh
 cd $root/labelling
 java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.benchmark.GetSarawagiQrels ../evaluation/gold-standard-sarawagi-enhanced/ > ../evaluation/results/gold-standard-sarawagi.qrels
+cd ..
+./validate.sh ../evaluation/results/gold-standard-sarawagi.qrels ../evaluation/gold-standard-sarawagi-enhanced
