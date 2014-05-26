@@ -8,7 +8,7 @@ import org.apache.commons.io.FileUtils;
 import org.jopendocument.dom.spreadsheet.Sheet;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
 
-public class GetGoldStandardQRels {
+public class GetGoldStandardQrels {
 
 	public static void main(String[] args) throws Exception {
 		String questionnaire = "../evaluation/results/majority-05-all-withcontext-enhanced-withlabels-ALL.ods";
