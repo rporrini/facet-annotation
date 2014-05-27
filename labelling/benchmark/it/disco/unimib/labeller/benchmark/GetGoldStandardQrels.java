@@ -11,7 +11,7 @@ import org.jopendocument.dom.spreadsheet.SpreadSheet;
 public class GetGoldStandardQrels {
 
 	public static void main(String[] args) throws Exception {
-		String questionnaire = "../evaluation/results/majority-05-all-withcontext-enhanced-withlabels-ALL.ods";
+		String questionnaire = args[0];
 		
 		SpreadSheet document = SpreadSheet.createFromFile(new File(questionnaire));
 		Sheet resultSheet = document.getSheet(document.getSheetCount() - 1);
@@ -32,6 +32,6 @@ public class GetGoldStandardQrels {
 			}
 			catch(Exception e){}
 		}
-		FileUtils.writeLines(new File("../evaluation/results/gold-standard.qrels"), rows);
+		FileUtils.writeLines(new File(args[1]), rows);
 	}
 }
