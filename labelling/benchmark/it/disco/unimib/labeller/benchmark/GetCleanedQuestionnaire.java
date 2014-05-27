@@ -57,6 +57,10 @@ public class GetCleanedQuestionnaire {
 	}
 	
 	private static String suggestions(MutableCell<SpreadSheet> cell) throws Exception{
+		return "=HYPERLINK(\"" + dbPediaQuery(cell, "text/html") + "\"," + "\"Hints\")";
+	}
+
+	private static String dbPediaQuery(MutableCell<SpreadSheet> cell, String output) throws Exception {
 		String uri = "prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
 				   "select distinct ?subject ?predicate ?objectValue ?object where { " +
 				   "<" + cell.getTextValue() + "> rdfs:label ?predicate . " + 
@@ -70,10 +74,10 @@ public class GetCleanedQuestionnaire {
 				   "} . " +
 				   "filter(!regex(?objectType, \"Thing\", \"i\") && !regex(?subjectType, \"Thing\", \"i\") && langMatches(lang(?subject), \"en\") && langMatches(lang(?predicate), \"en\")) " +
 				   "} LIMIT 200";
-		
-		return "=HYPERLINK(\"http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=" +
-				URLEncoder.encode(uri, "UTF-8") + "&format=text%2Fhtml&timeout=30000&debug=on\"," +
-			   "\"Hints\")";
+		return "http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=" +
+						URLEncoder.encode(uri, "UTF-8") + "&format=" +
+						URLEncoder.encode(output, "UTF-8") +
+						"&timeout=30000&debug=on";
 	}
 	
 	private static Object relevanceValueOf(MutableCell<SpreadSheet> cell){
