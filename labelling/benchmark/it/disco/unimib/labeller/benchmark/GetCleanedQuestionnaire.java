@@ -27,16 +27,17 @@ public class GetCleanedQuestionnaire {
 			String relevance = relevanceColumn.getTextValue();
 			if(!relevance.equals("0")){
 				String firstCell = valueOf(resultSheet.getCellAt("A" + row));
-				Object[] rowContent = new Object[]{
+				Object[] rowContent = {
 						firstCell,
 						valueOf(resultSheet.getCellAt("B" + row)),
 						relevanceValueOf(relevanceColumn),
-						suggestionsFor(resultSheet.getCellAt("A" + row)),
+						valueOf(resultSheet.getCellAt("D" + row)),
 						valueOf(resultSheet.getCellAt("E" + row)),
 				};
 				List<Object> content = new ArrayList<Object>(Arrays.asList(rowContent));
 				if(firstCell.startsWith("=HYPERLINK")){
 					content.add(2, "");
+					content.set(4, suggestionsFor(resultSheet.getCellAt("A" + row)));
 					if(!lastFirstCell.startsWith("=HYPERLINK")){
 						rows.add("PROPERTY|LABEL|RELEVANCE VALUE|CORRECT LABEL (mark with X when correct)|EXAMPLES");
 					}
