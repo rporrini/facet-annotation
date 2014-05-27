@@ -11,8 +11,8 @@ import org.apache.commons.lang3.StringUtils;
 public class ValidateGoldStandard {
 
 	public static void main(String[] args) throws IOException {
-		String qRels = "../evaluation/results/gold-standard-sarawagi.qrels";//args[0];
-		String groups = "../evaluation/gold-standard-sarawagi-enhanced";//args[1];
+		String qRels = args[0];
+		String groups = args[1];
 		
 		System.out.println("Validating " + qRels + " against groups " + groups);
 		

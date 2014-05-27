@@ -13,7 +13,7 @@ import org.jopendocument.dom.spreadsheet.SpreadSheet;
 public class GetCleanedQuestionnaire {
 
 	public static void main(String[] args) throws Exception {
-		String uncleanedQuestionnaire = "../evaluation/results/majority-05-all-withcontext-enhanced-withlabels-ALL.ods";
+		String uncleanedQuestionnaire = args[0];
 		
 		SpreadSheet document = SpreadSheet.createFromFile(new File(uncleanedQuestionnaire));
 		Sheet resultSheet = document.getSheet(document.getSheetCount() - 1);
@@ -33,7 +33,7 @@ public class GetCleanedQuestionnaire {
 				rows.add(StringUtils.join(rowContent, "|"));
 			}
 		}
-		String cleanedQuestionnaire = "../evaluation/results/majority-05-all-withcontext-enhanced-withlabels-CLEANED.csv";
+		String cleanedQuestionnaire = args[1];
 		FileUtils.writeLines(new File(cleanedQuestionnaire), rows);
 	}
 
