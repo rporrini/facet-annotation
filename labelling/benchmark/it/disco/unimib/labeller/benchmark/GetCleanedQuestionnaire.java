@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import java.io.File;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
@@ -19,18 +20,28 @@ public class GetCleanedQuestionnaire {
 		Sheet resultSheet = document.getSheet(document.getSheetCount() - 1);
 		
 		List<String> rows = new ArrayList<String>();
+		String lastFirstCell = "";
 		for(int row=2; row<=7151; row++){
 			MutableCell<SpreadSheet> relevanceColumn = resultSheet.getCellAt("C" + row);
 			String relevance = relevanceColumn.getTextValue();
 			if(!relevance.equals("0")){
+				String firstCell = valueOf(resultSheet.getCellAt("A" + row));
 				Object[] rowContent = new Object[]{
-						valueOf(resultSheet.getCellAt("A" + row)),
+						firstCell,
 						valueOf(resultSheet.getCellAt("B" + row)),
 						relevanceValueOf(relevanceColumn),
 						valueOf(resultSheet.getCellAt("D" + row)),
 						valueOf(resultSheet.getCellAt("E" + row)),
 				};
-				rows.add(StringUtils.join(rowContent, "|"));
+				List<Object> content = new ArrayList<Object>(Arrays.asList(rowContent));
+				if(firstCell.startsWith("=HYPERLINK")){
+					content.add(2, "");
+					if(!lastFirstCell.startsWith("=HYPERLINK")){
+						rows.add("PROPERTY|LABEL|RELEVANCE VALUE|CORRECT LABEL|EXAMPLES");
+					}
+				}
+				lastFirstCell = firstCell;
+				rows.add(StringUtils.join(content, "|"));
 			}
 		}
 		String cleanedQuestionnaire = args[1];
@@ -54,7 +65,7 @@ public class GetCleanedQuestionnaire {
 		return cell.getTextValue();
 	}
 	
-	public static Object valueOf(MutableCell<SpreadSheet> cell){
+	public static String valueOf(MutableCell<SpreadSheet> cell){
 		return cell.getFormula() == null ? cell.getTextValue() : cell.getFormula(); 
 	}
 }
