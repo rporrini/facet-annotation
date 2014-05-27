@@ -1,16 +1,24 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.labelling.HttpConnector;
+
 import java.io.File;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Random;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.jopendocument.dom.spreadsheet.MutableCell;
 import org.jopendocument.dom.spreadsheet.Sheet;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
+
+import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
 
 public class GetCleanedQuestionnaire {
 
@@ -26,7 +34,8 @@ public class GetCleanedQuestionnaire {
 			MutableCell<SpreadSheet> relevanceColumn = resultSheet.getCellAt("C" + row);
 			String relevance = relevanceColumn.getTextValue();
 			if(!relevance.equals("0")){
-				String firstCell = valueOf(resultSheet.getCellAt("A" + row));
+				MutableCell<SpreadSheet> property = resultSheet.getCellAt("A" + row);
+				String firstCell = valueOf(property);
 				Object[] rowContent = {
 						firstCell,
 						valueOf(resultSheet.getCellAt("B" + row)),
@@ -37,9 +46,10 @@ public class GetCleanedQuestionnaire {
 				List<Object> content = new ArrayList<Object>(Arrays.asList(rowContent));
 				if(firstCell.startsWith("=HYPERLINK")){
 					content.add(2, "");
-					content.set(4, suggestionsFor(resultSheet.getCellAt("A" + row)));
+					content.set(4, suggestionsFor(property));
+					content.add(4, sampleSuggestions(property));
 					if(!lastFirstCell.startsWith("=HYPERLINK")){
-						rows.add("PROPERTY|LABEL|RELEVANCE VALUE|CORRECT LABEL (mark with X when correct)|EXAMPLES");
+						rows.add("PROPERTY|LABEL|RELEVANCE VALUE|CORRECT LABEL (mark with X when correct)|EXAMPLE 1|EXAMPLE 2");
 					}
 				}
 				lastFirstCell = firstCell;
@@ -50,6 +60,34 @@ public class GetCleanedQuestionnaire {
 		FileUtils.writeLines(new File(cleanedQuestionnaire), rows);
 	}
 
+	private static String sampleSuggestions(MutableCell<SpreadSheet> cell) throws Exception{
+		if(cell.getTextValue().toLowerCase().contains("dbpedia")){
+			JsonObject result = new Gson().fromJson(new HttpConnector().get(dbPediaQuery(cell, "application/json")), JsonObject.class);
+			JsonArray bindings = result.get("results").getAsJsonObject().get("bindings").getAsJsonArray();
+			if(bindings.size() > 0){
+				Random random = new Random();
+				return randomResult(bindings, random) + "|" + randomResult(bindings, random);
+			}
+			return "|";
+		}
+		return valueOf(cell);
+	}
+
+	private static String randomResult(JsonArray bindings, Random random) {
+		JsonObject sampledResult = bindings.get(random.nextInt((bindings.size() - 1) + 1) + 0).getAsJsonObject();
+		String suggestions = "a " +
+				sampledResult.get("subject").getAsJsonObject().get("value").getAsString() +
+				" has " +
+				sampledResult.get("predicate").getAsJsonObject().get("value").getAsString() +
+				" " +
+				sampledResult.get("objectValue").getAsJsonObject().get("value").getAsString().replace("\n", "");
+		JsonElement object = sampledResult.get("object");
+		if(object != null){
+			suggestions += " (a " +object.getAsJsonObject().get("value").getAsString() + ")";
+		}
+		return suggestions;
+	}
+	
 	private static String suggestionsFor(MutableCell<SpreadSheet> cell) throws Exception{
 		if(cell.getTextValue().toLowerCase().contains("dbpedia")){
 			return suggestions(cell);
@@ -58,7 +96,7 @@ public class GetCleanedQuestionnaire {
 	}
 	
 	private static String suggestions(MutableCell<SpreadSheet> cell) throws Exception{
-		return "=HYPERLINK(\"" + dbPediaQuery(cell, "text/html") + "\"," + "\"Hints\")";
+		return "=HYPERLINK(\"" + dbPediaQuery(cell, "text/html") + "\"," + "\"View More\")";
 	}
 
 	private static String dbPediaQuery(MutableCell<SpreadSheet> cell, String output) throws Exception {
