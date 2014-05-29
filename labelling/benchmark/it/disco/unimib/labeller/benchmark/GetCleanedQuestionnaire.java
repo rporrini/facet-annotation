@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.labelling.HttpConnector;
 
 import java.io.File;
+import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -30,7 +31,7 @@ public class GetCleanedQuestionnaire {
 		
 		List<String> rows = new ArrayList<String>();
 		String lastFirstCell = "";
-		for(int row=2; row<=7151; row++){
+		for(int row=4; row<=7151; row++){
 			MutableCell<SpreadSheet> relevanceColumn = resultSheet.getCellAt("C" + row);
 			String relevance = relevanceColumn.getTextValue();
 			if(!relevance.equals("0")){
@@ -49,9 +50,19 @@ public class GetCleanedQuestionnaire {
 					content.set(4, suggestionsFor(property));
 					content.add(4, sampleSuggestions(property));
 					if(!lastFirstCell.startsWith("=HYPERLINK")){
-						rows.add("PROPERTY|LABEL|RELEVANCE VALUE|CORRECT LABEL (mark with X when correct)|EXAMPLE 1|EXAMPLE 2");
+						rows.add("DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2");
 					}
 				}
+				if(lastFirstCell.isEmpty()){
+					content.remove(2);
+					rows.add("GROUP ID|CONTEXT LABEL");
+				}
+				try{
+					if(Long.parseLong(lastFirstCell) > 10000){
+						rows.add("GROUP VALUES");
+					}
+				}
+				catch(Exception e){}
 				lastFirstCell = firstCell;
 				rows.add(StringUtils.join(content, "|"));
 			}
@@ -61,7 +72,7 @@ public class GetCleanedQuestionnaire {
 	}
 
 	private static String sampleSuggestions(MutableCell<SpreadSheet> cell) throws Exception{
-		if(cell.getTextValue().toLowerCase().contains("dbpedia")){
+		if(cell.getTextValue().toLowerCase().contains("dbpedia") || cell.getTextValue().toLowerCase().contains("foaf")){
 			JsonObject result = new Gson().fromJson(new HttpConnector().get(dbPediaQuery(cell, "application/json")), JsonObject.class);
 			JsonArray bindings = result.get("results").getAsJsonObject().get("bindings").getAsJsonArray();
 			if(bindings.size() > 0){
@@ -73,23 +84,25 @@ public class GetCleanedQuestionnaire {
 		return valueOf(cell);
 	}
 
-	private static String randomResult(JsonArray bindings, Random random) {
+	private static String randomResult(JsonArray bindings, Random random) throws Exception {
 		JsonObject sampledResult = bindings.get(random.nextInt((bindings.size() - 1) + 1) + 0).getAsJsonObject();
-		String suggestions = "a " +
-				sampledResult.get("subject").getAsJsonObject().get("value").getAsString() +
+		String subject = sampledResult.get("subject").getAsJsonObject().get("value").getAsString();
+		String preposition = subject.startsWith("a") || subject.startsWith("e") || subject.startsWith("i") || subject.startsWith("o") || subject.startsWith("u") || subject.startsWith("h") ? "an" : "a"; 
+		String suggestions = preposition + " " +
+				subject +
 				" has " +
 				sampledResult.get("predicate").getAsJsonObject().get("value").getAsString() +
 				" " +
-				sampledResult.get("objectValue").getAsJsonObject().get("value").getAsString().replace("\n", "");
+				URLDecoder.decode(sampledResult.get("objectValue").getAsJsonObject().get("value").getAsString().replace("\n", "").replace("http://dbpedia.org/resource/", "").replace("_", " "), "UTF8");
 		JsonElement object = sampledResult.get("object");
 		if(object != null){
-			suggestions += " (a " +object.getAsJsonObject().get("value").getAsString() + ")";
+			suggestions += " (an entity of type " +object.getAsJsonObject().get("value").getAsString() + ")";
 		}
 		return suggestions;
 	}
 	
 	private static String suggestionsFor(MutableCell<SpreadSheet> cell) throws Exception{
-		if(cell.getTextValue().toLowerCase().contains("dbpedia")){
+		if(cell.getTextValue().toLowerCase().contains("dbpedia") || cell.getTextValue().toLowerCase().contains("foaf")){
 			return suggestions(cell);
 		}
 		return valueOf(cell);
