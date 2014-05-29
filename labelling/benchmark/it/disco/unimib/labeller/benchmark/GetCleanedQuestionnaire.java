@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.labelling.HttpConnector;
 
 import java.io.File;
-import java.net.URLDecoder;
 import java.net.URLEncoder;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -94,7 +93,7 @@ public class GetCleanedQuestionnaire {
 				" has " +
 				sampledResult.get("predicate").getAsJsonObject().get("value").getAsString() +
 				" " +
-				URLDecoder.decode(sampledResult.get("objectValue").getAsJsonObject().get("value").getAsString().replace("\n", "").replace("http://dbpedia.org/resource/", "").replace("_", " "), "UTF8");
+				sampledResult.get("objectValue").getAsJsonObject().get("value").getAsString().replace("\n", "").replace("http://dbpedia.org/resource/", "").replace("_", " ");
 		JsonElement object = sampledResult.get("object");
 		if(object != null){
 			suggestions += " (an entity of type " +object.getAsJsonObject().get("value").getAsString() + ")";
@@ -114,10 +113,10 @@ public class GetCleanedQuestionnaire {
 	}
 
 	private static String dbPediaQuery(MutableCell<SpreadSheet> cell, String output) throws Exception {
-		String uri = "prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" +
+		String uri = "prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> prefix pred: <" + cell.getTextValue() + "> " +
 				   "select distinct ?subject ?predicate ?objectValue ?object where { " +
-				   "<" + cell.getTextValue() + "> rdfs:label ?predicate . " + 
-				   "?s <" + cell.getTextValue() + "> ?objectValue . " + 
+				   "pred: rdfs:label ?predicate . " + 
+				   "?s pred: ?objectValue . " + 
 				   "?s rdf:type ?subjectType . " + 
 				   "?subjectType rdfs:label ?subject . " +
 				   "optional{ " + 
