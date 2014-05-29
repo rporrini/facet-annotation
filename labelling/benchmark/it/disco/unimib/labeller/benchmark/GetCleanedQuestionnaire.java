@@ -50,6 +50,7 @@ public class GetCleanedQuestionnaire {
 					content.set(4, suggestionsFor(property));
 					content.add(4, sampleSuggestions(property));
 					if(!lastFirstCell.startsWith("=HYPERLINK")){
+						rows.add("");
 						rows.add("DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2");
 					}
 				}
