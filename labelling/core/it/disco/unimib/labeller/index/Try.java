@@ -16,9 +16,8 @@ public class Try {
 		String file = "wikipedia_movies_producer_AFI's_100_Years...100_Movies_(10th_Anniversary_Edition)";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard-enhanced/" + file)));
 		
-		//RankingStrategy ranking = new RankByFrequency();//new RankInspection(new RankByFrequency());
-		Score score = new WeightedPredicates(new JaccardSimilarity()); //new CountPredicates();
-		FullTextQuery query = new MandatoryContext();//new SpecificNamespace("http://dbpedia.org/ontology/", new MandatoryContext());
+		Score score = new WeightedPredicates(new JaccardSimilarity());
+		FullTextQuery query = new OptionalContext();
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query).getAlgorithm();
 		
 		System.out.println(group.context());

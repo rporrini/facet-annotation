@@ -1,14 +1,15 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.CountPredicates;
 import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
-import it.disco.unimib.labeller.index.RankByFrequency;
-import it.disco.unimib.labeller.index.RankByJaccard;
-import it.disco.unimib.labeller.index.RankByRelevance;
+import it.disco.unimib.labeller.index.WeightedPredicates;
 
 import java.io.File;
 import java.util.HashMap;
+
+import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class Run {
 
@@ -27,18 +28,11 @@ public class Run {
 	}
 
 	private static BenchmarkConfiguration configurationOf(String algorithm, String context, String majorityK) throws Exception{
-		switch (algorithm) {
-		case "majority":
-			return new BenchmarkConfiguration("majority").majorityAnnotation(Double.parseDouble(majorityK), context(context));
-		case "ml-frequency":
-			return new BenchmarkConfiguration("ml-frequency").predicateAnnotation(new RankByFrequency(), context(context));
-		case "ml-jaccard":
-			return new BenchmarkConfiguration("ml-jaccard").predicateAnnotation(new RankByJaccard(), context(context));
-		case "ml-tfidf":
-			return new BenchmarkConfiguration("ml-tfidf").predicateAnnotation(new RankByRelevance(), context(context)); 
-		default:
-			return null;
-		}
+		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
+		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(Double.parseDouble(majorityK), context(context)));
+		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(context)));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(context)));
+		return configurations.get(algorithm);
 	}
 	
 	private static FullTextQuery context(String context){
