@@ -12,7 +12,6 @@ public class GetGoldStandardQrels {
 
 	public static void main(String[] args) throws Exception {
 		String questionnaire = args[0];
-		
 		SpreadSheet document = SpreadSheet.createFromFile(new File(questionnaire));
 		Sheet resultSheet = document.getSheet(document.getSheetCount() - 1);
 		
@@ -21,10 +20,21 @@ public class GetGoldStandardQrels {
 			try{
 				Long id = Long.parseLong(resultSheet.getCellAt("A" + row).getTextValue());
 				String content = resultSheet.getCellAt("A" + row).getTextValue();
+				while(!content.equals("DBPEDIA PROPERTY")){
+					row++;
+					content = resultSheet.getCellAt("A" + row).getTextValue();
+				}
 				while(!content.isEmpty()){
 					if(content.startsWith("http://")){
-						double rel = Double.parseDouble(resultSheet.getCellAt("C" + row).getTextValue());
-						rows.add(id + " Q0 " + content + " " + Math.round(rel));
+						String propertyScore = resultSheet.getCellAt("C" + row).getTextValue();
+						if(propertyScore.equals("#DIV/0!")){
+							double rel = 0.0;
+							rows.add(id + " Q0 " + content + " " + Math.round(rel));
+						}
+						else{
+							double rel = Double.parseDouble(propertyScore);
+							rows.add(id + " Q0 " + content + " " + Math.round(rel));
+						}
 					}
 					row++;
 					content = resultSheet.getCellAt("A" + row).getTextValue();
