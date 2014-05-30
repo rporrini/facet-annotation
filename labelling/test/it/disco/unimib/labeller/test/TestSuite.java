@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(ClasspathSuite.class)
 @IncludeJars(true)
-@ClassnameFilters({".*Test"})
+@ClassnameFilters({".*Test", "!org.jopendocument.dom.*.*"})
 public class TestSuite {
 	
 	@BeforeSuite
