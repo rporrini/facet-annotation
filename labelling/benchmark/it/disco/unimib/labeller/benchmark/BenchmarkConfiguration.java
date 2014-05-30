@@ -37,14 +37,14 @@ public class BenchmarkConfiguration{
 		return this;
 	}
 	
-	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query) throws Exception{
-		Index fts = new GroupBySearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), score, query);
+	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index) throws Exception{
+		Index fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, query);
 		this.algorithm = new MaximumLikelihoodPredicate(new CandidatePredicates(fts));
 		return this;
 	}
 	
-	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query) throws Exception{
-		Index fts = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), null, null, new RankByFrequency(), query);
+	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index) throws Exception{
+		Index fts = new FullTextSearch(new NIOFSDirectory(new File(index)), null, null, new RankByFrequency(), query);
 		this.algorithm = new TopK(1000, new MajorityPredicate(new CandidatePredicates(fts), threshold));
 		return this;
 	}

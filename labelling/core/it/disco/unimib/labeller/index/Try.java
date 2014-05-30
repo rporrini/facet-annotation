@@ -18,7 +18,7 @@ public class Try {
 		
 		Score score = new WeightedPredicates(new JaccardSimilarity());
 		FullTextQuery query = new OptionalContext();
-		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query).getAlgorithm();
+		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/dbpedia/properties").getAlgorithm();
 		
 		System.out.println(group.context());
 		
