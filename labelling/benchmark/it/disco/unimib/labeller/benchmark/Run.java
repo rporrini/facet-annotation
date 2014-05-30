@@ -14,27 +14,25 @@ import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 public class Run {
 
 	public static void main(String[] args) throws Exception {
-		String algorithm = args[0];
-		String metricName = args[1];
-		String context = args[2];
-		String majorityK = args[3];
 		
-		Summary summary = analysis(algorithm, metricName);
-		BenchmarkConfiguration configuration = configurationOf(algorithm, context, majorityK);
+		BenchmarkParameters parameters = new BenchmarkParameters(args);
+		
+		Summary summary = analysis(parameters);
+		BenchmarkConfiguration configuration = configurationOf(parameters);
 		new Benchmark(configuration.getAlgorithm()).on(goldStandard(), summary);
 		System.out.println();
 		System.out.println(configuration.name());
 		System.out.println(summary.result());
 	}
 
-	private static BenchmarkConfiguration configurationOf(String algorithm, String context, String majorityK) throws Exception{
+	private static BenchmarkConfiguration configurationOf(BenchmarkParameters parameters) throws Exception{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
-		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(Double.parseDouble(majorityK), context(context)));
-		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(context)));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(context)));
-		return configurations.get(algorithm);
+		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(parameters.majorityK(), context(parameters.context())));
+		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(parameters.context())));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(parameters.context())));
+		return configurations.get(parameters.algorithm());
 	}
-	
+
 	private static FullTextQuery context(String context){
 		HashMap<String, FullTextQuery> contexts = new HashMap<String, FullTextQuery>();
 		contexts.put("with-context", new MandatoryContext());
@@ -42,12 +40,12 @@ public class Run {
 		return contexts.get(context);
 	}
 
-	private static Summary analysis(String algorithm, String name){
+	private static Summary analysis(BenchmarkParameters parameters){
 		HashMap<String, Summary> summaries = new HashMap<String, Summary>();
 		summaries.put("qualitative", new Qualitative());
 		summaries.put("questionnaire", new Questionnaire());
-		summaries.put("trec", new TrecEval(algorithm));
-		return summaries.get(name);
+		summaries.put("trec", new TrecEval(parameters.algorithm()));
+		return summaries.get(parameters.metricName());
 	}
 	
 	private static GoldStandardGroup[] goldStandard() {
