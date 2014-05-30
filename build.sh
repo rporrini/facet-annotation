@@ -152,6 +152,33 @@ if [ ! -d "yago-properties" ]; then
 	rm yagoLiteralFacts.nt
 	cd ..
 fi
+if [ ! -d "yago1-labels" ]; then
+	mkdir yago1
+	cd yago1
+	wget "http://resources.mpi-inf.mpg.de/yago-naga/yago1_yago2/download/yago1/YAGO1.0.0/n3.zip"
+	unzip n3.zip
+	rm n3.zip
+	wget "http://www.l3s.de/~minack/rdf2rdf/downloads/rdf2rdf-1.0.1-2.3.1.jar"
+	java -jar rdf2rdf-1.0.1-2.3.1.jar yago.n3 yago.nt
+	rm yago.n3
+	rm rdf2rdf-1.0.1-2.3.1.jar
+	grep "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" yago.nt > yago-types.nt
+	grep "http://www.w3.org/2000/01/rdf-schema#label" yago.nt > yago-labels.nt
+	grep -v "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" yago.nt | grep -v "http://www.w3.org/2000/01/rdf-schema#label" > yago-facts.nt
+	rm yago.nt
+	mkdir ../yago1-properties
+	mv yago-facts.nt ../yago1-properties
+	mkdir ../yago1-types
+	mv yago-types.nt ../yago1-types
+	mkdir ../yago1-labels
+	mv yago-labels.nt ../yago1-labels
+	cd ..
+	cd yago1-properties
+	split -l 1000000 yago-facts.nt yago-facts-
+	rm yago-facts.nt
+	cd ..
+	rm -r yago1
+fi
 cd $root
 signal "Done"
 
