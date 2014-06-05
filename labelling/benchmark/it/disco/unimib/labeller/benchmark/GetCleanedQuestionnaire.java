@@ -10,7 +10,11 @@ import java.util.List;
 import java.util.Random;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.jopendocument.dom.spreadsheet.MutableCell;
 import org.jopendocument.dom.spreadsheet.Sheet;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
@@ -109,7 +113,14 @@ public class GetCleanedQuestionnaire {
 	}
 	
 	private static String suggestions(MutableCell<SpreadSheet> cell) throws Exception{
-		return "=HYPERLINK(\"" + dbPediaQuery(cell, "text/html") + "\"," + "\"View More\")";
+//		Thread.sleep(500);
+		HttpPost post = new HttpPost("https://www.googleapis.com/urlshortener/v1/url?key=AIzaSyBBgmdDU1Ht4tK9UE1YLaXCWbV1G_GpYYM");
+		StringEntity params =new StringEntity("{\"longUrl\":\"" + dbPediaQuery(cell, "text/html") + "\"}");
+		post.addHeader("content-type", "application/json");
+		post.setEntity(params);
+		String response = StringUtils.join(IOUtils.readLines(new DefaultHttpClient().execute(post).getEntity().getContent()), "");
+		String shortUrl = new Gson().fromJson(response, JsonObject.class).get("id").getAsString();		
+		return "=HYPERLINK(\"" + shortUrl + "\"," + "\"View More\")";
 	}
 
 	private static String dbPediaQuery(MutableCell<SpreadSheet> cell, String output) throws Exception {
