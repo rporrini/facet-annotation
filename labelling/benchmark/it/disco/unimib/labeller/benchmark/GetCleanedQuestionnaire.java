@@ -113,13 +113,11 @@ public class GetCleanedQuestionnaire {
 	}
 	
 	private static String suggestions(MutableCell<SpreadSheet> cell) throws Exception{
-		//Thread.sleep(1200);
 		HttpPost post = new HttpPost("https://www.googleapis.com/urlshortener/v1/url?key=AIzaSyAVLJRKYhgR_yxULZ2VnPWz1ZEK-WbxToQ");
 		StringEntity params =new StringEntity("{\"longUrl\":\"" + dbPediaQuery(cell, "text/html") + "\"}");
 		post.addHeader("content-type", "application/json");
 		post.setEntity(params);
 		String response = StringUtils.join(IOUtils.readLines(new DefaultHttpClient().execute(post).getEntity().getContent()), "");
-		System.out.println(response);
 		String shortUrl = new Gson().fromJson(response, JsonObject.class).get("id").getAsString();		
 		return "=HYPERLINK(\"" + shortUrl + "\";" + "\"View More\")";
 	}
