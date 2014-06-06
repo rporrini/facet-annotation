@@ -1,0 +1,465 @@
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1689442184|movies|||||
+GROUP VALUES||||||
+Action|Adventure|Animation|Biography|Comedy||
+Crime|Documentary|Drama|Family|Fantasy||
+Film-Noir|History|Horror|Musical|Mystery||
+Romance|Sci-Fi|Sport|Thriller|War||
+Western||||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/genre")|genre|||an album has genre Trance music (an entity of type genre)|an album has genre Rhythm and blues (an entity of type topical concept)|=HYPERLINK("http://goo.gl/R2gDDi";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/genre")|genre|||a Band has genre Reggae rock (an entity of type topical concept)|an agent has genre Blues (an entity of type genre)|=HYPERLINK("http://goo.gl/1t7RpI";"View More")
+=HYPERLINK("http://dbpedia.org/property/tagline")|tagline|||an educational institution has tagline Built By Artists for Artists|an agent has tagline A Mark Of True Design|=HYPERLINK("http://goo.gl/tP3nCs";"View More")
+=HYPERLINK("http://dbpedia.org/property/type")|type|||an agent has type Cavalry (an entity of type agent)|a musical work has type Live album|=HYPERLINK("http://goo.gl/C6tj9D";"View More")
+=HYPERLINK("http://dbpedia.org/property/genres")|genres|||an agent has genres Punk rock (an entity of type music genre)|a person has genres Americana (music) (an entity of type topical concept)|=HYPERLINK("http://goo.gl/ibxlcc";"View More")
+=HYPERLINK("http://dbpedia.org/property/genere")|genere|||a person has genere Jazz (an entity of type music genre)|an artist has genere Soul music (an entity of type music genre)|=HYPERLINK("http://goo.gl/2YymTc";"View More")
+=HYPERLINK("http://dbpedia.org/property/genre(s)_")|genre(s)_|||||=HYPERLINK("http://goo.gl/j0cQN1";"View More")
+=HYPERLINK("http://dbpedia.org/property/genera")|genera|||a fungus has genera Togninia|a work has genera Horror film (an entity of type genre)|=HYPERLINK("http://goo.gl/a0wFiw";"View More")
+=HYPERLINK("http://dbpedia.org/property/influences")|influences|||a philosopher has influences Auguste Comte (an entity of type philosopher)|a comics creator has influences George P%C3%A9rez (an entity of type artist)|=HYPERLINK("http://goo.gl/UF6ewv";"View More")
+=HYPERLINK("http://dbpedia.org/property/topic")|topic|||a mean of transportation has topic MiG-29 overview|a weapon has topic Viviane night sight|=HYPERLINK("http://goo.gl/cvOntT";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1744816435|basketball players|||||
+GROUP VALUES||||||
+1948|1949|1950|1951|1952||
+1953|1954|1955|1956|1957||
+1958|1959|1960|1961|1962||
+1963|1964|1965|1966|1967||
+1968|1969|1970|1971|1972||
+1973|1974|1975|1976|1977||
+1978|1979|1980|1981|1982||
+1983|1984|1985|1986|1987||
+1988|1989|1990|1991|1992||
+1993|1994|1995|1996|1997||
+1998|1999|2000|2001|2002||
+2003|2004|2005|2006|2007||
+2008|2009|2010|2011|2012||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/year1start")|year1start|||a rugby player has year1start 1935|an athlete has year1start ≤1950|=HYPERLINK("http://goo.gl/4cWLKz";"View More")
+=HYPERLINK("http://dbpedia.org/property/year")|year|||an agent has year 2003|an agent has year 18751886|=HYPERLINK("http://goo.gl/yzBSQL";"View More")
+=HYPERLINK("http://dbpedia.org/property/prevYear")|prevYear|||a Eurovision song contest entry has prev year 1958|a sports team season has prev year 1920|=HYPERLINK("http://goo.gl/hKXHuK";"View More")
+=HYPERLINK("http://dbpedia.org/property/finalyear")|finalyear|||a person has finalyear 1991|a baseball player has finalyear 2009|=HYPERLINK("http://goo.gl/tqGBwd";"View More")
+=HYPERLINK("http://dbpedia.org/property/playingYears")|playingYears|||an agent has playing years 1927|an athlete has playing years 1919|=HYPERLINK("http://goo.gl/BSa2db";"View More")
+=HYPERLINK("http://dbpedia.org/property/dateOfDeath")|dateOfDeath|||an agent has DATE OF DEATH 944|a person has DATE OF DEATH 1963-12-27+02:00|=HYPERLINK("http://goo.gl/MsYYIW";"View More")
+=HYPERLINK("http://dbpedia.org/property/careerStart")|careerStart|||an athlete has career start 1966|an athlete has career start 1988|=HYPERLINK("http://goo.gl/t2Bv2b";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsEndDate")|activeYearsEndDate|||a person has active years end date 1877-03-03+02:00|an agent has active years end date 1924-07-05+02:00|=HYPERLINK("http://goo.gl/zde24W";"View More")
+=HYPERLINK("http://dbpedia.org/property/deathDate")|deathDate|||a person has death date 1991|an agent has death date 757|=HYPERLINK("http://goo.gl/bTBXRt";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearpro")|yearpro|||a person has yearpro 1945|an agent has yearpro 1989|=HYPERLINK("http://goo.gl/3pN1Gr";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/deathDate")|deathDate|||a person has death date 2007-08-23+02:00|a person has death date 1965-05-02+02:00|=HYPERLINK("http://goo.gl/kNQ5Zq";"View More")
+=HYPERLINK("http://dbpedia.org/property/startyear")|startyear|||an agent has startyear 1996|a person has startyear 2012|=HYPERLINK("http://goo.gl/lVHNjb";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/draftYear")|draftYear|||a person has draft year 1957-12-31T22:00:00+02:00|an ice hockey player has draft year 1997-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/JkhomV";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/year")|year|||a sports team season has year 1936-12-31T22:00:00+02:00|a sports team season has year 1941-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/VwKpKm";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalyears")|nationalyears|||a soccer manager has nationalyears 1970|a person has nationalyears 1924|=HYPERLINK("http://goo.gl/Mx9MtS";"View More")
+=HYPERLINK("http://dbpedia.org/property/endyear")|endyear|||an agent has endyear 1989-12-27+02:00|a murderer has endyear 1989-12-27+02:00|=HYPERLINK("http://goo.gl/rz6Sha";"View More")
+=HYPERLINK("http://dbpedia.org/property/years")|years|||a soccer manager has years 1971|an agent has years 1668|=HYPERLINK("http://goo.gl/OBLqO3";"View More")
+=HYPERLINK("http://dbpedia.org/property/careerEnd")|careerEnd|||an ice hockey player has career end 1930|an ice hockey player has career end 1996|=HYPERLINK("http://goo.gl/kMVJW6";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsStartYear")|activeYearsStartYear|||an agent has active years start year 1997-12-31T22:00:00+02:00|an agent has active years start year 1976-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/d9H123";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsStartDate")|activeYearsStartDate|||an agent has active years start date 1993-10-20+02:00|a person has active years start date 1973-12-31+02:00|=HYPERLINK("http://goo.gl/21PtuL";"View More")
+=HYPERLINK("http://dbpedia.org/property/turnedpro")|turnedpro|||an athlete has turnedpro 1886|an agent has turnedpro 1926|=HYPERLINK("http://goo.gl/N61dxS";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftyear")|draftyear|||a gridiron football player has draftyear 1961|an agent has draftyear 1970|=HYPERLINK("http://goo.gl/B813eo";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/deathYear")|deathYear|||an agent has death year 2010-12-31T22:00:00+02:00|a person has death year 1952-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/iFeBNw";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsEndYear")|activeYearsEndYear|||an agent has active years end year 1190-12-31T22:00:00+02:00|an agent has active years end year 0859-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/69Q3kl";"View More")
+=HYPERLINK("http://dbpedia.org/property/careerhighlights")|careerhighlights|||a Australian rules football player has careerhighlights * Collingwood premierships 1935, 1936* Copeland Trophy 1936* Collingwood captain 1940-41, 1943* Collingwood Team of the Century* Represented Victoria 14 times* Inducted into AFL Hall of Fame 1996|an agent has careerhighlights * WAFL representative side 2003, 2009, 2010* Simpson Medal 2003 * WAFL representative captain 2010|=HYPERLINK("http://goo.gl/LZw6pv";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftYear")|draftYear|||a member of parliament has draft year 1964|an ice hockey player has draft year 2007|=HYPERLINK("http://goo.gl/4RlPfR";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutyear")|debutyear|||an american football player has debutyear 1998|a baseball player has debutyear 2004|=HYPERLINK("http://goo.gl/a2BVA3";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearastart")|yearastart|||an agent has yearAstart 1911|an agent has yearAstart 1937|=HYPERLINK("http://goo.gl/MZhgns";"View More")
+=HYPERLINK("http://dbpedia.org/property/statseason")|statseason|||an american football player has statseason 1971|an agent has statseason 1998|=HYPERLINK("http://goo.gl/ck7KCX";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutdate")|debutdate|||an agent has debutdate --09-01|a baseball player has debutdate --07-11|=HYPERLINK("http://goo.gl/plqtPB";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearsActive")|yearsActive|||an agent has years active 1991|a person has years active 2000|=HYPERLINK("http://goo.gl/m5gcBN";"View More")
+=HYPERLINK("http://dbpedia.org/property/careerHighlights")|careerHighlights|||a person has career highlights * Honorable mention All-Pac-10|an agent has career highlights * Super Bowl winner  &mdash; XLIII (2008)* AFC Champion  &mdash; 2008* 2-time NCAA Football National Champion  &mdash; 1978 (Alabama), 1979 (Alabama)* 2-time SEC champion  &mdash; 1978 (Alabama), 1979 (Alabama)|=HYPERLINK("http://goo.gl/COJNTH";"View More")
+=HYPERLINK("http://dbpedia.org/property/playerYears")|playerYears|||an agent has player years 1963|an agent has player years 1909|=HYPERLINK("http://goo.gl/lwWPxb";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftedyear")|draftedyear|||an athlete has DraftedYear 1956|a gridiron football player has DraftedYear 1973|=HYPERLINK("http://goo.gl/MiUHq4";"View More")
+=HYPERLINK("http://dbpedia.org/property/retired")|retired|||an artist has retired 2007|an actor has retired 2007|=HYPERLINK("http://goo.gl/LZ2KFN";"View More")
+=HYPERLINK("http://dbpedia.org/property/undraftedyear")|undraftedyear|||a person has undraftedyear 2012|a person has undraftedyear 1978|=HYPERLINK("http://goo.gl/1aXfPq";"View More")
+=HYPERLINK("http://dbpedia.org/property/year4start")|year4start|||a person has year4start 1973|a person has year4start 1988|=HYPERLINK("http://goo.gl/TQCVUc";"View More")
+=HYPERLINK("http://dbpedia.org/property/sooyears")|sooyears|||an agent has sooyears 1988|a Australian rules football player has sooyears 1970|=HYPERLINK("http://goo.gl/klrrux";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/birthDate")|birthDate|||a person has birth date 1955-09-22+02:00|a person has birth date 1967-12-26+02:00|=HYPERLINK("http://goo.gl/7y1jA0";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/hallOfFame")|hallOfFame|||an ice hockey player has hall of fame 1972|an ice hockey player has hall of fame 1997|=HYPERLINK("http://goo.gl/3HaXyc";"View More")
+=HYPERLINK("http://dbpedia.org/property/dateOfBirth")|dateOfBirth|||an agent has DATE OF BIRTH 21|a soccer manager has DATE OF BIRTH 1972|=HYPERLINK("http://goo.gl/oo7nbA";"View More")
+=HYPERLINK("http://dbpedia.org/property/halloffame")|halloffame|||an athlete has halloffame 1965|an athlete has halloffame 1980|=HYPERLINK("http://goo.gl/w9sz5i";"View More")
+=HYPERLINK("http://dbpedia.org/property/endYear")|endYear|||an infrastructure has end year 1968|an architectural structure has end year 1916|=HYPERLINK("http://goo.gl/PwHeZR";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearsactive")|yearsactive|||an agent has yearsactive 1962|a person has yearsactive 1990|=HYPERLINK("http://goo.gl/9N6Ui8";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/birthYear")|birthYear|||a person has birth year 1972-12-31T22:00:00+02:00|an agent has birth year 1920-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/0kJ26F";"View More")
+=HYPERLINK("http://dbpedia.org/property/professional")|professional|||an agent has professional 1998|a snooker player has professional 1998|=HYPERLINK("http://goo.gl/BqGwyS";"View More")
+=HYPERLINK("http://dbpedia.org/property/repyears")|repyears|||an agent has repyears 1987|a rugby player has repyears 1971|=HYPERLINK("http://goo.gl/ACNW3r";"View More")
+=HYPERLINK("http://dbpedia.org/property/cfldraftedyear")|cfldraftedyear|||an agent has CFLDraftedYear 1979|a person has CFLDraftedYear 1965|=HYPERLINK("http://goo.gl/4KF2ca";"View More")
+=HYPERLINK("http://dbpedia.org/property/yeardstart")|yeardstart|||a rugby player has yearDstart 1954|a person has yearDstart 2008|=HYPERLINK("http://goo.gl/DBrWBk";"View More")
+=HYPERLINK("http://dbpedia.org/property/testdebutyear")|testdebutyear|||an agent has testdebutyear 2004|a cricketer has testdebutyear 2002|=HYPERLINK("http://goo.gl/YpmwfH";"View More")
+=HYPERLINK("http://dbpedia.org/property/debut")|debut|||a comics character has debut "The Living Shadow"|an agent has debut Spirou (magazine) (an entity of type written work)|=HYPERLINK("http://goo.gl/yo82k9";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/worldChampionTitleYear")|worldChampionTitleYear|||an agent has year of world champion title 2005-12-31T22:00:00+02:00|an athlete has year of world champion title 1977-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/K3U0YX";"View More")
+=HYPERLINK("http://dbpedia.org/property/joinedFiba")|joinedFiba|||a populated place has joined fiba 1934|an agent has joined fiba 1992|=HYPERLINK("http://goo.gl/aXOr07";"View More")
+=HYPERLINK("http://dbpedia.org/property/draft")|draft|||an agent has draft Calgary Flames (an entity of type agent)|a person has draft 200|=HYPERLINK("http://goo.gl/ES2KKT";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/draft")|draft|||an ice hockey player has draft 288th overall|an athlete has draft 71st overall|=HYPERLINK("http://goo.gl/zvn927";"View More")
+=HYPERLINK("http://dbpedia.org/property/firstNblGame")|firstNblGame|||a college coach has first nbl game 2003|a person has first nbl game 1998|=HYPERLINK("http://goo.gl/V4THry";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftYearPba")|draftYearPba|||an agent has draft year pba 1994|an athlete has draft year pba 1997|=HYPERLINK("http://goo.gl/0SykyH";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftpick")|draftpick|||a gridiron football player has draftpick 27|an agent has draftpick 71|=HYPERLINK("http://goo.gl/XROjd6";"View More")
+=HYPERLINK("http://dbpedia.org/property/worldchampion")|worldchampion|||a chess player has worldchampion 1960|a person has worldchampion 1821|=HYPERLINK("http://goo.gl/C7KRvs";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutinformation")|debutinformation|||a Australian rules football player has debutinformation Round 3, 1908, St Kilda vs|a Australian rules football player has debutinformation Round 11, 1978, Collingwood|=HYPERLINK("http://goo.gl/V3kSF0";"View More")
+=HYPERLINK("http://dbpedia.org/property/debut2year")|debut2year|||a person has debut2year 2005|an agent has debut2year 2002|=HYPERLINK("http://goo.gl/gp6Riv";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearestart")|yearestart|||an athlete has yearEstart 1968|a rugby player has yearEstart 1973|=HYPERLINK("http://goo.gl/KrtNO1";"View More")
+=HYPERLINK("http://dbpedia.org/property/suppdraftyear")|suppdraftyear|||an american football player has suppdraftyear 1974|a gridiron football player has suppdraftyear 1998|=HYPERLINK("http://goo.gl/hbwfoK";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/debut")|debut|||an agent has debut 2001-06-28+02:00|an agent has debut 1965-06-02+02:00|=HYPERLINK("http://goo.gl/B9E18g";"View More")
+=HYPERLINK("http://dbpedia.org/property/nfldraftyear")|nfldraftyear|||a person has NFLdraftyear 1952|a person has NFLdraftyear 1957|=HYPERLINK("http://goo.gl/Cv4iXD";"View More")
+=HYPERLINK("http://dbpedia.org/property/cfldraftyear")|cfldraftyear|||a person has cfldraftyear 2010|an athlete has cfldraftyear 2005|=HYPERLINK("http://goo.gl/R3fPiF";"View More")
+=HYPERLINK("http://dbpedia.org/property/firstseason")|firstseason|||an agent has firstseason 2005|an agent has firstseason 1984|=HYPERLINK("http://goo.gl/4QJ4J6";"View More")
+=HYPERLINK("http://dbpedia.org/property/afldraftedyear")|afldraftedyear|||a person has AFLDraftedYear 1966|an athlete has AFLDraftedYear 1962|=HYPERLINK("http://goo.gl/W47Wyt";"View More")
+=HYPERLINK("http://dbpedia.org/property/afldraftyear")|afldraftyear|||an agent has AFLdraftyear 1960|an agent has AFLdraftyear 1965|=HYPERLINK("http://goo.gl/f93xp3";"View More")
+=HYPERLINK("http://dbpedia.org/property/proyears")|proyears|||an athlete has proyears 2012|a person has proyears 1998|=HYPERLINK("http://goo.gl/3uKw7A";"View More")
+=HYPERLINK("http://dbpedia.org/property/turnedPro")|turnedPro|||a tennis player has turned pro 2006|an athlete has turned pro 2004|=HYPERLINK("http://goo.gl/Mz59gu";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutDate")|debutDate|||||=HYPERLINK("http://goo.gl/cfH1Va";"View More")
+=HYPERLINK("http://dbpedia.org/property/whaDraftYear")|whaDraftYear|||an athlete has wha draft year 1976|an ice hockey player has wha draft year 1975|=HYPERLINK("http://goo.gl/iDZwsH";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutYear")|debutYear|||a basketball player has debut year 1976|an artist has debut year 1993|=HYPERLINK("http://goo.gl/twBHT1";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+268043830|wines|||||
+GROUP VALUES||||||
+USA|France|Italy|Argentina|Spain||
+Chile|Australia|Germany|Portugal|New Zealand||
+South Africa|Austria|Greece|Canada|Israel||
+Uruguay|Bulgaria|Hungary|Mexico|Switzerland||
+Lebanon|Japan|Georgia|Morocco|Slovenia||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/regions")|regions|||an architectural structure has regions Moravian-Silesian Region (an entity of type municipality)|a species has regions Apulia (an entity of type region)|=HYPERLINK("http://goo.gl/iZEK3H";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/wineRegion")|wineRegion|||an eukaryote has wine region Virginia wine (an entity of type place)|a flowering plant has wine region Kingdom of W%C3%BCrttemberg (an entity of type place)|=HYPERLINK("http://goo.gl/kCeM7t";"View More")
+=HYPERLINK("http://dbpedia.org/property/origin")|origin|||a Band has origin United Kingdom (an entity of type country)|a Band has origin Fullerton, California (an entity of type municipality)|=HYPERLINK("http://goo.gl/Hgu838";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/origin")|origin|||a body of water has origin Annamite Range (an entity of type place)|a river has origin Lake Teletskoye (an entity of type lake)|=HYPERLINK("http://goo.gl/B2clvf";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/country")|country|||a lake has country Sweden (an entity of type populated place)|a village has country Norway (an entity of type populated place)|=HYPERLINK("http://goo.gl/UwgP5r";"View More")
+=HYPERLINK("http://dbpedia.org/property/country")|country|||a place has country Croatia|a Grand Prix has country Germany|=HYPERLINK("http://goo.gl/4OKNh3";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/location")|location|||an architectural structure has location Melbourne (an entity of type municipality)|an architectural structure has location Des Moines, Iowa (an entity of type place)|=HYPERLINK("http://goo.gl/Va4zLm";"View More")
+=HYPERLINK("http://dbpedia.org/property/location")|location|||a football match has location Dresden (an entity of type place)|an event has location France (an entity of type place)|=HYPERLINK("http://goo.gl/6GTyXb";"View More")
+=HYPERLINK("http://dbpedia.org/property/locationCountry")|locationCountry|||an agent has location country France (an entity of type country)|an agent has location country Germany (an entity of type place)|=HYPERLINK("http://goo.gl/3Tno5v";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/sourceCountry")|sourceCountry|||a body of water has source country Turkey (an entity of type place)|a natural place has source country San Marino (an entity of type populated place)|=HYPERLINK("http://goo.gl/efh1gg";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1659846037|wines|||||
+GROUP VALUES||||||
+2011|2010|2009|2008|2007||
+2013|2012|2006|2005|2004||
+2003|2002|2001|2000|1999||
+1998|1997|1996|1995|1994||
+1993|1992|1991|1990|||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/year")|year|||an organisation has year 2007|a military unit has year 1931|=HYPERLINK("http://goo.gl/yzBSQL";"View More")
+=HYPERLINK("http://dbpedia.org/property/wineYears")|wineYears|||a place has wine years since 1972|a place has wine years 1650|=HYPERLINK("http://goo.gl/2Uxbh6";"View More")
+=HYPERLINK("http://dbpedia.org/property/date")|date|||a municipality has date October 2012|a sports team season has date 11|=HYPERLINK("http://goo.gl/ee5NUh";"View More")
+=HYPERLINK("http://dbpedia.org/property/firstVintage")|firstVintage|||a place has first vintage 1973|an agent has first vintage 2002|=HYPERLINK("http://goo.gl/drTUcR";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+702159889|wines|||||
+GROUP VALUES||||||
+Agiorgitiko|Aglianico|Albarino|Albariño|Alicante Bouschet||
+Amarone|Anglianico|Arneis|Baco Noir|Barbera||
+Biancolella|Black Corinth|Black Muscat|Blanc Du Bois|Blaufränkish||
+Blauportugueser|Blend|Blend - Other|Blend - Red|Blend - Sparkling||
+Blend - White|Blush|Bonarda|Bordeaux Blend|Bordeaux Red Blend||
+Bordeaux White Blend|Brunello di Montalcino|Cabernet|Cabernet Franc|Cabernet Sauvignon||
+Cabernet Sauvignon Blend|Cabernet Sauvignon/Merlot|Cannonau|Carignan|Carignane||
+Carmenere|Carmenre|Carmenère|Catawba|Cayuga||
+Cayuga White|Cesanese|Chambourcin|Champagne|Champagne Blend||
+Chancellor|Chancellor Noir|Charbono|Chardonel|ChardonnayChenin Blanc||
+Chianti Red Blend|Cinsault|Columbia Valley|Concord|Cortese||
+Corvina|Counoise|Cuvee|DeChaunac|Delaware||
+Diamond|Dolcetto|Dornfelder|Early Burgundy|Falanghina||
+FavoriteFernão Pires|Fiano|Fleur Sauvage|Framboise|Fredonia||
+French Colombard|Frontenac|Frontenac Gris|Fruit|Fruit Cuvee||
+Fumé Blanc|Furmint|Gamay|Garganega|Garnacha||
+Garnacha Blanca|Gewurztraminer|Godello|Gold|Graciano||
+Grenache|Grenache Blanc|Grenache Noir|Grenache/Syrah|Grignolino||
+Grillo|Grüner Veltliner|Huxelrebe|Iona|Island Belle||
+Ives|Kerner|La CrescentLacrima|Lagrein|Lambrusco||
+Lemberger|Lenoir|Lodi|Léon Millot|Madeline Angevine||
+Malbec|Malvasia|Malvasia Bianca|MalvasiaMourvèdre|Marechal Foch||
+Marsanne|Marselan|Maréchal Foch|Melon de Bourgogne|Merlot||
+Mission|Mller-Thurgau|Monastrell|Montepulciano|Montestefano||
+Moorooroo Shiraz|Moscato|Moscato Bianco|Mourvedre|Mourvèdre||
+Muscadine|Muscat|Muscat Blanc|Muscat Blend|Muscat Canelli||
+Muscat Goldert Grand Cru|Muscat Of Alexandria|Muscato|Müller-Thurgau|Nebbiolo||
+Nero d'Avola|Niagara|Noble|Noiret|Norton||
+Olivella|Orange Muscat|Ortega|Pallagrello Bianco|Palomino||
+Passerina|Pecorino|Pelaverga|Petit Manseng|Petit Verdot||
+Petite Sirah|Picpoul|Pinot Blanc|Pinot Grigio|Pinot Gris||
+Pinot Nero|Pinot Noir|Pinot Noir Précoce|Pinotage|Port||
+Port Blend|Portugueser Weissherbst|Primitivo|Proprietary Blend|Proprietary Red||
+Prosecco|Red Blend|Red-Blend|Refosco|Rhone Red Blend||
+Rhone White Blend|Ribolla Gialla|Riesling|Rioja Red Blend|Rose||
+Rose Wine|Roussanne|Ruby Cabernet|Sagrantino|Sangiovese||
+Sangiovese Grosso|Santa Ynez Valley|Sauvignon Blanc|Sauvignon Gris|Scheurebe||
+Semillon|Seyval|Seyval Blanc|Sherry|Shiraz / Syrah||
+Siegerrebe|Silvaner|Souzão|St. Croix|Super Tuscan||
+Sylvaner|Symphony|Syrah|Syrah / Shiraz|Sémillon||
+Tannat|Tempranillo|Teroldego|Tocai Friulano|Torrontes||
+Torrontés|Touriga|Touriga Nacional|Traminette|Trebbiano||
+Trine|Ugni Blanc|Verdejo|Verdelho|Verdicchio||
+Vergennes|Vermentino|Vernaccia|Vidal|Vidal Blanc||
+Vignoles|Viognier|Volare|White Riesling|White Zinfandel||
+Zinfandel|Zweigelt|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/grapes")|grapes|||a place has grapes Dolcetto (an entity of type flowering plant)|a place has grapes Colombard (an entity of type plant)|=HYPERLINK("http://goo.gl/9Mu270";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/growingGrape")|growingGrape|||a place has growing grape Touriga Nacional (an entity of type plant)|a wine region has growing grape S%C3%A9millon (an entity of type species)|=HYPERLINK("http://goo.gl/YyHyQp";"View More")
+=HYPERLINK("http://dbpedia.org/property/varietals")|varietals|||a wine region has varietals Mourv%C3%A8dre (an entity of type plant)|a wine region has varietals Cinsaut (an entity of type eukaryote)|=HYPERLINK("http://goo.gl/fmzTIO";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/varietals")|varietals|||a place has varietals Ortega (grape) (an entity of type plant)|a wine region has varietals Pinot Noir Pr%C3%A9coce (an entity of type species)|=HYPERLINK("http://goo.gl/K5Dure";"View More")
+=HYPERLINK("http://dbpedia.org/property/varietal")|varietal|||an agent has varietal Petite Sirah|an architectural structure has varietal Cabernet Franc|=HYPERLINK("http://goo.gl/c2291A";"View More")
+=HYPERLINK("http://dbpedia.org/property/pedigree")|pedigree|||an eukaryote has pedigree Gouais blanc (an entity of type eukaryote)|a grape has pedigree Dornfelder (an entity of type species)|=HYPERLINK("http://goo.gl/PajVVU";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+753388668|music albums|||||
+GROUP VALUES||||||
+Electronic|Rock|Pop|Funk / Soul|Hip Hop||
+Jazz|Folk, World, & Country|Reggae|Stage & Screen|Classical||
+Blues|Latin|Non-Music|Children's|Brass & Military||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/genre")|genre|||an artist has genre World music (an entity of type topical concept)|an organisation has genre Hard rock (an entity of type genre)|=HYPERLINK("http://goo.gl/R2gDDi";"View More")
+=HYPERLINK("http://dbpedia.org/property/stylisticOrigins")|stylisticOrigins|||a genre has stylistic origins Pop music (an entity of type music genre)|a music genre has stylistic origins Psychedelic pop (an entity of type topical concept)|=HYPERLINK("http://goo.gl/x1JS4k";"View More")
+=HYPERLINK("http://dbpedia.org/property/fusiongenres")|fusiongenres|||a genre has fusiongenres Reggaeton (an entity of type topical concept)|a genre has fusiongenres Trip hop (an entity of type genre)|=HYPERLINK("http://goo.gl/iWE5wF";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/genre")|genre|||an organisation has genre House music (an entity of type genre)|an artist has genre Hard rock (an entity of type genre)|=HYPERLINK("http://goo.gl/1t7RpI";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/stylisticOrigin")|stylisticOrigin|||a topical concept has stylistic origin Funk (an entity of type music genre)|a topical concept has stylistic origin Rock and roll (an entity of type music genre)|=HYPERLINK("http://goo.gl/f9XjCz";"View More")
+=HYPERLINK("http://dbpedia.org/property/genres")|genres|||a person has genres Seduction (an entity of type company)|an artist has genres Pop rock (an entity of type music genre)|=HYPERLINK("http://goo.gl/ibxlcc";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/musicSubgenre")|musicSubgenre|||a music genre has music subgenre Shoegazing (an entity of type genre)|a music genre has music subgenre Dance-punk (an entity of type topical concept)|=HYPERLINK("http://goo.gl/ViWgIz";"View More")
+=HYPERLINK("http://dbpedia.org/property/subgenres")|subgenres|||a topical concept has subgenres Mambo (music) (an entity of type music genre)|a topical concept has subgenres Acid rock (an entity of type topical concept)|=HYPERLINK("http://goo.gl/d2orCs";"View More")
+=HYPERLINK("http://dbpedia.org/property/style")|style|||a mean of transportation has style float:right;clear:right|an actor has style Wrestling (an entity of type activity)|=HYPERLINK("http://goo.gl/3HWrFU";"View More")
+=HYPERLINK("http://dbpedia.org/property/category")|category|||a municipality has category Town|a written work has category Automobile magazine|=HYPERLINK("http://goo.gl/eI8LRF";"View More")
+=HYPERLINK("http://dbpedia.org/property/subgenrelist")|subgenrelist|||a music genre has subgenrelist List of rock genres|a music genre has subgenrelist Trance genres|=HYPERLINK("http://goo.gl/KKdKzK";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/musicFusionGenre")|musicFusionGenre|||a topical concept has music fusion genre Gothic metal (an entity of type genre)|a genre has music fusion genre Crust punk (an entity of type topical concept)|=HYPERLINK("http://goo.gl/5y5Rih";"View More")
+=HYPERLINK("http://dbpedia.org/property/genre(s)_")|genre(s)_|||||=HYPERLINK("http://goo.gl/j0cQN1";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/type")|type|||a place has type Retail|an agent has type Gesellschaft mit beschr%C3%A4nkter Haftung|=HYPERLINK("http://goo.gl/s5GBZ3";"View More")
+=HYPERLINK("http://dbpedia.org/property/musicGenre")|musicGenre|||an organisation has music genre Noise pop (an entity of type music genre)|a Band has music genre Indie Rock|=HYPERLINK("http://goo.gl/wr2vh7";"View More")
+=HYPERLINK("http://dbpedia.org/property/musicalStyle")|musicalStyle|||an agent has Musical style Independent music (an entity of type genre)|a musical artist has Musical style Jazz fusion (an entity of type music genre)|=HYPERLINK("http://goo.gl/Pj8X0R";"View More")
+=HYPERLINK("http://dbpedia.org/property/genere")|genere|||an artist has genere Soul music (an entity of type topical concept)|an artist has genere Blues (an entity of type music genre)|=HYPERLINK("http://goo.gl/2YymTc";"View More")
+=HYPERLINK("http://dbpedia.org/property/genre.")|genre.|||an agent has Genre. Dance music (an entity of type genre)|a musical artist has Genre. Latin American music (an entity of type topical concept)|=HYPERLINK("http://goo.gl/7NrO6B";"View More")
+=HYPERLINK("http://dbpedia.org/property/fusionGenres")|fusionGenres|||a genre has fusion genres Art punk (an entity of type topical concept)|a topical concept has fusion genres Jazz Rock, Latin Jazz,|=HYPERLINK("http://goo.gl/kzcSUX";"View More")
+=HYPERLINK("http://dbpedia.org/property/styles")|styles|||an agent has styles HRH The Dowager Duchess of Västergötland|a British royalty has styles HM The Queen of Bavaria|=HYPERLINK("http://goo.gl/6yHIkS";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1161561471|tablets and readers|||||
+GROUP VALUES||||||
+Abacus24-7|Acer|Advanced Drainage Systems|AGPtek|Aiwa||
+All Entertainment|Aluratek|Amazon|Amazon Imaging|American Essentials||
+Amigo|Android|APEX Electronics|Apple|Archos||
+Arnova|Ashley Pittman|Asus|Avatar Systems|AXESS||
+Azend Group|Azpen Innovation|Barnes and Noble|BlackBerry|Blair||
+Bookeen|Brand Fusion|Buffalo|Business Division|Canon||
+Cendyne|Cisco|ClickN KIDS|Coach|Coby||
+Computers America|Cowon|Craig Electronics|Creative Labs|Cross||
+Cuisinart|Curtis|Curtis International|CV Products|David Shaw Silverware||
+Dawn|Dell|Delta Faucets|Digital Products|Digix||
+Double Power|Dragon Systems|DT Research|Dual|E-Fong||
+EAST Clothing|Ectaco|Ematic|Emerson|Energy||
+Envizen|Ergoguys|eVGA|EWT|Focus||
+Freestyle|Fuhu Inc.|Fujitsu|FX|Galaxy||
+Game Technologies|GBX|GCC Tech.|Gear|Generic||
+GigaByte|GoldenRAM|Google|Great Plains|Hammer Snowboards & Skis||
+HANNspree|High Tech|Hipstreet|HP (Hewlett-Packard)|HQRP||
+HTC|Huawei|Hyper|IBM|IBP||
+ICE|Image|Insignia Solutions|Intel|International Solutions||
+ipega|iRiver|iView Multimedia Ltd|Jane|Kata||
+Kobo|Kocaso|Kurio|Le Pan|Leader||
+Legend Quality Wood Floor|Lenovo|LG|Life|Logitech||
+Luxor|M Tech|Mach Speed|Mach Speed|Matsunichi||
+MAX|MaxWest USA|Maylong|Memorex|Micro||
+Micro Solutions Enterpris|Microsoft|MOMA|Monster|Monster Cable||
+Motorola|MSI|Nabi|Nabis|Naxa||
+Neff Appliances|New Balance|NextBook|Noble Mount|Nokia||
+Onda Yerba Mate|Oregon Scientific|Panasonic|Pandigital|Phoenix||
+Pioneer|PiPO|Polaroid|Power Acoustik|Power Probe||
+Prestige|ProScan|Pyle|Quantum|Radian||
+RCA|Reef|RhinoTek|rooCASE|Ruby||
+Samsung|Sanei|Sentron|Sharp|Sharper Image||
+Silicon Valley Peripheral|SKYTEX|Sonim|Sony|Star Manufacturing||
+Stinger|SumacLife|Sungale|Supersonic|Supersonic Software||
+Sylvania|T-Max|TAB|TallyGenicom|Team Products||
+Tiger Interactive|Time|Tiny Computers|Tivax|Toshiba||
+Toy Watch|Value Plus|Velocity|Velocity Micro|Venstar||
+Venus|Vera Bradley|VIA|ViewSonic|Vinci||
+Vision|Visual Land|vitalASC|Vivitar|Vizio||
+Wacom|Weil Paris|Workshop|Xelio|XOVision||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://xmlns.com/foaf/0.1/name")|name|||||=HYPERLINK("http://goo.gl/TCjd7M";"View More")
+=HYPERLINK("http://dbpedia.org/property/name")|name|||a person has Name Æthelberht II|a writer has Name Ève Curie|=HYPERLINK("http://goo.gl/Xt2Jpo";"View More")
+=HYPERLINK("http://dbpedia.org/property/developer")|developer|||a software has developer Commodore International (an entity of type agent)|a video game has developer Monolith Productions (an entity of type organisation)|=HYPERLINK("http://goo.gl/5mTnCh";"View More")
+=HYPERLINK("http://dbpedia.org/property/manufacturer")|manufacturer|||a mean of transportation has manufacturer Ascari Cars (an entity of type organisation)|a mean of transportation has manufacturer AEG (an entity of type agent)|=HYPERLINK("http://goo.gl/87Zet5";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/manufacturer")|manufacturer|||a mean of transportation has manufacturer Beechcraft (an entity of type organisation)|a mean of transportation has manufacturer Avia (an entity of type company)|=HYPERLINK("http://goo.gl/md26nu";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+2117679317|airports|||||
+GROUP VALUES||||||
+Abruzzo|Albenga, Savona|Alghero, Sassari|Ancona|Aosta||
+Arezzo|Asiago, Vicenza|Aviano, Pordenone|Bari|Belluno||
+Bergamo|Biella|Bologna|Bolzano|Brescia||
+Brindisi / Salento|Cagliari|Cameri, Novara|Campoformido, Udine|Capua||
+Carpi|Caserta|Catania|Centocelle (it), Rome|Cervia, Ravenna||
+Codroipo, Udine|Comiso|Cremona|Crotone|Cuneo||
+Decimomannu, Cagliari|Ferrara|Florence (Firenze)|Foggia|Foligno||
+Forlì|Frosinone|Genoa (Genova) / Sestri Ponente|Ghedi, Brescia|Gioia del Colle, Bari||
+Grosseto|Guidonia Montecelio, Rome|Lamezia Terme, Catanzaro|Lampedusa|Latina||
+Lecce|Lucca|Lugo di Romagna, Ravenna|Marina di Campo, Elba|Martina Franca, Taranto||
+Milan|Modena|Naples|Olbia, Olbia-Tempio|Oristano||
+Padua (Padova)|Palermo|Pantelleria, Trapani|Parma|Perugia||
+Pescara|Piacenza|Pisa|Pisticci|Pomezia, Rome||
+Pontedera, Pisa|Ravenna|Reggio Calabria|Reggio Emilia|Rieti||
+Rimini|Rome|Ronchi dei Legionari / Trieste|Salerno|Sarzana, La Spezia||
+Siena|Sigonella|Taranto|Toblach (Dobbiaco)|Tortolì / Arbatax, Ogliastra||
+Trapani|Trento|Treviso|Turin (Torino)|Varese||
+Venice (Venezia)|Vergiate, Varese|Verona|Vicenza|Viterbo||
+Voghera, Pavia||||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/ontology/city")|city|||an infrastructure has city %C4%90akovo (an entity of type populated place)|an agent has city Brest, France (an entity of type populated place)|=HYPERLINK("http://goo.gl/TNyIMs";"View More")
+=HYPERLINK("http://dbpedia.org/property/cityServed")|cityServed|||a place has city-served Bydgoszcz (an entity of type populated place)|a place has city-served Nuku%CA%BBalofa (an entity of type place)|=HYPERLINK("http://goo.gl/085MMb";"View More")
+=HYPERLINK("http://dbpedia.org/property/location")|location|||an event has location Braunschweig (an entity of type city)|an architectural structure has location California (an entity of type populated place)|=HYPERLINK("http://goo.gl/6GTyXb";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/location")|location|||a company has location United Kingdom (an entity of type country)|a company has location Czech Republic (an entity of type populated place)|=HYPERLINK("http://goo.gl/Va4zLm";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1088443226|animals|||||
+GROUP VALUES||||||
+Acanthocephala|Acoelomorpha|Annelida|Arthropoda|Brachiopoda||
+Bryozoa|Chaetognatha|Chordata|Cnidaria|Ctenophora||
+Cycliophora|Echinodermata|Entoprocta|Gastrotricha|Gnathostomulida||
+Hemichordata|Kinorhyncha|Loricifera|Micrognathozoa|Mollusca||
+Nematoda|Nematomorpha|Nemertea|Onychophora|Orthonectida||
+Phoronida|Placozoa|Platyhelminthes|Porifera|Priapulida||
+Rhombozoa|Rotifera|Sipuncula|Tardigrada|Xenoturbellida||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/subdivision")|subdivision|||an animal has subdivision * A. downingiae   synonyms Calymene downingiae* A. dayiana R. Richter & E. Richter, 1954* A. inflata * A. lokii Edgecombe, 1993 synonym A. longisulcata, pro parti * A. podolica Balashova, 1968* A. subcaudata  synonym Asaphus subcaudatus* A. talebensis Hollard, 1963* A. zerinae Edgecombe, 1993|a species has subdivision A. encheleia|=HYPERLINK("http://goo.gl/3xTAqI";"View More")
+=HYPERLINK("http://dbpedia.org/property/phylum")|phylum|||a species has phylum Percolozoa (an entity of type species)|a crustacean has phylum Arthropoda|=HYPERLINK("http://goo.gl/CK9GML";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/phylum")|phylum|||a species has 門_(分類学) Ascomycota (an entity of type species)|a species has 門_(分類学) Proteobacteria (an entity of type species)|=HYPERLINK("http://goo.gl/i4bqFn";"View More")
+=HYPERLINK("http://dbpedia.org/property/taxon")|taxon|||an eukaryote has taxon Polyodon spathula|a species has taxon Celastrina argiolus|=HYPERLINK("http://goo.gl/bkDhMT";"View More")
+=HYPERLINK("http://dbpedia.org/property/divisio")|divisio|||an eukaryote has divisio Basidiomycota (an entity of type species)|an eukaryote has divisio Basidiomycota (an entity of type species)|=HYPERLINK("http://goo.gl/bB3EeP";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/division")|division|||a place has division Central business district|a conifer has division Pinophyta (an entity of type plant)|=HYPERLINK("http://goo.gl/ohxcA0";"View More")
+=HYPERLINK("http://dbpedia.org/property/species")|species|||a species has species A. auranticavus|a species has species A. spirizona|=HYPERLINK("http://goo.gl/sRhnvM";"View More")
+=HYPERLINK("http://dbpedia.org/property/genus")|genus|||an animal has genus Aeronautes|an eukaryote has genus Aetodactylus|=HYPERLINK("http://goo.gl/uvJkJN";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/class")|class|||an animal has class Spiruria (an entity of type animal)|an animal has class Ascidiacea (an entity of type eukaryote)|=HYPERLINK("http://goo.gl/o5zJA5";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+213755943|animals|||||
+GROUP VALUES||||||
+Cretaceous|Jurassic|Triassic||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/period")|period|||a celestial body has period 1.2970173600000001E8|an agent has period 1986|=HYPERLINK("http://goo.gl/NWmOi5";"View More")
+=HYPERLINK("http://dbpedia.org/property/fossilRange")|fossilRange|||an animal has fossil range Middle Miocene to Recent|an animal has fossil range Miocene|=HYPERLINK("http://goo.gl/94pL7K";"View More")
+=HYPERLINK("http://dbpedia.org/property/oldestFossil")|oldestFossil|||an agent has oldest fossil Ediacaran|an animal has oldest fossil Late Jurassic|=HYPERLINK("http://goo.gl/6kSglU";"View More")
+=HYPERLINK("http://dbpedia.org/property/extinct")|extinct|||a species has extinct by 1778|an animal has extinct 1895|=HYPERLINK("http://goo.gl/ZCScda";"View More")
+=HYPERLINK("http://dbpedia.org/property/youngestFossil")|youngestFossil|||a species has youngest fossil Middle Cambrian|an animal has youngest fossil Early Jurassic|=HYPERLINK("http://goo.gl/riEPjS";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+991851157|basketball players|||||
+GROUP VALUES||||||
+Argentina|Australia|Bahamas|Belgium|Belize||
+Bosnia and Herzegovina|Brazil|Bulgaria|Cameroon|Canada||
+China|Croatia|Cuba|Czech Republic|Democratic Republic of the Congo||
+Dominica|Dominican Republic|Estonia|Finland|France||
+Gabon|Georgia|Germany|Great Britain  England|Great Britain  Scotland||
+Greece|Guyana|Haiti|Hungary|Iceland||
+Iran|Ireland|Israel|Italy|Jamaica||
+Japan|Latvia|Lebanon|Libya|Lithuania||
+Macedonia|Mali|Mexico|Montenegro|Netherlands||
+New Zealand|Nigeria|Norway|Panama|Poland||
+Puerto Rico|Qatar|Romania|Russia|Senegal||
+Serbia|Slovakia|Slovenia|South Korea|South Sudan||
+Spain|Sudan|Sweden|Switzerland|Tanzania||
+Trinidad and Tobago|Turkey|Ukraine|United States|Uruguay||
+U.S. Virgin Islands|Venezuela|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/placeOfBirth")|placeOfBirth|||a prime minister has PLACE OF BIRTH Le Cateau-Cambr%C3%A9sis (an entity of type place)|a person has PLACE OF BIRTH Budapest (an entity of type populated place)|=HYPERLINK("http://goo.gl/EzIrvh";"View More")
+=HYPERLINK("http://dbpedia.org/property/birthPlace")|birthPlace|||a person has birth place Guatemala (an entity of type country)|a person has birth place Kingdom of Hungary (1920%E2%80%931946) (an entity of type place)|=HYPERLINK("http://goo.gl/q9T4XN";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/team")|team|||a soccer player has team Paraguay national football team (an entity of type sports team)|an athlete has team Rosario Central (an entity of type agent)|=HYPERLINK("http://goo.gl/frQusq";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/birthPlace")|birthPlace|||a person has birth place Seferihisar (an entity of type municipality)|a British royalty has birth place Wessex (an entity of type country)|=HYPERLINK("http://goo.gl/og38dW";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalteam")|nationalteam|||an agent has nationalteam Northern Ireland national football team (an entity of type agent)|an agent has nationalteam Slovakia national football team (an entity of type soccer club)|=HYPERLINK("http://goo.gl/cW6B3z";"View More")
+=HYPERLINK("http://dbpedia.org/property/country")|country|||a building has country Czech Republic|a Grand Prix has country Monaco|=HYPERLINK("http://goo.gl/4OKNh3";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationality")|nationality|||an agent has nationality Germany (an entity of type country)|an agent has nationality Netherlands (an entity of type place)|=HYPERLINK("http://goo.gl/lPYQVp";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/deathPlace")|deathPlace|||a person has death place Budapest (an entity of type city)|a person has death place Quebec (an entity of type place)|=HYPERLINK("http://goo.gl/g37tdI";"View More")
+=HYPERLINK("http://dbpedia.org/property/nat")|nat|||a sports team has nat France|a sports team has nat DNK|=HYPERLINK("http://goo.gl/84A8pp";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/country")|country|||a television station has country Czech Republic (an entity of type populated place)|a populated place has country France (an entity of type populated place)|=HYPERLINK("http://goo.gl/UwgP5r";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationality")|nationality|||an agent has nationality Czech Republic (an entity of type populated place)|a person has nationality Iran (an entity of type place)|=HYPERLINK("http://goo.gl/1ymqrK";"View More")
+=HYPERLINK("http://dbpedia.org/property/team")|team|||a sports event has Team SV Sodingen (an entity of type sports team)|a soccer club season has Team U.C. Sampdoria (an entity of type agent)|=HYPERLINK("http://goo.gl/i7huqf";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/hometown")|hometown|||an organisation has home town California (an entity of type populated place)|an agent has home town Omaha, Nebraska (an entity of type city)|=HYPERLINK("http://goo.gl/XOt5hL";"View More")
+=HYPERLINK("http://dbpedia.org/property/hometown")|hometown|||an athlete has hometown Istanbul (an entity of type populated place)|an agent has hometown Clarks Summit, Pennsylvania (an entity of type municipality)|=HYPERLINK("http://goo.gl/eJJ7zY";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationalTeam")|nationalTeam|||a volleyball player has national team Brazil men's national volleyball team (an entity of type sports team)|an agent has national team Italy men's national volleyball team|=HYPERLINK("http://goo.gl/WERSYB";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/stateOfOrigin")|stateOfOrigin|||an agent has state of origin Germany (an entity of type country)|an athlete has state of origin Czech Republic (an entity of type place)|=HYPERLINK("http://goo.gl/FshC5m";"View More")
+=HYPERLINK("http://dbpedia.org/property/ntlTeam")|ntlTeam|||an athlete has ntl team SVK|an ice hockey player has ntl team GBR|=HYPERLINK("http://goo.gl/2p1l7f";"View More")
+=HYPERLINK("http://dbpedia.org/property/homecountry")|homecountry|||a darts player has homecountry United States|a person has homecountry Wales|=HYPERLINK("http://goo.gl/kfIJkQ";"View More")
+=HYPERLINK("http://dbpedia.org/property/league")|league|||a soccer club has league Championnat de France amateur (an entity of type soccer league)|an organisation has league Danish Superliga (an entity of type organisation)|=HYPERLINK("http://goo.gl/umtrgQ";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/league")|league|||a soccer club has league Verbandsliga Hessen-Nord (an entity of type agent)|a sports team has league Verbandsliga S%C3%BCdwest (an entity of type organisation)|=HYPERLINK("http://goo.gl/el40JA";"View More")
+=HYPERLINK("http://dbpedia.org/property/birthplace")|birthplace|||an athlete has birthplace Houston (an entity of type place)|an agent has birthplace Torrance, California (an entity of type place)|=HYPERLINK("http://goo.gl/DIsOmF";"View More")
+=HYPERLINK("http://dbpedia.org/property/playedFor")|playedFor|||an athlete has played for Detroit Red Wings (an entity of type hockey team)|a person has played for Anaheim Ducks (an entity of type hockey team)|=HYPERLINK("http://goo.gl/ePNGth";"View More")
+=HYPERLINK("http://dbpedia.org/property/leagues")|leagues|||an organisation has leagues Liga Espa%C3%B1ola de Baloncesto (an entity of type agent)|an agent has leagues Euroleague Basketball (an entity of type agent)|=HYPERLINK("http://goo.gl/2s95xL";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalteams")|nationalteams|||a person has nationalteams India national under-23 football team (an entity of type soccer club)|a soccer player has nationalteams Kosovo|=HYPERLINK("http://goo.gl/PYzxjC";"View More")
+=HYPERLINK("http://dbpedia.org/property/playerTeams")|playerTeams|||a person has player teams New York Knicks (an entity of type organisation)|a college coach has player teams New England Patriots (an entity of type american football team)|=HYPERLINK("http://goo.gl/Sy1LJJ";"View More")
+=HYPERLINK("http://dbpedia.org/property/countryRepresented")|countryRepresented|||an athlete has country represented Argentina (an entity of type populated place)|a tennis player has country represented 1995|=HYPERLINK("http://goo.gl/sjDkXt";"View More")
+=HYPERLINK("http://dbpedia.org/property/citizenship")|citizenship|||an agent has citizenship United States (an entity of type place)|an agent has citizenship French, American|=HYPERLINK("http://goo.gl/xMtZrW";"View More")
+=HYPERLINK("http://dbpedia.org/property/countryofbirth")|countryofbirth|||a person has countryofbirth Denmark (an entity of type place)|a person has countryofbirth Bangladesh (an entity of type populated place)|=HYPERLINK("http://goo.gl/sjwPX5";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1300152499|basketball players|||||
+GROUP VALUES||||||
+Center|Center/Forward|Forward|Forward/Center|Forward/Guard||
+Guard|Guard/Forward|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/pos")|pos|||a place has pos 24|a populated place has pos 14|=HYPERLINK("http://goo.gl/Xo4ajF";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/position")|position|||a soccer player has position Left-back|a person has position Left Wing|=HYPERLINK("http://goo.gl/l0vaHD";"View More")
+=HYPERLINK("http://dbpedia.org/property/position")|position|||a sports team has position Hessenliga (an entity of type sports league)|an organisation has position Left-wing and Center-left|=HYPERLINK("http://goo.gl/jYf8Od";"View More")
+=HYPERLINK("http://dbpedia.org/property/playerPositions")|playerPositions|||a person has player positions American football positions|an agent has player positions Punter (football)|=HYPERLINK("http://goo.gl/f71nkc";"View More")
+=HYPERLINK("http://dbpedia.org/property/currentpositionplain")|currentpositionplain|||a gridiron football player has currentpositionplain Halfback (American football)|a person has currentpositionplain Safety (American and Canadian football position)|=HYPERLINK("http://goo.gl/qFU9A2";"View More")
+=HYPERLINK("http://dbpedia.org/property/icpositionh")|icpositionh|||an agent has icpositionh Full-forward|a person has icpositionh Wing-Forward|=HYPERLINK("http://goo.gl/nriqCx";"View More")
+=HYPERLINK("http://dbpedia.org/property/icposition")|icposition|||an athlete has icposition Left corner-forward|an athlete has icposition Half Back, Midfielder|=HYPERLINK("http://goo.gl/VfhYhR";"View More")
+=HYPERLINK("http://dbpedia.org/property/playerPosition")|playerPosition|||a person has player position Quarterback|a college coach has player position Wide receiver|=HYPERLINK("http://goo.gl/HffVfe";"View More")
+=HYPERLINK("http://dbpedia.org/property/clpositionf")|clpositionf|||a Gaelic games player has clpositionf Centre back|a Gaelic games player has clpositionf Corner-orward|=HYPERLINK("http://goo.gl/h6prFD";"View More")
+=HYPERLINK("http://dbpedia.org/property/clpositionh")|clpositionh|||a person has clpositionh Centre half Back, Full Forward|an office holder has clpositionh Midfield|=HYPERLINK("http://goo.gl/91Dlw9";"View More")
+=HYPERLINK("http://dbpedia.org/property/clposition")|clposition|||an agent has clposition Right Half Forward|a person has clposition Centre back|=HYPERLINK("http://goo.gl/7m8WZt";"View More")
+=HYPERLINK("http://dbpedia.org/property/ruCurrentposition")|ruCurrentposition|||a person has ru currentposition No. 8|an agent has ru currentposition Coach (sport) (an entity of type organisation)|=HYPERLINK("http://goo.gl/IvGHtS";"View More")
+=HYPERLINK("http://dbpedia.org/property/cposition")|cposition|||an athlete has cposition Half Back|a Gaelic games player has cposition defender|=HYPERLINK("http://goo.gl/x08enG";"View More")
+=HYPERLINK("http://dbpedia.org/property/clpostion")|clpostion|||a person has clpostion Left half back|a person has clpostion Forward|=HYPERLINK("http://goo.gl/6dNUHx";"View More")
+=HYPERLINK("http://dbpedia.org/property/icpositionf")|icpositionf|||an agent has icpositionf Corner back|a person has icpositionf Corner-back|=HYPERLINK("http://goo.gl/kdyJVE";"View More")
+=HYPERLINK("http://dbpedia.org/property/currentPosition")|currentPosition|||an agent has current position Last|an agent has current position University of Minnesota (an entity of type educational institution)|=HYPERLINK("http://goo.gl/ir2mP6";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+748406375|basketball players|||||
+GROUP VALUES||||||
+Atlanta Hawks|Baltimore|Baltimore Bullets|Boston Celtics|Buffalo Braves||
+Capital|Charlotte Hornets|Chicago Bulls|Cincinnati Royals|Cincinnati Royals||
+Cleveland Cavaliers|Detroit Pistons|Golden State Warriors|Houston Rockets|Kansas City Kings||
+Kansas City-Omaha|Los Angeles Clippers|Los Angeles Lakers|Miami Heat|Milwaukee||
+Milwaukee Bucks|Minneapolis|Minneapolis Lakers|New Orleans|New York Knicks||
+New York Nets|Orlando Magic|Philadelphia|Philadelphia 76ers|Philadelphia Warriors||
+Phoenix Suns|Portland Trail Blazers|San Antonio Spurs|San Diego|San Francisco||
+San Francisco Warriors|Seattle SuperSonics|St. Louis Hawks|Syracuse Nationals|Toronto Raptors||
+Utah Jazz|Washington Bullets|Washington Capitols|Washington Wizards|||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/team")|team|||a soccer club season has Team Inter Milan (an entity of type agent)|a sports team season has Team U.C. Sampdoria (an entity of type soccer club)|=HYPERLINK("http://goo.gl/i7huqf";"View More")
+=HYPERLINK("http://dbpedia.org/property/teams")|teams|||an office holder has teams *NFL Pittsburgh Steelers *CFL Calgary Stampeders **AFL Buffalo Bills|a person has teams * Brooklyn Indians  * Brooklyn Gothams  * Rochester Royals|=HYPERLINK("http://goo.gl/fCisrb";"View More")
+=HYPERLINK("http://dbpedia.org/property/cteam")|cteam|||a person has cteam Los Angeles Clippers (an entity of type agent)|an athlete has cteam Limoges CSP (an entity of type agent)|=HYPERLINK("http://goo.gl/rMNYxl";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftTeam")|draftTeam|||a person has draft team New York Rangers (an entity of type agent)|an athlete has draft team Buffalo Sabres (an entity of type agent)|=HYPERLINK("http://goo.gl/7dvrzq";"View More")
+=HYPERLINK("http://dbpedia.org/property/formerTeams")|formerTeams|||an ice hockey player has former teams New York Rangers (an entity of type hockey team)|an agent has former teams Dallas Stars (an entity of type organisation)|=HYPERLINK("http://goo.gl/rCdyxI";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/draftTeam")|draftTeam|||an ice hockey player has draft team St. Louis Blues (an entity of type agent)|a person has draft team St. Louis Blues (an entity of type agent)|=HYPERLINK("http://goo.gl/rkNI5e";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/formerTeam")|formerTeam|||an ice hockey player has former team Anaheim Ducks (an entity of type sports team)|an agent has former team Indianapolis Colts (an entity of type agent)|=HYPERLINK("http://goo.gl/Z2axnY";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/team")|team|||an agent has team Paraguay national football team (an entity of type organisation)|a person has team Paraguay national football team (an entity of type agent)|=HYPERLINK("http://goo.gl/frQusq";"View More")
+=HYPERLINK("http://dbpedia.org/property/playerTeams")|playerTeams|||a person has player teams University of Virginia (an entity of type educational institution)|an agent has player teams Morgan State University (an entity of type educational institution)|=HYPERLINK("http://goo.gl/Sy1LJJ";"View More")
+=HYPERLINK("http://dbpedia.org/property/club")|club|||a person has club Queensland cricket team|a soccer club season has club FC Barcelona (an entity of type agent)|=HYPERLINK("http://goo.gl/QsMWVV";"View More")
+=HYPERLINK("http://dbpedia.org/property/draftteam")|draftteam|||a basketball player has draftteam Philadelphia 76ers (an entity of type soccer club)|an agent has draftteam Los Angeles Lakers (an entity of type basketball team)|=HYPERLINK("http://goo.gl/wEHbqb";"View More")
+=HYPERLINK("http://dbpedia.org/property/pickedBy")|pickedBy|||an organisation has picked by Brooklyn Nets (an entity of type sports team)|an organisation has picked by Brooklyn Nets (an entity of type agent)|=HYPERLINK("http://goo.gl/kqYIm0";"View More")
+=HYPERLINK("http://dbpedia.org/property/expTeams")|expTeams|||||=HYPERLINK("http://goo.gl/tv39HK";"View More")
+=HYPERLINK("http://dbpedia.org/property/playingTeams")|playingTeams|||an agent has playing teams Calgary Stampeders (an entity of type sports team)|an agent has playing teams Union Quakers of Philadelphia (an entity of type agent)|=HYPERLINK("http://goo.gl/5imYlQ";"View More")
+=HYPERLINK("http://dbpedia.org/property/pastteams")|pastteams|||a person has pastteams * Philadelphia Eagles * Baltimore Ravens|an american football player has pastteams *New Orleans Saints *Houston Oilers *Minnesota Vikings|=HYPERLINK("http://goo.gl/FA6MVU";"View More")
+=HYPERLINK("http://dbpedia.org/property/currentTeam")|currentTeam|||an agent has current team UHV Jaguars (an entity of type sport)|a college coach has current team Florida Gators men's basketball (an entity of type university)|=HYPERLINK("http://goo.gl/bSiVBh";"View More")
+=HYPERLINK("http://dbpedia.org/property/debutteam")|debutteam|||a gridiron football player has debutteam Los Angeles Rams|an agent has debutteam Washington Nationals|=HYPERLINK("http://goo.gl/UOFPA0";"View More")
+=HYPERLINK("http://dbpedia.org/property/playedFor")|playedFor|||a person has played for Columbus Blue Jackets (an entity of type organisation)|an athlete has played for Boston Bruins (an entity of type organisation)|=HYPERLINK("http://goo.gl/ePNGth";"View More")
+=HYPERLINK("http://dbpedia.org/property/finalteam")|finalteam|||an agent has finalteam Boston Red Sox|an athlete has finalteam Cleveland Browns|=HYPERLINK("http://goo.gl/G16aYn";"View More")
+=HYPERLINK("http://dbpedia.org/property/clubs")|clubs|||an agent has clubs %C3%8D%C3%BEr%C3%B3ttabandalag Vestmannaeyja (an entity of type agent)|an agent has clubs 1. FC Tatran Pre%C5%A1ov (an entity of type agent)|=HYPERLINK("http://goo.gl/hR96g4";"View More")
+=HYPERLINK("http://dbpedia.org/property/formerteams")|formerteams|||a person has formerteams *Houston Astros *Milwaukee Brewers *San Francisco Giants *New York Yankees *Atlanta Braves|a person has formerteams *Arizona Diamondbacks *Tampa Bay Devil Rays *Cleveland Indians *Texas Rangers|=HYPERLINK("http://goo.gl/SM1CoH";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/debutTeam")|debutTeam|||a person has debut team Indianapolis Colts (an entity of type agent)|a gridiron football player has debut team Baltimore Ravens (an entity of type agent)|=HYPERLINK("http://goo.gl/C4CeyK";"View More")
+=HYPERLINK("http://dbpedia.org/property/currentclub")|currentclub|||a soccer player has currentclub Rayo Vallecano (an entity of type agent)|an agent has currentclub C.F. Monterrey (an entity of type agent)|=HYPERLINK("http://goo.gl/m6OaID";"View More")
+=HYPERLINK("http://dbpedia.org/property/currentteam")|currentteam|||a person has currentteam None|a cyclist has currentteam Swisspower|=HYPERLINK("http://goo.gl/Ee22Eb";"View More")
+=HYPERLINK("http://dbpedia.org/property/previousClubs")|previousClubs|||a person has previous clubs Gold Coast Blaze (an entity of type soccer club)|a person has previous clubs Gold Coast Blaze (an entity of type organisation)|=HYPERLINK("http://goo.gl/rrgUiG";"View More")
+||||||

@@ -1,0 +1,380 @@
+GROUP ID|CONTEXT LABEL|||||
+1058967988|basketball players|||||
+GROUP VALUES||||||
+Australia|Belgium|Democratic Republic of the Congo|Denmark|France||
+Great Britain  England|Haiti|Italy|Jamaica|Lebanon||
+Luxembourg|Manchukuo|Morocco|Netherlands|New Zealand||
+Nigeria|Panama|Republic of China|Republic of the Congo|Romania||
+Saint Vincent and the Grenadines|South Africa|Soviet Union|Spain|Sudan (now  South Sudan)||
+Sweden|Switzerland|Trinidad and Tobago|United States|U.S. Virgin Islands||
+Weimar Republic|West Germany|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/birthPlace")|birthPlace|||an office holder has birth place Guatemala City (an entity of type municipality)|a president has birth place Kingdom of Hungary (1920%E2%80%931946) (an entity of type populated place)|=HYPERLINK("http://goo.gl/q9T4XN";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/birthPlace")|birthPlace|||a person has birth place England (an entity of type populated place)|a soccer player has birth place Rosario, Santa Fe (an entity of type place)|=HYPERLINK("http://goo.gl/og38dW";"View More")
+=HYPERLINK("http://dbpedia.org/property/placeOfBirth")|placeOfBirth|||an agent has PLACE OF BIRTH Seferihisar (an entity of type town)|a politician has PLACE OF BIRTH Guatemala City (an entity of type city)|=HYPERLINK("http://goo.gl/EzIrvh";"View More")
+=HYPERLINK("http://dbpedia.org/property/country")|country|||an agent has country Europe (an entity of type place)|a work has country Canada (an entity of type populated place)|=HYPERLINK("http://goo.gl/4OKNh3";"View More")
+=HYPERLINK("http://dbpedia.org/property/placeOfDeath")|placeOfDeath|||an agent has PLACE OF DEATH Ottoman Empire (an entity of type country)|an artist has PLACE OF DEATH Paris (an entity of type municipality)|=HYPERLINK("http://goo.gl/XgVHxT";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalteam")|nationalteam|||a sports manager has nationalteam Israel national football team (an entity of type soccer club)|an athlete has nationalteam Germany national football team (an entity of type soccer club)|=HYPERLINK("http://goo.gl/cW6B3z";"View More")
+=HYPERLINK("http://dbpedia.org/property/deathPlace")|deathPlace|||a person has death place Coimbra (an entity of type municipality)|a person has death place Germany (an entity of type populated place)|=HYPERLINK("http://goo.gl/cMq3NB";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/team")|team|||an agent has team Boca Juniors (an entity of type soccer club)|a person has team S.L. Benfica (an entity of type organisation)|=HYPERLINK("http://goo.gl/frQusq";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationality")|nationality|||a person has nationality French people (an entity of type ethnic group)|a writer has nationality Kurdistan (an entity of type place)|=HYPERLINK("http://goo.gl/lPYQVp";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/country")|country|||an university has country France (an entity of type place)|a town has country Iceland (an entity of type country)|=HYPERLINK("http://goo.gl/UwgP5r";"View More")
+=HYPERLINK("http://dbpedia.org/property/nat")|nat|||an agent has nat BEN|a sports team has nat Poland|=HYPERLINK("http://goo.gl/84A8pp";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationality")|nationality|||an agent has nationality Turkey (an entity of type place)|a president has nationality Turkey (an entity of type place)|=HYPERLINK("http://goo.gl/1ymqrK";"View More")
+=HYPERLINK("http://dbpedia.org/property/team")|team|||a sports event has Team Hertha BSC (an entity of type soccer club)|a football match has Team SV Sodingen (an entity of type soccer club)|=HYPERLINK("http://goo.gl/i7huqf";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/hometown")|hometown|||an agent has home town Walla Walla, Washington (an entity of type populated place)|an agent has home town Frankfurt (an entity of type place)|=HYPERLINK("http://goo.gl/XOt5hL";"View More")
+=HYPERLINK("http://dbpedia.org/property/hometown")|hometown|||a person has hometown Middlesex Centre (an entity of type place)|a boxer has hometown Mexicali, BC, Mexico|=HYPERLINK("http://goo.gl/eJJ7zY";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/stateOfOrigin")|stateOfOrigin|||an agent has state of origin Romania (an entity of type populated place)|an agent has state of origin Russia (an entity of type populated place)|=HYPERLINK("http://goo.gl/FshC5m";"View More")
+=HYPERLINK("http://dbpedia.org/property/ntlTeam")|ntlTeam|||a person has ntl team Czech Republic|an ice hockey player has ntl team BLR|=HYPERLINK("http://goo.gl/2p1l7f";"View More")
+=HYPERLINK("http://dbpedia.org/property/homecountry")|homecountry|||a person has homecountry United States|a darts player has homecountry Netherlands|=HYPERLINK("http://goo.gl/kfIJkQ";"View More")
+=HYPERLINK("http://dbpedia.org/property/ruNationalteam")|ruNationalteam|||a rugby player has ru nationalteam Australia national rugby union team (an entity of type rugby club)|a rugby player has ru nationalteam Scotland national rugby union team (an entity of type rugby club)|=HYPERLINK("http://goo.gl/OGi9RY";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationalTeam")|nationalTeam|||a person has national team Croatia women's national volleyball team|a person has national team Poland (an entity of type populated place)|=HYPERLINK("http://goo.gl/WERSYB";"View More")
+=HYPERLINK("http://dbpedia.org/property/countryRepresented")|countryRepresented|||a tennis player has country represented Portugal|a person has country represented Algeria (an entity of type populated place)|=HYPERLINK("http://goo.gl/sjDkXt";"View More")
+=HYPERLINK("http://dbpedia.org/property/rlNationalteam")|rlNationalteam|||an athlete has rl nationalteam France national rugby league team|an agent has rl nationalteam Germany national rugby league team|=HYPERLINK("http://goo.gl/BNGRpo";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalteams")|nationalteams|||a netball player has nationalteams Australia national netball team (an entity of type place)|an agent has nationalteams New Zealand under 21 squad|=HYPERLINK("http://goo.gl/PYzxjC";"View More")
+=HYPERLINK("http://dbpedia.org/property/birthplace")|birthplace|||an agent has birthplace Chicago Heights, Illinois (an entity of type place)|an artist has birthplace Manitoba (an entity of type place)|=HYPERLINK("http://goo.gl/DIsOmF";"View More")
+=HYPERLINK("http://dbpedia.org/property/countryofbirth")|countryofbirth|||a motorcycle rider has countryofbirth England (an entity of type country)|an agent has countryofbirth England (an entity of type populated place)|=HYPERLINK("http://goo.gl/sjwPX5";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationaliity")|nationaliity|||a soccer player has nationaliity Nigeria (an entity of type populated place)|an athlete has nationaliity Belgium (an entity of type place)|=HYPERLINK("http://goo.gl/FyT4UT";"View More")
+=HYPERLINK("http://dbpedia.org/property/placeofbirth")|placeofbirth|||an agent has placeofbirth Spangler, Pennsylvania (an entity of type place)|a person has placeofbirth Jerusalem (an entity of type populated place)|=HYPERLINK("http://goo.gl/q1pFqZ";"View More")
+=HYPERLINK("http://dbpedia.org/property/placebirth")|placebirth|||an athlete has placebirth Socialist Republic of Croatia (an entity of type place)|an agent has placebirth Taiwan (an entity of type populated place)|=HYPERLINK("http://goo.gl/nseqDR";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+704436051|books|||||
+GROUP VALUES||||||
+Bossidy, Larry|Dell, Michael|Eisner, Michael|Gates, Bill|Grove, Andrew||
+Iacocca, Lee|Kroc, Ray|Monaghan, Tom|Packard, David|R. M. Lala||
+Rodgers, TJ|Rosenberg, William|Schultz, Howard|Sloan, Alfred|Stewart, Martha||
+Thomas, Dave|Walton, Sam|Watson, Jr., Thomas J.|Welch, Jack|||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/ontology/author")|author|||a work has author Terry Louise Fisher (an entity of type agent)|a written work has author Iris Murdoch (an entity of type agent)|=HYPERLINK("http://goo.gl/VRYKW5";"View More")
+=HYPERLINK("http://dbpedia.org/property/author")|author|||a book has author Jules Verne (an entity of type artist)|a book has author Arthur Conan Doyle (an entity of type agent)|=HYPERLINK("http://goo.gl/d35iOa";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+244307158|books|||||
+GROUP VALUES||||||
+1754|1859|1869|1877|1880||
+1881|1887|1892|1896|1899||
+1902|1908|1932|1936|1937||
+1939|1943|1946|1947|1950||
+1951|1952|1954|1955|1960||
+1966|1967|1969|1970|1972||
+1975|1976|1977|1979|1980||
+1984|1988|1991|1992|1997||
+1998|2000|2002|2003|2005||
+2007||||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/releaseDate")|releaseDate|||a book has release date 2003|a book has release date 1912|=HYPERLINK("http://goo.gl/5MB1RT";"View More")
+=HYPERLINK("http://dbpedia.org/property/pubDate")|pubDate|||a book has pub date 1958|a work has pub date 1952|=HYPERLINK("http://goo.gl/x5yCVS";"View More")
+=HYPERLINK("http://dbpedia.org/property/englishPubDate")|englishPubDate|||a written work has english pub date 8|a work has english pub date 2008|=HYPERLINK("http://goo.gl/3hTr0C";"View More")
+=HYPERLINK("http://dbpedia.org/property/years")|years|||an agent has years 2005|an agent has years 1926|=HYPERLINK("http://goo.gl/OBLqO3";"View More")
+=HYPERLINK("http://dbpedia.org/property/englishReleaseDate")|englishReleaseDate|||a book has english release date 1973|a work has english release date 1998|=HYPERLINK("http://goo.gl/1vEZFa";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/publicationDate")|publicationDate|||a book has publication date 2006-10-02+02:00|a television episode has publication date 1982-03-15+02:00|=HYPERLINK("http://goo.gl/U8wnk4";"View More")
+=HYPERLINK("http://dbpedia.org/property/date")|date|||a chemical compound has date 1987|a sports team season has date 3|=HYPERLINK("http://goo.gl/ee5NUh";"View More")
+=HYPERLINK("http://dbpedia.org/property/released")|released|||an album has released 2005-03-11+02:00|a movie has released United States:|=HYPERLINK("http://goo.gl/bQQzBV";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/releaseDate")|releaseDate|||a musical work has release date 1971-10-03+02:00|an album has release date 2004-09-13+02:00|=HYPERLINK("http://goo.gl/0Gn1yS";"View More")
+=HYPERLINK("http://dbpedia.org/property/origdate")|origdate|||a work has origdate March 1982 – May 1989|a work has origdate September 1986 – October 1987|=HYPERLINK("http://goo.gl/FWauQM";"View More")
+=HYPERLINK("http://dbpedia.org/property/year")|year|||an eukaryote has year 2000|an agent has year 2005|=HYPERLINK("http://goo.gl/yzBSQL";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/completionDate")|completionDate|||a work has completion date 1999-12-18+02:00|a ship has completion date 1917-04-06+02:00|=HYPERLINK("http://goo.gl/ErNVBk";"View More")
+=HYPERLINK("http://dbpedia.org/property/publishDate")|publishDate|||an artist has publish date 1983|a work has publish date 2002-08-31+02:00|=HYPERLINK("http://goo.gl/RKICBy";"View More")
+=HYPERLINK("http://dbpedia.org/property/firstdate")|firstdate|||a magazine has firstdate September 1991|a periodical literature has firstdate 1971|=HYPERLINK("http://goo.gl/6IOD8x";"View More")
+=HYPERLINK("http://dbpedia.org/property/launchDate")|launchDate|||an event has launch date 2010-06-14+02:00|an agent has launch date 1995-01-10+02:00|=HYPERLINK("http://goo.gl/XvBmj2";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/firstPublicationDate")|firstPublicationDate|||a written work has first publication date 2009-03-25+02:00|a manga has first publication date 2000-07-25+02:00|=HYPERLINK("http://goo.gl/llrJmZ";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/firstPublicationYear")|firstPublicationYear|||an academic journal has first publication year 1932-12-31T22:00:00+02:00|a written work has first publication year 1956-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/GBSuAG";"View More")
+=HYPERLINK("http://dbpedia.org/property/originalreldate")|originalreldate|||a work has OriginalRelDate 1996-03-05+02:00|a written work has OriginalRelDate 1994-11-01+02:00|=HYPERLINK("http://goo.gl/WMasMo";"View More")
+=HYPERLINK("http://dbpedia.org/property/published")|published|||a comics has Published June 1993|a comics has Published July 1982|=HYPERLINK("http://goo.gl/0xVpid";"View More")
+=HYPERLINK("http://dbpedia.org/property/publDate")|publDate|||a written work has publ date November, 2008|a work has publ date 1937|=HYPERLINK("http://goo.gl/TSkfvs";"View More")
+=HYPERLINK("http://dbpedia.org/property/publicationDate")|publicationDate|||a periodical literature has publication date Thursdays|a written work has publication date Thursdays|=HYPERLINK("http://goo.gl/VayXbi";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+2021450258|books|||||
+GROUP VALUES||||||
+Chinese|Dutch|English|French|German||
+Italian|Norwegian|Portuguese|Russian|Spanish||
+Swedish||||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/language")|language|||a work has language Czech|an artist has language Polish language (an entity of type language)|=HYPERLINK("http://goo.gl/y9DCw6";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/language")|language|||an artist has language French literature (an entity of type educational institution)|a work has language Turkish language (an entity of type language)|=HYPERLINK("http://goo.gl/MusZi5";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationality")|nationality|||a scientist has nationality Flemish (an entity of type place)|an artist has nationality Belgium (an entity of type country)|=HYPERLINK("http://goo.gl/1ymqrK";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/country")|country|||a body of water has country Czech Republic (an entity of type populated place)|a municipality has country Slovakia (an entity of type place)|=HYPERLINK("http://goo.gl/UwgP5r";"View More")
+=HYPERLINK("http://dbpedia.org/property/country")|country|||a work has country Canada (an entity of type place)|an organisation has country France (an entity of type place)|=HYPERLINK("http://goo.gl/4OKNh3";"View More")
+=HYPERLINK("http://dbpedia.org/property/translations")|translations|||a book has translations Portuguese, Danish, Japanese, Dutch, Chinese, German, Hebrew, Korean, Russian, and Italian|a work has translations Portuguese, Danish, Japanese, Dutch, Chinese, German, Hebrew, Korean, Russian, and Italian|=HYPERLINK("http://goo.gl/RgP739";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationality")|nationality|||a basketball player has nationality United States (an entity of type country)|an agent has nationality Turkey (an entity of type place)|=HYPERLINK("http://goo.gl/lPYQVp";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/stateOfOrigin")|stateOfOrigin|||an agent has state of origin Estonia (an entity of type place)|a person has state of origin Irish nationality law (an entity of type populated place)|=HYPERLINK("http://goo.gl/FshC5m";"View More")
+=HYPERLINK("http://dbpedia.org/property/languages")|languages|||an ethnic group has Languages Cahita|a place has Languages Other 14.1%|=HYPERLINK("http://goo.gl/p9slzQ";"View More")
+=HYPERLINK("http://dbpedia.org/property/ethnicity")|ethnicity|||an agent has ethnicity Georgian Jewish|a person has ethnicity Chinese Singaporean (an entity of type ethnic group)|=HYPERLINK("http://goo.gl/Sp5sgj";"View More")
+=HYPERLINK("http://dbpedia.org/property/officialLanguages")|officialLanguages|||a country has official languages Looking-Glass language|a populated place has official languages British language (an entity of type language)|=HYPERLINK("http://goo.gl/Gs0vtn";"View More")
+=HYPERLINK("http://dbpedia.org/property/language(s)_")|language(s)_|||||=HYPERLINK("http://goo.gl/ct4TQ2";"View More")
+=HYPERLINK("http://dbpedia.org/property/origlanguage")|origlanguage|||a work has origlanguage Greek language (an entity of type language)|a work has origlanguage Greek language (an entity of type language)|=HYPERLINK("http://goo.gl/oha7Ht";"View More")
+=HYPERLINK("http://dbpedia.org/property/origLang")|origLang|||a play has orig lang Malay language (an entity of type language)|a written work has orig lang Venetian language (an entity of type language)|=HYPERLINK("http://goo.gl/6hcMmi";"View More")
+=HYPERLINK("http://dbpedia.org/property/lang")|lang|||a populated place has lang German|a musical artist has lang ta|=HYPERLINK("http://goo.gl/CETZJX";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/originalLanguage")|originalLanguage|||a play has original language Welsh language (an entity of type language)|a play has original language Hyderabad, India (an entity of type city)|=HYPERLINK("http://goo.gl/mqlin3";"View More")
+=HYPERLINK("http://dbpedia.org/property/originalLanguage")|originalLanguage|||a work has original language French language (an entity of type language)|a written work has original language Japanese language (an entity of type language)|=HYPERLINK("http://goo.gl/QaYafK";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+2129711824|books|||||
+GROUP VALUES||||||
+Agatha Christie|Anna Sewell|Anne Frank|Antoine de Saint-Exupéry|Beatrix Potter||
+Cao Xueqin|Carlo Collodi|Charles Dickens|Charles M. Sheldon|Colleen McCullough||
+C. S. Lewis|Dan Brown|Dr. Benjamin Spock|E.B. White|Elbert Hubbard||
+Ellen G. White|Eric Carle|Gabriel García Márquez|Hal Lindsey, C. C. Carlson|Harper Lee||
+H. Rider Haggard|Jack Higgins|Jacqueline Susann|J. D. Salinger|Jeffrey Archer||
+J. K. Rowling|Johanna Spyri|Jostein Gaarder|J. P. Donleavy|J. R. R. Tolkien||
+Leo Tolstoy|Louise Hay|Lucy Maud Montgomery|Margaret Mitchell|Napoleon Hill||
+Nikolai Ostrovsky|Paulo Coelho|Richard Adams|Richard Bach|Rick Warren||
+Robert James Waller|Shere Hite|Stieg Larsson|Umberto Eco|V. C. Andrews||
+Vladimir Nabokov|Wayne Dyer|William Bradford Huie||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/author")|author|||a book has author George R. R. Martin (an entity of type writer)|a written work has author Friedrich D%C3%BCrrenmatt (an entity of type person)|=HYPERLINK("http://goo.gl/d35iOa";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/author")|author|||a work has author Ian McEwan (an entity of type person)|a book has author John Irving (an entity of type person)|=HYPERLINK("http://goo.gl/VRYKW5";"View More")
+=HYPERLINK("http://dbpedia.org/property/writer")|writer|||an album has writer Hal David (an entity of type musical artist)|a song has writer Bob Dylan (an entity of type agent)|=HYPERLINK("http://goo.gl/k2JNWA";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/writer")|writer|||a television episode has writer Ryan Murphy (writer) (an entity of type writer)|a work has writer Aline Brosh McKenna (an entity of type artist)|=HYPERLINK("http://goo.gl/SSpilV";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/creator")|creator|||an agent has creator Ernie Chan (an entity of type comics creator)|an agent has creator Chuck Dixon (an entity of type agent)|=HYPERLINK("http://goo.gl/6ATZSm";"View More")
+=HYPERLINK("http://dbpedia.org/property/creator")|creator|||a work has creator Ann Donahue (an entity of type person)|a television show has creator Terry Nation (an entity of type artist)|=HYPERLINK("http://goo.gl/5lxYxV";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1911613041|companies|||||
+GROUP VALUES||||||
+Belgium|Brazil|Canada|China|Finland||
+France|Germany|India|Ireland|Italy||
+Japan|Luxembourg|Netherlands|Saudi Arabia|Singapore||
+South Korea|Sweden|Switzerland|Taiwan|Turkey||
+United Kingdom|United States|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/ontology/foundationPlace")|foundationPlace|||a company has foundation place Atlanta (an entity of type place)|an agent has foundation place Atlanta (an entity of type municipality)|=HYPERLINK("http://goo.gl/JPTzoq";"View More")
+=HYPERLINK("http://dbpedia.org/property/areaServed")|areaServed|||an organisation has area served Amazon Basin|a non-profit organisation has area served Germany (an entity of type populated place)|=HYPERLINK("http://goo.gl/LfIqmq";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/headquarter")|headquarter|||a company has headquarter Abidjan (an entity of type populated place)|a company has headquarter Sir Seretse Khama International Airport (an entity of type infrastructure)|=HYPERLINK("http://goo.gl/BWsfCw";"View More")
+=HYPERLINK("http://dbpedia.org/property/locationCountry")|locationCountry|||a company has location country United States (an entity of type populated place)|an organisation has location country Netherlands (an entity of type place)|=HYPERLINK("http://goo.gl/3Tno5v";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/location")|location|||an event has location Buckinghamshire (an entity of type region)|an organisation has location United Kingdom (an entity of type country)|=HYPERLINK("http://goo.gl/Va4zLm";"View More")
+=HYPERLINK("http://dbpedia.org/property/country")|country|||an university has country France (an entity of type populated place)|a magazine has country United States (an entity of type populated place)|=HYPERLINK("http://goo.gl/4OKNh3";"View More")
+=HYPERLINK("http://dbpedia.org/property/foundation")|foundation|||a region has foundation 1983|an agent has foundation Burlington, Vermont (an entity of type populated place)|=HYPERLINK("http://goo.gl/zcFN3h";"View More")
+=HYPERLINK("http://dbpedia.org/property/headquarters")|headquarters|||an agent has headquarters Bucharest (an entity of type city)|a company has headquarters Les Abymes (an entity of type municipality)|=HYPERLINK("http://goo.gl/B5rhie";"View More")
+=HYPERLINK("http://dbpedia.org/property/location")|location|||an event has location Berlin (an entity of type region)|an event has location Berlin (an entity of type region)|=HYPERLINK("http://goo.gl/6GTyXb";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/locationCountry")|locationCountry|||a company has location country Germany (an entity of type country)|an agent has location country Italy (an entity of type country)|=HYPERLINK("http://goo.gl/n90Cvc";"View More")
+=HYPERLINK("http://dbpedia.org/property/locations")|locations|||a company has locations Jacksonville, Florida (an entity of type populated place)|a company has locations London (an entity of type municipality)|=HYPERLINK("http://goo.gl/v6HgMK";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/country")|country|||a populated place has country Serbia (an entity of type place)|a town has country Iceland (an entity of type place)|=HYPERLINK("http://goo.gl/UwgP5r";"View More")
+=HYPERLINK("http://dbpedia.org/property/origin")|origin|||a Band has origin Chicago (an entity of type populated place)|an agent has origin South Bronx (an entity of type populated place)|=HYPERLINK("http://goo.gl/Hgu838";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/nationality")|nationality|||an agent has nationality Kurdistan (an entity of type populated place)|an agent has nationality Poland (an entity of type country)|=HYPERLINK("http://goo.gl/lPYQVp";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/stateOfOrigin")|stateOfOrigin|||a person has state of origin Turkish people (an entity of type place)|an agent has state of origin Austria (an entity of type populated place)|=HYPERLINK("http://goo.gl/FshC5m";"View More")
+=HYPERLINK("http://dbpedia.org/property/origins")|origins|||an agent has origins Athens, Georgia|a non-profit organisation has origins Washington State University (an entity of type university)|=HYPERLINK("http://goo.gl/9XGQQz";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/origin")|origin|||a beverage has origin Germany (an entity of type place)|a species has origin Santorini (an entity of type populated place)|=HYPERLINK("http://goo.gl/B2clvf";"View More")
+=HYPERLINK("http://dbpedia.org/property/serviceArea")|serviceArea|||an architectural structure has service area Central Ontario (an entity of type populated place)|a place has service area Derbyshire (an entity of type place)|=HYPERLINK("http://goo.gl/Orc3co";"View More")
+=HYPERLINK("http://dbpedia.org/property/storeLocations")|storeLocations|||an organisation has store locations Italy|an organisation has store locations Ireland|=HYPERLINK("http://goo.gl/7c8Lni";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationality")|nationality|||an agent has nationality Germany (an entity of type populated place)|a person has nationality United States (an entity of type populated place)|=HYPERLINK("http://goo.gl/1ymqrK";"View More")
+=HYPERLINK("http://dbpedia.org/property/headquarter")|headquarter|||an organisation has headquarter Maharashtra (an entity of type populated place)|an organisation has headquarter Grand Trunk Road (an entity of type architectural structure)|=HYPERLINK("http://goo.gl/aqsFdy";"View More")
+=HYPERLINK("http://dbpedia.org/property/locationCountries")|locationCountries|||an agent has location countries Canada (an entity of type place)|an agent has location countries Maldives (an entity of type populated place)|=HYPERLINK("http://goo.gl/20S6ak";"View More")
+=HYPERLINK("http://dbpedia.org/property/locationCounty")|locationCounty|||a company has location county Warwickshire (an entity of type region)|an agent has location county Warwickshire (an entity of type populated place)|=HYPERLINK("http://goo.gl/2zWo1n";"View More")
+=HYPERLINK("http://dbpedia.org/property/countryOfOrigin")|countryOfOrigin|||a play has country of origin America|a written work has country of origin United States (an entity of type place)|=HYPERLINK("http://goo.gl/zYdzrd";"View More")
+=HYPERLINK("http://dbpedia.org/property/hq")|hq|||a place has hq Bloemfontein (an entity of type place)|a populated place has hq Stratford, London (an entity of type municipality)|=HYPERLINK("http://goo.gl/NRZ8YS";"View More")
+=HYPERLINK("http://dbpedia.org/property/nationalOrigin")|nationalOrigin|||an aircraft has national origin Japan (an entity of type country)|an aircraft has national origin Denmark|=HYPERLINK("http://goo.gl/WvB6TT";"View More")
+=HYPERLINK("http://dbpedia.org/property/headquartered")|headquartered|||a company has headquartered Brazil (an entity of type populated place)|an agent has headquartered S%C3%A3o Paulo (an entity of type populated place)|=HYPERLINK("http://goo.gl/uvMBZ1";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+618003832|companies|||||
+GROUP VALUES||||||
+Aerospace &amp; Defence|Agricultural equipment|Aluminium|Automotive|Automotive components||
+Automotive, Electronics|Building materials|Chemicals|Construction equipment|Consumer durables||
+Consumer goods|Cosmetics|Defence|Electrical cable|Electronics||
+Engineering, various|Food &amp; Beverages|Luxury goods|Metals|Personal care products||
+Pharmaceuticals|Pharmaceuticals, Medical equipment|Photographic equipment|Pulp &amp; Paper|Shipbuilding||
+Steel|Telecommunications equipment|Telecommunications equipment, Electronics|Tobacco|Tyres||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/products")|products|||an agent has products Audio visual products|an organisation has products Neverwinter Nights|=HYPERLINK("http://goo.gl/lbJSiZ";"View More")
+=HYPERLINK("http://dbpedia.org/property/industry")|industry|||an agent has industry Military|a company has industry Railway company|=HYPERLINK("http://goo.gl/6MyU9M";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/industry")|industry|||a company has industry Heavy equipment|a company has industry Mining|=HYPERLINK("http://goo.gl/1wsVRy";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/product")|product|||a company has product Antivirus software (an entity of type genre)|an organisation has product Realms of Arkania: Blade of Destiny (an entity of type video game)|=HYPERLINK("http://goo.gl/qOUmlm";"View More")
+=HYPERLINK("http://dbpedia.org/property/services")|services|||a company has services Letter post, parcel service, EMS, delivery, freight forwarding, third-party logistics|an organisation has services Passenger transportation|=HYPERLINK("http://goo.gl/huZ6xr";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/service")|service|||an organisation has service Channel Tunnel (an entity of type route of transportation)|a company has service Channel Tunnel (an entity of type architectural structure)|=HYPERLINK("http://goo.gl/J0zwQ2";"View More")
+=HYPERLINK("http://dbpedia.org/property/companyType")|companyType|||a public transit system has company type Public company|an organisation has company type Wholly owned subsidiary|=HYPERLINK("http://goo.gl/PJqr9B";"View More")
+=HYPERLINK("http://dbpedia.org/property/type")|type|||a musical work has type greatest|an agent has type monarch|=HYPERLINK("http://goo.gl/C6tj9D";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/type")|type|||a place has type Powiat|a place has type Stratovolcano|=HYPERLINK("http://goo.gl/s5GBZ3";"View More")
+=HYPERLINK("http://dbpedia.org/property/companySlogan")|companySlogan|||an agent has company slogan Award Winning Airline|an organisation has company slogan Strength at Sea|=HYPERLINK("http://goo.gl/gDwQ57";"View More")
+=HYPERLINK("http://dbpedia.org/property/markets")|markets|||a municipality has markets United Kingdom (an entity of type country)|a company has markets Financial Services and Brokerage|=HYPERLINK("http://goo.gl/yIwpFB";"View More")
+=HYPERLINK("http://dbpedia.org/property/industries")|industries|||a populated place has industries Sugar Factories , Milk dairy & bi-Products , Rajhans Poulty etc.|an organisation has industries Coalbed methane|=HYPERLINK("http://goo.gl/Vf1PgT";"View More")
+=HYPERLINK("http://dbpedia.org/property/business")|business|||an athlete has business Frances Solia has achieved a lot not only on the court but also in the business world and currently is an owner of Several businesses including following: Telecommunications, Personal Development, Sportsmanship Academy|an university has business 240|=HYPERLINK("http://goo.gl/GRDXwX";"View More")
+=HYPERLINK("http://dbpedia.org/property/product")|product|||an agent has product Motorcycle safety|an agent has product Services for children with sensory impairment|=HYPERLINK("http://goo.gl/LB2TpJ";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+2122702641|governments|||||
+GROUP VALUES||||||
+Democratic|Federalist|Independent|Republican|Whig||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/party")|party|||a person has party Hungarian Socialist Workers' Party (an entity of type agent)|a person has party National Advancement Party (an entity of type agent)|=HYPERLINK("http://goo.gl/289m4V";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/party")|party|||an agent has party Hungarian Social Democratic Party (an entity of type agent)|a person has party Arab Socialist Union (Iraq) (an entity of type agent)|=HYPERLINK("http://goo.gl/V2hqJ1";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/otherParty")|otherParty|||a politician has other party Communist Party of the Soviet Union (an entity of type organisation)|a person has other party Labour Party (UK) (an entity of type organisation)|=HYPERLINK("http://goo.gl/g14SHM";"View More")
+=HYPERLINK("http://dbpedia.org/property/afterParty")|afterParty|||an event has after party Estonian Reform Party|a Election has after party Ak Zhol|=HYPERLINK("http://goo.gl/CFkeKt";"View More")
+=HYPERLINK("http://dbpedia.org/property/politicalGroups")|politicalGroups|||an agent has political groups Government|an agent has political groups Vacant|=HYPERLINK("http://goo.gl/9aRpUF";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/politicalPartyInLegislature")|politicalPartyInLegislature|||an agent has political party in legislature Leader of the Opposition (Greece) (an entity of type agent)|an agent has political party in legislature Ceann Comhairle (an entity of type organisation)|=HYPERLINK("http://goo.gl/vV3kzo";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/politicalPartyOfLeader")|politicalPartyOfLeader|||an agent has political party of leader Delaware Democratic Party (an entity of type agent)|an agent has political party of leader Party of Regions (an entity of type organisation)|=HYPERLINK("http://goo.gl/7JyVrG";"View More")
+=HYPERLINK("http://dbpedia.org/property/loser")|loser|||an event has loser California Republican Party|a Election has loser California Republican Party|=HYPERLINK("http://goo.gl/PzuyUp";"View More")
+=HYPERLINK("http://dbpedia.org/property/politicalParty")|politicalParty|||a judge has political party Republican Party (United States) (an entity of type organisation)|an office holder has political party Gibraltar Social Democrats (an entity of type organisation)|=HYPERLINK("http://goo.gl/7QLuxw";"View More")
+=HYPERLINK("http://dbpedia.org/property/winner")|winner|||a region has winner ✓|a Grand Prix has winner Johnnie Parsons (an entity of type person)|=HYPERLINK("http://goo.gl/MIu8bT";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/ideology")|ideology|||an agent has ideology Religious Zionism|an agent has ideology Liberalism|=HYPERLINK("http://goo.gl/b5uTa8";"View More")
+=HYPERLINK("http://dbpedia.org/property/ideology")|ideology|||an agent has ideology Grassroot democracy|an organisation has ideology Assyrian nationalism|=HYPERLINK("http://goo.gl/sgN6Eu";"View More")
+=HYPERLINK("http://dbpedia.org/property/governmentType")|governmentType|||a country has government type Provisional government|a town has government type Council%E2%80%93manager government|=HYPERLINK("http://goo.gl/k6Q3A2";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/leaderParty")|leaderParty|||a place has leader party Croatian Peasant Party (an entity of type organisation)|a populated place has leader party Croatian Peasant Party (an entity of type agent)|=HYPERLINK("http://goo.gl/wrTEmq";"View More")
+=HYPERLINK("http://dbpedia.org/property/legislature")|legislature|||a populated place has Legislature Council of Liubech|a populated place has Legislature California State Legislature (an entity of type agent)|=HYPERLINK("http://goo.gl/dzKfAF";"View More")
+=HYPERLINK("http://dbpedia.org/property/leaderParty")|leaderParty|||a place has leader party Christian Democratic Union (Germany) (an entity of type organisation)|a populated place has leader party Socialist Party (Portugal) (an entity of type agent)|=HYPERLINK("http://goo.gl/5C7jw4";"View More")
+=HYPERLINK("http://dbpedia.org/property/oppositionParty")|oppositionParty|||a place has opposition party Russian Social Democratic Labour Party (an entity of type organisation)|a populated place has opposition party Russian Social Democratic Labour Party (an entity of type agent)|=HYPERLINK("http://goo.gl/dSdUfY";"View More")
+=HYPERLINK("http://dbpedia.org/property/politicalView")|politicalView|||a person has Political View Democrat|an agent has Political View Centre-Left|=HYPERLINK("http://goo.gl/A9cozk";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1973672910|governments|||||
+GROUP VALUES||||||
+1824|1828|1789|1832|1836||
+1840|1844|1848|1852|1856||
+1860|1864|1868|1792|1872||
+1876|1880|1884|1888|1892||
+1896|1900|1904|1908|1796||
+1912|1916|1920|1924|1928||
+1932|1936|1940|1944|1948||
+1800|1952|1956|1960|1964||
+1968|1972|1976|1980|1984||
+1988|1804|1992|1996|2000||
+2004|2008|2012|1808|1812||
+1816|1820|||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/years")|years|||an office holder has years 2005|a person has years 2005|=HYPERLINK("http://goo.gl/OBLqO3";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/formationYear")|formationYear|||an organisation has formation year 1969-12-31T22:00:00+02:00|a political party has formation year 1981-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/f4lSqi";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsEndDate")|activeYearsEndDate|||an agent has active years end date 2009-07-06+02:00|an agent has active years end date 1926-07-22+02:00|=HYPERLINK("http://goo.gl/zde24W";"View More")
+=HYPERLINK("http://dbpedia.org/property/formed")|formed|||a government agency has formed 1942-06-12+02:00|an agent has formed 2008|=HYPERLINK("http://goo.gl/7KWRdW";"View More")
+=HYPERLINK("http://dbpedia.org/property/termStart")|termStart|||an office holder has term start 16|an agent has term start 1999-10-06+02:00|=HYPERLINK("http://goo.gl/Oy34vu";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsStartDate")|activeYearsStartDate|||an office holder has active years start date 1978-03-22+02:00|an agent has active years start date 1948-08-01+02:00|=HYPERLINK("http://goo.gl/21PtuL";"View More")
+=HYPERLINK("http://dbpedia.org/property/termEnd")|termEnd|||a president has term end 14|an office holder has term end 1806|=HYPERLINK("http://goo.gl/CNY989";"View More")
+=HYPERLINK("http://dbpedia.org/property/formation")|formation|||an organisation has formation 1948|an organisation has formation October 1985|=HYPERLINK("http://goo.gl/gjDGVT";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/formationDate")|formationDate|||an organisation has formation date 1930-11-16+02:00|an organisation has formation date 2004-08-01+02:00|=HYPERLINK("http://goo.gl/3iUuKj";"View More")
+=HYPERLINK("http://dbpedia.org/property/established")|established|||an agent has established 1977|a municipality has established 1320|=HYPERLINK("http://goo.gl/fesduc";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/serviceStartYear")|serviceStartYear|||a person has service start year 1875-12-31T22:00:00+02:00|an agent has service start year 1896-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/C7B4O9";"View More")
+=HYPERLINK("http://dbpedia.org/property/startDate")|startDate|||a place has start date 1785-10-12+02:00|a place has start date 1997|=HYPERLINK("http://goo.gl/V25rPS";"View More")
+=HYPERLINK("http://dbpedia.org/property/formedyear")|formedyear|||an agent has formedyear 1973|an athlete has formedyear 1839|=HYPERLINK("http://goo.gl/2Ijk9t";"View More")
+=HYPERLINK("http://dbpedia.org/property/year")|year|||a conifer has year 2000|a species has year 2009|=HYPERLINK("http://goo.gl/yzBSQL";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsStartYear")|activeYearsStartYear|||a military unit has active years start year 1918-12-31T22:00:00+02:00|an agent has active years start year 1989-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/d9H123";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/serviceEndYear")|serviceEndYear|||an agent has service end year 1868-12-31T22:00:00+02:00|a military person has service end year 1801-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/knGhwv";"View More")
+=HYPERLINK("http://dbpedia.org/property/start")|start|||a region has start 2007|an agent has start 2005|=HYPERLINK("http://goo.gl/1EobVr";"View More")
+=HYPERLINK("http://dbpedia.org/property/establishedDate")|establishedDate|||a place has established date 1894-01-09+02:00|a populated place has established date 1253|=HYPERLINK("http://goo.gl/4Si6ZH";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearEnd")|yearEnd|||a country has year end 347|a country has year end 223|=HYPERLINK("http://goo.gl/xLdEyg";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearLeader")|yearLeader|||a populated place has year leader French zone|a place has year leader 1224|=HYPERLINK("http://goo.gl/gNp8Ys";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/activeYearsEndYear")|activeYearsEndYear|||a person has active years end year 1971-12-31T22:00:00+02:00|a musical artist has active years end year 2002-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/69Q3kl";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearStart")|yearStart|||a populated place has year start 658|a country has year start 1296|=HYPERLINK("http://goo.gl/PYf3JP";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/dissolutionYear")|dissolutionYear|||a country has dissolution year 1848-12-31T22:00:00+02:00|a place has dissolution year 1449-12-31T22:00:00+02:00|=HYPERLINK("http://goo.gl/7REz0E";"View More")
+=HYPERLINK("http://dbpedia.org/property/statYear")|statYear|||an administrative region has stat year 1823|a place has stat year 2007|=HYPERLINK("http://goo.gl/RE6rQ6";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/dissolutionDate")|dissolutionDate|||a populated place has dissolution date 1963-09-22+02:00|a country has dissolution date 1919-06-27+02:00|=HYPERLINK("http://goo.gl/Iqc9Vv";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/electionDateLeader")|electionDateLeader|||an agent has election date leader 2010-11-30+02:00|an agent has election date leader 2012-07-24+02:00|=HYPERLINK("http://goo.gl/YdzD2H";"View More")
+=HYPERLINK("http://dbpedia.org/property/foundedDate")|foundedDate|||an administrative region has founded date --02-03|a populated place has founded date --03-11|=HYPERLINK("http://goo.gl/qqtFg8";"View More")
+=HYPERLINK("http://dbpedia.org/property/startYear")|startYear|||an agent has start year 2005|a place has start year 1846|=HYPERLINK("http://goo.gl/0yCEZa";"View More")
+=HYPERLINK("http://dbpedia.org/property/lastElection")|lastElection|||an event has last election 102|an agent has last election 2009-06-06+02:00|=HYPERLINK("http://goo.gl/WzYLeN";"View More")
+=HYPERLINK("http://dbpedia.org/property/yearsactive")|yearsactive|||an agent has yearsactive 2004|an agent has yearsactive 1921|=HYPERLINK("http://goo.gl/9N6Ui8";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/startDate")|startDate|||an event has start date 2009-10-03+02:00|an event has start date 1960-09-17+02:00|=HYPERLINK("http://goo.gl/hwUO7W";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/lastElectionDate")|lastElectionDate|||an agent has last election date 2010-02-06+02:00|an organisation has last election date 2008-04-30+02:00|=HYPERLINK("http://goo.gl/Z7mrDg";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+148489175|governments|||||
+GROUP VALUES||||||
+Abraham Lincoln|Andrew Jackson|Andrew Johnson|Barack Obama|Benjamin Harrison||
+Bill Clinton|Calvin Coolidge|Chester A. Arthur|Dwight D. Eisenhower|Franklin D. Roosevelt||
+Franklin Pierce|George H. W. Bush|George Washington|George W. Bush|Gerald Ford||
+Grover Cleveland|Harry S. Truman|Herbert Hoover|James A. Garfield|James Buchanan||
+James K. Polk|James Madison|James Monroe|Jimmy Carter|John Adams||
+John F. Kennedy|John Quincy Adams|John Tyler|Lyndon B. Johnson|Martin Van Buren||
+Millard Fillmore|Richard Nixon|Ronald Reagan|Rutherford B. Hayes|Theodore Roosevelt||
+Thomas Jefferson|Ulysses S. Grant|Warren G. Harding|William Henry Harrison|William Howard Taft||
+William McKinley|Woodrow Wilson|Zachary Taylor||||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/signedpresident")|signedpresident|||||=HYPERLINK("http://goo.gl/Gp9bQS";"View More")
+=HYPERLINK("http://dbpedia.org/property/president")|president|||a person has President Suharto (an entity of type agent)|a politician has President Cemal G%C3%BCrsel (an entity of type person)|=HYPERLINK("http://goo.gl/jMZ9RK";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/president")|president|||an agent has president Grover Cleveland (an entity of type agent)|an office holder has president Jos%C3%A9 Manuel Barroso (an entity of type office holder)|=HYPERLINK("http://goo.gl/tMnWzW";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/successor")|successor|||a monarch has successor Offa of Mercia (an entity of type person)|a person has successor Faustin-Archange Touad%C3%A9ra (an entity of type agent)|=HYPERLINK("http://goo.gl/il3yal";"View More")
+=HYPERLINK("http://dbpedia.org/property/successor")|successor|||an agent has successor %C3%86thelberht of Wessex (an entity of type agent)|an agent has successor Cissa of Sussex (an entity of type agent)|=HYPERLINK("http://goo.gl/TFS935";"View More")
+=HYPERLINK("http://dbpedia.org/property/title")|title|||a person has title Jos%C3%A9 de Freitas Ribeiro (an entity of type person)|a work has title Die Eier von Satan|=HYPERLINK("http://goo.gl/rnRNwI";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1668711967|governments|||||
+GROUP VALUES||||||
+Canningite and Whig|Coalition|Conservative|Conservative and Unionist|Labour||
+Liberal|National|Tory|Whig|Whig and Peelite||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/party")|party|||a politician has party E'tedalion Party (an entity of type political party)|an agent has party Democratic Party (United States) (an entity of type organisation)|=HYPERLINK("http://goo.gl/289m4V";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/party")|party|||a person has party Golkar (an entity of type agent)|an agent has party Radical Party (France) (an entity of type organisation)|=HYPERLINK("http://goo.gl/V2hqJ1";"View More")
+=HYPERLINK("http://dbpedia.org/property/oppositionParty")|oppositionParty|||a populated place has opposition party Russian Social Democratic Labour Party (an entity of type political party)|a populated place has opposition party Socialist coalition|=HYPERLINK("http://goo.gl/dSdUfY";"View More")
+=HYPERLINK("http://dbpedia.org/property/politicalGroups")|politicalGroups|||an organisation has political groups Democratic Party (United States) (an entity of type agent)|an organisation has political groups Opposition Parties|=HYPERLINK("http://goo.gl/9aRpUF";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/otherParty")|otherParty|||a person has other party National Progressive Front (Syria) (an entity of type political party)|an office holder has other party National Republican Party (an entity of type organisation)|=HYPERLINK("http://goo.gl/g14SHM";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/politicalPartyInLegislature")|politicalPartyInLegislature|||an agent has political party in legislature Democratic Left Alliance (an entity of type agent)|an agent has political party in legislature Ceann Comhairle (an entity of type political party)|=HYPERLINK("http://goo.gl/vV3kzo";"View More")
+=HYPERLINK("http://dbpedia.org/property/otherparty")|otherparty|||an agent has otherparty National Progressive Front (Syria) (an entity of type organisation)|an office holder has otherparty National Progressive Front (Syria) (an entity of type political party)|=HYPERLINK("http://goo.gl/E1anuV";"View More")
+=HYPERLINK("http://dbpedia.org/property/politicalParty")|politicalParty|||an agent has political party Hungarian Socialist Workers' Party (an entity of type organisation)|an office holder has political party National Party of Australia (an entity of type agent)|=HYPERLINK("http://goo.gl/7QLuxw";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/politicalPartyOfLeader")|politicalPartyOfLeader|||an agent has political party of leader Institutional Revolutionary Party (an entity of type agent)|a legislature has political party of leader All People's Congress (an entity of type organisation)|=HYPERLINK("http://goo.gl/7JyVrG";"View More")
+=HYPERLINK("http://dbpedia.org/property/opponents")|opponents|||an agent has opponents Titus (an entity of type monarch)|a Playboy Playmate has opponents Diana Dors (an entity of type agent)|=HYPERLINK("http://goo.gl/rkqL4I";"View More")
+=HYPERLINK("http://dbpedia.org/property/ideology")|ideology|||an agent has ideology Antisemitism|an organisation has ideology Liberalism|=HYPERLINK("http://goo.gl/sgN6Eu";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/leader")|leader|||an organisation has leader Yasser Arafat (an entity of type politician)|an organisation has leader Carlos Gomes J%C3%BAnior (an entity of type agent)|=HYPERLINK("http://goo.gl/OCcSlP";"View More")
+=HYPERLINK("http://dbpedia.org/property/leaderParty")|leaderParty|||a place has leader party Party of the Hungarian Coalition (an entity of type political party)|a municipality has leader party Felicity Party (an entity of type political party)|=HYPERLINK("http://goo.gl/5C7jw4";"View More")
+=HYPERLINK("http://dbpedia.org/property/winner")|winner|||a sports event has winner Jimmy Bryan (an entity of type Formula One racer)|a region has winner Democratic Party|=HYPERLINK("http://goo.gl/MIu8bT";"View More")
+=HYPERLINK("http://dbpedia.org/property/legislatureStatus")|legislatureStatus|||a populated place has legislature status Coalition government (an entity of type political party)|a country has legislature status Coalition government (an entity of type organisation)|=HYPERLINK("http://goo.gl/nYrFH2";"View More")
+=HYPERLINK("http://dbpedia.org/property/legislature")|legislature|||a country has Legislature Tagsatzung (an entity of type place)|a populated place has Legislature Congress of the Dominican Republic (an entity of type organisation)|=HYPERLINK("http://goo.gl/dzKfAF";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/president")|president|||an agent has president Grover Cleveland (an entity of type agent)|a politician has president Tarja Halonen (an entity of type agent)|=HYPERLINK("http://goo.gl/tMnWzW";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/leaderParty")|leaderParty|||a populated place has leader party Lega Nord (an entity of type agent)|a populated place has leader party Lega Nord (an entity of type organisation)|=HYPERLINK("http://goo.gl/wrTEmq";"View More")
+=HYPERLINK("http://dbpedia.org/property/minister")|minister|||an organisation has minister Janet Napolitano (an entity of type agent)|a military unit has minister Janet Napolitano (an entity of type person)|=HYPERLINK("http://goo.gl/H5xIWQ";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/governmentType")|governmentType|||a country has government type Princes of the Holy Roman Empire|a populated place has government type Islamic state|=HYPERLINK("http://goo.gl/DIhDrg";"View More")
+=HYPERLINK("http://dbpedia.org/property/2ndparty")|2ndparty|||a municipality has 2ndParty Liberal Democrats (an entity of type agent)|a place has 2ndParty Green Party (UK) (an entity of type organisation)|=HYPERLINK("http://goo.gl/PJRfEu";"View More")
+=HYPERLINK("http://dbpedia.org/property/government")|government|||a region has government Freeholder Director: Robert M. Damminger|a place has government Little Rock Township, Kendall County, Illinois (an entity of type town)|=HYPERLINK("http://goo.gl/fRdy8n";"View More")
+=HYPERLINK("http://dbpedia.org/property/governmentType")|governmentType|||a populated place has government type Mayor-Council|a populated place has government type Mayor%E2%80%93council government|=HYPERLINK("http://goo.gl/k6Q3A2";"View More")
+=HYPERLINK("http://dbpedia.org/property/partyName")|partyName|||an organisation has party name Blocul Electoral Patria - Rodina|an organisation has party name 台灣團結聯盟|=HYPERLINK("http://goo.gl/ZWYqrY";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+1976585275|governments|||||
+GROUP VALUES||||||
+Andrew Bonar Law|Arthur Balfour|Benjamin Disraeli|Clement Attlee|David Cameron||
+David Lloyd George|Edward Heath|George Canning|George Grenville|Gordon Brown||
+Harold Macmillan|Harold Wilson|Henry Addington|Henry Pelham|Herbert Henry Asquith||
+James Callaghan|John Major|Lord John Russell|Lord North|Margaret Thatcher||
+Neville Chamberlain|Ramsay MacDonald|Robert Harley|Sir Alec Douglas-Home|Sir Anthony Eden||
+Sir Henry Campbell-Bannerman|Sir Robert Peel|Sir Robert Walpole|Sir Winston Churchill|Spencer Perceval||
+Stanley Baldwin|The Duke of Devonshire|The Duke of Grafton|The Duke of Newcastle|The Duke of Portland||
+The Duke of Wellington|The Earl Grey|The Earl of Aberdeen|The Earl of Bute|The Earl of Chatham||
+The Earl of Derby|The Earl of Godolphin|The Earl of Liverpool|The Earl of Rosebery|The Earl of Shelburne||
+The Earl of Wilmington|The Earl Russell|The Earl Stanhope|The Lord Grenville|The Marquess of Rockingham||
+The Marquess of Salisbury|The Viscount Goderich|The Viscount Melbourne|The Viscount Townshend|Tony Blair||
+Viscount Palmerston|William Ewart Gladstone|William Pitt the Younger|Winston Churchill|||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/ontology/successor")|successor|||a politician has successor %C5%9E%C3%BCkr%C3%BC Kaya (an entity of type person)|an office holder has successor Joaquim Pimenta de Castro (an entity of type agent)|=HYPERLINK("http://goo.gl/il3yal";"View More")
+=HYPERLINK("http://dbpedia.org/property/successor")|successor|||an agent has successor Victor de Broglie (1785%E2%80%931870) (an entity of type person)|a person has successor Liberato Pinto (an entity of type agent)|=HYPERLINK("http://goo.gl/TFS935";"View More")
+=HYPERLINK("http://dbpedia.org/property/predecessor")|predecessor|||a politician has predecessor Aristide Briand (an entity of type agent)|a president has predecessor Mustafa Kemal Atat%C3%BCrk (an entity of type person)|=HYPERLINK("http://goo.gl/YQ2v4G";"View More")
+=HYPERLINK("http://dbpedia.org/property/primeminister")|primeminister|||a president has primeminister Ahmet Fikri T%C3%BCzer (an entity of type agent)|a person has primeminister %C5%9E%C3%BCkr%C3%BC Saraco%C4%9Flu (an entity of type prime minister)|=HYPERLINK("http://goo.gl/3RvGtw";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/primeMinister")|primeMinister|||an agent has prime minister %C5%9E%C3%BCkr%C3%BC Saraco%C4%9Flu (an entity of type politician)|a politician has prime minister Recep Peker (an entity of type person)|=HYPERLINK("http://goo.gl/CcCH11";"View More")
+=HYPERLINK("http://dbpedia.org/property/chairperson")|chairperson|||an agent has chairperson Rebwar Ahmed|an organisation has chairperson Stanislaus Paysama|=HYPERLINK("http://goo.gl/UBSeoR";"View More")
+||||||
+GROUP ID|CONTEXT LABEL|||||
+110809049|movies|||||
+GROUP VALUES||||||
+Alfonso Bedoya|Ali MacGraw|Al Jolson|Al Pacino|Andy Serkis||
+Anthony Hopkins|Anthony Perkins|Arnold Schwarzenegger|Barbra Streisand|Basil Rathbone||
+Bela Lugosi|Bette Davis|Bill Murray|Brandon De Wilde|Bud Abbott||
+Charlton Heston|Cher|Clark Gable|Claude Rains|Clint Eastwood||
+Colin Clive|Cuba Gooding, Jr.|Diane Keaton|Dustin Hoffman|Edward G. Robinson||
+Estelle Reiner|Faye Dunaway|Gary Cooper|Gloria Swanson|Greta Garbo||
+Groucho Marx|Haley Joel Osment|Harrison Ford|Humphrey Bogart|Ingrid Bergman||
+Jack Nicholson|James Cagney|Joe E. Brown|Joe Mantell|John Belushi||
+Judy Garland|Katharine Hepburn|Keir Dullea|Lauren Bacall|Laurence Olivier||
+Leonardo DiCaprio|Mae West|Margaret Hamilton|Marlon Brando|Michael Douglas||
+Oliver Hardy|Orson Welles|Patrick Swayze|Pat Welsh|Peter Finch||
+Peter Sellers|Ray Liotta (voice)|Renée Zellweger|Robert Armstrong|Robert De Niro||
+Robert Duvall|Robert Hays and Leslie Nielsen|Robin Williams|Rosalind Russell|Roy Scheider||
+Sean Connery|Sidney Poitier|Strother Martin|Sylvester Stallone|Tom Cruise and Anthony Edwards||
+Tom Hanks|Vivien Leigh|Walter Brooke|Warner Baxter|Warren Beatty||
+||||||
+DBPEDIA PROPERTY|PROPERTY NAME|RATE THE RELEVANCE OF THE PROPERTY|IS THIS PROPERTY NAME A CORRECT LABEL? (mark with X)|EXAMPLE 1|EXAMPLE 2|
+=HYPERLINK("http://dbpedia.org/property/starring")|starring|||a movie has starring Big Boi (an entity of type agent)|a movie has starring %C3%89velyne Bouix (an entity of type agent)|=HYPERLINK("http://goo.gl/sTkFM1";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/starring")|starring|||a movie has starring Debby Ryan (an entity of type person)|a movie has starring James Marsden (an entity of type agent)|=HYPERLINK("http://goo.gl/j6IAd9";"View More")
+=HYPERLINK("http://dbpedia.org/property/narrator")|narrator|||a movie has narrator Gary Merrill (an entity of type person)|a work has narrator Earl Mann|=HYPERLINK("http://goo.gl/k2owCt";"View More")
+=HYPERLINK("http://dbpedia.org/ontology/narrator")|narrator|||a work has narrator Patrick Allen (an entity of type person)|a work has narrator Bill Wendell (an entity of type person)|=HYPERLINK("http://goo.gl/wEADe8";"View More")
+=HYPERLINK("http://dbpedia.org/property/quote")|quote|||an album has quote "The way she played the album to me was her original vision. She was on the right track but the record label f**ked up everything, to be honest. All the good stuff got pumped into disc two. I think that if she would have done what she had in mind it would have been better. I also think that with what she had in mind she could have sidestepped all the kind of potential comparison with Lady GaGa which, you know, at the time it was that nightmare for her. She would have done it in the smart way and she would have been renowned now, but her record label instead wanted to put her against GaGa."|an album has quote "The AC/DC music that I remember most is Highway to Hell and Back in Black, which I view as pop songs done in a very heavy ferocious way. Angus and Malcolm were writing songs that had a lot of hooks and my only job was to make a record that made people say, ‘I've missed AC/DC, and I’m glad they’re back.’"|=HYPERLINK("http://goo.gl/TVXZkW";"View More")
+||||||
