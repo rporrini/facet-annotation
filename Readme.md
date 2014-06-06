@@ -29,12 +29,13 @@ Dalla root del repository:
 ## Run degli algoritmi
 Dalla root del repository:
 
-* ```./run-algorithm.sh ALGORITHM METRIC-NAME CONTEXT MAJORITY-K```
+* ```./run-algorithm.sh KNOWLEDGE-BASE ALGORITHM METRIC-NAME CONTEXT MAJORITY-K```
 
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti.
 
 Parametri:
 
+* KNOWLEDGE-BASE: dbpedia, yago
 * ALGORITHM: majority, ml-frequency, ml-jaccard, ml-tfidf
 * METRIC-NAME: qualitative, questionnaire, trec
 * CONTEXT: with-context, without-context
