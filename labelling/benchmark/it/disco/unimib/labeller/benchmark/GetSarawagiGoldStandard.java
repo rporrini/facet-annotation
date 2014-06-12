@@ -30,7 +30,8 @@ public class GetSarawagiGoldStandard {
 			totalRelations += relations.getLength();
 			for(int i = 0; i < relations.getLength(); i++){
 				Element relationsNode = (Element)relations.item(i);
-				int columnId = Integer.parseInt(relationsNode.getAttribute("col2"));
+				int secondColumnId = Integer.parseInt(relationsNode.getAttribute("col2"));
+				int firstColumnId = Integer.parseInt(relationsNode.getAttribute("col1"));
 				NodeList singleRelations = relationsNode.getElementsByTagName("rel");
 				for(int j=0; j<singleRelations.getLength();j++){
 					Element relationNode = (Element)singleRelations.item(j);
@@ -38,14 +39,16 @@ public class GetSarawagiGoldStandard {
 					if(!relation.equalsIgnoreCase("NULL")){
 						Document table = builder.parse(tableFrom(relationFiles));
 						relationsNotInvolvingNulls++;
-						ArrayList<String> groupContent = groupContent(table, columnId);
-						String context = contextOf(table);
-						if(!context.isEmpty()){
+						ArrayList<String> groupContent = groupContent(table, firstColumnId);
+						String contextObtainedFromFirstColumn = contextOf(builder.parse(relationFiles), firstColumnId);
+						String contextObtainedFromSecondColumn = contextOf(builder.parse(relationFiles), secondColumnId);
+						if(!contextObtainedFromFirstColumn.isEmpty()){
 							relationsWithContext++;
-							File group = new File(targetDirectory + "/sarawagi_" + context + "_" + relation + "_" + relationsWithContext);
-							String sourceFile = tableFrom(relationFiles).getPath().replace("../", "");
-							groupContent.add(0, "#" + sourceFile);
-							FileUtils.writeLines(group, groupContent);
+							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent, contextObtainedFromFirstColumn);
+						}
+						if(!contextObtainedFromSecondColumn.isEmpty()){
+							relationsWithContext++;
+							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent, contextObtainedFromSecondColumn);
 						}
 					}
 				}
@@ -56,17 +59,29 @@ public class GetSarawagiGoldStandard {
 		System.out.println("Relations with context: "+ relationsWithContext);
 	}
 
-	private static String contextOf(Document table) {
+	private static void saveGroup(String targetDirectory, int relationsWithContext, File relationFiles, String relation,
+								  ArrayList<String> groupContent, String context) throws Exception {
+		File group = new File(targetDirectory + "/sarawagi_" + context + "_" + relation + "_" + relationsWithContext);
+		String sourceFile = tableFrom(relationFiles).getPath().replace("../", "");
+		groupContent.add(0, "#" + sourceFile);
+		FileUtils.writeLines(group, groupContent);
+	}
+
+	private static String contextOf(Document table, int columnId) {
 		String context = "";
-		NodeList contexts = table.getElementsByTagName("context");
-		for(int i=0; i<contexts.getLength(); i++){
-			Element contextElement = (Element)contexts.item(i);
-			Double score = Double.parseDouble(contextElement.getElementsByTagName("score").item(0).getTextContent());
-			if(score == 1.0){
-				context += contextElement.getElementsByTagName("text").item(0).getTextContent() + " ";
+		NodeList columns = table.getElementsByTagName("colAnnos");
+		for(int i = 0; i < columns.getLength(); i++){
+			Element columnElement = (Element) columns.item(i);
+			int column = Integer.parseInt(columnElement.getAttribute("col"));
+			if(column == columnId){
+				NodeList contexts = columnElement.getElementsByTagName("anno");
+				for(int j = 0; j < contexts.getLength(); j++){
+					Element contextElement = (Element) contexts.item(j);
+					context += " " + contextElement.getAttribute("name");
+				}
 			}
 		}
-		return context.trim();
+		return context.replace("_", "-");
 	}
 
 	private static ArrayList<String> groupContent(Document tablesDocument, int secondCell) {
