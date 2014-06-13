@@ -41,6 +41,16 @@ Parametri:
 * CONTEXT: with-context, without-context
 * MAJORITY-K: rapporto di accettazione di un predicato per majority vote (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
+
+* ```./run-all-algorithm.sh KNOWLEDGE-BASE METRIC-NAME```
+
+Lo script salva su file i risultati di tutti gli algoritmi a seconda della metrica e della base di conoscenza scelti.
+
+Parametri:
+
+* KNOWLEDGE-BASE: dbpedia, yago1
+* METRIC-NAME: qualitative, questionnaire, trec
+
 ## Calcolo delle metriche via trec_eval
 Dalla root del repository:
 
