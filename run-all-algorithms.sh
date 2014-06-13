@@ -33,7 +33,7 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
 
-mkdir -p evaluation/results/$2-results
+mkdir -p evaluation/results/$2-$1-results
 runAllAlgorithms $1 $2
 
 signal "Done"
