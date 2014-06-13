@@ -23,7 +23,7 @@ public class BenchmarkParameters{
 		HashMap<String, Summary> summaries = new HashMap<String, Summary>();
 		summaries.put("qualitative", new Qualitative());
 		summaries.put("questionnaire", new Questionnaire());
-		summaries.put("trec", new TrecEval(algorithm()));
+		summaries.put("trec", new TrecEval(algorithm() + threshold()));
 		return summaries.get(metricName());
 	}
 
@@ -59,7 +59,12 @@ public class BenchmarkParameters{
 		paths.put("yago1", "../evaluation/gold-standard-sarawagi-enhanced");
 		return paths.get(knowledgeBase());
 	}
-
+	
+	private String threshold() {
+		String threshold = majorityK() + "";
+		if(threshold.equals("0.0")) return "";
+		return threshold;
+	}
 	
 	private String knowledgeBase(){
 		return args[0];
