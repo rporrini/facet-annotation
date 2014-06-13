@@ -35,7 +35,7 @@ Lo script stampa su standard output i risultati dell'algoritmo a seconda della m
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago
+* KNOWLEDGE-BASE: dbpedia, yago1
 * ALGORITHM: majority, ml-frequency, ml-jaccard, ml-tfidf
 * METRIC-NAME: qualitative, questionnaire, trec
 * CONTEXT: with-context, without-context
