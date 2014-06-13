@@ -6,10 +6,10 @@ build
 *.class
 trank-indexes
 labeller-indexes
-yago*
+evaluation/yago*
+evaluation/dbpedia*
 linkedbrainz*
 geonames*
-dbpedia*
 7pixel-ontology*
 7pixel-property*
 labelling/labelling.jar
