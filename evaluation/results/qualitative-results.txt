@@ -1,0 +1,150 @@
+ 
+******* threshold 1.0 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ 
+******* threshold 0.9 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ 
+******* threshold 0.8 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ 
+******* threshold 0.7 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.6 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.5 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.4 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.3 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-science-fiction-writers|wrote|created
+ wikicategory-American-science-fiction-writers|wrote|wrote
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-country-108544813|hasCapital|participatedIn
+ wordnet-director-110014939|directed|directed
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.2 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-science-fiction-writers|wrote|created
+ wikicategory-American-science-fiction-writers|wrote|wrote
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wordnet-actor-109765278|actedIn|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-country-108544813|hasCapital|participatedIn
+ wordnet-director-110014939|directed|directed
+ wordnet-novelist-110363573|wrote|wrote
+ 
+******* threshold 0.1 *******
+
+majority
+Qualitative analysis
+CONTEXT|EXPECTED|ACTUAL
+ wikicategory-American-science-fiction-writers|wrote|created
+ wikicategory-American-science-fiction-writers|wrote|wrote
+ wikicategory-American-television-directors wikicategory-American-animators|directed|directed
+ wikicategory-American-television-writers|created|created
+ wikicategory-American-television-writers|created|created
+ wikicategory-Indian-film-directors|directed|actedIn
+ wordnet-actor-109765278|actedIn|created
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|produced
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|actedIn
+ wordnet-actor-109765278|actedIn|hasWonPrize
+ wordnet-country-108544813|hasCapital|participatedIn
+ wordnet-director-110014939|directed|directed
+ wordnet-novel-106367879|wrote|hasPredecessor
+ wordnet-novel-106367879|wrote|hasPredecessor
+ wordnet-novelist-110363573|wrote|wrote
+ wordnet-novelist-110363573|wrote|wrote
