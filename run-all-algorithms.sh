@@ -5,8 +5,8 @@ function signal(){
 }
 
 function runAlgorithm(){
-	tempFile="evaluation/results/$3-results/results-$1-$2-$5-temp.txt"
-	destination="evaluation/results/$3-results/results-$1-$2-$5.txt"
+	tempFile="evaluation/results/$3-results/$1-$2-$5-$4-temp.qrels"
+	destination="evaluation/results/$3-results/$1-$2-$5-$4.qrels"
 	./run-algorithm.sh $1 $2 $3 $4 $5 > $tempFile
 	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
 	rm $tempFile
@@ -33,7 +33,7 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
 
-mkdir evaluation/results/$2-results
+mkdir -p evaluation/results/$2-results
 runAllAlgorithms $1 $2
 
 signal "Done"
