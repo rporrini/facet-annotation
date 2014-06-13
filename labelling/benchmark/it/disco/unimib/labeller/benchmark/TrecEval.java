@@ -24,6 +24,7 @@ public class TrecEval implements Summary {
 
 	@Override
 	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
+		if(results.size() == 0) lines.add(group.id() + " Q0 notFound 1 0.0 " + name);
 		for(int i=0; i<results.size(); i++){
 			lines.add(group.id() + " Q0 " + results.get(i).value() + " " + (i+1) + " " + results.get(i).score() + " " + name);
 		}

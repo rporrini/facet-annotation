@@ -26,6 +26,8 @@ public class Qualitative implements Summary {
 	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) {
 		if(results.size() > 0)
 			track(group.context(), group.label(), results.get(0).value());
+		else
+			track(group.context(), group.label(), "notFound");
 		return this;
 	}
 
