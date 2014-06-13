@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
@@ -27,6 +28,8 @@ public class ValidateGoldStandard {
 			expectedIds.add(group.id() + "");
 		}
 		
+		Collections.sort(currentIds);
+		Collections.sort(expectedIds);
 		String previousId = currentIds.get(0);
 		int i = 0;
 		for(String id : currentIds){
