@@ -8,7 +8,6 @@ public class Run {
 		BenchmarkConfiguration configuration = parameters.configuration();
 		new Benchmark(configuration.getAlgorithm()).on(parameters.goldStandard(), summary);
 		System.out.println();
-		System.out.println(configuration.name());
 		System.out.println(summary.result());
 	}
 }
