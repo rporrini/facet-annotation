@@ -46,7 +46,7 @@ Dalla root del repository:
 
 * ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME```
 
-Lo script salva su file i risultati di tutti gli algoritmi a seconda della metrica e della base di conoscenza scelti.
+Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella results/METRIC-NAME) a seconda della metrica e della base di conoscenza scelti.
 
 Parametri:
 
