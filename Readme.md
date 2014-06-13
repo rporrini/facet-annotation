@@ -41,7 +41,7 @@ Parametri:
 * CONTEXT: with-context, without-context
 * MAJORITY-K: rapporto di accettazione di un predicato per majority vote (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
-
+Sempre dalla root del repository:
 * ```./run-all-algorithm.sh KNOWLEDGE-BASE METRIC-NAME```
 
 Lo script salva su file i risultati di tutti gli algoritmi a seconda della metrica e della base di conoscenza scelti.
