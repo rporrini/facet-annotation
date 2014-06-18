@@ -60,7 +60,7 @@ Dalla root del repository:
 
 Parametri:
 
-* GOLD-STANDARD: file formato trec del gold standard (si trova nella cartella ```evaluation/results/trec-results```)
-* RESULTS-FILE: file formato trec dei risultati degli algoritmi (vedi sopra)
+* GOLD-STANDARD: file formato trec del gold standard (si trova nella cartella ```evaluation/results/```)
+* RESULTS-FILE: file formato trec dei risultati degli algoritmi (si trova nella cartella ```evaluation/results/trec-...-results```)
 
 
