@@ -29,9 +29,9 @@ public class BenchmarkParameters{
 
 	public BenchmarkConfiguration configuration() throws Exception{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
-		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath()));
-		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath()));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(), indexPath()));
+		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), knowledgeBase()));
+		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), knowledgeBase()));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(), indexPath(), knowledgeBase()));
 		return configurations.get(algorithm());
 	}
 

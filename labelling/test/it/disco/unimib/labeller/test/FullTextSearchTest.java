@@ -21,16 +21,38 @@ import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
 public class FullTextSearchTest {
+	
+	private final String yago = "yago1";
+	private final String dbpedia = "dbpedia";
 
 	@Test
-	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteral() throws Exception {
+	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
 															.closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext())
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), dbpedia)
+							.add(new TripleBuilder()
+										.withSubject("http://france")
+										.withPredicate("http://hasCapital")
+										.withLiteral("http://paris")
+										.asTriple())
+							.closeWriter();
+		
+		assertThat(index.get("city", "any").get(0).value(), equalTo("http://hasCapital"));
+	}
+	
+	@Test
+	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteralAndKnowledgeBaseIsYago() throws Exception {
+		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
+																		.withSubject("http://paris")
+																		.withLiteral("the city of paris")
+																		.asTriple())
+															.closeWriter();
+		
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -42,8 +64,8 @@ public class FullTextSearchTest {
 	}
 	
 	@Test
-	public void simpleLiteralsShouldBeSearchable() throws Exception {
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext())
+	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
+		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		AnnotationResult searchResult = index.get("literal", "any").get(0);
@@ -57,7 +79,7 @@ public class FullTextSearchTest {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext())
+		Index dbpediaIndex = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -70,7 +92,21 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("literal", "type").get(0).value(), equalTo("property"));
+		Index yagoIndex = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), yago)
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withPredicate("http://property")
+										.withLiteral("literal")
+										.asTriple())
+							.add(new TripleBuilder()
+										.withSubject("http://another_entity")
+										.withPredicate("http://another_property")
+										.withLiteral("other literal")
+										.asTriple())
+							.closeWriter();
+		
+		assertThat(dbpediaIndex.get("literal", "type").get(0).value(), equalTo("http://property"));
+		assertThat(yagoIndex.get("literal", "type").get(0).value(), equalTo("property"));
 	}
 	
 	@Test
@@ -78,7 +114,7 @@ public class FullTextSearchTest {
 		Index index = new FullTextSearch(new RAMDirectory(), 
 										 new KeyValueStore(new RAMDirectory()).closeWriter(), 
 										 new KeyValueStore(new RAMDirectory()).closeWriter(),
-										 new RankByFrequency(), new OptionalContext())
+										 new RankByFrequency(), new OptionalContext(), "anyKnowledgeBase")
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
 										.withLiteral("the literal")
@@ -101,7 +137,7 @@ public class FullTextSearchTest {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext())
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), "anyKnowledgeBase")
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -115,14 +151,14 @@ public class FullTextSearchTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext()).closeWriter().get("a query with a special & character!", "any");
+		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext(), "anyKnowledgeBase").closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		Index types = new KeyValueStore(new RAMDirectory()).closeWriter();
 		Index labels = new KeyValueStore(new RAMDirectory()).closeWriter();
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()))
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), "anyKnowledgeBase")
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")

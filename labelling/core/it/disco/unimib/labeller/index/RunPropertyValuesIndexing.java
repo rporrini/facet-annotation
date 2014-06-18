@@ -16,6 +16,7 @@ public class RunPropertyValuesIndexing {
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
 		int concurrentThreads = Integer.parseInt(args[4]);
+		String knowledgeBase = predicatesDirectory.split("/")[0];
 		
 		LuceneBasedIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		LuceneBasedIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
@@ -24,7 +25,8 @@ public class RunPropertyValuesIndexing {
 															types, 
 															labels,
 															null, 
-															new OptionalContext());
+															new OptionalContext(),
+															knowledgeBase);
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
 			executor.execute(new Runnable() {

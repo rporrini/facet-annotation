@@ -31,11 +31,13 @@ public class GroupBySearch implements Index{
 	private IndexSearcher searcher;
 	private FullTextQuery query;
 	private Score score;
+	private String knowledgeBase;
 	
-	public GroupBySearch(Directory indexDirectory, Score score, FullTextQuery query) throws Exception{
+	public GroupBySearch(Directory indexDirectory, Score score, FullTextQuery query, String knowledgeBase) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.query = query;
 		this.score = score;
+		this.knowledgeBase = knowledgeBase;
 	}
 	
 	@Override
@@ -51,9 +53,9 @@ public class GroupBySearch implements Index{
 		String stemmedContext = stem(context);
 		new Events().debug("Got " + results.totalHits + " predicates.");
 		for(ScoreDoc result : results.scoreDocs){
-			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{label(), context()}));
+			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{label(), context(), property()}));
 			Document document = searcher.doc(result.doc, fields);
-			score.accumulate(document.getValues(label())[0], stem(StringUtils.join(document.getValues(context()), " ")), stemmedContext);
+			score.accumulate(labels(document), stem(StringUtils.join(document.getValues(context()), " ")), stemmedContext);
 		}
 		List<AnnotationResult> annotations = score.toResults();
 		score.clear();
@@ -77,6 +79,12 @@ public class GroupBySearch implements Index{
 		analyzers.put(namespace(), new KeywordAnalyzer());
 		analyzers.put(label(), new KeywordAnalyzer());
 		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
+	}
+	
+	private String labels(Document document) {
+		String field = label();
+		if(this.knowledgeBase.equals("dbpedia")) field = property();
+		return document.getValues(field)[0];
 	}
 	
 	private String label(){
