@@ -63,4 +63,12 @@ Parametri:
 * GOLD-STANDARD: file formato trec del gold standard (si trovano nella cartella ```evaluation/results/```)
 * RESULTS-FILE: file formato trec dei risultati degli algoritmi (si trovano nelle cartelle ```evaluation/results/trec-...-results```)
 
+## Calcolo delle metriche di tutti gli algoritmi via trec_eval
+Dalla root del repository:
 
+* ```./evaluate-all-results.sh KNOWLEDGE-BASE```
+
+Lo script prende tutti i risultati prodotti da ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME``` e li confronta con il gold-standard generando un file ```aggregatedResults``` contenente il confronto
+Parametri:
+
+* KNOWLEDGE-BASE: dbpedia, yago1
