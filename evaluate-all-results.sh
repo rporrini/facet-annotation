@@ -31,4 +31,4 @@ for file in "$temp/*"
 do 
 	paste $file > "$trecResultsDirectory/all-results.csv"
 done 
-rm -rf $temp
+rm -r $temp
