@@ -1,37 +1,34 @@
 #!/bin/bash
 
-function signal(){
-	echo "******* $1 *******"
-}
-
-function clean(){
-	./evaluate-results.sh $1 $goldStandard $2 | cut -f3 -d$'\t'
-}
-
-function evalAlgorithms(){
-	./evaluate-results.sh $1 $goldStandard "$trecResultsDirectory/$1-ml-jaccard--with-context.qrels" > "$trecResultsDirectory/temp/1"
-	clean $1 "$trecResultsDirectory/$1-ml-frequency--with-context.qrels" > "$trecResultsDirectory/temp/2"
-	clean $1 "$trecResultsDirectory/$1-ml-ngram--with-context.qrels" > "$trecResultsDirectory/temp/3"
-	clean $1 "$trecResultsDirectory/$1-majority-0.1-with-context.qrels" > "$trecResultsDirectory/temp/4"
-}
-
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
 
-if [ "$1" == "dbpedia" ]
+dataset=$1
+results="evaluation/results"
+if [ "$dataset" == "dbpedia" ]
 then 
-	goldStandard="evaluation/results/gold-standard.qrels"
-	trecResultsDirectory="evaluation/results/trec-dbpedia-results"
+	goldStandard="$results/gold-standard.qrels"
+	trecResultsDirectory="$results/trec-dbpedia-results"
 fi
-if [ "$1" == "yago1" ]
+if [ "$dataset" == "yago1" ]
 then
-	goldStandard="evaluation/results/gold-standard-sarawagi.qrels"
-	trecResultsDirectory="evaluation/results/trec-yago1-results"
+	goldStandard="$results/gold-standard-sarawagi.qrels"
+	trecResultsDirectory="$results/trec-yago1-results"
 fi
+temp="$trecResultsDirectory/temp"
 
-mkdir -p "$trecResultsDirectory/temp/"
-evalAlgorithms $1
-for file in "$trecResultsDirectory/temp/*"; do paste $file > "$trecResultsDirectory/aggregatedResult"; done; 
-rm -rf "$trecResultsDirectory/temp"
+mkdir -p $temp
+ls $trecResultsDirectory/*.qrels | while read file
+do
+	fileName=$(basename "$file")
+	./evaluate-results.sh $dataset $goldStandard $file | cut -f1 -d$'\t' > "$temp/0000"
+	./evaluate-results.sh $dataset $goldStandard $file | cut -f2 -d$'\t' > "$temp/0001"
+	./evaluate-results.sh $dataset $goldStandard $file | cut -f3 -d$'\t' > "$temp/$fileName"
+done
+for file in "$temp/*"
+do 
+	paste $file > "$trecResultsDirectory/all-results.csv"
+done 
+rm -rf $temp
