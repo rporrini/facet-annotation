@@ -5,14 +5,14 @@ function signal(){
 }
 
 function clean(){
-	./evaluate-results.sh $goldStandard $1 | cut -f3 -d$'\t'
+	./evaluate-results.sh $1 $goldStandard $2 | cut -f3 -d$'\t'
 }
 
 function evalAlgorithms(){
-	./evaluate-results.sh $goldStandard "$trecResultsDirectory/$1-ml-jaccard--with-context.qrels" > "$trecResultsDirectory/temp/1"
-	clean "$trecResultsDirectory/$1-ml-frequency--with-context.qrels" > "$trecResultsDirectory/temp/2"
-	clean "$trecResultsDirectory/$1-ml-ngram--with-context.qrels" > "$trecResultsDirectory/temp/3"
-	clean "$trecResultsDirectory/$1-majority-0.1-with-context.qrels" > "$trecResultsDirectory/temp/4"
+	./evaluate-results.sh $1 $goldStandard "$trecResultsDirectory/$1-ml-jaccard--with-context.qrels" > "$trecResultsDirectory/temp/1"
+	clean $1 "$trecResultsDirectory/$1-ml-frequency--with-context.qrels" > "$trecResultsDirectory/temp/2"
+	clean $1 "$trecResultsDirectory/$1-ml-ngram--with-context.qrels" > "$trecResultsDirectory/temp/3"
+	clean $1 "$trecResultsDirectory/$1-majority-0.1-with-context.qrels" > "$trecResultsDirectory/temp/4"
 }
 
 set -e
