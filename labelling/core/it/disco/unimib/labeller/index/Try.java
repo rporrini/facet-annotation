@@ -17,7 +17,7 @@ public class Try {
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard-enhanced/" + file)));
 		
 		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
-		FullTextQuery query = new OptionalContext();
+		FullTextQuery query = new MandatoryContext();
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/dbpedia/properties", "dbpedia").getAlgorithm();
 		
 		System.out.println(group.context());

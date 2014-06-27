@@ -46,7 +46,7 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		events.debug("Predicate|Values|Number of values|Average score");
 		for(String value : values.keySet()){
 			for(AnnotationResult predicate : values.get(value)){
-				predicates.add(predicate.label());
+				predicates.add(predicate.value());
 			}
 		}
 		for(String predicate : predicates){
@@ -55,7 +55,7 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 			double sum = 0;
 			for(String value : values.keySet()){
 				for(AnnotationResult result : values.get(value)){
-					if(predicate.equals(result.label())){
+					if(predicate.equals(result.value())){
 						log += value + "; ";
 						sum += result.score();
 						count++;
@@ -72,7 +72,7 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		for(String value : values.keySet()){
 			events.debug(value + " (" + values.get(value).size() + ")||");
 			for(AnnotationResult result : values.get(value)){
-				events.debug("|" + result.label() + "|" + result.score());
+				events.debug("|" + result.value() + "|" + result.score());
 			}
 		}
 	}
