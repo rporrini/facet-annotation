@@ -1,15 +1,18 @@
 package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.CountPredicates;
+import it.disco.unimib.labeller.index.DistanceMetricWrapper;
 import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.WeightedPredicates;
 
 import java.io.File;
 import java.util.HashMap;
 
 import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
+import uk.ac.shef.wit.simmetrics.similaritymetrics.QGramsDistance;
 
 public class BenchmarkParameters{
 	
@@ -31,7 +34,8 @@ public class BenchmarkParameters{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
 		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), knowledgeBase()));
 		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), knowledgeBase()));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new JaccardSimilarity()), context(), indexPath(), knowledgeBase()));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), knowledgeBase()));
+		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), knowledgeBase()));
 		return configurations.get(algorithm());
 	}
 

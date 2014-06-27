@@ -11,16 +11,8 @@ function clean(){
 function evalAlgorithms(){
 	./evaluate-results.sh $goldStandard "$trecResultsDirectory/$1-ml-jaccard--with-context.qrels" > "$trecResultsDirectory/temp/1"
 	clean "$trecResultsDirectory/$1-ml-frequency--with-context.qrels" > "$trecResultsDirectory/temp/2"
-	clean "$trecResultsDirectory/$1-majority-0.1-with-context.qrels" > "$trecResultsDirectory/temp/3"
-	clean "$trecResultsDirectory/$1-majority-0.2-with-context.qrels" > "$trecResultsDirectory/temp/4"
-	clean "$trecResultsDirectory/$1-majority-0.3-with-context.qrels" > "$trecResultsDirectory/temp/5"
-	clean "$trecResultsDirectory/$1-majority-0.4-with-context.qrels" > "$trecResultsDirectory/temp/6"
-	clean "$trecResultsDirectory/$1-majority-0.5-with-context.qrels" > "$trecResultsDirectory/temp/7"
-	clean "$trecResultsDirectory/$1-majority-0.6-with-context.qrels" > "$trecResultsDirectory/temp/8"
-	clean "$trecResultsDirectory/$1-majority-0.7-with-context.qrels" > "$trecResultsDirectory/temp/9"
-	clean "$trecResultsDirectory/$1-majority-0.8-with-context.qrels" > "$trecResultsDirectory/temp/10"
-	clean "$trecResultsDirectory/$1-majority-0.9-with-context.qrels" > "$trecResultsDirectory/temp/11"
-	clean "$trecResultsDirectory/$1-majority-1.0-with-context.qrels" > "$trecResultsDirectory/temp/12"
+	clean "$trecResultsDirectory/$1-ml-ngram--with-context.qrels" > "$trecResultsDirectory/temp/3"
+	clean "$trecResultsDirectory/$1-majority-0.1-with-context.qrels" > "$trecResultsDirectory/temp/4"
 }
 
 set -e

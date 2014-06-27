@@ -16,15 +16,7 @@ function runAlgorithm(){
 function runAllAlgorithms(){
 	runAlgorithm $1 "ml-frequency" $2 "with-context"
 	runAlgorithm $1 "ml-jaccard" $2 "with-context"
-	runAlgorithm $1 "majority" $2 "with-context" "1.0"
-	runAlgorithm $1 "majority" $2 "with-context" "0.9"
-	runAlgorithm $1 "majority" $2 "with-context" "0.8"
-	runAlgorithm $1 "majority" $2 "with-context" "0.7"
-	runAlgorithm $1 "majority" $2 "with-context" "0.6"
-	runAlgorithm $1 "majority" $2 "with-context" "0.5"
-	runAlgorithm $1 "majority" $2 "with-context" "0.4"
-	runAlgorithm $1 "majority" $2 "with-context" "0.3"
-	runAlgorithm $1 "majority" $2 "with-context" "0.2"
+	runAlgorithm $1 "ml-ngram" $2 "with-context"
 	runAlgorithm $1 "majority" $2 "with-context" "0.1"
 }
 

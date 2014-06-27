@@ -16,7 +16,7 @@ public class Try {
 		String file = "wikipedia_movies_producer_AFI's_100_Years...100_Movies_(10th_Anniversary_Edition)";
 		GoldStandardGroup group = new GoldStandardGroup(new FileSystemConnector(new File("../evaluation/gold-standard-enhanced/" + file)));
 		
-		Score score = new WeightedPredicates(new JaccardSimilarity());
+		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
 		FullTextQuery query = new OptionalContext();
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood").predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/dbpedia/properties", "dbpedia").getAlgorithm();
 		

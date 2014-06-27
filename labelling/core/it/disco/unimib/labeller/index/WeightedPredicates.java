@@ -4,14 +4,13 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import uk.ac.shef.wit.simmetrics.similaritymetrics.AbstractStringMetric;
 
 public class WeightedPredicates implements Score{
 	
 	private HashMap<String, Double> scores;
-	private AbstractStringMetric metric;
+	private SimilarityMetric metric;
 	
-	public WeightedPredicates(AbstractStringMetric metric){
+	public WeightedPredicates(SimilarityMetric metric){
 		clear();
 		this.metric = metric;
 	}
