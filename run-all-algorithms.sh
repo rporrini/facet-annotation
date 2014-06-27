@@ -5,27 +5,29 @@ function signal(){
 }
 
 function runAlgorithm(){
-	tempFile="evaluation/results/$3-$1-results/$1-$2-$5-$4-temp.qrels"
-	destination="evaluation/results/$3-$1-results/$1-$2-$5-$4.qrels"
-	./run-algorithm.sh $1 $2 $3 $4 $5 > $tempFile
+	dataset=$1
+	algorithm=$2
+	threshold=$3
+	results=evaluation/results/trec-$dataset-results
+	destination="$results/$dataset-$algorithm-$threshold-with-context.qrels"
+	tempFile="$destination.temp"
+	
+	mkdir -p $results
+	./run-algorithm.sh $dataset $algorithm trec with-context $threshold > $tempFile
 	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
 	rm $tempFile
-	signal "$2 $5 done"
-}
-
-function runAllAlgorithms(){
-	runAlgorithm $1 "ml-frequency" $2 "with-context"
-	runAlgorithm $1 "ml-jaccard" $2 "with-context"
-	runAlgorithm $1 "ml-ngram" $2 "with-context"
-	runAlgorithm $1 "majority" $2 "with-context" "0.1"
+	signal $algorithm $threshold Done
 }
 
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
+dataset=$1
 
-mkdir -p evaluation/results/$2-$1-results
-runAllAlgorithms $1 $2
+runAlgorithm $dataset ml-frequency
+runAlgorithm $dataset ml-jaccard
+runAlgorithm $dataset ml-ngram
+runAlgorithm $dataset majority 0.1
 
-signal "Done"
+signal Done
