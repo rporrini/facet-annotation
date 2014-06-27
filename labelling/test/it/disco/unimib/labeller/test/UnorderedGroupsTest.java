@@ -1,10 +1,12 @@
 package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.hasItem;
+import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.nullValue;
 import static org.junit.Assert.assertThat;
-
-import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 
 import java.io.File;
 import java.io.IOException;
@@ -37,7 +39,24 @@ public class UnorderedGroupsTest {
 		
 		assertThat(groups.length, equalTo(10));
 	}
-
+	
+	@Test
+	public void shouldReturnNullWhenAskedForANotKnownId() throws Exception {
+		
+		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory).getGroupById(1234);
+		
+		assertThat(group, is(nullValue()));
+	}
+	
+	@Test
+	public void shouldReturnTheRightGroupWhenAskedForAnExistingId() throws Exception {
+		createFiles(temporaryDirectory, 2);
+		
+		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory).getGroupById(Math.abs("file-1".hashCode()));
+		
+		assertThat(group.elements(), hasItem("content 1"));
+	}
+	
 	private void createFiles(File directory, int howMany) throws IOException {
 		for(int i=0; i<howMany; i++){
 			FileUtils.write(new File(directory, "file-" + i), "content " + i);

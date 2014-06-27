@@ -24,6 +24,14 @@ public class UnorderedGroups implements GoldStandard {
 		return groups;
 	}
 	
+	public GoldStandardGroup getGroupById(int id) {
+		GoldStandardGroup[] groups = getGroups();
+		for(GoldStandardGroup group : groups){
+			if(group.id() == id) return group;
+		}
+		return null;
+	}
+	
 	private List<FileSystemConnector> filesIn(File directory) {
 		List<FileSystemConnector> connectors = new ArrayList<FileSystemConnector>();
 		for(File file : directory.listFiles()){
