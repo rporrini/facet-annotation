@@ -44,14 +44,13 @@ Parametri:
 ## Run di tutti gli algoritmi
 Dalla root del repository:
 
-* ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME```
+* ```./run-algorithm.sh KNOWLEDGE-BASE```
 
-Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della metrica e della base di conoscenza scelti.
+Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della base di conoscenza scelta.
 
 Parametri:
 
 * KNOWLEDGE-BASE: dbpedia, yago1
-* METRIC-NAME: qualitative, questionnaire, trec
 
 ## Calcolo delle metriche via trec_eval
 Dalla root del repository:
