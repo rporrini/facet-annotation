@@ -6,5 +6,5 @@ root=`cd $relative_path;pwd`
 cd $root
 ./build.sh
 cd $root/labelling
-java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.benchmark.SplitQuestionnaire ../evaluation/results/questionnaire.ods ../evaluation/results/splitted-questionnaire/questionnaire-part
+java -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.SplitQuestionnaire ../evaluation/results/questionnaire.ods ../evaluation/results/splitted-questionnaire/questionnaire-part
 

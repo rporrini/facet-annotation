@@ -7,7 +7,7 @@ cd $root
 ./build.sh
 cd $root/labelling
 rm -rf ../evaluation/gold-standard-sarawagi
-java -cp .:'labelling.jar':'lib/*' it.disco.unimib.labeller.benchmark.GetSarawagiGoldStandard ../evaluation/gold-standard-sarawagi/ ../evaluation/tools/annotationData/
+java -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.GetSarawagiGoldStandard ../evaluation/gold-standard-sarawagi/ ../evaluation/tools/annotationData/
 cd ..
 rm -rf $root/evaluation/gold-standard-sarawagi-enhanced
 mkdir -p $root/evaluation/gold-standard-sarawagi-enhanced

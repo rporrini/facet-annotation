@@ -50,13 +50,6 @@ fi
 signal "Done"
 
 signal "Setting Up Evaluation Infrastructure"
-if [ ! -d "trank-indexes" ]; then
-	rm -rf $project/trank-indexes
-	wget "http://exascale.info/sites/default/files/uploaded/trank/trank-indexes.tgz"
-	tar xvzf trank-indexes.tgz
-	rm -f trank-indexes.tgz
-	cd ..
-fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
 	cd dbpedia-types
@@ -188,6 +181,10 @@ rm -rf $build
 mkdir -p $build
 javac -Xlint:deprecation -cp .:'lib/*' $(find ./* | grep '\.java') -d $build
 cd $build
+for file in $(find ../../lib/* | grep .jar)
+do
+	jar xf $file
+done
 jar cvfe ../../labelling.jar -C . > /dev/null
 chmod 777 ../../labelling.jar
 signal "Done"
