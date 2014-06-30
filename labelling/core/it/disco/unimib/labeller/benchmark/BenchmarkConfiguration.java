@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.Score;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
+import it.disco.unimib.labeller.labelling.InspectedPredicates;
 import it.disco.unimib.labeller.labelling.MajorityPredicate;
 import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
 import it.disco.unimib.labeller.labelling.TopK;
@@ -31,13 +32,13 @@ public class BenchmarkConfiguration{
 	
 	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index, String knowledgeBase) throws Exception{
 		Index fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, query, knowledgeBase);
-		this.algorithm = new MaximumLikelihoodPredicate(new CandidatePredicates(fts));
+		this.algorithm = new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)));
 		return this;
 	}
 	
 	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, String knowledgeBase) throws Exception{
 		Index fts = new FullTextSearch(new NIOFSDirectory(new File(index)), null, null, new RankByFrequency(), query, knowledgeBase);
-		this.algorithm = new TopK(1000, new MajorityPredicate(new CandidatePredicates(fts), threshold));
+		this.algorithm = new TopK(1000, new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold));
 		return this;
 	}
 	

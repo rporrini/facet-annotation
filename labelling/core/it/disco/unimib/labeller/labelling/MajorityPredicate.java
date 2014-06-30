@@ -9,10 +9,10 @@ import java.util.List;
 
 public class MajorityPredicate implements AnnotationAlgorithm{
 
-	private CandidatePredicates candidates;
+	private Predicates candidates;
 	private double threshold;
 
-	public MajorityPredicate(CandidatePredicates candidates, double threshold){
+	public MajorityPredicate(Predicates candidates, double threshold){
 		this.candidates = candidates;
 		this.threshold = threshold;
 	}

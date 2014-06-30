@@ -6,8 +6,7 @@ import it.disco.unimib.labeller.index.Index;
 import java.util.HashMap;
 import java.util.List;
 
-
-public class CandidatePredicates{
+public class CandidatePredicates implements Predicates{
 
 	private Index index;
 
@@ -15,6 +14,7 @@ public class CandidatePredicates{
 		this.index = index;
 	}
 
+	@Override
 	public HashMap<String, List<AnnotationResult>> forValues(String context, String[] values) throws Exception {
 		HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
 		for(String value : values){

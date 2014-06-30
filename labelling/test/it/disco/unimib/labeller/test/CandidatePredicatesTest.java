@@ -5,6 +5,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
+import it.disco.unimib.labeller.labelling.Predicates;
 
 import java.util.HashMap;
 import java.util.List;
@@ -15,7 +16,7 @@ public class CandidatePredicatesTest {
 
 	@Test
 	public void shouldReturnEmptyWhenIndexIsEmpty() throws Exception {
-		CandidatePredicates predicates = new CandidatePredicates(new IndexTestDouble());
+		Predicates predicates = new CandidatePredicates(new IndexTestDouble());
 		
 		assertThat(predicates.forValues("any", new String[]{"any"}).get("any"), empty());
 	}
