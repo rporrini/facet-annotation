@@ -1,12 +1,11 @@
 package it.disco.unimib.labeller.index;
 
 import java.io.File;
+import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
 import org.apache.commons.io.FileUtils;
-
-import edu.stanford.nlp.io.IOUtils;
 
 public class FileSystemConnector{
 	
@@ -24,7 +23,7 @@ public class FileSystemConnector{
 		return FileUtils.readLines(file);
 	}
 
-	public InputStream content() {
-		return IOUtils.openFile(file);
+	public InputStream content() throws IOException {
+		return FileUtils.openInputStream(file);
 	}
 }
