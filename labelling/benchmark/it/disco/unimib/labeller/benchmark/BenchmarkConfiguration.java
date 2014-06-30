@@ -7,13 +7,10 @@ import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.Score;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.AnnotationWithType;
-import it.disco.unimib.labeller.labelling.Annotator;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
 import it.disco.unimib.labeller.labelling.MajorityPredicate;
 import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
 import it.disco.unimib.labeller.labelling.TopK;
-import it.disco.unimib.labeller.labelling.TypeRanker;
 
 import java.io.File;
 
@@ -30,11 +27,6 @@ public class BenchmarkConfiguration{
 	
 	public String name(){
 		return name;
-	}
-	
-	public BenchmarkConfiguration typeAnnotation(Annotator annotator, TypeRanker ranker){
-		this.algorithm = new AnnotationWithType(annotator, ranker);
-		return this;
 	}
 	
 	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index, String knowledgeBase) throws Exception{
