@@ -21,9 +21,9 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]));
 		Distribution distribution = new Distribution(values);
 		
+		logHeader(context, distribution);
 		logOccurrenciesByValue(values);
 		logOccurrenciesByPredicate(values);
-		log(distribution);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		NormalizedPrior prior = new NormalizedPrior(distribution, unnormalizedPrior);
@@ -37,13 +37,20 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 			results.add(new AnnotationResult(predicate, likelihood.of(predicate)));
 		}
 		Collections.sort(results);
+		
+		new Events().debug(results);
+		
 		return results;
 	}
 
+	private void logHeader(String context, Distribution distribution) {
+		new Events().debug("CONTEXT|VALUES|PREDICATES");
+		new Events().debug(context + "|" + distribution.values().size() + "|" + distribution.predicates().size());
+	}
+
 	private void logOccurrenciesByPredicate(HashMap<String, List<AnnotationResult>> values) {
-		Events events = new Events();
 		HashSet<String> predicates = new HashSet<String>();
-		events.debug("Predicate|Values|Number of values|Average score");
+		new Events().debug("Predicate|Values|Number of values|Average score");
 		for(String value : values.keySet()){
 			for(AnnotationResult predicate : values.get(value)){
 				predicates.add(predicate.value());
@@ -62,30 +69,17 @@ public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
 					}
 				}
 			}
-			events.debug(log + "|" + count + "|" + sum/count);
+			new Events().debug(log + "|" + count + "|" + sum/count);
 		}
 	}
 
 	private void logOccurrenciesByValue(HashMap<String, List<AnnotationResult>> values) {
-		Events events = new Events();
-		events.debug("Value (Number of predicates)|Predicates|Score");
+		new Events().debug("Value (Number of predicates)|Predicates|Score");
 		for(String value : values.keySet()){
-			events.debug(value + " (" + values.get(value).size() + ")||");
+			new Events().debug(value + " (" + values.get(value).size() + ")||");
 			for(AnnotationResult result : values.get(value)){
-				events.debug("|" + result.value() + "|" + result.score());
+				new Events().debug("|" + result.value() + "|" + result.score());
 			}
-		}
-	}
-	
-	private void log(Distribution distribution) {
-		Events events = new Events();
-		events.debug("Got " + distribution.predicates().size() + " predicates over " + distribution.values().size() + " values");
-		for(String predicate : distribution.predicates()){
-			double score = 0.0;
-			for(String value : distribution.values()){
-				score+=distribution.scoreOf(predicate, value);
-			}
-			events.debug(predicate + " " + score);
 		}
 	}
 }

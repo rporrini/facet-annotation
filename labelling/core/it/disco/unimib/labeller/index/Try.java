@@ -18,10 +18,9 @@ public class Try {
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
 			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/dbpedia/properties", "dbpedia").getAlgorithm();
 		
-		GoldStandardGroup group = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/")).getGroupById(702159889);
+		GoldStandardGroup group = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/")).getGroupById(1011013747);
 		
 		System.out.println(group.context());
-		
 		List<AnnotationResult> results = maximumLikelihood.typeOf(group.context(), group.elements());	
 		for(AnnotationResult result : results){
 			System.out.println(result);

@@ -1,7 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.Events;
-
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.Arrays;
@@ -51,7 +49,6 @@ public class GroupBySearch implements Index{
 						  100000);
 		
 		String stemmedContext = stem(context);
-		new Events().debug("Got " + results.totalHits + " predicates.");
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{label(), context(), property()}));
 			Document document = searcher.doc(result.doc, fields);
