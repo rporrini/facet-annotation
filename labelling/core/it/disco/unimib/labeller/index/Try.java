@@ -14,19 +14,21 @@ public class Try {
 //		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
 //		Score score = new CountPredicates();
 		FullTextQuery query = new MandatoryContext();
+		String knowledgeBase = "dbpedia";
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
-			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/dbpedia/properties", "dbpedia").getAlgorithm();
-//			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/dbpedia/properties", "dbpedia").getAlgorithm();
+			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
+//			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
 		
-		for(int id : ids()){
+		for(int id : ids(knowledgeBase)){
 			annotate(maximumLikelihood, groups, id);
 		}
 	}
 
-	private static int[] ids(){
-		return new int[]{
+	private static int[] ids(String knowledgeBase) {
+		if(knowledgeBase.equals("dbpedia"))
+			return new int[]{
 				702159889,
 				268043830,
 				213755943,
@@ -39,6 +41,25 @@ public class Try {
 				1161561471,
 				1088443226,
 				1011013747
+		};
+		else
+			return new int[]{
+				1710161454,
+				1710161453,
+				78397110,
+				1923976096,
+				1923976121,
+				1975319113,
+				1101244520,
+				1101244644,
+				1101244490,
+				1101244607,
+				1101244518,
+				1101244615,
+				1143742855,
+				609086460,
+				423159788,
+				423159641
 		};
 	}
 	
