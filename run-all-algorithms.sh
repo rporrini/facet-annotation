@@ -28,6 +28,7 @@ dataset=$1
 runAlgorithm $dataset ml-frequency
 runAlgorithm $dataset ml-jaccard
 runAlgorithm $dataset ml-ngram
+runAlgorithm $dataset majority-hit
 runAlgorithm $dataset majority 0.1
 
 signal Done
