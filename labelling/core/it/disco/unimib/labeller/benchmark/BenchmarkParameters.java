@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.CountPredicates;
 import it.disco.unimib.labeller.index.DistanceMetricWrapper;
 import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
@@ -32,10 +33,10 @@ public class BenchmarkParameters{
 
 	public BenchmarkConfiguration configuration() throws Exception{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
-		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), knowledgeBase()));
-		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), knowledgeBase()));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), knowledgeBase()));
-		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), knowledgeBase()));
+		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		return configurations.get(algorithm());
 	}
 

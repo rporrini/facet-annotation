@@ -28,9 +28,9 @@ public class FullTextSearch extends LuceneBasedIndex{
 	private Index labels;
 	private RankingStrategy ranking;
 	private FullTextQuery query;
-	private String knowledgeBase;
+	private KnowledgeBase knowledgeBase;
 
-	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking, FullTextQuery query, String knowledgeBase) throws Exception {
+	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
@@ -50,7 +50,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 
 	@Override
 	protected String toResult(Document doc) {
-		return doc.get(searchingField());
+		return doc.get(knowledgeBase.label());
 	}
 
 	@Override
@@ -80,7 +80,7 @@ public class FullTextSearch extends LuceneBasedIndex{
 	@Override
 	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
- 		GroupingSearch groupingSearch = new GroupingSearch(searchingField());
+ 		GroupingSearch groupingSearch = new GroupingSearch(knowledgeBase.label());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
 		Query query = this.query.createQuery(type, context, literal(), context(), namespace(), analyzer());
@@ -89,11 +89,6 @@ public class FullTextSearch extends LuceneBasedIndex{
 			ids.add(group.scoreDocs[0]);
 		}
 		return ids;
-	}
-
-	private String searchingField() {
-		if(this.knowledgeBase.equals("dbpedia")) return property();
-		else return label();
 	}
 
 	private String label(){

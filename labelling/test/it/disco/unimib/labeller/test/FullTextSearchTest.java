@@ -10,6 +10,7 @@ import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.FullTextSearch;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KeyValueStore;
+import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
@@ -22,8 +23,8 @@ import org.junit.Test;
 
 public class FullTextSearchTest {
 	
-	private final String yago = "yago1";
-	private final String dbpedia = "dbpedia";
+	private final KnowledgeBase yago = new KnowledgeBase("yago1");
+	private final KnowledgeBase dbpedia = new KnowledgeBase("dbpedia");
 
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
@@ -114,7 +115,7 @@ public class FullTextSearchTest {
 		Index index = new FullTextSearch(new RAMDirectory(), 
 										 new KeyValueStore(new RAMDirectory()).closeWriter(), 
 										 new KeyValueStore(new RAMDirectory()).closeWriter(),
-										 new RankByFrequency(), new OptionalContext(), "anyKnowledgeBase")
+										 new RankByFrequency(), new OptionalContext(), new KnowledgeBase("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
 										.withLiteral("the literal")
@@ -137,7 +138,7 @@ public class FullTextSearchTest {
 		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), "anyKnowledgeBase")
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), new KnowledgeBase("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -151,14 +152,14 @@ public class FullTextSearchTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext(), "anyKnowledgeBase").closeWriter().get("a query with a special & character!", "any");
+		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		Index types = new KeyValueStore(new RAMDirectory()).closeWriter();
 		Index labels = new KeyValueStore(new RAMDirectory()).closeWriter();
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), "anyKnowledgeBase")
+		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), new KnowledgeBase("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")

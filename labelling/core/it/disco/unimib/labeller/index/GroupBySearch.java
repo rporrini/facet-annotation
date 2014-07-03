@@ -23,15 +23,14 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-
 public class GroupBySearch implements Index{
 
 	private IndexSearcher searcher;
 	private FullTextQuery query;
 	private Score score;
-	private String knowledgeBase;
+	private KnowledgeBase knowledgeBase;
 	
-	public GroupBySearch(Directory indexDirectory, Score score, FullTextQuery query, String knowledgeBase) throws Exception{
+	public GroupBySearch(Directory indexDirectory, Score score, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.query = query;
 		this.score = score;
@@ -52,7 +51,7 @@ public class GroupBySearch implements Index{
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{label(), context(), property()}));
 			Document document = searcher.doc(result.doc, fields);
-			score.accumulate(labels(document), stem(StringUtils.join(document.getValues(context()), " ")), stemmedContext);
+			score.accumulate(document.getValues(knowledgeBase.label())[0], stem(StringUtils.join(document.getValues(context()), " ")), stemmedContext);
 		}
 		List<AnnotationResult> annotations = score.toResults();
 		score.clear();
@@ -76,12 +75,6 @@ public class GroupBySearch implements Index{
 		analyzers.put(namespace(), new KeywordAnalyzer());
 		analyzers.put(label(), new KeywordAnalyzer());
 		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
-	}
-	
-	private String labels(Document document) {
-		String field = label();
-		if(this.knowledgeBase.equals("dbpedia")) field = property();
-		return document.getValues(field)[0];
 	}
 	
 	private String label(){

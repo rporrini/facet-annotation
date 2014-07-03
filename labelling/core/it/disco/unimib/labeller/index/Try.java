@@ -16,7 +16,7 @@ public class Try {
 		FullTextQuery query = new MandatoryContext();
 		String knowledgeBase = "dbpedia";
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
-			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
+			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
 //			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
