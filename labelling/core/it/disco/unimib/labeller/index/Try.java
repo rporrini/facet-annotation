@@ -16,7 +16,8 @@ public class Try {
 		FullTextQuery query = new MandatoryContext();
 		String knowledgeBase = "dbpedia";
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
-			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
+			.majorityHit(query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
+//			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
 //			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
@@ -63,10 +64,10 @@ public class Try {
 		};
 	}
 	
-	private static void annotate(AnnotationAlgorithm maximumLikelihood, UnorderedGroups groups, int id) throws Exception {
+	private static void annotate(AnnotationAlgorithm algorithm, UnorderedGroups groups, int id) throws Exception {
 		GoldStandardGroup group = groups.getGroupById(id);
 		System.out.println(group.context() + " " + id);
-		List<AnnotationResult> results = maximumLikelihood.typeOf(group.context(), group.elements());	
+		List<AnnotationResult> results = algorithm.typeOf(group.context(), group.elements());	
 		for(AnnotationResult result : results){
 			System.out.println(result);
 		}
