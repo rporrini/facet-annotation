@@ -13,7 +13,7 @@ function run(){
 	destination="$results/$dataset-$algorithm-$threshold-$context.qrels"
 	tempFile="$destination.temp"
 	mkdir -p $results
-	echo "./run-algorithm.sh $dataset $algorithm trec $context $threshold > $tempFile"
+	./run-algorithm.sh $dataset $algorithm trec $context $threshold > $tempFile
 	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
 	rm $tempFile
 	signal "$algorithm $threshold $context Done"
