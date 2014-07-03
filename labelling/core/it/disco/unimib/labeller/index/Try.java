@@ -8,15 +8,17 @@ import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import java.io.File;
 import java.util.List;
 
+import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
+
 public class Try {
 
 	public static void main(String[] args) throws Exception {
-//		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
+		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
 //		Score score = new CountPredicates();
 		FullTextQuery query = new MandatoryContext();
 		String knowledgeBase = "dbpedia";
 		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
-			.majorityHit(query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
+			.majorityHit(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
 //			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
 //			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
 		

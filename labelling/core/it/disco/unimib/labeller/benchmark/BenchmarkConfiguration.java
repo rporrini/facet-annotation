@@ -33,24 +33,40 @@ public class BenchmarkConfiguration{
 	}
 	
 	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
-		Index fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, query, knowledgeBase);
-		this.algorithm = new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)));
+		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
+		this.algorithm = maximumLikelihoodAlgorithm(fts);
 		return this;
 	}
-	
+
 	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
-		Index fts = new FullTextSearch(new NIOFSDirectory(new File(index)), null, null, new RankByFrequency(), query, knowledgeBase);
-		this.algorithm = new TopK(1000, new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold));
+		Index fts = fullTextSearchIndex(query, index, knowledgeBase);
+		this.algorithm = majorityAlgorithm(new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold));
 		return this;
 	}
 	
-	public BenchmarkConfiguration majorityHit(FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
-		Index fts = new FullTextSearch(new NIOFSDirectory(new File(index)), null, null, new RankByFrequency(), query, knowledgeBase);
-		this.algorithm = new TopK(1000, new MajorityHit(new InspectedPredicates(new CandidatePredicates(fts))));
+	public BenchmarkConfiguration majorityHit(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
+		this.algorithm = majorityAlgorithm(new MajorityHit(new InspectedPredicates(new CandidatePredicates(fts))));
 		return this;
 	}
-	
+
 	public AnnotationAlgorithm getAlgorithm(){
 		return algorithm;
+	}
+	
+	private GroupBySearch groupBySearchIndex(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+		return new GroupBySearch(new NIOFSDirectory(new File(index)), score, query, knowledgeBase);
+	}
+	
+	private FullTextSearch fullTextSearchIndex(FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+		return new FullTextSearch(new NIOFSDirectory(new File(index)), null, null, new RankByFrequency(), query, knowledgeBase);
+	}
+	
+	private MaximumLikelihoodPredicate maximumLikelihoodAlgorithm(Index fts) {
+		return new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)));
+	}
+	
+	private TopK majorityAlgorithm(AnnotationAlgorithm algorithmType) {
+		return new TopK(1000, algorithmType);
 	}
 }

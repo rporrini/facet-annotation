@@ -34,7 +34,8 @@ public class BenchmarkParameters{
 	public BenchmarkConfiguration configuration() throws Exception{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
 		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
-		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(new CountPredicates(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
