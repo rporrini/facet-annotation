@@ -4,19 +4,28 @@ function signal(){
 	echo "******* $1 *******"
 }
 
+function run(){
+	results=$1
+	dataset=$2
+	algorithm=$3
+	context=$4
+	threshold=$5
+	destination="$results/$dataset-$algorithm-$threshold-$context.qrels"
+	tempFile="$destination.temp"
+	mkdir -p $results
+	echo "./run-algorithm.sh $dataset $algorithm trec $context $threshold > $tempFile"
+	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
+	rm $tempFile
+	signal "$algorithm $threshold $context Done"
+}
+
 function runAlgorithm(){
 	dataset=$1
 	algorithm=$2
 	threshold=$3
 	results=evaluation/results/trec-$dataset-results
-	destination="$results/$dataset-$algorithm-$threshold-with-context.qrels"
-	tempFile="$destination.temp"
-	
-	mkdir -p $results
-	./run-algorithm.sh $dataset $algorithm trec with-context $threshold > $tempFile
-	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
-	rm $tempFile
-	signal $algorithm $threshold Done
+	run $results $dataset $algorithm with-context $threshold
+	run $results $dataset $algorithm without-context $threshold
 }
 
 set -e
