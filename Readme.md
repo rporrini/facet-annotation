@@ -36,15 +36,15 @@ Lo script stampa su standard output i risultati dell'algoritmo a seconda della m
 Parametri:
 
 * KNOWLEDGE-BASE: dbpedia, yago1
-* ALGORITHM: majority, ml-frequency, ml-jaccard, ml-ngram
+* ALGORITHM: majority, majority-hit, ml-frequency, ml-jaccard, ml-ngram
 * METRIC-NAME: qualitative, questionnaire, trec
 * CONTEXT: with-context, without-context
-* MAJORITY-K: rapporto di accettazione di un predicato per majority vote (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
+* MAJORITY-K: rapporto di accettazione di un predicato per majority (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
 ## Run di tutti gli algoritmi
 Dalla root del repository:
 
-* ```./run-algorithm.sh KNOWLEDGE-BASE```
+* ```./run-all-algorithms.sh KNOWLEDGE-BASE```
 
 Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della base di conoscenza scelta.
 
