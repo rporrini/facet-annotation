@@ -45,7 +45,7 @@ public class GroupBySearch implements Index{
 										  context(), 
 										  namespace(), 
 										  analyzer()),
-						  100000);
+										  1000000);
 		
 		String stemmedContext = stem(context);
 		for(ScoreDoc result : results.scoreDocs){
