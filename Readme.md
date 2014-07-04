@@ -35,7 +35,7 @@ Lo script stampa su standard output i risultati dell'algoritmo a seconda della m
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
 * ALGORITHM: majority, majority-hit, majority-hit-jaccard, ml-frequency, ml-jaccard, ml-ngram
 * METRIC-NAME: qualitative, questionnaire, trec
 * CONTEXT: with-context, without-context
@@ -50,7 +50,7 @@ Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nel
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
 
 ## Calcolo delle metriche via trec_eval
 Dalla root del repository:
@@ -59,7 +59,7 @@ Dalla root del repository:
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
 * GOLD-STANDARD: file formato trec del gold standard (si trovano nella cartella ```evaluation/results/```)
 * RESULTS-FILE: file formato trec dei risultati degli algoritmi (si trovano nelle cartelle ```evaluation/results/trec-...-results```)
 
@@ -71,4 +71,4 @@ Dalla root del repository:
 Lo script prende tutti i risultati prodotti da ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME``` e li confronta con il gold-standard generando un file ```aggregatedResults``` contenente il confronto
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
