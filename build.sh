@@ -104,47 +104,6 @@ if [ ! -d "dbpedia-raw-properties" ]; then
 	rm raw_infobox_properties_en.nt
 	cd ..
 fi
-if [ ! -d "yago-types" ]; then
-	mkdir yago-types
-	cd yago-types
-	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoTransitiveType.ttl.7z"
-	7za e yagoTransitiveType.ttl.7z
-	rm yagoTransitiveType.ttl.7z
-	grep -v "</text" yagoTransitiveType.ttl | grep -v "</comment" > yagoTransitiveType-cleaned.ttl
-	rm yagoTransitiveType.ttl
-	serdi -e -b -i turtle -o ntriples yagoTransitiveType-cleaned.ttl > yagoTransitiveType-cleanedout.nt
-	rm yagoTransitiveType-cleaned.ttl
-	cd ..
-fi
-if [ ! -d "yago-labels" ]; then
-	mkdir yago-labels
-	cd yago-labels
-	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoLabels.ttl.7z"
-	7za e yagoLabels.ttl.7z
-	rm yagoLabels.ttl.7z
-	serdi -e -b -i turtle -o ntriples yagoLabels.ttl | grep "@en" > yagoLabels.nt
-	rm yagoLabels.ttl
-	cd ..
-fi
-if [ ! -d "yago-properties" ]; then
-	mkdir yago-properties
-	cd yago-properties
-	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoFacts.ttl.7z"
-	7za e yagoFacts.ttl.7z
-	rm yagoFacts.ttl.7z
-	serdi -e -b -i turtle -o ntriples yagoFacts.ttl > yagoFacts.nt
-	rm yagoFacts.ttl
-	split -l 1000000 yagoFacts.nt yagoFacts-
-	rm yagoFacts.nt
-	wget "http://www.mpi-inf.mpg.de/yago-naga/yago/download/yago/yagoLiteralFacts.ttl.7z"
-	7za e yagoLiteralFacts.ttl.7z
-	rm yagoLiteralFacts.ttl.7z
-	serdi -e -b -i turtle -o ntriples yagoLiteralFacts.ttl > yagoLiteralFacts.nt
-	rm yagoLiteralFacts.ttl
-	split -l 1000000 yagoLiteralFacts.nt yagoLiteralFacts-
-	rm yagoLiteralFacts.nt
-	cd ..
-fi
 if [ ! -d "yago1-labels" ]; then
 	mkdir yago1
 	cd yago1
