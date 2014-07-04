@@ -21,11 +21,14 @@ function run(){
 
 function runAlgorithm(){
 	dataset=$1
-	algorithm=$2
-	threshold=$3
+	context=$2
 	results=evaluation/results/trec-$dataset-results
-	run $results $dataset $algorithm with-context $threshold
-	run $results $dataset $algorithm without-context $threshold
+	run $results $dataset ml-frequency $context
+	run $results $dataset ml-jaccard $context
+	run $results $dataset ml-ngram $context
+	run $results $dataset majority-hit $context
+	run $results $dataset majority-hit-jaccard $context
+	run $results $dataset majority $context 0.1
 }
 
 set -e
@@ -34,11 +37,7 @@ root=`cd $relative_path;pwd`
 cd $root
 dataset=$1
 
-runAlgorithm $dataset ml-frequency
-runAlgorithm $dataset ml-jaccard
-runAlgorithm $dataset ml-ngram
-runAlgorithm $dataset majority-hit
-runAlgorithm $dataset majority-hit-jaccard
-runAlgorithm $dataset majority 0.1
+runAlgorithm $dataset with-context
+runAlgorithm $dataset without-context
 
 signal Done
