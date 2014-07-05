@@ -11,7 +11,11 @@ gs=$2
 run=$3
 
 
-if [ "$dataset" == "dbpedia" || "$dataset" == "dbpedia-with-labels" ]
+if [ "$dataset" == "dbpedia" ]
+then
+	trec_eval_arguments="-M 20 -m map -m iprec_at_recall -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
+fi
+if [ "$dataset" == "dbpedia-with-labels" ]
 then
 	trec_eval_arguments="-M 20 -m map -m iprec_at_recall -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
 fi

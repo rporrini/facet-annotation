@@ -7,10 +7,15 @@ cd $root
 
 dataset=$1
 results="evaluation/results"
-if [ "$dataset" == "dbpedia" || "$dataset" == "dbpedia-with-labels"]
+if [ "$dataset" == "dbpedia" ]
 then 
 	goldStandard="$results/gold-standard.qrels"
 	trecResultsDirectory="$results/trec-dbpedia-results"
+fi
+if [ "$dataset" == "dbpedia-with-labels" ]
+then
+	goldStandard="$results/gold-standard.qrels"
+	trecResultsDirectory="$results/trec-dbpedia-with-labels-results"
 fi
 if [ "$dataset" == "yago1" ]
 then
