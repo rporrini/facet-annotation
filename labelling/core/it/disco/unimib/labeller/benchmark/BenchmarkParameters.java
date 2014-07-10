@@ -27,7 +27,7 @@ public class BenchmarkParameters{
 		HashMap<String, Summary> summaries = new HashMap<String, Summary>();
 		summaries.put("qualitative", new Qualitative());
 		summaries.put("questionnaire", new Questionnaire());
-		summaries.put("trec", new TrecEval(algorithm() + threshold()));
+		summaries.put("trec", new TrecEval(algorithm() + "-" + contextString() + threshold()));
 		return summaries.get(metricName());
 	}
 

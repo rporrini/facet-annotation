@@ -14,7 +14,7 @@ then
 fi
 if [ "$dataset" == "dbpedia-with-labels" ]
 then
-	goldStandard="$results/gold-standard.qrels"
+	goldStandard="$results/gold-standard-with-labels.qrels"
 	trecResultsDirectory="$results/trec-dbpedia-with-labels-results"
 fi
 if [ "$dataset" == "yago1" ]
