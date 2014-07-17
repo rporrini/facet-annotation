@@ -40,15 +40,6 @@ public class ContextualizedPredicates extends TripleIndex{
 	}
 
 	@Override
-	protected Analyzer analyzer() {
-		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();
-		analyzers.put(property(), new KeywordAnalyzer());
-		analyzers.put(namespace(), new KeywordAnalyzer());
-		analyzers.put(label(), new KeywordAnalyzer());
-		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
-	}
-
-	@Override
 	protected String toResult(Document doc) {
 		return doc.get(knowledgeBase.label());
 	}
@@ -91,6 +82,15 @@ public class ContextualizedPredicates extends TripleIndex{
 		return ids;
 	}
 
+	@Override
+	protected Analyzer analyzer() {
+		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();
+		analyzers.put(property(), new KeywordAnalyzer());
+		analyzers.put(namespace(), new KeywordAnalyzer());
+		analyzers.put(label(), new KeywordAnalyzer());
+		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
+	}
+	
 	private String label(){
 		return "label";
 	}

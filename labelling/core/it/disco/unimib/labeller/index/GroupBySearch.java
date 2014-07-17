@@ -37,9 +37,20 @@ public class GroupBySearch implements Index{
 		this.knowledgeBase = knowledgeBase;
 	}
 	
+	public long count(String predicate, String context) throws Exception {
+		TopDocs results = searcher.search(query.createQuery(predicate, 
+															context,
+															property(),
+															context(),
+															namespace(),
+															analyzer()),
+															1);
+		return results.totalHits;
+	}
+	
 	@Override
-	public List<AnnotationResult> get(String type, String context) throws Exception {
-		TopDocs results = searcher.search(query.createQuery(type, 
+	public List<AnnotationResult> get(String value, String context) throws Exception {
+		TopDocs results = searcher.search(query.createQuery(value, 
 										  context, 
 										  literal(), 
 										  context(), 
