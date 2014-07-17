@@ -23,9 +23,9 @@ public class GroupBySearchTest {
 		
 		new EntityValues(directory).closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new OptionalContext(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		assertThat(index.count("any", "any"), is(equalTo(0l)));
+		assertThat(index.count("any", "any", new OptionalContext()), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -40,9 +40,9 @@ public class GroupBySearchTest {
 								.add(new TripleBuilder().withPredicate("predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new OptionalContext(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		assertThat(index.count("predicate", "any"), is(equalTo(1l)));
+		assertThat(index.count("predicate", "any", new OptionalContext()), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -58,8 +58,8 @@ public class GroupBySearchTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new OptionalContext(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		assertThat(index.count("http://predicate", "any"), is(equalTo(2l)));
+		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(2l)));
 	}
 }

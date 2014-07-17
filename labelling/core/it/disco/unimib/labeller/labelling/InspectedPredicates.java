@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.FullTextQuery;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -16,8 +17,8 @@ public class InspectedPredicates implements Predicates{
 	}
 	
 	@Override
-	public HashMap<String, List<AnnotationResult>> forValues(String context, String[] values) throws Exception {
-		HashMap<String, List<AnnotationResult>> results = predicates.forValues(context, values);
+	public HashMap<String, List<AnnotationResult>> forValues(String context, String[] values, FullTextQuery query) throws Exception {
+		HashMap<String, List<AnnotationResult>> results = predicates.forValues(context, values, query);
 		logOverallStatistics(context, results);
 		logOccurrenciesByValue(results);
 		logOccurrenciesByPredicate(results);

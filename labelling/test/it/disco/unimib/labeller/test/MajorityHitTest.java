@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
 import it.disco.unimib.labeller.labelling.MajorityHit;
 
@@ -18,7 +19,8 @@ public class MajorityHitTest {
 		MajorityHit majorityHit = new MajorityHit(new CandidatePredicates(new IndexTestDouble()
 									.resultFor("2012", "predicate", 1)
 									.resultFor("2010", "predicate", 1)
-									.resultFor("2010", "other predicate", 10)));
+									.resultFor("2010", "other predicate", 10)), 
+									new OptionalContext());
 		
 		List<AnnotationResult> results = majorityHit.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -29,7 +31,8 @@ public class MajorityHitTest {
 	public void shouldCumulateHits() throws Exception {
 		MajorityHit majorityHit = new MajorityHit(new CandidatePredicates(new IndexTestDouble()
 									.resultFor("2012", "predicate", 1)
-									.resultFor("2010", "predicate", 1)));
+									.resultFor("2010", "predicate", 1)), 
+									new OptionalContext());
 
 		List<AnnotationResult> results = majorityHit.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 

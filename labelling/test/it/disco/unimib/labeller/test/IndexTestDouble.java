@@ -1,7 +1,8 @@
 package it.disco.unimib.labeller.test;
 
-import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.Index;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,7 +13,7 @@ public class IndexTestDouble implements Index{
 	private HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
 	
 	@Override
-	public List<AnnotationResult> get(String type, String context) throws Exception {
+	public List<AnnotationResult> get(String type, String context, FullTextQuery query) throws Exception {
 		List<AnnotationResult> result = results.get(type);
 		if(result == null) result = new ArrayList<AnnotationResult>();
 		return result;

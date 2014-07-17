@@ -33,19 +33,19 @@ public class BenchmarkConfiguration{
 	
 	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
-		this.algorithm = maximumLikelihoodAlgorithm(fts);
+		this.algorithm = maximumLikelihoodAlgorithm(fts, query);
 		return this;
 	}
 
 	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(new CountPredicates(), query, index, knowledgeBase);
-		this.algorithm = majorityAlgorithm(new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold));
+		this.algorithm = majorityAlgorithm(new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold, query));
 		return this;
 	}
 	
 	public BenchmarkConfiguration majorityHit(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
-		this.algorithm = majorityAlgorithm(new MajorityHit(new InspectedPredicates(new CandidatePredicates(fts))));
+		this.algorithm = majorityAlgorithm(new MajorityHit(new InspectedPredicates(new CandidatePredicates(fts)), query));
 		return this;
 	}
 
@@ -54,11 +54,11 @@ public class BenchmarkConfiguration{
 	}
 	
 	private GroupBySearch groupBySearchIndex(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
-		return new GroupBySearch(new NIOFSDirectory(new File(index)), score, query, knowledgeBase);
+		return new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
 	}
 	
-	private MaximumLikelihoodPredicate maximumLikelihoodAlgorithm(Index fts) {
-		return new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)));
+	private MaximumLikelihoodPredicate maximumLikelihoodAlgorithm(Index fts, FullTextQuery query) {
+		return new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)), query);
 	}
 	
 	private TopK majorityAlgorithm(AnnotationAlgorithm algorithmType) {

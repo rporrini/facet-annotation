@@ -26,18 +26,16 @@ import org.apache.lucene.util.Version;
 public class GroupBySearch implements Index{
 
 	private IndexSearcher searcher;
-	private FullTextQuery query;
 	private Score score;
 	private KnowledgeBase knowledgeBase;
 	
-	public GroupBySearch(Directory indexDirectory, Score score, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception{
+	public GroupBySearch(Directory indexDirectory, Score score, KnowledgeBase knowledgeBase) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
-		this.query = query;
 		this.score = score;
 		this.knowledgeBase = knowledgeBase;
 	}
 	
-	public long count(String predicate, String context) throws Exception {
+	public long count(String predicate, String context, FullTextQuery query) throws Exception {
 		TopDocs results = searcher.search(query.createQuery(predicate, 
 															context,
 															property(),
@@ -49,7 +47,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<AnnotationResult> get(String value, String context) throws Exception {
+	public List<AnnotationResult> get(String value, String context, FullTextQuery query) throws Exception {
 		TopDocs results = searcher.search(query.createQuery(value, 
 										  context, 
 										  literal(), 
