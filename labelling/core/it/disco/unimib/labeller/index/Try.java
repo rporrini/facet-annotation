@@ -19,17 +19,17 @@ public class Try {
 		ContextualizedMaximumLikelihood maximumLikelihood = new ContextualizedMaximumLikelihood(new GroupBySearch(indexDirectory, new CountPredicates(), new KnowledgeBase(knowledgeBase)));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
-		annotate(maximumLikelihood, groups, 213755943);
+//		annotate(maximumLikelihood, groups, 1088443226);
 		
-//		for(int id : ids(knowledgeBase)){
-//			annotate(maximumLikelihood, groups, id);
-//		}
+		for(int id : ids(knowledgeBase)){
+			annotate(maximumLikelihood, groups, id);
+		}
 	}
 
 	private static int[] ids(String knowledgeBase) {
 		if(knowledgeBase.equals("dbpedia"))
 			return new int[]{
-				702159889,
+				//702159889,
 				268043830,
 				213755943,
 				2125380335,

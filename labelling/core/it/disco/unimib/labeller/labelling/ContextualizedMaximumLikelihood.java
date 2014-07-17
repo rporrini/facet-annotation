@@ -8,7 +8,6 @@ import it.disco.unimib.labeller.index.PartialContext;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 
 public class ContextualizedMaximumLikelihood implements AnnotationAlgorithm{
@@ -21,20 +20,20 @@ public class ContextualizedMaximumLikelihood implements AnnotationAlgorithm{
 
 	@Override
 	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<AnnotationResult>> values = new InspectedPredicates(new CandidatePredicates(index))
-																.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext());
-		Distribution distribution = new Distribution(values);
+		InspectedPredicates predicates = new InspectedPredicates(new CandidatePredicates(index));
+		
+		Distribution optionalDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext()));
+		Distribution partialDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new PartialContext()));
+		
 		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
-		for(String predicate : distribution.predicates()){
+		for(String predicate : optionalDistribution.predicates()){
 			double score = 0;
-			for(String value : distribution.values()){
-				double frequencyOfValueAndPredicate = distribution.scoreOf(predicate, value);
-				double frequencyOfValue = distribution.totalScoreOf(value);
-				double frequencyOfPredicateInContext = index.count(predicate, context, new MandatoryContext());
-				double frequencyOfValueInContext = new Distribution(new InspectedPredicates(new CandidatePredicates(index)).forValues(context, 
-																										elements.toArray(new String[elements.size()]), 
-																										new PartialContext()))
-											.totalScoreOf(value);
+			double frequencyOfPredicateInContext = index.count(predicate, context, new MandatoryContext());
+			
+			for(String value : optionalDistribution.values()){
+				double frequencyOfValueAndPredicate = optionalDistribution.scoreOf(predicate, value);
+				double frequencyOfValue = optionalDistribution.totalScoreOf(value);
+				double frequencyOfValueInContext = partialDistribution.totalScoreOf(value);
 				double numerator = frequencyOfValueAndPredicate * frequencyOfValueInContext;
 				double denominator = frequencyOfValue * frequencyOfPredicateInContext;
 				
