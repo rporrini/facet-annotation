@@ -11,7 +11,6 @@ import it.disco.unimib.labeller.index.ContextualizedPredicates;
 import it.disco.unimib.labeller.index.CountPredicates;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
-import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
@@ -23,13 +22,11 @@ import java.util.List;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class ContextualizedMaximumLikelihoodTest {
 
 	@Test
-	@Ignore
 	public void exampleCase() throws Exception {
 		Directory directory = new RAMDirectory();
 		TripleIndex types = new EntityValues(directory).add(new TripleBuilder().withSubject("http://a_novelist")
@@ -79,8 +76,8 @@ public class ContextualizedMaximumLikelihoodTest {
 															.withLiteral("2015").asTriple())
 									.closeWriter();
 		
-		Index index = new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia"));
-		List<AnnotationResult> results = new ContextualizedMaximumLikelihood(index ).typeOf("movie", Arrays.asList(new String[]{"2009", "2010", "2014"}));
+		GroupBySearch index = new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia"));
+		List<AnnotationResult> results = new ContextualizedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
 		
 		assertThat(results, is(not(empty())));
 		assertThat(results, hasSize(3));

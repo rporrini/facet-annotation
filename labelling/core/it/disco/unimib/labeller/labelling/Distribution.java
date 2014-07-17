@@ -25,6 +25,14 @@ public class Distribution{
 		return score;
 	}
 	
+	public double totalScoreOf(String value){
+		double result = 0;
+		for(String predicate : predicates()){
+			result+=scoreOf(predicate, value);
+		}
+		return result;
+	}
+	
 	public Set<String> predicates(){
 		return scores.keySet();
 	}
