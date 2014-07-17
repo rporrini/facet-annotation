@@ -3,9 +3,9 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.LuceneBasedIndex;
+import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.AcceptAll;
-import it.disco.unimib.labeller.index.KeyValueStore;
+import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.MatchingPredicate;
 import it.disco.unimib.labeller.index.Triples;
 
@@ -17,7 +17,7 @@ public class TriplesTest {
 
 	@Test
 	public void shouldFillTheIndex() throws Exception {
-		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
+		TripleIndex index = new EntityValues(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble().withLine(
 									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
@@ -28,7 +28,7 @@ public class TriplesTest {
 	
 	@Test
 	public void shouldAddOnlyMatchingPredicates() throws Exception {
-		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
+		TripleIndex index = new EntityValues(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
@@ -42,7 +42,7 @@ public class TriplesTest {
 	public void shouldSkipStrangeLines() throws Exception {
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine("曲：[http://musicbrainz.org/artist/a223958d-5c56-4b2c-a30a-87e357bc121b.html|周杰倫]"))
-					.fill(new KeyValueStore(new RAMDirectory()), new AcceptAll());
+					.fill(new EntityValues(new RAMDirectory()), new AcceptAll());
 	}
 	
 	@Test(timeout = 1000)
@@ -51,12 +51,12 @@ public class TriplesTest {
 							.withLine("Inaccurate ARs:")
 							.withLine("")
 							.withLine("    * 混音助理 means \"mixing assistant\", but is credited as \"co-mixer\".\" ."))
-					.fill(new KeyValueStore(new RAMDirectory()), new AcceptAll());
+					.fill(new EntityValues(new RAMDirectory()), new AcceptAll());
 	}
 	
 	@Test
 	public void shouldIndexAlsoWithSpaces() throws Exception {
-		LuceneBasedIndex index = new KeyValueStore(new RAMDirectory());
+		TripleIndex index = new EntityValues(new RAMDirectory());
 		new Triples(new FileSystemConnectorTestDouble()
 							.withLine("<http://1234> <http://predicate> <http://uri with space> ."))
 					.fill(index, new AcceptAll());

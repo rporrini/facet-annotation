@@ -7,34 +7,34 @@ import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.index.FullTextSearch;
-import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.KeyValueStore;
+import it.disco.unimib.labeller.index.EntityValues;
+import it.disco.unimib.labeller.index.ContextualizedPredicates;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SpecificNamespace;
+import it.disco.unimib.labeller.index.TripleIndex;
 
 import java.util.List;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class FullTextSearchTest {
+public class ContextualizedPredicatesTest {
 	
 	private final KnowledgeBase yago = new KnowledgeBase("yago1");
 	private final KnowledgeBase dbpedia = new KnowledgeBase("dbpedia");
 
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
-		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
+		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
 															.closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), dbpedia)
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -47,13 +47,13 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteralAndKnowledgeBaseIsYago() throws Exception {
-		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder()
+		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
 															.closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -66,7 +66,7 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
-		Index index = new FullTextSearch(new RAMDirectory(), new KeyValueStore(new RAMDirectory()).closeWriter(), new KeyValueStore(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		AnnotationResult searchResult = index.get("literal", "any").get(0);
@@ -77,10 +77,10 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void theTypeOfTheSubjectShouldBeSearchableAsContextAndProvideMoreDetailedRanking() throws Exception {
-		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
-		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
+		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
+		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index dbpediaIndex = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), dbpedia)
+		TripleIndex dbpediaIndex = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -93,7 +93,7 @@ public class FullTextSearchTest {
 										.asTriple())
 							.closeWriter();
 		
-		Index yagoIndex = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex yagoIndex = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -112,9 +112,9 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void shouldGroupByPredicate() throws Exception {
-		Index index = new FullTextSearch(new RAMDirectory(), 
-										 new KeyValueStore(new RAMDirectory()).closeWriter(), 
-										 new KeyValueStore(new RAMDirectory()).closeWriter(),
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), 
+										 new EntityValues(new RAMDirectory()).closeWriter(), 
+										 new EntityValues(new RAMDirectory()).closeWriter(),
 										 new RankByFrequency(), new OptionalContext(), new KnowledgeBase("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
@@ -135,10 +135,10 @@ public class FullTextSearchTest {
 	
 	@Test
 	public void theContextShouldBeStemmedForEnglish() throws Exception {
-		Index labels = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
-		Index types = new KeyValueStore(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
+		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
+		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), new KnowledgeBase("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -152,14 +152,14 @@ public class FullTextSearchTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new FullTextSearch(new RAMDirectory(), null, null, null, new OptionalContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
+		new ContextualizedPredicates(new RAMDirectory(), null, null, null, new OptionalContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
-		Index types = new KeyValueStore(new RAMDirectory()).closeWriter();
-		Index labels = new KeyValueStore(new RAMDirectory()).closeWriter();
-		Index index = new FullTextSearch(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
+		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
+		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), new KnowledgeBase("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")

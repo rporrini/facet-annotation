@@ -22,15 +22,15 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.BytesRef;
 import org.apache.lucene.util.Version;
 
-public class FullTextSearch extends LuceneBasedIndex{
+public class ContextualizedPredicates extends TripleIndex{
 
-	private Index types;
-	private Index labels;
+	private TripleIndex types;
+	private TripleIndex labels;
 	private RankingStrategy ranking;
 	private FullTextQuery query;
 	private KnowledgeBase knowledgeBase;
 
-	public FullTextSearch(Directory directory, Index types, Index labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
+	public ContextualizedPredicates(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;

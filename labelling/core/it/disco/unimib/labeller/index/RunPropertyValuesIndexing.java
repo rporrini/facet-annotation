@@ -18,10 +18,10 @@ public class RunPropertyValuesIndexing {
 		int concurrentThreads = Integer.parseInt(args[4]);
 		String knowledgeBase = predicatesDirectory.split("/")[0];
 		
-		LuceneBasedIndex types = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		LuceneBasedIndex labels = new KeyValueStore(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		TripleIndex types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
+		TripleIndex labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
-		final FullTextSearch predicates = new FullTextSearch(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
+		final ContextualizedPredicates predicates = new ContextualizedPredicates(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
 															types, 
 															labels,
 															null, 

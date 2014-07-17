@@ -16,9 +16,9 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 
-public class KeyValueStore extends LuceneBasedIndex {
+public class EntityValues extends TripleIndex {
 
-	public KeyValueStore(Directory directory) throws Exception {
+	public EntityValues(Directory directory) throws Exception {
 		super(directory);
 	}
 	

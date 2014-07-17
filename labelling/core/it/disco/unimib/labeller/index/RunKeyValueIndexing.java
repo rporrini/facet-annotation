@@ -11,7 +11,7 @@ public class RunKeyValueIndexing {
 		String destination = args[1];
 		String predicate = args[2];
 		
-		LuceneBasedIndex index = new KeyValueStore(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
+		TripleIndex index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
 			new Triples(new FileSystemConnector(file)).fill(index, new MatchingPredicate(predicate));

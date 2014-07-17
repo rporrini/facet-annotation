@@ -14,17 +14,16 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-public abstract class LuceneBasedIndex implements Index{
+public abstract class TripleIndex{
 
 	private IndexWriter writer;
 	private Directory directory;
 	private DirectoryReader reader;
 
-	public LuceneBasedIndex(Directory directory) throws Exception{
+	public TripleIndex(Directory directory) throws Exception{
 		this.directory = directory;
 	}
 
-	@Override
 	public List<AnnotationResult> get(String type, String context) throws Exception {
 		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
@@ -35,17 +34,17 @@ public abstract class LuceneBasedIndex implements Index{
 		return results;
 	}
 
-	public Index closeWriter() throws Exception {
+	public TripleIndex closeWriter() throws Exception {
 		openWriter().close();
 		return this;
 	}
 	
-	public Index closeReader() throws Exception {
+	public TripleIndex closeReader() throws Exception {
 		this.reader.close();
 		return this;
 	}
 	
-	public LuceneBasedIndex add(NTriple triple) throws Exception {
+	public TripleIndex add(NTriple triple) throws Exception {
 		openWriter().addDocument(toDocument(triple));
 		return this;
 	}
