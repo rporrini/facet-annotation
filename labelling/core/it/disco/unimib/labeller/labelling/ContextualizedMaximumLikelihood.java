@@ -4,6 +4,7 @@ import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.PartialContext;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -20,7 +21,7 @@ public class ContextualizedMaximumLikelihood implements AnnotationAlgorithm{
 
 	@Override
 	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<AnnotationResult>> values = new CandidatePredicates(index)
+		HashMap<String, List<AnnotationResult>> values = new InspectedPredicates(new CandidatePredicates(index))
 																.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext());
 		Distribution distribution = new Distribution(values);
 		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
@@ -30,14 +31,14 @@ public class ContextualizedMaximumLikelihood implements AnnotationAlgorithm{
 				double frequencyOfValueAndPredicate = distribution.scoreOf(predicate, value);
 				double frequencyOfValue = distribution.totalScoreOf(value);
 				double frequencyOfPredicateInContext = index.count(predicate, context, new MandatoryContext());
-				double frequencyOfValueInContext = new Distribution(new CandidatePredicates(index).forValues(context, 
+				double frequencyOfValueInContext = new Distribution(new InspectedPredicates(new CandidatePredicates(index)).forValues(context, 
 																										elements.toArray(new String[elements.size()]), 
-																										new MandatoryContext()))
+																										new PartialContext()))
 											.totalScoreOf(value);
 				double numerator = frequencyOfValueAndPredicate * frequencyOfValueInContext;
 				double denominator = frequencyOfValue * frequencyOfPredicateInContext;
 				
-				if(denominator != 0){		
+				if(denominator != 0){
 					score += Math.log((numerator/denominator) + 1.0);
 				}
 			}

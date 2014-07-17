@@ -1,32 +1,29 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.benchmark.BenchmarkConfiguration;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
+import it.disco.unimib.labeller.labelling.ContextualizedMaximumLikelihood;
 
 import java.io.File;
 import java.util.List;
 
-import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
+import org.apache.lucene.store.NIOFSDirectory;
 
 public class Try {
 
 	public static void main(String[] args) throws Exception {
-		Score score = new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity()));
-//		Score score = new CountPredicates();
-		FullTextQuery query = new MandatoryContext();
 		String knowledgeBase = "dbpedia";
-		AnnotationAlgorithm maximumLikelihood = new BenchmarkConfiguration("maximum likelihood")
-			.majorityHit(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
-//			.majorityAnnotation(0.1, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", new KnowledgeBase(knowledgeBase)).getAlgorithm();
-//			.predicateAnnotationWithCustomGrouping(score, query, "../evaluation/labeller-indexes/" + knowledgeBase + "/properties", knowledgeBase).getAlgorithm();
+		
+		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
+		ContextualizedMaximumLikelihood maximumLikelihood = new ContextualizedMaximumLikelihood(new GroupBySearch(indexDirectory, new CountPredicates(), new KnowledgeBase(knowledgeBase)));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
+		annotate(maximumLikelihood, groups, 213755943);
 		
-		for(int id : ids(knowledgeBase)){
-			annotate(maximumLikelihood, groups, id);
-		}
+//		for(int id : ids(knowledgeBase)){
+//			annotate(maximumLikelihood, groups, id);
+//		}
 	}
 
 	private static int[] ids(String knowledgeBase) {
