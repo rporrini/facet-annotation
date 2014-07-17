@@ -52,6 +52,17 @@ Parametri:
 
 * KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
 
+## Run di tutti gli algoritmi matchando il contesto parzialmente
+Dalla root del repository:
+
+* ```./run-all-algorithms-with-partial-context.sh KNOWLEDGE-BASE```
+
+Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della base di conoscenza scelta.
+
+Parametri:
+
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
+
 ## Calcolo delle metriche via trec_eval
 Dalla root del repository:
 
