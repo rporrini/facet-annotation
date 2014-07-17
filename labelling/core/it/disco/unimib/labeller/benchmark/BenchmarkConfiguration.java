@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.Score;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
+import it.disco.unimib.labeller.labelling.ContextualizedMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.InspectedPredicates;
 import it.disco.unimib.labeller.labelling.MajorityHit;
 import it.disco.unimib.labeller.labelling.MajorityPredicate;
@@ -29,6 +30,12 @@ public class BenchmarkConfiguration{
 	
 	public String name(){
 		return name;
+	}
+	
+	public BenchmarkConfiguration predicateAnnotationWithContextualMaximumLikelihood(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = groupBySearchIndex(score, query, index, knowledgeBase);
+		this.algorithm = contextualizedMaximumLikelihoodAlgorithm(fts);
+		return this;
 	}
 	
 	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
@@ -55,6 +62,10 @@ public class BenchmarkConfiguration{
 	
 	private GroupBySearch groupBySearchIndex(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		return new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+	}
+	
+	private AnnotationAlgorithm contextualizedMaximumLikelihoodAlgorithm(GroupBySearch fts) {
+		return new ContextualizedMaximumLikelihood(fts);
 	}
 	
 	private MaximumLikelihoodPredicate maximumLikelihoodAlgorithm(Index fts, FullTextQuery query) {

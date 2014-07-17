@@ -6,6 +6,7 @@ import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.WeightedPredicates;
 
@@ -38,6 +39,7 @@ public class BenchmarkParameters{
 		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
+		configurations.put("cml", new BenchmarkConfiguration("cml").predicateAnnotationWithContextualMaximumLikelihood(new CountPredicates(), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), new KnowledgeBase(knowledgeBase())));
 		return configurations.get(algorithm());
 	}
@@ -50,6 +52,7 @@ public class BenchmarkParameters{
 		HashMap<String, FullTextQuery> contexts = new HashMap<String, FullTextQuery>();
 		contexts.put("with-context", new MandatoryContext());
 		contexts.put("without-context", new OptionalContext());
+		contexts.put("with-partial-context", new PartialContext());
 		return contexts.get(contextString());
 	}
 	

@@ -39,12 +39,29 @@ public class GroupBySearchTest {
 									new RankByFrequency(),
 									new OptionalContext(),
 									new KnowledgeBase("dbpedia"))
-								.add(new TripleBuilder().withPredicate("predicate").asTriple())
+								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		assertThat(index.count("predicate", "any", new OptionalContext()), is(equalTo(1l)));
+		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(1l)));
+	}
+	
+	@Test
+	public void shouldGiveOneResultWhenMatchesAPredicateConsideringLabels() throws Exception {
+		Directory directory = new RAMDirectory();
+		new ContextualizedPredicates(directory, 
+									new EntityValues(new RAMDirectory()).closeWriter(),
+									new EntityValues(new RAMDirectory()).closeWriter(),
+									new RankByFrequency(),
+									new OptionalContext(),
+									new KnowledgeBase("dbpedia-with-labels"))
+								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+								.closeWriter();
+		
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		
+		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(1l)));
 	}
 	
 	@Test
