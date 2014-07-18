@@ -12,8 +12,8 @@ build=$project/build/classes
 
 cd $root/evaluation
 signal "Setting Up Environment"
-sudo apt-get install python python-pip bzip2 p7zip-full
-sudo pip install rdflib
+#sudo apt-get install python python-pip bzip2 p7zip-full
+#sudo pip install rdflib
 
 if ! command -v trec_eval ; then
 	cd tools
