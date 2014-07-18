@@ -12,14 +12,9 @@ build=$project/build/classes
 
 cd $root/evaluation
 signal "Setting Up Environment"
-if ! command -v python ; then
-	sudo apt-get install python
-	curl --silent --show-error --retry 5 https://raw.github.com/pypa/pip/master/contrib/get-pip.py | sudo python
-	sudo pip install rdflib
-fi
-if ! command -v bzip2 ; then
-	sudo apt-get install bzip2
-fi
+sudo apt-get install python python-pip bzip2 p7zip-full
+sudo pip install rdflib
+
 if ! command -v trec_eval ; then
 	cd tools
 	wget http://trec.nist.gov/trec_eval/trec_eval_latest.tar.gz
@@ -31,21 +26,6 @@ if ! command -v trec_eval ; then
 	cd ..
 	rm trec_eval_latest.tar.gz	
 	cd ..
-fi
-if ! command -v serdi ; then
-	cd tools
-	wget http://download.drobilla.net/serd-0.18.2.tar.bz2
-	tar jxf serd-0.18.2.tar.bz2
-	rm serd-0.18.2.tar.bz2
-	cd serd-0.18.2
-	sudo chmod 777 INSTALL
-	set +e	
-	./INSTALL
-	set -e
-	cd ..
-fi
-if ! command -v 7za ; then
-	sudo apt-get install p7zip-full
 fi
 signal "Done"
 
