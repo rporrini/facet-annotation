@@ -38,7 +38,7 @@ Parametri:
 * KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
 * ALGORITHM: majority, majority-hit, majority-hit-jaccard, ml-frequency, ml-jaccard, ml-ngram
 * METRIC-NAME: qualitative, questionnaire, trec
-* CONTEXT: with-context, without-context
+* CONTEXT: with-context, without-context, with-partial-context
 * MAJORITY-K: rapporto di accettazione di un predicato per majority (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
 ## Run di tutti gli algoritmi
