@@ -1,13 +1,3 @@
-******* Setting Up Environment *******
-/usr/local/bin/trec_eval
-******* Done *******
-******* Setting Up Evaluation Infrastructure *******
-******* Done *******
-******* Building Project *******
-******* Done *******
-******* Running Benchmark *******
-
-
 1689442184|movies|=HYPERLINK("http://www.imdb.com/genre", "View context")
 Action|Adventure|Animation|Biography|Comedy
 Crime|Documentary|Drama|Family|Fantasy
@@ -11419,4 +11409,3 @@ Michael Shea|Neil Patrick Harris|Pamela Fryman|Rob Greenberg
 =HYPERLINK("http://dbpedia.org/property/decidedate")|decidedate| |=HYPERLINK("http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fsubject+%3Fobject+where+{%3Fsubject+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2Fdecidedate%3E+%3Fobject}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on", "View on DBPedia")
 =HYPERLINK("http://dbpedia.org/property/blankInfo")|blankInfo| |=HYPERLINK("http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fsubject+%3Fobject+where+{%3Fsubject+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2FblankInfo%3E+%3Fobject}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on", "View on DBPedia")
 =HYPERLINK("http://dbpedia.org/property/mmaDraw")|mmaDraw| |=HYPERLINK("http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=select+distinct+%3Fsubject+%3Fobject+where+{%3Fsubject+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2FmmaDraw%3E+%3Fobject}+LIMIT+100&format=text%2Fhtml&timeout=30000&debug=on", "View on DBPedia")
-******* Done *******
