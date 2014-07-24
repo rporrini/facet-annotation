@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.test;
 
-import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.ContextualizedPredicates;
@@ -14,6 +14,7 @@ import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
 import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.PredicateAndValueWeight;
 import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
 
 import java.util.Arrays;
@@ -21,34 +22,35 @@ import java.util.List;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class MajorityHitWeightedTest {
 
-	@Test
-	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {
-		Directory directory = buildIndex();
-		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
-		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateAndContextWeight(index));
-		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
-		
-		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
-	}
-	
 	@Test
 	public void shouldOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight());
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), equalTo(results.get(1).score()));
+	}
+	
+	@Test
+	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateAndContextWeight(index), new PredicateWithoutWeight());
+		
+		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
 
 	private Directory buildIndex() throws Exception {

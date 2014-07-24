@@ -44,8 +44,8 @@ public class PredicateAndContextWeightTest {
 		
 		PredicateAndContextWeight predicateAndContextWeight = new PredicateAndContextWeight(new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia")));
 		
-		double discriminacyMatchingContext = predicateAndContextWeight.discriminacy("predicate", "context", 1);
-		double discriminacyNonMatchingContext = predicateAndContextWeight.discriminacy("predicate", "non matching context", 1);
+		double discriminacyMatchingContext = predicateAndContextWeight.discriminacy("predicate", "context", 1, null);
+		double discriminacyNonMatchingContext = predicateAndContextWeight.discriminacy("predicate", "non matching context", 1, null);
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 

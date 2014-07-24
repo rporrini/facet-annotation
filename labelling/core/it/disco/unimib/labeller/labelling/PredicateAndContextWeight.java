@@ -12,7 +12,7 @@ public class PredicateAndContextWeight implements PredicateWeight{
 	}
 	
 	@Override
-	public double discriminacy(String predicate, String context, double frequencyOfPredicate) throws Exception{
+	public double discriminacy(String predicate, String context, double frequencyOfPredicate, Distribution distribution) throws Exception{
 		double frequencyOfPredicateAndContext = index.count(predicate, context, new MandatoryContext());
 		return Math.log((frequencyOfPredicateAndContext/frequencyOfPredicate) + 1.1);
 	}
