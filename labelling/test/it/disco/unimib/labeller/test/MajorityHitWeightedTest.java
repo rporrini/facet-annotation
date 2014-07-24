@@ -14,7 +14,6 @@ import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
 import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
-import it.disco.unimib.labeller.labelling.PredicateAndValueWeight;
 import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
 
 import java.util.Arrays;
@@ -22,7 +21,6 @@ import java.util.List;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class MajorityHitWeightedTest {

@@ -11,8 +11,11 @@ import it.disco.unimib.labeller.labelling.CandidatePredicates;
 import it.disco.unimib.labeller.labelling.ContextualizedMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.InspectedPredicates;
 import it.disco.unimib.labeller.labelling.MajorityHit;
+import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
 import it.disco.unimib.labeller.labelling.MajorityPredicate;
 import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
+import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.PredicateAndValueWeight;
 import it.disco.unimib.labeller.labelling.TopK;
 
 import java.io.File;
@@ -47,6 +50,12 @@ public class BenchmarkConfiguration{
 	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(new CountPredicates(), query, index, knowledgeBase);
 		this.algorithm = majorityAlgorithm(new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold, query));
+		return this;
+	}
+	
+	public BenchmarkConfiguration weightedMajorityHit(Score score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = groupBySearchIndex(score, query, index, knowledgeBase);
+		this.algorithm = majorityAlgorithm(new MajorityHitWeighted(fts, new PredicateAndContextWeight(fts), new PredicateAndValueWeight())); 
 		return this;
 	}
 	
