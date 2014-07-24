@@ -13,11 +13,6 @@ public class MajorityHitWeighted implements AnnotationAlgorithm{
 	private GroupBySearch index;
 	private PredicateWeight predicateWeight;
 
-	public MajorityHitWeighted(GroupBySearch index) {
-		this.index = index;
-		this.predicateWeight = new PredicateWeight();
-	}
-	
 	public MajorityHitWeighted(GroupBySearch index, PredicateWeight predicateWeight) {
 		this.index = index;
 		this.predicateWeight = predicateWeight;
@@ -31,12 +26,12 @@ public class MajorityHitWeighted implements AnnotationAlgorithm{
 		
 		for(String predicate : distribution.predicates()){
 			double score = 0;
-			double predicateInContextDiscriminacy = predicateWeight.predicateInContextDiscriminacy(predicate, context);
+			double frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
+			double predicateDiscriminacy = predicateWeight.discriminacy(predicate, context, frequencyOfPredicate);
 			for(String value : distribution.values()){
-				double predicateAndValueDiscriminacy = predicateWeight.predicateAndValueDiscriminacy(predicate, value, distribution);
-				score += distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy;
+				score += distribution.scoreOf(predicate, value);
 			}
-			results.add(new AnnotationResult(predicate, score * predicateInContextDiscriminacy));
+			results.add(new AnnotationResult(predicate, score * predicateDiscriminacy));
 		}
 		Collections.sort(results);
 		return results;

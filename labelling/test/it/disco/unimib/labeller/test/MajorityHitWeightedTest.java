@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.test;
 
-import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
+import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnnotationResult;
 import it.disco.unimib.labeller.index.ContextualizedPredicates;
@@ -13,7 +13,8 @@ import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
-import it.disco.unimib.labeller.labelling.PredicateWeight;
+import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
 
 import java.util.Arrays;
 import java.util.List;
@@ -25,12 +26,12 @@ import org.junit.Test;
 public class MajorityHitWeightedTest {
 
 	@Test
-	public void shouldOrderConsideringOnlyContextDiscriminacy() throws Exception {
+	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {
 		Directory directory = buildIndex();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWeight(index, false));
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateAndContextWeight(index));
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -38,12 +39,12 @@ public class MajorityHitWeightedTest {
 	}
 	
 	@Test
-	public void shouldOrderWithoutWeightingForPredicate() throws Exception {
+	public void shouldOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index);
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -67,13 +68,13 @@ public class MajorityHitWeightedTest {
 									new RankByFrequency(),
 									new OptionalContext(),
 									new KnowledgeBase("dbpedia"))
-								.add(new TripleBuilder().withSubject("a_subject")
-														.withPredicate("predicate")
-														.withLiteral("value").asTriple())
-								.add(new TripleBuilder().withSubject("a_subject_without_context")
-														.withPredicate("predicate_without_context")
-														.withLiteral("value").asTriple())
-								.closeWriter();
+										.add(new TripleBuilder().withSubject("a_subject")
+																.withPredicate("predicate")
+																.withLiteral("value").asTriple())
+										.add(new TripleBuilder().withSubject("a_subject_without_context")
+																.withPredicate("predicate_without_context")
+																.withLiteral("value").asTriple())
+										.closeWriter();
 		return directory;
 	}
 }
