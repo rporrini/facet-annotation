@@ -29,33 +29,22 @@ Dalla root del repository:
 ## Run degli algoritmi
 Dalla root del repository:
 
-* ```./run-algorithm.sh KNOWLEDGE-BASE ALGORITHM METRIC-NAME CONTEXT MAJORITY-K```
+* ```./run-algorithm.sh ALGORITHM OCCURRENCES CONTEXT KNOWLEDGE-BASE METRIC-NAME```
 
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti.
 
 Parametri:
 
+* ALGORITHM: mh, mhw, ml
+* OCCURRENCES: simple, contextualized 
+* CONTEXT: no, partial, complete
 * KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
-* ALGORITHM: majority, majority-hit, majority-hit-jaccard, ml-frequency, ml-jaccard, ml-ngram
 * METRIC-NAME: qualitative, questionnaire, trec
-* CONTEXT: with-context, without-context, with-partial-context
-* MAJORITY-K: rapporto di accettazione di un predicato per majority (0.5 => un predicato è accettato se è associabile ad almeno il 50% dei valori del gruppo)
 
 ## Run di tutti gli algoritmi
 Dalla root del repository:
 
 * ```./run-all-algorithms.sh KNOWLEDGE-BASE```
-
-Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della base di conoscenza scelta.
-
-Parametri:
-
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
-
-## Run di tutti gli algoritmi matchando il contesto parzialmente
-Dalla root del repository:
-
-* ```./run-all-algorithms-with-partial-context.sh KNOWLEDGE-BASE```
 
 Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/trec-results```) a seconda della base di conoscenza scelta.
 
