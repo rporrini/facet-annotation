@@ -12,10 +12,10 @@ import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
-import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
-import it.disco.unimib.labeller.labelling.PredicateAndValueWeight;
-import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
+import it.disco.unimib.labeller.labelling.MajorityHit;
+import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.ValueForPredicate;
+import it.disco.unimib.labeller.labelling.Constant;
 
 import java.util.Arrays;
 import java.util.List;
@@ -24,7 +24,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class MajorityHitWeightedTest {
+public class MajorityHitTest {
 	
 	@Test
 	public void shouldOrderOnlyByHit() throws Exception {
@@ -33,7 +33,7 @@ public class MajorityHitWeightedTest {
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -45,7 +45,7 @@ public class MajorityHitWeightedTest {
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
@@ -58,7 +58,7 @@ public class MajorityHitWeightedTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -71,7 +71,7 @@ public class MajorityHitWeightedTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateAndContextWeight(index), new PredicateWithoutWeight());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new ContextForPredicate(index), new Constant());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -84,7 +84,7 @@ public class MajorityHitWeightedTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateAndValueWeight());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new ValueForPredicate());
 		
 		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		

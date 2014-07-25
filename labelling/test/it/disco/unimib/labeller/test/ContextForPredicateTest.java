@@ -10,13 +10,13 @@ import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.ContextForPredicate;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class PredicateAndContextWeightTest {
+public class ContextForPredicateTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
@@ -42,10 +42,10 @@ public class PredicateAndContextWeightTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		PredicateAndContextWeight predicateAndContextWeight = new PredicateAndContextWeight(new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia")));
+		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia")));
 		
-		double discriminacyMatchingContext = predicateAndContextWeight.discriminacy("predicate", "context", 1, null);
-		double discriminacyNonMatchingContext = predicateAndContextWeight.discriminacy("predicate", "non matching context", 1, null);
+		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1, null);
+		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching context", 1, null);
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 

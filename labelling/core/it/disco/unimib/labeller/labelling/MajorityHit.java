@@ -8,13 +8,13 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class MajorityHitWeighted implements AnnotationAlgorithm{
+public class MajorityHit implements AnnotationAlgorithm{
 	
 	private Index index;
-	private PredicateWeight externalWeight;
-	private PredicateWeight internalWeight;
+	private Discriminacy externalWeight;
+	private Discriminacy internalWeight;
 
-	public MajorityHitWeighted(Index index, PredicateWeight externalWeight, PredicateWeight internalWeight) {
+	public MajorityHit(Index index, Discriminacy externalWeight, Discriminacy internalWeight) {
 		this.index = index;
 		this.externalWeight = externalWeight;
 		this.internalWeight = internalWeight;
@@ -29,9 +29,9 @@ public class MajorityHitWeighted implements AnnotationAlgorithm{
 		for(String predicate : distribution.predicates()){
 			double score = 0;
 			long frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
-			double predicateAndContextDiscriminacy = externalWeight.discriminacy(predicate, context, frequencyOfPredicate, null);
+			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, frequencyOfPredicate, null);
 			for(String value : distribution.values()){
-				double predicateAndValueDiscriminacy = internalWeight.discriminacy(predicate, value, frequencyOfPredicate, distribution);
+				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate, distribution);
 				score += distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy;
 			}
 			results.add(new AnnotationResult(predicate, score * predicateAndContextDiscriminacy));
