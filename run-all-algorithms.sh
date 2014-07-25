@@ -25,10 +25,9 @@ function runAlgorithm(){
 	results=evaluation/results/trec-$dataset-results
 	run $results $dataset ml-frequency $context
 	run $results $dataset ml-jaccard $context
-	run $results $dataset ml-ngram $context
+	run $results $dataset majority-hit-weighted $context
 	run $results $dataset majority-hit $context
 	run $results $dataset majority-hit-jaccard $context
-	run $results $dataset majority $context 0.1
 }
 
 set -e
@@ -38,6 +37,7 @@ cd $root
 dataset=$1
 
 runAlgorithm $dataset with-context
+runAlgorithm $dataset with-partial-context
 runAlgorithm $dataset without-context
 
 signal Done
