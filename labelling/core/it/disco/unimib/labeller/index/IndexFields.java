@@ -9,7 +9,7 @@ import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
 import org.apache.lucene.util.Version;
 
-class AlgorithmFields{
+public class IndexFields{
 	
 	public Analyzer analyzer() {
 		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();

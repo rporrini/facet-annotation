@@ -23,7 +23,7 @@ public class Evidence extends TripleIndex{
 	private RankingStrategy ranking;
 	private SelectionCriterion query;
 	private KnowledgeBase knowledgeBase;
-	private AlgorithmFields algorithmFields;
+	private IndexFields algorithmFields;
 
 	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, SelectionCriterion query, KnowledgeBase knowledgeBase) throws Exception {
 		super(directory);
@@ -32,7 +32,7 @@ public class Evidence extends TripleIndex{
 		this.ranking = ranking;
 		this.query = query;
 		this.knowledgeBase = knowledgeBase;
-		this.algorithmFields = new AlgorithmFields();
+		this.algorithmFields = new IndexFields();
 	}
 
 	@Override

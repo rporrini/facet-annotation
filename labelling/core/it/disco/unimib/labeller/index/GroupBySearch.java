@@ -21,13 +21,13 @@ public class GroupBySearch implements Index{
 	private IndexSearcher searcher;
 	private Occurrences occurrences;
 	private KnowledgeBase knowledgeBase;
-	private AlgorithmFields algorithmFields;
+	private IndexFields algorithmFields;
 	
 	public GroupBySearch(Directory indexDirectory, Occurrences score, KnowledgeBase knowledgeBase) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.occurrences = score;
 		this.knowledgeBase = knowledgeBase;
-		this.algorithmFields = new AlgorithmFields();
+		this.algorithmFields = new IndexFields();
 	}
 	
 	@Override
