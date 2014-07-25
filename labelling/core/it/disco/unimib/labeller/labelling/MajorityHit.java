@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.NoContext;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -23,12 +23,12 @@ public class MajorityHit implements AnnotationAlgorithm{
 	@Override
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
-		Distribution distribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext()));
+		Distribution distribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new NoContext()));
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		
 		for(String predicate : distribution.predicates()){
 			double score = 0;
-			long frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
+			long frequencyOfPredicate = index.count(predicate, context, new NoContext());
 			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, frequencyOfPredicate, null);
 			for(String value : distribution.values()){
 				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate, distribution);

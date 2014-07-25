@@ -21,11 +21,11 @@ public class Evidence extends TripleIndex{
 	private TripleIndex types;
 	private TripleIndex labels;
 	private RankingStrategy ranking;
-	private FullTextQuery query;
+	private SelectionCriterion query;
 	private KnowledgeBase knowledgeBase;
 	private AlgorithmFields algorithmFields;
 
-	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
+	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, SelectionCriterion query, KnowledgeBase knowledgeBase) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
@@ -70,7 +70,7 @@ public class Evidence extends TripleIndex{
  		GroupingSearch groupingSearch = new GroupingSearch(knowledgeBase.label());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
-		Query query = this.query.createQuery(type, context, algorithmFields.literal(), algorithmFields.context(), algorithmFields.namespace(), analyzer());
+		Query query = this.query.asQuery(type, context, algorithmFields.literal(), algorithmFields.context(), algorithmFields.namespace(), analyzer());
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
 			ranking.reRank(context, group, indexSearcher);
 			ids.add(group.scoreDocs[0]);

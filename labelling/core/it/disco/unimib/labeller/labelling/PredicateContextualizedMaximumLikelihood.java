@@ -2,8 +2,8 @@ package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.GroupBySearch;
-import it.disco.unimib.labeller.index.MandatoryContext;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.CompleteContext;
+import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 
 import java.util.ArrayList;
@@ -22,13 +22,13 @@ public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgor
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
 		
-		Distribution optionalDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext()));
+		Distribution optionalDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new NoContext()));
 		Distribution partialDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new PartialContext()));
 		
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : optionalDistribution.predicates()){
 			double score = 0;
-			double frequencyOfPredicateInContext = index.count(predicate, context, new MandatoryContext());
+			double frequencyOfPredicateInContext = index.count(predicate, context, new CompleteContext());
 			
 			for(String value : optionalDistribution.values()){
 				double frequencyOfValueAndPredicate = optionalDistribution.scoreOf(predicate, value);

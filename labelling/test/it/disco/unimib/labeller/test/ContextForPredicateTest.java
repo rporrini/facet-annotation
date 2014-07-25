@@ -7,7 +7,7 @@ import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.ContextForPredicate;
@@ -35,7 +35,7 @@ public class ContextForPredicateTest {
 										types,
 										labels,
 										new RankByFrequency(),
-										new OptionalContext(),
+										new NoContext(),
 										new KnowledgeBase("dbpedia"))
 												.add(new TripleBuilder().withSubject("a_subject")
 																		.withPredicate("predicate")

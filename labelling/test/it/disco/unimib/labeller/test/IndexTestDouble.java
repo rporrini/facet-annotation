@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.test;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.Index;
 
 import java.util.ArrayList;
@@ -13,14 +13,14 @@ public class IndexTestDouble implements Index{
 	private HashMap<String, List<CandidatePredicate>> results = new HashMap<String, List<CandidatePredicate>>();
 	
 	@Override
-	public List<CandidatePredicate> get(String value, String context, FullTextQuery query) throws Exception {
+	public List<CandidatePredicate> get(String value, String context, SelectionCriterion query) throws Exception {
 		List<CandidatePredicate> result = results.get(value);
 		if(result == null) result = new ArrayList<CandidatePredicate>();
 		return result;
 	}
 
 	@Override
-	public long count(String predicate, String context, FullTextQuery query) throws Exception {
+	public long count(String predicate, String context, SelectionCriterion query) throws Exception {
 		return 0;
 	}
 	

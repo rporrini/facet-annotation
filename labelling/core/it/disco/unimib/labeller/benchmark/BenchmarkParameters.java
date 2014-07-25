@@ -2,10 +2,10 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.DistanceMetricWrapper;
-import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.KnowledgeBase;
-import it.disco.unimib.labeller.index.MandatoryContext;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.CompleteContext;
+import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
@@ -49,10 +49,10 @@ public class BenchmarkParameters{
 		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath()))).getGroups();
 	}
 	
-	private FullTextQuery context(){
-		HashMap<String, FullTextQuery> contexts = new HashMap<String, FullTextQuery>();
-		contexts.put("with-context", new MandatoryContext());
-		contexts.put("without-context", new OptionalContext());
+	private SelectionCriterion context(){
+		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
+		contexts.put("with-context", new CompleteContext());
+		contexts.put("without-context", new NoContext());
 		contexts.put("with-partial-context", new PartialContext());
 		return contexts.get(contextString());
 	}

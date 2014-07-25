@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,9 +12,9 @@ public class Majority implements AnnotationAlgorithm{
 
 	private Predicates candidates;
 	private double threshold;
-	private FullTextQuery query;
+	private SelectionCriterion query;
 
-	public Majority(Predicates candidates, double threshold, FullTextQuery query){
+	public Majority(Predicates candidates, double threshold, SelectionCriterion query){
 		this.candidates = candidates;
 		this.threshold = threshold;
 		this.query = query;

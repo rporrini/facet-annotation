@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.SimpleOccurrences;
-import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.KnowledgeBase;
@@ -35,31 +35,31 @@ public class BenchmarkConfiguration{
 		return name;
 	}
 	
-	public BenchmarkConfiguration predicateAnnotationWithContextualMaximumLikelihood(Occurrences score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	public BenchmarkConfiguration predicateAnnotationWithContextualMaximumLikelihood(Occurrences score, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		GroupBySearch fts = groupBySearchIndex(score, query, index, knowledgeBase);
 		this.algorithm = contextualizedMaximumLikelihoodAlgorithm(fts);
 		return this;
 	}
 	
-	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Occurrences score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	public BenchmarkConfiguration predicateAnnotationWithCustomGrouping(Occurrences score, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
 		this.algorithm = maximumLikelihoodAlgorithm(fts, query);
 		return this;
 	}
 
-	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	public BenchmarkConfiguration majorityAnnotation(double threshold, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(new SimpleOccurrences(), query, index, knowledgeBase);
 		this.algorithm = majorityAlgorithm(new Majority(new CandidatePredicatesReport(new CandidatePredicates(fts)), threshold, query));
 		return this;
 	}
 	
-	public BenchmarkConfiguration weightedMajorityHit(Occurrences score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	public BenchmarkConfiguration weightedMajorityHit(Occurrences score, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		GroupBySearch fts = groupBySearchIndex(score, query, index, knowledgeBase);
 		this.algorithm = majorityAlgorithm(new MajorityHit(fts, new ContextForPredicate(fts), new ValueForPredicate())); 
 		return this;
 	}
 	
-	public BenchmarkConfiguration majorityHit(Occurrences score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	public BenchmarkConfiguration majorityHit(Occurrences score, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(score, query, index, knowledgeBase);
 		this.algorithm = majorityAlgorithm(new MajorityHit(fts, new Constant(), new Constant()));
 		return this;
@@ -69,7 +69,7 @@ public class BenchmarkConfiguration{
 		return algorithm;
 	}
 	
-	private GroupBySearch groupBySearchIndex(Occurrences score, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
+	private GroupBySearch groupBySearchIndex(Occurrences score, SelectionCriterion query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		return new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
 	}
 	
@@ -77,7 +77,7 @@ public class BenchmarkConfiguration{
 		return new PredicateContextualizedMaximumLikelihood(fts);
 	}
 	
-	private PredicateMaximumLikelihood maximumLikelihoodAlgorithm(Index fts, FullTextQuery query) {
+	private PredicateMaximumLikelihood maximumLikelihoodAlgorithm(Index fts, SelectionCriterion query) {
 		return new PredicateMaximumLikelihood(new CandidatePredicatesReport(new CandidatePredicates(fts)), query);
 	}
 	

@@ -12,7 +12,7 @@ import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
-import it.disco.unimib.labeller.index.OptionalContext;
+import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.PredicateContextualizedMaximumLikelihood;
@@ -43,7 +43,7 @@ public class PredicateContextualizedMaximumLikelihoodTest {
 																				.withObject("movie")
 																				.asTriple())
 														.closeWriter();
-		new Evidence(directory , types , labels , new RankByFrequency(), new OptionalContext(), new KnowledgeBase("dbpedia"))
+		new Evidence(directory , types , labels , new RankByFrequency(), new NoContext(), new KnowledgeBase("dbpedia"))
 									.add(new TripleBuilder().withSubject("http://a_novelist")
 															.withPredicate("http://dateOfBirth")
 															.withLiteral("2009").asTriple())

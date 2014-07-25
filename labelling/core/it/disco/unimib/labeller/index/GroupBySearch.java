@@ -31,8 +31,8 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public long count(String predicate, String context, FullTextQuery query) throws Exception {
-		TopDocs results = searcher.search(query.createQuery(predicate, 
+	public long count(String predicate, String context, SelectionCriterion query) throws Exception {
+		TopDocs results = searcher.search(query.asQuery(predicate, 
 															context,
 															algorithmFields.property(),
 															algorithmFields.context(),
@@ -43,8 +43,8 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<CandidatePredicate> get(String value, String context, FullTextQuery query) throws Exception {
-		TopDocs results = searcher.search(query.createQuery(value, 
+	public List<CandidatePredicate> get(String value, String context, SelectionCriterion query) throws Exception {
+		TopDocs results = searcher.search(query.asQuery(value, 
 										  context, 
 										  algorithmFields.literal(), 
 										  algorithmFields.context(), 

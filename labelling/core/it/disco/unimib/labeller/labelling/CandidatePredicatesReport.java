@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.FullTextQuery;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -17,7 +17,7 @@ public class CandidatePredicatesReport implements Predicates{
 	}
 	
 	@Override
-	public HashMap<String, List<CandidatePredicate>> forValues(String context, String[] values, FullTextQuery query) throws Exception {
+	public HashMap<String, List<CandidatePredicate>> forValues(String context, String[] values, SelectionCriterion query) throws Exception {
 		HashMap<String, List<CandidatePredicate>> results = predicates.forValues(context, values, query);
 		logOverallStatistics(context, results);
 		logOccurrenciesByValue(results);
