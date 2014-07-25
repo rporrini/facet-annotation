@@ -37,7 +37,7 @@ public class BenchmarkParameters{
 		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), getKB()));
 		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(new CountPredicates(), context(), indexPath(), getKB()));
 		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("majority-hit-weighted", new BenchmarkConfiguration("majority-hit-weighted").majorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
+		configurations.put("majority-hit-weighted", new BenchmarkConfiguration("majority-hit-weighted").weightedMajorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
 		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), getKB()));
 		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
 		configurations.put("cml", new BenchmarkConfiguration("cml").predicateAnnotationWithContextualMaximumLikelihood(new CountPredicates(), context(), indexPath(), getKB()));
