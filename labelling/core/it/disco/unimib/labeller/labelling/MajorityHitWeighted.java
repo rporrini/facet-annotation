@@ -31,7 +31,7 @@ public class MajorityHitWeighted implements AnnotationAlgorithm{
 			double frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
 			double predicateAndContextDiscriminacy = externalWeight.discriminacy(predicate, context, frequencyOfPredicate, null);
 			for(String value : distribution.values()){
-				double predicateAndValueDiscriminacy = internalWeight.discriminacy(predicate, context, frequencyOfPredicate, distribution);
+				double predicateAndValueDiscriminacy = internalWeight.discriminacy(predicate, value, frequencyOfPredicate, distribution);
 				score += distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy;
 			}
 			results.add(new AnnotationResult(predicate, score * predicateAndContextDiscriminacy));

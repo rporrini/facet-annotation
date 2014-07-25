@@ -3,12 +3,16 @@ package it.disco.unimib.labeller.index;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.ContextualizedMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
+import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
 
 import java.io.File;
 import java.util.List;
 
 import org.apache.lucene.store.NIOFSDirectory;
+
+import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class Try {
 
@@ -16,20 +20,19 @@ public class Try {
 		String knowledgeBase = "dbpedia";
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
-		ContextualizedMaximumLikelihood maximumLikelihood = new ContextualizedMaximumLikelihood(new GroupBySearch(indexDirectory, new CountPredicates(), new KnowledgeBase(knowledgeBase)));
+		GroupBySearch index = new GroupBySearch(indexDirectory, new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase));
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateAndContextWeight(index), new PredicateWithoutWeight());
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
-//		annotate(maximumLikelihood, groups, 1088443226);
-		
 		for(int id : ids(knowledgeBase)){
-			annotate(maximumLikelihood, groups, id);
+			annotate(majorityHitWeighted, groups, id);
 		}
 	}
 
 	private static int[] ids(String knowledgeBase) {
 		if(knowledgeBase.equals("dbpedia"))
 			return new int[]{
-				//702159889,
+				702159889,
 				268043830,
 				213755943,
 				2125380335,
