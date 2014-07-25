@@ -14,6 +14,7 @@ import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.MajorityHitWeighted;
 import it.disco.unimib.labeller.labelling.PredicateAndContextWeight;
+import it.disco.unimib.labeller.labelling.PredicateAndValueWeight;
 import it.disco.unimib.labeller.labelling.PredicateWithoutWeight;
 
 import java.util.Arrays;
@@ -50,6 +51,19 @@ public class MajorityHitWeightedTest {
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
+	
+	@Test
+	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateAndValueWeight());
+		
+		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
 
 	private Directory buildIndex() throws Exception {
 		Directory directory = new RAMDirectory();
@@ -74,6 +88,9 @@ public class MajorityHitWeightedTest {
 										.add(new TripleBuilder().withSubject("a_subject_without_context")
 																.withPredicate("predicate_without_context")
 																.withLiteral("value").asTriple())
+										.add(new TripleBuilder().withSubject("a_subject_without_context")
+																.withPredicate("predicate")
+																.withLiteral("another_value").asTriple())
 										.closeWriter();
 		return directory;
 	}
