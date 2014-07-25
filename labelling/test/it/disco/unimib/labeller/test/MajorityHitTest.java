@@ -4,18 +4,18 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.Evidence;
-import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
+import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.MajorityHit;
-import it.disco.unimib.labeller.labelling.ContextForPredicate;
-import it.disco.unimib.labeller.labelling.ValueForPredicate;
 import it.disco.unimib.labeller.labelling.Constant;
+import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.MajorityHit;
+import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
 import java.util.Arrays;
 import java.util.List;
@@ -33,7 +33,7 @@ public class MajorityHitTest {
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -45,7 +45,7 @@ public class MajorityHitTest {
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
@@ -58,7 +58,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -71,7 +71,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new ContextForPredicate(index), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -84,7 +84,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new ValueForPredicate());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new ValueForPredicate());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		

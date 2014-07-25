@@ -5,29 +5,16 @@ function signal(){
 }
 
 function run(){
-	results=$1
-	dataset=$2
-	algorithm=$3
-	context=$4
-	threshold=$5
-	destination="$results/$dataset-$algorithm-$threshold-$context.qrels"
-	tempFile="$destination.temp"
-	mkdir -p $results
-	./run-algorithm.sh $dataset $algorithm trec $context $threshold > $tempFile
-	sed '/\/bin/d' $tempFile |sed '/Running Benchmark/d'|sed '/Building Project/d'|sed '/Done/d'|sed '/Setting Up/d'|sed '/^$/d' > $destination
-	rm $tempFile
-	signal "$algorithm $threshold $context Done"
-}
+	algorithm=$1
+	occurrences=$2
+	context=$3
+	dataset=$4
+	results="evaluation/results/$dataset-results"
+	destination="$results/$algorithm-$occurrences-$context.qrels"
 
-function runAlgorithm(){
-	dataset=$1
-	context=$2
-	results=evaluation/results/trec-$dataset-results
-	run $results $dataset ml-frequency $context
-	run $results $dataset ml-jaccard $context
-	run $results $dataset majority-hit-weighted $context
-	run $results $dataset majority-hit $context
-	run $results $dataset majority-hit-jaccard $context
+	mkdir -p $results
+	./run-algorithm.sh $algorithm $occurrences $context $dataset trec > $destination
+	signal "$algorithm $occurrences $context $dataset Done"
 }
 
 set -e
@@ -36,8 +23,23 @@ root=`cd $relative_path;pwd`
 cd $root
 dataset=$1
 
-runAlgorithm $dataset with-context
-runAlgorithm $dataset with-partial-context
-runAlgorithm $dataset without-context
+run mh simple no $dataset
+run mh simple partial $dataset
+run mh simple "complete" $dataset
+run mh contextualized no $dataset
+run mh contextualized partial $dataset
+run mh contextualized "complete" $dataset
+run mhw simple no $dataset
+run mhw simple partial $dataset
+run mhw simple "complete" $dataset
+run mhw contextualized no $dataset
+run mhw contextualized partial $dataset
+run mhw contextualized "complete" $dataset
+run ml simple no $dataset
+run ml simple partial $dataset
+run ml simple "complete" $dataset
+run ml contextualized no $dataset
+run ml contextualized partial $dataset
+run ml contextualized "complete" $dataset
 
 signal Done

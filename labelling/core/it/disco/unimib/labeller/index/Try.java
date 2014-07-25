@@ -3,9 +3,9 @@ package it.disco.unimib.labeller.index;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.MajorityHit;
-import it.disco.unimib.labeller.labelling.ContextForPredicate;
 import it.disco.unimib.labeller.labelling.Constant;
+import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.MajorityHit;
 
 import java.io.File;
 import java.util.List;
@@ -21,7 +21,7 @@ public class Try {
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase));
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new ContextForPredicate(index), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new ContextForPredicate(index), new Constant());
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
 		for(int id : ids(knowledgeBase)){
