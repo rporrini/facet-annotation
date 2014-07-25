@@ -6,7 +6,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.Qualitative;
 import it.disco.unimib.labeller.benchmark.Summary;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.Arrays;
 
@@ -25,8 +25,8 @@ public class QualitativeTest {
 	public void shouldTrackTheExecution() throws Exception {
 		Summary metric = new Qualitative();
 		
-		metric.track(createGroup("provider_context_year"), Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1)}))
-			  .track(createGroup("provider_context_decade"), Arrays.asList(new AnnotationResult[]{new AnnotationResult("year", 1)}));
+		metric.track(createGroup("provider_context_year"), Arrays.asList(new CandidatePredicate[]{new CandidatePredicate("year", 1)}))
+			  .track(createGroup("provider_context_decade"), Arrays.asList(new CandidatePredicate[]{new CandidatePredicate("year", 1)}));
 		
 		assertThat(metric.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncontext|year|year\ncontext|decade|year")));
 	}

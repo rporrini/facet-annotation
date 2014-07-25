@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.net.URLEncoder;
 import java.util.ArrayList;
@@ -25,7 +25,7 @@ public class Questionnaire implements Summary {
 	}
 
 	@Override
-	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) throws Exception {
+	public Summary track(GoldStandardGroup group, List<CandidatePredicate> results) throws Exception {
 		trackDomainAndContext(group);
 		trackGroupValues(group);
 		trackResults(results);
@@ -50,8 +50,8 @@ public class Questionnaire implements Summary {
 		}
 	}
 	
-	private void trackResults(List<AnnotationResult> results) throws Exception {
-		for(AnnotationResult result : results){
+	private void trackResults(List<CandidatePredicate> results) throws Exception {
+		for(CandidatePredicate result : results){
 			track(linkResult(result.value()) + "|" + result.label() + "| |" + linkResult(createSPARQLQuery(result.value()), "View on DBPedia"));
 		}
 	}

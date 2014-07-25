@@ -5,12 +5,12 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class WeightedPredicates implements Score{
+public class ContextualizedOccurrences implements Occurrences{
 	
 	private HashMap<String, Double> scores;
 	private SimilarityMetric metric;
 	
-	public WeightedPredicates(SimilarityMetric metric){
+	public ContextualizedOccurrences(SimilarityMetric metric){
 		clear();
 		this.metric = metric;
 	}
@@ -23,10 +23,10 @@ public class WeightedPredicates implements Score{
 	}
 	
 	@Override
-	public List<AnnotationResult> toResults(){
-		List<AnnotationResult> annotations = new ArrayList<AnnotationResult>();
+	public List<CandidatePredicate> toResults(){
+		List<CandidatePredicate> annotations = new ArrayList<CandidatePredicate>();
 		for(String label : scores.keySet()){
-			annotations.add(new AnnotationResult(label, scores.get(label)));
+			annotations.add(new CandidatePredicate(label, scores.get(label)));
 		}
 		return annotations;
 	}

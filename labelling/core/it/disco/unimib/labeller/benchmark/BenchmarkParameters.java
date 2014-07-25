@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.CountPredicates;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.DistanceMetricWrapper;
 import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.KnowledgeBase;
@@ -8,7 +8,7 @@ import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.index.WeightedPredicates;
+import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 
 import java.io.File;
 import java.util.HashMap;
@@ -35,13 +35,13 @@ public class BenchmarkParameters{
 	public BenchmarkConfiguration configuration() throws Exception{
 		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
 		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), getKB()));
-		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(new CountPredicates(), context(), indexPath(), getKB()));
-		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("majority-hit-weighted", new BenchmarkConfiguration("majority-hit-weighted").weightedMajorityHit(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new CountPredicates(), context(), indexPath(), getKB()));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("cml", new BenchmarkConfiguration("cml").predicateAnnotationWithContextualMaximumLikelihood(new CountPredicates(), context(), indexPath(), getKB()));
-		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new WeightedPredicates(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), getKB()));
+		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(new SimpleOccurrences(), context(), indexPath(), getKB()));
+		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
+		configurations.put("majority-hit-weighted", new BenchmarkConfiguration("majority-hit-weighted").weightedMajorityHit(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
+		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new SimpleOccurrences(), context(), indexPath(), getKB()));
+		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
+		configurations.put("cml", new BenchmarkConfiguration("cml").predicateAnnotationWithContextualMaximumLikelihood(new SimpleOccurrences(), context(), indexPath(), getKB()));
+		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new ContextualizedOccurrences(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), getKB()));
 		return configurations.get(algorithm());
 	}
 

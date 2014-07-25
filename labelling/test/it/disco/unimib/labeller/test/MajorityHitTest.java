@@ -3,9 +3,9 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.index.ContextualizedPredicates;
-import it.disco.unimib.labeller.index.CountPredicates;
+import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
@@ -35,7 +35,7 @@ public class MajorityHitTest {
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).value(), equalTo("other predicate"));
 	}
@@ -47,7 +47,7 @@ public class MajorityHitTest {
 
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(2.0));
 	}
@@ -56,11 +56,11 @@ public class MajorityHitTest {
 	public void shouldNotOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new Constant());
 		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), equalTo(results.get(1).score()));
 	}
@@ -69,11 +69,11 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new ContextForPredicate(index), new Constant());
 		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -82,11 +82,11 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new Constant(), new ValueForPredicate());
 		
-		List<AnnotationResult> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -102,7 +102,7 @@ public class MajorityHitTest {
 																				.withLiteral("context")
 																				.asTriple())
 										.closeWriter();
-		new ContextualizedPredicates(directory, 
+		new Evidence(directory, 
 									types,
 									labels,
 									new RankByFrequency(),

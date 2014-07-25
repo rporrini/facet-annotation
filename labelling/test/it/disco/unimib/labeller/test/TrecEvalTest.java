@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.TrecEval;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.Arrays;
 
@@ -26,7 +26,7 @@ public class TrecEvalTest {
 		
 		trecEval.track(
 				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(
-				new AnnotationResult[]{new AnnotationResult("value", 1)}));
+				new CandidatePredicate[]{new CandidatePredicate("value", 1)}));
 		
 		assertThat(trecEval.result(), containsString("1761928305"));
 	}
@@ -37,8 +37,8 @@ public class TrecEvalTest {
 		
 		trecEval.track(
 				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(
-				new AnnotationResult[]{new AnnotationResult("value1", 1),
-									   new AnnotationResult("value2", 1)}));
+				new CandidatePredicate[]{new CandidatePredicate("value1", 1),
+									   new CandidatePredicate("value2", 1)}));
 		
 		assertThat(trecEval.result(), allOf(containsString("value1"), containsString("value2")));
 	}

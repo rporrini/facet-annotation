@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,7 +23,7 @@ public class Qualitative implements Summary {
 	}
 
 	@Override
-	public Summary track(GoldStandardGroup group, List<AnnotationResult> results) {
+	public Summary track(GoldStandardGroup group, List<CandidatePredicate> results) {
 		if(results.size() > 0)
 			track(group.context(), group.label(), results.get(0).value());
 		else

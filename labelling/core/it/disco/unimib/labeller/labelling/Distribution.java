@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -12,7 +12,7 @@ public class Distribution{
 	private HashMap<String, HashMap<String, Double>> scores;
 	private Set<String> values;
 	
-	public Distribution(HashMap<String, List<AnnotationResult>> valueDistribution) {
+	public Distribution(HashMap<String, List<CandidatePredicate>> valueDistribution) {
 		this.scores = invert(valueDistribution);
 		this.values = enumerateValues();
 	}
@@ -49,10 +49,10 @@ public class Distribution{
 		return values;
 	}
 	
-	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, List<AnnotationResult>> valueDistribution) {
+	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, List<CandidatePredicate>> valueDistribution) {
 		HashMap<String, HashMap<String, Double>> inverted = new HashMap<String, HashMap<String, Double>>();
 		for(String value : valueDistribution.keySet()){
-			for(AnnotationResult predicate : valueDistribution.get(value)){
+			for(CandidatePredicate predicate : valueDistribution.get(value)){
 				if(!inverted.containsKey(predicate.value())) {
 					inverted.put(predicate.value(), new HashMap<String, Double>());
 				}

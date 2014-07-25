@@ -6,9 +6,9 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.EntityValues;
-import it.disco.unimib.labeller.index.ContextualizedPredicates;
+import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
@@ -21,7 +21,7 @@ import java.util.List;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class ContextualizedPredicatesTest {
+public class EvidenceTest {
 	
 	private final KnowledgeBase yago = new KnowledgeBase("yago1");
 	private final KnowledgeBase dbpedia = new KnowledgeBase("dbpedia");
@@ -34,7 +34,7 @@ public class ContextualizedPredicatesTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), dbpedia)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -53,7 +53,7 @@ public class ContextualizedPredicatesTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -66,10 +66,10 @@ public class ContextualizedPredicatesTest {
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		AnnotationResult searchResult = index.get("literal", "any").get(0);
+		CandidatePredicate searchResult = index.get("literal", "any").get(0);
 		
 		assertThat(searchResult.value(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
@@ -80,7 +80,7 @@ public class ContextualizedPredicatesTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex dbpediaIndex = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), dbpedia)
+		TripleIndex dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -93,7 +93,7 @@ public class ContextualizedPredicatesTest {
 										.asTriple())
 							.closeWriter();
 		
-		TripleIndex yagoIndex = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), yago)
+		TripleIndex yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new OptionalContext(), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -112,7 +112,7 @@ public class ContextualizedPredicatesTest {
 	
 	@Test
 	public void shouldGroupByPredicate() throws Exception {
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), 
+		TripleIndex index = new Evidence(new RAMDirectory(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(),
 										 new RankByFrequency(), new OptionalContext(), new KnowledgeBase("anyKnowledgeBase"))
@@ -138,7 +138,7 @@ public class ContextualizedPredicatesTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new MandatoryContext(), new KnowledgeBase("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -152,21 +152,21 @@ public class ContextualizedPredicatesTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new ContextualizedPredicates(new RAMDirectory(), null, null, null, new OptionalContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
+		new Evidence(new RAMDirectory(), null, null, null, new OptionalContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
 		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
-		TripleIndex index = new ContextualizedPredicates(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new OptionalContext()), new KnowledgeBase("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")
 											.asTriple())
 								.closeWriter();
 		
-		List<AnnotationResult> results = index.get("value", "any");
+		List<CandidatePredicate> results = index.get("value", "any");
 		
 		assertThat(results, is(not(empty())));
 	}

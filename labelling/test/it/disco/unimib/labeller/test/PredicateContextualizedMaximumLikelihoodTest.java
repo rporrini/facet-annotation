@@ -6,9 +6,9 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.index.ContextualizedPredicates;
-import it.disco.unimib.labeller.index.CountPredicates;
+import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
@@ -43,7 +43,7 @@ public class PredicateContextualizedMaximumLikelihoodTest {
 																				.withObject("movie")
 																				.asTriple())
 														.closeWriter();
-		new ContextualizedPredicates(directory , types , labels , new RankByFrequency(), new OptionalContext(), new KnowledgeBase("dbpedia"))
+		new Evidence(directory , types , labels , new RankByFrequency(), new OptionalContext(), new KnowledgeBase("dbpedia"))
 									.add(new TripleBuilder().withSubject("http://a_novelist")
 															.withPredicate("http://dateOfBirth")
 															.withLiteral("2009").asTriple())
@@ -76,8 +76,8 @@ public class PredicateContextualizedMaximumLikelihoodTest {
 															.withLiteral("2015").asTriple())
 									.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia"));
-		List<AnnotationResult> results = new PredicateContextualizedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
+		GroupBySearch index = new GroupBySearch(directory, new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
+		List<CandidatePredicate> results = new PredicateContextualizedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
 		
 		assertThat(results, is(not(empty())));
 		assertThat(results, hasSize(3));

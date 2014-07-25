@@ -1,12 +1,12 @@
 package it.disco.unimib.labeller.index;
 
 
-public class AnnotationResult implements Comparable<AnnotationResult>{
+public class CandidatePredicate implements Comparable<CandidatePredicate>{
 
 	private double score;
 	private RDFPredicate predicate;
 
-	public AnnotationResult(String value, double score) {
+	public CandidatePredicate(String value, double score) {
 		this.score = score;
 		this.predicate = new RDFPredicate(value);
 	}
@@ -29,7 +29,7 @@ public class AnnotationResult implements Comparable<AnnotationResult>{
 	}
 
 	@Override
-	public int compareTo(AnnotationResult other) {
+	public int compareTo(CandidatePredicate other) {
 		return (int) Math.signum(other.score() - this.score());
 	}
 }

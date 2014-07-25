@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
 import it.disco.unimib.labeller.labelling.Predicates;
@@ -28,7 +28,7 @@ public class CandidatePredicatesTest {
 								.resultFor("italy", "country", 10)
 								.resultFor("france", "country", 25);
 		
-		HashMap<String, List<AnnotationResult>> results = new CandidatePredicates(index).forValues("any", new String[]{"italy", "france"}, new OptionalContext());
+		HashMap<String, List<CandidatePredicate>> results = new CandidatePredicates(index).forValues("any", new String[]{"italy", "france"}, new OptionalContext());
 		
 		assertThat(results.get("france").get(0).score(), equalTo(25d));
 	}

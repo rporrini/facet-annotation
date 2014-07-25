@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.NormalizedPrior;
 import it.disco.unimib.labeller.labelling.UnnormalizedConditional;
@@ -18,10 +18,10 @@ public class UnnormalizedConditionalTest {
 
 	@Test
 	public void aPredicateThatThatAppearsMoreFrequentlyThanAnotherHasAGreaterConditionalProbility() {
-		HashMap<String, List<AnnotationResult>> distribution = new HashMap<String, List<AnnotationResult>>();
-		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
-		results.add(new AnnotationResult("capital", 25));
-		results.add(new AnnotationResult("city", 10));
+		HashMap<String, List<CandidatePredicate>> distribution = new HashMap<String, List<CandidatePredicate>>();
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		results.add(new CandidatePredicate("capital", 25));
+		results.add(new CandidatePredicate("city", 10));
 		distribution.put("paris", results);
 		
 		Distribution d = new Distribution(distribution);

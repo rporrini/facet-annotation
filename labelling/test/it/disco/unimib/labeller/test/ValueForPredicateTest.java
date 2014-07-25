@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.labelling.Distribution;
 import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
@@ -17,9 +17,9 @@ public class ValueForPredicateTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingValue() throws Exception {
-		HashMap<String, List<AnnotationResult>> valueDistribution = new HashMap<String, List<AnnotationResult>>();
-		ArrayList<AnnotationResult> values = new ArrayList<AnnotationResult>();
-		values.add(new AnnotationResult("predicate", 1));
+		HashMap<String, List<CandidatePredicate>> valueDistribution = new HashMap<String, List<CandidatePredicate>>();
+		ArrayList<CandidatePredicate> values = new ArrayList<CandidatePredicate>();
+		values.add(new CandidatePredicate("predicate", 1));
 		valueDistribution.put("value", values);
 		
 		ValueForPredicate predicateAndValueWeight = new ValueForPredicate();
@@ -31,9 +31,9 @@ public class ValueForPredicateTest {
 
 	@Test
 	public void discriminacyShouldBeZeroIfFrequencyOfPredicateIsZero() throws Exception {
-		HashMap<String, List<AnnotationResult>> valueDistribution = new HashMap<String, List<AnnotationResult>>();
-		ArrayList<AnnotationResult> values = new ArrayList<AnnotationResult>();
-		values.add(new AnnotationResult("predicate", 1));
+		HashMap<String, List<CandidatePredicate>> valueDistribution = new HashMap<String, List<CandidatePredicate>>();
+		ArrayList<CandidatePredicate> values = new ArrayList<CandidatePredicate>();
+		values.add(new CandidatePredicate("predicate", 1));
 		valueDistribution.put("value", values);
 		
 		double discriminacy = new ValueForPredicate().of("predicate", "value", 0, new Distribution(valueDistribution));

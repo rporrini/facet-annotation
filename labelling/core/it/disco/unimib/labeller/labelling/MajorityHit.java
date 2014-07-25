@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.OptionalContext;
 
@@ -21,10 +21,10 @@ public class MajorityHit implements AnnotationAlgorithm{
 	}
 
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		InspectedPredicates predicates = new InspectedPredicates(new CandidatePredicates(index));
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
 		Distribution distribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext()));
-		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		
 		for(String predicate : distribution.predicates()){
 			double score = 0;
@@ -34,7 +34,7 @@ public class MajorityHit implements AnnotationAlgorithm{
 				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate, distribution);
 				score += distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy;
 			}
-			results.add(new AnnotationResult(predicate, score * predicateAndContextDiscriminacy));
+			results.add(new CandidatePredicate(predicate, score * predicateAndContextDiscriminacy));
 		}
 		Collections.sort(results);
 		return results;

@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-public class CountPredicates implements Score{
+public class SimpleOccurrences implements Occurrences{
 	
 	private HashMap<String, Double> scores;
 	
-	public CountPredicates(){
+	public SimpleOccurrences(){
 		clear();
 	}
 	
@@ -19,10 +19,10 @@ public class CountPredicates implements Score{
 	}
 	
 	@Override
-	public List<AnnotationResult> toResults(){
-		List<AnnotationResult> annotations = new ArrayList<AnnotationResult>();
+	public List<CandidatePredicate> toResults(){
+		List<CandidatePredicate> annotations = new ArrayList<CandidatePredicate>();
 		for(String label : scores.keySet()){
-			annotations.add(new AnnotationResult(label, scores.get(label)));
+			annotations.add(new CandidatePredicate(label, scores.get(label)));
 		}
 		return annotations;
 	}

@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.FullTextQuery;
 
 import java.util.ArrayList;
@@ -19,8 +19,8 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]), query);
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+		HashMap<String, List<CandidatePredicate>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]), query);
 
 		Distribution distribution = new Distribution(values);
 		
@@ -31,9 +31,9 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 		NormalizedConditional conditional = new NormalizedConditional(distribution, prior, unnormalizedConditional);
 		
 		NormalizedMaximumLikelihood likelihood = new NormalizedMaximumLikelihood(distribution, conditional, prior);
-		List<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		List<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : distribution.predicates()){
-			results.add(new AnnotationResult(predicate, likelihood.of(predicate)));
+			results.add(new CandidatePredicate(predicate, likelihood.of(predicate)));
 		}
 		Collections.sort(results);
 		

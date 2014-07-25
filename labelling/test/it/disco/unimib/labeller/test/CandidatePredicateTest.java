@@ -2,21 +2,21 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
 import org.junit.Test;
 
-public class AnnotationResultTest {
+public class CandidatePredicateTest {
 
 	@Test
 	public void shouldBeOrderedDescending() {
-		AnnotationResult resultWithHigherScore = new AnnotationResult("any", 20);
-		AnnotationResult resultWithLowerScore = new AnnotationResult("any", 10);
+		CandidatePredicate resultWithHigherScore = new CandidatePredicate("any", 20);
+		CandidatePredicate resultWithLowerScore = new CandidatePredicate("any", 10);
 		
-		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		results.add(resultWithLowerScore);
 		results.add(resultWithHigherScore);
 		

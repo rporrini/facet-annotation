@@ -20,7 +20,7 @@ public class Try {
 		String knowledgeBase = "dbpedia";
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
-		GroupBySearch index = new GroupBySearch(indexDirectory, new WeightedPredicates(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase));
+		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase));
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new ContextForPredicate(index), new Constant());
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
@@ -69,8 +69,8 @@ public class Try {
 	private static void annotate(AnnotationAlgorithm algorithm, UnorderedGroups groups, int id) throws Exception {
 		GoldStandardGroup group = groups.getGroupById(id);
 		System.out.println(group.context() + " " + id);
-		List<AnnotationResult> results = algorithm.typeOf(group.context(), group.elements());	
-		for(AnnotationResult result : results){
+		List<CandidatePredicate> results = algorithm.typeOf(group.context(), group.elements());	
+		for(CandidatePredicate result : results){
 			System.out.println(result);
 		}
 	}

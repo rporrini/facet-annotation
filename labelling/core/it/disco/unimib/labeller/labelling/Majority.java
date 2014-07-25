@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.FullTextQuery;
 
 import java.util.ArrayList;
@@ -21,21 +21,21 @@ public class Majority implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<AnnotationResult>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]), query);
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+		HashMap<String, List<CandidatePredicate>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]), query);
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		for(String value : values.keySet()){
-			for(AnnotationResult result : values.get(value)){
+			for(CandidatePredicate result : values.get(value)){
 				if(!predicateCounts.containsKey(result.value())) predicateCounts.put(result.value(), 0.0);
 				predicateCounts.put(result.value(), predicateCounts.get(result.value()) + 1);
 			}
 		}
-		List<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		List<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : predicateCounts.keySet()){
 			double count = predicateCounts.get(predicate);
 			double percentage = count / (double) elements.size();
 			if(percentage > threshold){
-				results.add(new AnnotationResult(predicate, percentage));
+				results.add(new CandidatePredicate(predicate, percentage));
 			}
 		}
 		Collections.sort(results);

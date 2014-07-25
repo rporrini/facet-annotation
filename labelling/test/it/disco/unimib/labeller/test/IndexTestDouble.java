@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.test;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.FullTextQuery;
 import it.disco.unimib.labeller.index.Index;
 
@@ -10,12 +10,12 @@ import java.util.List;
 
 public class IndexTestDouble implements Index{
 
-	private HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
+	private HashMap<String, List<CandidatePredicate>> results = new HashMap<String, List<CandidatePredicate>>();
 	
 	@Override
-	public List<AnnotationResult> get(String value, String context, FullTextQuery query) throws Exception {
-		List<AnnotationResult> result = results.get(value);
-		if(result == null) result = new ArrayList<AnnotationResult>();
+	public List<CandidatePredicate> get(String value, String context, FullTextQuery query) throws Exception {
+		List<CandidatePredicate> result = results.get(value);
+		if(result == null) result = new ArrayList<CandidatePredicate>();
 		return result;
 	}
 
@@ -25,8 +25,8 @@ public class IndexTestDouble implements Index{
 	}
 	
 	public IndexTestDouble resultFor(String value, String predicate, double score){
-		if(!results.containsKey(value)) results.put(value, new ArrayList<AnnotationResult>());
-		results.get(value).add(new AnnotationResult(predicate, score));
+		if(!results.containsKey(value)) results.put(value, new ArrayList<CandidatePredicate>());
+		results.get(value).add(new CandidatePredicate(predicate, score));
 		return this;
 	}
 }

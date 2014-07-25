@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.MandatoryContext;
 import it.disco.unimib.labeller.index.OptionalContext;
@@ -19,13 +19,13 @@ public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgor
 	}
 
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		InspectedPredicates predicates = new InspectedPredicates(new CandidatePredicates(index));
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
 		
 		Distribution optionalDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new OptionalContext()));
 		Distribution partialDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new PartialContext()));
 		
-		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : optionalDistribution.predicates()){
 			double score = 0;
 			double frequencyOfPredicateInContext = index.count(predicate, context, new MandatoryContext());
@@ -41,7 +41,7 @@ public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgor
 					score += Math.log((numerator/denominator) + 1.0);
 				}
 			}
-			results.add(new AnnotationResult(predicate, score));
+			results.add(new CandidatePredicate(predicate, score));
 		}
 		Collections.sort(results);
 		return results;

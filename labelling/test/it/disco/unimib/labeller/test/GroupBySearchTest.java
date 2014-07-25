@@ -3,8 +3,8 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.ContextualizedPredicates;
-import it.disco.unimib.labeller.index.CountPredicates;
+import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
@@ -25,7 +25,7 @@ public class GroupBySearchTest {
 		
 		new EntityValues(directory).closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		assertThat(index.count("any", "any", new OptionalContext()), is(equalTo(0l)));
 	}
@@ -33,7 +33,7 @@ public class GroupBySearchTest {
 	@Test
 	public void shouldGiveOneResultWhenMatchesPredicate() throws Exception {
 		Directory directory = new RAMDirectory();
-		new ContextualizedPredicates(directory, 
+		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
@@ -42,7 +42,7 @@ public class GroupBySearchTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(1l)));
 	}
@@ -50,7 +50,7 @@ public class GroupBySearchTest {
 	@Test
 	public void shouldGiveOneResultWhenMatchesAPredicateConsideringLabels() throws Exception {
 		Directory directory = new RAMDirectory();
-		new ContextualizedPredicates(directory, 
+		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
@@ -59,7 +59,7 @@ public class GroupBySearchTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(1l)));
 	}
@@ -67,7 +67,7 @@ public class GroupBySearchTest {
 	@Test
 	public void shouldGiveManyResultWhenMatchesPredicate() throws Exception {
 		Directory directory = new RAMDirectory();
-		new ContextualizedPredicates(directory, 
+		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
@@ -77,7 +77,7 @@ public class GroupBySearchTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new OptionalContext()), is(equalTo(2l)));
 	}
@@ -102,7 +102,7 @@ public class GroupBySearchTest {
 														.asTriple())
 								.closeWriter();
 		
-		new ContextualizedPredicates(directory, 
+		new Evidence(directory, 
 									types,
 									labels,
 									new RankByFrequency(),
@@ -118,7 +118,7 @@ public class GroupBySearchTest {
 									.asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "one term", new PartialContext()), is(equalTo(1l)));
 	}

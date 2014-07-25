@@ -16,7 +16,7 @@ import org.apache.lucene.search.grouping.GroupingSearch;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.BytesRef;
 
-public class ContextualizedPredicates extends TripleIndex{
+public class Evidence extends TripleIndex{
 
 	private TripleIndex types;
 	private TripleIndex labels;
@@ -25,7 +25,7 @@ public class ContextualizedPredicates extends TripleIndex{
 	private KnowledgeBase knowledgeBase;
 	private AlgorithmFields algorithmFields;
 
-	public ContextualizedPredicates(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
+	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, FullTextQuery query, KnowledgeBase knowledgeBase) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
@@ -46,14 +46,14 @@ public class ContextualizedPredicates extends TripleIndex{
 		
 		document.add(new Field(algorithmFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(AnnotationResult label : this.labels.get(triple.object(), "any")){
+		for(CandidatePredicate label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
 		}		
 		document.add(new Field(algorithmFields.literal(), value, TextField.TYPE_STORED));
 		
 		String context = "";
-		for(AnnotationResult type : this.types.get(triple.subject(), "any")){
-			for(AnnotationResult label : this.labels.get(type.value(), "any")){
+		for(CandidatePredicate type : this.types.get(triple.subject(), "any")){
+			for(CandidatePredicate label : this.labels.get(type.value(), "any")){
 				context += " " + label.value();
 			}
 		}

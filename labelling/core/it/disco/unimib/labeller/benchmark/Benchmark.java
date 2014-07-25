@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.Events;
 
@@ -18,7 +18,7 @@ public class Benchmark {
 		for(GoldStandardGroup group : groups){
 			new Events().debug("processing gold standard " + group.context() + " " + group.label());
 			List<String> elements = group.elements();
-			List<AnnotationResult> labels = algorithm.typeOf(group.context(), elements);
+			List<CandidatePredicate> labels = algorithm.typeOf(group.context(), elements);
 			summary.track(group, labels);
 		}
 	}

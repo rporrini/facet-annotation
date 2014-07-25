@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.test;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 
 import java.util.ArrayList;
@@ -8,15 +8,15 @@ import java.util.List;
 
 class AnnotationAlgorithmTestDouble implements AnnotationAlgorithm{
 
-	private ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+	private ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 
 	public AnnotationAlgorithmTestDouble thatReturns(String result){
-		results.add(new AnnotationResult(result, 1));
+		results.add(new CandidatePredicate(result, 1));
 		return this;
 	}
 	
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		return results;
 	}
 }

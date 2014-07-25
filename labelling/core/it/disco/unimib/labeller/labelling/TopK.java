@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.AnnotationResult;
+import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.List;
 
@@ -15,8 +15,8 @@ public class TopK implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<AnnotationResult> typeOf(String context, List<String> elements) throws Exception {
-		List<AnnotationResult> results = algorithm.typeOf(context, elements);
+	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+		List<CandidatePredicate> results = algorithm.typeOf(context, elements);
 		return results.subList(0, Math.min(topK, results.size()));
 	}
 }

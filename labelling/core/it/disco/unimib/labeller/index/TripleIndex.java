@@ -24,12 +24,12 @@ public abstract class TripleIndex{
 		this.directory = directory;
 	}
 
-	public List<AnnotationResult> get(String type, String context) throws Exception {
-		ArrayList<AnnotationResult> results = new ArrayList<AnnotationResult>();
+	public List<CandidatePredicate> get(String type, String context) throws Exception {
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
 		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
 			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new AnnotationResult(toResult(indexedDocument), documentPointer.score));
+			results.add(new CandidatePredicate(toResult(indexedDocument), documentPointer.score));
 		}
 		return results;
 	}

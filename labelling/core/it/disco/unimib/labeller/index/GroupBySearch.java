@@ -19,13 +19,13 @@ import org.apache.lucene.store.Directory;
 public class GroupBySearch implements Index{
 
 	private IndexSearcher searcher;
-	private Score score;
+	private Occurrences occurrences;
 	private KnowledgeBase knowledgeBase;
 	private AlgorithmFields algorithmFields;
 	
-	public GroupBySearch(Directory indexDirectory, Score score, KnowledgeBase knowledgeBase) throws Exception{
+	public GroupBySearch(Directory indexDirectory, Occurrences score, KnowledgeBase knowledgeBase) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
-		this.score = score;
+		this.occurrences = score;
 		this.knowledgeBase = knowledgeBase;
 		this.algorithmFields = new AlgorithmFields();
 	}
@@ -43,7 +43,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<AnnotationResult> get(String value, String context, FullTextQuery query) throws Exception {
+	public List<CandidatePredicate> get(String value, String context, FullTextQuery query) throws Exception {
 		TopDocs results = searcher.search(query.createQuery(value, 
 										  context, 
 										  algorithmFields.literal(), 
@@ -56,10 +56,10 @@ public class GroupBySearch implements Index{
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{algorithmFields.label(), algorithmFields.context(), algorithmFields.property()}));
 			Document document = searcher.doc(result.doc, fields);
-			score.accumulate(document.getValues(knowledgeBase.label())[0], stem(StringUtils.join(document.getValues(algorithmFields.context()), " ")), stemmedContext);
+			occurrences.accumulate(document.getValues(knowledgeBase.label())[0], stem(StringUtils.join(document.getValues(algorithmFields.context()), " ")), stemmedContext);
 		}
-		List<AnnotationResult> annotations = score.toResults();
-		score.clear();
+		List<CandidatePredicate> annotations = occurrences.toResults();
+		occurrences.clear();
 		return annotations;
 	}
 

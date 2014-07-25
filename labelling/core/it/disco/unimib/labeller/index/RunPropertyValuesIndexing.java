@@ -21,7 +21,7 @@ public class RunPropertyValuesIndexing {
 		TripleIndex types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		TripleIndex labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
-		final ContextualizedPredicates predicates = new ContextualizedPredicates(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
+		final Evidence predicates = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
 															types, 
 															labels,
 															null, 
