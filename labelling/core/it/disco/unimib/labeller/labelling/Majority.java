@@ -8,13 +8,13 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class MajorityPredicate implements AnnotationAlgorithm{
+public class Majority implements AnnotationAlgorithm{
 
 	private Predicates candidates;
 	private double threshold;
 	private FullTextQuery query;
 
-	public MajorityPredicate(Predicates candidates, double threshold, FullTextQuery query){
+	public Majority(Predicates candidates, double threshold, FullTextQuery query){
 		this.candidates = candidates;
 		this.threshold = threshold;
 		this.query = query;

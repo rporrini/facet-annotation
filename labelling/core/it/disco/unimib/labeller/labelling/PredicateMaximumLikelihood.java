@@ -8,12 +8,12 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class MaximumLikelihoodPredicate implements AnnotationAlgorithm{
+public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 
 	private Predicates candidates;
 	private FullTextQuery query;
 
-	public MaximumLikelihoodPredicate(Predicates candidates, FullTextQuery query){
+	public PredicateMaximumLikelihood(Predicates candidates, FullTextQuery query){
 		this.candidates = candidates;
 		this.query = query;
 	}

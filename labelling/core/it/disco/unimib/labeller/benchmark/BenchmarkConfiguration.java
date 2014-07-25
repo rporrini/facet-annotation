@@ -8,11 +8,11 @@ import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.Score;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.CandidatePredicates;
-import it.disco.unimib.labeller.labelling.ContextualizedMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.PredicateContextualizedMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.InspectedPredicates;
 import it.disco.unimib.labeller.labelling.MajorityHit;
-import it.disco.unimib.labeller.labelling.MajorityPredicate;
-import it.disco.unimib.labeller.labelling.MaximumLikelihoodPredicate;
+import it.disco.unimib.labeller.labelling.Majority;
+import it.disco.unimib.labeller.labelling.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.ContextForPredicate;
 import it.disco.unimib.labeller.labelling.ValueForPredicate;
 import it.disco.unimib.labeller.labelling.Constant;
@@ -49,7 +49,7 @@ public class BenchmarkConfiguration{
 
 	public BenchmarkConfiguration majorityAnnotation(double threshold, FullTextQuery query, String index, KnowledgeBase knowledgeBase) throws Exception{
 		Index fts = groupBySearchIndex(new CountPredicates(), query, index, knowledgeBase);
-		this.algorithm = majorityAlgorithm(new MajorityPredicate(new InspectedPredicates(new CandidatePredicates(fts)), threshold, query));
+		this.algorithm = majorityAlgorithm(new Majority(new InspectedPredicates(new CandidatePredicates(fts)), threshold, query));
 		return this;
 	}
 	
@@ -74,11 +74,11 @@ public class BenchmarkConfiguration{
 	}
 	
 	private AnnotationAlgorithm contextualizedMaximumLikelihoodAlgorithm(GroupBySearch fts) {
-		return new ContextualizedMaximumLikelihood(fts);
+		return new PredicateContextualizedMaximumLikelihood(fts);
 	}
 	
-	private MaximumLikelihoodPredicate maximumLikelihoodAlgorithm(Index fts, FullTextQuery query) {
-		return new MaximumLikelihoodPredicate(new InspectedPredicates(new CandidatePredicates(fts)), query);
+	private PredicateMaximumLikelihood maximumLikelihoodAlgorithm(Index fts, FullTextQuery query) {
+		return new PredicateMaximumLikelihood(new InspectedPredicates(new CandidatePredicates(fts)), query);
 	}
 	
 	private TopK majorityAlgorithm(AnnotationAlgorithm algorithmType) {

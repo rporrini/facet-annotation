@@ -15,7 +15,7 @@ import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.OptionalContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.SimplifiedMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.PredicateContextualizedMaximumLikelihood;
 
 import java.util.Arrays;
 import java.util.List;
@@ -24,8 +24,8 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class SimplifiedMaximumLikelihoodTest {
-	
+public class PredicateContextualizedMaximumLikelihoodTest {
+
 	@Test
 	public void exampleCase() throws Exception {
 		Directory directory = new RAMDirectory();
@@ -77,13 +77,12 @@ public class SimplifiedMaximumLikelihoodTest {
 									.closeWriter();
 		
 		GroupBySearch index = new GroupBySearch(directory, new CountPredicates(), new KnowledgeBase("dbpedia"));
-		List<AnnotationResult> results = new SimplifiedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
+		List<AnnotationResult> results = new PredicateContextualizedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
 		
 		assertThat(results, is(not(empty())));
 		assertThat(results, hasSize(3));
-		assertThat(results.get(0).score(), is(closeTo(0.810, 0.001)));
+		assertThat(results.get(0).score(), is(closeTo(1.203, 0.001)));
 		assertThat(results.get(1).score(), is(closeTo(0.693, 0.001)));
-		assertThat(results.get(2).score(), is(closeTo(0.400, 0.001)));
+		assertThat(results.get(2).score(), is(closeTo(0.510, 0.001)));
 	}
-
 }

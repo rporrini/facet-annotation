@@ -10,11 +10,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ContextualizedMaximumLikelihood implements AnnotationAlgorithm{
+public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgorithm{
 
 	private GroupBySearch index;
 
-	public ContextualizedMaximumLikelihood(GroupBySearch index) {
+	public PredicateContextualizedMaximumLikelihood(GroupBySearch index) {
 		this.index = index;
 	}
 
