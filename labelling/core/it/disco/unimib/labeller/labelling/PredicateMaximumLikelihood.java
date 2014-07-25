@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
@@ -10,17 +11,17 @@ import java.util.List;
 
 public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 
-	private Predicates candidates;
+	private Index index;
 	private SelectionCriterion query;
 
-	public PredicateMaximumLikelihood(Predicates candidates, SelectionCriterion query){
-		this.candidates = candidates;
+	public PredicateMaximumLikelihood(Index candidates, SelectionCriterion query){
+		this.index = candidates;
 		this.query = query;
 	}
 	
 	@Override
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<CandidatePredicate>> values = candidates.forValues(context, elements.toArray(new String[elements.size()]), query);
+		HashMap<String, List<CandidatePredicate>> values = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query);
 
 		Distribution distribution = new Distribution(values);
 		

@@ -1,17 +1,30 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.SimpleOccurrences;
-import it.disco.unimib.labeller.index.DistanceMetricWrapper;
-import it.disco.unimib.labeller.index.SelectionCriterion;
-import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.CompleteContext;
-import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
+import it.disco.unimib.labeller.index.DistanceMetricWrapper;
+import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.KnowledgeBase;
+import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.index.Occurrences;
+import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.SelectionCriterion;
+import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
+import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
+import it.disco.unimib.labeller.labelling.Constant;
+import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.Majority;
+import it.disco.unimib.labeller.labelling.MajorityHit;
+import it.disco.unimib.labeller.labelling.PredicateContextualizedMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.PredicateMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.TopK;
+import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
 import java.io.File;
 import java.util.HashMap;
+
+import org.apache.lucene.store.NIOFSDirectory;
 
 import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 import uk.ac.shef.wit.simmetrics.similaritymetrics.QGramsDistance;
@@ -32,17 +45,17 @@ public class BenchmarkParameters{
 		return summaries.get(metricName());
 	}
 
-	public BenchmarkConfiguration configuration() throws Exception{
-		HashMap<String, BenchmarkConfiguration> configurations = new HashMap<String, BenchmarkConfiguration>();
-		configurations.put("majority", new BenchmarkConfiguration("majority").majorityAnnotation(majorityK(), context(), indexPath(), getKB()));
-		configurations.put("majority-hit", new BenchmarkConfiguration("majority-hit").majorityHit(new SimpleOccurrences(), context(), indexPath(), getKB()));
-		configurations.put("majority-hit-jaccard", new BenchmarkConfiguration("majority-hit-jaccard").majorityHit(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("majority-hit-weighted", new BenchmarkConfiguration("majority-hit-weighted").weightedMajorityHit(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("ml-frequency", new BenchmarkConfiguration("ml-frequency").predicateAnnotationWithCustomGrouping(new SimpleOccurrences(), context(), indexPath(), getKB()));
-		configurations.put("ml-jaccard", new BenchmarkConfiguration("ml-jaccard").predicateAnnotationWithCustomGrouping(new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), context(), indexPath(), getKB()));
-		configurations.put("cml", new BenchmarkConfiguration("cml").predicateAnnotationWithContextualMaximumLikelihood(new SimpleOccurrences(), context(), indexPath(), getKB()));
-		configurations.put("ml-ngram", new BenchmarkConfiguration("ml-ngram").predicateAnnotationWithCustomGrouping(new ContextualizedOccurrences(new DistanceMetricWrapper(new QGramsDistance())), context(), indexPath(), getKB()));
-		return configurations.get(algorithm());
+	public AnnotationAlgorithm configuration() throws Exception{
+		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
+		configurations.put("majority", majorityAnnotation(majorityK(), context(), new SimpleOccurrences(), indexPath(), getKB()));
+		configurations.put("majority-hit", majorityHit(context(), new SimpleOccurrences(), indexPath(), getKB()));
+		configurations.put("majority-hit-jaccard", majorityHit(context(), new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), indexPath(), getKB()));
+		configurations.put("majority-hit-weighted", weightedMajorityHit(context(), new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), indexPath(), getKB()));
+		configurations.put("ml-frequency", maximumLikelihood(context(), new SimpleOccurrences(), indexPath(), getKB()));
+		configurations.put("ml-jaccard", maximumLikelihood(context(), new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), indexPath(), getKB()));
+		configurations.put("cml", contextualizedMaximumLikelihood(new SimpleOccurrences(), indexPath(), getKB()));
+		configurations.put("ml-ngram", maximumLikelihood(context(), new ContextualizedOccurrences(new DistanceMetricWrapper(new QGramsDistance())), indexPath(), getKB()));
+		return getAlgorithm(configurations.get(algorithm()));
 	}
 
 	public GoldStandardGroup[] goldStandard() {
@@ -101,5 +114,34 @@ public class BenchmarkParameters{
 	
 	private double majorityK() {
 		return Double.parseDouble(args.length > 4 ? args[4] : "0");
+	}
+	
+	private AnnotationAlgorithm contextualizedMaximumLikelihood(Occurrences score, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+		return new PredicateContextualizedMaximumLikelihood(fts);
+	}
+	
+	private AnnotationAlgorithm maximumLikelihood(SelectionCriterion query, Occurrences score, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+		return  new PredicateMaximumLikelihood(fts, query);
+	}
+
+	private AnnotationAlgorithm majorityAnnotation(double threshold, SelectionCriterion query, Occurrences score, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+		return new Majority(fts, threshold, query);
+	}
+	
+	private AnnotationAlgorithm weightedMajorityHit(SelectionCriterion query, Occurrences score, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+		return new MajorityHit(fts, new ContextForPredicate(fts), new ValueForPredicate());
+	}
+	
+	private AnnotationAlgorithm majorityHit(SelectionCriterion query, Occurrences score, String index, KnowledgeBase knowledgeBase) throws Exception{
+		GroupBySearch fts = new GroupBySearch(new NIOFSDirectory(new File(index)), score, knowledgeBase);
+		return new MajorityHit(fts, new Constant(), new Constant());
+	}
+
+	private AnnotationAlgorithm getAlgorithm(AnnotationAlgorithm algorithm){
+		return new TopK(1000, algorithm);
 	}
 }
