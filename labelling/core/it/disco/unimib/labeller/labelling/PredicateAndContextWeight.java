@@ -1,13 +1,13 @@
 package it.disco.unimib.labeller.labelling;
 
-import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.MandatoryContext;
 
 public class PredicateAndContextWeight implements PredicateWeight{
 	
-	private GroupBySearch index;
+	private Index index;
 	
-	public PredicateAndContextWeight(GroupBySearch index) {
+	public PredicateAndContextWeight(Index index) {
 		this.index = index;
 	}
 	

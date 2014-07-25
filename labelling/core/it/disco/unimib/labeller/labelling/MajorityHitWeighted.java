@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.labelling;
 
 import it.disco.unimib.labeller.index.AnnotationResult;
-import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.OptionalContext;
 
 import java.util.ArrayList;
@@ -10,11 +10,11 @@ import java.util.List;
 
 public class MajorityHitWeighted implements AnnotationAlgorithm{
 	
-	private GroupBySearch index;
+	private Index index;
 	private PredicateWeight externalWeight;
 	private PredicateWeight internalWeight;
 
-	public MajorityHitWeighted(GroupBySearch index, PredicateWeight externalWeight, PredicateWeight internalWeight) {
+	public MajorityHitWeighted(Index index, PredicateWeight externalWeight, PredicateWeight internalWeight) {
 		this.index = index;
 		this.externalWeight = externalWeight;
 		this.internalWeight = internalWeight;
@@ -28,7 +28,7 @@ public class MajorityHitWeighted implements AnnotationAlgorithm{
 		
 		for(String predicate : distribution.predicates()){
 			double score = 0;
-			double frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
+			long frequencyOfPredicate = index.count(predicate, context, new OptionalContext());
 			double predicateAndContextDiscriminacy = externalWeight.discriminacy(predicate, context, frequencyOfPredicate, null);
 			for(String value : distribution.values()){
 				double predicateAndValueDiscriminacy = internalWeight.discriminacy(predicate, value, frequencyOfPredicate, distribution);

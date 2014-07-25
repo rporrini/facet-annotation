@@ -13,15 +13,20 @@ public class IndexTestDouble implements Index{
 	private HashMap<String, List<AnnotationResult>> results = new HashMap<String, List<AnnotationResult>>();
 	
 	@Override
-	public List<AnnotationResult> get(String type, String context, FullTextQuery query) throws Exception {
-		List<AnnotationResult> result = results.get(type);
+	public List<AnnotationResult> get(String value, String context, FullTextQuery query) throws Exception {
+		List<AnnotationResult> result = results.get(value);
 		if(result == null) result = new ArrayList<AnnotationResult>();
 		return result;
 	}
+
+	@Override
+	public long count(String predicate, String context, FullTextQuery query) throws Exception {
+		return 0;
+	}
 	
-	public IndexTestDouble resultFor(String type, String predicate, double score){
-		if(!results.containsKey(type)) results.put(type, new ArrayList<AnnotationResult>());
-		results.get(type).add(new AnnotationResult(predicate, score));
+	public IndexTestDouble resultFor(String value, String predicate, double score){
+		if(!results.containsKey(value)) results.put(value, new ArrayList<AnnotationResult>());
+		results.get(value).add(new AnnotationResult(predicate, score));
 		return this;
 	}
 }

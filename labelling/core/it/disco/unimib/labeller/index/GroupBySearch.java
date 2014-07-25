@@ -30,6 +30,7 @@ public class GroupBySearch implements Index{
 		this.algorithmFields = new AlgorithmFields();
 	}
 	
+	@Override
 	public long count(String predicate, String context, FullTextQuery query) throws Exception {
 		TopDocs results = searcher.search(query.createQuery(predicate, 
 															context,

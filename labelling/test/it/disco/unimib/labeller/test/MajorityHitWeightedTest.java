@@ -25,9 +25,35 @@ import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
 public class MajorityHitWeightedTest {
+	
+	@Test
+	public void shouldOrderOnlyByHit() throws Exception {
+		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
+													 .resultFor("2010", "predicate", 1)
+													 .resultFor("2010", "other predicate", 10);
+		
+		
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
+		
+		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		
+		assertThat(results.get(0).value(), equalTo("other predicate"));
+	}
+	
+	@Test
+	public void shouldCumulateHits() throws Exception {
+		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
+													 .resultFor("2010", "predicate", 1);
+
+		MajorityHitWeighted majorityHitWeighted = new MajorityHitWeighted(index, new PredicateWithoutWeight(), new PredicateWithoutWeight());
+		
+		List<AnnotationResult> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+
+		assertThat(results.get(0).score(), equalTo(2.0));
+	}
 
 	@Test
-	public void shouldOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
+	public void shouldNotOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
@@ -40,7 +66,7 @@ public class MajorityHitWeightedTest {
 	}
 	
 	@Test
-	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {
+	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {	
 		Directory directory = buildIndex();
 		
 		GroupBySearch index = new GroupBySearch(directory , new CountPredicates(), new KnowledgeBase("dbpedia"));
