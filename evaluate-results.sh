@@ -21,7 +21,7 @@ then
 fi
 if [ "$dataset" == "yago1" ]
 then
-	trec_eval_arguments="-M 100 -m recip_rank"
+	trec_eval_arguments="-M 1000 -m recip_rank"
 fi
 
 run-trec-eval $trec_eval_arguments $gs $run
