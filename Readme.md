@@ -29,7 +29,7 @@ Dalla root del repository:
 ## Run degli algoritmi
 Dalla root del repository:
 
-* ```./run-algorithm.sh ALGORITHM OCCURRENCES CONTEXT KNOWLEDGE-BASE METRIC-NAME```
+* ```./run-algorithm.sh algorithm=ALGORITHM occurrences=OCCURRENCES context=CONTEXT kb=KNOWLEDGE-BASE summary=METRIC-NAME```
 
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti.
 

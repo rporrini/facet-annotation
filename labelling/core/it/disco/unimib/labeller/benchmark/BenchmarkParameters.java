@@ -27,10 +27,10 @@ import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class BenchmarkParameters{
 	
-	private String[] args;
+	private CommandLineArguments args;
 
 	public BenchmarkParameters(String[] args) {
-		this.args = args;
+		this.args = new CommandLineArguments(args);
 	}
 	
 	public Summary analysis(){
@@ -91,23 +91,23 @@ public class BenchmarkParameters{
 	}
 	
 	private String algorithmString(){
-		return args[0];
+		return args.asString("algorithm");
 	}
 	
 	private String occurrencesString(){
-		return args[1];
+		return args.asString("occurrences");
 	}
 	
 	private String contextString() {
-		return args[2];
+		return args.asString("context");
 	}
 	
 	private String knowledgeBaseString(){
-		return args[3];
+		return args.asString("kb");
 	}
 	
 	private String metricString(){
-		return args[4];
+		return args.asString("summary");
 	}
 	
 	private AnnotationAlgorithm getAlgorithm(AnnotationAlgorithm algorithm){

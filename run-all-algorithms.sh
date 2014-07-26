@@ -13,7 +13,7 @@ function run(){
 	destination="$results/$algorithm-$occurrences-$context.qrels"
 
 	mkdir -p $results
-	./run-algorithm.sh $algorithm $occurrences $context $dataset trec > $destination
+	./run-algorithm.sh algorithm=$algorithm occurrences=$occurrences context=$context kb=$dataset summary=trec > $destination
 	signal "$algorithm $occurrences $context $dataset Done"
 }
 
