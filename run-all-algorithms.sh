@@ -35,11 +35,10 @@ run mhw simple "complete" $dataset
 run mhw contextualized no $dataset
 run mhw contextualized partial $dataset
 run mhw contextualized "complete" $dataset
-run ml simple no $dataset
-run ml simple partial $dataset
-run ml simple "complete" $dataset
-run ml contextualized no $dataset
-run ml contextualized partial $dataset
-run ml contextualized "complete" $dataset
+#run ml simple no $dataset
+#run ml simple partial $dataset
+#run ml simple "complete" $dataset
+#run ml contextualized no $dataset
+#run ml contextualized partial $dataset
+#run ml contextualized "complete" $dataset
 
-signal Done
