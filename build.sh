@@ -118,7 +118,7 @@ signal "Building Project"
 cd $project
 rm -rf $build
 mkdir -p $build
-javac -Xlint:deprecation -cp .:'lib/*' $(find ./* | grep '\.java') -d $build
+javac -encoding utf8 -cp .:'lib/*' $(find ./* | grep '\.java') -d $build
 cd $build
 for file in $(find ../../lib/* | grep .jar)
 do
