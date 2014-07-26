@@ -16,7 +16,6 @@ import it.disco.unimib.labeller.labelling.ContextForPredicate;
 import it.disco.unimib.labeller.labelling.MajorityHit;
 import it.disco.unimib.labeller.labelling.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.TopK;
-import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
 import java.io.File;
 import java.util.HashMap;
@@ -41,7 +40,7 @@ public class BenchmarkParameters{
 		return summaries.get(metricString());
 	}
 
-	public AnnotationAlgorithm configuration() throws Exception{
+	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
 		Occurrences occurrences = occurrences();
 		SelectionCriterion context = context();
@@ -50,7 +49,7 @@ public class BenchmarkParameters{
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));
-		configurations.put("mhw", new MajorityHit(index, context, new ContextForPredicate(index), new ValueForPredicate()));
+		configurations.put("mhw", new MajorityHit(index, context, new ContextForPredicate(index), new Constant()));
 		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
