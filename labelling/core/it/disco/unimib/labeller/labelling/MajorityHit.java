@@ -28,20 +28,26 @@ public class MajorityHit implements AnnotationAlgorithm{
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
 		Distribution distribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), selection));
-		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		HashMap<String, Long> cachedFrequencyOfPredicates = new HashMap<String, Long>();
 		
 		for(String value : distribution.values()){
 			for(String predicate : distribution.predicates()){
-				if(!predicateCounts.containsKey(predicate)) predicateCounts.put(predicate, 0.0);
-				long frequencyOfPredicate = index.countPredicatesInContext(predicate, context, new NoContext());
-				cachedFrequencyOfPredicates.put(predicate, frequencyOfPredicate);
+				if(!predicateCounts.containsKey(predicate)) {
+					predicateCounts.put(predicate, 0.0);
+				}
+				if(!cachedFrequencyOfPredicates.containsKey(predicate)) {
+					cachedFrequencyOfPredicates.put(predicate, index.countPredicatesInContext(predicate, context, new NoContext())); 
+				}
+				long frequencyOfPredicate = cachedFrequencyOfPredicates.get(predicate); 
+				
 				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate);
 				predicateCounts.put(predicate, predicateCounts.get(predicate) + (distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy));
 			}
 		}
+		
+		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : predicateCounts.keySet()){
 			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, cachedFrequencyOfPredicates.get(predicate));
 			results.add(new CandidatePredicate(predicate, predicateCounts.get(predicate) * predicateAndContextDiscriminacy));
