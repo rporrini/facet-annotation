@@ -11,6 +11,12 @@ import org.apache.lucene.util.Version;
 
 public class IndexFields{
 	
+	private String knowledgeBase;
+
+	public IndexFields(String knowledgeBase){
+		this.knowledgeBase = knowledgeBase;
+	}
+	
 	public Analyzer analyzer() {
 		Map<String, Analyzer> analyzers = new HashMap<String, Analyzer>();
 		analyzers.put(property(), new KeywordAnalyzer());
@@ -37,5 +43,11 @@ public class IndexFields{
 	
 	public String context() {
 		return "context";
+	}
+	
+	public String predicateField() {
+		String field = label();
+		if(knowledgeBase.equals("dbpedia")) field = property();
+		return field;
 	}
 }

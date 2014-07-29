@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
@@ -25,7 +24,6 @@ import java.util.List;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class MajorityHitTest {
@@ -60,7 +58,7 @@ public class MajorityHitTest {
 	public void shouldNotOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
 		
@@ -73,7 +71,7 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
 		
@@ -82,11 +80,11 @@ public class MajorityHitTest {
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
 	
-	@Ignore
+	@Test
 	public void shouldOrderConsideringTheWeightOfPredicatesOnYago() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("yago1", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("yago1"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
 		
@@ -95,11 +93,11 @@ public class MajorityHitTest {
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
 	
-	@Ignore
+	@Test
 	public void shouldOrderConsideringTheWeightOfPredicatesOnDbpediaWithLabels() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia-with-labels", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
 		
@@ -112,7 +110,7 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringPartialContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new ContextForPredicate(index), new Constant());
 		
@@ -125,7 +123,7 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringCompleteContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new CompleteContext(), new ContextForPredicate(index), new Constant());
 		
@@ -138,7 +136,7 @@ public class MajorityHitTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new ValueForPredicate());
 		
@@ -169,7 +167,7 @@ public class MajorityHitTest {
 									labels,
 									new RankByFrequency(),
 									new NoContext(),
-									new KnowledgeBase("dbpedia", new IndexFields()))
+									new IndexFields("dbpedia"))
 										.add(new TripleBuilder().withSubject("http://a_subject")
 																.withPredicate("http://predicate")
 																.withLiteral("value").asTriple())

@@ -6,7 +6,6 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
@@ -37,13 +36,13 @@ public class ContextForPredicateTest {
 										labels,
 										new RankByFrequency(),
 										new NoContext(),
-										new KnowledgeBase("dbpedia", new IndexFields()))
+										new IndexFields("dbpedia"))
 												.add(new TripleBuilder().withSubject("a_subject")
 																		.withPredicate("predicate")
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields())));
+		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")));
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1, null);
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching context", 1, null);

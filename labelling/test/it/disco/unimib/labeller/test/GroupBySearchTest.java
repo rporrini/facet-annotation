@@ -7,7 +7,6 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
@@ -26,7 +25,7 @@ public class GroupBySearchTest {
 		
 		new EntityValues(directory).closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		assertThat(index.count("any", "any", new NoContext()), is(equalTo(0l)));
 	}
@@ -39,11 +38,11 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
 									new NoContext(),
-									new KnowledgeBase("dbpedia", new IndexFields()))
+									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(1l)));
 	}
@@ -56,11 +55,11 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
 									new NoContext(),
-									new KnowledgeBase("dbpedia-with-labels", new IndexFields()))
+									new IndexFields("dbpedia-with-labels"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(1l)));
 	}
@@ -73,12 +72,12 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
 									new NoContext(),
-									new KnowledgeBase("dbpedia", new IndexFields()))
+									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(2l)));
 	}
@@ -108,7 +107,7 @@ public class GroupBySearchTest {
 									labels,
 									new RankByFrequency(),
 									new NoContext(),
-									new KnowledgeBase("dbpedia", new IndexFields()))
+									new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
 											.withPredicate("http://predicate")
@@ -119,7 +118,7 @@ public class GroupBySearchTest {
 									.asTriple())
 								.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		assertThat(index.count("http://predicate", "one term", new PartialContext()), is(equalTo(1l)));
 	}

@@ -26,7 +26,7 @@ public class RunPropertyValuesIndexing {
 															labels,
 															null, 
 															new NoContext(),
-															new KnowledgeBase(knowledgeBase, new IndexFields()));
+															new IndexFields(knowledgeBase));
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
 			executor.execute(new Runnable() {

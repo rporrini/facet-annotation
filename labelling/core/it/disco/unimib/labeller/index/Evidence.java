@@ -22,34 +22,32 @@ public class Evidence extends TripleIndex{
 	private TripleIndex labels;
 	private RankingStrategy ranking;
 	private SelectionCriterion query;
-	private KnowledgeBase knowledgeBase;
-	private IndexFields algorithmFields;
+	private IndexFields indexFields;
 
-	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, SelectionCriterion query, KnowledgeBase knowledgeBase) throws Exception {
+	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, SelectionCriterion query, IndexFields fields) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;
 		this.ranking = ranking;
 		this.query = query;
-		this.knowledgeBase = knowledgeBase;
-		this.algorithmFields = new IndexFields();
+		this.indexFields = fields;
 	}
 
 	@Override
 	protected String toResult(Document doc) {
-		return doc.get(knowledgeBase.predicateField());
+		return doc.get(indexFields.predicateField());
 	}
 
 	@Override
 	protected Document toDocument(NTriple triple) throws Exception {
 		Document document = new Document();
 		
-		document.add(new Field(algorithmFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
 		for(CandidatePredicate label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
 		}		
-		document.add(new Field(algorithmFields.literal(), value, TextField.TYPE_STORED));
+		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
 		String context = "";
 		for(CandidatePredicate type : this.types.get(triple.subject(), "any")){
@@ -57,20 +55,20 @@ public class Evidence extends TripleIndex{
 				context += " " + label.value();
 			}
 		}
-		document.add(new Field(algorithmFields.context(), context, TextField.TYPE_STORED));
+		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
 		
-		document.add(new Field(algorithmFields.namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));
-		document.add(new Field(algorithmFields.label(), triple.predicate().label(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.label(), triple.predicate().label(), TextField.TYPE_STORED));
 		return document;
 	}
 	
 	@Override
 	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
- 		GroupingSearch groupingSearch = new GroupingSearch(knowledgeBase.predicateField());
+ 		GroupingSearch groupingSearch = new GroupingSearch(indexFields.predicateField());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
-		Query query = this.query.asQuery(type, context, algorithmFields.literal(), algorithmFields.context(), algorithmFields.namespace(), analyzer());
+		Query query = this.query.asQuery(type, context, indexFields.literal(), indexFields.context(), indexFields.namespace(), analyzer());
 		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
 			ranking.reRank(context, group, indexSearcher);
 			ids.add(group.scoreDocs[0]);
@@ -80,6 +78,6 @@ public class Evidence extends TripleIndex{
 
 	@Override
 	protected Analyzer analyzer() {
-		return algorithmFields.analyzer();
+		return indexFields.analyzer();
 	}
 }

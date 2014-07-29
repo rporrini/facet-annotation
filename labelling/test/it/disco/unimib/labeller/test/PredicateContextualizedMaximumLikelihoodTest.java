@@ -11,7 +11,6 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
@@ -44,7 +43,7 @@ public class PredicateContextualizedMaximumLikelihoodTest {
 																				.withObject("movie")
 																				.asTriple())
 														.closeWriter();
-		new Evidence(directory , types , labels , new RankByFrequency(), new NoContext(), new KnowledgeBase("dbpedia", new IndexFields()))
+		new Evidence(directory , types , labels , new RankByFrequency(), new NoContext(), new IndexFields("dbpedia"))
 									.add(new TripleBuilder().withSubject("http://a_novelist")
 															.withPredicate("http://dateOfBirth")
 															.withLiteral("2009").asTriple())
@@ -77,7 +76,7 @@ public class PredicateContextualizedMaximumLikelihoodTest {
 															.withLiteral("2015").asTriple())
 									.closeWriter();
 		
-		GroupBySearch index = new GroupBySearch(directory, new SimpleOccurrences(), new KnowledgeBase("dbpedia", new IndexFields()));
+		GroupBySearch index = new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia"));
 		List<CandidatePredicate> results = new PredicateContextualizedMaximumLikelihood(index).typeOf("novelist", Arrays.asList(new String[]{"2009", "2010", "2014"}));
 		
 		assertThat(results, is(not(empty())));
