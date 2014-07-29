@@ -4,11 +4,13 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
@@ -22,6 +24,7 @@ import java.util.List;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class MajorityHitTest {
@@ -78,6 +81,58 @@ public class MajorityHitTest {
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
 	
+	@Ignore
+	public void shouldOrderConsideringTheWeightOfPredicatesOnYago() throws Exception {	
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("yago1"));
+		
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
+	
+	@Ignore
+	public void shouldOrderConsideringTheWeightOfPredicatesOnDbpediaWithLabels() throws Exception {	
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia-with-labels"));
+		
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index), new Constant());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
+	
+	@Test
+	public void shouldOrderConsideringPartialContext() throws Exception {	
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
+		
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new ContextForPredicate(index), new Constant());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
+	
+	@Test
+	public void shouldOrderConsideringCompleteContext() throws Exception {	
+		Directory directory = buildIndex();
+		
+		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new KnowledgeBase("dbpedia"));
+		
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new CompleteContext(), new ContextForPredicate(index), new Constant());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		
+		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
+	
 	@Test
 	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
 		Directory directory = buildIndex();
@@ -93,13 +148,19 @@ public class MajorityHitTest {
 
 	private Directory buildIndex() throws Exception {
 		Directory directory = new RAMDirectory();
-		TripleIndex types = new EntityValues(directory).add(new TripleBuilder().withSubject("a_subject")
-																				.withObject("context")
+		TripleIndex types = new EntityValues(directory).add(new TripleBuilder().withSubject("http://a_subject")
+																				.withObject("http://context")
+																				.asTriple())
+														.add(new TripleBuilder().withSubject("http://a_subject_with_partial_context")
+																				.withObject("http://partial_context")
 																				.asTriple())
 																.closeWriter();
 		
-		TripleIndex labels = new EntityValues(directory).add(new TripleBuilder().withSubject("context")
+		TripleIndex labels = new EntityValues(directory).add(new TripleBuilder().withSubject("http://context")
 																				.withLiteral("context")
+																				.asTriple())
+														.add(new TripleBuilder().withSubject("http://partial_context")
+																				.withLiteral("partial context")
 																				.asTriple())
 										.closeWriter();
 		new Evidence(directory, 
@@ -108,15 +169,15 @@ public class MajorityHitTest {
 									new RankByFrequency(),
 									new NoContext(),
 									new KnowledgeBase("dbpedia"))
-										.add(new TripleBuilder().withSubject("a_subject")
-																.withPredicate("predicate")
+										.add(new TripleBuilder().withSubject("http://a_subject")
+																.withPredicate("http://predicate")
 																.withLiteral("value").asTriple())
-										.add(new TripleBuilder().withSubject("a_subject_without_context")
-																.withPredicate("predicate_without_context")
-																.withLiteral("value").asTriple())
-										.add(new TripleBuilder().withSubject("a_subject_without_context")
-																.withPredicate("predicate")
+										.add(new TripleBuilder().withSubject("http://a_subject_without_context")
+																.withPredicate("http://predicate")
 																.withLiteral("another_value").asTriple())
+										.add(new TripleBuilder().withSubject("http://a_subject_with_partial_context")
+																.withPredicate("http://predicate_with_partial_context")
+																.withLiteral("value").asTriple())
 										.closeWriter();
 		return directory;
 	}
