@@ -152,6 +152,44 @@ public class GroupBySearchTest {
 	}
 	
 	@Test
+	public void shouldCountCoOccurrencesOfAValueForAPredicateWhenKBIsYago() throws Exception {
+		Directory directory = new RAMDirectory();
+		
+		IndexFields fields = new IndexFields("yago1");
+		new Evidence(directory, 
+						new EntityValues(new RAMDirectory()).closeWriter(), 
+						new EntityValues(new RAMDirectory()).closeWriter(),
+						null,
+						null,
+						fields)
+					.add(new TripleBuilder().withPredicate("http://yago1#the_predicate").withLiteral("the value").asTriple())
+					.closeWriter();
+		
+		GroupBySearch search = new GroupBySearch(directory, null, fields);
+		
+		assertThat(search.countValuesForPredicates("the value", "the_predicate"), is(1l));
+	}
+	
+	@Test
+	public void shouldCountCoOccurrencesOfAValueForAPredicateWhenKBIsDBPediaWithLabels() throws Exception {
+		Directory directory = new RAMDirectory();
+		
+		IndexFields fields = new IndexFields("dbpedia-with-labels");
+		new Evidence(directory, 
+						new EntityValues(new RAMDirectory()).closeWriter(), 
+						new EntityValues(new RAMDirectory()).closeWriter(),
+						null,
+						null,
+						fields)
+					.add(new TripleBuilder().withPredicate("http://dbpedia.org/property/the_predicate").withLiteral("the value").asTriple())
+					.closeWriter();
+		
+		GroupBySearch search = new GroupBySearch(directory, null, fields);
+		
+		assertThat(search.countValuesForPredicates("the value", "the_predicate"), is(1l));
+	}
+	
+	@Test
 	public void shouldCountManyCoOccurrencesOfAValueForAPredicate() throws Exception {
 		Directory directory = new RAMDirectory();
 		
