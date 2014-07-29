@@ -20,7 +20,7 @@ public class IndexTestDouble implements Index{
 	}
 
 	@Override
-	public long count(String predicate, String context, SelectionCriterion query) throws Exception {
+	public long countPredicatesInContext(String predicate, String context, SelectionCriterion query) throws Exception {
 		return 0;
 	}
 	

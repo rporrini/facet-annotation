@@ -36,7 +36,7 @@ public class MajorityHit implements AnnotationAlgorithm{
 		for(String value : distribution.values()){
 			for(String predicate : distribution.predicates()){
 				if(!predicateCounts.containsKey(predicate)) predicateCounts.put(predicate, 0.0);
-				long frequencyOfPredicate = index.count(predicate, context, new NoContext());
+				long frequencyOfPredicate = index.countPredicatesInContext(predicate, context, new NoContext());
 				cachedFrequencyOfPredicates.put(predicate, frequencyOfPredicate);
 				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate, distribution);
 				predicateCounts.put(predicate, predicateCounts.get(predicate) + (distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy));

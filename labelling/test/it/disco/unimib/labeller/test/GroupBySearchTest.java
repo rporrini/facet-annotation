@@ -18,7 +18,7 @@ import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
 public class GroupBySearchTest {
-
+	
 	@Test
 	public void shouldGive0ResultsWhenQueriedAgainstAnEmptyIndex() throws Exception {
 		Directory directory = new RAMDirectory();
@@ -27,7 +27,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.count("any", "any", new NoContext()), is(equalTo(0l)));
+		assertThat(index.countPredicatesInContext("any", "any", new NoContext()), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -44,7 +44,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -61,7 +61,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -79,7 +79,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.count("http://predicate", "any", new NoContext()), is(equalTo(2l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(2l)));
 	}
 	
 	@Test
@@ -120,6 +120,55 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.count("http://predicate", "one term", new PartialContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "one term", new PartialContext()), is(equalTo(1l)));
+	}
+	
+	@Test
+	public void shouldGiveZeroResultsWhenCountingANotExistingCombinationOfValueAndPredicate() throws Exception {
+		Directory directory = new RAMDirectory();
+		new EntityValues(directory).closeWriter();
+		
+		GroupBySearch search = new GroupBySearch(directory, null, new IndexFields("dbpedia"));
+		
+		assertThat(search.countValuesForPredicates("any value", "any_predicate"), is(equalTo(0l)));
+	}
+	
+	@Test
+	public void shouldCountCoOccurrencesOfAValueForAPredicate() throws Exception {
+		Directory directory = new RAMDirectory();
+		
+		new Evidence(directory, 
+						new EntityValues(new RAMDirectory()).closeWriter(), 
+						new EntityValues(new RAMDirectory()).closeWriter(),
+						null,
+						null,
+						new IndexFields("dbpedia"))
+					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("the value").asTriple())
+					.closeWriter();
+		
+		GroupBySearch search = new GroupBySearch(directory, null, new IndexFields("dbpedia"));
+		
+		assertThat(search.countValuesForPredicates("the value", "the_predicate"), is(1l));
+	}
+	
+	@Test
+	public void shouldCountManyCoOccurrencesOfAValueForAPredicate() throws Exception {
+		Directory directory = new RAMDirectory();
+		
+		new Evidence(directory, 
+						new EntityValues(new RAMDirectory()).closeWriter(), 
+						new EntityValues(new RAMDirectory()).closeWriter(),
+						null,
+						null,
+						new IndexFields("dbpedia"))
+					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("first value").asTriple())
+					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("first value").asTriple())
+					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("second value").asTriple())
+					.add(new TripleBuilder().withPredicate("another_predicate").withLiteral("first value").asTriple())
+					.closeWriter();
+		
+		GroupBySearch search = new GroupBySearch(directory, null, new IndexFields("dbpedia"));
+		
+		assertThat(search.countValuesForPredicates("first value", "the_predicate"), is(2l));
 	}
 }

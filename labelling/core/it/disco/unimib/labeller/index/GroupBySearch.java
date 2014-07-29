@@ -29,7 +29,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public long count(String predicate, String context, SelectionCriterion query) throws Exception {
+	public long countPredicatesInContext(String predicate, String context, SelectionCriterion query) throws Exception {
 		TopDocs results = searcher.search(query.asQuery(predicate, 
 														context,
 														indexFields.predicateField(),
@@ -37,6 +37,17 @@ public class GroupBySearch implements Index{
 														indexFields.namespace(),
 														indexFields.analyzer()),
 														1);
+		return results.totalHits;
+	}
+	
+	public long countValuesForPredicates(String value, String predicate) throws Exception {
+		TopDocs results = searcher.search(new CompleteContext().asQuery(value, 
+																		predicate, 
+																		indexFields.literal(), 
+																		indexFields.predicateField(), 
+																		indexFields.namespace(), 
+																		indexFields.analyzer()),
+																		1);
 		return results.totalHits;
 	}
 	

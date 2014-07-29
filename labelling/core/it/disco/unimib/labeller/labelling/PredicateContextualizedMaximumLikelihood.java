@@ -28,7 +28,7 @@ public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgor
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : optionalDistribution.predicates()){
 			double score = 0;
-			double frequencyOfPredicateInContext = index.count(predicate, context, new CompleteContext());
+			double frequencyOfPredicateInContext = index.countPredicatesInContext(predicate, context, new CompleteContext());
 			
 			for(String value : optionalDistribution.values()){
 				double frequencyOfValueAndPredicate = optionalDistribution.scoreOf(predicate, value);
