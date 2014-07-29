@@ -138,7 +138,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new ValueForPredicate());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new ValueForPredicate(index));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		

@@ -12,7 +12,7 @@ public class ContextForPredicate implements Discriminacy{
 	}
 	
 	@Override
-	public double of(String predicate, String context, double frequencyOfPredicate, Distribution distribution) throws Exception{
+	public double of(String predicate, String context, double frequencyOfPredicate) throws Exception{
 		double frequencyOfPredicateAndContext = index.countPredicatesInContext(predicate, context, new CompleteContext());
 		return Math.log((frequencyOfPredicateAndContext/frequencyOfPredicate) + 1.1);
 	}
