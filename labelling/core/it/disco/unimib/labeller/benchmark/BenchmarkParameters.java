@@ -49,7 +49,7 @@ public class BenchmarkParameters{
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));
-		configurations.put("mhw", new MajorityHit(index, context, new ContextForPredicate(index), new Constant()));
+		configurations.put("mhw", new MajorityHit(index, context, new ContextForPredicate(index, new PartialContext()), new Constant()));
 		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}

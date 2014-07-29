@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -42,7 +43,7 @@ public class ContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")));
+		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")), new CompleteContext());
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching context", 1);
