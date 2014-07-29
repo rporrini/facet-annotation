@@ -7,6 +7,7 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 
 public class MajorityHit implements AnnotationAlgorithm{
@@ -29,16 +30,23 @@ public class MajorityHit implements AnnotationAlgorithm{
 		Distribution distribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), selection));
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		
-		for(String predicate : distribution.predicates()){
-			double score = 0;
-			long frequencyOfPredicate = index.count(predicate, context, new NoContext());
-			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, frequencyOfPredicate, distribution);
-			for(String value : distribution.values()){
+		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
+		HashMap<String, Long> cachedFrequencyOfPredicates = new HashMap<String, Long>();
+		
+		for(String value : distribution.values()){
+			for(String predicate : distribution.predicates()){
+				if(!predicateCounts.containsKey(predicate)) predicateCounts.put(predicate, 0.0);
+				long frequencyOfPredicate = index.count(predicate, context, new NoContext());
+				cachedFrequencyOfPredicates.put(predicate, frequencyOfPredicate);
 				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate, distribution);
-				score += distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy;
+				predicateCounts.put(predicate, predicateCounts.get(predicate) + (distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy));
 			}
-			results.add(new CandidatePredicate(predicate, score * predicateAndContextDiscriminacy));
 		}
+		for(String predicate : predicateCounts.keySet()){
+			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, cachedFrequencyOfPredicates.get(predicate), distribution);
+			results.add(new CandidatePredicate(predicate, predicateCounts.get(predicate) * predicateAndContextDiscriminacy));
+		}
+		
 		Collections.sort(results);
 		return results;
 	}
