@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.KnowledgeBase;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.Occurrences;
@@ -45,7 +46,7 @@ public class BenchmarkParameters{
 		Occurrences occurrences = occurrences();
 		SelectionCriterion context = context();
 		
-		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences, new KnowledgeBase(knowledgeBase));
+		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences, new KnowledgeBase(knowledgeBase, new IndexFields()));
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));

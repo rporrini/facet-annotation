@@ -37,7 +37,7 @@ public class Evidence extends TripleIndex{
 
 	@Override
 	protected String toResult(Document doc) {
-		return doc.get(knowledgeBase.label());
+		return doc.get(knowledgeBase.predicateField());
 	}
 
 	@Override
@@ -67,7 +67,7 @@ public class Evidence extends TripleIndex{
 	@Override
 	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
 		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
- 		GroupingSearch groupingSearch = new GroupingSearch(knowledgeBase.label());
+ 		GroupingSearch groupingSearch = new GroupingSearch(knowledgeBase.predicateField());
 		groupingSearch.setGroupSort(Sort.RELEVANCE);
 		groupingSearch.setIncludeScores(true);
 		Query query = this.query.asQuery(type, context, algorithmFields.literal(), algorithmFields.context(), algorithmFields.namespace(), analyzer());

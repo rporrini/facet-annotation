@@ -20,7 +20,7 @@ public class Try {
 		String knowledgeBase = "dbpedia";
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
-		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase));
+		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new KnowledgeBase(knowledgeBase, new IndexFields()));
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new ContextForPredicate(index), new Constant());
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));

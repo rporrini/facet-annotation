@@ -56,7 +56,7 @@ public class GroupBySearch implements Index{
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{algorithmFields.label(), algorithmFields.context(), algorithmFields.property()}));
 			Document document = searcher.doc(result.doc, fields);
-			occurrences.accumulate(document.getValues(knowledgeBase.label())[0], stem(StringUtils.join(document.getValues(algorithmFields.context()), " ")), stemmedContext);
+			occurrences.accumulate(document.getValues(knowledgeBase.predicateField())[0], stem(StringUtils.join(document.getValues(algorithmFields.context()), " ")), stemmedContext);
 		}
 		List<CandidatePredicate> annotations = occurrences.toResults();
 		occurrences.clear();

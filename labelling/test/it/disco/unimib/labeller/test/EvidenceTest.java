@@ -7,10 +7,11 @@ import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.KnowledgeBase;
-import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SpecificNamespace;
@@ -23,8 +24,8 @@ import org.junit.Test;
 
 public class EvidenceTest {
 	
-	private final KnowledgeBase yago = new KnowledgeBase("yago1");
-	private final KnowledgeBase dbpedia = new KnowledgeBase("dbpedia");
+	private final KnowledgeBase yago = new KnowledgeBase("yago1", new IndexFields());
+	private final KnowledgeBase dbpedia = new KnowledgeBase("dbpedia", new IndexFields());
 
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
@@ -115,7 +116,7 @@ public class EvidenceTest {
 		TripleIndex index = new Evidence(new RAMDirectory(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(),
-										 new RankByFrequency(), new NoContext(), new KnowledgeBase("anyKnowledgeBase"))
+										 new RankByFrequency(), new NoContext(), new KnowledgeBase("anyKnowledgeBase", new IndexFields()))
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
 										.withLiteral("the literal")
@@ -138,7 +139,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new CompleteContext(), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new CompleteContext(), new KnowledgeBase("anyKnowledgeBase", new IndexFields()))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -152,14 +153,14 @@ public class EvidenceTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new Evidence(new RAMDirectory(), null, null, null, new NoContext(), new KnowledgeBase("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
+		new Evidence(new RAMDirectory(), null, null, null, new NoContext(), new KnowledgeBase("anyKnowledgeBase", new IndexFields())).closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
 		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext()), new KnowledgeBase("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext()), new KnowledgeBase("anyKnowledgeBase", new IndexFields()))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")
