@@ -35,7 +35,7 @@ Lo script stampa su standard output i risultati dell'algoritmo a seconda della m
 
 Parametri:
 
-* ALGORITHM: mh, mhw, ml
+* ALGORITHM: mh, mhw, mhwv, mhwcv, ml
 * OCCURRENCES: simple, contextualized 
 * CONTEXT: no, partial, complete
 * KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
