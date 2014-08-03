@@ -15,7 +15,7 @@ import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.labelling.Constant;
-import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
 import it.disco.unimib.labeller.labelling.MajorityHit;
 import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
@@ -73,7 +73,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -86,7 +86,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("yago1"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -99,7 +99,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -112,7 +112,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new ContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -125,7 +125,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new CompleteContext(), new ContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new CompleteContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		

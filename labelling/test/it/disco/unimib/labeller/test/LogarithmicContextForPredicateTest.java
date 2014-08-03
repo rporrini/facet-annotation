@@ -11,13 +11,13 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class ContextForPredicateTest {
+public class LogarithmicContextForPredicateTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
@@ -43,7 +43,7 @@ public class ContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		ContextForPredicate predicateAndContextWeight = new ContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")), new CompleteContext());
+		LogarithmicContextForPredicate predicateAndContextWeight = new LogarithmicContextForPredicate(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")), new CompleteContext());
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching context", 1);

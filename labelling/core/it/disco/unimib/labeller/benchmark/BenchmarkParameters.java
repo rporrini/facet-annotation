@@ -12,11 +12,11 @@ import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.Constant;
-import it.disco.unimib.labeller.labelling.ContextForPredicate;
+import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
 import it.disco.unimib.labeller.labelling.MajorityHit;
 import it.disco.unimib.labeller.labelling.PredicateMaximumLikelihood;
+import it.disco.unimib.labeller.labelling.SimpleContextForPredicate;
 import it.disco.unimib.labeller.labelling.TopK;
-import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
 import java.io.File;
 import java.util.HashMap;
@@ -50,9 +50,8 @@ public class BenchmarkParameters{
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));
-		configurations.put("mhw", new MajorityHit(index, context, new ContextForPredicate(index, new PartialContext()), new Constant()));
-		configurations.put("mhwv", new MajorityHit(index, context, new Constant(), new ValueForPredicate(index)));
-		configurations.put("mhwcv", new MajorityHit(index, context, new ContextForPredicate(index, new PartialContext()), new ValueForPredicate(index)));
+		configurations.put("mhw", new MajorityHit(index, context, new LogarithmicContextForPredicate(index, new PartialContext()), new Constant()));
+		configurations.put("mhsw", new MajorityHit(index, context, new SimpleContextForPredicate(index, new PartialContext()), new Constant()));
 		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
