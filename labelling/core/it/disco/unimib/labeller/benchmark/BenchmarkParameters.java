@@ -17,6 +17,7 @@ import it.disco.unimib.labeller.labelling.MajorityHit;
 import it.disco.unimib.labeller.labelling.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.labelling.SimpleContextForPredicate;
 import it.disco.unimib.labeller.labelling.TopK;
+import it.disco.unimib.labeller.labelling.ValueForPredicate;
 
 import java.io.File;
 import java.util.HashMap;
@@ -52,6 +53,8 @@ public class BenchmarkParameters{
 		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));
 		configurations.put("mhw", new MajorityHit(index, context, new LogarithmicContextForPredicate(index, new PartialContext()), new Constant()));
 		configurations.put("mhsw", new MajorityHit(index, context, new SimpleContextForPredicate(index, new PartialContext()), new Constant()));
+		configurations.put("mhwv", new MajorityHit(index, context, new Constant(), new ValueForPredicate(index)));
+		configurations.put("mhwcv", new MajorityHit(index, context, new LogarithmicContextForPredicate(index, new PartialContext()), new ValueForPredicate(index)));
 		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
