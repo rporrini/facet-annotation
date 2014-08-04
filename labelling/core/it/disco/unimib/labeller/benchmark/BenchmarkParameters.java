@@ -83,6 +83,7 @@ public class BenchmarkParameters{
 		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("dbpedia-with-labels", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("yago1", "../evaluation/labeller-indexes/yago1/properties");
+		paths.put("yago1-simple", "../evaluation/labeller-indexes/yago1/properties");
 		return paths.get(knowledgeBase);
 	}
 	
@@ -91,6 +92,7 @@ public class BenchmarkParameters{
 		paths.put("dbpedia", "../evaluation/gold-standard-enhanced");
 		paths.put("dbpedia-with-labels", "../evaluation/gold-standard-enhanced");
 		paths.put("yago1", "../evaluation/gold-standard-sarawagi-enhanced");
+		paths.put("yago1-simple", "../evaluation/gold-standard-sarawagi-simple");
 		return paths.get(knowledgeBaseString());
 	}
 	

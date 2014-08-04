@@ -19,7 +19,12 @@ then
 fi
 if [ "$dataset" == "yago1" ]
 then
-	goldStandard="$results/gold-standard-sarawagi.qrels"
+	goldStandard="$results/gold-standard-sarawagi-enhanced.qrels"
+	trecResultsDirectory="$results/yago1-results-enhanced"
+fi
+if [ "$dataset" == "yago1-simple" ]
+then
+	goldStandard="$results/gold-standard-sarawagi-simple.qrels"
 	trecResultsDirectory="$results/yago1-results"
 fi
 temp="$trecResultsDirectory/temp"
