@@ -11,7 +11,7 @@ import org.apache.lucene.search.BooleanQuery;
 public class NoContext implements SelectionCriterion{
 	
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		BooleanQuery query = new AllValues().createQuery(value, context, literalField, contextField, namespaceField, analyzer);
+		BooleanQuery query = new AllValues().createQuery(value, literalField, analyzer);
 		
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
