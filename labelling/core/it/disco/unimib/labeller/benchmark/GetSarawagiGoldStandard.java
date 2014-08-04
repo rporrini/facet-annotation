@@ -39,16 +39,15 @@ public class GetSarawagiGoldStandard {
 					if(!relation.equalsIgnoreCase("NULL")){
 						Document table = builder.parse(tableFrom(relationFiles));
 						relationsNotInvolvingNulls++;
-						ArrayList<String> groupContent = groupContent(table, firstColumnId);
 						String contextObtainedFromFirstColumn = contextOf(builder.parse(relationFiles), firstColumnId);
 						String contextObtainedFromSecondColumn = contextOf(builder.parse(relationFiles), secondColumnId);
 						if(!contextObtainedFromFirstColumn.isEmpty()){
 							relationsWithContext++;
-							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent, contextObtainedFromFirstColumn);
+							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent(table, secondColumnId), contextObtainedFromFirstColumn);
 						}
 						if(!contextObtainedFromSecondColumn.isEmpty()){
 							relationsWithContext++;
-							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent, contextObtainedFromSecondColumn);
+							saveGroup(targetDirectory, relationsWithContext, relationFiles, relation, groupContent(table, firstColumnId), contextObtainedFromSecondColumn);
 						}
 					}
 				}
@@ -61,7 +60,7 @@ public class GetSarawagiGoldStandard {
 
 	private static void saveGroup(String targetDirectory, int relationsWithContext, File relationFiles, String relation,
 								  ArrayList<String> groupContent, String context) throws Exception {
-		File group = new File(targetDirectory + "/sarawagi_" + context + "_" + relation + "_" + relationsWithContext);
+		File group = new File(targetDirectory + "/"+ relationsWithContext + "_sarawagi_" + context.trim() + "_" + relation);
 		String sourceFile = tableFrom(relationFiles).getPath().replace("../", "");
 		groupContent.add(0, "#" + sourceFile);
 		FileUtils.writeLines(group, groupContent);
