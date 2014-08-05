@@ -21,11 +21,11 @@ then
 fi
 if [ "$dataset" == "yago1" ]
 then
-	trec_eval_arguments="-M 20 -N 20 -m recip_rank"
+	trec_eval_arguments="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
 fi
 if [ "$dataset" == "yago1-simple" ]
 then
-	trec_eval_arguments="-M 20 -N 20 -m recip_rank"
+	trec_eval_arguments="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
 fi
 
 run-trec-eval $trec_eval_arguments $gs $run
