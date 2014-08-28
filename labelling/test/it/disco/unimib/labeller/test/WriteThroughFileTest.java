@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.corpus.OutputFile;
+import it.disco.unimib.labeller.corpus.WriteThroughFile;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -15,7 +15,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-public class OutputFileTest {
+public class WriteThroughFileTest {
 
 	private TemporaryDirectory temporaryDirectory;
 	
@@ -32,7 +32,7 @@ public class OutputFileTest {
 	@Test
 	public void shouldNotWriteUntilTheFirstLineIsWritten() {
 		
-		new OutputFile(temporaryDirectory.getFile("out"));
+		new WriteThroughFile(temporaryDirectory.getFile("out"));
 		
 		assertThat(temporaryDirectory.get().list().length, is(equalTo(0)));
 	}
@@ -41,7 +41,7 @@ public class OutputFileTest {
 	public void shouldWriteALine() throws Exception {
 		File output = temporaryDirectory.getFile("out");
 		
-		new OutputFile(output).write("a line");
+		new WriteThroughFile(output).write("a line");
 		List<String> writtenLines = new InputFile(output).lines();
 		
 		assertThat(writtenLines, hasSize(1));

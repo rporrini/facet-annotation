@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.nullValue;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
-import it.disco.unimib.labeller.corpus.OutputFile;
+import it.disco.unimib.labeller.corpus.WriteThroughFile;
 
 import org.junit.After;
 import org.junit.Before;
@@ -55,7 +55,7 @@ public class UnorderedGroupsTest {
 	
 	private void createFiles(TemporaryDirectory directory, int howMany) throws Exception {
 		for(int i=0; i<howMany; i++){
-			new OutputFile(directory.getFile("file-" + i)).write("content " + i);
+			new WriteThroughFile(directory.getFile("file-" + i)).write("content " + i);
 		}
 	}
 }
