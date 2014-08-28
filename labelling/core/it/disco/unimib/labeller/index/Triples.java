@@ -19,7 +19,7 @@ public class Triples {
 		this.connector = connector;
 	}
 
-	public void fill(TripleIndex index, TripleFilter filter) throws Exception {
+	public void fill(TripleStore index, TripleFilter filter) throws Exception {
 		LineIterator lines = IOUtils.lineIterator(connector.content(), "UTF-8");
 		int processedLines = 0;
 		int skippedLines = 0;

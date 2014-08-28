@@ -7,7 +7,7 @@ import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 
-public class BulkWriteFile {
+public class BulkWriteFile implements OutputFile{
 
 	private File file;
 	private int threshold;

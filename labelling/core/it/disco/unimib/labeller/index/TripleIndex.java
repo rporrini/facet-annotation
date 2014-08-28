@@ -14,7 +14,7 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-public abstract class TripleIndex{
+public abstract class TripleIndex implements TripleStore{
 
 	private IndexWriter writer;
 	private Directory directory;
@@ -39,11 +39,12 @@ public abstract class TripleIndex{
 		return this;
 	}
 	
-	public TripleIndex closeReader() throws Exception {
+	public TripleStore closeReader() throws Exception {
 		this.reader.close();
 		return this;
 	}
 	
+	@Override
 	public TripleIndex add(NTriple triple) throws Exception {
 		openWriter().addDocument(toDocument(triple));
 		return this;
