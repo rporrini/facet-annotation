@@ -7,35 +7,31 @@ import static org.hamcrest.Matchers.nullValue;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.corpus.OutputFile;
 
-import java.io.File;
-import java.io.IOException;
-
-import org.apache.commons.io.FileUtils;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
 public class UnorderedGroupsTest {
 
-	private File temporaryDirectory;
+	private TemporaryDirectory temporaryDirectory;
 	
 	@Before
 	public void createTemporaryDirectory() throws Exception{
-		temporaryDirectory = new File("tmp");
-		FileUtils.forceMkdir(temporaryDirectory);
+		temporaryDirectory = new TemporaryDirectory();
 	}
 	
 	@After
 	public void deleteTemporaryDirectory() throws Exception{
-		FileUtils.forceDelete(temporaryDirectory);
+		temporaryDirectory.delete();
 	}
 	
 	@Test
 	public void shouldReturnTheRightNumberOfConnectors() throws Exception {
 		createFiles(temporaryDirectory, 10);
 		
-		GoldStandardGroup[] groups = new UnorderedGroups(temporaryDirectory).getGroups();
+		GoldStandardGroup[] groups = new UnorderedGroups(temporaryDirectory.get()).getGroups();
 		
 		assertThat(groups.length, equalTo(10));
 	}
@@ -43,7 +39,7 @@ public class UnorderedGroupsTest {
 	@Test
 	public void shouldReturnNullWhenAskedForANotKnownId() throws Exception {
 		
-		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory).getGroupById(1234);
+		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory.get()).getGroupById(1234);
 		
 		assertThat(group, is(nullValue()));
 	}
@@ -52,14 +48,14 @@ public class UnorderedGroupsTest {
 	public void shouldReturnTheRightGroupWhenAskedForAnExistingId() throws Exception {
 		createFiles(temporaryDirectory, 2);
 		
-		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory).getGroupById(Math.abs("file-1".hashCode()));
+		GoldStandardGroup group = new UnorderedGroups(temporaryDirectory.get()).getGroupById(Math.abs("file-1".hashCode()));
 		
 		assertThat(group.elements(), hasItem("content 1"));
 	}
 	
-	private void createFiles(File directory, int howMany) throws IOException {
+	private void createFiles(TemporaryDirectory directory, int howMany) throws Exception {
 		for(int i=0; i<howMany; i++){
-			FileUtils.write(new File(directory, "file-" + i), "content " + i);
+			new OutputFile(directory.getFile("file-" + i)).write("content " + i);
 		}
 	}
 }
