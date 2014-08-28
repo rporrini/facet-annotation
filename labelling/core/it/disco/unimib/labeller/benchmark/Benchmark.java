@@ -2,7 +2,6 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.Events;
 
 import java.util.List;
 

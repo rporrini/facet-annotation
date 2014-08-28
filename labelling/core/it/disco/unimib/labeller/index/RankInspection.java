@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.Events;
+import it.disco.unimib.labeller.benchmark.Events;
 
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.grouping.GroupDocs;

@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.labelling;
+package it.disco.unimib.labeller.benchmark;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;

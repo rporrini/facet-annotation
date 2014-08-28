@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.labelling.HttpConnector;
+import it.disco.unimib.labeller.benchmark.HttpConnector;
 
 import org.junit.Test;
 

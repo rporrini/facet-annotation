@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.Events;
+import it.disco.unimib.labeller.benchmark.Events;
 
 import java.io.File;
 import java.util.concurrent.ExecutorService;

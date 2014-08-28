@@ -1,7 +1,5 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.labelling.HttpConnector;
-
 import java.io.File;
 import java.net.URLEncoder;
 import java.util.ArrayList;

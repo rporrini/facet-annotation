@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.labelling;
+package it.disco.unimib.labeller.benchmark;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.http.client.methods.HttpGet;

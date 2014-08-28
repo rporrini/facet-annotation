@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.labelling.Events;
+import it.disco.unimib.labeller.benchmark.Events;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

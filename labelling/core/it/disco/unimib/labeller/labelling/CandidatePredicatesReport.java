@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.labelling;
 
+import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
