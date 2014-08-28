@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.test;
 
-import it.disco.unimib.labeller.index.FileSystemConnector;
+import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.ByteArrayInputStream;
 import java.io.InputStream;
@@ -9,9 +9,9 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class FileSystemConnectorTestDouble extends FileSystemConnector{
+public class InputFileTestDouble extends InputFile{
 
-	public FileSystemConnectorTestDouble() {
+	public InputFileTestDouble() {
 		super(null);
 	}
 
@@ -33,12 +33,12 @@ public class FileSystemConnectorTestDouble extends FileSystemConnector{
 		return new ByteArrayInputStream(StringUtils.join(lines(), "\n").getBytes());
 	}
 
-	public FileSystemConnectorTestDouble withName(String name) {
+	public InputFileTestDouble withName(String name) {
 		this.name = name;
 		return this;
 	}
 
-	public FileSystemConnectorTestDouble withLine(String line) {
+	public InputFileTestDouble withLine(String line) {
 		lines.add(line);
 		return this;
 	}

@@ -7,11 +7,11 @@ import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 
-public class FileSystemConnector{
+public class InputFile{
 	
 	private File file;
 
-	public FileSystemConnector(File file) {
+	public InputFile(File file) {
 		this.file = file;
 	}
 

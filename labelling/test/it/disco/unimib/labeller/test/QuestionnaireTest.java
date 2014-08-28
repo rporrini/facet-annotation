@@ -141,7 +141,7 @@ public class QuestionnaireTest {
 	}
 	
 	private GoldStandardGroup createGroup(String name, int numberOfValues) {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble().withName(name);
+		InputFileTestDouble connector = new InputFileTestDouble().withName(name);
 		for(int i = 1; i <= numberOfValues; i++){
 			connector.withLine("value" + i);
 		}

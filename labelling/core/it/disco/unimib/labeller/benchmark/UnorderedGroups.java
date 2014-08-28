@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.FileSystemConnector;
+import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -16,7 +16,7 @@ public class UnorderedGroups implements GoldStandard {
 
 	@Override
 	public GoldStandardGroup[] getGroups() {
-		List<FileSystemConnector> connectors = filesIn(directory);
+		List<InputFile> connectors = filesIn(directory);
 		GoldStandardGroup[] groups = new GoldStandardGroup[connectors.size()];
 		for(int i=0; i<connectors.size(); i++){
 			groups[i] = new GoldStandardGroup(connectors.get(i));
@@ -32,10 +32,10 @@ public class UnorderedGroups implements GoldStandard {
 		return null;
 	}
 	
-	private List<FileSystemConnector> filesIn(File directory) {
-		List<FileSystemConnector> connectors = new ArrayList<FileSystemConnector>();
+	private List<InputFile> filesIn(File directory) {
+		List<InputFile> connectors = new ArrayList<InputFile>();
 		for(File file : directory.listFiles()){
-			connectors.add(new FileSystemConnector(file));
+			connectors.add(new InputFile(file));
 		}
 		return connectors;
 	}

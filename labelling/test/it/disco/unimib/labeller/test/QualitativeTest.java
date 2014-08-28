@@ -32,7 +32,7 @@ public class QualitativeTest {
 	}
 
 	private GoldStandardGroup createGroup(String name) {
-		GoldStandardGroup year = new GoldStandardGroup(new FileSystemConnectorTestDouble().withName(name));
+		GoldStandardGroup year = new GoldStandardGroup(new InputFileTestDouble().withName(name));
 		return year;
 	}
 }

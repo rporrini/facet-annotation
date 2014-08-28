@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.FileSystemConnector;
+import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
 
@@ -11,7 +11,7 @@ public class GetGoldStandardPredicateDistribution {
 		String lastId = "";
 		double moreRelevant = 0;
 		double lessRelevant = 0;
-		for(String line : new FileSystemConnector(new File(goldStandard)).lines()){
+		for(String line : new InputFile(new File(goldStandard)).lines()){
 			String[] splitted = line.split(" ");
 			String id = splitted[0];
 			int value = Integer.parseInt(splitted[3]);

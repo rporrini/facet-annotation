@@ -18,7 +18,7 @@ public class TriplesTest {
 	@Test
 	public void shouldFillTheIndex() throws Exception {
 		TripleIndex index = new EntityValues(new RAMDirectory());
-		new Triples(new FileSystemConnectorTestDouble().withLine(
+		new Triples(new InputFileTestDouble().withLine(
 									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
 		index.closeWriter();
@@ -29,7 +29,7 @@ public class TriplesTest {
 	@Test
 	public void shouldAddOnlyMatchingPredicates() throws Exception {
 		TripleIndex index = new EntityValues(new RAMDirectory());
-		new Triples(new FileSystemConnectorTestDouble()
+		new Triples(new InputFileTestDouble()
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
 					.fill(index, new MatchingPredicate("http://label"));
@@ -40,14 +40,14 @@ public class TriplesTest {
 	
 	@Test(timeout = 1000)
 	public void shouldSkipStrangeLines() throws Exception {
-		new Triples(new FileSystemConnectorTestDouble()
+		new Triples(new InputFileTestDouble()
 							.withLine("曲：[http://musicbrainz.org/artist/a223958d-5c56-4b2c-a30a-87e357bc121b.html|周杰倫]"))
 					.fill(new EntityValues(new RAMDirectory()), new AcceptAll());
 	}
 	
 	@Test(timeout = 1000)
 	public void shouldSkipOtherStrangeLines() throws Exception {
-		new Triples(new FileSystemConnectorTestDouble()
+		new Triples(new InputFileTestDouble()
 							.withLine("Inaccurate ARs:")
 							.withLine("")
 							.withLine("    * 混音助理 means \"mixing assistant\", but is credited as \"co-mixer\".\" ."))
@@ -57,7 +57,7 @@ public class TriplesTest {
 	@Test
 	public void shouldIndexAlsoWithSpaces() throws Exception {
 		TripleIndex index = new EntityValues(new RAMDirectory());
-		new Triples(new FileSystemConnectorTestDouble()
+		new Triples(new InputFileTestDouble()
 							.withLine("<http://1234> <http://predicate> <http://uri with space> ."))
 					.fill(index, new AcceptAll());
 		index.closeWriter();

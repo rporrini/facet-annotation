@@ -13,9 +13,9 @@ import org.semanticweb.yars.nx.parser.NxParser;
 public class Triples {
 
 	private static final Pattern isAcceptable = Pattern.compile("^<.+> <.+> (?<object>.+) \\.");
-	private FileSystemConnector connector;
+	private InputFile connector;
 
-	public Triples(FileSystemConnector connector) {
+	public Triples(InputFile connector) {
 		this.connector = connector;
 	}
 

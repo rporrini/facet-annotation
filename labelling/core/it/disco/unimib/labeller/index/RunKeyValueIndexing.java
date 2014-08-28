@@ -14,7 +14,7 @@ public class RunKeyValueIndexing {
 		TripleIndex index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
-			new Triples(new FileSystemConnector(file)).fill(index, new MatchingPredicate(predicate));
+			new Triples(new InputFile(file)).fill(index, new MatchingPredicate(predicate));
 		}
 		index.closeWriter();
 	}

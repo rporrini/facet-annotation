@@ -16,7 +16,7 @@ public class GoldStandardTestDouble implements GoldStandard{
 	}
 	
 	public GoldStandardTestDouble withGroup(String name){
-		groups.add(new GoldStandardGroup(new FileSystemConnectorTestDouble().withName(name)));
+		groups.add(new GoldStandardGroup(new InputFileTestDouble().withName(name)));
 		return this;
 	}
 }

@@ -27,7 +27,7 @@ public class BenchmarkTest {
 		
 		new Benchmark(new AnnotationAlgorithmTestDouble().thatReturns("actual predicate"))
 						.on(new GoldStandardGroup[]{
-								new GoldStandardGroup(new FileSystemConnectorTestDouble().withName("amazon_category_expected relation"))
+								new GoldStandardGroup(new InputFileTestDouble().withName("amazon_category_expected relation"))
 							}, summary);
 		
 		assertThat(summary.result(), is(equalTo("Qualitative analysis\nCONTEXT|EXPECTED|ACTUAL\ncategory|expected relation|actual predicate")));

@@ -33,7 +33,7 @@ public class RunPropertyValuesIndexing {
 				@Override
 				public void run() {
 					try {
-						new Triples(new FileSystemConnector(file)).fill(predicates, new AcceptAll());
+						new Triples(new InputFile(file)).fill(predicates, new AcceptAll());
 					} catch (Exception e) {
 						new Events().error("processing file: " + file, e);
 					}

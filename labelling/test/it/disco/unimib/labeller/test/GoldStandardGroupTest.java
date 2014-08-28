@@ -15,7 +15,7 @@ public class GoldStandardGroupTest {
 
 	@Test
 	public void shouldReturnTheLabelOfTheGroupWhenThereIsAlsoAdditionalInformation() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																.withName("amazon_category_the label");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
@@ -25,7 +25,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldReturnTheContentOfTheGroup() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withLine("1900")
 																			.withLine("2000");
 		
@@ -36,7 +36,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldReturnTheNameOfTheSource() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
@@ -46,7 +46,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldReturnTheContext() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon_category");
 		
 		GoldStandardGroup group = new GoldStandardGroup(connector);
@@ -56,7 +56,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldGetTheHyperlink() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon_context_label_list_of_wines");
 
 		GoldStandardGroup group = new GoldStandardGroup(connector);
@@ -66,7 +66,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldSkipEmptyLines() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withLine("first line")
 																			.withLine("")
 																			.withLine("second line");
@@ -78,7 +78,7 @@ public class GoldStandardGroupTest {
 	
 	@Test
 	public void shouldSkipLinesWithHash() throws Exception {
-		FileSystemConnectorTestDouble connector = new FileSystemConnectorTestDouble()
+		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withLine("first line")
 																			.withLine("#second line")
 																			.withLine("third line");

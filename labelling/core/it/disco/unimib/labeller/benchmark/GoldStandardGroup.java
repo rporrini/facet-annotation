@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.FileSystemConnector;
+import it.disco.unimib.labeller.index.InputFile;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -9,9 +9,9 @@ import org.apache.commons.lang3.StringUtils;
 
 public class GoldStandardGroup {
 
-	private FileSystemConnector connector;
+	private InputFile connector;
 
-	public GoldStandardGroup(FileSystemConnector connector) {
+	public GoldStandardGroup(InputFile connector) {
 		this.connector = connector;
 	}
 
