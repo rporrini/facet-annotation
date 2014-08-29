@@ -8,7 +8,7 @@ destination=yago1
 cd $root
 mkdir -p evaluation/labeller-corpora/$destination
 
-./corpus.sh yago1-properties $destination yago1/types yago1/labels-english 2
+time ./corpus.sh yago1-properties $destination yago1/types yago1/labels-english 2
 
 cd evaluation/labeller-corpora/$destination
 cat * >> yago1-triples

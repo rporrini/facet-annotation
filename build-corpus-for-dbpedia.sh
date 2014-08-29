@@ -8,8 +8,8 @@ destination=dbpedia
 cd $root
 mkdir -p evaluation/labeller-corpora/$destination
 
-./corpus.sh dbpedia-properties $destination dbpedia/types dbpedia/labels 6
-./corpus.sh dbpedia-raw-properties $destination dbpedia/types dbpedia/labels 6
+time ./corpus.sh dbpedia-properties $destination dbpedia/types dbpedia/labels 6
+time ./corpus.sh dbpedia-raw-properties $destination dbpedia/types dbpedia/labels 6
 
 cd evaluation/labeller-corpora/$destination
 cat * >> dbpedia-triples
