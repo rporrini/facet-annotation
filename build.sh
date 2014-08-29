@@ -111,6 +111,10 @@ if [ ! -d "yago1-labels" ]; then
 	cd ..
 	rm -r yago1
 fi
+if [ ! -d "yago1-labels-english" ]; then
+	mkdir yago1-labels-english
+	grep -v @ yago1-labels/yago-labels.nt > yago1-labels-english/yago-labels-english.nt
+fi
 cd $root
 signal "Done"
 
