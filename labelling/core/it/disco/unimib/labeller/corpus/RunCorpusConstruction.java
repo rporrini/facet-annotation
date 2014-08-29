@@ -30,7 +30,7 @@ class RunCorpusConstruction{
 				@Override
 				public void run() {
 					try {
-						BulkWriteFile output = new BulkWriteFile(new File("../evaluation/labeller-corpus/" + target, file.getName()), 50000);
+						BulkWriteFile output = new BulkWriteFile(new File("../evaluation/labeller-corpora/" + target, file.getName()), 50000);
 						new Triples(new InputFile(file)).fill(new TripleCorpus(types, labels, output), new AcceptAll());
 						output.flush();
 					} catch (Exception e) {

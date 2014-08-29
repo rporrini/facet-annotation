@@ -17,8 +17,6 @@ project=$root/labelling
 cd $root
 ./build.sh
 
-mkdir -p evaluation/labeller-corpus/$targetDir
-
 signal "Building corpus for dataset $sourceDir in $targetDir using $types and $labels"
 cd $project
 java -Xmx4g -cp .:'labelling.jar' it.disco.unimib.labeller.corpus.RunCorpusConstruction $sourceDir $targetDir $types $labels $threads
