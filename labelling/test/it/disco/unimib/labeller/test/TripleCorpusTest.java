@@ -1,8 +1,10 @@
 package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.containsString;
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
-import static org.junit.Assert.assertThat;
+import static org.hamcrest.Matchers.is;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.corpus.TripleCorpus;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.TripleIndex;
@@ -45,11 +47,11 @@ public class TripleCorpusTest {
 		
 		new TripleCorpus(types, emptyIndex(), file)
 					.add(new TripleBuilder().withSubject("http://the.subject")
-											.withLiteral("i am a literal value")
+											.withLiteral("string")
 											.asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
-		assertThat(file.getWrittenLines().get(0), containsString("i am a literal value"));
+		assertThat(file.getWrittenLines().get(0), containsString("string"));
 	}
 	
 	@Test
@@ -58,7 +60,7 @@ public class TripleCorpusTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.entity")
-												.withObject("the label")
+												.withObject("label")
 												.asTriple())
 									.closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory())
@@ -71,7 +73,7 @@ public class TripleCorpusTest {
 		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.subject").withObject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
-		assertThat(file.getWrittenLines().get(0), containsString("the label"));
+		assertThat(file.getWrittenLines().get(0), containsString("label"));
 	}
 	
 	@Test
@@ -80,7 +82,7 @@ public class TripleCorpusTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.type")
-												.withObject("the type label")
+												.withObject("type label")
 												.asTriple())
 									.closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory())
@@ -93,7 +95,7 @@ public class TripleCorpusTest {
 		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
-		assertThat(file.getWrittenLines().get(0), containsString("the type label"));
+		assertThat(file.getWrittenLines().get(0), containsString("type label"));
 	}
 	
 	@Test
@@ -123,6 +125,33 @@ public class TripleCorpusTest {
 		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(2));
+	}
+	
+	@Test
+	public void literalValuesShouldBeNormalized() throws Exception {
+		OutputFileTestDouble file = new OutputFileTestDouble();
+		
+		TripleIndex labels = new EntityValues(new RAMDirectory())
+									.add(new TripleBuilder()
+												.withSubject("http://the.type")
+												.withObject("TYPE-label")
+												.asTriple())
+									.closeWriter();
+		
+		TripleIndex types = new EntityValues(new RAMDirectory())
+									.add(new TripleBuilder()
+												.withSubject("http://the.subject")
+												.withObject("http://the.type")
+												.asTriple())
+									.closeWriter();
+		
+		new TripleCorpus(types, labels, file)
+					.add(new TripleBuilder().withSubject("http://the.subject")
+											.withPredicate("thePredicate")
+											.withLiteral("2013-12-24")
+											.asTriple());
+		
+		assertThat(file.getWrittenLines().get(0), is(equalTo("type label thePredicate 2013 12 24")));
 	}
 	
 	private TripleIndex emptyIndex() throws Exception {
