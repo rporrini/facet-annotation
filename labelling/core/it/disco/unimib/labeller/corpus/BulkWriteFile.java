@@ -31,7 +31,7 @@ public class BulkWriteFile implements OutputFile{
 		return currentLines.size() == threshold;
 	}
 
-	private void flush() throws IOException {
+	public void flush() throws IOException {
 		FileUtils.writeLines(file, currentLines, true);
 		currentLines = new ArrayList<String>();
 	}
