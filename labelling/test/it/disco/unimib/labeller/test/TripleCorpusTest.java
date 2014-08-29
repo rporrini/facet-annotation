@@ -8,7 +8,6 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.TripleIndex;
 
 import org.apache.lucene.store.RAMDirectory;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class TripleCorpusTest {
@@ -17,8 +16,17 @@ public class TripleCorpusTest {
 	public void shouldWriteOutThePredicate() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		new TripleCorpus(emptyIndex(), emptyIndex(), file)
-					.add(new TripleBuilder().withPredicate("http://example.org#thePredicate").asTriple());
+		TripleIndex types = new EntityValues(new RAMDirectory())
+								.add(new TripleBuilder()
+											.withSubject("http://the.subject")
+											.withObject("http://the.type")
+											.asTriple())
+								.closeWriter();
+		
+		new TripleCorpus(types, emptyIndex(), file)
+					.add(new TripleBuilder().withSubject("http://the.subject")
+											.withPredicate("http://example.org#thePredicate")
+											.asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
 		assertThat(file.getWrittenLines().get(0), containsString("http://example.org#thePredicate"));
@@ -28,8 +36,17 @@ public class TripleCorpusTest {
 	public void shouldWriteTheValueIfLiteralObject() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		new TripleCorpus(emptyIndex(), emptyIndex(), file)
-					.add(new TripleBuilder().withLiteral("i am a literal value").asTriple());
+		TripleIndex types = new EntityValues(new RAMDirectory())
+									.add(new TripleBuilder()
+												.withSubject("http://the.subject")
+												.withObject("http://the.type")
+												.asTriple())
+									.closeWriter();
+		
+		new TripleCorpus(types, emptyIndex(), file)
+					.add(new TripleBuilder().withSubject("http://the.subject")
+											.withLiteral("i am a literal value")
+											.asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
 		assertThat(file.getWrittenLines().get(0), containsString("i am a literal value"));
@@ -44,8 +61,14 @@ public class TripleCorpusTest {
 												.withObject("the label")
 												.asTriple())
 									.closeWriter();
+		TripleIndex types = new EntityValues(new RAMDirectory())
+									.add(new TripleBuilder()
+												.withSubject("http://the.subject")
+												.withObject("http://the.type")
+												.asTriple())
+									.closeWriter();
 		
-		new TripleCorpus(emptyIndex(), labels, file).add(new TripleBuilder().withObject("http://the.entity").asTriple());
+		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.subject").withObject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
 		assertThat(file.getWrittenLines().get(0), containsString("the label"));
@@ -74,7 +97,6 @@ public class TripleCorpusTest {
 	}
 	
 	@Test
-	@Ignore
 	public void shouldWriteMultipleSentencesForEachContextElement() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		TripleIndex labels = new EntityValues(new RAMDirectory())

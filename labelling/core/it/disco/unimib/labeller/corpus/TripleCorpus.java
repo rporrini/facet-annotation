@@ -17,16 +17,18 @@ public class TripleCorpus {
 	}
 
 	public void add(NTriple triple) throws Exception {
-		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(CandidatePredicate label : this.labels.get(triple.object(), "any")){
+		String value = getLabel(triple.object());
+		for(CandidatePredicate type : this.types.get(triple.subject(), "any")){
+			String types = getLabel(type.value());
+			file.write(types + " " + triple.predicate().uri() + " " + value);
+		}
+	}
+
+	private String getLabel(String uri) throws Exception {
+		String value = uri.contains("http://") ? "" : uri;
+		for(CandidatePredicate label : this.labels.get(uri, "any")){
 			value += " " + label.value();
 		}
-		String context = "";
-		for(CandidatePredicate type : this.types.get(triple.subject(), "any")){
-			for(CandidatePredicate label : this.labels.get(type.value(), "any")){
-				context += " " + label.value();
-			}
-		}
-		file.write(context + " " + triple.predicate().uri() + " " + value);
+		return value;
 	}
 }
