@@ -30,20 +30,34 @@ public class TripleCorpus implements TripleStore{
 
 	@Override
 	public TripleCorpus add(NTriple triple) throws Exception {
-		String value = getLabel(triple.object());
+		List<String> values = getLabels(triple.object());
+		List<String> types = new ArrayList<String>();
 		for(CandidatePredicate type : this.types.get(triple.subject(), "any")){
-			String types = getLabel(type.value());
-			file.write(types + " " + triple.predicate().uri() + " " + value);
+			types.addAll(getLabels(type.value()));
+		}
+		for(String type : types){
+			for(String value : values){
+				file.write(type + " " + triple.predicate().uri() + " " + value);
+			}
 		}
 		return this;
 	}
 
-	private String getLabel(String uri) throws Exception {
-		String value = uri.contains("http://") ? "" : uri;
-		for(CandidatePredicate label : this.labels.get(uri, "any")){
-			value += " " + label.value();
+	private List<String> getLabels(String uri) throws Exception {
+		List<String> values = new ArrayList<String>();
+		if(!uri.contains("http://")){
+			values.add(uri);
 		}
-		return tokenize(new EnglishAnalyzer(Version.LUCENE_45), value);
+		else{
+			for(CandidatePredicate label : this.labels.get(uri, "any")){
+				values.add(label.value());
+			}
+		}
+		List<String> result = new ArrayList<String>();
+		for(String value : values){
+			result.add(tokenize(new EnglishAnalyzer(Version.LUCENE_45), value));
+		}
+		return result;
 	}
 	
 	private String tokenize(Analyzer analyzer, String string) throws Exception {
