@@ -14,7 +14,7 @@ public class GetComparison {
 
 	public static void main(String[] args) throws Exception {
 		String goldStandard = "../evaluation/results/gold-standard-sarawagi-simple.qrels";
-		String qrels = "../evaluation/results/yago1-simple-results/mh-contextualized-complete.qrels";
+		String qrels = "../evaluation/results/yago1-simple-results/mhw-simple-partial.qrels";
 		String goldStandardGroups = "../evaluation/gold-standard-sarawagi-simple";
 		
 		List<String> results = executeCommand("trec_eval -q -M 10 -m "
@@ -28,7 +28,7 @@ public class GetComparison {
 		List<String> notPerfectResults = new ArrayList<String>();
 		List<String> particularResults = results.subList(0, results.size() - 1);
 		for (String line : particularResults) {
-			if(measure(line) < 0.8) {
+			if(measure(line) < 1) {
 				notPerfectResults.add(line);
 			}
 		}
