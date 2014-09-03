@@ -5,6 +5,7 @@ import it.disco.unimib.labeller.index.InputFile;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 
 import org.apache.commons.io.IOUtils;
@@ -13,12 +14,15 @@ import org.apache.commons.lang3.StringUtils;
 public class GetComparison {
 
 	public static void main(String[] args) throws Exception {
-		String goldStandard = "../evaluation/results/gold-standard.qrels";
-		String qrels = "../evaluation/results/dbpedia-results/mhw-simple-partial.qrels";
-		String goldStandardGroups = "../evaluation/gold-standard-enhanced";
 		
-		int topK = 10;
-		double threshold = 1;
+		CommandLineArguments arguments = new CommandLineArguments(args);
+		int topK = Integer.parseInt(arguments.asString("k"));
+		double threshold = Double.parseDouble(arguments.asString("t"));
+		String goldStandard = goldStandardQRels(arguments.asString("kb"));
+		String resultDirectory = resultDirectory(arguments.asString("kb"));
+		String algorithmName = arguments.asString("alg");
+		String qrels = resultDirectory + algorithmName;
+		GoldStandard goldStandardGroups = new BenchmarkParameters(args).goldStandard();
 		
 		List<String> results = executeCommand("trec_eval -q -M " + topK + " -m "
 											+ "map"
@@ -40,11 +44,10 @@ public class GetComparison {
 		double incorrectRatio = incorrect / total;
 		System.out.println(incorrect + " improvable groups over " + total + " (" + incorrectRatio + ")");
 		
-		UnorderedGroups groups = new UnorderedGroups(new File(goldStandardGroups));
 		for(String result : notPerfectResults){
 			int id = id(result);
 			System.out.println("------------------------------------------");
-			GoldStandardGroup groupById = groups.getGroupById(id);
+			GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
 			System.out.println(measure(result) + " " + groupById.context() + " (" + groupById.elements().size() + " elements)");
 			System.out.println("expected predicates\tactual predicates");
 			
@@ -101,6 +104,24 @@ public class GetComparison {
 		Process result = Runtime.getRuntime().exec(command);
 		result.waitFor();
 		return IOUtils.readLines(result.getInputStream());
+	}
+	
+	private static String goldStandardQRels(String knowledgeBase){
+		HashMap<String, String> qrels = new HashMap<String, String>();
+		qrels.put("dbpedia", "gold-standard.qrels");
+		qrels.put("dbpedia-with-labels", "gold-standard-with-labels.qrels");
+		qrels.put("yago1", "gold-standard-sarawagi.qrels");
+		qrels.put("yago1-simple", "gold-standard-sarawagi-simple.qrels");
+		return "../evaluation/results/" + qrels.get(knowledgeBase);
+	}
+	
+	private static String resultDirectory(String knowledgeBase){
+		HashMap<String, String> qrels = new HashMap<String, String>();
+		qrels.put("dbpedia", "dbpedia-results/");
+		qrels.put("dbpedia-with-labels", "dbpedia-with-labels-results/");
+		qrels.put("yago1", "yago1-results/");
+		qrels.put("yago1-simple", "yago1-simple-results/");
+		return "../evaluation/results/" + qrels.get(knowledgeBase);
 	}
 }
 

@@ -24,6 +24,7 @@ public class UnorderedGroups implements GoldStandard {
 		return groups;
 	}
 	
+	@Override
 	public GoldStandardGroup getGroupById(int id) {
 		GoldStandardGroup[] groups = getGroups();
 		for(GoldStandardGroup group : groups){

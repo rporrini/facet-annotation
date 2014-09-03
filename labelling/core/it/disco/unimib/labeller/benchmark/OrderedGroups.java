@@ -25,4 +25,9 @@ public class OrderedGroups implements GoldStandard {
 		});
 		return unorderedGroups;
 	}
+
+	@Override
+	public GoldStandardGroup getGroupById(int id) {
+		return goldStandard.getGroupById(id);
+	}
 }

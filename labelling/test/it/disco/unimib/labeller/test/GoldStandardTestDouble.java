@@ -19,4 +19,9 @@ public class GoldStandardTestDouble implements GoldStandard{
 		groups.add(new GoldStandardGroup(new InputFileTestDouble().withName(name)));
 		return this;
 	}
+
+	@Override
+	public GoldStandardGroup getGroupById(int id) {
+		return null;
+	}
 }

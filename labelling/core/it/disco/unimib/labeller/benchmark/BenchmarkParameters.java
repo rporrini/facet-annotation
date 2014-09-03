@@ -59,8 +59,8 @@ public class BenchmarkParameters{
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
 
-	public GoldStandardGroup[] goldStandard() {
-		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath()))).getGroups();
+	public GoldStandard goldStandard() {
+		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath())));
 	}
 	
 	private SelectionCriterion context(){
