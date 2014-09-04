@@ -9,7 +9,9 @@ import it.disco.unimib.labeller.corpus.TripleCorpus;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.TripleIndex;
 
+import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.store.RAMDirectory;
+import org.apache.lucene.util.Version;
 import org.junit.Test;
 
 public class TripleCorpusTest {
@@ -32,7 +34,7 @@ public class TripleCorpusTest {
 											.asTriple())
 								.closeWriter();
 		
-		new TripleCorpus(types, labels, file)
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
 											.withPredicate("http://example.org#thePredicate")
 											.asTriple());
@@ -59,7 +61,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file)
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
 											.withLiteral("string")
 											.asTriple());
@@ -88,7 +90,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.subject").withObject("http://the.entity").asTriple());
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45)).add(new TripleBuilder().withSubject("http://the.subject").withObject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
 		assertThat(file.getWrittenLines().get(0), containsString("label"));
@@ -110,7 +112,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45)).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(1));
 		assertThat(file.getWrittenLines().get(0), containsString("type label"));
@@ -140,7 +142,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45)).add(new TripleBuilder().withSubject("http://the.entity").asTriple());
 		
 		assertThat(file.getWrittenLines(), hasSize(2));
 	}
@@ -163,7 +165,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file)
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
 											.withPredicate("thePredicate")
 											.withLiteral("2013-12-24")
@@ -202,7 +204,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		new TripleCorpus(types, labels, file)
+		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
 											.withPredicate("thePredicate")
 											.withLiteral("http://the.object")

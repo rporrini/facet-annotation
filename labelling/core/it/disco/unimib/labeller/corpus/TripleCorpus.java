@@ -12,20 +12,20 @@ import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
-import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
-import org.apache.lucene.util.Version;
 
 public class TripleCorpus implements TripleStore{
 
 	private OutputFile file;
 	private TripleIndex labels;
 	private TripleIndex types;
+	private Analyzer analyzer;
 
-	public TripleCorpus(TripleIndex types, TripleIndex labels, OutputFile file) {
+	public TripleCorpus(TripleIndex types, TripleIndex labels, OutputFile file, Analyzer analyzer) {
 		this.file = file;
 		this.types = types;
 		this.labels = labels;
+		this.analyzer = analyzer;
 	}
 
 	@Override
@@ -55,7 +55,7 @@ public class TripleCorpus implements TripleStore{
 		}
 		List<String> result = new ArrayList<String>();
 		for(String value : values){
-			result.add(tokenize(new EnglishAnalyzer(Version.LUCENE_45), value));
+			result.add(tokenize(analyzer, value));
 		}
 		return result;
 	}
@@ -67,7 +67,6 @@ public class TripleCorpus implements TripleStore{
 		while (stream.incrementToken()) {
 			result.add(stream.getAttribute(CharTermAttribute.class).toString());
 		}
-		analyzer.close();
 		return StringUtils.join(result, " ");
 	}
 }
