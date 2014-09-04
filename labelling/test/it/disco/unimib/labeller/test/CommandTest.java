@@ -2,9 +2,8 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.Command;
-import it.disco.unimib.labeller.benchmark.CommandLineArguments;
 
 import org.junit.Test;
 

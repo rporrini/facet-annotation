@@ -27,19 +27,12 @@ Dalla root del repository:
 * ```./generate-sarawagi-qrels.sh```
 
 ## Run degli algoritmi
-Dalla root del repository:
-
-* ```./run-algorithm.sh algorithm=ALGORITHM occurrences=OCCURRENCES context=CONTEXT kb=KNOWLEDGE-BASE summary=METRIC-NAME```
-
-Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti.
-
-Parametri:
-
-* ALGORITHM: mh, mhw, mhsw, mhwv, mhwcv, ml
-* OCCURRENCES: simple, contextualized 
-* CONTEXT: no, partial, complete
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
-* METRIC-NAME: qualitative, questionnaire, trec
+Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti. Dalla root del repository:
+```./run-algorithm.sh algorithm=ALGORITHM occurrences=OCCURRENCES context=CONTEXT kb=KNOWLEDGE-BASE summary=METRIC-NAME```
+```summary	=	the format of the results, namely questionnaire, trec
+occurrences	=	the function applied to count each occurrence, namely simple, contextualized
+kb	=	the knowledge base to use, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple
+algorithm	=	the algorithm to use, namely mh, mhw, mhsw, mhwv, mhwcv, ml```
 
 ## Run di tutti gli algoritmi
 Dalla root del repository:
@@ -71,28 +64,5 @@ Dalla root del repository:
 Lo script prende tutti i risultati prodotti da ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME``` e li confronta con il gold-standard generando un file ```all-results.csv``` contenente il confronto
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
+* KNOWLEDGE-BASE: dbpedia, dbpedia-with-labels, yago1, yago1-simple
 
-# PATTERN EMERGENTI DALLA SPERIMENTAZIONE
-
-## Per quanto riguarda MAP e MRR
-* __contextualized__ è meglio di __simple__ su TUTTI gli algoritmi su TUTTE le kb
-
-* se siamo nel caso __simple__, __partial__ è sempre meglio di __no__ e __complete__ su TUTTI gli algoritmi e TUTTE le kb
-
-* se siamo nel caso __contextualized__ con algoritmo __ml__:
-	+ __partial__ è meglio di __no__ e __complete__ su TUTTE le kb (su yago si ottengono gli stessi risultati)
-
-* se siamo nel caso __contextualized__ con algoritmo __mh__ o __mhw__:
-	+ su dbpedia __no__ è leggermente meglio di __partial__ 
-	+ su dbpedia-with-labels __partial__ è meglio di __no__
-	+ __complete__ è sempre il caso peggiore su dbpedia e dbpedia-with-labels
-	+ su yago non c'è differenza tra __no__ __partial__ e __complete__
-
-* __complete__ è sempre peggio di __no__ e __partial__ su __dbpedia__ e __dbpedia-with-labels__ mentre su __yago__ hanno gli stessi risulati
-
-## Per quanto riguarda NDCG
-* su dbpedia e dbpedia-with-labels:
-	+ __simple__ è peggio di __contextualized__
-	+ __complete__ è peggio di __no__ e __partial__
-	+ __ml__ ha un andamento peggiore di __mh__ e __mhw__ a parità di come considero il contesto
