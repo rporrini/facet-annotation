@@ -28,7 +28,9 @@ Dalla root del repository:
 
 ## Run degli algoritmi
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti. Dalla root del repository:
+
 ```./run-algorithm.sh algorithm=ALGORITHM occurrences=OCCURRENCES context=CONTEXT kb=KNOWLEDGE-BASE summary=METRIC-NAME```
+
 ```summary	=	the format of the results, namely questionnaire, trec
 occurrences	=	the function applied to count each occurrence, namely simple, contextualized
 kb	=	the knowledge base to use, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple
