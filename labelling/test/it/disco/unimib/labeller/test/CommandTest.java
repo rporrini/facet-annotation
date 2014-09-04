@@ -22,7 +22,7 @@ public class CommandTest {
 	public void shouldParseDeclaredArguments() throws Exception {
 		
 		Command command = new Command().withArgument("kb", "sets the knowledge base")
-									   .parse(new CommandLineArguments(new String[]{"kb=any"}));
+									   .parse(new String[]{"kb=any"});
 		
 		assertThat(command.argumentAsString("kb"), equalTo("any"));
 	}
@@ -31,7 +31,7 @@ public class CommandTest {
 	public void shouldRaiseExceptionIfOneArgumentIsMissing() throws Exception {
 		
 		new Command().withArgument("kb", "sets the knowledge base")
-					 .parse(new CommandLineArguments(new String[]{}));
+					 .parse(new String[]{});
 	}
 	
 	@Test

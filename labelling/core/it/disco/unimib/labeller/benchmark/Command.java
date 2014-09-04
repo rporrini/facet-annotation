@@ -24,11 +24,12 @@ public class Command {
 		return this;
 	}
 
-	public Command parse(CommandLineArguments commandLineArguments) throws Exception {
+	public Command parse(String[] commandLineArguments) throws Exception {
+		CommandLineArguments args = new CommandLineArguments(commandLineArguments);
 		for(String key : explanations.keySet()){
-			if(commandLineArguments.asString(key) == null) throw new Exception();
+			if(args.asString(key) == null) throw new Exception();
 		}
-		arguments = commandLineArguments;
+		arguments = args;
 		return this;
 	}
 

@@ -19,10 +19,8 @@ public class GetComparison {
 					 .withArgument("alg", "the algorithm whose results are analyzed")
 					 .withArgument("k", "restrict the analisys to the top k results")
 					 .withArgument("t", "the MAP threshold under which a result is considered to be improvable");
-		CommandLineArguments arguments = new CommandLineArguments(args);
-		
 		try{
-			command.parse(arguments);
+			command.parse(args);
 		}catch(Exception e){
 			System.err.println(command.explainArguments());
 			return;
