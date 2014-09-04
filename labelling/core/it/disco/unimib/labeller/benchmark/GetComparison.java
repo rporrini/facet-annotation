@@ -56,8 +56,9 @@ public class GetComparison {
 			int id = id(result);
 			System.out.println("------------------------------------------");
 			GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
-			System.out.println(measure(result) + " " + groupById.context() + " (" + groupById.elements().size() + " elements)");
-			System.out.println("expected predicates\tactual predicates");
+			System.out.println(id + " " + measure(result) + " " + groupById.context() + " (" + groupById.elements().size() + " elements)");
+			System.out.println(groupById.elements().subList(0, Math.min(5, groupById.elements().size())) + " ... ");
+			System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
 			
 			List<TrecGoldStandardPredicate> goldStandardPredicates = getGoldStandardPredicates(goldStandard, topK, id);
 			List<TrecResultPredicate> resultingPredicates = getResultingPredicates(qrels, topK, id);
@@ -155,7 +156,7 @@ class TrecResultPredicate implements Comparable<TrecResultPredicate>{
 	
 	@Override
 	public String toString() {
-		return value() + " " + rank();
+		return value() + " (" + rank() + ")";
 	}
 	
 	@Override
@@ -186,7 +187,7 @@ class TrecGoldStandardPredicate implements Comparable<TrecGoldStandardPredicate>
 	
 	@Override
 	public String toString() {
-		return value() + " " + rank();
+		return value() + " (" + rank() + ")";
 	}
 	
 	@Override
