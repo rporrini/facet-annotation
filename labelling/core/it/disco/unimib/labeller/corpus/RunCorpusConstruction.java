@@ -40,6 +40,8 @@ class RunCorpusConstruction{
 		int concurrentThreads = Integer.parseInt(command.argumentAsString("threads"));
 		final String stemming = command.argumentAsString("stemming");
 		
+		System.out.println("Building corpus for dataset " + source + " in " + target + " using " + typesDirectory + " and " + labelsDirectory + " with stemming=" + stemming);
+		
 		final TripleIndex types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		final TripleIndex labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
@@ -70,5 +72,7 @@ class RunCorpusConstruction{
 		
 		types.closeReader();
 		labels.closeReader();
+		
+		System.out.println("Done");
 	}
 }

@@ -3,12 +3,13 @@
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
-destination=yago1
+destination=$1
+stemming=$2
 
 cd $root
 mkdir -p evaluation/labeller-corpora/$destination
 
-time ./corpus.sh yago1-properties $destination yago1/types yago1/labels-english 2
+time ./corpus.sh source=yago1-properties target=$destination types=yago1/types labels=yago1/labels-english threads=2 stemming=$stemming
 
 cd evaluation/labeller-corpora/$destination
 cat * >> yago1-triples

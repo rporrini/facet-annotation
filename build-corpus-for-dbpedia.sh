@@ -3,13 +3,14 @@
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
-destination=dbpedia
+destination=$1
+stemming=$2
 
 cd $root
 mkdir -p evaluation/labeller-corpora/$destination
 
-time ./corpus.sh dbpedia-properties $destination dbpedia/types dbpedia/labels 4
-time ./corpus.sh dbpedia-raw-properties $destination dbpedia/types dbpedia/labels 4
+time ./corpus.sh source=dbpedia-properties target=$destination types=dbpedia/types labels=dbpedia/labels threads=4 stemming=$stemming
+time ./corpus.sh source=dbpedia-raw-properties target=$destination types=dbpedia/types labels=dbpedia/labels threads=4 stemming=$stemming
 
 cd evaluation/labeller-corpora/$destination
 cat * >> dbpedia-triples
