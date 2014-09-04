@@ -7,13 +7,16 @@
 
 ## Per iniziare a sviluppare
 
-1. ```
+1. 
+```
 git clone https://{USERNAME}:{PASSWORD}@bitbucket.org/rporrini/cluster-labelling.git
 ```
-2. ```
+2. 
+```
 cd cluster-labelling
 ```
-3. ```
+3. 
+```
 ./build-and-test.sh
 ```
 
