@@ -15,13 +15,23 @@ public class GetComparison {
 
 	public static void main(String[] args) throws Exception {
 		
+		Command command = new Command().withArgument("kb", "the knowledge base for which results are analyzed, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
+					 .withArgument("alg", "the algorithm whose results are analyzed")
+					 .withArgument("k", "restrict the analisys to the top k results")
+					 .withArgument("t", "the MAP threshold under which a result is considered to be improvable");
 		CommandLineArguments arguments = new CommandLineArguments(args);
-		int topK = Integer.parseInt(arguments.asString("k"));
-		double threshold = Double.parseDouble(arguments.asString("t"));
-		String goldStandard = goldStandardQRels(arguments.asString("kb"));
-		String resultDirectory = resultDirectory(arguments.asString("kb"));
-		String algorithmName = arguments.asString("alg");
-		String qrels = resultDirectory + algorithmName;
+		
+		try{
+			command.parse(arguments);
+		}catch(Exception e){
+			System.err.println(command.explainArguments());
+			return;
+		}
+		
+		int topK = Integer.parseInt(command.argumentAsString("k"));
+		double threshold = Double.parseDouble(command.argumentAsString("t"));
+		String goldStandard = goldStandardQRels(command.argumentAsString("kb"));
+		String qrels = resultDirectory(command.argumentAsString("kb")) + command.argumentAsString("alg");
 		GoldStandard goldStandardGroups = new BenchmarkParameters(args).goldStandard();
 		
 		List<String> results = executeCommand("trec_eval -q -M " + topK + " -m "
