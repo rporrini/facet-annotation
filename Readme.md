@@ -7,18 +7,9 @@
 
 ## Per iniziare a sviluppare
 
-1. 
-```
-git clone https://{USERNAME}:{PASSWORD}@bitbucket.org/rporrini/cluster-labelling.git
-```
-2. 
-```
-cd cluster-labelling
-```
-3. 
-```
-./build-and-test.sh
-```
+1. ```git clone https://{USERNAME}:{PASSWORD}@bitbucket.org/rporrini/cluster-labelling.git```
+2. ```cd cluster-labelling```
+3. ```./build-and-test.sh```
 
 La procedura di build installa l'insieme dei tool necessari e prevede anche lo scaricamento dei dataset per la sperimentazione. Per questo motivo la prima volta che viene eseguita dura un pò (nell'ordine dei 60 minuti)
 
