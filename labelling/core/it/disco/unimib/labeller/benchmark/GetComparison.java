@@ -27,9 +27,12 @@ public class GetComparison {
 		}
 		
 		int topK = Integer.parseInt(command.argumentAsString("k"));
+		String kb = command.argumentAsString("kb");
+		String alg = command.argumentAsString("alg");
+		
 		double threshold = Double.parseDouble(command.argumentAsString("t"));
-		String goldStandard = goldStandardQRels(command.argumentAsString("kb"));
-		String qrels = resultDirectory(command.argumentAsString("kb")) + command.argumentAsString("alg");
+		String goldStandard = goldStandardQRels(kb);
+		String qrels = resultDirectory(kb) + alg;
 		GoldStandard goldStandardGroups = new BenchmarkParameters(args).goldStandard();
 		
 		List<String> results = executeCommand("trec_eval -q -M " + topK + " -m "
@@ -37,27 +40,27 @@ public class GetComparison {
 											+ " " + goldStandard
 											+ " " + qrels);
 		
-		System.out.println("results for " + qrels + " on " + goldStandard);
-		System.out.println("overall: " + measure(results.get(results.size() - 1)));
+		System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
+		System.out.println(measure(kb) + ": " + measureResult(results.get(results.size() - 1)));
 		
 		List<String> notPerfectResults = new ArrayList<String>();
 		List<String> particularResults = results.subList(0, results.size() - 1);
 		for (String line : particularResults) {
-			if(measure(line) < threshold) {
+			if(measureResult(line) < threshold) {
 				notPerfectResults.add(line);
 			}
 		}
 		double incorrect = (double)notPerfectResults.size();
 		double total = (double)particularResults.size();
-		double incorrectRatio = incorrect / total;
-		System.out.println(incorrect + " improvable groups over " + total + " (" + incorrectRatio + ")");
+		System.out.println(incorrect + " improvable groups over " + total + " (" + measure(kb) + " < " + threshold + ")");
 		
 		for(String result : notPerfectResults){
 			int id = id(result);
 			System.out.println("------------------------------------------");
 			GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
-			System.out.println(id + " " + measure(result) + " " + groupById.context() + " (" + groupById.elements().size() + " elements)");
-			System.out.println(groupById.elements().subList(0, Math.min(5, groupById.elements().size())) + " ... ");
+			System.out.println(measure(kb) + ": " + measureResult(result));
+			System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
+			System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
 			System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
 			
 			List<TrecGoldStandardPredicate> goldStandardPredicates = getGoldStandardPredicates(goldStandard, topK, id);
@@ -101,7 +104,7 @@ public class GetComparison {
 		return Integer.parseInt(split(line)[1]);
 	}
 
-	private static double measure(String line) {
+	private static double measureResult(String line) {
 		return Double.parseDouble(split(line)[2]);
 	}
 
@@ -131,6 +134,15 @@ public class GetComparison {
 		qrels.put("yago1", "yago1-results/");
 		qrels.put("yago1-simple", "yago1-simple-results/");
 		return "../evaluation/results/" + qrels.get(knowledgeBase);
+	}
+	
+	private static String measure(String knowledgeBase){
+		HashMap<String, String> measures = new HashMap<String, String>();
+		measures.put("dbpedia", "MAP");
+		measures.put("dbpedia-with-labels", "MAP");
+		measures.put("yago1", "MRR");
+		measures.put("yago1-simple", "MRR");
+		return measures.get(knowledgeBase);
 	}
 }
 
