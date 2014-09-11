@@ -8,7 +8,7 @@ import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 
-public class AllValues{
+public class AnyValue{
 	
 	public BooleanQuery createQuery(String value, String literalField, Analyzer analyzer) throws Exception {
 		BooleanQuery query = new BooleanQuery();

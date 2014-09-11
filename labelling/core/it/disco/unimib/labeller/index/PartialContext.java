@@ -12,7 +12,7 @@ public class PartialContext implements SelectionCriterion {
 
 	@Override
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		BooleanQuery query = new AllValues().createQuery(value, literalField, analyzer);
+		BooleanQuery query = new AnyValue().createQuery(value, literalField, analyzer);
 		
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
