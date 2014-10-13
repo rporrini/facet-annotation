@@ -15,10 +15,12 @@ public class GetComparison {
 
 	public static void main(String[] args) throws Exception {
 		
-		Command command = new Command().withArgument("kb", "the knowledge base for which results are analyzed, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
-					 .withArgument("alg", "the algorithm whose results are analyzed")
-					 .withArgument("k", "restrict the analisys to the top k results")
-					 .withArgument("t", "the MAP threshold under which a result is considered to be improvable");
+		Command command = new Command()
+						.withArgument("m", "the considered metric, from trec_eval")
+						.withArgument("kb", "the knowledge base for which results are analyzed, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
+						.withArgument("alg", "the algorithm whose results are analyzed")
+						.withArgument("k", "restrict the analisys to the top k results")
+						.withArgument("t", "the MAP threshold under which a result is considered to be improvable");
 		try{
 			command.parse(args);
 		}catch(Exception e){
@@ -35,13 +37,15 @@ public class GetComparison {
 		String qrels = resultDirectory(kb) + alg;
 		GoldStandard goldStandardGroups = new BenchmarkParameters(args).goldStandard();
 		
+		String measure = command.argumentAsString("m");
+		
 		List<String> results = executeCommand("trec_eval -q -M " + topK + " -m "
-											+ "map"
+											+ measure
 											+ " " + goldStandard
 											+ " " + qrels);
 		
 		System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
-		System.out.println(measure(kb) + ": " + measureResult(results.get(results.size() - 1)));
+		System.out.println(measure + ": " + measureResult(results.get(results.size() - 1)));
 		
 		List<String> notPerfectResults = new ArrayList<String>();
 		List<String> particularResults = results.subList(0, results.size() - 1);
@@ -52,13 +56,13 @@ public class GetComparison {
 		}
 		double incorrect = (double)notPerfectResults.size();
 		double total = (double)particularResults.size();
-		System.out.println(incorrect + " improvable groups over " + total + " (" + measure(kb) + " < " + threshold + ")");
+		System.out.println(incorrect + " improvable groups over " + total + " (" + measure + " < " + threshold + ")");
 		
 		for(String result : notPerfectResults){
 			int id = id(result);
 			System.out.println("------------------------------------------");
 			GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
-			System.out.println(measure(kb) + ": " + measureResult(result));
+			System.out.println(measure + ": " + measureResult(result));
 			System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
 			System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
 			System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
@@ -134,15 +138,6 @@ public class GetComparison {
 		qrels.put("yago1", "yago1-results/");
 		qrels.put("yago1-simple", "yago1-simple-results/");
 		return "../evaluation/results/" + qrels.get(knowledgeBase);
-	}
-	
-	private static String measure(String knowledgeBase){
-		HashMap<String, String> measures = new HashMap<String, String>();
-		measures.put("dbpedia", "MAP");
-		measures.put("dbpedia-with-labels", "MAP");
-		measures.put("yago1", "MRR");
-		measures.put("yago1-simple", "MRR");
-		return measures.get(knowledgeBase);
 	}
 }
 
