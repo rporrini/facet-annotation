@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.Command;
 
@@ -38,5 +39,15 @@ public class CommandTest {
 		Command command = new Command().withArgument("kb", "sets the knowledge base");
 		
 		assertThat(command.explainArguments(), containsString("the knowledge base"));
+	}
+	
+	@Test
+	public void shouldParseArgumentsWithSpaces() throws Exception {
+		Command command = new Command().withArgument("argument", "the argument").parse(new String[]{
+																					"argument=the",
+																					"argument=argument"
+																				});
+		
+		assertThat(command.argumentsAsStrings("argument"), hasSize(2));
 	}
 }

@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.benchmark;
 
 import java.util.HashMap;
+import java.util.List;
 
 public class Command {
 
@@ -34,6 +35,10 @@ public class Command {
 	}
 
 	public String argumentAsString(String key) {
-		return arguments.asString(key);
+		return arguments.asString(key).get(0);
+	}
+
+	public List<String> argumentsAsStrings(String value) {
+		return arguments.asString(value);
 	}
 }

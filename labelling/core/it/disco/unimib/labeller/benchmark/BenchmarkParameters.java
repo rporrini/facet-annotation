@@ -30,7 +30,7 @@ public class BenchmarkParameters{
 	
 	private CommandLineArguments args;
 
-	public BenchmarkParameters(String[] args) {
+	public BenchmarkParameters(String[] args) throws Exception {
 		this.args = new CommandLineArguments(args);
 	}
 	
@@ -96,23 +96,23 @@ public class BenchmarkParameters{
 	}
 	
 	private String algorithmString(){
-		return args.asString("algorithm");
+		return args.asString("algorithm").get(0);
 	}
 	
 	private String occurrencesString(){
-		return args.asString("occurrences");
+		return args.asString("occurrences").get(0);
 	}
 	
 	private String contextString() {
-		return args.asString("context");
+		return args.asString("context").get(0);
 	}
 	
 	private String knowledgeBaseString(){
-		return args.asString("kb");
+		return args.asString("kb").get(0);
 	}
 	
 	private String metricString(){
-		return args.asString("summary");
+		return args.asString("summary").get(0);
 	}
 	
 	private AnnotationAlgorithm getAlgorithm(AnnotationAlgorithm algorithm){
