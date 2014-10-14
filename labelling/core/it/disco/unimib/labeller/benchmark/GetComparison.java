@@ -20,7 +20,8 @@ public class GetComparison {
 						.withArgument("kb", "the knowledge base for which results are analyzed, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
 						.withArgument("alg", "the algorithm whose results are analyzed")
 						.withArgument("k", "restrict the analisys to the top k results")
-						.withArgument("t", "the threshold under which a result is considered to be improvable");
+						.withArgument("t", "the threshold under which a result is considered to be improvable")
+						.withArgument("v", "toggle in dept analysis");
 		try{
 			command.parse(args);
 		}catch(Exception e){
@@ -28,6 +29,7 @@ public class GetComparison {
 			return;
 		}
 		
+		boolean inDeptAnalysis = Boolean.parseBoolean(command.argumentAsString("v"));
 		int topK = Integer.parseInt(command.argumentAsString("k"));
 		String kb = command.argumentAsString("kb");
 		String alg = command.argumentAsString("alg");
@@ -44,39 +46,43 @@ public class GetComparison {
 												+ measure
 												+ " " + goldStandard
 												+ " " + qrels);
+			if(inDeptAnalysis){
+				System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
+			}
 			
-			System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
 			System.out.println(measure + ": " + measureResult(results.get(results.size() - 1)));
 			
-			List<String> notPerfectResults = new ArrayList<String>();
-			List<String> particularResults = results.subList(0, results.size() - 1);
-			for (String line : particularResults) {
-				if(measureResult(line) < threshold) {
-					notPerfectResults.add(line);
+			if(inDeptAnalysis){
+				List<String> notPerfectResults = new ArrayList<String>();
+				List<String> particularResults = results.subList(0, results.size() - 1);
+				for (String line : particularResults) {
+					if(measureResult(line) < threshold) {
+						notPerfectResults.add(line);
+					}
 				}
-			}
-			double incorrect = (double)notPerfectResults.size();
-			double total = (double)particularResults.size();
-			System.out.println(incorrect + " improvable groups over " + total + " (" + measure + " < " + threshold + ")");
-			
-			for(String result : notPerfectResults){
-				int id = id(result);
-				System.out.println("------------------------------------------");
-				GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
-				System.out.println(measure + ": " + measureResult(result));
-				System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
-				System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
-				System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
+				double incorrect = (double)notPerfectResults.size();
+				double total = (double)particularResults.size();
+				System.out.println(incorrect + " improvable groups over " + total + " (" + measure + " < " + threshold + ")");
 				
-				List<TrecGoldStandardPredicate> goldStandardPredicates = getGoldStandardPredicates(goldStandard, topK, id);
-				List<TrecResultPredicate> resultingPredicates = getResultingPredicates(qrels, topK, id);
-				
-				for(int i=0; i < Math.max(goldStandardPredicates.size(), resultingPredicates.size()); i++){
-					String line = "";
-					if(i < goldStandardPredicates.size()) line+=goldStandardPredicates.get(i);
-					line+="\t";
-					if(i < resultingPredicates.size()) line+=resultingPredicates.get(i);
-					System.out.println(line);
+				for(String result : notPerfectResults){
+					int id = id(result);
+					System.out.println("------------------------------------------");
+					GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
+					System.out.println(measure + ": " + measureResult(result));
+					System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
+					System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
+					System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
+					
+					List<TrecGoldStandardPredicate> goldStandardPredicates = getGoldStandardPredicates(goldStandard, topK, id);
+					List<TrecResultPredicate> resultingPredicates = getResultingPredicates(qrels, topK, id);
+					
+					for(int i=0; i < Math.max(goldStandardPredicates.size(), resultingPredicates.size()); i++){
+						String line = "";
+						if(i < goldStandardPredicates.size()) line+=goldStandardPredicates.get(i);
+						line+="\t";
+						if(i < resultingPredicates.size()) line+=resultingPredicates.get(i);
+						System.out.println(line);
+					}
 				}
 			}
 		}
