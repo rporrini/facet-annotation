@@ -13,5 +13,5 @@ rm -rf $root/evaluation/gold-standards/yago1-enhanced
 mkdir -p $root/evaluation/gold-standards/yago1-enhanced
 cd $root/evaluation
 for file in gold-standard-sarawagi/*; do sed -e '/^#/b; s/) /\n/; s/&amp;apos;/'\''/g; s/&amp;amp;/\n/g; s/&apos;/'\''/g; s/&quot; //g; s/&quot;//g; /^-/d; s/(.*//g' "$file" | grep -v '^$' | sed 's/#/123456789/g' | sort | uniq | sed 's/123456789/#/g' > "gold-standards/yago1-enhanced/${file##*/}"; done;
-rm -r ../evaluation/gold-standard-sarawagi
+rm -r ../evaluation/gold-standard-yago1
 
