@@ -9,10 +9,10 @@ import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
-import it.disco.unimib.labeller.labelling.Constant;
-import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
-import it.disco.unimib.labeller.labelling.MajorityHit;
+import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.predicates.Constant;
+import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
+import it.disco.unimib.labeller.predicates.MajorityHit;
 
 import java.io.File;
 import java.util.List;

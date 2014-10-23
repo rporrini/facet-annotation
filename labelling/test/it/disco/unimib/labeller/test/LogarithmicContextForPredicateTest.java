@@ -11,7 +11,7 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
+import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;

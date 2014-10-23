@@ -15,7 +15,7 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.PredicateContextualizedMaximumLikelihood;
+import it.disco.unimib.labeller.predicates.PredicateContextualizedMaximumLikelihood;
 
 import java.util.Arrays;
 import java.util.List;

@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.labelling.Majority;
+import it.disco.unimib.labeller.predicates.Majority;
 
 import java.util.Arrays;
 import java.util.List;

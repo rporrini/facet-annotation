@@ -14,10 +14,10 @@ import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.labelling.Constant;
-import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
-import it.disco.unimib.labeller.labelling.MajorityHit;
-import it.disco.unimib.labeller.labelling.ValueForPredicate;
+import it.disco.unimib.labeller.predicates.Constant;
+import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
+import it.disco.unimib.labeller.predicates.MajorityHit;
+import it.disco.unimib.labeller.predicates.ValueForPredicate;
 
 import java.util.Arrays;
 import java.util.List;

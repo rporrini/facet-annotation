@@ -7,7 +7,7 @@ import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.labelling.ValueForPredicate;
+import it.disco.unimib.labeller.predicates.ValueForPredicate;
 
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;

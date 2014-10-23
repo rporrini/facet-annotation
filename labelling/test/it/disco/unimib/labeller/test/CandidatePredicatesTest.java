@@ -5,8 +5,8 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.labelling.CandidatePredicates;
-import it.disco.unimib.labeller.labelling.Predicates;
+import it.disco.unimib.labeller.predicates.CandidatePredicates;
+import it.disco.unimib.labeller.predicates.Predicates;
 
 import java.util.HashMap;
 import java.util.List;

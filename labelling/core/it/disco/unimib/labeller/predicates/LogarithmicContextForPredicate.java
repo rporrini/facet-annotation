@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.labelling;
+package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;

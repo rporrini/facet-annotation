@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.labelling;
+package it.disco.unimib.labeller.predicates;
 
 public class MaximumLikelihood {
 

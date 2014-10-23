@@ -4,8 +4,8 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.labelling.Distribution;
-import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
+import it.disco.unimib.labeller.predicates.Distribution;
+import it.disco.unimib.labeller.predicates.UnnormalizedPrior;
 
 import java.util.ArrayList;
 import java.util.HashMap;

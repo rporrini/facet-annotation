@@ -3,12 +3,12 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.labelling.Distribution;
-import it.disco.unimib.labeller.labelling.MaximumLikelihood;
-import it.disco.unimib.labeller.labelling.NormalizedConditional;
-import it.disco.unimib.labeller.labelling.NormalizedPrior;
-import it.disco.unimib.labeller.labelling.UnnormalizedConditional;
-import it.disco.unimib.labeller.labelling.UnnormalizedPrior;
+import it.disco.unimib.labeller.predicates.Distribution;
+import it.disco.unimib.labeller.predicates.MaximumLikelihood;
+import it.disco.unimib.labeller.predicates.NormalizedConditional;
+import it.disco.unimib.labeller.predicates.NormalizedPrior;
+import it.disco.unimib.labeller.predicates.UnnormalizedConditional;
+import it.disco.unimib.labeller.predicates.UnnormalizedPrior;
 
 import java.util.ArrayList;
 import java.util.HashMap;
