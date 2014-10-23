@@ -90,7 +90,7 @@ public class BenchmarkParameters{
 		HashMap<String, String> paths = new HashMap<String, String>();
 		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced");
 		paths.put("dbpedia-with-labels", "../evaluation/gold-standards/dbpedia-enhanced");
-		paths.put("yago1", "../evaluation//gold-standards/yago1-enhanced");
+		paths.put("yago1", "../evaluation/gold-standards/yago1-enhanced");
 		paths.put("yago1-simple", "../evaluation/gold-standards/yago1-simple");
 		return paths.get(knowledgeBaseString());
 	}

@@ -140,7 +140,7 @@ public class AnalizeEvaluationResults {
 		qrels.put("dbpedia-with-labels", "dbpedia-with-labels.qrels");
 		qrels.put("yago1", "yago1-enhanced.qrels");
 		qrels.put("yago1-simple", "yago1-simple.qrels");
-		return "../gold-standards/" + qrels.get(knowledgeBase);
+		return "../evaluation/gold-standards/" + qrels.get(knowledgeBase);
 	}
 	
 	private static String resultDirectory(String knowledgeBase){
