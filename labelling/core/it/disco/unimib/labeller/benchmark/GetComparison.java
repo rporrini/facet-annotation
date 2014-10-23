@@ -132,11 +132,11 @@ public class GetComparison {
 	
 	private static String goldStandardQRels(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
-		qrels.put("dbpedia", "gold-standard.qrels");
-		qrels.put("dbpedia-with-labels", "gold-standard-with-labels.qrels");
-		qrels.put("yago1", "gold-standard-sarawagi.qrels");
-		qrels.put("yago1-simple", "gold-standard-sarawagi-simple.qrels");
-		return "../evaluation/results/" + qrels.get(knowledgeBase);
+		qrels.put("dbpedia", "dbpedia-enhanced.qrels");
+		qrels.put("dbpedia-with-labels", "dbpedia-with-labels.qrels");
+		qrels.put("yago1", "yago1-enhanced.qrels");
+		qrels.put("yago1-simple", "yago1-simple.qrels");
+		return "../gold-standards/" + qrels.get(knowledgeBase);
 	}
 	
 	private static String resultDirectory(String knowledgeBase){
