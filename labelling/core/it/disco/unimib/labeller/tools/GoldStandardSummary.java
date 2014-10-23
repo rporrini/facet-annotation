@@ -1,11 +1,15 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.OrderedGroups;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
-public class GetGoldStandardValues {
+public class GoldStandardSummary {
 
 	public static void main(String[] args) throws Exception {
 		

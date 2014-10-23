@@ -1,5 +1,9 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
+import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
+import it.disco.unimib.labeller.benchmark.Command;
+import it.disco.unimib.labeller.benchmark.GoldStandard;
+import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -11,7 +15,7 @@ import java.util.List;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 
-public class GetComparison {
+public class AnalizeEvaluationResults {
 
 	public static void main(String[] args) throws Exception {
 		

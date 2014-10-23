@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -8,7 +8,7 @@ import org.apache.commons.io.FileUtils;
 import org.jopendocument.dom.spreadsheet.Sheet;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
 
-public class GetGoldStandardQrels {
+public class DBPediaWithLabelsQrels {
 
 	public static void main(String[] args) throws Exception {
 		String questionnaire = args[0];
@@ -24,16 +24,14 @@ public class GetGoldStandardQrels {
 					row++;
 					content = resultSheet.getCellAt("A" + row).getTextValue();
 				}
+				int startingRowGroup = row + 1;
 				while(!content.isEmpty()){
 					if(content.startsWith("http://")){
 						String propertyScore = resultSheet.getCellAt("C" + row).getTextValue();
-						if(propertyScore.equals("#DIV/0!")){
-							double rel = 0.0;
-							rows.add(id + " Q0 " + content + " " + Math.round(rel));
-						}
-						else{
-							double rel = Double.parseDouble(propertyScore);
-							rows.add(id + " Q0 " + content + " " + Math.round(rel));
+						double rel = Double.parseDouble(propertyScore);
+						String rowToAdd = id + " Q0 " + label(content) + " " + Math.round(rel);
+						if(bestOrUnique(rel, content, startingRowGroup, resultSheet) && !rows.contains(rowToAdd)){
+							rows.add(rowToAdd);
 						}
 					}
 					row++;
@@ -43,5 +41,23 @@ public class GetGoldStandardQrels {
 			catch(Exception e){}
 		}
 		FileUtils.writeLines(new File(args[1]), rows);
+	}
+
+	private static boolean bestOrUnique(double score, String selectedPredicate, int startingRow, Sheet sheet) {
+		String predicate = sheet.getCellAt("A" + startingRow).getTextValue();
+		while(!predicate.isEmpty()){
+			double predicateScore = Double.parseDouble(sheet.getCellAt("C"+startingRow).getTextValue());
+			if(label(selectedPredicate).equals(label(predicate)) && !(selectedPredicate.equals(predicate)) && score < predicateScore){
+				return false;
+			}
+			startingRow++;
+			predicate = sheet.getCellAt("A" + startingRow).getTextValue();
+		}
+		return true;
+	}
+
+	private static String label(String content) {
+		String[] splitted = content.split("/");
+		return splitted[splitted.length-1];
 	}
 }

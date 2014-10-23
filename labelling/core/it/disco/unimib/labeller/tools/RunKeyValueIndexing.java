@@ -1,4 +1,10 @@
-package it.disco.unimib.labeller.index;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.index.EntityValues;
+import it.disco.unimib.labeller.index.InputFile;
+import it.disco.unimib.labeller.index.MatchingPredicate;
+import it.disco.unimib.labeller.index.TripleIndex;
+import it.disco.unimib.labeller.index.Triples;
 
 import java.io.File;
 

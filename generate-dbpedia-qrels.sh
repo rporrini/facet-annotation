@@ -6,6 +6,6 @@ root=`cd $relative_path;pwd`
 cd $root
 ./build.sh
 cd $root/labelling
-java -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.GetGoldStandardQrels ../evaluation/results/questionnaire-ALL.ods ../evaluation/gold-standards/dbpedia-enhanced.qrels
+java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.DBPediaQrels ../evaluation/results/questionnaire-ALL.ods ../evaluation/gold-standards/dbpedia-enhanced.qrels
 cd ..
 ./validate.sh ../evaluation/gold-standards/dbpedia-enhanced.qrels ../evaluation/gold-standards/dbpedia-enhanced

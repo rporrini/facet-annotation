@@ -15,4 +15,4 @@ cd $root
 ./build.sh
 
 cd $project
-java -Xmx4g -cp .:'labelling.jar' it.disco.unimib.labeller.corpus.RunCorpusConstruction $@
+java -Xmx4g -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunCorpusConstruction $@

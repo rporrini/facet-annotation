@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
 
@@ -13,7 +13,7 @@ import org.jopendocument.dom.spreadsheet.SpreadSheet;
 public class AnalizeQuestionnaireAnswers {
 
 	public static void main(String[] args) throws Exception {
-		String questionnaire = "../evaluation/results/questionnaire-ALL.ods";
+		String questionnaire = "../evaluation/gold-standards/questionnaires/questionnaire-ALL.ods";
 		SpreadSheet document = SpreadSheet.createFromFile(new File(questionnaire));
 		ArrayList<String> sheets = new ArrayList<String>();
 		for(int i = 0; i < document.getSheetCount(); i++){

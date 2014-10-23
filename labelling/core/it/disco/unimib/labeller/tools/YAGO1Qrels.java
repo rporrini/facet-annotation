@@ -1,8 +1,12 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.OrderedGroups;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 
 import java.io.File;
 
-public class GetSarawagiQrels {
+public class YAGO1Qrels {
 
 	public static void main(String[] args) {
 		String path = args[0];

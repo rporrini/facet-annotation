@@ -1,7 +1,12 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.Benchmark;
+import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
+import it.disco.unimib.labeller.benchmark.Command;
+import it.disco.unimib.labeller.benchmark.Summary;
 
 
-public class Run {
+public class RunEvaluation {
 
 	public static void main(String[] args) throws Exception {
 		Command command = new Command().withArgument("kb", "the knowledge base to use, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")

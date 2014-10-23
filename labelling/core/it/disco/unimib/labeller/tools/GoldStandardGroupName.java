@@ -1,8 +1,11 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 
 import java.io.File;
 
-public class GetGoldStandardGroupName {
+public class GoldStandardGroupName {
 
 	public static void main(String[] args) {
 		File directory = new File(args[0]);

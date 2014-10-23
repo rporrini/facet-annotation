@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-public class GetSarawagiGoldStandard {
+public class BuildYAGO1GoldStandard {
 
 	public static void main(String[] args) throws Exception {
 		String targetDirectory = args[0];		

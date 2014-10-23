@@ -1,4 +1,6 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.HttpConnector;
 
 import java.io.File;
 import java.net.URLEncoder;
@@ -22,7 +24,7 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
-public class GetCleanedQuestionnaire {
+public class CleanQuestionnaire {
 
 	public static void main(String[] args) throws Exception {
 		String uncleanedQuestionnaire = args[0];

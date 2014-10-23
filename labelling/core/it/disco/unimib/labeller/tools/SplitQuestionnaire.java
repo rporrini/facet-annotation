@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
 import java.io.File;
 import java.util.ArrayList;

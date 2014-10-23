@@ -1,7 +1,14 @@
-package it.disco.unimib.labeller.index;
+package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CompleteContext;
+import it.disco.unimib.labeller.index.ContextualizedOccurrences;
+import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.labelling.AnnotationAlgorithm;
 import it.disco.unimib.labeller.labelling.Constant;
 import it.disco.unimib.labeller.labelling.LogarithmicContextForPredicate;
@@ -14,7 +21,7 @@ import org.apache.lucene.store.NIOFSDirectory;
 
 import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
-public class Try {
+public class RunAlgorithm {
 
 	public static void main(String[] args) throws Exception {
 		String knowledgeBase = "dbpedia";

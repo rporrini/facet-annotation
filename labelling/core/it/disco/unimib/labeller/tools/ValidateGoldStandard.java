@@ -1,4 +1,8 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
+
+import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.OrderedGroups;
+import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 
 import java.io.File;
 import java.io.IOException;

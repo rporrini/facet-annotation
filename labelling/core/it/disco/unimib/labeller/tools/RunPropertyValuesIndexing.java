@@ -1,6 +1,14 @@
-package it.disco.unimib.labeller.index;
+package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Events;
+import it.disco.unimib.labeller.index.AcceptAll;
+import it.disco.unimib.labeller.index.EntityValues;
+import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.InputFile;
+import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.index.TripleIndex;
+import it.disco.unimib.labeller.index.Triples;
 
 import java.io.File;
 import java.util.concurrent.ExecutorService;

@@ -1,10 +1,10 @@
-package it.disco.unimib.labeller.benchmark;
+package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
 
-public class GetGoldStandardPredicateDistribution {
+public class ComputeGoldStandardPredicateDistribution {
 
 	public static void main(String[] args) throws Exception {
 		String goldStandard = "../evaluation/gold-standards/dbpedia-enhanced.qrels";
