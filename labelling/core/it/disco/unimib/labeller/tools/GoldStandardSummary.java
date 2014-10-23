@@ -44,6 +44,6 @@ public class GoldStandardSummary {
 	}
 	
 	private static GoldStandardGroup[] goldStandard() {
-		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced"))).getGroups();
+		return new OrderedGroups(new UnorderedGroups(new File("../evaluation/gold-standards/yago1-simple"))).getGroups();
 	}
 }
