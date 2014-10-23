@@ -7,7 +7,7 @@ import java.io.File;
 public class GetGoldStandardPredicateDistribution {
 
 	public static void main(String[] args) throws Exception {
-		String goldStandard = "../evaluation/results/gold-standard.qrels";
+		String goldStandard = "../evaluation/gold-standards/dbpedia-enhanced.qrels";
 		String lastId = "";
 		double moreRelevant = 0;
 		double lessRelevant = 0;
