@@ -8,13 +8,15 @@ import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
 import java.util.HashMap;
+import java.util.List;
 
 public class PartitionGoldStandard {
 
 	public static void main(String[] args) throws Exception {
 		Command command = new Command()
 			.withArgument("kb", "the knowledge base for which the gold standard has to be partitioned, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
-			.withArgument("n", "the name to be filtered");
+			.withArgument("n", "the name to be filtered")
+			.withArgument("r", "if true the filter keeps all matching groups, if false keeps all the not matching groups");
 		try{
 			command.parse(args);
 		}catch(Exception e){
@@ -22,16 +24,26 @@ public class PartitionGoldStandard {
 			return;
 		}
 		String qRels = goldStandardQRels(command.argumentAsString("kb"));
-		String filter = command.argumentAsString("n");
+		List<String> filters = command.argumentsAsStrings("n");
+		boolean inclusive = Boolean.parseBoolean(command.argumentAsString("r"));
 		GoldStandard goldStandard = new BenchmarkParameters(args).goldStandard();
 		
 		for(String line : new InputFile(new File(qRels)).lines()){
 			int id = Integer.parseInt(line.split(" ")[0]);
 			GoldStandardGroup group = goldStandard.getGroupById(id);
-			if(group.name().contains(filter)){
+			if((matches(filters, group) && inclusive) || (!matches(filters, group) && !inclusive)){
 				System.out.println(line);
 			}
 		}
+	}
+
+	private static boolean matches(List<String> filters, GoldStandardGroup group) {
+		for(String filter : filters){
+			if(group.name().contains(filter)){
+				return true;
+			}
+		}
+		return false;
 	}
 	
 	private static String goldStandardQRels(String knowledgeBase){
