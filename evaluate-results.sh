@@ -11,19 +11,11 @@ gs=$2
 run=$3
 
 
-if [ "$dataset" == "dbpedia" ]
+if [[ $dataset == dbpedia* ]]
 then
 	trec_eval_arguments="-M 20 -N 20 -m map -m iprec_at_recall -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
 fi
-if [ "$dataset" == "dbpedia-with-labels" ]
-then
-	trec_eval_arguments="-M 20 -N 20 -m map -m iprec_at_recall -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
-fi
-if [ "$dataset" == "yago1" ]
-then
-	trec_eval_arguments="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
-fi
-if [ "$dataset" == "yago1-simple" ]
+if [[ $dataset == yago1* ]]
 then
 	trec_eval_arguments="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
 fi
