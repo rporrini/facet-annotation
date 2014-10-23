@@ -10,12 +10,12 @@ results="evaluation/results"
 gs="evaluation/gold-standards"
 if [ "$dataset" == "dbpedia" ]
 then 
-	goldStandard="$gs/gold-standard.qrels"
+	goldStandard="$gs/dbpedia-enhanced.qrels"
 	trecResultsDirectory="$results/dbpedia-results"
 fi
 if [ "$dataset" == "dbpedia-with-labels" ]
 then
-	goldStandard="$results/gold-standard-with-labels.qrels"
+	goldStandard="$gs/dbpedia-enhanced-with-labels.qrels"
 	trecResultsDirectory="$results/dbpedia-with-labels-results"
 fi
 if [ "$dataset" == "yago1" ]
