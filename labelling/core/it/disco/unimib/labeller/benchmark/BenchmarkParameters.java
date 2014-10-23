@@ -88,10 +88,10 @@ public class BenchmarkParameters{
 	
 	private String goldStandardPath() {
 		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", "../evaluation/gold-standard-enhanced");
-		paths.put("dbpedia-with-labels", "../evaluation/gold-standard-enhanced");
-		paths.put("yago1", "../evaluation/gold-standard-sarawagi-enhanced");
-		paths.put("yago1-simple", "../evaluation/gold-standard-sarawagi-simple");
+		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced");
+		paths.put("dbpedia-with-labels", "../evaluation/gold-standards/dbpedia-enhanced");
+		paths.put("yago1", "../evaluation//gold-standards/sarawagi-enhanced");
+		paths.put("yago1-simple", "../evaluation/gold-standards/sarawagi-simple");
 		return paths.get(knowledgeBaseString());
 	}
 	

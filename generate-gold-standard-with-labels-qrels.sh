@@ -8,4 +8,4 @@ cd $root
 cd $root/labelling
 java -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.GetGoldStandardLabelsQrels ../evaluation/results/questionnaire-ALL.ods ../evaluation/results/gold-standard-with-labels.qrels
 cd ..
-./validate.sh ../evaluation/results/gold-standard-with-labels.qrels ../evaluation/gold-standard-enhanced
+./validate.sh ../evaluation/results/gold-standard-with-labels.qrels ../evaluation/gold-standards/dbpedia-enhanced

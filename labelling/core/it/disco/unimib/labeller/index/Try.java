@@ -23,7 +23,7 @@ public class Try {
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
 		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
 		
-		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standard-enhanced/"));
+		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){
 			annotate(majorityHitWeighted, groups, id);
 		}

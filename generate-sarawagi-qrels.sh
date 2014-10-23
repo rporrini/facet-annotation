@@ -8,4 +8,4 @@ cd $root
 cd $root/labelling
 java -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.GetSarawagiQrels ../evaluation/gold-standard-sarawagi-enhanced/ > ../evaluation/results/gold-standard-sarawagi.qrels
 cd ..
-./validate.sh ../evaluation/results/gold-standard-sarawagi.qrels ../evaluation/gold-standard-sarawagi-enhanced
+./validate.sh ../evaluation/results/gold-standard-sarawagi.qrels ../evaluation/gold-standards/sarawagi-enhanced
