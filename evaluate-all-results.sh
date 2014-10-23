@@ -25,7 +25,7 @@ then
 fi
 if [ "$dataset" == "yago1-simple" ]
 then
-	goldStandard="$results/gold-standard-sarawagi-simple.qrels"
+	goldStandard="$gs/yago1-simple.qrels"
 	trecResultsDirectory="$results/yago1-simple-results"
 fi
 temp="$trecResultsDirectory/temp"
