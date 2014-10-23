@@ -7,9 +7,10 @@ cd $root
 
 dataset=$1
 results="evaluation/results"
+gs="evaluation/gold-standards"
 if [ "$dataset" == "dbpedia" ]
 then 
-	goldStandard="$results/gold-standard.qrels"
+	goldStandard="$gs/gold-standard.qrels"
 	trecResultsDirectory="$results/dbpedia-results"
 fi
 if [ "$dataset" == "dbpedia-with-labels" ]
