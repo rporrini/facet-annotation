@@ -14,6 +14,12 @@ then
 	trecResultsDirectory="$results/dbpedia-results"
 	outputDirectory="$results/dbpedia-numbers-results"
 fi
+if [ "$dataset" == "dbpedia-without-numbers" ]
+then
+	goldStandard="$gs/dbpedia-enhanced-without-numbers.qrels"
+	trecResultsDirectory="$results/dbpedia-results"
+	outputDirectory="$results/dbpedia-without-numbers-results"
+fi
 if [ "$dataset" == "dbpedia" ]
 then 
 	goldStandard="$gs/dbpedia-enhanced.qrels"
