@@ -34,7 +34,7 @@ then
 fi
 if [ "$dataset" == "yago1" ]
 then
-	goldStandard="$results/gold-standard-sarawagi.qrels"
+	goldStandard="$gs/yago1-enhanced.qrels"
 	trecResultsDirectory="$results/yago1-results"
 	outputDirectory="$results/yago1-results"
 fi
