@@ -44,6 +44,18 @@ then
 	trecResultsDirectory="$results/yago1-simple-results"
 	outputDirectory="$results/yago1-results"
 fi
+if [ "$dataset" == "yago1-no-wrote" ]
+then
+	goldStandard="$gs/yago1-enhanced-no-wrote.qrels"
+	trecResultsDirectory="$results/yago1-results"
+	outputDirectory="$results/yago1-no-wrote-results"
+fi
+if [ "$dataset" == "yago1-simple-no-wrote" ]
+then
+	goldStandard="$gs/yago1-simple-no-wrote.qrels"
+	trecResultsDirectory="$results/yago1-simple-results"
+	outputDirectory="$results/yago1-simple-no-wrote-results"
+fi
 temp="$trecResultsDirectory/temp"
 
 mkdir -p $temp

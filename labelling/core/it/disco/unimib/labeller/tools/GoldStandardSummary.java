@@ -15,8 +15,8 @@ public class GoldStandardSummary {
 
 	public static void main(String[] args) throws Exception {
 		
-		String qRelsPath = "../evaluation/gold-standards/dbpedia-enhanced.qrels";
-		String goldStandardPath = "../evaluation/gold-standards/dbpedia-enhanced";
+		String qRelsPath = "../evaluation/gold-standards/yago1-simple.qrels";
+		String goldStandardPath = "../evaluation/gold-standards/yago1-simple";
 
 		UnorderedGroups groups = new UnorderedGroups(new File(goldStandardPath));
 		HashMap<String, GoldStandardGroup> names = new HashMap<String, GoldStandardGroup>();
