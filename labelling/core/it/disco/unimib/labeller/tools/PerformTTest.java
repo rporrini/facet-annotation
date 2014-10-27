@@ -32,6 +32,7 @@ public class PerformTTest {
 		double[] algorithm1Results = run(algorithm1, metric, goldStandard, k);
 		double[] algorithm2Results = run(algorithm2, metric, goldStandard, k);
 		
+		// paired two-tailed test
 		System.out.println(new TTest().pairedTTest(algorithm1Results, algorithm2Results));
 	}
 
