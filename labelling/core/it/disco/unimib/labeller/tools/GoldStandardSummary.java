@@ -9,11 +9,13 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 
+import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
+
 public class GoldStandardSummary {
 
 	public static void main(String[] args) throws Exception {
 		
-		String qRelsPath = "../evaluation/gold-standards/dbpedia-enhanced-without-numbers.qrels";
+		String qRelsPath = "../evaluation/gold-standards/dbpedia-enhanced.qrels";
 		String goldStandardPath = "../evaluation/gold-standards/dbpedia-enhanced";
 
 		UnorderedGroups groups = new UnorderedGroups(new File(goldStandardPath));
@@ -45,6 +47,9 @@ public class GoldStandardSummary {
 		String lastId = "";
 		double moreRelevant = 0;
 		double lessRelevant = 0;
+		DescriptiveStatistics fullyRelevants = new DescriptiveStatistics();
+		DescriptiveStatistics lessRelevants = new DescriptiveStatistics();
+		
 		System.out.println("ID" + "\t" + "N. of Completely Relevant" + "\t" + "N. of Relevant");
 		for(String line : new InputFile(new File(goldStandard)).lines()){
 			String[] splitted = line.split(" ");
@@ -52,7 +57,9 @@ public class GoldStandardSummary {
 			int value = Integer.parseInt(splitted[3]);
 			if(!id.equals(lastId) && !lastId.isEmpty()){
 				System.out.println(groups.getGroupById(Integer.parseInt(id)).name() + "\t" + moreRelevant + "\t" + lessRelevant);
+				fullyRelevants.addValue(moreRelevant);
 				moreRelevant = 0;
+				lessRelevants.addValue(lessRelevant);
 				lessRelevant = 0;
 			}
 			if(value == 2){
@@ -63,6 +70,17 @@ public class GoldStandardSummary {
 			}
 			lastId = id;
 		}
+		System.out.println("--------------------------------------");
+		printStats(fullyRelevants, "Completely Relevant Predicates");
+		printStats(lessRelevants, "Relevant Predicates");
+	}
+
+	private static void printStats(DescriptiveStatistics fullyRelevants,
+			String label) {
+		System.out.println(label + ":");
+		System.out.println("\tAverage: " + fullyRelevants.getMean());
+		System.out.println("\tVariance: " + fullyRelevants.getVariance());
+		System.out.println("\tStd Dev: " + fullyRelevants.getStandardDeviation());
 	}
 
 	private static void printAll(HashMap<String, Integer> list, String label) {
