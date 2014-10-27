@@ -50,11 +50,23 @@ then
 	trecResultsDirectory="$results/yago1-results"
 	outputDirectory="$results/yago1-no-wrote-results"
 fi
+if [ "$dataset" == "yago1-wrote" ]
+then
+	goldStandard="$gs/yago1-enhanced-wrote.qrels"
+	trecResultsDirectory="$results/yago1-results"
+	outputDirectory="$results/yago1-wrote-results"
+fi
 if [ "$dataset" == "yago1-simple-no-wrote" ]
 then
 	goldStandard="$gs/yago1-simple-no-wrote.qrels"
 	trecResultsDirectory="$results/yago1-simple-results"
 	outputDirectory="$results/yago1-simple-no-wrote-results"
+fi
+if [ "$dataset" == "yago1-simple-wrote" ]
+then
+	goldStandard="$gs/yago1-simple-wrote.qrels"
+	trecResultsDirectory="$results/yago1-simple-results"
+	outputDirectory="$results/yago1-simple-wrote-results"
 fi
 temp="$trecResultsDirectory/temp"
 
