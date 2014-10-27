@@ -7,7 +7,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.Benchmark;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.Summary;
-import it.disco.unimib.labeller.benchmark.TrecEval;
+import it.disco.unimib.labeller.benchmark.TrecEvalQrels;
 
 import org.junit.Test;
 
@@ -15,7 +15,7 @@ public class BenchmarkTest {
 
 	@Test
 	public void onEmptyGoldStandardShouldTrackNoting() throws Exception {
-		Summary summary = new TrecEval("name");
+		Summary summary = new TrecEvalQrels("name");
 		
 		new Benchmark(new AnnotationAlgorithmTestDouble()).on(new GoldStandardGroup[]{}, summary);
 		
@@ -24,7 +24,7 @@ public class BenchmarkTest {
 	
 	@Test
 	public void shouldTrackAnnotatedRankedTypes() throws Exception {
-		Summary summary = new TrecEval("name");
+		Summary summary = new TrecEvalQrels("name");
 		
 		new Benchmark(new AnnotationAlgorithmTestDouble().thatReturns("actual predicate"))
 						.on(new GoldStandardGroup[]{

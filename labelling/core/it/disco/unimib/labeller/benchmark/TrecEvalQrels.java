@@ -7,12 +7,12 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class TrecEval implements Summary {
+public class TrecEvalQrels implements Summary {
 
 	private List<String> lines;
 	private String name;
 	
-	public TrecEval(String name){
+	public TrecEvalQrels(String name){
 		this.lines = new ArrayList<String>();
 		this.name = name;
 	}

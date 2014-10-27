@@ -4,25 +4,25 @@ import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.benchmark.TrecEval;
+import it.disco.unimib.labeller.benchmark.TrecEvalQrels;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.Arrays;
 
 import org.junit.Test;
 
-public class TrecEvalTest {
+public class TrecEvalQrelsTest {
 
 	@Test
 	public void onEmptyContentShouldPrintNothing() {
-		TrecEval trecEval = new TrecEval("name");
+		TrecEvalQrels trecEval = new TrecEvalQrels("name");
 		
 		assertThat(trecEval.result(), equalTo(""));
 	}
 	
 	@Test
 	public void shouldTrackTheIdOfTheGroup() throws Exception {
-		TrecEval trecEval = new TrecEval("name");
+		TrecEvalQrels trecEval = new TrecEvalQrels("name");
 		
 		trecEval.track(
 				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(
@@ -33,7 +33,7 @@ public class TrecEvalTest {
 	
 	@Test
 	public void shouldTrackAllTheResults() throws Exception {
-		TrecEval trecEval = new TrecEval("name");
+		TrecEvalQrels trecEval = new TrecEvalQrels("name");
 		
 		trecEval.track(
 				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(

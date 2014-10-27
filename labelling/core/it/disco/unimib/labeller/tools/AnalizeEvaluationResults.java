@@ -12,7 +12,6 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 
 public class AnalizeEvaluationResults {
@@ -46,10 +45,7 @@ public class AnalizeEvaluationResults {
 		List<String> measures = command.argumentsAsStrings("m");
 		
 		for(String measure : measures){
-			List<String> results = executeCommand("trec_eval -q -M " + topK + " -m "
-												+ measure
-												+ " " + goldStandard
-												+ " " + qrels);
+			List<String> results = TrecEval.run(topK, goldStandard, qrels, measure);
 			if(inDeptAnalysis){
 				System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
 			}
@@ -128,12 +124,6 @@ public class AnalizeEvaluationResults {
 		return StringUtils.split(line, "\t");
 	}
 
-	private static List<String> executeCommand(String command) throws Exception {
-		Process result = Runtime.getRuntime().exec(command);
-		result.waitFor();
-		return IOUtils.readLines(result.getInputStream());
-	}
-	
 	private static String goldStandardQRels(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
 		qrels.put("dbpedia", "dbpedia-enhanced.qrels");
