@@ -28,13 +28,13 @@ import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class BenchmarkParameters{
 	
-	private CommandLineArguments args;
+	private Command command; 
 
-	public BenchmarkParameters(String[] args) throws Exception {
-		this.args = new CommandLineArguments(args);
+	public BenchmarkParameters(Command command) throws Exception {
+		this.command = command;
 	}
 	
-	public Summary analysis(){
+	public Summary analysis() throws Exception{
 		HashMap<String, Summary> summaries = new HashMap<String, Summary>();
 		summaries.put("questionnaire", new Questionnaire());
 		summaries.put("trec", new TrecEvalQrels(algorithmString() + "-" +occurrencesString() + "-" + contextString()));
@@ -58,11 +58,11 @@ public class BenchmarkParameters{
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
 
-	public GoldStandard goldStandard() {
+	public GoldStandard goldStandard() throws Exception {
 		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath())));
 	}
 	
-	private SelectionCriterion context(){
+	private SelectionCriterion context() throws Exception{
 		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
 		contexts.put("complete", new CompleteContext());
 		contexts.put("no", new NoContext());
@@ -70,7 +70,7 @@ public class BenchmarkParameters{
 		return contexts.get(contextString());
 	}
 	
-	private Occurrences occurrences(){
+	private Occurrences occurrences() throws Exception{
 		HashMap<String, Occurrences> occurrences = new HashMap<String, Occurrences>();
 		occurrences.put("simple", new SimpleOccurrences());
 		occurrences.put("contextualized", new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())));
@@ -86,7 +86,7 @@ public class BenchmarkParameters{
 		return paths.get(knowledgeBase);
 	}
 	
-	private String goldStandardPath() {
+	private String goldStandardPath() throws Exception {
 		HashMap<String, String> paths = new HashMap<String, String>();
 		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced");
 		paths.put("dbpedia-with-labels", "../evaluation/gold-standards/dbpedia-enhanced");
@@ -95,24 +95,24 @@ public class BenchmarkParameters{
 		return paths.get(knowledgeBaseString());
 	}
 	
-	private String algorithmString(){
-		return args.asString("algorithm").get(0);
+	private String algorithmString() throws Exception{
+		return command.argumentAsString("algorithm");
 	}
 	
-	private String occurrencesString(){
-		return args.asString("occurrences").get(0);
+	private String occurrencesString() throws Exception{
+		return command.argumentAsString("occurrences");
 	}
 	
-	private String contextString() {
-		return args.asString("context").get(0);
+	private String contextString() throws Exception {
+		return command.argumentAsString("context");
 	}
 	
-	private String knowledgeBaseString(){
-		return args.asString("kb").get(0);
+	private String knowledgeBaseString() throws Exception{
+		return command.argumentAsString("kb");
 	}
 	
-	private String metricString(){
-		return args.asString("summary").get(0);
+	private String metricString() throws Exception{
+		return command.argumentAsString("summary");
 	}
 	
 	private AnnotationAlgorithm getAlgorithm(AnnotationAlgorithm algorithm){

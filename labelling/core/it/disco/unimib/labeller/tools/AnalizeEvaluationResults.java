@@ -24,13 +24,8 @@ public class AnalizeEvaluationResults {
 						.withArgument("alg", "the algorithm whose results are analyzed")
 						.withArgument("k", "restrict the analisys to the top k results")
 						.withArgument("t", "the threshold under which a result is considered to be improvable")
-						.withArgument("v", "toggle in dept analysis");
-		try{
-			command.parse(args);
-		}catch(Exception e){
-			System.err.println(command.explainArguments());
-			return;
-		}
+						.withArgument("v", "toggle in dept analysis")
+						.parse(args);
 		
 		boolean inDeptAnalysis = Boolean.parseBoolean(command.argumentAsString("v"));
 		int topK = Integer.parseInt(command.argumentAsString("k"));
@@ -40,7 +35,7 @@ public class AnalizeEvaluationResults {
 		double threshold = Double.parseDouble(command.argumentAsString("t"));
 		String goldStandard = goldStandardQRels(kb);
 		String qrels = resultDirectory(kb) + alg;
-		GoldStandard goldStandardGroups = new BenchmarkParameters(args).goldStandard();
+		GoldStandard goldStandardGroups = new BenchmarkParameters(command).goldStandard();
 		
 		List<String> measures = command.argumentsAsStrings("m");
 		

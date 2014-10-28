@@ -16,17 +16,13 @@ public class PartitionGoldStandard {
 		Command command = new Command()
 			.withArgument("kb", "the knowledge base for which the gold standard has to be partitioned, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple")
 			.withArgument("n", "the name to be filtered")
-			.withArgument("r", "if true the filter keeps all matching groups, if false keeps all the not matching groups");
-		try{
-			command.parse(args);
-		}catch(Exception e){
-		System.err.println(command.explainArguments());
-			return;
-		}
+			.withArgument("r", "if true the filter keeps all matching groups, if false keeps all the not matching groups")
+			.parse(args);
+
 		String qRels = goldStandardQRels(command.argumentAsString("kb"));
 		List<String> filters = command.argumentsAsStrings("n");
 		boolean inclusive = Boolean.parseBoolean(command.argumentAsString("r"));
-		GoldStandard goldStandard = new BenchmarkParameters(args).goldStandard();
+		GoldStandard goldStandard = new BenchmarkParameters(command).goldStandard();
 		
 		for(String line : new InputFile(new File(qRels)).lines()){
 			int id = Integer.parseInt(line.split(" ")[0]);

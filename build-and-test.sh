@@ -9,6 +9,11 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 project=$root/labelling
 cd $root
+
+signal 'Updating the Repository'
+git pull
+signal 'Done'
+
 ./build.sh
 
 signal "Running Tests"

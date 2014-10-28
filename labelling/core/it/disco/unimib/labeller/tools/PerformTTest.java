@@ -15,14 +15,9 @@ public class PerformTTest {
 								.withArgument("alg1", "the path of the results of the first algorithm")
 								.withArgument("alg2", "the path of the results of the second algorithm")
 								.withArgument("k", "restricts the analysis to the top k results")
-								.withArgument("gs", "toggle in dept analysis");
-		try{
-			command.parse(args);
-		}catch(Exception e){
-			System.err.println(command.explainArguments());
-		return;
-		}
-		
+								.withArgument("gs", "toggle in dept analysis")
+								.parse(args);
+
 		String algorithm1 = command.argumentAsString("alg1");
 		String algorithm2 = command.argumentAsString("alg2");
 		String metric = command.argumentAsString("m");

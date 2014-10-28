@@ -30,8 +30,9 @@ public class CommandTest {
 	@Test(expected=Exception.class)
 	public void shouldRaiseExceptionIfOneArgumentIsMissing() throws Exception {
 		
-		new Command().withArgument("kb", "sets the knowledge base")
-					 .parse(new String[]{});
+		Command command = new Command().withArgument("kb", "sets the knowledge base").parse(new String[]{});
+		
+		command.argumentAsString("kb");
 	}
 	
 	@Test

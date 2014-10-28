@@ -27,13 +27,8 @@ class RunCorpusConstruction{
 					 .withArgument("types", "directory under \"evaluation/labeller-indexes\" that contains the types index")
 					 .withArgument("labels", "directory under \"evaluation/labeller-indexes\" that contains the labels index")
 					 .withArgument("threads", "number of concurrent threads")
-					 .withArgument("stemming", "enables or disables stemming, namely yes or no");
-		try{
-			command.parse(args);
-		}catch(Exception e){
-			System.err.println(command.explainArguments());
-			return;
-		}
+					 .withArgument("stemming", "enables or disables stemming, namely yes or no")
+					 .parse(args);
 		
 		String source = command.argumentAsString("source");
 		final String target = command.argumentAsString("target");

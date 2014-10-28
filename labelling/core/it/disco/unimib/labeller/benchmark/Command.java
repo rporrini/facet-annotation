@@ -26,19 +26,21 @@ public class Command {
 	}
 
 	public Command parse(String[] commandLineArguments) throws Exception {
-		CommandLineArguments args = new CommandLineArguments(commandLineArguments);
-		for(String key : explanations.keySet()){
-			if(args.asString(key) == null) throw new Exception();
-		}
-		arguments = args;
+		arguments = new CommandLineArguments(commandLineArguments);
 		return this;
 	}
 
-	public String argumentAsString(String key) {
-		return arguments.asString(key).get(0);
+	public String argumentAsString(String key) throws Exception {
+		return get(key).get(0);
 	}
 
-	public List<String> argumentsAsStrings(String value) {
-		return arguments.asString(value);
+	public List<String> argumentsAsStrings(String value) throws Exception {
+		return get(value);
+	}
+	
+	private List<String> get(String key) throws Exception {
+		List<String> asString = arguments.asString(key);
+		if(asString == null) throw new Exception(explainArguments());
+		return asString;
 	}
 }
