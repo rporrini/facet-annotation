@@ -22,9 +22,9 @@ Dalla root del repository:
 ## Creazione del Gold Standard di Limaye (Yago)
 Dalla root del repository:
 
-* ```./generate-sarawagi-gold-standard.sh```
+* ```./generate-yago1-gold-standard.sh```
 * passo di pulizia a mano :(
-* ```./generate-sarawagi-qrels.sh```
+* ```./generate-yago1-qrels.sh```
 
 ## Run degli algoritmi
 Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti. Dalla root del repository:
@@ -49,7 +49,7 @@ Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nel
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels ...
 
 ## Calcolo delle metriche via trec_eval
 Dalla root del repository:
@@ -58,7 +58,7 @@ Dalla root del repository:
 
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels
+* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels ...
 * GOLD-STANDARD: file formato trec del gold standard (si trovano nella cartella ```evaluation/results/```)
 * RESULTS-FILE: file formato trec dei risultati degli algoritmi (si trovano nelle cartelle ```evaluation/results/KNOWLEDGE-BASE-results```)
 
@@ -70,5 +70,5 @@ Dalla root del repository:
 Lo script prende tutti i risultati prodotti da ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME``` e li confronta con il gold-standard generando un file ```all-results.csv``` contenente il confronto
 Parametri:
 
-* KNOWLEDGE-BASE: dbpedia, dbpedia-with-labels, yago1, yago1-simple
+* KNOWLEDGE-BASE: dbpedia, dbpedia-with-labels, yago1, yago1-simple ...
 
