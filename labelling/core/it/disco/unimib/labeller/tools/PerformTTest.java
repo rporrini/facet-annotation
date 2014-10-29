@@ -34,7 +34,7 @@ public class PerformTTest {
 	private static double[] run(String algorithm1, String metric, String goldStandard, int k) throws Exception {
 		List<String> algorithm1Results = TrecEval.run(k, goldStandard, algorithm1, metric);
 		double[] algorithm1Values = new double[algorithm1Results.size()];
-		for(int i = 0; i<algorithm1Results.size(); i++){
+		for(int i = 0; i<algorithm1Results.size()-1; i++){
 			double value = Double.parseDouble(StringUtils.split(algorithm1Results.get(i), "\t")[2]);
 			algorithm1Values[i] = value;
 		}
