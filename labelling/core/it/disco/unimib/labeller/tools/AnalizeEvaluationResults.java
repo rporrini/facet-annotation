@@ -40,11 +40,12 @@ public class AnalizeEvaluationResults {
 		List<String> measures = command.argumentsAsStrings("m");
 		
 		for(String measure : measures){
-			List<String> results = TrecEval.run(topK, goldStandard, qrels, measure);
 			if(inDeptAnalysis){
-				System.out.println("results for " + alg + " on " + kb + " considering the top " + topK + " ranked predicates");
+				System.out.println("gold standard: " + goldStandard);
+				System.out.println("results: " + qrels);
 			}
 			
+			List<String> results = TrecEval.run(topK, goldStandard, qrels, measure);
 			System.out.println(measure + ": " + measureResult(results.get(results.size() - 1)));
 			
 			if(inDeptAnalysis){
@@ -122,7 +123,7 @@ public class AnalizeEvaluationResults {
 	private static String goldStandardQRels(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
 		qrels.put("dbpedia", "dbpedia-enhanced.qrels");
-		qrels.put("dbpedia-with-labels", "dbpedia-with-labels.qrels");
+		qrels.put("dbpedia-with-labels", "dbpedia-enhanced-with-labels.qrels");
 		qrels.put("yago1", "yago1-enhanced.qrels");
 		qrels.put("yago1-simple", "yago1-simple.qrels");
 		return "../evaluation/gold-standards/" + qrels.get(knowledgeBase);
