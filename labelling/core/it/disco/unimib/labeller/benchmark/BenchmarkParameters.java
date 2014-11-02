@@ -79,6 +79,7 @@ public class BenchmarkParameters{
 	
 	private String indexPath(String knowledgeBase) {
 		HashMap<String, String> paths = new HashMap<String, String>();
+		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia-ontology/properties");
 		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("dbpedia-with-labels", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("yago1", "../evaluation/labeller-indexes/yago1/properties");
@@ -89,6 +90,7 @@ public class BenchmarkParameters{
 	private String goldStandardPath() throws Exception {
 		HashMap<String, String> paths = new HashMap<String, String>();
 		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced");
+		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced-ontology");
 		paths.put("dbpedia-with-labels", "../evaluation/gold-standards/dbpedia-enhanced");
 		paths.put("yago1", "../evaluation/gold-standards/yago1-enhanced");
 		paths.put("yago1-simple", "../evaluation/gold-standards/yago1-simple");
