@@ -13,7 +13,8 @@ class TrecEval{
 		System.out.println(command);
 		Process result = Runtime.getRuntime().exec(command);
 		result.waitFor();
-		System.out.println(StringUtils.join(IOUtils.readLines(result.getErrorStream()), "\n"));
+		String errors = StringUtils.join(IOUtils.readLines(result.getErrorStream()), "\n");
+		if(!errors.isEmpty()) System.out.println(errors);
 		return IOUtils.readLines(result.getInputStream());
 	}
 
