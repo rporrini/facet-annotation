@@ -123,6 +123,7 @@ public class AnalizeEvaluationResults {
 	private static String goldStandardQRels(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
 		qrels.put("dbpedia", "dbpedia-enhanced.qrels");
+		qrels.put("dbpedia-ontology", "dbpedia-enhanced-ontology.qrels");
 		qrels.put("dbpedia-with-labels", "dbpedia-enhanced-with-labels.qrels");
 		qrels.put("yago1", "yago1-enhanced.qrels");
 		qrels.put("yago1-simple", "yago1-simple.qrels");
@@ -132,6 +133,7 @@ public class AnalizeEvaluationResults {
 	private static String resultDirectory(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
 		qrels.put("dbpedia", "dbpedia-results/");
+		qrels.put("dbpedia-ontology", "dbpedia-ontology-results/");
 		qrels.put("dbpedia-with-labels", "dbpedia-with-labels-results/");
 		qrels.put("yago1", "yago1-results/");
 		qrels.put("yago1-simple", "yago1-simple-results/");

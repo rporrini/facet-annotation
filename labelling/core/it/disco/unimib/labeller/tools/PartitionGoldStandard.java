@@ -45,6 +45,7 @@ public class PartitionGoldStandard {
 	private static String goldStandardQRels(String knowledgeBase){
 		HashMap<String, String> qrels = new HashMap<String, String>();
 		qrels.put("dbpedia", "dbpedia-enhanced.qrels");
+		qrels.put("dbpedia-ontology", "dbpedia-enhanced-ontology.qrels");
 		qrels.put("dbpedia-with-labels", "dbpedia-with-labels.qrels");
 		qrels.put("yago1", "yago1-enhanced.qrels");
 		qrels.put("yago1-simple", "yago1-simple.qrels");

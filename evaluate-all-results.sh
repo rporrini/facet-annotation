@@ -26,6 +26,12 @@ then
 	trecResultsDirectory="$results/dbpedia-results"
 	outputDirectory="$results/dbpedia-results"
 fi
+if [ "$dataset" == "dbpedia-ontology" ]
+then 
+	goldStandard="$gs/dbpedia-enhanced-ontology.qrels"
+	trecResultsDirectory="$results/dbpedia-ontology-results"
+	outputDirectory="$results/dbpedia-ontology-results"
+fi
 if [ "$dataset" == "dbpedia-with-labels" ]
 then
 	goldStandard="$gs/dbpedia-enhanced-with-labels.qrels"
