@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-import org.apache.commons.math3.stat.correlation.PearsonsCorrelation;
+import org.apache.commons.math3.stat.correlation.SpearmansCorrelation;
+import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
 
 public class InterUserAgreement {
@@ -13,23 +14,39 @@ public class InterUserAgreement {
 		String file = "../evaluation/gold-standards/questionnaires/questionnaire-ALL.ods";
 		List<HashMap<Long, List<Double>>> ratings = getAllRatingsFrom(SpreadSheet.createFromFile(new File(file)));
 		
-		for(Long id : ratings.get(0).keySet()){
-			for(int first=0; first < ratings.size(); first++){
-				List<Double> firstRates = ratings.get(first).get(id);
-				if(firstRates == null) continue;
-				for(int second = first + 1; second < ratings.size() ; second++){
-					List<Double> secondRates = ratings.get(second).get(id);
-					if(secondRates == null) continue;
-					
-					double[] f = convert(firstRates);
-					double[] s = convert(secondRates);
-					
-					System.out.print(id + " between " + first + " and " + second + ": ");
-					double correlation = new PearsonsCorrelation().correlation(f, s);
-					System.out.println(correlation);
+		DescriptiveStatistics correlationStatistic = new DescriptiveStatistics();
+		DescriptiveStatistics limitStatistic = new DescriptiveStatistics();
+		for(int first = 0; first < ratings.size(); first++){
+			for(int second = first + 1; second < ratings.size(); second++){
+				List<Long> commonIds = new ArrayList<Long>(ratings.get(first).keySet());
+				commonIds.retainAll(ratings.get(second).keySet());
+				
+				if(commonIds.isEmpty()) continue;
+				
+				List<Double> firstRatings = new ArrayList<Double>();
+				for(Long id : commonIds){
+					firstRatings.addAll(ratings.get(first).get(id));
+				}
+				
+				List<Double> secondRatings = new ArrayList<Double>();
+				for(Long id : commonIds){
+					secondRatings.addAll(ratings.get(second).get(id));
+				}
+				
+				double correlation = new SpearmansCorrelation().correlation(convert(firstRatings), convert(secondRatings));
+				correlationStatistic.addValue(correlation);
+				System.out.println("Correlation between" + first + " and " + second + ": " + correlation);
+				
+				for(int i=0; i < firstRatings.size(); i++){
+					double delta = firstRatings.get(i) - secondRatings.get(i);
+					limitStatistic.addValue(delta);
 				}
 			}
 		}
+		System.out.println();
+		System.out.println("Mean Spearman Correlation: " + correlationStatistic.getMean());
+		System.out.println("Mean Disagreement: " + limitStatistic.getMean());
+		System.out.println("Mean Disagreement Variance: " + limitStatistic.getVariance());
 	}
 	
 	private static double[] convert(List<Double> scores){
@@ -55,7 +72,7 @@ public class InterUserAgreement {
 					}
 					if(!rates.containsKey(id)) rates.put(id, new ArrayList<Double>());
 					
-					rates.get(id).add(Double.parseDouble(propertyScore));
+					rates.get(id).add((double)Math.round(Double.parseDouble(propertyScore)));
 				}
 			});
 			ratings.getAnswers(questionnaire.getSheet(i));

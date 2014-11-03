@@ -23,16 +23,16 @@ root=`cd $relative_path;pwd`
 cd $root
 dataset=$1
 
-run mh simple no $dataset
-run mh simple partial $dataset
-run mh simple "complete" $dataset
-run mh contextualized no $dataset
-run mh contextualized partial $dataset
-run mh contextualized "complete" $dataset
+#run mh simple no $dataset
+#run mh simple partial $dataset
+#run mh simple "complete" $dataset
+#run mh contextualized no $dataset
+#run mh contextualized partial $dataset
+#run mh contextualized "complete" $dataset
 
-run mhw simple partial $dataset
-run mhw simple "complete" $dataset
-run mhw contextualized partial $dataset
+#run mhw simple partial $dataset
+#run mhw simple "complete" $dataset
+#run mhw contextualized partial $dataset
 run mhw contextualized "complete" $dataset
 run mhw simple no $dataset
 run mhw contextualized no $dataset
