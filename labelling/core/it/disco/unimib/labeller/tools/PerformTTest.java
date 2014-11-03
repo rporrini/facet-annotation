@@ -15,7 +15,7 @@ public class PerformTTest {
 								.withArgument("alg1", "the path of the results of the first algorithm")
 								.withArgument("alg2", "the path of the results of the second algorithm")
 								.withArgument("k", "restricts the analysis to the top k results")
-								.withArgument("gs", "toggle in dept analysis")
+								.withArgument("gs", "path of the gold standard")
 								.parse(args);
 
 		String algorithm1 = command.argumentAsString("alg1");
@@ -32,7 +32,7 @@ public class PerformTTest {
 	}
 
 	private static double[] run(String algorithm1, String metric, String goldStandard, int k) throws Exception {
-		List<String> algorithm1Results = TrecEval.run(k, goldStandard, algorithm1, metric);
+		List<String> algorithm1Results = TrecEval.singleAndSummary(k, goldStandard, algorithm1, metric);
 		double[] algorithm1Values = new double[algorithm1Results.size()];
 		for(int i = 0; i<algorithm1Results.size()-1; i++){
 			double value = Double.parseDouble(StringUtils.split(algorithm1Results.get(i), "\t")[2]);

@@ -45,7 +45,7 @@ public class AnalizeEvaluationResults {
 				System.out.println("results: " + qrels);
 			}
 			
-			List<String> results = TrecEval.run(topK, goldStandard, qrels, measure);
+			List<String> results = TrecEval.singleAndSummary(topK, goldStandard, qrels, measure);
 			System.out.println(measure + ": " + measureResult(results.get(results.size() - 1)));
 			
 			if(inDeptAnalysis){
