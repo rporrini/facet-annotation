@@ -114,7 +114,7 @@ public class GroupBySearchTest {
 									.asTriple())
 								.add(new TripleBuilder()
 											.withSubject("http://another_subject")
-											.withPredicate("http://predicate")
+											.withPredicate("http://another-predicate")
 									.asTriple())
 								.closeWriter();
 		
