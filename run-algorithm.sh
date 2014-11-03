@@ -8,5 +8,5 @@ cd $root
 ./build.sh > /dev/null
 
 cd $project
-java -Xms256m -Xmx2000m -cp .:'labelling.jar' it.disco.unimib.labeller.benchmark.Run $1 $2 $3 $4 $5
+java -Xms256m -Xmx2000m -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunEvaluation $@
 
