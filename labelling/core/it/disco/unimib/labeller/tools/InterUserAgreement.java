@@ -15,7 +15,9 @@ public class InterUserAgreement {
 		List<HashMap<Long, List<Double>>> ratings = getAllRatingsFrom(SpreadSheet.createFromFile(new File(file)));
 		
 		DescriptiveStatistics correlationStatistic = new DescriptiveStatistics();
+		DescriptiveStatistics kappaStatistic = new DescriptiveStatistics();
 		DescriptiveStatistics limitStatistic = new DescriptiveStatistics();
+		
 		for(int first = 0; first < ratings.size(); first++){
 			for(int second = first + 1; second < ratings.size(); second++){
 				List<Long> commonIds = new ArrayList<Long>(ratings.get(first).keySet());
@@ -33,9 +35,13 @@ public class InterUserAgreement {
 					secondRatings.addAll(ratings.get(second).get(id));
 				}
 				
-				double correlation = new SpearmansCorrelation().correlation(convert(firstRatings), convert(secondRatings));
+				double correlation = new SpearmansCorrelation().correlation(convertForSpearman(firstRatings), convertForSpearman(secondRatings));
 				correlationStatistic.addValue(correlation);
-				System.out.println("Correlation between " + first + " and " + second + ": " + correlation);
+				System.out.println("Spearman Correlation between " + first + " and " + second + ": " + correlation);
+				
+				double kappa = new CohensKappa().kappa(merge(firstRatings, secondRatings));
+				kappaStatistic.addValue(kappa);
+				System.out.println("Cohen's Kappa between " + first + " and " + second + ": " + kappa);
 				
 				for(int i=0; i < firstRatings.size(); i++){
 					double delta = firstRatings.get(i) - secondRatings.get(i);
@@ -45,13 +51,29 @@ public class InterUserAgreement {
 		}
 		System.out.println();
 		System.out.println("Mean Spearman Correlation: " + correlationStatistic.getMean());
+		System.out.println("Mean Cohen's Kappa: " + kappaStatistic.getMean());
 		System.out.println("Mean Disagreement: " + limitStatistic.getMean());
 		System.out.println("Mean Disagreement Variance: " + limitStatistic.getVariance());
 	}
 	
-	private static double[] convert(List<Double> scores){
+	private static double[] convertForSpearman(List<Double> scores){
 		double[] result = new double[scores.size()];
 		for(int i=0; i<scores.size();i++) result[i] = scores.get(i);
+		return result;
+	}
+	
+	private static List<List<Integer>> merge(List<Double> first, List<Double> second){
+		ArrayList<List<Integer>> result = new ArrayList<List<Integer>>();
+		result.add(convertForCohens(first));
+		result.add(convertForCohens(second));
+		return result;
+	}
+	
+	private static List<Integer> convertForCohens(List<Double> scores){
+		ArrayList<Integer> result = new ArrayList<Integer>();
+		for(Double score : scores){
+			result.add(score.intValue());
+		}
 		return result;
 	}
 	
