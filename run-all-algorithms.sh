@@ -43,10 +43,10 @@ dataset=$1
 #run mhwv contextualized "complete" $dataset
 #run mhwv simple no $dataset
 
-run ml simple partial $dataset
-run ml simple "complete" $dataset
-run ml contextualized partial $dataset
-run ml contextualized "complete" $dataset
+#run ml simple partial $dataset
+#run ml simple "complete" $dataset
+#run ml contextualized partial $dataset
+#run ml contextualized "complete" $dataset
 run ml simple no $dataset
 run ml contextualized no $dataset
 
