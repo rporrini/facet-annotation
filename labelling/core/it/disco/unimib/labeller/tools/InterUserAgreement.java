@@ -35,7 +35,7 @@ public class InterUserAgreement {
 				
 				double correlation = new SpearmansCorrelation().correlation(convert(firstRatings), convert(secondRatings));
 				correlationStatistic.addValue(correlation);
-				System.out.println("Correlation between" + first + " and " + second + ": " + correlation);
+				System.out.println("Correlation between " + first + " and " + second + ": " + correlation);
 				
 				for(int i=0; i < firstRatings.size(); i++){
 					double delta = firstRatings.get(i) - secondRatings.get(i);
