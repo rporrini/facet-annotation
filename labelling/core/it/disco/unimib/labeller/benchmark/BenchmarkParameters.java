@@ -49,13 +49,33 @@ public class BenchmarkParameters{
 		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences, new IndexFields(knowledgeBase));
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
-		configurations.put("mh", new MajorityHit(index, context, new Constant(), new Constant()));
-		configurations.put("mhw", new MajorityHit(index, context, new LogarithmicContextForPredicate(index, new PartialContext()), new Constant()));
-		configurations.put("mhsw", new MajorityHit(index, context, new SimpleContextForPredicate(index, new PartialContext()), new Constant()));
-		configurations.put("mhwv", new MajorityHit(index, context, new Constant(), new ValueForPredicate(index)));
-		configurations.put("mhwcv", new MajorityHit(index, context, new LogarithmicContextForPredicate(index, new PartialContext()), new ValueForPredicate(index)));
+		configurations.put("mh", majority(index, context));
+		configurations.put("mhw", pfd(index, context));
+		configurations.put("mhsw", simplePdf(index, context));
+		configurations.put("mhwv", pdfWithValueDiscriminacy(index, context));
+		configurations.put("mhwcv", pfdWithValueDiscriminacyAndPredicateDiscriminacy(index, context));
 		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
+	}
+
+	private MajorityHit pfdWithValueDiscriminacyAndPredicateDiscriminacy(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityHit(index, context, new ValueForPredicate(index), new LogarithmicContextForPredicate(index, new PartialContext()));
+	}
+
+	private MajorityHit pdfWithValueDiscriminacy(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityHit(index, context, new ValueForPredicate(index), new Constant());
+	}
+
+	private MajorityHit simplePdf(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityHit(index, context, new Constant(), new SimpleContextForPredicate(index, new PartialContext()));
+	}
+
+	private MajorityHit pfd(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityHit(index, context, new Constant(), new LogarithmicContextForPredicate(index, new PartialContext()));
+	}
+
+	private MajorityHit majority(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityHit(index, context, new Constant(), new Constant());
 	}
 
 	public GoldStandard goldStandard() throws Exception {

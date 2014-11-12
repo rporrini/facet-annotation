@@ -28,7 +28,7 @@ public class RunAlgorithm {
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new LogarithmicContextForPredicate(index, new CompleteContext()), new Constant());
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){

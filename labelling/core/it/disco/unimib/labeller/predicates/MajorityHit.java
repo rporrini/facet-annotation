@@ -13,15 +13,15 @@ import java.util.List;
 public class MajorityHit implements AnnotationAlgorithm{
 	
 	private Index index;
-	private Discriminacy externalWeight;
-	private Discriminacy internalWeight;
+	private Discriminacy predicateDiscriminacy;
+	private Discriminacy valueDiscriminacy;
 	private SelectionCriterion selection;
 
-	public MajorityHit(Index index, SelectionCriterion criterion, Discriminacy externalWeight, Discriminacy internalWeight) {
+	public MajorityHit(Index index, SelectionCriterion criterion, Discriminacy valueDiscriminacy, Discriminacy predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
-		this.externalWeight = externalWeight;
-		this.internalWeight = internalWeight;
+		this.predicateDiscriminacy = predicateDiscriminacy;
+		this.valueDiscriminacy = valueDiscriminacy;
 	}
 
 	@Override
@@ -42,14 +42,14 @@ public class MajorityHit implements AnnotationAlgorithm{
 				}
 				long frequencyOfPredicate = cachedFrequencyOfPredicates.get(predicate); 
 				
-				double predicateAndValueDiscriminacy = internalWeight.of(predicate, value, frequencyOfPredicate);
+				double predicateAndValueDiscriminacy = valueDiscriminacy.of(predicate, value, frequencyOfPredicate);
 				predicateCounts.put(predicate, predicateCounts.get(predicate) + (distribution.scoreOf(predicate, value) * predicateAndValueDiscriminacy));
 			}
 		}
 		
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : predicateCounts.keySet()){
-			double predicateAndContextDiscriminacy = externalWeight.of(predicate, context, cachedFrequencyOfPredicates.get(predicate));
+			double predicateAndContextDiscriminacy = predicateDiscriminacy.of(predicate, context, cachedFrequencyOfPredicates.get(predicate));
 			results.add(new CandidatePredicate(predicate, predicateCounts.get(predicate) * predicateAndContextDiscriminacy));
 		}
 		
