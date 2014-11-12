@@ -43,10 +43,8 @@ public class BenchmarkParameters{
 
 	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
-		Occurrences occurrences = occurrences();
 		SelectionCriterion context = context();
-		
-		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences, new IndexFields(knowledgeBase));
+		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", majority(index, context));
@@ -54,8 +52,12 @@ public class BenchmarkParameters{
 		configurations.put("mhsw", simplePdf(index, context));
 		configurations.put("mhwv", pdfWithValueDiscriminacy(index, context));
 		configurations.put("mhwcv", pfdWithValueDiscriminacyAndPredicateDiscriminacy(index, context));
-		configurations.put("ml", new PredicateMaximumLikelihood(index, context));
+		configurations.put("ml", maximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
+	}
+
+	private PredicateMaximumLikelihood maximumLikelihood(GroupBySearch index, SelectionCriterion context) {
+		return new PredicateMaximumLikelihood(index, context);
 	}
 
 	private MajorityHit pfdWithValueDiscriminacyAndPredicateDiscriminacy(GroupBySearch index, SelectionCriterion context) {
