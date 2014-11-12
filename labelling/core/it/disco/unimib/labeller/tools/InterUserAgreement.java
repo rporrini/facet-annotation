@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
+import org.apache.commons.math3.stat.correlation.PearsonsCorrelation;
 import org.apache.commons.math3.stat.correlation.SpearmansCorrelation;
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
@@ -14,7 +15,8 @@ public class InterUserAgreement {
 		String file = "../evaluation/gold-standards/questionnaires/questionnaire-ALL.ods";
 		List<HashMap<Long, List<Double>>> ratings = getAllRatingsFrom(SpreadSheet.createFromFile(new File(file)));
 		
-		DescriptiveStatistics correlationStatistic = new DescriptiveStatistics();
+		DescriptiveStatistics spearmanStatistic = new DescriptiveStatistics();
+		DescriptiveStatistics pearsonStatistic = new DescriptiveStatistics();
 		DescriptiveStatistics kappaStatistic = new DescriptiveStatistics();
 		DescriptiveStatistics limitStatistic = new DescriptiveStatistics();
 		
@@ -23,40 +25,38 @@ public class InterUserAgreement {
 				List<Long> commonIds = new ArrayList<Long>(ratings.get(first).keySet());
 				commonIds.retainAll(ratings.get(second).keySet());
 				
-				if(commonIds.isEmpty()) continue;
-				
-				List<Double> firstRatings = new ArrayList<Double>();
 				for(Long id : commonIds){
-					firstRatings.addAll(ratings.get(first).get(id));
-				}
-				
-				List<Double> secondRatings = new ArrayList<Double>();
-				for(Long id : commonIds){
-					secondRatings.addAll(ratings.get(second).get(id));
-				}
-				
-				double correlation = new SpearmansCorrelation().correlation(convertForSpearman(firstRatings), convertForSpearman(secondRatings));
-				correlationStatistic.addValue(correlation);
-				System.out.println("Spearman Correlation between " + first + " and " + second + ": " + correlation);
-				
-				double kappa = new CohensKappa().kappa(merge(firstRatings, secondRatings));
-				kappaStatistic.addValue(kappa);
-				System.out.println("Cohen's Kappa between " + first + " and " + second + ": " + kappa);
-				
-				for(int i=0; i < firstRatings.size(); i++){
-					double delta = firstRatings.get(i) - secondRatings.get(i);
-					limitStatistic.addValue(delta);
+					List<Double> firstRatings = ratings.get(first).get(id);
+					List<Double> secondRatings = ratings.get(second).get(id);
+					
+					Double spearman = new SpearmansCorrelation().correlation(convert(firstRatings), convert(secondRatings));
+					if(spearman.equals(Double.NaN)) spearman = 1d;
+					spearmanStatistic.addValue(spearman);
+					
+					Double pearson = new PearsonsCorrelation().correlation(convert(firstRatings), convert(secondRatings));
+					if(pearson.equals(Double.NaN)) pearson = 1d;
+					pearsonStatistic.addValue(pearson);
+					
+					Double kappa = new CohensKappa().kappa(merge(firstRatings, secondRatings));
+					if(kappa.equals(Double.NaN)) kappa = 1d;
+					kappaStatistic.addValue(kappa);
+					
+					for(int i=0; i < firstRatings.size(); i++){
+						double delta = firstRatings.get(i) - secondRatings.get(i);
+						limitStatistic.addValue(delta);
+					}
 				}
 			}
 		}
+		
 		System.out.println();
-		System.out.println("Mean Spearman Correlation: " + correlationStatistic.getMean());
-		System.out.println("Mean Cohen's Kappa: " + kappaStatistic.getMean());
-		System.out.println("Mean Disagreement: " + limitStatistic.getMean());
-		System.out.println("Mean Disagreement Variance: " + limitStatistic.getVariance());
+		System.out.println("Mean Spearman Correlation: " + spearmanStatistic.getMean() + " (+/- " + spearmanStatistic.getVariance() + ")");
+		System.out.println("Mean Pearsons Correlation: " + pearsonStatistic.getMean() + " (+/- " + pearsonStatistic.getVariance() + ")");
+		System.out.println("Mean Cohen's Kappa: " + kappaStatistic.getMean() + " (+/- " + kappaStatistic.getVariance() + ")");
+		System.out.println("Mean Disagreement: " + limitStatistic.getMean()  + " (+/- " + limitStatistic.getVariance() + ")");
 	}
 	
-	private static double[] convertForSpearman(List<Double> scores){
+	private static double[] convert(List<Double> scores){
 		double[] result = new double[scores.size()];
 		for(int i=0; i<scores.size();i++) result[i] = scores.get(i);
 		return result;
