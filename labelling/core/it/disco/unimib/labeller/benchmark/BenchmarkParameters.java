@@ -101,8 +101,8 @@ public class BenchmarkParameters{
 	
 	private String indexPath(String knowledgeBase) {
 		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia-ontology/properties");
-		paths.put("dbpedia-ontology", "../evaluation/labeller-indexes/dbpedia/properties");
+		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
+		paths.put("dbpedia-ontology", "../evaluation/labeller-indexes/dbpedia-ontology/properties");
 		paths.put("dbpedia-with-labels", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("yago1", "../evaluation/labeller-indexes/yago1/properties");
 		paths.put("yago1-simple", "../evaluation/labeller-indexes/yago1/properties");
