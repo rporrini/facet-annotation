@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 
 import java.util.ArrayList;
@@ -50,5 +50,13 @@ public class CandidatePredicateTest {
 		CandidatePredicate predicate = new CandidatePredicate("value", 0.45, 0.94, 10);
 		
 		assertThat(predicate.toString(), allOf(containsString("0.45"), containsString("0.94"), containsString("10")));
+	}
+	
+	@Test
+	public void shouldGiveTheLastScoreAsTheCorrectOne() throws Exception {
+		
+		CandidatePredicate predicate = new CandidatePredicate("value", 0.4, 0.3, 10);
+		
+		assertThat(predicate.score(), equalTo(10d));
 	}
 }

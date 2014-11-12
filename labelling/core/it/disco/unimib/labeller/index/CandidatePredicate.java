@@ -21,7 +21,7 @@ public class CandidatePredicate implements Comparable<CandidatePredicate>{
 	}
 	
 	public double score(){
-		return scores[0];
+		return scores[scores.length - 1];
 	}
 	
 	@Override
