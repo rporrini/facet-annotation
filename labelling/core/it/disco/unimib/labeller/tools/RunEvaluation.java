@@ -13,6 +13,7 @@ public class RunEvaluation {
 					 .withArgument("algorithm", "the algorithm to use, namely mh, mhw, mhsw, mhwv, mhwcv, ml")
 					 .withArgument("occurrences", "the function applied to count each occurrence, namely simple, contextualized")
 					 .withArgument("summary", "the format of the results, namely questionnaire, trec")
+					 .withArgument("context", "context matching, namely no, partial, complete")
 					 .parse(args);
 		
 		BenchmarkParameters parameters = new BenchmarkParameters(command);
