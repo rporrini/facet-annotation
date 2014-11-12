@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.tools;
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -28,7 +27,7 @@ public class RunAlgorithm {
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new Constant(), new LogarithmicContextForPredicate(index, new PartialContext()));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){
@@ -39,18 +38,18 @@ public class RunAlgorithm {
 	private static int[] ids(String knowledgeBase) {
 		if(knowledgeBase.equals("dbpedia"))
 			return new int[]{
-				702159889,
-				268043830,
-				213755943,
-				2125380335,
-				2117679317,
-				1796458291,
-				1744816435,
-				1689442184,
-				148489175,
-				1161561471,
+//				702159889,
+//				268043830,
+//				213755943,
+//				2125380335,
+//				2117679317,
+//				1796458291,
+//				1744816435,
+//				1689442184,
+//				148489175,
+//				1161561471,
 				1088443226,
-				1011013747
+//				1011013747
 		};
 		else
 			return new int[]{
