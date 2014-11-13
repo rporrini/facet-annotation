@@ -19,13 +19,13 @@ public class CandidatePredicatesReport implements Predicates{
 		
 		Distribution distribution = predicates.forValues(context, values, query);
 		String header = "|";
-		for(String predicate : distribution.predicates()){
-			header += predicate + "|";
+		for(String value : distribution.values()){
+			header += value + "|";
 		}
 		log(header);
-		for(String value : distribution.values()){
-			String line = value + "|";
-			for(String predicate : distribution.predicates()){
+		for(String predicate : distribution.predicates()){
+			String line = predicate + "|";
+			for(String value : distribution.values()){
 				line += distribution.scoreOf(predicate, value) + "|";
 			}
 			log(line);
