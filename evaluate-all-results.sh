@@ -48,7 +48,7 @@ if [ "$dataset" == "yago1-simple" ]
 then
 	goldStandard="$gs/yago1-simple.qrels"
 	trecResultsDirectory="$results/yago1-simple-results"
-	outputDirectory="$results/yago1-results"
+	outputDirectory="$results/yago1-simple-results"
 fi
 if [ "$dataset" == "yago1-no-wrote" ]
 then
