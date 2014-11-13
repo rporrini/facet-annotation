@@ -23,12 +23,12 @@ public class Majority implements AnnotationAlgorithm{
 	
 	@Override
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<CandidatePredicate>> values = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query);
+		Distribution values = new Distribution(new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query));
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
-		for(String value : values.keySet()){
-			for(CandidatePredicate result : values.get(value)){
-				if(!predicateCounts.containsKey(result.value())) predicateCounts.put(result.value(), 0.0);
-				predicateCounts.put(result.value(), predicateCounts.get(result.value()) + 1);
+		for(String value : values.values()){
+			for(String result : values.predicates()){
+				if(!predicateCounts.containsKey(result)) predicateCounts.put(result, 0.0);
+				if(values.scoreOf(result, value) > 0) predicateCounts.put(result, predicateCounts.get(result) + 1);
 			}
 		}
 		List<CandidatePredicate> results = new ArrayList<CandidatePredicate>();

@@ -6,7 +6,6 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 
 public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
@@ -21,9 +20,7 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 	
 	@Override
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
-		HashMap<String, List<CandidatePredicate>> values = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query);
-
-		Distribution distribution = new Distribution(values);
+		Distribution distribution = new Distribution(new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query));
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		NormalizedPrior prior = new NormalizedPrior(distribution, unnormalizedPrior);
