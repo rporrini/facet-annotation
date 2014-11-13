@@ -1,8 +1,8 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
-import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.CompleteContext;
+import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 
@@ -22,8 +22,8 @@ public class PredicateContextualizedMaximumLikelihood implements AnnotationAlgor
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		CandidatePredicatesReport predicates = new CandidatePredicatesReport(new CandidatePredicates(index));
 		
-		Distribution optionalDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new NoContext()));
-		Distribution partialDistribution = new Distribution(predicates.forValues(context, elements.toArray(new String[elements.size()]), new PartialContext()));
+		Distribution optionalDistribution = predicates.forValues(context, elements.toArray(new String[elements.size()]), new NoContext());
+		Distribution partialDistribution = predicates.forValues(context, elements.toArray(new String[elements.size()]), new PartialContext());
 		
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : optionalDistribution.predicates()){

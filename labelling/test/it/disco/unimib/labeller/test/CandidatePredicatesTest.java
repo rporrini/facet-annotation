@@ -16,7 +16,7 @@ public class CandidatePredicatesTest {
 								.resultFor("italy", "country", 10)
 								.resultFor("france", "country", 25);
 		
-		Distribution results = new Distribution(new CandidatePredicates(index).forValues("any", new String[]{"italy", "france"}, new NoContext()));
+		Distribution results = new CandidatePredicates(index).forValues("any", new String[]{"italy", "france"}, new NoContext());
 		
 		assertThat(results.scoreOf("country", "france"), equalTo(25d));
 	}
