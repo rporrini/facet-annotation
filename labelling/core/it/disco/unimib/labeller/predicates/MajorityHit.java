@@ -27,7 +27,7 @@ public class MajorityHit implements AnnotationAlgorithm{
 	@Override
 	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
 		
-		Distribution distribution = new CandidatePredicates(index).forValues(context, elements.toArray(new String[elements.size()]), selection);
+		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), selection);
 		
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		HashMap<String, Long> cachedFrequencyOfPredicates = new HashMap<String, Long>();
