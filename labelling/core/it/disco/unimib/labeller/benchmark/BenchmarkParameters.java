@@ -15,7 +15,7 @@ import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.predicates.TopK;
-import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificy;
+import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
 import java.util.HashMap;
@@ -56,7 +56,7 @@ public class BenchmarkParameters{
 	}
 
 	private AnnotationAlgorithm pfd(GroupBySearch index, SelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificy(index, context, new LogarithmicPredicateSpecificy(index, new PartialContext()));
+		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index, new PartialContext()));
 	}
 
 	private AnnotationAlgorithm majority(GroupBySearch index, SelectionCriterion context) {

@@ -10,7 +10,7 @@ import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
-import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificy;
+import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
 import java.util.List;
@@ -26,7 +26,7 @@ public class RunAlgorithm {
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
-		WeightedFrequencyCoverageAndSpecificy majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new PartialContext(), new LogarithmicPredicateSpecificy(index, new PartialContext()));
+		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(), new LogarithmicPredicateSpecificy(index, new PartialContext()));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){

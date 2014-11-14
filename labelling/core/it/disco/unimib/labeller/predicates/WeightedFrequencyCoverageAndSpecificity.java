@@ -10,13 +10,13 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class WeightedFrequencyCoverageAndSpecificy implements AnnotationAlgorithm{
+public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
 	private Index index;
 	private Specificity predicateSpecificity;
 	private SelectionCriterion selection;
 
-	public WeightedFrequencyCoverageAndSpecificy(Index index, SelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(Index index, SelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;
@@ -46,9 +46,9 @@ public class WeightedFrequencyCoverageAndSpecificy implements AnnotationAlgorith
 		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
 		for(String predicate : frequenciesOverValues.keySet()){
 			double disc = predicateSpecificity.of(predicate, context, overallFrequencies.get(predicate));
-			Double wfreq = frequenciesOverValues.get(predicate);
-			double pfd = wfreq * disc;
-			results.add(new CandidatePredicate(predicate, wfreq, disc, pfd));
+			double smoothedWFreq = Math.log(frequenciesOverValues.get(predicate) + 1.000000001);
+			double pfd = smoothedWFreq * disc;
+			results.add(new CandidatePredicate(predicate, smoothedWFreq, disc, pfd));
 		}
 		
 		Collections.sort(results);
