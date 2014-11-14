@@ -9,13 +9,13 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class Majority implements AnnotationAlgorithm{
+public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 
 	private Index index;
 	private double threshold;
 	private SelectionCriterion query;
 
-	public Majority(Index candidates, double threshold, SelectionCriterion query){
+	public MajorityOverCoveredValues(Index candidates, double threshold, SelectionCriterion query){
 		this.index = candidates;
 		this.threshold = threshold;
 		this.query = query;

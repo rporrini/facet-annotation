@@ -1,0 +1,41 @@
+package it.disco.unimib.labeller.test;
+
+import static org.hamcrest.Matchers.equalTo;
+import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
+
+import java.util.Arrays;
+import java.util.List;
+
+import org.junit.Test;
+
+public class MajorityOverFrequencyOfPredicatesTest{
+	
+	@Test
+	public void shouldOrderOnlyByHit() throws Exception {
+		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
+													 .resultFor("2010", "predicate", 1)
+													 .resultFor("2010", "other predicate", 10);
+		
+		
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		
+		assertThat(results.get(0).value(), equalTo("other predicate"));
+	}
+	
+	@Test
+	public void shouldCumulateHits() throws Exception {
+		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
+													 .resultFor("2010", "predicate", 1);
+
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext());
+		
+		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+
+		assertThat(results.get(0).score(), equalTo(2.0));
+	}
+}
