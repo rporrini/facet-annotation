@@ -3,12 +3,12 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
-public class LogarithmicContextForPredicate implements Discriminacy{
+public class LogarithmicPredicateSpecificy implements Specificity{
 	
 	private Index index;
 	private SelectionCriterion selectionCriterion;
 	
-	public LogarithmicContextForPredicate(Index index, SelectionCriterion selectionCriterion) {
+	public LogarithmicPredicateSpecificy(Index index, SelectionCriterion selectionCriterion) {
 		this.index = index;
 		this.selectionCriterion = selectionCriterion;
 	}

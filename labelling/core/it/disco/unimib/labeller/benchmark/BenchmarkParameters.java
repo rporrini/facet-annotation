@@ -11,14 +11,11 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.Constant;
-import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
-import it.disco.unimib.labeller.predicates.MajorityHit;
+import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
-import it.disco.unimib.labeller.predicates.SimpleContextForPredicate;
 import it.disco.unimib.labeller.predicates.TopK;
-import it.disco.unimib.labeller.predicates.ValueForPredicate;
+import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificy;
 
 import java.io.File;
 import java.util.HashMap;
@@ -50,9 +47,6 @@ public class BenchmarkParameters{
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", majority(index, context));
 		configurations.put("mhw", pfd(index, context));
-		configurations.put("mhsw", simplePdf(index, context));
-		configurations.put("mhwv", pdfWithValueDiscriminacy(index, context));
-		configurations.put("mhwcv", pfdWithValueDiscriminacyAndPredicateDiscriminacy(index, context));
 		configurations.put("ml", maximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
@@ -61,20 +55,8 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfdWithValueDiscriminacyAndPredicateDiscriminacy(GroupBySearch index, SelectionCriterion context) {
-		return new MajorityHit(index, context, new ValueForPredicate(index), new LogarithmicContextForPredicate(index, new PartialContext()));
-	}
-
-	private AnnotationAlgorithm pdfWithValueDiscriminacy(GroupBySearch index, SelectionCriterion context) {
-		return new MajorityHit(index, context, new ValueForPredicate(index), new Constant());
-	}
-
-	private AnnotationAlgorithm simplePdf(GroupBySearch index, SelectionCriterion context) {
-		return new MajorityHit(index, context, new Constant(), new SimpleContextForPredicate(index, new PartialContext()));
-	}
-
 	private AnnotationAlgorithm pfd(GroupBySearch index, SelectionCriterion context) {
-		return new MajorityHit(index, context, new Constant(), new LogarithmicContextForPredicate(index, new PartialContext()));
+		return new WeightedFrequencyCoverageAndSpecificy(index, context, new LogarithmicPredicateSpecificy(index, new PartialContext()));
 	}
 
 	private AnnotationAlgorithm majority(GroupBySearch index, SelectionCriterion context) {

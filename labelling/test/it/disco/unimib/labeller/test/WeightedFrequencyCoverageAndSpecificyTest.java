@@ -14,10 +14,10 @@ import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleIndex;
+import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
-import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
-import it.disco.unimib.labeller.predicates.MajorityHit;
-import it.disco.unimib.labeller.predicates.ValueForPredicate;
+import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
+import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificy;
 
 import java.util.Arrays;
 import java.util.List;
@@ -26,7 +26,7 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class MajorityHitTest {
+public class WeightedFrequencyCoverageAndSpecificyTest {
 	
 	@Test
 	public void shouldOrderOnlyByHit() throws Exception {
@@ -35,7 +35,7 @@ public class MajorityHitTest {
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -47,7 +47,7 @@ public class MajorityHitTest {
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
@@ -60,7 +60,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -73,7 +73,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new LogarithmicPredicateSpecificy(index, new CompleteContext()));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -86,7 +86,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("yago1"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new LogarithmicPredicateSpecificy(index, new CompleteContext()));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -99,7 +99,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new LogarithmicPredicateSpecificy(index, new CompleteContext()));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -112,7 +112,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new PartialContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new PartialContext(), new LogarithmicPredicateSpecificy(index, new CompleteContext()));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -125,7 +125,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new CompleteContext(), new Constant(), new LogarithmicContextForPredicate(index, new CompleteContext()));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new CompleteContext(), new LogarithmicPredicateSpecificy(index, new CompleteContext()));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -138,7 +138,7 @@ public class MajorityHitTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		MajorityHit majorityHitWeighted = new MajorityHit(index, new NoContext(), new ValueForPredicate(index), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificy(index, new NoContext(), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		

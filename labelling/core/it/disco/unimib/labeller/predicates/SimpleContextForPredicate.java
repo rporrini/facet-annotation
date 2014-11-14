@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
-public class SimpleContextForPredicate implements Discriminacy{
+public class SimpleContextForPredicate implements Specificity{
 
 	private Index index;
 	private SelectionCriterion selectionCriterion;
