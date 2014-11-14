@@ -27,6 +27,6 @@ run mh simple partial $dataset
 run ml simple partial $dataset
 run mhw contextualized partial $dataset
 
-run mh simple no $dataset
-run ml simple no $dataset
+#run mh simple no $dataset
+#run ml simple no $dataset
 
