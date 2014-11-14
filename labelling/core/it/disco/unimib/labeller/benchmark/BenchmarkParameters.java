@@ -14,6 +14,7 @@ import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
 import it.disco.unimib.labeller.predicates.LogarithmicContextForPredicate;
 import it.disco.unimib.labeller.predicates.MajorityHit;
+import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.predicates.SimpleContextForPredicate;
 import it.disco.unimib.labeller.predicates.TopK;
@@ -56,28 +57,28 @@ public class BenchmarkParameters{
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
 
-	private PredicateMaximumLikelihood maximumLikelihood(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm maximumLikelihood(GroupBySearch index, SelectionCriterion context) {
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private MajorityHit pfdWithValueDiscriminacyAndPredicateDiscriminacy(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm pfdWithValueDiscriminacyAndPredicateDiscriminacy(GroupBySearch index, SelectionCriterion context) {
 		return new MajorityHit(index, context, new ValueForPredicate(index), new LogarithmicContextForPredicate(index, new PartialContext()));
 	}
 
-	private MajorityHit pdfWithValueDiscriminacy(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm pdfWithValueDiscriminacy(GroupBySearch index, SelectionCriterion context) {
 		return new MajorityHit(index, context, new ValueForPredicate(index), new Constant());
 	}
 
-	private MajorityHit simplePdf(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm simplePdf(GroupBySearch index, SelectionCriterion context) {
 		return new MajorityHit(index, context, new Constant(), new SimpleContextForPredicate(index, new PartialContext()));
 	}
 
-	private MajorityHit pfd(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm pfd(GroupBySearch index, SelectionCriterion context) {
 		return new MajorityHit(index, context, new Constant(), new LogarithmicContextForPredicate(index, new PartialContext()));
 	}
 
-	private MajorityHit majority(GroupBySearch index, SelectionCriterion context) {
-		return new MajorityHit(index, context, new Constant(), new Constant());
+	private AnnotationAlgorithm majority(GroupBySearch index, SelectionCriterion context) {
+		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
 	public GoldStandard goldStandard() throws Exception {
