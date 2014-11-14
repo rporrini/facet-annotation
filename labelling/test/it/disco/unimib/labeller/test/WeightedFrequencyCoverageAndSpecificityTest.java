@@ -133,6 +133,19 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	}
 	
 	@Test
+	public void shouldConsiderCoverageOfThePredicatesOverValues() throws Exception {
+		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "lowCoveragePredicate", 2)
+				 									 .resultFor("2010", "highCoveragePredicate", 1)
+				 									 .resultFor("2012", "highCoveragePredicate", 1);
+		
+		AnnotationAlgorithm algorithm = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		
+		List<CandidatePredicate> results = algorithm.typeOf("context", Arrays.asList(new String[]{"2012", "2010"}));
+		
+		assertThat(results.get(0).label(), equalTo("highCoveragePredicate"));
+	}
+	
+	@Test
 	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
 		Directory directory = buildIndex();
 		
