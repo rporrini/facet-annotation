@@ -56,7 +56,7 @@ public class BenchmarkParameters{
 	}
 
 	private AnnotationAlgorithm pfd(GroupBySearch index, SelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index, new PartialContext()));
+		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index));
 	}
 
 	private AnnotationAlgorithm majority(GroupBySearch index, SelectionCriterion context) {

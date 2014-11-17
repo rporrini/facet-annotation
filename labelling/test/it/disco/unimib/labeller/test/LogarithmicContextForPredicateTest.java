@@ -2,7 +2,6 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -43,10 +42,10 @@ public class LogarithmicContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")), new CompleteContext());
+		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia")));
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
-		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching context", 1);
+		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching", 1);
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 
