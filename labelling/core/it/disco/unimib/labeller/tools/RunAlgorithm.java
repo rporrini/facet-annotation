@@ -24,10 +24,12 @@ public class RunAlgorithm {
 
 	public static void main(String[] args) throws Exception {
 		String knowledgeBase = "dbpedia";
-		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
-		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
-		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new LogarithmicPredicateSpecificy(index));
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity()));
+		GroupBySearch index = new GroupBySearch(indexDirectory, occurrences, new IndexFields(knowledgeBase));
+		PartialContext valueMatching = new PartialContext(new AnyValue());
+		LogarithmicPredicateSpecificy predicateSpecificity = new LogarithmicPredicateSpecificy(index);
+		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, valueMatching, predicateSpecificity);
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){

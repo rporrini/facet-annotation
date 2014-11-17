@@ -38,4 +38,11 @@ public class AllValuesTest {
 		
 		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
 	}
+	
+	@Test
+	public void shouldParseMultipleValuesWithDoublePoints() throws Exception {
+		Query query = new AllValues().createQuery("Film : Noir", "literal", new IndexFields("dbpedia").analyzer());
+		
+		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
+	}
 }
