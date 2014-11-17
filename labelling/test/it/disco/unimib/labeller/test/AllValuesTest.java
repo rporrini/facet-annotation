@@ -22,20 +22,20 @@ public class AllValuesTest {
 	public void shouldParseMultipleValues() throws Exception {
 		Query query = new AllValues().createQuery("Film Noir", "literal", new IndexFields("dbpedia").analyzer());
 		
-		assertThat(query.toString(), equalTo("+literal:film +literal:noir"));
+		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
 	}
 	
 	@Test
 	public void shouldParseMultipleValuesWithAStrangeSeparator() throws Exception {
 		Query query = new AllValues().createQuery("Film-Noir", "literal", new IndexFields("dbpedia").analyzer());
 		
-		assertThat(query.toString(), equalTo("+literal:film +literal:noir"));
+		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
 	}
 	
 	@Test
 	public void shouldParseMultipleValuesWithOR() throws Exception {
 		Query query = new AllValues().createQuery("Film OR Noir", "literal", new IndexFields("dbpedia").analyzer());
 		
-		assertThat(query.toString(), equalTo("+literal:film +literal:or +literal:noir"));
+		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
 	}
 }
