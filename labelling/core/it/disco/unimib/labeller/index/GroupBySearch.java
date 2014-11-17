@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.benchmark.Events;
+
 import java.io.IOException;
 import java.io.StringReader;
 import java.util.Arrays;
@@ -11,6 +13,7 @@ import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
@@ -30,36 +33,39 @@ public class GroupBySearch implements Index{
 	
 	@Override
 	public long countPredicatesInContext(String predicate, String context, SelectionCriterion query) throws Exception {
-		TopDocs results = searcher.search(query.asQuery(predicate, 
+		int howMany = 1;
+		BooleanQuery asQuery = query.asQuery(predicate, 
 														context,
 														indexFields.predicateField(),
 														indexFields.context(),
 														indexFields.namespace(),
-														indexFields.analyzer()),
-														1);
+														indexFields.analyzer());
+		TopDocs results = runQuery(howMany, asQuery);
 		return results.totalHits;
 	}
-	
+
 	public long countValuesForPredicates(String value, String predicate) throws Exception {
-		TopDocs results = searcher.search(new CompleteContext().asQuery(value, 
+		int howMany = 1;
+		BooleanQuery asQuery = new CompleteContext().asQuery(value, 
 																		predicate, 
 																		indexFields.literal(), 
 																		indexFields.predicateField(), 
 																		indexFields.namespace(), 
-																		indexFields.analyzer()),
-																		1);
+																		indexFields.analyzer());
+		TopDocs results = runQuery(howMany, asQuery);
 		return results.totalHits;
 	}
 	
 	@Override
 	public List<CandidatePredicate> get(String value, String context, SelectionCriterion query) throws Exception {
-		TopDocs results = searcher.search(query.asQuery(value, 
-										  context, 
-										  indexFields.literal(), 
-										  indexFields.context(), 
-										  indexFields.namespace(), 
-										  indexFields.analyzer()),
-										  1000000);
+		int howMany = 1000000;
+		BooleanQuery q = query.asQuery(value, 
+									  context, 
+									  indexFields.literal(), 
+									  indexFields.context(), 
+									  indexFields.namespace(), 
+									  indexFields.analyzer());
+		TopDocs results = runQuery(howMany, q);
 		
 		String stemmedContext = stem(context);
 		for(ScoreDoc result : results.scoreDocs){
@@ -70,6 +76,11 @@ public class GroupBySearch implements Index{
 		List<CandidatePredicate> annotations = occurrences.toResults();
 		occurrences.clear();
 		return annotations;
+	}
+	
+	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
+		new Events().debug(asQuery);
+		return searcher.search(asQuery,howMany);
 	}
 
 	private String stem(String context) throws IOException {
