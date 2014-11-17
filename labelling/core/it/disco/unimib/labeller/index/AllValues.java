@@ -12,7 +12,7 @@ public class AllValues implements SingleFieldSelectionCriterion {
 	public BooleanQuery createQuery(String value, String field, Analyzer analyzer) throws Exception {
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
 		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
-		String parse = parser.parse(QueryParser.escape(value), field).toString();
+		String parse = parser.parse(QueryParser.escape(value.replace("OR", "or").replace("AND", "and")), field).toString();
 		BooleanQuery query = new BooleanQuery();
 		query.add(parser.parse(parse, field), Occur.MUST);
 		return query;

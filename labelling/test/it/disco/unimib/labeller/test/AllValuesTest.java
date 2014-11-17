@@ -1,10 +1,14 @@
 package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.is;
+import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
+import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.IndexFields;
 
+import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.Query;
 import org.junit.Test;
 
@@ -44,5 +48,21 @@ public class AllValuesTest {
 		Query query = new AllValues().createQuery("Film : Noir", "literal", new IndexFields("dbpedia").analyzer());
 		
 		assertThat(query.toString(), equalTo("+(+literal:film +literal:noir)"));
+	}
+	
+	@Test
+	public void shouldParseAlsoQueriesWithORs() throws Exception {
+		
+		BooleanQuery query = new AllValues().createQuery("portland, OR", "literal", new IndexFields("dbpedia").analyzer());
+		
+		assertThat(query, is(notNullValue()));
+	}
+	
+	@Test
+	public void shouldParseUri() throws Exception {
+		
+		BooleanQuery query = new AnyValue().createQuery("http://aaa.com", "property", new IndexFields("dbpedia").analyzer());
+		
+		assertThat(query.toString(), equalTo("+property:http://aaa.com"));
 	}
 }

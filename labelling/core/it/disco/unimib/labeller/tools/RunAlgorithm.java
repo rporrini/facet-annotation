@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
-import it.disco.unimib.labeller.index.AnyValue;
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -27,7 +27,7 @@ public class RunAlgorithm {
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity()));
 		GroupBySearch index = new GroupBySearch(indexDirectory, occurrences, new IndexFields(knowledgeBase));
-		PartialContext valueMatching = new PartialContext(new AnyValue());
+		PartialContext valueMatching = new PartialContext(new AllValues());
 		LogarithmicPredicateSpecificy predicateSpecificity = new LogarithmicPredicateSpecificy(index);
 		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, valueMatching, predicateSpecificity);
 		
@@ -47,10 +47,10 @@ public class RunAlgorithm {
 //				2117679317,
 //				1796458291,
 //				1744816435,
-//				1689442184,
+				1689442184,
 //				148489175,
 //				1161561471,
-				1088443226,
+//				1088443226,
 //				1011013747
 		};
 		else

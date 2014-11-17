@@ -31,6 +31,14 @@ public class AnyValueTest {
 	}
 	
 	@Test
+	public void shouldParseUri() throws Exception {
+		
+		BooleanQuery query = new AnyValue().createQuery("http:///aaa.com", "property", new IndexFields("dbpedia").analyzer());
+		
+		assertThat(query.toString(), equalTo("+property:http:///aaa.com"));
+	}
+	
+	@Test
 	@Ignore
 	public void shouldParseQueries() throws Exception {
 		
