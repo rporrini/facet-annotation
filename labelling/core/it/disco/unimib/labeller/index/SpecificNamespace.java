@@ -9,12 +9,12 @@ import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.Query;
 
-public class SpecificNamespace implements SelectionCriterion {
+public class SpecificNamespace implements TripleSelectionCriterion {
 
-	private SelectionCriterion query;
+	private TripleSelectionCriterion query;
 	private String namespace;
 
-	public SpecificNamespace(String namespace, SelectionCriterion query) {
+	public SpecificNamespace(String namespace, TripleSelectionCriterion query) {
 		this.query = query;
 		this.namespace = namespace;
 	}

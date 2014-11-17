@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.SelectionCriterion;
+import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,9 +13,9 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	
 	private Index index;
 	private Specificity predicateSpecificity;
-	private SelectionCriterion selection;
+	private TripleSelectionCriterion selection;
 
-	public WeightedFrequencyCoverageAndSpecificity(Index index, SelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;

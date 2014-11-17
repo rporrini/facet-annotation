@@ -9,7 +9,7 @@ import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 
-public class CompleteContext implements SelectionCriterion{
+public class CompleteContext implements TripleSelectionCriterion{
 
 	@Override
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {

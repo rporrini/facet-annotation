@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
 import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -26,7 +27,7 @@ public class RunAlgorithm {
 		
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		GroupBySearch index = new GroupBySearch(indexDirectory, new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())), new IndexFields(knowledgeBase));
-		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(), new LogarithmicPredicateSpecificy(index));
+		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new LogarithmicPredicateSpecificy(index));
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids(knowledgeBase)){

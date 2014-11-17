@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
+import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.PartialContext;
 
@@ -13,7 +14,7 @@ public class LogarithmicPredicateSpecificy implements Specificity{
 	
 	@Override
 	public double of(String predicate, String context, double frequencyOfPredicate) throws Exception{
-		double frequencyOfPredicateAndContext = index.countPredicatesInContext(predicate, context, new PartialContext());
+		double frequencyOfPredicateAndContext = index.countPredicatesInContext(predicate, context, new PartialContext(new AnyValue()));
 		return Math.log((frequencyOfPredicateAndContext/frequencyOfPredicate) + 1.1);
 	}
 }

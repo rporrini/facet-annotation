@@ -8,7 +8,7 @@ import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 
-public class NoContext implements SelectionCriterion{
+public class NoContext implements TripleSelectionCriterion{
 	
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
 		BooleanQuery query = new AnyValue().createQuery(value, literalField, analyzer);

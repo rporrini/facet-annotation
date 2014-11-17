@@ -21,10 +21,10 @@ public class Evidence extends TripleIndex{
 	private TripleIndex types;
 	private TripleIndex labels;
 	private RankingStrategy ranking;
-	private SelectionCriterion query;
+	private TripleSelectionCriterion query;
 	private IndexFields indexFields;
 
-	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, SelectionCriterion query, IndexFields fields) throws Exception {
+	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, TripleSelectionCriterion query, IndexFields fields) throws Exception {
 		super(directory);
 		this.types = types;
 		this.labels = labels;

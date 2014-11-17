@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.SelectionCriterion;
+import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -11,9 +11,9 @@ import java.util.List;
 public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 
 	private Index index;
-	private SelectionCriterion query;
+	private TripleSelectionCriterion query;
 
-	public PredicateMaximumLikelihood(Index candidates, SelectionCriterion query){
+	public PredicateMaximumLikelihood(Index candidates, TripleSelectionCriterion query){
 		this.index = candidates;
 		this.query = query;
 	}

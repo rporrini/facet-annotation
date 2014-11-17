@@ -8,11 +8,17 @@ import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 
-public class PartialContext implements SelectionCriterion {
+public class PartialContext implements TripleSelectionCriterion {
+
+	private SingleFieldSelectionCriterion criterion;
+
+	public PartialContext(SingleFieldSelectionCriterion criterion) {
+		this.criterion = criterion;
+	}
 
 	@Override
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		BooleanQuery query = new AnyValue().createQuery(value, literalField, analyzer);
+		BooleanQuery query = criterion.createQuery(value, literalField, analyzer);
 		
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);

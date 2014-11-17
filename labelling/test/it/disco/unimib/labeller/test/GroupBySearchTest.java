@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -120,7 +121,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "one term", new PartialContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "one term", new PartialContext(new AnyValue())), is(equalTo(1l)));
 	}
 	
 	@Test

@@ -1,14 +1,14 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.SelectionCriterion;
+import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 public class SimplePredicateSpeficity implements Specificity{
 
 	private Index index;
-	private SelectionCriterion selectionCriterion;
+	private TripleSelectionCriterion selectionCriterion;
 
-	public SimplePredicateSpeficity(Index index, SelectionCriterion selectionCriterion) {
+	public SimplePredicateSpeficity(Index index, TripleSelectionCriterion selectionCriterion) {
 		this.index = index;
 		this.selectionCriterion = selectionCriterion;
 	}

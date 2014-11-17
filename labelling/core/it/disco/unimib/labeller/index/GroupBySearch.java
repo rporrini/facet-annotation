@@ -32,7 +32,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public long countPredicatesInContext(String predicate, String context, SelectionCriterion query) throws Exception {
+	public long countPredicatesInContext(String predicate, String context, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
 		BooleanQuery asQuery = query.asQuery(predicate, 
 														context,
@@ -57,7 +57,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<CandidatePredicate> get(String value, String context, SelectionCriterion query) throws Exception {
+	public List<CandidatePredicate> get(String value, String context, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value, 
 									  context, 

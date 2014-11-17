@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
+import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -7,9 +8,9 @@ import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.Occurrences;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
+import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
@@ -41,7 +42,7 @@ public class BenchmarkParameters{
 
 	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
-		SelectionCriterion context = context();
+		TripleSelectionCriterion context = context();
 		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
@@ -51,15 +52,15 @@ public class BenchmarkParameters{
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm maximumLikelihood(GroupBySearch index, TripleSelectionCriterion context) {
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm pfd(GroupBySearch index, TripleSelectionCriterion context) {
 		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index));
 	}
 
-	private AnnotationAlgorithm majority(GroupBySearch index, SelectionCriterion context) {
+	private AnnotationAlgorithm majority(GroupBySearch index, TripleSelectionCriterion context) {
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
@@ -67,11 +68,11 @@ public class BenchmarkParameters{
 		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath())));
 	}
 	
-	private SelectionCriterion context() throws Exception{
-		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
+	private TripleSelectionCriterion context() throws Exception{
+		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
 		contexts.put("complete", new CompleteContext());
 		contexts.put("no", new NoContext());
-		contexts.put("partial", new PartialContext());
+		contexts.put("partial", new PartialContext(new AnyValue()));
 		return contexts.get(contextString());
 	}
 	

@@ -6,7 +6,7 @@ import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfi
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
 
-public class AllValues {
+public class AllValues implements SingleFieldSelectionCriterion {
 
 	public BooleanQuery createQuery(String value, String field, Analyzer analyzer) throws Exception {
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
