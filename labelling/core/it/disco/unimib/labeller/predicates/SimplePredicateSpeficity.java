@@ -3,12 +3,12 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
-public class SimpleContextForPredicate implements Specificity{
+public class SimplePredicateSpeficity implements Specificity{
 
 	private Index index;
 	private SelectionCriterion selectionCriterion;
 
-	public SimpleContextForPredicate(Index index, SelectionCriterion selectionCriterion) {
+	public SimplePredicateSpeficity(Index index, SelectionCriterion selectionCriterion) {
 		this.index = index;
 		this.selectionCriterion = selectionCriterion;
 	}
