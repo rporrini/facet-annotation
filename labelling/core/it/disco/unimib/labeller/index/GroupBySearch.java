@@ -46,7 +46,7 @@ public class GroupBySearch implements Index{
 
 	public long countValuesForPredicates(String value, String predicate) throws Exception {
 		int howMany = 1;
-		BooleanQuery asQuery = new CompleteContext().asQuery(value, 
+		BooleanQuery asQuery = new CompleteContext(new AllValues()).asQuery(value, 
 																		predicate, 
 																		indexFields.literal(), 
 																		indexFields.predicateField(), 

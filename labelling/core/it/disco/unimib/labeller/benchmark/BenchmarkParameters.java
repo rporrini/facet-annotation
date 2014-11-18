@@ -70,9 +70,11 @@ public class BenchmarkParameters{
 	
 	private TripleSelectionCriterion context() throws Exception{
 		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
-		contexts.put("complete", new CompleteContext());
-		contexts.put("no", new NoContext());
-		contexts.put("partial", new PartialContext(new AllValues()));
+		AllValues valueMatching = new AllValues();
+		
+		contexts.put("complete", new CompleteContext(valueMatching));
+		contexts.put("no", new NoContext(valueMatching));
+		contexts.put("partial", new PartialContext(valueMatching));
 		return contexts.get(contextString());
 	}
 	

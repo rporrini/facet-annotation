@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -35,7 +36,7 @@ public class LogarithmicContextForPredicateTest {
 										types,
 										labels,
 										new RankByFrequency(),
-										new NoContext(),
+										new NoContext(new AllValues()),
 										new IndexFields("dbpedia"))
 												.add(new TripleBuilder().withSubject("a_subject")
 																		.withPredicate("predicate")

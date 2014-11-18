@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.CompleteContext;
@@ -36,7 +37,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -48,7 +49,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
@@ -61,7 +62,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -74,7 +75,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new LogarithmicPredicateSpecificy(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -87,7 +88,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("yago1"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new LogarithmicPredicateSpecificy(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -100,7 +101,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new LogarithmicPredicateSpecificy(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -126,7 +127,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(), new LogarithmicPredicateSpecificy(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -139,7 +140,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 				 									 .resultFor("2010", "highCoveragePredicate", 1)
 				 									 .resultFor("2012", "highCoveragePredicate", 1);
 		
-		AnnotationAlgorithm algorithm = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		AnnotationAlgorithm algorithm = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
 		List<CandidatePredicate> results = algorithm.typeOf("context", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -152,7 +153,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(), new Constant());
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
 		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		
@@ -180,7 +181,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 									types,
 									labels,
 									new RankByFrequency(),
-									new NoContext(),
+									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 										.add(new TripleBuilder().withSubject("http://a_subject")
 																.withPredicate("http://predicate")

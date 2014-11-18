@@ -6,6 +6,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidatePredicate;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
@@ -34,7 +35,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(), dbpedia)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -53,7 +54,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(), yago)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -66,7 +67,7 @@ public class EvidenceTest {
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(), yago)
+		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		CandidatePredicate searchResult = index.get("literal", "any").get(0);
@@ -80,7 +81,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(), dbpedia)
+		TripleIndex dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -93,7 +94,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		TripleIndex yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(), yago)
+		TripleIndex yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -115,7 +116,7 @@ public class EvidenceTest {
 		TripleIndex index = new Evidence(new RAMDirectory(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(),
-										 new RankByFrequency(), new NoContext(), new IndexFields("anyKnowledgeBase"))
+										 new RankByFrequency(), new NoContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withPredicate("http://property")
 										.withLiteral("the literal")
@@ -138,7 +139,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new CompleteContext(), new IndexFields("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -152,14 +153,14 @@ public class EvidenceTest {
 	@Test
 	public void shouldBeRobustToSpecialCharacters() throws Exception {
 		
-		new Evidence(new RAMDirectory(), null, null, null, new NoContext(), new IndexFields("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
+		new Evidence(new RAMDirectory(), null, null, null, new NoContext(new AllValues()), new IndexFields("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
 	}
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
 		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext()), new IndexFields("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext(new AllValues())), new IndexFields("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")

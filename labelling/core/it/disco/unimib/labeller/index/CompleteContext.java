@@ -11,9 +11,15 @@ import org.apache.lucene.search.BooleanQuery;
 
 public class CompleteContext implements TripleSelectionCriterion{
 
+	private AllValues allValues;
+
+	public CompleteContext(AllValues constraints) {
+		allValues = constraints;
+	}
+
 	@Override
 	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		BooleanQuery query = new AllValues().createQuery(value, literalField, analyzer);
+		BooleanQuery query = allValues.createQuery(value, literalField, analyzer);
 		
 		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
 		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);

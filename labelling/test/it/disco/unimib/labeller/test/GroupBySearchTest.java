@@ -28,7 +28,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.countPredicatesInContext("any", "any", new NoContext()), is(equalTo(0l)));
+		assertThat(index.countPredicatesInContext("any", "any", new NoContext(new AllValues())), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -38,14 +38,14 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
-									new NoContext(),
+									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -55,14 +55,14 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
-									new NoContext(),
+									new NoContext(new AllValues()),
 									new IndexFields("dbpedia-with-labels"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -72,7 +72,7 @@ public class GroupBySearchTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new RankByFrequency(),
-									new NoContext(),
+									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
@@ -80,7 +80,7 @@ public class GroupBySearchTest {
 		
 		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext()), is(equalTo(2l)));
+		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(2l)));
 	}
 	
 	@Test
@@ -107,7 +107,7 @@ public class GroupBySearchTest {
 									types,
 									labels,
 									new RankByFrequency(),
-									new NoContext(),
+									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
