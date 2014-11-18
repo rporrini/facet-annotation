@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.IndexFields;
 
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.Query;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class AnyValueTest {
@@ -39,7 +38,6 @@ public class AnyValueTest {
 	}
 	
 	@Test
-	@Ignore
 	public void shouldParseQueries() throws Exception {
 		
 		BooleanQuery query = new AnyValue().createQuery("Polar Express", "literal", new IndexFields("dbpedia").analyzer());
@@ -48,10 +46,9 @@ public class AnyValueTest {
 	}
 	
 	@Test
-	@Ignore
 	public void shouldParseMultipleValuesWithDoublePoints() throws Exception {
 		Query query = new AnyValue().createQuery("Film : Noir", "literal", new IndexFields("dbpedia").analyzer());
 		
-		assertThat(query.toString(), equalTo("+(+literal:film literal:noir)"));
+		assertThat(query.toString(), equalTo("+(literal:film literal:noir)"));
 	}
 }

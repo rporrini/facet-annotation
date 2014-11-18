@@ -14,7 +14,7 @@ public class AnyValue implements SingleFieldSelectionCriterion{
 		BooleanQuery query = new BooleanQuery();
 		String escape = "(" + QueryParser.escape(value.replace("OR", "or").replace("AND", "and")) + ")";
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
-		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
+		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
 		query.clauses().add(new BooleanClause(parser.parse(escape, literalField), Occur.MUST));
 		return query;
 	}
