@@ -6,32 +6,27 @@ function run-trec-eval
 }
 
 function evaluate-on-dataset
-{
+{	
 	dataset=$1
-	gs=$2
-	run=$3
-	if [[ $dataset == dbpedia* ]]
-	then
-		trec_eval_arguments="-M 20 -N 20 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
-	fi
-	if [[ $dataset == dbpedia-ontology ]]
-	then
-		trec_eval_arguments="-M 5 -N 5 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05"
-	fi
-	if [[ $dataset == yago1* ]]
-	then
-		trec_eval_arguments="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
-	fi
+	shift	
+	gs=$1
+	shift
+	run=$1
+	shift
+	arguments="$@"
 
-	run-trec-eval $trec_eval_arguments $gs $run
-	run-trec-eval -n -q $trec_eval_arguments $gs $run
+	run-trec-eval $arguments $gs $run
+	run-trec-eval -n -q $arguments $gs $run
 }
 
 function evaluate
 {
 	dataset=$1
+	shift
+	trec_eval="$@"
 	results="evaluation/results"
 	gs="evaluation/gold-standards"
+
 	if [ "$dataset" == "dbpedia" ]
 	then 
 		goldStandard="$gs/dbpedia-enhanced.qrels"
@@ -116,9 +111,9 @@ function evaluate
 	ls $trecResultsDirectory/*.qrels | while read file
 	do
 		fileName=$(basename "$file")
-		evaluate-on-dataset $dataset $goldStandard $file | cut -f1 -d$'\t' > "$temp/0000"
-		evaluate-on-dataset $dataset $goldStandard $file | cut -f2 -d$'\t' > "$temp/0001"
-		evaluate-on-dataset $dataset $goldStandard $file | cut -f3 -d$'\t' > "$temp/$fileName"
+		evaluate-on-dataset $dataset $goldStandard $file $trec_eval | cut -f1 -d$'\t' > "$temp/0000"
+		evaluate-on-dataset $dataset $goldStandard $file $trec_eval | cut -f2 -d$'\t' > "$temp/0001"
+		evaluate-on-dataset $dataset $goldStandard $file $trec_eval | cut -f3 -d$'\t' > "$temp/$fileName"
 	done
 	mkdir -p $outputDirectory
 	for file in "$temp/*"
@@ -133,17 +128,22 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
 
-evaluate dbpedia
-evaluate dbpedia-numbers
-evaluate dbpedia-without-numbers
-evaluate dbpedia-ontology
-evaluate dbpedia-ontology-numbers
-evaluate dbpedia-ontology-without-numbers
-evaluate dbpedia-with-labels
-evaluate yago1
-evaluate yago1-no-wrote
-evaluate yago1-wrote
-evaluate yago1-simple
-evaluate yago1-simple-no-wrote
-evaluate yago1-simple-wrote
+trec_eval_dbpedia="-M 20 -N 20 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
+trec_eval_dbpedia_ontology="-M 5 -N 5 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05"
+trec_eval_yago1="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
+
+evaluate dbpedia-with-labels $trec_eval_dbpedia
+evaluate dbpedia $trec_eval_dbpedia
+evaluate dbpedia-numbers $trec_eval_dbpedia
+evaluate dbpedia-without-numbers $trec_eval_dbpedia
+evaluate dbpedia-ontology $trec_eval_dbpedia_ontology
+evaluate dbpedia-ontology-numbers $trec_eval_dbpedia_ontology
+evaluate dbpedia-ontology-without-numbers $trec_eval_dbpedia_ontology
+evaluate yago1 $trec_eval_yago1
+evaluate yago1-no-wrote $trec_eval_yago1
+evaluate yago1-wrote $trec_eval_yago1
+evaluate yago1-simple $trec_eval_yago1
+evaluate yago1-simple-no-wrote $trec_eval_yago1
+evaluate yago1-simple-wrote $trec_eval_yago1
+
 
