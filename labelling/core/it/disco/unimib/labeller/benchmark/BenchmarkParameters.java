@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AnyValue;
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
@@ -72,7 +72,7 @@ public class BenchmarkParameters{
 		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
 		contexts.put("complete", new CompleteContext());
 		contexts.put("no", new NoContext());
-		contexts.put("partial", new PartialContext(new AnyValue()));
+		contexts.put("partial", new PartialContext(new AllValues()));
 		return contexts.get(contextString());
 	}
 	
