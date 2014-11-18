@@ -12,7 +12,7 @@ public class AnyValue implements SingleFieldSelectionCriterion{
 	
 	public BooleanQuery createQuery(String value, String literalField, Analyzer analyzer) throws Exception {
 		BooleanQuery query = new BooleanQuery();
-		String escape = "(" + QueryParser.escape(value.replace("OR", "or").replace("AND", "and")) + ")";
+		String escape = QueryParser.escape(value.replace("OR", "or").replace("AND", "and"));
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
 		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
 		query.clauses().add(new BooleanClause(parser.parse(escape, literalField), Occur.MUST));

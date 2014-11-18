@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.IndexFields;
 
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.Query;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class AllValuesTest {
@@ -59,7 +58,6 @@ public class AllValuesTest {
 	}
 	
 	@Test
-	@Ignore
 	public void shouldParseUri() throws Exception {
 		
 		BooleanQuery query = new AllValues().createQuery("http://aaa.com", "property", new IndexFields("dbpedia").analyzer());
