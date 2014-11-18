@@ -8,6 +8,12 @@ cd $root
 dataset=$1
 results="evaluation/results"
 gs="evaluation/gold-standards"
+if [ "$dataset" == "dbpedia" ]
+then 
+	goldStandard="$gs/dbpedia-enhanced.qrels"
+	trecResultsDirectory="$results/dbpedia-results"
+	outputDirectory="$results/dbpedia-results"
+fi
 if [ "$dataset" == "dbpedia-numbers" ]
 then
 	goldStandard="$gs/dbpedia-enhanced-numbers.qrels"
@@ -20,17 +26,23 @@ then
 	trecResultsDirectory="$results/dbpedia-results"
 	outputDirectory="$results/dbpedia-without-numbers-results"
 fi
-if [ "$dataset" == "dbpedia" ]
-then 
-	goldStandard="$gs/dbpedia-enhanced.qrels"
-	trecResultsDirectory="$results/dbpedia-results"
-	outputDirectory="$results/dbpedia-results"
-fi
 if [ "$dataset" == "dbpedia-ontology" ]
 then 
 	goldStandard="$gs/dbpedia-enhanced-ontology.qrels"
 	trecResultsDirectory="$results/dbpedia-ontology-results"
 	outputDirectory="$results/dbpedia-ontology-results"
+fi
+if [ "$dataset" == "dbpedia-ontology-numbers" ]
+then 
+	goldStandard="$gs/dbpedia-enhanced-ontology-numbers.qrels"
+	trecResultsDirectory="$results/dbpedia-ontology-results"
+	outputDirectory="$results/dbpedia-ontology-numbers-results"
+fi
+if [ "$dataset" == "dbpedia-ontology-without-numbers" ]
+then 
+	goldStandard="$gs/dbpedia-enhanced-ontology-without-numbers.qrels"
+	trecResultsDirectory="$results/dbpedia-ontology-results"
+	outputDirectory="$results/dbpedia-ontology-without-numbers-results"
 fi
 if [ "$dataset" == "dbpedia-with-labels" ]
 then
