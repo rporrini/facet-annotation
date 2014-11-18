@@ -54,29 +54,17 @@ trec_eval_dbpedia_ontology="-M 5 -N 5 -m set_P -m set_recall -m set_F -m map -m 
 trec_eval_yago1="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
 
 evaluate dbpedia-enhanced-with-labels.qrels dbpedia-with-labels-results dbpedia-with-labels-results $trec_eval_dbpedia
-
 evaluate dbpedia-enhanced.qrels dbpedia-results dbpedia-results $trec_eval_dbpedia
-
 evaluate dbpedia-enhanced-numbers.qrels dbpedia-results dbpedia-numbers-results $trec_eval_dbpedia
-
 evaluate dbpedia-enhanced-without-numbers.qrels dbpedia-results dbpedia-without-numbers-results $trec_eval_dbpedia
-
 evaluate dbpedia-enhanced-ontology.qrels dbpedia-ontology-results dbpedia-ontology-results $trec_eval_dbpedia_ontology
-
 evaluate dbpedia-enhanced-ontology-numbers.qrels dbpedia-ontology-results dbpedia-ontology-numbers-results $trec_eval_dbpedia_ontology
-
 evaluate dbpedia-enhanced-ontology-without-numbers.qrels dbpedia-ontology-results dbpedia-ontology-without-numbers-results $trec_eval_dbpedia_ontology
-
 evaluate yago1-enhanced.qrels yago1-results yago1-results $trec_eval_yago1
-
 evaluate yago1-enhanced-no-wrote.qrels yago1-results yago1-no-wrote-results $trec_eval_yago1
-
 evaluate yago1-enhanced-wrote.qrels yago1-results yago1-wrote-results $trec_eval_yago1
-
 evaluate yago1-simple.qrels yago1-simple-results yago1-simple-results $trec_eval_yago1
-
 evaluate yago1-simple-no-wrote.qrels yago1-simple-results yago1-simple-no-wrote-results $trec_eval_yago1
-
 evaluate yago1-simple-wrote.qrels yago1-simple-results yago1-simple-wrote-results $trec_eval_yago1
 
 
