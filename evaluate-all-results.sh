@@ -19,91 +19,24 @@ function evaluate-on-dataset
 
 function evaluate
 {
-	dataset=$1
-	shift
 	gs="evaluation/gold-standards/$1"
 	shift
+	trec_results="evaluation/results/$1"
+	shift
+	outputDirectory="evaluation/results/$1"
+	shift
 	trec_eval="$@"
-	results="evaluation/results"
-
-	if [ "$dataset" == "dbpedia" ]
-	then 
-		trecResultsDirectory="$results/dbpedia-results"
-		outputDirectory="$results/dbpedia-results"
-	fi
-	if [ "$dataset" == "dbpedia-numbers" ]
-	then
-		trecResultsDirectory="$results/dbpedia-results"
-		outputDirectory="$results/dbpedia-numbers-results"
-	fi
-	if [ "$dataset" == "dbpedia-without-numbers" ]
-	then
-		trecResultsDirectory="$results/dbpedia-results"
-		outputDirectory="$results/dbpedia-without-numbers-results"
-	fi
-	if [ "$dataset" == "dbpedia-ontology" ]
-	then 
-		trecResultsDirectory="$results/dbpedia-ontology-results"
-		outputDirectory="$results/dbpedia-ontology-results"
-	fi
-	if [ "$dataset" == "dbpedia-ontology-numbers" ]
-	then 
-		trecResultsDirectory="$results/dbpedia-ontology-results"
-		outputDirectory="$results/dbpedia-ontology-numbers-results"
-	fi
-	if [ "$dataset" == "dbpedia-ontology-without-numbers" ]
-	then 
-		trecResultsDirectory="$results/dbpedia-ontology-results"
-		outputDirectory="$results/dbpedia-ontology-without-numbers-results"
-	fi
-	if [ "$dataset" == "dbpedia-with-labels" ]
-	then
-		goldStandard="dbpedia-enhanced-with-labels.qrels"
-		trecResultsDirectory="$results/dbpedia-with-labels-results"
-		outputDirectory="$results/dbpedia-with-labels-results"
-	fi
-	if [ "$dataset" == "yago1" ]
-	then
-		trecResultsDirectory="$results/yago1-results"
-		outputDirectory="$results/yago1-results"
-	fi
-	if [ "$dataset" == "yago1-simple" ]
-	then
-		trecResultsDirectory="$results/yago1-simple-results"
-		outputDirectory="$results/yago1-simple-results"
-	fi
-	if [ "$dataset" == "yago1-no-wrote" ]
-	then
-		goldStandard="yago1-enhanced-no-wrote.qrels"
-		trecResultsDirectory="$results/yago1-results"
-		outputDirectory="$results/yago1-no-wrote-results"
-	fi
-	if [ "$dataset" == "yago1-wrote" ]
-	then
-		trecResultsDirectory="$results/yago1-results"
-		outputDirectory="$results/yago1-wrote-results"
-	fi
-	if [ "$dataset" == "yago1-simple-no-wrote" ]
-	then
-		trecResultsDirectory="$results/yago1-simple-results"
-		outputDirectory="$results/yago1-simple-no-wrote-results"
-	fi
-	if [ "$dataset" == "yago1-simple-wrote" ]
-	then
-		trecResultsDirectory="$results/yago1-simple-results"
-		outputDirectory="$results/yago1-simple-wrote-results"
-	fi
-
-	temp="$trecResultsDirectory/temp"
+	
+	temp="$trec_results/temp"
 	mkdir -p $temp
-	ls $trecResultsDirectory/*.qrels | while read file
+	ls $trec_results/*.qrels | while read file
 	do
 		fileName=$(basename "$file")
 		evaluate-on-dataset $gs $file $trec_eval | cut -f1 -d$'\t' > "$temp/0000"
 		evaluate-on-dataset $gs $file $trec_eval | cut -f2 -d$'\t' > "$temp/0001"
 		evaluate-on-dataset $gs $file $trec_eval | cut -f3 -d$'\t' > "$temp/$fileName"
 	done
-	mkdir -p $outputDirectory
+	mkdir -p "$outputDirectory"
 	for file in "$temp/*"
 	do 
 		paste $file > "$outputDirectory/all-results.csv"
@@ -120,18 +53,30 @@ trec_eval_dbpedia="-M 20 -N 20 -m set_P -m set_recall -m set_F -m map -m ndcg_cu
 trec_eval_dbpedia_ontology="-M 5 -N 5 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05"
 trec_eval_yago1="-M 5 -N 5 -m recip_rank -m set_P -m set_recall -m set_F"
 
-evaluate dbpedia-with-labels dbpedia-enhanced-with-labels.qrels $trec_eval_dbpedia
-evaluate dbpedia dbpedia-enhanced.qrels $trec_eval_dbpedia
-evaluate dbpedia-numbers dbpedia-enhanced-numbers.qrels $trec_eval_dbpedia
-evaluate dbpedia-without-numbers dbpedia-enhanced-without-numbers.qrels $trec_eval_dbpedia
-evaluate dbpedia-ontology dbpedia-enhanced-ontology.qrels $trec_eval_dbpedia_ontology
-evaluate dbpedia-ontology-numbers dbpedia-enhanced-ontology-numbers.qrels $trec_eval_dbpedia_ontology
-evaluate dbpedia-ontology-without-numbers dbpedia-enhanced-ontology-without-numbers.qrels $trec_eval_dbpedia_ontology
-evaluate yago1 yago1-enhanced.qrels $trec_eval_yago1
-evaluate yago1-no-wrote yago1-enhanced-no-wrote.qrels $trec_eval_yago1
-evaluate yago1-wrote yago1-enhanced-wrote.qrels $trec_eval_yago1
-evaluate yago1-simple yago1-simple.qrels $trec_eval_yago1
-evaluate yago1-simple-no-wrote yago1-simple-no-wrote.qrels $trec_eval_yago1
-evaluate yago1-simple-wrote yago1-simple-wrote.qrels $trec_eval_yago1
+evaluate dbpedia-enhanced-with-labels.qrels dbpedia-with-labels-results dbpedia-with-labels-results $trec_eval_dbpedia
+
+evaluate dbpedia-enhanced.qrels dbpedia-results dbpedia-results $trec_eval_dbpedia
+
+evaluate dbpedia-enhanced-numbers.qrels dbpedia-results dbpedia-numbers-results $trec_eval_dbpedia
+
+evaluate dbpedia-enhanced-without-numbers.qrels dbpedia-results dbpedia-without-numbers-results $trec_eval_dbpedia
+
+evaluate dbpedia-enhanced-ontology.qrels dbpedia-ontology-results dbpedia-ontology-results $trec_eval_dbpedia_ontology
+
+evaluate dbpedia-enhanced-ontology-numbers.qrels dbpedia-ontology-results dbpedia-ontology-numbers-results $trec_eval_dbpedia_ontology
+
+evaluate dbpedia-enhanced-ontology-without-numbers.qrels dbpedia-ontology-results dbpedia-ontology-without-numbers-results $trec_eval_dbpedia_ontology
+
+evaluate yago1-enhanced.qrels yago1-results yago1-results $trec_eval_yago1
+
+evaluate yago1-enhanced-no-wrote.qrels yago1-results yago1-no-wrote-results $trec_eval_yago1
+
+evaluate yago1-enhanced-wrote.qrels yago1-results yago1-wrote-results $trec_eval_yago1
+
+evaluate yago1-simple.qrels yago1-simple-results yago1-simple-results $trec_eval_yago1
+
+evaluate yago1-simple-no-wrote.qrels yago1-simple-results yago1-simple-no-wrote-results $trec_eval_yago1
+
+evaluate yago1-simple-wrote.qrels yago1-simple-results yago1-simple-wrote-results $trec_eval_yago1
 
 
