@@ -23,7 +23,7 @@ function evaluate
 	shift
 	trec_results="evaluation/results/$1"
 	shift
-	outputDirectory="evaluation/results/$1"
+	output="evaluation/results/$1"
 	shift
 	trec_eval="$@"
 	
@@ -36,10 +36,10 @@ function evaluate
 		evaluate-on-dataset $gs $file $trec_eval | cut -f2 -d$'\t' > "$temp/0001"
 		evaluate-on-dataset $gs $file $trec_eval | cut -f3 -d$'\t' > "$temp/$fileName"
 	done
-	mkdir -p "$outputDirectory"
+	mkdir -p "$output"
 	for file in "$temp/*"
 	do 
-		paste $file > "$outputDirectory/all-results.csv"
+		paste $file > "$output/all-results.csv"
 	done 
 	rm -r $temp
 }
