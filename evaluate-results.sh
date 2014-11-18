@@ -13,7 +13,11 @@ run=$3
 
 if [[ $dataset == dbpedia* ]]
 then
-	trec_eval_arguments="-M 20 -N 20 -m set_P -m set_recall -m set_F -m iprec_at_recall -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
+	trec_eval_arguments="-M 20 -N 20 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20"
+fi
+if [[ $dataset == dbpedia-ontology ]]
+then
+	trec_eval_arguments="-M 5 -N 5 -m set_P -m set_recall -m set_F -m map -m ndcg_cut.01,02,03,04,05"
 fi
 if [[ $dataset == yago1* ]]
 then
