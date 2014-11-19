@@ -20,7 +20,9 @@ class QuestionnaireRatings{
 			try{
 				Long id = -1l;
 				String textValue = resultSheet.getCellAt("A" + row).getTextValue();
-				if(!textValue.isEmpty()) id = Long.parseLong(textValue);
+				if(!textValue.isEmpty() && !textValue.equals("GROUP ID")){
+					id = Long.parseLong(textValue);
+				}
 				
 				if(id > 0){
 					String content = resultSheet.getCellAt("A" + row).getTextValue();
