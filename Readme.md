@@ -1,74 +1,53 @@
-## Requisiti di sistema
+## System Requirements
 
-* linux
+* linux (tested on Linux Mint 17 Qiana)
 * git
 * java
-* eclipse
 
-## Per iniziare a sviluppare
+## Checking out the repository and configuring your local machine
 
 1. ```git clone https://{USERNAME}:{PASSWORD}@bitbucket.org/rporrini/cluster-labelling.git```
 2. ```cd cluster-labelling```
 3. ```./build-and-test.sh```
 
-La procedura di build installa l'insieme dei tool necessari e prevede anche lo scaricamento dei dataset per la sperimentazione. Per questo motivo la prima volta che viene eseguita dura un pò (nell'ordine dei 60 minuti)
+The ```./build-and-test.sh``` script downloads and installs various tools that are needed to run the experiments, as well as all the needed datasets, namely DBPedia and YAGO1. For this reason, the first time that you will execute the script on your local machine it will take about 1 hour to complete. After the first time only compilation and testing steps will be executed
 
-## Creazione degli indici
-Dalla root del repository:
+## Running the experimental campaign
 
-* ```./build-index-for-dbpedia.sh```. Per creare gli indici di DBPedia. Tempo stimato per l'indicizzazione: circa __20__ ore
-* ```./build-index-for-yago.sh```. Per creare gli indici di Yago. Tempo stimato per l'indicizzazione: circa __9__ ore
+There are few steps that have to be taken in order to run the experiments and reproduce all the experimental results. First you need to process all the dataset and create the Lucene Indexes that are needed by all the implemented facet linking approaches. This step has to be performed only once:
 
-## Creazione del Gold Standard di Limaye (Yago)
-Dalla root del repository:
+* ```./build-index-for-dbpedia.sh```. Estimated execution time: about __20__ hours
+* ```./build-index-for-yago.sh```. Estimated execution time: about __9__ hours
 
-* ```./generate-yago1-gold-standard.sh```
-* passo di pulizia a mano :(
-* ```./generate-yago1-qrels.sh```
+Once the indexes are created you can run all the experiments:
 
-## Run degli algoritmi
-Lo script stampa su standard output i risultati dell'algoritmo a seconda della metrica/export scelti. Dalla root del repository:
+* ```./run-all-algorithms.sh dbpedia```
+* ```./run-all-algorithms.sh dbpedia-ontology```
+* ```./run-all-algorithms.sh dbpedia-with-labels```
+* ```./run-all-algorithms.sh yago1```
+* ```./run-all-algorithms.sh yago1-simple```
 
-```
-./run-algorithm.sh algorithm=ALGORITHM occurrences=OCCURRENCES context=CONTEXT kb=KNOWLEDGE-BASE summary=METRIC-NAME
-```
+Then you can evaluate the results:
 
-```
-summary	=	the format of the results, namely questionnaire, trec
-occurrences	=	the function applied to count each occurrence, namely simple, contextualized
-kb	=	the knowledge base to use, namely dbpedia, dbpedia-with-labels, yago1, yago1-simple
-algorithm	=	the algorithm to use, namely mh, mhw, mhsw, mhwv, mhwcv, ml
-```
+* ```./evaluate-all-results.sh```
 
-## Run di tutti gli algoritmi
-Dalla root del repository:
+The results are saved in the directory ```evaluation/results```. Notice that the repository already comes with those results, but you can re-run the experimental campaign to replicate them or to test/evaluate improvements to the algorithm.
 
-* ```./run-all-algorithms.sh KNOWLEDGE-BASE```
+## Gold Standards
 
-Lo script salva risultati di tutti gli algoritmi ognuno in un file apposito (nella cartella ```evaluation/results/KNOWLEDGE-BASE-results```) a seconda della base di conoscenza scelta.
+We provide two gold standards to evaluate the algorithm against the DBPedia and YAGO1 knowledge bases. Checkout for the folder ```evaluation/gold-standards```.
 
-Parametri:
+## Convenience scripts
 
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels ...
+Running a single algorithm. The following script will print the raw results of an algorithm on standard output:
 
-## Calcolo delle metriche via trec_eval
-Dalla root del repository:
+* ```./run-algorithm.sh```. Check for the required command line parameters.
 
-* ```./evaluate-results.sh KNOWLEDGE-BASE GOLD-STANDARD RESULTS-FILE```
+Performing a two-tailed t-test on the experimental results of two algorithms
 
-Parametri:
+* ```./ttest.sh```. Check for the required command line parameters.
 
-* KNOWLEDGE-BASE: dbpedia, yago1, dbpedia-with-labels ...
-* GOLD-STANDARD: file formato trec del gold standard (si trovano nella cartella ```evaluation/results/```)
-* RESULTS-FILE: file formato trec dei risultati degli algoritmi (si trovano nelle cartelle ```evaluation/results/KNOWLEDGE-BASE-results```)
+## Contacts
 
-## Calcolo delle metriche di tutti gli algoritmi via trec_eval
-Dalla root del repository:
-
-* ```./evaluate-all-results.sh KNOWLEDGE-BASE```
-
-Lo script prende tutti i risultati prodotti da ```./run-algorithm.sh KNOWLEDGE-BASE METRIC-NAME``` e li confronta con il gold-standard generando un file ```all-results.csv``` contenente il confronto
-Parametri:
-
-* KNOWLEDGE-BASE: dbpedia, dbpedia-with-labels, yago1, yago1-simple ...
+Riccardo Porrini, [riccardo.porrini@disco.unimib.it](mailto:riccardo.porrini@disco.unimib.it)
 
