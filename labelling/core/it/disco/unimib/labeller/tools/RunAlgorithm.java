@@ -32,45 +32,20 @@ public class RunAlgorithm {
 		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, valueMatching, predicateSpecificity);
 		
 		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
-		for(int id : ids(knowledgeBase)){
+		for(int id : ids()){
 			annotate(majorityHitWeighted, groups, id);
 		}
 	}
 
-	private static int[] ids(String knowledgeBase) {
-		if(knowledgeBase.equals("dbpedia"))
-			return new int[]{
-//				702159889,
-//				268043830,
-//				213755943,
-//				2125380335,
-//				2117679317,
-//				1796458291,
-//				1744816435,
+	private static int[] ids() {
+		return new int[]{
+//				1668711967,
 				1689442184,
-//				148489175,
-//				1161561471,
-//				1088443226,
-//				1011013747
-		};
-		else
-			return new int[]{
-				1710161454,
-				1710161453,
-				78397110,
-				1923976096,
-				1923976121,
-				1975319113,
-				1101244520,
-				1101244644,
-				1101244490,
-				1101244607,
-				1101244518,
-				1101244615,
-				1143742855,
-				609086460,
-				423159788,
-				423159641
+//				1744816435,
+//				1802054300,
+//				2021450258,
+//				2125380335,
+//				753388668
 		};
 	}
 	
