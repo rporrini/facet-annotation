@@ -2,6 +2,8 @@ package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Command;
 
+import java.text.DecimalFormat;
+import java.text.NumberFormat;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
@@ -28,7 +30,8 @@ public class PerformTTest {
 		double[] algorithm2Results = run(algorithm2, metric, goldStandard, k);
 		
 		// paired two-tailed test
-		System.out.println(new TTest().pairedTTest(algorithm1Results, algorithm2Results));
+		NumberFormat formatter = new DecimalFormat("#0.0000000000");
+		System.out.println(formatter.format(new TTest().pairedTTest(algorithm1Results, algorithm2Results)));
 	}
 
 	private static double[] run(String algorithm1, String metric, String goldStandard, int k) throws Exception {

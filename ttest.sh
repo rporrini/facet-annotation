@@ -13,6 +13,19 @@ function run_ttest()
 	cd ..
 }
 
+function colored_result()
+{
+	result=$1
+	algorithm=$2
+	closing='\e[0m'
+	opening=$closing	
+	if [ $(echo " $result < 0.05" | bc) -eq 1 ]
+	then
+		opening='\e[0;32m'		
+	fi	
+	echo -e "$algorithm	${opening}$result${closing}"
+}
+
 function ttest()
 {
 	results_directory="../evaluation/results/$1"
@@ -22,10 +35,10 @@ function ttest()
 	
 	mh_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/mh-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
 	ml_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/ml-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
-
+	
 	echo "*******" t-testing mhw-contextualized-partial on $2 "*******"
-	echo "mh-simple-partial	$mh_ttest"
-	echo "ml-simple-partial	$ml_ttest"
+	colored_result $mh_ttest mh-simple-partial
+	colored_result $ml_ttest ml-simple-partial
 	echo
 }
 
