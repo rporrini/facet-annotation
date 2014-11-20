@@ -9,11 +9,11 @@ function run(){
 	occurrences=$2
 	context=$3
 	dataset=$4
-	results="../../evaluation/results/$dataset-results"
+	results="evaluation/results/$dataset-results"
 	destination="$results/$algorithm-$occurrences-$context.qrels"
 
 	mkdir -p $results
-	./run-algorithm.sh algorithm=$algorithm occurrences=$occurrences context=$context kb=$dataset summary=trec > $destination
+	scripts/experiments/run-algorithm.sh algorithm=$algorithm occurrences=$occurrences context=$context kb=$dataset summary=trec > $destination
 	signal "$algorithm $occurrences $context $dataset Done"
 }
 
