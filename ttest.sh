@@ -27,7 +27,7 @@ function ttest()
 	mh_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/mh-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
 	ml_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/ml-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
 	
-	echo "*******" t-testing mhw-contextualized-partial on $2 "*******"
+	echo "*******" t-testing "for" $metric mhw-contextualized-partial on $2 "*******"
 	colored_result $mh_ttest mh-simple-partial
 	colored_result $ml_ttest ml-simple-partial
 	echo
@@ -50,3 +50,5 @@ ttest dbpedia-ontology-results dbpedia-enhanced-ontology-without-numbers map 5
 ttest dbpedia-with-labels-results dbpedia-enhanced-with-labels map 20
 ttest yago1-results yago1-enhanced recip_rank 5
 ttest yago1-simple-results yago1-simple recip_rank 5
+ttest yago1-results yago1-enhanced set_F 1
+ttest yago1-simple-results yago1-simple set_F 1
