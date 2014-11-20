@@ -14,7 +14,7 @@ signal 'Updating the Repository'
 git pull
 signal 'Done'
 
-./build.sh
+scripts/build.sh
 
 signal "Running Tests"
 cd $project

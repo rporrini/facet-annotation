@@ -16,8 +16,8 @@ The ```./build-and-test.sh``` script downloads and installs various tools that a
 
 There are few steps that have to be taken in order to run the experiments and reproduce all the experimental results. First you need to process all the dataset and create the Lucene Indexes that are needed by all the implemented facet linking approaches. This step has to be performed only once:
 
-* ```./build-index-for-dbpedia.sh```. Estimated execution time: about __20__ hours
-* ```./build-index-for-yago.sh```. Estimated execution time: about __9__ hours
+* ```./scripts/indexes/build-index-for-dbpedia.sh```. Estimated execution time: about __20__ hours
+* ```./scripts/indexes/build-index-for-yago.sh```. Estimated execution time: about __9__ hours
 
 Once the indexes are created you can run all the experiments:
 
@@ -41,7 +41,7 @@ We provide two gold standards to evaluate the algorithm against the DBPedia and 
 
 Running a single algorithm. The following script will print the raw results of an algorithm on standard output:
 
-* ```./run-algorithm.sh```. Check for the required command line parameters.
+* ```./scripts/experiments/run-algorithm.sh```. Check for the required command line parameters.
 
 Performing a two-tailed t-test on the experimental results of two algorithms
 

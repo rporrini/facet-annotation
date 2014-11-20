@@ -19,11 +19,12 @@ function evaluate-on-dataset
 
 function evaluate
 {
-	gs="evaluation/gold-standards/$1"
+	root='evaluation'
+	gs="$root/gold-standards/$1"
 	shift
-	trec_results="evaluation/results/$1"
+	trec_results="$root/results/$1"
 	shift
-	output="evaluation/results/$1"
+	output="$root/results/$1"
 	shift
 	trec_eval="$@"
 	

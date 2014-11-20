@@ -6,11 +6,12 @@ function signal(){
 
 set -e
 relative_path=`dirname $0`
-root=`cd $relative_path;pwd`
+root=`cd $relative_path/../;pwd`
 project=$root/labelling
 build=$project/build/classes
 
 cd $root/evaluation
+
 signal "Setting Up Environment"
 sudo apt-get install python python-pip bzip2 p7zip-full
 sudo pip install rdflib

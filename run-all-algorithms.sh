@@ -13,7 +13,7 @@ function run(){
 	destination="$results/$algorithm-$occurrences-$context.qrels"
 
 	mkdir -p $results
-	./run-algorithm.sh algorithm=$algorithm occurrences=$occurrences context=$context kb=$dataset summary=trec > $destination
+	scripts/experiments/run-algorithm.sh algorithm=$algorithm occurrences=$occurrences context=$context kb=$dataset summary=trec > $destination
 	signal "$algorithm $occurrences $context $dataset Done"
 }
 
@@ -21,6 +21,7 @@ set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
+
 dataset=$1
 
 run mh simple partial $dataset

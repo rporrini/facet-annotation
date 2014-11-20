@@ -10,9 +10,9 @@ stemming=$6
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
-project=$root/labelling
-cd $root
+
+cd $root/..
 ./build.sh
 
-cd $project
+cd ../labelling
 java -Xmx4g -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunCorpusConstruction $@

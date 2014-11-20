@@ -5,5 +5,5 @@ root=`cd $relative_path;pwd`
 
 ./build.sh > /dev/null
 
-cd $root/labelling
+cd $root/../../labelling
 java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.PartitionGoldStandard $@

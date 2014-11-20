@@ -1,16 +1,7 @@
 #!/bin/bash
-set -e
-relative_path=`dirname $0`
-root=`cd $relative_path;pwd`
-
-cd $root
-./build.sh > /dev/null
-
 function run_ttest()
 {
-	cd labelling
-	java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.PerformTTest $@
-	cd ..
+	java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.PerformTTest $@ 
 }
 
 function colored_result()
@@ -41,6 +32,14 @@ function ttest()
 	colored_result $ml_ttest ml-simple-partial
 	echo
 }
+
+set -e
+relative_path=`dirname $0`
+root=`cd $relative_path;pwd`
+
+cd $root
+scripts/build.sh > /dev/null
+cd labelling
 
 ttest dbpedia-results dbpedia-enhanced map 20
 ttest dbpedia-results dbpedia-enhanced-numbers map 20
