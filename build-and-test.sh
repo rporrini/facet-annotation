@@ -7,14 +7,14 @@ function signal(){
 set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
-project=$root/../labelling
+project=$root/labelling
 cd $root
 
 signal 'Updating the Repository'
 git pull
 signal 'Done'
 
-./build.sh
+scripts/build.sh
 
 signal "Running Tests"
 cd $project
