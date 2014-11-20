@@ -9,7 +9,7 @@ function run(){
 	occurrences=$2
 	context=$3
 	dataset=$4
-	results="evaluation/results/$dataset-results"
+	results="../../evaluation/results/$dataset-results"
 	destination="$results/$algorithm-$occurrences-$context.qrels"
 
 	mkdir -p $results
@@ -21,6 +21,7 @@ set -e
 relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
+
 dataset=$1
 
 run mh simple partial $dataset
