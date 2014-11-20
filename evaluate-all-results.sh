@@ -19,7 +19,7 @@ function evaluate-on-dataset
 
 function evaluate
 {
-	root='../../evaluation'
+	root='evaluation'
 	gs="$root/gold-standards/$1"
 	shift
 	trec_results="$root/results/$1"
