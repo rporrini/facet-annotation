@@ -40,7 +40,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 						
 			long overallFrequency = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues()));
 			double disc = predicateSpecificity.of(predicate, domain, overallFrequency);
-			double smoothedWFreq = Math.log(frequencyOverValues + 1.000000001);
+			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			double pfd = smoothedWFreq * coverage * disc;
 			results.add(new CandidatePredicate(predicate, smoothedWFreq, coverage, disc, pfd));
