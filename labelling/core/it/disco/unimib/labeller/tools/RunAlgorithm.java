@@ -11,6 +11,7 @@ import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
+import it.disco.unimib.labeller.predicates.TopK;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
@@ -40,8 +41,8 @@ public class RunAlgorithm {
 	private static int[] ids() {
 		return new int[]{
 //				1668711967,
-				1689442184,
-//				1744816435,
+//				1689442184,
+				1744816435,
 //				1802054300,
 //				2021450258,
 //				2125380335,
@@ -52,7 +53,7 @@ public class RunAlgorithm {
 	private static void annotate(AnnotationAlgorithm algorithm, UnorderedGroups groups, int id) throws Exception {
 		GoldStandardGroup group = groups.getGroupById(id);
 		System.out.println(group.context() + " " + id);
-		List<CandidatePredicate> results = algorithm.typeOf(group.context(), group.elements());	
+		List<CandidatePredicate> results = new TopK(500, algorithm).typeOf(group.context(), group.elements());	
 		for(CandidatePredicate result : results){
 			System.out.println(result);
 		}
