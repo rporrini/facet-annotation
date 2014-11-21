@@ -47,11 +47,11 @@ We provide two gold standards to evaluate the algorithm against the DBPedia and 
 
 Running a single algorithm. The following script will print the raw results of an algorithm on standard output:
 
-* ```./scripts/experiments/run-algorithm.sh```. Check for the required command line parameters.
+* ```./scripts/experiments/run-algorithm.sh``` Check for the required command line parameters.
 
-Performing a two-tailed t-test on the experimental results of two algorithms
+Performing a two-tailed t-test on the experimental results of all the algorithms
 
-* ```./ttest.sh```. Check for the required command line parameters.
+* ```./ttest.sh```
 
 ## Contacts
 
