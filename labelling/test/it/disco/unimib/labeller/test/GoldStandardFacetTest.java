@@ -7,20 +7,20 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 
 import org.junit.Test;
 
-public class GoldStandardGroupTest {
+public class GoldStandardFacetTest {
 
 	@Test
 	public void shouldReturnTheLabelOfTheGroupWhenThereIsAlsoAdditionalInformation() throws Exception {
 		InputFileTestDouble connector = new InputFileTestDouble()
 																.withName("amazon_category_the label");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.label(), is(equalTo("the label")));
+		assertThat(facet.label(), is(equalTo("the label")));
 	}
 	
 	@Test
@@ -29,9 +29,9 @@ public class GoldStandardGroupTest {
 																			.withLine("1900")
 																			.withLine("2000");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.elements(), allOf(hasItem("1900"), hasItem("2000")));
+		assertThat(facet.elements(), allOf(hasItem("1900"), hasItem("2000")));
 	}
 	
 	@Test
@@ -39,9 +39,9 @@ public class GoldStandardGroupTest {
 		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.provider(), is(equalTo("amazon")));
+		assertThat(facet.provider(), is(equalTo("amazon")));
 	}
 	
 	@Test
@@ -49,9 +49,9 @@ public class GoldStandardGroupTest {
 		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon_category");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.context(), is(equalTo("category")));
+		assertThat(facet.context(), is(equalTo("category")));
 	}
 	
 	@Test
@@ -59,9 +59,9 @@ public class GoldStandardGroupTest {
 		InputFileTestDouble connector = new InputFileTestDouble()
 																			.withName("amazon_context_label_list_of_wines");
 
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 
-		assertThat(group.contextHyperlink(), is(equalTo("list_of_wines")));
+		assertThat(facet.contextHyperlink(), is(equalTo("list_of_wines")));
 	}
 	
 	@Test
@@ -71,9 +71,9 @@ public class GoldStandardGroupTest {
 																			.withLine("")
 																			.withLine("second line");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.elements(), hasSize(2));
+		assertThat(facet.elements(), hasSize(2));
 	}
 	
 	@Test
@@ -83,8 +83,8 @@ public class GoldStandardGroupTest {
 																			.withLine("#second line")
 																			.withLine("third line");
 		
-		GoldStandardGroup group = new GoldStandardGroup(connector);
+		GoldStandardFacet facet = new GoldStandardFacet(connector);
 		
-		assertThat(group.elements(), not(hasItem("#second line")));
+		assertThat(facet.elements(), not(hasItem("#second line")));
 	}
 }

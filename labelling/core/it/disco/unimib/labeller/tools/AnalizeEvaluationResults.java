@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.tools;
 import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
 import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -63,7 +63,7 @@ public class AnalizeEvaluationResults {
 				for(String result : notPerfectResults){
 					int id = id(result);
 					System.out.println("------------------------------------------");
-					GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
+					GoldStandardFacet groupById = goldStandardGroups.getGroupById(id);
 					System.out.println(measure + ": " + measureResult(result));
 					System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
 					System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");

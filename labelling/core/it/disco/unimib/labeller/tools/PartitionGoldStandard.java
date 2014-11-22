@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.tools;
 import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
 import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -26,14 +26,14 @@ public class PartitionGoldStandard {
 		
 		for(String line : new InputFile(new File(qRels)).lines()){
 			int id = Integer.parseInt(line.split(" ")[0]);
-			GoldStandardGroup group = goldStandard.getGroupById(id);
+			GoldStandardFacet group = goldStandard.getGroupById(id);
 			if((matches(filters, group) && inclusive) || (!matches(filters, group) && !inclusive)){
 				System.out.println(line);
 			}
 		}
 	}
 
-	private static boolean matches(List<String> filters, GoldStandardGroup group) {
+	private static boolean matches(List<String> filters, GoldStandardFacet group) {
 		for(String filter : filters){
 			if(group.name().contains(filter)){
 				return true;

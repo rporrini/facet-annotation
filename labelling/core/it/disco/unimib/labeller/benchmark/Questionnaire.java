@@ -25,18 +25,18 @@ public class Questionnaire implements Summary {
 	}
 
 	@Override
-	public Summary track(GoldStandardGroup group, List<CandidatePredicate> results) throws Exception {
+	public Summary track(GoldStandardFacet group, List<CandidatePredicate> results) throws Exception {
 		trackDomainAndContext(group);
 		trackGroupValues(group);
 		trackResults(results);
 		return this;
 	}
 
-	private void trackDomainAndContext(GoldStandardGroup group) throws Exception {
+	private void trackDomainAndContext(GoldStandardFacet group) throws Exception {
 		track("\n" + group.id() + "|" + group.context() + "|" + linkResult(composeHyperlink(group.provider(), group.contextHyperlink()), "View context"));
 	}
 	
-	private void trackGroupValues(GoldStandardGroup group) throws Exception {
+	private void trackGroupValues(GoldStandardFacet group) throws Exception {
 		ArrayList<String> fiveElements = new ArrayList<String>();
 		int size = group.elements().size();
 		for(int i = 1; i <= size; i++){

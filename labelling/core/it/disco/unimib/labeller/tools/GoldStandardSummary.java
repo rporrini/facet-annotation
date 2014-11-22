@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.tools;
 
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
+import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -18,17 +18,17 @@ public class GoldStandardSummary {
 		String qRelsPath = "../evaluation/gold-standards/yago1-simple.qrels";
 		String goldStandardPath = "../evaluation/gold-standards/yago1-simple";
 
-		UnorderedGroups groups = new UnorderedGroups(new File(goldStandardPath));
-		HashMap<String, GoldStandardGroup> names = new HashMap<String, GoldStandardGroup>();
+		UnorderedFacets groups = new UnorderedFacets(new File(goldStandardPath));
+		HashMap<String, GoldStandardFacet> names = new HashMap<String, GoldStandardFacet>();
 		for(String line : new InputFile(new File(qRelsPath)).lines()){
-			GoldStandardGroup group = groups.getGroupById(Integer.parseInt(line.split(" ")[0]));
+			GoldStandardFacet group = groups.getGroupById(Integer.parseInt(line.split(" ")[0]));
 			names.put(group.name(), group);
 		}
 		
 		HashMap<String, Integer> contexts = new HashMap<String, Integer>();
 		HashMap<String, Integer> providers = new HashMap<String, Integer>();
 		HashMap<String, Integer> labels = new HashMap<String, Integer>();
-		for(GoldStandardGroup goldStandard: names.values()){
+		for(GoldStandardFacet goldStandard: names.values()){
 			addContent(contexts, goldStandard.context());
 			addContent(providers, goldStandard.provider());
 			addContent(labels, goldStandard.label());
@@ -43,7 +43,7 @@ public class GoldStandardSummary {
 		predicatesDistribution(qRelsPath, groups);
 	}
 	
-	private static void predicatesDistribution(String goldStandard, UnorderedGroups groups) throws Exception {
+	private static void predicatesDistribution(String goldStandard, UnorderedFacets groups) throws Exception {
 		String lastId = "";
 		double moreRelevant = 0;
 		double lessRelevant = 0;

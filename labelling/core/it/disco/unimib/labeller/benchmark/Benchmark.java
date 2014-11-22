@@ -13,8 +13,8 @@ public class Benchmark {
 		this.algorithm = algorithm;
 	}
 
-	public void on(GoldStandardGroup[] groups, Summary summary) throws Exception {
-		for(GoldStandardGroup group : groups){
+	public void on(GoldStandardFacet[] groups, Summary summary) throws Exception {
+		for(GoldStandardFacet group : groups){
 			new Events().debug("processing gold standard " + group.context() + " " + group.label());
 			List<String> elements = group.elements();
 			List<CandidatePredicate> labels = algorithm.typeOf(group.context(), elements);

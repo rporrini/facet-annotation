@@ -21,7 +21,7 @@ public class RunEvaluation {
 	}
 
 	public static void runBenchmark(Summary summary, AnnotationAlgorithm algorithm, GoldStandard goldStandard) throws Exception {
-		new Benchmark(algorithm).on(goldStandard.getGroups(), summary);
+		new Benchmark(algorithm).on(goldStandard.getFacets(), summary);
 	}
 
 	public static BenchmarkParameters benchmarkParameters(String[] args) throws Exception {

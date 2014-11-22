@@ -12,12 +12,12 @@ public class SingleFacet implements GoldStandard {
 	}
 
 	@Override
-	public GoldStandardGroup[] getGroups() {
-		return new GoldStandardGroup[]{ getGroupById(id)};
+	public GoldStandardFacet[] getFacets() {
+		return new GoldStandardFacet[]{ getGroupById(id)};
 	}
 
 	@Override
-	public GoldStandardGroup getGroupById(int id) {
+	public GoldStandardFacet getGroupById(int id) {
 		return goldStandard.getGroupById(id);
 	}
 }

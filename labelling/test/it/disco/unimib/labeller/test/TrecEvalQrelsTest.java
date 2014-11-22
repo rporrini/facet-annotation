@@ -25,7 +25,7 @@ public class TrecEvalQrelsTest {
 		TrecEvalQrels trecEval = new TrecEvalQrels("name");
 		
 		trecEval.track(
-				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(
+				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getFacets()[0], Arrays.asList(
 				new CandidatePredicate[]{new CandidatePredicate("value", 1)}));
 		
 		assertThat(trecEval.result(), containsString("1761928305"));
@@ -36,7 +36,7 @@ public class TrecEvalQrelsTest {
 		TrecEvalQrels trecEval = new TrecEvalQrels("name");
 		
 		trecEval.track(
-				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getGroups()[0], Arrays.asList(
+				new GoldStandardTestDouble().withGroup("domain_provider_context_label").getFacets()[0], Arrays.asList(
 				new CandidatePredicate[]{new CandidatePredicate("value1", 1),
 									   new CandidatePredicate("value2", 1)}));
 		

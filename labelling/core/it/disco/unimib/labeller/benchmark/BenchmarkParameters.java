@@ -65,7 +65,7 @@ public class BenchmarkParameters{
 	}
 
 	public GoldStandard goldStandard() throws Exception {
-		return new OrderedGroups(new UnorderedGroups(new File(goldStandardPath())));
+		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
 	
 	private TripleSelectionCriterion context() throws Exception{

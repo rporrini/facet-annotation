@@ -15,6 +15,6 @@ public class SingleFacetTest {
 		
 		GoldStandard singleFacet = new SingleFacet(goldStandard, "name".hashCode());
 		
-		assertThat(singleFacet.getGroups().length, equalTo(1));
+		assertThat(singleFacet.getFacets().length, equalTo(1));
 	}
 }

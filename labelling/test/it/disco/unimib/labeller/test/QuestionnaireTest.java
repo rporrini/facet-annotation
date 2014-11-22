@@ -5,7 +5,7 @@ import static org.hamcrest.CoreMatchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.benchmark.Questionnaire;
 import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.index.CandidatePredicate;
@@ -140,11 +140,11 @@ public class QuestionnaireTest {
 		assertThat(metric.result(), containsString("http://www.allstarnba.es/players/players-by-draft-pick.htm\""));
 	}
 	
-	private GoldStandardGroup createGroup(String name, int numberOfValues) {
+	private GoldStandardFacet createGroup(String name, int numberOfValues) {
 		InputFileTestDouble connector = new InputFileTestDouble().withName(name);
 		for(int i = 1; i <= numberOfValues; i++){
 			connector.withLine("value" + i);
 		}
-		return new GoldStandardGroup(connector);
+		return new GoldStandardFacet(connector);
 	}
 }

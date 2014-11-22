@@ -7,11 +7,11 @@ import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class GoldStandardGroup {
+public class GoldStandardFacet {
 
 	private InputFile connector;
 
-	public GoldStandardGroup(InputFile connector) {
+	public GoldStandardFacet(InputFile connector) {
 		this.connector = connector;
 	}
 
