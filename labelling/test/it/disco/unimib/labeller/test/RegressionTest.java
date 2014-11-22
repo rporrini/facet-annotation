@@ -32,6 +32,25 @@ public class RegressionTest {
 						   "http://dbpedia.org/property/writer");
 	}
 	
+	@Test
+	public void yagoExperiments() throws Exception {
+		int wordnetState108654360 = 1091252161;
+		String knowledgeBase = "yago1";
+		
+		List<TrecResultPredicate> results = runBenchmark(knowledgeBase, wordnetState108654360);
+		
+		checkNonRegression(results, 
+						   8,
+						   "hasCapital",
+						   "participatedIn",
+						   "bornIn",
+						   "diedIn",
+						   "happenedIn",
+						   "hasFamilyName",
+						   "livesIn",
+						   "hasSuccessor");
+	}
+	
 	private void checkNonRegression(List<TrecResultPredicate> results, int expectedSize, String... predicates){
 		assertThat(results, hasSize(expectedSize));
 		for(int i=0; i<predicates.length; i++){
