@@ -16,7 +16,12 @@ signal 'Done'
 
 scripts/build.sh
 
-signal "Running Tests"
 cd $project
+
+signal "Running Unit Tests"
 java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.test.TestSuite
+signal "Done"
+
+signal "Running Regression Tests"
+java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.test.RegressionTest
 signal "Done"
