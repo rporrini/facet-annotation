@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
@@ -22,7 +22,7 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
 		Distribution values = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query);
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
@@ -31,12 +31,12 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 				if(values.scoreOf(result, value) > 0) predicateCounts.put(result, predicateCounts.get(result) + 1);
 			}
 		}
-		List<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		List<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : predicateCounts.keySet()){
 			double count = predicateCounts.get(predicate);
 			double percentage = count / (double) elements.size();
 			if(percentage > threshold){
-				results.add(new CandidatePredicate(predicate, percentage));
+				results.add(new CandidateResource(predicate, percentage));
 			}
 		}
 		Collections.sort(results);

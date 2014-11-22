@@ -57,7 +57,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<CandidatePredicate> get(String value, String context, TripleSelectionCriterion query) throws Exception {
+	public List<CandidateResource> get(String value, String context, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value, 
 									  context, 
@@ -73,7 +73,7 @@ public class GroupBySearch implements Index{
 			Document document = searcher.doc(result.doc, fields);
 			occurrences.accumulate(document.getValues(indexFields.predicateField())[0], stem(StringUtils.join(document.getValues(indexFields.context()), " ")), stemmedContext);
 		}
-		List<CandidatePredicate> annotations = occurrences.toResults();
+		List<CandidateResource> annotations = occurrences.toResults();
 		occurrences.clear();
 		return annotations;
 	}

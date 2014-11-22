@@ -2,10 +2,10 @@ package it.disco.unimib.labeller.index;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class RDFPredicate {
+public class RDFResource {
 	private String uri;
 
-	public RDFPredicate(String uri){
+	public RDFResource(String uri){
 		this.uri = uri;
 	}
 	

@@ -24,12 +24,12 @@ public abstract class TripleIndex implements TripleStore{
 		this.directory = directory;
 	}
 
-	public List<CandidatePredicate> get(String type, String context) throws Exception {
-		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+	public List<CandidateResource> get(String type, String context) throws Exception {
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
 		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
 			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new CandidatePredicate(toResult(indexedDocument), documentPointer.score));
+			results.add(new CandidateResource(toResult(indexedDocument), documentPointer.score));
 		}
 		return results;
 	}

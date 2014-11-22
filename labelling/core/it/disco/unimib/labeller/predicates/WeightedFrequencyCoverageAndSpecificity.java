@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.AllValues;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
@@ -23,12 +23,12 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidatePredicate> typeOf(String domain, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(String domain, List<String> elements) throws Exception {
 		
 		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index))
 										.forValues(domain, elements.toArray(new String[elements.size()]), selection);
 		
-		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
 			double frequencyOverValues = 0;
 			double covered = 0;
@@ -43,7 +43,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			double pfd = smoothedWFreq * coverage * disc;
-			results.add(new CandidatePredicate(predicate, smoothedWFreq, coverage, disc, pfd));
+			results.add(new CandidateResource(predicate, smoothedWFreq, coverage, disc, pfd));
 		}
 		
 		Collections.sort(results);

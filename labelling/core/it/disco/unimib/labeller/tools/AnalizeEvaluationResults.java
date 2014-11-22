@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.tools;
 import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
 import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.io.File;
@@ -63,7 +63,7 @@ public class AnalizeEvaluationResults {
 				for(String result : notPerfectResults){
 					int id = id(result);
 					System.out.println("------------------------------------------");
-					GoldStandardGroup groupById = goldStandardGroups.getGroupById(id);
+					GoldStandardFacet groupById = goldStandardGroups.getGroupById(id);
 					System.out.println(measure + ": " + measureResult(result));
 					System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
 					System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
@@ -138,37 +138,6 @@ public class AnalizeEvaluationResults {
 		qrels.put("yago1", "yago1-results/");
 		qrels.put("yago1-simple", "yago1-simple-results/");
 		return "../evaluation/results/" + qrels.get(knowledgeBase);
-	}
-}
-
-class TrecResultPredicate implements Comparable<TrecResultPredicate>{
-
-	private String line;
-
-	public TrecResultPredicate(String line) {
-		this.line = line;
-	}
-	
-	public String value(){
-		return StringUtils.split(line, " ")[2];
-	}
-	
-	public Double rank(){
-		return Double.parseDouble(StringUtils.split(line, " ")[4]);
-	}
-	
-	public int groupId(){
-		return Integer.parseInt(StringUtils.split(line, " ")[0]);
-	}
-	
-	@Override
-	public String toString() {
-		return value() + " (" + rank() + ")";
-	}
-	
-	@Override
-	public int compareTo(TrecResultPredicate other) {
-		return (int)Math.signum(other.rank() - this.rank());
 	}
 }
 

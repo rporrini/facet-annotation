@@ -14,8 +14,8 @@ public class NTriple{
 		return nodes[0].toString();
 	}
 	
-	public RDFPredicate predicate(){
-		return new RDFPredicate(nodes[1].toString());
+	public RDFResource predicate(){
+		return new RDFResource(nodes[1].toString());
 	}
 	
 	public String object(){

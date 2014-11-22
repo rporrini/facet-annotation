@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Command;
-import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 
 import java.io.File;
 
@@ -23,7 +23,7 @@ public class GroupCardinalityVsPerformance {
 		String goldStandard = command.argumentAsString("gs");
 		int k = Integer.parseInt(command.argumentAsString("k"));
 		
-		UnorderedGroups groups = new UnorderedGroups(new File(goldStandard));
+		UnorderedFacets groups = new UnorderedFacets(new File(goldStandard));
 		
 		for(String result : TrecEval.onlySingle(k, qrels, algorithm1, metric)){
 			String[] splittedLine = StringUtils.split(result, "\t");

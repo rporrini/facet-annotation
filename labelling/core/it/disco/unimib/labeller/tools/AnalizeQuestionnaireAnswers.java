@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.tools;
 
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -34,7 +34,7 @@ public class AnalizeQuestionnaireAnswers {
 		for(String sheetName : sheets){
 			Sheet externals = document.getSheet(sheetName);
 			
-			HashMap<String, List<CandidatePredicate>> goldStandard = new HashMap<String, List<CandidatePredicate>>();;
+			HashMap<String, List<CandidateResource>> goldStandard = new HashMap<String, List<CandidateResource>>();;
 			for(int row=1; row<=1235; row++){
 				try{
 					String content = externals.getCellAt("A" + row).getTextValue();
@@ -45,12 +45,12 @@ public class AnalizeQuestionnaireAnswers {
 						row++;
 						content = externals.getCellAt("A" + row).getTextValue();
 					}
-					ArrayList<CandidatePredicate> groupPredicates = new ArrayList<CandidatePredicate>();
+					ArrayList<CandidateResource> groupPredicates = new ArrayList<CandidateResource>();
 					while(!content.isEmpty()){
 						if(content.startsWith("http://")){
 							String propertyScore = externals.getCellAt("C" + row).getTextValue();
 							if(!propertyScore.equals("")){
-								groupPredicates.add(new CandidatePredicate(content, Double.parseDouble(propertyScore)));
+								groupPredicates.add(new CandidateResource(content, Double.parseDouble(propertyScore)));
 							}
 						}
 						row++;
@@ -60,11 +60,11 @@ public class AnalizeQuestionnaireAnswers {
 				}
 				catch(Exception e){}
 			}
-			HashMap<String, List<CandidatePredicate>> couples = new HashMap<String, List<CandidatePredicate>>();
+			HashMap<String, List<CandidateResource>> couples = new HashMap<String, List<CandidateResource>>();
 			for(String group : goldStandard.keySet()){
-				List<CandidatePredicate> predicatesToKeep = new ArrayList<CandidatePredicate>();
-				for(CandidatePredicate currentPredicate : goldStandard.get(group)){
-					for(CandidatePredicate predicate : goldStandard.get(group)){
+				List<CandidateResource> predicatesToKeep = new ArrayList<CandidateResource>();
+				for(CandidateResource currentPredicate : goldStandard.get(group)){
+					for(CandidateResource predicate : goldStandard.get(group)){
 						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.value().equals(predicate.value())){
 							predicatesToKeep.add(currentPredicate);
 							break;
@@ -84,9 +84,9 @@ public class AnalizeQuestionnaireAnswers {
 			int betterOntology = 0;
 			int betterFoaf = 0;
 			for(String group : couples.keySet()){
-				for(CandidatePredicate currentPredicate : couples.get(group)){
+				for(CandidateResource currentPredicate : couples.get(group)){
 					totalPredicates++;
-					for(CandidatePredicate predicate : couples.get(group)){
+					for(CandidateResource predicate : couples.get(group)){
 						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.value().equals(predicate.value())){
 							if(similarScore(currentPredicate.score(), predicate.score()))
 								similarPredicates++;

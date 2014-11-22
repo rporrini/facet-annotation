@@ -1,9 +1,9 @@
 package it.disco.unimib.labeller.tools;
 
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
+import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 import it.disco.unimib.labeller.index.AllValues;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -32,7 +32,7 @@ public class RunAlgorithm {
 		LogarithmicPredicateSpecificy predicateSpecificity = new LogarithmicPredicateSpecificy(index);
 		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, valueMatching, predicateSpecificity);
 		
-		UnorderedGroups groups = new UnorderedGroups(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
+		UnorderedFacets groups = new UnorderedFacets(new File("../evaluation/gold-standards/dbpedia-enhanced/"));
 		for(int id : ids()){
 			annotate(majorityHitWeighted, groups, id);
 		}
@@ -50,11 +50,11 @@ public class RunAlgorithm {
 		};
 	}
 	
-	private static void annotate(AnnotationAlgorithm algorithm, UnorderedGroups groups, int id) throws Exception {
-		GoldStandardGroup group = groups.getGroupById(id);
+	private static void annotate(AnnotationAlgorithm algorithm, UnorderedFacets groups, int id) throws Exception {
+		GoldStandardFacet group = groups.getGroupById(id);
 		System.out.println(group.context() + " " + id);
-		List<CandidatePredicate> results = new TopK(500, algorithm).typeOf(group.context(), group.elements());	
-		for(CandidatePredicate result : results){
+		List<CandidateResource> results = new TopK(500, algorithm).typeOf(group.context(), group.elements());	
+		for(CandidateResource result : results){
 			System.out.println(result);
 		}
 	}

@@ -5,21 +5,21 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.*;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
 import org.junit.Test;
 
-public class CandidatePredicateTest {
+public class CandidateResourceTest {
 
 	@Test
 	public void shouldBeOrderedDescending() {
-		CandidatePredicate resultWithHigherScore = new CandidatePredicate("any", 20);
-		CandidatePredicate resultWithLowerScore = new CandidatePredicate("any", 10);
+		CandidateResource resultWithHigherScore = new CandidateResource("any", 20);
+		CandidateResource resultWithLowerScore = new CandidateResource("any", 10);
 		
-		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		results.add(resultWithLowerScore);
 		results.add(resultWithHigherScore);
 		
@@ -31,7 +31,7 @@ public class CandidatePredicateTest {
 	@Test
 	public void shouldDisplayTheLocalScoresOnToString() throws Exception {
 		
-		CandidatePredicate predicate = new CandidatePredicate("value", 0.4);
+		CandidateResource predicate = new CandidateResource("value", 0.4);
 		
 		assertThat(predicate.toString(), containsString("0.4"));
 	}
@@ -39,7 +39,7 @@ public class CandidatePredicateTest {
 	@Test
 	public void shouldGiveTheRightScore() throws Exception {
 		
-		CandidatePredicate predicate = new CandidatePredicate("value", 0.4);
+		CandidateResource predicate = new CandidateResource("value", 0.4);
 		
 		assertThat(predicate.score(), equalTo(0.4));
 	}
@@ -47,7 +47,7 @@ public class CandidatePredicateTest {
 	@Test
 	public void shouldDisplayAllTheLocalScores() throws Exception {
 		
-		CandidatePredicate predicate = new CandidatePredicate("value", 0.45, 0.94, 10);
+		CandidateResource predicate = new CandidateResource("value", 0.45, 0.94, 10);
 		
 		assertThat(predicate.toString(), allOf(containsString("0.45"), containsString("0.94"), containsString("10")));
 	}
@@ -55,7 +55,7 @@ public class CandidatePredicateTest {
 	@Test
 	public void shouldGiveTheLastScoreAsTheCorrectOne() throws Exception {
 		
-		CandidatePredicate predicate = new CandidatePredicate("value", 0.4, 0.3, 10);
+		CandidateResource predicate = new CandidateResource("value", 0.4, 0.3, 10);
 		
 		assertThat(predicate.score(), equalTo(10d));
 	}

@@ -6,7 +6,7 @@ public interface Occurrences {
 
 	public void accumulate(String label, String context, String targetContext);
 
-	public List<CandidatePredicate> toResults();
+	public List<CandidateResource> toResults();
 
 	public void clear();
 

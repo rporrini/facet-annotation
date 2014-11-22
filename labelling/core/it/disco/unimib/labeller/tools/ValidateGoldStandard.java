@@ -1,8 +1,8 @@
 package it.disco.unimib.labeller.tools;
 
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
-import it.disco.unimib.labeller.benchmark.OrderedGroups;
-import it.disco.unimib.labeller.benchmark.UnorderedGroups;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
+import it.disco.unimib.labeller.benchmark.OrderedFacets;
+import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 
 import java.io.File;
 import java.io.IOException;
@@ -28,7 +28,7 @@ public class ValidateGoldStandard {
 		}
 		
 		List<String> expectedIds = new ArrayList<String>();
-		for(GoldStandardGroup group : goldStandard(groups)){
+		for(GoldStandardFacet group : goldStandard(groups)){
 			expectedIds.add(group.id() + "");
 		}
 		
@@ -51,7 +51,7 @@ public class ValidateGoldStandard {
 		System.out.println("Validation Succedeed: id of groups are consistent.");
 	}
 	
-	private static GoldStandardGroup[] goldStandard(String groups) {
-		return new OrderedGroups(new UnorderedGroups(new File(groups))).getGroups();
+	private static GoldStandardFacet[] goldStandard(String groups) {
+		return new OrderedFacets(new UnorderedFacets(new File(groups))).getFacets();
 	}
 }

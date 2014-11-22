@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 
@@ -23,7 +23,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 		
 		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues()));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).value(), equalTo("other predicate"));
 	}
@@ -35,7 +35,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 
 		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues()));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(2.0));
 	}

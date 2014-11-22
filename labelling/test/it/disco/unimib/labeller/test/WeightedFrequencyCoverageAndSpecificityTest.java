@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.AnyValue;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
@@ -39,7 +39,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).value(), equalTo("other predicate"));
 	}
@@ -51,7 +51,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(0.6931471810599453));
 	}
@@ -64,7 +64,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), equalTo(results.get(1).score()));
 	}
@@ -77,7 +77,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -90,7 +90,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -103,7 +103,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -116,7 +116,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new LogarithmicPredicateSpecificy(index));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -129,7 +129,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -142,7 +142,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm algorithm = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
-		List<CandidatePredicate> results = algorithm.typeOf("context", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = algorithm.typeOf("context", Arrays.asList(new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).label(), equalTo("highCoveragePredicate"));
 	}
@@ -155,7 +155,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
-		List<CandidatePredicate> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}

@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
@@ -70,7 +70,7 @@ public class EvidenceTest {
 		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		CandidatePredicate searchResult = index.get("literal", "any").get(0);
+		CandidateResource searchResult = index.get("literal", "any").get(0);
 		
 		assertThat(searchResult.value(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
@@ -167,7 +167,7 @@ public class EvidenceTest {
 											.asTriple())
 								.closeWriter();
 		
-		List<CandidatePredicate> results = index.get("value", "any");
+		List<CandidateResource> results = index.get("value", "any");
 		
 		assertThat(results, is(not(empty())));
 	}

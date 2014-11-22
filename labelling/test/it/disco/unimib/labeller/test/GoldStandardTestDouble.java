@@ -1,27 +1,27 @@
 package it.disco.unimib.labeller.test;
 
 import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.GoldStandardGroup;
+import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class GoldStandardTestDouble implements GoldStandard{
 
-	List<GoldStandardGroup> groups = new ArrayList<GoldStandardGroup>();
+	List<GoldStandardFacet> groups = new ArrayList<GoldStandardFacet>();
 	
 	@Override
-	public GoldStandardGroup[] getGroups() {
-		return groups.toArray(new GoldStandardGroup[groups.size()]);
+	public GoldStandardFacet[] getFacets() {
+		return groups.toArray(new GoldStandardFacet[groups.size()]);
 	}
 	
 	public GoldStandardTestDouble withGroup(String name){
-		groups.add(new GoldStandardGroup(new InputFileTestDouble().withName(name)));
+		groups.add(new GoldStandardFacet(new InputFileTestDouble().withName(name)));
 		return this;
 	}
 
 	@Override
-	public GoldStandardGroup getGroupById(int id) {
+	public GoldStandardFacet getGroupById(int id) {
 		return null;
 	}
 }

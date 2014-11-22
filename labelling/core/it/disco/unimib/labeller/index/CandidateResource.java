@@ -2,14 +2,14 @@ package it.disco.unimib.labeller.index;
 
 
 
-public class CandidatePredicate implements Comparable<CandidatePredicate>{
+public class CandidateResource implements Comparable<CandidateResource>{
 
 	private double[] scores;
-	private RDFPredicate predicate;
+	private RDFResource predicate;
 
-	public CandidatePredicate(String value, double... scores) {
+	public CandidateResource(String value, double... scores) {
 		this.scores = scores;
-		this.predicate = new RDFPredicate(value);
+		this.predicate = new RDFResource(value);
 	}
 
 	public String value() {
@@ -30,7 +30,7 @@ public class CandidatePredicate implements Comparable<CandidatePredicate>{
 	}
 
 	@Override
-	public int compareTo(CandidatePredicate other) {
+	public int compareTo(CandidateResource other) {
 		return (int) Math.signum(other.score() - this.score());
 	}
 	
