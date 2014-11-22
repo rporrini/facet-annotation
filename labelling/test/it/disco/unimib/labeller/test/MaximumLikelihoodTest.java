@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.predicates.Distribution;
 import it.disco.unimib.labeller.predicates.MaximumLikelihood;
 import it.disco.unimib.labeller.predicates.NormalizedConditional;
@@ -20,14 +20,14 @@ public class MaximumLikelihoodTest {
 
 	@Test
 	public void theLikelihoodOfAPredicateThatOccurWithManyValuesIsGreaterThanTheLikelihoodOfAPredicateThatOccurWithOnlyAValue() {
-		HashMap<String, List<CandidatePredicate>> distribution = new HashMap<String, List<CandidatePredicate>>();
-		ArrayList<CandidatePredicate> occurrenciesForParis = new ArrayList<CandidatePredicate>();
-		occurrenciesForParis.add(new CandidatePredicate("capital", 1));
+		HashMap<String, List<CandidateResource>> distribution = new HashMap<String, List<CandidateResource>>();
+		ArrayList<CandidateResource> occurrenciesForParis = new ArrayList<CandidateResource>();
+		occurrenciesForParis.add(new CandidateResource("capital", 1));
 		distribution.put("paris", occurrenciesForParis);
 		
-		ArrayList<CandidatePredicate> occurrenciesForRome = new ArrayList<CandidatePredicate>();
-		occurrenciesForRome.add(new CandidatePredicate("capital", 1));
-		occurrenciesForRome.add(new CandidatePredicate("birthPlace", 1));
+		ArrayList<CandidateResource> occurrenciesForRome = new ArrayList<CandidateResource>();
+		occurrenciesForRome.add(new CandidateResource("capital", 1));
+		occurrenciesForRome.add(new CandidateResource("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
 		Distribution d = new Distribution(distribution);

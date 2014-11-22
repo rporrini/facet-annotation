@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.test;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.predicates.Distribution;
 import it.disco.unimib.labeller.predicates.NormalizedPrior;
 import it.disco.unimib.labeller.predicates.UnnormalizedPrior;
@@ -17,14 +17,14 @@ public class NormalizedPriorTest {
 
 	@Test
 	public void theProbabilitiesOfThePredicateShouldSumToOne() {
-		HashMap<String, List<CandidatePredicate>> distribution = new HashMap<String, List<CandidatePredicate>>();
-		ArrayList<CandidatePredicate> occurrenciesForParis = new ArrayList<CandidatePredicate>();
-		occurrenciesForParis.add(new CandidatePredicate("capital", 1));
+		HashMap<String, List<CandidateResource>> distribution = new HashMap<String, List<CandidateResource>>();
+		ArrayList<CandidateResource> occurrenciesForParis = new ArrayList<CandidateResource>();
+		occurrenciesForParis.add(new CandidateResource("capital", 1));
 		distribution.put("paris", occurrenciesForParis);
 		
-		ArrayList<CandidatePredicate> occurrenciesForRome = new ArrayList<CandidatePredicate>();
-		occurrenciesForRome.add(new CandidatePredicate("capital", 1));
-		occurrenciesForRome.add(new CandidatePredicate("birthPlace", 1));
+		ArrayList<CandidateResource> occurrenciesForRome = new ArrayList<CandidateResource>();
+		occurrenciesForRome.add(new CandidateResource("capital", 1));
+		occurrenciesForRome.add(new CandidateResource("birthPlace", 1));
 		distribution.put("rome", occurrenciesForRome);
 		
 		NormalizedPrior prior = new NormalizedPrior(new Distribution(distribution), new UnnormalizedPrior(new Distribution(distribution)));

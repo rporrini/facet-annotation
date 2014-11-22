@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
@@ -20,7 +20,7 @@ public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 	}
 
 	@Override
-	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
 		
 		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index))
 											.forValues(context, elements.toArray(new String[elements.size()]), selection);
@@ -36,10 +36,10 @@ public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 			}
 		}
 		
-		ArrayList<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : predicateCounts.keySet()){
 			Double wfreq = predicateCounts.get(predicate);
-			results.add(new CandidatePredicate(predicate, wfreq));
+			results.add(new CandidateResource(predicate, wfreq));
 		}
 		
 		Collections.sort(results);

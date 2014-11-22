@@ -23,10 +23,10 @@ public class ContextualizedOccurrences implements Occurrences{
 	}
 	
 	@Override
-	public List<CandidatePredicate> toResults(){
-		List<CandidatePredicate> annotations = new ArrayList<CandidatePredicate>();
+	public List<CandidateResource> toResults(){
+		List<CandidateResource> annotations = new ArrayList<CandidateResource>();
 		for(String label : scores.keySet()){
-			annotations.add(new CandidatePredicate(label, scores.get(label)));
+			annotations.add(new CandidateResource(label, scores.get(label)));
 		}
 		return annotations;
 	}

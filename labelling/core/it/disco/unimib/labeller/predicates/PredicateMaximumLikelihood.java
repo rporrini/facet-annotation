@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
@@ -19,7 +19,7 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidatePredicate> typeOf(String context, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
 		Distribution distribution = new CandidatePredicates(index).forValues(context, elements.toArray(new String[elements.size()]), query);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
@@ -29,9 +29,9 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 		NormalizedConditional conditional = new NormalizedConditional(distribution, prior, unnormalizedConditional);
 		
 		NormalizedMaximumLikelihood likelihood = new NormalizedMaximumLikelihood(distribution, conditional, prior);
-		List<CandidatePredicate> results = new ArrayList<CandidatePredicate>();
+		List<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
-			results.add(new CandidatePredicate(predicate, likelihood.of(predicate)));
+			results.add(new CandidateResource(predicate, likelihood.of(predicate)));
 		}
 		Collections.sort(results);
 		

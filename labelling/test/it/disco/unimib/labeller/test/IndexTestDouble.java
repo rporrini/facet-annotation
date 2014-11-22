@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.test;
 
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.index.Index;
 
@@ -10,12 +10,12 @@ import java.util.List;
 
 public class IndexTestDouble implements Index{
 
-	private HashMap<String, List<CandidatePredicate>> results = new HashMap<String, List<CandidatePredicate>>();
+	private HashMap<String, List<CandidateResource>> results = new HashMap<String, List<CandidateResource>>();
 	
 	@Override
-	public List<CandidatePredicate> get(String value, String context, TripleSelectionCriterion query) throws Exception {
-		List<CandidatePredicate> result = results.get(value);
-		if(result == null) result = new ArrayList<CandidatePredicate>();
+	public List<CandidateResource> get(String value, String context, TripleSelectionCriterion query) throws Exception {
+		List<CandidateResource> result = results.get(value);
+		if(result == null) result = new ArrayList<CandidateResource>();
 		return result;
 	}
 
@@ -25,8 +25,8 @@ public class IndexTestDouble implements Index{
 	}
 	
 	public IndexTestDouble resultFor(String value, String predicate, double score){
-		if(!results.containsKey(value)) results.put(value, new ArrayList<CandidatePredicate>());
-		results.get(value).add(new CandidatePredicate(predicate, score));
+		if(!results.containsKey(value)) results.put(value, new ArrayList<CandidateResource>());
+		results.get(value).add(new CandidateResource(predicate, score));
 		return this;
 	}
 }

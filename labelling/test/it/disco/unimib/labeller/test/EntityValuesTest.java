@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.test;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidatePredicate;
+import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.TripleIndex;
 
@@ -21,7 +21,7 @@ public class EntityValuesTest {
 															.withLiteral("the label").asTriple())
 													.closeWriter();
 		
-		List<CandidatePredicate> labels = index.get("http://entity", "any");
+		List<CandidateResource> labels = index.get("http://entity", "any");
 		
 		assertThat(labels.get(0).value(), equalTo("the label"));
 	}
@@ -33,7 +33,7 @@ public class EntityValuesTest {
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
 						.closeWriter();
 
-		List<CandidatePredicate> labels = index.get("http://entity", "any");
+		List<CandidateResource> labels = index.get("http://entity", "any");
 		
 		assertThat(labels, hasSize(2));
 	}
