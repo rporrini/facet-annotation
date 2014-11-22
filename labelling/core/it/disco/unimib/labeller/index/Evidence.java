@@ -43,17 +43,23 @@ public class Evidence extends TripleIndex{
 		Document document = new Document();
 		
 		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
+		
 		String value = triple.object().contains("http://") ? "" : triple.object();
 		for(CandidateResource label : this.labels.get(triple.object(), "any")){
 			value += " " + label.value();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
+		for(CandidateResource type : this.types.get(triple.object(), "any")){
+			document.add(new Field(indexFields.objectType(), type.value(), TextField.TYPE_STORED));
+		}
+		
 		String context = "";
 		for(CandidateResource type : this.types.get(triple.subject(), "any")){
 			for(CandidateResource label : this.labels.get(type.value(), "any")){
 				context += " " + label.value();
 			}
+			document.add(new Field(indexFields.subjectType(), type.value(), TextField.TYPE_STORED));
 		}
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
 		

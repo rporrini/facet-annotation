@@ -139,7 +139,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels,new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
+		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")

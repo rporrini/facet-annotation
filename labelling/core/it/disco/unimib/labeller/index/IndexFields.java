@@ -22,6 +22,8 @@ public class IndexFields{
 		analyzers.put(property(), new KeywordAnalyzer());
 		analyzers.put(namespace(), new KeywordAnalyzer());
 		analyzers.put(label(), new KeywordAnalyzer());
+		analyzers.put(objectType(), new KeywordAnalyzer());
+		analyzers.put(subjectType(), new KeywordAnalyzer());
 		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
 	}
 	
@@ -43,6 +45,14 @@ public class IndexFields{
 	
 	public String context() {
 		return "context";
+	}
+	
+	public String objectType(){
+		return "object-type";
+	}
+	
+	public String subjectType() {
+		return "subjectType";
 	}
 	
 	public String predicateField() {
