@@ -15,7 +15,6 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
@@ -162,7 +161,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 
 	private Directory buildIndex() throws Exception {
 		Directory directory = new RAMDirectory();
-		TripleIndex types = new EntityValues(directory).add(new TripleBuilder().withSubject("http://a_subject")
+		EntityValues types = new EntityValues(directory).add(new TripleBuilder().withSubject("http://a_subject")
 																				.withObject("http://context")
 																				.asTriple())
 														.add(new TripleBuilder().withSubject("http://a_subject_with_partial_context")
@@ -170,7 +169,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 																				.asTriple())
 																.closeWriter();
 		
-		TripleIndex labels = new EntityValues(directory).add(new TripleBuilder().withSubject("http://context")
+		EntityValues labels = new EntityValues(directory).add(new TripleBuilder().withSubject("http://context")
 																				.withLiteral("context")
 																				.asTriple())
 														.add(new TripleBuilder().withSubject("http://partial_context")

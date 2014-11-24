@@ -25,14 +25,14 @@ public class Evidence implements TripleStore{
 
 	private IndexWriter writer;
 	private Directory directory;
-	private TripleIndex types;
-	private TripleIndex labels;
+	private EntityValues types;
+	private EntityValues labels;
 	private RankingStrategy ranking;
 	private TripleSelectionCriterion query;
 	private IndexFields indexFields;
 	private DirectoryReader reader;
 
-	public Evidence(Directory directory, TripleIndex types, TripleIndex labels, RankingStrategy ranking, TripleSelectionCriterion query, IndexFields fields) throws Exception {
+	public Evidence(Directory directory, EntityValues types, EntityValues labels, RankingStrategy ranking, TripleSelectionCriterion query, IndexFields fields) throws Exception {
 		this.directory = directory;
 		this.types = types;
 		this.labels = labels;
@@ -40,9 +40,25 @@ public class Evidence implements TripleStore{
 		this.query = query;
 		this.indexFields = fields;
 	}
-
-	private String toResult(Document doc) {
-		return doc.get(indexFields.predicateField());
+	
+	public Evidence add(NTriple triple) throws Exception {
+		openWriter().addDocument(toDocument(triple));
+		return this;
+	}
+	
+	public Evidence closeWriter() throws Exception {
+		openWriter().close();
+		return this;
+	}
+	
+	public List<CandidateResource> get(String type, String context) throws Exception {
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		IndexSearcher indexSearcher = new IndexSearcher(openReader());
+		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
+			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
+			results.add(new CandidateResource(indexedDocument.get(indexFields.predicateField()), documentPointer.score));
+		}
+		return results;
 	}
 
 	private Document toDocument(NTriple triple) throws Exception {
@@ -91,32 +107,12 @@ public class Evidence implements TripleStore{
 		return indexFields.analyzer();
 	}
 	
-	public Evidence add(NTriple triple) throws Exception {
-		openWriter().addDocument(toDocument(triple));
-		return this;
-	}
-	
-	public Evidence closeWriter() throws Exception {
-		openWriter().close();
-		return this;
-	}
-	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
 			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
 																					.setRAMBufferSizeMB(95));
 		}
 		return writer;
-	}
-	
-	public List<CandidateResource> get(String type, String context) throws Exception {
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
-			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new CandidateResource(toResult(indexedDocument), documentPointer.score));
-		}
-		return results;
 	}
 	
 	private IndexReader openReader() throws Exception{

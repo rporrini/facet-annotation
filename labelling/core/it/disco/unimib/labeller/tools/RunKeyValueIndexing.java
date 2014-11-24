@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.tools;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.MatchingPredicate;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.Triples;
 
 import java.io.File;
@@ -17,7 +16,7 @@ public class RunKeyValueIndexing {
 		String destination = args[1];
 		String predicate = args[2];
 		
-		TripleIndex index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
+		EntityValues index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
 			new Triples(new InputFile(file)).fill(index, new MatchingPredicate(predicate));

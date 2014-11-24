@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.MatchingPredicate;
@@ -17,7 +16,7 @@ public class TriplesTest {
 
 	@Test
 	public void shouldFillTheIndex() throws Exception {
-		TripleIndex index = new EntityValues(new RAMDirectory());
+		EntityValues index = new EntityValues(new RAMDirectory());
 		new Triples(new InputFileTestDouble().withLine(
 									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
@@ -28,7 +27,7 @@ public class TriplesTest {
 	
 	@Test
 	public void shouldAddOnlyMatchingPredicates() throws Exception {
-		TripleIndex index = new EntityValues(new RAMDirectory());
+		EntityValues index = new EntityValues(new RAMDirectory());
 		new Triples(new InputFileTestDouble()
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
@@ -56,7 +55,7 @@ public class TriplesTest {
 	
 	@Test
 	public void shouldIndexAlsoWithSpaces() throws Exception {
-		TripleIndex index = new EntityValues(new RAMDirectory());
+		EntityValues index = new EntityValues(new RAMDirectory());
 		new Triples(new InputFileTestDouble()
 							.withLine("<http://1234> <http://predicate> <http://uri with space> ."))
 					.fill(index, new AcceptAll());

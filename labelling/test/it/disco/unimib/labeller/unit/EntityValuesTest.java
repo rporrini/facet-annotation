@@ -5,7 +5,6 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.EntityValues;
-import it.disco.unimib.labeller.index.TripleIndex;
 
 import java.util.List;
 
@@ -16,7 +15,7 @@ public class EntityValuesTest {
 
 	@Test
 	public void whenALabelIsAddedItShouldBeReturned() throws Exception {
-		TripleIndex index = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
+		EntityValues index = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 															.withSubject("http://entity")
 															.withLiteral("the label").asTriple())
 													.closeWriter();
@@ -28,7 +27,7 @@ public class EntityValuesTest {
 	
 	@Test
 	public void whenADuplicatedEntityIsAddedShouldReturnBoth() throws Exception {
-		TripleIndex index = new EntityValues(new RAMDirectory())
+		EntityValues index = new EntityValues(new RAMDirectory())
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the label").asTriple())
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
 						.closeWriter();

@@ -7,7 +7,6 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.corpus.TripleCorpus;
 import it.disco.unimib.labeller.index.EntityValues;
-import it.disco.unimib.labeller.index.TripleIndex;
 
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.store.RAMDirectory;
@@ -20,14 +19,14 @@ public class TripleCorpusTest {
 	public void shouldWriteOutThePredicate() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 								.add(new TripleBuilder()
 											.withSubject("http://the.subject")
 											.withObject("http://the.type")
 											.asTriple())
 								.closeWriter();
 		
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 								.add(new TripleBuilder()
 											.withSubject("http://the.type")
 											.withObject("label")
@@ -48,13 +47,13 @@ public class TripleCorpusTest {
 	public void shouldWriteTheValueIfLiteralObject() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.subject")
 												.withObject("http://the.type")
 												.asTriple())
 									.closeWriter();
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.type")
 												.withObject("label")
@@ -73,7 +72,7 @@ public class TripleCorpusTest {
 	@Test
 	public void shouldWriteTheLabelIfTheEntitesObjects() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.entity")
 												.withObject("label")
@@ -83,7 +82,7 @@ public class TripleCorpusTest {
 												.withObject("label")
 												.asTriple())
 									.closeWriter();
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.subject")
 												.withObject("http://the.type")
@@ -99,13 +98,13 @@ public class TripleCorpusTest {
 	@Test
 	public void shouldWriteTheLabelsOfAllTheCategoriesAndTypes() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.type")
 												.withObject("type label")
 												.asTriple())
 									.closeWriter();
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.entity")
 												.withObject("http://the.type")
@@ -121,7 +120,7 @@ public class TripleCorpusTest {
 	@Test
 	public void shouldWriteMultipleSentencesForEachContextElement() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.type")
 												.withObject("the type label")
@@ -131,7 +130,7 @@ public class TripleCorpusTest {
 												.withObject("the category label")
 												.asTriple())
 									.closeWriter();
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.entity")
 												.withObject("http://the.type")
@@ -151,14 +150,14 @@ public class TripleCorpusTest {
 	public void literalValuesShouldBeNormalized() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.type")
 												.withObject("TYPE-label")
 												.asTriple())
 									.closeWriter();
 		
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.subject")
 												.withObject("http://the.type")
@@ -178,7 +177,7 @@ public class TripleCorpusTest {
 	public void shouldWriteOutOnMultpleLabelsForTypesAndObjects() throws Exception {
 		OutputFileTestDouble file = new OutputFileTestDouble();
 		
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.object")
 												.withObject("object label")
@@ -197,7 +196,7 @@ public class TripleCorpusTest {
 												.asTriple())
 									.closeWriter();
 		
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 									.add(new TripleBuilder()
 												.withSubject("http://the.subject")
 												.withObject("http://the.type")

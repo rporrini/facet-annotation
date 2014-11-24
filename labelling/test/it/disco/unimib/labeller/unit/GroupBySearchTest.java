@@ -12,7 +12,6 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
-import it.disco.unimib.labeller.index.TripleIndex;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -86,7 +85,7 @@ public class GroupBySearchTest {
 	@Test
 	public void shouldMatchAlsoPartialContexts() throws Exception {
 		Directory directory = new RAMDirectory();
-		TripleIndex types = new EntityValues(new RAMDirectory())
+		EntityValues types = new EntityValues(new RAMDirectory())
 								.add(new TripleBuilder().withSubject("http://subject")
 														.withObject("http://type")
 														.asTriple())
@@ -94,7 +93,7 @@ public class GroupBySearchTest {
 														.withObject("http://another_type")
 														.asTriple())
 								.closeWriter();
-		TripleIndex labels = new EntityValues(new RAMDirectory())
+		EntityValues labels = new EntityValues(new RAMDirectory())
 								.add(new TripleBuilder().withSubject("http://type")
 														.withLiteral("the type with many terms")
 														.asTriple())

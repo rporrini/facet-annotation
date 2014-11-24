@@ -10,7 +10,6 @@ import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
 
 import org.apache.lucene.store.Directory;
@@ -23,12 +22,12 @@ public class LogarithmicContextForPredicateTest {
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
 		Directory directory = new RAMDirectory();
 		
-		TripleIndex types = new EntityValues(directory).add(new TripleBuilder().withSubject("a_subject")
+		EntityValues types = new EntityValues(directory).add(new TripleBuilder().withSubject("a_subject")
 																				.withObject("context")
 																				.asTriple())
 																.closeWriter();
 
-		TripleIndex labels = new EntityValues(directory).add(new TripleBuilder().withSubject("context")
+		EntityValues labels = new EntityValues(directory).add(new TripleBuilder().withSubject("context")
 																				.withLiteral("context")
 																				.asTriple())
 																.closeWriter();

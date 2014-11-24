@@ -1,8 +1,8 @@
 package it.disco.unimib.labeller.corpus;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.NTriple;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.TripleStore;
 
 import java.io.StringReader;
@@ -17,11 +17,11 @@ import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 public class TripleCorpus implements TripleStore{
 
 	private OutputFile file;
-	private TripleIndex labels;
-	private TripleIndex types;
+	private EntityValues labels;
+	private EntityValues types;
 	private Analyzer analyzer;
 
-	public TripleCorpus(TripleIndex types, TripleIndex labels, OutputFile file, Analyzer analyzer) {
+	public TripleCorpus(EntityValues types, EntityValues labels, OutputFile file, Analyzer analyzer) {
 		this.file = file;
 		this.types = types;
 		this.labels = labels;

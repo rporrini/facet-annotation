@@ -15,7 +15,6 @@ import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SpecificNamespace;
-import it.disco.unimib.labeller.index.TripleIndex;
 
 import java.util.List;
 
@@ -29,7 +28,7 @@ public class EvidenceTest {
 
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
-		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
@@ -48,7 +47,7 @@ public class EvidenceTest {
 	
 	@Test
 	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteralAndKnowledgeBaseIsYago() throws Exception {
-		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
@@ -78,8 +77,8 @@ public class EvidenceTest {
 	
 	@Test
 	public void theTypeOfTheSubjectShouldBeSearchableAsContextAndProvideMoreDetailedRanking() throws Exception {
-		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
-		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
 		Evidence dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
 							.add(new TripleBuilder()
@@ -136,8 +135,8 @@ public class EvidenceTest {
 	
 	@Test
 	public void theContextShouldBeStemmedForEnglish() throws Exception {
-		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
-		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
 		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
@@ -158,8 +157,8 @@ public class EvidenceTest {
 	
 	@Test
 	public void shouldIndexAndFilterByNamespace() throws Exception {
-		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
-		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).closeWriter();
+		EntityValues labels = new EntityValues(new RAMDirectory()).closeWriter();
 		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext(new AllValues())), new IndexFields("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
