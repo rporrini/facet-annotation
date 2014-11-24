@@ -35,7 +35,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
+		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -54,7 +54,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
+		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -67,7 +67,7 @@ public class EvidenceTest {
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
-		TripleIndex index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(new AllValues()), yago)
+		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		CandidateResource searchResult = index.get("literal", "any").get(0);
@@ -81,7 +81,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
+		Evidence dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -94,7 +94,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		TripleIndex yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
+		Evidence yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -113,7 +113,7 @@ public class EvidenceTest {
 	
 	@Test
 	public void shouldGroupByPredicate() throws Exception {
-		TripleIndex index = new Evidence(new RAMDirectory(), 
+		Evidence index = new Evidence(new RAMDirectory(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(), 
 										 new EntityValues(new RAMDirectory()).closeWriter(),
 										 new RankByFrequency(), new NoContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
@@ -139,7 +139,7 @@ public class EvidenceTest {
 		TripleIndex labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		TripleIndex types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
+		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -160,7 +160,7 @@ public class EvidenceTest {
 	public void shouldIndexAndFilterByNamespace() throws Exception {
 		TripleIndex types = new EntityValues(new RAMDirectory()).closeWriter();
 		TripleIndex labels = new EntityValues(new RAMDirectory()).closeWriter();
-		TripleIndex index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext(new AllValues())), new IndexFields("anyKnowledgeBase"))
+		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext(new AllValues())), new IndexFields("anyKnowledgeBase"))
 								.add(new TripleBuilder()
 											.withPredicate("http://namespace/property")
 											.withLiteral("value")

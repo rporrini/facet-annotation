@@ -20,7 +20,7 @@ import org.junit.Test;
 import com.carrotsearch.junitbenchmarks.AbstractBenchmark;
 import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
 
-@BenchmarkOptions(benchmarkRounds = 4, warmupRounds = 0, concurrency=2)
+@BenchmarkOptions(benchmarkRounds = 2, warmupRounds = 0, concurrency=2)
 public class IndexingPerformance extends AbstractBenchmark{
 
 	private static TemporaryDirectory indexDirectory;
