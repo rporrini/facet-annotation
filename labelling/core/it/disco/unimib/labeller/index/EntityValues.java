@@ -2,6 +2,8 @@ package it.disco.unimib.labeller.index;
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
@@ -16,6 +18,7 @@ import org.apache.lucene.index.Term;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
@@ -25,9 +28,12 @@ public class EntityValues implements TripleStore{
 	private IndexWriter writer;
 	private Directory directory;
 	private DirectoryReader reader;
+	
+	private HashSet<String> fieldsToLoad;
 
 	public EntityValues(Directory directory) throws Exception {
 		this.directory = directory;
+		this.fieldsToLoad = new HashSet<String>(Arrays.asList(new String[]{value()}));
 	}
 	
 	public List<CandidateResource> get(String entity) throws Exception {
@@ -35,9 +41,9 @@ public class EntityValues implements TripleStore{
 		Query query = new TermQuery(new Term(id(), entity));
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		for(ScoreDoc score : searcher.search(query, maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
-			Document indexedDocument = searcher.doc(score.doc);
-			results.add(new CandidateResource(indexedDocument.get(value()), score.score));
+		for(ScoreDoc score : searcher.search(query, 500, Sort.INDEXORDER).scoreDocs){
+			Document document = searcher.doc(score.doc, fieldsToLoad);
+			results.add(new CandidateResource(document.get(value()), 0));
 		}
 		return results;
 	}
@@ -58,10 +64,6 @@ public class EntityValues implements TripleStore{
 		document.add(new Field(value(), triple.object().toString(), TextField.TYPE_STORED));
 		openWriter().addDocument(document);
 		return this;
-	}
-	
-	private int maximumNumberOfTypesForAResourceInDBPedia() {
-		return 203;
 	}
 	
 	private String id() {
