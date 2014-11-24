@@ -11,7 +11,6 @@ import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.Term;
@@ -26,8 +25,8 @@ import org.apache.lucene.util.Version;
 public class EntityValues implements ReadAndWriteStore{
 
 	private IndexWriter writer;
+	private IndexSearcher searcher;
 	private Directory directory;
-	private DirectoryReader reader;
 	
 	private HashSet<String> fieldsToLoad;
 
@@ -37,12 +36,12 @@ public class EntityValues implements ReadAndWriteStore{
 	}
 	
 	public List<CandidateResource> get(String entity) throws Exception {
-		IndexSearcher searcher = new IndexSearcher(openReader());
 		Query query = new TermQuery(new Term(id(), entity));
+		IndexSearcher searcher = openSearcher();
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(ScoreDoc score : searcher.search(query, 500, Sort.INDEXORDER).scoreDocs){
-			Document document = searcher.doc(score.doc, fieldsToLoad);
+			Document document = openSearcher().doc(score.doc, fieldsToLoad);
 			results.add(new CandidateResource(document.get(value()), 0));
 		}
 		return results;
@@ -54,7 +53,7 @@ public class EntityValues implements ReadAndWriteStore{
 	}
 
 	public EntityValues closeReader() throws Exception {
-		this.reader.close();
+		this.openSearcher().getIndexReader().close();
 		return this;
 	}
 
@@ -82,10 +81,10 @@ public class EntityValues implements ReadAndWriteStore{
 		return writer;
 	}
 
-	private IndexReader openReader() throws Exception {
-		if(reader == null){
-			 reader = DirectoryReader.open(directory);
+	private synchronized IndexSearcher openSearcher() throws Exception {
+		if(searcher == null){
+			 searcher = new IndexSearcher(DirectoryReader.open(directory));
 		}
-		return reader;
+		return searcher;
 	}
 }

@@ -18,7 +18,7 @@ import org.junit.Test;
 import com.carrotsearch.junitbenchmarks.AbstractBenchmark;
 import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
 
-@BenchmarkOptions(benchmarkRounds = 100, warmupRounds = 1, concurrency=2)
+@BenchmarkOptions(benchmarkRounds = 2, warmupRounds = 0, concurrency=2)
 public class EntityValuesPerformance extends AbstractBenchmark{
 
 	private static TemporaryDirectory indexDirectory;
@@ -48,7 +48,7 @@ public class EntityValuesPerformance extends AbstractBenchmark{
 	
 	@Test
 	public void queryResponse() throws Exception {
-		for(int i=0; i < 50; i++){
+		for(int i=0; i<2000; i++){
 			types.get(pickRandomEntity());
 		}
 	}
