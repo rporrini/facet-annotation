@@ -26,6 +26,3 @@ signal "Running Regression Tests"
 java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTest
 signal "Done"
 
-signal "Running Performance Measurements"
-java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.performance.IndexingPerformance
-signal "Done"
