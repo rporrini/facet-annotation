@@ -1,23 +1,11 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.index.DirectoryReader;
-import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.Query;
-import org.apache.lucene.search.ScoreDoc;
-import org.apache.lucene.search.Sort;
-import org.apache.lucene.search.grouping.GroupDocs;
-import org.apache.lucene.search.grouping.GroupingSearch;
 import org.apache.lucene.store.Directory;
-import org.apache.lucene.util.BytesRef;
 import org.apache.lucene.util.Version;
 
 public class Evidence implements TripleStore{
@@ -26,17 +14,12 @@ public class Evidence implements TripleStore{
 	private Directory directory;
 	private EntityValues types;
 	private EntityValues labels;
-	private RankingStrategy ranking;
-	private TripleSelectionCriterion query;
 	private IndexFields indexFields;
-	private DirectoryReader reader;
 
-	public Evidence(Directory directory, EntityValues types, EntityValues labels, RankingStrategy ranking, TripleSelectionCriterion query, IndexFields fields) throws Exception {
+	public Evidence(Directory directory, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
 		this.types = types;
 		this.labels = labels;
-		this.ranking = ranking;
-		this.query = query;
 		this.indexFields = fields;
 	}
 	
@@ -50,26 +33,6 @@ public class Evidence implements TripleStore{
 		return this;
 	}
 	
-	public List<CandidateResource> get(String type, String context) throws Exception {
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
-		GroupingSearch groupingSearch = new GroupingSearch(indexFields.predicateField());
-		groupingSearch.setGroupSort(Sort.RELEVANCE);
-		groupingSearch.setIncludeScores(true);
-		Query query = this.query.asQuery(type, context, indexFields.literal(), indexFields.context(), indexFields.namespace(), indexFields.analyzer());
-		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
-			ranking.reRank(context, group, indexSearcher);
-			ids.add(group.scoreDocs[0]);
-		}
-		List<ScoreDoc> matchingIds = ids;
-		for(ScoreDoc documentPointer : matchingIds){
-			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new CandidateResource(indexedDocument.get(indexFields.predicateField()), documentPointer.score));
-		}
-		return results;
-	}
-
 	private Document toDocument(NTriple triple) throws Exception {
 		Document document = new Document();
 		
@@ -105,12 +68,5 @@ public class Evidence implements TripleStore{
 																					.setRAMBufferSizeMB(95));
 		}
 		return writer;
-	}
-	
-	private IndexReader openReader() throws Exception{
-		if(reader == null){
-			 reader = DirectoryReader.open(directory);
-		}
-		return reader;
 	}
 }

@@ -1,20 +1,17 @@
 package it.disco.unimib.labeller.unit;
 
-import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
-import static org.hamcrest.Matchers.is;
-import static org.hamcrest.Matchers.not;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
+import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.RankByFrequency;
-import it.disco.unimib.labeller.index.SpecificNamespace;
+import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.SimpleOccurrences;
 
 import java.util.List;
 
@@ -28,13 +25,15 @@ public class EvidenceTest {
 
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
+		RAMDirectory directory = new RAMDirectory();
+		
 		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
 																		.withSubject("http://paris")
 																		.withLiteral("the city of paris")
 																		.asTriple())
 															.closeWriter();
 		
-		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
+		new Evidence(directory, new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withPredicate("http://hasCapital")
@@ -42,34 +41,22 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("city", "any").get(0).value(), equalTo("http://hasCapital"));
-	}
-	
-	@Test
-	public void shouldIndexTheLabelOfTheObjectIfTheOIbjectIsNotALiteralAndKnowledgeBaseIsYago() throws Exception {
-		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
-																		.withSubject("http://paris")
-																		.withLiteral("the city of paris")
-																		.asTriple())
-															.closeWriter();
+		GroupBySearch search = new GroupBySearch(directory, new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
-		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
-							.add(new TripleBuilder()
-										.withSubject("http://france")
-										.withPredicate("http://hasCapital")
-										.withLiteral("http://paris")
-										.asTriple())
-							.closeWriter();
-		
-		assertThat(index.get("city", "any").get(0).value(), equalTo("hasCapital"));
+		assertThat(search.get("city", "any", new NoContext(new AllValues())).get(0).value(), equalTo("http://hasCapital"));
 	}
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
-		Evidence index = new Evidence(new RAMDirectory(), new EntityValues(new RAMDirectory()).closeWriter(), new EntityValues(new RAMDirectory()).closeWriter(), new RankByFrequency(), new NoContext(new AllValues()), yago)
+		RAMDirectory directory = new RAMDirectory();
+		new Evidence(directory, 
+								new EntityValues(new RAMDirectory()).closeWriter(), 
+								new EntityValues(new RAMDirectory()).closeWriter(), 
+								yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		CandidateResource searchResult = index.get("literal", "any").get(0);
+		CandidateResource searchResult = new GroupBySearch(directory, new SimpleOccurrences(), yago)
+										.get("literal", "any", new NoContext(new AllValues())).get(0);
 		
 		assertThat(searchResult.value(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
@@ -80,7 +67,8 @@ public class EvidenceTest {
 		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("the type label").asTriple()).closeWriter();
 		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Evidence dbpediaIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), dbpedia)
+		RAMDirectory dbpediaDirectory = new RAMDirectory();
+		new Evidence(dbpediaDirectory, types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -93,7 +81,11 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		Evidence yagoIndex = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new NoContext(new AllValues()), yago)
+		List<CandidateResource> results = new GroupBySearch(dbpediaDirectory, new SimpleOccurrences(), dbpedia).get("literal", "type", new PartialContext(new AllValues()));
+		
+		assertThat(results.get(0).value(), equalTo("http://property"));
+		
+		new Evidence(new RAMDirectory(), types, labels, yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -106,31 +98,9 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(dbpediaIndex.get("literal", "type").get(0).value(), equalTo("http://property"));
-		assertThat(yagoIndex.get("literal", "type").get(0).value(), equalTo("property"));
-	}
-	
-	@Test
-	public void shouldGroupByPredicate() throws Exception {
-		Evidence index = new Evidence(new RAMDirectory(), 
-										 new EntityValues(new RAMDirectory()).closeWriter(), 
-										 new EntityValues(new RAMDirectory()).closeWriter(),
-										 new RankByFrequency(), new NoContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
-							.add(new TripleBuilder()
-										.withPredicate("http://property")
-										.withLiteral("the literal")
-										.asTriple())
-							.add(new TripleBuilder()
-										.withPredicate("http://property")
-										.withLiteral("another literal")
-										.asTriple())
-							.add(new TripleBuilder()
-										.withPredicate("http://another_property")
-										.withLiteral("another literal")
-										.asTriple())
-						    .closeWriter();
+		results = new GroupBySearch(dbpediaDirectory, new SimpleOccurrences(), yago).get("literal", "type", new PartialContext(new AllValues()));
 		
-		assertThat(index.get("literal", "any"), hasSize(2));
+		assertThat(results.get(0).value(), equalTo("property"));
 	}
 	
 	@Test
@@ -138,7 +108,9 @@ public class EvidenceTest {
 		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://type").withLiteral("plural types").asTriple()).closeWriter();
 		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
-		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new CompleteContext(new AllValues()), new IndexFields("anyKnowledgeBase"))
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, types, labels, new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withPredicate("http://property")
@@ -146,28 +118,6 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(index.get("literals", "type"), hasSize(1));
-	}
-	
-	@Test
-	public void shouldBeRobustToSpecialCharacters() throws Exception {
-		
-		new Evidence(new RAMDirectory(), null, null, null, new NoContext(new AllValues()), new IndexFields("anyKnowledgeBase")).closeWriter().get("a query with a special & character!", "any");
-	}
-	
-	@Test
-	public void shouldIndexAndFilterByNamespace() throws Exception {
-		EntityValues types = new EntityValues(new RAMDirectory()).closeWriter();
-		EntityValues labels = new EntityValues(new RAMDirectory()).closeWriter();
-		Evidence index = new Evidence(new RAMDirectory(), types, labels, new RankByFrequency(), new SpecificNamespace("http://namespace/", new NoContext(new AllValues())), new IndexFields("anyKnowledgeBase"))
-								.add(new TripleBuilder()
-											.withPredicate("http://namespace/property")
-											.withLiteral("value")
-											.asTriple())
-								.closeWriter();
-		
-		List<CandidateResource> results = index.get("value", "any");
-		
-		assertThat(results, is(not(empty())));
+		assertThat(new GroupBySearch(directory, new SimpleOccurrences(), dbpedia).get("literals", "type", new PartialContext(new AllValues())), hasSize(1));
 	}
 }

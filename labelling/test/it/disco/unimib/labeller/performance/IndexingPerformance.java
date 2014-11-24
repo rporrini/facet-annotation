@@ -1,12 +1,10 @@
 package it.disco.unimib.labeller.performance;
 
 import it.disco.unimib.labeller.index.AcceptAll;
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.Triples;
 import it.disco.unimib.labeller.unit.TemporaryDirectory;
 
@@ -37,8 +35,6 @@ public class IndexingPerformance extends AbstractBenchmark{
 		predicates = new Evidence(new NIOFSDirectory(indexDirectory.get()), 
 											types, 
 											labels,
-											null, 
-											new NoContext(new AllValues()),
 											new IndexFields("dbpedia"));
 	}
 	

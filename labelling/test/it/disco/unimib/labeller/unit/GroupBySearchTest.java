@@ -10,7 +10,6 @@ import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 
 import org.apache.lucene.store.Directory;
@@ -36,8 +35,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
-									new RankByFrequency(),
-									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
@@ -53,8 +50,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
-									new RankByFrequency(),
-									new NoContext(new AllValues()),
 									new IndexFields("dbpedia-with-labels"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
@@ -70,8 +65,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
-									new RankByFrequency(),
-									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
@@ -105,8 +98,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 									types,
 									labels,
-									new RankByFrequency(),
-									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
@@ -140,8 +131,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 						new EntityValues(new RAMDirectory()).closeWriter(), 
 						new EntityValues(new RAMDirectory()).closeWriter(),
-						null,
-						null,
 						new IndexFields("dbpedia"))
 					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("the value").asTriple())
 					.closeWriter();
@@ -159,8 +148,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 						new EntityValues(new RAMDirectory()).closeWriter(), 
 						new EntityValues(new RAMDirectory()).closeWriter(),
-						null,
-						null,
 						fields)
 					.add(new TripleBuilder().withPredicate("http://yago1#the_predicate").withLiteral("the value").asTriple())
 					.closeWriter();
@@ -178,8 +165,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 						new EntityValues(new RAMDirectory()).closeWriter(), 
 						new EntityValues(new RAMDirectory()).closeWriter(),
-						null,
-						null,
 						fields)
 					.add(new TripleBuilder().withPredicate("http://dbpedia.org/property/the_predicate").withLiteral("the value").asTriple())
 					.closeWriter();
@@ -196,8 +181,6 @@ public class GroupBySearchTest {
 		new Evidence(directory, 
 						new EntityValues(new RAMDirectory()).closeWriter(), 
 						new EntityValues(new RAMDirectory()).closeWriter(),
-						null,
-						null,
 						new IndexFields("dbpedia"))
 					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("first value").asTriple())
 					.add(new TripleBuilder().withPredicate("the_predicate").withLiteral("first value").asTriple())

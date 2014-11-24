@@ -13,7 +13,6 @@ import it.disco.unimib.labeller.index.GroupBySearch;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.RankByFrequency;
 import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
@@ -179,8 +178,6 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		new Evidence(directory, 
 									types,
 									labels,
-									new RankByFrequency(),
-									new NoContext(new AllValues()),
 									new IndexFields("dbpedia"))
 										.add(new TripleBuilder().withSubject("http://a_subject")
 																.withPredicate("http://predicate")
