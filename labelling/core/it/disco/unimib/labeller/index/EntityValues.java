@@ -23,7 +23,7 @@ import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-public class EntityValues implements TripleStore{
+public class EntityValues implements ReadAndWriteStore{
 
 	private IndexWriter writer;
 	private Directory directory;

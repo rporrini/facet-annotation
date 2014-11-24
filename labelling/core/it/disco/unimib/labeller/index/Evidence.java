@@ -8,18 +8,26 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
-public class Evidence implements TripleStore{
+public class Evidence implements WriteStore{
 
+	private ReadAndWriteStore subjectTypes;
+	private ReadAndWriteStore subjectLabels;
+	private ReadAndWriteStore objectTypes;
+	private ReadAndWriteStore objectLabels;
+	
 	private IndexWriter writer;
 	private Directory directory;
-	private EntityValues types;
-	private EntityValues labels;
 	private IndexFields indexFields;
 
 	public Evidence(Directory directory, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
-		this.types = types;
-		this.labels = labels;
+		
+		this.subjectTypes = new CachedStore(types, 100);
+		this.subjectLabels = new CachedStore(labels, 100);
+		
+		this.objectTypes = types;
+		this.objectLabels = labels;
+		
 		this.indexFields = fields;
 	}
 	
@@ -28,16 +36,16 @@ public class Evidence implements TripleStore{
 		
 		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(CandidateResource label : this.labels.get(triple.object())){
+		for(CandidateResource label : this.objectLabels.get(triple.object())){
 			value += " " + label.value();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
-		for(CandidateResource type : this.types.get(triple.object())){
+		for(CandidateResource type : this.objectTypes.get(triple.object())){
 			document.add(new Field(indexFields.objectType(), type.value(), TextField.TYPE_STORED));
 		}
 		String context = "";
-		for(CandidateResource type : this.types.get(triple.subject())){
-			for(CandidateResource label : this.labels.get(type.value())){
+		for(CandidateResource type : this.subjectTypes.get(triple.subject())){
+			for(CandidateResource label : this.subjectLabels.get(type.value())){
 				context += " " + label.value();
 			}
 			document.add(new Field(indexFields.subjectType(), type.value(), TextField.TYPE_STORED));

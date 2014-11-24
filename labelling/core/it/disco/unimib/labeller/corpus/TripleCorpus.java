@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.corpus;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.NTriple;
-import it.disco.unimib.labeller.index.TripleStore;
+import it.disco.unimib.labeller.index.WriteStore;
 
 import java.io.StringReader;
 import java.util.ArrayList;
@@ -14,7 +14,7 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 
-public class TripleCorpus implements TripleStore{
+public class TripleCorpus implements WriteStore{
 
 	private OutputFile file;
 	private EntityValues labels;
