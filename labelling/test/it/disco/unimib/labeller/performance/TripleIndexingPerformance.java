@@ -19,7 +19,7 @@ import com.carrotsearch.junitbenchmarks.AbstractBenchmark;
 import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
 
 @BenchmarkOptions(benchmarkRounds = 2, warmupRounds = 0, concurrency=2)
-public class IndexingPerformance extends AbstractBenchmark{
+public class TripleIndexingPerformance extends AbstractBenchmark{
 
 	private static TemporaryDirectory indexDirectory;
 	private static Evidence predicates;

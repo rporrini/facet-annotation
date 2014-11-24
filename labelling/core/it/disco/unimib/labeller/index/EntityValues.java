@@ -76,7 +76,8 @@ public class EntityValues implements ReadAndWriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception {
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, new KeywordAnalyzer()).setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, new KeywordAnalyzer())
+						.setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}

@@ -24,13 +24,14 @@ public class CachedStore implements ReadAndWriteStore{
 
 	@Override
 	public synchronized List<CandidateResource> get(String entity) throws Exception {
-		if(!cache.containsKey(entity)){
-			List<CandidateResource> results = store.get(entity);
-			if(cache.size() >= maxSize){
-				cache.remove(cache.keySet().iterator().next());
-			}
-			cache.put(entity, results);
+		List<CandidateResource> cachedResults = cache.get(entity);
+		if(cachedResults != null) return cachedResults;
+		
+		List<CandidateResource> results = store.get(entity);
+		if(cache.size() >= maxSize){
+			cache.remove(cache.keySet().iterator().next());
 		}
-		return cache.get(entity);
+		cache.put(entity, results);
+		return results;
 	}
 }
