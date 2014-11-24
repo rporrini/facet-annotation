@@ -20,9 +20,8 @@ import org.junit.Test;
 import com.carrotsearch.junitbenchmarks.AbstractBenchmark;
 import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
 
-@BenchmarkOptions(benchmarkRounds = 10, warmupRounds = 0, concurrency=2)
+@BenchmarkOptions(benchmarkRounds = 4, warmupRounds = 0, concurrency=2)
 public class IndexingPerformance extends AbstractBenchmark{
-
 
 	private static TemporaryDirectory indexDirectory;
 	private static Evidence predicates;
@@ -45,11 +44,12 @@ public class IndexingPerformance extends AbstractBenchmark{
 	
 	@AfterClass
 	public static void tearDown() throws Exception{
+		predicates.closeWriter();
 		indexDirectory.delete();
 	}
 	
 	@Test
-	public void shouldBeExecuted() throws Exception {
+	public void indexSampleFile() throws Exception {
 		
 		new Triples(new InputFile(new File("test/it/disco/unimib/labeller/performance/properties.nt"))).fill(predicates, new AcceptAll());
 	}
