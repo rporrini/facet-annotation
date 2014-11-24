@@ -1,0 +1,1000 @@
+# started 2013-08-04T10:58:57Z
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/diseasesdb> "1142"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/icd9> "299.00"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/omim> "209850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/medlineplus> "001526"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/emedicineSubject> "med"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/emedicineTopic> "3202"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/ontology/meshId> "D001321"@en .
+<http://dbpedia.org/resource/Autism> <http://xmlns.com/foaf/0.1/name> "Autism"@en .
+<http://dbpedia.org/resource/Aristotle> <http://xmlns.com/foaf/0.1/name> "Aristotle"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/birthYear> "-0384"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/deathYear> "-0322"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/Ancient_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/philosophicalSchool> <http://dbpedia.org/resource/Peripatetic_school> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/philosophicalSchool> <http://dbpedia.org/resource/Aristotelianism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Metaphysics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Poetry> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Theatre> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Music> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Rhetoric> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Politics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Government> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Ethics> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Biology> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Zoology> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Golden_mean_(philosophy)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Term_logic> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Syllogism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Hexis> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Hylomorphism> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/On_the_Soul> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Parmenides> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Socrates> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Plato> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Heraclitus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Democritus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Alexander_the_Great> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Cicero> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Avicenna> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Averroes> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Maimonides> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Albertus_Magnus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Thomas_Aquinas> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Duns_Scotus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Ptolemy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Nicolaus_Copernicus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Galileo_Galilei> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Islamic_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jewish_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Christian_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Science> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/List_of_writers_influenced_by_Aristotle> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Alabama> <http://xmlns.com/foaf/0.1/name> "State of Alabama"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/demonym> "Alabamian"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/English_American> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Montgomery,_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Birmingham,_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/areaTotal> "1.35765E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/areaLand> "1.31426E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/areaWater> "4.338E9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/maximumElevation> "735.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/ontology/minimumElevation> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/otherParty> <http://dbpedia.org/resource/Whig_Party_(United_States)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://xmlns.com/foaf/0.1/name> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/birthDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hodgenville,_Kentucky> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Petersen_House_(Washington,_D.C.)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Washington,_D.C.> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Lincoln_Tomb> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Oak_Ridge_Cemetery> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Springfield,_Illinois> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/National_Union_Party_(United_States)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Mary_Todd_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Robert_Todd_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Edward_Baker_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/William_Wallace_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Tad_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/serviceStartYear> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/serviceEndYear> "1832"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/militaryRank> <http://dbpedia.org/resource/Captain_(United_States)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Black_Hawk_War> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Andrew_Johnson> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Thomas_L._Harris> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/office> "16th President of the United States"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/activeYearsStartDate> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/activeYearsStartDate> "1847-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/activeYearsEndDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/activeYearsEndDate> "1849-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Hannibal_Hamlin> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/vicePresident> <http://dbpedia.org/resource/Andrew_Johnson> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois's_7th_congressional_district> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Abraham_Lincoln__1> .
+<http://dbpedia.org/resource/Abraham_Lincoln__1> <http://dbpedia.org/ontology/activeYearsStartDate> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln__1> <http://dbpedia.org/ontology/activeYearsEndDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln__1> <http://dbpedia.org/ontology/office> "16th President of the United States"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/ontology/termPeriod> <http://dbpedia.org/resource/Abraham_Lincoln__2> .
+<http://dbpedia.org/resource/Abraham_Lincoln__2> <http://dbpedia.org/ontology/activeYearsStartDate> "1847-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln__2> <http://dbpedia.org/ontology/activeYearsEndDate> "1849-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Ventura_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Ventura_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Ventura_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Josep_Maria_Benet_i_Jornet> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/N%C3%BAria_Espert> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Rosa_Maria_Sard%C3%A0> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Anna_Lizaran> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Merc%C3%A8_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Carles_Cases> .
+<http://dbpedia.org/resource/Actrius> <http://xmlns.com/foaf/0.1/name> "Actrius"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/runtime> "5400.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Catalan_language> .
+<http://dbpedia.org/resource/Academy_Award> <http://xmlns.com/foaf/0.1/name> "The Oscars"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://xmlns.com/foaf/0.1/name> "Academy Award for Best Production Design"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://xmlns.com/foaf/0.1/name> "Allan Dwan"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/birthDate> "1885-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/birthYear> "1885"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Toronto> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Canada> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/deathDate> "1981-12-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/deathYear> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_producer> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Screenwriter> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Allan_Dwan__1> .
+<http://dbpedia.org/resource/Allan_Dwan__1> <http://dbpedia.org/ontology/title> "Film director"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Allan_Dwan__2> .
+<http://dbpedia.org/resource/Allan_Dwan__2> <http://dbpedia.org/ontology/title> "Film producer"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Allan_Dwan__3> .
+<http://dbpedia.org/resource/Allan_Dwan__3> <http://dbpedia.org/ontology/title> "Screenwriter"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/activeYearsStartYear> "1911"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/activeYearsEndYear> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Pauline_Bush_(actress)> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Fountainhead> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Atlas_Shrugged> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://xmlns.com/foaf/0.1/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/pseudonym> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthName> "Alisa Zinov'yevna Rosenbaum"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthDate> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Saint_Petersburg> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/deathDate> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/New_York_City> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/ethnicity> <http://dbpedia.org/resource/History_of_the_Jews_in_Russia> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Kensico_Cemetery> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Valhalla,_New_York> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/activeYearsStartYear> "1934"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/activeYearsEndYear> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://www.w3.org/2004/02/skos/core#subject> <http://dbpedia.org/resource/Philosophy> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Saint_Petersburg_State_University> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Aristotle> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Thomas_Aquinas> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/John_Locke> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Carl_Menger> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Ludwig_von_Mises> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Fyodor_Dostoyevsky> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/O._Henry> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Victor_Hugo> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/H._L._Mencken> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Friedrich_Nietzsche> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Isabel_Paterson> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Objectivist_movement> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/List_of_people_influenced_by_Ayn_Rand> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/doctoralAdvisor> <http://dbpedia.org/resource/Jacques_Dixmier> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Benjamin_Enriquez> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Georges_Skandalis> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/doctoralStudent> <http://dbpedia.org/resource/Alain_Valette> .
+<http://dbpedia.org/resource/Alain_Connes> <http://xmlns.com/foaf/0.1/name> "Alain Connes"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/birthDate> "1947-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Draguignan> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/France> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/%C3%89cole_Normale_Sup%C3%A9rieure> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Baum%E2%80%93Connes_conjecture> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Noncommutative_geometry> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Operator_algebra> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Fields_Medal> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Crafoord_Prize> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/French_National_Centre_for_Scientific_Research> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Kassaman> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Moufdi_Zakaria> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Semi-presidential_system> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Algerian_dinar> .
+<http://dbpedia.org/resource/Algeria> <http://xmlns.com/foaf/0.1/name> "\u0627\u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0627\u0644\u062C\u0632\u0627\u0626\u0631\u064A\u0629 \u0627\u0644\u062F\u064A\u0645\u0642\u0631\u0627\u0637\u064A\u0629 \u0627\u0644\u0634\u0639\u0628\u064A\u0629 (Arabic)"@en .
+<http://dbpedia.org/resource/Algeria> <http://xmlns.com/foaf/0.1/name> "Tagduda Tadzayrit Tamagdayt Ta\u0263erfant (Berber)"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/longName> "People's Democratic Republic of Algeria"@en .
+<http://dbpedia.org/resource/Algeria> <http://xmlns.com/foaf/0.1/name> "Algeria"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Algiers> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Arabic_language> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Arabic_language> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/demonym> "Algerian"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Abdelaziz_Bouteflika> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Abdelmalek_Sellal> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/foundingDate> "1962-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/foundingDate> "1962-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/areaTotal> "2.381741E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/areaTotal> "2.381740116324434E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/populationDensity> "14.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/ontology/populationDensity> "14.6332718087587"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "36.7"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Algeria> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "3.216666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Algeria> <http://www.georss.org/georss/point> "36.7 3.216666666666667"@en .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/plays> "Right-handed (two-handed backhand)"@en .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/careerPrizeMoney> "3.1152975E7"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Las_Vegas> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Nevada> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/birthDate> "1970-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Las_Vegas> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Nevada> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/height> "1.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/weight> "80000.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andre_Agassi> <http://dbpedia.org/ontology/activeYearsEndDate> "2006-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Animal_Farm> <http://xmlns.com/foaf/0.1/name> "Animal Farm"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://xmlns.com/foaf/0.1/name> "Animal Farm: A Fairy Story"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/George_Orwell> .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Harvill_Secker> .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/numberOfPages> "112"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/isbn> "ISBN 0-452-28424-4 (present) ISBN 978-0-452-28424-1"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/oclc> "53163540"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/dcc> "823/.912 20"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/lcc> "PR6029.R8 A63 2003b"@en .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/The_Lion_and_the_Unicorn:_Socialism_and_the_English_Genius> .
+<http://dbpedia.org/resource/Animal_Farm> <http://dbpedia.org/ontology/subsequentWork> <http://dbpedia.org/resource/Nineteen_Eighty-Four> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/longName> "Principality of Andorra"@en .
+<http://dbpedia.org/resource/Andorra> <http://xmlns.com/foaf/0.1/name> "Andorra"@en .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Andorra_la_Vella> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Catalan_language> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Catalan_language> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/ethnicGroup> <http://dbpedia.org/resource/List_of_Andorrans> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/ethnicGroup> <http://dbpedia.org/resource/Spanish_people> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/ethnicGroup> <http://dbpedia.org/resource/Portuguese_people> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/ethnicGroup> <http://dbpedia.org/resource/French_people> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/demonym> "Andorran"@en .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderTitle> "Co-Princes"@en .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Joan_Enric_Vives_Sic%C3%ADlia> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Fran%C3%A7ois_Hollande> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderTitle> "Representatives"@en .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Josep_Maria_Mauri> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Sylvie_Hubac> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister"@en .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Antoni_Mart%C3%AD> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/areaTotal> "4.6763E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/areaTotal> "4.676223533211648E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/percentageOfAreaWater> "0.26"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/populationDensity> "179.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andorra> <http://dbpedia.org/ontology/populationDensity> "179.80777523321706"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Andorra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Andorra> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "42.5"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Andorra> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "1.5166666666666666"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Andorra> <http://www.georss.org/georss/point> "42.5 1.5166666666666666"@en .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Brave_New_World> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Island_(novel)> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Point_Counter_Point> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Doors_of_Perception> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/The_Perennial_Philosophy> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://xmlns.com/foaf/0.1/name> "Aldous Huxley"@en .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/birthName> "Aldous Leonard Huxley"@en .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/birthDate> "1894-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Godalming> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Surrey> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/deathDate> "1963-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Compton,_Guildford> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Surrey> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Swami_Prabhavananda> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Jiddu_Krishnamurti> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/F._Matthias_Alexander> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Michel_de_Montaigne> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Yevgeny_Zamyatin> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/William_Blake> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Charles_Dickens> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Thomas_Robert_Malthus> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Vilfredo_Pareto> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/H._G._Wells> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Matthew_Arnold> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Thomas_Traherne> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/William_Law> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Gerald_Heard> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/D._H._Lawrence> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Christopher_Isherwood> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Michel_Houellebecq> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Jim_Morrison> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/George_Orwell> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Huston_Smith> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Kurt_Vonnegut> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Margaret_Atwood> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Leon_Kass> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Christopher_Hitchens> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Thomas_Merton> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Cyril_Connolly> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Gerald_Heard> .
+<http://dbpedia.org/resource/Aldous_Huxley> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Isaiah_Berlin> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Alaska> <http://xmlns.com/foaf/0.1/name> "State of Alaska"@en .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/demonym> "Alaskan"@en .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Juneau,_Alaska> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Anchorage,_Alaska> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/areaTotal> "1.717854E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/areaLand> "1.481346E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/areaWater> "2.36507E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/maximumElevation> "6194.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alaska> <http://dbpedia.org/ontology/minimumElevation> "0.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/America_the_Beautiful> <http://dbpedia.org/ontology/writer> <http://dbpedia.org/resource/Katharine_Lee_Bates> .
+<http://dbpedia.org/resource/America_the_Beautiful> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Samuel_A._Ward> .
+<http://dbpedia.org/resource/America_the_Beautiful> <http://xmlns.com/foaf/0.1/name> "America the Beautiful"@en .
+<http://dbpedia.org/resource/America_the_Beautiful> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Patriotic_song> .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://xmlns.com/foaf/0.1/name> "American National Standards Institute"@en .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://dbpedia.org/ontology/abbreviation> "ANSI"@en .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://dbpedia.org/ontology/purpose> "National standards"@en .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Washington,_D.C.> .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://dbpedia.org/ontology/membership> "125,000 companies and 3.5 million professionals"@en .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/English_language> .
+<http://dbpedia.org/resource/American_National_Standards_Institute> <http://xmlns.com/foaf/0.1/homepage> <http://www.ansi.org/> .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://xmlns.com/foaf/0.1/name> "A Modest Proposal"@en .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Jonathan_Swift> .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Kingdom_of_Great_Britain> .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/English_language> .
+<http://dbpedia.org/resource/A_Modest_Proposal> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Satire> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/commandModule> "CM-103"@en .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/serviceModule> "SM-103"@en .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/lunarModule> "Ballast: LM Test Article B"@en .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/booster> <http://dbpedia.org/resource/Saturn_V> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/callSign> "Apollo 8"@en .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/crewSize> "3"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/launchPad> <http://dbpedia.org/resource/Kennedy_Space_Center_Launch_Complex_39> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/launchDate> "1968-12-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/lunarOrbitTime> "72613.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/missionDuration> "529242.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/previousMission> <http://dbpedia.org/resource/Apollo_7> .
+<http://dbpedia.org/resource/Apollo_8> <http://dbpedia.org/ontology/nextMission> <http://dbpedia.org/resource/Apollo_9> .
+<http://dbpedia.org/resource/Apollo_8> <http://xmlns.com/foaf/0.1/name> "Apollo 8"@en .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/commandModule> "CM-107. Mass"@en .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/lunarModule> "LM-5. Mass"@en .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/booster> <http://dbpedia.org/resource/Saturn_V> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/callSign> "CSM: Columbia. LM: Eagle in-flight; Tranquility Base on lunar surface"@en .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/crewSize> "3"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/launchPad> <http://dbpedia.org/resource/Kennedy_Space_Center_Launch_Complex_39> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/launchDate> "1969-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/lunarEvaTime> "9400.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/lunarSurfaceTime> "77781.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/lunarSampleMass> "21546.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/lunarOrbitTime> "214225.79"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/landingDate> "1969-07-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/missionDuration> "703115.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/crewMember> <http://dbpedia.org/resource/Neil_Armstrong> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/crewMember> <http://dbpedia.org/resource/Michael_Collins_(astronaut)> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/crewMember> <http://dbpedia.org/resource/Buzz_Aldrin> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/previousMission> <http://dbpedia.org/resource/Apollo_10> .
+<http://dbpedia.org/resource/Apollo_11> <http://dbpedia.org/ontology/nextMission> <http://dbpedia.org/resource/Apollo_12> .
+<http://dbpedia.org/resource/Apollo_11> <http://xmlns.com/foaf/0.1/name> "Apollo 11"@en .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://xmlns.com/foaf/0.1/name> "Andrei Tarkovsky"@en .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/birthDate> "1932-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/birthYear> "1932"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Soviet_Union> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/deathDate> "1986-12-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/deathYear> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Andrei_Tarkovsky__1> .
+<http://dbpedia.org/resource/Andrei_Tarkovsky__1> <http://dbpedia.org/ontology/title> "Film director"@en .
+<http://dbpedia.org/resource/Andrei_Tarkovsky> <http://dbpedia.org/ontology/activeYearsStartYear> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/kingdom> <http://dbpedia.org/resource/Animal> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/phylum> <http://dbpedia.org/resource/Chordate> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/class> <http://dbpedia.org/resource/Mammal> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/order> <http://dbpedia.org/resource/Carnivora> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/family> <http://dbpedia.org/resource/Hyena> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/binomialAuthority> <http://dbpedia.org/resource/Anders_Erikson_Sparrman> .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/conservationStatus> "LC"@en .
+<http://dbpedia.org/resource/Aardwolf> <http://dbpedia.org/ontology/conservationStatusSystem> "IUCN3.1"@en .
+<http://dbpedia.org/resource/Aardwolf> <http://xmlns.com/foaf/0.1/name> "Aardwolf"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Aruba_Dushi_Tera> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Aruban_florin> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/longName> "Aruba"@en .
+<http://dbpedia.org/resource/Aruba> <http://xmlns.com/foaf/0.1/name> "Aruba"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Oranjestad,_Aruba> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/demonym> "Aruban"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderTitle> "Monarch"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Beatrix_of_the_Netherlands> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderTitle> "Governor General"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Fredis_Refunjol> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister"@en .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Mike_Eman> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/foundingDate> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/areaTotal> "1.7891E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/areaTotal> "1.78709179613184E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/populationDensity> "567.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Aruba> <http://dbpedia.org/ontology/populationDensity> "567.5701730573954"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "12.516666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Aruba> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "-70.03333333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Aruba> <http://www.georss.org/georss/point> "12.516666666666667 -70.03333333333333"@en .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://xmlns.com/foaf/0.1/name> "Arthur Schopenhauer"@en .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/birthDate> "1788-02-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/birthYear> "1788"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Gda%C5%84sk> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/deathDate> "1860-09-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/deathYear> "1860"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Frankfurt> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/era> <http://dbpedia.org/resource/19th-century_philosophy> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/philosophicalSchool> <http://dbpedia.org/resource/Immanuel_Kant> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/philosophicalSchool> <http://dbpedia.org/resource/German_idealism> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Metaphysics> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Aesthetics> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Ethics> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Phenomenology_(philosophy)> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Morality> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/mainInterest> <http://dbpedia.org/resource/Psychology> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Will_(philosophy)> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/On_the_Fourfold_Root_of_the_Principle_of_Sufficient_Reason> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/notableIdea> <http://dbpedia.org/resource/Pessimism> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Giordano_Bruno> .
+<http://dbpedia.org/resource/Arthur_Schopenhauer> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Samuel_Beckett> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/ethnicGroupsInYear> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Angolan_kwanza> .
+<http://dbpedia.org/resource/Angola> <http://xmlns.com/foaf/0.1/name> "Rep\u00FAblica de Angola"@en .
+<http://dbpedia.org/resource/Angola> <http://xmlns.com/foaf/0.1/name> "Repubilika ya Ngola"@en .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/longName> "Republic of Angola"@en .
+<http://dbpedia.org/resource/Angola> <http://xmlns.com/foaf/0.1/name> "Angola"@en .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Luanda> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Portuguese_language> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Portuguese_language> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/demonym> "Angolan"@en .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/leaderTitle> "Vice President"@en .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Manuel_Vicente> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/foundingDate> "1975-11-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/areaTotal> "1.2467E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/areaTotal> "1.246701136862675E12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/populationDensity> "14.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Angola> <http://dbpedia.org/ontology/populationDensity> "14.826322888029923"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Angola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Angola> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "-8.833333333333334"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Angola> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "13.333333333333334"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Angola> <http://www.georss.org/georss/point> "-8.833333333333334 13.333333333333334"@en .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Angola> .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://xmlns.com/foaf/0.1/name> "Angolan Armed Forces"@en .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://xmlns.com/foaf/0.1/name> "For\u00E7as Armadas Angolanas"@en .
+<http://dbpedia.org/resource/Angolan_Armed_Forces> <http://dbpedia.org/ontology/ageRange> "17"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://xmlns.com/foaf/0.1/name> "Albert Sidney Johnston"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/allegiance> "United States of America"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/allegiance> "Republic of Texas"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/allegiance> "Confederate States of America"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/serviceStartYear> "1826"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/serviceEndYear> "1826"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/militaryCommand> "Department of the Pacific (USA)"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/militaryCommand> "Army of Central Kentucky (CSA)"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/militaryCommand> "Army of Mississippi (CSA)"@en .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Black_Hawk_War> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Texas_Revolution> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Mexican%E2%80%93American_War> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Monterrey> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Buena_Vista> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Utah_War> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/American_Civil_War> .
+<http://dbpedia.org/resource/Albert_Sidney_Johnston> <http://dbpedia.org/ontology/battle> <http://dbpedia.org/resource/Battle_of_Shiloh> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/doctoralAdvisor> <http://dbpedia.org/resource/Alfred_Kleiner> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/academicAdvisor> <http://dbpedia.org/resource/Heinrich_Friedrich_Weber> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://xmlns.com/foaf/0.1/name> "Albert Einstein"@en .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthDate> "1879-03-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ulm> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Kingdom_of_W%C3%BCrttemberg> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/German_Empire> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/deathDate> "1955-04-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Princeton,_New_Jersey> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Switzerland> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Mileva_Mari%C4%87> .
+<http://dbpedia.org/resource/Albert_Einstein> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Physics> .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://xmlns.com/foaf/0.1/name> "Algorithms"@en .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/academicDiscipline> <http://dbpedia.org/resource/Computer_science> .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/abbreviation> "Entropy"@en .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/MDPI> .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/frequencyOfPublication> "Quarterly issues,"@en .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/firstPublicationYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/openAccessContent> "Yes"@en .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://xmlns.com/foaf/0.1/homepage> <http://www.mdpi.com/journal/algorithms> .
+<http://dbpedia.org/resource/Algorithms_(journal)> <http://dbpedia.org/ontology/issn> "1999-4893"@en .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Albanian_lek> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/longName> "Republic of Albania"@en .
+<http://dbpedia.org/resource/Albania> <http://xmlns.com/foaf/0.1/name> "Albania"@en .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Tirana> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Albanian_language> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Albanian_language> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Bujar_Nishani> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister"@en .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Sali_Berisha> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderTitle> "Speaker of the Parliament"@en .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Jozefina_Topalli> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/foundingDate> "1444-03-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/areaTotal> "2.8748E10"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/areaTotal> "2.87488680247296E10"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/percentageOfAreaWater> "4.7"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/populationDensity> "98.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Albania> <http://dbpedia.org/ontology/populationDensity> "96.9541130315936"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Albania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Albania> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "41.333333333333336"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Albania> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "19.8"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Albania> <http://www.georss.org/georss/point> "41.333333333333336 19.8"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/anthem> <http://dbpedia.org/resource/Afghan_National_Anthem> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Islamic_republic> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Afghan_afghani> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/longName> "Islamic Republic of Afghanistan"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://xmlns.com/foaf/0.1/name> "Afghanistan"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Kabul> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/largestCity> <http://dbpedia.org/resource/Kabul> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/demonym> "Afghan"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Hamid_Karzai> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderTitle> "Vice Presidents"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderTitle> "Chief Justice"@en .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Abdul_Salam_Azimi> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/foundingDate> "1919-08-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/areaTotal> "6.475E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/areaTotal> "6.520864865155154E11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/populationDensity> "43.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Afghanistan> <http://dbpedia.org/ontology/populationDensity> "43.16622132504545"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Afghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Afghanistan> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "34.53333333333333"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Afghanistan> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "69.13333333333334"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Afghanistan> <http://www.georss.org/georss/point> "34.53333333333333 69.13333333333334"@en .
+<http://dbpedia.org/resource/Abortion> <http://dbpedia.org/ontology/diseasesdb> "4153"@en .
+<http://dbpedia.org/resource/Abortion> <http://dbpedia.org/ontology/medlineplus> "002912"@en .
+<http://dbpedia.org/resource/Abortion> <http://dbpedia.org/ontology/emedicineSubject> "article"@en .
+<http://dbpedia.org/resource/Abortion> <http://dbpedia.org/ontology/emedicineTopic> "252560"@en .
+<http://dbpedia.org/resource/Abortion> <http://xmlns.com/foaf/0.1/name> "Induced abortion"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Dominant-party_system> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Azerbaijani_manat> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/longName> "Republic of Azerbaijan"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://xmlns.com/foaf/0.1/name> "Azerbaijan"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Baku> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Azerbaijani_language> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Azerbaijani_language> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/demonym> "Azerbaijani"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/leaderTitle> "President"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Ilham_Aliyev> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/leaderTitle> "Prime Minister"@en .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Artur_Rasizade> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/areaTotal> "8.66E10"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/areaTotal> "8.659884245719449E10"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/percentageOfAreaWater> "1.6"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/populationDensity> "105.8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Azerbaijan> <http://dbpedia.org/ontology/populationDensity> "105.83060165648442"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Azerbaijan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Azerbaijan> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "40.416666666666664"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Azerbaijan> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "49.833333333333336"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Azerbaijan> <http://www.georss.org/georss/point> "40.416666666666664 49.833333333333336"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Gibraltar> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Balearic_Islands> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/French_people> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Indian_subcontinent> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Caribbean_Sea> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Atlantic_Ocean> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/East_Florida> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/West_Florida> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/Minorca> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/Tobago> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/Senegal> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/territory> <http://dbpedia.org/resource/Nagapattinam> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/result> "Peace of Paris"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/result> "* American Independence"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "France (1778\u201383)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Spain (1779\u201383)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "(1780\u201383)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "----"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Co-belligerents:"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Mysore (1779\u201384)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Vermont (1777\u201383)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Oneida"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Tuscarora"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Watauga Association"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Catawba"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Lenape"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "* Loyalists"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "* German auxiliaries"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "----"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Co-belligerents"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Onondaga"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Mohawk"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Cayuga"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Seneca"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/combatant> "Cherokee"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Washington> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Nathanael_Greene> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Horatio_Gates> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Richard_Montgomery> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Daniel_Morgan> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Henry_Knox> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Benedict_Arnold> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Friedrich_Wilhelm_von_Steuben> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Gilbert_du_Motier,_Marquis_de_Lafayette> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jean-Baptiste_Donatien_de_Vimeur,_comte_de_Rochambeau> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Fran%C3%A7ois_Joseph_Paul_de_Grasse> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Louis_Des_Balbes_de_Berton_de_Crillon,_duc_de_Mahon> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Pierre_Andr%C3%A9_de_Suffren_de_Saint_Tropez> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Bernardo_de_G%C3%A1lvez> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Luis_de_C%C3%B3rdova_y_C%C3%B3rdova> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Juan_de_L%C3%A1ngara> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Hyder_Ali> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Tipu_Sultan> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Military_leadership_in_the_American_Revolutionary_War> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Frederick_North,_Lord_North> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/William_Howe,_5th_Viscount_Howe> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Thomas_Gage> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Henry_Clinton_(American_War_of_Independence)> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Charles_Cornwallis,_1st_Marquess_Cornwallis> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Guy_Carleton,_1st_Baron_Dorchester> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/John_Burgoyne> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Augustus_Eliott,_1st_Baron_Heathfield> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Benedict_Arnold> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/George_Brydges_Rodney,_1st_Baron_Rodney> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Richard_Howe,_1st_Earl_Howe> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Hector_Munro,_8th_of_Novar> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Wilhelm_von_Knyphausen> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Joseph_Brant> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Military_leadership_in_the_American_Revolutionary_War> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "At Height:"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "35,000 Continentals"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "44,500 Militia"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "5,000 Continental Navy sailors (at height in 1779)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "53 ships (active service at some point during the war)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "12,000 French (in America)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "~60,000 French and Spanish (in Europe)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "At Height:"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "56,000 British"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "78 Royal Navy ships in 1775"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "171,000 Sailors"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "30,000 Germans"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "50,000 Loyalists"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/strength> "13,000 Natives"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "American: 25,000 dead"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "* 8,000 in battle"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "* 17,000 by other causes"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "Total American casualties: up to 50,000 dead and wounded"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "Allies: 6,000\u00B1 French and Spanish (in Europe)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/causalties> "2,000 French (in America)"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://xmlns.com/foaf/0.1/name> "American Revolutionary War"@en .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/date> "1775-04-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/American_Revolutionary_War> <http://dbpedia.org/ontology/date> "1783-09-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://xmlns.com/foaf/0.1/name> "Alfred Korzybski"@en .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/birthDate> "1879-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/birthYear> "1879"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Warsaw> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Vistula_Land> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/deathDate> "1950-03-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/deathYear> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Lakeville,_Connecticut> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Engineer> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Philosopher> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Mathematician> .
+<http://dbpedia.org/resource/Alfred_Korzybski> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Alfred_Korzybski__1> .
+<http://dbpedia.org/resource/Alfred_Korzybski__1> <http://dbpedia.org/ontology/title> "Engineer, philosopher, mathematician"@en .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://xmlns.com/foaf/0.1/name> "Asteroids"@en .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Atari> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Atari> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Shoot_'em_up> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Arcade_game> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Lyle_Rains> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Ed_Logg> .
+<http://dbpedia.org/resource/Asteroids_(video_game)> <http://dbpedia.org/ontology/cpu> <http://dbpedia.org/resource/MOS_Technology_6502> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://xmlns.com/foaf/0.1/name> "Alexander the Great"@en .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/title> "Basileus of Macedon, Hegemon of the Hellenic League, Shahanshah of Persia, Pharaoh of Egypt, Lord of Asia"@en .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/activeYearsStartYear> "0336"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Philip_II_of_Macedon> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Alexander_IV_of_Macedon> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Philip_III_of_Macedon> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Roxana> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Stateira_II> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Parysatis_II> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://xmlns.com/foaf/0.1/name> "Alexander III of Macedon"@en .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Philip_II_of_Macedon> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Olympias> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Pella> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Macedonia_(ancient_kingdom)> .
+<http://dbpedia.org/resource/Alexander_the_Great> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Babylon> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://xmlns.com/foaf/0.1/name> "Sir Alfred Hitchcock"@en .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/birthDate> "1899-08-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/birthYear> "1899"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Leytonstone> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/deathDate> "1980-04-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/deathYear> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/alias> "Hitch"@en .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/alias> "The Master of Suspense"@en .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Alfred_Hitchcock__1> .
+<http://dbpedia.org/resource/Alfred_Hitchcock__1> <http://dbpedia.org/ontology/title> "Film director, film producer"@en .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/activeYearsStartYear> "1921"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/birthName> "Alfred Joseph Hitchcock"@en .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Salesian_College_(London)> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/St_Ignatius'_College> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Alma_Reville> .
+<http://dbpedia.org/resource/Alfred_Hitchcock> <http://dbpedia.org/ontology/child> <http://dbpedia.org/resource/Patricia_Hitchcock> .
+<http://dbpedia.org/resource/Ankara> <http://xmlns.com/foaf/0.1/name> "Ankara"@en .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/areaTotal> "2.516E9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/leaderTitle> "Mayor"@en .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Melih_G%C3%B6k%C3%A7ek> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/leaderTitle> "Governor"@en .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/leaderParty> <http://dbpedia.org/resource/Justice_and_Development_Party_(Turkey)> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/elevation> "938.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/populationTotal> "4338620"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/populationDensity> "1551.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/populationMetro> "4965542"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/postalCode> "06xxx"@en .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/areaCode> "312"@en .
+<http://dbpedia.org/resource/Ankara> <http://xmlns.com/foaf/0.1/homepage> <http://www.ankara.bel.tr/> .
+<http://dbpedia.org/resource/Ankara> <http://xmlns.com/foaf/0.1/homepage> <http://www.ankara.gov.tr/> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Turkey> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Central_Anatolia_Region> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Ankara_Province> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/utcOffset> "+2"@en .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Eastern_European_Time> .
+<http://dbpedia.org/resource/Ankara> <http://dbpedia.org/ontology/utcOffset> "+3"@en .
+<http://dbpedia.org/resource/Ankara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Ankara> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "39.86666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Ankara> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "32.86666666666667"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Ankara> <http://www.georss.org/georss/point> "39.86666666666667 32.86666666666667"@en .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Arab_League> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Israel> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Iran> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Turkey> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Eritrea> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Mali> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Niger> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Chad> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Senegal> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/South_Sudan> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Ethiopia> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Western_world> .
+<http://dbpedia.org/resource/Arabic_language> <http://xmlns.com/foaf/0.1/name> "Arabic"@en .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/Semitic_languages> .
+<http://dbpedia.org/resource/Arabic_language> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/Central_Semitic_languages> .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Austria> .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/spokenIn> <http://dbpedia.org/resource/Italy> .
+<http://dbpedia.org/resource/Austrian_German> <http://xmlns.com/foaf/0.1/name> "Austrian German"@en .
+<http://dbpedia.org/resource/Austrian_German> <http://xmlns.com/foaf/0.1/name> "\u00D6sterreichisches Deutsch"@en .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/Germanic_languages> .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/West_Germanic_languages> .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/High_German_languages> .
+<http://dbpedia.org/resource/Austrian_German> <http://dbpedia.org/ontology/languageFamily> <http://dbpedia.org/resource/German_language> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://xmlns.com/foaf/0.1/name> "A Clockwork Orange"@en .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Anthony_Burgess> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/language> <http://dbpedia.org/resource/Nadsat> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Science_fiction> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Novella> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Satire> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Utopian_and_dystopian_fiction> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Heinemann_(publisher)> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/mediaType> <http://dbpedia.org/resource/Hardcover> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/mediaType> <http://dbpedia.org/resource/Compact_disc> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/numberOfPages> "192"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/numberOfPages> "176"^^<http://www.w3.org/2001/XMLSchema#positiveInteger> .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/isbn> "0-434-09800-0"@en .
+<http://dbpedia.org/resource/A_Clockwork_Orange> <http://dbpedia.org/ontology/oclc> "4205836"@en .
+<http://dbpedia.org/resource/Attila> <http://xmlns.com/foaf/0.1/name> "Attila"@en .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/title> "Ruler of the Hunnic Empire"@en .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/activeYearsStartYear> "0434"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/activeYearsEndYear> "0453"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Bleda> .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Rugila> .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Ellac> .
+<http://dbpedia.org/resource/Attila> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Mundzuk> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"@en .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/birthDate> "1833-10-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/birthYear> "1833"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Stockholm> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Sweden> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/deathDate> "1896-12-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/deathYear> "1896"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Sanremo> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Kingdom_of_Italy> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Dynamite> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Nobel_Prize> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Alfred_Nobel__1> .
+<http://dbpedia.org/resource/Alfred_Nobel__1> <http://dbpedia.org/ontology/title> "Chemist, engineer, innovator, armaments manufacturer and inventor"@en .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/restingPlacePosition> <http://dbpedia.org/resource/Alfred_Nobel__restingPlacePosition__1> .
+<http://dbpedia.org/resource/Alfred_Nobel__restingPlacePosition__1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Alfred_Nobel__restingPlacePosition__1> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "59.356811111111114"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alfred_Nobel__restingPlacePosition__1> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "18.01928611111111"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Alfred_Nobel__restingPlacePosition__1> <http://www.georss.org/georss/point> "59.356811111111114 18.01928611111111"@en .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/birthName> "Alfred Bernhard Nobel"@en .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Norra_Begravningsplatsen> .
+<http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/restingPlace> <http://dbpedia.org/resource/Stockholm> .
+<http://dbpedia.org/resource/Audi> <http://xmlns.com/foaf/0.1/name> "AUDI Aktiengesellschaft"@en .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Public_company> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/foundingDate> "1909-07-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/foundingYear> "1909"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/Zwickau> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/August_Horch> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Ingolstadt> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/numberOfLocations> "7"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/revenue> "4.8771E10"^^<http://dbpedia.org/datatype/euro> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/netIncome> "4.35E9"^^<http://dbpedia.org/datatype/euro> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/assets> "1.6832E10"^^<http://dbpedia.org/datatype/euro> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/equity> "3.451E9"^^<http://dbpedia.org/datatype/euro> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Volkswagen_Group> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/owningCompany> <http://dbpedia.org/resource/Volkswagen_Group> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/numberOfEmployees> "46372"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/internationally> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/production> "1466059"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/name> "Amsterdam"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/nick> "Mokum, Venice of the North"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/motto> "Heldhaftig, Vastberaden, Barmhartig"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/motto> "(Valiant, Steadfast, Compassionate)"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/areaTotal> "2.19E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/areaLand> "1.66E8"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/areaWater> "5.3E7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/areaMetro> "1.815E9"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderTitle> "Mayor"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Eberhard_van_der_Laan> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderTitle> "Aldermen"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Eric_van_der_Burg> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Andr%C3%A9e_van_Es> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Carolien_Gehrels> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Pieter_Hilhorst> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Freek_Ossel> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Maarten_van_Poelgeest> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderName> <http://dbpedia.org/resource/Eric_Wiebes> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderTitle> "Secretary"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/leaderParty> <http://dbpedia.org/resource/Labour_Party_(Netherlands)> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/elevation> "2.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/populationAsOf> "2012-05-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/populationTotal> "820654"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/populationDensity> "3506.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/populationMetro> "2289762"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/populationUrban> "1209419"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/postalCode> "1011\u20131109"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/areaCode> "020"@en .
+<http://dbpedia.org/resource/Amsterdam> <http://xmlns.com/foaf/0.1/homepage> <http://www.amsterdam.nl/> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Netherlands> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/North_Holland> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Amsterdam_(VOC_ship)> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Amsterdam> <http://dbpedia.org/ontology/timeZone> <http://dbpedia.org/resource/Central_European_Time> .
+<http://dbpedia.org/resource/Amsterdam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.opengis.net/gml/_Feature> .
+<http://dbpedia.org/resource/Amsterdam> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "52.37305555555555"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Amsterdam> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "4.892222222222222"^^<http://www.w3.org/2001/XMLSchema#float> .
+<http://dbpedia.org/resource/Amsterdam> <http://www.georss.org/georss/point> "52.37305555555555 4.892222222222222"@en .
+<http://dbpedia.org/resource/Amsterdam__Seventeenth-century_canal_ring_area_of_Amsterdam_i__1> <http://dbpedia.org/ontology/id> "1349"@en .
+<http://dbpedia.org/resource/Amsterdam__Seventeenth-century_canal_ring_area_of_Amsterdam_i__1> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/List_of_World_Heritage_Sites> .
+<http://dbpedia.org/resource/Amsterdam__Seventeenth-century_canal_ring_area_of_Amsterdam_i__1> <http://xmlns.com/foaf/0.1/homepage> <http://whc.unesco.org/en/list/1349/> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://xmlns.com/foaf/0.1/name> "Alexander Graham Bell"@en .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/birthDate> "1847-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/birthYear> "1847"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Edinburgh> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/deathDate> "1922-08-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/deathYear> "1922"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Beinn_Bhreagh,_Nova_Scotia> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/deathPlace> <http://dbpedia.org/resource/Nova_Scotia> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Invention_of_the_telephone> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Alexander_Graham_Bell__1> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell__1> <http://dbpedia.org/ontology/title> "Inventor, Scientist, Engineer, Professor (Boston University), Teacher of the deafref| While Bell worked in many scientific, technical, professional and social capacities throughout his life he would remain fondest of his earliest vocation. To the end of his days, when discussing himself, Bell would always add with pride \"I am a teacher of the deaf\".|group=\"N\""@en .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/Diabetes_mellitus> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Edinburgh> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_College_London> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Mabel_Gardiner_Hubbard> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Gardiner_Greene_Hubbard> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Gilbert_Hovey_Grosvenor> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/David_Fairchild> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Melville_Bell_Grosvenor> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Mabel_H._Grosvenor> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Graham_Fairchild> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Gilbert_Melville_Grosvenor> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Edwin_S._Grosvenor> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/relative> <http://dbpedia.org/resource/Chichester_Bell> .
+<http://dbpedia.org/resource/Alexander_Graham_Bell> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Alexander_Melville_Bell> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://xmlns.com/foaf/0.1/name> "Apple Inc."@en .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Public_company> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/foundingDate> "1976-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/foundingDate> "1977-01-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/foundingYear> "1976"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/foundingYear> "1977"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/Corporation> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Apple_Campus> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Infinite_Loop_(street)> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/Cupertino,_California> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/locationCity> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/numberOfLocations> "394"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/operatingIncome> "5.5241E10"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/netIncome> "4.1733E10"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/assets> "1.76064E11"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/equity> "1.1821E11"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/numberOfEmployees> "72800"^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/Braeburn_Capital> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/FileMaker_Inc.> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/Anobit> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://xmlns.com/foaf/0.1/name> "Aztlan Underground"@en .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Yaotl> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Alonzo_Beas> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Joe_%22Peps%22> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Caxo> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/background> "group_or_band"@en .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Los_Angeles> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/California> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/United_States> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Alternative_rock> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Rapping> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Electronica> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Experimental_rock> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/activeYearsStartYear> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Xicano_Records_and_Film> .
+<http://dbpedia.org/resource/Aztlan_Underground> <http://xmlns.com/foaf/0.1/homepage> <http://www.aztlanunderground.net/> .
+<http://dbpedia.org/resource/American_Film_Institute> <http://xmlns.com/foaf/0.1/name> "American Film Institute"@en .
+<http://dbpedia.org/resource/American_Film_Institute> <http://xmlns.com/foaf/0.1/homepage> <http://www.AFI.com/> .
+<http://dbpedia.org/resource/Andy_Warhol> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Printmaking> .
+<http://dbpedia.org/resource/Andy_Warhol> <http://dbpedia.org/ontology/training> <http://dbpedia.org/resource/Carnegie_Institute_of_Technology> .
+<http://dbpedia.org/resource/Andy_Warhol> <http://dbpedia.org/ontology/movement> <http://dbpedia.org/resource/Pop_art> .
+<http://dbpedia.org/resource/Andy_Warhol> <http://xmlns.com/foaf/0.1/name> "Andy Warhol"@en .
+<http://dbpedia.org/resource/Andy_Warhol> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States_nationality_law> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Alp Arslan"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/activeYearsStartYear> "1063"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/activeYearsEndYear> "1072"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/predecessor> <http://dbpedia.org/resource/Tughril> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/successor> <http://dbpedia.org/resource/Malik-Shah_I> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Aka,_daughter_of_Yusuf_Qadir-Khan> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Laqab: Diya ad-Din (shortly), Adud ad-Dawlah"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Kunya: Abu Shuja"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Given name: Muhammad"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Turkic nickname: Alp Arslan"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://xmlns.com/foaf/0.1/name> "Nasab: Alp Arslan ibn Chaghri-Beg ibn Mikail ibn Seljuq ibn Duqaq"@en .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/parent> <http://dbpedia.org/resource/Chaghri_Beg> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/birthDate> "1029-01-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alp_Arslan> <http://dbpedia.org/ontology/deathDate> "1072-12-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Southern_United_States> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Northeastern_United_States> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Western_United_States> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Atlantic_Ocean> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/result> "Union victory"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/result> "* Territorial integrity preserved"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/result> "* Reconstruction"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/result> "* Slavery abolished"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/result> "* President Lincoln assassinated during war"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Abraham_Lincoln> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Edwin_M._Stanton> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Ulysses_S._Grant> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/William_Tecumseh_Sherman> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/David_Farragut> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/David_Dixon_Porter> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Military_leadership_in_the_American_Civil_War> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Jefferson_Davis> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Judah_P._Benjamin> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Robert_E._Lee> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Joseph_E._Johnston> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Raphael_Semmes> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Josiah_Tattnall> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/commander> <http://dbpedia.org/resource/Military_leadership_in_the_American_Civil_War> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/strength> "2,100,000"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/strength> "1,064,000"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/causalties> "140,414 killed in action"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/causalties> "~ 365,000 total dead"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/causalties> "275,200 wounded"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://xmlns.com/foaf/0.1/name> "American Civil War"@en .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/date> "1861-04-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/American_Civil_War> <http://dbpedia.org/ontology/date> "1865-06-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://xmlns.com/foaf/0.1/name> "Analog Brothers"@en .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Kool_Keith> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Ice-T> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Marc_Live> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/bandMember> <http://dbpedia.org/resource/Pimp_Rex> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/background> "group_or_band"@en .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Hip_hop_music> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/activeYearsStartYear> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Analog_Brothers> <http://dbpedia.org/ontology/activeYearsEndYear> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Motor_neuron_disease> <http://dbpedia.org/ontology/diseasesdb> "8358"@en .
+<http://dbpedia.org/resource/Motor_neuron_disease> <http://dbpedia.org/ontology/meshId> "D016472"@en .
+<http://dbpedia.org/resource/Motor_neuron_disease> <http://xmlns.com/foaf/0.1/name> "Motor neuron disease"@en .
+<http://dbpedia.org/resource/ABBA> <http://xmlns.com/foaf/0.1/name> "ABBA"@en .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Agnetha_F%C3%A4ltskog> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Bj%C3%B6rn_Ulvaeus> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Benny_Andersson> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/formerBandMember> <http://dbpedia.org/resource/Frida_Lyngstad> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/background> "group_or_band"@en .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Stockholm> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/hometown> <http://dbpedia.org/resource/Sweden> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_music> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Euro_disco> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Europop> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Pop_rock> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/activeYearsStartYear> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/ABBA> <http://dbpedia.org/ontology/activeYearsEndYear> "1982"^^<http://www.w3.org/2001/XMLSchema#gYear> .
