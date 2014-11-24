@@ -65,8 +65,9 @@ public class Evidence implements WriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer())
-																					.setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, 
+									 new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer())
+					.setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}
