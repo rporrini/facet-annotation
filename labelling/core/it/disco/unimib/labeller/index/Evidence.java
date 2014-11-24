@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.index;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -54,7 +53,17 @@ public class Evidence implements TripleStore{
 	public List<CandidateResource> get(String type, String context) throws Exception {
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
+		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
+		GroupingSearch groupingSearch = new GroupingSearch(indexFields.predicateField());
+		groupingSearch.setGroupSort(Sort.RELEVANCE);
+		groupingSearch.setIncludeScores(true);
+		Query query = this.query.asQuery(type, context, indexFields.literal(), indexFields.context(), indexFields.namespace(), indexFields.analyzer());
+		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
+			ranking.reRank(context, group, indexSearcher);
+			ids.add(group.scoreDocs[0]);
+		}
+		List<ScoreDoc> matchingIds = ids;
+		for(ScoreDoc documentPointer : matchingIds){
 			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
 			results.add(new CandidateResource(indexedDocument.get(indexFields.predicateField()), documentPointer.score));
 		}
@@ -90,26 +99,9 @@ public class Evidence implements TripleStore{
 		return document;
 	}
 	
-	private List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
-		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
- 		GroupingSearch groupingSearch = new GroupingSearch(indexFields.predicateField());
-		groupingSearch.setGroupSort(Sort.RELEVANCE);
-		groupingSearch.setIncludeScores(true);
-		Query query = this.query.asQuery(type, context, indexFields.literal(), indexFields.context(), indexFields.namespace(), analyzer());
-		for(GroupDocs<BytesRef> group : groupingSearch.<BytesRef>search(indexSearcher, query, 0, 1000).groups){
-			ranking.reRank(context, group, indexSearcher);
-			ids.add(group.scoreDocs[0]);
-		}
-		return ids;
-	}
-
-	private Analyzer analyzer() {
-		return indexFields.analyzer();
-	}
-	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer())
 																					.setRAMBufferSizeMB(95));
 		}
 		return writer;

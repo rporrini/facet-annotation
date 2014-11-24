@@ -13,7 +13,6 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.queryparser.flexible.core.QueryNodeException;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
@@ -34,9 +33,15 @@ public class EntityValues implements TripleStore{
 	public List<CandidateResource> get(String type, String context) throws Exception {
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		for(ScoreDoc documentPointer : matchingIds(type, context, indexSearcher)){
+		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
+		Query query = new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id());
+		for(ScoreDoc score : indexSearcher.search(query, maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
+			ids.add(score);
+		}
+		List<ScoreDoc> matchingIds = ids;
+		for(ScoreDoc documentPointer : matchingIds){
 			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new CandidateResource(toResult(indexedDocument), documentPointer.score));
+			results.add(new CandidateResource(indexedDocument.get(value()), documentPointer.score));
 		}
 		return results;
 	}
@@ -59,18 +64,6 @@ public class EntityValues implements TripleStore{
 		return this;
 	}
 	
-	private List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
-		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
-		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
-			ids.add(score);
-		}
-		return ids;
-	}
-
-	private String toResult(Document doc) {
-		return doc.get(value());
-	}
-	
 	private Analyzer analyzer() {
 		return new KeywordAnalyzer();
 	}
@@ -87,10 +80,6 @@ public class EntityValues implements TripleStore{
 		return "value";
 	}
 	
-	private Query toQuery(String type, String context) throws QueryNodeException {
-		return new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id());
-	}
-
 	private synchronized IndexWriter openWriter() throws Exception {
 		if(writer == null){
 			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
