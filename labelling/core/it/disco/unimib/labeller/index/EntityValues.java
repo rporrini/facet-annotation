@@ -4,7 +4,6 @@ package it.disco.unimib.labeller.index;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -13,10 +12,11 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
@@ -30,18 +30,14 @@ public class EntityValues implements TripleStore{
 		this.directory = directory;
 	}
 	
-	public List<CandidateResource> get(String type, String context) throws Exception {
+	public List<CandidateResource> get(String entity) throws Exception {
+		IndexSearcher searcher = new IndexSearcher(openReader());
+		Query query = new TermQuery(new Term(id(), entity));
+		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		IndexSearcher indexSearcher = new IndexSearcher(openReader());
-		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
-		Query query = new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id());
-		for(ScoreDoc score : indexSearcher.search(query, maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
-			ids.add(score);
-		}
-		List<ScoreDoc> matchingIds = ids;
-		for(ScoreDoc documentPointer : matchingIds){
-			Document indexedDocument = indexSearcher.doc(documentPointer.doc);
-			results.add(new CandidateResource(indexedDocument.get(value()), documentPointer.score));
+		for(ScoreDoc score : searcher.search(query, maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
+			Document indexedDocument = searcher.doc(score.doc);
+			results.add(new CandidateResource(indexedDocument.get(value()), score.score));
 		}
 		return results;
 	}
@@ -64,10 +60,6 @@ public class EntityValues implements TripleStore{
 		return this;
 	}
 	
-	private Analyzer analyzer() {
-		return new KeywordAnalyzer();
-	}
-	
 	private int maximumNumberOfTypesForAResourceInDBPedia() {
 		return 203;
 	}
@@ -82,8 +74,7 @@ public class EntityValues implements TripleStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception {
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, analyzer())
-																					.setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, new KeywordAnalyzer()).setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}

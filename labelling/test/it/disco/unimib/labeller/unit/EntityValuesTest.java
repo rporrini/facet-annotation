@@ -20,7 +20,7 @@ public class EntityValuesTest {
 															.withLiteral("the label").asTriple())
 													.closeWriter();
 		
-		List<CandidateResource> labels = index.get("http://entity", "any");
+		List<CandidateResource> labels = index.get("http://entity");
 		
 		assertThat(labels.get(0).value(), equalTo("the label"));
 	}
@@ -32,7 +32,7 @@ public class EntityValuesTest {
 								.add(new TripleBuilder().withSubject("http://entity").withLiteral("the other label").asTriple())
 						.closeWriter();
 
-		List<CandidateResource> labels = index.get("http://entity", "any");
+		List<CandidateResource> labels = index.get("http://entity");
 		
 		assertThat(labels, hasSize(2));
 	}

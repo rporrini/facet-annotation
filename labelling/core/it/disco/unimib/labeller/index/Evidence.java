@@ -28,16 +28,16 @@ public class Evidence implements TripleStore{
 		
 		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
-		for(CandidateResource label : this.labels.get(triple.object(), "any")){
+		for(CandidateResource label : this.labels.get(triple.object())){
 			value += " " + label.value();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
-		for(CandidateResource type : this.types.get(triple.object(), "any")){
+		for(CandidateResource type : this.types.get(triple.object())){
 			document.add(new Field(indexFields.objectType(), type.value(), TextField.TYPE_STORED));
 		}
 		String context = "";
-		for(CandidateResource type : this.types.get(triple.subject(), "any")){
-			for(CandidateResource label : this.labels.get(type.value(), "any")){
+		for(CandidateResource type : this.types.get(triple.subject())){
+			for(CandidateResource label : this.labels.get(type.value())){
 				context += " " + label.value();
 			}
 			document.add(new Field(indexFields.subjectType(), type.value(), TextField.TYPE_STORED));

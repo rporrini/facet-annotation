@@ -22,7 +22,7 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://any", "any").get(0).value(), equalTo("the label"));
+		assertThat(index.get("http://any").get(0).value(), equalTo("the label"));
 	}
 	
 	@Test
@@ -34,7 +34,7 @@ public class TriplesTest {
 					.fill(index, new MatchingPredicate("http://label"));
 		index.closeWriter();
 		
-		assertThat(index.get("http://france", "any"), hasSize(1));
+		assertThat(index.get("http://france"), hasSize(1));
 	}
 	
 	@Test(timeout = 1000)
@@ -61,6 +61,6 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://1234", "any").get(0).value(), equalTo("http://uri%20with%20space"));
+		assertThat(index.get("http://1234").get(0).value(), equalTo("http://uri%20with%20space"));
 	}
 }

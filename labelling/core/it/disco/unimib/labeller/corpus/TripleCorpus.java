@@ -32,7 +32,7 @@ public class TripleCorpus implements TripleStore{
 	public TripleCorpus add(NTriple triple) throws Exception {
 		List<String> values = getLabels(triple.object());
 		List<String> types = new ArrayList<String>();
-		for(CandidateResource type : this.types.get(triple.subject(), "any")){
+		for(CandidateResource type : this.types.get(triple.subject())){
 			types.addAll(getLabels(type.value()));
 		}
 		for(String type : types){
@@ -49,7 +49,7 @@ public class TripleCorpus implements TripleStore{
 			values.add(uri);
 		}
 		else{
-			for(CandidateResource label : this.labels.get(uri, "any")){
+			for(CandidateResource label : this.labels.get(uri)){
 				values.add(label.value());
 			}
 		}
