@@ -22,11 +22,11 @@ public class Evidence implements WriteStore{
 	public Evidence(Directory directory, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
 		
-		this.subjectTypes = new CachedStore(types, 100);
-		this.subjectLabels = new CachedStore(labels, 100);
+		this.subjectTypes = new CachedStore(types, 1000);
+		this.subjectLabels = new CachedStore(labels, 1000);
 		
-		this.objectTypes = types;
-		this.objectLabels = labels;
+		this.objectTypes = new CachedStore(types, 1000);
+		this.objectLabels = new CachedStore(labels, 1000);
 		
 		this.indexFields = fields;
 	}
