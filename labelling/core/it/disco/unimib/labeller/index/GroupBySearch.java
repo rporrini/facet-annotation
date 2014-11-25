@@ -41,18 +41,6 @@ public class GroupBySearch implements Index{
 		return results.totalHits;
 	}
 
-	public long countValuesForPredicates(String value, String predicate) throws Exception {
-		int howMany = 1;
-		BooleanQuery asQuery = new CompleteContext(new AllValues()).asQuery(value, 
-																		predicate, 
-																		indexFields.literal(), 
-																		indexFields.predicateField(), 
-																		indexFields.namespace(), 
-																		indexFields.analyzer());
-		TopDocs results = runQuery(howMany, asQuery);
-		return results.totalHits;
-	}
-	
 	@Override
 	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1000000;
@@ -62,10 +50,9 @@ public class GroupBySearch implements Index{
 									  indexFields.context(), 
 									  indexFields.namespace(), 
 									  indexFields.analyzer());
-		TopDocs results = runQuery(howMany, q);
 		Stems stems = new Stems(indexFields);
 		String stemmedDomain = stems.of(domain);
-		for(ScoreDoc result : results.scoreDocs){
+		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
 										indexFields.predicateField(), 
 										indexFields.context(), 
