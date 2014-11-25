@@ -2,15 +2,11 @@ package it.disco.unimib.labeller.index;
 
 import it.disco.unimib.labeller.benchmark.Events;
 
-import java.io.IOException;
-import java.io.StringReader;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
-import org.apache.lucene.analysis.TokenStream;
-import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.search.BooleanQuery;
@@ -67,8 +63,8 @@ public class GroupBySearch implements Index{
 									  indexFields.namespace(), 
 									  indexFields.analyzer());
 		TopDocs results = runQuery(howMany, q);
-		
-		String stemmedDomain = stem(domain);
+		Stems stems = new Stems(indexFields);
+		String stemmedDomain = stems.of(domain);
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
 										indexFields.predicateField(), 
@@ -78,7 +74,7 @@ public class GroupBySearch implements Index{
 									}));
 			Document document = searcher.doc(result.doc, fields);
 			String label = document.getValues(indexFields.predicateField())[0];
-			String context = stem(StringUtils.join(document.getValues(indexFields.context()), " "));
+			String context = stems.of(StringUtils.join(document.getValues(indexFields.context()), " "));
 			document.getValues(indexFields.subjectType());
 			document.getValues(indexFields.objectType());
 			occurrences.accumulate(label, context, stemmedDomain);
@@ -92,16 +88,5 @@ public class GroupBySearch implements Index{
 		TopDocs search = searcher.search(asQuery, howMany, Sort.INDEXORDER);
 		new Events().debug(asQuery + " - " + search.totalHits);
 		return search;
-	}
-
-	private String stem(String context) throws IOException {
-		String stemmedContext = "";
-		TokenStream stream = indexFields.analyzer().tokenStream("any", new StringReader(context));
-		CharTermAttribute termAtt = stream.addAttribute(CharTermAttribute.class);
-		stream.reset();
-		while(stream.incrementToken()) {
-            stemmedContext = stemmedContext + " " + termAtt.toString();
-        }
-		return stemmedContext.trim();
 	}
 }
