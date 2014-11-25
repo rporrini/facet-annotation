@@ -22,8 +22,8 @@ However, this will take you a long time to complete since it includes also the c
 
 There are few steps that have to be taken in order to run the experiments and reproduce all the experimental results. First you need to process all the dataset and create the Lucene Indexes that are needed by all the implemented facet linking approaches. This step has to be performed only once:
 
-* ```./scripts/indexes/build-index-for-dbpedia.sh```. Estimated execution time: about __20__ hours
-* ```./scripts/indexes/build-index-for-yago.sh```. Estimated execution time: about __9__ hours
+* ```./scripts/indexes/build-index-for-dbpedia.sh```. Estimated execution time: about __9__ hours
+* ```./scripts/indexes/build-index-for-yago.sh```. Estimated execution time: about __3__ hours
 
 Once the indexes are created you can run all the experiments:
 
