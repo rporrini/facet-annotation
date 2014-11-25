@@ -2,13 +2,10 @@ package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.AcceptAll;
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.Triples;
 
 import java.io.File;
@@ -27,14 +24,12 @@ public class RunPropertyValuesIndexing {
 		int concurrentThreads = Integer.parseInt(args[4]);
 		String knowledgeBase = predicatesDirectory.split("/")[0];
 		
-		TripleIndex types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		TripleIndex labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
+		EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
 		final Evidence predicates = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
 															types, 
 															labels,
-															null, 
-															new NoContext(new AllValues()),
 															new IndexFields(knowledgeBase));
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){

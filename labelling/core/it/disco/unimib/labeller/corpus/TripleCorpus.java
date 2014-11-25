@@ -1,9 +1,9 @@
 package it.disco.unimib.labeller.corpus;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.NTriple;
-import it.disco.unimib.labeller.index.TripleIndex;
-import it.disco.unimib.labeller.index.TripleStore;
+import it.disco.unimib.labeller.index.WriteStore;
 
 import java.io.StringReader;
 import java.util.ArrayList;
@@ -14,14 +14,14 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenStream;
 import org.apache.lucene.analysis.tokenattributes.CharTermAttribute;
 
-public class TripleCorpus implements TripleStore{
+public class TripleCorpus implements WriteStore{
 
 	private OutputFile file;
-	private TripleIndex labels;
-	private TripleIndex types;
+	private EntityValues labels;
+	private EntityValues types;
 	private Analyzer analyzer;
 
-	public TripleCorpus(TripleIndex types, TripleIndex labels, OutputFile file, Analyzer analyzer) {
+	public TripleCorpus(EntityValues types, EntityValues labels, OutputFile file, Analyzer analyzer) {
 		this.file = file;
 		this.types = types;
 		this.labels = labels;
@@ -32,7 +32,7 @@ public class TripleCorpus implements TripleStore{
 	public TripleCorpus add(NTriple triple) throws Exception {
 		List<String> values = getLabels(triple.object());
 		List<String> types = new ArrayList<String>();
-		for(CandidateResource type : this.types.get(triple.subject(), "any")){
+		for(CandidateResource type : this.types.get(triple.subject())){
 			types.addAll(getLabels(type.value()));
 		}
 		for(String type : types){
@@ -49,7 +49,7 @@ public class TripleCorpus implements TripleStore{
 			values.add(uri);
 		}
 		else{
-			for(CandidateResource label : this.labels.get(uri, "any")){
+			for(CandidateResource label : this.labels.get(uri)){
 				values.add(label.value());
 			}
 		}

@@ -7,7 +7,6 @@ import it.disco.unimib.labeller.corpus.TripleCorpus;
 import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.TripleIndex;
 import it.disco.unimib.labeller.index.Triples;
 
 import java.io.File;
@@ -39,8 +38,8 @@ class RunCorpusConstruction{
 		
 		System.out.println("Building corpus for dataset " + source + " in " + target + " using " + typesDirectory + " and " + labelsDirectory + " with stemming=" + stemming);
 		
-		final TripleIndex types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		final TripleIndex labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		final EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
+		final EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){

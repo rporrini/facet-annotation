@@ -2,55 +2,67 @@ package it.disco.unimib.labeller.index;
 
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
 
-import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
-import org.apache.lucene.queryparser.flexible.core.QueryNodeException;
-import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.Sort;
+import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.Directory;
+import org.apache.lucene.util.Version;
 
-public class EntityValues extends TripleIndex {
+public class EntityValues implements ReadAndWriteStore{
+
+	private IndexWriter writer;
+	private IndexSearcher searcher;
+	private Directory directory;
+	
+	private HashSet<String> fieldsToLoad;
 
 	public EntityValues(Directory directory) throws Exception {
-		super(directory);
+		this.directory = directory;
+		this.fieldsToLoad = new HashSet<String>(Arrays.asList(new String[]{value()}));
 	}
 	
-	@Override
-	protected List<ScoreDoc> matchingIds(String type, String context, IndexSearcher indexSearcher) throws Exception {
-		List<ScoreDoc> ids = new ArrayList<ScoreDoc>();
-		for(ScoreDoc score : indexSearcher.search(toQuery(type, context), maximumNumberOfTypesForAResourceInDBPedia()).scoreDocs){
-			ids.add(score);
+	public List<CandidateResource> get(String entity) throws Exception {
+		Query query = new TermQuery(new Term(id(), entity));
+		IndexSearcher searcher = openSearcher();
+		
+		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		for(ScoreDoc score : searcher.search(query, 500, Sort.INDEXORDER).scoreDocs){
+			Document document = openSearcher().doc(score.doc, fieldsToLoad);
+			results.add(new CandidateResource(document.get(value()), 0));
 		}
-		return ids;
+		return results;
 	}
 
-	@Override
-	protected Document toDocument(NTriple triple) {
+	public EntityValues closeWriter() throws Exception {
+		openWriter().close();
+		return this;
+	}
+
+	public EntityValues closeReader() throws Exception {
+		this.openSearcher().getIndexReader().close();
+		return this;
+	}
+
+	public EntityValues add(NTriple triple) throws Exception {
 		Document document = new Document();
 		document.add(new Field(id(), triple.subject(), TextField.TYPE_STORED));
 		document.add(new Field(value(), triple.object().toString(), TextField.TYPE_STORED));
-		return document;
-	}
-	
-	@Override
-	protected String toResult(Document doc) {
-		return doc.get(value());
-	}
-	
-	@Override
-	protected Analyzer analyzer() {
-		return new KeywordAnalyzer();
-	}
-	
-	private int maximumNumberOfTypesForAResourceInDBPedia() {
-		return 203;
+		openWriter().addDocument(document);
+		return this;
 	}
 	
 	private String id() {
@@ -61,7 +73,18 @@ public class EntityValues extends TripleIndex {
 		return "value";
 	}
 	
-	private Query toQuery(String type, String context) throws QueryNodeException {
-		return new StandardQueryParser(analyzer()).parse("\"" + type + "\"", id());
+	private synchronized IndexWriter openWriter() throws Exception {
+		if(writer == null){
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, new KeywordAnalyzer())
+						.setRAMBufferSizeMB(95));
+		}
+		return writer;
+	}
+
+	private synchronized IndexSearcher openSearcher() throws Exception {
+		if(searcher == null){
+			 searcher = new IndexSearcher(DirectoryReader.open(directory));
+		}
+		return searcher;
 	}
 }
