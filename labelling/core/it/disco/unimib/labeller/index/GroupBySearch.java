@@ -57,21 +57,31 @@ public class GroupBySearch implements Index{
 	}
 	
 	@Override
-	public List<CandidateResource> get(String value, String context, TripleSelectionCriterion query) throws Exception {
+	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value, 
-									  context, 
+									  domain, 
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace(), 
 									  indexFields.analyzer());
 		TopDocs results = runQuery(howMany, q);
 		
-		String stemmedContext = stem(context);
+		String stemmedDomain = stem(domain);
 		for(ScoreDoc result : results.scoreDocs){
-			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{indexFields.label(), indexFields.context(), indexFields.property()}));
+			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
+										indexFields.label(), 
+										indexFields.context(), 
+										indexFields.property(),
+										indexFields.subjectType(),
+										indexFields.objectType()
+									}));
 			Document document = searcher.doc(result.doc, fields);
-			occurrences.accumulate(document.getValues(indexFields.predicateField())[0], stem(StringUtils.join(document.getValues(indexFields.context()), " ")), stemmedContext);
+			String label = document.getValues(indexFields.predicateField())[0];
+			String context = stem(StringUtils.join(document.getValues(indexFields.context()), " "));
+			document.getValues(indexFields.subjectType());
+			document.getValues(indexFields.objectType());
+			occurrences.accumulate(label, context, stemmedDomain);
 		}
 		List<CandidateResource> annotations = occurrences.toResults();
 		occurrences.clear();
