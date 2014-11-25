@@ -37,7 +37,7 @@ public class EntityValuesPerformance extends AbstractBenchmark{
 		new Triples(new InputFile(new File(here + "categories.nt"))).fill(types, new AcceptAll());
 		types.closeWriter();
 		
-		entities = new InputFile(new File("test/it/disco/unimib/labeller/performance/" + "queries.txt")).lines();
+		entities = new InputFile(new File(here + "queries.txt")).lines();
 		generator = new Random();
 	}
 	
