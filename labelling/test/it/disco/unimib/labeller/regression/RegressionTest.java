@@ -3,14 +3,8 @@ package it.disco.unimib.labeller.regression;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
-import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.SingleFacet;
-import it.disco.unimib.labeller.benchmark.Summary;
-import it.disco.unimib.labeller.tools.RunEvaluation;
 import it.disco.unimib.labeller.tools.TrecResultPredicate;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.junit.Test;
@@ -22,7 +16,7 @@ public class RegressionTest {
 		int movieDirectors = 1888395491;
 		String knowledgeBase = "dbpedia";
 		
-		List<TrecResultPredicate> results = runBenchmark(knowledgeBase, movieDirectors);
+		List<TrecResultPredicate> results = new CommandLineBenchmarkSimulation().run(knowledgeBase, movieDirectors);
 		
 		checkNonRegression(results, 
 						   27,
@@ -37,7 +31,7 @@ public class RegressionTest {
 		int wordnetState108654360 = 1091252161;
 		String knowledgeBase = "yago1";
 		
-		List<TrecResultPredicate> results = runBenchmark(knowledgeBase, wordnetState108654360);
+		List<TrecResultPredicate> results = new CommandLineBenchmarkSimulation().run(knowledgeBase, wordnetState108654360);
 		
 		checkNonRegression(results, 
 						   8,
@@ -56,23 +50,5 @@ public class RegressionTest {
 		for(int i=0; i<predicates.length; i++){
 			assertThat(results.get(i).value(), equalTo(predicates[i]));
 		}
-	}
-
-	private List<TrecResultPredicate> runBenchmark(String knowledgeBase, int movieDirectors) throws Exception {
-		BenchmarkParameters parameters = RunEvaluation.benchmarkParameters(new String[]{
-				"kb=" + knowledgeBase,
-				"algorithm=mhw",
-				"occurrences=contextualized",
-				"context=partial",
-				"summary=trec"
-		});
-		Summary summary = parameters.analysis();
-		GoldStandard goldStandard = new SingleFacet(parameters.goldStandard(), movieDirectors);
-		RunEvaluation.runBenchmark(summary, parameters.algorithm(), goldStandard);
-		List<TrecResultPredicate> results = new ArrayList<TrecResultPredicate>();
-		for(String line : summary.result().split("\n")){
-			results.add(new TrecResultPredicate(line));
-		}
-		return results;
 	}
 }
