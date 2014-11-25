@@ -16,6 +16,7 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 
@@ -70,9 +71,8 @@ public class GroupBySearch implements Index{
 		String stemmedDomain = stem(domain);
 		for(ScoreDoc result : results.scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
-										indexFields.label(), 
+										indexFields.predicateField(), 
 										indexFields.context(), 
-										indexFields.property(),
 										indexFields.subjectType(),
 										indexFields.objectType()
 									}));
@@ -89,7 +89,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
-		TopDocs search = searcher.search(asQuery,howMany);
+		TopDocs search = searcher.search(asQuery, howMany, Sort.INDEXORDER);
 		new Events().debug(asQuery + " - " + search.totalHits);
 		return search;
 	}
