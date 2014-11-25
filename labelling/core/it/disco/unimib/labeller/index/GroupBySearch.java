@@ -72,7 +72,7 @@ public class GroupBySearch implements Index{
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
-		TopDocs search = searcher.search(asQuery, howMany, Sort.INDEXORDER);
+		TopDocs search = searcher.search(asQuery, null, howMany, Sort.INDEXORDER, false, false);
 		new Events().debug(asQuery + " - " + search.totalHits);
 		return search;
 	}
