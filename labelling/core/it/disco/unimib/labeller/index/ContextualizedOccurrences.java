@@ -28,8 +28,4 @@ public class ContextualizedOccurrences{
 		}
 		return annotations;
 	}
-	
-	public ContextualizedOccurrences clear(){
-		return new ContextualizedOccurrences(metric);
-	}
 }

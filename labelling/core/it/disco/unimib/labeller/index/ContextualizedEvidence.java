@@ -19,10 +19,10 @@ import org.apache.lucene.store.Directory;
 public class ContextualizedEvidence implements Index{
 
 	private IndexSearcher searcher;
-	private ContextualizedOccurrences occurrences;
+	private SimilarityMetric occurrences;
 	private IndexFields indexFields;
 	
-	public ContextualizedEvidence(Directory indexDirectory, ContextualizedOccurrences score, IndexFields fields) throws Exception{
+	public ContextualizedEvidence(Directory indexDirectory, SimilarityMetric score, IndexFields fields) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.occurrences = score;
 		this.indexFields = fields;
@@ -43,7 +43,7 @@ public class ContextualizedEvidence implements Index{
 
 	@Override
 	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
-		ContextualizedOccurrences occurrences = this.occurrences.clear();
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences);
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value, 
 									  domain, 
@@ -67,8 +67,7 @@ public class ContextualizedEvidence implements Index{
 			String[] objectTypes = document.getValues(indexFields.objectType());
 			occurrences.accumulate(label, context, stemmedDomain, subjectTypes, objectTypes);
 		}
-		List<CandidateResource> annotations = occurrences.toResults();
-		return annotations;
+		return occurrences.toResults();
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {

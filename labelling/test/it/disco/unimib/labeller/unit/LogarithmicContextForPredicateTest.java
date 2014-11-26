@@ -4,7 +4,6 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
-import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -38,7 +37,7 @@ public class LogarithmicContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new ContextualizedEvidence(directory, new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia")));
+		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching", 1);

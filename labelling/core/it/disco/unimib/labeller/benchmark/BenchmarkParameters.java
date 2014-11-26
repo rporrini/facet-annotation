@@ -4,10 +4,10 @@ import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
-import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
@@ -77,10 +77,10 @@ public class BenchmarkParameters{
 		return contexts.get(contextString());
 	}
 	
-	private ContextualizedOccurrences occurrences() throws Exception{
-		HashMap<String, ContextualizedOccurrences> occurrences = new HashMap<String, ContextualizedOccurrences>();
-		occurrences.put("simple", new ContextualizedOccurrences(new ConstantSimilarity()));
-		occurrences.put("contextualized", new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())));
+	private SimilarityMetric occurrences() throws Exception{
+		HashMap<String, SimilarityMetric> occurrences = new HashMap<String, SimilarityMetric>();
+		occurrences.put("simple", new ConstantSimilarity());
+		occurrences.put("contextualized", new SimilarityMetricWrapper(new JaccardSimilarity()));
 		return occurrences.get(occurrencesString());
 	}
 	

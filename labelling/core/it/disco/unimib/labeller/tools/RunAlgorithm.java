@@ -4,10 +4,10 @@ import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
@@ -26,7 +26,7 @@ public class RunAlgorithm {
 	public static void main(String[] args) throws Exception {
 		String knowledgeBase = "dbpedia";
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity()));
+		SimilarityMetric occurrences = new SimilarityMetricWrapper(new JaccardSimilarity());
 		ContextualizedEvidence index = new ContextualizedEvidence(indexDirectory, occurrences, new IndexFields(knowledgeBase));
 		PartialContext valueMatching = new PartialContext(new AllValues());
 		LogarithmicPredicateSpecificy predicateSpecificity = new LogarithmicPredicateSpecificy(index);

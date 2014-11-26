@@ -6,7 +6,6 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
-import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -25,7 +24,7 @@ public class ContextualizedEvidenceTest {
 		
 		new EntityValues(directory).closeWriter();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
 		assertThat(index.countPredicatesInContext("any", "any", new NoContext(new AllValues())), is(equalTo(0l)));
 	}
@@ -40,7 +39,7 @@ public class ContextualizedEvidenceTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
 		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(1l)));
 	}
@@ -55,7 +54,7 @@ public class ContextualizedEvidenceTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
 		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(1l)));
 	}
@@ -71,7 +70,7 @@ public class ContextualizedEvidenceTest {
 								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
 								.closeWriter();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
 		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues())), is(equalTo(2l)));
 	}
@@ -110,7 +109,7 @@ public class ContextualizedEvidenceTest {
 									.asTriple())
 								.closeWriter();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
 		assertThat(index.countPredicatesInContext("http://predicate", "one term", new PartialContext(new AllValues())), is(equalTo(1l)));
 	}
