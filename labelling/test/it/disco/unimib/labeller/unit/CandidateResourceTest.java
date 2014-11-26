@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
@@ -64,5 +64,36 @@ public class CandidateResourceTest {
 		predicate.sumScore(10.0);
 		
 		assertThat(predicate.score(), equalTo(20.0));
+	}
+	
+	@Test
+	public void shouldMultiplyTheScores() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.multiplyScore(10.0);
+		predicate.multiplyScore(10.0);
+		
+		assertThat(predicate.score(), equalTo(100.0));
+	}
+	
+	@Test
+	public void shouldDisplayAllTheLocalScoresWhenAdded() throws Exception {
+		
+		CandidateResource predicate = new CandidateResource("predicate");
+		
+		predicate.sumScore(2.0);
+		predicate.sumScore(3.0);
+		
+		assertThat(predicate.toString(), containsString("[2.0, 3.0, 5.0]"));
+	}
+	
+	@Test
+	public void shouldAllowAddingAndMultiplyingScores() throws Exception {
+		CandidateResource predicate = new CandidateResource("predicate");
+		
+		predicate.sumScore(2.0);
+		predicate.multiplyScore(10.0);
+		
+		assertThat(predicate.toString(), containsString("[2.0, 10.0, 20.0]"));
 	}
 }
