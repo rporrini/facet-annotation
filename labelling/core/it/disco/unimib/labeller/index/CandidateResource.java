@@ -34,28 +34,32 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return score;
 	}
 	
-	public void sumScore(double localScore) {
+	public CandidateResource sumScore(double localScore) {
 		this.score += localScore;
 		this.localScores.add(localScore);
+		return this;
 	}
 	
-	public void multiplyScore(double localScore) {
+	public CandidateResource multiplyScore(double localScore) {
 		double totalScore = this.score;
 		if(totalScore == 0) totalScore = 1;
 		this.score = totalScore * localScore;
 		this.localScores.add(localScore);
+		return this;
 	}
 	
-	public void addSubjectTypes(String... types) {
+	public CandidateResource addSubjectTypes(String... types) {
 		addOrIncrementFrequencyCount(this.subjectTypes, types);
+		return this;
 	}
 
 	public List<CandidateResource> subjectTypes() {
 		return valuesOf(this.subjectTypes);
 	}
 
-	public void addObjectTypes(String... types) {
+	public CandidateResource addObjectTypes(String... types) {
 		addOrIncrementFrequencyCount(this.objectTypes, types);
+		return this;
 	}
 
 	public List<CandidateResource> objectTypes() {
