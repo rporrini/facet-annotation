@@ -3,7 +3,8 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-import static org.junit.Assert.*;
+import static org.hamcrest.Matchers.hasSize;
+import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
@@ -95,5 +96,43 @@ public class CandidateResourceTest {
 		predicate.multiplyScore(10.0);
 		
 		assertThat(predicate.toString(), containsString("[2.0, 10.0, 20.0]"));
+	}
+	
+	@Test
+	public void shouldCollectSubjectTypes() throws Exception {
+		
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.addSubjectTypes("http://subject-type");
+		
+		assertThat(predicate.subjectTypes(), hasSize(1));
+	}
+	
+	@Test
+	public void shouldCountOccurrencesOfSubjectTypes() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.addSubjectTypes("http://subject-type");
+		predicate.addSubjectTypes("http://subject-type");
+		
+		assertThat(predicate.subjectTypes().get(0).score() , equalTo(2.0));
+	}
+	
+	@Test
+	public void shouldCollectManySubjectTypesAtTheTime() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.addSubjectTypes("http://subject-type", "http://other-type");
+		
+		assertThat(predicate.subjectTypes() , hasSize(2));
+	}
+	
+	@Test
+	public void shouldCollectManyObjectTypesAtTheTime() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.addObjectTypes("http://object-type", "http://object-type");
+		
+		assertThat(predicate.objectTypes() , hasSize(1));
 	}
 }

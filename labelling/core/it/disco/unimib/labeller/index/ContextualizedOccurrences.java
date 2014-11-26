@@ -21,6 +21,8 @@ public class ContextualizedOccurrences{
 		if(!scores.containsKey(predicate)) scores.put(predicate, new CandidateResource(predicate));
 		CandidateResource candidateResource = scores.get(predicate);
 		candidateResource.sumScore(metric.getSimilarity(domain, context));
+		candidateResource.addSubjectTypes(subjectTypes);
+		candidateResource.addObjectTypes(objectTypes);
 	}
 	
 	public List<CandidateResource> toResults(){
