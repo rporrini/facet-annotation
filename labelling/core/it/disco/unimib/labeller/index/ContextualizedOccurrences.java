@@ -15,10 +15,10 @@ public class ContextualizedOccurrences{
 		this.metric = metric;
 	}
 	
-	public void accumulate(String label, String context, String targetContext, String[] subjectTypes, String[] objectTypes){
-		if(!scores.containsKey(label)) scores.put(label, 0.0);
+	public void accumulate(String predicate, String context, String targetContext, String[] subjectTypes, String[] objectTypes){
+		if(!scores.containsKey(predicate)) scores.put(predicate, 0.0);
 		float similarity = metric.getSimilarity(targetContext, context);
-		scores.put(label, scores.get(label) + similarity);
+		scores.put(predicate, scores.get(predicate) + similarity);
 	}
 	
 	public List<CandidateResource> toResults(){

@@ -56,7 +56,7 @@ public class ContextualizedEvidence implements Index{
 		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
 										indexFields.predicateField(), 
-										indexFields.context(), 
+										indexFields.context(),
 										indexFields.subjectType(),
 										indexFields.objectType()
 									}));
