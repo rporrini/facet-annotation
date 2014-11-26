@@ -14,12 +14,12 @@ public class FacetAnnotationPerformance extends AbstractBenchmark {
 	@BeforeClass
 	public static void annotateAnotherFacetInOrderToEnsureThatLuceneDoesNotCacheResults() throws Exception{
 		
-		new CommandLineBenchmarkSimulation().run("dbpedia", 1888395491);
+		new CommandLineBenchmarkSimulation().onDBPedia().annotate(1888395491);
 	}
 	
 	@Test
 	public void runAnnotationOnNumericValuesForDBPedia() throws Exception {
 		
-		new CommandLineBenchmarkSimulation().run("dbpedia", 2043956000);
+		new CommandLineBenchmarkSimulation().onDBPedia().annotate(2043956000);
 	}
 }
