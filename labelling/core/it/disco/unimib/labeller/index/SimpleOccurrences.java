@@ -13,7 +13,7 @@ public class SimpleOccurrences implements Occurrences{
 	}
 	
 	@Override
-	public void accumulate(String label, String context, String targetContext){
+	public void accumulate(String label, String context, String targetContext, String[] subjectTypes, String[] objectTypes){
 		if(!scores.containsKey(label)) scores.put(label, 0.0);
 		scores.put(label, scores.get(label) + 1);
 	}

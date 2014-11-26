@@ -63,9 +63,9 @@ public class ContextualizedEvidence implements Index{
 			Document document = searcher.doc(result.doc, fields);
 			String label = document.getValues(indexFields.predicateField())[0];
 			String context = stems.of(StringUtils.join(document.getValues(indexFields.context()), " "));
-			document.getValues(indexFields.subjectType());
-			document.getValues(indexFields.objectType());
-			occurrences.accumulate(label, context, stemmedDomain);
+			String[] subjectTypes = document.getValues(indexFields.subjectType());
+			String[] objectTypes = document.getValues(indexFields.objectType());
+			occurrences.accumulate(label, context, stemmedDomain, subjectTypes, objectTypes);
 		}
 		List<CandidateResource> annotations = occurrences.toResults();
 		return annotations;
