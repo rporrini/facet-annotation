@@ -2,14 +2,14 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CompleteContext;
-import it.disco.unimib.labeller.index.ContextualizedOccurrences;
+import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.Occurrences;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.index.SimpleOccurrences;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
@@ -80,7 +80,7 @@ public class BenchmarkParameters{
 	
 	private Occurrences occurrences() throws Exception{
 		HashMap<String, Occurrences> occurrences = new HashMap<String, Occurrences>();
-		occurrences.put("simple", new SimpleOccurrences());
+		occurrences.put("simple", new ContextualizedOccurrences(new ConstantSimilarity()));
 		occurrences.put("contextualized", new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())));
 		return occurrences.get(occurrencesString());
 	}
