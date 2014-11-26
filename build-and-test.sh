@@ -19,10 +19,10 @@ scripts/build.sh
 cd $project
 
 signal "Running Unit Tests"
-java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.unit.TestSuite
+java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.unit.UnitTests
 signal "Done"
 
 signal "Running Regression Tests"
-java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTest
+java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTests
 signal "Done"
 

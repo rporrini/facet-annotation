@@ -16,6 +16,8 @@ import org.hamcrest.Matcher;
 public class CommandLineBenchmarkSimulation{
 	
 	private String knowledgeBase;
+	private String algorithm;
+	private String occurrences;
 	private List<String> results;
 	
 	public CommandLineBenchmarkSimulation onDBPedia(){
@@ -28,11 +30,29 @@ public class CommandLineBenchmarkSimulation{
 		return this;
 	}
 	
+	public CommandLineBenchmarkSimulation maximumLikelihood(){
+		this.algorithm = "ml";
+		this.occurrences = "simple";
+		return this;
+	}
+	
+	public CommandLineBenchmarkSimulation majority(){
+		this.algorithm = "mh";
+		this.occurrences = "simple";
+		return this;
+	}
+	
+	public CommandLineBenchmarkSimulation weightedFrequency(){
+		this.algorithm = "mhw";
+		this.occurrences = "contextualized";
+		return this;
+	}
+	
 	public CommandLineBenchmarkSimulation annotate(int groupID) throws Exception {
 		BenchmarkParameters parameters = RunEvaluation.benchmarkParameters(new String[]{
 				"kb=" + knowledgeBase,
-				"algorithm=mhw",
-				"occurrences=contextualized",
+				"algorithm=" + algorithm,
+				"occurrences=" + occurrences,
 				"context=partial",
 				"summary=trec"
 		});
