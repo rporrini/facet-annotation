@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 
 
-public class ContextualizedOccurrences implements Occurrences{
+public class ContextualizedOccurrences{
 	
 	private HashMap<String, Double> scores;
 	private SimilarityMetric metric;
@@ -15,14 +15,12 @@ public class ContextualizedOccurrences implements Occurrences{
 		this.metric = metric;
 	}
 	
-	@Override
 	public void accumulate(String label, String context, String targetContext, String[] subjectTypes, String[] objectTypes){
 		if(!scores.containsKey(label)) scores.put(label, 0.0);
 		float similarity = metric.getSimilarity(targetContext, context);
 		scores.put(label, scores.get(label) + similarity);
 	}
 	
-	@Override
 	public List<CandidateResource> toResults(){
 		List<CandidateResource> annotations = new ArrayList<CandidateResource>();
 		for(String label : scores.keySet()){
@@ -31,8 +29,7 @@ public class ContextualizedOccurrences implements Occurrences{
 		return annotations;
 	}
 	
-	@Override
-	public Occurrences clear(){
+	public ContextualizedOccurrences clear(){
 		return new ContextualizedOccurrences(metric);
 	}
 }

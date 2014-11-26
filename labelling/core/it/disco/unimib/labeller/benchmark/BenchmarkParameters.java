@@ -7,7 +7,6 @@ import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.Occurrences;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
@@ -78,8 +77,8 @@ public class BenchmarkParameters{
 		return contexts.get(contextString());
 	}
 	
-	private Occurrences occurrences() throws Exception{
-		HashMap<String, Occurrences> occurrences = new HashMap<String, Occurrences>();
+	private ContextualizedOccurrences occurrences() throws Exception{
+		HashMap<String, ContextualizedOccurrences> occurrences = new HashMap<String, ContextualizedOccurrences>();
 		occurrences.put("simple", new ContextualizedOccurrences(new ConstantSimilarity()));
 		occurrences.put("contextualized", new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity())));
 		return occurrences.get(occurrencesString());

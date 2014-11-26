@@ -5,13 +5,14 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.ConstantSimilarity;
+import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
-import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.SimpleOccurrences;
 
 import java.util.List;
 
@@ -41,7 +42,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		ContextualizedEvidence search = new ContextualizedEvidence(directory, new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ContextualizedOccurrences(new ConstantSimilarity()), new IndexFields("dbpedia"));
 		
 		assertThat(search.get("city", "any", new NoContext(new AllValues())).get(0).value(), equalTo("http://hasCapital"));
 	}
@@ -55,7 +56,7 @@ public class EvidenceTest {
 								yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
-		CandidateResource searchResult = new ContextualizedEvidence(directory, new SimpleOccurrences(), yago)
+		CandidateResource searchResult = new ContextualizedEvidence(directory, new ContextualizedOccurrences(new ConstantSimilarity()), yago)
 										.get("literal", "any", new NoContext(new AllValues())).get(0);
 		
 		assertThat(searchResult.value(), equalTo("property"));
@@ -81,7 +82,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		List<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new SimpleOccurrences(), dbpedia).get("literal", "type", new PartialContext(new AllValues()));
+		List<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ContextualizedOccurrences(new ConstantSimilarity()), dbpedia).get("literal", "type", new PartialContext(new AllValues()));
 		
 		assertThat(results.get(0).value(), equalTo("http://property"));
 		
@@ -98,7 +99,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		results = new ContextualizedEvidence(dbpediaDirectory, new SimpleOccurrences(), yago).get("literal", "type", new PartialContext(new AllValues()));
+		results = new ContextualizedEvidence(dbpediaDirectory, new ContextualizedOccurrences(new ConstantSimilarity()), yago).get("literal", "type", new PartialContext(new AllValues()));
 		
 		assertThat(results.get(0).value(), equalTo("property"));
 	}
@@ -118,6 +119,6 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(new ContextualizedEvidence(directory, new SimpleOccurrences(), dbpedia).get("literals", "type", new PartialContext(new AllValues())), hasSize(1));
+		assertThat(new ContextualizedEvidence(directory, new ContextualizedOccurrences(new ConstantSimilarity()), dbpedia).get("literals", "type", new PartialContext(new AllValues())), hasSize(1));
 	}
 }
