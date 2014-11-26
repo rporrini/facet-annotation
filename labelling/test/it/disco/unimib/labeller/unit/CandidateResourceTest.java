@@ -1,10 +1,9 @@
 package it.disco.unimib.labeller.unit;
 
-import static org.hamcrest.Matchers.allOf;
 import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
@@ -16,8 +15,10 @@ public class CandidateResourceTest {
 
 	@Test
 	public void shouldBeOrderedDescending() {
-		CandidateResource resultWithHigherScore = new CandidateResource("any", 20);
-		CandidateResource resultWithLowerScore = new CandidateResource("any", 10);
+		CandidateResource resultWithHigherScore = new CandidateResource("any");
+		resultWithHigherScore.sumScore(10);
+		CandidateResource resultWithLowerScore = new CandidateResource("any");
+		resultWithLowerScore.sumScore(5);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		results.add(resultWithLowerScore);
@@ -31,32 +32,37 @@ public class CandidateResourceTest {
 	@Test
 	public void shouldDisplayTheLocalScoresOnToString() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("value", 0.4);
+		CandidateResource predicate = new CandidateResource("value");
+		
+		predicate.sumScore(0.4);
 		
 		assertThat(predicate.toString(), containsString("0.4"));
 	}
 	
 	@Test
-	public void shouldGiveTheRightScore() throws Exception {
+	public void whenCreatedShouldHaveTheScoreSetToZero() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("value", 0.4);
+		CandidateResource predicate = new CandidateResource("any");
 		
-		assertThat(predicate.score(), equalTo(0.4));
+		assertThat(predicate.score(), equalTo(0.0));
 	}
 	
 	@Test
-	public void shouldDisplayAllTheLocalScores() throws Exception {
+	public void shouldIncrementScoreBySum() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
 		
-		CandidateResource predicate = new CandidateResource("value", 0.45, 0.94, 10);
+		predicate.sumScore(10.0);
 		
-		assertThat(predicate.toString(), allOf(containsString("0.45"), containsString("0.94"), containsString("10")));
+		assertThat(predicate.score(), equalTo(10.0));
 	}
 	
 	@Test
-	public void shouldGiveTheLastScoreAsTheCorrectOne() throws Exception {
+	public void shouldIncrementScoreBySumMultipleTimes() throws Exception {
+		CandidateResource predicate = new CandidateResource("any");
 		
-		CandidateResource predicate = new CandidateResource("value", 0.4, 0.3, 10);
+		predicate.sumScore(10.0);
+		predicate.sumScore(10.0);
 		
-		assertThat(predicate.score(), equalTo(10d));
+		assertThat(predicate.score(), equalTo(20.0));
 	}
 }

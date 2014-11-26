@@ -50,7 +50,9 @@ public class AnalizeQuestionnaireAnswers {
 						if(content.startsWith("http://")){
 							String propertyScore = externals.getCellAt("C" + row).getTextValue();
 							if(!propertyScore.equals("")){
-								groupPredicates.add(new CandidateResource(content, Double.parseDouble(propertyScore)));
+								CandidateResource e = new CandidateResource(content);
+								e.sumScore(Double.parseDouble(propertyScore));
+								groupPredicates.add(e);
 							}
 						}
 						row++;

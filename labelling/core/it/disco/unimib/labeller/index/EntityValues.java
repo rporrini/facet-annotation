@@ -42,7 +42,7 @@ public class EntityValues implements ReadAndWriteStore{
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(ScoreDoc score : searcher.search(query, 500, Sort.INDEXORDER).scoreDocs){
 			Document document = openSearcher().doc(score.doc, fieldsToLoad);
-			results.add(new CandidateResource(document.get(value()), 0));
+			results.add(new CandidateResource(document.get(value())));
 		}
 		return results;
 	}

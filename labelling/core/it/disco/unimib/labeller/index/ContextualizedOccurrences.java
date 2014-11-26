@@ -26,7 +26,9 @@ public class ContextualizedOccurrences{
 	public List<CandidateResource> toResults(){
 		List<CandidateResource> annotations = new ArrayList<CandidateResource>();
 		for(String label : scores.keySet()){
-			annotations.add(new CandidateResource(label, scores.get(label)));
+			CandidateResource e = new CandidateResource(label);
+			e.sumScore(scores.get(label));
+			annotations.add(e);
 		}
 		return annotations;
 	}

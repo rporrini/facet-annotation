@@ -1,14 +1,13 @@
 package it.disco.unimib.labeller.index;
 
 
-
 public class CandidateResource implements Comparable<CandidateResource>{
 
-	private double[] scores;
+	private double score;
 	private RDFResource resource;
 
-	public CandidateResource(String id, double... scores) {
-		this.scores = scores;
+	public CandidateResource(String id) {
+		this.score = 0;
 		this.resource = new RDFResource(id);
 	}
 
@@ -21,24 +20,20 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	}
 	
 	public double score(){
-		return scores[scores.length - 1];
+		return score;
+	}
+	
+	public void sumScore(double d) {
+		this.score += d;
 	}
 	
 	@Override
 	public String toString() {
-		return id() + " [" + asString(this.scores) + "]";
+		return id() + " [" + this.score + "]";
 	}
 
 	@Override
 	public int compareTo(CandidateResource other) {
 		return (int) Math.signum(other.score() - this.score());
-	}
-	
-	private String asString(double... scores){
-		String result = "";
-		for(double score : scores){
-			result += " " + score;
-		}
-		return result.trim();
 	}
 }

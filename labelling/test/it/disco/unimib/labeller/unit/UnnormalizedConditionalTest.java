@@ -20,8 +20,12 @@ public class UnnormalizedConditionalTest {
 	public void aPredicateThatThatAppearsMoreFrequentlyThanAnotherHasAGreaterConditionalProbility() {
 		HashMap<String, List<CandidateResource>> distribution = new HashMap<String, List<CandidateResource>>();
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		results.add(new CandidateResource("capital", 25));
-		results.add(new CandidateResource("city", 10));
+		CandidateResource e = new CandidateResource("capital");
+		e.sumScore(25);
+		results.add(e);
+		CandidateResource e2 = new CandidateResource("city");
+		e2.sumScore(10);
+		results.add(e2);
 		distribution.put("paris", results);
 		
 		Distribution d = new Distribution(distribution);

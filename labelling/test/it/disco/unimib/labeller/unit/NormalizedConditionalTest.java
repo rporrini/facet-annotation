@@ -21,12 +21,18 @@ public class NormalizedConditionalTest {
 	public void theProbabilitiesOfThePredicateShouldSumToOne() {
 		HashMap<String, List<CandidateResource>> distribution = new HashMap<String, List<CandidateResource>>();
 		ArrayList<CandidateResource> occurrenciesForParis = new ArrayList<CandidateResource>();
-		occurrenciesForParis.add(new CandidateResource("capital", 1));
+		CandidateResource e = new CandidateResource("capital");
+		e.sumScore(1);
+		occurrenciesForParis.add(e);
 		distribution.put("paris", occurrenciesForParis);
 		
 		ArrayList<CandidateResource> occurrenciesForRome = new ArrayList<CandidateResource>();
-		occurrenciesForRome.add(new CandidateResource("capital", 1));
-		occurrenciesForRome.add(new CandidateResource("birthPlace", 1));
+		CandidateResource e2 = new CandidateResource("capital");
+		e2.sumScore(1);
+		occurrenciesForRome.add(e2);
+		CandidateResource e3 = new CandidateResource("birthPlace");
+		e3.sumScore(1);
+		occurrenciesForRome.add(e3);
 		distribution.put("rome", occurrenciesForRome);
 		
 		Distribution d = new Distribution(distribution);

@@ -43,7 +43,7 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldTrackTheExecutionWithLabel() throws Exception {
-		annotationResults.add(new CandidateResource("anyPath/year", 1));
+		annotationResults.add(new CandidateResource("anyPath/year"));
 		metric.track(createGroup("provider_context_label", 1), annotationResults);
 		
 		assertThat(metric.result(), containsString("|year|"));
@@ -80,8 +80,8 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldTrackPropertyHyperlink() throws Exception {
-		annotationResults.add(new CandidateResource("year", 1));
-		annotationResults.add(new CandidateResource("date", 1));
+		annotationResults.add(new CandidateResource("year"));
+		annotationResults.add(new CandidateResource("date"));
 		
 		metric.track(createGroup("amazon_context_label_url", 0), annotationResults);
 		
