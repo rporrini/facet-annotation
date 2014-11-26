@@ -4,7 +4,6 @@ import it.disco.unimib.labeller.benchmark.Events;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.document.Document;
@@ -42,7 +41,7 @@ public class ContextualizedEvidence implements Index{
 	}
 
 	@Override
-	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
+	public CandidateResourceSet get(String value, String domain, TripleSelectionCriterion query) throws Exception {
 		Stems stems = new Stems(indexFields);
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
 		int howMany = 1000000;
@@ -66,7 +65,7 @@ public class ContextualizedEvidence implements Index{
 			String[] objectTypes = document.getValues(indexFields.objectType());
 			occurrences.accumulate(predicate, context, subjectTypes, objectTypes);
 		}
-		return occurrences.toResults();
+		return occurrences.asResults();
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {

@@ -19,7 +19,7 @@ public class CandidatePredicates implements Predicates{
 	public Distribution forValues(String context, String[] values, TripleSelectionCriterion query) throws Exception {
 		HashMap<String, List<CandidateResource>> results = new HashMap<String, List<CandidateResource>>();
 		for(String value : values){
-			results.put(value, index.get(value, context, query));
+			results.put(value, index.get(value, context, query).asList());
 		}
 		return new Distribution(results);
 	}

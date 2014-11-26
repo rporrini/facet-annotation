@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.List;
 
 
 
@@ -17,13 +16,13 @@ public class ContextualizedOccurrences{
 	}
 	
 	public void accumulate(String predicate, String context, String[] subjectTypes, String[] objectTypes){
-		CandidateResource candidateResource = scores.get(new CandidateResource(predicate));
-		candidateResource.sumScore(metric.getSimilarity(domain, context));
+		CandidateResource candidateResource = this.scores.get(new CandidateResource(predicate));
+		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
 		candidateResource.addSubjectTypes(subjectTypes);
 		candidateResource.addObjectTypes(objectTypes);
 	}
 	
-	public List<CandidateResource> toResults(){
-		return scores.asList();
+	public CandidateResourceSet asResults() {
+		return scores;
 	}
 }
