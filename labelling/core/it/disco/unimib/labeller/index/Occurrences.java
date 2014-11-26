@@ -8,6 +8,6 @@ public interface Occurrences {
 
 	public List<CandidateResource> toResults();
 
-	public void clear();
+	public Occurrences clear();
 
 }

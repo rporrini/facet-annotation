@@ -11,7 +11,7 @@ public class ContextualizedOccurrences implements Occurrences{
 	private SimilarityMetric metric;
 	
 	public ContextualizedOccurrences(SimilarityMetric metric){
-		clear();
+		this.scores = new HashMap<String, Double>();
 		this.metric = metric;
 	}
 	
@@ -32,7 +32,7 @@ public class ContextualizedOccurrences implements Occurrences{
 	}
 	
 	@Override
-	public void clear(){
-		this.scores = new HashMap<String, Double>();
+	public Occurrences clear(){
+		return new ContextualizedOccurrences(metric);
 	}
 }

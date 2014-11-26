@@ -3,7 +3,12 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 
+import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 
 public class Benchmark {
 
@@ -14,11 +19,39 @@ public class Benchmark {
 	}
 
 	public void on(GoldStandardFacet[] groups, Summary summary) throws Exception {
-		for(GoldStandardFacet group : groups){
-			new Events().debug("processing gold standard " + group.context() + " " + group.label());
-			List<String> elements = group.elements();
-			List<CandidateResource> labels = algorithm.typeOf(group.context(), elements);
-			summary.track(group, labels);
+		
+		ExecutorService executor = Executors.newFixedThreadPool(2);
+		
+		List<Future<BenchmarkResult>> results = new ArrayList<Future<BenchmarkResult>>();
+		for(final GoldStandardFacet group : groups){
+			Future<BenchmarkResult> future = executor.submit(new Callable<BenchmarkResult>() {
+				@Override
+				public BenchmarkResult call() throws Exception {
+					new Events().debug("processing gold standard " + group.context() + " " + group.label());
+					List<String> elements = group.elements();
+					return new BenchmarkResult(group, algorithm.typeOf(group.context(), elements));
+				}
+			});
+			results.add(future);
 		}
+		
+		executor.shutdown();
+		while(!executor.isTerminated()){}
+		
+		for(Future<BenchmarkResult> future : results){
+			BenchmarkResult result = future.get();
+			summary.track(result.facet, result.results);
+		}
+	}
+}
+
+class BenchmarkResult{
+	
+	public GoldStandardFacet facet;
+	public List<CandidateResource> results;
+
+	public BenchmarkResult(GoldStandardFacet facet, List<CandidateResource> results){
+		this.facet = facet;
+		this.results = results;
 	}
 }

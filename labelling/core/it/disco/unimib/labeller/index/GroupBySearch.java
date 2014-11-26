@@ -43,6 +43,7 @@ public class GroupBySearch implements Index{
 
 	@Override
 	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
+		Occurrences occurrences = this.occurrences.clear();
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value, 
 									  domain, 
@@ -67,7 +68,6 @@ public class GroupBySearch implements Index{
 			occurrences.accumulate(label, context, stemmedDomain);
 		}
 		List<CandidateResource> annotations = occurrences.toResults();
-		occurrences.clear();
 		return annotations;
 	}
 	
