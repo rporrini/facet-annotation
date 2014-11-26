@@ -1,10 +1,10 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateResourceSet;
 
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class Distribution{
@@ -12,7 +12,7 @@ public class Distribution{
 	private HashMap<String, HashMap<String, Double>> scores;
 	private Set<String> values;
 	
-	public Distribution(HashMap<String, List<CandidateResource>> valueDistribution) {
+	public Distribution(HashMap<String, CandidateResourceSet> valueDistribution) {
 		this.scores = invert(valueDistribution);
 		this.values = enumerateValues();
 	}
@@ -49,10 +49,10 @@ public class Distribution{
 		return values;
 	}
 	
-	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, List<CandidateResource>> valueDistribution) {
+	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, CandidateResourceSet> valueDistribution) {
 		HashMap<String, HashMap<String, Double>> inverted = new HashMap<String, HashMap<String, Double>>();
 		for(String value : valueDistribution.keySet()){
-			for(CandidateResource predicate : valueDistribution.get(value)){
+			for(CandidateResource predicate : valueDistribution.get(value).asList()){
 				if(!inverted.containsKey(predicate.id())) {
 					inverted.put(predicate.id(), new HashMap<String, Double>());
 				}
