@@ -9,7 +9,7 @@ public class SimpleOccurrences implements Occurrences{
 	private HashMap<String, Double> scores;
 	
 	public SimpleOccurrences(){
-		clear();
+		this.scores = new HashMap<String, Double>();
 	}
 	
 	@Override
@@ -28,7 +28,7 @@ public class SimpleOccurrences implements Occurrences{
 	}
 	
 	@Override
-	public void clear(){
-		this.scores = new HashMap<String, Double>();
+	public Occurrences clear(){
+		return new SimpleOccurrences();
 	}
 }
