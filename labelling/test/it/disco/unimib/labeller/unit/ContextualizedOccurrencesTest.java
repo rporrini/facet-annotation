@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
@@ -15,9 +16,11 @@ public class ContextualizedOccurrencesTest {
 	@Test
 	public void shouldEvalutateTheSimilarityBetweenTheGivenDomainAndTheContextOfTheTriple() {
 		
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity()));
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(
+													new SimilarityMetricWrapper(new JaccardSimilarity()),
+													"genre");
 		
-		occurrences.accumulate("predicate", "movie genre", "genre", null, null);
+		occurrences.accumulate("predicate", "movie genre", null, null);
 		
 		assertThat(occurrences.toResults().get(0).score(), equalTo(0.5));
 	}
@@ -25,11 +28,27 @@ public class ContextualizedOccurrencesTest {
 	@Test
 	public void shouldSumUpTheOccurrences() {
 		
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new ConstantSimilarity());
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(
+													new ConstantSimilarity(),
+													"any");
 		
-		occurrences.accumulate("predicate", "movie genre", "genre", null, null);
-		occurrences.accumulate("predicate", "movie genre", "genre", null, null);
+		occurrences.accumulate("predicate", "movie genre", null, null);
+		occurrences.accumulate("predicate", "movie genre", null, null);
 		
 		assertThat(occurrences.toResults().get(0).score(), equalTo(2.0));
+	}
+	
+	@Test
+	public void shouldAccumulateByPredicate() throws Exception {
+		
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(
+													new ConstantSimilarity(),
+													"any");
+		
+		occurrences.accumulate("predicate1", "movie genre", null, null);
+		occurrences.accumulate("predicate1", "movie genre", null, null);
+		occurrences.accumulate("predicate2", "movie genre", null, null);
+		
+		assertThat(occurrences.toResults(), hasSize(2));
 	}
 }
