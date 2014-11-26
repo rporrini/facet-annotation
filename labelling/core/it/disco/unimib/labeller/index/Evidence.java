@@ -37,18 +37,18 @@ public class Evidence implements WriteStore{
 		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
 		String value = triple.object().contains("http://") ? "" : triple.object();
 		for(CandidateResource label : this.objectLabels.get(triple.object())){
-			value += " " + label.value();
+			value += " " + label.id();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		for(CandidateResource type : this.objectTypes.get(triple.object())){
-			document.add(new Field(indexFields.objectType(), type.value(), TextField.TYPE_STORED));
+			document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
 		}
 		String context = "";
 		for(CandidateResource type : this.subjectTypes.get(triple.subject())){
-			for(CandidateResource label : this.subjectLabels.get(type.value())){
-				context += " " + label.value();
+			for(CandidateResource label : this.subjectLabels.get(type.id())){
+				context += " " + label.id();
 			}
-			document.add(new Field(indexFields.subjectType(), type.value(), TextField.TYPE_STORED));
+			document.add(new Field(indexFields.subjectType(), type.id(), TextField.TYPE_STORED));
 		}
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
 		document.add(new Field(indexFields.namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));

@@ -53,10 +53,10 @@ public class Distribution{
 		HashMap<String, HashMap<String, Double>> inverted = new HashMap<String, HashMap<String, Double>>();
 		for(String value : valueDistribution.keySet()){
 			for(CandidateResource predicate : valueDistribution.get(value)){
-				if(!inverted.containsKey(predicate.value())) {
-					inverted.put(predicate.value(), new HashMap<String, Double>());
+				if(!inverted.containsKey(predicate.id())) {
+					inverted.put(predicate.id(), new HashMap<String, Double>());
 				}
-				HashMap<String, Double> predicates = inverted.get(predicate.value());
+				HashMap<String, Double> predicates = inverted.get(predicate.id());
 				if(!predicates.containsKey(value)){
 					predicates.put(value, 0.0);
 				}

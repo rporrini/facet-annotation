@@ -43,7 +43,7 @@ public class EvidenceTest {
 		
 		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
-		assertThat(search.get("city", "any", new NoContext(new AllValues())).get(0).value(), equalTo("http://hasCapital"));
+		assertThat(search.get("city", "any", new NoContext(new AllValues())).get(0).id(), equalTo("http://hasCapital"));
 	}
 	
 	@Test
@@ -58,7 +58,7 @@ public class EvidenceTest {
 		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
 										.get("literal", "any", new NoContext(new AllValues())).get(0);
 		
-		assertThat(searchResult.value(), equalTo("property"));
+		assertThat(searchResult.id(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
 	}
 	
@@ -83,7 +83,7 @@ public class EvidenceTest {
 		
 		List<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia).get("literal", "type", new PartialContext(new AllValues()));
 		
-		assertThat(results.get(0).value(), equalTo("http://property"));
+		assertThat(results.get(0).id(), equalTo("http://property"));
 		
 		new Evidence(new RAMDirectory(), types, labels, yago)
 							.add(new TripleBuilder()
@@ -100,7 +100,7 @@ public class EvidenceTest {
 		
 		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago).get("literal", "type", new PartialContext(new AllValues()));
 		
-		assertThat(results.get(0).value(), equalTo("property"));
+		assertThat(results.get(0).id(), equalTo("property"));
 	}
 	
 	@Test

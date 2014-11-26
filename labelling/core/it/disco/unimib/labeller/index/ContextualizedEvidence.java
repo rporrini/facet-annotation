@@ -44,10 +44,9 @@ public class ContextualizedEvidence implements Index{
 	@Override
 	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
 		Stems stems = new Stems(indexFields);
-		String stemmedDomain = stems.of(domain);
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stemmedDomain);
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
 		int howMany = 1000000;
-		BooleanQuery q = query.asQuery(value, 
+		BooleanQuery q = query.asQuery(value,
 									  domain, 
 									  indexFields.literal(), 
 									  indexFields.context(), 
@@ -61,11 +60,11 @@ public class ContextualizedEvidence implements Index{
 										indexFields.objectType()
 									}));
 			Document document = searcher.doc(result.doc, fields);
-			String label = document.getValues(indexFields.predicateField())[0];
+			String predicate = document.getValues(indexFields.predicateField())[0];
 			String context = stems.of(StringUtils.join(document.getValues(indexFields.context()), " "));
 			String[] subjectTypes = document.getValues(indexFields.subjectType());
 			String[] objectTypes = document.getValues(indexFields.objectType());
-			occurrences.accumulate(label, context, subjectTypes, objectTypes);
+			occurrences.accumulate(predicate, context, subjectTypes, objectTypes);
 		}
 		return occurrences.toResults();
 	}

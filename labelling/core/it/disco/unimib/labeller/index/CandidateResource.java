@@ -5,19 +5,19 @@ package it.disco.unimib.labeller.index;
 public class CandidateResource implements Comparable<CandidateResource>{
 
 	private double[] scores;
-	private RDFResource predicate;
+	private RDFResource resource;
 
-	public CandidateResource(String value, double... scores) {
+	public CandidateResource(String id, double... scores) {
 		this.scores = scores;
-		this.predicate = new RDFResource(value);
+		this.resource = new RDFResource(id);
 	}
 
-	public String value() {
-		return predicate.uri();
+	public String id() {
+		return resource.uri();
 	}
 	
 	public String label() {
-		return predicate.label();
+		return resource.label();
 	}
 	
 	public double score(){
@@ -26,7 +26,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	
 	@Override
 	public String toString() {
-		return value() + " [" + asString(this.scores) + "]";
+		return id() + " [" + asString(this.scores) + "]";
 	}
 
 	@Override

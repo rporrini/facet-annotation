@@ -22,7 +22,7 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://any").get(0).value(), equalTo("the label"));
+		assertThat(index.get("http://any").get(0).id(), equalTo("the label"));
 	}
 	
 	@Test
@@ -61,6 +61,6 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://1234").get(0).value(), equalTo("http://uri%20with%20space"));
+		assertThat(index.get("http://1234").get(0).id(), equalTo("http://uri%20with%20space"));
 	}
 }
