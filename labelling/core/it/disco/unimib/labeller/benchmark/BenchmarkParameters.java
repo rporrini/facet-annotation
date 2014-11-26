@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
-import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.Occurrences;
@@ -43,7 +43,7 @@ public class BenchmarkParameters{
 	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
 		TripleSelectionCriterion context = context();
-		GroupBySearch index = new GroupBySearch(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
+		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", majority(index, context));
@@ -52,15 +52,15 @@ public class BenchmarkParameters{
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(GroupBySearch index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(GroupBySearch index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm pfd(ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index));
 	}
 
-	private AnnotationAlgorithm majority(GroupBySearch index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 

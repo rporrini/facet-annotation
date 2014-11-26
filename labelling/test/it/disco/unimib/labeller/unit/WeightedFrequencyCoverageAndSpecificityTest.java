@@ -9,7 +9,7 @@ import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
-import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
@@ -58,7 +58,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldNotOrderWithoutConsideringTheWeightOfPredicates() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		
@@ -71,7 +71,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesInContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
@@ -84,7 +84,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesOnYago() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("yago1"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("yago1"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
@@ -97,7 +97,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesOnDbpediaWithLabels() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia-with-labels"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
@@ -110,7 +110,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringPartialContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new LogarithmicPredicateSpecificy(index));
 		
@@ -123,7 +123,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringCompleteContext() throws Exception {	
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(new AllValues()), new LogarithmicPredicateSpecificy(index));
 		
@@ -149,7 +149,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesAndValues() throws Exception {
 		Directory directory = buildIndex();
 		
-		GroupBySearch index = new GroupBySearch(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new SimpleOccurrences(), new IndexFields("dbpedia"));
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new Constant());
 		

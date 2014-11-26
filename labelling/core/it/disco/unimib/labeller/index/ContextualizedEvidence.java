@@ -16,13 +16,13 @@ import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 
-public class GroupBySearch implements Index{
+public class ContextualizedEvidence implements Index{
 
 	private IndexSearcher searcher;
 	private Occurrences occurrences;
 	private IndexFields indexFields;
 	
-	public GroupBySearch(Directory indexDirectory, Occurrences score, IndexFields fields) throws Exception{
+	public ContextualizedEvidence(Directory indexDirectory, Occurrences score, IndexFields fields) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.occurrences = score;
 		this.indexFields = fields;

@@ -5,7 +5,7 @@ import it.disco.unimib.labeller.benchmark.UnorderedFacets;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
-import it.disco.unimib.labeller.index.GroupBySearch;
+import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
@@ -27,7 +27,7 @@ public class RunAlgorithm {
 		String knowledgeBase = "dbpedia";
 		NIOFSDirectory indexDirectory = new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + knowledgeBase + "/properties"));
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(new SimilarityMetricWrapper(new JaccardSimilarity()));
-		GroupBySearch index = new GroupBySearch(indexDirectory, occurrences, new IndexFields(knowledgeBase));
+		ContextualizedEvidence index = new ContextualizedEvidence(indexDirectory, occurrences, new IndexFields(knowledgeBase));
 		PartialContext valueMatching = new PartialContext(new AllValues());
 		LogarithmicPredicateSpecificy predicateSpecificity = new LogarithmicPredicateSpecificy(index);
 		WeightedFrequencyCoverageAndSpecificity majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, valueMatching, predicateSpecificity);
