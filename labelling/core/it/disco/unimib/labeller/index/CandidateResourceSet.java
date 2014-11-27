@@ -1,8 +1,7 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
-import java.util.List;
 
 public class CandidateResourceSet {
 
@@ -17,7 +16,7 @@ public class CandidateResourceSet {
 		return resources.get(resource.id());
 	}
 
-	public List<CandidateResource> asList() {
-		return new ArrayList<CandidateResource>(resources.values());
+	public Collection<CandidateResource> asList() {
+		return resources.values();
 	}
 }

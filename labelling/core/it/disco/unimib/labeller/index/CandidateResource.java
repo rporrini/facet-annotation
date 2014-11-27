@@ -1,25 +1,23 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
-import java.util.List;
+import java.util.Map.Entry;
 
 
 public class CandidateResource implements Comparable<CandidateResource>{
 
 	private double score;
-	private List<Double> localScores;
 	private RDFResource resource;
 	
-	private HashMap<String, CandidateResource> subjectTypes;
-	private HashMap<String, CandidateResource> objectTypes;
+	private HashMap<String, Double> subjectTypes;
+	private HashMap<String, Double> objectTypes;
 
 	public CandidateResource(String id) {
 		this.score = 0;
-		this.localScores = new ArrayList<Double>();
 		this.resource = new RDFResource(id);
-		this.subjectTypes = new HashMap<String, CandidateResource>();
-		this.objectTypes = new HashMap<String, CandidateResource>();
+		this.subjectTypes = new HashMap<String, Double>();
+		this.objectTypes = new HashMap<String, Double>();
 	}
 
 	public String id() {
@@ -36,7 +34,6 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	
 	public CandidateResource sumScore(double localScore) {
 		this.score += localScore;
-		this.localScores.add(localScore);
 		return this;
 	}
 	
@@ -44,7 +41,6 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		double totalScore = this.score;
 		if(totalScore == 0) totalScore = 1;
 		this.score = totalScore * localScore;
-		this.localScores.add(localScore);
 		return this;
 	}
 	
@@ -53,7 +49,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this;
 	}
 
-	public List<CandidateResource> subjectTypes() {
+	public Collection<CandidateResource> subjectTypes() {
 		return valuesOf(this.subjectTypes);
 	}
 
@@ -62,15 +58,13 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this;
 	}
 
-	public List<CandidateResource> objectTypes() {
+	public Collection<CandidateResource> objectTypes() {
 		return valuesOf(this.objectTypes);
 	}
 
 	@Override
 	public String toString() {
-		ArrayList<Double> results = new ArrayList<Double>(this.localScores);
-		results.add(this.score);
-		return id() + " " + results;
+		return id() + " " + this.score;
 	}
 
 	@Override
@@ -78,14 +72,18 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return (int) Math.signum(other.score() - this.score());
 	}
 	
-	private void addOrIncrementFrequencyCount(HashMap<String, CandidateResource> frequencies, String... types) {
+	private void addOrIncrementFrequencyCount(HashMap<String, Double> frequencies, String... types) {
 		for(String type : types){
-			if(!frequencies.containsKey(type)) frequencies.put(type, new CandidateResource(type));
-			frequencies.get(type).sumScore(1.0);
+			if(!frequencies.containsKey(type)) frequencies.put(type, 0.0);
+			frequencies.put(type, frequencies.get(type) + 1.0);
 		}
 	}
 	
-	private ArrayList<CandidateResource> valuesOf(HashMap<String, CandidateResource> values) {
-		return new ArrayList<CandidateResource>(values.values());
+	private Collection<CandidateResource> valuesOf(HashMap<String, Double> types) {
+		CandidateResourceSet results = new CandidateResourceSet();
+		for(Entry<String, Double> entry : types.entrySet()){
+			results.get(new CandidateResource(entry.getKey()).sumScore(entry.getValue()));
+		}
+		return results.asList();
 	}
 }

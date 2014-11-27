@@ -61,10 +61,10 @@ public class MaximumLikelihoodRegressionTest {
 							"bornIn",
 							"participatedIn",
 							"diedIn",
-							"livesIn",
 							"happenedIn",
 							"hasFamilyName",
-							"hasSuccessor"
+							"hasSuccessor",
+							"livesIn"
 							));
 	}
 

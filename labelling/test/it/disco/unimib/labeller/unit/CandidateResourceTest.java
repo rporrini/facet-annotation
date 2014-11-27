@@ -78,27 +78,6 @@ public class CandidateResourceTest {
 	}
 	
 	@Test
-	public void shouldDisplayAllTheLocalScoresWhenAdded() throws Exception {
-		
-		CandidateResource predicate = new CandidateResource("predicate");
-		
-		predicate.sumScore(2.0);
-		predicate.sumScore(3.0);
-		
-		assertThat(predicate.toString(), containsString("[2.0, 3.0, 5.0]"));
-	}
-	
-	@Test
-	public void shouldAllowAddingAndMultiplyingScores() throws Exception {
-		CandidateResource predicate = new CandidateResource("predicate");
-		
-		predicate.sumScore(2.0);
-		predicate.multiplyScore(10.0);
-		
-		assertThat(predicate.toString(), containsString("[2.0, 10.0, 20.0]"));
-	}
-	
-	@Test
 	public void shouldCollectSubjectTypes() throws Exception {
 		
 		CandidateResource predicate = new CandidateResource("any");
@@ -115,7 +94,7 @@ public class CandidateResourceTest {
 		predicate.addSubjectTypes("http://subject-type");
 		predicate.addSubjectTypes("http://subject-type");
 		
-		assertThat(predicate.subjectTypes().get(0).score() , equalTo(2.0));
+		assertThat(predicate.subjectTypes().iterator().next().score() , equalTo(2.0));
 	}
 	
 	@Test

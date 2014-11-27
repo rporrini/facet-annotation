@@ -23,7 +23,7 @@ public class ContextualizedOccurrencesTest {
 		
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		
-		assertThat(occurrences.asResults().asList().get(0).score(), equalTo(0.5));
+		assertThat(occurrences.asResults().asList().iterator().next().score(), equalTo(0.5));
 	}
 	
 	@Test
@@ -36,7 +36,7 @@ public class ContextualizedOccurrencesTest {
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		
-		assertThat(occurrences.asResults().asList().get(0).score(), equalTo(2.0));
+		assertThat(occurrences.asResults().asList().iterator().next().score(), equalTo(2.0));
 	}
 	
 	@Test
@@ -64,7 +64,7 @@ public class ContextualizedOccurrencesTest {
 		}, new String[]{
 				"object-type"
 		});
-		CandidateResource candidateResource = occurrences.asResults().asList().get(0);
+		CandidateResource candidateResource = occurrences.asResults().asList().iterator().next();
 		
 		assertThat(candidateResource.subjectTypes(), hasSize(1));
 		assertThat(candidateResource.objectTypes(), hasSize(1));
