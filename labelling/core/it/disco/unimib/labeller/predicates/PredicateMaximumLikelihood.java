@@ -31,7 +31,9 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 		NormalizedMaximumLikelihood likelihood = new NormalizedMaximumLikelihood(distribution, conditional, prior);
 		List<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
-			results.add(new CandidateResource(predicate, likelihood.of(predicate)));
+			CandidateResource e = new CandidateResource(predicate);
+			e.sumScore(likelihood.of(predicate));
+			results.add(e);
 		}
 		Collections.sort(results);
 		

@@ -1,38 +1,28 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 
 
-public class ContextualizedOccurrences implements Occurrences{
+
+public class ContextualizedOccurrences{
 	
-	private HashMap<String, Double> scores;
+	private String domain;
+	private CandidateResourceSet scores;
 	private SimilarityMetric metric;
 	
-	public ContextualizedOccurrences(SimilarityMetric metric){
-		this.scores = new HashMap<String, Double>();
+	public ContextualizedOccurrences(SimilarityMetric metric, String facetDomain){
+		this.scores = new CandidateResourceSet();
 		this.metric = metric;
+		this.domain = facetDomain;
 	}
 	
-	@Override
-	public void accumulate(String label, String context, String targetContext){
-		if(!scores.containsKey(label)) scores.put(label, 0.0);
-		float similarity = metric.getSimilarity(targetContext, context);
-		scores.put(label, scores.get(label) + similarity);
+	public void accumulate(String predicate, String context, String[] subjectTypes, String[] objectTypes){
+		CandidateResource candidateResource = this.scores.get(new CandidateResource(predicate));
+		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
+		candidateResource.addSubjectTypes(subjectTypes);
+		candidateResource.addObjectTypes(objectTypes);
 	}
 	
-	@Override
-	public List<CandidateResource> toResults(){
-		List<CandidateResource> annotations = new ArrayList<CandidateResource>();
-		for(String label : scores.keySet()){
-			annotations.add(new CandidateResource(label, scores.get(label)));
-		}
-		return annotations;
-	}
-	
-	@Override
-	public Occurrences clear(){
-		return new ContextualizedOccurrences(metric);
+	public CandidateResourceSet asResults() {
+		return scores;
 	}
 }

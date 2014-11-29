@@ -36,7 +36,9 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 			double count = predicateCounts.get(predicate);
 			double percentage = count / (double) elements.size();
 			if(percentage > threshold){
-				results.add(new CandidateResource(predicate, percentage));
+				CandidateResource e = new CandidateResource(predicate);
+				e.sumScore(percentage);
+				results.add(e);
 			}
 		}
 		Collections.sort(results);

@@ -25,7 +25,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
-		assertThat(results.get(0).value(), equalTo("other predicate"));
+		assertThat(results.get(0).id(), equalTo("other predicate"));
 	}
 	
 	@Test

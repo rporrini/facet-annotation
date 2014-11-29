@@ -50,7 +50,9 @@ public class AnalizeQuestionnaireAnswers {
 						if(content.startsWith("http://")){
 							String propertyScore = externals.getCellAt("C" + row).getTextValue();
 							if(!propertyScore.equals("")){
-								groupPredicates.add(new CandidateResource(content, Double.parseDouble(propertyScore)));
+								CandidateResource e = new CandidateResource(content);
+								e.sumScore(Double.parseDouble(propertyScore));
+								groupPredicates.add(e);
 							}
 						}
 						row++;
@@ -65,7 +67,7 @@ public class AnalizeQuestionnaireAnswers {
 				List<CandidateResource> predicatesToKeep = new ArrayList<CandidateResource>();
 				for(CandidateResource currentPredicate : goldStandard.get(group)){
 					for(CandidateResource predicate : goldStandard.get(group)){
-						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.value().equals(predicate.value())){
+						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.id().equals(predicate.id())){
 							predicatesToKeep.add(currentPredicate);
 							break;
 						}
@@ -87,12 +89,12 @@ public class AnalizeQuestionnaireAnswers {
 				for(CandidateResource currentPredicate : couples.get(group)){
 					totalPredicates++;
 					for(CandidateResource predicate : couples.get(group)){
-						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.value().equals(predicate.value())){
+						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.id().equals(predicate.id())){
 							if(similarScore(currentPredicate.score(), predicate.score()))
 								similarPredicates++;
 							else{
 								differentPredicates++;
-								switch (checkContains(currentPredicate.value())) {
+								switch (checkContains(currentPredicate.id())) {
 								case 1:
 									totalOntology++;
 									if(currentPredicate.score() > predicate.score()) betterOntology++;

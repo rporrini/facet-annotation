@@ -4,7 +4,6 @@ import it.disco.unimib.labeller.benchmark.Events;
 
 import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.document.Document;
@@ -16,13 +15,13 @@ import org.apache.lucene.search.Sort;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 
-public class GroupBySearch implements Index{
+public class ContextualizedEvidence implements Index{
 
 	private IndexSearcher searcher;
-	private Occurrences occurrences;
+	private SimilarityMetric occurrences;
 	private IndexFields indexFields;
 	
-	public GroupBySearch(Directory indexDirectory, Occurrences score, IndexFields fields) throws Exception{
+	public ContextualizedEvidence(Directory indexDirectory, SimilarityMetric score, IndexFields fields) throws Exception{
 		this.searcher = new IndexSearcher(DirectoryReader.open(indexDirectory));
 		this.occurrences = score;
 		this.indexFields = fields;
@@ -42,33 +41,31 @@ public class GroupBySearch implements Index{
 	}
 
 	@Override
-	public List<CandidateResource> get(String value, String domain, TripleSelectionCriterion query) throws Exception {
-		Occurrences occurrences = this.occurrences.clear();
+	public CandidateResourceSet get(String value, String domain, TripleSelectionCriterion query) throws Exception {
+		Stems stems = new Stems(indexFields);
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
 		int howMany = 1000000;
-		BooleanQuery q = query.asQuery(value, 
+		BooleanQuery q = query.asQuery(value,
 									  domain, 
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace(), 
 									  indexFields.analyzer());
-		Stems stems = new Stems(indexFields);
-		String stemmedDomain = stems.of(domain);
 		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
 			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
 										indexFields.predicateField(), 
-										indexFields.context(), 
+										indexFields.context(),
 										indexFields.subjectType(),
 										indexFields.objectType()
 									}));
 			Document document = searcher.doc(result.doc, fields);
-			String label = document.getValues(indexFields.predicateField())[0];
+			String predicate = document.getValues(indexFields.predicateField())[0];
 			String context = stems.of(StringUtils.join(document.getValues(indexFields.context()), " "));
-			document.getValues(indexFields.subjectType());
-			document.getValues(indexFields.objectType());
-			occurrences.accumulate(label, context, stemmedDomain);
+			String[] subjectTypes = document.getValues(indexFields.subjectType());
+			String[] objectTypes = document.getValues(indexFields.objectType());
+			occurrences.accumulate(predicate, context, subjectTypes, objectTypes);
 		}
-		List<CandidateResource> annotations = occurrences.toResults();
-		return annotations;
+		return occurrences.asResults();
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {

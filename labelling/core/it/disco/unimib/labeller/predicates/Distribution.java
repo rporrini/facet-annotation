@@ -1,28 +1,27 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateResourceSet;
 
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 public class Distribution{
 	
-	private HashMap<String, HashMap<String, Double>> scores;
+	private HashMap<String, HashMap<String, CandidateResource>> scores;
 	private Set<String> values;
 	
-	public Distribution(HashMap<String, List<CandidateResource>> valueDistribution) {
+	public Distribution(HashMap<String, CandidateResourceSet> valueDistribution) {
 		this.scores = invert(valueDistribution);
-		this.values = enumerateValues();
+		this.values = valueDistribution.keySet();
 	}
 	
 	public double scoreOf(String predicate, String value) {
-		Double score = scores.get(predicate).get(value);
+		CandidateResource score = scores.get(predicate).get(value);
 		if(score == null){
-			score = 0.0;
+			return 0.0;
 		}
-		return score;
+		return score.score();
 	}
 	
 	public double totalScoreOf(String value){
@@ -41,26 +40,14 @@ public class Distribution{
 		return values;
 	}
 	
-	private Set<String> enumerateValues(){
-		HashSet<String> values = new HashSet<String>();
-		for(String predicate : predicates()){
-			values.addAll(scores.get(predicate).keySet());
-		}
-		return values;
-	}
-	
-	private HashMap<String, HashMap<String, Double>> invert(HashMap<String, List<CandidateResource>> valueDistribution) {
-		HashMap<String, HashMap<String, Double>> inverted = new HashMap<String, HashMap<String, Double>>();
+	private HashMap<String, HashMap<String, CandidateResource>> invert(HashMap<String, CandidateResourceSet> valueDistribution) {
+		HashMap<String, HashMap<String, CandidateResource>> inverted = new HashMap<String, HashMap<String, CandidateResource>>();
 		for(String value : valueDistribution.keySet()){
-			for(CandidateResource predicate : valueDistribution.get(value)){
-				if(!inverted.containsKey(predicate.value())) {
-					inverted.put(predicate.value(), new HashMap<String, Double>());
+			for(CandidateResource predicate : valueDistribution.get(value).asList()){
+				if(!inverted.containsKey(predicate.id())) {
+					inverted.put(predicate.id(), new HashMap<String, CandidateResource>());
 				}
-				HashMap<String, Double> predicates = inverted.get(predicate.value());
-				if(!predicates.containsKey(value)){
-					predicates.put(value, 0.0);
-				}
-				predicates.put(value, predicates.get(value) + predicate.score());
+				inverted.get(predicate.id()).put(value, predicate);
 			}
 		}
 		return inverted;

@@ -11,7 +11,7 @@ class AnnotationAlgorithmTestDouble implements AnnotationAlgorithm{
 	private ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 
 	public AnnotationAlgorithmTestDouble thatReturns(String result){
-		results.add(new CandidateResource(result, 1));
+		results.add(new CandidateResource(result));
 		return this;
 	}
 	

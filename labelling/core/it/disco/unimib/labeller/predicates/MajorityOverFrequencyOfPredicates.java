@@ -39,7 +39,9 @@ public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : predicateCounts.keySet()){
 			Double wfreq = predicateCounts.get(predicate);
-			results.add(new CandidateResource(predicate, wfreq));
+			CandidateResource e = new CandidateResource(predicate);
+			e.sumScore(wfreq);
+			results.add(e);
 		}
 		
 		Collections.sort(results);

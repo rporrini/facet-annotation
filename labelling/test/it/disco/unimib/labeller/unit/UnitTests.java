@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
 @RunWith(ClasspathSuite.class)
 @IncludeJars(true)
 @ClassnameFilters({"it.disco.unimib.labeller.unit.*Test"})
-public class TestSuite {
+public class UnitTests {
 	
 	@BeforeSuite
 	public static void setLogging(){
