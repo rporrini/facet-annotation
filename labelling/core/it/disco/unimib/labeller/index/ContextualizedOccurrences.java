@@ -17,6 +17,7 @@ public class ContextualizedOccurrences{
 	
 	public void accumulate(String predicate, String context, String[] subjectTypes, String[] objectTypes){
 		CandidateResource candidateResource = this.scores.get(new CandidateResource(predicate));
+		candidateResource.occurred();
 		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
 		candidateResource.addSubjectTypes(subjectTypes);
 		candidateResource.addObjectTypes(objectTypes);

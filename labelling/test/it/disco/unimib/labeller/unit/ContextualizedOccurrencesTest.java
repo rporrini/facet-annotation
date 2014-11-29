@@ -36,7 +36,9 @@ public class ContextualizedOccurrencesTest {
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		
-		assertThat(occurrences.asResults().asList().iterator().next().score(), equalTo(2.0));
+		CandidateResource first = occurrences.asResults().asList().iterator().next();
+		assertThat(first.score(), equalTo(2.0));
+		assertThat(first.totalOccurrences(), equalTo(2.0));
 	}
 	
 	@Test

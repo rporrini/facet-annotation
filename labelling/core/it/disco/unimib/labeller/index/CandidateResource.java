@@ -8,12 +8,14 @@ import java.util.Map.Entry;
 public class CandidateResource implements Comparable<CandidateResource>{
 
 	private double score;
+	private double count;
 	private RDFResource resource;
 	
 	private HashMap<String, Double> subjectTypes;
 	private HashMap<String, Double> objectTypes;
 
 	public CandidateResource(String id) {
+		this.count = 0;
 		this.score = 0;
 		this.resource = new RDFResource(id);
 		this.subjectTypes = new HashMap<String, Double>();
@@ -30,6 +32,14 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	
 	public double score(){
 		return score;
+	}
+	
+	public double totalOccurrences() {
+		return this.count;
+	}
+	
+	public void occurred() {
+		this.count++;
 	}
 	
 	public CandidateResource sumScore(double localScore) {
