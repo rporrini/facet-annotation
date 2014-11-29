@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.performance;
 
-import it.disco.unimib.labeller.regression.CommandLineBenchmarkSimulation;
+import it.disco.unimib.labeller.benchmark.CommandLineBenchmarkSimulation;
 
 import org.junit.BeforeClass;
 import org.junit.Test;

@@ -1,10 +1,6 @@
-package it.disco.unimib.labeller.regression;
+package it.disco.unimib.labeller.benchmark;
 
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
-import it.disco.unimib.labeller.benchmark.GoldStandard;
-import it.disco.unimib.labeller.benchmark.SingleFacet;
-import it.disco.unimib.labeller.benchmark.Summary;
 import it.disco.unimib.labeller.tools.RunEvaluation;
 import it.disco.unimib.labeller.tools.TrecResultPredicate;
 
@@ -18,7 +14,7 @@ public class CommandLineBenchmarkSimulation{
 	private String knowledgeBase;
 	private String algorithm;
 	private String occurrences;
-	private List<String> results;
+	private List<TrecResultPredicate> results;
 	
 	public CommandLineBenchmarkSimulation onDBPedia(){
 		this.knowledgeBase = "dbpedia";
@@ -59,16 +55,28 @@ public class CommandLineBenchmarkSimulation{
 		Summary summary = parameters.analysis();
 		GoldStandard goldStandard = new SingleFacet(parameters.goldStandard(), groupID);
 		RunEvaluation.runBenchmark(summary, parameters.algorithm(), goldStandard);
-		List<String> results = new ArrayList<String>();
+		List<TrecResultPredicate> results = new ArrayList<TrecResultPredicate>();
 		for(String line : summary.result().split("\n")){
-			results.add(new TrecResultPredicate(line).value());
+			results.add(new TrecResultPredicate(line));
 		}
 		this.results = results;
 		return this;
 	}
 	
+	public List<TrecResultPredicate> results(){
+		return results;
+	}
+	
 	public CommandLineBenchmarkSimulation assertThatResults(Matcher<? super List<String>> matcher){
-		assertThat(this.results, matcher);
+		assertThat(resutltsAsStrings(), matcher);
 		return this;
+	}
+	
+	private List<String> resutltsAsStrings(){
+		List<String> strings = new ArrayList<String>();
+		for(TrecResultPredicate predicate : this.results){
+			strings.add(predicate.score());
+		}
+		return strings;
 	}
 }

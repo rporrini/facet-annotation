@@ -10,25 +10,29 @@ public class TrecResultPredicate implements Comparable<TrecResultPredicate>{
 		this.line = line;
 	}
 	
-	public String value(){
-		return StringUtils.split(line, " ")[2];
+	public String score(){
+		return split()[2];
 	}
 	
 	public Double rank(){
-		return Double.parseDouble(StringUtils.split(line, " ")[4]);
+		return Double.parseDouble(split()[4]);
 	}
 	
 	public int groupId(){
-		return Integer.parseInt(StringUtils.split(line, " ")[0]);
+		return Integer.parseInt(split()[0]);
 	}
 	
 	@Override
 	public String toString() {
-		return value() + " (" + rank() + ")";
+		return score() + " (" + rank() + ")";
 	}
 	
 	@Override
 	public int compareTo(TrecResultPredicate other) {
 		return (int)Math.signum(other.rank() - this.rank());
+	}
+	
+	private String[] split() {
+		return StringUtils.split(line, " ");
 	}
 }

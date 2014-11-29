@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.regression;
 
 import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.hasSize;
+import it.disco.unimib.labeller.benchmark.CommandLineBenchmarkSimulation;
 
 import org.junit.Test;
 
