@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.hasSize;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
@@ -113,5 +113,23 @@ public class CandidateResourceTest {
 		predicate.addObjectTypes("http://object-type", "http://object-type");
 		
 		assertThat(predicate.objectTypes() , hasSize(1));
+	}
+	
+	@Test
+	public void whenCreatedIsNotOccurredYet() throws Exception {
+		
+		CandidateResource predicate = new CandidateResource("any");
+		
+		assertThat(predicate.totalOccurrences(), equalTo(0.0));
+	}
+	
+	@Test
+	public void shouldTrackOccurrencesNotOccurredYet() throws Exception {
+		
+		CandidateResource predicate = new CandidateResource("any");
+		
+		predicate.occurred();
+		
+		assertThat(predicate.totalOccurrences(), equalTo(1.0));
 	}
 }
