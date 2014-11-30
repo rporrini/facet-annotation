@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.unit;
 
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasEntry;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
@@ -45,5 +46,23 @@ public class DistributionTest {
 		
 		assertThat(subjectsOf, hasEntry("organization", 1.0));
 		assertThat(subjectsOf, hasEntry("thing", 0.5));
+	}
+	
+	@Test
+	public void shouldReturnEmptyObjectDistribution() throws Exception {
+		
+		Map<String, Double> objectsOf = new Distribution(new HashMap<String, CandidateResourceSet>())
+									.objectsOf("party", "national");
+		
+		assertThat(objectsOf.size(), equalTo(0));
+	}
+	
+	@Test
+	public void shouldReturnEmptySubjectDistribution() throws Exception {
+		
+		Map<String, Double> subjectsOf = new Distribution(new HashMap<String, CandidateResourceSet>())
+									.subjectsOf("party", "national");
+		
+		assertThat(subjectsOf.size(), equalTo(0));
 	}
 }
