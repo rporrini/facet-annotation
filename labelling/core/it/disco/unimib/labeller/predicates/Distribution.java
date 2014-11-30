@@ -4,6 +4,7 @@ import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
 
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Set;
 
 public class Distribution{
@@ -17,11 +18,31 @@ public class Distribution{
 	}
 	
 	public double scoreOf(String predicate, String value) {
-		CandidateResource score = scores.get(predicate).get(value);
-		if(score == null){
+		CandidateResource resource = scores.get(predicate).get(value);
+		if(resource == null){
 			return 0.0;
 		}
-		return score.score();
+		return resource.score();
+	}
+	
+	public Map<String, Double> objectsOf(String predicate, String value) {
+		HashMap<String, Double> distribution = new HashMap<String, Double>();
+		CandidateResource resource = scores.get(predicate).get(value);
+		if(resource == null) return distribution;
+		for(CandidateResource object : resource.objectTypes()){
+			distribution.put(object.id(), object.score() / resource.totalOccurrences());
+		}
+		return distribution;
+	}
+	
+	public Map<String, Double> subjectsOf(String predicate, String value) {
+		HashMap<String, Double> distribution = new HashMap<String, Double>();
+		CandidateResource resource = scores.get(predicate).get(value);
+		if(resource == null) return distribution;
+		for(CandidateResource subject : resource.subjectTypes()){
+			distribution.put(subject.id(), subject.score() / resource.totalOccurrences());
+		}
+		return distribution;
 	}
 	
 	public double totalScoreOf(String value){

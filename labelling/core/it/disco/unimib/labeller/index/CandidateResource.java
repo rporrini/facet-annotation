@@ -38,8 +38,9 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this.count;
 	}
 	
-	public void occurred() {
+	public CandidateResource occurred() {
 		this.count++;
+		return this;
 	}
 	
 	public CandidateResource sumScore(double localScore) {

@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
+import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
@@ -8,7 +9,12 @@ import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
@@ -36,6 +42,9 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				double score = distribution.scoreOf(predicate, value);
 				if(score > 0) covered++;
 				frequencyOverValues += score;
+				
+				new Events().debug(predicate + " - " + value + " SUBJECTS: " + getTopOccurrent(sortByValue(distribution.subjectsOf(predicate, value))));
+				new Events().debug(predicate + " - " + value + " OBJECTS: " + getTopOccurrent(sortByValue(distribution.objectsOf(predicate, value))));
 			}
 			
 			CandidateResource resource = new CandidateResource(predicate);
@@ -55,4 +64,38 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		Collections.sort(results);
 		return results;
 	}
+	
+	private Map<String, Double>  sortByValue(Map<String, Double> map )
+	{
+	    List<Map.Entry<String, Double>> list = new LinkedList<>(map.entrySet());
+	    Collections.sort(list, new Comparator<Map.Entry<String, Double>>()
+	    {
+	        @Override
+	        public int compare( Map.Entry<String, Double> o1, Map.Entry<String, Double> o2 )
+	        {
+	            return (o2.getValue()).compareTo(o1.getValue());
+	        }
+	    } );
+	
+	    Map<String, Double> result = new LinkedHashMap<>();
+	    for (Map.Entry<String, Double> entry : list)
+	    {
+	        result.put(entry.getKey(), entry.getValue());
+	    }
+	    return result;
+	}
+	
+	private Map<String, Double> getTopOccurrent(Map<String, Double> input){
+		HashMap<String, Double> hashMap = new HashMap<String, Double>();
+		int topK = 0;
+		for(String key: input.keySet()){
+			if(topK < 10){
+				hashMap.put(key, input.get(key));
+			}
+			topK++;
+		}
+		return sortByValue(hashMap);
+	}
 }
+
+
