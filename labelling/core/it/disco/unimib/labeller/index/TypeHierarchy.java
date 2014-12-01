@@ -1,8 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
+import java.util.List;
 
 import org.semanticweb.yars.nx.parser.NxParser;
 
@@ -14,19 +14,22 @@ public class TypeHierarchy {
 		this.types = new HashMap<String, Type>();
 		for(String line : file.lines()){
 			NTriple nTriple = new NTriple(NxParser.parseNodes(line));
-			RDFResource subType = nTriple.subject();
-			RDFResource superType = nTriple.object();
+			RDFResource subResource = nTriple.subject();
+			RDFResource superResource = nTriple.object();
 			
-			if(!types.containsKey(subType.uri())) types.put(subType.uri(), new Type(subType));
-			types.get(subType.uri()).addSuperType(superType);
+			if(!types.containsKey(subResource.uri())) types.put(subResource.uri(), new Type(subResource));
+			if(!types.containsKey(superResource.uri())) types.put(superResource.uri(), new Type(superResource));
 			
-			if(!types.containsKey(superType.uri())) types.put(superType.uri(), new Type(superType));
-			types.get(superType.uri()).addSubType(subType);
+			Type subType = types.get(subResource.uri());
+			Type superType = types.get(superResource.uri());
+			
+			subType.addSuperType(superType);
+			superType.addSubType(subType);
 		}
 	}
 
-	public Set<Type> getRootCategories() {
-		HashSet<Type> roots = new HashSet<Type>();
+	public List<Type> getRootTypes() {
+		List<Type> roots = new ArrayList<Type>();
 		for(String uri : types.keySet()){
 			Type type = types.get(uri);
 			if(type.isRoot()) roots.add(type);

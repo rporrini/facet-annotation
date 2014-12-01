@@ -1,8 +1,10 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.empty;
+import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.Type;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import org.junit.Test;
@@ -15,7 +17,7 @@ public class TypeHierarchyTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		assertThat(hierarchy.getRootCategories(), empty());
+		assertThat(hierarchy.getRootTypes(), empty());
 	}
 	
 	@Test
@@ -27,7 +29,7 @@ public class TypeHierarchyTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		assertThat(hierarchy.getRootCategories(), hasSize(1));
+		assertThat(hierarchy.getRootTypes(), hasSize(1));
 	}
 	
 	@Test
@@ -44,6 +46,29 @@ public class TypeHierarchyTest {
 
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		assertThat(hierarchy.getRootCategories(), hasSize(1));
+		assertThat(hierarchy.getRootTypes(), hasSize(1));
+	}
+	
+	@Test
+	public void shouldGiveTheHierarchyAsAResults() throws Exception {
+		InputFileTestDouble input = new InputFileTestDouble()
+											.withLine(new TripleBuilder()
+															.withSubject("person")
+															.withObject("agent")
+															.asNTriple())
+											.withLine(new TripleBuilder()
+															.withSubject("politician")
+															.withObject("person")
+															.asNTriple());
+
+		TypeHierarchy hierarchy = new TypeHierarchy(input);
+		
+		Type root = hierarchy.getRootTypes().iterator().next();
+		Type subType = root.subTypes().iterator().next();
+		Type subSubType = subType.subTypes().iterator().next();
+		
+		assertThat(root.toString(), equalTo("agent"));
+		assertThat(subType.toString(), equalTo("person"));
+		assertThat(subSubType.toString(), equalTo("politician"));
 	}
 }

@@ -1,29 +1,34 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.HashSet;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Type{
 	
 	private RDFResource resource;
-	private HashSet<RDFResource> superTypes;
-	private HashSet<RDFResource> subTypes;
+	private List<Type> superTypes;
+	private List<Type> subTypes;
 
 	public Type(RDFResource resource){
 		this.resource = resource;
-		this.superTypes = new HashSet<RDFResource>();
-		this.subTypes = new HashSet<RDFResource>();
+		this.superTypes = new ArrayList<Type>();
+		this.subTypes = new ArrayList<Type>();
 	}
 	
-	public void addSuperType(RDFResource superType){
+	public void addSuperType(Type superType){
 		this.superTypes.add(superType);
 	}
 	
-	public void addSubType(RDFResource subType){
+	public void addSubType(Type subType){
 		this.subTypes.add(subType);
 	}
 	
 	public boolean isRoot(){
 		return superTypes.isEmpty();
+	}
+	
+	public List<Type> subTypes(){
+		return this.subTypes;
 	}
 	
 	@Override
