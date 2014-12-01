@@ -24,8 +24,13 @@ public class RDFResource {
 	}
 	
 	@Override
+	public String toString() {
+		return uri();
+	}
+	
+	@Override
 	public int hashCode() {
-		return uri().hashCode();
+		return toString().hashCode();
 	}
 	
 	@Override

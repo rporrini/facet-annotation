@@ -4,7 +4,6 @@ import java.util.HashSet;
 
 public class Type{
 	
-	@SuppressWarnings("unused")
 	private RDFResource resource;
 	private HashSet<RDFResource> superTypes;
 	private HashSet<RDFResource> subTypes;
@@ -25,5 +24,10 @@ public class Type{
 	
 	public boolean isRoot(){
 		return superTypes.isEmpty();
+	}
+	
+	@Override
+	public String toString() {
+		return resource.toString();
 	}
 }
