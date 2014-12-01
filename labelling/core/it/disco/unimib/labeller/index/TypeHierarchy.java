@@ -8,23 +8,29 @@ import org.semanticweb.yars.nx.parser.NxParser;
 
 public class TypeHierarchy {
 
-	private HashMap<RDFResource, RDFResource> subTypes;
-	private HashSet<RDFResource> categories;
+	private HashMap<String, Type> types;
 
 	public TypeHierarchy(InputFile file) throws Exception {
-		this.subTypes = new HashMap<RDFResource, RDFResource>();
-		this.categories = new HashSet<RDFResource>();
+		this.types = new HashMap<String, Type>();
 		for(String line : file.lines()){
 			NTriple nTriple = new NTriple(NxParser.parseNodes(line));
-			subTypes.put(nTriple.subject(), nTriple.object());
-			categories.add(nTriple.subject());
-			categories.add(nTriple.object());
+			RDFResource subType = nTriple.subject();
+			RDFResource superType = nTriple.object();
+			
+			if(!types.containsKey(subType.uri())) types.put(subType.uri(), new Type(subType));
+			types.get(subType.uri()).addSuperType(superType);
+			
+			if(!types.containsKey(superType.uri())) types.put(superType.uri(), new Type(superType));
+			types.get(superType.uri()).addSubType(subType);
 		}
 	}
 
-	public Set<RDFResource> getRootCategories() {
-		HashSet<RDFResource> roots = new HashSet<RDFResource>(categories);
-		roots.removeAll(subTypes.values());
+	public Set<Type> getRootCategories() {
+		HashSet<Type> roots = new HashSet<Type>();
+		for(String uri : types.keySet()){
+			Type type = types.get(uri);
+			if(type.isRoot()) roots.add(type);
+		}
 		return roots;
 	}
 }
