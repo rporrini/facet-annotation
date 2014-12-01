@@ -120,10 +120,10 @@ if [ ! -d "yago1-labels" ]; then
 	grep "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" yago.nt > yago-types.nt
 	grep "http://www.w3.org/2000/01/rdf-schema#label" yago.nt > yago-labels.nt
 	grep -v "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" yago.nt | grep -v "http://www.w3.org/2000/01/rdf-schema#label" > yago-facts.nt
-	grep "http://www.w3.org/2000/01/rdf-schema#subClassOf" yago.nt > type-hierarchy.nt
+	grep "http://www.w3.org/2000/01/rdf-schema#subClassOf" yago.nt > type-tree.nt
 	rm yago.nt
-	mkdir ../yago1-type-hierarchy
-	mv type-hierarchy.nt ../yago1-type-hierarchy
+	mkdir ../yago1-type-tree
+	mv type-tree.nt ../yago1-type-tree
 	mkdir ../yago1-properties
 	mv yago-facts.nt ../yago1-properties
 	mkdir ../yago1-types
