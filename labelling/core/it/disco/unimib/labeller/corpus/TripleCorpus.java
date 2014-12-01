@@ -30,9 +30,9 @@ public class TripleCorpus implements WriteStore{
 
 	@Override
 	public TripleCorpus add(NTriple triple) throws Exception {
-		List<String> values = getLabels(triple.object());
+		List<String> values = getLabels(triple.object().uri());
 		List<String> types = new ArrayList<String>();
-		for(CandidateResource type : this.types.get(triple.subject())){
+		for(CandidateResource type : this.types.get(triple.subject().uri())){
 			types.addAll(getLabels(type.id()));
 		}
 		for(String type : types){

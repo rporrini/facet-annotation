@@ -10,15 +10,15 @@ public class NTriple{
 		this.nodes = triple;
 	}
 	
-	public String subject(){
-		return nodes[0].toString();
+	public RDFResource subject(){
+		return new RDFResource(nodes[0].toString());
 	}
 	
 	public RDFResource predicate(){
 		return new RDFResource(nodes[1].toString());
 	}
 	
-	public String object(){
-		return nodes[2].toString();
+	public RDFResource object(){
+		return new RDFResource(nodes[2].toString());
 	}
 }

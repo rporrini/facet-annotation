@@ -59,8 +59,8 @@ public class EntityValues implements ReadAndWriteStore{
 
 	public EntityValues add(NTriple triple) throws Exception {
 		Document document = new Document();
-		document.add(new Field(id(), triple.subject(), TextField.TYPE_STORED));
-		document.add(new Field(value(), triple.object().toString(), TextField.TYPE_STORED));
+		document.add(new Field(id(), triple.subject().uri(), TextField.TYPE_STORED));
+		document.add(new Field(value(), triple.object().uri(), TextField.TYPE_STORED));
 		openWriter().addDocument(document);
 		return this;
 	}

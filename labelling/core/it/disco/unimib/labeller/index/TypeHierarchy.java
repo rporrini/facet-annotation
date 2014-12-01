@@ -16,11 +16,9 @@ public class TypeHierarchy {
 		this.categories = new HashSet<RDFResource>();
 		for(String line : file.lines()){
 			NTriple nTriple = new NTriple(NxParser.parseNodes(line));
-			RDFResource subType = new RDFResource(nTriple.object());
-			RDFResource superType = new RDFResource(nTriple.subject());
-			subTypes.put(superType, subType);
-			categories.add(superType);
-			categories.add(subType);
+			subTypes.put(nTriple.subject(), nTriple.object());
+			categories.add(nTriple.subject());
+			categories.add(nTriple.object());
 		}
 	}
 

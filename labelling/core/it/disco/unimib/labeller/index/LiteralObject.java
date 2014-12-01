@@ -4,6 +4,6 @@ public class LiteralObject implements TripleFilter{
 
 	@Override
 	public boolean matches(NTriple triple) throws Exception {
-		return !triple.object().startsWith("http:");
+		return !triple.object().uri().startsWith("http:");
 	}
 }
