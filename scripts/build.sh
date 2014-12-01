@@ -31,6 +31,19 @@ fi
 signal "Done"
 
 signal "Setting Up Evaluation Infrastructure"
+if [ ! -d "dbpedia-type-tree" ]; then
+	mkdir dbpedia-type-tree
+	cd dbpedia-type-tree
+	wget "http://downloads.dbpedia.org/3.9/dbpedia_3.9.owl.bz2"
+	bunzip2 dbpedia_3.9.owl.bz2
+	cd ../tools
+	./download-ontology.py "../dbpedia-type-tree/dbpedia_3.9.owl" "../dbpedia-type-tree/dbpedia_3.9.nt"
+	cd ../dbpedia-type-tree
+	rm dbpedia_3.9.owl
+	grep "http://www.w3.org/2000/01/rdf-schema#subClassOf" dbpedia_3.9.nt > type-tree.nt
+	rm dbpedia_3.9.nt
+	cd ..
+fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
 	cd dbpedia-types
