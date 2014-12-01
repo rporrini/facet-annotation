@@ -22,7 +22,7 @@ public class TypeHierarchyTest {
 	public void shouldIndexASingleRoot() throws Exception {
 		InputFileTestDouble input = new InputFileTestDouble()
 											.withLine(new TripleBuilder()
-															.withSubject("type")
+															.withObject("type")
 															.asNTriple());
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
@@ -34,12 +34,12 @@ public class TypeHierarchyTest {
 	public void shouldIndexARootWithManyLevelsOfInheritance() throws Exception {
 		InputFileTestDouble input = new InputFileTestDouble()
 											.withLine(new TripleBuilder()
-															.withSubject("agent")
-															.withObject("person")
+															.withSubject("person")
+															.withObject("agent")
 															.asNTriple())
 											.withLine(new TripleBuilder()
-															.withSubject("person")
-															.withObject("politician")
+															.withSubject("politician")
+															.withObject("person")
 															.asNTriple());
 
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
