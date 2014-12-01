@@ -1,7 +1,10 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
+
+import java.util.HashMap;
+
 import it.disco.unimib.labeller.index.RDFResource;
 
 import org.junit.Test;
@@ -41,5 +44,15 @@ public class RDFResourceTest {
 		RDFResource result = new RDFResource("http://dbpedia.org/ontology/name");
 		
 		assertThat(result.namespace(), equalTo("http://dbpedia.org/ontology/"));
+	}
+	
+	@Test
+	public void shouldBeIndexedInAnHashMap() throws Exception {
+		
+		HashMap<RDFResource, String> hashMap = new HashMap<RDFResource, String>();
+		
+		hashMap.put(new RDFResource("http://resource"), "the value");
+		
+		assertThat(hashMap.get(new RDFResource("http://resource")), equalTo("the value"));
 	}
 }
