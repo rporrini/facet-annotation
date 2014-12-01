@@ -50,18 +50,32 @@ public class DistributionTest {
 	
 	@Test
 	public void shouldReturnEmptyObjectDistribution() throws Exception {
+		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
+		CandidateResourceSet resultsForNational = new CandidateResourceSet();
+		resultsForNational.get(new CandidateResource("party")
+										.occurred()
+										.occurred()
+										.addObjectTypes("organization", "thing")
+										.addObjectTypes("organization"));
+		results.put("national", resultsForNational);
 		
-		Map<String, Double> objectsOf = new Distribution(new HashMap<String, CandidateResourceSet>())
-									.objectsOf("party", "national");
+		Map<String, Double> objectsOf = new Distribution(results).objectsOf("any", "national");
 		
 		assertThat(objectsOf.size(), equalTo(0));
 	}
 	
 	@Test
 	public void shouldReturnEmptySubjectDistribution() throws Exception {
+		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
+		CandidateResourceSet resultsForNational = new CandidateResourceSet();
+		resultsForNational.get(new CandidateResource("party")
+										.occurred()
+										.occurred()
+										.addObjectTypes("organization", "thing")
+										.addObjectTypes("organization"));
+		results.put("national", resultsForNational);
 		
-		Map<String, Double> subjectsOf = new Distribution(new HashMap<String, CandidateResourceSet>())
-									.subjectsOf("party", "national");
+		Map<String, Double> subjectsOf = new Distribution(results).subjectsOf("any", "national");
 		
 		assertThat(subjectsOf.size(), equalTo(0));
 	}
