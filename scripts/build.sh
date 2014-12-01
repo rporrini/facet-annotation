@@ -44,6 +44,15 @@ if [ ! -d "dbpedia-type-tree" ]; then
 	rm dbpedia_3.9.nt
 	cd ..
 fi
+if [ ! -d "dbpedia-category-tree" ]; then
+	mkdir dbpedia-category-tree
+	cd dbpedia-category-tree
+	wget "http://downloads.dbpedia.org/3.9/en/skos_categories_en.nt.bz2"
+	bunzip2 skos_categories_en.nt.bz2
+	grep "http://www.w3.org/2004/02/skos/core#broader" skos_categories_en.nt > category-tree.nt
+	rm skos_categories_en.nt
+	cd ..
+fi
 if [ ! -d "dbpedia-types" ]; then
 	mkdir dbpedia-types
 	cd dbpedia-types
