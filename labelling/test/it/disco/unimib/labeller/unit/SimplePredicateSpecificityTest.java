@@ -7,13 +7,13 @@ import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
+import it.disco.unimib.labeller.predicates.SimplePredicateSpecificity;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class LogarithmicContextForPredicateTest {
+public class SimplePredicateSpecificityTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
@@ -37,7 +37,7 @@ public class LogarithmicContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
+		SimplePredicateSpecificity predicateAndContextWeight = new SimplePredicateSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context");
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching");
