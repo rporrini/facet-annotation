@@ -16,7 +16,7 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
-import it.disco.unimib.labeller.predicates.SimplePredicateSpecificity;
+import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
 import java.util.Arrays;
@@ -73,7 +73,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new SimplePredicateSpecificity(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new PredicateContextSpecificity(index));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -86,7 +86,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("yago1"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new SimplePredicateSpecificity(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new PredicateContextSpecificity(index));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -99,7 +99,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia-with-labels"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new SimplePredicateSpecificity(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new NoContext(new AllValues()), new PredicateContextSpecificity(index));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -112,7 +112,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new SimplePredicateSpecificity(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new PartialContext(new AnyValue()), new PredicateContextSpecificity(index));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		
@@ -125,7 +125,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(new AllValues()), new SimplePredicateSpecificity(index));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(index, new CompleteContext(new AllValues()), new PredicateContextSpecificity(index));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value"}));
 		

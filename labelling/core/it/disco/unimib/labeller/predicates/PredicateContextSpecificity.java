@@ -5,11 +5,11 @@ import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 
-public class SimplePredicateSpecificity implements Specificity{
+public class PredicateContextSpecificity implements Specificity{
 
 	private Index index;
 
-	public SimplePredicateSpecificity(Index index) {
+	public PredicateContextSpecificity(Index index) {
 		this.index = index;
 	}
 	
