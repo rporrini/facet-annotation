@@ -51,7 +51,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 
-		assertThat(results.get(0).score(), equalTo(0.6931471810599453));
+		assertThat(results.get(0).score(), equalTo(0.5142717790222688));
 	}
 
 	@Test

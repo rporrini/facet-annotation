@@ -7,7 +7,7 @@ public class LogarithmicPredicateSpecificy implements Specificity{
 	private Specificity specificity;
 	
 	public LogarithmicPredicateSpecificy(Index index) {
-		this.specificity = new SimplePredicateSpeficity(index);
+		this.specificity = new SimplePredicateSpecificity(index);
 	}
 	
 	@Override
