@@ -34,13 +34,15 @@ public class PerformTTest {
 		System.out.println(formatter.format(new TTest().pairedTTest(algorithm1Results, algorithm2Results)));
 	}
 
-	private static double[] run(String algorithm1, String metric, String goldStandard, int k) throws Exception {
-		List<String> algorithm1Results = TrecEval.singleAndSummary(k, goldStandard, algorithm1, metric);
-		double[] algorithm1Values = new double[algorithm1Results.size()];
+	private static double[] run(String algorithm, String metric, String goldStandard, int k) throws Exception {
+		List<String> algorithm1Results = TrecEval.singleAndSummary(k, goldStandard, algorithm, metric);
+		double[] algorithm1Values = new double[algorithm1Results.size() - 1];
 		for(int i = 0; i<algorithm1Results.size()-1; i++){
 			double value = Double.parseDouble(StringUtils.split(algorithm1Results.get(i), "\t")[2]);
 			algorithm1Values[i] = value;
 		}
+		String lastLine = algorithm1Results.get(algorithm1Results.size()-1);
+		System.out.println(Double.parseDouble(StringUtils.split(lastLine, "\t")[2]));
 		return algorithm1Values;
 	}
 }

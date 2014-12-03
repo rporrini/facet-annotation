@@ -6,15 +6,16 @@ function run_ttest()
 
 function colored_result()
 {
-	result=$1
-	algorithm=$2
+	algorithm=$1
+	result=$2
+	ttest=$3	
 	closing='\e[0m'
 	opening=$closing	
-	if [ $(echo " $result < 0.05" | bc) -eq 1 ]
+	if [ $(echo " $ttest < 0.05" | bc) -eq 1 ]
 	then
 		opening='\e[0;32m'		
-	fi	
-	echo -e "$algorithm	${opening}$result${closing}"
+	fi
+	printf "%-30s %-15s ${opening}%-12s${closing}\n" "$algorithm" "$result" "$ttest"
 }
 
 function ttest()
@@ -24,12 +25,20 @@ function ttest()
 	metric=$3
 	k=$4
 	
-	mh_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/mh-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
-	ml_ttest=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/ml-simple-partial.qrels gs=$gold_standard m=$metric k=$k | tail -1)
+	mh_results=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/mh-simple-partial.qrels gs=$gold_standard m=$metric k=$k)
+	ml_results=$(run_ttest alg1=$results_directory/mhw-contextualized-partial.qrels alg2=$results_directory/ml-simple-partial.qrels gs=$gold_standard m=$metric k=$k)
 	
-	echo "*******" t-testing "for" $metric mhw-contextualized-partial on $2 "*******"
-	colored_result $mh_ttest mh-simple-partial
-	colored_result $ml_ttest ml-simple-partial
+	mh_value=$(echo $mh_results | cut -d' ' -f 2)	
+	ml_value=$(echo $ml_results | cut -d' ' -f 2)	
+	mhw_value=$(echo $mh_results | cut -d' ' -f 1)	
+	mh_ttest=$(echo $mh_results | cut -d' ' -f 3)
+	ml_ttest=$(echo $ml_results | cut -d' ' -f 3)
+	
+	echo "*******" t-testing $metric on $2 "*******"
+	printf "%-30s %-15s %-12s\n" "ALGORITHM" "$metric" "P-VALUE"
+	colored_result mhw-contextualized-partial $mhw_value 1
+	colored_result mh-simple-partial $mh_value $mh_ttest
+	colored_result ml-simple-partial $ml_value $ml_ttest
 	echo
 }
 
