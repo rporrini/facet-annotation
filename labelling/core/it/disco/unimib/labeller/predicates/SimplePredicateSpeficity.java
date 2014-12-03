@@ -1,6 +1,8 @@
 package it.disco.unimib.labeller.predicates;
 
+import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.Index;
+import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 public class SimplePredicateSpeficity implements Specificity{
@@ -14,8 +16,9 @@ public class SimplePredicateSpeficity implements Specificity{
 	}
 	
 	@Override
-	public double of(String predicate, String contextOrValue, double frequencyOfPredicate) throws Exception {
-		double frequencyOfPredicateAndContext = index.countPredicatesInContext(predicate, contextOrValue, selectionCriterion);
+	public double of(String predicate, String domain) throws Exception {
+		double frequencyOfPredicateAndContext = index.countPredicatesInContext(predicate, domain, selectionCriterion);
+		double frequencyOfPredicate = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues()));;
 		return frequencyOfPredicateAndContext/frequencyOfPredicate;
 	}
 }

@@ -39,8 +39,8 @@ public class LogarithmicContextForPredicateTest {
 		
 		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
 		
-		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
-		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching", 1);
+		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context");
+		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching");
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 
