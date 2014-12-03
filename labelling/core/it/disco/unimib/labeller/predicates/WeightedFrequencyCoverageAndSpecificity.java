@@ -7,6 +7,7 @@ import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
@@ -36,6 +37,15 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				frequencyOverValues += score;
 			}
 			
+			Map<String, Double> objectsOf = distribution.objectsOf(predicate);
+			double tot=0;
+			for(String type : objectsOf.keySet()){
+				tot+=objectsOf.get(type);
+			}
+			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
+			
+			double objectDisc = Math.log((Math.E * tot) + Math.E);
+			
 			CandidateResource resource = new CandidateResource(predicate);
 			
 			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);
@@ -45,6 +55,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);
 			resource.multiplyScore(disc);
+			resource.multiplyScore(objectDisc);
 			
 			results.add(resource);
 		}

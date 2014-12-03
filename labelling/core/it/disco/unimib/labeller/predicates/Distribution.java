@@ -23,6 +23,19 @@ public class Distribution{
 		return getOrDefault(predicate, value).score();
 	}
 
+	public Map<String, Double> objectsOf(String predicate){
+		HashMap<String, Double> distribution = new HashMap<String, Double>();
+		for(String value : valueDistribution.keySet()){
+			CandidateResource resource = getOrDefault(predicate, value);
+			for(CandidateResource object : resource.objectTypes()){
+				if(!distribution.containsKey(object.id())) distribution.put(object.id(), 0.0);
+				double delta = (object.score() / resource.totalOccurrences()) / (double)valueDistribution.size();
+				distribution.put(object.id(), distribution.get(object.id()) + delta);
+			}
+		}
+		return distribution;
+	}
+	
 	public Map<String, Double> objectsOf(String predicate, String value) {
 		CandidateResource resource = getOrDefault(predicate, value);
 		Collection<CandidateResource> types = resource.objectTypes();
