@@ -5,9 +5,11 @@ function signal(){
 }
 
 function run-conditional(){
-	if [[ $5 != --skip-baselines ]] 
+	if [[ $5 != -skip-baselines ]] 
 	then
-		run $@
+		run $1 $2 $3 $4
+	else
+		echo skipped $1 $2 $3 $4 
 	fi
 }
 
