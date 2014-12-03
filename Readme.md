@@ -6,10 +6,12 @@
 
 ## Checking out the repository and configuring your local machine
 
-:::bash
-	$ git clone https://bitbucket.org/rporrini/cluster-labelling.git
-	$ cd cluster-labelling
-	$ ./build-and-test.sh
+```
+#!bash
+$ git clone https://bitbucket.org/rporrini/cluster-labelling.git
+$ cd cluster-labelling
+$ ./build-and-test.sh
+```
 
 The ```./build-and-test.sh``` script downloads and installs various tools that are needed to run the experiments, as well as all the needed datasets, namely DBPedia and YAGO1. For this reason, the first time that you will execute the script on your local machine it will take about 1 hour to complete. After the first time only compilation and testing steps will be executed
 
