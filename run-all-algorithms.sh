@@ -4,6 +4,13 @@ function signal(){
 	echo "******* $1 *******"
 }
 
+function run-conditional(){
+	if [[ $5 != --skip-baselines ]] 
+	then
+		run $@
+	fi
+}
+
 function run(){
 	algorithm=$1
 	occurrences=$2
@@ -23,8 +30,9 @@ root=`cd $relative_path;pwd`
 cd $root
 
 dataset=$1
+skip_baselines=$2
 
-run mh simple partial $dataset
-run ml simple partial $dataset
+run-conditional mh simple partial $dataset $skip_baselines
+run-conditional ml simple partial $dataset $skip_baselines
 run mhw contextualized partial $dataset
 
