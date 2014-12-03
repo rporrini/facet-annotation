@@ -47,8 +47,8 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 
 cd $root
-scripts/build.sh > /dev/null
-cd labelling
+../build.sh > /dev/null
+cd ../../labelling
 
 ttest dbpedia-results dbpedia-enhanced map 20
 ttest dbpedia-results dbpedia-enhanced-numbers map 20
