@@ -1,9 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
 import java.util.ArrayList;
@@ -40,8 +38,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			
 			CandidateResource resource = new CandidateResource(predicate);
 			
-			long overallFrequency = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues()));
-			double disc = predicateSpecificity.of(predicate, domain, overallFrequency);
+			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			

@@ -11,9 +11,9 @@ import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
+import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
 import it.disco.unimib.labeller.predicates.TopK;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
@@ -56,7 +56,7 @@ public class BenchmarkParameters{
 	}
 
 	private AnnotationAlgorithm pfd(ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(index, context, new LogarithmicPredicateSpecificy(index));
+		return new WeightedFrequencyCoverageAndSpecificity(index, context, new PredicateContextSpecificity(index));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {

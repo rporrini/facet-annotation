@@ -7,13 +7,13 @@ import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.predicates.LogarithmicPredicateSpecificy;
+import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class LogarithmicContextForPredicateTest {
+public class PredicateContextSpecificityTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
@@ -37,10 +37,10 @@ public class LogarithmicContextForPredicateTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		
-		LogarithmicPredicateSpecificy predicateAndContextWeight = new LogarithmicPredicateSpecificy(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
+		PredicateContextSpecificity predicateAndContextWeight = new PredicateContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
 		
-		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context", 1);
-		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching", 1);
+		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context");
+		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching");
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 

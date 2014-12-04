@@ -21,7 +21,6 @@ class TrecEval{
 	}
 	
 	private static List<String> run(String command) throws Exception {
-		System.out.println(command);
 		Process result = Runtime.getRuntime().exec(command);
 		result.waitFor();
 		String errors = StringUtils.join(IOUtils.readLines(result.getErrorStream()), "\n");

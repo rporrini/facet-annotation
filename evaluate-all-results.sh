@@ -68,4 +68,6 @@ evaluate yago1-simple.qrels yago1-simple-results yago1-simple-results $trec_eval
 evaluate yago1-simple-no-wrote.qrels yago1-simple-results yago1-simple-no-wrote-results $trec_eval_yago1
 evaluate yago1-simple-wrote.qrels yago1-simple-results yago1-simple-wrote-results $trec_eval_yago1
 
+scripts/experiments/ttest.sh
+
 
