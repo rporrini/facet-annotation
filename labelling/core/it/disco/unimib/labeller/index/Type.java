@@ -35,4 +35,8 @@ public class Type{
 	public String toString() {
 		return resource.toString();
 	}
+
+	public double scaledDepth() {
+		return 1.0;
+	}
 }
