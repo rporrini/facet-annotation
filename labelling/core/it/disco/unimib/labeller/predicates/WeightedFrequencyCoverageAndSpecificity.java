@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.Type;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.util.ArrayList;
@@ -15,11 +16,13 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	private Index index;
 	private Specificity predicateSpecificity;
 	private TripleSelectionCriterion selection;
+	private TypeHierarchy hierarchy;
 
 	public WeightedFrequencyCoverageAndSpecificity(TypeHierarchy types, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;
+		this.hierarchy = types;
 	}
 
 	@Override
@@ -41,7 +44,10 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			Map<String, Double> objectsOf = distribution.objectsOf(predicate);
 			double tot=0;
 			for(String type : objectsOf.keySet()){
-				tot+=objectsOf.get(type);
+				Type typeFromHierarchy = hierarchy.of(type);
+				double depth = 0;
+				if(typeFromHierarchy != null) depth = typeFromHierarchy.scaledDepth();
+				tot += (objectsOf.get(type) * depth);
 			}
 			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
 			

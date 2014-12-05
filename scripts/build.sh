@@ -42,6 +42,9 @@ if [ ! -d "dbpedia-type-tree" ]; then
 	rm dbpedia_3.9.owl
 	grep "http://www.w3.org/2000/01/rdf-schema#subClassOf" dbpedia_3.9.nt > type-tree.nt
 	rm dbpedia_3.9.nt
+	wget -O schema-org.nt "http://www.w3.org/2012/pyRdfa/extract?uri=http://schema.org/docs/schema_org_rdfa.html&format=nt"
+	grep "http://www.w3.org/2000/01/rdf-schema#subClassOf" schema-org.nt >> type-tree.nt
+	rm schema-org.nt
 	cd ..
 fi
 if [ ! -d "dbpedia-category-tree" ]; then
