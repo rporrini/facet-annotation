@@ -14,5 +14,5 @@ cd ../../
 
 cd labelling
 signal 'Computing scaled depths'
-java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunScaledDepthComputation
+java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunScaledDepthComputation types=../evaluation/yago1-type-tree/type-tree.nt destination=../evaluation/labeller-indexes/yago1/depths.csv
 signal 'Done'
