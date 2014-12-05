@@ -16,17 +16,19 @@ public class RunScaledDepthComputation {
 		
 		Command arguments = new Command()
 							.withArgument("taxonomy", "the relative path of the taxonomy")
-							.withArgument("types", "the relative path of the file containing the types")
-							.withArgument("destination", "the relative path of the file where to save the computed scaled depths")
+							.withArgument("types", "the relative path of the directory containing the types")
+							.withArgument("destination", "the relative path of the directory where to save the computed scaled depths")
 							.parse(args);
 		
-		InputFile[] taxonomyFiles = taxonomyFiles(arguments);
+		File destinationDirectory = new File(arguments.argumentAsString("destination"));
+		File sourceDirectory = new File(arguments.argumentAsString("types"));		
+		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles(arguments));
 		
-		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles);
-		BulkWriteFile output = new BulkWriteFile(new File(arguments.argumentAsString("destination")), 10000);
-		InputFile input = new InputFile(new File(arguments.argumentAsString("types")));
-		
-		new ScaledDeptComputation(taxonomy).persist(input, output);
+		for(File file : sourceDirectory.listFiles()){
+			InputFile input = new InputFile(file);
+			BulkWriteFile output = new BulkWriteFile(new File(destinationDirectory, input.name()), 10000);
+			new ScaledDeptComputation(taxonomy).persist(input, output);
+		}
 	}
 
 	private static InputFile[] taxonomyFiles(Command arguments) throws Exception {
