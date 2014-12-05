@@ -27,6 +27,10 @@ public class TypeHierarchy {
 			superType.addSubType(subType);
 		}
 	}
+	
+	public Type of(String type){
+		return types.get(type);
+	}
 
 	public List<Type> getRootTypes() {
 		List<Type> roots = new ArrayList<Type>();
