@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -31,6 +32,8 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index))
 										.forValues(domain, elements.toArray(new String[elements.size()]), selection);
 		
+		HashMap<String, Double> depths = new HashMap<String, Double>();
+		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
 			double frequencyOverValues = 0;
@@ -44,9 +47,15 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			Map<String, Double> objectsOf = distribution.objectsOf(predicate);
 			double tot=0;
 			for(String type : objectsOf.keySet()){
-				Type typeFromHierarchy = hierarchy.of(type);
-				double depth = 0;
-				if(typeFromHierarchy != null) depth = typeFromHierarchy.scaledDepth();
+				Double depth = depths.get(type);
+				if(depth == null){
+					depth = 0.0;
+					Type typeFromHierarchy = hierarchy.of(type);
+					if(typeFromHierarchy != null) {
+						depth = typeFromHierarchy.scaledDepth();
+					}
+					depths.put(type, depth);
+				}
 				tot += (objectsOf.get(type) * depth);
 			}
 			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
