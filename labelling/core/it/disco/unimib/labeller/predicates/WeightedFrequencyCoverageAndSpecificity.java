@@ -50,7 +50,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				Double depth = depths.get(type);
 				if(depth == null){
 					depth = 0.0;
-					Type typeFromHierarchy = hierarchy.of(type);
+					Type typeFromHierarchy = hierarchy.typeOf(type);
 					if(typeFromHierarchy != null) {
 						depth = typeFromHierarchy.scaledDepth();
 					}

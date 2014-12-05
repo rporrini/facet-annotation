@@ -34,7 +34,7 @@ public class TypeHierarchy {
 		}
 	}
 	
-	public Type of(String type){
+	public Type typeOf(String type){
 		return types.get(type);
 	}
 	

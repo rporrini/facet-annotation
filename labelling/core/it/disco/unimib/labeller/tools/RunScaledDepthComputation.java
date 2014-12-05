@@ -4,7 +4,7 @@ import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.corpus.BulkWriteFile;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.ScaledDeptComputation;
+import it.disco.unimib.labeller.index.ScaledDepthComputation;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.io.File;
@@ -35,7 +35,7 @@ public class RunScaledDepthComputation {
 					InputFile input = new InputFile(file);
 					BulkWriteFile output = new BulkWriteFile(new File(destinationDirectory, input.name()), 500);
 					try {
-						new ScaledDeptComputation(taxonomy).persist(input, output);
+						new ScaledDepthComputation(taxonomy).persist(input, output);
 						output.flush();
 					} catch (Exception e) {
 						new Events().error("processing file: " + file, e);

@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.hasItem;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.ScaledDeptComputation;
+import it.disco.unimib.labeller.index.ScaledDepthComputation;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import org.junit.Test;
@@ -14,7 +14,7 @@ public class ScaledDepthComputationTest {
 	public void shouldExportAnEmptyFileWhenAnEmptyTaxonomyIsGiven() throws Exception {
 		OutputFileTestDouble output = new OutputFileTestDouble();
 		
-		new ScaledDeptComputation(new TypeHierarchy(new InputFileTestDouble())).persist(new InputFileTestDouble(), output);
+		new ScaledDepthComputation(new TypeHierarchy(new InputFileTestDouble())).persist(new InputFileTestDouble(), output);
 		
 		assertThat(output.getWrittenLines(), empty());
 	}
@@ -23,17 +23,17 @@ public class ScaledDepthComputationTest {
 	public void shouldExportTheActualComputation() throws Exception {
 		TypeHierarchy taxonomy = new TypeHierarchy(new InputFileTestDouble()
 												.withLine(new TripleBuilder()
-														.withSubject("supertype")
-														.withObject("type")
+														.withSubject("type")
+														.withObject("supertype")
 														.asNTriple()));
 		
 		OutputFileTestDouble output = new OutputFileTestDouble();
-		new ScaledDeptComputation(taxonomy).persist(new InputFileTestDouble()
+		new ScaledDepthComputation(taxonomy).persist(new InputFileTestDouble()
 													.withLine("supertype")
 													.withLine("type"), 
 											output);
 		
-		assertThat(output.getWrittenLines(), hasItem("supertype|1.0"));
-		assertThat(output.getWrittenLines(), hasItem("type|0.5"));
+		assertThat(output.getWrittenLines(), hasItem("type|1.0"));
+		assertThat(output.getWrittenLines(), hasItem("supertype|0.5"));
 	}
 }
