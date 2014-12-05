@@ -7,5 +7,5 @@ cd $root
 ../build.sh > /dev/null
 
 cd ../../labelling
-time java -Xms256m -Xmx3000m -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunEvaluation $@
+time java -Xms256m -Xmx4000m -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunEvaluation $@
 

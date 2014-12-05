@@ -5,6 +5,7 @@ import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetric;
@@ -65,7 +66,15 @@ public class BenchmarkParameters{
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
-	private TypeHierarchy hierarchyFrom(String knowledgeBase) {
+	private TypeHierarchy hierarchyFrom(String knowledgeBase) throws Exception {
+		if(knowledgeBase.startsWith("yago1")){
+			return new TypeHierarchy(new InputFile(new File("../evaluation/yago1-type-tree/type-tree.nt")));
+		}
+		if(knowledgeBase.startsWith("dbpedia")){
+			return new TypeHierarchy(
+							new InputFile(new File("../evaluation/dbpedia-type-tree/type-tree.nt")),
+							new InputFile(new File("../evaluation/dbpedia-category-tree/category-tree.nt")));
+		}
 		return null;
 	}
 	

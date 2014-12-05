@@ -23,6 +23,6 @@ java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.u
 signal "Done"
 
 signal "Running Regression Tests"
-java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTests
+java -Xms256m -Xmx3000m -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTests
 signal "Done"
 
