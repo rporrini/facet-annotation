@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Command;
+import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.corpus.OutputFile;
 import it.disco.unimib.labeller.corpus.WriteThroughFile;
 import it.disco.unimib.labeller.index.InputFile;
@@ -10,6 +11,8 @@ import it.disco.unimib.labeller.index.TypeHierarchy;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 
 public class RunScaledDepthComputation {
 
@@ -21,15 +24,27 @@ public class RunScaledDepthComputation {
 							.withArgument("destination", "the relative path of the directory where to save the computed scaled depths")
 							.parse(args);
 		
-		File destinationDirectory = new File(arguments.argumentAsString("destination"));
+		final File destinationDirectory = new File(arguments.argumentAsString("destination"));
 		File sourceDirectory = new File(arguments.argumentAsString("types"));		
-		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles(arguments.argumentsAsStrings("taxonomy")));
+		final TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles(arguments.argumentsAsStrings("taxonomy")));
 		
-		for(File file : sourceDirectory.listFiles()){
-			InputFile input = new InputFile(file);
-			OutputFile output = new WriteThroughFile(new File(destinationDirectory, input.name()));
-			new ScaledDeptComputation(taxonomy).persist(input, output);
+		ExecutorService executor = Executors.newFixedThreadPool(10);
+		for(final File file : sourceDirectory.listFiles()){
+			executor.execute(new Runnable() {
+				@Override
+				public void run() {
+					InputFile input = new InputFile(file);
+					OutputFile output = new WriteThroughFile(new File(destinationDirectory, input.name()));
+					try {
+						new ScaledDeptComputation(taxonomy).persist(input, output);
+					} catch (Exception e) {
+						new Events().error("processing file: " + file, e);
+					}
+				}
+			});
 		}
+		executor.shutdown();
+	    while(!executor.isTerminated()){}
 	}
 
 	private static InputFile[] taxonomyFiles(List<String> argumentsAsStrings) throws Exception {

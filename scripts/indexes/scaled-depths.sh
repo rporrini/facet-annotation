@@ -14,5 +14,5 @@ cd ../../
 
 cd labelling
 signal 'Computing scaled depths'
-java -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunScaledDepthComputation $@
+java -Xms256m -Xmx3000m -cp .:'labelling.jar' it.disco.unimib.labeller.tools.RunScaledDepthComputation $@
 signal 'Done'

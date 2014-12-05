@@ -1,0 +1,13 @@
+#!/bin/bash
+
+set -e
+relative_path=`dirname $0`
+root=`cd $relative_path;pwd`
+
+cd $root
+./scaled-depths.sh \
+taxonomy=../evaluation/dbpedia-category-tree/category-tree.nt \
+taxonomy=../evaluation/dbpedia-type-tree/type-tree.nt \
+types=../evaluation/gold-standards/dbpedia-types \
+destination=../evaluation/labeller-indexes/dbpedia/depths
+
