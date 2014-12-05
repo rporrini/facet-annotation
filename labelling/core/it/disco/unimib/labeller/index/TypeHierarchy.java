@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.index;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 
@@ -35,6 +36,10 @@ public class TypeHierarchy {
 	
 	public Type of(String type){
 		return types.get(type);
+	}
+	
+	public Collection<Type> getAllTypes(){
+		return types.values();
 	}
 
 	public List<Type> getRootTypes() {
