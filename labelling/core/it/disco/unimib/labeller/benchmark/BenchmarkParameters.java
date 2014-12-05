@@ -8,10 +8,10 @@ import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.ScaledDepth;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
-import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
@@ -59,22 +59,20 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeHierarchy hierarchy, ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(hierarchy, index, context, new PredicateContextSpecificity(index));
+	private AnnotationAlgorithm pfd(ScaledDepth depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
+		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
-	private TypeHierarchy hierarchyFrom(String knowledgeBase) throws Exception {
+	private ScaledDepth hierarchyFrom(String knowledgeBase) throws Exception {
 		if(knowledgeBase.startsWith("yago1")){
-			return new TypeHierarchy(new InputFile(new File("../evaluation/yago1-type-tree/type-tree.nt")));
+			return new ScaledDepth(new InputFile(new File("../evaluation/labeller-indexes/yago1/depths/types.csv")));
 		}
 		if(knowledgeBase.startsWith("dbpedia")){
-			return new TypeHierarchy(
-							new InputFile(new File("../evaluation/dbpedia-type-tree/type-tree.nt")),
-							new InputFile(new File("../evaluation/dbpedia-category-tree/category-tree.nt")));
+			return new ScaledDepth(new InputFile(new File("../evaluation/labeller-indexes/dbpedia/depths/types.csv")));
 		}
 		return null;
 	}

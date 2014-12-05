@@ -2,13 +2,11 @@ package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
+import it.disco.unimib.labeller.index.ScaledDepth;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
-import it.disco.unimib.labeller.index.Type;
-import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -17,13 +15,13 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	private Index index;
 	private Specificity predicateSpecificity;
 	private TripleSelectionCriterion selection;
-	private TypeHierarchy hierarchy;
+	private ScaledDepth depth;
 
-	public WeightedFrequencyCoverageAndSpecificity(TypeHierarchy types, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(ScaledDepth depth, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;
-		this.hierarchy = types;
+		this.depth = depth;
 	}
 
 	@Override
@@ -31,8 +29,6 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		
 		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index))
 										.forValues(domain, elements.toArray(new String[elements.size()]), selection);
-		
-		HashMap<String, Double> depths = new HashMap<String, Double>();
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
@@ -47,16 +43,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			Map<String, Double> objectsOf = distribution.objectsOf(predicate);
 			double tot=0;
 			for(String type : objectsOf.keySet()){
-				Double depth = depths.get(type);
-				if(depth == null){
-					depth = 0.0;
-					Type typeFromHierarchy = hierarchy.typeOf(type);
-					if(typeFromHierarchy != null) {
-						depth = typeFromHierarchy.scaledDepth();
-					}
-					depths.put(type, depth);
-				}
-				tot += (objectsOf.get(type) * depth);
+				tot += (objectsOf.get(type) * this.depth.of(type));
 			}
 			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
 			

@@ -14,7 +14,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.TypeHierarchy;
+import it.disco.unimib.labeller.index.ScaledDepth;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
 import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
@@ -43,10 +43,6 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		assertThat(results.get(0).id(), equalTo("other predicate"));
 	}
 
-	private TypeHierarchy emptyTypes() throws Exception {
-		return new TypeHierarchy(new InputFileTestDouble());
-	}
-	
 	@Test
 	public void shouldCumulateHits() throws Exception {
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
@@ -161,6 +157,10 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		List<CandidateResource> results = majorityHitWeighted.typeOf("context", Arrays.asList(new String[]{"value", "another_value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
+	}
+	
+	private ScaledDepth emptyTypes() throws Exception {
+		return new ScaledDepth(new InputFileTestDouble());
 	}
 
 	private Directory buildIndex() throws Exception {

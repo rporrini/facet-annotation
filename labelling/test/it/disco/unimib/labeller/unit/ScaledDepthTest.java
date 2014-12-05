@@ -1,7 +1,6 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
-import static org.hamcrest.Matchers.nullValue;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ScaledDepth;
 import it.disco.unimib.labeller.index.ScaledDepthComputation;
@@ -16,7 +15,7 @@ public class ScaledDepthTest {
 		
 		ScaledDepth depth = new ScaledDepth(new InputFileTestDouble());
 		
-		assertThat(depth.of("any"), nullValue());
+		assertThat(depth.of("any"), equalTo(0.0));
 	}
 	
 	@Test
