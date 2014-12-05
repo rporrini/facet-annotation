@@ -2,8 +2,7 @@ package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.Events;
-import it.disco.unimib.labeller.corpus.OutputFile;
-import it.disco.unimib.labeller.corpus.WriteThroughFile;
+import it.disco.unimib.labeller.corpus.BulkWriteFile;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.ScaledDeptComputation;
 import it.disco.unimib.labeller.index.TypeHierarchy;
@@ -34,9 +33,10 @@ public class RunScaledDepthComputation {
 				@Override
 				public void run() {
 					InputFile input = new InputFile(file);
-					OutputFile output = new WriteThroughFile(new File(destinationDirectory, input.name()));
+					BulkWriteFile output = new BulkWriteFile(new File(destinationDirectory, input.name()), 500);
 					try {
 						new ScaledDeptComputation(taxonomy).persist(input, output);
+						output.flush();
 					} catch (Exception e) {
 						new Events().error("processing file: " + file, e);
 					}

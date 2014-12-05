@@ -10,3 +10,7 @@ taxonomy=../evaluation/yago1-type-tree/type-tree.nt \
 types=../evaluation/gold-standards/yago1-types \
 destination=../evaluation/labeller-indexes/yago1/depths
 
+cd ../../evaluation/labeller-indexes/yago1/depths
+cat * >> types.csv
+ls * | grep -v types.csv | xargs rm -rf
+
