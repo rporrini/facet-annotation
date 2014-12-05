@@ -26,4 +26,43 @@ public class TypeTest {
 		
 		assertThat(artist.scaledDepth(), equalTo(1.0));
 	}
+	
+	@Test
+	public void theDeptOfARootNodeDependsOnHowDeepIsTheTaxonomy() throws Exception {
+		
+		Type thing = new Type(new RDFResource("thing"));
+		
+		thing.addSubType(new Type(new RDFResource("artist")));
+		
+		assertThat(thing.scaledDepth(), equalTo(0.5));
+	}
+	
+	@Test
+	public void theDeptOfARootNodeDependsOnHowDeepIsTheTaxonomyAndHasEvenNumberOfNodes() throws Exception {
+		
+		Type thing = new Type(new RDFResource("thing"));
+		Type musician = new Type(new RDFResource("musician"));
+		
+		thing.addSubType(new Type(new RDFResource("artist")).addSubType(musician));
+		
+		assertThat(thing.scaledDepth(), equalTo(1.0/3.0));
+		assertThat(musician.scaledDepth(), equalTo(1.0));
+	}
+	
+	@Test
+	public void shouldCalculateInForComplexGraphs() throws Exception {
+		
+		Type artist = new Type(new RDFResource("artist"))
+												.addSubType(new Type(new RDFResource("musician")))
+												.addSubType(new Type(new RDFResource("painter"))
+																.addSubType(new Type(new RDFResource("french painter")))
+																.addSubType(new Type(new RDFResource("italian painter"))))
+												.addSuperType(new Type(new RDFResource("sensible person")))
+												.addSuperType(new Type(new RDFResource("person"))
+																.addSuperType(new Type(new RDFResource("thing")))
+																.addSuperType(new Type(new RDFResource("human"))));
+		
+		assertThat(artist.scaledDepth(), equalTo(3.0/5.0));
+		
+	}
 }

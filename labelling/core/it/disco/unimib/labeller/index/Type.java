@@ -15,12 +15,14 @@ public class Type{
 		this.subTypes = new ArrayList<Type>();
 	}
 	
-	public void addSuperType(Type superType){
+	public Type addSuperType(Type superType){
 		this.superTypes.add(superType);
+		return this;
 	}
 	
-	public void addSubType(Type subType){
+	public Type addSubType(Type subType){
 		this.subTypes.add(subType);
+		return this;
 	}
 	
 	public boolean isRoot(){
@@ -37,6 +39,27 @@ public class Type{
 	}
 
 	public double scaledDepth() {
-		return 1.0;
+		double ancestorsDepth = (double)ancestorsDepth(0);
+		double siblingsDepth = (double)siblingsDepth(0);
+		
+		return (ancestorsDepth + 1.0) / (siblingsDepth + ancestorsDepth + 1.0);
+	}
+	
+	private int siblingsDepth(int currentDepth){
+		if(subTypes.isEmpty()) return currentDepth;
+		int subDepth = currentDepth;
+		for(Type type : subTypes){
+			subDepth = Math.max(subDepth, type.siblingsDepth(currentDepth + 1));
+		}
+		return subDepth;
+	}
+	
+	private int ancestorsDepth(int currentDepth){
+		if(superTypes.isEmpty()) return currentDepth;
+		int subDepth = currentDepth;
+		for(Type type : superTypes){
+			subDepth = Math.max(subDepth, type.ancestorsDepth(currentDepth + 1));
+		}
+		return subDepth;
 	}
 }
