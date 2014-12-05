@@ -63,6 +63,29 @@ public class TypeTest {
 																.addSuperType(new Type(new RDFResource("human"))));
 		
 		assertThat(artist.scaledDepth(), equalTo(3.0/5.0));
+	}
+	
+	@Test
+	public void shouldStopOnLoopsOnAncestors() throws Exception {
 		
+		Type a = new Type(new RDFResource("a"));
+		Type b = new Type(new RDFResource("b"));
+		
+		a.addSuperType(b);
+		b.addSuperType(a);
+		
+		assertThat(a.scaledDepth(), equalTo(1.0));
+	}
+	
+	@Test
+	public void shouldStopOnLoopsOnChildren() throws Exception {
+		
+		Type a = new Type(new RDFResource("a"));
+		Type b = new Type(new RDFResource("b"));
+		
+		a.addSubType(b);
+		b.addSubType(a);
+		
+		assertThat(a.scaledDepth(), equalTo(1.0/3.0));
 	}
 }
