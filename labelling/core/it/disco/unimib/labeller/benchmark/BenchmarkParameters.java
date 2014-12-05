@@ -45,13 +45,14 @@ public class BenchmarkParameters{
 		String knowledgeBase = knowledgeBaseString();
 		TripleSelectionCriterion context = context();
 		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
-		TypeHierarchy hierarchy = hierarchyFrom(knowledgeBase);
 		
-		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
-		configurations.put("mh", majority(index, context));
-		configurations.put("mhw", pfd(hierarchy, index, context));
-		configurations.put("ml", maximumLikelihood(index, context));
-		return getAlgorithm(configurations.get(algorithmString()));
+		String algorithm = algorithmString();
+		AnnotationAlgorithm algorithmToRun = null;
+		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
+		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context);
+		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
+		
+		return topK(algorithmToRun);
 	}
 
 	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, TripleSelectionCriterion context) {
@@ -139,7 +140,7 @@ public class BenchmarkParameters{
 		return command.argumentAsString("summary");
 	}
 	
-	private AnnotationAlgorithm getAlgorithm(AnnotationAlgorithm algorithm){
+	private AnnotationAlgorithm topK(AnnotationAlgorithm algorithm){
 		return new TopK(1000, algorithm);
 	}
 }
