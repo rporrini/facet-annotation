@@ -5,13 +5,18 @@ import java.util.HashMap;
 import java.util.List;
 
 import org.semanticweb.yars.nx.parser.NxParser;
+import org.semanticweb.yars.nx.parser.ParseException;
 
 public class TypeHierarchy {
 
 	private HashMap<String, Type> types;
 
-	public TypeHierarchy(InputFile file) throws Exception {
+	public TypeHierarchy(InputFile... files) throws Exception {
 		this.types = new HashMap<String, Type>();
+		for(InputFile file : files) load(file);
+	}
+
+	private void load(InputFile file) throws Exception, ParseException {
 		for(String line : file.lines()){
 			NTriple nTriple = new NTriple(NxParser.parseNodes(line));
 			RDFResource subResource = nTriple.subject();
