@@ -1,7 +1,8 @@
 package it.disco.unimib.labeller.tools;
 
 import it.disco.unimib.labeller.benchmark.Command;
-import it.disco.unimib.labeller.corpus.BulkWriteFile;
+import it.disco.unimib.labeller.corpus.OutputFile;
+import it.disco.unimib.labeller.corpus.WriteThroughFile;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.ScaledDeptComputation;
 import it.disco.unimib.labeller.index.TypeHierarchy;
@@ -22,18 +23,18 @@ public class RunScaledDepthComputation {
 		
 		File destinationDirectory = new File(arguments.argumentAsString("destination"));
 		File sourceDirectory = new File(arguments.argumentAsString("types"));		
-		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles(arguments));
+		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles(arguments.argumentsAsStrings("taxonomy")));
 		
 		for(File file : sourceDirectory.listFiles()){
 			InputFile input = new InputFile(file);
-			BulkWriteFile output = new BulkWriteFile(new File(destinationDirectory, input.name()), 10000);
+			OutputFile output = new WriteThroughFile(new File(destinationDirectory, input.name()));
 			new ScaledDeptComputation(taxonomy).persist(input, output);
 		}
 	}
 
-	private static InputFile[] taxonomyFiles(Command arguments) throws Exception {
+	private static InputFile[] taxonomyFiles(List<String> argumentsAsStrings) throws Exception {
 		List<InputFile> files = new ArrayList<InputFile>();
-		for(String file : arguments.argumentsAsStrings("taxonomy")){
+		for(String file : argumentsAsStrings){
 			files.add(new InputFile(new File(file)));
 		}
 		return files.toArray(new InputFile[files.size()]);
