@@ -7,6 +7,8 @@ import it.disco.unimib.labeller.index.ScaledDeptComputation;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.List;
 
 public class RunScaledDepthComputation {
 
@@ -18,10 +20,20 @@ public class RunScaledDepthComputation {
 							.withArgument("destination", "the relative path of the file where to save the computed scaled depths")
 							.parse(args);
 		
-		TypeHierarchy taxonomy = new TypeHierarchy(new InputFile(new File(arguments.argumentAsString("taxonomy"))));
+		InputFile[] taxonomyFiles = taxonomyFiles(arguments);
+		
+		TypeHierarchy taxonomy = new TypeHierarchy(taxonomyFiles);
 		BulkWriteFile output = new BulkWriteFile(new File(arguments.argumentAsString("destination")), 10000);
 		InputFile input = new InputFile(new File(arguments.argumentAsString("types")));
 		
 		new ScaledDeptComputation(taxonomy).persist(input, output);
+	}
+
+	private static InputFile[] taxonomyFiles(Command arguments) throws Exception {
+		List<InputFile> files = new ArrayList<InputFile>();
+		for(String file : arguments.argumentsAsStrings("taxonomy")){
+			files.add(new InputFile(new File(file)));
+		}
+		return files.toArray(new InputFile[files.size()]);
 	}
 }
