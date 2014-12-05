@@ -10,10 +10,11 @@ import it.disco.unimib.labeller.index.PartialContext;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
-import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
+import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
 import it.disco.unimib.labeller.predicates.TopK;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
@@ -43,10 +44,11 @@ public class BenchmarkParameters{
 		String knowledgeBase = knowledgeBaseString();
 		TripleSelectionCriterion context = context();
 		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
+		TypeHierarchy hierarchy = hierarchyFrom(knowledgeBase);
 		
 		HashMap<String, AnnotationAlgorithm> configurations = new HashMap<String, AnnotationAlgorithm>();
 		configurations.put("mh", majority(index, context));
-		configurations.put("mhw", pfd(index, context));
+		configurations.put("mhw", pfd(hierarchy, index, context));
 		configurations.put("ml", maximumLikelihood(index, context));
 		return getAlgorithm(configurations.get(algorithmString()));
 	}
@@ -55,14 +57,18 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(index, context, new PredicateContextSpecificity(index));
+	private AnnotationAlgorithm pfd(TypeHierarchy hierarchy, ContextualizedEvidence index, TripleSelectionCriterion context) {
+		return new WeightedFrequencyCoverageAndSpecificity(hierarchy, index, context, new PredicateContextSpecificity(index));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
+	private TypeHierarchy hierarchyFrom(String knowledgeBase) {
+		return null;
+	}
+	
 	public GoldStandard goldStandard() throws Exception {
 		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
