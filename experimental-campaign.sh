@@ -9,6 +9,7 @@ cd $root
 
 echo "Building indexes for YAGO1"
 scripts/indexes/build-index-for-yago1.sh
+scripts/indexes/scaled-depths-for-yago1.sh
 
 echo "Running experiments for YAGO1"
 ./run-all-algorithms.sh yago1
@@ -18,6 +19,7 @@ echo "Running experiments for YAGO1-SIMPLE"
 
 echo "Building indexes for DBPedia"
 scripts/indexes/build-index-for-dbpedia.sh
+scripts/indexes/scaled-depths-for-dbpedia.sh
 
 echo "Running experiments for DBPedia"
 ./run-all-algorithms.sh dbpedia

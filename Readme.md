@@ -29,7 +29,9 @@ There are few steps that have to be taken in order to run the experiments and re
 
 ```
 $ scripts/indexes/build-index-for-dbpedia.sh
-$ scripts/indexes/build-index-for-yago.sh
+$ scripts/indexes/scaled-depths-for-dbpedia.sh
+$ scripts/indexes/build-index-for-yago1.sh
+$ scripts/indexes/scaled-depths-for-yago1.sh
 ```
 Estimated execution time: about __3__ hours for YAGO and about __9__ hours for DBPEDIA
 
