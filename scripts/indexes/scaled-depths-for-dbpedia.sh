@@ -11,3 +11,7 @@ taxonomy=../evaluation/dbpedia-type-tree/type-tree.nt \
 types=../evaluation/gold-standards/dbpedia-types \
 destination=../evaluation/labeller-indexes/dbpedia/depths
 
+cd ../../evaluation/labeller-indexes/dbpedia/depths
+cat * >> types.csv
+ls * | grep -v types.csv | xargs rm -rf
+
