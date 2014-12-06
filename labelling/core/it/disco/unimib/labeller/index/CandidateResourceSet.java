@@ -12,7 +12,8 @@ public class CandidateResourceSet {
 	}
 	
 	public CandidateResource get(CandidateResource resource) {
-		if(!resources.containsKey(resource.id())) resources.put(resource.id(), resource);
+		String id = resource.id();
+		if(!resources.containsKey(id)) resources.put(resource.id(), resource);
 		return resources.get(resource.id());
 	}
 

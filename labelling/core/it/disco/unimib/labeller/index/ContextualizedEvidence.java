@@ -1,11 +1,8 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.benchmark.Events;
-
 import java.util.Arrays;
 import java.util.HashSet;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.search.BooleanQuery;
@@ -31,18 +28,18 @@ public class ContextualizedEvidence implements Index{
 	public long countPredicatesInContext(String predicate, String context, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
 		BooleanQuery asQuery = query.asQuery(predicate, 
-														context,
-														indexFields.predicateField(),
-														indexFields.context(),
-														indexFields.namespace(),
-														indexFields.analyzer());
+											context,
+											indexFields.predicateField(),
+											indexFields.context(),
+											indexFields.namespace(),
+											indexFields.analyzer());
 		TopDocs results = runQuery(howMany, asQuery);
 		return results.totalHits;
 	}
 
 	@Override
 	public CandidateResourceSet get(String value, String domain, TripleSelectionCriterion query) throws Exception {
-		Stems stems = new Stems(indexFields);
+		Stems stems = new Stems(indexFields.analyzer());
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value,
@@ -51,16 +48,17 @@ public class ContextualizedEvidence implements Index{
 									  indexFields.context(), 
 									  indexFields.namespace(), 
 									  indexFields.analyzer());
+		
+		HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
+									indexFields.predicateField(), 
+									indexFields.context(),
+									indexFields.subjectType(),
+									indexFields.objectType()}));
+		
 		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
-			HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
-										indexFields.predicateField(), 
-										indexFields.context(),
-										indexFields.subjectType(),
-										indexFields.objectType()
-									}));
 			Document document = searcher.doc(result.doc, fields);
 			String predicate = document.getValues(indexFields.predicateField())[0];
-			String context = stems.of(StringUtils.join(document.getValues(indexFields.context()), " "));
+			String context = stems.of(document.getValues(indexFields.context())[0]);
 			String[] subjectTypes = document.getValues(indexFields.subjectType());
 			String[] objectTypes = document.getValues(indexFields.objectType());
 			occurrences.accumulate(predicate, context, subjectTypes, objectTypes);
@@ -69,8 +67,6 @@ public class ContextualizedEvidence implements Index{
 	}
 	
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
-		TopDocs search = searcher.search(asQuery, null, howMany, Sort.INDEXORDER, false, false);
-		new Events().debug(asQuery + " - " + search.totalHits);
-		return search;
+		return searcher.search(asQuery, null, howMany, Sort.INDEXORDER, false, false);
 	}
 }
