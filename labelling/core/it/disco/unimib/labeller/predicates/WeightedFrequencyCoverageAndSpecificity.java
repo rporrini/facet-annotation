@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.predicates;
 
+import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.ScaledDepth;
@@ -27,8 +28,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	@Override
 	public List<CandidateResource> typeOf(String domain, List<String> elements) throws Exception {
 		
-		Distribution distribution = new CandidatePredicatesReport(new CandidatePredicates(index))
-										.forValues(domain, elements.toArray(new String[elements.size()]), selection);
+		Distribution distribution = new CandidatePredicates(index).forValues(domain, elements.toArray(new String[elements.size()]), selection);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
@@ -46,6 +46,8 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				tot += (objectsOf.get(type) * this.depth.of(type));
 			}
 			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
+			
+			new Events().debug("distinct object types: " + objectsOf.size());
 			
 			double objectDisc = 1.0 + Math.log(tot + 1.0);
 			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);

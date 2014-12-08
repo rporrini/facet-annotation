@@ -23,7 +23,7 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	
 	@Override
 	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
-		Distribution values = new CandidatePredicatesReport(new CandidatePredicates(index)).forValues(context, elements.toArray(new String[elements.size()]), query);
+		Distribution values = new CandidatePredicates(index).forValues(context, elements.toArray(new String[elements.size()]), query);
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
 			for(String result : values.predicates()){
