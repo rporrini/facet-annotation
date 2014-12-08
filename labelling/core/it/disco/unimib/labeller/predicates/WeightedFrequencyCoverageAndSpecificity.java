@@ -47,7 +47,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			}
 			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
 			
-			new Events().debug("distinct object types: " + objectsOf.size());
+			new Events().debug("distinct object types: " + objectsOf.size() + "|" + predicate);
 			
 			double objectDisc = 1.0 + Math.log(tot + 1.0);
 			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);
