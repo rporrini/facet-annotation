@@ -14,7 +14,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.ScaledDepth;
+import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
 import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
@@ -159,8 +159,8 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
 	
-	private ScaledDepth emptyTypes() throws Exception {
-		return new ScaledDepth(new InputFileTestDouble());
+	private ScaledDepths emptyTypes() throws Exception {
+		return new ScaledDepths(new InputFileTestDouble());
 	}
 
 	private Directory buildIndex() throws Exception {

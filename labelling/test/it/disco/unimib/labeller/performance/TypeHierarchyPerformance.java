@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.performance;
 
+import it.disco.unimib.labeller.index.ScaledDepth;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.TypeHierarchy;
 
@@ -25,11 +26,11 @@ public class TypeHierarchyPerformance extends AbstractBenchmark{
 	
 	@Test
 	public void scaledDepthOfAType() {
-		hierarchy.typeOf("http://dbpedia.org/ontology/MusicalArtist").scaledDepth();
+		new ScaledDepth().of(hierarchy.typeOf("http://dbpedia.org/ontology/MusicalArtist"));
 	}
 	
 	@Test
 	public void scaledDepthOfACategory() {
-		hierarchy.typeOf("http://dbpedia.org/resource/Category:World_War_II").scaledDepth();
+		new ScaledDepth().of(hierarchy.typeOf("http://dbpedia.org/resource/Category:World_War_II"));
 	}
 }

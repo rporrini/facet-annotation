@@ -8,7 +8,7 @@ import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.index.PartialContext;
-import it.disco.unimib.labeller.index.ScaledDepth;
+import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
@@ -59,7 +59,7 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(ScaledDepth depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm pfd(ScaledDepths depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index));
 	}
 
@@ -67,12 +67,12 @@ public class BenchmarkParameters{
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
-	private ScaledDepth hierarchyFrom(String knowledgeBase) throws Exception {
+	private ScaledDepths hierarchyFrom(String knowledgeBase) throws Exception {
 		if(knowledgeBase.startsWith("yago1")){
-			return new ScaledDepth(new InputFile(new File("../evaluation/labeller-indexes/yago1/depths/types.csv")));
+			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/yago1/depths/types.csv")));
 		}
 		if(knowledgeBase.startsWith("dbpedia")){
-			return new ScaledDepth(new InputFile(new File("../evaluation/labeller-indexes/dbpedia/depths/types.csv")));
+			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/dbpedia/depths/types.csv")));
 		}
 		return null;
 	}
