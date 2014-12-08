@@ -5,6 +5,9 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 
 cd $root
+
+rm -rf ../../evaluation/labeller-indexes/dbpedia/depths
+
 ./scaled-depths.sh \
 taxonomy=../evaluation/dbpedia-category-tree/category-tree.nt \
 taxonomy=../evaluation/dbpedia-type-tree/type-tree.nt \
