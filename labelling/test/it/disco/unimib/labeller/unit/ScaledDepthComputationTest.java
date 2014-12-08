@@ -34,6 +34,6 @@ public class ScaledDepthComputationTest {
 											output);
 		
 		assertThat(output.getWrittenLines(), hasItem("type|1.0"));
-		assertThat(output.getWrittenLines(), hasItem("supertype|0.5"));
+		assertThat(output.getWrittenLines(), hasItem("supertype|0.6666666666666666"));
 	}
 }

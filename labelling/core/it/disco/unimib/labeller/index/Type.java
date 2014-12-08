@@ -34,6 +34,10 @@ public class Type{
 		return this.subTypes;
 	}
 	
+	public List<Type> superTypes(){
+		return this.superTypes;
+	}
+	
 	@Override
 	public String toString() {
 		return resource.toString();

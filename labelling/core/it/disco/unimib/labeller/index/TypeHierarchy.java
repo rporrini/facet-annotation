@@ -32,6 +32,12 @@ public class TypeHierarchy {
 			subType.addSuperType(superType);
 			superType.addSubType(subType);
 		}
+		Type root = new Type(new RDFResource("ROOT"));
+		for(Type type : this.getRootTypes()){
+			root.addSubType(type);
+			type.addSuperType(root);
+		}
+		this.types.put("ROOT", root);
 	}
 	
 	public Type typeOf(String type){

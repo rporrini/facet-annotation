@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.unit;
 
-import static org.hamcrest.Matchers.empty;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
@@ -17,7 +16,7 @@ public class TypeHierarchyTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		assertThat(hierarchy.getRootTypes(), empty());
+		assertThat(hierarchy.getRootTypes(), hasSize(1));
 	}
 	
 	@Test
@@ -30,6 +29,17 @@ public class TypeHierarchyTest {
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
 		assertThat(hierarchy.getRootTypes(), hasSize(1));
+	}
+	
+	@Test
+	public void aLonelyNodeShouldHaveAFakeRoot() throws Exception {
+		InputFileTestDouble input = new InputFileTestDouble()
+											.withLine(new TripleBuilder()
+															.withObject("type")
+															.asNTriple());
+		Type type = new TypeHierarchy(input).typeOf("type");
+		
+		assertThat(type.superTypes().get(0).toString(), equalTo("ROOT"));
 	}
 	
 	@Test
@@ -63,7 +73,7 @@ public class TypeHierarchyTest {
 
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		Type root = hierarchy.getRootTypes().iterator().next();
+		Type root = hierarchy.typeOf("agent");
 		Type subType = root.subTypes().iterator().next();
 		Type subSubType = subType.subTypes().iterator().next();
 		
