@@ -15,7 +15,7 @@ public class ScaledDepthTest {
 		
 		ScaledDepth depth = new ScaledDepth(new InputFileTestDouble());
 		
-		assertThat(depth.of("any"), equalTo(0.0));
+		assertThat(depth.of("any"), equalTo(1.0));
 	}
 	
 	@Test

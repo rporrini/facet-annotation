@@ -19,7 +19,7 @@ public class ScaledDepth {
 
 	public Double of(String type) {
 		Double depth = depths.get(type);
-		if(depth == null) depth = 0.0;
+		if(depth == null) depth = 1.0;
 		return depth;
 	}
 }
