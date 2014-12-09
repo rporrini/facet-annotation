@@ -1,10 +1,11 @@
 package it.disco.unimib.labeller.index;
 
 import java.util.HashMap;
+import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class ScaledDepths {
+public class ScaledDepths implements TypeConsistency {
 
 	private HashMap<String, Double> depths;
 
@@ -16,9 +17,18 @@ public class ScaledDepths {
 		}
 	}
 
-	public Double of(String type) {
+	public double of(String type) {
 		Double depth = depths.get(type);
 		if(depth == null) depth = 1.0;
 		return depth;
+	}
+
+	public double consistencyOf(Map<String, Double> objects) {
+		double tot=0;
+		for(String type : objects.keySet()){
+			tot += (objects.get(type) * of(type));
+		}
+		if(!objects.isEmpty()) tot = tot / (double)objects.size();
+		return tot;
 	}
 }
