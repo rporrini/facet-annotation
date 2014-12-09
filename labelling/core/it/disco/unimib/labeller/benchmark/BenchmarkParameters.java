@@ -12,6 +12,7 @@ import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
@@ -59,7 +60,7 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(ScaledDepths depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index));
 	}
 
@@ -67,7 +68,7 @@ public class BenchmarkParameters{
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
-	private ScaledDepths hierarchyFrom(String knowledgeBase) throws Exception {
+	private TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {
 		if(knowledgeBase.startsWith("yago1")){
 			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/yago1/depths/types.csv")));
 		}

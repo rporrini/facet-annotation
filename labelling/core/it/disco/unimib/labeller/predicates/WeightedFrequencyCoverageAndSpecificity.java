@@ -3,8 +3,8 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.TypeConsistency;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -16,13 +16,13 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	private Index index;
 	private Specificity predicateSpecificity;
 	private TripleSelectionCriterion selection;
-	private ScaledDepths depth;
+	private TypeConsistency consistency;
 
-	public WeightedFrequencyCoverageAndSpecificity(ScaledDepths depth, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(TypeConsistency consistency, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;
-		this.depth = depth;
+		this.consistency = consistency;
 	}
 
 	@Override
@@ -39,17 +39,10 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				if(score > 0) covered++;
 				frequencyOverValues += score;
 			}
+			Map<String, Double> objects = distribution.objectsOf(predicate);
+			new Events().debug("distinct object types: " + objects.size() + "|" + predicate);
 			
-			Map<String, Double> objectsOf = distribution.objectsOf(predicate);
-			double tot=0;
-			for(String type : objectsOf.keySet()){
-				tot += (objectsOf.get(type) * this.depth.of(type));
-			}
-			if(!objectsOf.isEmpty()) tot = tot / (double)objectsOf.size();
-			
-			new Events().debug("distinct object types: " + objectsOf.size() + "|" + predicate);
-			
-			double objectDisc = 1.0 + Math.log(tot + 1.0);
+			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
 			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
