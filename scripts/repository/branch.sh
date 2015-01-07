@@ -21,6 +21,6 @@ case $action in
 		git pull
 		git checkout $from_branch
 		git checkout -b $new_branch
-		git push
+		git push --set-upstream origin $new_branch
 		;;
 esac
