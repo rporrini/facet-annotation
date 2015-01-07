@@ -13,12 +13,10 @@ import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.index.Term;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.Sort;
-import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.util.Version;
 
@@ -36,7 +34,7 @@ public class EntityValues implements ReadAndWriteStore{
 	}
 	
 	public List<CandidateResource> get(String entity) throws Exception {
-		Query query = new TermQuery(new Term(id(), entity));
+		Query query = new IndexQuery().matchExactly(entity, id()).build();
 		IndexSearcher searcher = openSearcher();
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();

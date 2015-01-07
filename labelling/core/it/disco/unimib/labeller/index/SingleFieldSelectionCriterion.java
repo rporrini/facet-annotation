@@ -5,7 +5,6 @@ import org.apache.lucene.search.BooleanQuery;
 
 public interface SingleFieldSelectionCriterion {
 
-	public BooleanQuery createQuery(String value, String field,
-			Analyzer analyzer) throws Exception;
+	public BooleanQuery createQuery(String value, String field, Analyzer analyzer) throws Exception;
 
 }
