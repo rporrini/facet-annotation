@@ -4,8 +4,14 @@ import org.apache.lucene.analysis.Analyzer;
 
 public class AnyValue implements SingleFieldSelectionCriterion{
 	
-	public IndexQuery createQuery(String value, String field, Analyzer analyzer) throws Exception {
-		IndexQuery query = new IndexQuery(analyzer).any().match(value, field);
+	private Analyzer analyzer;
+
+	public AnyValue(Analyzer analyzer){
+		this.analyzer = analyzer;
+	}
+	
+	public IndexQuery createQuery(String value, String field) throws Exception {
+		IndexQuery query = new IndexQuery(this.analyzer).any().match(value, field);
 		return query;
 	}
 }

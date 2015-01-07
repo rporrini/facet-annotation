@@ -15,9 +15,11 @@ import org.junit.Test;
 public class SpecificNamespaceTest {
 	@Test
 	public void shouldRestrictTheQueryToASpecificNamespace() throws Exception {
-		TripleSelectionCriterion query = new SpecificNamespace("thenamespace", new NoContext(new AllValues()));
+		StandardAnalyzer analyzer = new StandardAnalyzer(Version.LUCENE_45);
 		
-		Query luceneQuery = query.asQuery("type", "context", "literal", "context", "namespace", new StandardAnalyzer(Version.LUCENE_45)).build();
+		TripleSelectionCriterion query = new SpecificNamespace("thenamespace", new NoContext(new AllValues(analyzer)));
+		
+		Query luceneQuery = query.asQuery("type", "context", "literal", "context", "namespace").build();
 		
 		assertThat(luceneQuery.toString(), containsString("+namespace:\"thenamespace\""));
 	}

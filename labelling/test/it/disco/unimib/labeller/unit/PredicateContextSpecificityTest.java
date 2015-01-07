@@ -36,8 +36,8 @@ public class PredicateContextSpecificityTest {
 																		.withPredicate("predicate")
 																		.withLiteral("value").asTriple())
 											.closeWriter();
-		
-		PredicateContextSpecificity predicateAndContextWeight = new PredicateContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), new IndexFields("dbpedia")));
+		IndexFields fields = new IndexFields("dbpedia");
+		PredicateContextSpecificity predicateAndContextWeight = new PredicateContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context");
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching");

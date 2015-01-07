@@ -4,6 +4,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.predicates.MajorityOverCoveredValues;
 
@@ -19,7 +20,9 @@ public class MajorityOverCoveredValuesTest {
 		MajorityOverCoveredValues majorityPredicate = new MajorityOverCoveredValues(new IndexTestDouble()
 															.resultFor("2012", "predicate", 1)
 															.resultFor("2010", "predicate", 1)
-															.resultFor("2010", "other predicate", 1), 0.6, new NoContext(new AllValues()));
+															.resultFor("2010", "other predicate", 1), 
+															0.6, 
+															new NoContext(new AllValues(new IndexFields("dbpedia").analyzer())));
 		
 		List<CandidateResource> results = majorityPredicate.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		

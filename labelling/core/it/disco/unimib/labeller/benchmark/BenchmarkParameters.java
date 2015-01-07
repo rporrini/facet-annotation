@@ -60,8 +60,8 @@ public class BenchmarkParameters{
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index));
+	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, TripleSelectionCriterion context) throws Exception {
+		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index, new IndexFields(knowledgeBaseString())));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
@@ -84,7 +84,7 @@ public class BenchmarkParameters{
 	
 	private TripleSelectionCriterion context() throws Exception{
 		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
-		AllValues valueMatching = new AllValues();
+		AllValues valueMatching = new AllValues(new IndexFields(knowledgeBaseString()).analyzer());
 		
 		contexts.put("complete", new CompleteContext(valueMatching));
 		contexts.put("no", new NoContext(valueMatching));

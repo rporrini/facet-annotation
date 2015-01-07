@@ -13,7 +13,7 @@ public class AllValuesTest {
 	@Test
 	public void shouldParseASingleValue() throws Exception {
 		
-		IndexQuery query = new AllValues().createQuery("Film", "literal", new IndexFields("dbpedia").analyzer());
+		IndexQuery query = new AllValues(new IndexFields("dbpedia").analyzer()).createQuery("Film", "literal");
 		
 		assertThat(query.build().toString(), equalTo("+literal:film"));
 	}

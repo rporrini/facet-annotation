@@ -13,7 +13,7 @@ public class AnyValueTest {
 	@Test
 	public void shouldParseQueries() throws Exception {
 		
-		IndexQuery query = new AnyValue().createQuery("Polar Express", "literal", new IndexFields("dbpedia").analyzer());
+		IndexQuery query = new AnyValue(new IndexFields("dbpedia").analyzer()).createQuery("Polar Express", "literal");
 		
 		assertThat(query.build().toString(), equalTo("+(literal:polar literal:express)"));
 	}

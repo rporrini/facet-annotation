@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import org.apache.lucene.analysis.Analyzer;
 
 public class NoContext implements TripleSelectionCriterion{
 	
@@ -10,7 +9,7 @@ public class NoContext implements TripleSelectionCriterion{
 		allValues = constraints;
 	}
 
-	public IndexQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		return allValues.createQuery(value, literalField, analyzer);
+	public IndexQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
+		return allValues.createQuery(value, literalField);
 	}
 }
