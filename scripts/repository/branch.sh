@@ -34,6 +34,7 @@ case $action in
 		branch=$2
 		with_branch=$3
 		git checkout $with_branch
+		git pull
 		git merge --no-ff $branch
 		git push
 		;;
