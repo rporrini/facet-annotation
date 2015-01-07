@@ -30,7 +30,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldMatchAllTheWordsOfATerm() throws Exception {
 		
-		IndexQuery query = new IndexQuery(new EnglishAnalyzer(Version.LUCENE_45)).matchAll("c b", "field");
+		IndexQuery query = new IndexQuery(new EnglishAnalyzer(Version.LUCENE_45)).all().match("c b", "field");
 		
 		assertThat(query.build().toString(), equalTo("+(+field:c +field:b)"));
 	}
@@ -38,7 +38,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldMatchAnyWordOfATerm() throws Exception {
 		
-		IndexQuery query = new IndexQuery(new EnglishAnalyzer(Version.LUCENE_45)).matchAny("c b", "field");
+		IndexQuery query = new IndexQuery(new EnglishAnalyzer(Version.LUCENE_45)).any().match("c b", "field");
 		
 		assertThat(query.build().toString(), equalTo("+(field:c field:b)"));
 	}
