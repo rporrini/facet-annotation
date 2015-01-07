@@ -31,8 +31,8 @@ case $action in
 		git push origin --delete $branch
 		;;
 	merge )
-		branch=$3
 		with_branch=$2
+		branch=$3
 		git checkout $with_branch
 		git pull
 		git merge --no-ff $branch

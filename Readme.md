@@ -79,7 +79,7 @@ $ scripts/experiments/ttest.sh
 
 Create, modify and delete git branches for the repository
 ```
-$ scripts/repository/branch.sh (new | delete | merge) new-branch [existing-branch] 
+$ scripts/repository/branch.sh (new | delete | merge) existing-branch [new-branch] 
 ```
 
 ## Contacts
