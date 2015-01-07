@@ -77,6 +77,11 @@ Performing a two-tailed t-test on the experimental results of all the algorithms
 $ scripts/experiments/ttest.sh
 ```
 
+Create, modify and delete git branches for the repository
+```
+$ scripts/repository/branch.sh (new | delete | merge) existing-branch [new-branch] 
+```
+
 ## Contacts
 
 Riccardo Porrini, [riccardo.porrini@disco.unimib.it](mailto:riccardo.porrini@disco.unimib.it)
