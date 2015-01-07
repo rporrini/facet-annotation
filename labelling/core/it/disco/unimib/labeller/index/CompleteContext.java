@@ -2,12 +2,6 @@ package it.disco.unimib.labeller.index;
 
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
-import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanClause.Occur;
-import org.apache.lucene.search.BooleanQuery;
 
 public class CompleteContext implements TripleSelectionCriterion{
 
@@ -18,12 +12,7 @@ public class CompleteContext implements TripleSelectionCriterion{
 	}
 
 	@Override
-	public BooleanQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
-		BooleanQuery query = allValues.createQuery(value, literalField, analyzer);
-		
-		StandardQueryParser standardQueryParser = new StandardQueryParser(analyzer);
-		standardQueryParser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
-		query.clauses().add(new BooleanClause(standardQueryParser.parse(QueryParser.escape(context), contextField), Occur.MUST));
-		return query;
+	public IndexQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField, Analyzer analyzer) throws Exception {
+		return allValues.createQuery(value, literalField, analyzer).all().match(context, contextField);
 	}
 }

@@ -17,8 +17,8 @@ public class SpecificNamespaceTest {
 	public void shouldRestrictTheQueryToASpecificNamespace() throws Exception {
 		TripleSelectionCriterion query = new SpecificNamespace("thenamespace", new NoContext(new AllValues()));
 		
-		Query luceneQuery = query.asQuery("type", "context", "literal", "context", "namespace", new StandardAnalyzer(Version.LUCENE_45));
+		Query luceneQuery = query.asQuery("type", "context", "literal", "context", "namespace", new StandardAnalyzer(Version.LUCENE_45)).build();
 		
-		assertThat(luceneQuery.toString(), containsString("+namespace:thenamespace"));
+		assertThat(luceneQuery.toString(), containsString("+namespace:\"thenamespace\""));
 	}
 }

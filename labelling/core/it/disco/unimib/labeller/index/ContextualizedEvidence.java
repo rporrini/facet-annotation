@@ -32,7 +32,7 @@ public class ContextualizedEvidence implements Index{
 											indexFields.predicateField(),
 											indexFields.context(),
 											indexFields.namespace(),
-											indexFields.analyzer());
+											indexFields.analyzer()).build();
 		TopDocs results = runQuery(howMany, asQuery);
 		return results.totalHits;
 	}
@@ -47,7 +47,7 @@ public class ContextualizedEvidence implements Index{
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace(), 
-									  indexFields.analyzer());
+									  indexFields.analyzer()).build();
 		
 		HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
 									indexFields.predicateField(), 
