@@ -1,14 +1,12 @@
 package it.disco.unimib.labeller.index;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.BooleanQuery;
 
 public class AnyValue implements SingleFieldSelectionCriterion{
 	
-	public BooleanQuery createQuery(String value, String literalField, Analyzer analyzer) throws Exception {
-		String escape = QueryParser.escape(value.replace("OR", "or").replace("AND", "and"));
-		IndexQuery query = new IndexQuery(analyzer).any().match(escape, literalField);
+	public BooleanQuery createQuery(String value, String field, Analyzer analyzer) throws Exception {
+		IndexQuery query = new IndexQuery(analyzer).any().match(value, field);
 		return query.build();
 	}
 }

@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.index;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.index.Term;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.queryparser.flexible.standard.StandardQueryParser;
 import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler;
 import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler.Operator;
@@ -31,12 +32,6 @@ public class IndexQuery {
 		return query;
 	}
 
-	public IndexQuery matchExactly(String value, String field) throws Exception {
-		PhraseQuery phraseQuery = new PhraseQuery();
-		phraseQuery.add(new Term(field, value));
-		return addToQuery(phraseQuery) ;
-	}
-
 	public IndexQuery all(){
 		operator = StandardQueryConfigHandler.Operator.AND;
 		return this;
@@ -47,8 +42,14 @@ public class IndexQuery {
 		return this;
 	}
 	
+	public IndexQuery matchExactly(String value, String field) throws Exception {
+		PhraseQuery phraseQuery = new PhraseQuery();
+		phraseQuery.add(new Term(field, value));
+		return addToQuery(phraseQuery) ;
+	}
+	
 	public IndexQuery match(String value, String field) throws Exception {
-		return addToQuery(multiWordQuery(value, field, operator));
+		return addToQuery(multiWord(value, field, operator));
 	}
 
 	private IndexQuery addToQuery(Query query) throws Exception {
@@ -56,9 +57,10 @@ public class IndexQuery {
 		return this;
 	}
 
-	private Query multiWordQuery(String value, String field, Operator operator) throws Exception {
+	private Query multiWord(String value, String field, Operator operator) throws Exception {
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
 		parser.setDefaultOperator(operator);
-		return parser.parse(value, field);
+		String escape = QueryParser.escape(value.replace("OR", "or").replace("AND", "and").replace("-", " "));
+		return parser.parse(escape, field);
 	}
 }
