@@ -34,4 +34,12 @@ public class IndexQueryTest {
 		
 		assertThat(query.build().toString(), equalTo("+(+field:c +field:b)"));
 	}
+	
+	@Test
+	public void shouldMatchAnyWordOfATerm() throws Exception {
+		
+		IndexQuery query = new IndexQuery(new EnglishAnalyzer(Version.LUCENE_45)).matchAny("c b", "field");
+		
+		assertThat(query.build().toString(), equalTo("+(field:c field:b)"));
+	}
 }

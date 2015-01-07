@@ -16,13 +16,13 @@ public class IndexQuery {
 	private BooleanQuery query;
 	private Analyzer analyzer;
 
+	public IndexQuery(){
+		this(new StandardAnalyzer(Version.LUCENE_45));
+	}
+	
 	public IndexQuery(Analyzer analyzer){
 		this.query = new BooleanQuery();
 		this.analyzer = analyzer;
-	}
-	
-	public IndexQuery(){
-		this(new StandardAnalyzer(Version.LUCENE_45));
 	}
 	
 	public BooleanQuery build() {
@@ -39,6 +39,13 @@ public class IndexQuery {
 	public IndexQuery matchAll(String value, String field) throws Exception {
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
 		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.AND);
+		query.clauses().add(new BooleanClause(parser.parse(value, field), Occur.MUST));
+		return this;
+	}
+
+	public IndexQuery matchAny(String value, String field) throws Exception {
+		StandardQueryParser parser = new StandardQueryParser(analyzer);
+		parser.setDefaultOperator(StandardQueryConfigHandler.Operator.OR);
 		query.clauses().add(new BooleanClause(parser.parse(value, field), Occur.MUST));
 		return this;
 	}
