@@ -21,6 +21,6 @@ case $action in
 		git pull
 		git checkout $from_branch
 		git checkout -b $new_branch
-		git pull
+		git push
 		;;
 esac
