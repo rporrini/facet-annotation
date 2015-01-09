@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.AllValues;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
@@ -17,9 +18,9 @@ public class PredicateContextSpecificity implements Specificity{
 	}
 	
 	@Override
-	public double of(String predicate, String domain) throws Exception {
-		double frequencyOfPredicateInDomain = index.countPredicatesInContext(predicate, domain, new PartialContext(new AllValues(indexFields)));
-		double frequencyOfPredicate = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues(indexFields)));
+	public double of(ContextualizedValues request) throws Exception {
+		double frequencyOfPredicateInDomain = index.countPredicatesInContext(request, new PartialContext(new AllValues(indexFields)));
+		double frequencyOfPredicate = index.countPredicatesInContext(request, new NoContext(new AllValues(indexFields)));
 		return frequencyOfPredicateInDomain / frequencyOfPredicate;
 	}
 }

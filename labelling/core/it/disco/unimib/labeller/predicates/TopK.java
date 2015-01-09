@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 
 import java.util.List;
 
@@ -15,7 +16,7 @@ public class TopK implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(AnnotationRequest parameterObject) throws Exception {
+	public List<CandidateResource> typeOf(ContextualizedValues parameterObject) throws Exception {
 		List<CandidateResource> results = algorithm.typeOf(parameterObject);
 		return results.subList(0, Math.min(topK, results.size()));
 	}

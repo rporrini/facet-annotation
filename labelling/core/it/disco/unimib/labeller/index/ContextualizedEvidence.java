@@ -1,7 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import it.disco.unimib.labeller.predicates.AnnotationRequest;
-
 import java.util.HashSet;
 
 import org.apache.lucene.document.Document;
@@ -26,10 +24,10 @@ public class ContextualizedEvidence implements Index{
 	}
 	
 	@Override
-	public long countPredicatesInContext(String predicate, String domain, TripleSelectionCriterion query) throws Exception {
+	public long countPredicatesInContext(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
-		BooleanQuery asQuery = query.asQuery(predicate, 
-											domain,
+		BooleanQuery asQuery = query.asQuery(request.first(), 
+											request.domain(),
 											indexFields.propertyId(),
 											indexFields.context(),
 											indexFields.namespace()).build();
@@ -38,12 +36,12 @@ public class ContextualizedEvidence implements Index{
 	}
 
 	@Override
-	public CandidateResourceSet get(AnnotationRequest request, TripleSelectionCriterion query) throws Exception {
+	public CandidateResourceSet get(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
 		Stems stems = indexFields.toStems();
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.context()));
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.domain()));
 		int howMany = 1000000;
-		BooleanQuery q = query.asQuery(request.elements()[0],
-									  request.context(), 
+		BooleanQuery q = query.asQuery(request.first(),
+									   request.domain(), 
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace()).build();

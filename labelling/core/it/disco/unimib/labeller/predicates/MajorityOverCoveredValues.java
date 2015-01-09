@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
@@ -22,7 +23,7 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
+	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		Distribution values = new CandidatePredicates(index).forValues(request, query);
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
@@ -34,7 +35,7 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 		List<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : predicateCounts.keySet()){
 			double count = predicateCounts.get(predicate);
-			double percentage = count / (double) request.elements().length;
+			double percentage = count / (double) request.all().length;
 			if(percentage > threshold){
 				CandidateResource e = new CandidateResource(predicate);
 				e.sumScore(percentage);

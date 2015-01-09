@@ -4,6 +4,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -39,8 +40,8 @@ public class PredicateContextSpecificityTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		PredicateContextSpecificity predicateAndContextWeight = new PredicateContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
 		
-		double discriminacyMatchingContext = predicateAndContextWeight.of("predicate", "context");
-		double discriminacyNonMatchingContext = predicateAndContextWeight.of("predicate", "non matching");
+		double discriminacyMatchingContext = predicateAndContextWeight.of(new ContextualizedValues("context", new String[]{"predicate"}));
+		double discriminacyNonMatchingContext = predicateAndContextWeight.of(new ContextualizedValues("non matching", new String[]{"predicate"}));
 		assertThat(discriminacyMatchingContext, greaterThan(discriminacyNonMatchingContext));
 	}
 

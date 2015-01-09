@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.index.TypeConsistency;
@@ -26,7 +27,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
+	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		
 		Distribution distribution = new CandidatePredicates(index).forValues(request, selection);
 		
@@ -43,7 +44,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			new Events().debug("distinct object types: " + objects.size() + "|" + predicate);
 			
 			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
-			double disc = Math.log(predicateSpecificity.of(predicate, request.context()) + 1.1);
+			double disc = Math.log(predicateSpecificity.of(new ContextualizedValues(request.domain(), new String[]{predicate})) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			

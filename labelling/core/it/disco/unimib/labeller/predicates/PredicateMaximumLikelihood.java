@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 
@@ -19,7 +20,7 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
+	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		Distribution distribution = new CandidatePredicates(index).forValues(request, query);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);

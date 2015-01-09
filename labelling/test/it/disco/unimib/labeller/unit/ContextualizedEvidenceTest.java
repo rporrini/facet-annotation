@@ -6,6 +6,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
@@ -27,7 +28,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext("any", "any", new NoContext(new AllValues(fields))), is(equalTo(0l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"any"}), new NoContext(new AllValues(fields))), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -43,7 +44,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues(fields))), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"http://predicate"}), new NoContext(new AllValues(fields))), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -59,7 +60,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues(fields))), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"http://predicate"}), new NoContext(new AllValues(fields))), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -76,7 +77,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "any", new NoContext(new AllValues(fields))), is(equalTo(2l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any",new String[]{"http://predicate"}), new NoContext(new AllValues(fields))), is(equalTo(2l)));
 	}
 	
 	@Test
@@ -116,6 +117,6 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext("http://predicate", "one term", new PartialContext(new AllValues(fields))), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("one term", new String[]{"http://predicate"}), new PartialContext(new AllValues(fields))), is(equalTo(1l)));
 	}
 }
