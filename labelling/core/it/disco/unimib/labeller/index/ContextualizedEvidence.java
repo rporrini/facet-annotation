@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.Arrays;
 import java.util.HashSet;
 
 import org.apache.lucene.document.Document;
@@ -25,10 +24,10 @@ public class ContextualizedEvidence implements Index{
 	}
 	
 	@Override
-	public long countPredicatesInContext(String predicate, String context, TripleSelectionCriterion query) throws Exception {
+	public long countPredicatesInContext(String predicate, String domain, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
 		BooleanQuery asQuery = query.asQuery(predicate, 
-											context,
+											domain,
 											indexFields.propertyId(),
 											indexFields.context(),
 											indexFields.namespace()).build();
@@ -38,7 +37,7 @@ public class ContextualizedEvidence implements Index{
 
 	@Override
 	public CandidateResourceSet get(String value, String domain, TripleSelectionCriterion query) throws Exception {
-		Stems stems = new Stems(indexFields.analyzer());
+		Stems stems = indexFields.toStems();
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
 		int howMany = 1000000;
 		BooleanQuery q = query.asQuery(value,
@@ -47,11 +46,7 @@ public class ContextualizedEvidence implements Index{
 									  indexFields.context(), 
 									  indexFields.namespace()).build();
 		
-		HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
-									indexFields.propertyId(), 
-									indexFields.context(),
-									indexFields.subjectType(),
-									indexFields.objectType()}));
+		HashSet<String> fields = indexFields.fieldsToRead();
 		
 		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
 			Document document = searcher.doc(result.doc, fields);
@@ -63,7 +58,7 @@ public class ContextualizedEvidence implements Index{
 		}
 		return occurrences.asResults();
 	}
-	
+
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
 		return searcher.search(asQuery, null, howMany, Sort.INDEXORDER, false, false);
 	}
