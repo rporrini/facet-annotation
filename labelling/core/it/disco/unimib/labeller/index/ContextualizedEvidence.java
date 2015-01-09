@@ -26,7 +26,7 @@ public class ContextualizedEvidence implements Index{
 	@Override
 	public long countPredicatesInContext(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
-		return runQuery(howMany, query.asQuery(request, indexFields.propertyId()).build()).totalHits;
+		return runQuery(howMany, query.asQuery(request).build()).totalHits;
 	}
 
 	@Override
@@ -36,7 +36,7 @@ public class ContextualizedEvidence implements Index{
 		int howMany = 1000000;
 		HashSet<String> fields = indexFields.fieldsToRead();
 		
-		for(ScoreDoc result : runQuery(howMany, query.asQuery(request, indexFields.literal()).build()).scoreDocs){
+		for(ScoreDoc result : runQuery(howMany, query.asQuery(request).build()).scoreDocs){
 			Document document = searcher.doc(result.doc, fields);
 			String predicate = document.getValues(indexFields.propertyId())[0];
 			String context = stems.of(document.getValues(indexFields.context())[0]);

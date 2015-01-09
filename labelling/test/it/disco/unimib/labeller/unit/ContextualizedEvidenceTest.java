@@ -5,12 +5,12 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.ContextualizedPredicate;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.OnlyPredicate;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -27,7 +27,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"any"}), new NoContext(fields)), is(equalTo(0l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"any"}), new OnlyPredicate(fields)), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -43,23 +43,24 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"http://predicate"}), new NoContext(fields)), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"http://predicate"}), new OnlyPredicate(fields)), is(equalTo(1l)));
 	}
 	
 	@Test
 	public void shouldGiveOneResultWhenMatchesAPredicateConsideringLabels() throws Exception {
+		IndexFields fields = new IndexFields("dbpedia-with-labels");
+		
 		Directory directory = new RAMDirectory();
 		new Evidence(directory, 
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new IndexFields("dbpedia-with-labels"))
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
-								.closeWriter();
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					fields)
+				.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+				.closeWriter();
 		
-		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"http://predicate"}), new NoContext(fields)), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any", new String[]{"predicate"}), new OnlyPredicate(fields)), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -76,7 +77,7 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext(new ContextualizedValues("any",new String[]{"http://predicate"}), new NoContext(fields)), is(equalTo(2l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("any",new String[]{"http://predicate"}), new OnlyPredicate(fields)), is(equalTo(2l)));
 	}
 	
 	@Test
@@ -116,6 +117,6 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.countPredicatesInContext(new ContextualizedValues("one term", new String[]{"http://predicate"}), new PartialContext(fields)), is(equalTo(1l)));
+		assertThat(index.countPredicatesInContext(new ContextualizedValues("one term", new String[]{"http://predicate"}), new ContextualizedPredicate(fields)), is(equalTo(1l)));
 	}
 }

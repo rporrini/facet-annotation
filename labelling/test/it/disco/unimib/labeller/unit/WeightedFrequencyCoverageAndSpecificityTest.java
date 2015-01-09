@@ -84,9 +84,10 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesOnYago() throws Exception {	
 		Directory directory = buildIndex();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("yago1"));
+		IndexFields fields = new IndexFields("yago1");
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new NoContext(new IndexFields("dbpedia")), new PredicateContextSpecificity(index, new IndexFields("dbpedia")));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new NoContext(fields), new PredicateContextSpecificity(index, fields));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		
@@ -97,9 +98,10 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 	public void shouldOrderConsideringTheWeightOfPredicatesOnDbpediaWithLabels() throws Exception {	
 		Directory directory = buildIndex();
 		
-		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia-with-labels"));
+		IndexFields fields = new IndexFields("dbpedia-with-labels");
+		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new NoContext(new IndexFields("dbpedia")), new PredicateContextSpecificity(index, new IndexFields("dbpedia")));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new NoContext(fields), new PredicateContextSpecificity(index, fields));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		

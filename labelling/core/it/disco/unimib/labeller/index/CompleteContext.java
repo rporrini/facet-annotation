@@ -9,9 +9,9 @@ public class CompleteContext implements TripleSelectionCriterion{
 	}
 
 	@Override
-	public Constraint asQuery(ContextualizedValues values, String literalField) throws Exception {
+	public Constraint asQuery(ContextualizedValues values) throws Exception {
 		return new AllValues(fields)
-					.createQuery(values.first(), literalField)
+					.createQuery(values.first(), fields.literal())
 					.all()
 					.match(values.domain(), fields.context());
 	}
