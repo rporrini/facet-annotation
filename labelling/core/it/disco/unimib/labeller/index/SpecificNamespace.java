@@ -12,9 +12,9 @@ public class SpecificNamespace implements TripleSelectionCriterion {
 	}
 
 	@Override
-	public Constraint asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
+	public Constraint asQuery(ContextualizedValues values, String literalField, String contextField, String namespaceField) throws Exception {
 		return query
-				.asQuery(value, context, literalField, contextField, namespaceField)
+				.asQuery(values, literalField, contextField, namespaceField)
 				.matchExactly(namespace, namespaceField);
 	}
 

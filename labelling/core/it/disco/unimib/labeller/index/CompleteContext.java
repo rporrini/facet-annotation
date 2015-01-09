@@ -1,7 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-
-
 public class CompleteContext implements TripleSelectionCriterion{
 
 	private AllValues allValues;
@@ -11,7 +9,7 @@ public class CompleteContext implements TripleSelectionCriterion{
 	}
 
 	@Override
-	public Constraint asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
-		return allValues.createQuery(value, literalField).all().match(context, contextField);
+	public Constraint asQuery(ContextualizedValues values, String literalField, String contextField, String namespaceField) throws Exception {
+		return allValues.createQuery(values.first(), literalField).all().match(values.domain(), contextField);
 	}
 }

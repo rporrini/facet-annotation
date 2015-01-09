@@ -26,8 +26,7 @@ public class ContextualizedEvidence implements Index{
 	@Override
 	public long countPredicatesInContext(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
 		int howMany = 1;
-		BooleanQuery asQuery = query.asQuery(request.first(), 
-											request.domain(),
+		BooleanQuery asQuery = query.asQuery(request,
 											indexFields.propertyId(),
 											indexFields.context(),
 											indexFields.namespace()).build();
@@ -40,8 +39,7 @@ public class ContextualizedEvidence implements Index{
 		Stems stems = indexFields.toStems();
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.domain()));
 		int howMany = 1000000;
-		BooleanQuery q = query.asQuery(request.first(),
-									   request.domain(), 
+		BooleanQuery q = query.asQuery(request, 
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace()).build();

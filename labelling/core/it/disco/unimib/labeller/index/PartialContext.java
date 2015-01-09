@@ -10,7 +10,7 @@ public class PartialContext implements TripleSelectionCriterion {
 	}
 
 	@Override
-	public Constraint asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
-		return criterion.createQuery(value, literalField).any().match(context, contextField);
+	public Constraint asQuery(ContextualizedValues values, String literalField, String contextField, String namespaceField) throws Exception {
+		return criterion.createQuery(values.first(), literalField).any().match(values.domain(), contextField);
 	}
 }
