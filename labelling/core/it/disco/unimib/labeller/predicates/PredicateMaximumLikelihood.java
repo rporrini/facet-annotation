@@ -19,8 +19,8 @@ public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
-		Distribution distribution = new CandidatePredicates(index).forValues(context, elements.toArray(new String[elements.size()]), query);
+	public List<CandidateResource> typeOf(AnnotationRequest parameterObject) throws Exception {
+		Distribution distribution = new CandidatePredicates(index).forValues(parameterObject.context(), parameterObject.elements(), query);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		NormalizedPrior prior = new NormalizedPrior(distribution, unnormalizedPrior);

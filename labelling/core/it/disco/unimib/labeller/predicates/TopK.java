@@ -15,8 +15,8 @@ public class TopK implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
-		List<CandidateResource> results = algorithm.typeOf(context, elements);
+	public List<CandidateResource> typeOf(AnnotationRequest parameterObject) throws Exception {
+		List<CandidateResource> results = algorithm.typeOf(parameterObject);
 		return results.subList(0, Math.min(topK, results.size()));
 	}
 }

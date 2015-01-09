@@ -26,9 +26,9 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidateResource> typeOf(String domain, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
 		
-		Distribution distribution = new CandidatePredicates(index).forValues(domain, elements.toArray(new String[elements.size()]), selection);
+		Distribution distribution = new CandidatePredicates(index).forValues(request.context(), request.elements(), selection);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){
@@ -43,7 +43,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			new Events().debug("distinct object types: " + objects.size() + "|" + predicate);
 			
 			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
-			double disc = Math.log(predicateSpecificity.of(predicate, domain) + 1.1);
+			double disc = Math.log(predicateSpecificity.of(predicate, request.context()) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			

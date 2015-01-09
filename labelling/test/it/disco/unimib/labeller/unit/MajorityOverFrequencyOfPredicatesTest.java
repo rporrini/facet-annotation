@@ -6,6 +6,7 @@ import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.predicates.AnnotationRequest;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 
 import java.util.Arrays;
@@ -24,7 +25,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 		
 		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf(new AnnotationRequest("any", Arrays.asList(new String[]{"2012", "2010"})));
 		
 		assertThat(results.get(0).id(), equalTo("other predicate"));
 	}
@@ -36,7 +37,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 
 		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.typeOf(new AnnotationRequest("any", Arrays.asList(new String[]{"2012", "2010"})));
 
 		assertThat(results.get(0).score(), equalTo(2.0));
 	}

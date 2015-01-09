@@ -2,6 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.predicates.AnnotationRequest;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +30,7 @@ public class Benchmark {
 				public BenchmarkResult call() throws Exception {
 					new Events().debug("processing gold standard " + group.context() + " " + group.label());
 					List<String> elements = group.elements();
-					return new BenchmarkResult(group, algorithm.typeOf(group.context(), elements));
+					return new BenchmarkResult(group, algorithm.typeOf(new AnnotationRequest(group.context(), elements)));
 				}
 			});
 			results.add(future);

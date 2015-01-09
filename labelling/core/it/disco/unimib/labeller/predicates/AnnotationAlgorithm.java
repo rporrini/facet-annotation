@@ -6,5 +6,5 @@ import java.util.List;
 
 public interface AnnotationAlgorithm {
 
-	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception;
+	public List<CandidateResource> typeOf(AnnotationRequest annotation) throws Exception;
 }
