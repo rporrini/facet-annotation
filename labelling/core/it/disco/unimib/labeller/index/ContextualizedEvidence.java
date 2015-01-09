@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.predicates.AnnotationRequest;
+
 import java.util.HashSet;
 
 import org.apache.lucene.document.Document;
@@ -36,12 +38,12 @@ public class ContextualizedEvidence implements Index{
 	}
 
 	@Override
-	public CandidateResourceSet get(String value, String domain, TripleSelectionCriterion query) throws Exception {
+	public CandidateResourceSet get(AnnotationRequest request, TripleSelectionCriterion query) throws Exception {
 		Stems stems = indexFields.toStems();
-		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(domain));
+		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.context()));
 		int howMany = 1000000;
-		BooleanQuery q = query.asQuery(value,
-									  domain, 
+		BooleanQuery q = query.asQuery(request.elements()[0],
+									  request.context(), 
 									  indexFields.literal(), 
 									  indexFields.context(), 
 									  indexFields.namespace()).build();
