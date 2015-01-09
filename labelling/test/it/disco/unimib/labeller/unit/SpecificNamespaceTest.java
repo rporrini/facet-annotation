@@ -2,7 +2,6 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.containsString;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
@@ -15,7 +14,7 @@ import org.junit.Test;
 public class SpecificNamespaceTest {
 	@Test
 	public void shouldRestrictTheQueryToASpecificNamespace() throws Exception {
-		TripleSelectionCriterion query = new SpecificNamespace("thenamespace", new NoContext(new AllValues(new IndexFields("any"))));
+		TripleSelectionCriterion query = new SpecificNamespace("thenamespace", new NoContext(new IndexFields("any")));
 		
 		Query luceneQuery = query.asQuery(new ContextualizedValues("context", new String[]{"type"}), "literal", "context", "namespace").build();
 		

@@ -2,7 +2,6 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.NoContext;
@@ -21,7 +20,7 @@ public class CandidatePredicatesTest {
 		
 		Distribution results = new CandidatePredicates(index)
 									.forValues(new ContextualizedValues("any", new String[]{"italy", "france"}), 
-												new NoContext(new AllValues(new IndexFields("dbpedia"))));
+												new NoContext(new IndexFields("dbpedia")));
 		
 		assertThat(results.scoreOf("country", "france"), equalTo(25d));
 	}

@@ -1,6 +1,5 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
@@ -84,11 +83,10 @@ public class BenchmarkParameters{
 	
 	private TripleSelectionCriterion context() throws Exception{
 		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
-		AllValues valueMatching = new AllValues(new IndexFields(knowledgeBaseString()));
 		
-		contexts.put("complete", new CompleteContext(valueMatching));
-		contexts.put("no", new NoContext(valueMatching));
-		contexts.put("partial", new PartialContext(valueMatching));
+		contexts.put("complete", new CompleteContext(new IndexFields(knowledgeBaseString())));
+		contexts.put("no", new NoContext(new IndexFields(knowledgeBaseString())));
+		contexts.put("partial", new PartialContext(new IndexFields(knowledgeBaseString())));
 		return contexts.get(contextString());
 	}
 	

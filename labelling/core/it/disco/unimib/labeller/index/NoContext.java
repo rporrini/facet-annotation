@@ -3,13 +3,13 @@ package it.disco.unimib.labeller.index;
 
 public class NoContext implements TripleSelectionCriterion{
 	
-	private AllValues allValues;
+	private IndexFields fields;
 
-	public NoContext(AllValues constraints) {
-		allValues = constraints;
+	public NoContext(IndexFields fields) {
+		this.fields = fields;
 	}
 
 	public Constraint asQuery(ContextualizedValues values, String literalField, String contextField, String namespaceField) throws Exception {
-		return allValues.createQuery(values.first(), literalField);
+		return new AllValues(fields).createQuery(values.first(), literalField);
 	}
 }

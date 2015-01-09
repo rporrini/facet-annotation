@@ -3,7 +3,6 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.AllValues;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
@@ -45,7 +44,7 @@ public class EvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
 		
-		assertThat(search.get(new ContextualizedValues("any", new String[]{"city"}), new NoContext(new AllValues(fields)))
+		assertThat(search.get(new ContextualizedValues("any", new String[]{"city"}), new NoContext(fields))
 								.asList()
 								.iterator()
 								.next()
@@ -63,7 +62,7 @@ public class EvidenceTest {
 		
 		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
 										.get(new ContextualizedValues("any", new String[]{"literal"}), 
-											 new NoContext(new AllValues(yago)))
+											 new NoContext(yago))
 										.asList().iterator().next();
 		
 		assertThat(searchResult.id(), equalTo("property"));
@@ -90,7 +89,7 @@ public class EvidenceTest {
 							.closeWriter();
 		
 		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
-												.get(new ContextualizedValues("type", new String[]{"literal"}), new PartialContext(new AllValues(dbpedia)))
+												.get(new ContextualizedValues("type", new String[]{"literal"}), new PartialContext(dbpedia))
 												.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("http://property"));
@@ -109,7 +108,7 @@ public class EvidenceTest {
 							.closeWriter();
 		
 		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago)
-							.get(new ContextualizedValues("type", new String[]{"literal"}), new PartialContext(new AllValues(dbpedia)))
+							.get(new ContextualizedValues("type", new String[]{"literal"}), new PartialContext(dbpedia))
 							.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("property"));
@@ -131,7 +130,7 @@ public class EvidenceTest {
 							.closeWriter();
 		
 		assertThat(new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia)
-						.get(new ContextualizedValues("type", new String[]{"literals"}), new PartialContext(new AllValues(dbpedia)))
+						.get(new ContextualizedValues("type", new String[]{"literals"}), new PartialContext(dbpedia))
 						.asList(), 
 				   hasSize(1));
 	}
