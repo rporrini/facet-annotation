@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -31,9 +31,9 @@ public class PropertyMaximumLikelihood implements AnnotationAlgorithm{
 		
 		NormalizedMaximumLikelihood likelihood = new NormalizedMaximumLikelihood(distribution, conditional, prior);
 		List<CandidateResource> results = new ArrayList<CandidateResource>();
-		for(String predicate : distribution.predicates()){
-			CandidateResource e = new CandidateResource(predicate);
-			e.sumScore(likelihood.of(predicate));
+		for(String property : distribution.properties()){
+			CandidateResource e = new CandidateResource(property);
+			e.sumScore(likelihood.of(property));
 			results.add(e);
 		}
 		Collections.sort(results);

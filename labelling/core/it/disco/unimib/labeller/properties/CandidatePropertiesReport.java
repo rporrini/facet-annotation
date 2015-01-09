@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -24,10 +24,10 @@ public class CandidatePropertiesReport implements Properties{
 			header += value + "|";
 		}
 		log(header);
-		for(String predicate : distribution.predicates()){
-			String line = predicate + "|";
+		for(String property : distribution.properties()){
+			String line = property + "|";
 			for(String value : distribution.values()){
-				line += distribution.scoreOf(predicate, value) + "|";
+				line += distribution.scoreOf(property, value) + "|";
 			}
 			log(line);
 		}

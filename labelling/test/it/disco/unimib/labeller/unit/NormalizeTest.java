@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.predicates.Normalize;
+import it.disco.unimib.labeller.properties.Normalize;
 
 import org.junit.Test;
 

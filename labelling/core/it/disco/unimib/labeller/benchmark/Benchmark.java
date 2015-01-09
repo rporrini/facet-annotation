@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 
 import java.util.ArrayList;
 import java.util.List;

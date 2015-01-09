@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
@@ -12,21 +12,21 @@ import java.util.Set;
 public class Distribution{
 	
 	private HashMap<String, CandidateResourceSet> valueDistribution;
-	private HashSet<String> predicates;
+	private HashSet<String> properties;
 	
 	public Distribution(HashMap<String, CandidateResourceSet> valueDistribution) {
 		this.valueDistribution = valueDistribution;
-		this.predicates = predicatesFrom(valueDistribution);
+		this.properties = propertiesFrom(valueDistribution);
 	}
 
-	public double scoreOf(String predicate, String value) {
-		return getOrDefault(predicate, value).score();
+	public double scoreOf(String property, String value) {
+		return getOrDefault(property, value).score();
 	}
 
-	public Map<String, Double> objectsOf(String predicate){
+	public Map<String, Double> objectsOf(String property){
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
 		for(String value : valueDistribution.keySet()){
-			CandidateResource resource = getOrDefault(predicate, value);
+			CandidateResource resource = getOrDefault(property, value);
 			for(CandidateResource object : resource.objectTypes()){
 				if(!distribution.containsKey(object.id())) distribution.put(object.id(), 0.0);
 				double delta = (object.score() / resource.totalOccurrences()) / (double)valueDistribution.size();
@@ -36,15 +36,15 @@ public class Distribution{
 		return distribution;
 	}
 	
-	public Map<String, Double> objectsOf(String predicate, String value) {
-		CandidateResource resource = getOrDefault(predicate, value);
+	public Map<String, Double> objectsOf(String property, String value) {
+		CandidateResource resource = getOrDefault(property, value);
 		Collection<CandidateResource> types = resource.objectTypes();
 		
 		return countDistributionOf(resource, types);
 	}
 	
-	public Map<String, Double> subjectsOf(String predicate, String value) {
-		CandidateResource resource = getOrDefault(predicate, value);
+	public Map<String, Double> subjectsOf(String property, String value) {
+		CandidateResource resource = getOrDefault(property, value);
 		Collection<CandidateResource> types = resource.subjectTypes();
 		
 		return countDistributionOf(resource, types);
@@ -52,22 +52,22 @@ public class Distribution{
 
 	public double totalScoreOf(String value){
 		double result = 0;
-		for(String predicate : predicates()){
-			result+=scoreOf(predicate, value);
+		for(String property : properties()){
+			result+=scoreOf(property, value);
 		}
 		return result;
 	}
 	
-	public Set<String> predicates(){
-		return predicates;
+	public Set<String> properties(){
+		return properties;
 	}
 	
 	public Set<String> values(){
 		return valueDistribution.keySet();
 	}
 	
-	private CandidateResource getOrDefault(String predicate, String value) {
-		return valueDistribution.get(value).get(new CandidateResource(predicate));
+	private CandidateResource getOrDefault(String property, String value) {
+		return valueDistribution.get(value).get(new CandidateResource(property));
 	}
 	
 	private Map<String, Double> countDistributionOf(CandidateResource resource, Collection<CandidateResource> types) {
@@ -78,7 +78,7 @@ public class Distribution{
 		return distribution;
 	}
 	
-	private HashSet<String> predicatesFrom(HashMap<String, CandidateResourceSet> valueDistribution) {
+	private HashSet<String> propertiesFrom(HashMap<String, CandidateResourceSet> valueDistribution) {
 		HashSet<String> hashSet = new HashSet<String>();
 		for(String value : valueDistribution.keySet())
 			for(CandidateResource resource : valueDistribution.get(value).asList())

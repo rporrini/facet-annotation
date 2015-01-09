@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -28,11 +28,11 @@ public class MajorityOverFrequencyOfProperties implements AnnotationAlgorithm{
 		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		
 		for(String value : distribution.values()){
-			for(String predicate : distribution.predicates()){
-				if(!propertyCounts.containsKey(predicate)) {
-					propertyCounts.put(predicate, 0.0);
+			for(String property : distribution.properties()){
+				if(!propertyCounts.containsKey(property)) {
+					propertyCounts.put(property, 0.0);
 				}
-				propertyCounts.put(predicate, propertyCounts.get(predicate) + (distribution.scoreOf(predicate, value)));
+				propertyCounts.put(property, propertyCounts.get(property) + (distribution.scoreOf(property, value)));
 			}
 		}
 		

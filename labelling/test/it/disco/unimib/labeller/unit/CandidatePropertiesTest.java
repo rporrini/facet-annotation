@@ -5,8 +5,8 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
-import it.disco.unimib.labeller.predicates.CandidateProperties;
-import it.disco.unimib.labeller.predicates.Distribution;
+import it.disco.unimib.labeller.properties.CandidateProperties;
+import it.disco.unimib.labeller.properties.Distribution;
 
 import org.junit.Test;
 

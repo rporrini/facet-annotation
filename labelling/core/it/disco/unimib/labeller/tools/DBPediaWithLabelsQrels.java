@@ -43,15 +43,15 @@ public class DBPediaWithLabelsQrels {
 		FileUtils.writeLines(new File(args[1]), rows);
 	}
 
-	private static boolean bestOrUnique(double score, String selectedPredicate, int startingRow, Sheet sheet) {
-		String predicate = sheet.getCellAt("A" + startingRow).getTextValue();
-		while(!predicate.isEmpty()){
-			double predicateScore = Double.parseDouble(sheet.getCellAt("C"+startingRow).getTextValue());
-			if(label(selectedPredicate).equals(label(predicate)) && !(selectedPredicate.equals(predicate)) && score < predicateScore){
+	private static boolean bestOrUnique(double score, String selectedProperty, int startingRow, Sheet sheet) {
+		String property = sheet.getCellAt("A" + startingRow).getTextValue();
+		while(!property.isEmpty()){
+			double propertyScore = Double.parseDouble(sheet.getCellAt("C"+startingRow).getTextValue());
+			if(label(selectedProperty).equals(label(property)) && !(selectedProperty.equals(property)) && score < propertyScore){
 				return false;
 			}
 			startingRow++;
-			predicate = sheet.getCellAt("A" + startingRow).getTextValue();
+			property = sheet.getCellAt("A" + startingRow).getTextValue();
 		}
 		return true;
 	}

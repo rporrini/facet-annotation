@@ -74,8 +74,8 @@ public class CommandLineBenchmarkSimulation{
 	
 	private List<String> resutltsAsStrings(){
 		List<String> strings = new ArrayList<String>();
-		for(TrecResultProperty predicate : this.results){
-			strings.add(predicate.score());
+		for(TrecResultProperty property : this.results){
+			strings.add(property.score());
 		}
 		return strings;
 	}

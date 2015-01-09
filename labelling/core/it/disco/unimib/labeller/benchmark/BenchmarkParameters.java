@@ -12,12 +12,12 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TypeConsistency;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfProperties;
-import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
-import it.disco.unimib.labeller.predicates.PropertyMaximumLikelihood;
-import it.disco.unimib.labeller.predicates.TopK;
-import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
+import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
+import it.disco.unimib.labeller.properties.PropertyMaximumLikelihood;
+import it.disco.unimib.labeller.properties.TopK;
+import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
 import java.util.HashMap;

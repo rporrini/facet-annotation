@@ -6,7 +6,7 @@ import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
-import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfProperties;
+import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
 
 import java.util.List;
 

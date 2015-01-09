@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;

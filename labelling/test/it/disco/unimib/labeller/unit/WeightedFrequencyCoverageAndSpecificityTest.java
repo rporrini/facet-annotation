@@ -15,10 +15,10 @@ import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.TypeConsistency;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.Constant;
-import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
-import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.Constant;
+import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
+import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.util.List;
 

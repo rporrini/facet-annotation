@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,14 +15,14 @@ public class NormalizedPrior {
 
 	private Normalize normalized(Distribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
-		for(String predicate : distribution.predicates()){
-			scores.add(unnormalizedPrior.of(predicate));
+		for(String property : distribution.properties()){
+			scores.add(unnormalizedPrior.of(property));
 		}
 		return new Normalize(scores.toArray(new Double[scores.size()]));
 	}
 
-	public double of(String predicate) {
-		return normalizer.value(unnormalizedPrior.of(predicate));
+	public double of(String property) {
+		return normalizer.value(unnormalizedPrior.of(property));
 	}
 
 }

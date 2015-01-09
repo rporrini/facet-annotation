@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
@@ -18,8 +18,8 @@ public class PropertyContextSpecificity implements Specificity{
 	
 	@Override
 	public double of(ContextualizedValues request) throws Exception {
-		double frequencyOfPredicateInDomain = index.count(request, new PartiallyContextualizedProperty(indexFields));
-		double frequencyOfPredicate = index.count(request, new OnlyProperty(indexFields));
-		return frequencyOfPredicateInDomain / frequencyOfPredicate;
+		double frequencyOfPropertyInDomain = index.count(request, new PartiallyContextualizedProperty(indexFields));
+		double frequencyOfProperty = index.count(request, new OnlyProperty(indexFields));
+		return frequencyOfPropertyInDomain / frequencyOfProperty;
 	}
 }

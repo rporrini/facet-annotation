@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.hasEntry;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.predicates.Distribution;
+import it.disco.unimib.labeller.properties.Distribution;
 
 import java.util.HashMap;
 import java.util.Map;

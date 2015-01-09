@@ -15,8 +15,8 @@ public class ContextualizedOccurrences{
 		this.domain = facetDomain;
 	}
 	
-	public void accumulate(String predicate, String context, String[] subjectTypes, String[] objectTypes){
-		CandidateResource candidateResource = this.scores.get(new CandidateResource(predicate));
+	public void accumulate(String property, String context, String[] subjectTypes, String[] objectTypes){
+		CandidateResource candidateResource = this.scores.get(new CandidateResource(property));
 		candidateResource.occurred();
 		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
 		candidateResource.addSubjectTypes(subjectTypes);

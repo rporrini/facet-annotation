@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 public class MaximumLikelihood {
 
@@ -12,11 +12,11 @@ public class MaximumLikelihood {
 		this.prior = prior;
 	}
 
-	public double of(String predicate) {
+	public double of(String property) {
 		double sum = 1.0;
 		for(String value : distribution.values()){
-			sum *= conditional.of(predicate, value);
+			sum *= conditional.of(property, value);
 		}
-		return sum / prior.of(predicate);
+		return sum / prior.of(property);
 	}
 }

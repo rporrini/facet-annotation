@@ -18,16 +18,16 @@ public class RunPropertyValuesIndexing {
 
 	public static void main(String[] args) throws Exception {
 		String source = args[0];
-		String predicatesDirectory = args[1];
+		String propertiesDirectory = args[1];
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
 		int concurrentThreads = Integer.parseInt(args[4]);
-		String knowledgeBase = predicatesDirectory.split("/")[0];
+		String knowledgeBase = propertiesDirectory.split("/")[0];
 		
 		EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
-		final Evidence predicates = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + predicatesDirectory)), 
+		final Evidence properties = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + propertiesDirectory)), 
 															types, 
 															labels,
 															new IndexFields(knowledgeBase));
@@ -37,7 +37,7 @@ public class RunPropertyValuesIndexing {
 				@Override
 				public void run() {
 					try {
-						new Triples(new InputFile(file)).fill(predicates, new AcceptAll());
+						new Triples(new InputFile(file)).fill(properties, new AcceptAll());
 					} catch (Exception e) {
 						new Events().error("processing file: " + file, e);
 					}
@@ -47,7 +47,7 @@ public class RunPropertyValuesIndexing {
 		executor.shutdown();
 	    while(!executor.isTerminated()){}
 		
-		predicates.closeWriter();
+		properties.closeWriter();
 		types.closeReader();
 		labels.closeReader();
 	}

@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,13 +15,13 @@ public class NormalizedMaximumLikelihood {
 
 	private Normalize normalize(Distribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
-		for(String predicate : distribution.predicates()){
-			scores.add(likelihood.of(predicate));
+		for(String property : distribution.properties()){
+			scores.add(likelihood.of(property));
 		}
 		return new Normalize(scores.toArray(new Double[scores.size()]));
 	}
 	
-	public double of(String predicate){
-		return normalize.value(likelihood.of(predicate));
+	public double of(String property){
+		return normalize.value(likelihood.of(property));
 	}
 }

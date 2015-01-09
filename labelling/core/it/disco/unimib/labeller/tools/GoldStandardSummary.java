@@ -36,14 +36,14 @@ public class GoldStandardSummary {
 		
 		printAll(providers, "Sources:");
 		printAll(contexts, "Category Labels:");
-		printAll(labels, "Predicates:");
+		printAll(labels, "Properties:");
 		System.out.println("Total Facets: " + names.size());
 		System.out.println();
-		System.out.println("Predicates Distribution");
-		predicatesDistribution(qRelsPath, groups);
+		System.out.println("Properties Distribution");
+		propertiesDistribution(qRelsPath, groups);
 	}
 	
-	private static void predicatesDistribution(String goldStandard, UnorderedFacets groups) throws Exception {
+	private static void propertiesDistribution(String goldStandard, UnorderedFacets groups) throws Exception {
 		String lastId = "";
 		double moreRelevant = 0;
 		double lessRelevant = 0;
@@ -71,8 +71,8 @@ public class GoldStandardSummary {
 			lastId = id;
 		}
 		System.out.println("--------------------------------------");
-		printStats(fullyRelevants, "Completely Relevant Predicates");
-		printStats(lessRelevants, "Relevant Predicates");
+		printStats(fullyRelevants, "Completely Relevant Properties");
+		printStats(lessRelevants, "Relevant Properties");
 	}
 
 	private static void printStats(DescriptiveStatistics fullyRelevants,

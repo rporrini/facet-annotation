@@ -38,11 +38,11 @@ public class ContextualizedEvidence implements Index{
 		
 		for(ScoreDoc result : runQuery(howMany, query.asQuery(request).build()).scoreDocs){
 			Document document = searcher.doc(result.doc, fields);
-			String predicate = document.getValues(indexFields.propertyId())[0];
+			String property = document.getValues(indexFields.propertyId())[0];
 			String context = stems.of(document.getValues(indexFields.context())[0]);
 			String[] subjectTypes = document.getValues(indexFields.subjectType());
 			String[] objectTypes = document.getValues(indexFields.objectType());
-			occurrences.accumulate(predicate, context, subjectTypes, objectTypes);
+			occurrences.accumulate(property, context, subjectTypes, objectTypes);
 		}
 		return occurrences.asResults();
 	}

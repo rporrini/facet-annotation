@@ -14,12 +14,12 @@ public class RunKeyValueIndexing {
 	public static void main(String[] args) throws Exception{
 		String source = args[0];
 		String destination = args[1];
-		String predicate = args[2];
+		String property = args[2];
 		
 		EntityValues index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
-			new Triples(new InputFile(file)).fill(index, new MatchingProperty(predicate));
+			new Triples(new InputFile(file)).fill(index, new MatchingProperty(property));
 		}
 		index.closeWriter();
 	}

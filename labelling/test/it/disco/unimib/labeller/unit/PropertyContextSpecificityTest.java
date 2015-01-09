@@ -8,7 +8,7 @@ import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
+import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;

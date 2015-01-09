@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -25,19 +25,19 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		Distribution values = new CandidateProperties(index).forValues(request, query);
-		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
+		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
-			for(String result : values.predicates()){
-				if(!predicateCounts.containsKey(result)) predicateCounts.put(result, 0.0);
-				if(values.scoreOf(result, value) > 0) predicateCounts.put(result, predicateCounts.get(result) + 1);
+			for(String result : values.properties()){
+				if(!propertyCounts.containsKey(result)) propertyCounts.put(result, 0.0);
+				if(values.scoreOf(result, value) > 0) propertyCounts.put(result, propertyCounts.get(result) + 1);
 			}
 		}
 		List<CandidateResource> results = new ArrayList<CandidateResource>();
-		for(String predicate : predicateCounts.keySet()){
-			double count = predicateCounts.get(predicate);
+		for(String property : propertyCounts.keySet()){
+			double count = propertyCounts.get(property);
 			double percentage = count / (double) request.all().length;
 			if(percentage > threshold){
-				CandidateResource e = new CandidateResource(predicate);
+				CandidateResource e = new CandidateResource(property);
 				e.sumScore(percentage);
 				results.add(e);
 			}

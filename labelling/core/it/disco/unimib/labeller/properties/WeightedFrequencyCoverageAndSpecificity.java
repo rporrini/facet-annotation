@@ -1,4 +1,4 @@
-package it.disco.unimib.labeller.predicates;
+package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateResource;
@@ -15,14 +15,14 @@ import java.util.Map;
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
 	private Index index;
-	private Specificity predicateSpecificity;
+	private Specificity propertySpecificity;
 	private SelectionCriterion selection;
 	private TypeConsistency consistency;
 
-	public WeightedFrequencyCoverageAndSpecificity(TypeConsistency consistency, Index index, SelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(TypeConsistency consistency, Index index, SelectionCriterion criterion, Specificity propertySpecificity) {
 		this.index = index;
 		this.selection = criterion;
-		this.predicateSpecificity = predicateDiscriminacy;
+		this.propertySpecificity = propertySpecificity;
 		this.consistency = consistency;
 	}
 
@@ -32,23 +32,23 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		Distribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		for(String predicate : distribution.predicates()){
+		for(String property : distribution.properties()){
 			double frequencyOverValues = 0;
 			double covered = 0;
 			for(String value : distribution.values()){
-				double score = distribution.scoreOf(predicate, value);
+				double score = distribution.scoreOf(property, value);
 				if(score > 0) covered++;
 				frequencyOverValues += score;
 			}
-			Map<String, Double> objects = distribution.objectsOf(predicate);
-			new Events().debug("distinct object types: " + objects.size() + "|" + predicate);
+			Map<String, Double> objects = distribution.objectsOf(property);
+			new Events().debug("distinct object types: " + objects.size() + "|" + property);
 			
 			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
-			double disc = Math.log(predicateSpecificity.of(new ContextualizedValues(request.domain(), new String[]{predicate})) + 1.1);
+			double disc = Math.log(propertySpecificity.of(new ContextualizedValues(request.domain(), new String[]{property})) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			
-			CandidateResource resource = new CandidateResource(predicate);
+			CandidateResource resource = new CandidateResource(property);
 			
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);
