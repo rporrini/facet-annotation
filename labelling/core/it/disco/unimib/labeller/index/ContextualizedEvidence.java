@@ -29,7 +29,7 @@ public class ContextualizedEvidence implements Index{
 		int howMany = 1;
 		BooleanQuery asQuery = query.asQuery(predicate, 
 											context,
-											indexFields.predicateField(),
+											indexFields.propertyId(),
 											indexFields.context(),
 											indexFields.namespace()).build();
 		TopDocs results = runQuery(howMany, asQuery);
@@ -48,14 +48,14 @@ public class ContextualizedEvidence implements Index{
 									  indexFields.namespace()).build();
 		
 		HashSet<String> fields = new HashSet<String>(Arrays.asList(new String[]{
-									indexFields.predicateField(), 
+									indexFields.propertyId(), 
 									indexFields.context(),
 									indexFields.subjectType(),
 									indexFields.objectType()}));
 		
 		for(ScoreDoc result : runQuery(howMany, q).scoreDocs){
 			Document document = searcher.doc(result.doc, fields);
-			String predicate = document.getValues(indexFields.predicateField())[0];
+			String predicate = document.getValues(indexFields.propertyId())[0];
 			String context = stems.of(document.getValues(indexFields.context())[0]);
 			String[] subjectTypes = document.getValues(indexFields.subjectType());
 			String[] objectTypes = document.getValues(indexFields.objectType());

@@ -43,6 +43,12 @@ public class IndexFields{
 		return "property";
 	}
 	
+	public String propertyId() {
+		String field = label();
+		if(knowledgeBase.equals("dbpedia")) field = property();
+		return field;
+	}
+	
 	public String context() {
 		return "context";
 	}
@@ -53,12 +59,6 @@ public class IndexFields{
 	
 	public String subjectType() {
 		return "subjectType";
-	}
-	
-	public String predicateField() {
-		String field = label();
-		if(knowledgeBase.equals("dbpedia")) field = property();
-		return field;
 	}
 	
 	public Constraint toConstraint(){

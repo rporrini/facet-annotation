@@ -10,21 +10,21 @@ public class IndexFieldsTest {
 
 	@Test
 	public void ifKbIsDbpediaShouldConsiderProperties() throws Exception {
-		String property = new IndexFields("dbpedia").predicateField();
+		String property = new IndexFields("dbpedia").propertyId();
 		
 		assertThat(property, equalTo("property"));
 	}
 	
 	@Test
 	public void ifKbIsDbpediaWithLabelsShouldConsiderLabels() throws Exception {
-		String property = new IndexFields("dbpedia-with-labels").predicateField();
+		String property = new IndexFields("dbpedia-with-labels").propertyId();
 		
 		assertThat(property, equalTo("label"));
 	}
 	
 	@Test
 	public void ifKbIsYagoShouldConsiderLabels() throws Exception {
-		String property = new IndexFields("yago1").predicateField();
+		String property = new IndexFields("yago1").propertyId();
 		
 		assertThat(property, equalTo("label"));
 	}
