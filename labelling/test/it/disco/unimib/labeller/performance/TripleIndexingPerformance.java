@@ -22,7 +22,7 @@ import com.carrotsearch.junitbenchmarks.BenchmarkOptions;
 public class TripleIndexingPerformance extends AbstractBenchmark{
 
 	private static TemporaryDirectory indexDirectory;
-	private static Evidence predicates;
+	private static Evidence properties;
 	private static EntityValues types;
 	private static EntityValues labels;
 
@@ -32,7 +32,7 @@ public class TripleIndexingPerformance extends AbstractBenchmark{
 		types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/types")));
 		labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/labels")));
 		
-		predicates = new Evidence(new NIOFSDirectory(indexDirectory.get()), 
+		properties = new Evidence(new NIOFSDirectory(indexDirectory.get()), 
 											types, 
 											labels,
 											new IndexFields("dbpedia"));
@@ -40,13 +40,13 @@ public class TripleIndexingPerformance extends AbstractBenchmark{
 	
 	@AfterClass
 	public static void tearDown() throws Exception{
-		predicates.closeWriter();
+		properties.closeWriter();
 		indexDirectory.delete();
 	}
 	
 	@Test
 	public void indexSampleFile() throws Exception {
 		
-		new Triples(new InputFile(new File("test/it/disco/unimib/labeller/performance/properties.nt"))).fill(predicates, new AcceptAll());
+		new Triples(new InputFile(new File("test/it/disco/unimib/labeller/performance/properties.nt"))).fill(properties, new AcceptAll());
 	}
 }

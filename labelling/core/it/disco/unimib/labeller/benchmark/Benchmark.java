@@ -1,7 +1,8 @@
 package it.disco.unimib.labeller.benchmark;
 
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.index.ContextualizedValues;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,8 +29,8 @@ public class Benchmark {
 				@Override
 				public BenchmarkResult call() throws Exception {
 					new Events().debug("processing gold standard " + group.context() + " " + group.label());
-					List<String> elements = group.elements();
-					return new BenchmarkResult(group, algorithm.typeOf(group.context(), elements));
+					String[] elements = group.elements().toArray(new String[group.elements().size()]);
+					return new BenchmarkResult(group, algorithm.typeOf(new ContextualizedValues(group.context(), elements)));
 				}
 			});
 			results.add(future);

@@ -2,8 +2,9 @@ package it.disco.unimib.labeller.unit;
 
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.HashMap;
 
@@ -12,14 +13,14 @@ public class IndexTestDouble implements Index{
 	private HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
 	
 	@Override
-	public CandidateResourceSet get(String value, String context, TripleSelectionCriterion query) throws Exception {
-		CandidateResourceSet result = results.get(value);
+	public CandidateResourceSet get(ContextualizedValues request, SelectionCriterion query) throws Exception {
+		CandidateResourceSet result = results.get(request.first());
 		if(result == null) result = new CandidateResourceSet();
 		return result;
 	}
 
 	@Override
-	public long countPredicatesInContext(String predicate, String context, TripleSelectionCriterion query) throws Exception {
+	public long count(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		return 0;
 	}
 	

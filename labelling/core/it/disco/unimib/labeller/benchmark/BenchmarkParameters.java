@@ -1,24 +1,23 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.AllValues;
-import it.disco.unimib.labeller.index.CompleteContext;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
+import it.disco.unimib.labeller.index.FullyContextualizedValue;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.OnlyValue;
+import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import it.disco.unimib.labeller.index.ScaledDepths;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
 import it.disco.unimib.labeller.index.TypeConsistency;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
-import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
-import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
-import it.disco.unimib.labeller.predicates.TopK;
-import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
+import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
+import it.disco.unimib.labeller.properties.PropertyMaximumLikelihood;
+import it.disco.unimib.labeller.properties.TopK;
+import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
 import java.util.HashMap;
@@ -44,28 +43,30 @@ public class BenchmarkParameters{
 
 	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
-		TripleSelectionCriterion context = context();
-		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
+		IndexFields fields = new IndexFields(knowledgeBase);
+		
+		SelectionCriterion context = context(fields);
+		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;
 		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
-		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context);
+		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context, fields);
 		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
 		
 		return topK(algorithmToRun);
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new PredicateMaximumLikelihood(index, context);
+	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, SelectionCriterion context) {
+		return new PropertyMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index));
+	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyContextSpecificity(index, fields));
 	}
 
-	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
-		return new MajorityOverFrequencyOfPredicates(index, context);
+	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
+		return new MajorityOverFrequencyOfProperties(index, context);
 	}
 
 	private TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {
@@ -82,13 +83,12 @@ public class BenchmarkParameters{
 		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
 	
-	private TripleSelectionCriterion context() throws Exception{
-		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
-		AllValues valueMatching = new AllValues();
+	private SelectionCriterion context(IndexFields fields) throws Exception{
+		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
 		
-		contexts.put("complete", new CompleteContext(valueMatching));
-		contexts.put("no", new NoContext(valueMatching));
-		contexts.put("partial", new PartialContext(valueMatching));
+		contexts.put("complete", new FullyContextualizedValue(fields));
+		contexts.put("no", new OnlyValue(fields));
+		contexts.put("partial", new PartiallyContextualizedValue(fields));
 		return contexts.get(contextString());
 	}
 	

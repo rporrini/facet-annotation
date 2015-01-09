@@ -14,7 +14,7 @@ public class NTriple{
 		return new RDFResource(nodes[0].toString());
 	}
 	
-	public RDFResource predicate(){
+	public RDFResource property(){
 		return new RDFResource(nodes[1].toString());
 	}
 	

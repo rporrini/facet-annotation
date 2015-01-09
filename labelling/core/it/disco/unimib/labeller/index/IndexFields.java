@@ -1,6 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.Arrays;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 
 import org.apache.lucene.analysis.Analyzer;
@@ -43,9 +45,15 @@ public class IndexFields{
 		return "property";
 	}
 	
+	public String propertyId() {
+		String field = label();
+		if(knowledgeBase.equals("dbpedia")) field = property();
+		return field;
+	}
+	
 	public String context() {
 		return "context";
-	}
+	}	
 	
 	public String objectType(){
 		return "object-type";
@@ -55,9 +63,19 @@ public class IndexFields{
 		return "subjectType";
 	}
 	
-	public String predicateField() {
-		String field = label();
-		if(knowledgeBase.equals("dbpedia")) field = property();
-		return field;
+	public Constraint toConstraint(){
+		return new Constraint(analyzer());
+	}
+	
+	public HashSet<String> fieldsToRead() {
+		return new HashSet<String>(Arrays.asList(new String[]{
+									propertyId(), 
+									context(),
+									subjectType(),
+									objectType()}));
+	}
+	
+	public Stems toStems() {
+		return new Stems(analyzer());
 	}
 }

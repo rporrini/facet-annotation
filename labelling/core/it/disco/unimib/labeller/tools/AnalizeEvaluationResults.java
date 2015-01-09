@@ -67,16 +67,16 @@ public class AnalizeEvaluationResults {
 					System.out.println(measure + ": " + measureResult(result));
 					System.out.println("ID: " + id + " TYPE LABEL: " + groupById.context() + " (" + groupById.elements().size() + " elements)");
 					System.out.println(groupById.elements().subList(0, Math.min(10, groupById.elements().size())) + " ... ");
-					System.out.println("EXPECTED PREDICATES (rel. judgement)\tACTUAL PREDICATES (score)");
+					System.out.println("EXPECTED PROPERTIES (rel. judgement)\tACTUAL PROPERTIES (score)");
 					
-					List<TrecGoldStandardPredicate> goldStandardPredicates = getGoldStandardPredicates(goldStandard, topK, id);
-					List<TrecResultPredicate> resultingPredicates = getResultingPredicates(qrels, topK, id);
+					List<TrecGoldStandardProperty> goldStandardProperties = getGoldStandardProperties(goldStandard, topK, id);
+					List<TrecResultProperty> resultingProperties = getResultingProperties(qrels, topK, id);
 					
-					for(int i=0; i < Math.max(goldStandardPredicates.size(), resultingPredicates.size()); i++){
+					for(int i=0; i < Math.max(goldStandardProperties.size(), resultingProperties.size()); i++){
 						String line = "";
-						if(i < goldStandardPredicates.size()) line+=goldStandardPredicates.get(i);
+						if(i < goldStandardProperties.size()) line+=goldStandardProperties.get(i);
 						line+="\t";
-						if(i < resultingPredicates.size()) line+=resultingPredicates.get(i);
+						if(i < resultingProperties.size()) line+=resultingProperties.get(i);
 						System.out.println(line);
 					}
 				}
@@ -84,28 +84,28 @@ public class AnalizeEvaluationResults {
 		}
 	}
 
-	private static List<TrecResultPredicate> getResultingPredicates(String goldStandard, int topK, int id) throws Exception {
-		List<TrecResultPredicate> goldStandardPredicates = new ArrayList<TrecResultPredicate>();
+	private static List<TrecResultProperty> getResultingProperties(String goldStandard, int topK, int id) throws Exception {
+		List<TrecResultProperty> goldStandardProperties = new ArrayList<TrecResultProperty>();
 		for(String line : new InputFile(new File(goldStandard)).lines()){
-			TrecResultPredicate e = new TrecResultPredicate(line);
+			TrecResultProperty e = new TrecResultProperty(line);
 			if(id == e.groupId()) {
-				goldStandardPredicates.add(e);
+				goldStandardProperties.add(e);
 			}
 		}
-		Collections.sort(goldStandardPredicates);
-		return goldStandardPredicates.subList(0, Math.min(topK, goldStandardPredicates.size()));
+		Collections.sort(goldStandardProperties);
+		return goldStandardProperties.subList(0, Math.min(topK, goldStandardProperties.size()));
 	}
 	
-	private static List<TrecGoldStandardPredicate> getGoldStandardPredicates(String goldStandard, int topK, int id) throws Exception {
-		List<TrecGoldStandardPredicate> goldStandardPredicates = new ArrayList<TrecGoldStandardPredicate>();
+	private static List<TrecGoldStandardProperty> getGoldStandardProperties(String goldStandard, int topK, int id) throws Exception {
+		List<TrecGoldStandardProperty> goldStandardProperties = new ArrayList<TrecGoldStandardProperty>();
 		for(String line : new InputFile(new File(goldStandard)).lines()){
-			TrecGoldStandardPredicate e = new TrecGoldStandardPredicate(line);
+			TrecGoldStandardProperty e = new TrecGoldStandardProperty(line);
 			if(id == e.groupId() && e.rank() > 0) {
-				goldStandardPredicates.add(e);
+				goldStandardProperties.add(e);
 			}
 		}
-		Collections.sort(goldStandardPredicates);
-		return goldStandardPredicates.subList(0, Math.min(topK, goldStandardPredicates.size()));
+		Collections.sort(goldStandardProperties);
+		return goldStandardProperties.subList(0, Math.min(topK, goldStandardProperties.size()));
 	}
 	
 	private static int id(String line) {
@@ -141,11 +141,11 @@ public class AnalizeEvaluationResults {
 	}
 }
 
-class TrecGoldStandardPredicate implements Comparable<TrecGoldStandardPredicate>{
+class TrecGoldStandardProperty implements Comparable<TrecGoldStandardProperty>{
 
 	private String line;
 
-	public TrecGoldStandardPredicate(String line) {
+	public TrecGoldStandardProperty(String line) {
 		this.line = line;
 	}
 	
@@ -167,7 +167,7 @@ class TrecGoldStandardPredicate implements Comparable<TrecGoldStandardPredicate>
 	}
 	
 	@Override
-	public int compareTo(TrecGoldStandardPredicate other) {
+	public int compareTo(TrecGoldStandardProperty other) {
 		return (int)Math.signum(other.rank() - this.rank());
 	}
 }

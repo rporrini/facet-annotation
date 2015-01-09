@@ -5,7 +5,7 @@ import it.disco.unimib.labeller.benchmark.BenchmarkParameters;
 import it.disco.unimib.labeller.benchmark.Command;
 import it.disco.unimib.labeller.benchmark.GoldStandard;
 import it.disco.unimib.labeller.benchmark.Summary;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 
 
 public class RunEvaluation {

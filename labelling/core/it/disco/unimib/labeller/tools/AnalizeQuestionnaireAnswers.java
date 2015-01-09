@@ -21,9 +21,9 @@ public class AnalizeQuestionnaireAnswers {
 		}
 		sheets.remove("first");
 		sheets.remove("last");
-		int globalSimilarPredicates = 0;
-		int globalDifferentPredicates = 0;
-		int globalTotalPredicates = 0;
+		int globalSimilarProperties = 0;
+		int globalDifferentProperties = 0;
+		int globalTotalProperties = 0;
 		int globalTotalProperty = 0;
 		int globalTotalOntology = 0;
 		int globalTotalFoaf = 0;
@@ -45,40 +45,40 @@ public class AnalizeQuestionnaireAnswers {
 						row++;
 						content = externals.getCellAt("A" + row).getTextValue();
 					}
-					ArrayList<CandidateResource> groupPredicates = new ArrayList<CandidateResource>();
+					ArrayList<CandidateResource> groupProperties = new ArrayList<CandidateResource>();
 					while(!content.isEmpty()){
 						if(content.startsWith("http://")){
 							String propertyScore = externals.getCellAt("C" + row).getTextValue();
 							if(!propertyScore.equals("")){
 								CandidateResource e = new CandidateResource(content);
 								e.sumScore(Double.parseDouble(propertyScore));
-								groupPredicates.add(e);
+								groupProperties.add(e);
 							}
 						}
 						row++;
 						content = externals.getCellAt("A" + row).getTextValue();
 					}
-					goldStandard.put(groupId, groupPredicates);
+					goldStandard.put(groupId, groupProperties);
 				}
 				catch(Exception e){}
 			}
 			HashMap<String, List<CandidateResource>> couples = new HashMap<String, List<CandidateResource>>();
 			for(String group : goldStandard.keySet()){
-				List<CandidateResource> predicatesToKeep = new ArrayList<CandidateResource>();
-				for(CandidateResource currentPredicate : goldStandard.get(group)){
-					for(CandidateResource predicate : goldStandard.get(group)){
-						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.id().equals(predicate.id())){
-							predicatesToKeep.add(currentPredicate);
+				List<CandidateResource> propertiesToKeep = new ArrayList<CandidateResource>();
+				for(CandidateResource currentProperty : goldStandard.get(group)){
+					for(CandidateResource property : goldStandard.get(group)){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+							propertiesToKeep.add(currentProperty);
 							break;
 						}
 					}
 				}
-				couples.put(group, predicatesToKeep);
+				couples.put(group, propertiesToKeep);
 			}
 			
-			int similarPredicates = 0;
-			int differentPredicates = 0;
-			int totalPredicates = 0;
+			int similarProperties = 0;
+			int differentProperties = 0;
+			int totalProperties = 0;
 			int totalProperty = 0;
 			int totalOntology = 0;
 			int totalFoaf = 0;
@@ -86,26 +86,26 @@ public class AnalizeQuestionnaireAnswers {
 			int betterOntology = 0;
 			int betterFoaf = 0;
 			for(String group : couples.keySet()){
-				for(CandidateResource currentPredicate : couples.get(group)){
-					totalPredicates++;
-					for(CandidateResource predicate : couples.get(group)){
-						if(currentPredicate.label().equals(predicate.label()) && !currentPredicate.id().equals(predicate.id())){
-							if(similarScore(currentPredicate.score(), predicate.score()))
-								similarPredicates++;
+				for(CandidateResource currentProperty : couples.get(group)){
+					totalProperties++;
+					for(CandidateResource property : couples.get(group)){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+							if(similarScore(currentProperty.score(), property.score()))
+								similarProperties++;
 							else{
-								differentPredicates++;
-								switch (checkContains(currentPredicate.id())) {
+								differentProperties++;
+								switch (checkContains(currentProperty.id())) {
 								case 1:
 									totalOntology++;
-									if(currentPredicate.score() > predicate.score()) betterOntology++;
+									if(currentProperty.score() > property.score()) betterOntology++;
 									break;
 								case 2:
 									totalProperty++;
-									if(currentPredicate.score() > predicate.score()) betterProperty++;
+									if(currentProperty.score() > property.score()) betterProperty++;
 									break;
 								case 3:
 									totalFoaf++;
-									if(currentPredicate.score() > predicate.score()) betterFoaf++;
+									if(currentProperty.score() > property.score()) betterFoaf++;
 									break;
 								}
 							}
@@ -114,9 +114,9 @@ public class AnalizeQuestionnaireAnswers {
 				}
 			}
 			if(!sheetName.equals("ALL")){
-				globalSimilarPredicates += similarPredicates;
-				globalDifferentPredicates += differentPredicates;
-				globalTotalPredicates += totalPredicates;
+				globalSimilarProperties += similarProperties;
+				globalDifferentProperties += differentProperties;
+				globalTotalProperties += totalProperties;
 				globalTotalProperty += totalProperty;
 				globalTotalOntology += totalOntology;
 				globalTotalFoaf += totalFoaf;
@@ -126,18 +126,18 @@ public class AnalizeQuestionnaireAnswers {
 			}
 			
 			System.out.println("Sheet: " + sheetName);
-			System.out.println("Total predicates: " + totalPredicates);
-			System.out.println("Similar predicates: " + similarPredicates);
-			System.out.println("Different predicates: " + differentPredicates);
+			System.out.println("Total properties: " + totalProperties);
+			System.out.println("Similar properties: " + similarProperties);
+			System.out.println("Different properties: " + differentProperties);
 			System.out.println("Ontology is better in " + betterOntology + " cases (" + (double)betterOntology/totalOntology*100 + "%)");
 			System.out.println("Property is better in " + betterProperty + " cases (" + (double)betterProperty/totalProperty*100 + "%)");
 			System.out.println("Foaf is better in " + betterFoaf + " cases ("+ (double)betterFoaf/totalFoaf*100 + "%)");
 			System.out.println();
 		}
 		System.out.println("Global results");
-		System.out.println("Total predicates: " + globalTotalPredicates);
-		System.out.println("Similar predicates: " + globalSimilarPredicates);
-		System.out.println("Different predicates: " + globalDifferentPredicates);
+		System.out.println("Total properties: " + globalTotalProperties);
+		System.out.println("Similar properties: " + globalSimilarProperties);
+		System.out.println("Different properties: " + globalDifferentProperties);
 		System.out.println("Ontology is better in " + globalBetterOntology + " cases (" + (double)globalBetterOntology/globalTotalOntology*100 + "%)");
 		System.out.println("Property is better in " + globalBetterProperty + " cases (" + (double)globalBetterProperty/globalTotalProperty*100 + "%)");
 		System.out.println("Foaf is better in " + globalBetterFoaf + " cases ("+ (double)globalBetterFoaf/globalTotalFoaf*100 + "%)");

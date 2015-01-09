@@ -1,7 +1,8 @@
 package it.disco.unimib.labeller.unit;
 
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
+import it.disco.unimib.labeller.index.ContextualizedValues;
+import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,7 +17,7 @@ class AnnotationAlgorithmTestDouble implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(String context, List<String> elements) throws Exception {
+	public List<CandidateResource> typeOf(ContextualizedValues parameterObject) throws Exception {
 		return results;
 	}
 }

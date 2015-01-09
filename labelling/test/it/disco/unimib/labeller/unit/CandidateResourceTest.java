@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.containsString;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.hasSize;
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 
 import java.util.ArrayList;
@@ -33,103 +33,103 @@ public class CandidateResourceTest {
 	@Test
 	public void shouldDisplayTheLocalScoresOnToString() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("value");
+		CandidateResource property = new CandidateResource("value");
 		
-		predicate.sumScore(0.4);
+		property.sumScore(0.4);
 		
-		assertThat(predicate.toString(), containsString("0.4"));
+		assertThat(property.toString(), containsString("0.4"));
 	}
 	
 	@Test
 	public void whenCreatedShouldHaveTheScoreSetToZero() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		assertThat(predicate.score(), equalTo(0.0));
+		assertThat(property.score(), equalTo(0.0));
 	}
 	
 	@Test
 	public void shouldIncrementScoreBySum() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.sumScore(10.0);
+		property.sumScore(10.0);
 		
-		assertThat(predicate.score(), equalTo(10.0));
+		assertThat(property.score(), equalTo(10.0));
 	}
 	
 	@Test
 	public void shouldIncrementScoreBySumMultipleTimes() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.sumScore(10.0);
-		predicate.sumScore(10.0);
+		property.sumScore(10.0);
+		property.sumScore(10.0);
 		
-		assertThat(predicate.score(), equalTo(20.0));
+		assertThat(property.score(), equalTo(20.0));
 	}
 	
 	@Test
 	public void shouldMultiplyTheScores() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.multiplyScore(10.0);
-		predicate.multiplyScore(10.0);
+		property.multiplyScore(10.0);
+		property.multiplyScore(10.0);
 		
-		assertThat(predicate.score(), equalTo(100.0));
+		assertThat(property.score(), equalTo(100.0));
 	}
 	
 	@Test
 	public void shouldCollectSubjectTypes() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.addSubjectTypes("http://subject-type");
+		property.addSubjectTypes("http://subject-type");
 		
-		assertThat(predicate.subjectTypes(), hasSize(1));
+		assertThat(property.subjectTypes(), hasSize(1));
 	}
 	
 	@Test
 	public void shouldCountOccurrencesOfSubjectTypes() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.addSubjectTypes("http://subject-type");
-		predicate.addSubjectTypes("http://subject-type");
+		property.addSubjectTypes("http://subject-type");
+		property.addSubjectTypes("http://subject-type");
 		
-		assertThat(predicate.subjectTypes().iterator().next().score() , equalTo(2.0));
+		assertThat(property.subjectTypes().iterator().next().score() , equalTo(2.0));
 	}
 	
 	@Test
 	public void shouldCollectManySubjectTypesAtTheTime() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.addSubjectTypes("http://subject-type", "http://other-type");
+		property.addSubjectTypes("http://subject-type", "http://other-type");
 		
-		assertThat(predicate.subjectTypes() , hasSize(2));
+		assertThat(property.subjectTypes() , hasSize(2));
 	}
 	
 	@Test
 	public void shouldCollectManyObjectTypesAtTheTime() throws Exception {
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.addObjectTypes("http://object-type", "http://object-type");
+		property.addObjectTypes("http://object-type", "http://object-type");
 		
-		assertThat(predicate.objectTypes() , hasSize(1));
+		assertThat(property.objectTypes() , hasSize(1));
 	}
 	
 	@Test
 	public void whenCreatedIsNotOccurredYet() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		assertThat(predicate.totalOccurrences(), equalTo(0.0));
+		assertThat(property.totalOccurrences(), equalTo(0.0));
 	}
 	
 	@Test
 	public void shouldTrackOccurrencesNotOccurredYet() throws Exception {
 		
-		CandidateResource predicate = new CandidateResource("any");
+		CandidateResource property = new CandidateResource("any");
 		
-		predicate.occurred();
+		property.occurred();
 		
-		assertThat(predicate.totalOccurrences(), equalTo(1.0));
+		assertThat(property.totalOccurrences(), equalTo(1.0));
 	}
 }
