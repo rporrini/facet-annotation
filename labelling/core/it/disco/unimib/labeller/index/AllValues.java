@@ -1,17 +1,16 @@
 package it.disco.unimib.labeller.index;
 
-import org.apache.lucene.analysis.Analyzer;
 
 public class AllValues implements SingleFieldSelectionCriterion {
 
-	private Analyzer analyzer;
+	private IndexFields analyzer;
 
-	public AllValues(Analyzer analyzer){
+	public AllValues(IndexFields analyzer){
 		this.analyzer = analyzer;
 	}
 	
 	public Constraint createQuery(String value, String field) throws Exception {
-		Constraint query = new Constraint(this.analyzer).all().match(value, field);
+		Constraint query = analyzer.toConstraint().all().match(value, field);
 		return query;
 	}
 }

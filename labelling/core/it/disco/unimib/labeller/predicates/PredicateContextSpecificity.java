@@ -18,8 +18,8 @@ public class PredicateContextSpecificity implements Specificity{
 	
 	@Override
 	public double of(String predicate, String domain) throws Exception {
-		double frequencyOfPredicateInDomain = index.countPredicatesInContext(predicate, domain, new PartialContext(new AllValues(indexFields.analyzer())));
-		double frequencyOfPredicate = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues(indexFields.analyzer())));
+		double frequencyOfPredicateInDomain = index.countPredicatesInContext(predicate, domain, new PartialContext(new AllValues(indexFields)));
+		double frequencyOfPredicate = index.countPredicatesInContext(predicate, domain, new NoContext(new AllValues(indexFields)));
 		return frequencyOfPredicateInDomain / frequencyOfPredicate;
 	}
 }

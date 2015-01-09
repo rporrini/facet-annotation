@@ -22,7 +22,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia").analyzer())));
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		
@@ -34,7 +34,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia").analyzer())));
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 

@@ -44,7 +44,7 @@ public class EvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
 		
-		assertThat(search.get("city", "any", new NoContext(new AllValues(fields.analyzer()))).asList().iterator().next().id(), equalTo("http://hasCapital"));
+		assertThat(search.get("city", "any", new NoContext(new AllValues(fields))).asList().iterator().next().id(), equalTo("http://hasCapital"));
 	}
 	
 	@Test
@@ -57,7 +57,7 @@ public class EvidenceTest {
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
-										.get("literal", "any", new NoContext(new AllValues(yago.analyzer()))).asList().iterator().next();
+										.get("literal", "any", new NoContext(new AllValues(yago))).asList().iterator().next();
 		
 		assertThat(searchResult.id(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
@@ -82,7 +82,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia).get("literal", "type", new PartialContext(new AllValues(dbpedia.analyzer()))).asList();
+		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia).get("literal", "type", new PartialContext(new AllValues(dbpedia))).asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("http://property"));
 		
@@ -99,7 +99,7 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago).get("literal", "type", new PartialContext(new AllValues(dbpedia.analyzer()))).asList();
+		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago).get("literal", "type", new PartialContext(new AllValues(dbpedia))).asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("property"));
 	}
@@ -119,6 +119,6 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		assertThat(new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get("literals", "type", new PartialContext(new AllValues(dbpedia.analyzer()))).asList(), hasSize(1));
+		assertThat(new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get("literals", "type", new PartialContext(new AllValues(dbpedia))).asList(), hasSize(1));
 	}
 }

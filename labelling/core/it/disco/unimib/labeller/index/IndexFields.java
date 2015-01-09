@@ -60,4 +60,8 @@ public class IndexFields{
 		if(knowledgeBase.equals("dbpedia")) field = property();
 		return field;
 	}
+	
+	public Constraint toConstraint(){
+		return new Constraint(analyzer());
+	}
 }

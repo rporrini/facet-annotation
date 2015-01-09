@@ -22,7 +22,7 @@ public class MajorityOverCoveredValuesTest {
 															.resultFor("2010", "predicate", 1)
 															.resultFor("2010", "other predicate", 1), 
 															0.6, 
-															new NoContext(new AllValues(new IndexFields("dbpedia").analyzer())));
+															new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
 		List<CandidateResource> results = majorityPredicate.typeOf("any", Arrays.asList(new String[]{"2012", "2010"}));
 		

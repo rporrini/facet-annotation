@@ -21,7 +21,7 @@ public class CandidatePredicatesTest {
 		Distribution results = new CandidatePredicates(index)
 									.forValues("any", 
 												new String[]{"italy", "france"}, 
-												new NoContext(new AllValues(new IndexFields("dbpedia").analyzer())));
+												new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
 		assertThat(results.scoreOf("country", "france"), equalTo(25d));
 	}

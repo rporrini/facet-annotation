@@ -84,7 +84,7 @@ public class BenchmarkParameters{
 	
 	private TripleSelectionCriterion context() throws Exception{
 		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
-		AllValues valueMatching = new AllValues(new IndexFields(knowledgeBaseString()).analyzer());
+		AllValues valueMatching = new AllValues(new IndexFields(knowledgeBaseString()));
 		
 		contexts.put("complete", new CompleteContext(valueMatching));
 		contexts.put("no", new NoContext(valueMatching));
