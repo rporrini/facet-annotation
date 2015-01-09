@@ -14,10 +14,10 @@ public class CandidatePredicatesReport implements Predicates{
 	}
 	
 	@Override
-	public Distribution forValues(String context, String[] values, TripleSelectionCriterion query) throws Exception {
-		log("processing " + context + " [" + StringUtils.join(values, ", ") + "]");
+	public Distribution forValues(AnnotationRequest request, TripleSelectionCriterion query) throws Exception {
+		log("processing " + request.context() + " [" + StringUtils.join(request.elements(), ", ") + "]");
 		
-		Distribution distribution = predicates.forValues(context, values, query);
+		Distribution distribution = predicates.forValues(request, query);
 		String header = "|";
 		for(String value : distribution.values()){
 			header += value + "|";

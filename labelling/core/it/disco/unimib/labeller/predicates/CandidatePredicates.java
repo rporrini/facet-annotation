@@ -15,10 +15,10 @@ public class CandidatePredicates implements Predicates{
 	}
 
 	@Override
-	public Distribution forValues(String context, String[] values, TripleSelectionCriterion query) throws Exception {
+	public Distribution forValues(AnnotationRequest request, TripleSelectionCriterion query) throws Exception {
 		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
-		for(String value : values){
-			results.put(value, index.get(value, context, query));
+		for(String value : request.elements()){
+			results.put(value, index.get(value, request.context(), query));
 		}
 		return new Distribution(results);
 	}

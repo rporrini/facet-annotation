@@ -1,13 +1,12 @@
 package it.disco.unimib.labeller.predicates;
 
-import java.util.List;
 
 public class AnnotationRequest {
 	
 	private String context;
-	private List<String> elements;
+	private String[] elements;
 
-	public AnnotationRequest(String context, List<String> elements) {
+	public AnnotationRequest(String context, String[] elements) {
 		this.context = context;
 		this.elements = elements;
 	}
@@ -17,6 +16,6 @@ public class AnnotationRequest {
 	}
 	
 	public String[] elements(){
-		return elements.toArray(new String[elements.size()]);
+		return elements;
 	}
 }

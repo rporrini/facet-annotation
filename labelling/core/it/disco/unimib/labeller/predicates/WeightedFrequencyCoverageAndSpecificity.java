@@ -28,7 +28,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	@Override
 	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
 		
-		Distribution distribution = new CandidatePredicates(index).forValues(request.context(), request.elements(), selection);
+		Distribution distribution = new CandidatePredicates(index).forValues(request, selection);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String predicate : distribution.predicates()){

@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.NoContext;
 import it.disco.unimib.labeller.predicates.AnnotationRequest;
 import it.disco.unimib.labeller.predicates.MajorityOverCoveredValues;
 
-import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
@@ -25,7 +24,7 @@ public class MajorityOverCoveredValuesTest {
 															0.6, 
 															new NoContext(new AllValues(new IndexFields("dbpedia"))));
 		
-		List<CandidateResource> results = majorityPredicate.typeOf(new AnnotationRequest("any", Arrays.asList(new String[]{"2012", "2010"})));
+		List<CandidateResource> results = majorityPredicate.typeOf(new AnnotationRequest("any", new String[]{"2012", "2010"}));
 		
 		assertThat(results, hasSize(1));
 	}

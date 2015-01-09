@@ -20,9 +20,9 @@ public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 	}
 
 	@Override
-	public List<CandidateResource> typeOf(AnnotationRequest parameterObject) throws Exception {
+	public List<CandidateResource> typeOf(AnnotationRequest request) throws Exception {
 		
-		Distribution distribution = new CandidatePredicates(index).forValues(parameterObject.context(), parameterObject.elements(), selection);
+		Distribution distribution = new CandidatePredicates(index).forValues(request, selection);
 		
 		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
 		
