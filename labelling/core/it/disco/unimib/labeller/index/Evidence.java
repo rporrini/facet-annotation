@@ -34,7 +34,7 @@ public class Evidence implements WriteStore{
 	public Evidence add(NTriple triple) throws Exception {
 		Document document = new Document();
 		
-		document.add(new Field(indexFields.property(), triple.predicate().uri(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.property(), triple.property().uri(), TextField.TYPE_STORED));
 		String value = triple.object().uri().contains("http://") ? "" : triple.object().uri();
 		for(CandidateResource label : this.objectLabels.get(triple.object().uri())){
 			value += " " + label.id();
@@ -51,8 +51,8 @@ public class Evidence implements WriteStore{
 			document.add(new Field(indexFields.subjectType(), type.id(), TextField.TYPE_STORED));
 		}
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
-		document.add(new Field(indexFields.namespace(), triple.predicate().namespace(), TextField.TYPE_STORED));
-		document.add(new Field(indexFields.label(), triple.predicate().label(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.namespace(), triple.property().namespace(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.label(), triple.property().label(), TextField.TYPE_STORED));
 		
 		openWriter().addDocument(document);
 		return this;

@@ -2,11 +2,11 @@ package it.disco.unimib.labeller.tools;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class TrecResultPredicate implements Comparable<TrecResultPredicate>{
+public class TrecResultProperty implements Comparable<TrecResultProperty>{
 
 	private String line;
 
-	public TrecResultPredicate(String line) {
+	public TrecResultProperty(String line) {
 		this.line = line;
 	}
 	
@@ -28,7 +28,7 @@ public class TrecResultPredicate implements Comparable<TrecResultPredicate>{
 	}
 	
 	@Override
-	public int compareTo(TrecResultPredicate other) {
+	public int compareTo(TrecResultProperty other) {
 		return (int)Math.signum(other.rank() - this.rank());
 	}
 	

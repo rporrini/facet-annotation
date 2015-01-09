@@ -1,10 +1,10 @@
 package it.disco.unimib.labeller.index;
 
-public class PartiallyContextualizedPredicate implements SelectionCriterion {
+public class PartiallyContextualizedProperty implements SelectionCriterion {
 
 	private IndexFields fields;
 
-	public PartiallyContextualizedPredicate(IndexFields fields) {
+	public PartiallyContextualizedProperty(IndexFields fields) {
 		this.fields = fields;
 	}
 

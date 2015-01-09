@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.benchmark;
 
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.tools.RunEvaluation;
-import it.disco.unimib.labeller.tools.TrecResultPredicate;
+import it.disco.unimib.labeller.tools.TrecResultProperty;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,7 +14,7 @@ public class CommandLineBenchmarkSimulation{
 	private String knowledgeBase;
 	private String algorithm;
 	private String occurrences;
-	private List<TrecResultPredicate> results;
+	private List<TrecResultProperty> results;
 	
 	public CommandLineBenchmarkSimulation onDBPedia(){
 		this.knowledgeBase = "dbpedia";
@@ -55,15 +55,15 @@ public class CommandLineBenchmarkSimulation{
 		Summary summary = parameters.analysis();
 		GoldStandard goldStandard = new SingleFacet(parameters.goldStandard(), groupID);
 		RunEvaluation.runBenchmark(summary, parameters.algorithm(), goldStandard);
-		List<TrecResultPredicate> results = new ArrayList<TrecResultPredicate>();
+		List<TrecResultProperty> results = new ArrayList<TrecResultProperty>();
 		for(String line : summary.result().split("\n")){
-			results.add(new TrecResultPredicate(line));
+			results.add(new TrecResultProperty(line));
 		}
 		this.results = results;
 		return this;
 	}
 	
-	public List<TrecResultPredicate> results(){
+	public List<TrecResultProperty> results(){
 		return results;
 	}
 	
@@ -74,7 +74,7 @@ public class CommandLineBenchmarkSimulation{
 	
 	private List<String> resutltsAsStrings(){
 		List<String> strings = new ArrayList<String>();
-		for(TrecResultPredicate predicate : this.results){
+		for(TrecResultProperty predicate : this.results){
 			strings.add(predicate.score());
 		}
 		return strings;

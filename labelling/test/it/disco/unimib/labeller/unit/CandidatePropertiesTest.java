@@ -5,12 +5,12 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
-import it.disco.unimib.labeller.predicates.CandidatePredicates;
+import it.disco.unimib.labeller.predicates.CandidateProperties;
 import it.disco.unimib.labeller.predicates.Distribution;
 
 import org.junit.Test;
 
-public class CandidatePredicatesTest {
+public class CandidatePropertiesTest {
 
 	@Test
 	public void shouldMergeResultsForDifferentValues() throws Exception {
@@ -18,7 +18,7 @@ public class CandidatePredicatesTest {
 								.resultFor("italy", "country", 10)
 								.resultFor("france", "country", 25);
 		
-		Distribution results = new CandidatePredicates(index)
+		Distribution results = new CandidateProperties(index)
 									.forValues(new ContextualizedValues("any", new String[]{"italy", "france"}), 
 												new OnlyValue(new IndexFields("dbpedia")));
 		

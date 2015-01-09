@@ -13,9 +13,9 @@ import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
-import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
-import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
-import it.disco.unimib.labeller.predicates.PredicateMaximumLikelihood;
+import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfProperties;
+import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
+import it.disco.unimib.labeller.predicates.PropertyMaximumLikelihood;
 import it.disco.unimib.labeller.predicates.TopK;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
@@ -58,15 +58,15 @@ public class BenchmarkParameters{
 	}
 
 	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, SelectionCriterion context) {
-		return new PredicateMaximumLikelihood(index, context);
+		return new PropertyMaximumLikelihood(index, context);
 	}
 
 	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
-		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index, fields));
+		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyContextSpecificity(index, fields));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
-		return new MajorityOverFrequencyOfPredicates(index, context);
+		return new MajorityOverFrequencyOfProperties(index, context);
 	}
 
 	private TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {

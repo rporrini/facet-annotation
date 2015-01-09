@@ -10,12 +10,12 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 
-public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
+public class MajorityOverFrequencyOfProperties implements AnnotationAlgorithm{
 	
 	private Index index;
 	private SelectionCriterion selection;
 
-	public MajorityOverFrequencyOfPredicates(Index index, SelectionCriterion criterion) {
+	public MajorityOverFrequencyOfProperties(Index index, SelectionCriterion criterion) {
 		this.index = index;
 		this.selection = criterion;
 	}
@@ -23,23 +23,23 @@ public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		
-		Distribution distribution = new CandidatePredicates(index).forValues(request, selection);
+		Distribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
-		HashMap<String, Double> predicateCounts = new HashMap<String, Double>();
+		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		
 		for(String value : distribution.values()){
 			for(String predicate : distribution.predicates()){
-				if(!predicateCounts.containsKey(predicate)) {
-					predicateCounts.put(predicate, 0.0);
+				if(!propertyCounts.containsKey(predicate)) {
+					propertyCounts.put(predicate, 0.0);
 				}
-				predicateCounts.put(predicate, predicateCounts.get(predicate) + (distribution.scoreOf(predicate, value)));
+				propertyCounts.put(predicate, propertyCounts.get(predicate) + (distribution.scoreOf(predicate, value)));
 			}
 		}
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
-		for(String predicate : predicateCounts.keySet()){
-			Double wfreq = predicateCounts.get(predicate);
-			CandidateResource e = new CandidateResource(predicate);
+		for(String property : propertyCounts.keySet()){
+			Double wfreq = propertyCounts.get(property);
+			CandidateResource e = new CandidateResource(property);
 			e.sumScore(wfreq);
 			results.add(e);
 		}

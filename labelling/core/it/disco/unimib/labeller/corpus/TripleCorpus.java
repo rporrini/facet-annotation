@@ -37,7 +37,7 @@ public class TripleCorpus implements WriteStore{
 		}
 		for(String type : types){
 			for(String value : values){
-				file.write(type + " " + triple.predicate().uri() + " " + value);
+				file.write(type + " " + triple.property().uri() + " " + value);
 			}
 		}
 		return this;

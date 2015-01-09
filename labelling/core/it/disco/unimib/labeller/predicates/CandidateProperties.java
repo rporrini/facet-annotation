@@ -7,11 +7,11 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.HashMap;
 
-public class CandidatePredicates implements Predicates{
+public class CandidateProperties implements Properties{
 
 	private Index index;
 
-	public CandidatePredicates(Index index) {
+	public CandidateProperties(Index index) {
 		this.index = index;
 	}
 

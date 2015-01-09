@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AcceptAll;
 import it.disco.unimib.labeller.index.EntityValues;
-import it.disco.unimib.labeller.index.MatchingPredicate;
+import it.disco.unimib.labeller.index.MatchingProperty;
 import it.disco.unimib.labeller.index.Triples;
 
 import org.apache.lucene.store.RAMDirectory;
@@ -31,7 +31,7 @@ public class TriplesTest {
 		new Triples(new InputFileTestDouble()
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
 							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
-					.fill(index, new MatchingPredicate("http://label"));
+					.fill(index, new MatchingProperty("http://label"));
 		index.closeWriter();
 		
 		assertThat(index.get("http://france"), hasSize(1));

@@ -17,7 +17,7 @@ import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.Constant;
-import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
+import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
 import it.disco.unimib.labeller.predicates.WeightedFrequencyCoverageAndSpecificity;
 
 import java.util.List;
@@ -73,7 +73,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), new IndexFields("dbpedia"));
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new PredicateContextSpecificity(index, new IndexFields("dbpedia")));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		
@@ -87,7 +87,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		IndexFields fields = new IndexFields("yago1");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PredicateContextSpecificity(index, fields));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PropertyContextSpecificity(index, fields));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		
@@ -101,7 +101,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		IndexFields fields = new IndexFields("dbpedia-with-labels");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PredicateContextSpecificity(index, fields));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PropertyContextSpecificity(index, fields));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		
@@ -115,7 +115,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new PartiallyContextualizedValue(fields), new PredicateContextSpecificity(index, new IndexFields("dbpedia")));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new PartiallyContextualizedValue(fields), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		
@@ -129,7 +129,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new FullyContextualizedValue(fields), new PredicateContextSpecificity(index, new IndexFields("dbpedia")));
+		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new FullyContextualizedValue(fields), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
 		

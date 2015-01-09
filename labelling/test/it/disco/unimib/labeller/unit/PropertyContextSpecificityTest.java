@@ -8,13 +8,13 @@ import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.predicates.PredicateContextSpecificity;
+import it.disco.unimib.labeller.predicates.PropertyContextSpecificity;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-public class PredicateContextSpecificityTest {
+public class PropertyContextSpecificityTest {
 	
 	@Test
 	public void discriminacyShouldBeGreaterIfMatchingContext() throws Exception {
@@ -38,7 +38,7 @@ public class PredicateContextSpecificityTest {
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		IndexFields fields = new IndexFields("dbpedia");
-		PredicateContextSpecificity predicateAndContextWeight = new PredicateContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
+		PropertyContextSpecificity predicateAndContextWeight = new PropertyContextSpecificity(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
 		
 		double discriminacyMatchingContext = predicateAndContextWeight.of(new ContextualizedValues("context", new String[]{"predicate"}));
 		double discriminacyNonMatchingContext = predicateAndContextWeight.of(new ContextualizedValues("non matching", new String[]{"predicate"}));

@@ -6,19 +6,19 @@ import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class CandidatePredicatesReport implements Predicates{
+public class CandidatePropertiesReport implements Properties{
 
-	private Predicates predicates;
+	private Properties properties;
 
-	public CandidatePredicatesReport(Predicates predicates){
-		this.predicates = predicates;
+	public CandidatePropertiesReport(Properties properties){
+		this.properties = properties;
 	}
 	
 	@Override
 	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		log("processing " + request.domain() + " [" + StringUtils.join(request.all(), ", ") + "]");
 		
-		Distribution distribution = predicates.forValues(request, query);
+		Distribution distribution = properties.forValues(request, query);
 		String header = "|";
 		for(String value : distribution.values()){
 			header += value + "|";

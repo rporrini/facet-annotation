@@ -1,10 +1,10 @@
 package it.disco.unimib.labeller.index;
 
-public class OnlyPredicate implements SelectionCriterion{
+public class OnlyProperty implements SelectionCriterion{
 
 	private IndexFields fields;
 
-	public OnlyPredicate(IndexFields fields) {
+	public OnlyProperty(IndexFields fields) {
 		this.fields = fields;
 	}
 	

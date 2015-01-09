@@ -9,19 +9,19 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class PredicateMaximumLikelihood implements AnnotationAlgorithm{
+public class PropertyMaximumLikelihood implements AnnotationAlgorithm{
 
 	private Index index;
 	private SelectionCriterion query;
 
-	public PredicateMaximumLikelihood(Index candidates, SelectionCriterion query){
+	public PropertyMaximumLikelihood(Index candidates, SelectionCriterion query){
 		this.index = candidates;
 		this.query = query;
 	}
 	
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
-		Distribution distribution = new CandidatePredicates(index).forValues(request, query);
+		Distribution distribution = new CandidateProperties(index).forValues(request, query);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);
 		NormalizedPrior prior = new NormalizedPrior(distribution, unnormalizedPrior);
