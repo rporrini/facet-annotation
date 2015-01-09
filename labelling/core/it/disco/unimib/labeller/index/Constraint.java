@@ -13,17 +13,17 @@ import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.util.Version;
 
-public class IndexQuery {
+public class Constraint {
 
 	private Operator operator;
 	private BooleanQuery query;
 	private Analyzer analyzer;
 
-	public IndexQuery(){
+	public Constraint(){
 		this(new StandardAnalyzer(Version.LUCENE_45));
 	}
 	
-	public IndexQuery(Analyzer analyzer){
+	public Constraint(Analyzer analyzer){
 		this.query = new BooleanQuery();
 		this.analyzer = analyzer;
 	}
@@ -32,27 +32,27 @@ public class IndexQuery {
 		return query;
 	}
 
-	public IndexQuery all(){
+	public Constraint all(){
 		operator = StandardQueryConfigHandler.Operator.AND;
 		return this;
 	}
 	
-	public IndexQuery any(){
+	public Constraint any(){
 		operator = StandardQueryConfigHandler.Operator.OR;
 		return this;
 	}
 	
-	public IndexQuery matchExactly(String value, String field) throws Exception {
+	public Constraint matchExactly(String value, String field) throws Exception {
 		PhraseQuery phraseQuery = new PhraseQuery();
 		phraseQuery.add(new Term(field, value));
 		return addToQuery(phraseQuery) ;
 	}
 	
-	public IndexQuery match(String value, String field) throws Exception {
+	public Constraint match(String value, String field) throws Exception {
 		return addToQuery(multiWord(value, field, operator));
 	}
 
-	private IndexQuery addToQuery(Query query) throws Exception {
+	private Constraint addToQuery(Query query) throws Exception {
 		this.query.add(query, Occur.MUST);
 		return this;
 	}

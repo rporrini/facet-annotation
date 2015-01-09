@@ -10,8 +10,8 @@ public class AllValues implements SingleFieldSelectionCriterion {
 		this.analyzer = analyzer;
 	}
 	
-	public IndexQuery createQuery(String value, String field) throws Exception {
-		IndexQuery query = new IndexQuery(this.analyzer).all().match(value, field);
+	public Constraint createQuery(String value, String field) throws Exception {
+		Constraint query = new Constraint(this.analyzer).all().match(value, field);
 		return query;
 	}
 }

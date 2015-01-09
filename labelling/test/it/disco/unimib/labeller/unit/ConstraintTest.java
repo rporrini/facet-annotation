@@ -5,18 +5,18 @@ import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.IndexQuery;
+import it.disco.unimib.labeller.index.Constraint;
 
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.util.Version;
 import org.junit.Test;
 
-public class IndexQueryTest {
+public class ConstraintTest {
 
 	@Test
 	public void onDefaultShouldBuildAnEmptyQuery() {
 		
-		IndexQuery builder = new IndexQuery();
+		Constraint builder = new Constraint();
 		
 		assertThat(builder.build(), notNullValue());
 	}
@@ -24,7 +24,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldMatchAnExactTerm() throws Exception {
 		
-		IndexQuery builder = new IndexQuery().matchExactly("http://term", "field");
+		Constraint builder = new Constraint().matchExactly("http://term", "field");
 		
 		assertThat(builder.build().toString(), equalTo("+field:\"http://term\""));
 	}
@@ -32,7 +32,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldMatchAllTheWordsOfATerm() throws Exception {
 		
-		IndexQuery query = new IndexQuery(englishAnalyzer()).all().match("c b", "field");
+		Constraint query = new Constraint(englishAnalyzer()).all().match("c b", "field");
 		
 		assertThat(query.build().toString(), equalTo("+(+field:c +field:b)"));
 	}
@@ -40,14 +40,14 @@ public class IndexQueryTest {
 	@Test
 	public void shouldMatchAnyWordOfATerm() throws Exception {
 		
-		IndexQuery query = new IndexQuery(englishAnalyzer()).any().match("c b", "field");
+		Constraint query = new Constraint(englishAnalyzer()).any().match("c b", "field");
 		
 		assertThat(query.build().toString(), equalTo("+(field:c field:b)"));
 	}
 
 	@Test
 	public void shouldParseMultipleValuesWithAStrangeSeparator() throws Exception {
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.all()
 										.match("Film-Noir", "literal");
 		
@@ -56,7 +56,7 @@ public class IndexQueryTest {
 	
 	@Test
 	public void shouldParseMultipleValuesWithOR() throws Exception {
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.all()
 										.match("Film OR Noir", "literal");
 		
@@ -65,7 +65,7 @@ public class IndexQueryTest {
 	
 	@Test
 	public void shouldParseMultipleValuesWithDoublePoints() throws Exception {
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.all()
 										.match("Film : Noir", "literal");
 		
@@ -75,7 +75,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldParseAlsoQueriesWithORs() throws Exception {
 		
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.all()
 										.match("portland, OR", "literal");
 		
@@ -85,7 +85,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldParseUri() throws Exception {
 		
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.all()
 										.match("http://aaa.com", "property");
 		
@@ -95,7 +95,7 @@ public class IndexQueryTest {
 	@Test
 	public void shouldParseQueriesWithStrangeCharacters() throws Exception {
 		
-		IndexQuery query = new IndexQuery(new IndexFields("dbpedia").analyzer())
+		Constraint query = new Constraint(new IndexFields("dbpedia").analyzer())
 										.any()
 										.match("Polar-Express", "literal");
 		

@@ -34,7 +34,7 @@ public class EntityValues implements ReadAndWriteStore{
 	}
 	
 	public List<CandidateResource> get(String entity) throws Exception {
-		Query query = new IndexQuery().matchExactly(entity, id()).build();
+		Query query = new Constraint().matchExactly(entity, id()).build();
 		IndexSearcher searcher = openSearcher();
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();

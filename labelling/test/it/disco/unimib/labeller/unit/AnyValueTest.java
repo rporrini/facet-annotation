@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.AnyValue;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.IndexQuery;
+import it.disco.unimib.labeller.index.Constraint;
 
 import org.junit.Test;
 
@@ -13,7 +13,7 @@ public class AnyValueTest {
 	@Test
 	public void shouldParseQueries() throws Exception {
 		
-		IndexQuery query = new AnyValue(new IndexFields("dbpedia").analyzer()).createQuery("Polar Express", "literal");
+		Constraint query = new AnyValue(new IndexFields("dbpedia").analyzer()).createQuery("Polar Express", "literal");
 		
 		assertThat(query.build().toString(), equalTo("+(literal:polar literal:express)"));
 	}

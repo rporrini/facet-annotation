@@ -3,6 +3,6 @@ package it.disco.unimib.labeller.index;
 
 public interface SingleFieldSelectionCriterion {
 
-	public IndexQuery createQuery(String value, String field) throws Exception;
+	public Constraint createQuery(String value, String field) throws Exception;
 
 }

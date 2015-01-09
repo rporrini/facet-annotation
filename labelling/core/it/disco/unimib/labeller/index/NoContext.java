@@ -9,7 +9,7 @@ public class NoContext implements TripleSelectionCriterion{
 		allValues = constraints;
 	}
 
-	public IndexQuery asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
+	public Constraint asQuery(String value, String context, String literalField, String contextField, String namespaceField) throws Exception {
 		return allValues.createQuery(value, literalField);
 	}
 }
