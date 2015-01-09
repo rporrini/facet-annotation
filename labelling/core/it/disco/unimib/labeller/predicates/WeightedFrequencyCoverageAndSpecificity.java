@@ -4,7 +4,7 @@ import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.TypeConsistency;
 
 import java.util.ArrayList;
@@ -16,10 +16,10 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	
 	private Index index;
 	private Specificity predicateSpecificity;
-	private TripleSelectionCriterion selection;
+	private SelectionCriterion selection;
 	private TypeConsistency consistency;
 
-	public WeightedFrequencyCoverageAndSpecificity(TypeConsistency consistency, Index index, TripleSelectionCriterion criterion, Specificity predicateDiscriminacy) {
+	public WeightedFrequencyCoverageAndSpecificity(TypeConsistency consistency, Index index, SelectionCriterion criterion, Specificity predicateDiscriminacy) {
 		this.index = index;
 		this.selection = criterion;
 		this.predicateSpecificity = predicateDiscriminacy;

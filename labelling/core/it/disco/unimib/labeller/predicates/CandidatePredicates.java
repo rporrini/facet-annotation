@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.HashMap;
 
@@ -16,7 +16,7 @@ public class CandidatePredicates implements Predicates{
 	}
 
 	@Override
-	public Distribution forValues(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
+	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
 		for(ContextualizedValues singleRequest: request.split()){
 			results.put(singleRequest.first(), index.get(singleRequest, query));

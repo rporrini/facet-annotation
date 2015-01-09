@@ -1,18 +1,18 @@
 package it.disco.unimib.labeller.index;
 
-public class CompleteContext implements TripleSelectionCriterion{
+public class FullyContextualizedValue implements SelectionCriterion{
 
 	private IndexFields fields;
 
-	public CompleteContext(IndexFields fields) {
+	public FullyContextualizedValue(IndexFields fields) {
 		this.fields = fields;
 	}
 
 	@Override
 	public Constraint asQuery(ContextualizedValues values) throws Exception {
-		return new AllValues(fields)
-					.createQuery(values.first(), fields.literal())
+		return fields.toConstraint()
 					.all()
+					.match(values.first(), fields.literal())
 					.match(values.domain(), fields.context());
 	}
 }

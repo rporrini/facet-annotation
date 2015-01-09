@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,9 +13,9 @@ import java.util.List;
 public class MajorityOverFrequencyOfPredicates implements AnnotationAlgorithm{
 	
 	private Index index;
-	private TripleSelectionCriterion selection;
+	private SelectionCriterion selection;
 
-	public MajorityOverFrequencyOfPredicates(Index index, TripleSelectionCriterion criterion) {
+	public MajorityOverFrequencyOfPredicates(Index index, SelectionCriterion criterion) {
 		this.index = index;
 		this.selection = criterion;
 	}

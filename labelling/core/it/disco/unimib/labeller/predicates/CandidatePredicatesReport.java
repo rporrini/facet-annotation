@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.predicates;
 
 import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.ContextualizedValues;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -15,7 +15,7 @@ public class CandidatePredicatesReport implements Predicates{
 	}
 	
 	@Override
-	public Distribution forValues(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
+	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		log("processing " + request.domain() + " [" + StringUtils.join(request.all(), ", ") + "]");
 		
 		Distribution distribution = predicates.forValues(request, query);

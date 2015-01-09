@@ -24,13 +24,13 @@ public class ContextualizedEvidence implements Index{
 	}
 	
 	@Override
-	public long countPredicatesInContext(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
+	public long count(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		int howMany = 1;
 		return runQuery(howMany, query.asQuery(request).build()).totalHits;
 	}
 
 	@Override
-	public CandidateResourceSet get(ContextualizedValues request, TripleSelectionCriterion query) throws Exception {
+	public CandidateResourceSet get(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		Stems stems = indexFields.toStems();
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.domain()));
 		int howMany = 1000000;

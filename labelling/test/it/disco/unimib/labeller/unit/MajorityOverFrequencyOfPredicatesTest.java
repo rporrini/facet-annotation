@@ -5,7 +5,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
 
 import java.util.List;
@@ -21,7 +21,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 													 .resultFor("2010", "other predicate", 10);
 		
 		
-		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new IndexFields("dbpedia")));
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new OnlyValue(new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
@@ -33,7 +33,7 @@ public class MajorityOverFrequencyOfPredicatesTest{
 		IndexTestDouble index = new IndexTestDouble().resultFor("2012", "predicate", 1)
 													 .resultFor("2010", "predicate", 1);
 
-		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new NoContext(new IndexFields("dbpedia")));
+		MajorityOverFrequencyOfPredicates majorityHitWeighted = new MajorityOverFrequencyOfPredicates(index, new OnlyValue(new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 

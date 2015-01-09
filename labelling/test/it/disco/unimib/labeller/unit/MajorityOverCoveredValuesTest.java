@@ -5,7 +5,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.NoContext;
+import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.predicates.MajorityOverCoveredValues;
 
 import java.util.List;
@@ -21,7 +21,7 @@ public class MajorityOverCoveredValuesTest {
 															.resultFor("2010", "predicate", 1)
 															.resultFor("2010", "other predicate", 1), 
 															0.6, 
-															new NoContext(new IndexFields("dbpedia")));
+															new OnlyValue(new IndexFields("dbpedia")));
 		
 		List<CandidateResource> results = majorityPredicate.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		

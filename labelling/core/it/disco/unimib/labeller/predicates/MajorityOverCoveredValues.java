@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.predicates;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -14,9 +14,9 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 
 	private Index index;
 	private double threshold;
-	private TripleSelectionCriterion query;
+	private SelectionCriterion query;
 
-	public MajorityOverCoveredValues(Index candidates, double threshold, TripleSelectionCriterion query){
+	public MajorityOverCoveredValues(Index candidates, double threshold, SelectionCriterion query){
 		this.index = candidates;
 		this.threshold = threshold;
 		this.query = query;

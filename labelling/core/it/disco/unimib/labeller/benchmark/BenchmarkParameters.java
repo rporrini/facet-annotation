@@ -1,16 +1,16 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.CompleteContext;
+import it.disco.unimib.labeller.index.FullyContextualizedValue;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.NoContext;
-import it.disco.unimib.labeller.index.PartialContext;
+import it.disco.unimib.labeller.index.OnlyValue;
+import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.index.TripleSelectionCriterion;
+import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.predicates.AnnotationAlgorithm;
 import it.disco.unimib.labeller.predicates.MajorityOverFrequencyOfPredicates;
@@ -43,7 +43,7 @@ public class BenchmarkParameters{
 
 	public AnnotationAlgorithm algorithm() throws Exception{
 		String knowledgeBase = knowledgeBaseString();
-		TripleSelectionCriterion context = context();
+		SelectionCriterion context = context();
 		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), new IndexFields(knowledgeBase));
 		
 		String algorithm = algorithmString();
@@ -55,15 +55,15 @@ public class BenchmarkParameters{
 		return topK(algorithmToRun);
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, SelectionCriterion context) {
 		return new PredicateMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, TripleSelectionCriterion context) throws Exception {
+	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PredicateContextSpecificity(index, new IndexFields(knowledgeBaseString())));
 	}
 
-	private AnnotationAlgorithm majority(ContextualizedEvidence index, TripleSelectionCriterion context) {
+	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
 		return new MajorityOverFrequencyOfPredicates(index, context);
 	}
 
@@ -81,12 +81,12 @@ public class BenchmarkParameters{
 		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
 	
-	private TripleSelectionCriterion context() throws Exception{
-		HashMap<String, TripleSelectionCriterion> contexts = new HashMap<String, TripleSelectionCriterion>();
+	private SelectionCriterion context() throws Exception{
+		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
 		
-		contexts.put("complete", new CompleteContext(new IndexFields(knowledgeBaseString())));
-		contexts.put("no", new NoContext(new IndexFields(knowledgeBaseString())));
-		contexts.put("partial", new PartialContext(new IndexFields(knowledgeBaseString())));
+		contexts.put("complete", new FullyContextualizedValue(new IndexFields(knowledgeBaseString())));
+		contexts.put("no", new OnlyValue(new IndexFields(knowledgeBaseString())));
+		contexts.put("partial", new PartiallyContextualizedValue(new IndexFields(knowledgeBaseString())));
 		return contexts.get(contextString());
 	}
 	

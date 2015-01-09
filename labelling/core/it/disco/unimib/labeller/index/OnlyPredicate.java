@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.index;
 
-public class OnlyPredicate implements TripleSelectionCriterion{
+public class OnlyPredicate implements SelectionCriterion{
 
 	private IndexFields fields;
 
@@ -10,6 +10,7 @@ public class OnlyPredicate implements TripleSelectionCriterion{
 	
 	@Override
 	public Constraint asQuery(ContextualizedValues values) throws Exception {
-		return fields.toConstraint().matchExactly(values.first(), fields.propertyId());
+		return fields.toConstraint()
+						.matchExactly(values.first(), fields.propertyId());
 	}
 }
