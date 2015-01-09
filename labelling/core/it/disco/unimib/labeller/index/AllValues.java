@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.index;
 
 
-public class AllValues implements SingleFieldSelectionCriterion {
+public class AllValues implements FieldSelectionCriterion {
 
 	private IndexFields analyzer;
 
@@ -10,7 +10,6 @@ public class AllValues implements SingleFieldSelectionCriterion {
 	}
 	
 	public Constraint createQuery(String value, String field) throws Exception {
-		Constraint query = analyzer.toConstraint().all().match(value, field);
-		return query;
+		return analyzer.toConstraint().all().match(value, field);
 	}
 }

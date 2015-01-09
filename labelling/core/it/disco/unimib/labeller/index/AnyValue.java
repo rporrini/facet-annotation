@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.index;
 
 import org.apache.lucene.analysis.Analyzer;
 
-public class AnyValue implements SingleFieldSelectionCriterion{
+public class AnyValue implements FieldSelectionCriterion{
 	
 	private Analyzer analyzer;
 
