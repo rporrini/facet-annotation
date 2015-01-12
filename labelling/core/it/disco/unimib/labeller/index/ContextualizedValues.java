@@ -1,10 +1,10 @@
 package it.disco.unimib.labeller.index;
 
-
 public class ContextualizedValues {
 	
 	private String domain;
 	private String[] values;
+	private String[] domainTypes;
 
 	public ContextualizedValues(String domain, String[] values) {
 		this.domain = domain;
@@ -29,5 +29,13 @@ public class ContextualizedValues {
 			result[i] = new ContextualizedValues(domain, new String[]{values[i]});
 		}
 		return result;
+	}
+
+	public void setDomainTypes(String... types) {
+		this.domainTypes = types;
+	}
+
+	public String[] domainTypes() {
+		return domainTypes;
 	}
 }
