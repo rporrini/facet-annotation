@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
@@ -44,7 +45,10 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			new Events().debug("distinct object types: " + objects.size() + "|" + property);
 			
 			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
-			double disc = Math.log(propertySpecificity.of(new ContextualizedValues(request.domain(), new String[]{property})) + 1.1);
+			ContextualizedValues specificity = new ContextualizedValues(request.domain(), new String[]{property});
+			Set<String> subjectsOf = distribution.subjectsOf(property);
+			specificity.setDomainTypes(subjectsOf.toArray(new String[subjectsOf.size()]));
+			double disc = Math.log(propertySpecificity.of(specificity) + 1.1);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			
