@@ -18,8 +18,8 @@ public class PropertyContextSpecificity implements Specificity{
 	
 	@Override
 	public double of(ContextualizedValues request) throws Exception {
-		double frequencyOfPropertyInDomain = index.count(request, new PartiallyContextualizedProperty(indexFields));
-		double frequencyOfProperty = index.count(request, new OnlyProperty(indexFields));
+		double frequencyOfPropertyInDomain = index.count(new PartiallyContextualizedProperty(indexFields).asQuery(request));
+		double frequencyOfProperty = index.count(new OnlyProperty(indexFields).asQuery(request));
 		return frequencyOfPropertyInDomain / frequencyOfProperty;
 	}
 }

@@ -44,7 +44,10 @@ public class EvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
 		
-		assertThat(search.get(new ContextualizedValues("any", new String[]{"city"}), new OnlyValue(fields))
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"city"});
+		OnlyValue query = new OnlyValue(fields);
+		
+		assertThat(search.get(request, query.asQuery(request))
 								.asList()
 								.iterator()
 								.next()
@@ -60,9 +63,11 @@ public class EvidenceTest {
 								yago)
 							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
+		OnlyValue query = new OnlyValue(yago);
 		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
-										.get(new ContextualizedValues("any", new String[]{"literal"}), 
-											 new OnlyValue(yago))
+										.get(request, 
+											 query.asQuery(request))
 										.asList().iterator().next();
 		
 		assertThat(searchResult.id(), equalTo("property"));
@@ -88,8 +93,10 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literal"});
+		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
 		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
-												.get(new ContextualizedValues("type", new String[]{"literal"}), new PartiallyContextualizedValue(dbpedia))
+												.get(request, query.asQuery(request))
 												.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("http://property"));
@@ -108,7 +115,7 @@ public class EvidenceTest {
 							.closeWriter();
 		
 		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago)
-							.get(new ContextualizedValues("type", new String[]{"literal"}), new PartiallyContextualizedValue(dbpedia))
+							.get(request, query.asQuery(request))
 							.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("property"));
@@ -129,8 +136,10 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literals"});
+		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
 		assertThat(new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia)
-						.get(new ContextualizedValues("type", new String[]{"literals"}), new PartiallyContextualizedValue(dbpedia))
+						.get(request, query.asQuery(request))
 						.asList(), 
 				   hasSize(1));
 	}
