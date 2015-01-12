@@ -18,7 +18,7 @@ public class TriplesTest {
 	public void shouldFillTheIndex() throws Exception {
 		EntityValues index = new EntityValues(new RAMDirectory());
 		new Triples(new InputFileTestDouble().withLine(
-									new TripleBuilder().withSubject("http://any").withPredicate("http://any").withLiteral("the label").asNTriple()))
+									new TripleBuilder().withSubject("http://any").withProperty("http://any").withLiteral("the label").asNTriple()))
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
@@ -29,8 +29,8 @@ public class TriplesTest {
 	public void shouldAddOnlyMatchingPredicates() throws Exception {
 		EntityValues index = new EntityValues(new RAMDirectory());
 		new Triples(new InputFileTestDouble()
-							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://label").withLiteral("italy").asNTriple())
-							.withLine(new TripleBuilder().withSubject("http://france").withPredicate("http://type").withLiteral("country").asNTriple()))
+							.withLine(new TripleBuilder().withSubject("http://france").withProperty("http://label").withLiteral("italy").asNTriple())
+							.withLine(new TripleBuilder().withSubject("http://france").withProperty("http://type").withLiteral("country").asNTriple()))
 					.fill(index, new MatchingProperty("http://label"));
 		index.closeWriter();
 		

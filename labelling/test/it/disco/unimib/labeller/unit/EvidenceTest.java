@@ -36,7 +36,7 @@ public class EvidenceTest {
 		new Evidence(directory, new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
-										.withPredicate("http://hasCapital")
+										.withProperty("http://hasCapital")
 										.withLiteral("http://paris")
 										.asTriple())
 							.closeWriter();
@@ -61,7 +61,7 @@ public class EvidenceTest {
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								yago)
-							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
+							.add(new TripleBuilder().withProperty("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
 		OnlyValue query = new OnlyValue(yago);
@@ -83,12 +83,12 @@ public class EvidenceTest {
 		new Evidence(dbpediaDirectory, types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.add(new TripleBuilder()
 										.withSubject("http://another_entity")
-										.withPredicate("http://another_property")
+										.withProperty("http://another_property")
 										.withLiteral("other literal")
 										.asTriple())
 							.closeWriter();
@@ -104,12 +104,12 @@ public class EvidenceTest {
 		new Evidence(new RAMDirectory(), types, labels, yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.add(new TripleBuilder()
 										.withSubject("http://another_entity")
-										.withPredicate("http://another_property")
+										.withProperty("http://another_property")
 										.withLiteral("other literal")
 										.asTriple())
 							.closeWriter();
@@ -131,7 +131,7 @@ public class EvidenceTest {
 		new Evidence(directory, types, labels, new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.closeWriter();

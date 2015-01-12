@@ -39,7 +39,7 @@ public class ContextualizedEvidenceTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new IndexFields("dbpedia"))
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
 		
 		IndexFields fields = new IndexFields("dbpedia");
@@ -59,7 +59,7 @@ public class ContextualizedEvidenceTest {
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					fields)
-				.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+				.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 				.closeWriter();
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
@@ -76,8 +76,8 @@ public class ContextualizedEvidenceTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new IndexFields("dbpedia"))
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
 		
 		IndexFields fields = new IndexFields("dbpedia");
@@ -114,11 +114,11 @@ public class ContextualizedEvidenceTest {
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
-											.withPredicate("http://predicate")
+											.withProperty("http://predicate")
 									.asTriple())
 								.add(new TripleBuilder()
 											.withSubject("http://another_subject")
-											.withPredicate("http://another-predicate")
+											.withProperty("http://another-predicate")
 									.asTriple())
 								.closeWriter();
 		

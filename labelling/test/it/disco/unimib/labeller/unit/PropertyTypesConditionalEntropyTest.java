@@ -28,7 +28,7 @@ public class PropertyTypesConditionalEntropyTest {
 		
 		new Evidence(directory, types, new EntityValues(directory).closeWriter(), fields).add(new TripleBuilder()
 														  .withSubject("CityOfParis")
-														  .withPredicate("capitalOf")
+														  .withProperty("capitalOf")
 														  .asTriple())
 		.closeWriter();		
 		
@@ -57,11 +57,11 @@ public class PropertyTypesConditionalEntropyTest {
 		new Evidence(directory, types, new EntityValues(new RAMDirectory()).closeWriter(), fields)
 															.add(new TripleBuilder()
 																.withSubject("CityOfParis")
-																.withPredicate("capitalOf")
+																.withProperty("capitalOf")
 																.asTriple())
 															.add(new TripleBuilder()
 																.withSubject("CityOfBerlin")
-																.withPredicate("capitalOf")
+																.withProperty("capitalOf")
 																.asTriple())
 		.closeWriter();		
 		

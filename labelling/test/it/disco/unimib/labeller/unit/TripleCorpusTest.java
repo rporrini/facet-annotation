@@ -35,7 +35,7 @@ public class TripleCorpusTest {
 		
 		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
-											.withPredicate("http://example.org#thePredicate")
+											.withProperty("http://example.org#thePredicate")
 											.asTriple());
 		
 		
@@ -166,7 +166,7 @@ public class TripleCorpusTest {
 		
 		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
-											.withPredicate("thePredicate")
+											.withProperty("thePredicate")
 											.withLiteral("2013-12-24")
 											.asTriple());
 		
@@ -205,7 +205,7 @@ public class TripleCorpusTest {
 		
 		new TripleCorpus(types, labels, file, new EnglishAnalyzer(Version.LUCENE_45))
 					.add(new TripleBuilder().withSubject("http://the.subject")
-											.withPredicate("thePredicate")
+											.withProperty("thePredicate")
 											.withLiteral("http://the.object")
 											.asTriple());
 		
