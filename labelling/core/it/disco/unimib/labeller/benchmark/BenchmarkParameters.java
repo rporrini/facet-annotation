@@ -16,6 +16,7 @@ import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
 import it.disco.unimib.labeller.properties.PropertyMaximumLikelihood;
+import it.disco.unimib.labeller.properties.PropertyTypesConditionalEntropy;
 import it.disco.unimib.labeller.properties.TopK;
 import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
@@ -52,6 +53,7 @@ public class BenchmarkParameters{
 		AnnotationAlgorithm algorithmToRun = null;
 		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
 		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context, fields);
+		if(algorithm.equals("mhw-e")) algorithmToRun = pfdEntropy(hierarchyFrom(knowledgeBase), index, context, fields);
 		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
 		
 		return topK(algorithmToRun);
@@ -63,6 +65,10 @@ public class BenchmarkParameters{
 
 	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyContextSpecificity(index, fields));
+	}
+	
+	private AnnotationAlgorithm pfdEntropy(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyTypesConditionalEntropy(index, fields));
 	}
 
 	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
