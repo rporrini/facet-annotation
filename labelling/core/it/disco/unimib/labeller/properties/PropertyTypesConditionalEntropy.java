@@ -20,12 +20,13 @@ public class PropertyTypesConditionalEntropy implements Specificity{
 	public double of(ContextualizedValues request) throws Exception {
 		double result = 0.0;
 		double totalTriples = index.count(new Constraint().allRecords());
+		
+		double frequencyOfProperty = index.count(new OnlyProperty(fields).asQuery(request));
+		double prior = frequencyOfProperty / totalTriples;
+		
 		for(String type : request.domainTypes()){
 			double frequencyOfPropertyAndType = index.count(new OnlyProperty(fields).asQuery(request).matchExactly(type, fields.subjectType()));
 			double joint = frequencyOfPropertyAndType / totalTriples;
-			
-			double frequencyOfProperty = index.count(new OnlyProperty(fields).asQuery(request));
-			double prior = frequencyOfProperty / totalTriples;
 			
 			double summation = -((joint / prior) * ((Math.log(joint / prior) / Math.log(2))));
 			if(Double.isNaN(summation)){
