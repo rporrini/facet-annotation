@@ -5,7 +5,7 @@ relative_path=`dirname $0`
 root=`cd $relative_path;pwd`
 cd $root
 
-./build-and-test.sh
+./build-and-test.sh -skip-regression-tests
 
 echo "Building indexes for YAGO1"
 scripts/indexes/build-index-for-yago1.sh
