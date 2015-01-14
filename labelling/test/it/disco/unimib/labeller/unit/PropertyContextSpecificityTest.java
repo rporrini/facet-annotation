@@ -34,7 +34,7 @@ public class PropertyContextSpecificityTest {
 										labels,
 										new IndexFields("dbpedia"))
 												.add(new TripleBuilder().withSubject("a_subject")
-																		.withPredicate("predicate")
+																		.withProperty("predicate")
 																		.withLiteral("value").asTriple())
 											.closeWriter();
 		IndexFields fields = new IndexFields("dbpedia");

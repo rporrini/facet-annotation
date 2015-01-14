@@ -5,12 +5,12 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
-import it.disco.unimib.labeller.index.PartiallyContextualizedProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyProperty;
+import it.disco.unimib.labeller.index.PartiallyContextualizedProperty;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -27,7 +27,9 @@ public class ContextualizedEvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.count(new ContextualizedValues("any", new String[]{"any"}), new OnlyProperty(fields)), is(equalTo(0l)));
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"any"});
+		OnlyProperty query = new OnlyProperty(fields);
+		assertThat(index.count(query.asQuery(request)), is(equalTo(0l)));
 	}
 	
 	@Test
@@ -37,13 +39,15 @@ public class ContextualizedEvidenceTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new IndexFields("dbpedia"))
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
 		
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.count(new ContextualizedValues("any", new String[]{"http://predicate"}), new OnlyProperty(fields)), is(equalTo(1l)));
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"http://predicate"});
+		OnlyProperty query = new OnlyProperty(fields);
+		assertThat(index.count(query.asQuery(request)), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -55,12 +59,14 @@ public class ContextualizedEvidenceTest {
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					fields)
-				.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+				.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 				.closeWriter();
 		
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.count(new ContextualizedValues("any", new String[]{"predicate"}), new OnlyProperty(fields)), is(equalTo(1l)));
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"predicate"});
+		OnlyProperty query = new OnlyProperty(fields);
+		assertThat(index.count(query.asQuery(request)), is(equalTo(1l)));
 	}
 	
 	@Test
@@ -70,14 +76,16 @@ public class ContextualizedEvidenceTest {
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new EntityValues(new RAMDirectory()).closeWriter(),
 									new IndexFields("dbpedia"))
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
-								.add(new TripleBuilder().withPredicate("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
+								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
 		
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.count(new ContextualizedValues("any",new String[]{"http://predicate"}), new OnlyProperty(fields)), is(equalTo(2l)));
+		ContextualizedValues request = new ContextualizedValues("any",new String[]{"http://predicate"});
+		OnlyProperty query = new OnlyProperty(fields);
+		assertThat(index.count(query.asQuery(request)), is(equalTo(2l)));
 	}
 	
 	@Test
@@ -106,17 +114,19 @@ public class ContextualizedEvidenceTest {
 									new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
-											.withPredicate("http://predicate")
+											.withProperty("http://predicate")
 									.asTriple())
 								.add(new TripleBuilder()
 											.withSubject("http://another_subject")
-											.withPredicate("http://another-predicate")
+											.withProperty("http://another-predicate")
 									.asTriple())
 								.closeWriter();
 		
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence index = new ContextualizedEvidence(directory , new ConstantSimilarity(), fields);
 		
-		assertThat(index.count(new ContextualizedValues("one term", new String[]{"http://predicate"}), new PartiallyContextualizedProperty(fields)), is(equalTo(1l)));
+		ContextualizedValues request = new ContextualizedValues("one term", new String[]{"http://predicate"});
+		PartiallyContextualizedProperty query = new PartiallyContextualizedProperty(fields);
+		assertThat(index.count(query.asQuery(request)), is(equalTo(1l)));
 	}
 }

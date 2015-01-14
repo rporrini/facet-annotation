@@ -20,8 +20,8 @@ public class TripleBuilder{
 		return this;
 	}
 	
-	public TripleBuilder withPredicate(String predicate) throws Exception{
-		this.p = new Resource(predicate);
+	public TripleBuilder withProperty(String property) throws Exception{
+		this.p = new Resource(property);
 		return this;
 	}
 	

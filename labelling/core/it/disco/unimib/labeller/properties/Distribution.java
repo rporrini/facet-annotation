@@ -43,6 +43,14 @@ public class Distribution{
 		return countDistributionOf(resource, types);
 	}
 	
+	public Set<String> subjectsOf(String property) {
+		HashSet<String> result = new HashSet<String>();
+		for(String value : values()){
+			result.addAll(subjectsOf(property, value).keySet());
+		}
+		return result;
+	}
+	
 	public Map<String, Double> subjectsOf(String property, String value) {
 		CandidateResource resource = getOrDefault(property, value);
 		Collection<CandidateResource> types = resource.subjectTypes();

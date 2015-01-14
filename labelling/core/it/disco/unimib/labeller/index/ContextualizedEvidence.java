@@ -24,19 +24,19 @@ public class ContextualizedEvidence implements Index{
 	}
 	
 	@Override
-	public long count(ContextualizedValues request, SelectionCriterion query) throws Exception {
+	public long count(Constraint asQuery) throws Exception {
 		int howMany = 1;
-		return runQuery(howMany, query.asQuery(request).build()).totalHits;
+		return runQuery(howMany, asQuery.build()).totalHits;
 	}
 
 	@Override
-	public CandidateResourceSet get(ContextualizedValues request, SelectionCriterion query) throws Exception {
+	public CandidateResourceSet get(ContextualizedValues request, Constraint query) throws Exception {
 		Stems stems = indexFields.toStems();
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.domain()));
 		int howMany = 1000000;
 		HashSet<String> fields = indexFields.fieldsToRead();
 		
-		for(ScoreDoc result : runQuery(howMany, query.asQuery(request).build()).scoreDocs){
+		for(ScoreDoc result : runQuery(howMany, query.build()).scoreDocs){
 			Document document = searcher.doc(result.doc, fields);
 			String property = document.getValues(indexFields.propertyId())[0];
 			String context = stems.of(document.getValues(indexFields.context())[0]);

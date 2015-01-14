@@ -189,13 +189,13 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 									labels,
 									new IndexFields("dbpedia"))
 										.add(new TripleBuilder().withSubject("http://a_subject")
-																.withPredicate("http://predicate")
+																.withProperty("http://predicate")
 																.withLiteral("value").asTriple())
 										.add(new TripleBuilder().withSubject("http://a_subject_without_context")
-																.withPredicate("http://predicate")
+																.withProperty("http://predicate")
 																.withLiteral("another_value").asTriple())
 										.add(new TripleBuilder().withSubject("http://a_subject_with_partial_context")
-																.withPredicate("http://predicate_with_partial_context")
+																.withProperty("http://predicate_with_partial_context")
 																.withLiteral("value").asTriple())
 										.closeWriter();
 		return directory;

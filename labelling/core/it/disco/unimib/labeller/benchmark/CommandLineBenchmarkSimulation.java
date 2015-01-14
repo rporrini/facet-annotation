@@ -44,6 +44,12 @@ public class CommandLineBenchmarkSimulation{
 		return this;
 	}
 	
+	public CommandLineBenchmarkSimulation weightedFrequencyWithEntropy() {
+		this.algorithm = "mhw-e";
+		this.occurrences = "contextualized";
+		return this;
+	}
+	
 	public CommandLineBenchmarkSimulation annotate(int groupID) throws Exception {
 		BenchmarkParameters parameters = RunEvaluation.benchmarkParameters(new String[]{
 				"kb=" + knowledgeBase,

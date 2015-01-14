@@ -9,6 +9,7 @@ import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfi
 import org.apache.lucene.queryparser.flexible.standard.config.StandardQueryConfigHandler.Operator;
 import org.apache.lucene.search.BooleanClause.Occur;
 import org.apache.lucene.search.BooleanQuery;
+import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.util.Version;
@@ -32,6 +33,10 @@ public class Constraint {
 		return query;
 	}
 
+	public Constraint allRecords() throws Exception{
+		return addToQuery(new MatchAllDocsQuery());
+	}
+	
 	public Constraint all(){
 		operator = StandardQueryConfigHandler.Operator.AND;
 		return this;

@@ -36,7 +36,7 @@ public class EvidenceTest {
 		new Evidence(directory, new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
-										.withPredicate("http://hasCapital")
+										.withProperty("http://hasCapital")
 										.withLiteral("http://paris")
 										.asTriple())
 							.closeWriter();
@@ -44,7 +44,10 @@ public class EvidenceTest {
 		IndexFields fields = new IndexFields("dbpedia");
 		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
 		
-		assertThat(search.get(new ContextualizedValues("any", new String[]{"city"}), new OnlyValue(fields))
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"city"});
+		OnlyValue query = new OnlyValue(fields);
+		
+		assertThat(search.get(request, query.asQuery(request))
 								.asList()
 								.iterator()
 								.next()
@@ -58,11 +61,13 @@ public class EvidenceTest {
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								yago)
-							.add(new TripleBuilder().withPredicate("http://property").withLiteral("the literal").asTriple()).closeWriter();
+							.add(new TripleBuilder().withProperty("http://property").withLiteral("the literal").asTriple()).closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
+		OnlyValue query = new OnlyValue(yago);
 		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
-										.get(new ContextualizedValues("any", new String[]{"literal"}), 
-											 new OnlyValue(yago))
+										.get(request, 
+											 query.asQuery(request))
 										.asList().iterator().next();
 		
 		assertThat(searchResult.id(), equalTo("property"));
@@ -78,18 +83,20 @@ public class EvidenceTest {
 		new Evidence(dbpediaDirectory, types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.add(new TripleBuilder()
 										.withSubject("http://another_entity")
-										.withPredicate("http://another_property")
+										.withProperty("http://another_property")
 										.withLiteral("other literal")
 										.asTriple())
 							.closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literal"});
+		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
 		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
-												.get(new ContextualizedValues("type", new String[]{"literal"}), new PartiallyContextualizedValue(dbpedia))
+												.get(request, query.asQuery(request))
 												.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("http://property"));
@@ -97,18 +104,18 @@ public class EvidenceTest {
 		new Evidence(new RAMDirectory(), types, labels, yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.add(new TripleBuilder()
 										.withSubject("http://another_entity")
-										.withPredicate("http://another_property")
+										.withProperty("http://another_property")
 										.withLiteral("other literal")
 										.asTriple())
 							.closeWriter();
 		
 		results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), yago)
-							.get(new ContextualizedValues("type", new String[]{"literal"}), new PartiallyContextualizedValue(dbpedia))
+							.get(request, query.asQuery(request))
 							.asList();
 		
 		assertThat(results.iterator().next().id(), equalTo("property"));
@@ -124,13 +131,15 @@ public class EvidenceTest {
 		new Evidence(directory, types, labels, new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
-										.withPredicate("http://property")
+										.withProperty("http://property")
 										.withLiteral("literal")
 										.asTriple())
 							.closeWriter();
 		
+		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literals"});
+		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
 		assertThat(new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia)
-						.get(new ContextualizedValues("type", new String[]{"literals"}), new PartiallyContextualizedValue(dbpedia))
+						.get(request, query.asQuery(request))
 						.asList(), 
 				   hasSize(1));
 	}
