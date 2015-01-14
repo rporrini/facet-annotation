@@ -22,7 +22,9 @@ signal "Running Unit Tests"
 java -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.unit.UnitTests
 signal "Done"
 
-signal "Running Regression Tests"
-java -Xms256m -Xmx3000m -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTests
-signal "Done"
-
+if [[ $1 != -skip-regression-tests ]]
+then
+	signal "Running Regression Tests"
+	java -Xms256m -Xmx3000m -cp .:'labelling.jar' org.junit.runner.JUnitCore it.disco.unimib.labeller.regression.RegressionTests
+	signal "Done"
+fi
