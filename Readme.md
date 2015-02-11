@@ -3,6 +3,8 @@
 * linux (tested on Linux Mint 17 Qiana)
 * git
 * java
+* 50GB available disk space
+* 4GB memory
 
 ## Checking out the repository and configuring your local machine
 
