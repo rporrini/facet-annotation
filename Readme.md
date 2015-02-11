@@ -61,6 +61,12 @@ We provide two gold standards to evaluate the algorithm against the DBPedia and 
 
 ## Convenience scripts
 
+Reset the repository, compile the code, test, download the knowledge bases, build the indices and run the experimental campaign (about 14 hours):
+```
+$ ./reset-and-bootstrap.sh
+``` 
+
+
 Run the algorithms excluding the baselines:
 ```
 $ scripts/experiments/run-algorithm.sh $DATASET -skip-baselines
