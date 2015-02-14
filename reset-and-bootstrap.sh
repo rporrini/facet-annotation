@@ -17,12 +17,12 @@ cd evaluation
 if [[ $kb == dbpedia ]]
 then
 	rm -rf dbpedia-* labeller-indexes/dbpedia labeller-indexes/dbpedia-ontology
-	mkdir yago1-labels
+	mkdir -p yago1-labels
 fi
 if [[ $kb == yago1 ]]
 then
 	rm -rf yago1-* labeller-indexes/yago1
-	mkdir dbpedia-type-tree dbpedia-category-tree dbpedia-types dbpedia-categories dbpedia-labels dbpedia-properties dbpedia-raw-properties
+	mkdir -p dbpedia-type-tree dbpedia-category-tree dbpedia-types dbpedia-categories dbpedia-labels dbpedia-properties dbpedia-raw-properties
 fi
 cd ..
 
