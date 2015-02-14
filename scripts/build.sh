@@ -9,6 +9,7 @@ relative_path=`dirname $0`
 root=`cd $relative_path/../;pwd`
 project=$root/labelling
 build=$project/build/classes
+kb=$1
 
 cd $root/evaluation
 
@@ -32,8 +33,14 @@ signal "Done"
 
 cd $root
 
-scripts/infrastructure/dbpedia-data.sh
-scripts/infrastructure/yago1-data.sh
+if [[ $kb == dbpedia ]] || [[ $kb == '' ]]
+then
+	scripts/infrastructure/dbpedia-data.sh
+fi
+if [[ $kb == yago1 ]] || [[ $kb == '' ]]
+then
+	scripts/infrastructure/yago1-data.sh
+fi
 
 signal "Building Project"
 cd $project

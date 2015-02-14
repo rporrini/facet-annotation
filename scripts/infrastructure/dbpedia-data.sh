@@ -10,7 +10,7 @@ root=`cd $relative_path/../../;pwd`
 
 cd $root/evaluation
 
-signal "Setting Up Evaluation Infrastructure for YAGO1"
+signal "Setting Up Evaluation Infrastructure for DBPedia"
 if [ ! -d "yago1-labels" ]; then
 	mkdir yago1
 	cd yago1

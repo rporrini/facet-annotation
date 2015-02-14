@@ -10,7 +10,7 @@ root=`cd $relative_path/../../;pwd`
 
 cd $root/evaluation
 
-signal "Setting Up Evaluation Infrastructure for DBPedia"
+signal "Setting Up Evaluation Infrastructure for YAGO1"
 if [ ! -d "dbpedia-type-tree" ]; then
 	mkdir dbpedia-type-tree
 	cd dbpedia-type-tree
