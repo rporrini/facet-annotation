@@ -28,4 +28,4 @@ cd ..
 
 signal 'Done'
 
-./experimental-campaign.sh $1
+./experimental-campaign.sh $kb
