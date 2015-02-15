@@ -22,7 +22,7 @@ The ```./build-and-test.sh``` script downloads and installs various tools that a
 To run the whole experimental campaign you can just launch the script
 
 ```
-$ ./experimental-campaign.sh
+$ ./experimental-campaign.sh 
 ```
 
 However, this will take you a long time to complete since it includes also the creation of the indices, besides the run of all the algorithms. Below there is the list of all the steps that are tacken by the script.
@@ -61,26 +61,24 @@ We provide two gold standards to evaluate the algorithm against the DBPedia and 
 
 ## Convenience scripts
 
-Reset the repository, compile the code, test, download the knowledge bases, build the indices and run the experimental campaign (about 14 hours):
+Reset the repository, compile the code, test, download the knowledge bases, build the indices and run the experimental campaign (10 hours for dbpedia, 4 hours for yago1):
 ```
-$ ./reset-and-bootstrap.sh
+$ ./reset-and-bootstrap.sh (yago1 | dbpedia)
 ``` 
-
 
 Run the algorithms excluding the baselines:
 ```
 $ scripts/experiments/run-algorithm.sh $DATASET -skip-baselines
 ``` 
 
-Running a single algorithm. The following script will print the raw results of an algorithm on standard output:
-
+Run a single algorithm. The following script will print the raw results of an algorithm on standard output:
 ```
 $ scripts/experiments/run-algorithm.sh
 ``` 
 Check for the required command line parameters.
 
-Performing a two-tailed t-test on the experimental results of all the algorithms
 
+Performing a two-tailed t-test on the experimental results of all the algorithms
 ```
 $ scripts/experiments/ttest.sh
 ```
