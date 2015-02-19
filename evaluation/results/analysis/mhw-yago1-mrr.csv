@@ -1,0 +1,139 @@
+gold standard: ../evaluation/gold-standards/yago1-enhanced.qrels
+results: ../evaluation/results/yago1-results/mhw-contextualized-partial.qrels
+recip_rank: 0.8645
+14.0 improvable groups over 83.0 (recip_rank < 1.0)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252157 TYPE LABEL: wordnet-state-108654360 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.1643616278867247)
+	bornIn (0.16216040909312252)
+	livesIn (0.0644921858518612)
+	graduatedFrom (0.03179467804696416)
+	hasGivenName (0.01880080326157092)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252159 TYPE LABEL: wordnet-state-108654360 (12 elements)
+[Barcelona, Barinas, Barquisimeto, Ciudad Bolívar, Coro, Maracay, Puerto Ayacucho, San Carlos, San Fernando de Apure, San Juan De Los Morros] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (0.0037374171747276467)
+	hasFamilyName (1.4694889878806382E-4)
+	livesIn (1.159795214567453E-4)
+	bornIn (6.185701319065292E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252221 TYPE LABEL: wordnet-state-108654360 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.1643616278867247)
+	bornIn (0.16216040909312252)
+	livesIn (0.0644921858518612)
+	graduatedFrom (0.03179467804696416)
+	hasGivenName (0.01880080326157092)
+------------------------------------------
+recip_rank: 0.25
+ID: 1113646317 TYPE LABEL: wikicategory-American-science-fiction-writers (20 elements)
+[After the Fall, Being Human, Captain's Table: Once Burned, Dark Allies, Double Helix: Double or Nothing, End Game, Excalibur #1: Requiem, Excalibur #2: Renaissance, Excalibur #3: Restoration, Fire on High] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	created (0.11104970683951618)
+	produced (0.018299486544426792)
+	directed (0.014637576331338312)
+	wrote (0.009484868887433854)
+	actedIn (0.005097816907033512)
+------------------------------------------
+recip_rank: 0.5
+ID: 1158179821 TYPE LABEL: wikicategory-Indian-film-directors (27 elements)
+[1. Kabul Express 2. Ekantham, 1. Laado 2. Dollar Dreams, 1. Patal Ghar 2. Prohor, Aadhar Sila, Bhoothakkannadi, Daya, Ekti Jiban, Grahanam, Haldhaar, Jaane Bhi Do Yaaron] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+directed (1.0)	actedIn (0.0049390384651406775)
+	directed (0.00455537683444869)
+	created (6.861329794303886E-4)
+	hasWonPrize (4.615773202551656E-4)
+	produced (2.4958155520730344E-4)
+------------------------------------------
+recip_rank: 0.3333
+ID: 1162335269 TYPE LABEL: wikicategory-Maryland-state-parks (21 elements)
+[Allegany County, Anne Arundel , Baltimore Carroll , and Howard Counties, Anne Arundel County, Baltimore County, Baltimore County and Harford County, Calvert County, Caroline County, Cecil County, Charles County, Frederick County] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	bornIn (0.062134323214242476)
+	diedIn (0.061539780846454215)
+	locatedIn (0.04929768603684702)
+	livesIn (0.0045179331394329175)
+	graduatedFrom (1.2365835629745488E-4)
+------------------------------------------
+recip_rank: 0.0
+ID: 1277134564 TYPE LABEL: wordnet-educational-institution-108276342 (36 elements)
+[Albuquerque, New Mexico, Ann Arbor, Michigan, Austin, Texas, Berkeley, California, Bethesda, Maryland, Cambridge, Massachusetts, College Park, Maryland, College Station, TX, Columbia, Missouri, Columbus, Ohio] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	graduatedFrom (0.0024498414455618564)
+	diedIn (8.764244998354283E-4)
+	bornIn (6.641112134830991E-4)
+	worksAt (5.42542870340447E-4)
+	livesIn (9.34495022800256E-5)
+------------------------------------------
+recip_rank: 0.3333
+ID: 1422967944 TYPE LABEL: wikicategory-Maryland-state-parks (16 elements)
+[Allegany County, Anne Arundel County, Baltimore County, Caroline County, Cecil County, Charles County, Frederick County, Garrett County, Harford County, Howard , Carroll and Baltimore Counties] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	bornIn (0.07581923809194065)
+	diedIn (0.07349719691031548)
+	locatedIn (0.06284903603410015)
+	livesIn (0.00592178192073589)
+	graduatedFrom (2.1551782420067015E-4)
+------------------------------------------
+recip_rank: 0.3333
+ID: 1422967971 TYPE LABEL: wikicategory-Maryland-state-parks (12 elements)
+[Allegany County, Baltimore and Howard Counties, Caroline county, Cecil County, Charles County, Frederick County, Garrett County, Harford County, Queen Anne's County, Somerset County] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	diedIn (0.10055457064441455)
+	bornIn (0.08971009788536617)
+	locatedIn (0.06471011583972482)
+	livesIn (0.0023874870554535512)
+	happenedIn (2.6062212912014043E-4)
+------------------------------------------
+recip_rank: 0.5
+ID: 313326649 TYPE LABEL: wordnet-actor-109765278 (20 elements)
+[BLONDIE HITS THE JACKPOT, BOOM TOWN, CHAPLIN CAVALCADE, CHARLEY'S AUNT, Color LC with both stars, COMMENTS, DESPERATE, Film Noir; nice RKO Litho, Late 40's festival of Chaplin shorts, LC with Dagwood] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	livesIn (0.0185777676540403)
+	actedIn (0.013707084377221903)
+	created (0.004888461068786017)
+	directed (0.004443910818119148)
+	produced (0.0014765029306688653)
+------------------------------------------
+recip_rank: 0.0
+ID: 313326676 TYPE LABEL: wordnet-actor-109765278 (1 elements)
+[Kudiyiruntha Koyil] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	notFound (0.0)
+------------------------------------------
+recip_rank: 0.5
+ID: 36783413 TYPE LABEL: wordnet-country-108544813 (43 elements)
+[Abidjan, Alma-Atta, Almaty, Auckland, Belize City, Bergen, Bingerville, Bonn, Bursa, Calcutta] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (0.015403042743734259)
+	hasCapital (0.003729818604240792)
+	locatedIn (0.002364090824041834)
+	originatesFrom (0.0011213477262482076)
+	hasGivenName (2.0323647397547213E-4)
+------------------------------------------
+recip_rank: 0.0
+ID: 419289932 TYPE LABEL: wordnet-state-108168978 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.1643616278867247)
+	bornIn (0.16216040909312252)
+	livesIn (0.0644921858518612)
+	graduatedFrom (0.03179467804696416)
+	hasGivenName (0.01880080326157092)
+------------------------------------------
+recip_rank: 0.0
+ID: 456839985 TYPE LABEL: wordnet-educational-institution-108276342 (34 elements)
+[Albuquerque , NM, Ann Arbor , MI, Austin , TX, Bethesda , MD, Cambridge , MA, College Park , MD, College Station , TX, Columbia , MO, Columbus , OH, Corvallis , OR] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	diedIn (8.150987864185519E-4)
+	bornIn (6.37248119124006E-4)
+	livesIn (6.41264375631397E-5)
+	graduatedFrom (5.482968029940582E-5)
+	worksAt (2.2256086178818573E-5)
