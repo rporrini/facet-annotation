@@ -1,0 +1,99 @@
+gold standard: ../evaluation/gold-standards/yago1-simple.qrels
+results: ../evaluation/results/yago1-simple-results/mhw-contextualized-partial.qrels
+recip_rank: 0.8976
+10.0 improvable groups over 83.0 (recip_rank < 1.0)
+------------------------------------------
+recip_rank: 0.5
+ID: 1344144126 TYPE LABEL: actors (20 elements)
+[BLONDIE HITS THE JACKPOT, BOOM TOWN, CHAPLIN CAVALCADE, CHARLEY'S AUNT, Color LC with both stars, COMMENTS, DESPERATE, Film Noir; nice RKO Litho, Late 40's festival of Chaplin shorts, LC with Dagwood] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	livesIn (0.021080583809071417)
+	actedIn (0.0175997608142335)
+	created (0.005808863643717699)
+	directed (0.004970951833357866)
+	produced (0.001236610868960108)
+------------------------------------------
+recip_rank: 0.0
+ID: 1344144153 TYPE LABEL: actors (1 elements)
+[Kudiyiruntha Koyil] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	notFound (0.0)
+------------------------------------------
+recip_rank: 0.5
+ID: 1625650910 TYPE LABEL: country (43 elements)
+[Abidjan, Alma-Atta, Almaty, Auckland, Belize City, Bergen, Bingerville, Bonn, Bursa, Calcutta] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (0.02119799830521221)
+	hasCapital (0.005516326364901268)
+	locatedIn (0.0029256895621078954)
+	originatesFrom (0.0013529181730841022)
+	created (1.7908011656478546E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 2084338585 TYPE LABEL: state (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.18672581857795106)
+	bornIn (0.18236184618855633)
+	livesIn (0.07930419145188548)
+	graduatedFrom (0.037858508522789186)
+	hasMotto (0.023145494696539752)
+------------------------------------------
+recip_rank: 0.0
+ID: 2084338647 TYPE LABEL: state (12 elements)
+[Barcelona, Barinas, Barquisimeto, Ciudad Bolívar, Coro, Maracay, Puerto Ayacucho, San Carlos, San Fernando de Apure, San Juan De Los Morros] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (0.005419234001297759)
+	hasFamilyName (1.7721577741640153E-4)
+	livesIn (1.3807232981810625E-4)
+	bornIn (6.589460712733575E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 2084338649 TYPE LABEL: state (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.18672581857795106)
+	bornIn (0.18236184618855633)
+	livesIn (0.07930419145188548)
+	graduatedFrom (0.037858508522789186)
+	hasMotto (0.023145494696539752)
+------------------------------------------
+recip_rank: 0.0
+ID: 2084338651 TYPE LABEL: state (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	diedIn (0.18672581857795106)
+	bornIn (0.18236184618855633)
+	livesIn (0.07930419145188548)
+	graduatedFrom (0.037858508522789186)
+	hasMotto (0.023145494696539752)
+------------------------------------------
+recip_rank: 0.0
+ID: 2142623124 TYPE LABEL: institution (36 elements)
+[Albuquerque, New Mexico, Ann Arbor, Michigan, Austin, Texas, Berkeley, California, Bethesda, Maryland, Cambridge, Massachusetts, College Park, Maryland, College Station, TX, Columbia, Missouri, Columbus, Ohio] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	graduatedFrom (2.3190761065313738E-4)
+	worksAt (1.6608410608829442E-4)
+	bornIn (4.207774329885202E-5)
+	diedIn (2.087024262547265E-5)
+	livesIn (1.9968534860733668E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 485072553 TYPE LABEL: institution (34 elements)
+[Albuquerque , NM, Ann Arbor , MI, Austin , TX, Bethesda , MD, Cambridge , MA, College Park , MD, College Station , TX, Columbia , MO, Columbus , OH, Corvallis , OR] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	bornIn (2.3767729312227263E-5)
+	diedIn (2.343345854508161E-5)
+	worksAt (1.5760400848227283E-5)
+	graduatedFrom (1.1684685556708177E-5)
+	livesIn (5.777925297153722E-6)
+------------------------------------------
+recip_rank: 0.5
+ID: 762661635 TYPE LABEL: writers (20 elements)
+[After the Fall, Being Human, Captain's Table: Once Burned, Dark Allies, Double Helix: Double or Nothing, End Game, Excalibur #1: Requiem, Excalibur #2: Renaissance, Excalibur #3: Restoration, Fire on High] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	created (0.013425766768685593)
+	wrote (0.0033704977218224474)
+	directed (8.466045640903656E-4)
+	madeCoverFor (1.3754681435228174E-4)
+	actedIn (8.298292194418701E-5)
