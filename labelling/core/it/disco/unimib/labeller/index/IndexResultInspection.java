@@ -26,8 +26,8 @@ public class IndexResultInspection implements Index{
 		new Events().debug("domain: " + request.domain() + " - value: " + request.first());
 		for(CandidateResource property : candidates.asList()){
 			new Events().debug(property.id() + " - " + property.score());
-			new Events().debug(filter(property.subjectTypes()));
-			new Events().debug(filter(property.objectTypes()));
+			new Events().debug(property.subjectTypes());
+			new Events().debug(property.objectTypes());
 			new Events().debug("-------------");
 		}
 		return candidates;

@@ -11,7 +11,7 @@ public class RunAlgorithm {
 		CommandLineBenchmarkSimulation simulation = new CommandLineBenchmarkSimulation()
 					.onDBPedia()
 					.weightedFrequency()
-					.annotate(855073163);
+					.annotate(148489175);
 		
 		System.out.println(StringUtils.join(simulation.results(),"\n"));
 	}
