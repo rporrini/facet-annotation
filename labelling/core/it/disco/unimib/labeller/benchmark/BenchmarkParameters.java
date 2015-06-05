@@ -3,7 +3,9 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.FullyContextualizedValue;
+import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.IndexResultInspection;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
@@ -47,7 +49,7 @@ public class BenchmarkParameters{
 		IndexFields fields = new IndexFields(knowledgeBase);
 		
 		SelectionCriterion context = context(fields);
-		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
+		Index index = new IndexResultInspection(new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields));
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;
@@ -59,19 +61,19 @@ public class BenchmarkParameters{
 		return topK(algorithmToRun);
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, SelectionCriterion context) {
+	private AnnotationAlgorithm maximumLikelihood(Index index, SelectionCriterion context) {
 		return new PropertyMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+	private AnnotationAlgorithm pfd(TypeConsistency depth, Index index, SelectionCriterion context, IndexFields fields) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyContextSpecificity(index, fields));
 	}
 	
-	private AnnotationAlgorithm pfdEntropy(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+	private AnnotationAlgorithm pfdEntropy(TypeConsistency depth, Index index, SelectionCriterion context, IndexFields fields) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyTypesConditionalEntropy(index, fields));
 	}
 
-	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
+	private AnnotationAlgorithm majority(Index index, SelectionCriterion context) {
 		return new MajorityOverFrequencyOfProperties(index, context);
 	}
 
