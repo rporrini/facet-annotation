@@ -21,6 +21,6 @@ public class UnitTests {
 		File logDirectory = new File("logs");
 		FileUtils.deleteQuietly(logDirectory);
 		logDirectory.mkdir();
-		new Events();
+		Events.verbose();
 	}
 }

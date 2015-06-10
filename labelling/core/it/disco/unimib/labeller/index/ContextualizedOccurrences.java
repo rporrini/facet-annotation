@@ -1,8 +1,5 @@
 package it.disco.unimib.labeller.index;
 
-
-
-
 public class ContextualizedOccurrences{
 	
 	private String domain;

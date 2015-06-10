@@ -39,7 +39,7 @@ public class RunPropertyValuesIndexing {
 					try {
 						new Triples(new InputFile(file)).fill(properties, new AcceptAll());
 					} catch (Exception e) {
-						new Events().error("processing file: " + file, e);
+						Events.verbose().error("processing file: " + file, e);
 					}
 				}
 			});

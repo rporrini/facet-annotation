@@ -25,7 +25,7 @@ public class Triples {
 		int skippedLines = 0;
 		while(lines.hasNext()){
 			if(processedLines % 100000 == 0){
-				new Events().debug("processed " + processedLines + " lines of file " + connector.name() + " (" + skippedLines + " skipped)");
+				Events.verbose().debug("processed " + processedLines + " lines of file " + connector.name() + " (" + skippedLines + " skipped)");
 			}
 			processedLines++;
 			String line = lines.nextLine();
@@ -41,7 +41,7 @@ public class Triples {
 				if(filter.matches(triple)) index.add(triple);
 				else skippedLines++;
 			}catch(Exception e){
-				new Events().error("error processing " + connector.name(), e);
+				Events.verbose().error("error processing " + connector.name(), e);
 			}
 		}
 	}

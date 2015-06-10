@@ -28,7 +28,7 @@ public class Benchmark {
 			Future<BenchmarkResult> future = executor.submit(new Callable<BenchmarkResult>() {
 				@Override
 				public BenchmarkResult call() throws Exception {
-					new Events().debug("processing gold standard " + group.context() + " " + group.label());
+					Events.verbose().debug("processing gold standard " + group.context() + " " + group.label());
 					String[] elements = group.elements().toArray(new String[group.elements().size()]);
 					return new BenchmarkResult(group, algorithm.typeOf(new ContextualizedValues(group.context(), elements)));
 				}

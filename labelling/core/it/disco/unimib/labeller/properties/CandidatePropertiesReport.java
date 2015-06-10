@@ -35,6 +35,6 @@ public class CandidatePropertiesReport implements Properties{
 	}
 
 	private void log(String header) {
-		new Events().debug(">" + header);
+		Events.simple().debug(">" + header);
 	}
 }

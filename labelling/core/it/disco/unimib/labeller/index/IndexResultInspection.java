@@ -23,12 +23,12 @@ public class IndexResultInspection implements Index{
 	@Override
 	public CandidateResourceSet get(ContextualizedValues request, Constraint query) throws Exception {
 		CandidateResourceSet candidates = index.get(request, query);
-		new Events().debug("domain: " + request.domain() + " - value: " + request.first());
+		Events.simple().debug("domain: " + request.domain() + " - value: " + request.first());
 		for(CandidateResource property : candidates.asList()){
-			new Events().debug(property.id() + " - " + property.score());
-			new Events().debug(filter(property.subjectTypes()));
-			new Events().debug(filter(property.objectTypes()));
-			new Events().debug("-------------");
+			Events.simple().debug(property.id() + " - " + property.score());
+			Events.simple().debug(filter(property.subjectTypes()));
+			Events.simple().debug(filter(property.objectTypes()));
+			Events.simple().debug("-------------");
 		}
 		return candidates;
 	}
