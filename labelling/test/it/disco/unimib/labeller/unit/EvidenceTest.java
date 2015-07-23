@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
+import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
@@ -16,6 +17,7 @@ import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import java.util.Collection;
 
 import org.apache.lucene.store.RAMDirectory;
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class EvidenceTest {
@@ -23,6 +25,33 @@ public class EvidenceTest {
 	private final IndexFields yago = new IndexFields("yago1");
 	private final IndexFields dbpedia = new IndexFields("dbpedia");
 
+	@Test
+	@Ignore
+	public void shouldIndexLiteralTypesAsObjects() throws Exception {
+		
+		EntityValues labels = new EntityValues(new RAMDirectory()).closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
+																			.withSubject("http://entity")
+																			.withLiteral("http://type")
+																			.asTriple()).closeWriter();
+		
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, types, labels, dbpedia)
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withProperty("http://property")
+										.withTypedLiteral("12", "integer")
+										.asTriple())
+							.closeWriter();
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"12"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		
+		Collection<CandidateResource> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(result.iterator().next().objectTypes(), hasItem(new CandidateResource("integer")));
+	}
+	
 	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
 		RAMDirectory directory = new RAMDirectory();
@@ -41,11 +70,10 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		IndexFields fields = new IndexFields("dbpedia");
-		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
+		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia);
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"city"});
-		OnlyValue query = new OnlyValue(fields);
+		OnlyValue query = new OnlyValue(dbpedia);
 		
 		assertThat(search.get(request, query.asQuery(request))
 								.asList()

@@ -30,6 +30,11 @@ public class TripleBuilder{
 		return this;
 	}
 	
+	public TripleBuilder withTypedLiteral(String literal, String type) {
+		this.o = new Literal(literal, new Resource(type));
+		return this;
+	}
+	
 	public TripleBuilder withObject(String uri){
 		this.o = new Resource(uri);
 		return this;

@@ -40,6 +40,7 @@ public class Evidence implements WriteStore{
 			value += " " + label.id();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
+		
 		for(CandidateResource type : this.objectTypes.get(triple.object().uri())){
 			document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
 		}
