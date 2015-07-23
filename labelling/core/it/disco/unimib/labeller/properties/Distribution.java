@@ -81,7 +81,7 @@ public class Distribution{
 	private Map<String, Double> countDistributionOf(CandidateResource resource, Collection<CandidateResource> types) {
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
 		for(CandidateResource subject : types){
-			distribution.put(subject.id(), subject.score() / resource.totalOccurrences());
+			distribution.put(subject.id(), subject.score() /*/ resource.totalOccurrences()*/);
 		}
 		return distribution;
 	}

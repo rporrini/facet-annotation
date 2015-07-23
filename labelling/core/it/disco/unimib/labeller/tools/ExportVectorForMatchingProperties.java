@@ -22,7 +22,7 @@ public class ExportVectorForMatchingProperties {
 	public static void main(String[] args) throws Exception {
 		
 		String knowledgeBase = "dbpedia";
-		int id = 1058967988;
+		int id = 1668711967;
 		
 		BenchmarkParameters parameters = RunEvaluation.benchmarkParameters(new String[]{
 				"kb=" + knowledgeBase,
@@ -43,17 +43,30 @@ public class ExportVectorForMatchingProperties {
 		
 		Distribution distribution = new CandidateProperties(evidence).forValues(request, parameters.context(fields));
 		
+		HashMap<String, Double> typeOccurrences = new HashMap<String, Double>();
+		HashMap<String, Double> propertyOccurrences = new HashMap<String, Double>();
+		HashMap<String, HashMap<String, Double>> globalOccurrences = new HashMap<String, HashMap<String,Double>>();
 		for(String property : distribution.properties()){
-			HashMap<String, Double> subjectsDistribution = new HashMap<String, Double>();
+			HashMap<String, Double> akpOccurrencesDistribution = new HashMap<String, Double>();
+			propertyOccurrences.put(property, 0.0);
 			for(String value : distribution.values()){
+				propertyOccurrences.put(property, propertyOccurrences.get(property) + distribution.scoreOf(property, value));
 				Map<String, Double> subjects = distribution.subjectsOf(property, value);
 				for(String subject : subjects.keySet()){
 					if(subject.contains("/resource/Category:")) continue;
-					if(!subjectsDistribution.containsKey(subject)) subjectsDistribution.put(subject, 0.0);
-					subjectsDistribution.put(subject, subjectsDistribution.get(subject) + subjects.get(subject));
+					if(!typeOccurrences.containsKey(subject)) typeOccurrences.put(subject, 0.0);
+					typeOccurrences.put(subject, typeOccurrences.get(subject) + subjects.get(subject));
+					if(!akpOccurrencesDistribution.containsKey(subject)) akpOccurrencesDistribution.put(subject, 0.0);
+					akpOccurrencesDistribution.put(subject, akpOccurrencesDistribution.get(subject) + subjects.get(subject));
 				}
 			}
-			System.out.println(subjectsDistribution);
+			globalOccurrences.put(property, akpOccurrencesDistribution);
+		}
+		for(String property : new String[]{"http://dbpedia.org/property/agencyName", "http://dbpedia.org/property/party", "http://dbpedia.org/ontology/childOrganisation"}){
+			System.out.println(property);
+			for(String subject : globalOccurrences.get(property).keySet()){
+				System.out.println(subject + "|" + typeOccurrences.get(subject) + "|" + propertyOccurrences.get(property) + "|" + globalOccurrences.get(property).get(subject));
+			}
 		}
 	}
 }
