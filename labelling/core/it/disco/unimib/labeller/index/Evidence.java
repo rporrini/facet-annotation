@@ -32,28 +32,37 @@ public class Evidence implements WriteStore{
 	}
 	
 	public Evidence add(NTriple triple) throws Exception {
+		RDFResource object = triple.object();
+		RDFResource property = triple.property();
+		RDFResource subject = triple.subject();
+		
 		Document document = new Document();
 		
-		document.add(new Field(indexFields.property(), triple.property().uri(), TextField.TYPE_STORED));
-		String value = triple.object().uri().contains("http://") ? "" : triple.object().uri();
+		document.add(new Field(indexFields.property(), property.uri(), TextField.TYPE_STORED));
+		
+		String value = object.uri().contains("http://") ? "" : triple.object().uri();
 		for(CandidateResource label : this.objectLabels.get(triple.object().uri())){
 			value += " " + label.id();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
-		for(CandidateResource type : this.objectTypes.get(triple.object().uri())){
-			document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
+		if(!object.isLiteral()){
+			for(CandidateResource type : this.objectTypes.get(object.uri())){
+				document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
+			}
+		}else{
+			document.add(new Field(indexFields.objectType(), object.datatype().uri(), TextField.TYPE_STORED));
 		}
 		String context = "";
-		for(CandidateResource type : this.subjectTypes.get(triple.subject().uri())){
+		for(CandidateResource type : this.subjectTypes.get(subject.uri())){
 			for(CandidateResource label : this.subjectLabels.get(type.id())){
 				context += " " + label.id();
 			}
 			document.add(new Field(indexFields.subjectType(), type.id(), TextField.TYPE_STORED));
 		}
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
-		document.add(new Field(indexFields.namespace(), triple.property().namespace(), TextField.TYPE_STORED));
-		document.add(new Field(indexFields.label(), triple.property().label(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.namespace(), property.namespace(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.label(), property.label(), TextField.TYPE_STORED));
 		
 		openWriter().addDocument(document);
 		return this;

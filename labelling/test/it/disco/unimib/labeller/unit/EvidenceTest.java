@@ -1,7 +1,6 @@
 package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
-import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
@@ -17,7 +16,6 @@ import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import java.util.Collection;
 
 import org.apache.lucene.store.RAMDirectory;
-import org.junit.Ignore;
 import org.junit.Test;
 
 public class EvidenceTest {
@@ -26,7 +24,6 @@ public class EvidenceTest {
 	private final IndexFields dbpedia = new IndexFields("dbpedia");
 
 	@Test
-	@Ignore
 	public void shouldIndexLiteralTypesAsObjects() throws Exception {
 		
 		EntityValues labels = new EntityValues(new RAMDirectory()).closeWriter();
@@ -49,7 +46,7 @@ public class EvidenceTest {
 		
 		Collection<CandidateResource> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(result.iterator().next().objectTypes(), hasItem(new CandidateResource("integer")));
+		assertThat(result.iterator().next().objectTypes().iterator().next().id(), equalTo("integer"));
 	}
 	
 	@Test

@@ -11,7 +11,6 @@ import it.disco.unimib.labeller.index.Triples;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-
 public class TriplesTest {
 
 	@Test
