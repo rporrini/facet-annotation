@@ -4,6 +4,8 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
+import org.semanticweb.yars.nx.Resource;
+
 
 public class CandidateResource implements Comparable<CandidateResource>{
 
@@ -17,7 +19,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	public CandidateResource(String id) {
 		this.count = 0;
 		this.score = 0;
-		this.resource = new RDFResource(id);
+		this.resource = new RDFResource(new Resource(id));
 		this.subjectTypes = new HashMap<String, Double>();
 		this.objectTypes = new HashMap<String, Double>();
 	}

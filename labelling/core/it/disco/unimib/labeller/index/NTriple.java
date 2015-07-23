@@ -11,14 +11,14 @@ public class NTriple{
 	}
 	
 	public RDFResource subject(){
-		return new RDFResource(nodes[0].toString());
+		return new RDFResource(nodes[0]);
 	}
 	
 	public RDFResource property(){
-		return new RDFResource(nodes[1].toString());
+		return new RDFResource(nodes[1]);
 	}
 	
 	public RDFResource object(){
-		return new RDFResource(nodes[2].toString());
+		return new RDFResource(nodes[2]);
 	}
 }
