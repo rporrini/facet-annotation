@@ -91,7 +91,7 @@ public class BenchmarkParameters{
 		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
 	
-	private SelectionCriterion context(IndexFields fields) throws Exception{
+	public SelectionCriterion context(IndexFields fields) throws Exception{
 		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
 		
 		contexts.put("complete", new FullyContextualizedValue(fields));
@@ -100,14 +100,14 @@ public class BenchmarkParameters{
 		return contexts.get(contextString());
 	}
 	
-	private SimilarityMetric occurrences() throws Exception{
+	public SimilarityMetric occurrences() throws Exception{
 		HashMap<String, SimilarityMetric> occurrences = new HashMap<String, SimilarityMetric>();
 		occurrences.put("simple", new ConstantSimilarity());
 		occurrences.put("contextualized", new SimilarityMetricWrapper(new JaccardSimilarity()));
 		return occurrences.get(occurrencesString());
 	}
 	
-	private String indexPath(String knowledgeBase) {
+	public String indexPath(String knowledgeBase) {
 		HashMap<String, String> paths = new HashMap<String, String>();
 		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("dbpedia-ontology", "../evaluation/labeller-indexes/dbpedia-ontology/properties");
