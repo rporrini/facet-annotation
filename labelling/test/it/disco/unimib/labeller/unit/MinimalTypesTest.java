@@ -1,0 +1,50 @@
+package it.disco.unimib.labeller.unit;
+
+import static org.hamcrest.Matchers.emptyArray;
+import static org.hamcrest.Matchers.equalTo;
+import static org.junit.Assert.assertThat;
+import it.disco.unimib.labeller.index.MinimalTypes;
+import it.disco.unimib.labeller.index.RDFResource;
+import it.disco.unimib.labeller.index.Type;
+
+import org.junit.Test;
+import org.semanticweb.yars.nx.Resource;
+
+public class MinimalTypesTest {
+
+	@Test
+	public void anEmptyTypeSetShouldBeMinimal() {
+		
+		Type[] types = new MinimalTypes().from();
+		
+		assertThat(types, emptyArray());
+	}
+	
+	@Test
+	public void aLonelyTypeShouldBeMinimal() {
+		
+		Type type = asType("http://type");
+		
+		Type[] types = new MinimalTypes().from(type);
+		
+		assertThat(types[0].uri(), equalTo("http://type"));
+	}
+
+	@Test
+	public void aSuperTypeShouldBeExcludedFromTheMinimalTypeSet() throws Exception {
+		
+		Type subType = asType("http://agent");
+		Type superType = asType("http://thing");
+		
+		superType.addSubType(subType.addSuperType(superType));
+		
+		Type[] minimalTypes = new MinimalTypes().from(subType, superType);
+		
+		assertThat(minimalTypes.length, equalTo(1));
+		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
+	}
+	
+	private Type asType(String uri) {
+		return new Type(new RDFResource(new Resource(uri)));
+	}
+}
