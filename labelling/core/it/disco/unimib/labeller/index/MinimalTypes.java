@@ -8,28 +8,30 @@ public class MinimalTypes {
 	public Type[] from(Type... types) {
 		List<Type> minimalTypes = new ArrayList<Type>();
 		for(Type type : types){
-			boolean typeToAdd = true;
+			boolean typeIsAncestor = false;
 			for(Type minimalType : new ArrayList<Type>(minimalTypes)){
-				if(isAncestor(type, minimalType)){
-					typeToAdd = false;
+				typeIsAncestor = isAncestor(type, minimalType);
+				if(typeIsAncestor){
 					break;
 				}
 				if(isAncestor(minimalType, type)){
 					minimalTypes.remove(minimalType);
 				}
 			}
-			if(typeToAdd) minimalTypes.add(type);
+			if(!typeIsAncestor) minimalTypes.add(type);
 		}
 		return minimalTypes.toArray(new Type[minimalTypes.size()]);
 	}
 
 	private boolean isAncestor(Type type, Type minimalType) {
+		boolean ancestorWasFound = false;
 		for(Type superType : minimalType.superTypes()){
 			if(superType.equals(type)){
-				return true;
+				ancestorWasFound = true;
+				break;
 			}
-			return isAncestor(type, superType);
+			ancestorWasFound = ancestorWasFound || isAncestor(type, superType);
 		}
-		return false;
+		return ancestorWasFound;
 	}
 }

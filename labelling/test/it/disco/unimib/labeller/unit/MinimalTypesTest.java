@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.emptyArray;
 import static org.hamcrest.Matchers.equalTo;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.index.MinimalTypes;
 import it.disco.unimib.labeller.index.RDFResource;
 import it.disco.unimib.labeller.index.Type;
@@ -39,6 +39,36 @@ public class MinimalTypesTest {
 		superType.addSubType(subType.addSuperType(superType));
 		
 		Type[] minimalTypes = new MinimalTypes().from(subType, superType);
+		
+		assertThat(minimalTypes.length, equalTo(1));
+		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
+	}
+	
+	@Test
+	public void aSuperTypeShouldBeExcludedFromTheMinimalTypeSetInDifferentOrdering() throws Exception {
+		
+		Type subType = asType("http://agent");
+		Type superType = asType("http://thing");
+		
+		superType.addSubType(subType.addSuperType(superType));
+		
+		Type[] minimalTypes = new MinimalTypes().from(superType, subType);
+		
+		assertThat(minimalTypes.length, equalTo(1));
+		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
+	}
+	
+	@Test
+	public void multipleSyperTypes() throws Exception {
+		
+		Type subType = asType("http://agent");
+		Type superType = asType("http://thing");
+		Type otherSuperType = asType("http://anotherThing");
+		
+		superType.addSubType(subType.addSuperType(superType));
+		otherSuperType.addSubType(subType.addSuperType(otherSuperType));
+		
+		Type[] minimalTypes = new MinimalTypes().from(superType, subType, otherSuperType);
 		
 		assertThat(minimalTypes.length, equalTo(1));
 		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
