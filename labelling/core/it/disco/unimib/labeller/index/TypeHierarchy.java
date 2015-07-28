@@ -41,7 +41,7 @@ public class TypeHierarchy {
 		this.types.put("ROOT", root);
 	}
 	
-	public Type typeOf(String type){
+	public Type typeFrom(String type){
 		return types.get(type);
 	}
 	

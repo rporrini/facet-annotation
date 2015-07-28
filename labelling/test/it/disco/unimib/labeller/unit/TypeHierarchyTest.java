@@ -37,7 +37,7 @@ public class TypeHierarchyTest {
 											.withLine(new TripleBuilder()
 															.withObject("type")
 															.asNTriple());
-		Type type = new TypeHierarchy(input).typeOf("type");
+		Type type = new TypeHierarchy(input).typeFrom("type");
 		
 		assertThat(type.superTypes().get(0).toString(), equalTo("ROOT"));
 	}
@@ -73,7 +73,7 @@ public class TypeHierarchyTest {
 
 		TypeHierarchy hierarchy = new TypeHierarchy(input);
 		
-		Type root = hierarchy.typeOf("agent");
+		Type root = hierarchy.typeFrom("agent");
 		Type subType = root.subTypes().iterator().next();
 		Type subSubType = subType.subTypes().iterator().next();
 		
