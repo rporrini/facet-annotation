@@ -62,7 +62,7 @@ public class ExportVectorForMatchingProperties {
 			}
 			globalOccurrences.put(property, akpOccurrencesDistribution);
 		}
-		for(String property : new String[]{"http://dbpedia.org/property/agencyName", "http://dbpedia.org/property/party", "http://dbpedia.org/ontology/childOrganisation"}){
+		for(String property : new String[]{"http://dbpedia.org/ontology/party"}){
 			System.out.println(property);
 			for(String subject : globalOccurrences.get(property).keySet()){
 				System.out.println(subject + "|" + typeOccurrences.get(subject) + "|" + propertyOccurrences.get(property) + "|" + globalOccurrences.get(property).get(subject));
