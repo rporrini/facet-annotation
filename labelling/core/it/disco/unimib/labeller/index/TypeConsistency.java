@@ -1,8 +1,8 @@
 package it.disco.unimib.labeller.index;
 
-import java.util.Map;
+import it.disco.unimib.labeller.properties.TypeDistribution;
 
 public interface TypeConsistency {
 
-	public double consistencyOf(Map<String, Double> objects);
+	public double consistencyOf(TypeDistribution types);
 }

@@ -1,6 +1,7 @@
 package it.disco.unimib.labeller.properties;
 
 import java.util.HashMap;
+import java.util.Set;
 
 public class TypeDistribution {
 
@@ -47,5 +48,9 @@ public class TypeDistribution {
 		if (frequency == null)
 			frequency = 0.0;
 		return frequency;
+	}
+
+	public Set<String> all() {
+		return typeFrequencies.keySet();
 	}
 }

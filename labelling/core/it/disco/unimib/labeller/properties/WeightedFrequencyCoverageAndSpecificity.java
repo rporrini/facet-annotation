@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.TypeConsistency;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
@@ -40,9 +39,8 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				if(score > 0) covered++;
 				frequencyOverValues += score;
 			}
-			Map<String, Double> objects = distribution.objectsOf(property).getTypeFrequencies();
-
-			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
+			
+			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(distribution.objectsOf(property)) + 1.0);
 			
 			ContextualizedValues specificity = new ContextualizedValues(request.domain(), new String[]{property});
 			Set<String> subjectsOf = distribution.subjectsOf(property);
