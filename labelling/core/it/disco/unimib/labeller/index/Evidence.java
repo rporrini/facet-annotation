@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.lucene.document.Document;
@@ -76,7 +77,12 @@ public class Evidence implements WriteStore{
 	}
 
 	private void add(Document document, List<CandidateResource> types, String field) {
-		for(Type minimalType : new EntityTypes(hierarchy).minimize(types.toArray(new CandidateResource[types.size()]))){
+		List<CandidateResource> toMinimize = new ArrayList<CandidateResource>();
+		for(CandidateResource type : types){
+			if(!type.id().contains("/resource/Category:")) toMinimize.add(type);
+		}
+		
+		for(Type minimalType : new EntityTypes(hierarchy).minimize(toMinimize.toArray(new CandidateResource[toMinimize.size()]))){
 			document.add(new Field(field, minimalType.uri(), TextField.TYPE_STORED));
 		}
 	}
