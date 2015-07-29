@@ -5,7 +5,7 @@ import java.util.List;
 
 public class MinimalTypes {
 
-	public Type[] from(Type... types) {
+	public Type[] minimize(Type... types) {
 		List<Type> minimalTypes = new ArrayList<Type>();
 		for(Type type : types){
 			boolean typeIsAncestor = false;

@@ -15,7 +15,7 @@ public class MinimalTypesTest {
 	@Test
 	public void anEmptyTypeSetShouldBeMinimal() {
 		
-		Type[] types = new MinimalTypes().from();
+		Type[] types = new MinimalTypes().minimize();
 		
 		assertThat(types, emptyArray());
 	}
@@ -25,7 +25,7 @@ public class MinimalTypesTest {
 		
 		Type type = asType("http://type");
 		
-		Type[] types = new MinimalTypes().from(type);
+		Type[] types = new MinimalTypes().minimize(type);
 		
 		assertThat(types[0].uri(), equalTo("http://type"));
 	}
@@ -38,7 +38,7 @@ public class MinimalTypesTest {
 		
 		superType.addSubType(subType.addSuperType(superType));
 		
-		Type[] minimalTypes = new MinimalTypes().from(subType, superType);
+		Type[] minimalTypes = new MinimalTypes().minimize(subType, superType);
 		
 		assertThat(minimalTypes.length, equalTo(1));
 		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
@@ -52,7 +52,7 @@ public class MinimalTypesTest {
 		
 		superType.addSubType(subType.addSuperType(superType));
 		
-		Type[] minimalTypes = new MinimalTypes().from(superType, subType);
+		Type[] minimalTypes = new MinimalTypes().minimize(superType, subType);
 		
 		assertThat(minimalTypes.length, equalTo(1));
 		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
@@ -68,7 +68,7 @@ public class MinimalTypesTest {
 		superType.addSubType(subType.addSuperType(superType));
 		otherSuperType.addSubType(subType.addSuperType(otherSuperType));
 		
-		Type[] minimalTypes = new MinimalTypes().from(superType, subType, otherSuperType);
+		Type[] minimalTypes = new MinimalTypes().minimize(superType, subType, otherSuperType);
 		
 		assertThat(minimalTypes.length, equalTo(1));
 		assertThat(minimalTypes[0].uri(), equalTo("http://agent"));
