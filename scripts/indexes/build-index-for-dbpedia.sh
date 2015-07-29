@@ -13,5 +13,5 @@ cd $root
 mkdir -p ../../evaluation/labeller-indexes/dbpedia-ontology
 cp -R ../../evaluation/labeller-indexes/dbpedia/properties ../../evaluation/labeller-indexes/dbpedia-ontology
 
-./predicate-value-index.sh dbpedia-raw-properties dbpedia/properties dbpedia/types dbpedia/labels 2
+./predicate-value-index.sh dbpedia-raw-properties dbpedia/properties dbpedia/types dbpedia/labels 2 dbpedia-type-tree/type-tree.nt
 

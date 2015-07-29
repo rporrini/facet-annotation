@@ -19,7 +19,7 @@ public class Evidence implements WriteStore{
 	private Directory directory;
 	private IndexFields indexFields;
 
-	public Evidence(Directory directory, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
+	public Evidence(Directory directory, TypeHierarchy hierarchy, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
 		
 		this.subjectTypes = new CachedStore(types, 1000);
@@ -75,8 +75,7 @@ public class Evidence implements WriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer())
-					.setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer()).setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}

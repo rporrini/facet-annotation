@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.properties.PropertyTypesConditionalEntropy;
 
 import org.apache.lucene.store.RAMDirectory;
@@ -26,7 +27,7 @@ public class PropertyTypesConditionalEntropyTest {
 															.asTriple())
 		.closeWriter();
 		
-		new Evidence(directory, types, new EntityValues(directory).closeWriter(), fields).add(new TripleBuilder()
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, new EntityValues(directory).closeWriter(), fields).add(new TripleBuilder()
 														  .withSubject("CityOfParis")
 														  .withProperty("capitalOf")
 														  .asTriple())
@@ -54,7 +55,7 @@ public class PropertyTypesConditionalEntropyTest {
 		.closeWriter();
 		
 		RAMDirectory directory = new RAMDirectory();
-		new Evidence(directory, types, new EntityValues(new RAMDirectory()).closeWriter(), fields)
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, new EntityValues(new RAMDirectory()).closeWriter(), fields)
 															.add(new TripleBuilder()
 																.withSubject("CityOfParis")
 																.withProperty("capitalOf")

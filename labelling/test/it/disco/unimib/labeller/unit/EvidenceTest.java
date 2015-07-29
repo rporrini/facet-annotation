@@ -12,6 +12,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.util.Collection;
 
@@ -34,7 +35,7 @@ public class EvidenceTest {
 		
 		RAMDirectory directory = new RAMDirectory();
 		
-		new Evidence(directory, types, labels, dbpedia)
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -59,7 +60,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		new Evidence(directory, new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withProperty("http://hasCapital")
@@ -82,7 +83,7 @@ public class EvidenceTest {
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
 		RAMDirectory directory = new RAMDirectory();
-		new Evidence(directory, 
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								yago)
@@ -105,7 +106,7 @@ public class EvidenceTest {
 		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
 		RAMDirectory dbpediaDirectory = new RAMDirectory();
-		new Evidence(dbpediaDirectory, types, labels, dbpedia)
+		new Evidence(dbpediaDirectory, new TypeHierarchy(new InputFileTestDouble()), types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -126,7 +127,7 @@ public class EvidenceTest {
 		
 		assertThat(results.iterator().next().id(), equalTo("http://property"));
 		
-		new Evidence(new RAMDirectory(), types, labels, yago)
+		new Evidence(new RAMDirectory(), new TypeHierarchy(new InputFileTestDouble()), types, labels, yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -153,7 +154,7 @@ public class EvidenceTest {
 		
 		RAMDirectory directory = new RAMDirectory();
 		
-		new Evidence(directory, types, labels, new IndexFields("anyKnowledgeBase"))
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, labels, new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")

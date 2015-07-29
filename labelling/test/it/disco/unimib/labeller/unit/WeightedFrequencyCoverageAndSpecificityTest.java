@@ -15,6 +15,7 @@ import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
 import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.TypeConsistency;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 import it.disco.unimib.labeller.properties.Constant;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
@@ -185,9 +186,10 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 																				.asTriple())
 										.closeWriter();
 		new Evidence(directory, 
-									types,
-									labels,
-									new IndexFields("dbpedia"))
+					new TypeHierarchy(new InputFileTestDouble()),
+					types,
+					labels,
+					new IndexFields("dbpedia"))
 										.add(new TripleBuilder().withSubject("http://a_subject")
 																.withProperty("http://predicate")
 																.withLiteral("value").asTriple())

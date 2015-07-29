@@ -6,6 +6,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.Triples;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.unit.TemporaryDirectory;
 
 import java.io.File;
@@ -32,7 +33,8 @@ public class TripleIndexingPerformance extends AbstractBenchmark{
 		types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/types")));
 		labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/labels")));
 		
-		properties = new Evidence(new NIOFSDirectory(indexDirectory.get()), 
+		properties = new Evidence(new NIOFSDirectory(indexDirectory.get()),
+											new TypeHierarchy(new InputFile(new File("../evaluation/dbpedia-type-tree/type-tree.nt"))),
 											types, 
 											labels,
 											new IndexFields("dbpedia"));
