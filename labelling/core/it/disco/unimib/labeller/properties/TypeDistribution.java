@@ -17,4 +17,8 @@ public class TypeDistribution{
 	public int size() {
 		return typeFrequencies.size();
 	}
+	
+	public HashMap<String, Double> get(){
+		return typeFrequencies;
+	}
 }

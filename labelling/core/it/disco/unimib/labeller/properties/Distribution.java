@@ -3,10 +3,8 @@ package it.disco.unimib.labeller.properties;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
 
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 public class Distribution{
@@ -23,7 +21,7 @@ public class Distribution{
 		return getOrDefault(property, value).score();
 	}
 
-	public Map<String, Double> objectsOf(String property){
+	public TypeDistribution objectsOf(String property){
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
 		for(String value : valueDistribution.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
@@ -33,31 +31,24 @@ public class Distribution{
 				distribution.put(object.id(), distribution.get(object.id()) + delta);
 			}
 		}
-		return distribution;
-	}
-	
-	public Map<String, Double> objectsOf(String property, String value) {
-		CandidateResource resource = getOrDefault(property, value);
-		Collection<CandidateResource> types = resource.objectTypes();
-		
-		return countDistributionOf(resource, types);
+		TypeDistribution d = new TypeDistribution();
+		for(String type : distribution.keySet()){
+			d.track(new String[]{type, distribution.get(type).toString()});
+		}
+		return d;
 	}
 	
 	public Set<String> subjectsOf(String property) {
 		HashSet<String> result = new HashSet<String>();
 		for(String value : values()){
-			result.addAll(subjectsOf(property, value).keySet());
+			CandidateResource resource = getOrDefault(property, value);
+			for(CandidateResource subject : resource.subjectTypes()){
+				result.add(subject.id());
+			}
 		}
 		return result;
 	}
 	
-	public Map<String, Double> subjectsOf(String property, String value) {
-		CandidateResource resource = getOrDefault(property, value);
-		Collection<CandidateResource> types = resource.subjectTypes();
-		
-		return countDistributionOf(resource, types);
-	}
-
 	public double totalScoreOf(String value){
 		double result = 0;
 		for(String property : properties()){
@@ -78,19 +69,9 @@ public class Distribution{
 		return valueDistribution.get(value).get(new CandidateResource(property));
 	}
 	
-	private Map<String, Double> countDistributionOf(CandidateResource resource, Collection<CandidateResource> types) {
-		HashMap<String, Double> distribution = new HashMap<String, Double>();
-		for(CandidateResource subject : types){
-			distribution.put(subject.id(), subject.score() / resource.totalOccurrences());
-		}
-		return distribution;
-	}
-	
 	private HashSet<String> propertiesFrom(HashMap<String, CandidateResourceSet> valueDistribution) {
 		HashSet<String> hashSet = new HashSet<String>();
-		for(String value : valueDistribution.keySet())
-			for(CandidateResource resource : valueDistribution.get(value).asList())
-				hashSet.add(resource.id());
+		for(String value : valueDistribution.keySet()) for(CandidateResource resource : valueDistribution.get(value).asList()) hashSet.add(resource.id());
 		return hashSet;
 	}
 }

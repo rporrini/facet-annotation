@@ -40,7 +40,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				if(score > 0) covered++;
 				frequencyOverValues += score;
 			}
-			Map<String, Double> objects = distribution.objectsOf(property);
+			Map<String, Double> objects = distribution.objectsOf(property).get();
 
 			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
 			
