@@ -52,19 +52,15 @@ public class Evidence implements WriteStore{
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
 		if(!object.isLiteral()){
-			List<CandidateResource> objectTypes = this.objectTypes.get(object.uri());
-			for(Type minimalType : new EntityTypes(hierarchy).minimize(objectTypes.toArray(new CandidateResource[objectTypes.size()]))){
-				document.add(new Field(indexFields.objectType(), minimalType.uri(), TextField.TYPE_STORED));
-			}
+			add(document, this.objectTypes.get(object.uri()), indexFields.objectType());
 		}else{
 			document.add(new Field(indexFields.objectType(), object.datatype().uri(), TextField.TYPE_STORED));
 		}
 		
 		String context = "";
 		List<CandidateResource> subjectTypes = this.subjectTypes.get(subject.uri());
-		for(Type minimalType : new EntityTypes(hierarchy).minimize(subjectTypes.toArray(new CandidateResource[subjectTypes.size()]))){
-			document.add(new Field(indexFields.subjectType(), minimalType.uri(), TextField.TYPE_STORED));
-		}		
+		add(document, subjectTypes, indexFields.subjectType());
+		
 		for(CandidateResource type : subjectTypes){
 			for(CandidateResource label : this.subjectLabels.get(type.id())){
 				context += " " + label.id();
@@ -77,6 +73,12 @@ public class Evidence implements WriteStore{
 		
 		openWriter().addDocument(document);
 		return this;
+	}
+
+	private void add(Document document, List<CandidateResource> types, String field) {
+		for(Type minimalType : new EntityTypes(hierarchy).minimize(types.toArray(new CandidateResource[types.size()]))){
+			document.add(new Field(field, minimalType.uri(), TextField.TYPE_STORED));
+		}
 	}
 	
 	public Evidence closeWriter() throws Exception {
