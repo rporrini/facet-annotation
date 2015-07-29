@@ -52,8 +52,8 @@ public class Evidence implements WriteStore{
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
 		if(!object.isLiteral()){
-			List<CandidateResource> types = this.objectTypes.get(object.uri());
-			for(Type minimalType : new EntityTypes(hierarchy).minimize(types.toArray(new CandidateResource[types.size()]))){
+			List<CandidateResource> objectTypes = this.objectTypes.get(object.uri());
+			for(Type minimalType : new EntityTypes(hierarchy).minimize(objectTypes.toArray(new CandidateResource[objectTypes.size()]))){
 				document.add(new Field(indexFields.objectType(), minimalType.uri(), TextField.TYPE_STORED));
 			}
 		}else{
@@ -70,7 +70,6 @@ public class Evidence implements WriteStore{
 				context += " " + label.id();
 			}
 		}
-		
 		
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
 		document.add(new Field(indexFields.namespace(), property.namespace(), TextField.TYPE_STORED));
