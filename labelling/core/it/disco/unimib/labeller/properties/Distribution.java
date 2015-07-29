@@ -33,7 +33,7 @@ public class Distribution{
 		}
 		TypeDistribution d = new TypeDistribution();
 		for(String type : distribution.keySet()){
-			d.track(new String[]{type, distribution.get(type).toString()});
+			d.trackTypeOccurrence(new String[]{type, distribution.get(type).toString()});
 		}
 		return d;
 	}
