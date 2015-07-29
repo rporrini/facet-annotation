@@ -45,6 +45,22 @@ if [ ! -d "yago1-labels-english" ]; then
 	mkdir yago1-labels-english
 	grep -v @ yago1-labels/yago-labels.nt > yago1-labels-english/yago-labels-english.nt
 fi
+if [ ! -d "yago1-domains" ]; then
+	mkdir yago1-domains
+	cd yago1-domains
+	wget http://abstat.disco.unimib.it/downloads/yago1-domains.tar.gz
+	tar -zxvf yago1-domains.tar.gz --strip-components=1
+	rm -rf yago1-domains.tar.gz
+	cd ..
+fi
+if [ ! -d "yago1-ranges" ]; then
+	mkdir yago1-ranges
+	cd yago1-ranges
+	wget http://abstat.disco.unimib.it/downloads/yago1-ranges.tar.gz
+	tar -zxvf yago1-ranges.tar.gz --strip-components=1
+	rm -rf yago1-ranges.tar.gz
+	cd ..
+fi
 cd $root
 signal "Done"
 
