@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.List;
+
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -18,6 +20,7 @@ public class Evidence implements WriteStore{
 	private IndexWriter writer;
 	private Directory directory;
 	private IndexFields indexFields;
+	private TypeHierarchy hierarchy;
 
 	public Evidence(Directory directory, TypeHierarchy hierarchy, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
@@ -29,6 +32,8 @@ public class Evidence implements WriteStore{
 		this.objectLabels = new CachedStore(labels, 1000);
 		
 		this.indexFields = fields;
+		
+		this.hierarchy = hierarchy;
 	}
 	
 	public Evidence add(NTriple triple) throws Exception {
@@ -47,19 +52,26 @@ public class Evidence implements WriteStore{
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
 		if(!object.isLiteral()){
-			for(CandidateResource type : this.objectTypes.get(object.uri())){
-				document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
+			List<CandidateResource> types = this.objectTypes.get(object.uri());
+			for(Type minimalType : new EntityTypes(hierarchy).minimize(types.toArray(new CandidateResource[types.size()]))){
+				document.add(new Field(indexFields.objectType(), minimalType.uri(), TextField.TYPE_STORED));
 			}
 		}else{
 			document.add(new Field(indexFields.objectType(), object.datatype().uri(), TextField.TYPE_STORED));
 		}
+		
 		String context = "";
-		for(CandidateResource type : this.subjectTypes.get(subject.uri())){
+		List<CandidateResource> subjectTypes = this.subjectTypes.get(subject.uri());
+		for(Type minimalType : new EntityTypes(hierarchy).minimize(subjectTypes.toArray(new CandidateResource[subjectTypes.size()]))){
+			document.add(new Field(indexFields.subjectType(), minimalType.uri(), TextField.TYPE_STORED));
+		}		
+		for(CandidateResource type : subjectTypes){
 			for(CandidateResource label : this.subjectLabels.get(type.id())){
 				context += " " + label.id();
 			}
-			document.add(new Field(indexFields.subjectType(), type.id(), TextField.TYPE_STORED));
 		}
+		
+		
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
 		document.add(new Field(indexFields.namespace(), property.namespace(), TextField.TYPE_STORED));
 		document.add(new Field(indexFields.label(), property.label(), TextField.TYPE_STORED));

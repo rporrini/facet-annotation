@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
-import static org.junit.Assert.assertThat;
+import static org.junit.Assert.*;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
@@ -168,5 +168,62 @@ public class EvidenceTest {
 						.get(request, query.asQuery(request))
 						.asList(), 
 				   hasSize(1));
+	}
+	
+	@Test
+	public void shouldSaveOnlyMinimalTypesForSubjects() throws Exception {
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://person").asTriple())
+																  .add(new TripleBuilder().withSubject("http://thing").asTriple())
+																		.closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withObject("http://person").asTriple())
+																 .add(new TripleBuilder().withSubject("http://entity").withObject("http://thing").asTriple())
+																		 .closeWriter();
+		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble()
+																 .withLine(new TripleBuilder()
+																 			.withSubject("http://person").withObject("http://thing").asNTriple()));
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, hierarchy, types, labels, new IndexFields("anyKnowledgeBase"))
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withProperty("http://property")
+										.withLiteral("literal")
+										.asTriple())
+							.closeWriter();
+		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(results.iterator().next().subjectTypes(), hasSize(1));
+		assertThat(results.iterator().next().subjectTypes().iterator().next().id(), equalTo("http://person"));
+	}
+	
+	@Test
+	public void shouldSaveOnlyMinimalTypesForObjects() throws Exception {
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("entity").asTriple())
+																		.closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withObject("http://person").asTriple())
+																 .add(new TripleBuilder().withSubject("http://entity").withObject("http://thing").asTriple())
+																		 .closeWriter();
+		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble()
+																 .withLine(new TripleBuilder()
+																 			.withSubject("http://person").withObject("http://thing").asNTriple()));
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, hierarchy, types, labels, new IndexFields("anyKnowledgeBase"))
+							.add(new TripleBuilder()
+										.withSubject("http://other_entity")
+										.withProperty("http://property")
+										.withObject("http://entity")
+										.asTriple())
+							.closeWriter();
+		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"entity"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(results.iterator().next().objectTypes(), hasSize(1));
+		assertThat(results.iterator().next().objectTypes().iterator().next().id(), equalTo("http://person"));
 	}
 }
