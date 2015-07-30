@@ -22,6 +22,7 @@ public class TypeDistributions {
 				String[] splitted = StringUtils.split(line, "|");
 				
 				distribution.trackTypeOccurrence(splitted[0], splitted[1]);
+				distribution.trackPropertyOccurrenceForType(splitted[0], splitted[3]);
 			}
 			result.put(file.name(), distribution);
 		}
