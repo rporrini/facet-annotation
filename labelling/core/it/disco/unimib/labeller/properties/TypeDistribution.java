@@ -6,9 +6,11 @@ import java.util.Set;
 public class TypeDistribution {
 
 	private HashMap<String, Double[]> frequencies;
+	private double propertyFrequency;
 
 	public TypeDistribution() {
 		this.frequencies = new HashMap<String, Double[]>();
+		this.propertyFrequency = 0;
 	}
 
 	public void trackTypeOccurrence(String type, String occurrence) {
@@ -19,8 +21,8 @@ public class TypeDistribution {
 		trackAs(type, occurrence, propertyOccurrenceForType());
 	}
 	
-	public void trackPropertyOccurrence(String type, String occurrence) {
-		trackAs(type, occurrence, propertyOccurrence());
+	public void trackPropertyOccurrence(String occurrence) {
+		propertyFrequency = Double.parseDouble(occurrence);
 	}
 
 	public int size() {
@@ -43,8 +45,8 @@ public class TypeDistribution {
 		return get(type, propertyOccurrenceForType());
 	}
 	
-	public Double propertyOccurrence(String type) {
-		return get(type, propertyOccurrence());
+	public Double propertyOccurrence() {
+		return this.propertyFrequency;
 	}
 
 	public Set<String> all() {
@@ -55,16 +57,12 @@ public class TypeDistribution {
 		return 0;
 	}
 	
-	private int propertyOccurrence() {
+	private int propertyOccurrenceForType() {
 		return 1;
 	}
 	
-	private int propertyOccurrenceForType() {
-		return 2;
-	}
-	
 	private void trackAs(String type, String occurrence, int index) {
-		if (!frequencies.containsKey(type)) frequencies.put(type, new Double[]{0.0, 0.0, 0.0});
+		if (!frequencies.containsKey(type)) frequencies.put(type, new Double[]{0.0, 0.0});
 		frequencies.get(type)[index] += Double.parseDouble(occurrence);
 	}
 	

@@ -51,17 +51,17 @@ public class TypeDistributionsTest {
 													new InputFileTestDouble()
 															.withName("dbpedia.org_ontology_name")
 															.withLine("type|0|1|2")
-															.withLine("another_type|3|4|5")
+															.withLine("another_type|3|1|5")
 										);
 		
 		TypeDistribution distribution = distributions.of("http://dbpedia.org/ontology/name");
 		
+		assertThat(distribution.propertyOccurrence(), equalTo(1.0));
+		
 		assertThat(distribution.typeOccurrence("type"), equalTo(0.0));
-		assertThat(distribution.propertyOccurrence("type"), equalTo(1.0));
 		assertThat(distribution.propertyOccurrenceForType("type"), equalTo(2.0));
 		
 		assertThat(distribution.typeOccurrence("another_type"), equalTo(3.0));
-		assertThat(distribution.propertyOccurrence("another_type"), equalTo(4.0));
 		assertThat(distribution.propertyOccurrenceForType("another_type"), equalTo(5.0));
 	}
 }
