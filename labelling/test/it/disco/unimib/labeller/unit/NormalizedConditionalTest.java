@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.NormalizedConditional;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
@@ -18,13 +18,13 @@ public class NormalizedConditionalTest {
 
 	@Test
 	public void theProbabilitiesOfThePredicateShouldSumToOne() {
-		HashMap<String, CandidateResourceSet> distribution = new HashMap<String, CandidateResourceSet>();
+		HashMap<String, CandidateResources> distribution = new HashMap<String, CandidateResources>();
 		
-		CandidateResourceSet occurrenciesForParis = new CandidateResourceSet();
+		CandidateResources occurrenciesForParis = new CandidateResources();
 		occurrenciesForParis.get(new CandidateResource("capital")).sumScore(1);
 		distribution.put("paris", occurrenciesForParis);
 		
-		CandidateResourceSet occurrenciesForRome = new CandidateResourceSet();
+		CandidateResources occurrenciesForRome = new CandidateResources();
 		occurrenciesForRome.get(new CandidateResource("capital")).sumScore(1);
 		occurrenciesForRome.get(new CandidateResource("birthPlace")).sumScore(1);
 		distribution.put("rome", occurrenciesForRome);

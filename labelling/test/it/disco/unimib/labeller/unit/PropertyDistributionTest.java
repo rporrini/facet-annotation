@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.properties.PropertyDistribution;
 
 import java.util.HashMap;
@@ -15,15 +15,15 @@ public class PropertyDistributionTest {
 
 	@Test
 	public void shouldAggregateAllTheSubjects() throws Exception {
-		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
-		CandidateResourceSet first = new CandidateResourceSet();
+		HashMap<String, CandidateResources> results = new HashMap<String, CandidateResources>();
+		CandidateResources first = new CandidateResources();
 		first.get(new CandidateResource("party")
 			 .occurred()
 			 .addSubjectTypes("organization")
 			 .addSubjectTypes("thing"));
 		results.put("first", first);
 		
-		CandidateResourceSet second = new CandidateResourceSet();
+		CandidateResources second = new CandidateResources();
 		second.get(new CandidateResource("party")
 			  .occurred()
 			  .addSubjectTypes("entity"));

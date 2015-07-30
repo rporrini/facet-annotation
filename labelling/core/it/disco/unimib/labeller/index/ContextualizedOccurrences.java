@@ -3,11 +3,11 @@ package it.disco.unimib.labeller.index;
 public class ContextualizedOccurrences{
 	
 	private String domain;
-	private CandidateResourceSet scores;
+	private CandidateResources scores;
 	private SimilarityMetric metric;
 	
 	public ContextualizedOccurrences(SimilarityMetric metric, String facetDomain){
-		this.scores = new CandidateResourceSet();
+		this.scores = new CandidateResources();
 		this.metric = metric;
 		this.domain = facetDomain;
 	}
@@ -20,7 +20,7 @@ public class ContextualizedOccurrences{
 		candidateResource.addObjectTypes(objectTypes);
 	}
 	
-	public CandidateResourceSet asResults() {
+	public CandidateResources asResults() {
 		return scores;
 	}
 }

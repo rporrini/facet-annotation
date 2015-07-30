@@ -21,8 +21,8 @@ public class IndexResultInspection implements Index{
 	}
 
 	@Override
-	public CandidateResourceSet get(ContextualizedValues request, Constraint query) throws Exception {
-		CandidateResourceSet candidates = index.get(request, query);
+	public CandidateResources get(ContextualizedValues request, Constraint query) throws Exception {
+		CandidateResources candidates = index.get(request, query);
 		Events.simple().debug("domain: " + request.domain() + " - value: " + request.first());
 		for(CandidateResource property : candidates.asList()){
 			Events.simple().debug(property.id() + " - " + property.score());

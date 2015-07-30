@@ -3,16 +3,16 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 
 import org.junit.Test;
 
-public class CandidateResourceSetTest {
+public class CandidateResourcesTest {
 
 	@Test
 	public void shouldReturnAnEmptyResourceWhenAskedForANotExistingResource() throws Exception {
 		
-		CandidateResourceSet set = new CandidateResourceSet();
+		CandidateResources set = new CandidateResources();
 		
 		CandidateResource resource = set.get(new CandidateResource("predicate"));
 		
@@ -23,7 +23,7 @@ public class CandidateResourceSetTest {
 	@Test
 	public void shouldGetAPreviuslyAddedResource() throws Exception {
 		
-		CandidateResourceSet set = new CandidateResourceSet();
+		CandidateResources set = new CandidateResources();
 		
 		set.get(new CandidateResource("predicate")).sumScore(10);
 		
@@ -33,7 +33,7 @@ public class CandidateResourceSetTest {
 	@Test
 	public void shouldWorkWithPredicates() throws Exception {
 		
-		CandidateResourceSet set = new CandidateResourceSet();
+		CandidateResources set = new CandidateResources();
 		
 		set.get(new CandidateResource("http://dbpedia.org/ontology/predicate")).sumScore(10);
 				

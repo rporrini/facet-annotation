@@ -93,7 +93,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	}
 	
 	private Collection<CandidateResource> valuesOf(HashMap<String, Double> types) {
-		CandidateResourceSet results = new CandidateResourceSet();
+		CandidateResources results = new CandidateResources();
 		for(Entry<String, Double> entry : types.entrySet()){
 			results.get(new CandidateResource(entry.getKey()).sumScore(entry.getValue()));
 		}

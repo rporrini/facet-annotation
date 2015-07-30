@@ -30,7 +30,7 @@ public class ContextualizedEvidence implements Index{
 	}
 
 	@Override
-	public CandidateResourceSet get(ContextualizedValues request, Constraint query) throws Exception {
+	public CandidateResources get(ContextualizedValues request, Constraint query) throws Exception {
 		Stems stems = indexFields.toStems();
 		ContextualizedOccurrences occurrences = new ContextualizedOccurrences(this.occurrences, stems.of(request.domain()));
 		int howMany = 1000000;

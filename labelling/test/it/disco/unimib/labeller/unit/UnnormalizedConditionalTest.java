@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
 import it.disco.unimib.labeller.properties.UnnormalizedConditional;
@@ -17,8 +17,8 @@ public class UnnormalizedConditionalTest {
 
 	@Test
 	public void aPredicateThatThatAppearsMoreFrequentlyThanAnotherHasAGreaterConditionalProbility() {
-		HashMap<String, CandidateResourceSet> distribution = new HashMap<String, CandidateResourceSet>();
-		CandidateResourceSet results = new CandidateResourceSet();
+		HashMap<String, CandidateResources> distribution = new HashMap<String, CandidateResources>();
+		CandidateResources results = new CandidateResources();
 		results.get(new CandidateResource("capital")).sumScore(25);
 		results.get(new CandidateResource("city")).sumScore(10);
 		distribution.put("paris", results);

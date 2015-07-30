@@ -3,11 +3,11 @@ package it.disco.unimib.labeller.index;
 import java.util.Collection;
 import java.util.HashMap;
 
-public class CandidateResourceSet {
+public class CandidateResources {
 
 	HashMap<String, CandidateResource> resources;
 	
-	public CandidateResourceSet(){
+	public CandidateResources(){
 		resources = new HashMap<String, CandidateResource>();
 	}
 	

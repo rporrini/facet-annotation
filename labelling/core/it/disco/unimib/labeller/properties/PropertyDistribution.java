@@ -1,7 +1,7 @@
 package it.disco.unimib.labeller.properties;
 
 import it.disco.unimib.labeller.index.CandidateResource;
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -9,10 +9,10 @@ import java.util.Set;
 
 public class PropertyDistribution{
 	
-	private HashMap<String, CandidateResourceSet> candidatePropertiesForValues;
+	private HashMap<String, CandidateResources> candidatePropertiesForValues;
 	private HashSet<String> properties;
 	
-	public PropertyDistribution(HashMap<String, CandidateResourceSet> valueDistribution) {
+	public PropertyDistribution(HashMap<String, CandidateResources> valueDistribution) {
 		this.candidatePropertiesForValues = valueDistribution;
 		this.properties = propertiesFrom(valueDistribution);
 	}
@@ -69,7 +69,7 @@ public class PropertyDistribution{
 		return candidatePropertiesForValues.get(value).get(new CandidateResource(property));
 	}
 	
-	private HashSet<String> propertiesFrom(HashMap<String, CandidateResourceSet> valueDistribution) {
+	private HashSet<String> propertiesFrom(HashMap<String, CandidateResources> valueDistribution) {
 		HashSet<String> properties = new HashSet<String>();
 		for(String value : valueDistribution.keySet()) {
 			for(CandidateResource resource : valueDistribution.get(value).asList()) {
