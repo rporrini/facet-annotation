@@ -9,7 +9,6 @@ import it.disco.unimib.labeller.index.TypeConsistency;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Set;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
@@ -72,8 +71,8 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		return 1.0 + Math.log(this.consistency.consistencyOf(distribution.rangesOf(property)) + 1.0);
 	}
 
-	private double domainDiscriminacy(ContextualizedValues specificity, Set<String> subjectsOf) throws Exception {
-		specificity.setDomains(subjectsOf.toArray(new String[subjectsOf.size()]));
+	private double domainDiscriminacy(ContextualizedValues specificity, TypeDistribution subjectsOf) throws Exception {
+		specificity.setDomains(subjectsOf.all().toArray(new String[subjectsOf.size()]));
 		return Math.log(propertySpecificity.of(specificity) + 1.1);
 	}
 }

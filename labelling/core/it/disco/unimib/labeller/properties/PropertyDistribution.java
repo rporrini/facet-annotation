@@ -38,11 +38,11 @@ public class PropertyDistribution{
 		return d;
 	}
 	
-	public Set<String> domainsOf(String property) {
-		HashSet<String> result = new HashSet<String>();
+	public TypeDistribution domainsOf(String property) {
+		TypeDistribution result = new TypeDistribution();
 		for(String value : values()){
 			for(CandidateResource subject : getOrDefault(property, value).domains()){
-				result.add(subject.id());
+				result.trackTypeOccurrence(new String[]{subject.id(), subject.score() + ""});
 			}
 		}
 		return result;

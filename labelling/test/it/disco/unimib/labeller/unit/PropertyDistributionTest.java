@@ -1,13 +1,13 @@
 package it.disco.unimib.labeller.unit;
 
-import static org.hamcrest.Matchers.hasSize;
+import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.properties.PropertyDistribution;
+import it.disco.unimib.labeller.properties.TypeDistribution;
 
 import java.util.HashMap;
-import java.util.Set;
 
 import org.junit.Test;
 
@@ -29,8 +29,8 @@ public class PropertyDistributionTest {
 			  .addSubjectTypes("entity"));
 		results.put("second", second);
 		
-		Set<String> subjects = new PropertyDistribution(results).domainsOf("party");
+		TypeDistribution subjects = new PropertyDistribution(results).domainsOf("party");
 		
-		assertThat(subjects, hasSize(3));
+		assertThat(subjects.size(), equalTo(3));
 	}
 }
