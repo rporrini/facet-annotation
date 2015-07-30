@@ -9,11 +9,11 @@ import java.util.Set;
 
 public class PropertyDistribution{
 	
-	private HashMap<String, CandidateResourceSet> valueDistribution;
+	private HashMap<String, CandidateResourceSet> candidatePropertiesForValues;
 	private HashSet<String> properties;
 	
 	public PropertyDistribution(HashMap<String, CandidateResourceSet> valueDistribution) {
-		this.valueDistribution = valueDistribution;
+		this.candidatePropertiesForValues = valueDistribution;
 		this.properties = propertiesFrom(valueDistribution);
 	}
 
@@ -23,11 +23,11 @@ public class PropertyDistribution{
 
 	public TypeDistribution rangesOf(String property){
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
-		for(String value : valueDistribution.keySet()){
+		for(String value : candidatePropertiesForValues.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
 			for(CandidateResource object : resource.objectTypes()){
 				if(!distribution.containsKey(object.id())) distribution.put(object.id(), 0.0);
-				double delta = (object.score() / resource.totalOccurrences()) / (double)valueDistribution.size();
+				double delta = (object.score() / resource.totalOccurrences()) / (double)candidatePropertiesForValues.size();
 				distribution.put(object.id(), distribution.get(object.id()) + delta);
 			}
 		}
@@ -62,16 +62,20 @@ public class PropertyDistribution{
 	}
 	
 	public Set<String> values(){
-		return valueDistribution.keySet();
+		return candidatePropertiesForValues.keySet();
 	}
 	
 	private CandidateResource getOrDefault(String property, String value) {
-		return valueDistribution.get(value).get(new CandidateResource(property));
+		return candidatePropertiesForValues.get(value).get(new CandidateResource(property));
 	}
 	
 	private HashSet<String> propertiesFrom(HashMap<String, CandidateResourceSet> valueDistribution) {
-		HashSet<String> hashSet = new HashSet<String>();
-		for(String value : valueDistribution.keySet()) for(CandidateResource resource : valueDistribution.get(value).asList()) hashSet.add(resource.id());
-		return hashSet;
+		HashSet<String> properties = new HashSet<String>();
+		for(String value : valueDistribution.keySet()) {
+			for(CandidateResource resource : valueDistribution.get(value).asList()) {
+				properties.add(resource.id());
+			}
+		}
+		return properties;
 	}
 }
