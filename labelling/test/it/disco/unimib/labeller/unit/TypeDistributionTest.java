@@ -12,7 +12,7 @@ public class TypeDistributionTest {
 	public void shouldExposeTheOverallFrequencyOfType() {
 		TypeDistribution distribution = new TypeDistribution();
 		
-		distribution.trackTypeOccurrence(new String[]{"type", "1"});
+		distribution.trackTypeOccurrence("type", "1");
 		
 		assertThat(distribution.typeOccurrence("type"), equalTo(1.0));
 	}
@@ -28,8 +28,8 @@ public class TypeDistributionTest {
 	public void shouldAccumulateTheFrequencyOnMultipleTrackEvents() throws Exception {
 		TypeDistribution distribution = new TypeDistribution();
 		
-		distribution.trackTypeOccurrence(new String[]{"type", "1"});
-		distribution.trackTypeOccurrence(new String[]{"type", "1"});
+		distribution.trackTypeOccurrence("type", "1");
+		distribution.trackTypeOccurrence("type", "1");
 		
 		assertThat(distribution.typeOccurrence("type"), equalTo(2.0));
 		
@@ -39,7 +39,7 @@ public class TypeDistributionTest {
 	public void shouldExposeThePropertyOccurrence() throws Exception {
 		TypeDistribution distribution = new TypeDistribution();
 		
-		distribution.trackPropertyOccurrenceForType(new String[]{"type", "1"});
+		distribution.trackPropertyOccurrenceForType("type", "1");
 		
 		assertThat(distribution.propertyOccurrenceForType("type"), equalTo(1.0));
 	}

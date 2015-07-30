@@ -19,7 +19,9 @@ public class TypeDistributions {
 		for(InputFile file : files){
 			TypeDistribution distribution = new TypeDistribution();
 			for(String line : file.lines()){
-				distribution.trackTypeOccurrence(StringUtils.split(line, "|"));
+				String[] splitted = StringUtils.split(line, "|");
+				
+				distribution.trackTypeOccurrence(splitted[0], splitted[1]);
 			}
 			result.put(file.name(), distribution);
 		}

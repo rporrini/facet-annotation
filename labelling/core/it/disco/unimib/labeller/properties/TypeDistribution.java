@@ -13,18 +13,17 @@ public class TypeDistribution {
 		this.propertyFrequenciesForTypes = new HashMap<String, Double>();
 	}
 
-	public void trackTypeOccurrence(String[] splitted) {
-		trackIn(splitted, typeFrequencies);
+	public void trackTypeOccurrence(String type, String occurrence) {
+		trackIn(type, occurrence, typeFrequencies);
 	}
 	
-	public void trackPropertyOccurrenceForType(String[] splitted) {
-		trackIn(splitted, propertyFrequenciesForTypes);
+	public void trackPropertyOccurrenceForType(String type, String occurrence) {
+		trackIn(type, occurrence, propertyFrequenciesForTypes);
 	}
 
-	private void trackIn(String[] splitted, HashMap<String, Double> frequencies) {
-		String type = splitted[0];
+	private void trackIn(String type, String occurrence, HashMap<String, Double> frequencies) {
 		if (!frequencies.containsKey(type)) frequencies.put(type, 0.0);
-		frequencies.put(type, frequencies.get(type) + Double.parseDouble(splitted[1]));
+		frequencies.put(type, frequencies.get(type) + Double.parseDouble(occurrence));
 	}
 	
 	public int size() {
