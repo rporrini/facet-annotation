@@ -20,7 +20,7 @@ public class PropertyMaximumLikelihood implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
+	public List<CandidateResource> annotate(ContextualizedValues request) throws Exception {
 		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, query);
 		
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(distribution);

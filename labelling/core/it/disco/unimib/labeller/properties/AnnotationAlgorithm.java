@@ -7,5 +7,5 @@ import java.util.List;
 
 public interface AnnotationAlgorithm {
 
-	public List<CandidateResource> typeOf(ContextualizedValues annotation) throws Exception;
+	public List<CandidateResource> annotate(ContextualizedValues facet) throws Exception;
 }

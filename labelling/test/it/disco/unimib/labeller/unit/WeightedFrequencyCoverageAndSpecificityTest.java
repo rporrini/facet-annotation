@@ -38,7 +38,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new Constant());
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).id(), equalTo("other predicate"));
 	}
@@ -50,7 +50,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new Constant());
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(0.5142717790222688));
 	}
@@ -63,7 +63,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new Constant());
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), equalTo(results.get(1).score()));
 	}
@@ -76,7 +76,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -90,7 +90,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PropertyContextSpecificity(index, fields));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -104,7 +104,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new PropertyContextSpecificity(index, fields));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -118,7 +118,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new PartiallyContextualizedValue(fields), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -132,7 +132,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new FullyContextualizedValue(fields), new PropertyContextSpecificity(index, new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}
@@ -145,7 +145,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm algorithm = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(new IndexFields("dbpedia")), new Constant());
 		
-		List<CandidateResource> results = algorithm.typeOf(new ContextualizedValues("context", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = algorithm.annotate(new ContextualizedValues("context", new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).label(), equalTo("highCoveragePredicate"));
 	}
@@ -159,7 +159,7 @@ public class WeightedFrequencyCoverageAndSpecificityTest {
 		
 		AnnotationAlgorithm majorityHitWeighted = new WeightedFrequencyCoverageAndSpecificity(emptyTypes(), index, new OnlyValue(fields), new Constant());
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("context", new String[]{"value", "another_value"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("context", new String[]{"value", "another_value"}));
 		
 		assertThat(results.get(0).score(), greaterThan(results.get(1).score()));
 	}

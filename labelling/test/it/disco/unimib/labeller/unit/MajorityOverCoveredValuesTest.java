@@ -23,7 +23,7 @@ public class MajorityOverCoveredValuesTest {
 															0.6, 
 															new OnlyValue(new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityPredicate.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityPredicate.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
 		assertThat(results, hasSize(1));
 	}

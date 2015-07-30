@@ -23,7 +23,7 @@ public class MajorityOverFrequencyOfPropertiesTest{
 		
 		MajorityOverFrequencyOfProperties majorityHitWeighted = new MajorityOverFrequencyOfProperties(index, new OnlyValue(new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
 		assertThat(results.get(0).id(), equalTo("other predicate"));
 	}
@@ -35,7 +35,7 @@ public class MajorityOverFrequencyOfPropertiesTest{
 
 		MajorityOverFrequencyOfProperties majorityHitWeighted = new MajorityOverFrequencyOfProperties(index, new OnlyValue(new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(2.0));
 	}

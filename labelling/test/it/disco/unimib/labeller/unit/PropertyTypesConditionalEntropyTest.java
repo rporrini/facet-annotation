@@ -35,7 +35,7 @@ public class PropertyTypesConditionalEntropyTest {
 		
 		PropertyTypesConditionalEntropy entropy = new PropertyTypesConditionalEntropy(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
 		ContextualizedValues values = new ContextualizedValues("any", new String[]{"notExistingProperty"});
-		values.setDomainTypes("Settlement");
+		values.setDomains("Settlement");
 		
 		assertThat(entropy.of(values), equalTo(0.0));
 	}
@@ -68,7 +68,7 @@ public class PropertyTypesConditionalEntropyTest {
 		
 		PropertyTypesConditionalEntropy entropy = new PropertyTypesConditionalEntropy(new ContextualizedEvidence(directory, new ConstantSimilarity(), fields), fields);
 		ContextualizedValues values = new ContextualizedValues("any", new String[]{"capitalOf"});
-		values.setDomainTypes("Settlement", "Place");
+		values.setDomains("Settlement", "Place");
 		
 		assertThat(entropy.of(values), equalTo(1.0));
 	}

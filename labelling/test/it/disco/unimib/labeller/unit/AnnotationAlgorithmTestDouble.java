@@ -17,7 +17,7 @@ class AnnotationAlgorithmTestDouble implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(ContextualizedValues parameterObject) throws Exception {
+	public List<CandidateResource> annotate(ContextualizedValues parameterObject) throws Exception {
 		return results;
 	}
 }

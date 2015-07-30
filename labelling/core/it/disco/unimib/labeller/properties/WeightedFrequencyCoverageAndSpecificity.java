@@ -26,7 +26,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
+	public List<CandidateResource> annotate(ContextualizedValues request) throws Exception {
 		
 		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
@@ -40,29 +40,41 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				frequencyOverValues += score;
 			}
 			
-			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(distribution.rangesOf(property)) + 1.0);
-			
-			ContextualizedValues specificity = new ContextualizedValues(request.domain(), new String[]{property});
-			Set<String> subjectsOf = distribution.domainsOf(property);
-			specificity.setDomainTypes(subjectsOf.toArray(new String[subjectsOf.size()]));
-			double disc = Math.log(propertySpecificity.of(specificity) + 1.1);
-			
-			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
-			
-			double coverage = covered / (double)distribution.values().size();
+			double rangeDisc = rangeDiscriminancy(property, distribution);
+			double domainDisc = domainDiscriminacy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.domainsOf(property));
+			double smoothedWFreq = smoothedWeightedFrequency(frequencyOverValues, distribution);
+			double coverage = coverage(distribution, covered);
 			
 			CandidateResource resource = new CandidateResource(property);
 			
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);
-			resource.multiplyScore(disc);
-			resource.multiplyScore(objectDisc);
+			resource.multiplyScore(domainDisc);
+			resource.multiplyScore(rangeDisc);
 			
 			results.add(resource);
 		}
 		
 		Collections.sort(results);
 		return results;
+	}
+
+	private double coverage(PropertyDistribution distribution, double covered) {
+		return covered / (double)distribution.values().size();
+	}
+
+	private double smoothedWeightedFrequency(double frequencyOverValues, PropertyDistribution distribution) {
+		return Math.log(coverage(distribution, frequencyOverValues) + 1.000000001);
+	}
+
+	private double rangeDiscriminancy(String property,
+			PropertyDistribution distribution) {
+		return 1.0 + Math.log(this.consistency.consistencyOf(distribution.rangesOf(property)) + 1.0);
+	}
+
+	private double domainDiscriminacy(ContextualizedValues specificity, Set<String> subjectsOf) throws Exception {
+		specificity.setDomains(subjectsOf.toArray(new String[subjectsOf.size()]));
+		return Math.log(propertySpecificity.of(specificity) + 1.1);
 	}
 }
 

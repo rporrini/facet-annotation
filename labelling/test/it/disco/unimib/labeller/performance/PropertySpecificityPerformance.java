@@ -58,7 +58,7 @@ public class PropertySpecificityPerformance extends AbstractBenchmark {
 	}
 	
 	private void evaluateSpecificity(Specificity specificity, ContextualizedValues request) throws Exception {
-		request.setDomainTypes(types());
+		request.setDomains(types());
 		specificity.of(request);
 	}
 
