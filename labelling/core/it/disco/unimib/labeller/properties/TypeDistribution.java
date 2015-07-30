@@ -16,6 +16,10 @@ public class TypeDistribution {
 	}
 
 	public void trackPropertyOccurrenceForType(String type, String occurrence) {
+		trackAs(type, occurrence, propertyOccurrenceForType());
+	}
+	
+	public void trackPropertyOccurrence(String type, String occurrence) {
 		trackAs(type, occurrence, propertyOccurrence());
 	}
 
@@ -36,6 +40,10 @@ public class TypeDistribution {
 	}
 	
 	public Double propertyOccurrenceForType(String type) {
+		return get(type, propertyOccurrenceForType());
+	}
+	
+	public Double propertyOccurrence(String type) {
 		return get(type, propertyOccurrence());
 	}
 
@@ -51,8 +59,12 @@ public class TypeDistribution {
 		return 1;
 	}
 	
+	private int propertyOccurrenceForType() {
+		return 2;
+	}
+	
 	private void trackAs(String type, String occurrence, int index) {
-		if (!frequencies.containsKey(type)) frequencies.put(type, new Double[]{0.0, 0.0});
+		if (!frequencies.containsKey(type)) frequencies.put(type, new Double[]{0.0, 0.0, 0.0});
 		frequencies.get(type)[index] += Double.parseDouble(occurrence);
 	}
 	
