@@ -45,8 +45,7 @@ public class TypeDistribution {
 	
 	private Double getOrDefault(String type, HashMap<String, Double> frequencies) {
 		Double frequency = frequencies.get(type);
-		if (frequency == null)
-			frequency = 0.0;
+		if (frequency == null) frequency = 0.0;
 		return frequency;
 	}
 

@@ -25,7 +25,7 @@ public class PropertyDistribution{
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
 		for(String value : candidatePropertiesForValues.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
-			for(CandidateResource object : resource.objectTypes()){
+			for(CandidateResource object : resource.ranges()){
 				if(!distribution.containsKey(object.id())) distribution.put(object.id(), 0.0);
 				double delta = (object.score() / resource.totalOccurrences()) / (double)candidatePropertiesForValues.size();
 				distribution.put(object.id(), distribution.get(object.id()) + delta);
@@ -41,8 +41,7 @@ public class PropertyDistribution{
 	public Set<String> domainsOf(String property) {
 		HashSet<String> result = new HashSet<String>();
 		for(String value : values()){
-			CandidateResource resource = getOrDefault(property, value);
-			for(CandidateResource subject : resource.subjectTypes()){
+			for(CandidateResource subject : getOrDefault(property, value).domains()){
 				result.add(subject.id());
 			}
 		}

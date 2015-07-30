@@ -68,7 +68,7 @@ public class ContextualizedOccurrencesTest {
 		});
 		CandidateResource candidateResource = occurrences.asResults().asList().iterator().next();
 		
-		assertThat(candidateResource.subjectTypes(), hasSize(1));
-		assertThat(candidateResource.objectTypes(), hasSize(1));
+		assertThat(candidateResource.domains(), hasSize(1));
+		assertThat(candidateResource.ranges(), hasSize(1));
 	}
 }

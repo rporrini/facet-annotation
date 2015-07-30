@@ -47,7 +47,7 @@ public class EvidenceTest {
 		
 		Collection<CandidateResource> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(result.iterator().next().objectTypes().iterator().next().id(), equalTo("integer"));
+		assertThat(result.iterator().next().ranges().iterator().next().id(), equalTo("integer"));
 	}
 	
 	@Test
@@ -195,8 +195,8 @@ public class EvidenceTest {
 		OnlyValue query = new OnlyValue(dbpedia);
 		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(results.iterator().next().subjectTypes(), hasSize(1));
-		assertThat(results.iterator().next().subjectTypes().iterator().next().id(), equalTo("http://person"));
+		assertThat(results.iterator().next().domains(), hasSize(1));
+		assertThat(results.iterator().next().domains().iterator().next().id(), equalTo("http://person"));
 	}
 	
 	@Test
@@ -223,7 +223,7 @@ public class EvidenceTest {
 		OnlyValue query = new OnlyValue(dbpedia);
 		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(results.iterator().next().objectTypes(), hasSize(1));
-		assertThat(results.iterator().next().objectTypes().iterator().next().id(), equalTo("http://person"));
+		assertThat(results.iterator().next().ranges(), hasSize(1));
+		assertThat(results.iterator().next().ranges().iterator().next().id(), equalTo("http://person"));
 	}
 }

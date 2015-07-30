@@ -62,7 +62,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this;
 	}
 
-	public Collection<CandidateResource> subjectTypes() {
+	public Collection<CandidateResource> domains() {
 		return valuesOf(this.subjectTypes);
 	}
 
@@ -71,7 +71,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this;
 	}
 
-	public Collection<CandidateResource> objectTypes() {
+	public Collection<CandidateResource> ranges() {
 		return valuesOf(this.objectTypes);
 	}
 

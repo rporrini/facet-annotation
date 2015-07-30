@@ -84,7 +84,7 @@ public class CandidateResourceTest {
 		
 		property.addSubjectTypes("http://subject-type");
 		
-		assertThat(property.subjectTypes(), hasSize(1));
+		assertThat(property.domains(), hasSize(1));
 	}
 	
 	@Test
@@ -94,7 +94,7 @@ public class CandidateResourceTest {
 		property.addSubjectTypes("http://subject-type");
 		property.addSubjectTypes("http://subject-type");
 		
-		assertThat(property.subjectTypes().iterator().next().score() , equalTo(2.0));
+		assertThat(property.domains().iterator().next().score() , equalTo(2.0));
 	}
 	
 	@Test
@@ -103,7 +103,7 @@ public class CandidateResourceTest {
 		
 		property.addSubjectTypes("http://subject-type", "http://other-type");
 		
-		assertThat(property.subjectTypes() , hasSize(2));
+		assertThat(property.domains() , hasSize(2));
 	}
 	
 	@Test
@@ -112,7 +112,7 @@ public class CandidateResourceTest {
 		
 		property.addObjectTypes("http://object-type", "http://object-type");
 		
-		assertThat(property.objectTypes() , hasSize(1));
+		assertThat(property.ranges() , hasSize(1));
 	}
 	
 	@Test
