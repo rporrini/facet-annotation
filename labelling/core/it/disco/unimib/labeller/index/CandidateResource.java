@@ -6,7 +6,6 @@ import java.util.Map.Entry;
 
 import org.semanticweb.yars.nx.Resource;
 
-
 public class CandidateResource implements Comparable<CandidateResource>{
 
 	private double score;
