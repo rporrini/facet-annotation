@@ -27,7 +27,7 @@ public class PropertyDistribution{
 			CandidateResource resource = getOrDefault(property, value);
 			for(CandidateResource object : resource.ranges()){
 				double delta = (object.score() / resource.totalOccurrences()) / (double)candidatePropertiesForValues.size();
-				distribution.trackTypeOccurrence(object.uri(), delta + "");
+				distribution.trackPropertyOccurrenceForType(object.uri(), delta + "");
 			}
 		}
 		return distribution;
@@ -37,7 +37,7 @@ public class PropertyDistribution{
 		TypeDistribution distribution = new TypeDistribution();
 		for(String value : values()){
 			for(CandidateResource subject : getOrDefault(property, value).domains()){
-				distribution.trackTypeOccurrence(subject.uri(), subject.score() + "");
+				distribution.trackPropertyOccurrenceForType(subject.uri(), subject.score() + "");
 			}
 		}
 		return distribution;
