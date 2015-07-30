@@ -52,7 +52,7 @@ public class Questionnaire implements Summary {
 	
 	private void trackResults(List<CandidateResource> results) throws Exception {
 		for(CandidateResource result : results){
-			track(linkResult(result.id()) + "|" + result.label() + "| |" + linkResult(createSPARQLQuery(result.id()), "View on DBPedia"));
+			track(linkResult(result.uri()) + "|" + result.label() + "| |" + linkResult(createSPARQLQuery(result.uri()), "View on DBPedia"));
 		}
 	}
 

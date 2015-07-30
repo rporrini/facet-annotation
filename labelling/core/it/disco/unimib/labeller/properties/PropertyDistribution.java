@@ -22,30 +22,25 @@ public class PropertyDistribution{
 	}
 
 	public TypeDistribution rangesOf(String property){
-		HashMap<String, Double> distribution = new HashMap<String, Double>();
+		TypeDistribution distribution = new TypeDistribution();
 		for(String value : candidatePropertiesForValues.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
 			for(CandidateResource object : resource.ranges()){
-				if(!distribution.containsKey(object.id())) distribution.put(object.id(), 0.0);
 				double delta = (object.score() / resource.totalOccurrences()) / (double)candidatePropertiesForValues.size();
-				distribution.put(object.id(), distribution.get(object.id()) + delta);
+				distribution.trackTypeOccurrence(new String[]{object.uri(), delta + ""});
 			}
 		}
-		TypeDistribution d = new TypeDistribution();
-		for(String type : distribution.keySet()){
-			d.trackTypeOccurrence(new String[]{type, distribution.get(type).toString()});
-		}
-		return d;
+		return distribution;
 	}
 	
 	public TypeDistribution domainsOf(String property) {
-		TypeDistribution result = new TypeDistribution();
+		TypeDistribution distribution = new TypeDistribution();
 		for(String value : values()){
 			for(CandidateResource subject : getOrDefault(property, value).domains()){
-				result.trackTypeOccurrence(new String[]{subject.id(), subject.score() + ""});
+				distribution.trackTypeOccurrence(new String[]{subject.uri(), subject.score() + ""});
 			}
 		}
-		return result;
+		return distribution;
 	}
 	
 	public double totalScoreOf(String value){
@@ -72,7 +67,7 @@ public class PropertyDistribution{
 		HashSet<String> properties = new HashSet<String>();
 		for(String value : valueDistribution.keySet()) {
 			for(CandidateResource resource : valueDistribution.get(value).asList()) {
-				properties.add(resource.id());
+				properties.add(resource.uri());
 			}
 		}
 		return properties;

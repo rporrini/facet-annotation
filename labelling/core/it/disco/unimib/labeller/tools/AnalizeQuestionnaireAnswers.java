@@ -67,7 +67,7 @@ public class AnalizeQuestionnaireAnswers {
 				List<CandidateResource> propertiesToKeep = new ArrayList<CandidateResource>();
 				for(CandidateResource currentProperty : goldStandard.get(group)){
 					for(CandidateResource property : goldStandard.get(group)){
-						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.uri().equals(property.uri())){
 							propertiesToKeep.add(currentProperty);
 							break;
 						}
@@ -89,12 +89,12 @@ public class AnalizeQuestionnaireAnswers {
 				for(CandidateResource currentProperty : couples.get(group)){
 					totalProperties++;
 					for(CandidateResource property : couples.get(group)){
-						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.uri().equals(property.uri())){
 							if(similarScore(currentProperty.score(), property.score()))
 								similarProperties++;
 							else{
 								differentProperties++;
-								switch (checkContains(currentProperty.id())) {
+								switch (checkContains(currentProperty.uri())) {
 								case 1:
 									totalOntology++;
 									if(currentProperty.score() > property.score()) betterOntology++;

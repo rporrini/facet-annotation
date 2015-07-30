@@ -19,14 +19,14 @@ public class PropertyDistributionTest {
 		CandidateResources first = new CandidateResources();
 		first.get(new CandidateResource("party")
 			 .occurred()
-			 .addSubjectTypes("organization")
-			 .addSubjectTypes("thing"));
+			 .addDomains("organization")
+			 .addDomains("thing"));
 		results.put("first", first);
 		
 		CandidateResources second = new CandidateResources();
 		second.get(new CandidateResource("party")
 			  .occurred()
-			  .addSubjectTypes("entity"));
+			  .addDomains("entity"));
 		results.put("second", second);
 		
 		TypeDistribution subjects = new PropertyDistribution(results).domainsOf("party");

@@ -25,7 +25,7 @@ public class MajorityOverFrequencyOfPropertiesTest{
 		
 		List<CandidateResource> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
-		assertThat(results.get(0).id(), equalTo("other predicate"));
+		assertThat(results.get(0).uri(), equalTo("other predicate"));
 	}
 	
 	@Test

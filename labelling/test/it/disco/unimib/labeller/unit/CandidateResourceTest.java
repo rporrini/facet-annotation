@@ -82,7 +82,7 @@ public class CandidateResourceTest {
 		
 		CandidateResource property = new CandidateResource("any");
 		
-		property.addSubjectTypes("http://subject-type");
+		property.addDomains("http://subject-type");
 		
 		assertThat(property.domains(), hasSize(1));
 	}
@@ -91,8 +91,8 @@ public class CandidateResourceTest {
 	public void shouldCountOccurrencesOfSubjectTypes() throws Exception {
 		CandidateResource property = new CandidateResource("any");
 		
-		property.addSubjectTypes("http://subject-type");
-		property.addSubjectTypes("http://subject-type");
+		property.addDomains("http://subject-type");
+		property.addDomains("http://subject-type");
 		
 		assertThat(property.domains().iterator().next().score() , equalTo(2.0));
 	}
@@ -101,7 +101,7 @@ public class CandidateResourceTest {
 	public void shouldCollectManySubjectTypesAtTheTime() throws Exception {
 		CandidateResource property = new CandidateResource("any");
 		
-		property.addSubjectTypes("http://subject-type", "http://other-type");
+		property.addDomains("http://subject-type", "http://other-type");
 		
 		assertThat(property.domains() , hasSize(2));
 	}
@@ -110,7 +110,7 @@ public class CandidateResourceTest {
 	public void shouldCollectManyObjectTypesAtTheTime() throws Exception {
 		CandidateResource property = new CandidateResource("any");
 		
-		property.addObjectTypes("http://object-type", "http://object-type");
+		property.addRanges("http://object-type", "http://object-type");
 		
 		assertThat(property.ranges() , hasSize(1));
 	}

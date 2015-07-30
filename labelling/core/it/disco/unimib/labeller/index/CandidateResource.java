@@ -16,15 +16,15 @@ public class CandidateResource implements Comparable<CandidateResource>{
 	private HashMap<String, Double> subjectTypes;
 	private HashMap<String, Double> objectTypes;
 
-	public CandidateResource(String id) {
+	public CandidateResource(String uri) {
 		this.count = 0;
 		this.score = 0;
-		this.resource = new RDFResource(new Resource(id));
+		this.resource = new RDFResource(new Resource(uri));
 		this.subjectTypes = new HashMap<String, Double>();
 		this.objectTypes = new HashMap<String, Double>();
 	}
 
-	public String id() {
+	public String uri() {
 		return resource.uri();
 	}
 	
@@ -57,7 +57,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return this;
 	}
 	
-	public CandidateResource addSubjectTypes(String... types) {
+	public CandidateResource addDomains(String... types) {
 		addOrIncrementFrequencyCount(this.subjectTypes, types);
 		return this;
 	}
@@ -66,7 +66,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 		return valuesOf(this.subjectTypes);
 	}
 
-	public CandidateResource addObjectTypes(String... types) {
+	public CandidateResource addRanges(String... types) {
 		addOrIncrementFrequencyCount(this.objectTypes, types);
 		return this;
 	}
@@ -77,7 +77,7 @@ public class CandidateResource implements Comparable<CandidateResource>{
 
 	@Override
 	public String toString() {
-		return id() + " " + this.score;
+		return uri() + " " + this.score;
 	}
 
 	@Override

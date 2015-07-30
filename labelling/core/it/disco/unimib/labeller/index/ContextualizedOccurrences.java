@@ -16,8 +16,8 @@ public class ContextualizedOccurrences{
 		CandidateResource candidateResource = this.scores.get(new CandidateResource(property));
 		candidateResource.occurred();
 		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
-		candidateResource.addSubjectTypes(subjectTypes);
-		candidateResource.addObjectTypes(objectTypes);
+		candidateResource.addDomains(subjectTypes);
+		candidateResource.addRanges(objectTypes);
 	}
 	
 	public CandidateResources asResults() {

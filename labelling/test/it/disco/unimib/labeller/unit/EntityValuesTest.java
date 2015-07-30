@@ -22,7 +22,7 @@ public class EntityValuesTest {
 		
 		List<CandidateResource> labels = index.get("http://entity");
 		
-		assertThat(labels.get(0).id(), equalTo("the label"));
+		assertThat(labels.get(0).uri(), equalTo("the label"));
 	}
 	
 	@Test

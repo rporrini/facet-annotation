@@ -25,7 +25,7 @@ public class IndexResultInspection implements Index{
 		CandidateResources candidates = index.get(request, query);
 		Events.simple().debug("domain: " + request.domain() + " - value: " + request.first());
 		for(CandidateResource property : candidates.asList()){
-			Events.simple().debug(property.id() + " - " + property.score());
+			Events.simple().debug(property.uri() + " - " + property.score());
 			Events.simple().debug(filter(property.domains()));
 			Events.simple().debug(filter(property.ranges()));
 			Events.simple().debug("-------------");
@@ -36,7 +36,7 @@ public class IndexResultInspection implements Index{
 	private String filter(Collection<CandidateResource> subjectTypes) {
 		ArrayList<String> filtered = new ArrayList<String>();
 		for(CandidateResource type : subjectTypes){
-			if(!type.id().contains("/resource/Category:")) filtered.add(type.toString());
+			if(!type.uri().contains("/resource/Category:")) filtered.add(type.toString());
 		}
 		return StringUtils.join(filtered, ", ");
 	}

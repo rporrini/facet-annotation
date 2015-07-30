@@ -12,9 +12,9 @@ public class CandidateResources {
 	}
 	
 	public CandidateResource get(CandidateResource resource) {
-		String id = resource.id();
-		if(!resources.containsKey(id)) resources.put(resource.id(), resource);
-		return resources.get(resource.id());
+		String id = resource.uri();
+		if(!resources.containsKey(id)) resources.put(resource.uri(), resource);
+		return resources.get(resource.uri());
 	}
 
 	public Collection<CandidateResource> asList() {

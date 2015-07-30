@@ -48,7 +48,7 @@ public class Evidence implements WriteStore{
 		
 		String value = object.uri().contains("http://") ? "" : triple.object().uri();
 		for(CandidateResource label : this.objectLabels.get(triple.object().uri())){
-			value += " " + label.id();
+			value += " " + label.uri();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
 		
@@ -63,8 +63,8 @@ public class Evidence implements WriteStore{
 		add(document, subjectTypes, indexFields.subjectType());
 		
 		for(CandidateResource type : subjectTypes){
-			for(CandidateResource label : this.subjectLabels.get(type.id())){
-				context += " " + label.id();
+			for(CandidateResource label : this.subjectLabels.get(type.uri())){
+				context += " " + label.uri();
 			}
 		}
 		
@@ -79,7 +79,7 @@ public class Evidence implements WriteStore{
 	private void add(Document document, List<CandidateResource> types, String field) {
 		List<CandidateResource> toMinimize = new ArrayList<CandidateResource>();
 		for(CandidateResource type : types){
-			if(!type.id().contains("/resource/Category:")) toMinimize.add(type);
+			if(!type.uri().contains("/resource/Category:")) toMinimize.add(type);
 		}
 		
 		for(Type minimalType : new EntityTypes(hierarchy).minimize(toMinimize.toArray(new CandidateResource[toMinimize.size()]))){

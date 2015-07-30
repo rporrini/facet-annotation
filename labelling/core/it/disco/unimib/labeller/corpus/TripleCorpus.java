@@ -33,7 +33,7 @@ public class TripleCorpus implements WriteStore{
 		List<String> values = getLabels(triple.object().uri());
 		List<String> types = new ArrayList<String>();
 		for(CandidateResource type : this.types.get(triple.subject().uri())){
-			types.addAll(getLabels(type.id()));
+			types.addAll(getLabels(type.uri()));
 		}
 		for(String type : types){
 			for(String value : values){
@@ -50,7 +50,7 @@ public class TripleCorpus implements WriteStore{
 		}
 		else{
 			for(CandidateResource label : this.labels.get(uri)){
-				values.add(label.id());
+				values.add(label.uri());
 			}
 		}
 		List<String> result = new ArrayList<String>();
