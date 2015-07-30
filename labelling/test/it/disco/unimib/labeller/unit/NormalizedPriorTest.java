@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
 import it.disco.unimib.labeller.properties.UnnormalizedPrior;
 
@@ -27,7 +27,7 @@ public class NormalizedPriorTest {
 		occurrenciesForRome.get(new CandidateResource("birthPlace")).sumScore(1);
 		distribution.put("rome", occurrenciesForRome);
 		
-		NormalizedPrior prior = new NormalizedPrior(new Distribution(distribution), new UnnormalizedPrior(new Distribution(distribution)));
+		NormalizedPrior prior = new NormalizedPrior(new PropertyDistribution(distribution), new UnnormalizedPrior(new PropertyDistribution(distribution)));
 		
 		assertThat(prior.of("capital") + prior.of("birthPlace"), equalTo(1.0));
 	}

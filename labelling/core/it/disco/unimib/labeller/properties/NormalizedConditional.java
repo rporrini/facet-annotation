@@ -8,12 +8,12 @@ public class NormalizedConditional {
 	private Normalize normalizer;
 	private UnnormalizedConditional conditional;
 	
-	public NormalizedConditional(Distribution distribution, NormalizedPrior prior, UnnormalizedConditional unnormalizedConditional) {
+	public NormalizedConditional(PropertyDistribution distribution, NormalizedPrior prior, UnnormalizedConditional unnormalizedConditional) {
 		this.conditional = unnormalizedConditional;
 		this.normalizer = normalize(distribution);
 	}
 
-	private Normalize normalize(Distribution distribution) {
+	private Normalize normalize(PropertyDistribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
 		for(String property : distribution.properties()){
 			for(String value : distribution.values()){

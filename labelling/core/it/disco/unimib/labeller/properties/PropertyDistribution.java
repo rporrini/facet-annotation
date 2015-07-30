@@ -7,12 +7,12 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Distribution{
+public class PropertyDistribution{
 	
 	private HashMap<String, CandidateResourceSet> valueDistribution;
 	private HashSet<String> properties;
 	
-	public Distribution(HashMap<String, CandidateResourceSet> valueDistribution) {
+	public PropertyDistribution(HashMap<String, CandidateResourceSet> valueDistribution) {
 		this.valueDistribution = valueDistribution;
 		this.properties = propertiesFrom(valueDistribution);
 	}
@@ -21,7 +21,7 @@ public class Distribution{
 		return getOrDefault(property, value).score();
 	}
 
-	public TypeDistribution objectsOf(String property){
+	public TypeDistribution rangesOf(String property){
 		HashMap<String, Double> distribution = new HashMap<String, Double>();
 		for(String value : valueDistribution.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
@@ -38,7 +38,7 @@ public class Distribution{
 		return d;
 	}
 	
-	public Set<String> subjectsOf(String property) {
+	public Set<String> domainsOf(String property) {
 		HashSet<String> result = new HashSet<String>();
 		for(String value : values()){
 			CandidateResource resource = getOrDefault(property, value);

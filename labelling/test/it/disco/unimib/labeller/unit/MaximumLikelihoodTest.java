@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.MaximumLikelihood;
 import it.disco.unimib.labeller.properties.NormalizedConditional;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
@@ -30,7 +30,7 @@ public class MaximumLikelihoodTest {
 		occurrenciesForRome.get(new CandidateResource("birthPlace")).sumScore(1);
 		distribution.put("rome", occurrenciesForRome);
 		
-		Distribution d = new Distribution(distribution);
+		PropertyDistribution d = new PropertyDistribution(distribution);
 		UnnormalizedPrior unnormalizedPrior = new UnnormalizedPrior(d);
 		NormalizedPrior prior = new NormalizedPrior(d, unnormalizedPrior);
 		NormalizedConditional conditional = new NormalizedConditional(d, prior, new UnnormalizedConditional(d, prior));

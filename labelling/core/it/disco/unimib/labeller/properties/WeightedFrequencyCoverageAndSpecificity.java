@@ -28,7 +28,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		
-		Distribution distribution = new CandidateProperties(index).forValues(request, selection);
+		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
 		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
 		for(String property : distribution.properties()){
@@ -40,10 +40,10 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				frequencyOverValues += score;
 			}
 			
-			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(distribution.objectsOf(property)) + 1.0);
+			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(distribution.rangesOf(property)) + 1.0);
 			
 			ContextualizedValues specificity = new ContextualizedValues(request.domain(), new String[]{property});
-			Set<String> subjectsOf = distribution.subjectsOf(property);
+			Set<String> subjectsOf = distribution.domainsOf(property);
 			specificity.setDomainTypes(subjectsOf.toArray(new String[subjectsOf.size()]));
 			double disc = Math.log(propertySpecificity.of(specificity) + 1.1);
 			

@@ -4,14 +4,14 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 
 import java.util.HashMap;
 import java.util.Set;
 
 import org.junit.Test;
 
-public class DistributionTest {
+public class PropertyDistributionTest {
 
 	@Test
 	public void shouldAggregateAllTheSubjects() throws Exception {
@@ -29,7 +29,7 @@ public class DistributionTest {
 			  .addSubjectTypes("entity"));
 		results.put("second", second);
 		
-		Set<String> subjects = new Distribution(results).subjectsOf("party");
+		Set<String> subjects = new PropertyDistribution(results).domainsOf("party");
 		
 		assertThat(subjects, hasSize(3));
 	}

@@ -23,7 +23,7 @@ public class MajorityOverFrequencyOfProperties implements AnnotationAlgorithm{
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
 		
-		Distribution distribution = new CandidateProperties(index).forValues(request, selection);
+		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
 		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		

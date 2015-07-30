@@ -8,12 +8,12 @@ public class NormalizedMaximumLikelihood {
 	private MaximumLikelihood likelihood;
 	private Normalize normalize;
 
-	public NormalizedMaximumLikelihood(Distribution distribution, NormalizedConditional conditional, NormalizedPrior prior){
+	public NormalizedMaximumLikelihood(PropertyDistribution distribution, NormalizedConditional conditional, NormalizedPrior prior){
 		this.likelihood = new MaximumLikelihood(distribution, conditional, prior);
 		this.normalize = normalize(distribution);
 	}
 
-	private Normalize normalize(Distribution distribution) {
+	private Normalize normalize(PropertyDistribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
 		for(String property : distribution.properties()){
 			scores.add(likelihood.of(property));

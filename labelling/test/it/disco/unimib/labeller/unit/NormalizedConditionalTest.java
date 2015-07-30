@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.NormalizedConditional;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
 import it.disco.unimib.labeller.properties.UnnormalizedConditional;
@@ -29,7 +29,7 @@ public class NormalizedConditionalTest {
 		occurrenciesForRome.get(new CandidateResource("birthPlace")).sumScore(1);
 		distribution.put("rome", occurrenciesForRome);
 		
-		Distribution d = new Distribution(distribution);
+		PropertyDistribution d = new PropertyDistribution(distribution);
 		NormalizedPrior prior = new NormalizedPrior(d, new UnnormalizedPrior(d));
 		UnnormalizedConditional unnormalizedConditional = new UnnormalizedConditional(d, prior);
 		

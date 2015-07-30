@@ -2,11 +2,11 @@ package it.disco.unimib.labeller.properties;
 
 public class UnnormalizedConditional {
 
-	private Distribution distribution;
+	private PropertyDistribution distribution;
 	private NormalizedPrior prior;
 	private double kp;
 
-	public UnnormalizedConditional(Distribution distribution, NormalizedPrior prior) {
+	public UnnormalizedConditional(PropertyDistribution distribution, NormalizedPrior prior) {
 		this.distribution = distribution;
 		this.prior = prior;
 		this.kp = 0.01;

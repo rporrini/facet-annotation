@@ -4,7 +4,7 @@ import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.NormalizedPrior;
 import it.disco.unimib.labeller.properties.UnnormalizedConditional;
 import it.disco.unimib.labeller.properties.UnnormalizedPrior;
@@ -23,7 +23,7 @@ public class UnnormalizedConditionalTest {
 		results.get(new CandidateResource("city")).sumScore(10);
 		distribution.put("paris", results);
 		
-		Distribution d = new Distribution(distribution);
+		PropertyDistribution d = new PropertyDistribution(distribution);
 		
 		UnnormalizedConditional probability = new UnnormalizedConditional(d, new NormalizedPrior(d, new UnnormalizedPrior(d)));
 		

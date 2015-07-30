@@ -16,11 +16,11 @@ public class CandidateProperties implements Properties{
 	}
 
 	@Override
-	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
+	public PropertyDistribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
 		for(ContextualizedValues singleRequest: request.split()){
 			results.put(singleRequest.first(), index.get(singleRequest, query.asQuery(singleRequest)));
 		}
-		return new Distribution(results);
+		return new PropertyDistribution(results);
 	}
 }

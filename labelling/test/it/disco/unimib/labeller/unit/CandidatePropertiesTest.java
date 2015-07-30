@@ -6,7 +6,7 @@ import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.properties.CandidateProperties;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 
 import org.junit.Test;
 
@@ -18,7 +18,7 @@ public class CandidatePropertiesTest {
 								.resultFor("italy", "country", 10)
 								.resultFor("france", "country", 25);
 		
-		Distribution results = new CandidateProperties(index)
+		PropertyDistribution results = new CandidateProperties(index)
 									.forValues(new ContextualizedValues("any", new String[]{"italy", "france"}), 
 												new OnlyValue(new IndexFields("dbpedia")));
 		

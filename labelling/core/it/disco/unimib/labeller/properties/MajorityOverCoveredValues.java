@@ -24,7 +24,7 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	
 	@Override
 	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
-		Distribution values = new CandidateProperties(index).forValues(request, query);
+		PropertyDistribution values = new CandidateProperties(index).forValues(request, query);
 		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
 			for(String result : values.properties()){

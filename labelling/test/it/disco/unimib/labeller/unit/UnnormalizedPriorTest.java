@@ -5,7 +5,7 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.index.CandidateResource;
 import it.disco.unimib.labeller.index.CandidateResourceSet;
-import it.disco.unimib.labeller.properties.Distribution;
+import it.disco.unimib.labeller.properties.PropertyDistribution;
 import it.disco.unimib.labeller.properties.UnnormalizedPrior;
 
 import java.util.HashMap;
@@ -27,7 +27,7 @@ public class UnnormalizedPriorTest {
 		occurrenciesForRome.get(new CandidateResource("birthPlace")).sumScore(1);
 		distribution.put("rome", occurrenciesForRome);
 		
-		UnnormalizedPrior prior = new UnnormalizedPrior(new Distribution(distribution));
+		UnnormalizedPrior prior = new UnnormalizedPrior(new PropertyDistribution(distribution));
 		
 		assertThat(prior.of("capital"), is(greaterThan(prior.of("birthPlace"))));
 	}

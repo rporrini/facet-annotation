@@ -2,11 +2,11 @@ package it.disco.unimib.labeller.properties;
 
 public class MaximumLikelihood {
 
-	private Distribution distribution;
+	private PropertyDistribution distribution;
 	private NormalizedConditional conditional;
 	private NormalizedPrior prior;
 
-	public MaximumLikelihood(Distribution distribution, NormalizedConditional conditional, NormalizedPrior prior) {
+	public MaximumLikelihood(PropertyDistribution distribution, NormalizedConditional conditional, NormalizedPrior prior) {
 		this.distribution = distribution;
 		this.conditional = conditional;
 		this.prior = prior;

@@ -15,10 +15,10 @@ public class CandidatePropertiesReport implements Properties{
 	}
 	
 	@Override
-	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
+	public PropertyDistribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
 		log("processing " + request.domain() + " [" + StringUtils.join(request.all(), ", ") + "]");
 		
-		Distribution distribution = properties.forValues(request, query);
+		PropertyDistribution distribution = properties.forValues(request, query);
 		String header = "|";
 		for(String value : distribution.values()){
 			header += value + "|";
