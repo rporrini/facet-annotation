@@ -27,7 +27,7 @@ public class ScaledDepths implements TypeConsistency {
 	public double consistencyOf(TypeDistribution types) {
 		double tot=0;
 		for(String type : types.all()){
-			tot += (types.propertyOccurrenceForType(type) * of(type));
+			tot += ((types.propertyOccurrenceForType(type) / types.propertyOccurrence()) * of(type));
 		}
 		if(types.size() != 0) tot = tot / (double)types.size();
 		return tot;
