@@ -40,15 +40,15 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			}
 			
 			double rangeDisc = rangeDiscriminancy(property, distribution);
-			double domainDisc = domainDiscriminacy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.domainsOf(property));
+			double propertyDisc = propertyDiscriminancy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.domainsOf(property));
 			double smoothedWFreq = smoothedWeightedFrequency(frequencyOverValues, distribution);
-			double coverage = coverage(distribution, covered);
+			double coverage = coverage(covered, distribution);
 			
 			CandidateResource resource = new CandidateResource(property);
 			
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);
-			resource.multiplyScore(domainDisc);
+			resource.multiplyScore(propertyDisc);
 			resource.multiplyScore(rangeDisc);
 			
 			results.add(resource);
@@ -58,21 +58,21 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 		return results;
 	}
 
-	private double coverage(PropertyDistribution distribution, double covered) {
+	private double coverage(double covered, PropertyDistribution distribution) {
 		return covered / (double)distribution.values().size();
 	}
 
 	private double smoothedWeightedFrequency(double frequencyOverValues, PropertyDistribution distribution) {
-		return Math.log(coverage(distribution, frequencyOverValues) + 1.000000001);
+		return Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
 	}
 
 	private double rangeDiscriminancy(String property, PropertyDistribution distribution) {
 		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.rangesOf(property)) / (double)distribution.values().size()) + 1.0);
 	}
 
-	private double domainDiscriminacy(ContextualizedValues specificity, TypeDistribution subjectsOf) throws Exception {
-		specificity.setDomains(subjectsOf.all().toArray(new String[subjectsOf.size()]));
-		return Math.log(propertySpecificity.of(specificity) + 1.1);
+	private double propertyDiscriminancy(ContextualizedValues specificity, TypeDistribution subjects) throws Exception {
+		specificity.setDomains(subjects.all().toArray(new String[subjects.size()]));
+		return Math.log(this.propertySpecificity.of(specificity) + 1.1);
 	}
 }
 
