@@ -67,7 +67,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	private double rangeDiscriminancy(String property, PropertyDistribution distribution) {
-		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.rangesOf(property)) / distribution.values().size()) + 1.0);
+		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.rangesOf(property)) / (double)distribution.values().size()) + 1.0);
 	}
 
 	private double domainDiscriminacy(ContextualizedValues specificity, TypeDistribution subjectsOf) throws Exception {
