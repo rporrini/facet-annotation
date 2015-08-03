@@ -26,7 +26,7 @@ public class PropertyDistribution{
 		for(String value : candidatePropertiesForValues.keySet()){
 			CandidateResource resource = getOrDefault(property, value);
 			for(CandidateResource object : resource.ranges()){
-				double delta = (object.score() / resource.totalOccurrences()) / (double)candidatePropertiesForValues.size();
+				double delta = (object.score() / resource.totalOccurrences());
 				distribution.trackPropertyOccurrenceForType(object.uri(), delta + "");
 			}
 		}
