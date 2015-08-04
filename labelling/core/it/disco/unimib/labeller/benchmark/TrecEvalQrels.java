@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,7 +23,7 @@ public class TrecEvalQrels implements Summary {
 	}
 
 	@Override
-	public Summary track(GoldStandardFacet group, List<CandidateResource> results) throws Exception {
+	public Summary track(GoldStandardFacet group, List<CandidateProperty> results) throws Exception {
 		if(results.size() == 0) lines.add(group.id() + " Q0 notFound 1 0.0 " + name);
 		for(int i=0; i<results.size(); i++){
 			lines.add(group.id() + " Q0 " + results.get(i).uri() + " " + (i+1) + " " + results.get(i).score() + " " + name);

@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedOccurrences;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
@@ -36,7 +36,7 @@ public class ContextualizedOccurrencesTest {
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		occurrences.accumulate("predicate", "movie genre", new String[]{}, new String[]{});
 		
-		CandidateResource first = occurrences.asResults().asList().iterator().next();
+		CandidateProperty first = occurrences.asResults().asList().iterator().next();
 		assertThat(first.score(), equalTo(2.0));
 		assertThat(first.totalOccurrences(), equalTo(2.0));
 	}
@@ -66,9 +66,9 @@ public class ContextualizedOccurrencesTest {
 		}, new String[]{
 				"object-type"
 		});
-		CandidateResource candidateResource = occurrences.asResults().asList().iterator().next();
+		CandidateProperty candidateResource = occurrences.asResults().asList().iterator().next();
 		
-		assertThat(candidateResource.domains(), hasSize(1));
-		assertThat(candidateResource.ranges(), hasSize(1));
+		assertThat(candidateResource.domains().all(), hasSize(1));
+		assertThat(candidateResource.ranges().all(), hasSize(1));
 	}
 }

@@ -1,9 +1,9 @@
 package it.disco.unimib.labeller.index;
 
 import it.disco.unimib.labeller.benchmark.Events;
+import it.disco.unimib.labeller.properties.TypeDistribution;
 
 import java.util.ArrayList;
-import java.util.Collection;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -24,7 +24,7 @@ public class IndexResultInspection implements Index{
 	public CandidateResources get(ContextualizedValues request, Constraint query) throws Exception {
 		CandidateResources candidates = index.get(request, query);
 		Events.simple().debug("domain: " + request.domain() + " - value: " + request.first());
-		for(CandidateResource property : candidates.asList()){
+		for(CandidateProperty property : candidates.asList()){
 			Events.simple().debug(property.uri() + " - " + property.score());
 			Events.simple().debug(filter(property.domains()));
 			Events.simple().debug(filter(property.ranges()));
@@ -33,10 +33,10 @@ public class IndexResultInspection implements Index{
 		return candidates;
 	}
 
-	private String filter(Collection<CandidateResource> subjectTypes) {
+	private String filter(TypeDistribution subjectTypes) {
 		ArrayList<String> filtered = new ArrayList<String>();
-		for(CandidateResource type : subjectTypes){
-			if(!type.uri().contains("/resource/Category:")) filtered.add(type.toString());
+		for(String type : subjectTypes.all()){
+			if(!type.contains("/resource/Category:")) filtered.add(type);
 		}
 		return StringUtils.join(filtered, ", ");
 	}

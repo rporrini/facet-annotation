@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.unit;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.index.Constraint;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -26,7 +26,7 @@ public class IndexTestDouble implements Index{
 	
 	public IndexTestDouble resultFor(String value, String predicate, double score){
 		if(!results.containsKey(value)) results.put(value, new CandidateResources());
-		results.get(value).get(new CandidateResource(predicate)).sumScore(score);
+		results.get(value).get(new CandidateProperty(predicate)).sumScore(score);
 		return this;
 	}
 }

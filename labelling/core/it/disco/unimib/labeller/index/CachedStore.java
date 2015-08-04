@@ -8,12 +8,12 @@ import java.util.Map;
 public class CachedStore implements ReadAndWriteStore{
 
 	private ReadAndWriteStore store;
-	private Map<String, List<CandidateResource>> cache;
+	private Map<String, List<CandidateProperty>> cache;
 	private int maxSize;
 
 	public CachedStore(ReadAndWriteStore store, int maxSize) {
 		this.store = store;
-		this.cache = Collections.synchronizedMap(new LinkedHashMap<String, List<CandidateResource>>());
+		this.cache = Collections.synchronizedMap(new LinkedHashMap<String, List<CandidateProperty>>());
 		this.maxSize = maxSize;
 	}
 	
@@ -23,11 +23,11 @@ public class CachedStore implements ReadAndWriteStore{
 	}
 
 	@Override
-	public synchronized List<CandidateResource> get(String entity) throws Exception {
-		List<CandidateResource> cachedResults = cache.get(entity);
+	public synchronized List<CandidateProperty> get(String entity) throws Exception {
+		List<CandidateProperty> cachedResults = cache.get(entity);
 		if(cachedResults != null) return cachedResults;
 		
-		List<CandidateResource> results = store.get(entity);
+		List<CandidateProperty> results = store.get(entity);
 		if(cache.size() >= maxSize){
 			cache.remove(cache.keySet().iterator().next());
 		}

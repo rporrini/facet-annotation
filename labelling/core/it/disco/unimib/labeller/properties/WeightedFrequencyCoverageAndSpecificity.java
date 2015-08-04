@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
@@ -25,11 +25,11 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidateResource> annotate(ContextualizedValues request) throws Exception {
+	public List<CandidateProperty> annotate(ContextualizedValues request) throws Exception {
 		
 		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : distribution.properties()){
 			double frequencyOverValues = 0;
 			double covered = 0;
@@ -44,7 +44,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			double smoothedWFreq = smoothedWeightedFrequency(frequencyOverValues, distribution);
 			double coverage = coverage(covered, distribution);
 			
-			CandidateResource resource = new CandidateResource(property);
+			CandidateProperty resource = new CandidateProperty(property);
 			
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);

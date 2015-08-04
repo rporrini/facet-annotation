@@ -3,7 +3,7 @@ package it.disco.unimib.labeller.unit;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
 import static org.junit.Assert.*;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -45,9 +45,9 @@ public class EvidenceTest {
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"12"});
 		OnlyValue query = new OnlyValue(dbpedia);
 		
-		Collection<CandidateResource> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		Collection<CandidateProperty> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(result.iterator().next().ranges().iterator().next().uri(), equalTo("integer"));
+		assertThat(result.iterator().next().ranges().all().iterator().next(), equalTo("integer"));
 	}
 	
 	@Test
@@ -91,7 +91,7 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
 		OnlyValue query = new OnlyValue(yago);
-		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
+		CandidateProperty searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
 										.get(request, 
 											 query.asQuery(request))
 										.asList().iterator().next();
@@ -121,7 +121,7 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literal"});
 		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
-		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
+		Collection<CandidateProperty> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
 												.get(request, query.asQuery(request))
 												.asList();
 		
@@ -193,10 +193,10 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
 		OnlyValue query = new OnlyValue(dbpedia);
-		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		Collection<CandidateProperty> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(results.iterator().next().domains(), hasSize(1));
-		assertThat(results.iterator().next().domains().iterator().next().uri(), equalTo("http://person"));
+		assertThat(results.iterator().next().domains().all(), hasSize(1));
+		assertThat(results.iterator().next().domains().all().iterator().next(), equalTo("http://person"));
 	}
 	
 	@Test
@@ -221,9 +221,9 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"entity"});
 		OnlyValue query = new OnlyValue(dbpedia);
-		Collection<CandidateResource> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		Collection<CandidateProperty> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
 		
-		assertThat(results.iterator().next().ranges(), hasSize(1));
-		assertThat(results.iterator().next().ranges().iterator().next().uri(), equalTo("http://person"));
+		assertThat(results.iterator().next().ranges().all(), hasSize(1));
+		assertThat(results.iterator().next().ranges().all().iterator().next(), equalTo("http://person"));
 	}
 }

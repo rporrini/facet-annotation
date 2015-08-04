@@ -12,7 +12,7 @@ public class EntityTypes {
 		this.hierarchy = hierarchy;
 	}
 
-	public Type[] minimize(CandidateResource... types) {
+	public Type[] minimize(CandidateProperty... types) {
 		Type[] candidateTypes = new Type[types.length];
 		if(candidateTypes.length == 0) candidateTypes = asTypes(OWL.THING);
 		for(int i=0; i<types.length;i++){
@@ -24,7 +24,7 @@ public class EntityTypes {
 		return new MinimalTypes().minimize(candidateTypes);
 	}
 
-	public Type[] minimizeLiteral(CandidateResource datatype) {
+	public Type[] minimizeLiteral(CandidateProperty datatype) {
 		return asTypes(new Resource(datatype.uri()));
 	}
 	

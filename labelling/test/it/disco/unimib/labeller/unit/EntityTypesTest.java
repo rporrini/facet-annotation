@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.EntityTypes;
 import it.disco.unimib.labeller.index.Type;
 import it.disco.unimib.labeller.index.TypeHierarchy;
@@ -23,7 +23,7 @@ public class EntityTypesTest {
 																.withObject("agent")
 																.asNTriple()));
 		
-		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateResource("agent"));
+		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateProperty("agent"));
 		
 		assertThat(minimalTypes[0].uri(), equalTo("agent"));
 	}
@@ -33,7 +33,7 @@ public class EntityTypesTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble());
 
-		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateResource("agent"));
+		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateProperty("agent"));
 		
 		assertThat(minimalTypes[0].uri(), equalTo("agent"));
 	}
@@ -43,7 +43,7 @@ public class EntityTypesTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble());
 
-		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateResource("agent"), new CandidateResource("actor"));
+		Type[] minimalTypes = new EntityTypes(hierarchy).minimize(new CandidateProperty("agent"), new CandidateProperty("actor"));
 		
 		assertThat(minimalTypes.length, equalTo(2));
 	}
@@ -73,7 +73,7 @@ public class EntityTypesTest {
 		
 		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble());
 
-		Type[] minimalTypes = new EntityTypes(hierarchy).minimizeLiteral(new CandidateResource("integer"));
+		Type[] minimalTypes = new EntityTypes(hierarchy).minimizeLiteral(new CandidateProperty("integer"));
 		
 		assertThat(minimalTypes[0].uri(), equalTo("integer"));
 	}

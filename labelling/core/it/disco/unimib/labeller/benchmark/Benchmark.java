@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
 
@@ -49,9 +49,9 @@ public class Benchmark {
 class BenchmarkResult{
 	
 	public GoldStandardFacet facet;
-	public List<CandidateResource> results;
+	public List<CandidateProperty> results;
 
-	public BenchmarkResult(GoldStandardFacet facet, List<CandidateResource> results){
+	public BenchmarkResult(GoldStandardFacet facet, List<CandidateProperty> results){
 		this.facet = facet;
 		this.results = results;
 	}

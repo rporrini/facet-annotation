@@ -13,7 +13,7 @@ public class ContextualizedOccurrences{
 	}
 	
 	public void accumulate(String property, String context, String[] subjectTypes, String[] objectTypes){
-		CandidateResource candidateResource = this.scores.get(new CandidateResource(property));
+		CandidateProperty candidateResource = this.scores.get(new CandidateProperty(property));
 		candidateResource.occurred();
 		candidateResource.sumScore(this.metric.getSimilarity(this.domain, context));
 		candidateResource.addDomains(subjectTypes);

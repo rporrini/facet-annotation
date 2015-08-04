@@ -47,7 +47,7 @@ public class Evidence implements WriteStore{
 		document.add(new Field(indexFields.property(), property.uri(), TextField.TYPE_STORED));
 		
 		String value = object.uri().contains("http://") ? "" : triple.object().uri();
-		for(CandidateResource label : this.objectLabels.get(triple.object().uri())){
+		for(CandidateProperty label : this.objectLabels.get(triple.object().uri())){
 			value += " " + label.uri();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
@@ -59,11 +59,11 @@ public class Evidence implements WriteStore{
 		}
 		
 		String context = "";
-		List<CandidateResource> subjectTypes = this.subjectTypes.get(subject.uri());
+		List<CandidateProperty> subjectTypes = this.subjectTypes.get(subject.uri());
 		add(document, subjectTypes, indexFields.subjectType());
 		
-		for(CandidateResource type : subjectTypes){
-			for(CandidateResource label : this.subjectLabels.get(type.uri())){
+		for(CandidateProperty type : subjectTypes){
+			for(CandidateProperty label : this.subjectLabels.get(type.uri())){
 				context += " " + label.uri();
 			}
 		}
@@ -76,13 +76,13 @@ public class Evidence implements WriteStore{
 		return this;
 	}
 
-	private void add(Document document, List<CandidateResource> types, String field) {
-		List<CandidateResource> toMinimize = new ArrayList<CandidateResource>();
-		for(CandidateResource type : types){
+	private void add(Document document, List<CandidateProperty> types, String field) {
+		List<CandidateProperty> toMinimize = new ArrayList<CandidateProperty>();
+		for(CandidateProperty type : types){
 			if(!type.uri().contains("/resource/Category:")) toMinimize.add(type);
 		}
 		
-		for(Type minimalType : new EntityTypes(hierarchy).minimize(toMinimize.toArray(new CandidateResource[toMinimize.size()]))){
+		for(Type minimalType : new EntityTypes(hierarchy).minimize(toMinimize.toArray(new CandidateProperty[toMinimize.size()]))){
 			document.add(new Field(field, minimalType.uri(), TextField.TYPE_STORED));
 		}
 	}

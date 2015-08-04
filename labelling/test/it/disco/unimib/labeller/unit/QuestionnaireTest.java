@@ -8,7 +8,7 @@ import static org.junit.Assert.assertThat;
 import it.disco.unimib.labeller.benchmark.GoldStandardFacet;
 import it.disco.unimib.labeller.benchmark.Questionnaire;
 import it.disco.unimib.labeller.benchmark.Summary;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,13 +18,13 @@ import org.junit.Test;
 
 public class QuestionnaireTest {
 	
-	private List<CandidateResource> annotationResults;
+	private List<CandidateProperty> annotationResults;
 	private Summary metric;
 	
 	@Before
 	public void setUp(){
 		metric = new Questionnaire();
-		annotationResults = new ArrayList<CandidateResource>();
+		annotationResults = new ArrayList<CandidateProperty>();
 	}
 	
 	@Test
@@ -43,7 +43,7 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldTrackTheExecutionWithLabel() throws Exception {
-		annotationResults.add(new CandidateResource("anyPath/year"));
+		annotationResults.add(new CandidateProperty("anyPath/year"));
 		metric.track(createGroup("provider_context_label", 1), annotationResults);
 		
 		assertThat(metric.result(), containsString("|year|"));
@@ -80,8 +80,8 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldTrackPropertyHyperlink() throws Exception {
-		annotationResults.add(new CandidateResource("year"));
-		annotationResults.add(new CandidateResource("date"));
+		annotationResults.add(new CandidateProperty("year"));
+		annotationResults.add(new CandidateProperty("date"));
 		
 		metric.track(createGroup("amazon_context_label_url", 0), annotationResults);
 		
@@ -93,49 +93,49 @@ public class QuestionnaireTest {
 	
 	@Test
 	public void shouldPrintTheGroupId() throws Exception {
-		metric.track(createGroup("provider_context_label_url", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("provider_context_label_url", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("873353146"));
 	}
 
 	@Test
 	public void shouldPrintTheIMDBUrl() throws Exception {
-		metric.track(createGroup("IMDB_movies_genre_genre", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("IMDB_movies_genre_genre", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://www.imdb.com/genre\""));
 	}
 	
 	@Test
 	public void shouldPrintTheWikipediaUrl() throws Exception {
-		metric.track(createGroup("wikipedia_airports_city served_List_of_airports_in_Italy", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("wikipedia_airports_city served_List_of_airports_in_Italy", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://en.wikipedia.org/wiki/List_of_airports_in_Italy\""));
 	}
 	
 	@Test
 	public void shouldPrintThePriceGrabberUrl() throws Exception {
-		metric.track(createGroup("pricegrabber_tablets and readers_manufacturer", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("pricegrabber_tablets and readers_manufacturer", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://www.pricegrabber.com/electronics/tablets-e-readers/p-5908/\""));
 	}
 	
 	@Test
 	public void shouldPrintTheDiscogsUrl() throws Exception {
-		metric.track(createGroup("discogs_music albums_genre", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("discogs_music albums_genre", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://www.discogs.com/\""));
 	}
 	
 	@Test
 	public void shouldPrintTheAmazonUrl() throws Exception {
-		metric.track(createGroup("amazon_wines_country_ref=lp_2983386011_sa_p_n_style_browse-bin?rh=n%3A16310101%2Cn%3A!16310211%2Cn%3A2983386011&bbn=2983386011&pickerToList=style_browse-bin&ie=UTF8&qid=1398240361", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("amazon_wines_country_ref=lp_2983386011_sa_p_n_style_browse-bin?rh=n%3A16310101%2Cn%3A!16310211%2Cn%3A2983386011&bbn=2983386011&pickerToList=style_browse-bin&ie=UTF8&qid=1398240361", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://www.amazon.com/gp/search/other/ref=lp_2983386011_sa_p_n_style_browse-bin?rh=n%3A16310101%2Cn%3A!16310211%2Cn%3A2983386011&bbn=2983386011&pickerToList=style_browse-bin&ie=UTF8&qid=1398240361\""));
 	}
 	
 	@Test
 	public void shouldPrintTheAllStarNBAUrl() throws Exception {
-		metric.track(createGroup("allstartnba_basketball players_draft year_players-by-draft-pick.htm", 0), new ArrayList<CandidateResource>());
+		metric.track(createGroup("allstartnba_basketball players_draft year_players-by-draft-pick.htm", 0), new ArrayList<CandidateProperty>());
 		
 		assertThat(metric.result(), containsString("http://www.allstarnba.es/players/players-by-draft-pick.htm\""));
 	}

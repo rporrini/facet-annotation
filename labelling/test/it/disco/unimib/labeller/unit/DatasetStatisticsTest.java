@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.properties.DatasetStatistics;
 
@@ -16,7 +16,7 @@ public class DatasetStatisticsTest {
 	public void shouldComputeTheTotalOccurrenceOfAType() {
 		
 		CandidateResources firstResources = new CandidateResources();
-		firstResources.get(new CandidateResource("property")).addDomains("type").addRanges("type");
+		firstResources.get(new CandidateProperty("property")).addDomains("type").addRanges("type");
 		
 		HashMap<String, CandidateResources> results = new HashMap<String, CandidateResources>();
 		results.put("any value", firstResources);

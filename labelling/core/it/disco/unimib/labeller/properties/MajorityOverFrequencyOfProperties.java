@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
@@ -21,7 +21,7 @@ public class MajorityOverFrequencyOfProperties implements AnnotationAlgorithm{
 	}
 
 	@Override
-	public List<CandidateResource> annotate(ContextualizedValues request) throws Exception {
+	public List<CandidateProperty> annotate(ContextualizedValues request) throws Exception {
 		
 		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
@@ -36,10 +36,10 @@ public class MajorityOverFrequencyOfProperties implements AnnotationAlgorithm{
 			}
 		}
 		
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : propertyCounts.keySet()){
 			Double wfreq = propertyCounts.get(property);
-			CandidateResource e = new CandidateResource(property);
+			CandidateProperty e = new CandidateProperty(property);
 			e.sumScore(wfreq);
 			results.add(e);
 		}

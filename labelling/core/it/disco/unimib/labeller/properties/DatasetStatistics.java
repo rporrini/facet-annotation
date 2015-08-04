@@ -1,9 +1,8 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.CandidateResources;
 
-import java.util.Collection;
 import java.util.HashMap;
 import java.util.Set;
 
@@ -33,16 +32,16 @@ public class DatasetStatistics{
 		TypeDistribution distribution = new TypeDistribution();
 		double occurrencesOfTheProperty = 0.0;
 		for(String value : values()){
-			CandidateResource property = getOrDefault(propertyUri, value);
-			Collection<CandidateResource> types = null;
+			CandidateProperty property = getOrDefault(propertyUri, value);
+			TypeDistribution types = null;
 			if(domains) {
 				types = property.domains();
 			}else{
 				types = property.ranges();
 			}
-			for(CandidateResource range : types){
+			for(String range : types.all()){
 				occurrencesOfTheProperty += (double)property.totalOccurrences();
-				distribution.trackPropertyOccurrenceForType(range.uri(), range.score() + "");
+				distribution.trackPropertyOccurrenceForType(range, types.typeOccurrence(range) + "");
 			}
 		}
 		distribution.trackPropertyOccurrence(occurrencesOfTheProperty + "");
@@ -55,19 +54,21 @@ public class DatasetStatistics{
 	private TypeDistribution extractOverallTypeDistribution(HashMap<String, CandidateResources> results) {
 		TypeDistribution distribution = new TypeDistribution();
 		for(String value : results.keySet()){
-			for(CandidateResource property : results.get(value).asList()){
-				for(CandidateResource domain : property.domains()){
-					distribution.trackTypeOccurrence(domain.uri(), domain.score() + "");
+			for(CandidateProperty property : results.get(value).asList()){
+				TypeDistribution domains = property.domains();
+				for(String domain : domains.all()){
+					distribution.trackTypeOccurrence(domain, domains.typeOccurrence(domain) + "");
 				}
-				for(CandidateResource range : property.ranges()){
-					distribution.trackTypeOccurrence(range.uri(), range.score() + "");
+				TypeDistribution ranges = property.domains();
+				for(String range : ranges.all()){
+					distribution.trackTypeOccurrence(range, ranges.typeOccurrence(range) + "");
 				}
 			}
 		}
 		return distribution;
 	}
 	
-	private CandidateResource getOrDefault(String property, String value) {
-		return propertiesForValues.get(value).get(new CandidateResource(property));
+	private CandidateProperty getOrDefault(String property, String value) {
+		return propertiesForValues.get(value).get(new CandidateProperty(property));
 	}
 }

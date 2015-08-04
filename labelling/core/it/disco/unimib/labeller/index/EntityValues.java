@@ -33,14 +33,14 @@ public class EntityValues implements ReadAndWriteStore{
 		this.fieldsToLoad = new HashSet<String>(Arrays.asList(new String[]{value()}));
 	}
 	
-	public List<CandidateResource> get(String entity) throws Exception {
+	public List<CandidateProperty> get(String entity) throws Exception {
 		Query query = new Constraint().matchExactly(entity, id()).build();
 		IndexSearcher searcher = openSearcher();
 		
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(ScoreDoc score : searcher.search(query, 500, Sort.INDEXORDER).scoreDocs){
 			Document document = openSearcher().doc(score.doc, fieldsToLoad);
-			results.add(new CandidateResource(document.get(value())));
+			results.add(new CandidateProperty(document.get(value())));
 		}
 		return results;
 	}
