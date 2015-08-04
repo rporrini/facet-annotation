@@ -6,11 +6,11 @@ import java.util.HashMap;
 
 import org.apache.commons.lang3.StringUtils;
 
-public class TypeDistributions {
+public class DatasetSummary {
 
 	HashMap<String, TypeDistribution> distributions;
 	
-	public TypeDistributions(InputFile... files) throws Exception {
+	public DatasetSummary(InputFile... files) throws Exception {
 		this.distributions = extractDistributionsFrom(files);
 	}
 
