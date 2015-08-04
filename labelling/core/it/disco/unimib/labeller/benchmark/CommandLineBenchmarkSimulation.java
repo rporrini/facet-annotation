@@ -74,11 +74,11 @@ public class CommandLineBenchmarkSimulation{
 	}
 	
 	public CommandLineBenchmarkSimulation assertThatResults(Matcher<? super List<String>> matcher){
-		assertThat(resutltsAsStrings(), matcher);
+		assertThat(resultsAsStrings().toString(), resultsAsStrings(), matcher);
 		return this;
 	}
 	
-	private List<String> resutltsAsStrings(){
+	private List<String> resultsAsStrings(){
 		List<String> strings = new ArrayList<String>();
 		for(TrecResultProperty property : this.results){
 			strings.add(property.score());
