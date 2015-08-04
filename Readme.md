@@ -35,7 +35,7 @@ $ scripts/indexes/scaled-depths-for-dbpedia.sh
 $ scripts/indexes/build-index-for-yago1.sh
 $ scripts/indexes/scaled-depths-for-yago1.sh
 ```
-Estimated execution time: about __3__ hours for YAGO and about __9__ hours for DBPEDIA
+Estimated execution time: about __1__ hours for YAGO and about __6__ hours for DBPEDIA
 
 Once the indexes are created you can run all the experiments:
 
@@ -61,7 +61,7 @@ We provide two gold standards to evaluate the algorithm against the DBPedia and 
 
 ## Convenience scripts
 
-Reset the repository, compile the code, test, download the knowledge bases, build the indices and run the experimental campaign (10 hours for dbpedia, 4 hours for yago1):
+Reset the repository, compile the code, test, download the knowledge bases, build the indices and run the experimental campaign (8 hours for dbpedia, 4 hours for yago1):
 ```
 $ ./reset-and-bootstrap.sh (yago1 | dbpedia)
 ``` 
