@@ -29,7 +29,7 @@ public class PropertyDistributionTest {
 			  .addDomains("entity"));
 		results.put("second", second);
 		
-		TypeDistribution subjects = new PropertyDistribution(results).domainsOf("party");
+		TypeDistribution subjects = new PropertyDistribution(results).asStatistics().domainsOf("party");
 		
 		assertThat(subjects.size(), equalTo(3));
 	}

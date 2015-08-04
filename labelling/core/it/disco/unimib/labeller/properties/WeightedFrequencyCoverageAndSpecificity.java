@@ -40,7 +40,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 			}
 			
 			double rangeDisc = rangeDiscriminancy(property, distribution);
-			double propertyDisc = propertyDiscriminancy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.domainsOf(property));
+			double propertyDisc = propertyDiscriminancy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.asStatistics().domainsOf(property));
 			double smoothedWFreq = smoothedWeightedFrequency(frequencyOverValues, distribution);
 			double coverage = coverage(covered, distribution);
 			
@@ -67,7 +67,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	private double rangeDiscriminancy(String property, PropertyDistribution distribution) {
-		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.rangesOf(property)) / (double)distribution.values().size()) + 1.0);
+		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.asStatistics().rangesOf(property)) / (double)distribution.values().size()) + 1.0);
 	}
 
 	private double propertyDiscriminancy(ContextualizedValues specificity, TypeDistribution subjects) throws Exception {

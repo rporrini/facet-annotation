@@ -21,32 +21,8 @@ public class PropertyDistribution{
 		return getOrDefault(property, value).score();
 	}
 
-	public TypeDistribution rangesOf(String propertyUri){
-		TypeDistribution distribution = new TypeDistribution();
-		double totalOccurrence = 0.0;
-		for(String value : values()){
-			CandidateResource property = getOrDefault(propertyUri, value);
-			for(CandidateResource range : property.ranges()){
-				totalOccurrence += (double)property.totalOccurrences();
-				distribution.trackPropertyOccurrenceForType(range.uri(), range.score() + "");
-			}
-		}
-		distribution.trackPropertyOccurrence(totalOccurrence + "");
-		return distribution;
-	}
-	
-	public TypeDistribution domainsOf(String propertyUri) {
-		TypeDistribution distribution = new TypeDistribution();
-		double totalOccurrence = 0.0;
-		for(String value : values()){
-			CandidateResource property = getOrDefault(propertyUri, value);
-			for(CandidateResource domain : property.domains()){
-				totalOccurrence += (double)property.totalOccurrences();
-				distribution.trackPropertyOccurrenceForType(domain.uri(), domain.score() + "");
-			}
-		}
-		distribution.trackPropertyOccurrence(totalOccurrence + "");
-		return distribution;
+	public DatasetStatistics asStatistics(){
+		return new DatasetStatistics(candidatePropertiesForValues);
 	}
 	
 	public double totalScoreOf(String value){
