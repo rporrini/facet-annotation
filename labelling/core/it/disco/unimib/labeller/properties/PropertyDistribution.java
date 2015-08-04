@@ -11,10 +11,12 @@ public class PropertyDistribution{
 	
 	private HashMap<String, CandidateResources> candidatePropertiesForValues;
 	private HashSet<String> properties;
+	private DatasetStatistics statistics;
 	
 	public PropertyDistribution(HashMap<String, CandidateResources> valueDistribution) {
 		this.candidatePropertiesForValues = valueDistribution;
 		this.properties = propertiesFrom(valueDistribution);
+		this.statistics = new DatasetStatistics(candidatePropertiesForValues);
 	}
 
 	public double scoreOf(String property, String value) {
@@ -22,7 +24,7 @@ public class PropertyDistribution{
 	}
 
 	public DatasetStatistics asStatistics(){
-		return new DatasetStatistics(candidatePropertiesForValues);
+		return statistics;
 	}
 	
 	public double totalScoreOf(String value){

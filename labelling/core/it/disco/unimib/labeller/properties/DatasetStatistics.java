@@ -10,9 +10,11 @@ import java.util.Set;
 public class DatasetStatistics{
 	
 	private HashMap<String, CandidateResources> propertiesForValues;
+	private TypeDistribution overallTypeDistribution;
 
 	public DatasetStatistics(HashMap<String, CandidateResources> results){
 		this.propertiesForValues = results;
+		this.overallTypeDistribution = extractOverallTypeDistribution(results);
 	}
 	
 	public TypeDistribution rangesOf(String propertyUri){
@@ -44,6 +46,24 @@ public class DatasetStatistics{
 			}
 		}
 		distribution.trackPropertyOccurrence(occurrencesOfTheProperty + "");
+		for(String type : overallTypeDistribution.all()){
+			distribution.trackTypeOccurrence(type, overallTypeDistribution.typeOccurrence(type) + "");
+		}
+		return distribution;
+	}
+	
+	private TypeDistribution extractOverallTypeDistribution(HashMap<String, CandidateResources> results) {
+		TypeDistribution distribution = new TypeDistribution();
+		for(String value : results.keySet()){
+			for(CandidateResource property : results.get(value).asList()){
+				for(CandidateResource domain : property.domains()){
+					distribution.trackTypeOccurrence(domain.uri(), domain.score() + "");
+				}
+				for(CandidateResource range : property.ranges()){
+					distribution.trackTypeOccurrence(range.uri(), range.score() + "");
+				}
+			}
+		}
 		return distribution;
 	}
 	
