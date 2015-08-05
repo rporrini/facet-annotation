@@ -13,12 +13,14 @@ public class TypeDistribution {
 		this.propertyFrequency = 0;
 	}
 
-	public void trackTypeOccurrence(String type, String occurrence) {
-		trackAs(type, occurrence, typeOccurrence()); 
+	public TypeDistribution trackTypeOccurrence(String type, String occurrence) {
+		trackAs(type, occurrence, typeOccurrence());
+		return this;
 	}
 
-	public void trackPropertyOccurrenceForType(String type, String occurrence) {
+	public TypeDistribution trackPropertyOccurrenceForType(String type, String occurrence) {
 		trackAs(type, occurrence, propertyOccurrenceForType());
+		return this;
 	}
 	
 	public void trackPropertyOccurrence(String occurrence) {

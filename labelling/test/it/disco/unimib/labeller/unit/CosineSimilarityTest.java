@@ -18,4 +18,15 @@ public class CosineSimilarityTest {
 		
 		assertThat(similarity, equalTo(0.0));
 	}
+	
+	@Test
+	public void theSimilarityBetweenTheSameDistributionsShouldBeMaximal() throws Exception {
+		TypeDistribution distribution = new TypeDistribution()
+													.trackPropertyOccurrenceForType("type", "1")
+													.trackTypeOccurrence("type", "1");
+		
+		double similarity = new CosineSimilarity().between(distribution, distribution);
+		
+		assertThat(similarity, equalTo(1.0));
+	}
 }
