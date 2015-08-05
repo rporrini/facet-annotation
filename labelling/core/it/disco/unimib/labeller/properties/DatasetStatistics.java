@@ -45,7 +45,7 @@ public class DatasetStatistics{
 			}
 		}
 		distribution.trackPropertyOccurrence(occurrencesOfTheProperty + "");
-		for(String type : overallTypeDistribution.all()){
+		for(String type : distribution.all()){
 			distribution.trackTypeOccurrence(type, overallTypeDistribution.typeOccurrence(type) + "");
 		}
 		return distribution;

@@ -5,7 +5,6 @@ import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.FullyContextualizedValue;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.IndexResultInspection;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
@@ -53,7 +52,7 @@ public class BenchmarkParameters{
 		IndexFields fields = new IndexFields(knowledgeBase);
 		
 		SelectionCriterion context = context(fields);
-		Index index = new IndexResultInspection(new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields));
+		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;

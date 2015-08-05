@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
+import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
@@ -34,8 +35,17 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 		for(String property : distribution.properties()){
 			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
 			
-			double domainSimilarity = similarity.between(statistics.domainsOf(property), domainSummaries.of(property));
-			double rangeSimilarity = similarity.between(statistics.rangesOf(property), rangeSummaries.of(property));
+			TypeDistribution domains = statistics.domainsOf(property);
+			TypeDistribution domainSummaries = this.domainSummaries.of(property);
+			
+			TypeDistribution ranges = statistics.rangesOf(property);
+			TypeDistribution rangeSummaries = this.rangeSummaries.of(property);
+			
+			track("domains", property, domains);
+			track("ranges", property, ranges);
+			
+			double domainSimilarity = similarity.between(domains, domainSummaries);
+			double rangeSimilarity = similarity.between(ranges, rangeSummaries);
 			
 			CandidateProperty resource = new CandidateProperty(property);
 			resource.multiplyScore(domainSimilarity);
@@ -45,6 +55,13 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 		
 		Collections.sort(results);
 		return results;
+	}
+
+	private void track(String what, String property, TypeDistribution domains) {
+		Events.simple().debug(property + " " + what);
+		for(String domain : domains.all()){
+			Events.simple().debug(domain + "|" + domains.typeOccurrence(domain) + "|" + domains.propertyOccurrence() + "|" + domains.propertyOccurrenceForType(domain));
+		}
 	}
 }
 
