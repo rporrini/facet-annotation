@@ -59,7 +59,7 @@ public class DatasetStatistics{
 				for(String domain : domains.all()){
 					distribution.trackTypeOccurrence(domain, domains.typeOccurrence(domain) + "");
 				}
-				TypeDistribution ranges = property.domains();
+				TypeDistribution ranges = property.ranges();
 				for(String range : ranges.all()){
 					distribution.trackTypeOccurrence(range, ranges.typeOccurrence(range) + "");
 				}
