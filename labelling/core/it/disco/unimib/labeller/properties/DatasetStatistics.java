@@ -39,8 +39,8 @@ public class DatasetStatistics{
 			}else{
 				types = property.ranges();
 			}
+			occurrencesOfTheProperty += (double)property.totalOccurrences();
 			for(String range : types.all()){
-				occurrencesOfTheProperty += (double)property.totalOccurrences();
 				distribution.trackPropertyOccurrenceForType(range, types.typeOccurrence(range) + "");
 			}
 		}
