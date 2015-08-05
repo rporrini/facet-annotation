@@ -10,7 +10,7 @@ public class RunAlgorithm {
 		
 		CommandLineBenchmarkSimulation simulation = new CommandLineBenchmarkSimulation()
 					.onDBPedia()
-					.weightedFrequency()
+					.domainAndRangeConsistency()
 					.annotate(1058967988);
 		
 		System.out.println(StringUtils.join(simulation.results(),"\n"));

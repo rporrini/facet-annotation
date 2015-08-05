@@ -15,6 +15,8 @@ import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.DatasetSummary;
+import it.disco.unimib.labeller.properties.DomainAndRangeConsistency;
 import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
 import it.disco.unimib.labeller.properties.PropertyMaximumLikelihood;
@@ -23,7 +25,9 @@ import it.disco.unimib.labeller.properties.TopK;
 import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 import org.apache.lucene.store.NIOFSDirectory;
 
@@ -56,9 +60,22 @@ public class BenchmarkParameters{
 		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
 		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context, fields);
 		if(algorithm.equals("mhw-e")) algorithmToRun = pfdEntropy(hierarchyFrom(knowledgeBase), index, context, fields);
+		if(algorithm.equals("drc")) algorithmToRun = domainAndRangeConsistency(knowledgeBase, context, index);
 		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
 		
 		return topK(algorithmToRun);
+	}
+
+	private DomainAndRangeConsistency domainAndRangeConsistency(String knowledgeBase, SelectionCriterion context, Index index) throws Exception {
+		return new DomainAndRangeConsistency(index, context, domainSummariesFrom(knowledgeBase), rangeSummariesFrom(knowledgeBase));
+	}
+
+	private DatasetSummary summaryFrom(String directory) throws Exception {
+		List<InputFile> summaries = new ArrayList<InputFile>();
+		for(File file : new File(directory).listFiles()){
+			summaries.add(new InputFile(file));
+		}
+		return new DatasetSummary(summaries.toArray(new InputFile[summaries.size()]));
 	}
 
 	private AnnotationAlgorithm maximumLikelihood(Index index, SelectionCriterion context) {
@@ -85,6 +102,28 @@ public class BenchmarkParameters{
 			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/dbpedia/depths/types.csv")));
 		}
 		return null;
+	}
+	
+	private DatasetSummary domainSummariesFrom(String knowledgeBase) throws Exception {
+		String directory = "";
+		if(knowledgeBase.startsWith("yago1")){
+			directory = "../evaluation/yago1-domains";
+		}
+		if(knowledgeBase.startsWith("dbpedia")){
+			directory = "../evaluation/dbpedia-domains";
+		}
+		return summaryFrom(directory);
+	}
+	
+	private DatasetSummary rangeSummariesFrom(String knowledgeBase) throws Exception {
+		String directory = "";
+		if(knowledgeBase.startsWith("yago1")){
+			directory = "../evaluation/yago1-ranges";
+		}
+		if(knowledgeBase.startsWith("dbpedia")){
+			directory = "../evaluation/dbpedia-ranges";
+		}
+		return summaryFrom(directory);
 	}
 	
 	public GoldStandard goldStandard() throws Exception {

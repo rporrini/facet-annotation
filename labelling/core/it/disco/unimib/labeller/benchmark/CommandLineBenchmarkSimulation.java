@@ -32,6 +32,12 @@ public class CommandLineBenchmarkSimulation{
 		return this;
 	}
 	
+	public CommandLineBenchmarkSimulation domainAndRangeConsistency(){
+		this.algorithm = "drc";
+		this.occurrences = "contextualized";
+		return this;
+	}
+	
 	public CommandLineBenchmarkSimulation majority(){
 		this.algorithm = "mh";
 		this.occurrences = "simple";
