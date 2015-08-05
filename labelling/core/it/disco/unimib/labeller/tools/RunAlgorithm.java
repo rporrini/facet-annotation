@@ -11,7 +11,7 @@ public class RunAlgorithm {
 		CommandLineBenchmarkSimulation simulation = new CommandLineBenchmarkSimulation()
 					.onDBPedia()
 					.domainAndRangeConsistency()
-					.annotate(1058967988);
+					.annotate(1088443226);
 		
 		System.out.println(StringUtils.join(simulation.results(),"\n"));
 	}

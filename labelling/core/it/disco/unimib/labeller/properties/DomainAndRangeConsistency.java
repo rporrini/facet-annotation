@@ -33,7 +33,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 		
 		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : distribution.properties()){
-			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
+			CosineSimilarity similarity = new CosineSimilarity();
 			
 			TypeDistribution domains = statistics.domainsOf(property);
 			TypeDistribution domainSummaries = this.domainSummaries.of(property);
@@ -48,8 +48,8 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			double rangeSimilarity = similarity.between(ranges, rangeSummaries);
 			
 			CandidateProperty resource = new CandidateProperty(property);
-			resource.multiplyScore(domainSimilarity);
-			resource.multiplyScore(rangeSimilarity);
+			resource.sumScore(domainSimilarity);
+			resource.sumScore(rangeSimilarity);
 			results.add(resource);
 		}
 		
