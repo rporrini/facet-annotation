@@ -3,11 +3,10 @@ package it.disco.unimib.labeller.properties;
 public class CosineSimilarity {
 
 	public double between(TypeDistribution d1, TypeDistribution d2) {
-		double magnitudes = magnitudeOf(d1) * magnitudeOf(d2);
-		if(magnitudes == 0) return 0;
-		return dotProduct(d1, d2) / magnitudes;
+		
+		return safeDivision(dotProduct(d1, d2), magnitudeOf(d1) * magnitudeOf(d2));
 	}
-	
+
 	private double dotProduct(TypeDistribution d1, TypeDistribution d2){
 		double result = 0;
 		for(String t1 : d1.all()){
@@ -26,6 +25,11 @@ public class CosineSimilarity {
 	}
 
 	private double weightOf(String type, TypeDistribution distribution) {
-		return distribution.propertyOccurrenceForType(type) / distribution.typeOccurrence(type);
+		return safeDivision(distribution.propertyOccurrenceForType(type), distribution.typeOccurrence(type));
+	}
+	
+	private double safeDivision(double dividendum, double divisor) {
+		if(divisor == 0) return 0;
+		return dividendum / divisor;
 	}
 }
