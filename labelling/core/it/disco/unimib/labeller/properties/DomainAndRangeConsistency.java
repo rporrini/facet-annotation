@@ -41,8 +41,10 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			TypeDistribution ranges = statistics.rangesOf(property);
 			TypeDistribution rangeSummaries = this.rangeSummaries.of(property);
 			
-			track("domains", property, domains);
-			track("ranges", property, ranges);
+			track("dataset domains", property, domains);
+			track("summary domains", property, domainSummaries);
+			track("dataset ranges", property, ranges);
+			track("summary ranges", property, rangeSummaries);
 			
 			double domainSimilarity = similarity.between(domains, domainSummaries);
 			double rangeSimilarity = similarity.between(ranges, rangeSummaries);
@@ -58,7 +60,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 	}
 
 	private void track(String what, String property, TypeDistribution domains) {
-		Events.simple().debug(property + " " + what);
+		Events.simple().debug(property + " -- " + what);
 		for(String domain : domains.all()){
 			Events.simple().debug(domain + "|" + domains.typeOccurrence(domain) + "|" + domains.propertyOccurrence() + "|" + domains.propertyOccurrenceForType(domain));
 		}
