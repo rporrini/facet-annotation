@@ -33,7 +33,15 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 		
 		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : distribution.properties()){
-			CosineSimilarity similarity = new CosineSimilarity();
+			double frequencyOverValues = 0;
+			double covered = 0;
+			for(String value : distribution.values()){
+				double score = distribution.scoreOf(property, value);
+				if(score > 0) covered++;
+				frequencyOverValues += score;
+			}
+			
+			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
 			
 			TypeDistribution domains = statistics.domainsOf(property);
 			TypeDistribution domainSummaries = this.domainSummaries.of(property);
@@ -46,12 +54,17 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			track("dataset ranges", property, ranges);
 			track("summary ranges", property, rangeSummaries);
 			
-			double domainSimilarity = similarity.between(domains, domainSummaries);
-			double rangeSimilarity = similarity.between(ranges, rangeSummaries);
+			double domainSimilarity = Math.log(similarity.between(domains, domainSummaries) + 1.0000001);
+			double rangeSimilarity = Math.log(similarity.between(ranges, rangeSummaries) + 1.0000001);
+			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
+			double coverage = covered / (double)distribution.values().size();
 			
 			CandidateProperty resource = new CandidateProperty(property);
-			resource.sumScore(domainSimilarity);
-			resource.sumScore(rangeSimilarity);
+			resource.multiplyScore(domainSimilarity);
+			resource.multiplyScore(rangeSimilarity);
+			resource.multiplyScore(smoothedWFreq);
+			resource.multiplyScore(coverage);
+			
 			results.add(resource);
 		}
 		
