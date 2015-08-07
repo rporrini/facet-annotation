@@ -38,6 +38,7 @@ public class DatasetSummary {
 				
 				distribution.trackPropertyOccurrenceForType(type, splitted[3]);
 			}
+			lines.close();
 			double propertyOccurrence = 0.0;
 			for(Double frequency : propertyFrequencies){
 				propertyOccurrence+=frequency;
