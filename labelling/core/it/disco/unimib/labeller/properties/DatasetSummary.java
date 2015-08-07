@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.properties;
 import it.disco.unimib.labeller.index.InputFile;
 
 import java.util.HashMap;
+import java.util.HashSet;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -18,15 +19,26 @@ public class DatasetSummary {
 		HashMap<String, TypeDistribution> result = new HashMap<String, TypeDistribution>();
 		for(InputFile file : files){
 			TypeDistribution distribution = new TypeDistribution();
+			HashSet<Double> propertyFrequencies = new HashSet<Double>();
 			for(String line : file.lines()){
 				String[] splitted = StringUtils.split(line, "|");
 				
 				String type = splitted[0];
 				
-				distribution.trackTypeOccurrence(type, splitted[1]);
-				distribution.trackPropertyOccurrence(splitted[2]);
+				if(!distribution.getTypeFrequencies().containsKey(type)){
+					distribution.trackTypeOccurrence(type, splitted[1]);
+				}
+				
+				double propertyOccurrence = Double.parseDouble(splitted[2]);
+				propertyFrequencies.add(propertyOccurrence);
+				
 				distribution.trackPropertyOccurrenceForType(type, splitted[3]);
 			}
+			double propertyOccurrence = 0.0;
+			for(Double frequency : propertyFrequencies){
+				propertyOccurrence+=frequency;
+			}
+			distribution.trackPropertyOccurrence(propertyOccurrence + "");
 			result.put(file.name(), distribution);
 		}
 		return result;

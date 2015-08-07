@@ -2,13 +2,65 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.properties.TypeDistribution;
 import it.disco.unimib.labeller.properties.DatasetSummary;
+import it.disco.unimib.labeller.properties.TypeDistribution;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 public class DatasetSummaryTest {
 
+	@Test
+	public void typeOccurrencesForPropertiesShouldBeSummedUp() throws Exception {
+		
+		DatasetSummary distributions = new DatasetSummary(
+											new InputFileTestDouble()
+													.withName("dbpedia.org_ontology_name")
+													.withLine("type|1|0|3")
+													.withLine("type|1|0|4"));
+		
+		assertThat(distributions.of("http://dbpedia.org/ontology/name").propertyOccurrenceForType("type"), equalTo(7.0));
+	}
+	
+	@Test
+	public void typeOccurrencesShouldNotBeSummedUp() throws Exception {
+		
+		DatasetSummary distributions = new DatasetSummary(
+											new InputFileTestDouble()
+													.withName("dbpedia.org_ontology_name")
+													.withLine("type|1|0|0")
+													.withLine("type|1|0|0"));
+		
+		assertThat(distributions.of("http://dbpedia.org/ontology/name").typeOccurrence("type"), equalTo(1.0));
+	}
+	
+	@Test
+	public void propertyOccurrencesShouldBeSummedIfDifferent() throws Exception {
+		
+		DatasetSummary distributions = new DatasetSummary(
+											new InputFileTestDouble()
+													.withName("dbpedia.org_ontology_name")
+													.withLine("a_type|0|1|0")
+													.withLine("another_type|0|2|0"));
+		
+		assertThat(distributions.of("http://dbpedia.org/ontology/name").propertyOccurrence(), equalTo(3.0));
+	}
+	
+	@Test
+	@Ignore
+	public void propertyOccurrencesShouldBeSummedIfTheSameTypesOccur() throws Exception {
+		
+		DatasetSummary distributions = new DatasetSummary(
+											new InputFileTestDouble()
+													.withName("dbpedia.org_ontology_name")
+													.withLine("type|0|1|0")
+													.withLine("another_type|0|1|0")
+													.withLine("type|0|1|0")
+													.withLine("another_type|0|1|0"));
+		
+		assertThat(distributions.of("http://dbpedia.org/ontology/name").propertyOccurrence(), equalTo(2.0));
+	}
+	
 	@Test
 	public void shouldReturnAnEmptyDistributionWhenNoPropertiesAreProvided() throws Exception {
 		
