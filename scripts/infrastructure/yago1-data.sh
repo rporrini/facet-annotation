@@ -51,6 +51,7 @@ if [ ! -d "yago1-domains" ]; then
 	wget http://abstat.disco.unimib.it/downloads/yago1-domains.tar.gz
 	tar -zxvf yago1-domains.tar.gz --strip-components=1
 	rm -rf yago1-domains.tar.gz
+	ls | grep yago | while read file; do name=$(echo $file | cut -d'_' -f 4); mv $file $name; done;
 	cd ..
 fi
 if [ ! -d "yago1-ranges" ]; then
@@ -59,6 +60,7 @@ if [ ! -d "yago1-ranges" ]; then
 	wget http://abstat.disco.unimib.it/downloads/yago1-ranges.tar.gz
 	tar -zxvf yago1-ranges.tar.gz --strip-components=1
 	rm -rf yago1-ranges.tar.gz
+	ls | grep yago | while read file; do name=$(echo $file | cut -d'_' -f 4); mv $file $name; done;
 	cd ..
 fi
 cd $root
