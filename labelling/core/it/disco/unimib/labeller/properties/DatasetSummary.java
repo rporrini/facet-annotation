@@ -5,6 +5,8 @@ import it.disco.unimib.labeller.index.InputFile;
 import java.util.HashMap;
 import java.util.HashSet;
 
+import org.apache.commons.io.IOUtils;
+import org.apache.commons.io.LineIterator;
 import org.apache.commons.lang3.StringUtils;
 
 public class DatasetSummary {
@@ -20,12 +22,14 @@ public class DatasetSummary {
 		for(InputFile file : files){
 			TypeDistribution distribution = new TypeDistribution();
 			HashSet<Double> propertyFrequencies = new HashSet<Double>();
-			for(String line : file.lines()){
+			LineIterator lines = IOUtils.lineIterator(file.content(), "UTF-8");
+			while(lines.hasNext()){
+				String line = lines.nextLine();
 				String[] splitted = StringUtils.split(line, "|");
 				
 				String type = splitted[0];
 				
-				if(!distribution.getTypeFrequencies().containsKey(type)){
+				if(distribution.typeOccurrence(type) == 0){
 					distribution.trackTypeOccurrence(type, splitted[1]);
 				}
 				
