@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
@@ -9,8 +9,6 @@ import it.disco.unimib.labeller.index.TypeConsistency;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
 
 public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgorithm{
 	
@@ -27,11 +25,11 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	@Override
-	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
+	public List<CandidateProperty> annotate(ContextualizedValues request) throws Exception {
 		
-		Distribution distribution = new CandidateProperties(index).forValues(request, selection);
+		PropertyDistribution distribution = new CandidateProperties(index).forValues(request, selection);
 		
-		ArrayList<CandidateResource> results = new ArrayList<CandidateResource>();
+		ArrayList<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : distribution.properties()){
 			double frequencyOverValues = 0;
 			double covered = 0;
@@ -40,31 +38,41 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 				if(score > 0) covered++;
 				frequencyOverValues += score;
 			}
-			Map<String, Double> objects = distribution.objectsOf(property);
-
-			double objectDisc = 1.0 + Math.log(this.consistency.consistencyOf(objects) + 1.0);
 			
-			ContextualizedValues specificity = new ContextualizedValues(request.domain(), new String[]{property});
-			Set<String> subjectsOf = distribution.subjectsOf(property);
-			specificity.setDomainTypes(subjectsOf.toArray(new String[subjectsOf.size()]));
-			double disc = Math.log(propertySpecificity.of(specificity) + 1.1);
+			double rangeDisc = rangeDiscriminancy(property, distribution);
+			double propertyDisc = propertyDiscriminancy(new ContextualizedValues(request.domain(), new String[]{property}), distribution.asStatistics().domainsOf(property));
+			double smoothedWFreq = smoothedWeightedFrequency(frequencyOverValues, distribution);
+			double coverage = coverage(covered, distribution);
 			
-			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
-			
-			double coverage = covered / (double)distribution.values().size();
-			
-			CandidateResource resource = new CandidateResource(property);
+			CandidateProperty resource = new CandidateProperty(property);
 			
 			resource.multiplyScore(smoothedWFreq);
 			resource.multiplyScore(coverage);
-			resource.multiplyScore(disc);
-			resource.multiplyScore(objectDisc);
+			resource.multiplyScore(propertyDisc);
+			resource.multiplyScore(rangeDisc);
 			
 			results.add(resource);
 		}
 		
 		Collections.sort(results);
 		return results;
+	}
+
+	private double coverage(double covered, PropertyDistribution distribution) {
+		return covered / (double)distribution.values().size();
+	}
+
+	private double smoothedWeightedFrequency(double frequencyOverValues, PropertyDistribution distribution) {
+		return Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
+	}
+
+	private double rangeDiscriminancy(String property, PropertyDistribution distribution) {
+		return 1.0 + Math.log((this.consistency.consistencyOf(distribution.asStatistics().rangesOf(property)) / (double)distribution.values().size()) + 1.0);
+	}
+
+	private double propertyDiscriminancy(ContextualizedValues specificity, TypeDistribution subjects) throws Exception {
+		specificity.setDomains(subjects.all().toArray(new String[subjects.size()]));
+		return Math.log(this.propertySpecificity.of(specificity) + 1.1);
 	}
 }
 

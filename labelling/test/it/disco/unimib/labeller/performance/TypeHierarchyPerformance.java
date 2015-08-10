@@ -26,11 +26,11 @@ public class TypeHierarchyPerformance extends AbstractBenchmark{
 	
 	@Test
 	public void scaledDepthOfAType() {
-		new ScaledDepth().of(hierarchy.typeOf("http://dbpedia.org/ontology/MusicalArtist"));
+		new ScaledDepth().of(hierarchy.typeFrom("http://dbpedia.org/ontology/MusicalArtist"));
 	}
 	
 	@Test
 	public void scaledDepthOfACategory() {
-		new ScaledDepth().of(hierarchy.typeOf("http://dbpedia.org/resource/Category:World_War_II"));
+		new ScaledDepth().of(hierarchy.typeFrom("http://dbpedia.org/resource/Category:World_War_II"));
 	}
 }

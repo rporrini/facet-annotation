@@ -2,8 +2,8 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.hasSize;
-import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidateResource;
+import static org.junit.Assert.*;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.ContextualizedValues;
@@ -12,6 +12,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
 import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.util.Collection;
 
@@ -24,6 +25,32 @@ public class EvidenceTest {
 	private final IndexFields dbpedia = new IndexFields("dbpedia");
 
 	@Test
+	public void shouldIndexLiteralTypesAsObjects() throws Exception {
+		
+		EntityValues labels = new EntityValues(new RAMDirectory()).closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder()
+																			.withSubject("http://entity")
+																			.withLiteral("http://type")
+																			.asTriple()).closeWriter();
+		
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, labels, dbpedia)
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withProperty("http://property")
+										.withTypedLiteral("12", "integer")
+										.asTriple())
+							.closeWriter();
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"12"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		
+		Collection<CandidateProperty> result = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(result.iterator().next().ranges().all().iterator().next(), equalTo("integer"));
+	}
+	
+	@Test
 	public void shouldIndexTheEntireUriOfTheObjectIfTheKnowledgeBaseIsDBPedia() throws Exception {
 		RAMDirectory directory = new RAMDirectory();
 		
@@ -33,7 +60,7 @@ public class EvidenceTest {
 																		.asTriple())
 															.closeWriter();
 		
-		new Evidence(directory, new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), new EntityValues(new RAMDirectory()).closeWriter(), labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://france")
 										.withProperty("http://hasCapital")
@@ -41,23 +68,22 @@ public class EvidenceTest {
 										.asTriple())
 							.closeWriter();
 		
-		IndexFields fields = new IndexFields("dbpedia");
-		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), fields);
+		ContextualizedEvidence search = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia);
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"city"});
-		OnlyValue query = new OnlyValue(fields);
+		OnlyValue query = new OnlyValue(dbpedia);
 		
 		assertThat(search.get(request, query.asQuery(request))
 								.asList()
 								.iterator()
 								.next()
-								.id(), equalTo("http://hasCapital"));
+								.uri(), equalTo("http://hasCapital"));
 	}
 	
 	@Test
 	public void simpleLiteralsShouldBeSearchableInYago() throws Exception {
 		RAMDirectory directory = new RAMDirectory();
-		new Evidence(directory, 
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								new EntityValues(new RAMDirectory()).closeWriter(), 
 								yago)
@@ -65,12 +91,12 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
 		OnlyValue query = new OnlyValue(yago);
-		CandidateResource searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
+		CandidateProperty searchResult = new ContextualizedEvidence(directory, new ConstantSimilarity(), yago)
 										.get(request, 
 											 query.asQuery(request))
 										.asList().iterator().next();
 		
-		assertThat(searchResult.id(), equalTo("property"));
+		assertThat(searchResult.uri(), equalTo("property"));
 		assertThat(searchResult.score(), equalTo(1.0));
 	}
 	
@@ -80,7 +106,7 @@ public class EvidenceTest {
 		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("http://type").asTriple()).closeWriter();
 		
 		RAMDirectory dbpediaDirectory = new RAMDirectory();
-		new Evidence(dbpediaDirectory, types, labels, dbpedia)
+		new Evidence(dbpediaDirectory, new TypeHierarchy(new InputFileTestDouble()), types, labels, dbpedia)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -95,13 +121,13 @@ public class EvidenceTest {
 		
 		ContextualizedValues request = new ContextualizedValues("type", new String[]{"literal"});
 		PartiallyContextualizedValue query = new PartiallyContextualizedValue(dbpedia);
-		Collection<CandidateResource> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
+		Collection<CandidateProperty> results = new ContextualizedEvidence(dbpediaDirectory, new ConstantSimilarity(), dbpedia)
 												.get(request, query.asQuery(request))
 												.asList();
 		
-		assertThat(results.iterator().next().id(), equalTo("http://property"));
+		assertThat(results.iterator().next().uri(), equalTo("http://property"));
 		
-		new Evidence(new RAMDirectory(), types, labels, yago)
+		new Evidence(new RAMDirectory(), new TypeHierarchy(new InputFileTestDouble()), types, labels, yago)
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -118,7 +144,7 @@ public class EvidenceTest {
 							.get(request, query.asQuery(request))
 							.asList();
 		
-		assertThat(results.iterator().next().id(), equalTo("property"));
+		assertThat(results.iterator().next().uri(), equalTo("property"));
 	}
 	
 	@Test
@@ -128,7 +154,7 @@ public class EvidenceTest {
 		
 		RAMDirectory directory = new RAMDirectory();
 		
-		new Evidence(directory, types, labels, new IndexFields("anyKnowledgeBase"))
+		new Evidence(directory, new TypeHierarchy(new InputFileTestDouble()), types, labels, new IndexFields("anyKnowledgeBase"))
 							.add(new TripleBuilder()
 										.withSubject("http://entity")
 										.withProperty("http://property")
@@ -142,5 +168,62 @@ public class EvidenceTest {
 						.get(request, query.asQuery(request))
 						.asList(), 
 				   hasSize(1));
+	}
+	
+	@Test
+	public void shouldSaveOnlyMinimalTypesForSubjects() throws Exception {
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://person").asTriple())
+																  .add(new TripleBuilder().withSubject("http://thing").asTriple())
+																		.closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withObject("http://person").asTriple())
+																 .add(new TripleBuilder().withSubject("http://entity").withObject("http://thing").asTriple())
+																		 .closeWriter();
+		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble()
+																 .withLine(new TripleBuilder()
+																 			.withSubject("http://person").withObject("http://thing").asNTriple()));
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, hierarchy, types, labels, new IndexFields("anyKnowledgeBase"))
+							.add(new TripleBuilder()
+										.withSubject("http://entity")
+										.withProperty("http://property")
+										.withLiteral("literal")
+										.asTriple())
+							.closeWriter();
+		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"literal"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		Collection<CandidateProperty> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(results.iterator().next().domains().all(), hasSize(1));
+		assertThat(results.iterator().next().domains().all().iterator().next(), equalTo("http://person"));
+	}
+	
+	@Test
+	public void shouldSaveOnlyMinimalTypesForObjects() throws Exception {
+		EntityValues labels = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withLiteral("entity").asTriple())
+																		.closeWriter();
+		EntityValues types = new EntityValues(new RAMDirectory()).add(new TripleBuilder().withSubject("http://entity").withObject("http://person").asTriple())
+																 .add(new TripleBuilder().withSubject("http://entity").withObject("http://thing").asTriple())
+																		 .closeWriter();
+		TypeHierarchy hierarchy = new TypeHierarchy(new InputFileTestDouble()
+																 .withLine(new TripleBuilder()
+																 			.withSubject("http://person").withObject("http://thing").asNTriple()));
+		RAMDirectory directory = new RAMDirectory();
+		
+		new Evidence(directory, hierarchy, types, labels, new IndexFields("anyKnowledgeBase"))
+							.add(new TripleBuilder()
+										.withSubject("http://other_entity")
+										.withProperty("http://property")
+										.withObject("http://entity")
+										.asTriple())
+							.closeWriter();
+		
+		ContextualizedValues request = new ContextualizedValues("any", new String[]{"entity"});
+		OnlyValue query = new OnlyValue(dbpedia);
+		Collection<CandidateProperty> results = new ContextualizedEvidence(directory, new ConstantSimilarity(), dbpedia).get(request, query.asQuery(request)).asList();
+		
+		assertThat(results.iterator().next().ranges().all(), hasSize(1));
+		assertThat(results.iterator().next().ranges().all().iterator().next(), equalTo("http://person"));
 	}
 }

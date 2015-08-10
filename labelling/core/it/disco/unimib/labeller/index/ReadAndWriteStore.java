@@ -4,5 +4,5 @@ import java.util.List;
 
 public interface ReadAndWriteStore extends WriteStore{
 	
-	public List<CandidateResource> get(String entity) throws Exception;
+	public List<CandidateProperty> get(String entity) throws Exception;
 }

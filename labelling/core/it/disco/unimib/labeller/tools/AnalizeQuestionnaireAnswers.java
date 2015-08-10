@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.tools;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -34,7 +34,7 @@ public class AnalizeQuestionnaireAnswers {
 		for(String sheetName : sheets){
 			Sheet externals = document.getSheet(sheetName);
 			
-			HashMap<String, List<CandidateResource>> goldStandard = new HashMap<String, List<CandidateResource>>();;
+			HashMap<String, List<CandidateProperty>> goldStandard = new HashMap<String, List<CandidateProperty>>();;
 			for(int row=1; row<=1235; row++){
 				try{
 					String content = externals.getCellAt("A" + row).getTextValue();
@@ -45,12 +45,12 @@ public class AnalizeQuestionnaireAnswers {
 						row++;
 						content = externals.getCellAt("A" + row).getTextValue();
 					}
-					ArrayList<CandidateResource> groupProperties = new ArrayList<CandidateResource>();
+					ArrayList<CandidateProperty> groupProperties = new ArrayList<CandidateProperty>();
 					while(!content.isEmpty()){
 						if(content.startsWith("http://")){
 							String propertyScore = externals.getCellAt("C" + row).getTextValue();
 							if(!propertyScore.equals("")){
-								CandidateResource e = new CandidateResource(content);
+								CandidateProperty e = new CandidateProperty(content);
 								e.sumScore(Double.parseDouble(propertyScore));
 								groupProperties.add(e);
 							}
@@ -62,12 +62,12 @@ public class AnalizeQuestionnaireAnswers {
 				}
 				catch(Exception e){}
 			}
-			HashMap<String, List<CandidateResource>> couples = new HashMap<String, List<CandidateResource>>();
+			HashMap<String, List<CandidateProperty>> couples = new HashMap<String, List<CandidateProperty>>();
 			for(String group : goldStandard.keySet()){
-				List<CandidateResource> propertiesToKeep = new ArrayList<CandidateResource>();
-				for(CandidateResource currentProperty : goldStandard.get(group)){
-					for(CandidateResource property : goldStandard.get(group)){
-						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+				List<CandidateProperty> propertiesToKeep = new ArrayList<CandidateProperty>();
+				for(CandidateProperty currentProperty : goldStandard.get(group)){
+					for(CandidateProperty property : goldStandard.get(group)){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.uri().equals(property.uri())){
 							propertiesToKeep.add(currentProperty);
 							break;
 						}
@@ -86,15 +86,15 @@ public class AnalizeQuestionnaireAnswers {
 			int betterOntology = 0;
 			int betterFoaf = 0;
 			for(String group : couples.keySet()){
-				for(CandidateResource currentProperty : couples.get(group)){
+				for(CandidateProperty currentProperty : couples.get(group)){
 					totalProperties++;
-					for(CandidateResource property : couples.get(group)){
-						if(currentProperty.label().equals(property.label()) && !currentProperty.id().equals(property.id())){
+					for(CandidateProperty property : couples.get(group)){
+						if(currentProperty.label().equals(property.label()) && !currentProperty.uri().equals(property.uri())){
 							if(similarScore(currentProperty.score(), property.score()))
 								similarProperties++;
 							else{
 								differentProperties++;
-								switch (checkContains(currentProperty.id())) {
+								switch (checkContains(currentProperty.uri())) {
 								case 1:
 									totalOntology++;
 									if(currentProperty.score() > property.score()) betterOntology++;

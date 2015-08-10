@@ -11,7 +11,6 @@ import it.disco.unimib.labeller.index.Triples;
 import org.apache.lucene.store.RAMDirectory;
 import org.junit.Test;
 
-
 public class TriplesTest {
 
 	@Test
@@ -22,7 +21,7 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://any").get(0).id(), equalTo("the label"));
+		assertThat(index.get("http://any").get(0).uri(), equalTo("the label"));
 	}
 	
 	@Test
@@ -61,6 +60,6 @@ public class TriplesTest {
 					.fill(index, new AcceptAll());
 		index.closeWriter();
 		
-		assertThat(index.get("http://1234").get(0).id(), equalTo("http://uri%20with%20space"));
+		assertThat(index.get("http://1234").get(0).uri(), equalTo("http://uri%20with%20space"));
 	}
 }

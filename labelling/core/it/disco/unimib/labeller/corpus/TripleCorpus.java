@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.corpus;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.NTriple;
 import it.disco.unimib.labeller.index.WriteStore;
@@ -32,8 +32,8 @@ public class TripleCorpus implements WriteStore{
 	public TripleCorpus add(NTriple triple) throws Exception {
 		List<String> values = getLabels(triple.object().uri());
 		List<String> types = new ArrayList<String>();
-		for(CandidateResource type : this.types.get(triple.subject().uri())){
-			types.addAll(getLabels(type.id()));
+		for(CandidateProperty type : this.types.get(triple.subject().uri())){
+			types.addAll(getLabels(type.uri()));
 		}
 		for(String type : types){
 			for(String value : values){
@@ -49,8 +49,8 @@ public class TripleCorpus implements WriteStore{
 			values.add(uri);
 		}
 		else{
-			for(CandidateResource label : this.labels.get(uri)){
-				values.add(label.id());
+			for(CandidateProperty label : this.labels.get(uri)){
+				values.add(label.uri());
 			}
 		}
 		List<String> result = new ArrayList<String>();

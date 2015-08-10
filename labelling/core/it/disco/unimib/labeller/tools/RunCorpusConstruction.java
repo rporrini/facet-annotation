@@ -53,7 +53,7 @@ class RunCorpusConstruction{
 						output.flush();
 						analyzer.close();
 					} catch (Exception e) {
-						new Events().error("processing file: " + file, e);
+						Events.verbose().error("processing file: " + file, e);
 					}
 				}
 

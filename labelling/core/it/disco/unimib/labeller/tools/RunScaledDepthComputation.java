@@ -38,7 +38,7 @@ public class RunScaledDepthComputation {
 						new ScaledDepthComputation(taxonomy).persist(input, output);
 						output.flush();
 					} catch (Exception e) {
-						new Events().error("processing file: " + file, e);
+						Events.verbose().error("processing file: " + file, e);
 					}
 				}
 			});

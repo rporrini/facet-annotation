@@ -12,7 +12,7 @@ public class ScaledDepthComputation {
 
 	public void persist(InputFile input, OutputFile output) throws Exception {
 		for(String line : input.lines()){
-			Type type = taxonomy.typeOf(line);
+			Type type = taxonomy.typeFrom(line);
 			output.write(type.toString() + "|" + new ScaledDepth().of(type));
 		}
 	}

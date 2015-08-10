@@ -2,7 +2,7 @@ package it.disco.unimib.labeller.unit;
 
 import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyValue;
@@ -23,9 +23,9 @@ public class MajorityOverFrequencyOfPropertiesTest{
 		
 		MajorityOverFrequencyOfProperties majorityHitWeighted = new MajorityOverFrequencyOfProperties(index, new OnlyValue(new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateProperty> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 		
-		assertThat(results.get(0).id(), equalTo("other predicate"));
+		assertThat(results.get(0).uri(), equalTo("other predicate"));
 	}
 	
 	@Test
@@ -35,7 +35,7 @@ public class MajorityOverFrequencyOfPropertiesTest{
 
 		MajorityOverFrequencyOfProperties majorityHitWeighted = new MajorityOverFrequencyOfProperties(index, new OnlyValue(new IndexFields("dbpedia")));
 		
-		List<CandidateResource> results = majorityHitWeighted.typeOf(new ContextualizedValues("any", new String[]{"2012", "2010"}));
+		List<CandidateProperty> results = majorityHitWeighted.annotate(new ContextualizedValues("any", new String[]{"2012", "2010"}));
 
 		assertThat(results.get(0).score(), equalTo(2.0));
 	}

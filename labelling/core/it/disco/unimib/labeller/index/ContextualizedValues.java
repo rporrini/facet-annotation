@@ -31,7 +31,7 @@ public class ContextualizedValues {
 		return result;
 	}
 
-	public void setDomainTypes(String... types) {
+	public void setDomains(String... types) {
 		this.domainTypes = types;
 	}
 

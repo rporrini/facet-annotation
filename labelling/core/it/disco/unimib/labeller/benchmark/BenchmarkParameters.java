@@ -3,6 +3,7 @@ package it.disco.unimib.labeller.benchmark;
 import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
 import it.disco.unimib.labeller.index.FullyContextualizedValue;
+import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.OnlyValue;
@@ -13,6 +14,8 @@ import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
+import it.disco.unimib.labeller.properties.DatasetSummary;
+import it.disco.unimib.labeller.properties.DomainAndRangeConsistency;
 import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
 import it.disco.unimib.labeller.properties.PropertyMaximumLikelihood;
@@ -21,7 +24,9 @@ import it.disco.unimib.labeller.properties.TopK;
 import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 import org.apache.lucene.store.NIOFSDirectory;
 
@@ -47,31 +52,44 @@ public class BenchmarkParameters{
 		IndexFields fields = new IndexFields(knowledgeBase);
 		
 		SelectionCriterion context = context(fields);
-		ContextualizedEvidence index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
+		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;
 		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
 		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context, fields);
 		if(algorithm.equals("mhw-e")) algorithmToRun = pfdEntropy(hierarchyFrom(knowledgeBase), index, context, fields);
+		if(algorithm.equals("drc")) algorithmToRun = domainAndRangeConsistency(knowledgeBase, context, index);
 		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
 		
 		return topK(algorithmToRun);
 	}
 
-	private AnnotationAlgorithm maximumLikelihood(ContextualizedEvidence index, SelectionCriterion context) {
+	private DomainAndRangeConsistency domainAndRangeConsistency(String knowledgeBase, SelectionCriterion context, Index index) throws Exception {
+		return new DomainAndRangeConsistency(index, context, domainSummariesFrom(knowledgeBase), rangeSummariesFrom(knowledgeBase));
+	}
+
+	private DatasetSummary summaryFrom(String directory) throws Exception {
+		List<InputFile> summaries = new ArrayList<InputFile>();
+		for(File file : new File(directory).listFiles()){
+			summaries.add(new InputFile(file));
+		}
+		return new DatasetSummary(summaries.toArray(new InputFile[summaries.size()]));
+	}
+
+	private AnnotationAlgorithm maximumLikelihood(Index index, SelectionCriterion context) {
 		return new PropertyMaximumLikelihood(index, context);
 	}
 
-	private AnnotationAlgorithm pfd(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+	private AnnotationAlgorithm pfd(TypeConsistency depth, Index index, SelectionCriterion context, IndexFields fields) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyContextSpecificity(index, fields));
 	}
 	
-	private AnnotationAlgorithm pfdEntropy(TypeConsistency depth, ContextualizedEvidence index, SelectionCriterion context, IndexFields fields) throws Exception {
+	private AnnotationAlgorithm pfdEntropy(TypeConsistency depth, Index index, SelectionCriterion context, IndexFields fields) throws Exception {
 		return new WeightedFrequencyCoverageAndSpecificity(depth, index, context, new PropertyTypesConditionalEntropy(index, fields));
 	}
 
-	private AnnotationAlgorithm majority(ContextualizedEvidence index, SelectionCriterion context) {
+	private AnnotationAlgorithm majority(Index index, SelectionCriterion context) {
 		return new MajorityOverFrequencyOfProperties(index, context);
 	}
 
@@ -85,11 +103,33 @@ public class BenchmarkParameters{
 		return null;
 	}
 	
+	private DatasetSummary domainSummariesFrom(String knowledgeBase) throws Exception {
+		String directory = "";
+		if(knowledgeBase.startsWith("yago1")){
+			directory = "../evaluation/yago1-domains";
+		}
+		if(knowledgeBase.startsWith("dbpedia")){
+			directory = "../evaluation/dbpedia-domains";
+		}
+		return summaryFrom(directory);
+	}
+	
+	private DatasetSummary rangeSummariesFrom(String knowledgeBase) throws Exception {
+		String directory = "";
+		if(knowledgeBase.startsWith("yago1")){
+			directory = "../evaluation/yago1-ranges";
+		}
+		if(knowledgeBase.startsWith("dbpedia")){
+			directory = "../evaluation/dbpedia-ranges";
+		}
+		return summaryFrom(directory);
+	}
+	
 	public GoldStandard goldStandard() throws Exception {
 		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
 	}
 	
-	private SelectionCriterion context(IndexFields fields) throws Exception{
+	public SelectionCriterion context(IndexFields fields) throws Exception{
 		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
 		
 		contexts.put("complete", new FullyContextualizedValue(fields));
@@ -98,14 +138,14 @@ public class BenchmarkParameters{
 		return contexts.get(contextString());
 	}
 	
-	private SimilarityMetric occurrences() throws Exception{
+	public SimilarityMetric occurrences() throws Exception{
 		HashMap<String, SimilarityMetric> occurrences = new HashMap<String, SimilarityMetric>();
 		occurrences.put("simple", new ConstantSimilarity());
 		occurrences.put("contextualized", new SimilarityMetricWrapper(new JaccardSimilarity()));
 		return occurrences.get(occurrencesString());
 	}
 	
-	private String indexPath(String knowledgeBase) {
+	public String indexPath(String knowledgeBase) {
 		HashMap<String, String> paths = new HashMap<String, String>();
 		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
 		paths.put("dbpedia-ontology", "../evaluation/labeller-indexes/dbpedia-ontology/properties");

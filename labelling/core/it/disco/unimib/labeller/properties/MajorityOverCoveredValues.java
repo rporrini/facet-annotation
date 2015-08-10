@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResource;
+import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
@@ -23,8 +23,8 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 	}
 	
 	@Override
-	public List<CandidateResource> typeOf(ContextualizedValues request) throws Exception {
-		Distribution values = new CandidateProperties(index).forValues(request, query);
+	public List<CandidateProperty> annotate(ContextualizedValues request) throws Exception {
+		PropertyDistribution values = new CandidateProperties(index).forValues(request, query);
 		HashMap<String, Double> propertyCounts = new HashMap<String, Double>();
 		for(String value : values.values()){
 			for(String result : values.properties()){
@@ -32,12 +32,12 @@ public class MajorityOverCoveredValues implements AnnotationAlgorithm{
 				if(values.scoreOf(result, value) > 0) propertyCounts.put(result, propertyCounts.get(result) + 1);
 			}
 		}
-		List<CandidateResource> results = new ArrayList<CandidateResource>();
+		List<CandidateProperty> results = new ArrayList<CandidateProperty>();
 		for(String property : propertyCounts.keySet()){
 			double count = propertyCounts.get(property);
 			double percentage = count / (double) request.all().length;
 			if(percentage > threshold){
-				CandidateResource e = new CandidateResource(property);
+				CandidateProperty e = new CandidateProperty(property);
 				e.sumScore(percentage);
 				results.add(e);
 			}

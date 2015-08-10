@@ -1,5 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.TextField;
@@ -18,8 +21,9 @@ public class Evidence implements WriteStore{
 	private IndexWriter writer;
 	private Directory directory;
 	private IndexFields indexFields;
+	private TypeHierarchy hierarchy;
 
-	public Evidence(Directory directory, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
+	public Evidence(Directory directory, TypeHierarchy hierarchy, EntityValues types, EntityValues labels, IndexFields fields) throws Exception {
 		this.directory = directory;
 		
 		this.subjectTypes = new CachedStore(types, 1000);
@@ -29,33 +33,58 @@ public class Evidence implements WriteStore{
 		this.objectLabels = new CachedStore(labels, 1000);
 		
 		this.indexFields = fields;
+		
+		this.hierarchy = hierarchy;
 	}
 	
 	public Evidence add(NTriple triple) throws Exception {
+		RDFResource object = triple.object();
+		RDFResource property = triple.property();
+		RDFResource subject = triple.subject();
+		
 		Document document = new Document();
 		
-		document.add(new Field(indexFields.property(), triple.property().uri(), TextField.TYPE_STORED));
-		String value = triple.object().uri().contains("http://") ? "" : triple.object().uri();
-		for(CandidateResource label : this.objectLabels.get(triple.object().uri())){
-			value += " " + label.id();
+		document.add(new Field(indexFields.property(), property.uri(), TextField.TYPE_STORED));
+		
+		String value = object.uri().contains("http://") ? "" : triple.object().uri();
+		for(CandidateProperty label : this.objectLabels.get(triple.object().uri())){
+			value += " " + label.uri();
 		}		
 		document.add(new Field(indexFields.literal(), value, TextField.TYPE_STORED));
-		for(CandidateResource type : this.objectTypes.get(triple.object().uri())){
-			document.add(new Field(indexFields.objectType(), type.id(), TextField.TYPE_STORED));
+		
+		if(!object.isLiteral()){
+			add(document, this.objectTypes.get(object.uri()), indexFields.objectType());
+		}else{
+			document.add(new Field(indexFields.objectType(), object.datatype().uri(), TextField.TYPE_STORED));
 		}
+		
 		String context = "";
-		for(CandidateResource type : this.subjectTypes.get(triple.subject().uri())){
-			for(CandidateResource label : this.subjectLabels.get(type.id())){
-				context += " " + label.id();
+		List<CandidateProperty> subjectTypes = this.subjectTypes.get(subject.uri());
+		add(document, subjectTypes, indexFields.subjectType());
+		
+		for(CandidateProperty type : subjectTypes){
+			for(CandidateProperty label : this.subjectLabels.get(type.uri())){
+				context += " " + label.uri();
 			}
-			document.add(new Field(indexFields.subjectType(), type.id(), TextField.TYPE_STORED));
 		}
+		
 		document.add(new Field(indexFields.context(), context, TextField.TYPE_STORED));
-		document.add(new Field(indexFields.namespace(), triple.property().namespace(), TextField.TYPE_STORED));
-		document.add(new Field(indexFields.label(), triple.property().label(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.namespace(), property.namespace(), TextField.TYPE_STORED));
+		document.add(new Field(indexFields.label(), property.label(), TextField.TYPE_STORED));
 		
 		openWriter().addDocument(document);
 		return this;
+	}
+
+	private void add(Document document, List<CandidateProperty> types, String field) {
+		List<CandidateProperty> toMinimize = new ArrayList<CandidateProperty>();
+		for(CandidateProperty type : types){
+			if(!type.uri().contains("/resource/Category:")) toMinimize.add(type);
+		}
+		
+		for(Type minimalType : new EntityTypes(hierarchy).minimize(toMinimize.toArray(new CandidateProperty[toMinimize.size()]))){
+			document.add(new Field(field, minimalType.uri(), TextField.TYPE_STORED));
+		}
 	}
 	
 	public Evidence closeWriter() throws Exception {
@@ -65,9 +94,7 @@ public class Evidence implements WriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
-			writer = new IndexWriter(directory, 
-									 new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer())
-					.setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer()).setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}

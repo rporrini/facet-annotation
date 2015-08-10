@@ -5,6 +5,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 
+import org.semanticweb.yars.nx.Resource;
 import org.semanticweb.yars.nx.parser.NxParser;
 import org.semanticweb.yars.nx.parser.ParseException;
 
@@ -32,7 +33,7 @@ public class TypeHierarchy {
 			subType.addSuperType(superType);
 			superType.addSubType(subType);
 		}
-		Type root = new Type(new RDFResource("ROOT"));
+		Type root = new Type(new RDFResource(new Resource("ROOT")));
 		for(Type type : this.getRootTypes()){
 			root.addSubType(type);
 			type.addSuperType(root);
@@ -40,7 +41,7 @@ public class TypeHierarchy {
 		this.types.put("ROOT", root);
 	}
 	
-	public Type typeOf(String type){
+	public Type typeFrom(String type){
 		return types.get(type);
 	}
 	

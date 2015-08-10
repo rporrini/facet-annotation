@@ -1,7 +1,8 @@
 package it.disco.unimib.labeller.index;
 
+import it.disco.unimib.labeller.properties.TypeDistribution;
+
 import java.util.HashMap;
-import java.util.Map;
 
 import org.apache.commons.lang3.StringUtils;
 
@@ -23,12 +24,12 @@ public class ScaledDepths implements TypeConsistency {
 		return depth;
 	}
 
-	public double consistencyOf(Map<String, Double> objects) {
+	public double consistencyOf(TypeDistribution types) {
 		double tot=0;
-		for(String type : objects.keySet()){
-			tot += (objects.get(type) * of(type));
+		for(String type : types.all()){
+			tot += ((types.propertyOccurrenceForType(type) / types.propertyOccurrence()) * of(type));
 		}
-		if(!objects.isEmpty()) tot = tot / (double)objects.size();
+		if(types.size() != 0) tot = tot / (double)types.size();
 		return tot;
 	}
 }

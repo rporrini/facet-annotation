@@ -9,15 +9,37 @@ public class Events{
 		PropertyConfigurator.configureAndWatch("log4j.properties");
 	}
 	
+	public static Events simple(){
+		return new Events(cleanedLogger());
+	}
+	
+	public static Events verbose(){
+		return new Events(rootLogger());
+	}
+	
+	private Logger logger;
+	
+	private Events(){
+		this(rootLogger());
+	}
+	
+	private Events(Logger logger){
+		this.logger = logger;
+	}
+	
 	public void error(Object message, Exception exception){
-		logger().error(message, exception);
+		logger.error(message, exception);
 	}
 
 	public void debug(Object message) {
-		logger().debug(message);
+		logger.debug(message);
 	}
 	
-	private Logger logger() {
+	private static Logger rootLogger() {
 		return Logger.getLogger("");
+	}
+	
+	private static Logger cleanedLogger(){
+		return Logger.getLogger("cleaned");
 	}
 }

@@ -1,6 +1,6 @@
 package it.disco.unimib.labeller.properties;
 
-import it.disco.unimib.labeller.index.CandidateResourceSet;
+import it.disco.unimib.labeller.index.CandidateResources;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.SelectionCriterion;
@@ -16,11 +16,11 @@ public class CandidateProperties implements Properties{
 	}
 
 	@Override
-	public Distribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
-		HashMap<String, CandidateResourceSet> results = new HashMap<String, CandidateResourceSet>();
+	public PropertyDistribution forValues(ContextualizedValues request, SelectionCriterion query) throws Exception {
+		HashMap<String, CandidateResources> results = new HashMap<String, CandidateResources>();
 		for(ContextualizedValues singleRequest: request.split()){
 			results.put(singleRequest.first(), index.get(singleRequest, query.asQuery(singleRequest)));
 		}
-		return new Distribution(results);
+		return new PropertyDistribution(results);
 	}
 }

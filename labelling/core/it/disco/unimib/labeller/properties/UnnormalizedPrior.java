@@ -2,9 +2,9 @@ package it.disco.unimib.labeller.properties;
 
 public class UnnormalizedPrior {
 
-	private Distribution distribution;
+	private PropertyDistribution distribution;
 
-	public UnnormalizedPrior(Distribution valueDistribution) {
+	public UnnormalizedPrior(PropertyDistribution valueDistribution) {
 		this.distribution = valueDistribution;
 	}
 

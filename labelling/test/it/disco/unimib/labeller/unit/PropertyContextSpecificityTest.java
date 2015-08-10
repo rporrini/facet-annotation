@@ -8,6 +8,7 @@ import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.EntityValues;
 import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
 
 import org.apache.lucene.store.Directory;
@@ -29,10 +30,11 @@ public class PropertyContextSpecificityTest {
 																				.withLiteral("context")
 																				.asTriple())
 																.closeWriter();
-		new Evidence(directory, 
-										types,
-										labels,
-										new IndexFields("dbpedia"))
+		new Evidence(directory,
+					new TypeHierarchy(new InputFileTestDouble()),
+					types,
+					labels,
+					new IndexFields("dbpedia"))
 												.add(new TripleBuilder().withSubject("a_subject")
 																		.withProperty("predicate")
 																		.withLiteral("value").asTriple())

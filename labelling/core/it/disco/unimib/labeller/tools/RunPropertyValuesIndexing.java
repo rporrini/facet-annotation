@@ -7,6 +7,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.InputFile;
 import it.disco.unimib.labeller.index.Triples;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import java.io.File;
 import java.util.concurrent.ExecutorService;
@@ -22,12 +23,14 @@ public class RunPropertyValuesIndexing {
 		String typesDirectory = args[2];
 		String labelsDirectory = args[3];
 		int concurrentThreads = Integer.parseInt(args[4]);
+		String hierarchy = args[5];
 		String knowledgeBase = propertiesDirectory.split("/")[0];
 		
 		EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
 		EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
 		
-		final Evidence properties = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + propertiesDirectory)), 
+		final Evidence properties = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + propertiesDirectory)),
+															new TypeHierarchy(new InputFile(new File("../evaluation/" + hierarchy))),
 															types, 
 															labels,
 															new IndexFields(knowledgeBase));
@@ -39,7 +42,7 @@ public class RunPropertyValuesIndexing {
 					try {
 						new Triples(new InputFile(file)).fill(properties, new AcceptAll());
 					} catch (Exception e) {
-						new Events().error("processing file: " + file, e);
+						Events.verbose().error("processing file: " + file, e);
 					}
 				}
 			});

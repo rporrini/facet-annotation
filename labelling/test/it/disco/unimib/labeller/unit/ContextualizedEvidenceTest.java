@@ -11,6 +11,7 @@ import it.disco.unimib.labeller.index.Evidence;
 import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.OnlyProperty;
 import it.disco.unimib.labeller.index.PartiallyContextualizedProperty;
+import it.disco.unimib.labeller.index.TypeHierarchy;
 
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -35,10 +36,11 @@ public class ContextualizedEvidenceTest {
 	@Test
 	public void shouldGiveOneResultWhenMatchesPredicate() throws Exception {
 		Directory directory = new RAMDirectory();
-		new Evidence(directory, 
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new IndexFields("dbpedia"))
+		new Evidence(directory,
+					new TypeHierarchy(new InputFileTestDouble()),
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
 		
@@ -56,6 +58,7 @@ public class ContextualizedEvidenceTest {
 		
 		Directory directory = new RAMDirectory();
 		new Evidence(directory, 
+					new TypeHierarchy(new InputFileTestDouble()),
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					new EntityValues(new RAMDirectory()).closeWriter(),
 					fields)
@@ -72,10 +75,11 @@ public class ContextualizedEvidenceTest {
 	@Test
 	public void shouldGiveManyResultWhenMatchesPredicate() throws Exception {
 		Directory directory = new RAMDirectory();
-		new Evidence(directory, 
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new EntityValues(new RAMDirectory()).closeWriter(),
-									new IndexFields("dbpedia"))
+		new Evidence(directory,
+					new TypeHierarchy(new InputFileTestDouble()),
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					new EntityValues(new RAMDirectory()).closeWriter(),
+					new IndexFields("dbpedia"))
 								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.add(new TripleBuilder().withProperty("http://predicate").asTriple())
 								.closeWriter();
@@ -109,9 +113,10 @@ public class ContextualizedEvidenceTest {
 								.closeWriter();
 		
 		new Evidence(directory, 
-									types,
-									labels,
-									new IndexFields("dbpedia"))
+					new TypeHierarchy(new InputFileTestDouble()),
+					types,
+					labels,
+					new IndexFields("dbpedia"))
 								.add(new TripleBuilder()
 											.withSubject("http://subject")
 											.withProperty("http://predicate")

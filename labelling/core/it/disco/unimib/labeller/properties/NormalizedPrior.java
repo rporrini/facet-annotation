@@ -8,12 +8,12 @@ public class NormalizedPrior {
 	private Normalize normalizer;
 	private UnnormalizedPrior unnormalizedPrior;
 
-	public NormalizedPrior(Distribution distribution, UnnormalizedPrior prior) {
+	public NormalizedPrior(PropertyDistribution distribution, UnnormalizedPrior prior) {
 		this.unnormalizedPrior = prior;
 		this.normalizer = normalized(distribution);
 	}
 
-	private Normalize normalized(Distribution distribution) {
+	private Normalize normalized(PropertyDistribution distribution) {
 		List<Double> scores = new ArrayList<Double>();
 		for(String property : distribution.properties()){
 			scores.add(unnormalizedPrior.of(property));

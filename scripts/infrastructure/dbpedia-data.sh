@@ -90,6 +90,22 @@ if [ ! -d "dbpedia-raw-properties" ]; then
 	rm raw_infobox_properties_en.nt
 	cd ..
 fi
+if [ ! -d "dbpedia-domains" ]; then
+	mkdir dbpedia-domains
+	cd dbpedia-domains
+	wget http://abstat.disco.unimib.it/downloads/dbpedia-3.9-infobox-domains.tar.gz
+	tar -zxvf dbpedia-3.9-infobox-domains.tar.gz --strip-components=1
+	rm -rf dbpedia-3.9-infobox-domains.tar.gz
+	cd ..
+fi
+if [ ! -d "dbpedia-ranges" ]; then
+	mkdir dbpedia-ranges
+	cd dbpedia-ranges
+	wget http://abstat.disco.unimib.it/downloads/dbpedia-3.9-infobox-ranges.tar.gz
+	tar -zxvf dbpedia-3.9-infobox-ranges.tar.gz --strip-components=1
+	rm -rf dbpedia-3.9-infobox-ranges.tar.gz
+	cd ..
+fi
 
 cd $root
 signal "Done"

@@ -12,8 +12,8 @@ cd $root
 if [[ $kb == yago1 ]] || [[ $kb == '' ]]
 then
 	echo "Building indexes for YAGO1"
-	scripts/indexes/build-index-for-yago1.sh
 	scripts/indexes/scaled-depths-for-yago1.sh
+	scripts/indexes/build-index-for-yago1.sh
 
 	echo "Running experiments for YAGO1"
 	./run-all-algorithms.sh yago1
@@ -25,8 +25,8 @@ fi
 if [[ $kb == dbpedia ]] || [[ $kb == '' ]]
 then
 	echo "Building indexes for DBPedia"
-	scripts/indexes/build-index-for-dbpedia.sh
 	scripts/indexes/scaled-depths-for-dbpedia.sh
+	scripts/indexes/build-index-for-dbpedia.sh
 
 	echo "Running experiments for DBPedia"
 	./run-all-algorithms.sh dbpedia
