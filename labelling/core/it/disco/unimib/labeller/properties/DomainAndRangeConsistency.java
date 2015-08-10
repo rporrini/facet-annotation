@@ -62,8 +62,8 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			CandidateProperty resource = new CandidateProperty(property);
 			resource.multiplyScore(domainSimilarity);
 			resource.multiplyScore(rangeSimilarity);
-			resource.multiplyScore(smoothedWFreq);
-			resource.multiplyScore(coverage);
+//			resource.multiplyScore(smoothedWFreq);
+//			resource.multiplyScore(coverage);
 			
 			results.add(resource);
 		}
