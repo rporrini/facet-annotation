@@ -63,7 +63,7 @@ public class WeightedFrequencyCoverageAndSpecificity implements AnnotationAlgori
 	}
 
 	private double smoothedWeightedFrequency(double frequencyOverValues, PropertyDistribution distribution) {
-		return Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
+		return 1.0 / (1.0 + (Math.exp(((double)distribution.values().size() / 2) - frequencyOverValues)));
 	}
 
 	private double rangeDiscriminancy(String property, PropertyDistribution distribution) {
