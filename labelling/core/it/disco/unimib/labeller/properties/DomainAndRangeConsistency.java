@@ -41,7 +41,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 				frequencyOverValues += score;
 			}
 			
-			CosineSimilarity similarity = new CosineSimilarity();
+			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
 			
 			TypeDistribution domains = statistics.domainsOf(property);
 			TypeDistribution domainSummaries = this.domainSummaries.of(property);
