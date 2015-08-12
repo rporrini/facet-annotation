@@ -1,14 +1,19 @@
 package it.disco.unimib.labeller.properties;
 
+import java.util.HashSet;
+
 public class WeightedJaccardSimilarity {
 	
 	public double between(TypeDistribution d1, TypeDistribution d2){
 		double intersection = 0.0;
 		double union = 0.0;
 		
-		for(String t1 : d1.all()){
-			double w1 = weightOf(t1, d1);
-			double w2 = weightOf(t1, d2);
+		HashSet<String> types = new HashSet<String>(d1.all());
+		types.addAll(d2.all());
+		
+		for(String type : types){
+			double w1 = weightOf(type, d1);
+			double w2 = weightOf(type, d2);
 			
 			intersection += Math.min(w1, w2);
 			union += Math.max(w1, w2);

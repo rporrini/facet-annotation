@@ -1,5 +1,7 @@
 package it.disco.unimib.labeller.properties;
 
+import java.util.HashSet;
+
 public class CosineSimilarity {
 
 	public double between(TypeDistribution d1, TypeDistribution d2) {
@@ -9,8 +11,12 @@ public class CosineSimilarity {
 
 	private double dotProduct(TypeDistribution d1, TypeDistribution d2){
 		double result = 0;
-		for(String t1 : d1.all()){
-			result += weightOf(t1, d1) * weightOf(t1, d2);
+		
+		HashSet<String> types = new HashSet<String>(d1.all());
+		types.addAll(d2.all());
+		
+		for(String type : types){
+			result += weightOf(type, d1) * weightOf(type, d2);
 		}
 		return result;
 	}

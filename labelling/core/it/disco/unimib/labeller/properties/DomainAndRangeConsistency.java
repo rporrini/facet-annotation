@@ -41,7 +41,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 				frequencyOverValues += score;
 			}
 			
-			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
+			CosineSimilarity similarity = new CosineSimilarity();
 			
 			TypeDistribution domains = statistics.domainsOf(property);
 			TypeDistribution domainSummaries = this.domainSummaries.of(property);
@@ -54,16 +54,16 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			track("dataset ranges", property, ranges);
 			track("summary ranges", property, rangeSummaries);
 			
-			double domainSimilarity = Math.log(similarity.between(domains, domainSummaries) + 1.0000001);
-			double rangeSimilarity = Math.log(similarity.between(ranges, rangeSummaries) + 1.0000001);
+			double domainSimilarity = Math.log(similarity.between(domains, domainSummaries) + 1.000000001);
+			double rangeSimilarity = Math.log(similarity.between(ranges, rangeSummaries) + 1.000000001);
 			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			
 			CandidateProperty resource = new CandidateProperty(property);
 			resource.multiplyScore(domainSimilarity);
 			resource.multiplyScore(rangeSimilarity);
-//			resource.multiplyScore(smoothedWFreq);
-//			resource.multiplyScore(coverage);
+			resource.multiplyScore(smoothedWFreq);
+			resource.multiplyScore(coverage);
 			
 			results.add(resource);
 		}
