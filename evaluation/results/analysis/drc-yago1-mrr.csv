@@ -1,0 +1,149 @@
+gold standard: ../evaluation/gold-standards/yago1-enhanced.qrels
+results: ../evaluation/results/yago1-results/drc-contextualized-partial.qrels
+recip_rank: 0.8554
+15.0 improvable groups over 83.0 (recip_rank < 1.0)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252157 TYPE LABEL: wordnet-state-108654360 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	bornIn (0.9821695750194199)
+	diedIn (0.9688334708197198)
+	livesIn (0.03271938877229876)
+	hasFamilyName (0.0010982374208632734)
+	isAffiliatedTo (5.108986292579364E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252159 TYPE LABEL: wordnet-state-108654360 (12 elements)
+[Barcelona, Barinas, Barquisimeto, Ciudad Bolívar, Coro, Maracay, Puerto Ayacucho, San Carlos, San Fernando de Apure, San Juan De Los Morros] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (6.595536945557361E-4)
+	hasFamilyName (2.3341458929391386E-4)
+	livesIn (2.2398693732242412E-4)
+	bornIn (2.1343718870989618E-4)
+------------------------------------------
+recip_rank: 0.0
+ID: 1091252221 TYPE LABEL: wordnet-state-108654360 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	bornIn (0.9821695750194199)
+	diedIn (0.9688334708197198)
+	livesIn (0.03271938877229876)
+	hasFamilyName (0.0010982374208632734)
+	isAffiliatedTo (5.108986292579364E-5)
+------------------------------------------
+recip_rank: 0.25
+ID: 1113646317 TYPE LABEL: wikicategory-American-science-fiction-writers (20 elements)
+[After the Fall, Being Human, Captain's Table: Once Burned, Dark Allies, Double Helix: Double or Nothing, End Game, Excalibur #1: Requiem, Excalibur #2: Renaissance, Excalibur #3: Restoration, Fire on High] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	created (0.352322546863836)
+	directed (3.461024294798864E-4)
+	produced (1.8738900600944646E-4)
+	wrote (4.253362295597266E-5)
+	actedIn (2.6342034451927205E-5)
+------------------------------------------
+recip_rank: 0.5
+ID: 1158179821 TYPE LABEL: wikicategory-Indian-film-directors (27 elements)
+[1. Kabul Express 2. Ekantham, 1. Laado 2. Dollar Dreams, 1. Patal Ghar 2. Prohor, Aadhar Sila, Bhoothakkannadi, Daya, Ekti Jiban, Grahanam, Haldhaar, Jaane Bhi Do Yaaron] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+directed (1.0)	actedIn (1.0785047825524888E-6)
+	directed (7.192391274911669E-7)
+	created (3.051367334858045E-7)
+	hasWonPrize (1.7134847311987536E-7)
+	produced (9.252482678620543E-8)
+------------------------------------------
+recip_rank: 0.0
+ID: 1277134564 TYPE LABEL: wordnet-educational-institution-108276342 (36 elements)
+[Albuquerque, New Mexico, Ann Arbor, Michigan, Austin, Texas, Berkeley, California, Bethesda, Maryland, Cambridge, Massachusetts, College Park, Maryland, College Station, TX, Columbia, Missouri, Columbus, Ohio] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	graduatedFrom (5.511634284268989E-8)
+	diedIn (1.1230822055457473E-8)
+	bornIn (9.094743389272345E-9)
+	worksAt (6.260339254591185E-9)
+	livesIn (2.2600090908821073E-9)
+------------------------------------------
+recip_rank: 0.5
+ID: 187186279 TYPE LABEL: wikicategory-Newbery-Medal-winners wikicategory-American-children's-writers (6 elements)
+[A Single Shard, Bud , Not Buddy, Crispin, Holes, Shiloh, Walk Two Moons] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	created (0.2833511858495594)
+	wrote (0.1167916441925499)
+	produced (0.09860925835424866)
+	hasGivenName (0.03410145106999819)
+	hasFamilyName (0.031911581134452846)
+------------------------------------------
+recip_rank: 0.3333
+ID: 187186306 TYPE LABEL: wikicategory-Newbery-Medal-winners wikicategory-American-children's-writers (20 elements)
+[A Single Shard, Beauty, Bud Not Buddy, Catherine Called Birdy, Crash, Giver , The, Holes, Jacob Have I Loved, Julie, Lincoln : a Photobiography] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	created (0.25103316406716386)
+	hasGivenName (0.1931242293941713)
+	wrote (0.0744291677719283)
+	produced (0.00897553378487421)
+	bornIn (0.0018679085435977147)
+------------------------------------------
+recip_rank: 0.5
+ID: 187186403 TYPE LABEL: wikicategory-Newbery-Medal-winners wikicategory-American-children's-writers (62 elements)
+[Alice In Rapture , Sort Of, All About Sam, Anastasia , Ask Your Analyst, Anastasia At Your Service, Anastasia On Her Own, Attaboy , Sam !, Beetles , Lightly Toasted, Black Star , Bright Dawn, Building Blocks, Come Sing , Jimmy Jo] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+wrote (1.0)	hasGivenName (8.422804378757274E-10)
+	wrote (1.1628773031050226E-12)
+	created (1.9215388034925707E-13)
+	directed (1.0628657251770327E-14)
+	produced (1.0586425516899002E-14)
+------------------------------------------
+recip_rank: 0.3333
+ID: 313326649 TYPE LABEL: wordnet-actor-109765278 (20 elements)
+[BLONDIE HITS THE JACKPOT, BOOM TOWN, CHAPLIN CAVALCADE, CHARLEY'S AUNT, Color LC with both stars, COMMENTS, DESPERATE, Film Noir; nice RKO Litho, Late 40's festival of Chaplin shorts, LC with Dagwood] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	livesIn (0.05103353976598185)
+	created (6.793325789100323E-5)
+	actedIn (5.6228192220551804E-5)
+	directed (2.2832016200751584E-5)
+	bornIn (2.0819615104999384E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 313326676 TYPE LABEL: wordnet-actor-109765278 (1 elements)
+[Kudiyiruntha Koyil] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	notFound (0.0)
+------------------------------------------
+recip_rank: 0.25
+ID: 313326743 TYPE LABEL: wordnet-actor-109765278 (36 elements)
+[1776 , Airplane II: The Sequel , Alexander Hamilton , Amistad , Brave Warrior , Buffalo Bill , California , Collision Course: Truman vs. MacArthur , DC 9/11: Time of Crisis , Hot Shots! Part Deux ] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+actedIn (1.0)	livesIn (0.05729485583931598)
+	hasFamilyName (8.122146919498112E-4)
+	bornIn (6.64939188464389E-6)
+	actedIn (3.03958261406014E-6)
+	directed (1.7230669417885258E-7)
+------------------------------------------
+recip_rank: 0.3333
+ID: 36783413 TYPE LABEL: wordnet-country-108544813 (43 elements)
+[Abidjan, Alma-Atta, Almaty, Auckland, Belize City, Bergen, Bingerville, Bonn, Bursa, Calcutta] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	participatedIn (1.752287163388011E-8)
+	locatedIn (3.2078102688636508E-9)
+	hasCapital (7.615186620498831E-10)
+	originatesFrom (5.239991450866287E-10)
+	hasGivenName (9.517413741374929E-11)
+------------------------------------------
+recip_rank: 0.0
+ID: 419289932 TYPE LABEL: wordnet-state-108168978 (50 elements)
+[Albany, Annapolis, Atlanta, Augusta, Austin, Baton Rouge, Bismarck, Boise, Boston, Carson City] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+hasCapital (1.0)	bornIn (0.9821695750194199)
+	diedIn (0.9688334708197198)
+	livesIn (0.03271938877229876)
+	hasFamilyName (0.0010982374208632734)
+	isAffiliatedTo (5.108986292579364E-5)
+------------------------------------------
+recip_rank: 0.0
+ID: 456839985 TYPE LABEL: wordnet-educational-institution-108276342 (34 elements)
+[Albuquerque , NM, Ann Arbor , MI, Austin , TX, Bethesda , MD, Cambridge , MA, College Park , MD, College Station , TX, Columbia , MO, Columbus , OH, Corvallis , OR] ... 
+EXPECTED PROPERTIES (rel. judgement)	ACTUAL PROPERTIES (score)
+locatedIn (1.0)	diedIn (2.6935642389782882E-8)
+	bornIn (2.2662960525921724E-8)
+	livesIn (4.625894319931916E-9)
+	graduatedFrom (1.9571080074950242E-9)
+	worksAt (1.458510493258305E-9)
