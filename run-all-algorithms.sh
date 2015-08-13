@@ -37,5 +37,5 @@ skip_baselines=$2
 run-conditional mh simple partial $dataset $skip_baselines
 run-conditional ml simple partial $dataset $skip_baselines
 run mhw contextualized partial $dataset
-#run drc contextualized partial $dataset
+run drc contextualized partial $dataset
 
