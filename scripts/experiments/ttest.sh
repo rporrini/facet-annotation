@@ -66,3 +66,4 @@ cd $root
 cd ../../labelling
 
 print_results mhw
+print_results drc
