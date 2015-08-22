@@ -34,10 +34,12 @@ import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class BenchmarkParameters{
 	
-	private Command command; 
+	private Command command;
+	private String evaluationPath; 
 
 	public BenchmarkParameters(Command command) throws Exception {
 		this.command = command;
+		this.evaluationPath = "../evaluation";
 	}
 	
 	public Summary analysis() throws Exception{
@@ -95,10 +97,10 @@ public class BenchmarkParameters{
 
 	private TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {
 		if(knowledgeBase.startsWith("yago1")){
-			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/yago1/depths/types.csv")));
+			return new ScaledDepths(new InputFile(new File(evaluationPath + "/labeller-indexes/yago1/depths/types.csv")));
 		}
 		if(knowledgeBase.startsWith("dbpedia")){
-			return new ScaledDepths(new InputFile(new File("../evaluation/labeller-indexes/dbpedia/depths/types.csv")));
+			return new ScaledDepths(new InputFile(new File(evaluationPath + "/labeller-indexes/dbpedia/depths/types.csv")));
 		}
 		return null;
 	}
@@ -106,10 +108,10 @@ public class BenchmarkParameters{
 	private DatasetSummary domainSummariesFrom(String knowledgeBase) throws Exception {
 		String directory = "";
 		if(knowledgeBase.startsWith("yago1")){
-			directory = "../evaluation/yago1-domains";
+			directory = evaluationPath + "/yago1-domains";
 		}
 		if(knowledgeBase.startsWith("dbpedia")){
-			directory = "../evaluation/dbpedia-domains";
+			directory = evaluationPath + "/dbpedia-domains";
 		}
 		return summaryFrom(directory);
 	}
@@ -117,12 +119,17 @@ public class BenchmarkParameters{
 	private DatasetSummary rangeSummariesFrom(String knowledgeBase) throws Exception {
 		String directory = "";
 		if(knowledgeBase.startsWith("yago1")){
-			directory = "../evaluation/yago1-ranges";
+			directory = evaluationPath + "/yago1-ranges";
 		}
 		if(knowledgeBase.startsWith("dbpedia")){
-			directory = "../evaluation/dbpedia-ranges";
+			directory = evaluationPath + "/dbpedia-ranges";
 		}
 		return summaryFrom(directory);
+	}
+	
+	public BenchmarkParameters evaluationPath(String path){
+		this.evaluationPath = path;
+		return this;
 	}
 	
 	public GoldStandard goldStandard() throws Exception {
@@ -147,21 +154,21 @@ public class BenchmarkParameters{
 	
 	public String indexPath(String knowledgeBase) {
 		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", "../evaluation/labeller-indexes/dbpedia/properties");
-		paths.put("dbpedia-ontology", "../evaluation/labeller-indexes/dbpedia-ontology/properties");
-		paths.put("dbpedia-with-labels", "../evaluation/labeller-indexes/dbpedia/properties");
-		paths.put("yago1", "../evaluation/labeller-indexes/yago1/properties");
-		paths.put("yago1-simple", "../evaluation/labeller-indexes/yago1/properties");
+		paths.put("dbpedia", evaluationPath + "/labeller-indexes/dbpedia/properties");
+		paths.put("dbpedia-ontology", evaluationPath + "/labeller-indexes/dbpedia-ontology/properties");
+		paths.put("dbpedia-with-labels", evaluationPath + "/labeller-indexes/dbpedia/properties");
+		paths.put("yago1", evaluationPath + "/labeller-indexes/yago1/properties");
+		paths.put("yago1-simple", evaluationPath + "/labeller-indexes/yago1/properties");
 		return paths.get(knowledgeBase);
 	}
 	
 	private String goldStandardPath() throws Exception {
 		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", "../evaluation/gold-standards/dbpedia-enhanced");
-		paths.put("dbpedia-ontology", "../evaluation/gold-standards/dbpedia-enhanced-ontology");
-		paths.put("dbpedia-with-labels", "../evaluation/gold-standards/dbpedia-enhanced");
-		paths.put("yago1", "../evaluation/gold-standards/yago1-enhanced");
-		paths.put("yago1-simple", "../evaluation/gold-standards/yago1-simple");
+		paths.put("dbpedia", evaluationPath + "/gold-standards/dbpedia-enhanced");
+		paths.put("dbpedia-ontology", evaluationPath + "/gold-standards/dbpedia-enhanced-ontology");
+		paths.put("dbpedia-with-labels", evaluationPath + "/gold-standards/dbpedia-enhanced");
+		paths.put("yago1", evaluationPath + "/gold-standards/yago1-enhanced");
+		paths.put("yago1-simple", evaluationPath + "/gold-standards/yago1-simple");
 		return paths.get(knowledgeBaseString());
 	}
 	
