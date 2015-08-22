@@ -10,9 +10,6 @@
 	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-codec-1.7.jar"/>
-	<classpathentry kind="lib" path="lib/httpclient-4.2.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpcore-4.2.2.jar"/>
-	<classpathentry kind="lib" path="lib/httpmime-4.2.3.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
@@ -28,5 +25,8 @@
 	<classpathentry kind="lib" path="lib/lucene-codecs-4.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-math3-3.2.jar"/>
 	<classpathentry kind="lib" path="lib/junit-benchmarks-0.7.0.jar"/>
+	<classpathentry kind="lib" path="/stan/lib/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="/stan/lib/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/stan/lib/httpmime-4.5.jar"/>
 	<classpathentry kind="output" path="build/eclipse"/>
 </classpath>
