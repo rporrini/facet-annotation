@@ -1,20 +1,11 @@
 package it.disco.unimib.labeller.benchmark;
 
-import it.disco.unimib.labeller.index.ConstantSimilarity;
 import it.disco.unimib.labeller.index.ContextualizedEvidence;
-import it.disco.unimib.labeller.index.FullyContextualizedValue;
 import it.disco.unimib.labeller.index.Index;
 import it.disco.unimib.labeller.index.IndexFields;
-import it.disco.unimib.labeller.index.InputFile;
-import it.disco.unimib.labeller.index.OnlyValue;
-import it.disco.unimib.labeller.index.PartiallyContextualizedValue;
-import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SelectionCriterion;
-import it.disco.unimib.labeller.index.SimilarityMetric;
-import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
 import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.properties.AnnotationAlgorithm;
-import it.disco.unimib.labeller.properties.DatasetSummary;
 import it.disco.unimib.labeller.properties.DomainAndRangeConsistency;
 import it.disco.unimib.labeller.properties.MajorityOverFrequencyOfProperties;
 import it.disco.unimib.labeller.properties.PropertyContextSpecificity;
@@ -24,22 +15,18 @@ import it.disco.unimib.labeller.properties.TopK;
 import it.disco.unimib.labeller.properties.WeightedFrequencyCoverageAndSpecificity;
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 import org.apache.lucene.store.NIOFSDirectory;
-
-import uk.ac.shef.wit.simmetrics.similaritymetrics.JaccardSimilarity;
 
 public class BenchmarkParameters{
 	
 	private Command command;
-	private String evaluationPath; 
+	private EvaluationResources evaluationResources; 
 
 	public BenchmarkParameters(Command command) throws Exception {
 		this.command = command;
-		this.evaluationPath = "../evaluation";
+		this.evaluationResources = new EvaluationResources();
 	}
 	
 	public Summary analysis() throws Exception{
@@ -53,14 +40,14 @@ public class BenchmarkParameters{
 		String knowledgeBase = knowledgeBaseString();
 		IndexFields fields = new IndexFields(knowledgeBase);
 		
-		SelectionCriterion context = context(fields);
-		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(indexPath(knowledgeBase))), occurrences(), fields);
+		SelectionCriterion context = evaluationResources.context(fields, contextString());
+		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(evaluationResources.indexPath(knowledgeBase))), evaluationResources.occurrences(occurrencesString()), fields);
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;
 		if(algorithm.equals("mh")) algorithmToRun = majority(index, context);
-		if(algorithm.equals("mhw")) algorithmToRun = pfd(hierarchyFrom(knowledgeBase), index, context, fields);
-		if(algorithm.equals("mhw-e")) algorithmToRun = pfdEntropy(hierarchyFrom(knowledgeBase), index, context, fields);
+		if(algorithm.equals("mhw")) algorithmToRun = pfd(evaluationResources.hierarchyFrom(knowledgeBase), index, context, fields);
+		if(algorithm.equals("mhw-e")) algorithmToRun = pfdEntropy(evaluationResources.hierarchyFrom(knowledgeBase), index, context, fields);
 		if(algorithm.equals("drc")) algorithmToRun = domainAndRangeConsistency(knowledgeBase, context, index);
 		if(algorithm.equals("ml")) algorithmToRun = maximumLikelihood(index, context);
 		
@@ -68,15 +55,7 @@ public class BenchmarkParameters{
 	}
 
 	private DomainAndRangeConsistency domainAndRangeConsistency(String knowledgeBase, SelectionCriterion context, Index index) throws Exception {
-		return new DomainAndRangeConsistency(index, context, domainSummariesFrom(knowledgeBase), rangeSummariesFrom(knowledgeBase));
-	}
-
-	private DatasetSummary summaryFrom(String directory) throws Exception {
-		List<InputFile> summaries = new ArrayList<InputFile>();
-		for(File file : new File(directory).listFiles()){
-			summaries.add(new InputFile(file));
-		}
-		return new DatasetSummary(summaries.toArray(new InputFile[summaries.size()]));
+		return new DomainAndRangeConsistency(index, context, evaluationResources.domainSummariesFrom(knowledgeBase), evaluationResources.rangeSummariesFrom(knowledgeBase));
 	}
 
 	private AnnotationAlgorithm maximumLikelihood(Index index, SelectionCriterion context) {
@@ -95,81 +74,8 @@ public class BenchmarkParameters{
 		return new MajorityOverFrequencyOfProperties(index, context);
 	}
 
-	private TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {
-		if(knowledgeBase.startsWith("yago1")){
-			return new ScaledDepths(new InputFile(new File(evaluationPath + "/labeller-indexes/yago1/depths/types.csv")));
-		}
-		if(knowledgeBase.startsWith("dbpedia")){
-			return new ScaledDepths(new InputFile(new File(evaluationPath + "/labeller-indexes/dbpedia/depths/types.csv")));
-		}
-		return null;
-	}
-	
-	private DatasetSummary domainSummariesFrom(String knowledgeBase) throws Exception {
-		String directory = "";
-		if(knowledgeBase.startsWith("yago1")){
-			directory = evaluationPath + "/yago1-domains";
-		}
-		if(knowledgeBase.startsWith("dbpedia")){
-			directory = evaluationPath + "/dbpedia-domains";
-		}
-		return summaryFrom(directory);
-	}
-	
-	private DatasetSummary rangeSummariesFrom(String knowledgeBase) throws Exception {
-		String directory = "";
-		if(knowledgeBase.startsWith("yago1")){
-			directory = evaluationPath + "/yago1-ranges";
-		}
-		if(knowledgeBase.startsWith("dbpedia")){
-			directory = evaluationPath + "/dbpedia-ranges";
-		}
-		return summaryFrom(directory);
-	}
-	
-	public BenchmarkParameters evaluationPath(String path){
-		this.evaluationPath = path;
-		return this;
-	}
-	
 	public GoldStandard goldStandard() throws Exception {
-		return new OrderedFacets(new UnorderedFacets(new File(goldStandardPath())));
-	}
-	
-	public SelectionCriterion context(IndexFields fields) throws Exception{
-		HashMap<String, SelectionCriterion> contexts = new HashMap<String, SelectionCriterion>();
-		
-		contexts.put("complete", new FullyContextualizedValue(fields));
-		contexts.put("no", new OnlyValue(fields));
-		contexts.put("partial", new PartiallyContextualizedValue(fields));
-		return contexts.get(contextString());
-	}
-	
-	public SimilarityMetric occurrences() throws Exception{
-		HashMap<String, SimilarityMetric> occurrences = new HashMap<String, SimilarityMetric>();
-		occurrences.put("simple", new ConstantSimilarity());
-		occurrences.put("contextualized", new SimilarityMetricWrapper(new JaccardSimilarity()));
-		return occurrences.get(occurrencesString());
-	}
-	
-	public String indexPath(String knowledgeBase) {
-		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", evaluationPath + "/labeller-indexes/dbpedia/properties");
-		paths.put("dbpedia-ontology", evaluationPath + "/labeller-indexes/dbpedia-ontology/properties");
-		paths.put("dbpedia-with-labels", evaluationPath + "/labeller-indexes/dbpedia/properties");
-		paths.put("yago1", evaluationPath + "/labeller-indexes/yago1/properties");
-		paths.put("yago1-simple", evaluationPath + "/labeller-indexes/yago1/properties");
-		return paths.get(knowledgeBase);
-	}
-	
-	private String goldStandardPath() throws Exception {
-		HashMap<String, String> paths = new HashMap<String, String>();
-		paths.put("dbpedia", evaluationPath + "/gold-standards/dbpedia-enhanced");
-		paths.put("dbpedia-ontology", evaluationPath + "/gold-standards/dbpedia-enhanced-ontology");
-		paths.put("dbpedia-with-labels", evaluationPath + "/gold-standards/dbpedia-enhanced");
-		paths.put("yago1", evaluationPath + "/gold-standards/yago1-enhanced");
-		paths.put("yago1-simple", evaluationPath + "/gold-standards/yago1-simple");
-		return paths.get(knowledgeBaseString());
+		return new OrderedFacets(new UnorderedFacets(new File(evaluationResources.goldStandardPath(knowledgeBaseString()))));
 	}
 	
 	private String algorithmString() throws Exception{
