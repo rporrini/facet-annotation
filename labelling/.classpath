@@ -9,22 +9,22 @@
 	<classpathentry kind="lib" path="lib/cpsuite-1.2.5.jar"/>
 	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
 	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
-	<classpathentry kind="lib" path="lib/commons-codec-1.7.jar"/>
 	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-api-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.5.jar"/>
 	<classpathentry kind="lib" path="lib/nxparser-1.2.3.jar"/>
-	<classpathentry kind="lib" path="lib/lucene-queryparser-4.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
 	<classpathentry kind="lib" path="lib/jOpenDocument-1.4rc1.jar"/>
-	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.5.1.jar"/>
-	<classpathentry kind="lib" path="lib/lucene-core-4.5.1.jar"/>
 	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
 	<classpathentry kind="lib" path="lib/commons-math3-3.2.jar"/>
 	<classpathentry kind="lib" path="lib/junit-benchmarks-0.7.0.jar"/>
 	<classpathentry kind="lib" path="lib/httpclient-4.5.jar"/>
 	<classpathentry kind="lib" path="lib/httpcore-4.4.1.jar"/>
 	<classpathentry kind="lib" path="lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-5.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-5.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-queryparser-5.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-backward-codecs-5.3.0.jar"/>
 	<classpathentry kind="output" path="build/eclipse"/>
 </classpath>

@@ -12,7 +12,6 @@ import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
-import org.apache.lucene.util.Version;
 
 public class Constraint {
 
@@ -21,7 +20,7 @@ public class Constraint {
 	private Analyzer analyzer;
 
 	public Constraint(){
-		this(new StandardAnalyzer(Version.LUCENE_45));
+		this(new StandardAnalyzer());
 	}
 	
 	public Constraint(Analyzer analyzer){

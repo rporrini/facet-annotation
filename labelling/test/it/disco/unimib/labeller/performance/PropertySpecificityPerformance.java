@@ -32,7 +32,7 @@ public class PropertySpecificityPerformance extends AbstractBenchmark {
 	Exception{
 		fields = new IndexFields("dbpedia");
 		evidence = new ContextualizedEvidence(
-							new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties")), 
+							new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/properties").toPath()), 
 							new SimilarityMetricWrapper(new JaccardSimilarity()), 
 							fields);
 	}

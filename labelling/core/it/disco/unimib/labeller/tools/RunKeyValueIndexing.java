@@ -16,7 +16,7 @@ public class RunKeyValueIndexing {
 		String destination = args[1];
 		String property = args[2];
 		
-		EntityValues index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination)));
+		EntityValues index = new EntityValues(new SimpleFSDirectory(new File("../evaluation/labeller-indexes/" + destination).toPath()));
 		for(File file : new File("../evaluation/" + source).listFiles()){
 			System.out.println("processing " + file);
 			new Triples(new InputFile(file)).fill(index, new MatchingProperty(property));

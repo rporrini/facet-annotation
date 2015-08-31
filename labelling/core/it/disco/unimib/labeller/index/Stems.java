@@ -23,6 +23,7 @@ public class Stems{
 		while(stream.incrementToken()) {
             stemmedContext = stemmedContext + " " + termAtt.toString();
         }
+		stream.close();
 		return stemmedContext.trim();
 	}
 }

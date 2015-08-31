@@ -18,7 +18,6 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.Sort;
 import org.apache.lucene.store.Directory;
-import org.apache.lucene.util.Version;
 
 public class EntityValues implements ReadAndWriteStore{
 
@@ -73,8 +72,7 @@ public class EntityValues implements ReadAndWriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception {
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, new KeywordAnalyzer())
-						.setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(new KeywordAnalyzer()).setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}
