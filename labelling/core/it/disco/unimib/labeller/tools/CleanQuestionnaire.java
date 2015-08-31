@@ -14,7 +14,7 @@ import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
-import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.jopendocument.dom.spreadsheet.MutableCell;
 import org.jopendocument.dom.spreadsheet.Sheet;
 import org.jopendocument.dom.spreadsheet.SpreadSheet;
@@ -117,7 +117,7 @@ public class CleanQuestionnaire {
 		StringEntity params =new StringEntity("{\"longUrl\":\"" + dbPediaQuery(cell, "text/html") + "\"}");
 		post.addHeader("content-type", "application/json");
 		post.setEntity(params);
-		String response = StringUtils.join(IOUtils.readLines(new DefaultHttpClient().execute(post).getEntity().getContent()), "");
+		String response = StringUtils.join(IOUtils.readLines(HttpClientBuilder.create().build().execute(post).getEntity().getContent()), "");
 		String shortUrl = new Gson().fromJson(response, JsonObject.class).get("id").getAsString();		
 		return "=HYPERLINK(\"" + shortUrl + "\";" + "\"View More\")";
 	}

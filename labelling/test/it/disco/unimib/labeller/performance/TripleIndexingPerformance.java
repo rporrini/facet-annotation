@@ -30,10 +30,10 @@ public class TripleIndexingPerformance extends AbstractBenchmark{
 	@BeforeClass
 	public static void setUp() throws Exception{
 		indexDirectory = new TemporaryDirectory();
-		types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/types")));
-		labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/labels")));
+		types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/types").toPath()));
+		labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/dbpedia/labels").toPath()));
 		
-		properties = new Evidence(new NIOFSDirectory(indexDirectory.get()),
+		properties = new Evidence(new NIOFSDirectory(indexDirectory.get().toPath()),
 											new TypeHierarchy(new InputFile(new File("../evaluation/dbpedia-type-tree/type-tree.nt"))),
 											types, 
 											labels,

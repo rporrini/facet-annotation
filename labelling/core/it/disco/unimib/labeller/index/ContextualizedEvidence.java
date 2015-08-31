@@ -48,6 +48,6 @@ public class ContextualizedEvidence implements Index{
 	}
 
 	private TopDocs runQuery(int howMany, BooleanQuery asQuery) throws Exception {
-		return searcher.search(asQuery, null, howMany, Sort.INDEXORDER, false, false);
+		return searcher.search (asQuery, howMany, Sort.INDEXORDER, false, false);
 	}
 }

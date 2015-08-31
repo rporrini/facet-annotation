@@ -9,7 +9,6 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.miscellaneous.PerFieldAnalyzerWrapper;
-import org.apache.lucene.util.Version;
 
 public class IndexFields{
 	
@@ -26,7 +25,7 @@ public class IndexFields{
 		analyzers.put(label(), new KeywordAnalyzer());
 		analyzers.put(objectType(), new KeywordAnalyzer());
 		analyzers.put(subjectType(), new KeywordAnalyzer());
-		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(Version.LUCENE_45), analyzers);
+		return new PerFieldAnalyzerWrapper(new EnglishAnalyzer(), analyzers);
 	}
 	
 	public String label(){

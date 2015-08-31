@@ -12,25 +12,24 @@ import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.MatchAllDocsQuery;
 import org.apache.lucene.search.PhraseQuery;
 import org.apache.lucene.search.Query;
-import org.apache.lucene.util.Version;
 
 public class Constraint {
 
 	private Operator operator;
-	private BooleanQuery query;
+	private BooleanQuery.Builder query;
 	private Analyzer analyzer;
 
 	public Constraint(){
-		this(new StandardAnalyzer(Version.LUCENE_45));
+		this(new StandardAnalyzer());
 	}
 	
 	public Constraint(Analyzer analyzer){
-		this.query = new BooleanQuery();
+		this.query = new BooleanQuery.Builder();
 		this.analyzer = analyzer;
 	}
 	
 	public BooleanQuery build() {
-		return query;
+		return query.build();
 	}
 
 	public Constraint allRecords() throws Exception{
@@ -48,9 +47,9 @@ public class Constraint {
 	}
 	
 	public Constraint matchExactly(String value, String field) throws Exception {
-		PhraseQuery phraseQuery = new PhraseQuery();
-		phraseQuery.add(new Term(field, value));
-		return addToQuery(phraseQuery) ;
+		PhraseQuery.Builder builder = new PhraseQuery.Builder();
+		builder.add(new Term(field, value));
+		return addToQuery(builder.build()) ;
 	}
 	
 	public Constraint match(String value, String field) throws Exception {

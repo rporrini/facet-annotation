@@ -9,7 +9,6 @@ import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
-import org.apache.lucene.util.Version;
 
 public class Evidence implements WriteStore{
 
@@ -94,7 +93,7 @@ public class Evidence implements WriteStore{
 	
 	private synchronized IndexWriter openWriter() throws Exception{
 		if(writer == null){
-			writer = new IndexWriter(directory, new IndexWriterConfig(Version.LUCENE_45, indexFields.analyzer()).setRAMBufferSizeMB(95));
+			writer = new IndexWriter(directory, new IndexWriterConfig(indexFields.analyzer()).setRAMBufferSizeMB(95));
 		}
 		return writer;
 	}

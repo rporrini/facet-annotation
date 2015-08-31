@@ -67,6 +67,7 @@ public class TripleCorpus implements WriteStore{
 		while (stream.incrementToken()) {
 			result.add(stream.getAttribute(CharTermAttribute.class).toString());
 		}
+		stream.close();
 		return StringUtils.join(result, " ");
 	}
 }

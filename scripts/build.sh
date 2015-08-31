@@ -52,6 +52,19 @@ for file in $(find ../../lib/* | grep .jar)
 do
 	jar xf $file
 done
+cd ..
+
+mkdir -p tmp
+cd tmp
+jar xf ../../lib/lucene-backward-codecs-5.3.0.jar
+cd ..
+ls tmp/META-INF/services | while read file 
+do
+	cat tmp/META-INF/services/$file >> $build/META-INF/services/$file
+done
+rm -rf tmp
+
+cd $build
 jar cvfe ../../labelling.jar -C . > /dev/null
 chmod 777 ../../labelling.jar
 signal "Done"
