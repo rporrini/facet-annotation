@@ -17,7 +17,6 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.store.NIOFSDirectory;
-import org.apache.lucene.util.Version;
 
 class RunCorpusConstruction{
 	public static void main(String[] args) throws Exception {
@@ -38,8 +37,8 @@ class RunCorpusConstruction{
 		
 		System.out.println("Building corpus for dataset " + source + " in " + target + " using " + typesDirectory + " and " + labelsDirectory + " with stemming=" + stemming);
 		
-		final EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		final EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		final EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory).toPath()));
+		final EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory).toPath()));
 		
 		ExecutorService executor = Executors.newFixedThreadPool(concurrentThreads);
 		for(final File file : new File("../evaluation/" + source).listFiles()){
@@ -58,8 +57,8 @@ class RunCorpusConstruction{
 				}
 
 				private Analyzer analyzer(String analyzerString) {
-					if(analyzerString.equals("yes")) return new EnglishAnalyzer(Version.LUCENE_45);
-					return new StandardAnalyzer(Version.LUCENE_45);
+					if(analyzerString.equals("yes")) return new EnglishAnalyzer();
+					return new StandardAnalyzer();
 				}
 			});
 		}

@@ -41,7 +41,7 @@ public class BenchmarkParameters{
 		IndexFields fields = new IndexFields(knowledgeBase);
 		
 		SelectionCriterion context = evaluationResources.context(fields, contextString());
-		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(evaluationResources.indexPath(knowledgeBase))), evaluationResources.occurrences(occurrencesString()), fields);
+		Index index = new ContextualizedEvidence(new NIOFSDirectory(new File(evaluationResources.indexPath(knowledgeBase)).toPath()), evaluationResources.occurrences(occurrencesString()), fields);
 		
 		String algorithm = algorithmString();
 		AnnotationAlgorithm algorithmToRun = null;

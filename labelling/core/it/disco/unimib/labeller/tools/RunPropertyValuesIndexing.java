@@ -26,10 +26,10 @@ public class RunPropertyValuesIndexing {
 		String hierarchy = args[5];
 		String knowledgeBase = propertiesDirectory.split("/")[0];
 		
-		EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory)));
-		EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory)));
+		EntityValues types = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + typesDirectory).toPath()));
+		EntityValues labels = new EntityValues(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + labelsDirectory).toPath()));
 		
-		final Evidence properties = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + propertiesDirectory)),
+		final Evidence properties = new Evidence(new NIOFSDirectory(new File("../evaluation/labeller-indexes/" + propertiesDirectory).toPath()),
 															new TypeHierarchy(new InputFile(new File("../evaluation/" + hierarchy))),
 															types, 
 															labels,

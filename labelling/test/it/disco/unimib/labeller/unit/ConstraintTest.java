@@ -4,11 +4,10 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
 import static org.junit.Assert.assertThat;
-import it.disco.unimib.labeller.index.IndexFields;
 import it.disco.unimib.labeller.index.Constraint;
+import it.disco.unimib.labeller.index.IndexFields;
 
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
-import org.apache.lucene.util.Version;
 import org.junit.Test;
 
 public class ConstraintTest {
@@ -103,6 +102,6 @@ public class ConstraintTest {
 	}
 	
 	private EnglishAnalyzer englishAnalyzer() {
-		return new EnglishAnalyzer(Version.LUCENE_45);
+		return new EnglishAnalyzer();
 	}
 }

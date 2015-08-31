@@ -33,7 +33,7 @@ public class EntityValuesPerformance extends AbstractBenchmark{
 		
 		indexDirectory = new TemporaryDirectory();
 		
-		types = new EntityValues(new NIOFSDirectory(indexDirectory.get()));
+		types = new EntityValues(new NIOFSDirectory(indexDirectory.get().toPath()));
 		new Triples(new InputFile(new File(here + "categories.nt"))).fill(types, new AcceptAll());
 		types.closeWriter();
 		
