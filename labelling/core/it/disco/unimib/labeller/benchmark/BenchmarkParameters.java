@@ -55,7 +55,7 @@ public class BenchmarkParameters{
 	}
 
 	private DomainAndRangeConsistency domainAndRangeConsistency(String knowledgeBase, SelectionCriterion context, Index index) throws Exception {
-		return new DomainAndRangeConsistency(index, context, evaluationResources.domainSummariesFrom(knowledgeBase), evaluationResources.rangeSummariesFrom(knowledgeBase));
+		return new DomainAndRangeConsistency(index, context, evaluationResources.domainSummariesFrom(knowledgeBase), evaluationResources.rangeSummariesFrom(knowledgeBase), evaluationResources.hierarchyFrom(knowledgeBase));
 	}
 
 	private AnnotationAlgorithm maximumLikelihood(Index index, SelectionCriterion context) {
