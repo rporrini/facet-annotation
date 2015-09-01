@@ -10,7 +10,6 @@ import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 import it.disco.unimib.labeller.index.SimilarityMetric;
 import it.disco.unimib.labeller.index.SimilarityMetricWrapper;
-import it.disco.unimib.labeller.index.TypeConsistency;
 import it.disco.unimib.labeller.properties.DatasetSummary;
 
 import java.io.File;
@@ -33,7 +32,7 @@ public class EvaluationResources {
 		return this;
 	}
 
-	public TypeConsistency hierarchyFrom(String knowledgeBase) throws Exception {
+	public ScaledDepths hierarchyFrom(String knowledgeBase) throws Exception {
 		if(knowledgeBase.startsWith("yago1")){
 			return new ScaledDepths(new InputFile(new File(evaluationPath + "/labeller-indexes/yago1/depths/types.csv")));
 		}

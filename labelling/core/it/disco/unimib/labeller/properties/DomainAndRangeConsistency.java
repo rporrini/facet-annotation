@@ -4,6 +4,7 @@ import it.disco.unimib.labeller.benchmark.Events;
 import it.disco.unimib.labeller.index.CandidateProperty;
 import it.disco.unimib.labeller.index.ContextualizedValues;
 import it.disco.unimib.labeller.index.Index;
+import it.disco.unimib.labeller.index.ScaledDepths;
 import it.disco.unimib.labeller.index.SelectionCriterion;
 
 import java.util.ArrayList;
@@ -17,12 +18,15 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 	
 	private DatasetSummary domainSummaries;
 	private DatasetSummary rangeSummaries;
+	
+	private ScaledDepths depth;
 
-	public DomainAndRangeConsistency(Index index, SelectionCriterion criterion, DatasetSummary domainSummaries, DatasetSummary rangeSummaries) {
+	public DomainAndRangeConsistency(Index index, SelectionCriterion criterion, DatasetSummary domainSummaries, DatasetSummary rangeSummaries, ScaledDepths depth) {
 		this.index = index;
 		this.selection = criterion;
 		this.domainSummaries = domainSummaries;
 		this.rangeSummaries = rangeSummaries;
+		this.depth = depth;
 	}
 
 	@Override
@@ -41,7 +45,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 				frequencyOverValues += score;
 			}
 			
-			WeightedJaccardSimilarity similarity = new WeightedJaccardSimilarity();
+			DepthJaccardSimilarity similarity = new DepthJaccardSimilarity(this.depth);
 			
 			TypeDistribution domains = statistics.domainsOf(property);
 			TypeDistribution domainSummaries = this.domainSummaries.of(property);
@@ -54,9 +58,9 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			track("dataset ranges", property, ranges);
 			track("summary ranges", property, rangeSummaries);
 			
-			double domainSimilarity = Math.log(similarity.between(domains, domainSummaries) + 1.0000001);
-			double rangeSimilarity = Math.log(similarity.between(ranges, rangeSummaries) + 1.0000001);
-			double smoothedWFreq = Math.log((frequencyOverValues / (double)distribution.values().size()) + 1.000000001);
+			double domainSimilarity = 1.0 + Math.log(similarity.between(domains, domainSummaries) + 1.000000001);
+			double rangeSimilarity = 1.0 + Math.log(similarity.between(ranges, rangeSummaries) + 1.000000001);
+			double smoothedWFreq = 1.0 + Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			
 			CandidateProperty resource = new CandidateProperty(property);
