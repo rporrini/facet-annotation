@@ -60,7 +60,7 @@ public class DomainAndRangeConsistency implements AnnotationAlgorithm{
 			
 			double domainSimilarity = 1.0 + Math.log(similarity.between(domains, domainSummaries) + 1.000000001);
 			double rangeSimilarity = 1.0 + Math.log(similarity.between(ranges, rangeSummaries) + 1.000000001);
-			double smoothedWFreq = Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
+			double smoothedWFreq = 1.0 + Math.log(frequencyOverValues / (double)distribution.values().size() + 1.000000001);
 			double coverage = covered / (double)distribution.values().size();
 			
 			CandidateProperty resource = new CandidateProperty(property);
