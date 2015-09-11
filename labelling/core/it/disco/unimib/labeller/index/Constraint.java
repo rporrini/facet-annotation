@@ -1,5 +1,6 @@
 package it.disco.unimib.labeller.index;
 
+import org.apache.commons.lang3.StringUtils;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.index.Term;
@@ -62,6 +63,8 @@ public class Constraint {
 	}
 
 	private Query multiWord(String value, String field, Operator operator) throws Exception {
+		int clauses = StringUtils.countMatches(value, " ");
+		if(clauses > BooleanQuery.getMaxClauseCount()) BooleanQuery.setMaxClauseCount(clauses);
 		StandardQueryParser parser = new StandardQueryParser(analyzer);
 		parser.setDefaultOperator(operator);
 		String escape = QueryParser.escape(value.replace("OR", "or").replace("AND", "and").replace("-", " "));
