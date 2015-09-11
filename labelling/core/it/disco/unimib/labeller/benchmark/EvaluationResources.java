@@ -100,7 +100,7 @@ public class EvaluationResources {
 		return summaryFrom(directory);
 	}
 	
-	private DatasetSummary summaryFrom(String directory) throws Exception {
+	public DatasetSummary summaryFrom(String directory) throws Exception {
 		List<InputFile> summaries = new ArrayList<InputFile>();
 		for(File file : new File(directory).listFiles()){
 			summaries.add(new InputFile(file));
