@@ -6,12 +6,10 @@
 * 50GB available disk space
 * 4GB memory
 
-## Checking out the repository and configuring your local machine
+## Configuring your local machine
 
 ```
 #!bash
-$ git clone https://bitbucket.org/rporrini/cluster-labelling.git
-$ cd cluster-labelling
 $ ./build-and-test.sh -skip-regression-tests
 ```
 
