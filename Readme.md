@@ -1,3 +1,7 @@
+# Facet Annotation Using Knowledge Bases
+
+Source code and experiments described in the paper __Facet Annotation Using Knowledge Bases__ accepted for publication in the proceedings of the [WWW2018 Conference](https://www2018.thewebconf.org/).
+
 ## System Requirements
 
 * linux (tested on Linux Mint 17 Qiana)
