@@ -2,4 +2,4 @@ language: java
 jdk:
   - oraclejdk7
 script:
-  - /build-and-test.sh none -skip-regression-tests
+  - ./build-and-test.sh none -skip-regression-tests
