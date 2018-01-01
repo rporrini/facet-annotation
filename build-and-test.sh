@@ -15,7 +15,7 @@ signal 'Updating the Repository'
 git pull
 signal 'Done'
 
-if [[ $1 == yago1 ]] || [[ $1 == dbpedia ]]
+if [[ $1 == yago1 ]] || [[ $1 == dbpedia ]] || [[ $1 == none ]]
 then
 	kb=$1
 fi
