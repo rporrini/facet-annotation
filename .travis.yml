@@ -1,6 +1,6 @@
 language: java
 sudo: required
 jdk:
-  - oraclejdk7
+  - oraclejdk9
 script:
   - ./build-and-test.sh none -skip-regression-tests
